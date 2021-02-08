@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639313/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria distingue a la Cooperativa Farmacéutica Canaria con el Premio Roque Nublo de Economía",
+        "lemmatized_text": "el cabildo_de_gran_canaria distinguir a el cooperativa_farmacéutica_canaria con el premio_roque_nublo_de_economía",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria distinguir cooperativa_farmacéutica_canaria premio_roque_nublo_de_economía",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Cooperativa_Farmacéutica_Canaria"
+        ],
+        "others": [
+            "Premio_Roque_Nublo_de_Economía"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria ha distinguido a la Cooperativa Farmacéutica Canaria (Cofarca) con el Premio Roque Nublo en la modalidad de Economía.",
+        "lemmatized_text": "el cabildo_de_gran_canaria haber distinguir a el cooperativa_farmacéutica_canaria cofarca con el premio_roque_nublo en el modalidad de economía",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria haber distinguir cooperativa_farmacéutica_canaria cofarca premio_roque_nublo modalidad economía",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Cooperativa_Farmacéutica_Canaria",
+            "Cofarca",
+            "Economía"
+        ],
+        "others": [
+            "Premio_Roque_Nublo"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Cofarca, integrada por 361 socios de las islas de Gran Canaria, Fuerteventura y Lanzarote, se fundó en 1935 para garantizar el abastecimiento de medicamentos a todas las oficinas de farmacias de Las Palmas de Gran Canaria y como \"reacción ante prácticas mercantiles abusivas de drogueros\". Según informó Cofarca en nota de prensa, tiene una cuota de mercado superior al 80 por ciento y suministra aproximadamente 6.000 cubetas diarias a las oficinas de farmacia, lo que supone un movimiento de cerca de 6 millones de unidades mensuales de envases de medicamentos y productos sanitarios. Asimismo, dispone de unas instalaciones de 20.000 metros cuadrados de superficie productiva distribuidos en tres plantas, localizadas en El Secadero y genera 200 empleos directos. Además, a través de sus 30 rutas de transporte, entrega medicamentos y productos sanitarios a las farmacias en dos servicios diarios establecidos en Gran Canaria y uno diario para Lanzarote, así como Fuerteventura.",
+        "lemmatized_text": "cofarca integrar por 361 socio de el isla de gran_canaria fuerteventura y lanzarote se fundar en 1935 para garantizar el abastecimiento de medicamento a todo el oficina de farmacia de las_palmas_de_gran_canaria y como reacción ante práctica mercantil abusivo de drogueros según informar cofarca en nota de prensa tener uno cuota de mercado superior a el 80 por 100 y suministrar aproximadamente 6 cubeta diario a el oficina de farmacia el que suponer uno movimiento de cerca de 6000000 de unidad mensual de envase de medicamento y producto sanitario asimismo disponer de uno instalación de AR_m2:20 de superficie productivo distribuir en 3 planta localizar en el_secadero y generar 200 empleo directo además a_través_de su 30 ruta de transporte entregar medicamento y producto sanitario a el farmacia en 2 servicio diario establecer en gran_canaria y uno diario para lanzarote así_como fuerteventura",
+        "lemmatized_text_reduced": "cofarca integrar socio isla gran_canaria fuerteventura lanzarote fundar garantizar abastecimiento medicamento oficina farmacia las_palmas_de_gran_canaria reacción práctica mercantil abusivo drogueros informar cofarca nota prensa tener cuota mercado superior suministrar aproximadamente cubeta diario oficina farmacia suponer movimiento unidad mensual envase medicamento producto sanitario disponer instalación superficie productivo distribuir planta localizar el_secadero generar empleo directo ruta transporte entregar medicamento producto sanitario farmacia servicio diario establecer gran_canaria diario lanzarote fuerteventura",
+        "persons": [
+            "Cofarca"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Las_Palmas_de_Gran_Canaria",
+            "El_Secadero",
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Cofarca",
+            "Fuerteventura",
+            "Fuerteventura"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "361",
+            "1935",
+            "80",
+            "100",
+            "6",
+            "6000000",
+            "AR_m2:20",
+            "3",
+            "200",
+            "30",
+            "2"
+        ]
+    }
+}

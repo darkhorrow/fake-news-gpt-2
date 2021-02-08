@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/638459/0/",
+    "title": {
+        "raw_text": "Petrologis Canarias investiga las causas del incendio en tanque en Puerto de Las Palmas que causó un muerto",
+        "lemmatized_text": "petrologis_canarias investigar el causa de el incendio en tanque en puerto_de_las_palmas que causar uno muerto",
+        "lemmatized_text_reduced": "petrologis_canarias investigar causa incendio tanque puerto_de_las_palmas causar muerto",
+        "persons": [
+            "Petrologis_Canarias"
+        ],
+        "locations": [
+            "Puerto_de_Las_Palmas"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Petrologis Canarias ha abierto una investigación sobre las causas del incendio que en el mediodía de ayer se produjo en un tanque de almacenamiento de fuel óleo en sus instalaciones en el Puerto de La Luz y de Las Palmas, y en el que se vieron implicados dos trabajadores, falleciendo hoy uno de ellos.",
+        "lemmatized_text": "petrologis_canarias haber abrir uno investigación sobre el causa de el incendio que en el [??:??/??/??:12.00:pm] de ayer se producir en uno tanque de almacenamiento de fuel óleo en su instalación en el puerto_de_la_luz y de las_palmas y en el que se ver implicar 2 trabajador fallecer hoy uno de ellos",
+        "lemmatized_text_reduced": "petrologis_canarias haber abrir investigación causa incendio producir tanque almacenamiento fuel óleo instalación puerto_de_la_luz las_palmas ver implicar trabajador fallecer",
+        "persons": [
+            "Petrologis_Canarias"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La empresa indicó, en un comunicado, que pese al cumplimiento de \"todas\" las pautas de seguridad y prevención de riesgos impuestas, así como a las \"mejoras y actualizaciones introducidas recientemente\" en la instalación para evitar este tipo de sucesos, se investigarán los hechos. De todos modos, puntualizó que la \"rápida\" respuesta de los servicios de extinción de incendios implantados en la instalación y la proximidad del parque de bomberos de La Isleta, \"permitió extinguir el incendio en un tiempo aproximado de 15 minutos\". No obstante, se mantuvo la refrigeración de la zona afectada por tiempo \"aproximado de una hora para asegurar el control y definitivo apagado de rescoldos o restos incandescentes en la zona afectada\". Asimismo, señaló que según los estudios realizadas hasta el momento \"todo\" el personal implicado en los trabajos \"siguió los protocolos de seguridad en el desempeño de sus tareas e hicieron correcto uso de los equipos de protección individual\", tales como arneses de seguridad o casco protector, entre otros. En el comunicado de la empresa se aseguró, además, que \"nunca\" llegó a existir riesgo de que el fuego se extendiera al combustible del interior del tanque afectado, \"ni tampoco a los tanques colindantes gracias a las medidas de control de temperaturas y refrigeración con que cuenta la instalación\". Además, se verificó la temperatura de los tanques que se mantuvo \"siempre dentro de los parámetros de seguridad exigidos sin que tuvieran ninguna incidencia en el siniestro ni el contenido de combustible del tanque, ni en el funcionamiento de los sistemas de enfriamiento con que cuenta\".",
+        "lemmatized_text": "el empresa indicar en uno comunicado que pesar a el cumplimiento de todo el pauta de seguridad y prevención de riesgo imponer así_como a el mejora y actualización introducir recientemente en el instalación para evitar este tipo de suceso se investigar el hecho de_todos_modos puntualizar que el rápido respuesta de el servicio de extinción de incendio implantar en el instalación y el proximidad de el parque de bombero de la_isleta permitir extinguir el incendio en uno tiempo aproximar de TM_min:15 no_obstante se mantener el refrigeración de el zona afectar por tiempo aproximar de uno hora para asegurar el control y definitivo apagar de rescoldo o resto incandescente en el zona afectar asimismo señalar que según el estudio realizar hasta el momento todo el personal implicar en el trabajo seguir el protocolo de seguridad en el desempeño de su tarea y hacer correcto uso de el equipo de protección individual tal como arnés de seguridad o casco protector entre otro en el comunicado de el empresa se asegurar además que nunca llegar a existir riesgo de que el fuego se extender a el combustible de el interior de el tanque afectar ni tampoco a el tanque colindante gracias_a el medida de control de temperatura y refrigeración con que contar el instalación además se verificar el temperatura de el tanque que se mantener siempre dentro_de el parámetro de seguridad exigir sin que tener ninguno incidencia en el siniestro ni el contenido de combustible de el tanque ni en el funcionamiento de el sistema de enfriamiento con que contar",
+        "lemmatized_text_reduced": "empresa indicar comunicado pesar cumplimiento pauta seguridad prevención riesgo imponer mejora actualización introducir recientemente instalación evitar tipo suceso investigar hecho puntualizar rápido respuesta servicio extinción incendio implantar instalación proximidad parque bombero la_isleta permitir extinguir incendio tiempo aproximar mantener refrigeración zona afectar tiempo aproximar hora asegurar control definitivo apagar rescoldo resto incandescente zona afectar señalar estudio realizar momento personal implicar trabajo seguir protocolo seguridad desempeño tarea hacer correcto uso equipo protección individual arnés seguridad casco protector comunicado empresa asegurar llegar existir riesgo fuego extender combustible interior tanque afectar tanque colindante medida control temperatura refrigeración contar instalación verificar temperatura tanque mantener parámetro seguridad exigir tener incidencia siniestro contenido combustible tanque funcionamiento sistema enfriamiento contar",
+        "persons": [],
+        "locations": [
+            "La_Isleta"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_min:15"
+        ]
+    }
+}

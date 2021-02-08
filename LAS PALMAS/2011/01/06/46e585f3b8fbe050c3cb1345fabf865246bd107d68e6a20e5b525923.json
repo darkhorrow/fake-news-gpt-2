@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/921567/0/",
+    "title": {
+        "raw_text": "Unas 20 hojas del segundo premio de 'El Niño' se ha vendido en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno 20 hoja de el 2 premio de el niño se haber vender en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hoja 2 premio niño haber vender las_palmas_de_gran_canaria",
+        "persons": [
+            "Niño"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20"
+        ]
+    },
+    "lead": {
+        "raw_text": "Unas 20 hojas del segundo premio de 'El Niño' del segundo premio de la lotería de 'El Niño' se han vendido en la administración del Centro Comercial La Ballena en la capital de Gran Canaria.",
+        "lemmatized_text": "uno 20 hoja de el 2 premio de el niño de el 2 premio de el lotería de el niño se haber vender en el administración de el centro_comercial_la_ballena en el capital de gran_canaria",
+        "lemmatized_text_reduced": "hoja 2 premio niño 2 premio lotería niño haber vender administración centro_comercial_la_ballena capital gran_canaria",
+        "persons": [
+            "Niño",
+            "Niño"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Comercial_La_Ballena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20"
+        ]
+    },
+    "body": {
+        "raw_text": "Unas 20 hojas del segundo premio de 'El Niño' del segundo premio de la lotería de 'El Niño' se han vendido en la administración del Centro Comercial La Ballena en la capital de Gran Canaria. Se trata del número 11.833, dotado con un millón de euros por serie, que ha sido vendido también en La Coruña, Pontevedra, Burgos, San Fernando (Cádiz)y Valencia. Desde la administración y, en declaraciones a Europa Press, han revelado que se han vendido \"entre 15 y 20 hojas\" según ha confirmado la hija del propietario, Raquel Ojeda, en declaraciones a Europa Press. Esta ha señalado de que no sabe exactamente cómo se ha repartido el premio pero sabe que algunos de los que han sido tocados por la fortuna son gente que lo necesitaba. \"Tenemos aquí a algunos de los premiados y estamos muy contentos porque a mucha gente que viene le hace mucha falta además de la publicidad\", ha explicado la hija de Carlos Ojeda. La administración, que abrió sus puertas hace dos años, no es la primera vez que reparte suerte y dinero. \"Hemos dado un segundo en la última lotería del año —jueves 27 de diciembre— y ahora este\", ha explicado además de otros dos premios en su corta andadura en el Centro Comercial. \"Nos hemos trasladado de una administración que teníamos en Jinámar. Allí también sellamos una lotería que cayó en Telde\", ha reconocido Ojeda con satisfacción que asegura que además de beneficiar a la gente, es bueno para su administración porque \"nos da fama\". \"Estamos muy contentos, por aquí ha pasado un chico que sabemos que se llevó el número y se le acababa el contrato el próximo mes y se quedaba en paro. En Canarias hace mucha falta\", ha declarado por último Raquel Ojeda. Por su parte, el número 70.013, dotado con 2 millones de euros por serie, ha sido vendido íntegramente en Madrid.",
+        "lemmatized_text": "uno 20 hoja de el 2 premio de el niño de el 2 premio de el lotería de el niño se haber vender en el administración de el centro_comercial_la_ballena en el capital de gran_canaria se tratar de el número 11.833 dotar con $_ECU:1000000 por serie que haber ser vender también en la_coruña pontevedra burgos san_fernando cádiz y valencia desde el administración y en declaración a europa_press haber revelar que se haber vender entre 15 y 20 hoja según haber confirmar el hijo de el propietario raquel_ojeda en declaración a europa_press este haber señalar de que no saber exactamente cómo se haber repartir el premio pero saber que alguno de el que haber ser tocar por el fortuna ser gente que lo necesitar tener aquí a alguno de el premiar y estar muy contento porque a mucho gente que venir le hacer mucho falta además_de el publicidad haber explicar el hijo de carlos_ojeda el administración que abrir su puerta hacer 2 año no ser el 1 vez que repartir suerte y dinero haber dar uno segundo en el último lotería de el año [J:27/12/??:??.??:??] y ahora este haber explicar además_de otro 2 premio en su corto andadura en el centro_comercial nos haber trasladar de uno administración que tener en jinámar allí también sellar uno lotería que caer en telde haber reconocer ojeda con satisfacción que asegurar que además_de beneficiar a el gente ser bueno para su administración porque nos dar fama estar muy contento por aquí haber pasar uno chico que saber que se llevar el número y se le acabar el contrato el próximo mes y se quedar en paro en canarias hacer mucho falta haber declarar por último raquel_ojeda por su parte el número 70.013 dotar con $_ECU:2000000 por serie haber ser vender íntegramente en madrid",
+        "lemmatized_text_reduced": "hoja 2 premio niño 2 premio lotería niño haber vender administración centro_comercial_la_ballena capital gran_canaria tratar número dotar serie haber ser vender la_coruña pontevedra burgos san_fernando cádiz valencia administración declaración europa_press haber revelar haber vender hoja haber confirmar hijo propietario raquel_ojeda declaración europa_press haber señalar saber exactamente haber repartir premio saber haber ser tocar fortuna ser gente necesitar tener premiar estar contento gente venir hacer falta publicidad haber explicar hijo carlos_ojeda administración abrir puerta hacer año ser 1 vez repartir suerte dinero haber dar segundo último lotería año haber explicar premio corto andadura centro_comercial haber trasladar administración tener jinámar sellar lotería caer telde haber reconocer ojeda satisfacción asegurar beneficiar gente ser bueno administración dar fama estar contento haber pasar chico saber llevar número acabar contrato próximo mes quedar paro canarias hacer falta haber declarar último raquel_ojeda parte número dotar serie haber ser vender íntegramente madrid",
+        "persons": [
+            "Niño",
+            "Niño",
+            "Burgos",
+            "Europa_Press",
+            "Raquel_Ojeda",
+            "Carlos_Ojeda",
+            "Raquel_Ojeda"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "La_Coruña",
+            "Pontevedra",
+            "San_Fernando",
+            "Cádiz",
+            "Valencia",
+            "Jinámar",
+            "Telde",
+            "Canarias",
+            "Madrid"
+        ],
+        "organizations": [
+            "Centro_Comercial_La_Ballena",
+            "Europa_Press",
+            "Centro_Comercial",
+            "Ojeda"
+        ],
+        "others": [],
+        "dates": [
+            "[J:27/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "20",
+            "11.833",
+            "$_ECU:1000000",
+            "15",
+            "20",
+            "2",
+            "2",
+            "70.013",
+            "$_ECU:2000000"
+        ]
+    }
+}

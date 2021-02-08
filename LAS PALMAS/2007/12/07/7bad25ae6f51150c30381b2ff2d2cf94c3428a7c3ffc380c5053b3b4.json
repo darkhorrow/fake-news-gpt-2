@@ -1,0 +1,52 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/318537/0/accidente/laboral/laspalmas/",
+    "title": {
+        "raw_text": "Muere un trabajador al sufrir un desvanecimiento en una obra",
+        "lemmatized_text": "morir uno trabajador a el sufrir uno desvanecimiento en uno obra",
+        "lemmatized_text_reduced": "morir trabajador sufrir desvanecimiento obra",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El fallecido cayó golpeándose la cabeza contra el suelo. Tras la caída sufrió una parada cardiorespiratoria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "el fallecer caer golpear se el cabeza contra el suelo tras el caída sufrir uno parada cardiorespiratoria consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "fallecer caer golpear cabeza suelo caída sufrir parada cardiorespiratoria consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un trabajador de 53 años ha muerto en la localidad grancanaria de Vecindario al sufrir un desvanecimiento y golpearse la cabeza contra el suelo cuando trabajaba en una obra de construcción de viviendas, según ha informado la Guardia Civil. Tras la caída, el trabajador sufrió una parada cardiorespiratoria y murió, según constató el facultativo forense que se desplazó hasta el lugar del suceso. El fallecido fue identificado como Juan Sánchez López y su cuerpo fue trasladado hasta el Instituto Anatómico Forense. El suceso ocurrió sobre las 09.30 horas en la obra que se lleva a cabo en la calle Pampina de Vecindario. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno trabajador de 53 año haber morir en el localidad grancanaria de vecindario a el sufrir uno desvanecimiento y golpear se el cabeza contra el suelo cuando trabajar en uno obra de construcción de vivienda según haber informar el guardia_civil tras el caída el trabajador sufrir uno parada cardiorespiratoria y morir según constatar el facultativo forense que se desplazar hasta el lugar de el suceso el fallecer ser identificar como juan_sánchez_lópez y su cuerpo ser trasladar hasta el instituto_anatómico_forense el suceso ocurrir sobre el TM_h:9.3 en el obra que se llevar_a_cabo en el calle pampina_de_vecindario consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "trabajador año haber morir localidad grancanaria vecindario sufrir desvanecimiento golpear cabeza suelo trabajar obra construcción vivienda haber informar guardia_civil caída trabajador sufrir parada cardiorespiratoria morir constatar facultativo forense desplazar lugar suceso fallecer ser identificar juan_sánchez_lópez cuerpo ser trasladar instituto_anatómico_forense suceso ocurrir obra llevar_a_cabo calle pampina_de_vecindario consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Juan_Sánchez_López"
+        ],
+        "locations": [
+            "Vecindario",
+            "Pampina_de_Vecindario"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Instituto_Anatómico_Forense",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "53",
+            "TM_h:9.3"
+        ]
+    }
+}

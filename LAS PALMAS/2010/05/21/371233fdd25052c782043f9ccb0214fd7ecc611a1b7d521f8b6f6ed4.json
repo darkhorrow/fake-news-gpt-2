@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714227/0/",
+    "title": {
+        "raw_text": "El Buque de Investigación Oceanográfica 'Hespérides' hará mañana escala en el Arsenal de Las Palmas de Gran Canaria",
+        "lemmatized_text": "el buque_de_investigación_oceanográfica hespérides hacer mañana escala en el arsenal_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "buque_de_investigación_oceanográfica hespérides hacer escala arsenal_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Hespérides"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Buque_de_Investigación_Oceanográfica",
+            "Arsenal_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Buque de Investigación Oceanográfica de la Armada española 'Hespérides' hará mañana una escala de dos días, 22 y 23 de mayo, en el Arsenal de las Palmas de Gran Canaria, informó hoy el Ministerio de Defensa en un comunicado.",
+        "lemmatized_text": "el buque_de_investigación_oceanográfica_de_la_armada español hespérides hacer mañana uno escala de 2 día 22 y [??:23/5/??:??.??:??] en el arsenal_de_las_palmas_de_gran_canaria informar hoy el ministerio_de_defensa en uno comunicado",
+        "lemmatized_text_reduced": "buque_de_investigación_oceanográfica_de_la_armada español hespérides hacer escala día arsenal_de_las_palmas_de_gran_canaria informar ministerio_de_defensa comunicado",
+        "persons": [
+            "Hespérides"
+        ],
+        "locations": [],
+        "organizations": [
+            "Buque_de_Investigación_Oceanográfica_de_la_Armada",
+            "Arsenal_de_las_Palmas_de_Gran_Canaria",
+            "Ministerio_de_Defensa"
+        ],
+        "others": [],
+        "dates": [
+            "[??:23/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "22"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, tras salir de Mindelo (Cabo Verde) el día 19 de mayo, el buque atracará en el Arsenal para embarcar a 37 científicos y técnicos de la Universidad de Las Palmas así como para el embarco y desembarco de material científico. Tras su partida realizará tomas de muestras en aguas próximas al archipiélago canario, dirigiéndose posteriormente a Cartagena donde tiene previsto llegar el 29 de mayo. Por su parte, el B.I.O Hespérides de la Armada Española zarpó desde el Arsenal de Cartagena el pasado día 2 de diciembre para iniciar su XVII Campaña Antártica. En este periodo ha efectuado un total de cuatro proyectos de investigación, dos de ellos se realizaron en la Antártida y los otros dos en aguas del Atlántico. Los proyectos han sido realizados por científicos de diversos organismos públicos de investigación encuadrados en el Consejo Superior de Investigaciones Científicas (CSIC) y Universidades españolas y europeas. Finalmente, el 'Hespérides' fue construido en el astillero de la Empresa Nacional Bazán, en Cartagena, donde además se encuentra la base del barco, mientras que su botadura se realizó el 12 de Marzo de 1990.",
+        "lemmatized_text": "de este manera tras salir de mindelo cabo_verde el [??:19/5/??:??.??:??] el buque atracar en el arsenal para embarcar a 37 científico y técnico de el universidad_de_las_palmas así_como para el embarco y desembarco de material científico tras su partida realizar toma de muestra en agua próximo a el archipiélago canario dirigir se posteriormente_a cartagena donde tener prever llegar el [??:29/5/??:??.??:??] por su parte el b.i._o_hespérides_de_la_armada_española zarpar desde el arsenal_de_cartagena el [??:2/12/??:??.??:??] para iniciar su xvii_campaña_antártica en este periodo haber efectuar uno total de 4 proyecto de investigación 2 de ellos se realizar en el antártida y el otro 2 en agua de el atlántico el proyecto haber ser realizar por científico de diverso organismo público de investigación encuadrar en el consejo_superior_de_investigaciones_científicas csic y universidades español y europeo finalmente el hespérides ser construir en el astillero de el empresa_nacional_bazán en cartagena donde además se encontrar el base de el barco mientras_que su botadura se realizar el [??:12/3/1990:??.??:??]",
+        "lemmatized_text_reduced": "manera salir mindelo cabo_verde buque atracar arsenal embarcar científico técnico universidad_de_las_palmas embarco desembarco material científico partida realizar toma muestra agua próximo archipiélago canario dirigir cartagena tener prever llegar parte b.i._o_hespérides_de_la_armada_española zarpar arsenal_de_cartagena iniciar xvii_campaña_antártica periodo haber efectuar total proyecto investigación realizar antártida agua atlántico proyecto haber ser realizar científico organismo público investigación encuadrar consejo_superior_de_investigaciones_científicas csic universidades español europeo finalmente hespérides ser construir astillero empresa_nacional_bazán cartagena encontrar base barco botadura realizar",
+        "persons": [
+            "Hespérides"
+        ],
+        "locations": [
+            "Mindelo",
+            "Cabo_Verde",
+            "Cartagena",
+            "Antártida",
+            "Cartagena"
+        ],
+        "organizations": [
+            "Arsenal",
+            "Universidad_de_Las_Palmas",
+            "B.I._O_Hespérides_de_la_Armada_Española",
+            "Arsenal_de_Cartagena",
+            "Consejo_Superior_de_Investigaciones_Científicas",
+            "CSIC",
+            "Universidades",
+            "Empresa_Nacional_Bazán"
+        ],
+        "others": [
+            "XVII_Campaña_Antártica",
+            "Atlántico"
+        ],
+        "dates": [
+            "[??:19/5/??:??.??:??]",
+            "[??:29/5/??:??.??:??]",
+            "[??:2/12/??:??.??:??]",
+            "[??:12/3/1990:??.??:??]"
+        ],
+        "numbers": [
+            "37",
+            "4",
+            "2",
+            "2"
+        ]
+    }
+}

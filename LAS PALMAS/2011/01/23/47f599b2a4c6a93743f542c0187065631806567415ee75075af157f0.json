@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/936714/0/",
+    "title": {
+        "raw_text": "Dámaso Ávila con su obra 'Barriendo' se hace con el III Concurso de Fotografía Agrícola y Ganadera de Asaga Canarias",
+        "lemmatized_text": "dámaso_ávila con su obra barrer se hacer con el iii_concurso_de_fotografía_agrícola y ganadera_de_asaga_canarias",
+        "lemmatized_text_reduced": "dámaso_ávila obra barrer hacer iii_concurso_de_fotografía_agrícola ganadera_de_asaga_canarias",
+        "persons": [
+            "Dámaso_Ávila"
+        ],
+        "locations": [],
+        "organizations": [
+            "III_Concurso_de_Fotografía_Agrícola"
+        ],
+        "others": [
+            "Ganadera_de_Asaga_Canarias"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Dámaso Ávila con su obra 'Barriendo' se ha hecho con el III Concurso de Fotografía Agrícola y Ganadera de Asaga Canarias, en el que han concurrido 140 instantáneas, superando con esta cifra la de años anteriores.",
+        "lemmatized_text": "dámaso_ávila con su obra barrer se haber hacer con el iii_concurso_de_fotografía_agrícola y ganadera_de_asaga_canarias en el que haber concurrir 140 instantánea superar con este cifra el de año anterior",
+        "lemmatized_text_reduced": "dámaso_ávila obra barrer haber hacer iii_concurso_de_fotografía_agrícola ganadera_de_asaga_canarias haber concurrir instantánea superar cifra año anterior",
+        "persons": [
+            "Dámaso_Ávila"
+        ],
+        "locations": [],
+        "organizations": [
+            "III_Concurso_de_Fotografía_Agrícola"
+        ],
+        "others": [
+            "Ganadera_de_Asaga_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "140"
+        ]
+    },
+    "body": {
+        "raw_text": "Dámaso Ávila con su obra 'Barriendo' se ha hecho con el III Concurso de Fotografía Agrícola y Ganadera de Asaga Canarias, en el que han concurrido 140 instantáneas, superando con esta cifra la de años anteriores. Con este premio, Ávila ha obtenido 1.500 euros en metálico. Asimismo, y según informó Asaga en nota de prensa, el segundo puesto, dotado con 1.000 euros, fue par David Rodríguez por su obra 'Lo que siempre había soñado'; mientras que en tercer lugar quedó Eduardo Díaz por la instantánea 'Toda mi vida', por la que le otorgó 500 euros. En cuanto a la mayor participación, con respecto a otros años, en esta edición, según Asaga esto demuestra el \"buen acogimiento\" que este tipo de certámenes está teniendo cada año y cuyo objetivo es promocionar, divulgar, concienciar y sensibilizar a la población sobre el \"valor, la necesidad e importancia\" de la actividad agrícola y ganadera de las islas. Tras el concurso, se realizará durante el mes de febrero una exposición con las mejores 40 fotografías, que se podrán ver en el Convento de Santo Domingo de La Laguna (Tenerife) aunque la fecha exacta está pendiente por determinar.",
+        "lemmatized_text": "dámaso_ávila con su obra barrer se haber hacer con el iii_concurso_de_fotografía_agrícola y ganadera_de_asaga_canarias en el que haber concurrir 140 instantánea superar con este cifra el de año anterior con este premio ávila haber obtener $_ECU:1.5 en metálico asimismo y según informar asaga en nota de prensa el 2 puesto dotar con $_ECU:1 ser par david_rodríguez por su obra el que siempre haber soñar mientras_que en 3 lugar quedar eduardo_díaz por el instantánea todo mi vida por el que le otorgar $_ECU:500 en_cuanto_a el mayor participación con_respecto_a otro año en este edición según asaga este demostrar el bueno acogimiento que este tipo de certamen estar tener cada año y cuyo objetivo ser promocionar divulgar concienciar y sensibilizar a el población sobre el valor el necesidad y importancia de el actividad agrícola y ganadero de el isla tras el concurso se realizar durante el [??:??/2/??:??.??:??] uno exposición con el mejor 40 fotografía que se poder ver en el convento_de_santo [G:??/??/??:??.??:??] de la_laguna tenerife aunque el fecha exacto estar pendiente por determinar",
+        "lemmatized_text_reduced": "dámaso_ávila obra barrer haber hacer iii_concurso_de_fotografía_agrícola ganadera_de_asaga_canarias haber concurrir instantánea superar cifra año anterior premio ávila haber obtener metálico informar asaga nota prensa 2 puesto dotar ser par david_rodríguez obra haber soñar 3 lugar quedar eduardo_díaz instantánea vida otorgar mayor participación año edición asaga demostrar bueno acogimiento tipo certamen estar tener año objetivo ser promocionar divulgar concienciar sensibilizar población valor necesidad importancia actividad agrícola ganadero isla concurso realizar exposición mejor fotografía poder ver convento_de_santo la_laguna tenerife fecha exacto estar pendiente determinar",
+        "persons": [
+            "Dámaso_Ávila",
+            "Ávila",
+            "Asaga",
+            "David_Rodríguez",
+            "Eduardo_Díaz",
+            "Asaga"
+        ],
+        "locations": [
+            "Convento_de_Santo",
+            "La_Laguna",
+            "Tenerife"
+        ],
+        "organizations": [
+            "III_Concurso_de_Fotografía_Agrícola"
+        ],
+        "others": [
+            "Ganadera_de_Asaga_Canarias"
+        ],
+        "dates": [
+            "[??:??/2/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "140",
+            "$_ECU:1.5",
+            "$_ECU:1",
+            "$_ECU:500",
+            "40"
+        ]
+    }
+}

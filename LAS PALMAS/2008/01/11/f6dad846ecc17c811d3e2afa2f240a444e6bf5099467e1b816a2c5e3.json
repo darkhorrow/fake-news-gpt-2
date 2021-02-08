@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/332589/0/crematorio/animales/laspalmas/",
+    "title": {
+        "raw_text": "Inspeccionan un local en el que el detenido por intento de secuestro guardaba animales",
+        "lemmatized_text": "inspeccionar uno local en el que el detener por intento de secuestro guardar animal",
+        "lemmatized_text_reduced": "inspeccionar local detener intento secuestro guardar animal",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El lugar fue denunciado por los vecinos debido al mal olor. También han buscado pruebas en un crematorio de animales. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el lugar ser denunciar por el vecino deber a el mal olor también haber buscar prueba en uno crematorio de animal consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "lugar ser denunciar vecino deber mal olor haber buscar prueba crematorio animal consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Efectivos de la Policía Nacional buscan pruebas en un local de la capital grancanaria, donde el detenido como presunto autor del intento de secuestro de una niña de 10 años en Telde almacenaba animales muertos, según informaron vecinos de la zona. Al reconocimiento del lugar ha asistido el detenido , Marcos R., de 30 años, según los vecinos de la zona. El local, un bajo, ya fue investigado hace más de un año por denuncias de los vecinos debido al mal olor. Según los vecinos, al detenido le entregaban perros muertos para que los incinerara en el crematorio de animales abandonado de Salinetas, en el municipio de Telde, pero los dejaba en bolsas en el citado local ubicado en Las Palmas de Gran Canaria. Secreto de sumario El crematorio de Telde fue inspeccionado el jueves, y la Policía Nacional ha cerrado al tráfico un tramo de la calle Ángel Guimerá, en Las Palmas de Gran Canaria, donde está ubicado el local, y donde en un extremo del cordón de seguridad se concentran numerosos medios de comunicación. El detenido pasará a disposición del Juzgado de Instrucción Número 2 de Telde, que ha decretado el secreto de las actuaciones. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "efectivos_de_la_policía_nacional buscar prueba en uno local de el capital grancanaria donde el detener como presunto autor de el intento de secuestro de uno niño de 10 año en telde almacenar animal morir según informar vecino de el zona a el reconocimiento de el lugar haber asistir el detener marcos_r. de 30 año según el vecino de el zona el local uno bajo ya ser investigar hacer más de uno año por denuncia de el vecino deber a el mal olor según el vecino a el detener le entregar perro morir para que lo incinerar en el crematorio de animal abandonar de salinetas en el municipio de telde pero el dejar en bolsa en el citar local ubicar en las_palmas_de_gran_canaria secreto de sumario el crematorio de telde ser inspeccionar el [J:??/??/??:??.??:??] y el policía_nacional haber cerrar a el tráfico uno tramo de el calle ángel_guimerá en las_palmas_de_gran_canaria donde estar ubicar el local y donde en uno extremo de el cordón de seguridad se concentrar numeroso medio de comunicación el detenido pasar a disposición de el juzgado_de_instrucción_número 2 de telde que haber decretar el secreto de el actuación consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "efectivos_de_la_policía_nacional buscar prueba local capital grancanaria detener presunto autor intento secuestro niño año telde almacenar animal morir informar vecino zona reconocimiento lugar haber asistir detener marcos_r. año vecino zona local bajo ser investigar hacer año denuncia vecino deber mal olor vecino detener entregar perro morir incinerar crematorio animal abandonar salinetas municipio telde dejar bolsa citar local ubicar las_palmas_de_gran_canaria secreto sumario el crematorio telde ser inspeccionar policía_nacional haber cerrar tráfico tramo calle ángel_guimerá las_palmas_de_gran_canaria estar ubicar local extremo cordón seguridad concentrar numeroso medio comunicación detenido pasar disposición juzgado_de_instrucción_número telde haber decretar secreto actuación consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Marcos_R."
+        ],
+        "locations": [
+            "Telde",
+            "Salinetas",
+            "Telde",
+            "Las_Palmas_de_Gran_Canaria",
+            "Ángel_Guimerá",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Efectivos_de_la_Policía_Nacional",
+            "Telde",
+            "Policía_Nacional",
+            "Juzgado_de_Instrucción_Número",
+            "Telde",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "El"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "30",
+            "2"
+        ]
+    }
+}

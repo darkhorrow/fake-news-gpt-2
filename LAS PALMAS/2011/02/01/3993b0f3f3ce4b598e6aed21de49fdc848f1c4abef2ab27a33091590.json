@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/945934/0/",
+    "title": {
+        "raw_text": "La Policía de Teguise (Lanzarote) busca a los inmigrantes que arribaron anoche a la Playa de las Cucharas",
+        "lemmatized_text": "el policía_de_teguise lanzarote buscar a el inmigrante que arribar anoche a el playa_de_las_cucharas",
+        "lemmatized_text_reduced": "policía_de_teguise lanzarote buscar inmigrante arribar playa_de_las_cucharas",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Playa_de_las_Cucharas"
+        ],
+        "organizations": [
+            "Policía_de_Teguise"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se han localizado 22 personas y se estima que había entre 25 y 30",
+        "lemmatized_text": "se haber localizar 22 persona y se estimar que haber entre 25 y 30",
+        "lemmatized_text_reduced": "haber localizar persona estimar haber",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "22",
+            "25",
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "Agentes de la Policía Local de Teguise, en Lanzarote, buscan a los inmigrantes que arribaron a las 20.30 horas de este lunes, 31 de enero, a la Playa de las Cucharas en una zodiac. Hasta el momento se han localizado 22 personas que dicen ser saharauis, mientras que las autoridades estiman que había entre 25 y 30 individuos. Según informó el Ayuntamiento en un comunicado, la Policía Local fue avisada por la Guardia Civil durante la noche de ayer para que colaborase con ellos en la operación de búsqueda de inmigrantes que habían arribado a la isla. De esta manera, la concejal de Policía Local del Consistorio, Marisol Armas, apuntó que \"los agentes inmediatamente se dispusieron a colaborar con la Benemérita, ayuda que sigue a lo largo del día de hoy, ya que de los 25 a 30 inmigrantes que estiman las fuerzas de seguridad que venían en la patera, se han interceptado a 22 personas\". \"Todos se encuentran en buen estado —agregó—, menos uno de ellos que fue trasladado al Hospital General porque presentaba síntomas de hipotermia. El resto fueron trasladado a las dependencias de la Policía Nacional, cuerpo que se encargará de tramitar las diligencias jurídicas\". Por su parte, en el grupo había una mujer; y entre dos o tres menores, que se determinará el número exacta cuando le realicen las pruebas médicas pertinentes; el resto eran hombres. Asimismo, los agentes locales apuntaron que \"todos parecían provenir del norte de África y varios de ellos manifestaron que eran saharauis\", mientras que se desconoce si han pedido asilo político. Finalmente, la embarcación en la que arribaron —una zodiac— fue trasladada a instalaciones de la Guardia Civil.",
+        "lemmatized_text": "agentes_de_la_policía_local_de_teguise en lanzarote buscar a el inmigrante que arribar a el TM_h:20.3 de este [L:31/1/??:??.??:??] a el playa_de_las_cucharas en uno zodiac hasta el momento se haber localizar 22 persona que decir ser saharaui mientras_que el autoridad estimar que haber entre 25 y 30 individuo según informar el ayuntamiento en uno comunicado el policía_local ser avisar por el guardia_civil durante el noche de ayer para que colaborar con ellos en el operación de búsqueda de inmigrante que haber arribar a el isla de este manera el concejal de policía_local_del_consistorio marisol_armas apuntar que el agente inmediatamente se disponer a colaborar con el benemérita ayuda que seguir a el largo de el día de hoy ya_que de el 25 a 30 inmigrante que estimar el fuerza de seguridad que venir en el patera se haber interceptar a 22 persona todo se encontrar en bueno estado agregar menos uno de ellos que ser trasladar a el hospital_general porque presentar síntoma de hipotermia el resto ser trasladar a el dependencia de el policía_nacional cuerpo que se encargar de tramitar el diligencia jurídico por su parte en el grupo haber 1 mujer y entre 2 o 3 menor que se determinar el número exacto cuando le realizar el prueba médico pertinente el resto ser hombre asimismo el agente local apuntar que todo parecer provenir de el norte de áfrica y varios de ellos manifestar que ser saharaui mientras_que se desconocer si haber pedir asilo político finalmente el embarcación en el que arribar uno zodiac ser trasladar a instalación de el guardia_civil",
+        "lemmatized_text_reduced": "agentes_de_la_policía_local_de_teguise lanzarote buscar inmigrante arribar playa_de_las_cucharas zodiac momento haber localizar persona decir ser saharaui autoridad estimar haber individuo informar ayuntamiento comunicado policía_local ser avisar guardia_civil noche colaborar operación búsqueda inmigrante haber arribar isla manera concejal policía_local_del_consistorio marisol_armas apuntar agente inmediatamente disponer colaborar benemérita ayuda seguir largo día inmigrante estimar fuerza seguridad venir patera haber interceptar persona encontrar bueno estado agregar ser trasladar hospital_general presentar síntoma hipotermia resto ser trasladar dependencia policía_nacional cuerpo encargar tramitar diligencia jurídico parte grupo haber mujer menor determinar número exacto realizar prueba médico pertinente resto ser hombre agente local apuntar parecer provenir norte áfrica manifestar ser saharaui desconocer haber pedir asilo político finalmente embarcación arribar zodiac ser trasladar instalación guardia_civil",
+        "persons": [
+            "Marisol_Armas"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Playa_de_las_Cucharas",
+            "África"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Policía_Local",
+            "Guardia_Civil",
+            "Policía_Local_del_Consistorio",
+            "Benemérita",
+            "Hospital_General",
+            "Policía_Nacional",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Agentes_de_la_Policía_Local_de_Teguise"
+        ],
+        "dates": [
+            "[L:31/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:20.3",
+            "22",
+            "25",
+            "30",
+            "25",
+            "30",
+            "22",
+            "1",
+            "2",
+            "3"
+        ]
+    }
+}

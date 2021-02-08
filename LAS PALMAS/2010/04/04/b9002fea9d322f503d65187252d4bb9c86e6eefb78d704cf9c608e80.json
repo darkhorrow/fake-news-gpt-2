@@ -1,0 +1,91 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/668290/0/",
+    "title": {
+        "raw_text": "Los puertos de Canarias terminan Semana Santa con un movimiento de unos 47.770 cruceristas",
+        "lemmatized_text": "el puerto de canarias terminar semana_santa con uno movimiento de uno 47.77 cruceristas",
+        "lemmatized_text_reduced": "puerto canarias terminar semana_santa movimiento cruceristas",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Semana_Santa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "47.77"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los puertos del archipiélago canario han terminado la Semana Santa teniendo un movimiento de unos 47.770 turistas que han atracado en diferentes islas a bordo de 10 cruceros.",
+        "lemmatized_text": "el puerto de el archipiélago canario haber terminar el semana_santa tener uno movimiento de uno 47.77 turista que haber atracar en diferente isla a_bordo de 10 crucero",
+        "lemmatized_text_reduced": "puerto archipiélago canario haber terminar semana_santa tener movimiento turista haber atracar isla crucero",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Semana_Santa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "47.77",
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "Del total de cruceristas, 27.320 bajaron en alguno de los puertos de la provincia de Santa Cruz de Tenerife; mientras que 20.450 turistas arribaron en puertos de Las Palmas, según datos recogidos por Europa Press de las autoridades portuarias del archipiélago. Así, a la provincia de Santa Cruz de Tenerife (puerto de la isla de Tenerife y de La Palma) llegarán 6.870 turistas más que a la provincia oriental. En concreto, en lo que respecta al puerto de Santa Cruz de Tenerife el día de mayor tráfico fue el sábado 3 de abril cuando recibió a unos 10.400 cruceristas, aproximadamente la mitad de lo esperado para todo el periodo vacacional de Semana Santa. Estos 10.400 turistas atracaron en Santa Cruz de Tenerife a bordo cuatro embarcaciones, tales como el 'Aidaluna', 'Costa Victoria', 'Minerva' y 'Ventura'. Asimismo, el puerto de La Luz y de Las Palmas, en la capital grancanaria, también tuvo su día de gran afluencia turística el sábado 3 de abril con tres cruceros, tales como el 'Island Escape', 'Costa Marina' y el 'Black Watch' que trajeron consigo a algo más de 3.000 personas a bordo. El puerto de Arrecife, en Lanzarote, ha tenido su día 'grande' hoy domingo, con dos buques de los que bajaron 1.350 turistas. Este también ha sido el caso del puerto de Santa Cruz de La Palma, al que han llegado tres embarcaciones, tales como el 'Island Escape', 'Costa Marina' y 'Ventura' a bordo de los que viajaban algo más de 5.000 cruceristas.",
+        "lemmatized_text": "de el total de cruceristas 27.32 bajar en alguno de el puerto de el provincia de santa_cruz_de_tenerife mientras_que 20.45 turista arribar en puerto de las_palmas según dato recoger por europa_press de el autoridad portuario de el archipiélago así a el provincia de santa_cruz_de_tenerife puerto de el isla de tenerife y de la_palma llegar 6.87 turista más que a el provincia oriental en concreto en el que respectar a el puerto de santa_cruz_de_tenerife el día de mayor tráfico ser el [S:3/4/??:??.??:??] cuando recibir a uno 10.4 cruceristas aproximadamente el mitad de el esperar para todo el periodo vacacional de semana_santa este 10.4 turista atracar en santa_cruz_de_tenerife a_bordo 4 embarcación tal como el aidaluna costa_victoria minerva y ventura asimismo el puerto de la_luz y de las_palmas en el capital grancanaria también tener su día de gran afluencia turístico el [S:3/4/??:??.??:??] con 3 crucero tal como el island_escape costa_marina y el black_watch que traer conseguir a algo más de 3 persona a_bordo el puerto de arrecife en lanzarote haber tener su día grande hoy [G:??/??/??:??.??:??] con 2 buque de el que bajar 1.35 turista este también haber ser el caso de el puerto de santa_cruz_de_la_palma a el que haber llegar 3 embarcación tal como el island_escape costa_marina y ventura a_bordo de el que viajar algo más de 5 cruceristas",
+        "lemmatized_text_reduced": "total cruceristas bajar puerto provincia santa_cruz_de_tenerife turista arribar puerto las_palmas dato recoger europa_press autoridad portuario archipiélago provincia santa_cruz_de_tenerife puerto isla tenerife la_palma llegar turista provincia oriental concreto respectar puerto santa_cruz_de_tenerife día mayor tráfico ser recibir cruceristas aproximadamente mitad esperar periodo vacacional semana_santa turista atracar santa_cruz_de_tenerife embarcación aidaluna costa_victoria minerva ventura puerto la_luz las_palmas capital grancanaria tener día gran afluencia turístico crucero island_escape costa_marina black_watch traer conseguir persona puerto arrecife lanzarote haber tener día grande buque bajar turista haber ser caso puerto santa_cruz_de_la_palma haber llegar embarcación island_escape costa_marina ventura viajar cruceristas",
+        "persons": [
+            "Aidaluna",
+            "Minerva",
+            "Island_Escape",
+            "Costa_Marina",
+            "Black_Watch",
+            "Island_Escape",
+            "Costa_Marina"
+        ],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Tenerife",
+            "La_Palma",
+            "Santa_Cruz_de_Tenerife",
+            "Santa_Cruz_de_Tenerife",
+            "Costa_Victoria",
+            "La_Luz",
+            "Arrecife",
+            "Lanzarote",
+            "Santa_Cruz_de_La_Palma"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Semana_Santa",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[S:3/4/??:??.??:??]",
+            "[S:3/4/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "27.32",
+            "20.45",
+            "6.87",
+            "10.4",
+            "10.4",
+            "4",
+            "3",
+            "3",
+            "2",
+            "1.35",
+            "3",
+            "5"
+        ]
+    }
+}

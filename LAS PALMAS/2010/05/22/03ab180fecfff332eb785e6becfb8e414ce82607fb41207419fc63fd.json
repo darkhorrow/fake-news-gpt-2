@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714903/0/",
+    "title": {
+        "raw_text": "Joe Henry o Jabier Muguruza entre los artistas que estarán en el Arrecife de las Músicas en Las Palmas de Gran Canaria",
+        "lemmatized_text": "joe_henry o jabier_muguruza entre el artista que estar en el arrecife_de_las_músicas en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "joe_henry jabier_muguruza artista estar arrecife_de_las_músicas las_palmas_de_gran_canaria",
+        "persons": [
+            "Joe_Henry",
+            "Jabier_Muguruza"
+        ],
+        "locations": [
+            "Arrecife_de_las_Músicas",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los artistas Sinéad O'Connor, John Mayall, Mélissa Laveaux, Joe Henry y Jabier Muguruza conformarán el cartel del festival Arrecife de las Músicas que se celebrará en el Auditorio Alfredo Kraus de Las Palmas de Gran Canaria desde el 28 y hasta el 5 de junio.",
+        "lemmatized_text": "el artista sinéad_o'connor john_mayall mélissa_laveaux joe_henry y jabier_muguruza conformar el cartel de el festival arrecife_de_las_músicas que se celebrar en el auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria desde el 28 y hasta el [??:5/6/??:??.??:??]",
+        "lemmatized_text_reduced": "artista sinéad_o'connor john_mayall mélissa_laveaux joe_henry jabier_muguruza conformar cartel festival arrecife_de_las_músicas celebrar auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Sinéad_O'Connor",
+            "John_Mayall",
+            "Mélissa_Laveaux",
+            "Joe_Henry",
+            "Jabier_Muguruza"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Arrecife_de_las_Músicas",
+            "Auditorio_Alfredo_Kraus_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[??:5/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "28"
+        ]
+    },
+    "body": {
+        "raw_text": "Este festival que pretende promover el intercambio de ideas sobre diferentes estilos musicales, quiere convertir además a Las Palmas de Gran Canaria \"en un punto de encuentro y un lugar para el intercambio\" de culturas. El Arrecife de las Músicas, con los artistas que trae en esta edición, pretende ofrecer un cartel con \"equilibrio entre nombres ilustres y figuras por descubrir, músicas evocadoras y comprometidas con sus raíces\", según informó el Auditorio Alfredo Kraus en nota de prensa. El primer concierto será el 28 de mayo, a las 21.00 horas (como el resto de actuaciones), y correrá a cargo de John Mayall, \"conocido por ser el precursor del blues inglés\". Al día siguiente, la actuación musical será de la cantautora de origen haitiano Mélissa Laveaux. Las actuaciones del mes de junio las abrirá Jabier Muguruza y un día más tarde el concierto acústico correrá a cargo de la cantante y compositora irlandesa Sinéad O'Connor. Finalmente, el Arrecife de las Músicas lo cerrará Joe Henry con una actuación el 5 de junio.",
+        "lemmatized_text": "este festival que pretender promover el intercambio de idea sobre diferente estilo musical querer convertir además a las_palmas_de_gran_canaria en uno punto de encuentro y uno lugar para el intercambio de cultura el arrecife_de_las_músicas con el artista que traer en este edición pretender ofrecer uno cartel con equilibrio entre nombre ilustre y figura por descubrir música evocador y comprometer con su raíz según informar el auditorio_alfredo_kraus en nota de prensa el 1 concierto ser el [??:28/5/??:??.??:??] a el TM_h:21 como el resto de actuación y correr a_cargo_de john_mayall conocer por ser el precursor de el blues inglés a el día siguiente el actuación musical ser de el cantautor de origen haitiano mélissa_laveaux el actuación de el [??:??/6/??:??.??:??] lo abrir jabier_muguruza y uno día más tarde el concierto acústico correr a_cargo_de el cantante y compositor irlandés sinéad_o'connor finalmente el arrecife_de_las_músicas lo cerrar joe_henry con uno actuación el [??:5/6/??:??.??:??]",
+        "lemmatized_text_reduced": "festival pretender promover intercambio idea estilo musical querer convertir las_palmas_de_gran_canaria punto encuentro lugar intercambio cultura arrecife_de_las_músicas artista traer edición pretender ofrecer cartel equilibrio nombre ilustre figura descubrir música evocador comprometer raíz informar auditorio_alfredo_kraus nota prensa 1 concierto ser resto actuación correr john_mayall conocer ser precursor blues inglés día siguiente actuación musical ser cantautor origen haitiano mélissa_laveaux actuación abrir jabier_muguruza día concierto acústico correr cantante compositor irlandés sinéad_o'connor finalmente arrecife_de_las_músicas cerrar joe_henry actuación",
+        "persons": [
+            "John_Mayall",
+            "Mélissa_Laveaux",
+            "Jabier_Muguruza",
+            "Sinéad_O'Connor",
+            "Joe_Henry"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Auditorio_Alfredo_Kraus"
+        ],
+        "others": [
+            "Arrecife_de_las_Músicas",
+            "Arrecife_de_las_Músicas"
+        ],
+        "dates": [
+            "[??:28/5/??:??.??:??]",
+            "[??:??/6/??:??.??:??]",
+            "[??:5/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/709692/0/",
+    "title": {
+        "raw_text": "Un hombre resulta herido menos grave al volcar su vehículo en Telde (Gran Canaria)",
+        "lemmatized_text": "uno hombre resultar herir menos grave a el volcar su vehículo en telde gran_canaria",
+        "lemmatized_text_reduced": "hombre resultar herir grave volcar vehículo telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre mayor de edad ha resultado herido con fractura en miembro superior de carácter menos grave al volcar su vehículo en la carretera GC-1 a su paso por el municipio de Telde en dirección a Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre mayor de edad haber resultar herir con fractura en miembro superior de carácter menos grave a el volcar su vehículo en el carretera GC-1 a su paso por el municipio de telde en_dirección_a las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre mayor edad haber resultar herir fractura miembro superior carácter grave volcar vehículo carretera paso municipio telde las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Telde",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-1",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente ocurrió a las 14.10 horas, cuando se recibieron varias llamadas en el Cecoes que informaban de que un turismo había volcado en la dirección mencionada y su ocupante precisaba atención sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencias oportunos. Una vez en el lugar el personal sanitario del Servicio de Urgencias Canario (SUC) atendió y estabilizó a un varón al que se le apreció una fractura que hacía recomendable su traslado en ambulancia de soporte vital avanzado del SUC al Hospital Insular. En dicha actuación también intervinieron bomberos del Consorcio de Emergencias, que aseguraron la zona y el vehículo afectado. Por su parte, la Guardia Civil se encargó de practicar las diligencias oportunas.",
+        "lemmatized_text": "el accidente ocurrir a el TM_h:14.1 cuando se recibir varios llamada en el cecoes que informar de que uno turismo haber volcar en el dirección mencionar y su ocupante precisar atención sanitario de este modo el 112 activar de inmediato el recurso de emergencia oportuno uno vez en el lugar el personal sanitario de el servicio_de_urgencias_canario suc atender y estabilizar a uno varón a el que se le apreciar uno fractura que hacer recomendable su traslado en ambulancia de soporte vital avanzar de el suc a el hospital_insular en decir actuación también intervenir bombero de el consorcio_de_emergencias que asegurar el zona y el vehículo afectar por su parte el guardia_civil se encargar de practicar el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente ocurrir recibir llamada cecoes informar turismo haber volcar dirección mencionar ocupante precisar atención sanitario modo activar inmediato recurso emergencia oportuno vez lugar personal sanitario servicio_de_urgencias_canario suc atender estabilizar varón apreciar fractura hacer recomendable traslado ambulancia soporte vital avanzar suc hospital_insular decir actuación intervenir bombero consorcio_de_emergencias asegurar zona vehículo afectar parte guardia_civil encargar practicar diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Insular",
+            "Consorcio_de_Emergencias",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.1",
+            "112"
+        ]
+    }
+}

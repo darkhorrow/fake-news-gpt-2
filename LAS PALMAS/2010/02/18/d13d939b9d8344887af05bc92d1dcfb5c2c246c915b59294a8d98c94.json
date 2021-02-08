@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632044/0/",
+    "title": {
+        "raw_text": "El viento deja árboles caídos, desprendimientos, carreteras cortadas y cortes de luz en Gran Canaria",
+        "lemmatized_text": "el viento dejar árbol caer desprendimiento carretera cortar y corte de luz en gran_canaria",
+        "lemmatized_text_reduced": "viento dejar árbol caer desprendimiento carretera cortar corte luz gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El temporal de lluvia y viento ha dejado durante la noche en Gran Canaria árboles caídos, desprendimientos de tierra en carreteras, cortes en diferentes vías e, incluso, cortes intermitentes de luz, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112, quien hizo especial hincapié en que los desperfectos han sido sólo materiales y que en ningún caso hay que lamentar daños humanos.",
+        "lemmatized_text": "el temporal de lluvia y viento haber dejar durante el noche en gran_canaria árbol caer desprendimiento de tierra en carretera corte en diferente vía y incluso corte intermitente de luz según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112 quien hacer especial hincapié en que el desperfecto haber ser sólo material y que en ninguno caso haber que lamentar daño humano",
+        "lemmatized_text_reduced": "temporal lluvia viento haber dejar noche gran_canaria árbol caer desprendimiento tierra carretera corte vía corte intermitente luz informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes hacer especial hincapié desperfecto haber ser material caso haber lamentar daño humano",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, en Mogán, la Cofradía de Pescadores, que está ubicada en plena costa del municipio, ha sufrido los embates de las olas, que han provocado daños materiales en las instalaciones de la agrupación. En este sentido, y en el conjunto de la isla, los efectos del viento han hecho que muchos grancanarios hayan llamado al 112 para informar de caídas de carteles, desprendimientos, árboles y ramas caídas que dificultaban el tránsito de vehículos o de personas. En cuanto a cortes de carreteras, han sido cuatro las vías que se han visto afectadas en Gran Canaria, entre ellas la GC-60, que une Tejeda con Artenara; la GC-505, que es la que transita por Cercados de Espino; la GC-200, entre Agaete y La Aldea; y la GC-605, entre Ayacata y Mogán. De resto, las mismas fuentes indicaron que durante la noche también se han producido cortes intermitentes en el servicio eléctrico, que ya se han repuesto, mientras que respecto al tráfico tanto marítimo como aéreo, explicaron que todos los puertos y aeropuertos de la provincia de Las Palmas están abiertos, incluso el Puerto de Agaete, que tuvo que se cerrado durante la jornada de ayer debido al viento que azotaba el municipio grancanario.",
+        "lemmatized_text": "así en mogán el cofradía_de_pescadores que estar ubicar en pleno costa de el municipio haber sufrir el embate de el ola que haber provocar daño material en el instalación de el agrupación en este sentido y en el conjunto de el isla el efecto de el viento haber hacer que mucho grancanarios haber llamar a el 112 para informar de caída de cartel desprendimiento árbol y rama caer que dificultar el tránsito de vehículo o de persona en_cuanto_a corte de carretera haber ser 4 el vía que se haber ver afectar en gran_canaria entre ellos el GC-60 que unir tejeda con artenara el GC-505 que ser el que transitar por cercados_de_espino el GC-200 entre agaete y la_aldea y el GC-605 entre ayacata y mogán de resto el mismo fuente indicar que durante el noche también se haber producir corte intermitente en el servicio eléctrico que ya se haber reponer mientras_que respecto a el tráfico tanto marítimo como aéreo explicar que todo el puerto y aeropuerto de el provincia de las_palmas estar abrir incluso el puerto_de_agaete que tener que se cerrar durante el jornada de ayer deber a el viento que azotar el municipio grancanario",
+        "lemmatized_text_reduced": "mogán cofradía_de_pescadores estar ubicar pleno costa municipio haber sufrir embate ola haber provocar daño material instalación agrupación sentido conjunto isla efecto viento haber hacer grancanarios haber llamar informar caída cartel desprendimiento árbol rama caer dificultar tránsito vehículo persona corte carretera haber ser vía haber ver afectar gran_canaria unir tejeda artenara ser transitar cercados_de_espino agaete la_aldea ayacata mogán resto mismo fuente indicar noche haber producir corte intermitente servicio eléctrico haber reponer respecto tráfico marítimo aéreo explicar puerto aeropuerto provincia las_palmas estar abrir puerto_de_agaete tener cerrar jornada deber viento azotar municipio grancanario",
+        "persons": [
+            "Tejeda",
+            "Cercados_de_Espino",
+            "Agaete",
+            "Ayacata"
+        ],
+        "locations": [
+            "Mogán",
+            "Gran_Canaria",
+            "La_Aldea",
+            "Mogán",
+            "Las_Palmas",
+            "Puerto_de_Agaete"
+        ],
+        "organizations": [
+            "Artenara"
+        ],
+        "others": [
+            "Cofradía_de_Pescadores"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "4",
+            "GC-60",
+            "GC-505",
+            "GC-200",
+            "GC-605"
+        ]
+    }
+}

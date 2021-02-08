@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/696555/0/",
+    "title": {
+        "raw_text": "Nueva Canarias no confía en un pacto de Estado de PP y PSOE contra la crisis por \"la proximidad electoral\"",
+        "lemmatized_text": "nueva_canarias no confiar en uno pacto de estado_de_pp y psoe contra el crisis por el proximidad electoral",
+        "lemmatized_text_reduced": "nueva_canarias confiar pacto estado_de_pp psoe crisis proximidad electoral",
+        "persons": [],
+        "locations": [
+            "Nueva_Canarias"
+        ],
+        "organizations": [
+            "Estado_de_PP",
+            "PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de Nueva Canarias (NC), Román Rodríguez, admitió hoy que no confía que se logre un pacto de Estado tras la reunión que mantendrá mañana el presidente del Gobierno, José Luis Rodríguez Zapatero, con el líder del PP, Mariano Rajoy en el Palacio de La Moncloa, debido a la \"proximidad electoral\" ante los comicios autonómicos y locales en 2011.",
+        "lemmatized_text": "el presidente de nueva_canarias nc román_rodríguez admitir hoy que no confiar que se lograr uno pacto de estado tras el reunión que mantener mañana el presidente de el gobierno josé_luis_rodríguez_zapatero con el líder de el pp mariano_rajoy en el palacio_de_la_moncloa debido_a el proximidad electoral ante el comicio autonómico y local en 2011",
+        "lemmatized_text_reduced": "presidente nueva_canarias nc román_rodríguez admitir confiar lograr pacto estado reunión mantener presidente gobierno josé_luis_rodríguez_zapatero líder pp mariano_rajoy palacio_de_la_moncloa proximidad electoral comicio autonómico local",
+        "persons": [
+            "Nueva_Canarias",
+            "Román_Rodríguez",
+            "José_Luis_Rodríguez_Zapatero",
+            "Mariano_Rajoy"
+        ],
+        "locations": [
+            "Palacio_de_La_Moncloa"
+        ],
+        "organizations": [
+            "NC",
+            "Estado",
+            "Gobierno",
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2011"
+        ]
+    },
+    "body": {
+        "raw_text": "En declaraciones a los medios tras un acto público en la capital grancanaria, el también vicepresidente del Cabildo de Gran Canaria opinó que \"la situación económica de España es lo suficientemente comprometida y seria y sería deseable que los dos grandes partidos aproximaran posiciones\". Ello a fin de \"sacar de la primera línea de la política los tres asuntos que hoy acaparan la atención de todos: 'El Caso Gürtel', Garzón y Estatuto, procesos muy judicializados\", añadió. De este modo, para Rodríguez, \"ahora toca concentrarse y ver cómo se sale de la crisis, con 4,6 millones de parados, 302.000 en Canarias\". \"confrontación total\" Sin embargo, reconoció que no confía en un pacto de Estado \"porque las elecciones se aproximan y aquí todo el mundo se está colocando en el sombrero que le corresponde\". \"Espero que al menos en los grandes temas pudieran aproximarse los dos grandes partidos de orden estatal, aunque no tengo mucha confianza porque la confrontación es total y en todos los frentes\", apostilló. Por otro lado, considera que Rajoy no mostrará \"discrepancias\" para apoyar que el Gobierno central ayude a Grecia con cerca de 10.000 millones de euros.",
+        "lemmatized_text": "en declaración a el medio tras uno acto público en el capital grancanaria el también vicepresidente de el cabildo_de_gran_canaria opinar que el situación económico de españa ser el suficientemente comprometer y serio y ser deseable que el 2 grande partido aproximar posición ello a_fin_de sacar de el 1 línea de el política el 3 asunto que hoy acaparar el atención de todo el caso_gürtel garzón y estatuto proceso muy judicializados añadir de este modo para rodríguez ahora tocar concentrar se y ver cómo se salir de el crisis con 4,6 millón de parado 302 en canarias confrontación total sin embargo reconocer que no confiar en uno pacto de estado porque el elección se aproximar y aquí todo el mundo se estar colocar en el sombrero que le corresponder esperar que a el menos en el grande tema poder aproximar se el 2 grande partido de orden estatal aunque no tener mucho confianza porque el confrontación ser total y en todo el frente apostillar por_otro_lado considerar que rajoy no mostrar discrepancia para apoyar que el gobierno central ayudar a grecia con cerca de $_ECU:10000000",
+        "lemmatized_text_reduced": "declaración medio acto público capital grancanaria vicepresidente cabildo_de_gran_canaria opinar situación económico españa ser suficientemente comprometer serio ser deseable grande partido aproximar posición sacar 1 línea política asunto acaparar atención caso_gürtel garzón estatuto proceso judicializados añadir modo rodríguez tocar concentrar ver salir crisis millón parado canarias confrontación total embargo reconocer confiar pacto estado elección aproximar mundo estar colocar sombrero corresponder esperar grande tema poder aproximar grande partido orden estatal tener confianza confrontación ser total frente apostillar considerar rajoy mostrar discrepancia apoyar gobierno central ayudar grecia",
+        "persons": [
+            "España",
+            "Caso_Gürtel",
+            "Garzón",
+            "Rodríguez",
+            "Rajoy"
+        ],
+        "locations": [
+            "Canarias",
+            "Grecia"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Estado",
+            "Gobierno"
+        ],
+        "others": [
+            "Estatuto"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "3",
+            "4,6",
+            "302",
+            "2",
+            "$_ECU:10000000"
+        ]
+    }
+}

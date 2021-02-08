@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/693347/0/",
+    "title": {
+        "raw_text": "Alerta amarilla en Canarias por fuertes vientos y oleaje",
+        "lemmatized_text": "alerta amarillo en canarias por fuerte viento y oleaje",
+        "lemmatized_text_reduced": "amarillo canarias fuerte viento oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha activado hoy la alerta amarilla en Canarias por riesgo de fuertes vientos y oleaje hasta este sábado.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber activar hoy el alerta amarillo en canarias por riesgo de fuerte viento y oleaje hasta este [S:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber activar alerta amarillo canarias riesgo fuerte viento oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así pues, en cuanto a la situación del mar en las islas se prevé que sea nordeste de fuerza cinco a seis, con alguna racha de fuerza siete ocasional en costas sudeste; variable fuerza dos a tres en costa suroeste, con predominio de la fuerte marejada, siendo la mar rizada predominante en la costa suroeste. Habrá mar de fondo del norte de dos metros, según información de la Aemet recogida por Europa Press. En Gran Canaria se registrarán rachas máximas de viento de hasta 70 kilómetros por hora en la costa norte, este, sur y oeste y medianías del norte hasta la medianoche del sábado, así como fenómenos costeros adversos en el este, sur y oeste de la isla hasta las 09.00 horas de mañana. Igualmente, en la isla de Lanzarote se ha activado el nivel amarillo por oleaje, situación que persistirá hasta mañana. En cuanto a la provincia occidental, el norte de La Gomera se verá afectado por rachas de viento de hasta 70 kilómetros por hora. Mientras que en El Hierro y en el este, sur y oeste de Tenerife se prevé riesgo de fuerte oleaje hasta este sábado. De este modo, la Aemet estima que las rachas de viento importantes concluirán mañana en las islas, aunque persistirá el oleaje en la costa de El Hierro y Lanzarote, así como en el litoral este, sur y oeste de Tenerife y de Gran Canaria.",
+        "lemmatized_text": "así_pues en_cuanto_a el situación de el mar en el isla se prever que ser nordeste de fuerza 5 a 6 con alguno racha de fuerza 7 ocasional en costa sudeste variable fuerza 2 a 3 en costa suroeste con predominio de el fuerte marejada ser el mar rizar predominante en el costa suroeste haber mar de fondo de el norte de 2 metro según información de el aemet recoger por europa_press en gran_canaria se registrar racha máximo de viento de hasta SP_km/h:70 en el costa norte este sur y oeste y medianía de el norte hasta el [S:??/??/??:00.00:am] así_como fenómeno costero adverso en el este sur y oeste de el isla hasta el [??:??/??/??:9.00:am] igualmente en el isla de lanzarote se haber activar el nivel amarillo por oleaje situación que persistir hasta mañana en_cuanto_a el provincia occidental el norte de la_gomera se ver afectar por racha de viento de hasta SP_km/h:70 mientras_que en el_hierro y en el este sur y oeste de tenerife se prever riesgo de fuerte oleaje hasta este [S:??/??/??:??.??:??] de este modo el aemet estimar que el racha de viento importante concluir mañana en el isla aunque persistir el oleaje en el costa de el_hierro y lanzarote así_como en el litoral este sur y oeste de tenerife y de gran_canaria",
+        "lemmatized_text_reduced": "situación mar isla prever ser nordeste fuerza racha fuerza ocasional costa sudeste variable fuerza costa suroeste predominio fuerte marejada ser mar rizar predominante costa suroeste haber mar fondo norte metro información aemet recoger europa_press gran_canaria registrar racha máximo viento costa norte sur oeste medianía norte fenómeno costero adverso este sur oeste isla igualmente isla lanzarote haber activar nivel amarillo oleaje situación persistir mañana provincia occidental norte la_gomera ver afectar racha viento el_hierro este sur oeste tenerife prever riesgo fuerte oleaje modo aemet estimar racha viento importante concluir isla persistir oleaje costa el_hierro lanzarote litoral sur oeste tenerife gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote",
+            "La_Gomera",
+            "El_Hierro",
+            "Tenerife",
+            "El_Hierro",
+            "Lanzarote",
+            "Tenerife",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Aemet",
+            "Europa_Press",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:00.00:am]",
+            "[??:??/??/??:9.00:am]",
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "6",
+            "7",
+            "2",
+            "3",
+            "2",
+            "SP_km/h:70",
+            "SP_km/h:70"
+        ]
+    }
+}

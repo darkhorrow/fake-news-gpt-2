@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/658563/0/",
+    "title": {
+        "raw_text": "Un menor de 12 años resulta herido tras ser atropellado en Vecindario (Gran Canaria)",
+        "lemmatized_text": "uno menor de 12 año resultar herir tras ser atropellar en vecindario gran_canaria",
+        "lemmatized_text_reduced": "menor año resultar herir ser atropellar vecindario gran_canaria",
+        "persons": [],
+        "locations": [
+            "Vecindario",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "12"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un menor de 12 años de edad ha resultado herido con traumatismo en la cadera de carácter leve tras ser atropellado en la Avenida de Las Tirajanas en Vecindario, en el municipio de Santa Lucía de Tirajana (Gran Canaria), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno menor de 12 año de edad haber resultar herir con traumatismo en el cadera de carácter leve tras ser atropellar en el avenida_de_las_tirajanas en vecindario en el municipio de santa_lucía_de_tirajana gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "menor año edad haber resultar herir traumatismo cadera carácter leve ser atropellar avenida_de_las_tirajanas vecindario municipio santa_lucía_de_tirajana gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Avenida_de_Las_Tirajanas",
+            "Vecindario",
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "12",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 07.30 horas, cuando varias llamadas alertaron al Cecoes del atropello cerca del ayuntamiento. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazó personal sanitario del Servicio de Urgencias Canario (SUC), que atendió al niño y le trasladó hasta el centro de salud de El Doctoral para su observación. En dicha actuación intervino una ambulancia de soporte vital básico y otra sanitarizada del SUC, así como la Policía Local, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:7.3 cuando varios llamada alertar a el cecoes de el atropello cerca de el ayuntamiento de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar personal sanitario de el servicio_de_urgencias_canario suc que atender a el niño y le trasladar hasta el centro de salud de el_doctoral para su observación en decir actuación intervenir uno ambulancia de soporte vital básico y otro sanitarizada de el suc así_como el policía_local que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir llamada alertar cecoes atropello ayuntamiento modo activar inmediato dispositivo emergencia necesario lugar desplazar personal sanitario servicio_de_urgencias_canario suc atender niño trasladar centro salud el_doctoral observación decir actuación intervenir ambulancia soporte vital básico sanitarizada suc policía_local encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "El_Doctoral"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.3",
+            "112"
+        ]
+    }
+}

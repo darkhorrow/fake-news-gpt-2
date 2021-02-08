@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/931725/0/",
+    "title": {
+        "raw_text": "El nuevo jefe de Policía de Canarias asegura que \"se seguirá haciendo\" todo lo posible en el caso de Sara Morales",
+        "lemmatized_text": "el nuevo jefe de policía_de_canarias asegurar que se seguir hacer todo lo posible en el caso de sara_morales",
+        "lemmatized_text_reduced": "nuevo jefe policía_de_canarias asegurar seguir hacer posible caso sara_morales",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El nuevo jefe superior de Policía de Canarias, Julián Márquez Díaz, ha asegurado este martes --durante la toma de posesión de su cargo-- que en la desaparición de la menor Sara Morales en junio de 2006 en Las Palmas de Gran Canaria, \"se ha hecho y se seguirá haciendo todo lo posible\" para la resolución del caso.",
+        "lemmatized_text": "el nuevo jefe superior de policía_de_canarias julián_márquez_díaz haber asegurar este [M:??/??/??:??.??:??] durante el toma de posesión de su cargo que en el desaparición de el menor sara_morales en [??:??/6/2006:??.??:??] en las_palmas_de_gran_canaria se haber hacer y se seguir hacer todo el posible para el resolución de el caso",
+        "lemmatized_text_reduced": "nuevo jefe superior policía_de_canarias julián_márquez_díaz haber asegurar toma posesión cargo desaparición menor sara_morales las_palmas_de_gran_canaria haber hacer seguir hacer posible resolución caso",
+        "persons": [
+            "Julián_Márquez_Díaz",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[??:??/6/2006:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El nuevo jefe superior de Policía de Canarias, Julián Márquez Díaz, ha asegurado este martes —durante la toma de posesión de su cargo— que en la desaparición de la menor Sara Morales en junio de 2006 en Las Palmas de Gran Canaria, \"se ha hecho y se seguirá haciendo todo lo posible\" para la resolución del caso. \"Es un tema que, aparte de la importancia policial que tiene, también lleva una tragedia detrás. Desde que me dijeron que me venía aquí empecé a informarme sobre algunas cuestiones que había en las islas y me informaron de Sara Morales. He visto que se ha hecho un trabajo al detalle\", dijo sobre la desaparición en declaraciones a los medios de comunicación. De esta manera, reiteró que en ese asunto se ha hecho y se seguirá haciendo \"todo lo humanamente posible\". \"Mientras tanto —agregó— esa familia tiene que estar apoyada y tiene que sentirse respaldada y querida. La Policía tiene que estar para eso y lo estará. Eso se lo garantizo\".",
+        "lemmatized_text": "el nuevo jefe superior de policía_de_canarias julián_márquez_díaz haber asegurar este [M:??/??/??:??.??:??] durante el toma de posesión de su cargo que en el desaparición de el menor sara_morales en [??:??/6/2006:??.??:??] en las_palmas_de_gran_canaria se haber hacer y se seguir hacer todo el posible para el resolución de el caso ser uno tema que aparte_de el importancia policial que tener también llevar uno tragedia detrás desde que me decir que me venir aquí empezar a informar me sobre alguno cuestión que haber en el isla y me informar de sara_morales haber ver que se haber hacer uno trabajo a el detalle decir sobre el desaparición en declaración a el medio de comunicación de este manera reiterar que en ese asunto se haber hacer y se seguir hacer todo lo humanamente posible mientras tanto agregar ese familia tener que estar apoyar y tener que sentir se respaldar y querer el policía tener que estar para ese y lo estar ese se lo garantizar",
+        "lemmatized_text_reduced": "nuevo jefe superior policía_de_canarias julián_márquez_díaz haber asegurar toma posesión cargo desaparición menor sara_morales las_palmas_de_gran_canaria haber hacer seguir hacer posible resolución caso ser tema importancia policial tener llevar tragedia decir venir empezar informar cuestión haber isla informar sara_morales haber ver haber hacer trabajo detalle decir desaparición declaración medio comunicación manera reiterar asunto haber hacer seguir hacer humanamente posible agregar familia tener estar apoyar tener sentir respaldar querer policía tener estar estar garantizar",
+        "persons": [
+            "Julián_Márquez_Díaz",
+            "Sara_Morales",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_de_Canarias",
+            "Policía"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[??:??/6/2006:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/921018/0/",
+    "title": {
+        "raw_text": "Interceptan una patera con cerca de 50 inmigrantes cuando se dirigía Lanzarote",
+        "lemmatized_text": "interceptar uno patera con cerca de 50 inmigrante cuando se dirigir lanzarote",
+        "lemmatized_text_reduced": "interceptar patera inmigrante dirigir lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una patera con aproximadamente 50 inmigrantes ha sido interceptada por una patrullera durante las horas centrales de este miércoles cuando se dirigía a la isla de Lanzarote, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno patera con aproximadamente 50 inmigrante haber ser interceptar por uno patrullera durante el hora central de este [X:??/??/??:??.??:??] cuando se dirigir a el isla de lanzarote según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "patera aproximadamente inmigrante haber ser interceptar patrullera hora central dirigir isla lanzarote informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una patera con aproximadamente 50 inmigrantes ha sido interceptada por una patrullera durante las horas centrales de este miércoles cuando se dirigía a la isla de Lanzarote, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. De esta manera, la embarcación ha sido traslada hasta el Puerto de Naos, en Arrecife —capital de la isla— después de que fuera interceptada a 50 millas de la costa de Arrieta, un pueblo costero ubicado en el municipio de Haría. En estos momentos se desconoce el estado de salud de los inmigrantes, así como si pudiera haber menores de edad. Esta patera es la primera que arriba a las costas de Canarias en lo que va de año, mientras que la última embarcación que llegó al archipiélago lo hizo el pasado 26 de octubre de 2010 a la Playa del Aeroclub, dentro del término municipal de San Bartolomé de Tirajana (Gran Canaria).",
+        "lemmatized_text": "uno patera con aproximadamente 50 inmigrante haber ser interceptar por uno patrullera durante el hora central de este [X:??/??/??:??.??:??] cuando se dirigir a el isla de lanzarote según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 de este manera el embarcación haber ser trasladar hasta el puerto_de_naos en arrecife capital de el isla después_de que ser interceptar a LN_mi:50 de el costa de arrieta uno pueblo costero ubicar en el municipio de haría en este momento se desconocer el estado de salud de el inmigrante así_como si poder haber menor de edad este patera ser el 1 que arriba a el costa de canarias en el que ir de año mientras_que el último embarcación que llegar a el archipiélago lo hacer el [??:26/10/2010:??.??:??] a el playa_del_aeroclub dentro de el término municipal de san_bartolomé_de_tirajana gran_canaria",
+        "lemmatized_text_reduced": "patera aproximadamente inmigrante haber ser interceptar patrullera hora central dirigir isla lanzarote informar centro_coordinador_de_emergencias seguridad cecoes manera embarcación haber ser trasladar puerto_de_naos arrecife capital isla ser interceptar costa arrieta pueblo costero ubicar municipio haría momento desconocer estado salud inmigrante poder haber menor edad patera ser 1 costa canarias ir año último embarcación llegar archipiélago hacer playa_del_aeroclub término municipal san_bartolomé_de_tirajana gran_canaria",
+        "persons": [
+            "Arrieta"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Puerto_de_Naos",
+            "Arrecife",
+            "Haría",
+            "Canarias",
+            "Playa_del_Aeroclub"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:26/10/2010:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "112",
+            "LN_mi:50"
+        ]
+    }
+}

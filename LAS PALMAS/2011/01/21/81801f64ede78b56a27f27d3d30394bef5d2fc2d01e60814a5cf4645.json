@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935687/0/",
+    "title": {
+        "raw_text": "El stand de Canarias ofrece a quienes le visite diversas actividades sobre los 4 clubes de producto que tiene",
+        "lemmatized_text": "el stand de canarias ofrecer a quien le visitar diverso actividad sobre el 4 club de producto que tener",
+        "lemmatized_text_reduced": "stand canarias ofrecer visitar actividad club producto tener",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "El stand de las Islas Canarias en la Feria Internacional de Turismo (Fitur) en Madrid ofrecerá a todos los que le visiten hasta el próximo 23 de enero una decena de actividades en los cuatro clubes de producto que oferta el Ejecutivo regional.",
+        "lemmatized_text": "el stand de el islas_canarias en el feria_internacional_de_turismo fitur en madrid ofrecer a todo el que le visitar hasta el [??:23/1/??:??.??:??] 10 de actividad en el 4 club de producto que oferta el ejecutivo regional",
+        "lemmatized_text_reduced": "stand islas_canarias feria_internacional_de_turismo fitur madrid ofrecer visitar actividad club producto oferta ejecutivo regional",
+        "persons": [],
+        "locations": [
+            "Islas_Canarias",
+            "Madrid"
+        ],
+        "organizations": [
+            "Fitur",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Feria_Internacional_de_Turismo"
+        ],
+        "dates": [
+            "[??:23/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Las personas que visiten el espacio del archipiélago en la Feria podrán, entre otros, degustar vinos, probar la gastronomía canaria o hacerse un masaje, todas ellas con el objetivo de dar a conocer la oferta turística de las islas que está dividida en cuatro clubes de producto, tales como son Wellness Delight, Family Welcome, Water Sports Experience y Volcanic Experience, según informó el Gobierno canario en nota de prensa. También habrá un espacio dedicado a los niños, ya que se habilitará un espacio lúdico con talleres de maquillaje infantil o de globoflexia, espectáculo de pompas de jabón, o una mini-disco con actores vestidos de piratas que amenizarán la tarde a los niños asistentes. Por otro lado, el stand también lo visitará el ganador del Récord Guinness de corte de jamón ibérico en 24 horas ininterrumpidas, Fran Alonso, que realizará una exhibición de corte de pata asada canaria y será uno de los reclamos del espacio de las islas. Fran Alonso estableció la nueva marca mundial de la categoría con un tiempo de 24 horas, 54 minutos y 6 segundos, periodo en el que cortó 18 jamones en el Auditorio de Tenerife. Pero su objetivo es darle el mismo trato que el jamón ibérico a la pata asada canaria. Por ello, previamente se ha documentado con cocineros del archipiélago y además se \"han mostrado partidario\" de promocionar los productos del cochino negro canario para darle \"más potencial a su sabor y a su calidad\".",
+        "lemmatized_text": "el persona que visitar el espacio de el archipiélago en el feria poder entre otro degustar vino probar el gastronomía canario o hacer se uno masaje todo ellos con el objetivo de dar_a_conocer el oferta turístico de el isla que estar dividir en 4 club de producto tal como ser wellness_delight family_welcome water_sports_experience y volcanic_experience según informar el gobierno canario en nota de prensa también haber uno espacio dedicar a el niño ya_que se habilitar uno espacio lúdico con taller de maquillaje infantil o de globoflexia espectáculo de pompa de jabón o uno mini-disco con actor vestir de pirata que amenizar el tarde a el niño asistente por_otro_lado el stand también lo visitar el ganador de el récord_guinness de corte de jamón ibérico en TM_h:24 ininterrumpido fran_alonso que realizar uno exhibición de corte de pata asar canario y ser uno de el reclamo de el espacio de el isla fran_alonso establecer el nuevo marca mundial de el categoría con uno tiempo de TM_h:24 TM_min:54 y 6 segundo periodo en el que cortar 18 jamón en el auditorio_de_tenerife pero su objetivo ser dar le el mismo trato que el jamón ibérico a el pata asar canario por ello previamente se haber documentar con cocinero de el archipiélago y además se haber mostrar partidario de promocionar el producto de el cochino negro canario para dar le más potencial a su sabor y a su calidad",
+        "lemmatized_text_reduced": "persona visitar espacio archipiélago feria poder degustar vino probar gastronomía canario hacer masaje objetivo dar_a_conocer oferta turístico isla estar dividir club producto ser wellness_delight family_welcome water_sports_experience volcanic_experience informar gobierno canario nota prensa haber espacio dedicar niño habilitar espacio lúdico taller maquillaje infantil globoflexia espectáculo pompa jabón mini-disco actor vestir pirata amenizar tarde niño asistente stand visitar ganador récord_guinness corte jamón ibérico ininterrumpido fran_alonso realizar exhibición corte pata asar canario ser reclamo espacio isla fran_alonso establecer nuevo marca mundial categoría tiempo segundo periodo cortar jamón auditorio_de_tenerife objetivo ser dar mismo trato jamón ibérico pata asar canario previamente haber documentar cocinero archipiélago haber mostrar partidario promocionar producto cochino negro canario dar potencial sabor calidad",
+        "persons": [
+            "Wellness_Delight",
+            "Family_Welcome",
+            "Water_Sports_Experience",
+            "Volcanic_Experience",
+            "Fran_Alonso",
+            "Fran_Alonso"
+        ],
+        "locations": [
+            "Auditorio_de_Tenerife"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [
+            "Feria",
+            "Récord_Guinness"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "TM_h:24",
+            "TM_h:24",
+            "TM_min:54",
+            "6",
+            "18"
+        ]
+    }
+}

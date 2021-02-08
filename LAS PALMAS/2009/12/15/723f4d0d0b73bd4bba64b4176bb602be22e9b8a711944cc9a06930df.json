@@ -1,0 +1,101 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/588265/0/",
+    "title": {
+        "raw_text": "Aemet declara riesgo amarillo en La Palma por fuerte oleaje que se ampliará mañana por lluvias al resto de Canarias",
+        "lemmatized_text": "aemet declarar riesgo amarillo en la_palma por fuerte oleaje que se ampliar mañana por lluvia a el resto de canarias",
+        "lemmatized_text_reduced": "aemet declarar riesgo amarillo la_palma fuerte oleaje ampliar lluvia resto canarias",
+        "persons": [
+            "Aemet"
+        ],
+        "locations": [
+            "La_Palma",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha declarado hoy el riesgo amarillo en la isla de La Palma por fuerte oleaje que comenzará a las 12.00 horas de hoy y que se trasladará mañana al resto de Canarias por fenómenos costeros y lluvias, una predicción que durará hasta el miércoles en la provincia de Las Palmas y hasta el jueves en Santa Cruz de Tenerife, según informa la institución en su página web.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber declarar hoy el riesgo amarillo en el isla de la_palma por fuerte oleaje que comenzar a el TM_h:12 de hoy y que se trasladar mañana a el resto de canarias por fenómeno costero y lluvia uno predicción que durar hasta el [X:??/??/??:??.??:??] en el provincia de las_palmas y hasta el [J:??/??/??:??.??:??] en santa_cruz_de_tenerife según informar el institución en su página web",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber declarar riesgo amarillo isla la_palma fuerte oleaje comenzar trasladar resto canarias fenómeno costero lluvia predicción durar provincia las_palmas santa_cruz_de_tenerife informar institución página web",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Canarias",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:12"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, La Palma experimentará hoy fuerte oleaje en las costas norte, sur y oeste, unos fenómenos costeros que se extenderán mañana al norte de las islas de El Hierro, Tenerife y Gran Canaria. Por su parte, para la jornada del miércoles también se espera que la totalidad del archipiélago experimente lluvias que serán de hasta 20 mm en Gran Canaria, Lanzarote y Fuerteventura —cuyo riesgo por lluvia concluirá sobre las 20.00 horas del mismo día en las islas más orientales—, mientras que en Santa Cruz de Tenerife, las precipitaciones acumuladas en una hora serán de 25 mm y tendrán un acumulado de 12 horas que llegará a 90 mm, finalizando este riesgo a las 00.00 horas del jueves. Ya el jueves, la provincia de Las Palmas volverá a la normalidad, aunque Santa Cruz de Tenerife mantendrá el riesgo por lluvias hasta las 20.00 horas. Por otra parte, a nivel nacional, un total de once comunidades autónomas estarán mañana en alerta amarilla (riesgo) o naranja (riesgo importante) por bajas temperaturas, vientos y nieve, que afectará sobre todo al este peninsular, a Madrid y a Cantabria. Así, la Comunidad de Madrid y Cantabria están en alerta naranja (riesgo importante) por bajas temperaturas y nevadas, y Baleares y Gernoa (en Cataluña) están en alerta por vientos y fenómenos costeros adversos. Además, estarán en alerta amarilla (riesgo) por temperaturas mínimas y nevadas, Aragón, País Vasco, Navarra, La Rioja y Andalucía (Jaén, Granada y Almería) así como por vientos, lluvias y fenómenos costeros adversos el litoral de la Comunidad Valenciana, Cataluña, Murcia y la ciudad autónoma de Melilla.",
+        "lemmatized_text": "de este manera la_palma experimentar hoy fuerte oleaje en el costa norte sur y oeste uno fenómeno costero que se extender mañana a el norte de el isla de el_hierro tenerife y gran_canaria por su parte para el jornada de el [X:??/??/??:??.??:??] también se esperar que el totalidad de el archipiélago experimentar lluvia que ser de hasta LN_mm:20 en gran_canaria lanzarote y fuerteventura cuyo riesgo por lluvia concluir sobre el TM_h:20 de el mismo día en el isla más oriental mientras_que en santa_cruz_de_tenerife el precipitación acumular en uno hora ser de LN_mm:25 y tener uno acumular de TM_h:12 que llegar a LN_mm:90 finalizar este riesgo a el TM_h:0 de el [J:??/??/??:??.??:??] ya el [J:??/??/??:??.??:??] el provincia de las_palmas volver a el normalidad aunque santa_cruz_de_tenerife mantener el riesgo por lluvia hasta el TM_h:20 por otro parte a nivel nacional uno total de 11 comunidad autónomo estar mañana en alerta amarillo riesgo o naranja riesgo importante por bajo temperatura viento y nieve que afectar sobre todo a el este peninsular a madrid y a cantabria así el comunidad_de_madrid y cantabria estar en alerta naranja riesgo importante por bajo temperatura y nevada y baleares y gernoa en cataluña estar en alerta por viento y fenómeno costero adverso además estar en alerta amarillo riesgo por temperatura mínimo y nevada aragón país_vasco navarra la_rioja y andalucía jaén granada y almería así_como por viento lluvia y fenómeno costero adverso el litoral de el comunidad_valenciana cataluña murcia y el ciudad autónomo de melilla",
+        "lemmatized_text_reduced": "manera la_palma experimentar fuerte oleaje costa norte sur oeste fenómeno costero extender norte isla el_hierro tenerife gran_canaria parte jornada esperar totalidad archipiélago experimentar lluvia ser gran_canaria lanzarote fuerteventura riesgo lluvia concluir mismo día isla oriental santa_cruz_de_tenerife precipitación acumular hora ser tener acumular llegar finalizar riesgo provincia las_palmas volver normalidad santa_cruz_de_tenerife mantener riesgo lluvia parte nivel nacional total comunidad autónomo estar alerta amarillo riesgo naranja riesgo importante bajo temperatura viento nieve afectar peninsular madrid cantabria comunidad_de_madrid cantabria estar alerta naranja riesgo importante bajo temperatura nevada baleares gernoa cataluña estar alerta viento fenómeno costero adverso estar alerta amarillo riesgo temperatura mínimo nevada aragón país_vasco navarra la_rioja andalucía jaén granada almería viento lluvia fenómeno costero adverso litoral comunidad_valenciana cataluña murcia ciudad autónomo melilla",
+        "persons": [
+            "Gernoa"
+        ],
+        "locations": [
+            "El_Hierro",
+            "Gran_Canaria",
+            "Lanzarote",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Madrid",
+            "Cantabria",
+            "Baleares",
+            "Cataluña",
+            "País_Vasco",
+            "Navarra",
+            "La_Rioja",
+            "Andalucía",
+            "Granada",
+            "Almería",
+            "Cataluña",
+            "Murcia",
+            "Melilla"
+        ],
+        "organizations": [
+            "La_Palma",
+            "Tenerife",
+            "Gran_Canaria",
+            "Fuerteventura",
+            "Santa_Cruz_de_Tenerife",
+            "Comunidad_de_Madrid",
+            "Cantabria",
+            "Aragón",
+            "Jaén",
+            "Comunidad_Valenciana"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mm:20",
+            "TM_h:20",
+            "LN_mm:25",
+            "TM_h:12",
+            "LN_mm:90",
+            "TM_h:0",
+            "TM_h:20",
+            "11"
+        ]
+    }
+}

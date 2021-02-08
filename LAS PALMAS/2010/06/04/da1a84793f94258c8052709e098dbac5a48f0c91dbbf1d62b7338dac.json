@@ -1,0 +1,96 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/727262/0/",
+    "title": {
+        "raw_text": "Vueling y Naysa se incorporan a la asociación de aerolíneas Aceta",
+        "lemmatized_text": "vueling y naysa se incorporar a el asociación de aerolínea aceta",
+        "lemmatized_text_reduced": "vueling naysa incorporar asociación aerolínea aceta",
+        "persons": [
+            "Naysa"
+        ],
+        "locations": [],
+        "organizations": [
+            "Vueling",
+            "Aceta"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Vueling y Naysa se han incorporado hoy a la Asociación de Compañías Españolas de Transporte (Aceta), agrupación que representa al 85 por ciento de los pasajeros transportados en España, lo que amplía a ocho el total de aerolíneas integradas a dicha asociación.",
+        "lemmatized_text": "vueling y naysa se haber incorporar hoy a el asociación_de_compañías_españolas_de_transporte aceta agrupación que representar a el 85 por 100 de el pasajero transportar en españa el que ampliar a 8 el total de aerolínea integrar a decir asociación",
+        "lemmatized_text_reduced": "vueling naysa haber incorporar asociación_de_compañías_españolas_de_transporte aceta agrupación representar pasajero transportar españa ampliar total aerolínea integrar decir asociación",
+        "persons": [
+            "Naysa"
+        ],
+        "locations": [
+            "España"
+        ],
+        "organizations": [
+            "Vueling",
+            "Asociación_de_Compañías_Españolas_de_Transporte",
+            "Aceta"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "85",
+            "100",
+            "8"
+        ]
+    },
+    "body": {
+        "raw_text": "Con estas nuevas incorporaciones, Aceta cubre todos los sectores de negocio del transporte aéreo y se consolida como la asociación más importante del sector en España, destacó la agrupación en una nota. Vueling, fundada en 2004 y con sede en Barcelona, cuenta con una flota de 37 aviones y transportó 10,6 millones de pasajeros en 2009, año en el que se fusionó con Clikair. La aerolínea lidera El Prat con una cuota de mercado del 26 por ciento. Por su parte, Navegación y Servicios Canarios (Naysa), fundada en 1969 y con sede en Gran Canaria, opera desde hace dos años vuelos en régimen de franquicia con Binter Canarias, y cuenta con una flota de 12 aeronaves de última generación ATR72-500. En 2009, transportó 1,72 millones de pasajeros. Aceta cuenta entre sus miembros con Iberia, Air Nostrum, Air Europa, Binter Canarias, Gestair, Iberworld, a las que se suman ahora Naysa y Vueling. Todas ellas suman cerca de 30.000 empleados y disponen en conjunto de una flota de 370 aviones. En 2009, transportaron más 48,5 millones de pasajeros con una facturación anual de 7.000 millones de euros.",
+        "lemmatized_text": "con este nuevo incorporación aceta cubrir todo el sector de negocio de el transporte aéreo y se consolidar como el asociación más importante de el sector en españa destacar el agrupación en uno nota vueling fundar en 2004 y con sede en barcelona contar con uno flota de 37 avión y transportar 10,6 millón de pasajero en 2009 año en el que se fusionar con clikair el aerolínea liderar el_prat con uno cuota de mercado de el 26 por 100 por su parte navegación y servicios_canarios naysa fundar en 1969 y con sede en gran_canaria operar desde hacer 2 año vuelo en régimen de franquicia con binter_canarias y contar con uno flota de 12 aeronave de último generación ATR72-500 en 2009 transportar 1,72 millón de pasajero aceta contar entre su miembro con iberia air_nostrum air_europa binter_canarias gestair iberworld a el que se sumar ahora naysa y vueling todo ellos sumar cerca de 30 empleado y disponer en conjunto de uno flota de 370 avión en 2009 transportar más 48,5 millón de pasajero con uno facturación anual de $_ECU:7000000",
+        "lemmatized_text_reduced": "nuevo incorporación aceta cubrir sector negocio transporte aéreo consolidar asociación importante sector españa destacar agrupación nota vueling fundar sede barcelona contar flota avión transportar millón pasajero año fusionar clikair aerolínea liderar el_prat cuota mercado parte navegación servicios_canarios naysa fundar sede gran_canaria operar hacer año vuelo régimen franquicia binter_canarias contar flota aeronave último generación transportar millón pasajero aceta contar miembro iberia air_nostrum air_europa binter_canarias gestair iberworld sumar naysa vueling sumar empleado disponer conjunto flota avión transportar millón pasajero facturación anual",
+        "persons": [
+            "Aceta",
+            "Navegación",
+            "Servicios_Canarios",
+            "Binter_Canarias",
+            "Binter_Canarias"
+        ],
+        "locations": [
+            "España",
+            "Barcelona",
+            "Gran_Canaria",
+            "Naysa"
+        ],
+        "organizations": [
+            "Vueling",
+            "Clikair",
+            "El_Prat",
+            "Naysa",
+            "Aceta",
+            "Iberia",
+            "Air_Nostrum",
+            "Air_Europa",
+            "Gestair",
+            "Iberworld",
+            "Vueling"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2004",
+            "37",
+            "10,6",
+            "2009",
+            "26",
+            "100",
+            "1969",
+            "2",
+            "12",
+            "ATR72-500",
+            "2009",
+            "1,72",
+            "30",
+            "370",
+            "2009",
+            "48,5",
+            "$_ECU:7000000"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/668592/0/",
+    "title": {
+        "raw_text": "Concluye la alerta amarilla en Canarias por fuertes vientos y oleaje",
+        "lemmatized_text": "concluir el alerta amarillo en canarias por fuerte viento y oleaje",
+        "lemmatized_text_reduced": "concluir alerta amarillo canarias fuerte viento oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha decretado la finalización de la alerta amarilla (riesgo) en Canarias por fuertes vientos de hasta 75 kilómetros por hora, así como fenómenos costeros adversos, según informó a Europa Press la directora de la Aemet en el archipiélago, Irene Sanz.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber decretar el finalización de el alerta amarillo riesgo en canarias por fuerte viento de hasta SP_km/h:75 así_como fenómeno costero adverso según informar a europa_press el director de el aemet en el archipiélago irene_sanz",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber decretar finalización alerta amarillo riesgo canarias fuerte viento fenómeno costero adverso informar europa_press director aemet archipiélago irene_sanz",
+        "persons": [
+            "Irene_Sanz"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Europa_Press",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:75"
+        ]
+    },
+    "body": {
+        "raw_text": "En Canarias, el cielo estará nuboso en el norte de las islas con posibilidad de alguna lluvia débil al principio, intervalos nubosos en las islas más orientales y poco nuboso en el resto, disminuyendo la nubosidad a lo largo del día. Hoy suben las temperaturas y se prevén cielos despejados en casi todo el país, salvo en el sureste peninsular donde habrá nubes e incluso algunas lluvias débiles, aunque lo más significativo de la jornada será el viento muy fuerte de Levante en el Estrecho y en el litoral mediterráneo andaluz. Así, en el sureste peninsular, el cielo estará nuboso o muy nuboso con algunas lluvias débiles, que podrían extenderse a lo largo del día a otros puntos del resto del cuadrante sureste y al sur de Baleares al final, mientras que en el resto de la Península, será poco nuboso o despejado, aunque aumentando a intervalos de nubes altas en la mitad sur y este peninsular. Las temperaturas irán en ligero descenso en el área de Levante, en ligero o moderado ascenso en el resto de la Península, más acusado en el extremo norte, localmente notable en Navarra; mientras que en Baleares y Canarias apenas se percibirán cambios. Heladas débiles en zonas de la mitad norte. Vientos flojos o moderados de componente e en la mitad sur peninsular, con intervalos de fuerte en el litoral del sureste, moderados a fuertes en el litoral occidental de Andalucía y fuertes o muy fuertes en el área del Estrecho y litoral mediterráneo andaluz, así como, moderados de componente norte en el extremo noreste de Cataluña y en Canarias, con algún intervalo fuerte al principio, y en Baleares de componente norte flojo a moderado girando al este y flojos variables en el resto del pais.",
+        "lemmatized_text": "en canarias el cielo estar nuboso en el norte de el isla con posibilidad de alguno lluvia débil a el principio intervalo nuboso en el isla más oriental y poco nuboso en el resto disminuir el nubosidad a el largo de el día hoy subir el temperatura y se prever cielo despejar en casi todo el país salvo en el sureste peninsular donde haber nube y incluso alguno lluvia débil aunque el más significativo de el jornada ser el viento muy fuerte de levante en el estrecho y en el litoral mediterráneo andaluz así en el sureste peninsular el cielo estar nuboso o muy nuboso con alguno lluvia débil que poder extender se a el largo de el día a otro punto de el resto de el cuadrante sureste y a el sur de baleares a el final mientras_que en el resto de el península ser poco nuboso o despejar aunque aumentar a intervalo de nube alto en el mitad sur y este peninsular el temperatura ir en ligero descenso en el área de levante en ligero o moderar ascenso en el resto de el península más acusar en el extremo norte localmente notable en navarra mientras_que en baleares y canarias apenas se percibir cambio helada débil en zona de el mitad norte viento flojo o moderar de componente y en el mitad sur peninsular con intervalo de fuerte en el litoral de el sureste moderar a fuerte en el litoral occidental de andalucía y fuerte o muy fuerte en el área de el estrecho y litoral mediterráneo andaluz así_como moderar de componente norte en el extremo noreste de cataluña y en canarias con alguno intervalo fuerte a el principio y en baleares de componente norte flojo a moderar girar a el este y flojo variable en el resto de el pais",
+        "lemmatized_text_reduced": "canarias cielo estar nuboso norte isla posibilidad lluvia débil principio intervalo nuboso isla oriental nuboso resto disminuir nubosidad largo día subir temperatura prever cielo despejar país sureste peninsular haber nube lluvia débil significativo jornada ser viento fuerte levante estrecho litoral mediterráneo andaluz sureste peninsular cielo estar nuboso nuboso lluvia débil poder extender largo día punto resto cuadrante sureste sur baleares final resto península ser nuboso despejar aumentar intervalo nube alto mitad sur peninsular temperatura ir ligero descenso área levante ligero moderar ascenso resto península acusar extremo norte localmente notable navarra baleares canarias percibir cambio helada débil zona mitad norte viento flojo moderar componente mitad sur peninsular intervalo fuerte litoral sureste moderar fuerte litoral occidental andalucía fuerte fuerte área estrecho litoral mediterráneo andaluz moderar componente norte extremo noreste cataluña canarias intervalo fuerte principio baleares componente norte flojo moderar girar flojo variable resto pais",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Levante",
+            "Estrecho",
+            "Baleares",
+            "Península",
+            "Levante",
+            "Península",
+            "Navarra",
+            "Baleares",
+            "Canarias",
+            "Andalucía",
+            "Estrecho",
+            "Cataluña",
+            "Canarias",
+            "Baleares"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/722081/0/",
+    "title": {
+        "raw_text": "Finaliza la alerta amarilla por fuertes vientos y oleaje en Lanzarote",
+        "lemmatized_text": "finalizar el alerta amarillo por fuerte viento y oleaje en lanzarote",
+        "lemmatized_text_reduced": "finalizar alerta amarillo fuerte viento oleaje lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha dado por finaliza ya la situación de riesgo amarillo en la que se encontraba la isla de Lanzarote por fuertes vientos y oleaje desde la madrugada del sábado.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber dar por finalizar ya el situación de riesgo amarillo en el que se encontrar el isla de lanzarote por fuerte viento y oleaje desde el madrugada de el [S:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber dar finalizar situación riesgo amarillo encontrar isla lanzarote fuerte viento oleaje madrugada",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, la isla llegó a registrar rachas máximas de viento de 70 kilómetros por hora hasta primeras horas de hoy domingo, según los datos recogidos por Europa Press. Los fenómenos costeros adversos también se han dejado notar en el litoral de la isla, en el nordeste.",
+        "lemmatized_text": "en concreto el isla llegar a registrar racha máximo de viento de SP_km/h:70 hasta 1 hora de hoy [G:??/??/??:??.??:??] según el dato recoger por europa_press el fenómeno costero adverso también se haber dejar notar en el litoral de el isla en el nordeste",
+        "lemmatized_text_reduced": "concreto isla llegar registrar racha máximo viento 1 hora dato recoger europa_press fenómeno costero adverso haber dejar notar litoral isla nordeste",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:70"
+        ]
+    }
+}

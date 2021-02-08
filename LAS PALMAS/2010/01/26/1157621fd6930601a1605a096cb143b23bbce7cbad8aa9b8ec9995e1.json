@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/615228/0/",
+    "title": {
+        "raw_text": "Policía Nacional detiene a un hombre como presunto autor de un delito de estafa en Las Palmas de Gran Canaria",
+        "lemmatized_text": "policía_nacional detener a uno hombre como presunto autor de uno delito de estafa en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional detener hombre presunto autor delito estafa las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a un hombre, que responde a las iniciales de M.A.M.R., de 27 años de edad, como presunto autor de un delito de hurto y una falta de estafa en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el policía_nacional haber detener a uno hombre que responder a el inicial de m.a.m.r. de 27 año de edad como presunto autor de uno delito de hurto y uno falta de estafa en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional haber detener hombre responder inicial m.a.m.r. año edad presunto autor delito hurto falta estafa las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "M.A.M.R."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "27"
+        ]
+    },
+    "body": {
+        "raw_text": "El 'modus operandi' del arrestado consistía en hacerse pasar por técnico de la empresa Unelco, por lo que se ganaba la confianza de sus víctimas, personas de edad avanzada en la generalidad de los casos, para entrar en sus domicilios sin levantar sospechas, y con la excusa de revisar el cuadro de luces de la casa o de realizar alguna reparación en el mismo, según informó la Policía Nacional en un comunicado. Asimismo, el detenido cobraba por el supuesto trabajo un importe \"desmesurado que en ningún caso practicaba\". Además, aprovechaba que se encontraba en el interior de la vivienda para valerse de algún descuido de la moradora y sustraer dinero, joyas y objetos de valor. En concreto, uno de los afectados ha sido una señora de 77 años de edad, quien presentó una denuncia el 9 de enero y manifestó que el detenido le había intentado estafar con una revisión de la instalación eléctrica que nunca llegó a efectuar, por valor de 235 euros. El presunto autor de los hechos se introdujo en su dormitorio y le sustrajo a la mujer dos sortijas, una pulsera y una cadena, todas de oro, mientras le entretenía diciéndole que fuese a desenchufar algunos electrodomésticos de la vivienda. La detención se produjo días después, tras investigaciones y gestiones llevadas a cabo por el Grupo de Policía Judicial de la Comisaría de Distrito Sur que concluyeron en la identificación y localización del autor. Respecto al responsable de los hechos se dedicaba habitualmente a este tipo de estafa, habiendo sido detenido con anterioridad en 17 ocasiones, cuatro de ellas por estafa y otras cinco por delitos contra el patrimonio, entre otras. Finalmente, una vez tramitadas las diligencias policiales, el detenido pasó a disposición judicial.",
+        "lemmatized_text": "el modus operandi de el arrestar consistir en hacer se pasar por técnico de el empresa unelco por el que se ganar el confianza de su víctima persona de edad avanzar en el generalidad de el caso para entrar en su domicilio sin levantar sospecha y con el excusa de revisar el cuadro de luz de el casa o de realizar alguno reparación en el mismo según informar el policía_nacional en uno comunicado asimismo el detenido cobrar por el suponer trabajo uno importe desmesurar que en ninguno caso practicar además aprovechar que se encontrar en_el_interior_de el vivienda para valer se de alguno descuido de el morador y sustraer dinero joya y objeto de valor en concreto uno de el afectado haber ser uno señor de 77 año de edad quien presentar uno denuncia el [??:9/1/??:??.??:??] y manifestar que el detener le haber intentar estafar con uno revisión de el instalación eléctrico que nunca llegar a efectuar por valor de $_ECU:235 el presunto autor de el hecho se introducir en su dormitorio y le sustraer a el mujer 2 sortija uno pulsera y uno cadena todo de oro mientras le entretener decir le que ser a desenchufar alguno electrodoméstico de el vivienda el detención se producir día después tras investigación y gestión llevar_a_cabo por el grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur que concluir en el identificación y localización de el autor respecto a el responsable de el hecho se dedicar habitualmente a este tipo de estafa haber ser detener con anterioridad en 17 ocasión 4 de ellos por estafa y otro 5 por delito contra el patrimonio entre otro finalmente uno vez tramitar el diligencia policial el detenido pasar a disposición judicial",
+        "lemmatized_text_reduced": "modus operandi arrestar consistir hacer pasar técnico empresa unelco ganar confianza víctima persona edad avanzar generalidad caso entrar domicilio levantar sospecha excusa revisar cuadro luz casa realizar reparación mismo informar policía_nacional comunicado detenido cobrar suponer trabajo importe desmesurar caso practicar aprovechar encontrar vivienda valer descuido morador sustraer dinero joya objeto valor concreto afectado haber ser señor año edad presentar denuncia manifestar detener haber intentar estafar revisión instalación eléctrico llegar efectuar valor presunto autor hecho introducir dormitorio sustraer mujer sortija pulsera cadena oro entretener decir ser desenchufar electrodoméstico vivienda detención producir día investigación gestión llevar_a_cabo grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur concluir identificación localización autor respecto responsable hecho dedicar habitualmente tipo estafa haber ser detener anterioridad ocasión estafa delito patrimonio finalmente vez tramitar diligencia policial detenido pasar disposición judicial",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Unelco",
+            "Policía_Nacional",
+            "Grupo_de_Policía_Judicial_de_la_Comisaría_de_Distrito_Sur"
+        ],
+        "others": [],
+        "dates": [
+            "[??:9/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "77",
+            "$_ECU:235",
+            "2",
+            "17",
+            "4",
+            "5"
+        ]
+    }
+}

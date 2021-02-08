@@ -1,0 +1,92 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/413637/0/trescientos/inmigrantes/canarias/",
+    "title": {
+        "raw_text": "Llegan a Canarias más de 300 inmigrantes en un solo fin de semana",
+        "lemmatized_text": "llegar a canarias más de 300 inmigrante en uno solo fin de semana",
+        "lemmatized_text_reduced": "llegar canarias inmigrante solo fin semana",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "300"
+        ]
+    },
+    "lead": {
+        "raw_text": "La última embarcación llegó anoche con 164 inmigrantes a bordo. Lanzarote y Tenerife también recibieron pateras a lo largo del fin de semana. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el último embarcación llegar anoche con 164 inmigrante a_bordo lanzarote y tenerife también recibir patera a el largo de el fin de semana consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "último embarcación llegar inmigrante lanzarote tenerife recibir patera largo fin semana consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Tenerife",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "164"
+        ]
+    },
+    "body": {
+        "raw_text": "Las islas Canarias han recibido durante este fin de semana un total de 147 inmigrantes, cifra que se eleva a 311 después de que la pasada noche llegara a Arguineguín (Gran Canaria) la patera que el 'Conde de Gondomar' de Salvamento Marítimo remolcó y en la que viajaban, aproximadamente, 164 inmigrantes. La primera embarcación llegó, por sus propios medios, a las 5.49 horas del sábado a la playa La Garita, en Haría (Lanzarote), y fue avistada por el presidente de Coalición Canaria (CC), José Torres Stinga, quien pudo ver cómo saltaban de la patera 15 inmigrantes. Stinga, en declaraciones a Europa Press, indicó que las personas que se bajaron de la embarcación eran entre \"12 y 15, entre ellos, una mujer\". Posteriormente, a las 09.20 horas del sábado arribó otro cayuco , éste en el muelle de Los Cristianos , en Tenerife, después de que lo avistara un pesquero que navegaba por la zona. En dicha embarcación viajaban un total de 100 inmigrantes, todos varones, aunque 13 de ellos posibles menores. En la mañana del sábado, llegó a Teguise (Lanzarote) otra patera , en esta ocasión, iban 32 inmigrantes, entre ellos, una mujer y un bebé. Además, sobre las 10.45 horas de la noche del domingo arribaba a Arguineguín, en el sur de Gran Canaria , la embarcación que fue avistada a las 06.00 horas del domingo, a 170 millas al sur del municipio. En su interior viajaban 164 subsaharianos , la mayoría de Guinea Conakry, entre ellos 6 mujeres y un número indeterminado de menores. Su estado de salud era bueno en general.",
+        "lemmatized_text": "el isla canarias haber recibir durante este fin de semana uno total de 147 inmigrante cifra que se elevar a 311 después_de que el pasar noche llegar a arguineguín gran_canaria el patera que el conde_de_gondomar de salvamento_marítimo remolcar y en el que viajar aproximadamente 164 inmigrante el 1 embarcación llegar por su propio medio a el [S:??/??/??:5.00:??] a el playa la_garita en haría lanzarote y ser avistar por el presidente de coalición_canaria cc josé_torres_stinga quien poder ver cómo saltar de el patera 15 inmigrante stinga en declaración a europa_press indicar que el persona que se bajar de el embarcación ser entre 12 y 15 entre ellos uno mujer posteriormente a el [S:??/??/??:9.00:??] arribar otro cayuco este en el muelle de los_cristianos en tenerife después_de que lo avistar uno pesquero que navegar por el zona en decir embarcación viajar uno total de 100 inmigrante todo varón aunque 13 de ellos posible menor en el mañana de el [S:??/??/??:??.??:??] llegar a teguise lanzarote otro patera en este ocasión ir 32 inmigrante entre ellos uno mujer y uno bebé además sobre el [G:??/??/??:10.00:pm] arribar a arguineguín en el sur de gran_canaria el embarcación que ser avistar a el [G:??/??/??:6.00:??] a LN_mi:170 a el sur de el municipio en su interior viajar 164 subsahariano el mayoría de guinea_conakry entre ellos 6 mujer y uno número indeterminar de menor su estado de salud ser bueno en general",
+        "lemmatized_text_reduced": "isla canarias haber recibir fin semana total inmigrante cifra elevar pasar noche llegar arguineguín gran_canaria patera conde_de_gondomar salvamento_marítimo remolcar viajar aproximadamente inmigrante 1 embarcación llegar propio medio playa la_garita haría lanzarote ser avistar presidente coalición_canaria cc josé_torres_stinga poder ver saltar patera inmigrante stinga declaración europa_press indicar persona bajar embarcación ser mujer posteriormente arribar cayuco muelle los_cristianos tenerife avistar pesquero navegar zona decir embarcación viajar total inmigrante varón posible menor mañana llegar teguise lanzarote patera ocasión ir inmigrante mujer bebé arribar arguineguín sur gran_canaria embarcación ser avistar sur municipio interior viajar subsahariano mayoría guinea_conakry mujer número indeterminar menor estado salud ser bueno general",
+        "persons": [
+            "José_Torres_Stinga",
+            "Stinga",
+            "Europa_Press",
+            "Guinea_Conakry"
+        ],
+        "locations": [
+            "Canarias",
+            "Arguineguín",
+            "Gran_Canaria",
+            "Salvamento_Marítimo",
+            "La_Garita",
+            "Haría",
+            "Lanzarote",
+            "Los_Cristianos",
+            "Tenerife",
+            "Teguise",
+            "Lanzarote",
+            "Arguineguín",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC"
+        ],
+        "others": [
+            "Conde_de_Gondomar"
+        ],
+        "dates": [
+            "[S:??/??/??:5.00:??]",
+            "[S:??/??/??:9.00:??]",
+            "[S:??/??/??:??.??:??]",
+            "[G:??/??/??:10.00:pm]",
+            "[G:??/??/??:6.00:??]"
+        ],
+        "numbers": [
+            "147",
+            "311",
+            "164",
+            "15",
+            "12",
+            "15",
+            "100",
+            "13",
+            "32",
+            "LN_mi:170",
+            "164",
+            "6"
+        ]
+    }
+}

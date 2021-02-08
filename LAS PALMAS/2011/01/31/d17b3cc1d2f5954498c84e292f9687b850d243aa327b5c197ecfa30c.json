@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/945151/0/",
+    "title": {
+        "raw_text": "El derrumbe del muro en Miller Bajo (Gran Canaria) obliga al desalojo de 4 viviendas",
+        "lemmatized_text": "el derrumbe de el muro en miller_bajo gran_canaria obligar a el desalojo de 4 vivienda",
+        "lemmatized_text_reduced": "derrumbe muro miller_bajo gran_canaria obligar desalojo vivienda",
+        "persons": [
+            "Miller_Bajo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Debido a las lluvias caídas desde el pasado viernes en la capital, se ha producido un corrimiento de tierra en la zona de Miller Bajo de Las Palmas de Gran Canaria, afectando a una nave industrial de la empresa JSP.",
+        "lemmatized_text": "debido_a el lluvia caer desde el [V:??/??/??:??.??:??] en el capital se haber producir uno corrimiento de tierra en_la_zona_de miller_bajo_de_las_palmas_de_gran_canaria afectar a uno nave industrial de el empresa jsp",
+        "lemmatized_text_reduced": "lluvia caer capital haber producir corrimiento tierra miller_bajo_de_las_palmas_de_gran_canaria afectar nave industrial empresa jsp",
+        "persons": [],
+        "locations": [
+            "Miller_Bajo_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "JSP"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Debido a las lluvias caídas desde el pasado viernes en la capital, se ha producido un corrimiento de tierra en la zona de Miller Bajo de Las Palmas de Gran Canaria, afectando a una nave industrial de la empresa JSP. Este desplazamiento ha motivado el desalojo de cuatro viviendas que se encuentran en la parte superior de la ladera, en la subida al barrio Lomo Apolinario, hasta que los técnicos municipales determinen si la cimentación de las viviendas es lo suficientemente estable, informó el Ayuntamiento capitalino en un comunicado. En estos momentos, personal técnico del área de urbanismo se encuentran estudiando la estabilidad de las viviendas, mientras los Servicios Sociales del Ayuntamiento de Las Palmas de Gran Canaria se están ocupando del realojo de las cuatro familias afectadas. Dos de estas familias ya han sido realojadas en casas de familiares y se trabaja en localizar a las otras dos. Finalmente, durante las últimas horas, especialmente la noche del sábado al domingo, los pluviómetros del Instituto Nacional de Meteorología (INM) y otros organismos asociados han registrado lluvias de hasta 108,2 litros en distintos puntos de la ciudad.",
+        "lemmatized_text": "debido_a el lluvia caer desde el [V:??/??/??:??.??:??] en el capital se haber producir uno corrimiento de tierra en_la_zona_de miller_bajo_de_las_palmas_de_gran_canaria afectar a uno nave industrial de el empresa jsp este desplazamiento haber motivar el desalojo de 4 vivienda que se encontrar en el parte superior de el ladera en el subida a el barrio lomo_apolinario hasta que el técnico municipal determinar si el cimentación de el vivienda ser el suficientemente estable informar el ayuntamiento capitalino en uno comunicado en este momento personal técnico de el área de urbanismo se encontrar estudiar el estabilidad de el vivienda mientras el servicios_sociales_del_ayuntamiento_de_las_palmas_de_gran_canaria se estar ocupar de el realojar de el 4 familia afectar 2 de este familia ya haber ser realojar en casa de familiar y se trabajar en localizar a el otro 2 finalmente durante el último hora especialmente el noche de el [S:??/??/??:??.??:??] a el [G:??/??/??:??.??:??] el pluviómetro de el instituto_nacional_de_meteorología inm y otro organismo asociar haber registrar lluvia de hasta VL_l:108,2 en distinto punto de el ciudad",
+        "lemmatized_text_reduced": "lluvia caer capital haber producir corrimiento tierra miller_bajo_de_las_palmas_de_gran_canaria afectar nave industrial empresa jsp desplazamiento haber motivar desalojo vivienda encontrar parte superior ladera subida barrio lomo_apolinario técnico municipal determinar cimentación vivienda ser suficientemente estable informar ayuntamiento capitalino comunicado momento personal técnico área urbanismo encontrar estudiar estabilidad vivienda servicios_sociales_del_ayuntamiento_de_las_palmas_de_gran_canaria estar ocupar realojar familia afectar familia haber ser realojar casa familiar trabajar localizar finalmente último hora especialmente noche pluviómetro instituto_nacional_de_meteorología inm organismo asociar haber registrar lluvia punto ciudad",
+        "persons": [
+            "Lomo_Apolinario"
+        ],
+        "locations": [
+            "Miller_Bajo_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "JSP",
+            "Ayuntamiento",
+            "Servicios_Sociales_del_Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Instituto_Nacional_de_Meteorología"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "4",
+            "4",
+            "2",
+            "2",
+            "VL_l:108,2"
+        ]
+    }
+}

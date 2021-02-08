@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/683563/0/",
+    "title": {
+        "raw_text": "La juez deja libre a los detenidos por atropellar mortalmente a una niña en Puerto Rico (Gran Canaria)",
+        "lemmatized_text": "el juez dejar libre a el detenido por atropellar mortalmente a uno niño en puerto_rico gran_canaria",
+        "lemmatized_text_reduced": "juez dejar libre detenido atropellar mortalmente niño puerto_rico gran_canaria",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los dos detenidos por su presunta relación con el atropello y muerte de una niña en la zona de Puerto Rico, en el municipio de Mogán (Gran Canaria), el pasado domingo han prestado hoy declaración en el Juzgado de Guardia de San Bartolomé de Tirajana, y posteriormente se les ha dejado en libertad.",
+        "lemmatized_text": "el 2 detenido por su presunto relación con el atropello y muerte de uno niño en_la_zona_de puerto_rico en el municipio de mogán gran_canaria el [G:??/??/??:??.??:??] haber prestar hoy declaración en el juzgado_de_guardia_de_san_bartolomé_de_tirajana y posteriormente se le haber dejar en libertad",
+        "lemmatized_text_reduced": "detenido presunto relación atropello muerte niño puerto_rico municipio mogán gran_canaria haber prestar declaración juzgado_de_guardia_de_san_bartolomé_de_tirajana posteriormente haber dejar libertad",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Juzgado_de_Guardia_de_San_Bartolomé_de_Tirajana"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, según informó el Tribunal Superior de Justicia de Canarias (TSJC) en un comunicado, tras prestar declaración las dos personas detenidas por su presunta relación con el atropello mortal, la juez les ha imputado los delitos de homicidio imprudente, lesiones imprudentes y omisión del deber de socorro. La juez también ha dictado su puesta en libertad, con la obligación de comparecer los días 1 y 15 de cada mes en el juzgado, y les ha retirado el pasaporte, así como el carné de conducir. Los hechos se produjeron la tarde del domingo, 18 de abril, y la niña de 12 años de edad murió tras ser atropellado por un turismo en la zona indicada. Además, junto a la niña fallecida, resultó herido de carácter leve otro menor también de 12 años de edad.",
+        "lemmatized_text": "así según informar el tribunal_superior_de_justicia_de_canarias tsjc en uno comunicado tras prestar declaración el 2 persona detener por su presunto relación con el atropello mortal el juez le haber imputar el delito de homicidio imprudente lesión imprudente y omisión de el deber de socorro el juez también haber dictar su puesta en libertad con el obligación de comparecer el día 1 y 15 de cada mes en el juzgado y le haber retirar el pasaporte así_como el carné de conducir el hecho se producir el tarde de el [G:18/4/??:??.??:??] y el niño de 12 año de edad morir tras ser atropellar por uno turismo en el zona indicar además junto_a el niño fallecer resultar herir de carácter leve otro menor también de 12 año de edad",
+        "lemmatized_text_reduced": "informar tribunal_superior_de_justicia_de_canarias tsjc comunicado prestar declaración persona detener presunto relación atropello mortal juez haber imputar delito homicidio imprudente lesión imprudente omisión deber socorro juez haber dictar puesta libertad obligación comparecer día mes juzgado haber retirar pasaporte carné conducir hecho producir tarde niño año edad morir ser atropellar turismo zona indicar niño fallecer resultar herir carácter leve menor año edad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "TSJC"
+        ],
+        "others": [],
+        "dates": [
+            "[G:18/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "1",
+            "15",
+            "12",
+            "12"
+        ]
+    }
+}

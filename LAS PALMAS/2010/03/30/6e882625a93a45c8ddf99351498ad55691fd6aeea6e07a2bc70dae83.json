@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/665281/0/",
+    "title": {
+        "raw_text": "Un motorista resulta herido tras colisionar contra un turismo en Arucas (Gran Canaria)",
+        "lemmatized_text": "uno motorista resultar herir tras colisionar contra uno turismo en arucas gran_canaria",
+        "lemmatized_text_reduced": "motorista resultar herir colisionar turismo arucas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven motorista de 22 años de edad ha resultado herido con traumatismo en miembro inferior de carácter menos grave tras colisionar contra un turismo en la carretera GC-20, a la altura de la rotonda decorada con esculturas móviles de César Manrique, en el municipio de Arucas (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno joven motorista de 22 año de edad haber resultar herir con traumatismo en miembro inferior de carácter menos grave tras colisionar contra uno turismo en el carretera GC-20 a el altura de el rotonda decorar con escultura móvil de césar_manrique en el municipio de arucas gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "joven motorista año edad haber resultar herir traumatismo miembro inferior carácter grave colisionar turismo carretera altura rotonda decorar escultura móvil césar_manrique municipio arucas gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "César_Manrique"
+        ],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "22",
+            "GC-20",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 10.10 horas, cuando se recibió una llamada en el Cecoes que informaba de que un turismo y un coche habían colisionado en el lugar señalado y que tras el accidente el motorista precisaba atención sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencias oportunos. Como consecuencia del impacto el varón fue atendido por personal médico del Servicio de Urgencias Canario (SUC), que estabilizó al afectado al que se le apreciaron heridas que hacían recomendable su traslado en ambulancia de soporte vital básico del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. En dicha actuación también intervino el Consorcio de Emergencias, que se trasladó al lugar sin ser activado para prestar su ayuda y sus efectivos restablecieron la normalidad en la vía. Por su parte, la Guardia Civil se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el accidente se producir a el TM_h:10.1 cuando se recibir uno llamada en el cecoes que informar de que uno turismo y uno coche haber colisionar en el lugar señalar y que tras el accidente el motorista precisar atención sanitario de este modo el 112 activar de inmediato el recurso de emergencia oportuno como consecuencia de el impacto el varón ser atender por personal médico de el servicio_de_urgencias_canario suc que estabilizar a el afectar a el que se le apreciar herida que hacer recomendable su traslado en ambulancia de soporte vital básico de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín en decir actuación también intervenir el consorcio_de_emergencias que se trasladar a el lugar sin ser activar para prestar su ayuda y su efectivo restablecer el normalidad en el vía por su parte el guardia_civil se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "accidente producir recibir llamada cecoes informar turismo coche haber colisionar lugar señalar accidente motorista precisar atención sanitario modo activar inmediato recurso emergencia oportuno consecuencia impacto varón ser atender personal médico servicio_de_urgencias_canario suc estabilizar afectar apreciar herida hacer recomendable traslado ambulancia soporte vital básico suc hospital_universitario_de_gran_canaria_doctor_negrín decir actuación intervenir consorcio_de_emergencias trasladar lugar ser activar prestar ayuda efectivo restablecer normalidad vía parte guardia_civil encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Consorcio_de_Emergencias",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10.1",
+            "112"
+        ]
+    }
+}

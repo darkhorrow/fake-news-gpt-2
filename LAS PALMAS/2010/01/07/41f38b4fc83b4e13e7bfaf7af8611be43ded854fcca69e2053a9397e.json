@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/601534/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria recoge 261.740 kilogramos de residuos durante el Día de Reyes",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria recoger WG_kg:261.74 de residuo durante el día_de_reyes",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria recoger residuo día_de_reyes",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Día_de_Reyes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_kg:261.74"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los servicios de Limpieza del Ayuntamiento de Las Palmas de Gran Canaria recogieron ayer, 6 de enero de 2010, Día de Reyes, un total de 251.740 kilogramos de residuos, más de 40.000 kilogramos más que un día corriente, en los que se suele recoger 210.000 kilogramos, informó hoy el Consistorio capitalino en un comunicado.",
+        "lemmatized_text": "el servicio de limpieza_del_ayuntamiento_de_las_palmas_de_gran_canaria recoger ayer [??:6/1/2010:??.??:??] día_de_reyes uno total de WG_kg:251.74 de residuo más de WG_kg:40 más que uno día corriente en el que se soler recoger WG_kg:210 informar hoy el consistorio capitalino en uno comunicado",
+        "lemmatized_text_reduced": "servicio limpieza_del_ayuntamiento_de_las_palmas_de_gran_canaria recoger día_de_reyes total residuo día corriente soler recoger informar consistorio capitalino comunicado",
+        "persons": [
+            "Día_de_Reyes"
+        ],
+        "locations": [],
+        "organizations": [
+            "Limpieza_del_Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Consistorio"
+        ],
+        "others": [],
+        "dates": [
+            "[??:6/1/2010:??.??:??]"
+        ],
+        "numbers": [
+            "WG_kg:251.74",
+            "WG_kg:40",
+            "WG_kg:210"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, por turnos, el de la mañana recogió de los contenedores domiciliarios 104.220 kilogramos, mientras que el de la tarde la cantidad fue bastante inferior, 60.125 kilogramos en total. Ya por la noche se retiraron 97.395 kilogramos. Desde el Ayuntamiento señalaron que el incremento en la recogida de residuos en esta fecha concreta, con la que concluyen las fiestas navideñas, se debe principalmente al aumento de papeles, cartones, cajas y paquetes que se depositan en mayor medida en los contenedores.",
+        "lemmatized_text": "de este manera por turno el de el mañana recoger de el contenedor domiciliario WG_kg:104.22 mientras_que el de el tarde el cantidad ser bastante inferior WG_kg:60.125 en total ya por el noche se retirar WG_kg:97.395 desde el ayuntamiento señalar que el incremento en el recogida de residuo en este fecha concreto con el que concluir el fiesta navideño se deber principalmente a el aumento de papel cartón caja y paquete que se depositar en mayor medida en el contenedor",
+        "lemmatized_text_reduced": "manera turno mañana recoger contenedor domiciliario tarde cantidad ser inferior total noche retirar ayuntamiento señalar incremento recogida residuo fecha concreto concluir fiesta navideño deber principalmente aumento papel cartón caja paquete depositar mayor medida contenedor",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_kg:104.22",
+            "WG_kg:60.125",
+            "WG_kg:97.395"
+        ]
+    }
+}

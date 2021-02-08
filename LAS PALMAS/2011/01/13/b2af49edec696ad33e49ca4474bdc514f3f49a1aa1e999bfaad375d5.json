@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/927665/0/",
+    "title": {
+        "raw_text": "Un hombre menos grave tras sufrir un atropello en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre menos grave tras sufrir uno atropello en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre grave sufrir atropello las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido de menor gravedad después de sufrir un atropello en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber resultar herir de menor gravedad después_de sufrir uno atropello en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir menor gravedad sufrir atropello las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre ha resultado herido de menor gravedad después de sufrir un atropello en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo este jueves en la calle León y Castillo de la capital grancanaria y el herido sufrió traumatismo craneoencefálico de carácter menos grave, por lo que fue evacuado por el Servicio de Urgencias Canario (SUC) al Hospital Universitario de Gran Canaria Doctor Negrín. Hasta el lugar de los hechos se trasladaron agentes de la Policía Local que regularon el tráfico en la zona e instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre haber resultar herir de menor gravedad después_de sufrir uno atropello en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir este [J:??/??/??:??.??:??] en el calle león y castillo de el capital grancanaria y el herir sufrir traumatismo craneoencefálico de carácter menos grave por el que ser evacuar por el servicio_de_urgencias_canario suc a el hospital_universitario_de_gran_canaria_doctor_negrín hasta el lugar de el hecho se trasladar agente de el policía_local que regular el tráfico en el zona y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre haber resultar herir menor gravedad sufrir atropello las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad incidente producir calle león castillo capital grancanaria herir sufrir traumatismo craneoencefálico carácter grave ser evacuar servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín lugar hecho trasladar agente policía_local regular tráfico zona instruir diligencia correspondiente",
+        "persons": [
+            "Castillo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "León"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    }
+}

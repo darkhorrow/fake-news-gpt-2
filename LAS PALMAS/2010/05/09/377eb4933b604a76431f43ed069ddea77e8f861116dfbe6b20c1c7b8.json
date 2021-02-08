@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/701290/0/",
+    "title": {
+        "raw_text": "Herido un motorista tras salirse de la vía en la carretera y caer en un cañaveral en Santa Brígida (Gran Canaria)",
+        "lemmatized_text": "herir uno motorista tras salir se de el vía en el carretera y caer en uno cañaveral en santa_brígida gran_canaria",
+        "lemmatized_text_reduced": "herir motorista salir vía carretera caer cañaveral santa_brígida gran_canaria",
+        "persons": [],
+        "locations": [
+            "Santa_Brígida"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un motorista de 35 años ha resultado herido tras salirse de la vía en la carrera de Santa Brígida a Pino Santo, dentro del término municipal de Santa Brígida, en Gran Canaria, y caer sobre un cañaveral sobre las 09.26 horas, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno motorista de 35 año haber resultar herir tras salir se de el vía en el carrera de santa_brígida a pino_santo dentro de el término municipal de santa_brígida en gran_canaria y caer sobre uno cañaveral sobre el TM_h:9.26 según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "motorista año haber resultar herir salir vía carrera santa_brígida pino_santo término municipal santa_brígida gran_canaria caer cañaveral informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Pino_Santo"
+        ],
+        "locations": [
+            "Santa_Brígida",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Santa_Brígida",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "35",
+            "TM_h:9.26",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los servicios de emergencias recibieron una llamada a la hora indicada informando de que un motorista se había caído en un cañaveral tras salirse de la carretera y que precisaba de atención médica. En ese momento, se trasladó al lugar una ambulancia de soporte vital básicos del Servicio de Urgencias Canario (SUC). Al llegar, los médicos atendieron a un hombre que presentaba un traumatismo en miembro superior de carácter menos grave, por lo que tuvo que ser evacuado en la ambulancia de soporte vital básico al Hospital Universitario de Gran Canaria Doctor Negrín de la capital. Por su parte, agentes de la Policía Local, que también acudieron al lugar de los hechos, se encargaron de elaborar los informes correspondientes.",
+        "lemmatized_text": "el servicio de emergencia recibir uno llamada a el hora indicar informar de que uno motorista se haber caer en uno cañaveral tras salir se de el carretera y que precisar de atención médico en ese momento se trasladar a el lugar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc a el llegar el médico atender a uno hombre que presentar uno traumatismo en miembro superior de carácter menos grave por el que tener que ser evacuar en el ambulancia de soporte vital básico a el hospital_universitario_de_gran_canaria_doctor_negrín de el capital por su parte agente de el policía_local que también acudir a el lugar de el hecho se encargar de elaborar el informe correspondiente",
+        "lemmatized_text_reduced": "servicio emergencia recibir llamada hora indicar informar motorista haber caer cañaveral salir carretera precisar atención médico momento trasladar lugar ambulancia soporte vital básico servicio_de_urgencias_canario suc llegar médico atender hombre presentar traumatismo miembro superior carácter grave tener ser evacuar ambulancia soporte vital básico hospital_universitario_de_gran_canaria_doctor_negrín capital parte agente policía_local acudir lugar hecho encargar elaborar informe correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

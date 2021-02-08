@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/626478/0/",
+    "title": {
+        "raw_text": "El presidente canario viajará a La Habana el próximo domingo acompañado de una delegación oficial",
+        "lemmatized_text": "el presidente canario viajar a la_habana el [G:??/??/??:??.??:??] acompañar de uno delegación oficial",
+        "lemmatized_text_reduced": "presidente canario viajar la_habana acompañar delegación oficial",
+        "persons": [],
+        "locations": [
+            "La_Habana"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de Canarias, Paulino Rivero, viajará el próximo domingo, 14 de febrero, a La Habana, a donde llegará acompañado de una delegación oficial.",
+        "lemmatized_text": "el presidente de canarias paulino_rivero viajar el [G:14/2/??:??.??:??] a la_habana a_donde llegar acompañar de uno delegación oficial",
+        "lemmatized_text_reduced": "presidente canarias paulino_rivero viajar la_habana llegar acompañar delegación oficial",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Canarias",
+            "La_Habana"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:14/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Rivero, según informó la Embajada de España en Cuba en un comunicado, permanecerá en La Habana hasta el 16 de febrero, día que partirá a San José de Puerto Rico. Previamente, durante su estancia en La Habana será recibido por autoridades y personalidades cubanas y mantendrá un encuentro con la Colonia Canaria de la isla. En cuanto a la delegación oficial que acompañará a Rivero se encuentran la comisionada de Acción Exterior del Gobierno de Canarias, Elsa Casas, y la viceconsejera de Justicia y Seguridad del Ejecutivo regional, Carolina Déniz.",
+        "lemmatized_text": "rivero según informar el embajada_de_españa en cuba en uno comunicado permanecer en la_habana hasta el [??:16/2/??:??.??:??] día que partir a san_josé_de_puerto_rico previamente durante su estancia en la_habana ser recibir por autoridad y personalidad cubano y mantener uno encuentro con el colonia_canaria de el isla en_cuanto_a el delegación oficial que acompañar a rivero se encontrar el comisionado de acción_exterior_del_gobierno_de_canarias elsa_casas y el viceconsejero de justicia y seguridad_del_ejecutivo regional carolina_déniz",
+        "lemmatized_text_reduced": "rivero informar embajada_de_españa cuba comunicado permanecer la_habana día partir san_josé_de_puerto_rico previamente estancia la_habana ser recibir autoridad personalidad cubano mantener encuentro colonia_canaria isla delegación oficial acompañar rivero encontrar comisionado acción_exterior_del_gobierno_de_canarias elsa_casas viceconsejero justicia seguridad_del_ejecutivo regional carolina_déniz",
+        "persons": [
+            "Rivero",
+            "Rivero",
+            "Elsa_Casas",
+            "Carolina_Déniz"
+        ],
+        "locations": [
+            "Cuba",
+            "La_Habana",
+            "San_José_de_Puerto_Rico",
+            "La_Habana"
+        ],
+        "organizations": [
+            "Embajada_de_España",
+            "Colonia_Canaria",
+            "Acción_Exterior_del_Gobierno_de_Canarias",
+            "Justicia",
+            "Seguridad_del_Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[??:16/2/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

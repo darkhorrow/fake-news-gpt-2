@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604743/0/",
+    "title": {
+        "raw_text": "El PP de Gran Canaria solicita al Cabildo la devolución del proyecto de presupuestos de 2010 al consejo de gobierno",
+        "lemmatized_text": "el pp_de_gran_canaria solicitar a el cabildo el devolución de el proyecto de presupuesto de 2010 a el consejo de gobierno",
+        "lemmatized_text_reduced": "pp_de_gran_canaria solicitar cabildo devolución proyecto presupuesto consejo gobierno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PP_de_Gran_Canaria",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "La portavoz del PP en el Cabildo de Gran Canaria, Carmen Guerra, ha solicitado hoy a la equipo de gobierno insular la devolución del proyecto de presupuestos para 2010 que esta mañana ya presentó el consejero insular de Hacienda, Luis Ibarra.",
+        "lemmatized_text": "el portavoz de el pp en el cabildo_de_gran_canaria carmen_guerra haber solicitar hoy a el equipo de gobierno insular el devolución de el proyecto de presupuesto para 2010 que este mañana ya presentar el consejero insular de hacienda luis_ibarra",
+        "lemmatized_text_reduced": "portavoz pp cabildo_de_gran_canaria carmen_guerra haber solicitar equipo gobierno insular devolución proyecto presupuesto mañana presentar consejero insular hacienda luis_ibarra",
+        "persons": [
+            "Carmen_Guerra",
+            "Luis_Ibarra"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Hacienda"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "Guerra, en declaraciones a los medios, justificó esta petición, que se realiza por \"primera vez en la historia del Cabildo\", por ser unos presupuestos \"malos para Gran Canaria y para los grancanarios\". Al respecto, indicó que en materia de vivienda \"no hay ni un euro presupuestado para el compromiso de esas 2.500 viviendas que había que ejecutar en 2010\". Asimismo, indicó que para empleo \"no se presupuesta ni un euro del Plan de Empleo Estratégico que se puso en marcha en 2008\". También se refirió al departamento de Políticas Sociales donde dijo que las ayudas de emergencia a los ayuntamientos \"no se dan\". Agregó que \"estas y otras muchas cosas son las que hacen que el Grupo del PP en el Cabildo pida, para mejorar la calidad de vida de los grancanarios,\" la devolución de los presupuestos al consejo de gobierno del Cabildo.",
+        "lemmatized_text": "guerra en declaración a el medio justificar este petición que se realizar por 1 vez en el historia de el cabildo por ser uno presupuesto malo para gran_canaria y para el grancanarios a el respecto indicar que en_materia_de vivienda no haber ni uno euro presupuestar para el compromiso de ese 2.5 vivienda que haber que ejecutar en 2010 asimismo indicar que para empleo no se presupuestar ni uno euro de el plan_de_empleo_estratégico que se poner en marcha en 2008 también se referir a el departamento de políticas_sociales donde decir que el ayuda de emergencia a el ayuntamiento no se dar agregar que este y otro mucho cosa ser el que hacer que el grupo_del_pp en el cabildo pedir para mejorar el calidad de vida de el grancanarios el devolución de el presupuesto a el consejo de gobierno de el cabildo",
+        "lemmatized_text_reduced": "guerra declaración medio justificar petición realizar 1 vez historia cabildo ser presupuesto malo gran_canaria grancanarios respecto indicar vivienda haber euro presupuestar compromiso vivienda haber ejecutar indicar empleo presupuestar euro plan_de_empleo_estratégico poner marcha referir departamento políticas_sociales decir ayuda emergencia ayuntamiento dar agregar cosa ser hacer grupo_del_pp cabildo pedir mejorar calidad vida grancanarios devolución presupuesto consejo gobierno cabildo",
+        "persons": [
+            "Guerra"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo",
+            "Políticas_Sociales",
+            "Grupo_del_PP",
+            "Cabildo",
+            "Cabildo"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Plan_de_Empleo_Estratégico"
+        ],
+        "dates": [],
+        "numbers": [
+            "2.5",
+            "2010",
+            "2008"
+        ]
+    }
+}

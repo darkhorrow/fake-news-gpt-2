@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/918213/0/",
+    "title": {
+        "raw_text": "Un joven grave después de sufrir un vuelco con su turismo en Fuerteventura",
+        "lemmatized_text": "uno joven grave después_de sufrir uno vuelco con su turismo en fuerteventura",
+        "lemmatized_text_reduced": "joven grave sufrir vuelco turismo fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven, de 22 años de edad, se encuentra grave después de sufrir un vuelco con su turismo en Puerto del Rosario (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno joven de 22 año de edad se encontrar grave después_de sufrir uno vuelco con su turismo en puerto_del_rosario fuerteventura según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven año edad encontrar grave sufrir vuelco turismo puerto_del_rosario fuerteventura informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "22",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un joven, de 22 años de edad, se encuentra grave después de sufrir un vuelco con su turismo en Puerto del Rosario (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos ocurrieron a las 08.00 horas de este sábado en la Avenida de Los Reyes de España. En el incidente, el joven sufrió politraumatismos de carácter grave y hasta el lugar del suceso se trasladado personal del Servicio de Urgencias Canario (SUC) que lo evacuó hasta el Hospital General de Fuerteventura Asimismo, hasta el lugar se trasladaron bomberos de Puerto del Rosario, agentes de la Policía Local, así como de la Guardia Civil, que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno joven de 22 año de edad se encontrar grave después_de sufrir uno vuelco con su turismo en puerto_del_rosario fuerteventura según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho ocurrir a el TM_h:8 de este [S:??/??/??:??.??:??] en el avenida_de_los_reyes_de_españa en el incidente el joven sufrir politraumatismo de carácter grave y hasta el lugar de el suceso se trasladar personal de el servicio_de_urgencias_canario suc que lo evacuar hasta el hospital_general_de_fuerteventura_asimismo hasta el lugar se trasladar bombero de puerto_del_rosario agente de el policía_local así_como de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "joven año edad encontrar grave sufrir vuelco turismo puerto_del_rosario fuerteventura informar centro_coordinador_de_emergencias seguridad hecho ocurrir avenida_de_los_reyes_de_españa incidente joven sufrir politraumatismo carácter grave lugar suceso trasladar personal servicio_de_urgencias_canario suc evacuar hospital_general_de_fuerteventura_asimismo lugar trasladar bombero puerto_del_rosario agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Rosario",
+            "Avenida_de_Los_Reyes_de_España",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad",
+            "Hospital_General_de_Fuerteventura_Asimismo"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "22",
+            "112",
+            "TM_h:8"
+        ]
+    }
+}

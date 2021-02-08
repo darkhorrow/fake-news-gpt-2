@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-10-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/295194/0/72/inmigrantes/rescatados/",
+    "title": {
+        "raw_text": "Llegan a puerto 72 inmigrantes rescatados al sur de Gran Canaria",
+        "lemmatized_text": "llegar a puerto 72 inmigrante rescatar a el sur de gran_canaria",
+        "lemmatized_text_reduced": "llegar puerto inmigrante rescatar sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "72"
+        ]
+    },
+    "lead": {
+        "raw_text": "Sólo han necesitado asistencia médica un par de ellos. El cayuco fue localizado a la una de la tarde del martes.",
+        "lemmatized_text": "sólo haber necesitar asistencia médico uno par de ellos el cayuco ser localizar a el uno de el tarde de el [M:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "haber necesitar asistencia médico par cayuco ser localizar tarde",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los 72 inmigrantes subsaharianos rescatados a 90 millas de Maspalomas, al sur de Gran Canaria, llegaron esta madrugada al puerto de Arguineguín, donde fueron atendidos por efectivos de Cruz Roja. Casi todos los inmigrantes llegaron en buen estado de salud, salvo un par de ellos, que tuvieron que recibir asistencia médica a su llegada a puerto, pasada la medianoche. Localización del cayuco El cayuco en el que viajaban hacia Canarias fue avistado sobre la una de la tarde del martes por el remolcador Conde de Gondomar de Salvamento Marítimo. Los inmigrantes fueron izados hasta la nave, para así trasladarlos hasta Gran Canaria.",
+        "lemmatized_text": "el 72 inmigrante subsahariano rescatar a LN_mi:90 de maspalomas a el sur de gran_canaria llegar este madrugada a el puerto de arguineguín donde ser atender por efectivo de cruz_roja casi todo el inmigrante llegar en bueno estado de salud salvo uno par de ellos que tener que recibir asistencia médico a su llegada a puerto pasar el [??:??/??/??:00.00:am] localización de el cayuco el cayuco en el que viajar hacia canarias ser avistar sobre el uno de el tarde de el [M:??/??/??:??.??:??] por el remolcador conde_de_gondomar_de_salvamento_marítimo el inmigrante ser izar hasta el nave para así trasladar lo hasta gran_canaria",
+        "lemmatized_text_reduced": "inmigrante subsahariano rescatar maspalomas sur gran_canaria llegar madrugada puerto arguineguín ser atender efectivo cruz_roja inmigrante llegar bueno estado salud par tener recibir asistencia médico llegada puerto pasar localización cayuco el cayuco viajar canarias ser avistar tarde remolcador conde_de_gondomar_de_salvamento_marítimo inmigrante ser izar nave trasladar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Maspalomas",
+            "Gran_Canaria",
+            "Arguineguín",
+            "Canarias"
+        ],
+        "organizations": [
+            "Cruz_Roja",
+            "Conde_de_Gondomar_de_Salvamento_Marítimo",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "El"
+        ],
+        "dates": [
+            "[??:??/??/??:00.00:am]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "72",
+            "LN_mi:90"
+        ]
+    }
+}

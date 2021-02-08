@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/410970/0/puerto/plato/cine/",
+    "title": {
+        "raw_text": "El Puerto de La Luz y de Las Palmas será hoy plató de cine, moda y televisión",
+        "lemmatized_text": "el puerto_de_la_luz y de las_palmas ser hoy plató de cine moda y televisión",
+        "lemmatized_text_reduced": "puerto_de_la_luz las_palmas ser plató cine moda televisión",
+        "persons": [],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Será escenario de un vídeoclip, un documental, una película y sesiones fotográficas de moda. Arístides Moreno y Manolo Vieira han elegido el puerto para sus grabaciones. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "ser escenario de uno vídeoclip uno documental uno película y sesión fotográfico de moda arístides_moreno y manolo_vieira haber elegir el puerto para su grabación consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ser escenario vídeoclip documental película sesión fotográfico moda arístides_moreno manolo_vieira haber elegir puerto grabación consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Arístides_Moreno",
+            "Manolo_Vieira"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Puerto de La Luz y de Las Palmas , en la capital de Gran Canaria, se convertirá a partir de hoy en plató de rodaje para cine, moda y televisión, según informó la Autoridad Portuaria de Las Palmas en un comunicado. En este sentido, en los próximos días de septiembre se rodará un videoclip del cantante Arístides Moreno y del humorista Manolo Viera , se grabarán escenas de la película La Isla Interior , France 5 grabará un programa cultural dentro de la seria Bellas Escapadas y varios fotógrafos tomarán imágenes de modelos con los buques de fondo . El videoclip de Arístides Moreno se denomina 'Cambullón ' y se comenzará a rodar a partir de las 14.00 horas, en el pantalán de Cory del puerto grancanario, donde escenificarán una estampa típica del cambullón. La televisión francesa hará su grabación los días 16 y 17 de septiembre en el Muelle Deportivo. Se trata de un programa dedicado a descubrir las riquezas de los diferentes países del mundo . Grace Ayaso, jefe de producción, tiene previsto rodar escenas de la película 'La Isla Interior' en el muelle Santa Catalina el próximo 30 de septiembre. Por último, hay varios fotógrafos que han escogido el Puerto para retratar a sus modelos. Entre ellos está la revista de moda The Showroom Mag, que tiene su sede en Tenerife.",
+        "lemmatized_text": "el puerto_de_la_luz y de las_palmas en el capital de gran_canaria se convertir a_partir_de hoy en plató de rodaje para cine moda y televisión según informar el autoridad_portuaria_de_las_palmas en uno comunicado en este sentido en el próximo día de [??:??/9/??:??.??:??] se rodar uno videoclip de el cantante arístides_moreno y de el humorista manolo_viera se grabar escena de el película la_isla_interior france 5 grabar uno programa cultural dentro_de el serio bellas_escapadas y varios fotógrafo tomar imagen de modelo con el buque de fondo el videoclip de arístides_moreno se denominar cambullón y se comenzar a rodar a_partir_de el TM_h:14 en el pantalán de cory de el puerto grancanario donde escenificar uno estampa típico de el cambullón el televisión francés hacer su grabación el día 16 y [??:17/9/??:??.??:??] en el muelle_deportivo se tratar de uno programa dedicar a descubrir el riqueza de el diferente país de el mundo grace_ayaso jefe de producción tener prever rodar escena de el película el isla_interior en el muelle santa_catalina el [??:30/9/??:??.??:??] por último haber varios fotógrafo que haber escoger el puerto para retratar a su modelo entre ellos estar el revista de moda the_showroom_mag que tener su sede en tenerife",
+        "lemmatized_text_reduced": "puerto_de_la_luz las_palmas capital gran_canaria convertir plató rodaje cine moda televisión informar autoridad_portuaria_de_las_palmas comunicado sentido próximo día rodar videoclip cantante arístides_moreno humorista manolo_viera grabar escena película la_isla_interior france grabar programa cultural serio bellas_escapadas fotógrafo tomar imagen modelo buque fondo videoclip arístides_moreno denominar cambullón comenzar rodar pantalán cory puerto grancanario escenificar estampa típico cambullón televisión francés hacer grabación día muelle_deportivo tratar programa dedicar descubrir riqueza diferente país mundo grace_ayaso jefe producción tener prever rodar escena película isla_interior muelle santa_catalina último haber fotógrafo haber escoger puerto retratar modelo estar revista moda the_showroom_mag tener sede tenerife",
+        "persons": [
+            "Arístides_Moreno",
+            "Manolo_Viera",
+            "France",
+            "Bellas_Escapadas",
+            "Arístides_Moreno",
+            "Cambullón",
+            "Cory",
+            "Grace_Ayaso"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz",
+            "Gran_Canaria",
+            "La_Isla_Interior",
+            "Isla_Interior",
+            "Santa_Catalina",
+            "Puerto",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Autoridad_Portuaria_de_Las_Palmas",
+            "Muelle_Deportivo",
+            "The_Showroom_Mag"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/9/??:??.??:??]",
+            "[??:17/9/??:??.??:??]",
+            "[??:30/9/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "TM_h:14",
+            "16"
+        ]
+    }
+}

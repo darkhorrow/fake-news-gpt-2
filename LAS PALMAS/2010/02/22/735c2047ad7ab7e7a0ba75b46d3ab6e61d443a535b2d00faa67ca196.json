@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/635297/0/",
+    "title": {
+        "raw_text": "Empleados de Endesa en Canarias donan su premio de la lotería de Navidad a Cruz Roja para ayudar a Haití",
+        "lemmatized_text": "empleados_de_endesa en canarias donar su premio de el lotería de navidad a cruz_roja para ayudar a haití",
+        "lemmatized_text_reduced": "empleados_de_endesa canarias donar premio lotería navidad cruz_roja ayudar haití",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Haití"
+        ],
+        "organizations": [
+            "Empleados_de_Endesa",
+            "Cruz_Roja"
+        ],
+        "others": [
+            "Navidad"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los empleados de Endesa en Canarias han decidido donar el premio con el que resultaron agraciados en la pasada Lotería de Navidad a Cruz Roja en Las Palmas para colaborar en la ayuda humanitaria a Haití, el país más pobre del continente americano devastado por un terremoto a mediados del pasado mes de enero.",
+        "lemmatized_text": "el empleado de endesa en canarias haber decidir donar el premio con el que resultar agraciar en el pasar lotería_de_navidad a cruz_roja en las_palmas para colaborar en el ayuda humanitario a haití el país más pobre de el continente americano devastar por uno terremoto a mediar de el [??:??/1/??:??.??:??]",
+        "lemmatized_text_reduced": "empleado endesa canarias haber decidir donar premio resultar agraciar pasar lotería_de_navidad cruz_roja las_palmas colaborar ayuda humanitario haití país pobre continente americano devastar terremoto mediar",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Haití"
+        ],
+        "organizations": [
+            "Endesa",
+            "Cruz_Roja",
+            "Las_Palmas"
+        ],
+        "others": [
+            "Lotería_de_Navidad"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El personal de la compañía eléctrica había jugado al número 53.190 con 285 décimos, que resultaron premiados con 100 euros el décimo, lo que suma 28.500 euros de premio, cantidad importante que decidieron, por unanimidad, donar a Haití a través de Cruz Roja Española, según informó la empresa en un comunicado. Representantes de los trabajadores y de Endesa, entregaron hoy el número premiado al Presidente de Cruz Roja en Las Palmas, Juan Campos Pineda. En el acto estuvo presente una amplia representación de los empleados y de la empresa, integrada por el director general de Endesa en Canarias, Pablo Casado, el director provincial en Las Palmas, Pablo Marrero Martin, el director de Recursos Humanos, Luis Sáenz del Castillo, y, en representación de los empleados, Francisco Veloso Quevedo, miembro sindical de Comisiones Obreras, Lorenzo González Calcines, representante de ASIE y Francisco Perdomo Pérez, representante de UGT.",
+        "lemmatized_text": "el personal de el compañía eléctrico haber jugar a el número 53.19 con 285/10 que resultar premiar con $_ECU:100 el 10 el que sumar $_ECU:28.5 de premio cantidad importante que decidir por unanimidad donar a haití a_través_de cruz_roja_española según informar el empresa en uno comunicado representante de el trabajador y de endesa entregar hoy el número premiar a el presidente_de_cruz_roja en las_palmas juan_campos_pineda en el acto estar presente uno amplio representación de el empleado y de el empresa integrar por el director general de endesa en canarias pablo_casado el director provincial en las_palmas pablo_marrero_martin el director de recursos_humanos luis_sáenz_del_castillo y en_representación_de el empleado francisco_veloso_quevedo miembro sindical de comisiones_obreras lorenzo_gonzález_calcines representante de asie y francisco_perdomo_pérez representante de ugt",
+        "lemmatized_text_reduced": "personal compañía eléctrico haber jugar número resultar premiar 10 sumar premio cantidad importante decidir unanimidad donar haití cruz_roja_española informar empresa comunicado representante trabajador endesa entregar número premiar presidente_de_cruz_roja las_palmas juan_campos_pineda acto estar presente amplio representación empleado empresa integrar director general endesa canarias pablo_casado director provincial las_palmas pablo_marrero_martin director recursos_humanos luis_sáenz_del_castillo empleado francisco_veloso_quevedo miembro sindical comisiones_obreras lorenzo_gonzález_calcines representante asie francisco_perdomo_pérez representante ugt",
+        "persons": [
+            "Juan_Campos_Pineda",
+            "Pablo_Casado",
+            "Pablo_Marrero_Martin",
+            "Luis_Sáenz_del_Castillo",
+            "Francisco_Veloso_Quevedo",
+            "Lorenzo_González_Calcines",
+            "Francisco_Perdomo_Pérez"
+        ],
+        "locations": [
+            "Las_Palmas",
+            "Canarias"
+        ],
+        "organizations": [
+            "Haití",
+            "Cruz_Roja_Española",
+            "Endesa",
+            "Presidente_de_Cruz_Roja",
+            "Endesa",
+            "Las_Palmas",
+            "Recursos_Humanos",
+            "Comisiones_Obreras",
+            "ASIE",
+            "UGT"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "53.19",
+            "285/10",
+            "$_ECU:100",
+            "$_ECU:28.5"
+        ]
+    }
+}

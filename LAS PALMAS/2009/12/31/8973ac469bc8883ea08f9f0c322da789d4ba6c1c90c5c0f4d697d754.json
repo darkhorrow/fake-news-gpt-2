@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598566/0/",
+    "title": {
+        "raw_text": "El Museo Canario estudia un ERE para 2010 que afectará a más del 70% de su plantilla",
+        "lemmatized_text": "el museo_canario estudiar uno ere para 2010 que afectar a más de el 70/100 de su plantilla",
+        "lemmatized_text_reduced": "museo_canario estudiar ere afectar plantilla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Museo_Canario",
+            "ERE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "70/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El gerente del Museo Canario de Las Palmas de Gran Canaria, Diego López, ha asegurado que está estudiando llevar a cabo un Expediente de Regulación de Empleo (ERE) para el próximo año que afectará a más del 70 por ciento de su plantilla, compuesta por un total de 18 trabajadores.",
+        "lemmatized_text": "el gerente de el museo_canario_de_las_palmas_de_gran_canaria diego_lópez haber asegurar que estar estudiar llevar_a_cabo uno expediente_de_regulación_de_empleo ere para el próximo año que afectar a más de el 70 por 100 de su plantilla componer por uno total de 18 trabajador",
+        "lemmatized_text_reduced": "gerente museo_canario_de_las_palmas_de_gran_canaria diego_lópez haber asegurar estar estudiar llevar_a_cabo expediente_de_regulación_de_empleo ere próximo año afectar plantilla componer total trabajador",
+        "persons": [
+            "Diego_López"
+        ],
+        "locations": [],
+        "organizations": [
+            "Museo_Canario_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Expediente_de_Regulación_de_Empleo"
+        ],
+        "dates": [],
+        "numbers": [
+            "70",
+            "100",
+            "18"
+        ]
+    },
+    "body": {
+        "raw_text": "López justificó esta medida en que el recinto museístico debe \"sobrevivir\" ya que esta instalación cultural contará en 2010 con un presupuesto total de 520.000 euros, un 30 por ciento menos que en 2008. En total, las tres administraciones que nutren económicamente a esta entidad —Gobierno canario, Ayuntamiento capitalino y Cabildo insular— recortarán 20.000 euros. Según una información publicada en el Canarias7 y recogida por Europa Press, López elevará a la junta de gobierno su propuesta de elaborar un ERE que se aplicará a una parte de la plantilla durante seis meses de 2010. Así, de los 18 trabajadores, sólo cuatro mantendrán su empleo. Del resto, 14, siete irán tres meses al paro mientras que los otros siete permanecerán cuatro meses en situación de desempleo. Además, para poder hacer frente a los gastos en 2010 el Museo Canario propondrá el cierre de las salas de investigación incluida la hemeroteca, quedando únicamente abiertas la sala de exposiciones y la tienda. Asimismo, se producirán restricciones en el horario, puesto que el museo pasará a abrir solamente los días laborables de 10.00 a 17.00 horas. Finalmente, el gerente de esta instalación cultural criticó que a pesar de estos recortes el Ayuntamiento de Las Palmas de Gran Canaria se presente como candidata a ser Capital Cultural Europea en 2016 puesto que ha rebajado la subvención del museo canario en 40.000 euros.",
+        "lemmatized_text": "lópez justificar este medida en que el recinto museístico deber sobrevivir ya_que este instalación cultural contar en 2010 con uno presupuesto total de $_ECU:520 uno 30 por 100 menos que en 2008 en total el 3 administración que nutrir económicamente a este entidad gobierno canario ayuntamiento capitalino y cabildo insular recortar $_ECU:20 según uno información publicar en el Canarias7 y recogida por europa_press lópez elevar a el junta de gobierno su propuesta de elaborar uno ere que se aplicar a uno parte de el plantilla durante 6 mes de 2010 así de el 18 trabajador sólo 4 mantener su empleo de el resto 14 7 ir 3 mes a el paro mientras_que el otro 7 permanecer 4 mes en situación de desempleo además para poder hacer_frente a el gasto en 2010 el museo_canario proponer el cierre de el sala de investigación incluir el hemeroteca quedar únicamente abrir el sala de exposición y el tienda asimismo se producir restricción en el horario poner que el museo pasar a abrir solamente el día laborable de 10 a TM_h:17 finalmente el gerente de este instalación cultural criticar que a_pesar_de este recorte el ayuntamiento_de_las_palmas_de_gran_canaria se presentar como candidato a ser capital_cultural_europea en 2016 puesto que haber rebajar el subvención de el museo canario en $_ECU:40",
+        "lemmatized_text_reduced": "lópez justificar medida recinto museístico deber sobrevivir instalación cultural contar presupuesto total total administración nutrir económicamente entidad gobierno canario ayuntamiento capitalino cabildo insular recortar información publicar recogida europa_press lópez elevar junta gobierno propuesta elaborar ere aplicar parte plantilla mes trabajador mantener empleo resto ir mes paro permanecer mes situación desempleo poder hacer_frente gasto museo_canario proponer cierre sala investigación incluir hemeroteca quedar únicamente abrir sala exposición tienda producir restricción horario poner museo pasar abrir solamente día laborable finalmente gerente instalación cultural criticar recorte ayuntamiento_de_las_palmas_de_gran_canaria presentar candidato ser capital_cultural_europea puesto haber rebajar subvención museo canario",
+        "persons": [
+            "López",
+            "Cabildo",
+            "López",
+            "Capital_Cultural_Europea"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Ayuntamiento",
+            "Europa_Press",
+            "ERE",
+            "Museo_Canario",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "$_ECU:520",
+            "30",
+            "100",
+            "2008",
+            "3",
+            "$_ECU:20",
+            "Canarias7",
+            "6",
+            "2010",
+            "18",
+            "4",
+            "14",
+            "7",
+            "3",
+            "7",
+            "4",
+            "2010",
+            "10",
+            "TM_h:17",
+            "2016",
+            "$_ECU:40"
+        ]
+    }
+}

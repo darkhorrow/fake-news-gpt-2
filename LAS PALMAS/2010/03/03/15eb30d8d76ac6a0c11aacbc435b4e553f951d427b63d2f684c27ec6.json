@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/643003/0/",
+    "title": {
+        "raw_text": "Una mujer de 54 años resulta afectada en el incendio de una vivienda en Jinámar (Gran Canaria)",
+        "lemmatized_text": "uno mujer de 54 año resultar afectar en el incendio de uno vivienda en jinámar gran_canaria",
+        "lemmatized_text_reduced": "mujer año resultar afectar incendio vivienda jinámar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "54"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una mujer de 54 años de edad ha resultado afectada por intoxicación de humo de carácter leve en el incendio de una vivienda ubicada en la segunda planta de un edificio de 11 alturas, en la Urbanización Eucalipto 1, en Jinámar, en el municipio grancanario de Telde, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno mujer de 54 año de edad haber resultar afectar por intoxicación de humo de carácter leve en el incendio de uno vivienda ubicar en el 2 planta de uno edificio de 11 altura en el urbanización_eucalipto 1 en jinámar en el municipio grancanario de telde según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "mujer año edad haber resultar afectar intoxicación humo carácter leve incendio vivienda ubicar 2 planta edificio altura urbanización_eucalipto jinámar municipio grancanario telde informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Telde"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Urbanización_Eucalipto",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "54",
+            "11",
+            "1",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 14.01 horas, cuando se recibió una llamada en el Cecoes que informaba de que se había producido un incendio en una vivienda, que una quincena de vecinos había quedado aislada encima del segundo piso, y que podría haber afectados, por lo que se precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. El personal sanitario del Servicio de Urgencias Canario (SUC), a su llegada al lugar, asistió a una mujer de 54 años que resultó afectada y la trasladó en una ambulancia de soporte vital básico del SUC al centro de salud de Jinámar. Efectivos de cuerpo de bomberos del Consorcio de Emergencias de Gran Canaria se encargaron de extinguir las llamas y de ventilar el inmueble. Por su parte, Protección Civil de Telde colaboró con el cuerpo de bomberos en las tareas propias de extinción y en asegurar la zona. En dicha actuación también intervinieron Policía Local y Cuerpo Nacional de Policía, que colaboraron con el resto de los recursos y elaboraron los informes oportunos.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:14.01 cuando se recibir uno llamada en el cecoes que informar de que se haber producir uno incendio en uno vivienda que uno quincena de vecino haber quedar aislar encima de el 2 piso y que poder haber afectar por el que se precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario el personal sanitario de el servicio_de_urgencias_canario suc a su llegada a el lugar asistir a uno mujer de 54 año que resultar afectar y lo trasladar en uno ambulancia de soporte vital básico de el suc a el centro de salud de jinámar efectivo de cuerpo de bombero de el consorcio_de_emergencias_de_gran_canaria se encargar de extinguir el llama y de ventilar el inmueble por su parte protección_civil_de_telde colaborar con el cuerpo de bombero en el tarea propio de extinción y en asegurar el zona en decir actuación también intervenir policía_local y cuerpo_nacional_de_policía que colaborar con el resto de el recurso y elaborar el informe oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes informar haber producir incendio vivienda quincena vecino haber quedar aislar 2 piso poder haber afectar precisar asistencia sanitario modo activar inmediato recurso emergencia necesario personal sanitario servicio_de_urgencias_canario suc llegada lugar asistir mujer año resultar afectar trasladar ambulancia soporte vital básico suc centro salud jinámar efectivo cuerpo bombero consorcio_de_emergencias_de_gran_canaria encargar extinguir llama ventilar inmueble parte protección_civil_de_telde colaborar cuerpo bombero tarea propio extinción asegurar zona decir actuación intervenir policía_local cuerpo_nacional_de_policía colaborar resto recurso elaborar informe oportuno",
+        "persons": [
+            "Protección_Civil_de_Telde"
+        ],
+        "locations": [
+            "Cecoes",
+            "Jinámar"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.01",
+            "112",
+            "54"
+        ]
+    }
+}

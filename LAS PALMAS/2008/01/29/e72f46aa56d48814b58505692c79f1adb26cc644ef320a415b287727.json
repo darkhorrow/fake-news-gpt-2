@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/341031/0/trafico/policia/laspalmas/",
+    "title": {
+        "raw_text": "Un policía local y varios funcionarios de prisiones son detenidos por tráfico de drogas",
+        "lemmatized_text": "uno policía local y varios funcionario de prisión ser detener por tráfico de droga",
+        "lemmatized_text_reduced": "policía local funcionario prisión ser detener tráfico droga",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La operación ha durado un año y ha concluido con 43 detenciones. Se trata de una banda jerárquicamente estructurada. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el operación haber durar uno año y haber concluir con 43 detención se tratar de uno banda jerárquicamente estructurar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "operación haber durar año haber concluir detención tratar banda jerárquicamente estructurar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "43"
+        ]
+    },
+    "body": {
+        "raw_text": "Una operación policial contra el tráfico de drogas ha concluido tras un año con la detención de 43 personas en Gran Canaria, entre ellas un policía local de Agüimes y varios funcionarios de prisiones, según informó la Guardia Civil. Las pesquisas para desarticular esta red comenzaron a mediados del mes de febrero del pasado año 2007 por los indicios de la existencia de una banda estructurada dedicada al narcotráfico en el Polígono de Arinaga, en el sureste de Gran Canaria. En la primera fase se desarticuló la principal red de abastecimiento, en la segunda cayó la banda que abastecía a la anterior y en esta última, que concluyó el lunes, se han detenido a los miembros de un grupo que distribuía la droga en el polígono y localidades cercanas. La operación Nagasaki precisó 29 registros domiciliarios en los que se incautaron 2,9 kilos de cocaína, 1,5 de hachís, dos de marihuana, casi medio kilo de anfetaminas, trece vehículos, 12 básculas de precisión, material informático y teléfonos móviles, entre otros objetos. Los funcionarios de la prisión El Salto del Negro se valían de su condición para colaborar en esta actividad delictiva. Las amenazas y violencia de los cabecillas eran el principal método para sumir a sus órdenes a los miembros de la red y se valían de entrenadores en artes marciales. Los detenidos son de nacionalidad española salvo tres que son de origen colombiano. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno operación policial contra el tráfico de droga haber concluir tras uno año con el detención de 43 persona en gran_canaria entre ellos uno policía local de agüimes y varios funcionario de prisión según informar el guardia_civil el pesquisa para desarticular este red comenzar a mediar de el [??:??/2/2007:??.??:??] por el indicio de el existencia de uno banda estructurar dedicar a el narcotráfico en el polígono_de_arinaga en el sureste de gran_canaria en el 1 fase se desarticular el principal red de abastecimiento en el 2 caer el banda que abastecer a el anterior y en este último que concluir el [L:??/??/??:??.??:??] se haber detener a el miembro de uno grupo que distribuir el droga en el polígono y localidad cercano el operación nagasaki precisar 29 registro domiciliario en el que se incautar 2,9 kilo de cocaína 1,5 de hachís 2 de marihuana casi medio kilo de anfetamina 13 vehículo 12 báscula de precisión material informático y teléfono móvil entre otro objeto el funcionario de el prisión el_salto_del_negro se valer de su condición para colaborar en este actividad delictivo el amenaza y violencia de el cabecilla ser el principal método para sumir a su orden a el miembro de el red y se valer de entrenador en arte marcial el detenido ser de nacionalidad español salvo 3 que ser de origen colombiano consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "operación policial tráfico droga haber concluir año detención persona gran_canaria policía local agüimes funcionario prisión informar guardia_civil pesquisa desarticular red comenzar mediar indicio existencia banda estructurar dedicar narcotráfico polígono_de_arinaga sureste gran_canaria 1 fase desarticular principal red abastecimiento 2 caer banda abastecer anterior último concluir haber detener miembro grupo distribuir droga polígono localidad cercano operación nagasaki precisar registro domiciliario incautar kilo cocaína hachís marihuana medio kilo anfetamina vehículo báscula precisión material informático teléfono móvil objeto funcionario prisión el_salto_del_negro valer condición colaborar actividad delictivo amenaza violencia cabecilla ser principal método sumir orden miembro red valer entrenador arte marcial detenido ser nacionalidad español ser origen colombiano consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "El_Salto_del_Negro"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Agüimes",
+            "Polígono_de_Arinaga"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Nagasaki",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/2/2007:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "43",
+            "29",
+            "2,9",
+            "1,5",
+            "2",
+            "13",
+            "12",
+            "3"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/942246/0/",
+    "title": {
+        "raw_text": "Una joven sufre heridas de carácter menos grave al ser atropellada en Gáldar (Gran Canaria)",
+        "lemmatized_text": "uno joven sufrir herir de carácter menos grave a el ser atropellar en gáldar gran_canaria",
+        "lemmatized_text_reduced": "joven sufrir herir carácter grave ser atropellar gáldar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una joven de 20 años de edad ha sufrido esta tarde en Gran Canaria heridas de carácter menos grave como consecuencia de un atropello ocurrido en el municipio de Gáldar, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes).",
+        "lemmatized_text": "uno joven de 20 año de edad haber sufrir este tarde en gran_canaria herida de carácter menos grave como consecuencia de uno atropello ocurrir en el municipio de gáldar según haber informar el centro_coordinador_de_emergencias y seguridad cecoes",
+        "lemmatized_text_reduced": "joven año edad haber sufrir tarde gran_canaria herida carácter grave consecuencia atropello ocurrir municipio gáldar haber informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Gáldar"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "20"
+        ]
+    },
+    "body": {
+        "raw_text": "Una joven de 20 años de edad ha sufrido esta tarde en Gran Canaria heridas de carácter menos grave como consecuencia de un atropello ocurrido en el municipio de Gáldar, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes). El suceso tuvo lugar en el paseo de Los Guanartemes, sobre las 19.00 horas, momento en el que el Cecoes recibió una alerta informando del atropello de una persona, por lo que el 1-1-2 activó de inmediato los recursos de emergencias necesarios para intervenir en la zona. Hasta el lugar se desplazaron agentes de la Policía Local, una ambulancia de soporte vital básico y otra de soporte vital avanzado del Servicio de Urgencias Canario (SUC), cuyo personal sanitario atendió a la joven, que había sufrido como consecuencia del impacto politraumatismos de carácter grave, de manera que tuvo que ser trasladada al Hospital Universitario de Gran Canaria Doctor Negrín.",
+        "lemmatized_text": "uno joven de 20 año de edad haber sufrir este tarde en gran_canaria herida de carácter menos grave como consecuencia de uno atropello ocurrir en el municipio de gáldar según haber informar el centro_coordinador_de_emergencias y seguridad cecoes el suceso tener_lugar en el paseo de los_guanartemes sobre el TM_h:19 momento en el que el cecoes recibir uno alerta informar de el atropello de uno persona por el que el 1-1-2 activar de inmediato el recurso de emergencia necesario para intervenir en el zona hasta el lugar se desplazar agente de el policía_local uno ambulancia de soporte vital básico y otro de soporte vital avanzar de el servicio_de_urgencias_canario suc cuyo personal sanitario atender a el joven que haber sufrir como consecuencia de el impacto politraumatismo de carácter grave de manera que tener que ser trasladar a el hospital_universitario_de_gran_canaria_doctor_negrín",
+        "lemmatized_text_reduced": "joven año edad haber sufrir tarde gran_canaria herida carácter grave consecuencia atropello ocurrir municipio gáldar haber informar centro_coordinador_de_emergencias seguridad cecoes suceso tener_lugar paseo los_guanartemes momento cecoes recibir alerta informar atropello persona activar inmediato recurso emergencia necesario intervenir zona lugar desplazar agente policía_local ambulancia soporte vital básico soporte vital avanzar servicio_de_urgencias_canario suc personal sanitario atender joven haber sufrir consecuencia impacto politraumatismo carácter grave manera tener ser trasladar hospital_universitario_de_gran_canaria_doctor_negrín",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Gáldar",
+            "Los_Guanartemes"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cecoes",
+            "Policía_Local",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "20",
+            "TM_h:19",
+            "1-1-2"
+        ]
+    }
+}

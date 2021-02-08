@@ -1,0 +1,156 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/959728/0/",
+    "title": {
+        "raw_text": "La AEMET decreta el riesgo naranja en Tenerife, La Palma, Lanzarote y Fuerteventura por fenómenos costeros",
+        "lemmatized_text": "el aemet decretar el riesgo naranja en tenerife la_palma lanzarote y fuerteventura por fenómeno costero",
+        "lemmatized_text_reduced": "aemet decretar riesgo naranja tenerife la_palma lanzarote fuerteventura fenómeno costero",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "La_Palma",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "AEMET",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las islas de Tenerife, La Palma, Lanzarote y Fuerteventura están desde este martes, 15 de febrero, en riesgo naranja por fenómenos costeros --comenzará a las 22.00 horas--, aunque ya desde las 08.00 horas, estarán el riesgo amarillo por fuerte oleaje, informó la Agencia Estatal de Meteorología (AEMET).",
+        "lemmatized_text": "el isla de tenerife la_palma lanzarote y fuerteventura estar desde este [M:15/2/??:??.??:??] en riesgo naranja por fenómeno costero comenzar a el TM_h:22 aunque ya desde el TM_h:8 estar el riesgo amarillo por fuerte oleaje informar el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "isla tenerife la_palma lanzarote fuerteventura estar riesgo naranja fenómeno costero comenzar estar riesgo amarillo fuerte oleaje informar agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "La_Palma",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [
+            "[M:15/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:22",
+            "TM_h:8"
+        ]
+    },
+    "body": {
+        "raw_text": "Las islas de Tenerife, La Palma, Lanzarote y Fuerteventura están desde este martes, 15 de febrero, en riesgo naranja por fenómenos costeros —comenzará a las 22.00 horas—, aunque ya desde las 08.00 horas, estarán el riesgo amarillo por fuerte oleaje, informó la Agencia Estatal de Meteorología (AEMET). De esta manera, el riesgo importante por fenómenos costeros dará comienzo a las 22.00 horas de este martes, finalizando a las 10.00 horas de mañana miércoles. Esta alerta se ha establecido por mar de fondo del noroeste de 4 a 5 metros. En el resto de islas también habrá aviso por fuerte oleaje, aunque aquí, se irá quitando el riesgo de forma escalonada, ya que mientras en Tenerife concluirá a las 22.00 horas de este martes, en Gran Canaria se quitará a las 00.00 horas del jueves. Además, en el conjunto de España, un total de 45 provincias están en alerta por vientos de hasta 80 kilómetros por hora y que provocarán, en la costa gallega, olas de 8 metros de altura; por lluvias que podrán acumular 60 litros por metro cuadrado en doce horas; y por capas de nieve de una altura máxima de 15 metros, según la predicción de la Agencia Estatal de Meteorología (AEMET). Concretamente, están en alerta roja (riesgo extremo) debido a los vientos costeros y fuerte oleaje las provincias de La Coruña y Pontevedra —donde hay mar de fondo del noroeste—, mientras que están en alerta naranja (riesgo importante) por el mismo fenómeno meteorológico Lugo, Asturias —que también está en alerta amarilla por nieve—, Guipúzcoa, Vizcaya, Cantabria y las Islas Canarias. Asimismo, están en alerta amarilla (riesgo) por vientos León, Palencia, Almería, Cádiz, Huelva, Málaga, Ceuta —estas cuatro últimas también lo están por lluvias—, Burgos, Soria —estas dos también están en alerta debido a las nevadas—, Melilla, Ibiza y Formentera. También tienen activado el mismo nivel de alerta, debido a las lluvias, Ciudad Real, Badajoz, Córdoba y Sevilla, mientras que Granada y Jaén tienen activada esta alerta por las lluvias y las nevadas. Además, Orense, Navarra, La Rioja, Zaragoza, Huesca, Teruel, Ávila, Salamanca, Segovia, Albacete, Cuenca, Guadalajara y Madrid están en alerta amarilla por nieve. Por lo tanto, las únicas provincias que no tienen activada ninguna alerta son Valladolid, Salamanca, Cáceres, Cataluña, la Comunidad Valenciana, Murcia, Mallorca y Menorca. De esta manera, los vientos soplarán a intervalos fuertes o muy fuertes de componente oeste en el Golfo de Cádiz y en el Estrecho, y fuertes en zonas altas de la Península, Galicia y sur de Andalucía. En el resto, serán moderados y en Canarias variarán de flojos a moderados del noroeste. Además, se prevén precipitaciones débiles a moderadas en la Península y Baleares, que podrán ser localmente fuertes en zonas del suroeste peninsular y área del estrecho y tener carácter persistente en el oeste de Galicia y zonas del suroeste peninsular. En Canarias, habrá intervalos nubosos, con posibilidad de lluvias débiles en el norte. Finalmente, la cota de nieve se situará sobre los 900 y los 1.100 metros en el norte peninsular y entre los 1.000 y 1.300 metros en el resto. Las temperaturas nocturnas experimentarán un ascenso moderado en la mitad occidental peninsular y se mantendrán con pocos cambios en el resto del país.",
+        "lemmatized_text": "el isla de tenerife la_palma lanzarote y fuerteventura estar desde este [M:15/2/??:??.??:??] en riesgo naranja por fenómeno costero comenzar a el TM_h:22 aunque ya desde el TM_h:8 estar el riesgo amarillo por fuerte oleaje informar el agencia_estatal_de_meteorología aemet de este manera el riesgo importante por fenómeno costero dar comienzo a el TM_h:22 de este [M:??/??/??:??.??:??] finalizar a el [??:??/??/??:10.00:am] [X:??/??/??:??.??:??] este alerta se haber establecer por mar de fondo de el noroeste de 4 a LN_m:5 en el resto de isla también haber aviso por fuerte oleaje aunque aquí se ir quitar el riesgo de forma escalonar ya_que mientras en tenerife concluir a el TM_h:22 de este [M:??/??/??:??.??:??] en gran_canaria se quitar a el TM_h:0 de el [J:??/??/??:??.??:??] además en el conjunto de españa uno total de 45 provincia estar en alerta por viento de hasta SP_km/h:80 y que provocar en el costa gallego ola de LN_m:8 de altura por lluvia que poder acumular CB_l/m2:60 en TM_h:12 y por capa de nieve de uno altura máximo de LN_m:15 según el predicción de el agencia_estatal_de_meteorología aemet concretamente estar en alerta rojo riesgo extremo debido_a el viento costero y fuerte oleaje el provincia de la_coruña y pontevedra donde haber mar de fondo de el noroeste mientras_que estar en alerta naranja riesgo importante por el mismo fenómeno meteorológico lugo asturias que también estar en alerta amarillo por nieve guipúzcoa vizcaya cantabria y el islas_canarias asimismo estar en alerta amarillo riesgo por viento león palencia almería cádiz huelva málaga ceuta este 4 último también lo estar por lluvia burgos soria este 2 también estar en alerta debido_a el nevada melilla ibiza y formentera también tener activar el mismo nivel de alerta debido_a el lluvia ciudad_real badajoz córdoba y sevilla mientras_que granada y jaén tener activar este alerta por el lluvia y el nevada además orense navarra la_rioja zaragoza huesca teruel ávila salamanca segovia albacete cuenca guadalajara y madrid estar en alerta amarillo por nieve por_lo_tanto el único provincia que no tener activar ninguno alerta ser valladolid salamanca cáceres cataluña el comunidad_valenciana murcia mallorca y menorca de este manera el viento soplar a intervalo fuerte o muy fuerte de componente oeste en el golfo_de_cádiz y en el estrecho y fuerte en zona alto de el península galicia y sur de andalucía en el resto ser moderar y en canarias variar de flojo a moderado de el noroeste además se prever precipitación débil a moderado en el península y baleares que poder ser localmente fuerte en zona de el suroeste peninsular y área de el estrecho y tener carácter persistente en el oeste de galicia y zona de el suroeste peninsular en canarias haber intervalo nuboso con posibilidad de lluvia débil en el norte finalmente el cota de nieve se situar sobre el 900 y el LN_m:1.1 en el norte peninsular y entre el 1 y LN_m:1.3 en el resto el temperatura nocturno experimentar uno ascenso moderar en el mitad occidental peninsular y se mantener con poco cambio en el resto de el país",
+        "lemmatized_text_reduced": "isla tenerife la_palma lanzarote fuerteventura estar riesgo naranja fenómeno costero comenzar estar riesgo amarillo fuerte oleaje informar agencia_estatal_de_meteorología aemet manera riesgo importante fenómeno costero dar comienzo finalizar alerta haber establecer mar fondo noroeste resto isla haber aviso fuerte oleaje ir quitar riesgo forma escalonar tenerife concluir gran_canaria quitar conjunto españa total provincia estar alerta viento provocar costa gallego ola altura lluvia poder acumular capa nieve altura máximo predicción agencia_estatal_de_meteorología aemet concretamente estar alerta rojo riesgo extremo viento costero fuerte oleaje provincia la_coruña pontevedra haber mar fondo noroeste estar alerta naranja riesgo importante mismo fenómeno meteorológico lugo asturias estar alerta amarillo nieve guipúzcoa vizcaya cantabria islas_canarias estar alerta amarillo riesgo viento león palencia almería cádiz huelva málaga ceuta último estar lluvia burgos soria estar alerta nevada melilla ibiza formentera tener activar mismo nivel alerta lluvia ciudad_real badajoz córdoba sevilla granada jaén tener activar alerta lluvia nevada orense navarra la_rioja zaragoza huesca teruel ávila salamanca segovia albacete cuenca guadalajara madrid estar alerta amarillo nieve único provincia tener activar alerta ser valladolid salamanca cáceres cataluña comunidad_valenciana murcia mallorca menorca manera viento soplar intervalo fuerte fuerte componente oeste golfo_de_cádiz estrecho fuerte zona alto península galicia sur andalucía resto ser moderar canarias variar flojo moderado noroeste prever precipitación débil moderado península baleares poder ser localmente fuerte zona suroeste peninsular área estrecho tener carácter persistente oeste galicia zona suroeste peninsular canarias haber intervalo nuboso posibilidad lluvia débil norte finalmente cota nieve situar norte peninsular resto temperatura nocturno experimentar ascenso moderar mitad occidental peninsular mantener cambio resto país",
+        "persons": [
+            "León",
+            "Burgos"
+        ],
+        "locations": [
+            "Tenerife",
+            "La_Palma",
+            "Lanzarote",
+            "Gran_Canaria",
+            "España",
+            "La_Coruña",
+            "Pontevedra",
+            "Lugo",
+            "Asturias",
+            "Guipúzcoa",
+            "Palencia",
+            "Almería",
+            "Cádiz",
+            "Huelva",
+            "Málaga",
+            "Ceuta",
+            "Soria",
+            "Melilla",
+            "Ibiza",
+            "Formentera",
+            "Ciudad_Real",
+            "Badajoz",
+            "Córdoba",
+            "Sevilla",
+            "Granada",
+            "Jaén",
+            "Orense",
+            "Navarra",
+            "La_Rioja",
+            "Zaragoza",
+            "Huesca",
+            "Teruel",
+            "Salamanca",
+            "Segovia",
+            "Albacete",
+            "Cuenca",
+            "Guadalajara",
+            "Madrid",
+            "Valladolid",
+            "Cáceres",
+            "Cataluña",
+            "Comunidad_Valenciana",
+            "Murcia",
+            "Mallorca",
+            "Menorca",
+            "Golfo_de_Cádiz",
+            "Estrecho",
+            "Península",
+            "Galicia",
+            "Andalucía",
+            "Canarias",
+            "Península",
+            "Baleares",
+            "Galicia",
+            "Canarias"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "Tenerife",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "Vizcaya",
+            "Cantabria",
+            "Islas_Canarias",
+            "Ávila",
+            "Salamanca"
+        ],
+        "others": [],
+        "dates": [
+            "[M:15/2/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[??:??/??/??:10.00:am]",
+            "[X:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:22",
+            "TM_h:8",
+            "TM_h:22",
+            "4",
+            "LN_m:5",
+            "TM_h:22",
+            "TM_h:0",
+            "45",
+            "SP_km/h:80",
+            "LN_m:8",
+            "CB_l/m2:60",
+            "TM_h:12",
+            "LN_m:15",
+            "4",
+            "2",
+            "900",
+            "LN_m:1.1",
+            "1",
+            "LN_m:1.3"
+        ]
+    }
+}

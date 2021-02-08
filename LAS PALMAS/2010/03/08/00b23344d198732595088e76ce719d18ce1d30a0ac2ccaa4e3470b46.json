@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/646650/0/",
+    "title": {
+        "raw_text": "CC de Telde (Gran Canaria) reta al alcalde a un debate \"cara a cara\" sobre los problemas del Valle de Jinámar",
+        "lemmatized_text": "cc_de_telde gran_canaria retar a el alcalde a uno debate cara_a_cara sobre el problema de el valle_de_jinámar",
+        "lemmatized_text_reduced": "cc_de_telde gran_canaria retar alcalde debate problema valle_de_jinámar",
+        "persons": [],
+        "locations": [
+            "Valle_de_Jinámar"
+        ],
+        "organizations": [
+            "CC_de_Telde",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El candidato a la alcaldía de Coalición Canaria (CC) de Telde (Gran Canaria), Pablo Rodríguez, ha retado al alcalde Francisco Santiago a un debate \"cara a cara\" con los vecinos del Valle de Jinámar sobre los problemas del barrio, ya que sostiene \"que el alcalde desconoce absolutamente los problemas de Jinámar porque nunca le ha importado este barrio que ha dejado a la intemperie y la degradación durante treinta años\".",
+        "lemmatized_text": "el candidato a el alcaldía de coalición_canaria cc de telde gran_canaria pablo_rodríguez haber retar a el alcalde francisco_santiago a uno debate cara_a_cara con el vecino de el valle_de_jinámar sobre el problema de el barrio ya_que sostener que el alcalde desconocer absolutamente el problema de jinámar porque nunca le haber importar este barrio que haber dejar a el intemperie y el degradación durante 30 año",
+        "lemmatized_text_reduced": "candidato alcaldía coalición_canaria cc telde gran_canaria pablo_rodríguez haber retar alcalde francisco_santiago debate vecino valle_de_jinámar problema barrio sostener alcalde desconocer absolutamente problema jinámar haber importar barrio haber dejar intemperie degradación año",
+        "persons": [
+            "Pablo_Rodríguez",
+            "Francisco_Santiago",
+            "Jinámar"
+        ],
+        "locations": [
+            "Valle_de_Jinámar"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, Rodríguez garantizó que se encargará personalmente de que los vecinos de Jinámar le soliciten los 800.000 euros en ayudas frente a la crisis que dice públicamente que ha dado y que brillan por su ausencia, mientras afirmó que \"ahora a Santiago no le quedará más remedio que darlos, porque tendrá en frente a los vecinos recordándoselo\". \"Desde ya vamos a movilizar al barrio para que se haga efectiva esa dotación económica inexistente\", dijo. De esta manera, señaló que CC está trabajando junto a la diputada Maria Mar Julios en una iniciativa que presentarán en el Parlamento canario para que el conjunto de las administraciones inyecten un importante capital en la regeneración del barrio. \"Desde que hemos dado a conocer nuestra propuesta —prosiguieron— muchos vecinos de Jinámar, que nos cuentan sus problemas cada semana, están deseando conocer el importe económico del Plan Jinámar con el que queremos regenerar el barrio y saldar la \"deuda histórica\" que tienen las administraciones con los vecinos\".",
+        "lemmatized_text": "en uno comunicado rodríguez garantizar que se encargar personalmente de que el vecino de jinámar le solicitar el $_ECU:800 en ayuda frente_a el crisis que decir públicamente que haber dar y que brillar por su ausencia mientras afirmar que ahora a santiago no le quedar más remedio que dar lo porque tener en frente_a el vecino recordar se lo desde ya ir a movilizar a el barrio para que se hacer efectivo ese dotación económico inexistente decir de este manera señalar que cc estar trabajar junto_a el diputado maria_mar_julios en uno iniciativa que presentar en el parlamento canario para que el conjunto de el administración inyectar uno importante capital en el regeneración de el barrio desde que haber dar_a_conocer nuestro propuesta proseguir mucho vecino de jinámar que nos contar su problema cada semana estar desear conocer el importe económico de el plan_jinámar con el que querer regenerar el barrio y saldar el deuda histórico que tener el administración con el vecino",
+        "lemmatized_text_reduced": "comunicado rodríguez garantizar encargar personalmente vecino jinámar solicitar ayuda crisis decir públicamente haber dar brillar ausencia afirmar santiago quedar remedio dar tener vecino recordar ir movilizar barrio hacer efectivo dotación económico inexistente decir manera señalar cc estar trabajar diputado maria_mar_julios iniciativa presentar parlamento canario conjunto administración inyectar importante capital regeneración barrio haber dar_a_conocer propuesta proseguir vecino jinámar contar problema semana estar desear conocer importe económico plan_jinámar querer regenerar barrio saldar deuda histórico tener administración vecino",
+        "persons": [
+            "Rodríguez",
+            "Maria_Mar_Julios"
+        ],
+        "locations": [
+            "Jinámar",
+            "Santiago",
+            "Jinámar"
+        ],
+        "organizations": [
+            "CC",
+            "Parlamento"
+        ],
+        "others": [
+            "Plan_Jinámar"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:800"
+        ]
+    }
+}

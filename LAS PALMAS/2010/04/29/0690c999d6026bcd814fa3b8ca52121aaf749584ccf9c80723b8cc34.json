@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/692420/0/",
+    "title": {
+        "raw_text": "Cabildo de Gran Canaria espera más de 50.000 personas en los tres días de la primera Feria de la Agricultura de la isla",
+        "lemmatized_text": "cabildo_de_gran_canaria esperar más de 50 persona en el TM_d:3 de el 1 feria_de_la_agricultura de el isla",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria esperar persona 1 feria_de_la_agricultura isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Feria_de_la_Agricultura"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "TM_d:3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Consejería de Agricultura, Ganadería, Pesca y Aguas del Cabildo de Gran Canaria ha esperando que más de 50.000 personas acudan del 1 al 3 de octubre a la I Feria de Agricultura, que contará con diferentes catas y actividades para que los grancanarios conozcan los productos que se elaboran en su isla, según puso hoy de manifiesto el consejero del área, Demetrio Suárez, durante unas declaraciones a los medios de comunicación.",
+        "lemmatized_text": "el consejería_de_agricultura ganadería pesca y aguas_del_cabildo_de_gran_canaria haber esperar que más de 50 persona acudir de el 1 a el [??:3/10/??:??.??:??] a el i_feria_de_agricultura que contar con diferente cata y actividad para que el grancanarios conocer el producto que se elaborar en su isla según poner hoy de manifiesto el consejero de el área demetrio_suárez durante uno declaración a el medio de comunicación",
+        "lemmatized_text_reduced": "consejería_de_agricultura ganadería pesca aguas_del_cabildo_de_gran_canaria haber esperar persona acudir i_feria_de_agricultura contar cata actividad grancanarios conocer producto elaborar isla poner manifiesto consejero área demetrio_suárez declaración medio comunicación",
+        "persons": [
+            "Pesca",
+            "Demetrio_Suárez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consejería_de_Agricultura",
+            "Ganadería",
+            "Aguas_del_Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "I_Feria_de_Agricultura"
+        ],
+        "dates": [
+            "[??:3/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "1"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Estamos preparando del 1 al 3 de octubre la primera feria de agricultura que se hará en Gran Canaria. El lugar será Infecar, y en ella vamos a hacer que todos los grancanarios puedan tener opción a conocer los productos que se hacen en nuestra isla, verlos en la exposición y adquirirlos en la venta\", dijo. Suárez apuntó que aquí entra el vino, aceite, café, queso... y todos los productos relacionados con el campo que se elaboren en la isla. Así, la Feria dispondrá de 3 pabellones y contará con restauradores para ofrecer recetas con los productos que se ofrecen y, al mismo tiempo, se llevarán a cabo clases prácticas para los niños para que tengan una correcta alimentación. Por su parte, la idea de la Consejería es que por Infecar puedan desfilar más de 50.000 personas durante los tres días que dure la Feria, que ofrecerá además diferentes catas de vinos y quesos.",
+        "lemmatized_text": "estar preparar de el 1 a el [??:3/10/??:??.??:??] el 1 feria de agricultura que se hacer en gran_canaria el lugar ser infecar y en él ir a hacer que todo el grancanarios poder tener opción a conocer el producto que se hacer en nuestro isla ver lo en el exposición y adquirir lo en el venta decir suárez apuntar que aquí entrar el vino aceite café queso y todo el producto relacionar con el campo que se elaborar en el isla así el feria disponer de 3 pabellón y contar con restaurador para ofrecer receta con el producto que se ofrecer y a el mismo tiempo se llevar_a_cabo clase práctico para el niño para que tener uno correcto alimentación por su parte el idea de el consejería ser que por infecar poder desfilar más de 50 persona durante el TM_d:3 que durar el feria que ofrecer además diferente cata de vino y queso",
+        "lemmatized_text_reduced": "estar preparar 1 feria agricultura hacer gran_canaria lugar ser infecar ir hacer grancanarios poder tener opción conocer producto hacer isla ver exposición adquirir venta decir suárez apuntar entrar vino aceite café queso producto relacionar campo elaborar isla feria disponer pabellón contar restaurador ofrecer receta producto ofrecer mismo tiempo llevar_a_cabo clase práctico niño tener correcto alimentación parte idea consejería ser infecar poder desfilar persona durar feria ofrecer cata vino queso",
+        "persons": [
+            "Suárez",
+            "Infecar"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Infecar"
+        ],
+        "organizations": [
+            "Consejería"
+        ],
+        "others": [
+            "Feria",
+            "Feria"
+        ],
+        "dates": [
+            "[??:3/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "1",
+            "3",
+            "50",
+            "TM_d:3"
+        ]
+    }
+}

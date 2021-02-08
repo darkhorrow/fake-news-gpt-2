@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/613853/0/",
+    "title": {
+        "raw_text": "Los bomberos sofocan un conato de incendio en un apartamento de Gran Canaria que se salda sin heridos",
+        "lemmatized_text": "el bombero sofocar uno conato de incendio en uno apartamento de gran_canaria que se saldar sin herido",
+        "lemmatized_text_reduced": "bombero sofocar conato incendio apartamento gran_canaria saldar herido",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos asistieron la pasada madrugada a sofocar un conato de incendio en un apartamento del sur de la isla de Gran Canaria y el incidente se saldó sin heridos, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el bombero asistir el pasar madrugada a sofocar uno conato de incendio en uno apartamento de el sur de el isla de gran_canaria y el incidente se saldar sin herido según informar fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "bombero asistir pasar madrugada sofocar conato incendio apartamento sur isla gran_canaria incidente saldar herido informar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 02.00 horas en un apartamento ubicado en la zona conocida como Campo Internacional en Playa del Inglés, dentro del municipio de San Bartolomé de Tirajana. Así, hasta el lugar de los hechos se trasladaron los bomberos que al llegar a la vivienda sólo tuvieron que airear el inmueble, después de que el fuego fuera sofocado. Además, hasta el apartamento en el que se produjo el conato asistieron agentes de la Policía Local.",
+        "lemmatized_text": "el incidente se producir a el TM_h:2 en uno apartamento ubicar en el zona conocer como campo_internacional en playa_del_inglés dentro de el municipio de san_bartolomé_de_tirajana así hasta el lugar de el hecho se trasladar el bombero que a el llegar a el vivienda sólo tener que airear el inmueble después_de que el fuego ser sofocar además hasta el apartamento en el que se producir el conato asistir agente de el policía_local",
+        "lemmatized_text_reduced": "incidente producir apartamento ubicar zona conocer campo_internacional playa_del_inglés municipio san_bartolomé_de_tirajana lugar hecho trasladar bombero llegar vivienda tener airear inmueble fuego ser sofocar apartamento producir conato asistir agente policía_local",
+        "persons": [],
+        "locations": [
+            "Playa_del_Inglés",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Campo_Internacional",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:2"
+        ]
+    }
+}

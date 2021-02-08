@@ -1,0 +1,134 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632821/0/",
+    "title": {
+        "raw_text": "Mañana concluirá alerta naranja en Canarias por lluvia y viento aunque se mantiene nivel amarillo por oleaje",
+        "lemmatized_text": "mañana concluir alerta naranja en canarias por lluvia y viento aunque se mantener nivel amarillo por oleaje",
+        "lemmatized_text_reduced": "concluir alerta naranja canarias lluvia viento mantener nivel amarillo oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) desactivará previsiblemente mañana la alerta naranja en Canarias por riesgo importante de lluvias intensas y rachas de viento de hasta 120 kilómetros por hora, que han azotado a las islas estos días, aunque se mantendrá el nivel amarillo por fuerte oleaje con riesgo de olas de hasta cuatro metros.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet desactivar previsiblemente mañana el alerta naranja en canarias por riesgo importante de lluvia intenso y racha de viento de hasta SP_km/h:120 que haber azotar a el isla este día aunque se mantener el nivel amarillo por fuerte oleaje con riesgo de ola de hasta LN_m:4",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet desactivar previsiblemente alerta naranja canarias riesgo importante lluvia intenso racha viento haber azotar isla día mantener nivel amarillo fuerte oleaje riesgo ola",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:120",
+            "LN_m:4"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, el fenómeno costero adverso se registrará en todo el litoral de la isla de Lanzarote, Fuerteventura, La Gomera, El Hierro, así como en el norte, este, sur y oeste de Tenerife, norte y oeste de La Palma, y al norte de Gran Canaria, situación que persistirá hasta las 18.00 horas de este viernes. De este modo, según la información de la Aemet recogida por Europa Press, se prevén aguas costeras en la provincia de Santa Cruz de Tenerife, de noroeste con fuerza tres a cuatro, con intervalos de fuerza cinco al principio y amainando a variable fuerza dos a tres al final. Además, en dicha provincia se registrará marejada a marejadilla, con intervalos de fuerte marejada al principio, disminuyendo a rizada a marejadilla al final. La Aemet prevé también en las cuatro islas occidentales mar de fondo del noroeste de hasta cuatro metros, disminuyendo a dos a tres metros al final. Respecto a Las Palmas se pronostican aguas costeras de noroeste con fuerza cuatro a cinco, que también amainarán paulatinamente a partir del mediodía hasta variable fuerza dos a tres al final. Así como marejada a marejadilla, con intervalos de fuerte marejada al principio, disminuyendo a rizada a marejadilla al final. En esta provincia habrá mar de fondo del noroeste de hasta cuatro metros, disminuyendo a dos a tres metros al final. En Canarias, asimismo, se registrarán intervalos nubosos, más abundantes en el norte de las islas de mayor relieve, donde es probable alguna lluvia débil. Provincias que se mantienen en alerta naranja Las provincias andaluzas de Almería, Cádiz, Granada y las ciudades autónomas de Ceuta y Melilla se mantendrán mañana en alerta naranja por riesgo importante de fuertes vientos e intensas lluvias, según la predicción de la AEMET. Además, Cádiz, Granada, Córdoba, Málaga y Sevilla; así como Barcelona, Tarragona y Gerona, Ceuta, Castellón y el archipiélago balear permanecerán en alerta amarilla por riesgo de fuertes vientos y chubascos de hasta veinte litros por metro cuadrado en una hora y rachas de viento de 80 kilómetros por hora. Igualmente, en Huesca, Cantabria, Navarra, La Rioja, País Vasco y Asturias estarán mañana en alerta amarilla por una acumulación de nieve de hasta diez centímetros, en el caso del Pirineo navarro. De igual forma, la costa gallega, la balear, la andaluza, la canaria, la catalana y en Melilla estarán en alerta por fuertes olas de hasta cuatro o cinco metros y fuertes vientos. En concreto, la AEMET prevé para mañana chubascos localmente fuertes en el sur de Andalucía, en el litoral catalán y en Baleares, así como rachas de viento muy fuerte en el litoral andaluz y en Baleares. Precipitaciones débiles También, en la mayor parte de la Península se registrarán precipitaciones débiles o localmente moderadas que podrían ser localmente fuertes en Baleares y también de madrugada en el sur de Andalucía y en el litoral catalán. Asimismo, éstas serían de carácter más disperso en el interior peninsular, menos probables y frecuentes en el interior del tercio oeste peninsular, en el valle del Ebro. En cambio, en el litoral norte levantino irá disminuyendo la nubosidad y las precipitaciones. Por otro lado, la cota de nieve en la Península bajará hasta los 600 o los 800 metros en el tercio norte y a 800 o 1.100 metros en el resto. En cuanto a las temperaturas, las diurnas en la Península irán en ligero o moderado descenso, salvo en el cuadrante suroeste donde permanecerán sin cambios. Los vientos, finalmente, soplarán de flojos a moderados del oeste y del noroeste en la mayor parte del país, con intervalos de fuerte en zonas del tercio oriental peninsular, Andalucía y Baleares.",
+        "lemmatized_text": "en concreto el fenómeno costero adverso se registrar en todo el litoral de el isla de lanzarote fuerteventura la_gomera el_hierro así_como en el norte este sur y oeste de tenerife norte y oeste de la_palma y a el norte de gran_canaria situación que persistir hasta el TM_h:18 de este [V:??/??/??:??.??:??] de este modo según el información de el aemet recoger por europa_press se prever agua costero en el provincia de santa_cruz_de_tenerife de noroeste con fuerza 3 a 4 con intervalo de fuerza 5 a el principio y amainar a variable fuerza 2 a 3 a el final además en decir provincia se registrar marejada a marejadilla con intervalo de fuerte marejada a el principio disminuir a rizar a marejadilla a el final el aemet prever también en el 4 isla occidental mar de fondo de el noroeste de hasta LN_m:4 disminuir a 2 a LN_m:3 a el final respecto_a las_palmas se pronosticar agua costero de noroeste con fuerza 4 a 5 que también amainar paulatinamente a partir de el [??:??/??/??:12.00:pm] hasta variable fuerza 2 a 3 a el final así_como marejada a marejadilla con intervalo de fuerte marejada a el principio disminuir a rizar a marejadilla a el final en este provincia haber mar de fondo de el noroeste de hasta LN_m:4 disminuir a 2 a LN_m:3 a el final en canarias asimismo se registrar intervalo nuboso más abundante en el norte de el isla de mayor relieve donde ser probable alguno lluvia débil provincias que se mantener en alerta naranja las provincia andaluz de almería cádiz granada y el ciudad autónomo de ceuta y melilla se mantener mañana en alerta naranja por riesgo importante de fuerte viento y intenso lluvia según el predicción de el aemet además cádiz granada córdoba málaga y sevilla así_como barcelona tarragona y gerona ceuta castellón y el archipiélago balear permanecer en alerta amarillo por riesgo de fuerte viento y chubasco de hasta CB_l/m2:20 en uno hora y racha de viento de SP_km/h:80 igualmente en huesca cantabria navarra la_rioja país_vasco y asturias estar mañana en alerta amarillo por uno acumulación de nieve de hasta LN_cm:10 en el caso de el pirineo navarro de igual forma el costa gallego el balear el andaluz el canario el catalán y en melilla estar en alerta por fuerte ola de hasta 4 o LN_m:5 y fuerte viento en concreto el aemet prever para mañana chubasco localmente fuerte en el sur de andalucía en el litoral catalán y en baleares así_como racha de viento muy fuerte en el litoral andaluz y en baleares precipitación débil también en el mayor parte de el península se registrar precipitación débil o localmente moderar que poder ser localmente fuerte en baleares y también de_madrugada en el sur de andalucía y en el litoral catalán asimismo este ser de carácter más disperso en el interior peninsular menos probable y frecuente en el interior de el tercio oeste peninsular en el valle de el ebro en cambio en el litoral norte levantino ir disminuir el nubosidad y el precipitación por_otro_lado el cota de nieve en el península bajar hasta el 600 o el LN_m:800 en el tercio norte y a 800 o LN_m:1.1 en el resto en_cuanto_a el temperatura el diurno en el península ir en ligero o moderar descenso salvo en el cuadrante suroeste donde permanecer sin cambio el viento finalmente soplar de flojo a moderado de el oeste y de el noroeste en el mayor parte de el país con intervalo de fuerte en zona de el tercio oriental peninsular andalucía y baleares",
+        "lemmatized_text_reduced": "concreto fenómeno costero adverso registrar litoral isla lanzarote fuerteventura la_gomera el_hierro norte sur oeste tenerife norte oeste la_palma norte gran_canaria situación persistir modo información aemet recoger europa_press prever agua costero provincia santa_cruz_de_tenerife noroeste fuerza intervalo fuerza principio amainar variable fuerza final decir provincia registrar marejada marejadilla intervalo fuerte marejada principio disminuir rizar marejadilla final aemet prever isla occidental mar fondo noroeste disminuir final las_palmas pronosticar agua costero noroeste fuerza amainar paulatinamente partir variable fuerza final marejada marejadilla intervalo fuerte marejada principio disminuir rizar marejadilla final provincia haber mar fondo noroeste disminuir final canarias registrar intervalo nuboso abundante norte isla mayor relieve ser probable lluvia débil provincias mantener alerta naranja las provincia andaluz almería cádiz granada ciudad autónomo ceuta melilla mantener alerta naranja riesgo importante fuerte viento intenso lluvia predicción aemet cádiz granada córdoba málaga sevilla barcelona tarragona gerona ceuta castellón archipiélago balear permanecer alerta amarillo riesgo fuerte viento chubasco hora racha viento igualmente huesca cantabria navarra la_rioja país_vasco asturias estar alerta amarillo acumulación nieve caso pirineo navarro igual forma costa gallego balear andaluz canario catalán melilla estar alerta fuerte ola fuerte viento concreto aemet prever chubasco localmente fuerte sur andalucía litoral catalán baleares racha viento fuerte litoral andaluz baleares precipitación débil también mayor parte península registrar precipitación débil localmente moderar poder ser localmente fuerte baleares sur andalucía litoral catalán ser carácter disperso interior peninsular probable frecuente interior tercio oeste peninsular valle ebro cambio litoral norte levantino ir disminuir nubosidad precipitación cota nieve península bajar tercio norte resto temperatura diurno península ir ligero moderar descenso cuadrante suroeste permanecer cambio viento finalmente soplar flojo moderado oeste noroeste mayor parte país intervalo fuerte zona tercio oriental peninsular andalucía baleares",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Lanzarote",
+            "El_Hierro",
+            "Tenerife",
+            "La_Palma",
+            "Gran_Canaria",
+            "Santa_Cruz_de_Tenerife",
+            "Canarias",
+            "Almería",
+            "Cádiz",
+            "Granada",
+            "Ceuta",
+            "Melilla",
+            "Cádiz",
+            "Granada",
+            "Córdoba",
+            "Málaga",
+            "Sevilla",
+            "Tarragona",
+            "Gerona",
+            "Castellón",
+            "Huesca",
+            "Cantabria",
+            "Navarra",
+            "La_Rioja",
+            "País_Vasco",
+            "Asturias",
+            "Pirineo",
+            "Melilla",
+            "Andalucía",
+            "Baleares",
+            "Baleares",
+            "Baleares",
+            "Andalucía",
+            "Ebro",
+            "Península",
+            "Península",
+            "Andalucía",
+            "Baleares"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "La_Gomera",
+            "Aemet",
+            "Aemet",
+            "Las_Palmas",
+            "Provincias",
+            "AEMET",
+            "Barcelona",
+            "Ceuta",
+            "AEMET",
+            "También",
+            "Península"
+        ],
+        "others": [
+            "Las"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "TM_h:18",
+            "3",
+            "4",
+            "5",
+            "2",
+            "3",
+            "4",
+            "LN_m:4",
+            "2",
+            "LN_m:3",
+            "4",
+            "5",
+            "2",
+            "3",
+            "LN_m:4",
+            "2",
+            "LN_m:3",
+            "CB_l/m2:20",
+            "SP_km/h:80",
+            "LN_cm:10",
+            "4",
+            "LN_m:5",
+            "600",
+            "LN_m:800",
+            "800",
+            "LN_m:1.1"
+        ]
+    }
+}

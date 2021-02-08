@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632996/0/",
+    "title": {
+        "raw_text": "Finaliza la alerta naranja en Canarias por lluvia y viento aunque se mantiene el nivel amarillo por oleaje",
+        "lemmatized_text": "finalizar el alerta naranja en canarias por lluvia y viento aunque se mantener el nivel amarillo por oleaje",
+        "lemmatized_text_reduced": "finalizar alerta naranja canarias lluvia viento mantener nivel amarillo oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha desactivado hoy la alerta naranja en Canarias por riesgo importante de lluvias intensas y rachas de viento de hasta 120 kilómetros por hora, que han azotado a las islas estos días, aunque se mantendrá el nivel amarillo por fuerte oleaje con riesgo de olas de hasta cuatro metros.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber desactivar hoy el alerta naranja en canarias por riesgo importante de lluvia intenso y racha de viento de hasta SP_km/h:120 que haber azotar a el isla este día aunque se mantener el nivel amarillo por fuerte oleaje con riesgo de ola de hasta LN_m:4",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber desactivar alerta naranja canarias riesgo importante lluvia intenso racha viento haber azotar isla día mantener nivel amarillo fuerte oleaje riesgo ola",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:120",
+            "LN_m:4"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, el fenómeno costero adverso se registrará en todo el litoral de la isla de Lanzarote, Fuerteventura, La Gomera, El Hierro, así como en el norte, este, sur y oeste de Tenerife, norte y oeste de La Palma, y al norte de Gran Canaria, situación que persistirá hasta las 18.00 horas de este viernes. De este modo, según la información de la Aemet recogida por Europa Press, se prevén aguas costeras en la provincia de Santa Cruz de Tenerife, de noroeste con fuerza tres a cuatro, con intervalos de fuerza cinco al principio y amainando a variable fuerza dos a tres al final. Además, en dicha provincia se registrará marejada a marejadilla, con intervalos de fuerte marejada al principio, disminuyendo de rizada a marejadilla al final. La Aemet prevé también en las cuatro islas occidentales mar de fondo del noroeste de hasta cuatro metros, disminuyendo a dos a tres metros al final. Respecto a Gran Canaria se pronostican aguas costeras de noroeste con fuerza cuatro a cinco, que también amainarán paulatinamente a partir del mediodía hasta variable fuerza dos a tres al final. Así como marejada a marejadilla, con intervalos de fuerte marejada al principio, disminuyendo a rizada a marejadilla al final. En esta provincia habrá mar de fondo del noroeste de hasta cuatro metros, disminuyendo a dos a tres metros al final. Asimismo, en Canarias en general se registrarán intervalos nubosos, más abundantes en el norte de las islas de mayor relieve, donde es probable alguna lluvia débil.",
+        "lemmatized_text": "en concreto el fenómeno costero adverso se registrar en todo el litoral de el isla de lanzarote fuerteventura la_gomera el_hierro así_como en el norte este sur y oeste de tenerife norte y oeste de la_palma y a el norte de gran_canaria situación que persistir hasta el TM_h:18 de este [V:??/??/??:??.??:??] de este modo según el información de el aemet recoger por europa_press se prever agua costero en el provincia de santa_cruz_de_tenerife de noroeste con fuerza 3 a 4 con intervalo de fuerza 5 a el principio y amainar a variable fuerza 2 a 3 a el final además en decir provincia se registrar marejada a marejadilla con intervalo de fuerte marejada a el principio disminuir de rizar a marejadilla a el final el aemet prever también en el 4 isla occidental mar de fondo de el noroeste de hasta LN_m:4 disminuir a 2 a LN_m:3 a el final respecto_a gran_canaria se pronosticar agua costero de noroeste con fuerza 4 a 5 que también amainar paulatinamente a partir de el [??:??/??/??:12.00:pm] hasta variable fuerza 2 a 3 a el final así_como marejada a marejadilla con intervalo de fuerte marejada a el principio disminuir a rizar a marejadilla a el final en este provincia haber mar de fondo de el noroeste de hasta LN_m:4 disminuir a 2 a LN_m:3 a el final asimismo en canarias en general se registrar intervalo nuboso más abundante en el norte de el isla de mayor relieve donde ser probable alguno lluvia débil",
+        "lemmatized_text_reduced": "concreto fenómeno costero adverso registrar litoral isla lanzarote fuerteventura la_gomera el_hierro norte sur oeste tenerife norte oeste la_palma norte gran_canaria situación persistir modo información aemet recoger europa_press prever agua costero provincia santa_cruz_de_tenerife noroeste fuerza intervalo fuerza principio amainar variable fuerza final decir provincia registrar marejada marejadilla intervalo fuerte marejada principio disminuir rizar marejadilla final aemet prever isla occidental mar fondo noroeste disminuir final gran_canaria pronosticar agua costero noroeste fuerza amainar paulatinamente partir variable fuerza final marejada marejadilla intervalo fuerte marejada principio disminuir rizar marejadilla final provincia haber mar fondo noroeste disminuir final canarias general registrar intervalo nuboso abundante norte isla mayor relieve ser probable lluvia débil",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Lanzarote",
+            "El_Hierro",
+            "Tenerife",
+            "La_Palma",
+            "Gran_Canaria",
+            "Santa_Cruz_de_Tenerife",
+            "Canarias"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "La_Gomera",
+            "Aemet",
+            "Aemet",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "TM_h:18",
+            "3",
+            "4",
+            "5",
+            "2",
+            "3",
+            "4",
+            "LN_m:4",
+            "2",
+            "LN_m:3",
+            "4",
+            "5",
+            "2",
+            "3",
+            "LN_m:4",
+            "2",
+            "LN_m:3"
+        ]
+    }
+}

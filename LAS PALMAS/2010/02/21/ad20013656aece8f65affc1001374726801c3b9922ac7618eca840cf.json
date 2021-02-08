@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634315/0/",
+    "title": {
+        "raw_text": "Fallece un varón de 51 años tras ser atropellado por un camión en Las Palmas de Gran Canaria",
+        "lemmatized_text": "fallecer uno varón de 51 año tras ser atropellar por uno camión en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "fallecer varón año ser atropellar camión las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "51"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 51 años de edad ha fallecido hoy tras ser atropellado por un camión en la Avenida Marítima, en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 51 año de edad haber fallecer hoy tras ser atropellar por uno camión en el avenida_marítima en las_palmas_de_gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber fallecer ser atropellar camión avenida_marítima las_palmas_de_gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Avenida_Marítima",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "51",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente tuvo lugar a las 05.45 horas, cuando una llamada alertó al Cecoes de que se había producido un atropello en la citada vía a la altura del barrio de San Cristóbal, en dirección a la capital. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazó personal médico del Servicio de Urgencias Canario (SUC) que sólo pudo confirmar el fallecimiento del hombre, añadieron las mismas fuentes. En dicha actuación también intervino la Policía Local, que se encargó de instruir las diligencias correspondientes y custodiar el cuerpo hasta que la autoridad judicial competente autorizó el levantamiento del cadáver.",
+        "lemmatized_text": "el accidente tener_lugar a el TM_h:5.45 cuando uno llamada alertar a el cecoes de que se haber producir uno atropello en el citar vía a el altura de el barrio de san_cristóbal en_dirección_a el capital de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencias_canario suc que sólo poder confirmar el fallecimiento de el hombre añadir el mismo fuente en decir actuación también intervenir el policía_local que se encargar de instruir el diligencia correspondiente y custodiar el cuerpo hasta que el autoridad judicial competente autorizar el levantamiento de el cadáver",
+        "lemmatized_text_reduced": "accidente tener_lugar llamada alertar cecoes haber producir atropello citar vía altura barrio san_cristóbal capital modo activar inmediato dispositivo emergencia necesario lugar desplazar personal médico servicio_de_urgencias_canario suc poder confirmar fallecimiento hombre añadir mismo fuente decir actuación intervenir policía_local encargar instruir diligencia correspondiente custodiar cuerpo autoridad judicial competente autorizar levantamiento cadáver",
+        "persons": [],
+        "locations": [
+            "San_Cristóbal"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:5.45",
+            "112"
+        ]
+    }
+}

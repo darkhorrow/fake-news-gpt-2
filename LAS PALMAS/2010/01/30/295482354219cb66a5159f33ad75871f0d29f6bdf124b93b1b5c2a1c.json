@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618556/0/",
+    "title": {
+        "raw_text": "Un Policía Local encuentra con vida en Agaete (Gran Canaria) a Gloria Santana, después de dos días desaparecida",
+        "lemmatized_text": "uno policía_local encontrar con vida en agaete gran_canaria a gloria_santana después_de TM_d:2 desaparecer",
+        "lemmatized_text_reduced": "policía_local encontrar vida agaete gran_canaria gloria_santana desaparecer",
+        "persons": [
+            "Gloria_Santana"
+        ],
+        "locations": [
+            "Agaete",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un agente de la Policía Local encontró este mediodía con vida a Gloria Santana Pérez, la mujer que desapareció el pasado jueves del municipio de Arucas (Gran Canaria), y que finalmente ha sido hallada en la localidad también grancanaria de Agaete.",
+        "lemmatized_text": "uno agente de el policía_local encontrar este [??:??/??/??:12.00:pm] con vida a gloria_santana_pérez el mujer que desaparecer el [J:??/??/??:??.??:??] de el municipio de arucas gran_canaria y que finalmente haber ser hallar en el localidad también grancanaria de agaete",
+        "lemmatized_text_reduced": "agente policía_local encontrar vida gloria_santana_pérez mujer desaparecer municipio arucas gran_canaria finalmente haber ser hallar localidad grancanaria agaete",
+        "persons": [
+            "Gloria_Santana_Pérez"
+        ],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria",
+            "Agaete"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:pm]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, el agente se encontró a Gloria Santana alrededor de las 16.30 horas de hoy y, según informaron fuentes de la Policía Local de Arucas a Europa Press, ella estaba en ese momento deambulando por Agaete pero en buen estado. La mujer, de unos 47 años de edad, tiene tres hijos, padece una depresión y es natural del barrio de Cardones, en Arucas. Su familia fue la que denunció ante la Guardia Civil y alertó de su desaparición.",
+        "lemmatized_text": "en concreto el agente se encontrar a gloria_santana alrededor_de el TM_h:16.3 de hoy y según informar fuente de el policía_local_de_arucas a europa_press él estar en ese momento deambular por agaete pero en bueno estado el mujer de uno 47 año de edad tener 3 hijo padecer uno depresión y ser natural de el barrio de cardones en arucas su familia ser el que denunciar ante el guardia_civil y alertar de su desaparición",
+        "lemmatized_text_reduced": "concreto agente encontrar gloria_santana informar fuente policía_local_de_arucas europa_press estar momento deambular agaete bueno estado mujer año edad tener hijo padecer depresión ser natural barrio cardones arucas familia ser denunciar guardia_civil alertar desaparición",
+        "persons": [
+            "Gloria_Santana",
+            "Europa_Press",
+            "Agaete"
+        ],
+        "locations": [
+            "Cardones",
+            "Arucas"
+        ],
+        "organizations": [
+            "Policía_Local_de_Arucas",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.3",
+            "47",
+            "3"
+        ]
+    }
+}

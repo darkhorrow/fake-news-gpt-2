@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597482/0/",
+    "title": {
+        "raw_text": "La 'mala' planificación de Aena provoca en Canarias 25.000 minutos de retraso y afecta a 400 vuelos, según controladores",
+        "lemmatized_text": "el malo planificación de aena provocar en canarias TM_min:25 de retraso y afectar a 400 vuelo según controlador",
+        "lemmatized_text_reduced": "malo planificación aena provocar canarias retraso afectar vuelo controlador",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_min:25",
+            "400"
+        ]
+    },
+    "lead": {
+        "raw_text": "La USCA asegura que todos los controladores están en su puesto de trabajo",
+        "lemmatized_text": "el usca asegurar que todo el controlador estar en su puesto de trabajo",
+        "lemmatized_text_reduced": "usca asegurar controlador estar puesto trabajo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "USCA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Unión Sindical de Controladores Aéreos (USCA) ha afirmado hoy que la 'mala' planificación de Aena ha producido en Canarias 25.000 minutos de retrasos y que hay un total de 400 vuelos afectados por las demoras, que tienen una media de entre 50 minutos y una hora, según informó hoy el sindicato en un comunicado. De esta manera, explicaron que los retrasos en las islas se están produciendo \"con todos los controladores programados por Aena en sus puestos de trabajo\". \"Debido a la escasez de personal programado, ha sido necesario establecer regulaciones ante la imposibilidad de poder abrir más sectores\", señalaron. Además, desde USCA explicaron que estos retrasos son una \"nueva evidencia\" de los errores en la programación de las necesidades de controladores durante fechas tan señaladas como las actuales. Durante la mañana, los aeropuertos de Gran Canaria —con 16 vuelos retrasados—; Tenerife Sur, con todos los vuelos de la mañana con demoras; y Tenerife Norte, con 19 operaciones afectadas, registraron la mayoría de los retrasos que han tenido lugar durante la mañana de hoy en Canarias, con esperas que han llegado a ser de hasta dos horas, según informó a Europa Press Aeropuertos Españoles y Navegación Aérea (Aena), mientras que indicaron que el resto de islas no han presentado incidencias reseñables hasta las horas centrales del día de hoy.",
+        "lemmatized_text": "el unión_sindical_de_controladores_aéreos usca haber afirmar hoy que el malo planificación de aena haber producir en canarias TM_min:25 de retraso y que haber uno total de 400 vuelo afectar por el demora que tener uno medio de entre TM_min:50 y uno hora según informar hoy el sindicato en uno comunicado de este manera explicar que el retraso en el isla se estar producir con todo el controlador programar por aena en su puesto de trabajo debido_a el escasez de personal programar haber ser necesario establecer regulación ante el imposibilidad de poder abrir más sector señalar además desde usca explicar que este retraso ser uno nuevo evidencia de el error en el programación de el necesidad de controlador durante fecha tan señalar como el actual durante el mañana el aeropuerto de gran_canaria con 16 vuelo retrasado tenerife_sur con todo el vuelo de el mañana con demora y tenerife_norte con 19 operación afectar registrar el mayoría de el retraso que haber tener_lugar durante el mañana de hoy en canarias con espera que haber llegar a ser de hasta TM_h:2 según informar a europa_press_aeropuertos_españoles y navegación_aérea aena mientras_que indicar que el resto de isla no haber presentar incidencia reseñable hasta el hora central de el día de hoy",
+        "lemmatized_text_reduced": "unión_sindical_de_controladores_aéreos usca haber afirmar malo planificación aena haber producir canarias retraso haber total vuelo afectar demora tener medio hora informar sindicato comunicado manera explicar retraso isla estar producir controlador programar aena puesto trabajo escasez personal programar haber ser necesario establecer regulación imposibilidad poder abrir sector señalar usca explicar retraso ser nuevo evidencia error programación necesidad controlador fecha señalar actual mañana aeropuerto gran_canaria vuelo retrasado tenerife_sur vuelo mañana demora tenerife_norte operación afectar registrar mayoría retraso haber tener_lugar mañana canarias espera haber llegar ser informar europa_press_aeropuertos_españoles navegación_aérea aena indicar resto isla haber presentar incidencia reseñable hora central día",
+        "persons": [
+            "Tenerife_Sur",
+            "Tenerife_Norte",
+            "Europa_Press_Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Canarias",
+            "Gran_Canaria",
+            "Canarias"
+        ],
+        "organizations": [
+            "Unión_Sindical_de_Controladores_Aéreos",
+            "USCA",
+            "Aena",
+            "Aena",
+            "USCA",
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_min:25",
+            "400",
+            "TM_min:50",
+            "16",
+            "19",
+            "TM_h:2"
+        ]
+    }
+}

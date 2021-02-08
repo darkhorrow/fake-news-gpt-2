@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599852/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria destina más de 3 millones a obras de mejora en Santa María de Guía",
+        "lemmatized_text": "el cabildo_de_gran_canaria destinar más de 3000000 a obra de mejora en santa_maría_de_guía",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria destinar obra mejora santa_maría_de_guía",
+        "persons": [],
+        "locations": [
+            "Santa_María_de_Guía"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria invertirá 3,47 millones de euros en la realización de nuevos proyectos, así como en diversas obras de mejora de restauración, ampliación y acondicionamiento de infraestructuras en el municipio de Santa María de Guía.",
+        "lemmatized_text": "el cabildo_de_gran_canaria invertir 3,47 millón de euro en el realización de nuevo proyecto así_como en diverso obra de mejora de restauración ampliación y acondicionamiento de infraestructura en el municipio de santa_maría_de_guía",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria invertir millón euro realización nuevo proyecto obra mejora restauración ampliación acondicionamiento infraestructura municipio santa_maría_de_guía",
+        "persons": [],
+        "locations": [
+            "Santa_María_de_Guía"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3,47"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, el Gobierno insular destinará 2,04 millones de euros a la primera fase de las obras para impulsar el mercado agrícola municipal 'Cuatro Caminos', acción enmarcada dentro de las obras previstas en el Plan Especial del Norte, según informó el Cabildo de Gran Canaria en nota de prensa. Además la colocación de aceras y asfaltado de los barrios de La Atalaya y Becerril supondrá un coste de 284.000 euros y se encuadra dentro del Plan de Cooperación con los ayuntamientos. También dentro de dicho Plan se incluirán las obras de asfaltado de Montaña Alta, Tres Cruces, Paso María de los Santos, Solapones y Verdejo, entre otras zonas del municipio. Estas obras de mejora suponen una inversión de 230.000 euros. Por otro lado y dentro del Plan Insular de Obras y Servicios, destaca la inversión de más de 178.000 euros que se realizará en la instalación de alumbrado público fotovoltaico en varios núcleos del municipio. En relación con dichas obras, el consejero de Cooperación Institucional y Solidaridad Internacional del Cabildo de Gran Canaria, Carmelo Ramírez, afirmó que estas acciones \"contribuyen a la mejora y al progreso socioeconómico del municipio de Santa María de Guía, ya que no sólo se contemplan inversiones en servicios básicos sino que también propicia el desarrollo económico mediante infraestructuras destinadas al comercio agrícola y ganadero\".",
+        "lemmatized_text": "en concreto el gobierno insular destinar 2,04 millón de euro a el 1 fase de el obra para impulsar el mercado agrícola municipal 4 caminos acción enmarcar dentro_de el obra prever en el plan_especial_del_norte según informar el cabildo_de_gran_canaria en nota de prensa además el colocación de acera y asfaltar de el barrio de la_atalaya y becerril suponer uno coste de $_ECU:284 y se encuadrar dentro de el plan_de_cooperación con el ayuntamiento también dentro_de decir plan se incluir el obra de asfaltado de montaña_alta 3 cruces paso_maría_de_los_santos solapones y verdejo entre otro zona de el municipio este obra de mejora suponer uno inversión de $_ECU:230 por_otro_lado y dentro de el plan_insular_de_obras y servicios destacar el inversión de más de $_ECU:178 que se realizar en el instalación de alumbrar público fotovoltaico en varios núcleo de el municipio en relación con decir obra el consejero de cooperación_institucional y solidaridad_internacional_del_cabildo_de_gran_canaria carmelo_ramírez afirmar que este acción contribuir a el mejora y a el progreso socioeconómico de el municipio de santa_maría_de_guía ya_que no_sólo se contemplar inversión en servicio básico sino_que también propiciar el desarrollo económico mediante infraestructura destinar a el comercio agrícola y ganadero",
+        "lemmatized_text_reduced": "concreto gobierno insular destinar millón euro 1 fase obra impulsar mercado agrícola municipal caminos acción enmarcar obra prever plan_especial_del_norte informar cabildo_de_gran_canaria nota prensa colocación acera asfaltar barrio la_atalaya becerril suponer coste encuadrar plan_de_cooperación ayuntamiento decir plan incluir obra asfaltado montaña_alta cruces paso_maría_de_los_santos solapones verdejo zona municipio obra mejora suponer inversión plan_insular_de_obras servicios destacar inversión realizar instalación alumbrar público fotovoltaico núcleo municipio relación decir obra consejero cooperación_institucional solidaridad_internacional_del_cabildo_de_gran_canaria carmelo_ramírez afirmar acción contribuir mejora progreso socioeconómico municipio santa_maría_de_guía contemplar inversión servicio básico propiciar desarrollo económico infraestructura destinar comercio agrícola ganadero",
+        "persons": [
+            "Caminos",
+            "Cruces",
+            "Servicios",
+            "Carmelo_Ramírez"
+        ],
+        "locations": [
+            "La_Atalaya",
+            "Becerril",
+            "Montaña_Alta",
+            "Paso_María_de_los_Santos",
+            "Verdejo",
+            "Santa_María_de_Guía"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Cabildo_de_Gran_Canaria",
+            "Solapones",
+            "Solidaridad_Internacional_del_Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Plan_Especial_del_Norte",
+            "Plan_de_Cooperación",
+            "Plan",
+            "Plan_Insular_de_Obras",
+            "Cooperación_Institucional"
+        ],
+        "dates": [],
+        "numbers": [
+            "2,04",
+            "4",
+            "$_ECU:284",
+            "3",
+            "$_ECU:230",
+            "$_ECU:178"
+        ]
+    }
+}

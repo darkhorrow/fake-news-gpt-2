@@ -1,0 +1,91 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/626336/0/",
+    "title": {
+        "raw_text": "Geursa adjudica la dirección de obra del puente de Obispo Romo y la prolongación del Canódromo por 45.000 euros",
+        "lemmatized_text": "geursa adjudicar el dirección de obra de el puente de obispo_romo y el prolongación de el canódromo por $_ECU:45",
+        "lemmatized_text_reduced": "geursa adjudicar dirección obra puente obispo_romo prolongación canódromo",
+        "persons": [
+            "Geursa"
+        ],
+        "locations": [
+            "Obispo_Romo",
+            "Canódromo"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:45"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consejo de Administración de Geursa ha adjudicado hoy a la Unión Temporal de Empresas (UTE) formada por Jofrahesa SL y Esteyco SAP la dirección de obra del proyecto de Viaducto de la calle Obispo Romo y acondicionamiento y prolongación del parque del Canódromo en Las Palmas de Gran Canaria por un importe de 45.000 euros.",
+        "lemmatized_text": "el consejo_de_administración_de_geursa haber adjudicar hoy a el unión_temporal_de_empresas ute formar por jofrahesa_sl y esteyco_sap el dirección de obra de el proyecto de viaducto de el calle obispo_romo y acondicionamiento y prolongación de el parque de el canódromo en las_palmas_de_gran_canaria por uno importe de $_ECU:45",
+        "lemmatized_text_reduced": "consejo_de_administración_de_geursa haber adjudicar unión_temporal_de_empresas ute formar jofrahesa_sl esteyco_sap dirección obra proyecto viaducto calle obispo_romo acondicionamiento prolongación parque canódromo las_palmas_de_gran_canaria importe",
+        "persons": [
+            "Viaducto",
+            "Obispo_Romo"
+        ],
+        "locations": [
+            "Canódromo",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Consejo_de_Administración_de_Geursa",
+            "Unión_Temporal_de_Empresas",
+            "UTE",
+            "Jofrahesa_SL",
+            "Esteyco_SAP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:45"
+        ]
+    },
+    "body": {
+        "raw_text": "La adjudicación separada de la ejecución del proyecto y la dirección de obra ha permitido \"ganar varios meses de tramitación\", según informó hoy el Ayuntamiento capitalino en un comunicado, que señala que, paralelamente, Telefónica ya ha comenzado a cambiar la ubicación de sus redes en la zona para que los trabajos del puente puedan acometerse en su totalidad. El Ayuntamiento de Las Palmas de Gran Canaria, a través de la empresa pública Geursa, ha resuelto sobre un concurso negociado sin publicidad (siendo el procedimiento administrativo más rápido y efectivo para este particular). Para concurrir al citado concurso se invitaron a tres empresas que ya habían optado a la adjudicación del proyecto y a una cuarta que no lo había hecho. La adjudicación de la dirección de obra se ha resultado a favor de la UTE compuesta por Jofrahesa SL y Esteyco SAP, que sobre el precio de licitación —que fue de 60.000 euros— ofertó un servicio final por valor de 45.000 euros (los otros tres concursantes ofrecieron 60.000, 60.000 y 55.884 euros). Esta reducción del 25 por ciento sobre el coste de licitación es lo que ha motivado su adjudicación, precisa la institución local. El Consistorio explica que la dirección de obra supone básicamente la contratación de un ingeniero de Caminos, Canales y Puertos (630 horas de trabajo), un auxiliar técnico (504 horas) y un administrativo (168 horas). Su cometido es el de supervisar los trabajos de construcción del puente de Obispo Romo, además de acondicionar y prolongar el parque del Canódromo para unir el barranquillo de Don Zoilo con el barrio de Schamann.",
+        "lemmatized_text": "el adjudicación separar de el ejecución de el proyecto y el dirección de obra haber permitir ganar varios mes de tramitación según informar hoy el ayuntamiento capitalino en uno comunicado que señalar que paralelamente telefónica ya haber comenzar a cambiar el ubicación de su red en el zona para que el trabajo de el puente poder acometer se en su totalidad el ayuntamiento_de_las_palmas_de_gran_canaria a_través_de el empresa público geursa haber resolver sobre uno concurso negociar sin publicidad ser el procedimiento administrativo más rápido y efectivo para este particular para concurrir a el citar concurso se invitar a 3 empresa que ya haber optar a el adjudicación de el proyecto y a uno 4 que no lo haber hacer el adjudicación de el dirección de obra se haber resultar a_favor_de el ute componer por jofrahesa_sl y esteyco_sap que sobre el precio de licitación que ser de $_ECU:60 ofertar uno servicio final por valor de $_ECU:45 el otro 3 concursante ofrecer 60 60 y $_ECU:55.884 este reducción de el 25 por 100 sobre el coste de licitación ser el que haber motivar su adjudicación precisar el institución local el consistorio explicar que el dirección de obra suponer básicamente el contratación de uno ingeniero de caminos canales y puertos TM_h:630 de trabajo uno auxiliar técnico TM_h:504 y uno administrativo TM_h:168 su cometido ser el de supervisar el trabajo de construcción de el puente de obispo_romo además_de acondicionar y prolongar el parque de el canódromo para unir el barranco de don_zoilo con el barrio de schamann",
+        "lemmatized_text_reduced": "adjudicación separar ejecución proyecto dirección obra haber permitir ganar mes tramitación informar ayuntamiento capitalino comunicado señalar paralelamente telefónica haber comenzar cambiar ubicación red zona trabajo puente poder acometer totalidad ayuntamiento_de_las_palmas_de_gran_canaria empresa público geursa haber resolver concurso negociar publicidad ser procedimiento administrativo rápido efectivo particular concurrir citar concurso invitar empresa haber optar adjudicación proyecto 4 haber hacer adjudicación dirección obra haber resultar ute componer jofrahesa_sl esteyco_sap precio licitación ser ofertar servicio final valor concursante ofrecer reducción coste licitación ser haber motivar adjudicación precisar institución local consistorio explicar dirección obra suponer básicamente contratación ingeniero caminos canales puertos trabajo auxiliar técnico administrativo cometido ser supervisar trabajo construcción puente obispo_romo acondicionar prolongar parque canódromo unir barranco don_zoilo barrio schamann",
+        "persons": [
+            "Caminos"
+        ],
+        "locations": [
+            "Canales",
+            "Puertos",
+            "Obispo_Romo",
+            "Canódromo",
+            "Don_Zoilo",
+            "Schamann"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Telefónica",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Geursa",
+            "UTE",
+            "Jofrahesa_SL",
+            "Consistorio"
+        ],
+        "others": [
+            "Esteyco_SAP"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "$_ECU:60",
+            "$_ECU:45",
+            "3",
+            "60",
+            "60",
+            "$_ECU:55.884",
+            "25",
+            "100",
+            "TM_h:630",
+            "TM_h:504",
+            "TM_h:168"
+        ]
+    }
+}

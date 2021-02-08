@@ -1,0 +1,94 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/691778/0/",
+    "title": {
+        "raw_text": "Los canarios en el extranjero aumentan en sólo 206 personas, un 0,6% más",
+        "lemmatized_text": "el canario en el extranjero aumentar en sólo 206 persona uno 0,6/100 más",
+        "lemmatized_text_reduced": "canario extranjero aumentar persona",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "206",
+            "0,6/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los canarios que viven en el extranjero a 1 de enero de 2010 suman los 31.513, lo que ha supuesto un avance del 0,6 por ciento y el aumento en 206 personas el saldo de residentes fuera de España, según consta en el Padrón de Españoles Residentes en el Extranjero (PERE) publicado hoy por el Instituto Nacional de Estadística (INE).",
+        "lemmatized_text": "el canario que vivir en el extranjero a [??:1/1/2010:??.??:??] sumar el 31.513 el que haber suponer uno avance de el 0,6 por 100 y el aumento en 206 persona el saldo de residente fuera_de españa según constar en el padrón_de_españoles_residentes en el extranjero pere publicar hoy por el instituto_nacional_de_estadística ine",
+        "lemmatized_text_reduced": "canario vivir extranjero sumar haber suponer avance aumento persona saldo residente españa constar padrón_de_españoles_residentes extranjero pere publicar instituto_nacional_de_estadística ine",
+        "persons": [
+            "Extranjero"
+        ],
+        "locations": [
+            "España"
+        ],
+        "organizations": [
+            "PERE",
+            "Instituto_Nacional_de_Estadística"
+        ],
+        "others": [
+            "Padrón_de_Españoles_Residentes"
+        ],
+        "dates": [
+            "[??:1/1/2010:??.??:??]"
+        ],
+        "numbers": [
+            "31.513",
+            "0,6",
+            "100",
+            "206"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, los canarios en otros países eran 31.307 a 1 de enero de 2009 y un año después, con los datos provisionales a 1 de enero de 2010, son 31.513. Del total, 23.879 son de la provincia de Santa Cruz de Tenerife y tan sólo 7.634 son de la de Las Palmas. En todo caso, en la provincia occidental la mayoría de las personas fuera son mayores de 65 años, sumando 14.029, mientras que 421 son menores de 16 años y 9.429 están en edad de trabajar, entre los 16 y los 64 años. En la provincia de Las Palmas son mayoría los que están en la franja de edad que permite trabajar con un total de 4.359, con 2.786 mayores de 65 años y 489 menores de los 16 años. El equilibrio entre mujeres y hombres es bastante cercano, con 17.011 varones fuera por 14.502 canarias residiendo en el extranjero. La mayoría de canarios fuera residen en países de América (24.817), aunque, a su vez, casi todos lo hacen en Venezuela, que aglutina 20.834 de ellos. En Europa sólo hay 5.857 canarios residiendo, de los que la mayoría se centran en Reino Unido (1.851) y Alemania (1.186).",
+        "lemmatized_text": "en concreto el canario en otro país ser 31.307 a [??:1/1/2009:??.??:??] y uno año después con el dato provisional a [??:1/1/2010:??.??:??] ser 31.513 de el total 23.879 ser de el provincia de santa_cruz_de_tenerife y tan sólo 7.634 ser de el de las_palmas en_todo_caso en el provincia occidental el mayoría de el persona fuera ser mayor de 65 año sumar 14.029 mientras_que 421 ser menor de 16 año y 9.429 estar en edad de trabajar entre el 16 y el 64 año en el provincia de las_palmas ser mayoría el que estar en el franja de edad que permitir trabajar con uno total de 4.359 con 2.786 mayor de 65 año y 489 menor de el 16 año el equilibrio entre mujer y hombre ser bastante cercano con 17.011 varón fuera por 14.502 canario residir en el extranjero el mayoría de canario fuera residir en país de américa 24.817 aunque a su vez casi todo lo hacer en venezuela que aglutinar 20.834 de ellos en europa sólo haber 5.857 canario residir de el que el mayoría se centrar en reino_unido 1.851 y alemania 1.186",
+        "lemmatized_text_reduced": "concreto canario país ser año dato provisional ser total ser provincia santa_cruz_de_tenerife ser las_palmas provincia occidental mayoría persona ser mayor año sumar ser menor año estar edad trabajar año provincia las_palmas ser mayoría estar franja edad permitir trabajar total mayor año menor año equilibrio mujer hombre ser cercano varón canario residir extranjero mayoría canario residir país américa vez hacer venezuela aglutinar europa haber canario residir mayoría centrar reino_unido alemania",
+        "persons": [],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Las_Palmas",
+            "América",
+            "Venezuela",
+            "Europa",
+            "Reino_Unido"
+        ],
+        "organizations": [
+            "Alemania"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/1/2009:??.??:??]",
+            "[??:1/1/2010:??.??:??]"
+        ],
+        "numbers": [
+            "31.307",
+            "31.513",
+            "23.879",
+            "7.634",
+            "65",
+            "14.029",
+            "421",
+            "16",
+            "9.429",
+            "16",
+            "64",
+            "4.359",
+            "2.786",
+            "65",
+            "489",
+            "16",
+            "17.011",
+            "14.502",
+            "24.817",
+            "20.834",
+            "5.857",
+            "1.851",
+            "1.186"
+        ]
+    }
+}

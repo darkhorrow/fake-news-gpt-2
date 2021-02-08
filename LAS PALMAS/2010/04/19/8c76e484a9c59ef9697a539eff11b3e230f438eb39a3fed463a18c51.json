@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/681583/0/",
+    "title": {
+        "raw_text": "Un niño muere en Gran Canaria tras ser atropellada por un vehículo",
+        "lemmatized_text": "uno niño morir en gran_canaria tras ser atropellar por uno vehículo",
+        "lemmatized_text_reduced": "niño morir gran_canaria ser atropellar vehículo",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un menor de 12 años de edad murió en la tarde de ayer, tras ser atropellado por un turismo en la zona de Puerto Rico, en Mogán (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno menor de 12 año de edad morir en el tarde de ayer tras ser atropellar por uno turismo en_la_zona_de puerto_rico en mogán gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "menor año edad morir tarde ser atropellar turismo puerto_rico mogán gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "12",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El suceso se produjo a las 17.49 horas, en la Avenida de La Cornisa del citado lugar. Así, junto al menor, resultó herido otro menor también de 12 años de edad con contusiones de carácter leve. Una vez se produjo el incidente, personal del Servicio de Urgencias Canario (SUC) se trasladó hasta el lugar donde comprobó que el menor fallecido se encontraba en parada cardiorrespiratoria y tras practicarle maniobras de reanimación cardiopulmonar avanzadas, sólo pudo confirmar su muerte. En este suceso participó, el SUC con una ambulancia de soporte vital básico, otra avanzada y un helicóptero medicalizado. Además, hasta el lugar se trasladaron personal de Protección Civil y del Consorcio de Bomberos de Gran Canaria, así como agentes de la Policía Local y de la Guardia Civil.",
+        "lemmatized_text": "el suceso se producir a el TM_h:17.49 en el avenida_de_la_cornisa de el citar lugar así junto a el menor resultar herir otro menor también de 12 año de edad con contusión de carácter leve uno vez se producir el incidente personal de el servicio_de_urgencias_canario suc se trasladar hasta el lugar donde comprobar que el menor fallecer se encontrar en parada cardiorrespiratoria y tras practicar le maniobra de reanimación cardiopulmonar avanzar sólo poder confirmar su muerte en este suceso participar el suc con uno ambulancia de soporte vital básico otro avanzar y uno helicóptero medicalizado además hasta el lugar se trasladar personal de protección_civil y de el consorcio_de_bomberos_de_gran_canaria así_como agente de el policía_local y de el guardia_civil",
+        "lemmatized_text_reduced": "suceso producir avenida_de_la_cornisa citar lugar junto menor resultar herir menor año edad contusión carácter leve vez producir incidente personal servicio_de_urgencias_canario suc trasladar lugar comprobar menor fallecer encontrar parada cardiorrespiratoria practicar maniobra reanimación cardiopulmonar avanzar poder confirmar muerte suceso participar suc ambulancia soporte vital básico avanzar helicóptero medicalizado lugar trasladar personal protección_civil consorcio_de_bomberos_de_gran_canaria agente policía_local guardia_civil",
+        "persons": [],
+        "locations": [
+            "Avenida_de_La_Cornisa"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Protección_Civil",
+            "Consorcio_de_Bomberos_de_Gran_Canaria",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.49",
+            "12"
+        ]
+    }
+}

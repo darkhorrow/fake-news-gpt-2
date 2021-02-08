@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597064/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a varias personas en una reyerta en Jinámar (Gran Canaria)",
+        "lemmatized_text": "el policía_nacional detener a varios persona en uno reyerta en jinámar gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional detener persona reyerta jinámar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Local detuvo anoche a varias personas que protagonizaron una reyerta en la zona de Jinámar, en la capital de Gran Canaria, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el policía_local detener anoche a varios persona que protagonizar uno reyerta en_la_zona_de jinámar en el capital de gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "policía_local detener persona protagonizar reyerta jinámar capital gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Local",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió varias llamadas a las 22.30 horas de ayer indicando que se estaba produciendo un altercado en Jinámar en el que estaban participando varias personas. Por ello, el recurso de emergencia activó a la Policía Nacional que acudió al lugar de los hechos. Una vez en la zona, los agentes procedieron a la detención de varios individuos aunque ninguna persona resultó herida durante el transcurso del incidente. Asimismo, los bomberos de Las Palmas de Gran Canaria sofocaron un incendio que se produjo en un vehículo durante la madrugada de ayer. En concreto, los efectivos del cuerpo recibieron la llamada del 112 a las 03.00 horas asegurando que se había originado un fuego en un coche marca dodge cadillac estacionado en la zona de la veda alta de Las Palmas. Por tanto, los bomberos consiguieron sofocar el fuego impidiendo que éste se extendiera a otros vehículos. El suceso no se saldó con ningún herido, aunque la Policía Local de la capital y la Policía Nacional están investigando las causas el incendio.",
+        "lemmatized_text": "el cecoes recibir varios llamada a el TM_h:22.3 de ayer indicar que se estar producir uno altercado en jinámar en el que estar participar varios persona por ello el recurso de emergencia activar a el policía_nacional que acudir a el lugar de el hecho uno vez en el zona el agente proceder a el detención de varios individuo aunque ninguno persona resultar herir durante el transcurso de el incidente asimismo el bombero de las_palmas_de_gran_canaria sofocar uno incendio que se producir en uno vehículo durante el madrugada de ayer en concreto el efectivo de el cuerpo recibir el llamada de el 112 a el TM_h:3 asegurar que se haber originar uno fuego en uno coche marca dodge cadillac estacionar en_la_zona_de el veda alto de las_palmas por tanto el bombero conseguir sofocar el fuego impedir que este se extender a otro vehículo el suceso no se saldar con ninguno herir aunque el policía_local de el capital y el policía_nacional estar investigar el causa el incendio",
+        "lemmatized_text_reduced": "cecoes recibir llamada indicar estar producir altercado jinámar estar participar persona recurso emergencia activar policía_nacional acudir lugar hecho vez zona agente proceder detención individuo persona resultar herir transcurso incidente bombero las_palmas_de_gran_canaria sofocar incendio producir vehículo madrugada concreto efectivo cuerpo recibir llamada asegurar haber originar fuego coche marca dodge cadillac estacionar veda alto las_palmas bombero conseguir sofocar fuego impedir extender vehículo suceso saldar herir policía_local capital policía_nacional estar investigar causa incendio",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Policía_Nacional",
+            "Las_Palmas",
+            "Policía_Local",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:22.3",
+            "112",
+            "TM_h:3"
+        ]
+    }
+}

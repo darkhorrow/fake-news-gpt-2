@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/603005/0/",
+    "title": {
+        "raw_text": "El concierto inaugural del Festival de Música de Canarias con Zubin Mehta tuvo lleno total del Auditorio Alfredo Kraus",
+        "lemmatized_text": "el concierto inaugural de el festival_de_música_de_canarias con zubin_mehta tener lleno total de el auditorio_alfredo_kraus",
+        "lemmatized_text_reduced": "concierto inaugural festival_de_música_de_canarias zubin_mehta tener lleno total auditorio_alfredo_kraus",
+        "persons": [
+            "Zubin_Mehta"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Festival_de_Música_de_Canarias",
+            "Auditorio_Alfredo_Kraus"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El concierto inaugural del XXVI Festival de Música de Canarias en el Auditorio Alfredo Kraus, en Las Palmas de Gran Canaria, corrió a cargo del maestro Zubin Mehta al frente de la Staatskapelle de Dresde y tuvo lleno total.",
+        "lemmatized_text": "el concierto inaugural de el xxvi_festival_de_música_de_canarias en el auditorio_alfredo_kraus en las_palmas_de_gran_canaria correr a cargo de el maestro zubin_mehta al_frente_de el staatskapelle_de_dresde y tener lleno total",
+        "lemmatized_text_reduced": "concierto inaugural xxvi_festival_de_música_de_canarias auditorio_alfredo_kraus las_palmas_de_gran_canaria correr cargo maestro zubin_mehta staatskapelle_de_dresde tener lleno total",
+        "persons": [
+            "Zubin_Mehta"
+        ],
+        "locations": [
+            "Auditorio_Alfredo_Kraus",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Staatskapelle_de_Dresde"
+        ],
+        "others": [
+            "XXVI_Festival_de_Música_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Además, según informó la organización en nota de prensa, el concierto contó con la participación de uno de los barítonos \"más destacados\" del panorama musical actual, Thomas Quasthoff. En cuanto al programa de este primer concierto estuvo integrado por tres obras maestras de los compositores Webern, Mahler y Strauss. Esta misma actuación se repetirá el lunes, 11 de enero, en el Auditorio de Tenerife. Sin embargo, el Alfredo Kraus continuará esta noche, a partir de las 20.30 horas, con el segundo concierto de Metha con la orquesta Staatskapelle de Dresde que estará dedicado íntegramente al compositor Brahms.",
+        "lemmatized_text": "además según informar el organización en nota de prensa el concierto contar con el participación de uno de el barítono más destacar de el panorama musical actual thomas_quasthoff en cuanto a el programa de este 1 concierto estar integrar por 3 obra maestro de el compositor webern mahler y strauss este mismo actuación se repetir el [L:11/1/??:??.??:??] en el auditorio_de_tenerife sin embargo el alfredo_kraus continuar este noche a_partir_de el TM_h:20.3 con el 2 concierto de metha con el orquesta staatskapelle_de_dresde que estar dedicar íntegramente a el compositor brahms",
+        "lemmatized_text_reduced": "informar organización nota prensa concierto contar participación barítono destacar panorama musical actual thomas_quasthoff programa 1 concierto estar integrar obra maestro compositor webern mahler strauss mismo actuación repetir auditorio_de_tenerife embargo alfredo_kraus continuar noche 2 concierto metha orquesta staatskapelle_de_dresde estar dedicar íntegramente compositor brahms",
+        "persons": [
+            "Thomas_Quasthoff",
+            "Webern",
+            "Mahler",
+            "Strauss",
+            "Alfredo_Kraus",
+            "Metha",
+            "Brahms"
+        ],
+        "locations": [
+            "Auditorio_de_Tenerife"
+        ],
+        "organizations": [
+            "Staatskapelle_de_Dresde"
+        ],
+        "others": [],
+        "dates": [
+            "[L:11/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "TM_h:20.3"
+        ]
+    }
+}

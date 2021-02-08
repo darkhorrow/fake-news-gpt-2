@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/709342/0/",
+    "title": {
+        "raw_text": "Detenido en el aeropuerto de Fuerteventura un 'correo' que portaba 615 gramos de heroína en su cuerpo",
+        "lemmatized_text": "detener en el aeropuerto de fuerteventura uno correo que portar WG_g:615 de heroína en su cuerpo",
+        "lemmatized_text_reduced": "detener aeropuerto fuerteventura correo portar heroína cuerpo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:615"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido en el aeropuerto de Puerto del Rosario (Fuerteventura) a un 'correo' que portaba en su cuerpo un total de 615 gramos de heroína en cápsulas.",
+        "lemmatized_text": "el policía_nacional haber detener en el aeropuerto de puerto_del_rosario fuerteventura a uno correo que portar en su cuerpo uno total de WG_g:615 de heroína en cápsula",
+        "lemmatized_text_reduced": "policía_nacional haber detener aeropuerto puerto_del_rosario fuerteventura correo portar cuerpo total heroína cápsula",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:615"
+        ]
+    },
+    "body": {
+        "raw_text": "Dicho arresto se produjo en fechas recientes en el marco de un dispositivo de control preventivo de tráfico de drogas en el citado aeródromo, a la llegada de un vuelo de los denominados 'calientes' procedente de Madrid-Barajas, informó el Cuerpo Nacional de Policía en un comunicado. El citado operativo, llevado a cabo por funcionarios de la Brigada Local de Policía Judicial de la Comisaría de Puerto del Rosario, dio como resultado la identificación de un pasajero natural de Fuerteventura, M.P.R., de 41 años de edad y con varios antecedentes policiales, quien mostró evidentes síntomas de nerviosismo ante la presencia policial. Dadas las fundadas sospechas, fue trasladado al Hospital General de Fuerteventura, donde tras las oportunas pruebas médicas se pudo comprobar que el mismo portaba droga en el interior de su organismo, incautándosele un total de 615 gramos de heroína en cápsulas. El detenido y el atestado policial tramitado fueron puestos a disposición de la autoridad judicial, que decretó su ingreso en prisión.",
+        "lemmatized_text": "decir arresto se producir en fecha reciente en el marco de uno dispositivo de control preventivo de tráfico de droga en el citar aeródromo a el llegada de uno vuelo de el denominar caliente procedente de madrid-barajas informar el cuerpo_nacional_de_policía en uno comunicado el citar operativo llevar_a_cabo por funcionario de el brigada_local_de_policía_judicial_de_la_comisaría_de_puerto_del_rosario dar como resultado el identificación de uno pasajero natural de fuerteventura m.p.r. de 41 año de edad y con varios antecedente policial quien mostrar evidente síntoma de nerviosismo ante el presencia policial dar el fundar sospecha ser trasladar a el hospital_general_de_fuerteventura donde tras el oportuno prueba médico se poder comprobar que el mismo portar droga en_el_interior_de su organismo incautar se le uno total de WG_g:615 de heroína en cápsula el detenido y el atestado policial tramitar ser poner a disposición de el autoridad judicial que decretar su ingreso en prisión",
+        "lemmatized_text_reduced": "decir arresto producir fecha reciente marco dispositivo control preventivo tráfico droga citar aeródromo llegada vuelo denominar caliente procedente madrid-barajas informar cuerpo_nacional_de_policía comunicado citar operativo llevar_a_cabo funcionario brigada_local_de_policía_judicial_de_la_comisaría_de_puerto_del_rosario dar resultado identificación pasajero natural fuerteventura m.p.r. año edad antecedente policial mostrar evidente síntoma nerviosismo presencia policial dar fundar sospecha ser trasladar hospital_general_de_fuerteventura oportuno prueba médico poder comprobar mismo portar droga organismo incautar total heroína cápsula detenido atestado policial tramitar ser poner disposición autoridad judicial decretar ingreso prisión",
+        "persons": [
+            "M.P.R."
+        ],
+        "locations": [],
+        "organizations": [
+            "Madrid-Barajas",
+            "Cuerpo_Nacional_de_Policía",
+            "Brigada_Local_de_Policía_Judicial_de_la_Comisaría_de_Puerto_del_Rosario",
+            "Fuerteventura",
+            "Hospital_General_de_Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "41",
+            "WG_g:615"
+        ]
+    }
+}

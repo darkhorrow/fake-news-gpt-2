@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/693201/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a una mujer en el aeropuerto de Gran Canaria al intentar introducir cocaína",
+        "lemmatized_text": "el policía_nacional detener a uno mujer en el aeropuerto de gran_canaria a el intentar introducir cocaína",
+        "lemmatized_text_reduced": "policía_nacional detener mujer aeropuerto gran_canaria intentar introducir cocaína",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a una mujer por un presunto delito de tráfico de drogas en el aeropuerto de Gran Canaria cuando intentaba introducir unos 110 gramos de cocaína en la isla, sustancia que portaba en el interior de su cuerpo en dos cápsulas preparadas para ello.",
+        "lemmatized_text": "el policía_nacional haber detener a uno mujer por uno presunto delito de tráfico de droga en el aeropuerto de gran_canaria cuando intentar introducir uno WG_g:110 de cocaína en el isla sustancia que portar en_el_interior_de su cuerpo en 2 cápsula preparar para ello",
+        "lemmatized_text_reduced": "policía_nacional haber detener mujer presunto delito tráfico droga aeropuerto gran_canaria intentar introducir cocaína isla sustancia portar cuerpo cápsula preparar",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:110",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La mujer, de nacionalidad ghanesa y residente en Las Palmas de Gran Canaria, llegó al citado aeródromo en un vuelo procedente de Fuerteventura, momento en el que agentes adscritos al Grupo Operativo de Investigación de la Comisaría del aeropuerto grancanario procedieron a su detención, según informó la Policía Nacional en nota de prensa. Así, la detenida responde a las iniciales de E.S.B., de 49 años de edad, y sin antecedentes policiales. Finalmente, tras realizarle el correspondiente atestado policial, fue puesta a disposición judicial, decretándose su ingreso en prisión.",
+        "lemmatized_text": "el mujer de nacionalidad ghanés y residente en las_palmas_de_gran_canaria llegar a el citar aeródromo en uno vuelo procedente de fuerteventura momento en el que agente adscribir a el grupo_operativo_de_investigación_de_la_comisaría de el aeropuerto grancanario proceder a su detención según informar el policía_nacional en nota de prensa así el detener responder a el inicial de e.s.b. de 49 año de edad y sin antecedente policial finalmente tras realizar le el correspondiente atestado policial ser poner a disposición judicial decretar se su ingreso en prisión",
+        "lemmatized_text_reduced": "mujer nacionalidad ghanés residente las_palmas_de_gran_canaria llegar citar aeródromo vuelo procedente fuerteventura momento agente adscribir grupo_operativo_de_investigación_de_la_comisaría aeropuerto grancanario proceder detención informar policía_nacional nota prensa detener responder inicial e.s.b. año edad antecedente policial finalmente realizar correspondiente atestado policial ser poner disposición judicial decretar ingreso prisión",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Grupo_Operativo_de_Investigación_de_la_Comisaría",
+            "Policía_Nacional",
+            "E.S.B."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "49"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/681233/0/",
+    "title": {
+        "raw_text": "Canarias tiene la tercera prevalencia más alta de feminicidios con 5,57 muertes por millón de habitantes en 2009",
+        "lemmatized_text": "canario tener el 3 prevalencia más alto de feminicidios con 5,57 muerte por millón de habitante en 2009",
+        "lemmatized_text_reduced": "canario tener 3 prevalencia alto feminicidios muerte millón habitante",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5,57",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias se ha situado como la tercera región --por detrás de Ceuta y La Rioja-- con mayor prevalencia en feminicidios (mujeres asesinadas por sus parejas), al sumar 5,57 muertes por cada millón de habitantes en 2009, según consta en un informe del Centro Reina Sofía sobre feminicidios en España, recogido por Europa Press.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias se haber situar como el 3 región por detrás_de ceuta y la_rioja con mayor prevalencia en feminicidios mujer asesinar por su pareja a el sumar 5,57 muerte por cada millón de habitante en 2009 según constar en uno informe de el centro_reina_sofía sobre feminicidios en españa recoger por europa_press",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias haber situar 3 región ceuta la_rioja mayor prevalencia feminicidios mujer asesinar pareja sumar muerte millón habitante constar informe centro_reina_sofía feminicidios españa recoger europa_press",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "La_Rioja",
+            "España"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Ceuta",
+            "Centro_Reina_Sofía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5,57",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Por delante del archipiélago están Ceuta con 32,75 por millón y La Rioja con 7,31, mientras que por detrás de las islas se colocaron Valencia —con 5,49—, Andalucía —con 4,54—; y la Región de Murcia —con 3,38—. En total, entre 2000 y 2009 fueron asesinadas por sus parejas 629 mujeres en España, lo que supone una media de casi 63 mujeres al año. Por ciudades y comunidades autónomas, Andalucía (122), Cataluña (94) y la comunidad Valenciana (91) fueron las regiones en las que se registraron más casos. En España, en lo que va de año, el número de mujeres muertas por violencia machista hasta abril asciende hasta alcanzar los 21 casos, según informó esta semana el Ministerio de Igualdad.",
+        "lemmatized_text": "por delante de el archipiélago estar ceuta con 32,75 por millón y la_rioja con 7,31 mientras_que por detrás_de el isla se colocar valencia con 5,49 andalucía con 4,54 y el región_de_murcia con 3,38 en total entre 2000 y 2009 ser asesinar por su pareja 629 mujer en españa el que suponer uno media de casi 63 mujer a el año por ciudad y comunidad autónomo andalucía 122 cataluña 94 y el comunidad valenciana 91 ser el región en el que se registrar más caso en españa en el que ir de año el número de mujer morir por violencia machista hasta [??:??/4/??:??.??:??] ascender hasta alcanzar el 21 caso según informar este semana el ministerio_de_igualdad",
+        "lemmatized_text_reduced": "archipiélago estar ceuta millón la_rioja isla colocar valencia andalucía región_de_murcia total ser asesinar pareja mujer españa suponer media mujer año ciudad comunidad autónomo andalucía cataluña comunidad valenciana ser región registrar caso españa ir año número mujer morir violencia machista ascender alcanzar caso informar semana ministerio_de_igualdad",
+        "persons": [],
+        "locations": [
+            "Ceuta",
+            "Valencia",
+            "Andalucía",
+            "Región_de_Murcia",
+            "España",
+            "Andalucía",
+            "Cataluña",
+            "Valenciana",
+            "España"
+        ],
+        "organizations": [
+            "La_Rioja",
+            "Ministerio_de_Igualdad"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "32,75",
+            "7,31",
+            "5,49",
+            "4,54",
+            "3,38",
+            "2000",
+            "2009",
+            "629",
+            "63",
+            "122",
+            "94",
+            "91",
+            "21"
+        ]
+    }
+}

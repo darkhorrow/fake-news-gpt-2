@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/712952/0/",
+    "title": {
+        "raw_text": "La Policía Nacional desarticula un punto de venta de drogas en la capital grancanaria y detiene a dos hombres",
+        "lemmatized_text": "el policía_nacional desarticular uno punto de venta de droga en el capital grancanaria y detener a 2 hombre",
+        "lemmatized_text_reduced": "policía_nacional desarticular punto venta droga capital grancanaria detener hombre",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha desarticulado un punto de venta de drogas en el barrio de San José, en Las Palmas de Gran Canaria, con la detención de dos hombres.",
+        "lemmatized_text": "el policía_nacional haber desarticular uno punto de venta de droga en el barrio de san_josé en las_palmas_de_gran_canaria con el detención de 2 hombre",
+        "lemmatized_text_reduced": "policía_nacional haber desarticular punto venta droga barrio san_josé las_palmas_de_gran_canaria detención hombre",
+        "persons": [],
+        "locations": [
+            "San_José",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, los agentes han arrestado a R.A.U.J., de 27 años de edad y de nacionalidad chilena, y a J.P.O., español, ambos como presuntos autores de un delito contra la salud pública, según informa el Cuerpo Nacional de Policía en un comunicado, en el que precisa que al primero de ellos le constan diez detenciones, siendo tres de ellas por delitos similares. Las detenciones se han llevado a cabo tras culminar las investigaciones policiales, que se originaron al tener conocimiento los agentes de que en diversos establecimientos de hostelería del Paseo de San José de esta capital, se traficaba con múltiples sustancias estupefacientes. Transacciones dentro de bares Las observaciones llevadas a cabo por los funcionarios del Grupo de Policía Judicial de la Comisaría de Distrito Sur, permitieron averiguar el 'modus operandi', que consistía en concertar transacciones de variadas sustancias estupefacientes en el interior de los bares de la zona, para, posteriormente, en las cercanías de los mismos, \"amparados en la angulosa orografía urbana\", realizar las ventas. Al ciudadano chileno se le intervino una mochila, en la que portaba todos los efectos necesarios para realizar la venta a pequeña escala de estos estupefacientes en el barrio. Así pues, durante la operación los agentes se incautaron de 503,71 gramos de hachís, 28,8 gramos de cocaína, seis comprimidos de trankimazin, 98,01 euros en efectivo, dos teléfonos móviles, una balanza de precisión y una pequeña caja de caudales. Los detenidos, junto con los efectos intervenidos, han sido puestos a disposición de la autoridad judicial.",
+        "lemmatized_text": "en concreto el agente haber arrestar a r.a.u.j. de 27 año de edad y de nacionalidad chileno y a j.p.o. español ambos como presunto autor de uno delito contra el salud público según informar el cuerpo_nacional_de_policía en uno comunicado en el que precisar que a el 1 de ellos le constar 10 detención ser 3 de ellos por delito similar el detención se haber llevar_a_cabo tras culminar el investigación policial que se originar a el tener conocimiento el agente de que en diverso establecimiento de hostelería de el paseo_de_san_josé de este capital se traficar con múltiple sustancia estupefaciente transacción dentro_de bar las observación llevar_a_cabo por el funcionario de el grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur permitir averiguar el modus operandi que consistir en concertar transacción de variar sustancia estupefaciente en_el_interior_de el bar de el zona para posteriormente en_las_cercanías_de el mismo amparar en el anguloso orografía urbano realizar el venta a el ciudadano chileno se le intervenir uno mochila en el que portar todo el efecto necesario para realizar el venta a pequeño escala de este estupefaciente en el barrio así_pues durante el operación el agente se incautar de WG_g:503,71 de hachís WG_g:28,8 de cocaína 6 comprimido de trankimazin $_ECU:98,01 en efectivo 2 teléfono móvil uno balanza de precisión y uno pequeño caja de caudal el detenido junto_con el efecto intervenir haber ser poner a disposición de el autoridad judicial",
+        "lemmatized_text_reduced": "concreto agente haber arrestar r.a.u.j. año edad nacionalidad chileno j.p.o. español presunto autor delito salud público informar cuerpo_nacional_de_policía comunicado precisar 1 constar detención ser delito similar detención haber llevar_a_cabo culminar investigación policial originar tener conocimiento agente establecimiento hostelería paseo_de_san_josé capital traficar múltiple sustancia estupefaciente transacción bar las observación llevar_a_cabo funcionario grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur permitir averiguar modus operandi consistir concertar transacción variar sustancia estupefaciente bar zona posteriormente amparar anguloso orografía urbano realizar venta ciudadano chileno intervenir mochila portar efecto necesario realizar venta pequeño escala estupefaciente barrio operación agente incautar hachís cocaína comprimido efectivo teléfono móvil balanza precisión pequeño caja caudal detenido efecto intervenir haber ser poner disposición autoridad judicial",
+        "persons": [],
+        "locations": [
+            "Paseo_de_San_José"
+        ],
+        "organizations": [
+            "R.A.U.J.",
+            "J.P.O.",
+            "Cuerpo_Nacional_de_Policía",
+            "Grupo_de_Policía_Judicial_de_la_Comisaría_de_Distrito_Sur"
+        ],
+        "others": [
+            "Las"
+        ],
+        "dates": [],
+        "numbers": [
+            "27",
+            "10",
+            "3",
+            "WG_g:503,71",
+            "WG_g:28,8",
+            "6",
+            "$_ECU:98,01",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/973194/0/",
+    "title": {
+        "raw_text": "Un hombre menos grave tras una colisión entre un turismo y una moto en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre menos grave tras uno colisión entre uno turismo y uno moto en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre grave colisión turismo moto las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre menos grave después de una colisión entre un turismo y una moto en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre menos grave después_de uno colisión entre uno turismo y uno moto en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre grave colisión turismo moto las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre menos grave después de una colisión entre un turismo y una moto en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo sobre las 06.00 horas de este lunes en la Avenida 1º de Mayo, en la capital grancanaria. Hasta el lugar se trasladó personal del Servicio de Urgencias Canario (SUC). Posteriormente, el personal del SUC atendió a un hombre, de 60 años de edad, que sufrió traumatismo en miembro inferior de carácter menos grave, por lo que fue evacuado hasta el Hospital Insular de Gran Canaria.",
+        "lemmatized_text": "uno hombre menos grave después_de uno colisión entre uno turismo y uno moto en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir sobre el TM_h:6 de este [L:??/??/??:??.??:??] en el avenida 1º de [??:??/5/??:??.??:??] en el capital grancanaria hasta el lugar se trasladar personal de el servicio_de_urgencias_canario suc posteriormente el personal de el suc atender a uno hombre de 60 año de edad que sufrir traumatismo en miembro inferior de carácter menos grave por el que ser evacuar hasta el hospital_insular_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre grave colisión turismo moto las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad incidente producir avenida capital grancanaria lugar trasladar personal servicio_de_urgencias_canario suc posteriormente personal suc atender hombre año edad sufrir traumatismo miembro inferior carácter grave ser evacuar hospital_insular_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Avenida"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Insular_de_Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:6",
+            "1º",
+            "60"
+        ]
+    }
+}

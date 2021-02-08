@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/617637/0/",
+    "title": {
+        "raw_text": "Una anciana grave después de que se incendiara su vivienda de Gran Canaria",
+        "lemmatized_text": "uno anciano grave después_de que se incendiar su vivienda de gran_canaria",
+        "lemmatized_text_reduced": "anciano grave incendiar vivienda gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una anciana ha resultado hoy herida de carácter grave después de que se incendiara su vivienda en San Fernando de Maspalomas, en el municipio de San Bartolomé de Tirajana (Gran Canaria), según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno anciano haber resultar hoy herida de carácter grave después_de que se incendiar su vivienda en san_fernando_de_maspalomas en el municipio de san_bartolomé_de_tirajana gran_canaria según informar fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "anciano haber resultar herida carácter grave incendiar vivienda san_fernando_de_maspalomas municipio san_bartolomé_de_tirajana gran_canaria informar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "San_Fernando_de_Maspalomas",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 09.48 horas en la calle Marcial Franco de dicho municipio y la herida es una mujer de 84 años de edad, que sufrió traumatismo en miembro inferior de carácter grave, por lo que tuvo que ser trasladada en ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC) a la Clínica San Roque Maspalomas. Así, hasta el lugar del incidente se trasladó, además del personal del SUC, también del Servicio de Extinción de Incendios y Salvamento de San Bartolomé de Tirajana, Protección Civil, agentes de la Policía Local y de la Policía Nacional. Estos últimos aseguraron la zona e instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir a el TM_h:9.48 en el calle marcial_franco de decir municipio y el herida ser uno mujer de 84 año de edad que sufrir traumatismo en miembro inferior de carácter grave por el que tener que ser trasladar en ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc a el clínica_san_roque_maspalomas así hasta el lugar de el incidente se trasladar además de el personal de el suc también de el servicio_de_extinción_de_incendios y salvamento_de_san_bartolomé_de_tirajana protección_civil agente de el policía_local y de el policía_nacional este último asegurar el zona y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir calle marcial_franco decir municipio herida ser mujer año edad sufrir traumatismo miembro inferior carácter grave tener ser trasladar ambulancia soporte vital básico servicio_de_urgencias_canario suc clínica_san_roque_maspalomas lugar incidente trasladar personal suc servicio_de_extinción_de_incendios salvamento_de_san_bartolomé_de_tirajana protección_civil agente policía_local policía_nacional último asegurar zona instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Marcial_Franco"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Clínica_San_Roque_Maspalomas",
+            "SUC",
+            "Servicio_de_Extinción_de_Incendios",
+            "Protección_Civil",
+            "Policía_Local",
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Salvamento_de_San_Bartolomé_de_Tirajana"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.48",
+            "84"
+        ]
+    }
+}

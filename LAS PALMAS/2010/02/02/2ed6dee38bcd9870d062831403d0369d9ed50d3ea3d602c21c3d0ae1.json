@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620511/0/",
+    "title": {
+        "raw_text": "El aeropuerto de Lanzarote registra 3 cancelaciones y 11 desvíos a Fuerteventura por el mal tiempo",
+        "lemmatized_text": "el aeropuerto de lanzarote registrar 3 cancelación y 11 desvío a fuerteventura por el mal tiempo",
+        "lemmatized_text_reduced": "aeropuerto lanzarote registrar cancelación desvío fuerteventura mal tiempo",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "11"
+        ]
+    },
+    "lead": {
+        "raw_text": "El aeropuerto de Guacimeta, en Lanzarote, ha registrado durante el día de hoy tres cancelaciones de vuelos que tendrían que haber llegado a la isla, a consecuencia todos ellos del temporal que en las últimas horas está azotando al archipiélago, según informaron a Europa Press fuentes de Aeropuertos Españoles y Navegación Aérea (Aena).",
+        "lemmatized_text": "el aeropuerto de guacimeta en lanzarote haber registrar durante el día de hoy 3 cancelación de vuelo que tener que haber llegar a el isla a consecuencia todo ellos de el temporal que en el último hora estar azotar a el archipiélago según informar a europa_press fuente de aeropuertos_españoles y navegación_aérea aena",
+        "lemmatized_text_reduced": "aeropuerto guacimeta lanzarote haber registrar día cancelación vuelo tener haber llegar isla consecuencia temporal último hora estar azotar archipiélago informar europa_press fuente aeropuertos_españoles navegación_aérea aena",
+        "persons": [
+            "Europa_Press",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Guacimeta",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Asimismo, en el aeródromo de Lanzarote también se han visto perjudicado once vuelos que tuvieron que ser desviados a la isla de Fuerteventura. De todos modos, y según las mismas fuentes, los aviones con salida desde Lanzarote están operando con normalidad, al igual que los vuelos interinsulares. En cuanto a los otros dos aeropuertos de la provincia de Las Palmas, el de Gran Canaria y Fuerteventura, no han tenido \"ninguna incidencia\".",
+        "lemmatized_text": "asimismo en el aeródromo de lanzarote también se haber ver perjudicar 11 vuelo que tener que ser desviar a el isla de fuerteventura de_todos_modos y según el mismo fuente el avión con salida desde lanzarote estar operando con normalidad al_igual_que el vuelo interinsular en_cuanto_a el otro 2 aeropuerto de el provincia de las_palmas el de gran_canaria y fuerteventura no haber tener ninguno incidencia",
+        "lemmatized_text_reduced": "aeródromo lanzarote haber ver perjudicar vuelo tener ser desviar isla fuerteventura mismo fuente avión salida lanzarote estar operando normalidad vuelo interinsular aeropuerto provincia las_palmas gran_canaria fuerteventura haber tener incidencia",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Lanzarote",
+            "Las_Palmas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "11",
+            "2"
+        ]
+    }
+}

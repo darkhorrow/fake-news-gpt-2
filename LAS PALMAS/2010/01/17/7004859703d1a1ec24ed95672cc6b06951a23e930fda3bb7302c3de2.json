@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/608284/0/",
+    "title": {
+        "raw_text": "Policía Local de Ingenio (Gran Canaria) pilla 'in fraganti' a dos jóvenes que intentaban robar en un instituto",
+        "lemmatized_text": "policía_local_de_ingenio gran_canaria pillar in_fraganti a 2 joven que intentar robar en uno instituto",
+        "lemmatized_text_reduced": "policía_local_de_ingenio gran_canaria pillar joven intentar robar instituto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local_de_Ingenio",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los agentes del departamento de Seguridad Ciudadana de la Policía Local de Ingenio en colaboración con la Guardia Civil pillaron 'in fraganti' en la noche de ayer a dos varones, uno menor de edad y otro de 22 años, que intentaban robar en el Instituto de Educación Secundaria de Carrizal (Gran Canaria).",
+        "lemmatized_text": "el agente de el departamento de seguridad_ciudadana_de_la_policía_local_de_ingenio en colaboración con el guardia_civil pillar in_fraganti en el noche de ayer a 2 varón uno menor de edad y otro de 22 año que intentar robar en el instituto_de_educación_secundaria_de_carrizal gran_canaria",
+        "lemmatized_text_reduced": "agente departamento seguridad_ciudadana_de_la_policía_local_de_ingenio colaboración guardia_civil pillar noche varón menor edad año intentar robar instituto_de_educación_secundaria_de_carrizal gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil",
+            "Instituto_de_Educación_Secundaria_de_Carrizal",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad_Ciudadana_de_la_Policía_Local_de_Ingenio"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "22"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el cuerpo local de Policía en nota de prensa, los agentes recibieron una llamada alertando de la existencia de personas en el interior del centro escolar, por lo que se trasladaron al lugar de los hechos donde interceptaron a dos varones a la salida del instituto y a otra joven que esperaba en un turismo estacionado en las inmediaciones. De las indagaciones realizadas en el lugar de los hechos, unidas a las pesquisas realizadas posteriormente dentro del interior del centro, se produjo la detención de un varón cuya identidad se corresponde con las iniciales A.M.C., natural de Valsequillo y de 22 años de edad, así como a la imputación de un menor de edad, ambos por la comisión de un delito de robo con fuerza en las cosas.",
+        "lemmatized_text": "según informar el cuerpo local de policía en nota de prensa el agente recibir uno llamada alertar de el existencia de persona en el interior de el centro escolar por el que se trasladar a el lugar de el hecho donde interceptar a 2 varón a el salida de el instituto y a otro joven que esperar en uno turismo estacionar en el inmediación de el indagación realizar en el lugar de el hecho unir a el pesquisa realizar posteriormente dentro de el interior de el centro se producir el detención de uno varón cuyo identidad se corresponder con el inicial a.m.c. natural de valsequillo y de 22 año de edad así_como a el imputación de uno menor de edad ambos por el comisión de uno delito de robo con fuerza en el cosa",
+        "lemmatized_text_reduced": "informar cuerpo local policía nota prensa agente recibir llamada alertar existencia persona interior centro escolar trasladar lugar hecho interceptar varón salida instituto joven esperar turismo estacionar inmediación indagación realizar lugar hecho unir pesquisa realizar posteriormente interior centro producir detención varón identidad corresponder inicial a.m.c. natural valsequillo año edad imputación menor edad comisión delito robo fuerza cosa",
+        "persons": [
+            "Valsequillo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "A.M.C."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "22"
+        ]
+    }
+}

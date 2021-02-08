@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641202/0/",
+    "title": {
+        "raw_text": "Un anciano de 67 años resulta afectado con intoxicación de humo tras el incendio de dos vehículos en Lanzarote",
+        "lemmatized_text": "uno anciano de 67 año resultar afectar con intoxicación de humo tras el incendio de 2 vehículo en lanzarote",
+        "lemmatized_text_reduced": "anciano año resultar afectar intoxicación humo incendio vehículo lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "67",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un anciano de 67 años de edad ha resultado hoy afectado con intoxicación por humo de carácter leve tras el incendio de dos vehículos en la calle Don Rodrigo en Arrecife (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2.",
+        "lemmatized_text": "uno anciano de 67 año de edad haber resultar hoy afectar con intoxicación por humo de carácter leve tras el incendio de 2 vehículo en el calle don_rodrigo en arrecife lanzarote según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "anciano año edad haber resultar afectar intoxicación humo carácter leve incendio vehículo calle don_rodrigo arrecife lanzarote informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Don_Rodrigo",
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "67",
+            "2",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 07.20 horas, cuando se recibió una llamada en el Cecoes que informaba que se había producido un incendio con dos vehículos afectados en la dirección citada. Se trata de una vía muy estrecha, por lo que los vecinos temían por la cercanía de sus viviendas. El 1-1-2 activó de inmediato los recursos de emergencia necesarios. Así pues, hasta el lugar se desplazaron efectivos del cuerpo de bomberos del Consorcio de Seguridad, Emergencias, Salvamento, Prevención y Extinción de incendios de la isla de Lanzarote, que extinguieron las llamas de los vehículos y aseguraron la zona. El personal sanitario del Servicio de Urgencias Canario, que se desplazó al suceso como preventivo, tuvo que atender a uno de los vecinos y evacuarlo en ambulancia de soporte vital básico al Hospital Doctor José Molina Orosa En dicha actuación también participaron la Policía Local y el Cuerpo Nacional de Policía, que colaboraron con los recursos intervinientes y elaboraron los informes oportunos.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:7.2 cuando se recibir uno llamada en el cecoes que informar que se haber producir uno incendio con 2 vehículo afectar en el dirección citar se tratar de uno vía muy estrecho por el que el vecino temer por el cercanía de su vivienda el 1-1-2 activar de inmediato el recurso de emergencia necesario así_pues hasta el lugar se desplazar efectivo de el cuerpo de bombero de el consorcio_de_seguridad emergencias salvamento prevención y extinción de incendio de el isla de lanzarote que extinguir el llama de el vehículo y asegurar el zona el personal sanitario de el servicio_de_urgencias_canario que se desplazar a el suceso como preventivo tener que atender a uno de el vecino y evacuar lo en ambulancia de soporte vital básico a el hospital_doctor_josé_molina_orosa_en decir actuación también participar el policía_local y el cuerpo_nacional_de_policía que colaborar con el recurso interviniente y elaborar el informe oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes informar haber producir incendio vehículo afectar dirección citar tratar vía estrecho vecino temer cercanía vivienda activar inmediato recurso emergencia necesario lugar desplazar efectivo cuerpo bombero consorcio_de_seguridad emergencias salvamento prevención extinción incendio isla lanzarote extinguir llama vehículo asegurar zona personal sanitario servicio_de_urgencias_canario desplazar suceso preventivo tener atender vecino evacuar ambulancia soporte vital básico hospital_doctor_josé_molina_orosa_en decir actuación participar policía_local cuerpo_nacional_de_policía colaborar recurso interviniente elaborar informe oportuno",
+        "persons": [
+            "Emergencias",
+            "Hospital_Doctor_José_Molina_Orosa_En"
+        ],
+        "locations": [
+            "Cecoes",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Consorcio_de_Seguridad",
+            "Salvamento",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Prevención",
+            "Extinción",
+            "Servicio_de_Urgencias_Canario"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.2",
+            "2",
+            "1-1-2"
+        ]
+    }
+}

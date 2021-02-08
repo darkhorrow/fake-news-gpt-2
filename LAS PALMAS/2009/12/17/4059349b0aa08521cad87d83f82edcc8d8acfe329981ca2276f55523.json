@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590873/0/",
+    "title": {
+        "raw_text": "Haidar asegura que su vuelta a El Aaiún es una \"victoria para la causa saharaui\"",
+        "lemmatized_text": "haidar asegurar que su vuelta a el_aaiún ser uno victoria para el causa saharaui",
+        "lemmatized_text_reduced": "haidar asegurar vuelta el_aaiún ser victoria causa saharaui",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "El_Aaiún"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La activista saharaui Aminetu Haidar ha asegurado hoy que su vuelta a El Aaiún es una \"victoria para la causa saharaui\", tras 32 días en huelga de hambre en el aeropuerto de Lanzarote, después de ser expulsada y su pasaporte retenido por las autoridades marroquís.",
+        "lemmatized_text": "el activista saharaui aminetu_haidar haber asegurar hoy que su vuelta a el_aaiún ser uno victoria para el causa saharaui tras TM_d:32 en huelga de hambre en el aeropuerto de lanzarote después_de ser expulsar y su pasaporte retener por el autoridad marroquí",
+        "lemmatized_text_reduced": "activista saharaui aminetu_haidar haber asegurar vuelta el_aaiún ser victoria causa saharaui huelga hambre aeropuerto lanzarote ser expulsar pasaporte retener autoridad marroquí",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "El_Aaiún",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:32"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Esto es una victoria para el derecho internacional, para la justicia internacional y para la causa saharaui\", explicó Haidar, que salió en silla de ruedas de su habitación en el hospital de Lanzarote. Haidar atendió a los medios de comunicación a las 21.25 horas en el propio Hospital General de Lanzarote Doctor José Molina Orosa antes de salir en dirección al Aeropuerto de la isla lanzaroteña, donde un avión la trasladará de vuelta a El Aaiún, en el Sáhara Occidental.",
+        "lemmatized_text": "este ser uno victoria para el derecho internacional para el justicia internacional y para el causa saharaui explicar haidar que salir en silla de rueda de su habitación en el hospital de lanzarote haidar atender a el medio de comunicación a el TM_h:21.25 en el propio hospital_general_de_lanzarote_doctor_josé_molina_orosa antes_de salir en dirección a el aeropuerto de el isla lanzaroteña donde uno avión lo trasladar de vuelta a el_aaiún en el sáhara_occidental",
+        "lemmatized_text_reduced": "ser victoria derecho internacional justicia internacional causa saharaui explicar haidar salir silla rueda habitación hospital lanzarote haidar atender medio comunicación propio hospital_general_de_lanzarote_doctor_josé_molina_orosa salir dirección aeropuerto isla lanzaroteña avión trasladar vuelta el_aaiún sáhara_occidental",
+        "persons": [
+            "Haidar",
+            "Haidar"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Aeropuerto",
+            "El_Aaiún",
+            "Sáhara_Occidental"
+        ],
+        "organizations": [],
+        "others": [
+            "Hospital_General_de_Lanzarote_Doctor_José_Molina_Orosa"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:21.25"
+        ]
+    }
+}

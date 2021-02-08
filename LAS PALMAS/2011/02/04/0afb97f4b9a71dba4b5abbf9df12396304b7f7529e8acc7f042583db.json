@@ -1,0 +1,51 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950076/0/",
+    "title": {
+        "raw_text": "La Policía Nacional identifica a la persona que apareció muerto en una calle de Las Palmas de Gran Canaria",
+        "lemmatized_text": "el policía_nacional identificar a el persona que aparecer morir en uno calle de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional identificar persona aparecer morir calle las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha logrado finalmente identificar al hombre que apareció muerto en la calle Ripoche de Las Palmas de Gran Canaria y del que se desconocía la identidad.",
+        "lemmatized_text": "el policía_nacional haber lograr finalmente identificar a el hombre que aparecer morir en el calle ripoche_de_las_palmas_de_gran_canaria y de el que se desconocer el identidad",
+        "lemmatized_text_reduced": "policía_nacional haber lograr finalmente identificar hombre aparecer morir calle ripoche_de_las_palmas_de_gran_canaria desconocer identidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Ripoche_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Policía Nacional ha logrado finalmente identificar al hombre que apareció muerto en la calle Ripoche de Las Palmas de Gran Canaria y del que se desconocía la identidad. Para este trabajado de identificación el Cuerpo Nacional de Policía pidió la colaboración de los medios de comunicación para la difusión de la imagen del cadáver que había aparecido, gesto que han agradecido en un comunicado. De esta forma, y junto a la colaboración ciudadana, los agentes lograron la identificación de la persona fallecida, lo que \"redundará en la tranquilidad de sus familiares y personas allegadas\".",
+        "lemmatized_text": "el policía_nacional haber lograr finalmente identificar a el hombre que aparecer morir en el calle ripoche_de_las_palmas_de_gran_canaria y de el que se desconocer el identidad para este trabajar de identificación el cuerpo_nacional_de_policía pedir el colaboración de el medio de comunicación para el difusión de el imagen de el cadáver que haber aparecer gesto que haber agradecer en uno comunicado de este forma y junto_a el colaboración ciudadano el agente lograr el identificación de el persona fallecer el que redundar en el tranquilidad de su familiar y persona allegar",
+        "lemmatized_text_reduced": "policía_nacional haber lograr finalmente identificar hombre aparecer morir calle ripoche_de_las_palmas_de_gran_canaria desconocer identidad trabajar identificación cuerpo_nacional_de_policía pedir colaboración medio comunicación difusión imagen cadáver haber aparecer gesto haber agradecer comunicado forma colaboración ciudadano agente lograr identificación persona fallecer redundar tranquilidad familiar persona allegar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Ripoche_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

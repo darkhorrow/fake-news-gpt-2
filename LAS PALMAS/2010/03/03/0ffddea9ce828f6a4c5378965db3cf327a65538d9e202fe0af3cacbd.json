@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/642756/0/",
+    "title": {
+        "raw_text": "Gobierno canario cierra el colegio Adán del Castillo en Las Palmas de Gran Canaria por daños estructurales",
+        "lemmatized_text": "gobierno canario cerrar el colegio adán_del_castillo en las_palmas_de_gran_canaria por daño estructural",
+        "lemmatized_text_reduced": "gobierno canario cerrar colegio adán_del_castillo las_palmas_de_gran_canaria daño estructural",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Adán_del_Castillo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias, a través de la Dirección General de Centros e Infraestructura Educativa, ha decretado hoy el cierre provisional del Centro de Educación de Infantil y Primaria (CEIP) Adán del Castillo, de Tamaraceite, en Las Palmas de Gran Canaria, debido a los problemas estructurales que presenta el inmueble.",
+        "lemmatized_text": "el consejería_de_educación universidades cultura y deportes_del_gobierno_de_canarias a_través_de el dirección_general_de_centros y infraestructura_educativa haber decretar hoy el cierre provisional de el centro_de_educación_de_infantil y primaria ceip adán_del_castillo de tamaraceite en las_palmas_de_gran_canaria debido_a el problema estructural que presentar el inmueble",
+        "lemmatized_text_reduced": "consejería_de_educación universidades cultura deportes_del_gobierno_de_canarias dirección_general_de_centros infraestructura_educativa haber decretar cierre provisional centro_de_educación_de_infantil primaria ceip adán_del_castillo tamaraceite las_palmas_de_gran_canaria problema estructural presentar inmueble",
+        "persons": [
+            "Infraestructura_Educativa"
+        ],
+        "locations": [
+            "Adán_del_Castillo",
+            "Tamaraceite",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Consejería_de_Educación",
+            "Universidades",
+            "Cultura",
+            "Deportes_del_Gobierno_de_Canarias",
+            "Dirección_General_de_Centros",
+            "Centro_de_Educación_de_Infantil",
+            "CEIP"
+        ],
+        "others": [
+            "Primaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La medida cautelar se ha adoptado después de que Educación conociera hoy un informe técnico en el que se recomendaba el desalojo \"inmediato\" del colegio. Asimismo, la Consejería regional de Educación también informó a las familias de los niños de la suspensión de las clases hasta el próximo lunes, fecha prevista para la reubicación de estos alumnos en el CEIP Valencia, situado a unos 300 metros del Adán del Castillo. El CEIP Adán del Castillo, según informó el Gobierno canario en nota de prensa, acoge a 302 alumnos distribuidos en 14 grupos; 99 de los alumnos pertenecen a Educación Infantil y cuenta con servicio de comedor, con el que contarán en el nuevo centro. Para seguir este caso, la Consejería y el Ayuntamiento de Las Palmas de Gran Canaria han creado una comisión de trabajo que se encargará de evaluar la situación del inmueble.",
+        "lemmatized_text": "el medida cautelar se haber adoptar después_de que educación conocer hoy uno informe técnico en el que se recomendar el desalojo inmediato de el colegio asimismo el consejería regional de educación también informar a el familia de el niño de el suspensión de el clase hasta el [L:??/??/??:??.??:??] fecha prever para el reubicación de este alumno en el ceip_valencia situar a uno LN_m:300 de el adán_del_castillo el ceip_adán_del_castillo según informar el gobierno canario en nota de prensa acoger a 302 alumno distribuir en 14 grupo 99 de el alumno pertenecer a educación_infantil y contar con servicio de comedor con el que contar en el nuevo centro para seguir este caso el consejería y el ayuntamiento_de_las_palmas_de_gran_canaria haber crear uno comisión de trabajo que se encargar de evaluar el situación de el inmueble",
+        "lemmatized_text_reduced": "medida cautelar haber adoptar educación conocer informe técnico recomendar desalojo inmediato colegio consejería regional educación informar familia niño suspensión clase fecha prever reubicación alumno ceip_valencia situar adán_del_castillo ceip_adán_del_castillo informar gobierno canario nota prensa acoger alumno distribuir grupo alumno pertenecer educación_infantil contar servicio comedor contar nuevo centro seguir caso consejería ayuntamiento_de_las_palmas_de_gran_canaria haber crear comisión trabajo encargar evaluar situación inmueble",
+        "persons": [],
+        "locations": [
+            "Adán_del_Castillo"
+        ],
+        "organizations": [
+            "Consejería",
+            "CEIP_Valencia",
+            "CEIP_Adán_del_Castillo",
+            "Gobierno",
+            "Consejería",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Educación",
+            "Educación",
+            "Educación_Infantil"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_m:300",
+            "302",
+            "14",
+            "99"
+        ]
+    }
+}

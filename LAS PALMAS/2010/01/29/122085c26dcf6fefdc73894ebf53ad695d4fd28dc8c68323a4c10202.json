@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/617872/0/",
+    "title": {
+        "raw_text": "PP denuncia que Cabildo de Gran Canaria gastará 228.000 euros al año en alquilar las dependencias de Servicios Sociales",
+        "lemmatized_text": "pp denunciar que cabildo_de_gran_canaria gastar $_ECU:228 a el año en alquilar el dependencia de servicios_sociales",
+        "lemmatized_text_reduced": "pp denunciar cabildo_de_gran_canaria gastar año alquilar dependencia servicios_sociales",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Cabildo_de_Gran_Canaria",
+            "Servicios_Sociales"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:228"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Partido Popular (PP) en el Cabildo de Gran Canaria ha denunciado hoy que la Corporación insular ha firmado dos contratos de alquiler de dos edificios para albergar las dependencias de la Consejería de Política Social y Sociosanitaria que costarán a la institución un total de 228.000 euros anuales.",
+        "lemmatized_text": "el partido_popular pp en el cabildo_de_gran_canaria haber denunciar hoy que el corporación insular haber firmar 2 contrato de alquiler de 2 edificio para albergar el dependencia de el consejería_de_política_social y sociosanitaria que costar a el institución uno total de $_ECU:228 anual",
+        "lemmatized_text_reduced": "partido_popular pp cabildo_de_gran_canaria haber denunciar corporación insular haber firmar contrato alquiler edificio albergar dependencia consejería_de_política_social sociosanitaria costar institución total anual",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Partido_Popular",
+            "PP",
+            "Cabildo_de_Gran_Canaria",
+            "Corporación",
+            "Consejería_de_Política_Social",
+            "Sociosanitaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2",
+            "$_ECU:228"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo manifestó la portavoz popular, Carmen Guerra, en un ruego que realizó al presidente del Cabildo, José Miguel Pérez, solicitándole que \"de marcha atrás\" para evitar este gasto en la actual situación de crisis económica que vive la isla. Según la popular, los dos edificios se ubican en la zona de Triana de Las Palmas de Gran Canaria, uno de ellos en la calle Arena cuyo alquiler le supone al Cabildo un gasto de 4.096 euros mensuales y otro de 908 metros cuadrados cuyo importe de arrendamiento asciende a los 14.700 euros al mes. Por tanto, el gasto es de \"18.796 euros al mes en dependencias de los Servicios Sociales y 228.000 euros al año\". Guerra rechazó este gasto porque aseguró que las obras de la Casa Palacio están \"casi terminadas\" y que una vez finalizadas el inmueble podrá \"albergar esas dependencias\" para así poder destinar ese dinero a \"proyectos municipales\". Por su parte, el consejero del área, Pedro Quevedo, garantizó que el Instituto de Atención Sociosanitaria \"no cabe\" en la Casa Palacio \"ni en ninguna de las instalaciones del Cabildo de Gran Canaria\". Asimismo, garantizó que el gasto de estos inmuebles \"está por debajo del precio de los alquileres medios de la zona de Triana\". \"No puede seguir ofendiendo a la política social y sociosanitaria, ni a sus trabajadores\", advirtió Quevedo que resaltó que los empleados del área trabajan desde hace años en un \"antro\". Finalmente, Guerra reiteró al presidente que tuviera en cuenta su ruego porque estos alquileres suponen \"un despilfarro total y absoluto del dinero público que debería revertir en los ciudadanos de la isla\".",
+        "lemmatized_text": "así lo manifestar el portavoz popular carmen_guerra en uno ruego que realizar a el presidente de el cabildo josé_miguel_pérez solicitar le que de marcha atrás para evitar este gasto en el actual situación de crisis económico que vivir el isla según el popular el 2 edificio se ubicar en_la_zona_de triana_de_las_palmas_de_gran_canaria uno de ellos en el calle arena cuyo alquiler le suponer a el cabildo uno gasto de $_ECU:4.096 mensual y otro de AR_m2:908 cuyo importe de arrendamiento ascender a el $_ECU:14.7 a el mes por tanto el gasto ser de $_ECU:18.796 a el mes en dependencia de el servicios_sociales y $_ECU:228 a el año guerra rechazar este gasto porque asegurar que el obra de el casa_palacio estar casi terminar y que uno vez finalizar el inmueble poder albergar ese dependencia para así poder destinar ese dinero a proyecto municipal por su parte el consejero de el área pedro_quevedo garantizar que el instituto_de_atención_sociosanitaria no caber en el casa_palacio ni en ninguno de el instalación de el cabildo_de_gran_canaria asimismo garantizar que el gasto de este inmueble estar por debajo de el precio de el alquiler medio de el zona de triana no poder seguir ofender a el política social y sociosanitario ni a su trabajador advertir quevedo que resaltar que el empleado de el área trabajar desde hacer año en uno antro finalmente guerra reiterar a el presidente que tener_en_cuenta su ruego porque este alquiler suponer uno despilfarro total y absoluto de el dinero público que deber revertir en el ciudadano de el isla",
+        "lemmatized_text_reduced": "manifestar portavoz popular carmen_guerra ruego realizar presidente cabildo josé_miguel_pérez solicitar marcha evitar gasto actual situación crisis económico vivir isla popular edificio ubicar triana_de_las_palmas_de_gran_canaria calle arena alquiler suponer cabildo gasto mensual importe arrendamiento ascender mes gasto ser mes dependencia servicios_sociales año guerra rechazar gasto asegurar obra casa_palacio estar terminar vez finalizar inmueble poder albergar dependencia poder destinar dinero proyecto municipal parte consejero área pedro_quevedo garantizar instituto_de_atención_sociosanitaria caber casa_palacio instalación cabildo_de_gran_canaria garantizar gasto inmueble estar precio alquiler medio zona triana poder seguir ofender política social sociosanitario trabajador advertir quevedo resaltar empleado área trabajar hacer año antro finalmente guerra reiterar presidente tener_en_cuenta ruego alquiler suponer despilfarro total absoluto dinero público deber revertir ciudadano isla",
+        "persons": [
+            "Carmen_Guerra",
+            "José_Miguel_Pérez",
+            "Guerra",
+            "Pedro_Quevedo",
+            "Quevedo",
+            "Guerra"
+        ],
+        "locations": [
+            "Arena",
+            "Casa_Palacio",
+            "Triana"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Triana_de_Las_Palmas_de_Gran_Canaria",
+            "Cabildo",
+            "Servicios_Sociales",
+            "Casa_Palacio",
+            "Instituto_de_Atención_Sociosanitaria",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "$_ECU:4.096",
+            "AR_m2:908",
+            "$_ECU:14.7",
+            "$_ECU:18.796",
+            "$_ECU:228"
+        ]
+    }
+}

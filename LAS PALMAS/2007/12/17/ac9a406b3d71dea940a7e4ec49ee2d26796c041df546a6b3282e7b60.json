@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/322937/0/bulgaro/apunalar/laspalmas/",
+    "title": {
+        "raw_text": "Detenido cuando intentaba abandonar el país tras haber apuñalado a su novia",
+        "lemmatized_text": "detener cuando intentar abandonar el país tras haber apuñalar a su novio",
+        "lemmatized_text_reduced": "detener intentar abandonar país haber apuñalar novio",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El hombre tenía intención de coger un avión en Barajas. La víctima se encuentra en estado grave en Gran Canaria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "el hombre tener intención de coger uno avión en barajas el víctima se encontrar en estado grave en gran_canaria consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "hombre tener intención coger avión barajas víctima encontrar estado grave gran_canaria consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [
+            "Barajas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre, de nacionalidad búlgara, ha sido detenido en el Aeropuerto de Barajas cuando trataba de abandonar el país después de haber apuñalado a su pareja el domingo en Gran Canaria. Los hechos tuvieron lugar en el domicilio que compartía la pareja en Maspalomas sobre las 00.25 horas de la madrugada. Una vecina de la pareja vio manchas de sangre junto a la puerta de la vivienda, que estaba abierta, entró y encontró tendida en el suelo a la mujer. Tras alertar a las fuerzas de seguridad, una ambulancia trasladó a la víctima, de 35 años y de nacionalidad alemana, al Hospital Insular de Gran Canaria, donde evoluciona favorablemente después de haber ingresado en estado grave. Con antecedentes por maltrato El detenido, Boris Dantchev S., de 52 años, había sido detenido en dos ocasiones anteriores por malos tratos en el ámbito familiar , según ha anunciado la Jefatura Superior de Policía de Canarias. Según estas fuentes, el individuo trataba de abandonar el país después de haberse desplazado hasta Madrid \"ayer mismo con intención de eludir la acción de la justicia \". La Jefatura Superior de Canarias ha señalado que se han tramitado las correspondientes diligencias en la Comisaría de Maspalomas, las cuales serán remitidas al juzgado competente de San Bartolomé de Tirajana. Por su parte, el detenido será puesto a disposición judicial en cuanto finalicen dichos trámites. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno hombre de nacionalidad búlgaro haber ser detener en el aeropuerto_de_barajas cuando tratar de abandonar el país después_de haber apuñalar a su pareja el [G:??/??/??:??.??:??] en gran_canaria el hecho tener_lugar en el domicilio que compartir el pareja en maspalomas sobre el TM_h:0.25 de el madrugada uno vecino de el pareja ver mancha de sangre junto_a el puerta de el vivienda que estar abrir entrar y encontrar tender en el suelo a el mujer tras alertar a el fuerza de seguridad uno ambulancia trasladar a el víctima de 35 año y de nacionalidad alemán a el hospital_insular_de_gran_canaria donde evolucionar favorablemente después_de haber ingresar en estado grave con antecedente por maltrato el detener boris_dantchev_s. de 52 año haber ser detener en 2 ocasión anterior por malo trato en el ámbito familiar según haber anunciar el jefatura_superior_de_policía_de_canarias según este fuente el individuo tratar de abandonar el país después_de haber se desplazar hasta madrid ayer mismo con intención de eludir el acción de el justicia el jefatura_superior_de_canarias haber señalar que se haber tramitar el correspondiente diligencia en el comisaría_de_maspalomas el cual ser remitir a el juzgado competente de san_bartolomé_de_tirajana por su parte el detenido ser poner a disposición judicial en cuanto finalizar decir trámite consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre nacionalidad búlgaro haber ser detener aeropuerto_de_barajas tratar abandonar país haber apuñalar pareja gran_canaria hecho tener_lugar domicilio compartir pareja maspalomas madrugada vecino pareja ver mancha sangre puerta vivienda estar abrir entrar encontrar tender suelo mujer alertar fuerza seguridad ambulancia trasladar víctima año nacionalidad alemán hospital_insular_de_gran_canaria evolucionar favorablemente haber ingresar estado grave antecedente maltrato el detener boris_dantchev_s. año haber ser detener ocasión anterior malo trato ámbito familiar haber anunciar jefatura_superior_de_policía_de_canarias fuente individuo tratar abandonar país haber desplazar madrid mismo intención eludir acción justicia jefatura_superior_de_canarias haber señalar haber tramitar correspondiente diligencia comisaría_de_maspalomas ser remitir juzgado competente san_bartolomé_de_tirajana parte detenido ser poner disposición judicial finalizar decir trámite consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Boris_Dantchev_S."
+        ],
+        "locations": [
+            "Aeropuerto_de_Barajas",
+            "Gran_Canaria",
+            "Maspalomas",
+            "Madrid",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Hospital_Insular_de_Gran_Canaria",
+            "El",
+            "Jefatura_Superior_de_Canarias",
+            "Comisaría_de_Maspalomas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Jefatura_Superior_de_Policía_de_Canarias"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:0.25",
+            "35",
+            "52",
+            "2"
+        ]
+    }
+}

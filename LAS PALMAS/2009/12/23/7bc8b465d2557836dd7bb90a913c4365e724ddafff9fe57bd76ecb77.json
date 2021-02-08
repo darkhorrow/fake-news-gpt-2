@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594354/0/",
+    "title": {
+        "raw_text": "Alerta naranja en Canarias por fuertes vientos y trombas de agua de hasta 120 litros hasta el jueves",
+        "lemmatized_text": "alerta naranja en canarias por fuerte viento y tromba de agua de hasta VL_l:120 hasta el [J:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "naranja canarias fuerte viento tromba agua",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "VL_l:120"
+        ]
+    },
+    "lead": {
+        "raw_text": "Canarias se encuentra en situación de alerta naranja, con zonas de alerta amarilla, por fuertes vientos y trombas de agua de hasta 120 litros por metro cuadrado en doce horas, precipitaciones más probables al final del día de hoy y durante la madrugada de mañana y principalmente en medianías y zonas altas, situación que perdurará hasta este jueves en horas del mediodía, según informa la Agencia Estatal de Meteorología (Aemet).",
+        "lemmatized_text": "canario se encontrar en situación de alerta naranja con zona de alerta amarillo por fuerte viento y tromba de agua de hasta CB_l/m2:120 en TM_h:12 precipitación más probable a el final de el día de hoy y durante el madrugada de mañana y principalmente en medianía y zona alto situación que perdurar hasta este [J:??/??/??:??.??:??] en hora de el [??:??/??/??:12.00:pm] según informar el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "canario encontrar situación alerta naranja zona alerta amarillo fuerte viento tromba agua precipitación probable final día madrugada mañana principalmente medianía zona alto situación perdurar hora informar agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "CB_l/m2:120",
+            "TM_h:12"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, las zonas de cumbres, este y oeste de La Palma se mantienen en alerta naranja por abundantes lluvias de hasta 120 litros por metro cuadrado en doce horas, situación que se desarrollará desde hoy a las ocho de la mañana y hasta las siete de la mañana de este jueves. A ello se suma un nivel de riesgo importante en la las medianías del sur y oeste y zonas altas de La Palma con rachas de viento de hasta 95 kilómetros por hora hasta este jueves en horas del mediodía. Además de fenómenos costeros adversos en el este y oeste de la isla. La alerta naranja afectará también al este, sur y oeste y en los municipios de La Orotava y Vilaflor en Tenerife con lluvias de hasta 100 litros por metro cuadrado en doce horas y rachas de viento de hasta 95 kilómetros por hora en las citadas localidades, y principalmente en medianías del sur y oeste y zonas altas. Del mismo modo, en las cumbres, este, sur y oeste y medianías del norte de Gran Canaria se prevé riesgo importante de precipitaciones acumuladas en una hora de 30 litros por metro cuadrado y 100 litros en doce horas, desde hoy a las 12.00 horas hasta horas del mediodía de mañana. Además de que en esta zona se registrarán rachas de viento de hasta 75 kilómetros por hora. Asimismo, la costa norte de Gran Canaria se encuentra en alerta amarilla por riesgo de lluvias, que se prevé que alcancen los 15 litros por metro cuadrado en una hora La Gomera y El Hierro también se encuentran en alerta naranja con precipitaciones de hasta 100 litros por metro cuadrado en doce horas, que finalizará este jueves a las 12.00 horas y fuertes vientos de hasta 75 kilómetros por hora. Por su parte, Lanzarote y Fuerteventura continúan en alerta amarilla por lluvias de 20 litros por metro cuadrado desde este miércoles a las 15.00 horas hasta las 12.00 horas del jueves.",
+        "lemmatized_text": "en concreto el zona de cumbre este y oeste de la_palma se mantener en alerta naranja por abundante lluvia de hasta CB_l/m2:120 en TM_h:12 situación que se desarrollar desde hoy a el [??:??/??/??:8.00:am] y hasta el [??:??/??/??:7.00:am] de este [J:??/??/??:??.??:??] a ello se sumar uno nivel de riesgo importante en el el medianía de el sur y oeste y zona alto de la_palma con racha de viento de hasta SP_km/h:95 hasta este [J:??/??/??:??.??:??] en hora de el [??:??/??/??:12.00:pm] además_de fenómeno costero adverso en el este y oeste de el isla el alerta naranja afectar también a el este sur y oeste y en el municipio de la_orotava y vilaflor en tenerife con lluvia de hasta CB_l/m2:100 en TM_h:12 y racha de viento de hasta SP_km/h:95 en el citar localidad y principalmente en medianía de el sur y oeste y zona alto de el mismo modo en el cumbre este sur y oeste y medianía de el norte de gran_canaria se prever riesgo importante de precipitación acumular en uno hora de CB_l/m2:30 y VL_l:100 en TM_h:12 desde hoy a el TM_h:12 hasta hora de el [??:??/??/??:12.00:pm] de mañana además_de que en este zona se registrar racha de viento de hasta SP_km/h:75 asimismo el costa norte de gran_canaria se encontrar en alerta amarillo por riesgo de lluvia que se prever que alcanzar el CB_l/m2:15 en uno hora la_gomera y el_hierro también se encontrar en alerta naranja con precipitación de hasta CB_l/m2:100 en TM_h:12 que finalizar este [J:??/??/??:12.00:??] y fuerte viento de hasta SP_km/h:75 por su parte lanzarote y fuerteventura continuar en alerta amarillo por lluvia de CB_l/m2:20 desde este [X:??/??/??:3.00:pm] hasta el [J:??/??/??:12.00:??]",
+        "lemmatized_text_reduced": "concreto zona cumbre este oeste la_palma mantener alerta naranja abundante lluvia situación desarrollar sumar nivel riesgo importante medianía sur oeste zona alto la_palma racha viento hora fenómeno costero adverso este oeste isla alerta naranja afectar sur oeste municipio la_orotava vilaflor tenerife lluvia racha viento citar localidad principalmente medianía sur oeste zona alto mismo modo cumbre sur oeste medianía norte gran_canaria prever riesgo importante precipitación acumular hora hora mañana zona registrar racha viento costa norte gran_canaria encontrar alerta amarillo riesgo lluvia prever alcanzar hora la_gomera el_hierro encontrar alerta naranja precipitación finalizar fuerte viento parte lanzarote fuerteventura continuar alerta amarillo lluvia",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "La_Palma",
+            "La_Orotava",
+            "Vilaflor",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "La_Gomera",
+            "El_Hierro",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:8.00:am]",
+            "[??:??/??/??:7.00:am]",
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]",
+            "[??:??/??/??:12.00:pm]",
+            "[J:??/??/??:12.00:??]",
+            "[X:??/??/??:3.00:pm]",
+            "[J:??/??/??:12.00:??]"
+        ],
+        "numbers": [
+            "CB_l/m2:120",
+            "TM_h:12",
+            "SP_km/h:95",
+            "CB_l/m2:100",
+            "TM_h:12",
+            "SP_km/h:95",
+            "CB_l/m2:30",
+            "VL_l:100",
+            "TM_h:12",
+            "TM_h:12",
+            "SP_km/h:75",
+            "CB_l/m2:15",
+            "CB_l/m2:100",
+            "TM_h:12",
+            "SP_km/h:75",
+            "CB_l/m2:20"
+        ]
+    }
+}

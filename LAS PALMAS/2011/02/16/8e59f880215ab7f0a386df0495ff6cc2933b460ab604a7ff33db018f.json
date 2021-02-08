@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/961505/0/",
+    "title": {
+        "raw_text": "Ryanair ve \"inviable\" la instalación de una base en Fuerteventura por el horario actual del aeropuerto",
+        "lemmatized_text": "ryanair ver inviable el instalación de uno base en fuerteventura por el horario actual de el aeropuerto",
+        "lemmatized_text_reduced": "ryanair ver inviable instalación base fuerteventura horario actual aeropuerto",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La aerolínea Ryanair ha visto \"inviable\" la instalación de una base en Fuerteventura debido al horario actual del Aeropuerto insular, según puso este miércoles de manifiesto el representante de la compañía, Luis Fernández-Mellado, durante una rueda de prensa.",
+        "lemmatized_text": "el aerolínea ryanair haber ver inviable el instalación de uno base en fuerteventura deber a el horario actual de el aeropuerto insular según poner este [X:??/??/??:??.??:??] de manifiesto el representante de el compañía luis_fernández-mellado durante uno rueda de prensa",
+        "lemmatized_text_reduced": "aerolínea ryanair haber ver inviable instalación base fuerteventura deber horario actual aeropuerto insular poner manifiesto representante compañía luis_fernández-mellado rueda prensa",
+        "persons": [
+            "Ryanair",
+            "Luis_Fernández-Mellado"
+        ],
+        "locations": [
+            "Fuerteventura",
+            "Aeropuerto"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La aerolínea Ryanair ha visto \"inviable\" la instalación de una base en Fuerteventura debido al horario actual del Aeropuerto insular, según puso este miércoles de manifiesto el representante de la compañía, Luis Fernández-Mellado, durante una rueda de prensa. \"Lamentablemente, la situación es que no hay posibilidad. El horario actual del Aeropuerto hace que sea inviable, operativamente, una base. Mientras esta situación no cambie no podremos tomar una decisión al respecto\", manifestó. Por su parte, Ryanair ha inaugurado dos bases en Canarias, una en el Aeropuerto de Gran Canaria y otra en recinto aeroportuario de Tenerife Sur, mientras que a estas instalaciones se sumará Lanzarote durante el mes de abril, por lo que serán tres las bases de la compañía en el archipiélago.",
+        "lemmatized_text": "el aerolínea ryanair haber ver inviable el instalación de uno base en fuerteventura deber a el horario actual de el aeropuerto insular según poner este [X:??/??/??:??.??:??] de manifiesto el representante de el compañía luis_fernández-mellado durante uno rueda de prensa lamentablemente el situación ser que no haber posibilidad el horario actual de el aeropuerto hacer que ser inviable operativamente uno base mientras este situación no cambiar no poder tomar uno decisión a el respecto manifestar por su parte ryanair haber inaugurar 2 base en canarias uno en el aeropuerto_de_gran_canaria y otro en recinto aeroportuario de tenerife_sur mientras_que a este instalación se sumar lanzarote durante el [??:??/4/??:??.??:??] por el que ser 3 el base de el compañía en el archipiélago",
+        "lemmatized_text_reduced": "aerolínea ryanair haber ver inviable instalación base fuerteventura deber horario actual aeropuerto insular poner manifiesto representante compañía luis_fernández-mellado rueda prensa lamentablemente situación ser haber posibilidad horario actual aeropuerto hacer ser inviable operativamente base situación cambiar poder tomar decisión respecto manifestar parte ryanair haber inaugurar base canarias aeropuerto_de_gran_canaria recinto aeroportuario tenerife_sur instalación sumar lanzarote ser base compañía archipiélago",
+        "persons": [
+            "Ryanair",
+            "Luis_Fernández-Mellado",
+            "Ryanair"
+        ],
+        "locations": [
+            "Fuerteventura",
+            "Aeropuerto",
+            "Canarias",
+            "Aeropuerto_de_Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Aeropuerto",
+            "Tenerife_Sur"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "3"
+        ]
+    }
+}

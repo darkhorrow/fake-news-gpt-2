@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/728639/0/",
+    "title": {
+        "raw_text": "El incendio en un garaje en Las Palmas de Gran Canaria deja varios coches calcinados",
+        "lemmatized_text": "el incendio en uno garaje en las_palmas_de_gran_canaria dejar varios coche calcinar",
+        "lemmatized_text_reduced": "incendio garaje las_palmas_de_gran_canaria dejar coche calcinar",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El incendio de un garaje a ras de suelo en la calle República Dominicana, cerca a la zona de Mesa y López, dentro del término municipal de Las Palmas de Gran Canaria, ha dejado varios coches calcinados, aunque no ha habido que lamentar heridos, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el incendio de uno garaje a_ras_de suelo en el calle república_dominicana cerca a_la_zona_de mesa y lópez dentro de el término municipal de las_palmas_de_gran_canaria haber dejar varios coche calcinar aunque no haber haber que lamentar herido según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "incendio garaje suelo calle república_dominicana mesa lópez término municipal las_palmas_de_gran_canaria haber dejar coche calcinar haber haber lamentar herido informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "López"
+        ],
+        "locations": [
+            "República_Dominicana",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Mesa",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Sobre las 22.10 horas de anoche se recibieron varias llamadas indicando que se había producido fuego en un garaje. En ese momento, el 112 activó su dispositivo de emergencias habitual y trasladó al lugar una ambulancia de soporte vital básico y una ambulancia sanitarizada del Servicio de Urgencias Canario (SUC), además del Servicio de Extinción de Incendios y Salvamento (SEIS) del Ayuntamiento de Las Palmas de Gran Canaria. Así, hasta el lugar se desplazaron efectivos del cuerpo de bomberos, que consiguieron controlar las llamas. Una vez extinguido el fuego, ventilaron el inmueble, quedando al menos cuatro vehículos afectados y una moto. Por su parte, el Servicio de Urgencias Canario, dada la virulencia del fuego, se acercó con dos recursos a la zona como preventivo aunque no fue necesaria su intervención. Finalmente, agentes de la Policía Local y de la Policía Nacional, que también acudieron al lugar del incendio, ayudaron a asegurar la zona y elaboraron los informes oportunos.",
+        "lemmatized_text": "sobre el TM_h:22.1 de anoche se recibir varios llamada indicar que se haber producir fuego en uno garaje en ese momento el 112 activar su dispositivo de emergencia habitual y trasladar a el lugar uno ambulancia de soporte vital básico y uno ambulancia sanitarizada de el servicio_de_urgencias_canario suc además de el servicio_de_extinción_de_incendios y salvamento seis de el ayuntamiento_de_las_palmas_de_gran_canaria así hasta el lugar se desplazar efectivo de el cuerpo de bombero que conseguir controlar el llama uno vez extinguir el fuego ventilar el inmueble quedar a el menos 4 vehículo afectar y uno moto por su parte el servicio_de_urgencias_canario dar el virulencia de el fuego se acercar con 2 recurso a el zona como preventivo aunque no ser necesario su intervención finalmente agente de el policía_local y de el policía_nacional que también acudir a el lugar de el incendio ayudar a asegurar el zona y elaborar el informe oportuno",
+        "lemmatized_text_reduced": "recibir llamada indicar haber producir fuego garaje momento activar dispositivo emergencia habitual trasladar lugar ambulancia soporte vital básico ambulancia sanitarizada servicio_de_urgencias_canario suc servicio_de_extinción_de_incendios salvamento seis ayuntamiento_de_las_palmas_de_gran_canaria lugar desplazar efectivo cuerpo bombero conseguir controlar llama vez extinguir fuego ventilar inmueble quedar vehículo afectar moto parte servicio_de_urgencias_canario dar virulencia fuego acercar recurso zona preventivo ser necesario intervención finalmente agente policía_local policía_nacional acudir lugar incendio ayudar asegurar zona elaborar informe oportuno",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Servicio_de_Extinción_de_Incendios",
+            "SEIS",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "Policía_Local",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:22.1",
+            "112",
+            "4",
+            "2"
+        ]
+    }
+}

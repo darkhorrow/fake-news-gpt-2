@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634876/0/",
+    "title": {
+        "raw_text": "Turismo.- Canarias lidera la llegada de turistas con 795.815 personas, un 1,6% más, tras 18 meses seguidos de caídas",
+        "lemmatized_text": "turismo canario liderar el llegada de turista con 795.815 persona uno 1,6/100 más tras 18 mes seguir de caída",
+        "lemmatized_text_reduced": "turismo canario liderar llegada turista persona mes seguir caída",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Turismo"
+        ],
+        "dates": [],
+        "numbers": [
+            "795.815",
+            "1,6/100",
+            "18"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias ha liderado la llegada de turistas extranjeros a España con un total de 795.815 personas, lo que supone un aumento del 1,6% respecto al mismo mes del pasado ejercicio y representa el primer dato positivo de crecimiento interanual tras 18 meses seguidos de caídas, según los datos de la Encuesta de Movimientos Turísticos en Frontera (Frontur) hechos públicos hoy por el Ministerio de Industria, Turismo y Comercio.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias haber liderar el llegada de turista extranjero a españa con uno total de 795.815 persona el que suponer uno aumento de el 1,6/100 respecto a el mismo mes de el pasar ejercicio y representar el 1 dato positivo de crecimiento interanual tras 18 mes seguir de caída según el dato de el encuesta_de_movimientos_turísticos en frontera frontur hecho público hoy por el ministerio_de_industria turismo y comercio",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias haber liderar llegada turista extranjero españa total persona suponer aumento respecto mismo mes pasar ejercicio representar 1 dato positivo crecimiento interanual mes seguir caída dato encuesta_de_movimientos_turísticos frontera frontur hecho público ministerio_de_industria turismo comercio",
+        "persons": [],
+        "locations": [
+            "España",
+            "Frontera",
+            "Frontur"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Ministerio_de_Industria",
+            "Turismo",
+            "Comercio"
+        ],
+        "others": [
+            "Encuesta_de_Movimientos_Turísticos"
+        ],
+        "dates": [],
+        "numbers": [
+            "795.815",
+            "1,6/100",
+            "18"
+        ]
+    },
+    "body": {
+        "raw_text": "El último mes en que Canarias registró un dato de aumento de la llegada de turistas fue en junio de 2008, cuando aumentó un 1%, y desde entonces las cifras habían estado teñidas del 'rojo' de las caídas. El conjunto de España, por su parte, recibió 2,5 millones de turistas en enero, un 1,1% más, también después de 18 meses consecutivos de descensos. El primer mercado emisor a España siguió siendo Reino Unido pese a la caída del 8,1% en el número de visitantes (528.306). En segundo lugar se situó el mercado alemán, con la llegada de 417.000 turistas alemanes, un 6,3% menos. Tras Canarias, las principales CCAA en número de turistas fueron Cataluña, con 571.143 viajeros, un 0,9% más; Andalucía, con 345.612 turistas, un 9,9% más, y la Comunidad de Madrid, con 282.719 llegadas, un 7,1% más. (Habrá ampliación)",
+        "lemmatized_text": "el último mes en que canarias registrar uno dato de aumento de el llegada de turista ser en [??:??/6/2008:??.??:??] cuando aumentar uno 1/100 y desde entonces el cifra haber estar teñir de el rojo de el caída el conjunto de españa por su parte recibir 2,5 millón de turista en [??:??/1/??:??.??:??] uno 1,1/100 más también después_de 18 mes consecutivo de descenso el 1 mercado emisor a españa seguir ser reino_unido pese_a el caída de el 8,1/100 en el número de visitante 528.306 en 2 lugar se situar el mercado alemán con el llegada de 417 turista alemán uno 6,3/100 menos tras canarias el principal ccaa en número de turista ser cataluña con 571.143 viajero uno 0,9/100 más andalucía con 345.612 turista uno 9,9/100 más y el comunidad_de_madrid con 282.719 llegada uno 7,1/100 más haber ampliación",
+        "lemmatized_text_reduced": "último mes canarias registrar dato aumento llegada turista ser aumentar cifra haber estar teñir rojo caída conjunto españa parte recibir millón turista mes consecutivo descenso 1 mercado emisor españa seguir ser reino_unido caída número visitante 2 lugar situar mercado alemán llegada turista alemán canarias principal ccaa número turista ser cataluña viajero andalucía turista comunidad_de_madrid llegada haber ampliación",
+        "persons": [
+            "España"
+        ],
+        "locations": [
+            "Canarias",
+            "España",
+            "Reino_Unido",
+            "Canarias",
+            "Cataluña",
+            "Andalucía"
+        ],
+        "organizations": [
+            "CCAA",
+            "Comunidad_de_Madrid"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/6/2008:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1/100",
+            "2,5",
+            "1,1/100",
+            "18",
+            "8,1/100",
+            "528.306",
+            "417",
+            "6,3/100",
+            "571.143",
+            "0,9/100",
+            "345.612",
+            "9,9/100",
+            "282.719",
+            "7,1/100"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/720376/0/",
+    "title": {
+        "raw_text": "Dos hombres heridos en un atropello múltiple en Yaiza (Lanzarote)",
+        "lemmatized_text": "2 hombre herir en uno atropello múltiple en yaiza lanzarote",
+        "lemmatized_text_reduced": "hombre herir atropello múltiple yaiza lanzarote",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos hombres de 31 años de edad y de nacionalidad extranjera han resultado heridos con traumatismo en miembro inferior de carácter menos grave en un atropello múltiple en la calle Francia, en Playa Blanca, en el municipio de Yaiza (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "2 hombre de 31 año de edad y de nacionalidad extranjero haber resultar herido con traumatismo en miembro inferior de carácter menos grave en uno atropello múltiple en el calle francia en playa_blanca en el municipio de yaiza lanzarote según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre año edad nacionalidad extranjero haber resultar herido traumatismo miembro inferior carácter grave atropello múltiple calle francia playa_blanca municipio yaiza lanzarote informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Francia",
+            "Playa_Blanca",
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "31",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo anoche, sobre las 00.53 horas, cuando se recibió una llamada en el Cecoes que comunicaba que un turismo había atropellado a cinco personas, y que tres de ellas habían resultado ilesas, mientras que otras dos precisaban asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Hasta el lugar se desplazó personal médico y sanitario del Servicio de Urgencias Canario que prestó la primera asistencia a los afectados, dos varones de 31 años de edad de nacionalidad extranjera, que fueron estabilizados y trasladados en una ambulancia sanitarizada y otra de soporte vital avanzado al Hospital Doctor José Molina Orosa En dicha actuación participó la Policía Local, que elaboró los informes oportunos.",
+        "lemmatized_text": "el accidente se producir anoche sobre el TM_h:0.53 cuando se recibir uno llamada en el cecoes que comunicar que uno turismo haber atropellar a 5 persona y que 3 de ellos haber resultar ileso mientras_que otro 2 precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario hasta el lugar se desplazar personal médico y sanitario de el servicio_de_urgencias_canario que prestar el 1 asistencia a el afectado 2 varón de 31 año de edad de nacionalidad extranjero que ser estabilizar y trasladar en uno ambulancia sanitarizada y otro de soporte vital avanzar a el hospital_doctor_josé_molina_orosa_en decir actuación participar el policía_local que elaborar el informe oportuno",
+        "lemmatized_text_reduced": "accidente producir recibir llamada cecoes comunicar turismo haber atropellar persona haber resultar ileso precisar asistencia sanitario modo activar inmediato recurso emergencia necesario lugar desplazar personal médico sanitario servicio_de_urgencias_canario prestar 1 asistencia afectado varón año edad nacionalidad extranjero ser estabilizar trasladar ambulancia sanitarizada soporte vital avanzar hospital_doctor_josé_molina_orosa_en decir actuación participar policía_local elaborar informe oportuno",
+        "persons": [
+            "Hospital_Doctor_José_Molina_Orosa_En"
+        ],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:0.53",
+            "5",
+            "3",
+            "2",
+            "112",
+            "2",
+            "31"
+        ]
+    }
+}

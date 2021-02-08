@@ -1,0 +1,51 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/350401/0/matan/punalada/palmas/",
+    "title": {
+        "raw_text": "Asesinado de una puñalada en la capital grancanaria",
+        "lemmatized_text": "asesinar de uno puñalada en el capital grancanaria",
+        "lemmatized_text_reduced": "asesinar puñalada capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La víctima estaba tirado en la vía pública. Se desconocen las circunstancias de esta agresión. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar o reducir este mapa, o desplazarte por él.",
+        "lemmatized_text": "el víctima estar tirar en el vía público se desconocer el circunstancia de este agresión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar o reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "víctima estar tirar vía público desconocer circunstancia agresión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre de 41 años ha muerto hoy t ras haber sido agredido con un arma blanca en una calle de la capital grancanaria, han informado fuentes de los servicios de emergencias. El suceso se ha producido en torno a las cuatro de la tarde del domingo en la calle Primero de Mayo, a la altura de las dependencias de Correos. Los servicios de emergencias han sido alertados de que un hombre se encontraba tirado en la vía pública tras haber sido agredido con arma blanca. A su llegada, los sanitarios han constatado que la víctima se encontraba en parada cardiorrespiratoria y presentaba herida de arma blanca en un miembro inferior. A pesar de las maniobras de reanimación cardiopulmonar, el personal sanitario sólo ha podido constatar el fallecimiento . La Policía Nacional se ha hecho cargo del caso y de la instrucción de las diligencias. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno hombre de 41 año haber morir hoy t ras haber ser agredir con uno arma blanco en uno calle de el capital grancanaria haber informar fuente de el servicio de emergencia el suceso se haber producir en_torno_a el [G:??/??/??:4.00:pm] en el calle primero de [??:??/5/??:??.??:??] a el altura de el dependencia de correos el servicio de emergencia haber ser alertar de que uno hombre se encontrar tirar en el vía público tras haber ser agredir con arma blanco a su llegada el sanitario haber constatar que el víctima se encontrar en parada cardiorrespiratoria y presentar herida de arma blanco en uno miembro inferior a_pesar_de el maniobra de reanimación cardiopulmonar el personal sanitario sólo haber poder constatar el fallecimiento el policía_nacional se haber hacer_cargo de el caso y de el instrucción de el diligencia consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre año haber morir t ras haber ser agredir arma blanco calle capital grancanaria haber informar fuente servicio emergencia suceso haber producir calle primero altura dependencia correos servicio emergencia haber ser alertar hombre encontrar tirar vía público haber ser agredir arma blanco llegada sanitario haber constatar víctima encontrar parada cardiorrespiratoria presentar herida arma blanco miembro inferior maniobra reanimación cardiopulmonar personal sanitario haber poder constatar fallecimiento policía_nacional haber hacer_cargo caso instrucción diligencia consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Correos",
+            "Policía_Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Primero"
+        ],
+        "dates": [
+            "[G:??/??/??:4.00:pm]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "41"
+        ]
+    }
+}

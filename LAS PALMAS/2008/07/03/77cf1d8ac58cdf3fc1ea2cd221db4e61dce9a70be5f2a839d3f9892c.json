@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/395392/0/",
+    "title": {
+        "raw_text": "Buscan a mujer desaparecida hace varios días en el sureste de Gran Canaria",
+        "lemmatized_text": "buscar a mujer desaparecer hacer varios día en el sureste de gran_canaria",
+        "lemmatized_text_reduced": "buscar mujer desaparecer hacer día sureste gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La mujer, de 46 años, falta de su casa del municipio de Ingenio desde el pasado día 30. Guardia civil con perros, policía local, familiares, vecinos y pastores participan en su búsqueda. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA.",
+        "lemmatized_text": "el mujer de 46 año falta de su casa de el municipio de ingenio desde el [??:30/??/??:??.??:??] guardia civil con perro policía local familiar vecino y pastor participar en su búsqueda consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "mujer año falta casa municipio ingenio guardia civil perro policía local familiar vecino pastor participar búsqueda consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Ingenio"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[??:30/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "46"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer, identificada como Susana Rodríguez Alonso , de 46 años de edad, ha desaparecido de su domicilio familiar ubicado en el municipio grancanario de Ingenio, según informaron a Europa Press fuentes de la Guardia Civil. La vecina ingeniense, que sufre problemas de depresión , desapareció el pasado día 30 de junio, día en el que su marido, Miguel Ezequiel Alejo, denunció los hechos ante la Benemérita, aunque por el momento las labores de rastreo han resultado sin éxito. La desaparecida, que trabaja en el aeropuerto de Gando , habló con su marido durante la mañana y cuando éste llegó a su domicilio ella ya no estaba y, tras esperarla durante un tiempo, se presentó en la comisaría de la Guardia Civil para denunciar su desaparición. Desde ayer un dispositivo de búsqueda rastrea la zona del sureste de Gran Canaria sin que hasta el momento haya rastro de ella, informó hoy la Guardia Civil. En el rastreo participan la Guardia Civil de Agüimes y del puesto principal de Vecindario, de Santa Lucía de Tirajana, y las policías locales de Agüimes, Vecindario y de Ingenio, así como familiares y pastores , que colaboran en la búsqueda en las zonas de campo, barrancos y pozos, entre otros lugares.",
+        "lemmatized_text": "uno mujer identificar como susana_rodríguez_alonso de 46 año de edad haber desaparecer de su domicilio familiar ubicar en el municipio grancanario de ingenio según informar a europa_press fuente de el guardia_civil el vecino ingeniar se que sufrir problema de depresión desaparecer el [??:30/6/??:??.??:??] día en el que su marido miguel_ezequiel_alejo denunciar el hecho ante el benemérita aunque por el momento el labor de rastreo haber resultar sin éxito el desaparecido que trabajar en el aeropuerto de gando hablar con su marido durante el mañana y cuando este llegar a su domicilio él ya no estar y tras esperar lo durante uno tiempo se presentar en el comisaría de el guardia_civil para denunciar su desaparición desde ayer uno dispositivo de búsqueda rastrear el zona de el sureste de gran_canaria sin que hasta el momento haber rastro de él informar hoy el guardia_civil en el rastreo participar el guardia_civil_de_agüimes y de el puesto principal de vecindario de santa_lucía_de_tirajana y el policía local de agüimes vecindario y de ingenio así_como familiar y pastor que colaborar en el búsqueda en el zona de campo barranco y pozo entre otro lugar",
+        "lemmatized_text_reduced": "mujer identificar susana_rodríguez_alonso año edad haber desaparecer domicilio familiar ubicar municipio grancanario ingenio informar europa_press fuente guardia_civil vecino ingeniar sufrir problema depresión desaparecer día marido miguel_ezequiel_alejo denunciar hecho benemérita momento labor rastreo haber resultar éxito desaparecido trabajar aeropuerto gando hablar marido mañana llegar domicilio estar esperar tiempo presentar comisaría guardia_civil denunciar desaparición dispositivo búsqueda rastrear zona sureste gran_canaria momento haber rastro informar guardia_civil rastreo participar guardia_civil_de_agüimes puesto principal vecindario santa_lucía_de_tirajana policía local agüimes vecindario ingenio familiar pastor colaborar búsqueda zona campo barranco pozo lugar",
+        "persons": [
+            "Susana_Rodríguez_Alonso",
+            "Europa_Press",
+            "Miguel_Ezequiel_Alejo",
+            "Agüimes"
+        ],
+        "locations": [
+            "Ingenio",
+            "Gando",
+            "Vecindario",
+            "Santa_Lucía_de_Tirajana",
+            "Vecindario",
+            "Ingenio"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Benemérita",
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "Guardia_Civil_de_Agüimes"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:30/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "46"
+        ]
+    }
+}

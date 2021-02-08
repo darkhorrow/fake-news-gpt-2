@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/636637/0/",
+    "title": {
+        "raw_text": "Arden un vehículo en Telde y tres contenedores de basura en Las Palmas de Gran Canaria sin heridos",
+        "lemmatized_text": "arder uno vehículo en telde y 3 contenedor de basura en las_palmas_de_gran_canaria sin herido",
+        "lemmatized_text_reduced": "arder vehículo telde contenedor basura las_palmas_de_gran_canaria herido",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un vehículo ardió durante la noche en el barrio de Jinámar, en el municipio de Telde (Gran Canaria), así como resultaron incendiados tres contenedores de basura en la capital grancanaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que indicaron que los incidentes causaron daños materiales, pero no personales.",
+        "lemmatized_text": "uno vehículo arder durante el noche en el barrio de jinámar en el municipio de telde gran_canaria así_como resultar incendiar 3 contenedor de basura en el capital grancanaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que indicar que el incidente causar daño material pero no personal",
+        "lemmatized_text_reduced": "vehículo arder noche barrio jinámar municipio telde gran_canaria resultar incendiar contenedor basura capital grancanaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes indicar incidente causar daño material personal",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Jinámar",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El primer suceso ocurrió en la calle Manuel Alemán Álamo a las 22.04 horas, cuando varias llamadas alertaron al Cecoes del humo en el citado lugar. Así, bomberos del Consorcio de Emergencias de la isla se dirigieron hacia la zona y extinguieron el fuego en un turismo, que no afectó a otros vehículos ni causó heridos. En dicha actuación intervino la Policía Nacional, la Policía Local y Protección Civil, según añadieron las mismas fuentes. Asimismo, a las 23.45 horas, se produjo el incendio de tres contenedores de basura en la calle Echegaray de la capital grancanaria, donde actuaron bomberos de la ciudad. Igualmente, en dicho siniestro, en el que no hubo daños personales, participó la Policía Local y Nacional.",
+        "lemmatized_text": "el 1 suceso ocurrir en el calle manuel_alemán_álamo a el TM_h:22.04 cuando varios llamada alertar a el cecoes de el humo en el citar lugar así bombero de el consorcio_de_emergencias de el isla se dirigir hacia el zona y extinguir el fuego en uno turismo que no afectar a otro vehículo ni causar herido en decir actuación intervenir el policía_nacional el policía_local y protección_civil según añadir el mismo fuente asimismo a el TM_h:23.45 se producir el incendio de 3 contenedor de basura en el calle echegaray de el capital grancanaria donde actuar bombero de el ciudad igualmente en decir siniestro en el que no haber daño personal participar el policía_local y nacional",
+        "lemmatized_text_reduced": "1 suceso ocurrir calle manuel_alemán_álamo llamada alertar cecoes humo citar lugar bombero consorcio_de_emergencias isla dirigir zona extinguir fuego turismo afectar vehículo causar herido decir actuación intervenir policía_nacional policía_local protección_civil añadir mismo fuente producir incendio contenedor basura calle echegaray capital grancanaria actuar bombero ciudad igualmente decir siniestro haber daño personal participar policía_local nacional",
+        "persons": [
+            "Manuel_Alemán_Álamo"
+        ],
+        "locations": [
+            "Echegaray"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Consorcio_de_Emergencias",
+            "Policía_Nacional",
+            "Policía_Local",
+            "Protección_Civil",
+            "Policía_Local",
+            "Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:22.04",
+            "TM_h:23.45",
+            "3"
+        ]
+    }
+}

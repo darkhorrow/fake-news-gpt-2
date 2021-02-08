@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/670465/0/",
+    "title": {
+        "raw_text": "La autovía del sur de Gran Canaria registra tres accidentes durante las primeras horas del día",
+        "lemmatized_text": "el autovía de el sur de gran_canaria registrar 3 accidente durante el 1 hora de el día",
+        "lemmatized_text_reduced": "autovía sur gran_canaria registrar accidente 1 hora día",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La autovía Gran Canaria 1 (GC-1) que une Las Palmas de Gran Canaria con el sur de la isla, ha registrado un total de tres accidentes de diferente consideración entre las 05.00 y 07.00 horas, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el autovía gran_canaria 1 GC-1 que unir las_palmas_de_gran_canaria con el sur de el isla haber registrar uno total de 3 accidente de diferente consideración entre el 5 y TM_h:7 según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "autovía gran_canaria unir las_palmas_de_gran_canaria sur isla haber registrar total accidente diferente consideración informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "1",
+            "GC-1",
+            "3",
+            "5",
+            "TM_h:7",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente más grave se registró sobre las 06.45 horas a la altura de la zona de La Laja, en dirección a la capital, cuando un vehículo se salió de la vía. En ese momento, el 112 activó su dispositivo de urgencias habitual y trasladó al lugar al Servicio de Urgencias Canario (SUC). Al llegar, los médicos atendieron y estabilizaron al conductor, un hombre de 54 años, que tuvo que ser trasladado al Hospital Insular de Gran Canaria, mientras que el suceso provocó retenciones en la entrada a la ciudad. En cuanto a los otros dos incidentes, uno de ellos fue una colisión entre un coche y un camión en la GC-1 a la altura de San Bartolomé de Tirajana, que se saldó sin heridos. Finalmente, el último de los accidentes tuvo lugar también en la autovía por la zona del Polígono Industrial de Telde, al colisionar un vehículo con la mediana. Aquí, los médicos del SUC atendieron a una mujer que sufrió una crisis de ansiedad, por lo que fue trasladada hasta el Centro de Salud de El Calero.",
+        "lemmatized_text": "el accidente más grave se registrar sobre el TM_h:6.45 a el altura de el zona de la_laja en_dirección_a el capital cuando uno vehículo se salir de el vía en ese momento el 112 activar su dispositivo de urgencia habitual y trasladar a el lugar a el servicio_de_urgencias_canario suc a el llegar el médico atender y estabilizar a el conductor uno hombre de 54 año que tener que ser trasladar a el hospital_insular_de_gran_canaria mientras_que el suceso provocar retención en el entrada a el ciudad en_cuanto_a el otro 2 incidente uno de ellos ser uno colisión entre uno coche y uno camión en el GC-1 a el altura de san_bartolomé_de_tirajana que se saldar sin herido finalmente el último de el accidente tener_lugar también en el autovía por el zona de el polígono_industrial_de_telde a el colisionar uno vehículo con el mediana aquí el médico de el suc atender a uno mujer que sufrir uno crisis de ansiedad por el que ser trasladar hasta el centro_de_salud_de_el_calero",
+        "lemmatized_text_reduced": "accidente grave registrar altura zona la_laja capital vehículo salir vía momento activar dispositivo urgencia habitual trasladar lugar servicio_de_urgencias_canario suc llegar médico atender estabilizar conductor hombre año tener ser trasladar hospital_insular_de_gran_canaria suceso provocar retención entrada ciudad incidente ser colisión coche camión altura san_bartolomé_de_tirajana saldar herido finalmente último accidente tener_lugar autovía zona polígono_industrial_de_telde colisionar vehículo mediana médico suc atender mujer sufrir crisis ansiedad ser trasladar centro_de_salud_de_el_calero",
+        "persons": [],
+        "locations": [
+            "La_Laja",
+            "San_Bartolomé_de_Tirajana",
+            "Polígono_Industrial_de_Telde"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Insular_de_Gran_Canaria",
+            "SUC",
+            "Centro_de_Salud_de_El_Calero"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:6.45",
+            "112",
+            "54",
+            "2",
+            "GC-1"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/936753/0/",
+    "title": {
+        "raw_text": "Aparece el cuerpo sin vida de un hombre en Telde (Gran Canaria)",
+        "lemmatized_text": "aparecer el cuerpo sin vida de uno hombre en telde gran_canaria",
+        "lemmatized_text_reduced": "aparecer cuerpo vida hombre telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cuerpo sin vida de un hombre, de 47 años de edad, ha aparecido en un solar de Caserones Alto, en el municipio de Telde (Gran Canaria), según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el cuerpo sin vida de uno hombre de 47 año de edad haber aparecer en uno solar de caserones_alto en el municipio de telde gran_canaria según informar fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "cuerpo vida hombre año edad haber aparecer solar caserones_alto municipio telde gran_canaria informar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Caserones_Alto",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "47",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El cuerpo sin vida de un hombre, de 47 años de edad, ha aparecido en un solar de Caserones Alto, en el municipio de Telde (Gran Canaria), según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112. El 112 recibió la alerta a las 08.50 horas de este domingo, hasta donde se trasladó personal del Servicio de Urgencias Canario (SUC) que al llegar al lugar sólo pudo confirmar el fallecimiento del hombre. Asimismo, hasta la zona se trasladaron agentes del Cuerpo Nacional de Policía que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "el cuerpo sin vida de uno hombre de 47 año de edad haber aparecer en uno solar de caserones_alto en el municipio de telde gran_canaria según informar fuente de el centro_coordinador_de_emergencias y seguridad 112 el 112 recibir el alerta a el TM_h:8.5 de este [G:??/??/??:??.??:??] hasta donde se trasladar personal de el servicio_de_urgencias_canario suc que a el llegar a el lugar sólo poder confirmar el fallecimiento de el hombre asimismo hasta el zona se trasladar agente de el cuerpo_nacional_de_policía que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "cuerpo vida hombre año edad haber aparecer solar caserones_alto municipio telde gran_canaria informar fuente centro_coordinador_de_emergencias seguridad recibir alerta trasladar personal servicio_de_urgencias_canario suc llegar lugar poder confirmar fallecimiento hombre zona trasladar agente cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Caserones_Alto",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "47",
+            "112",
+            "112",
+            "TM_h:8.5"
+        ]
+    }
+}

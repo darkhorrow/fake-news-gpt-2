@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/651178/0/",
+    "title": {
+        "raw_text": "Morales alega que CC aprobó los PGE que incluyen subir el IVA para garantizar 1.500 millones de inversiones en Canarias",
+        "lemmatized_text": "moral alegar que cc aprobar el pge que incluir subir el iva para garantizar 1500000 de inversión en canarias",
+        "lemmatized_text_reduced": "moral alegar cc aprobar pge incluir subir iva garantizar inversión canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "CC",
+            "PGE"
+        ],
+        "others": [
+            "IVA"
+        ],
+        "dates": [],
+        "numbers": [
+            "1500000"
+        ]
+    },
+    "lead": {
+        "raw_text": "Reitera el compromiso de la formación nacionalista con el Gobierno central",
+        "lemmatized_text": "reiterar el compromiso de el formación nacionalista con el gobierno central",
+        "lemmatized_text_reduced": "reiterar compromiso formación nacionalista gobierno central",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La presidenta de Coalición Canaria (CC), Claudina Morales, argumentó hoy que esta formación ha mostrado su apoyo a los Presupuestos Generales del Estado (PGE) para 2010 que incluyen la subida del IVA, a fin de garantizar inversiones por más de 1.500 millones de euros en las islas. Así lo manifestó en rueda de prensa Morales al ser cuestionada por la iniciativa del PP para intentar que el Pleno de la Cámara deje sin efecto esta subida de impuestos mediante la votación de una moción. La dirigente nacionalista recordó que CC aprobó los PGE donde estaba contemplada esta medida que no comparte, \"pero la prioridad para CC era conseguir que en Canarias, a través de los presupuestos se realizaran inversiones por más de 1.500 millones de euros\". \"CC cumple lo que pacta y eso demuestra que somos un partido serio, que no hacemos política de vaivenes en función de los intereses o del rédito político que podamos conseguir en cada momento\", agregó Morales, que insistió en que su grupo \"va a mantener\" dicho compromiso. Por otro lado, resaltó que en las islas el Gobierno regional, sustentado por CC y PP, apuesta por no subir el Impuesto General Indirecto Canario (IGIC), \"pero hay un compromiso y acuerdo firmado con el Gobierno central y cuando uno se compromete a determinadas cuestiones hay que cumplirlas hasta el final\", sentenció.",
+        "lemmatized_text": "el presidente de coalición_canaria cc claudina_morales argumentar hoy que este formación haber mostrar su apoyo a el presupuestos_generales_del_estado pge para 2010 que incluir el subida de el iva a_fin_de garantizar inversión por más de $_ECU:1500000 en el isla así lo manifestar en rueda de prensa morales a el ser cuestionar por el iniciativa de el pp para intentar que el pleno_de_la_cámara dejar sin efecto este subida de impuesto mediante el votación de uno moción el dirigente nacionalista recordar que cc aprobar el pge donde estar contemplar este medida que no compartir pero el prioridad para cc ser conseguir que en canarias a_través_de el presupuesto se realizar inversión por más de $_ECU:1500000 cc cumplir el que pactar y ese demostrar que ser uno partido serio que no hacer política de vaivén en función de el interés o de el rédito político que poder conseguir en cada momento agregar morales que insistir en que su grupo ir a mantener decir compromiso por_otro_lado resaltar que en el isla el gobierno regional sustentar por cc y pp apostar por no subir el impuesto_general_indirecto_canario igic pero haber uno compromiso y acuerdo firmar con el gobierno central y cuando uno se comprometer a determinar cuestión haber que cumplir lo hasta el final sentenciar",
+        "lemmatized_text_reduced": "presidente coalición_canaria cc claudina_morales argumentar formación haber mostrar apoyo presupuestos_generales_del_estado pge incluir subida iva garantizar inversión isla manifestar rueda prensa morales ser cuestionar iniciativa pp intentar pleno_de_la_cámara dejar efecto subida impuesto votación moción dirigente nacionalista recordar cc aprobar pge estar contemplar medida compartir prioridad cc ser conseguir canarias presupuesto realizar inversión cc cumplir pactar demostrar ser partido serio hacer política vaivén función interés rédito político poder conseguir momento agregar morales insistir grupo ir mantener decir compromiso resaltar isla gobierno regional sustentar cc pp apostar subir impuesto_general_indirecto_canario igic haber compromiso acuerdo firmar gobierno central comprometer determinar cuestión haber cumplir final sentenciar",
+        "persons": [
+            "Claudina_Morales",
+            "Morales",
+            "Morales"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Presupuestos_Generales_del_Estado",
+            "PGE",
+            "PP",
+            "Pleno_de_la_Cámara",
+            "CC",
+            "PGE",
+            "CC",
+            "CC",
+            "Gobierno",
+            "CC",
+            "PP",
+            "Impuesto_General_Indirecto_Canario",
+            "IGIC",
+            "Gobierno"
+        ],
+        "others": [
+            "IVA"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "$_ECU:1500000",
+            "$_ECU:1500000"
+        ]
+    }
+}

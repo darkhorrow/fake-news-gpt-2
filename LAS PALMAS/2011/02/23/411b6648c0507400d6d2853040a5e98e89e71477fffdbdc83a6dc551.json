@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/968600/0/",
+    "title": {
+        "raw_text": "Los vecinos de Pancho Guerra (Gran Canaria) critican que las administraciones públicas no han estado a la altura",
+        "lemmatized_text": "el vecino de pancho_guerra gran_canaria criticar que el administración público no haber estar a el altura",
+        "lemmatized_text_reduced": "vecino pancho_guerra gran_canaria criticar administración público haber estar altura",
+        "persons": [
+            "Pancho_Guerra"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Cuando se cumplen cinco años del derrumbe del muro que costó la vida a tres personas",
+        "lemmatized_text": "cuando se cumplir 5 año de el derrumbe de el muro que costar el vida a 3 persona",
+        "lemmatized_text_reduced": "cumplir año derrumbe muro costar vida persona",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Los vecinos afectados por el derrumbe de un muro sobre varias viviendas de la zona de Pancho Guerra de Las Palmas de Gran Canaria —que tuvo lugar el pasado 23 de febrero de 2006— han criticado este miércoles que las administraciones públicas no han estado a la altura, cuando se cumplen cinco años de la tragedia que costó la vida a tres personas. \"Estamos todos viviendo de alquiler, menos una familia joven que está en casa de sus padres. La situación judicial es que la sentencia ni está, ni se espera tal y como está el procedimiento. No creemos que haya un horizonte a 3 o 4 años vista donde tengamos una sentencia para depurar responsabilidad\", dijo el portavoz de los vecinos, Rafael Morales, en declaraciones a los medios de comunicación. De esta manera, comentó que las esperanzas de los afectados están puestas, \"en el mejor de los horizontes\", en la aprobación del Plan General para tener autorización y volver a construir sus casas, además de contar con una sentencia judicial ejecutable, aunque opinó que esto último a corto plazo \"sería ya soñar\". (Habrá ampliación)",
+        "lemmatized_text": "el vecino afectar por el derrumbe de uno muro sobre varios vivienda de el zona de pancho_guerra_de_las_palmas_de_gran_canaria que tener_lugar el [??:23/2/2006:??.??:??] haber criticar este [X:??/??/??:??.??:??] que el administración público no haber estar a el altura cuando se cumplir 5 año de el tragedia que costar el vida a 3 persona estar todo vivir de alquiler menos uno familia joven que estar en casa de su padre el situación judicial ser que el sentencia ni estar ni se esperar tal_y_como estar el procedimiento no creer que haber uno horizonte a 3 o 4 año vista donde tener uno sentencia para depurar responsabilidad decir el portavoz de el vecino rafael_morales en declaración a el medio de comunicación de este manera comentar que el esperanza de el afectado estar poner en el mejor de el horizonte en el aprobación de el plan_general para tener autorización y volver a construir su casa además_de contar con uno sentencia judicial ejecutable aunque opinar que este último a corto plazo ser ya soñar haber ampliación",
+        "lemmatized_text_reduced": "vecino afectar derrumbe muro vivienda zona pancho_guerra_de_las_palmas_de_gran_canaria tener_lugar haber criticar administración público haber estar altura cumplir año tragedia costar vida persona estar vivir alquiler familia joven estar casa padre situación judicial ser sentencia estar esperar estar procedimiento creer haber horizonte año vista tener sentencia depurar responsabilidad decir portavoz vecino rafael_morales declaración medio comunicación manera comentar esperanza afectado estar poner mejor horizonte aprobación plan_general tener autorización volver construir casa contar sentencia judicial ejecutable opinar último corto plazo ser soñar haber ampliación",
+        "persons": [
+            "Rafael_Morales"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Pancho_Guerra_de_Las_Palmas_de_Gran_Canaria",
+            "Plan_General"
+        ],
+        "dates": [
+            "[??:23/2/2006:??.??:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "3",
+            "3",
+            "4"
+        ]
+    }
+}

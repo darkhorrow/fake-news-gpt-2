@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/929586/0/",
+    "title": {
+        "raw_text": "Fallece una mujer de 80 años en el fondo del Barranco de Arguineguín (Gran Canaria)",
+        "lemmatized_text": "fallecer uno mujer de 80 año en el fondo de el barranco_de_arguineguín gran_canaria",
+        "lemmatized_text_reduced": "fallecer mujer año fondo barranco_de_arguineguín gran_canaria",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Arguineguín",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una mujer indocumentada de unos 80 años ha fallecido este domingo en el fondo del Barranco de Arguineguín, dentro del término municipal del Mogán (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno mujer indocumentado de uno 80 año haber fallecer este [G:??/??/??:??.??:??] en el fondo de el barranco_de_arguineguín dentro de el término municipal de el mogán gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "mujer indocumentado año haber fallecer fondo barranco_de_arguineguín término municipal mogán gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "80",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer indocumentada de unos 80 años ha fallecido este domingo en el fondo del Barranco de Arguineguín, dentro del término municipal del Mogán (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. Por su parte, la Policía Local dio aviso al 112 sobre las 07.36 horas indicando que una persona se encontraba en el fondo del barranco y que podría precisar servicio sanitario. En ese momento, se envió al lugar una ambulancia de soporte medicalizado del Servicio de Urgencias Canario (SUC). Al llegar, los médicos sólo pudieron confirmar el fallecimiento de una mujer de 80 años.",
+        "lemmatized_text": "uno mujer indocumentado de uno 80 año haber fallecer este [G:??/??/??:??.??:??] en el fondo de el barranco_de_arguineguín dentro de el término municipal de el mogán gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 por su parte el policía_local dar aviso a el 112 sobre el TM_h:7.36 indicar que uno persona se encontrar en el fondo de el barranco y que poder precisar servicio sanitario en ese momento se enviar a el lugar uno ambulancia de soporte medicalizado de el servicio_de_urgencias_canario suc a el llegar el médico sólo poder confirmar el fallecimiento de uno mujer de 80 año",
+        "lemmatized_text_reduced": "mujer indocumentado año haber fallecer fondo barranco_de_arguineguín término municipal mogán gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes parte policía_local dar aviso indicar persona encontrar fondo barranco poder precisar servicio sanitario momento enviar lugar ambulancia soporte medicalizado servicio_de_urgencias_canario suc llegar médico poder confirmar fallecimiento mujer año",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Policía_Local",
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "80",
+            "112",
+            "112",
+            "TM_h:7.36",
+            "80"
+        ]
+    }
+}

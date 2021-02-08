@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-08-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/405286/0/red/prostitucion/canarias/",
+    "title": {
+        "raw_text": "Desarticulan un red que prostituyó a 150 brasileñas y colombianas en Gran Canaria",
+        "lemmatized_text": "desarticular uno red que prostituir a 150 brasileño y colombiano en gran_canaria",
+        "lemmatized_text_reduced": "desarticular red prostituir brasileño colombiano gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "150"
+        ]
+    },
+    "lead": {
+        "raw_text": "Podrían haber obtenido hasta un millón de euros en ganancias. La operación se ha saldado con la detención de ocho personas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "poder haber obtener hasta $_ECU:1000000 en ganancia el operación se haber saldar con el detención de 8 persona consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "poder haber obtener ganancia operación haber saldar detención persona consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:1000000",
+            "8"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional ha desarticulado en Gran Canaria una banda dedicada a la prostitución de brasileñas y colombianas , unas 150 en cerca de tres años, con unas ganancias de un millón de euros al año, informó este lunes la Jefatura Superior de Policía de Canarias. La operación 'Glamour ', que se ha saldado con la detención de ocho personas y el cierre de un club de alterne, comenzó cuando se detectó el trasiego de mujeres brasileñas en un inmueble transitado también por diversidad de hombres, lo que llevó a confirmar que varias ciudadanas sudamericanas entraban en el país como turistas y durante su estancia ejercían la prostitución. Escasa formación y cargas económicas Así, la organización se nutría de jóvenes de escasa preparación y grandes cargas económicas en su país, lo que hacía que solicitaran \"plaza\" en el local antes de salir de sus países de origen. Al llegar a la isla, las jóvenes se dirigían al club, donde eran aleccionadas para que aseguraran a la policía que eran turistas y que vivían de alquiler en dicho inmueble. Estas mujeres trabajaban doce horas al día y debían entregar la mitad de lo ganado a los regentes del club, lo que suponía una \"auténtica explotación sexual\", asegura. Para ocultar los beneficios, las regentes del local habían creado diversas sociedades relacionadas con los negocios de peluquería y belleza. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el policía_nacional haber desarticular en gran_canaria uno banda dedicar a el prostitución de brasileño y colombiano uno 150 en cerca de 3 año con uno ganancia de $_ECU:1000000 a el año informar este [L:??/??/??:??.??:??] el jefatura_superior_de_policía_de_canarias el operación glamour que se haber saldar con el detención de 8 persona y el cierre de uno club de alternar comenzar cuando se detectar el trasiego de mujer brasileño en uno inmueble transitar también por diversidad de hombre el que llevar a confirmar que varios ciudadano sudamericano entrar en el país como turista y durante su estancia ejercer el prostitución escaso formación y carga económico así el organización se nutrir de joven de escaso preparación y grande carga económico en su país el que hacer que solicitar plaza en el local antes_de salir de su país de origen a el llegar a el isla el joven se dirigir a el club donde ser aleccionar para que asegurar a el policía que ser turista y que vivir de alquiler en decir inmueble este mujer trabajar TM_h:12 a el día y deber entregar el mitad de el ganado a el regente de el club el que suponer uno auténtico explotación sexual asegurar para ocultar el beneficio el regente de el local haber crear diverso sociedad relacionar con el negocio de peluquería y belleza consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "policía_nacional haber desarticular gran_canaria banda dedicar prostitución brasileño colombiano año ganancia año informar jefatura_superior_de_policía_de_canarias operación glamour haber saldar detención persona cierre club alternar comenzar detectar trasiego mujer brasileño inmueble transitar diversidad hombre llevar confirmar ciudadano sudamericano entrar país turista estancia ejercer prostitución formación carga económico así organización nutrir joven escaso preparación grande carga económico país hacer solicitar plaza local salir país origen llegar isla joven dirigir club ser aleccionar asegurar policía ser turista vivir alquiler decir inmueble mujer trabajar día deber entregar mitad ganado regente club suponer auténtico explotación sexual asegurar ocultar beneficio regente local haber crear sociedad relacionar negocio peluquería belleza consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Así",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Glamour"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "150",
+            "3",
+            "$_ECU:1000000",
+            "8",
+            "TM_h:12"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/710541/0/",
+    "title": {
+        "raw_text": "Un varón de 55 años resulta herido menos grave al ser atropellado al sur de Gran Canaria",
+        "lemmatized_text": "uno varón de 55 año resultar herir menos grave a el ser atropellar a el sur de gran_canaria",
+        "lemmatized_text_reduced": "varón año resultar herir grave ser atropellar sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "55"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 55 años ha resultado herido con politraumatismos de carácter menos grave al ser atropellado en la carretera GC-1, en dirección sur a la altura del barrio de Juan Grande, en San Bartolomé de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 55 año haber resultar herir con politraumatismo de carácter menos grave a el ser atropellar en el carretera GC-1 en dirección sur a el altura de el barrio de juan_grande en san_bartolomé_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año haber resultar herir politraumatismo carácter grave ser atropellar carretera dirección sur altura barrio juan_grande san_bartolomé_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Juan_Grande"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "55",
+            "GC-1",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 12.07 horas, cuando se recibieron varias llamadas en el Cecoes comunicando que un turismo había atropellado a una persona y, debido a las lesiones presentabas, requería asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. A su llegada al lugar, el personal médico del Servicio de Urgencias Canario (SUC) asistió, estabilizó y trasladó al afectado en ambulancia de soporte vital avanzado del SUC al Hospital Universitario Insular de Gran Canaria. En dicha actuación también intervino la Guardia Civil, que reguló el tráfico en la zona y elaboró los informes oportunos.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:12.07 cuando se recibir varios llamada en el cecoes comunicar que uno turismo haber atropellar a uno persona y debido_a el lesión presentar requerir asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario a su llegada a el lugar el personal médico de el servicio_de_urgencias_canario suc asistir estabilizar y trasladar a el afectar en ambulancia de soporte vital avanzar de el suc a el hospital_universitario_insular_de_gran_canaria en decir actuación también intervenir el guardia_civil que regular el tráfico en el zona y elaborar el informe oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes comunicar turismo haber atropellar persona lesión presentar requerir asistencia sanitario modo activar inmediato recurso emergencia necesario llegada lugar personal médico servicio_de_urgencias_canario suc asistir estabilizar trasladar afectar ambulancia soporte vital avanzar suc hospital_universitario_insular_de_gran_canaria decir actuación intervenir guardia_civil regular tráfico zona elaborar informe oportuno",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.07",
+            "112"
+        ]
+    }
+}

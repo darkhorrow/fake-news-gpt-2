@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/919703/0/",
+    "title": {
+        "raw_text": "El paro subió en Canarias en 2010 en 5.837 personas, situándose en 254.620 desempleados",
+        "lemmatized_text": "el paro subir en canarias en 2010 en 5.837 persona situar se en 254.62 desempleado",
+        "lemmatized_text_reduced": "paro subir canarias persona situar desempleado",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "5.837",
+            "254.62"
+        ]
+    },
+    "lead": {
+        "raw_text": "El número de parados registrados en las oficinas de los servicios públicos de empleo en la Comunidad Autónoma de Canarias subió en 5.837 personas durante el pasado año 2010 (+2,35%) y la cifra total de parados quedó establecida en 254.620 personas.",
+        "lemmatized_text": "el número de parado registrar en el oficina de el servicio público de empleo en el comunidad_autónoma_de_canarias subir en 5.837 persona durante el [??:??/??/2010:??.??:??] +2,35/100 y el cifra total de parado quedar establecer en 254.62 persona",
+        "lemmatized_text_reduced": "número parado registrar oficina servicio público empleo comunidad_autónoma_de_canarias subir persona cifra total parado quedar establecer persona",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/2010:??.??:??]"
+        ],
+        "numbers": [
+            "5.837",
+            "+2,35/100",
+            "254.62"
+        ]
+    },
+    "body": {
+        "raw_text": "El número de parados registrados en las oficinas de los servicios públicos de empleo en la Comunidad Autónoma de Canarias subió en 5.837 personas durante el pasado año 2010 (+2,35%) y la cifra total de parados quedó establecida en 254.620 personas. Este ascenso se produjo tras registrarse en el último mes del año un descenso del paro en 2.073 personas respecto al mes anterior (-0,81%), según datos ofrecidos este martes por el Ministerio de Trabajo e Inmigración. Por provincias, de los 2.073 parados menos en las islas durante diciembre, 784 fueron contratados en Las Palmas y 1.289 en Santa Cruz de Tenerife, mientras que la provincia oriental cerró el año con 2.425 parados más que diciembre de 2010 (137.880 personas) y la tinerfeña lo hizo con 3.412 más (116.740). (Habrá ampliación)",
+        "lemmatized_text": "el número de parado registrar en el oficina de el servicio público de empleo en el comunidad_autónoma_de_canarias subir en 5.837 persona durante el [??:??/??/2010:??.??:??] +2,35/100 y el cifra total de parado quedar establecer en 254.62 persona este ascenso se producir tras registrar se en el último mes de el año uno descenso de el paro en 2.073 persona respecto a el mes anterior -0,81/100 según dato ofrecer este [M:??/??/??:??.??:??] por el ministerio_de_trabajo y inmigración por provincia de el 2.073 parado menos en el isla durante [??:??/12/??:??.??:??] 784 ser contratar en las_palmas y 1.289 en santa_cruz_de_tenerife mientras_que el provincia oriental cerrar el año con 2.425 parado más que [??:??/12/2010:??.??:??] 137.88 persona y el tinerfeño lo hacer con 3.412 más 116.74 haber ampliación",
+        "lemmatized_text_reduced": "número parado registrar oficina servicio público empleo comunidad_autónoma_de_canarias subir persona cifra total parado quedar establecer persona ascenso producir registrar último mes año descenso paro persona respecto mes anterior dato ofrecer ministerio_de_trabajo inmigración provincia parado isla ser contratar las_palmas santa_cruz_de_tenerife provincia oriental cerrar año parado persona tinerfeño hacer haber ampliación",
+        "persons": [],
+        "locations": [
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Ministerio_de_Trabajo",
+            "Inmigración",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/2010:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/2010:??.??:??]"
+        ],
+        "numbers": [
+            "5.837",
+            "+2,35/100",
+            "254.62",
+            "2.073",
+            "-0,81/100",
+            "2.073",
+            "784",
+            "1.289",
+            "2.425",
+            "137.88",
+            "3.412",
+            "116.74"
+        ]
+    }
+}

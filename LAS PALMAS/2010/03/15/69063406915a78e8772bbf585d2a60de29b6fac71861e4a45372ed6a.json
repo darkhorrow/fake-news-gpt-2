@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/651822/0/",
+    "title": {
+        "raw_text": "Las Palmas de Gran Canaria celebra su Primer Mercado Agrícola \"con gran afluencia de público\"",
+        "lemmatized_text": "el palmas_de_gran_canaria celebrar su primer_mercado_agrícola con gran afluencia de público",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria celebrar primer_mercado_agrícola gran afluencia público",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Primer_Mercado_Agrícola"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria celebró ayer su Primer Mercado Agrícola, que contó con una superficie de más de 1.500 metros cuadrados, la colocación inicial de 30 puestos de venta directa, y una \"gran afluencia de público\", según informó hoy el Consistorio capitalino en un comunicado.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria celebrar ayer su primer_mercado_agrícola que contar con uno superficie de más de AR_m2:1.5 el colocación inicial de 30 puesto de venta directo y uno gran afluencia de público según informar hoy el consistorio capitalino en uno comunicado",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria celebrar primer_mercado_agrícola contar superficie colocación inicial puesto venta directo gran afluencia público informar consistorio capitalino comunicado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Consistorio"
+        ],
+        "others": [
+            "Primer_Mercado_Agrícola"
+        ],
+        "dates": [],
+        "numbers": [
+            "AR_m2:1.5",
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el alcalde, Jerónimo Saavedra, ha inaugurado este mercado, una nueva oferta que satisface una antigua demanda del sector agrícola y de la ciudadanía en la capital grancanaria y que crea un espacio donde se pueden vender los productos de la tierra sin intermediarios. Desde la concejalía del área, que dirige Margarita Torrent, se busca una mejor comercialización y promoción de los productos del municipio, apostando especialmente por los procedentes de ganaderos y agricultores que empleen sistemas de trabajo cada vez más sostenibles. Todos los domingos, de 09.00 a 15.00 horas, el mercado facilitará la venta directa de frutas y verduras, de queso, vino, miel, semillas y plantas aromáticas, ornamentales y agrícolas, procedentes del municipio. También se contará con algunos productos de otras zonas de la isla, como aceite de Temisas (Agüimes) o flores de Santa Lucía, pudiendo ampliarse progresivamente el número y tipo de puestos. Por su parte, varias pérgolas distribuidas en módulos alrededor de la plaza central serán utilizadas como elemento de sombra para cobijar tanto los puestos de venta como a los clientes, ocupando un área de unos 550 metros cuadrados de la superficie total. A esto hay que sumar un almacén y unos aseos públicos que ocupan unos 60 metros cuadrados de la superficie restante, sin olvidar los casi 1.000 metros cuadrados de zona ajardinada. Todo el recinto estará delimitado por un vallado metálico especial, inspirado en elementos naturales, buscando una mayor integración con el entorno.",
+        "lemmatized_text": "de este manera el alcalde jerónimo_saavedra haber inaugurar este mercado uno nuevo oferta que satisfacer uno antiguo demanda de el sector agrícola y de el ciudadanía en el capital grancanaria y que creer uno espacio donde se poder vender el producto de el tierra sin intermediario desde el concejalía de el área que dirigir margarita_torrent se buscar uno mejor comercialización y promoción de el producto de el municipio apostar especialmente por el procedente de ganadero y agricultor que emplear sistema de trabajo cada vez más sostenible todo el domingo de 9 a TM_h:15 el mercado facilitar el venta directo de fruto y verdura de queso vino miel semilla y planta aromático ornamental y agrícola procedente de el municipio también se contar con alguno producto de otro zona de el isla como aceite de temisas agüimes o flor de santa_lucía poder ampliar se progresivamente el número y tipo de puesto por su parte varios pérgola distribuir en módulo alrededor_de el plaza central ser utilizar como elemento de sombra para cobijar tanto el puesto de venta como a el cliente ocupar uno área de uno AR_m2:550 de el superficie total a este haber que sumar uno almacén y uno aseo público que ocupar uno AR_m2:60 de el superficie restante sin olvidar el casi AR_m2:1 de zona ajardinar todo el recinto estar delimitar por uno vallado metálico especial inspirar en elemento natural buscar uno mayor integración con el entorno",
+        "lemmatized_text_reduced": "manera alcalde jerónimo_saavedra haber inaugurar mercado nuevo oferta satisfacer antiguo demanda sector agrícola ciudadanía capital grancanaria creer espacio poder vender producto tierra intermediario concejalía área dirigir margarita_torrent buscar mejor comercialización promoción producto municipio apostar especialmente procedente ganadero agricultor emplear sistema trabajo vez sostenible domingo mercado facilitar venta directo fruto verdura queso vino miel semilla planta aromático ornamental agrícola procedente municipio contar producto zona isla aceite temisas agüimes flor santa_lucía poder ampliar progresivamente número tipo puesto parte pérgola distribuir módulo plaza central ser utilizar elemento sombra cobijar puesto venta cliente ocupar área superficie total haber sumar almacén aseo público ocupar superficie restante olvidar zona ajardinar recinto estar delimitar vallado metálico especial inspirar elemento natural buscar mayor integración entorno",
+        "persons": [
+            "Jerónimo_Saavedra",
+            "Margarita_Torrent"
+        ],
+        "locations": [
+            "Temisas",
+            "Agüimes"
+        ],
+        "organizations": [
+            "Santa_Lucía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9",
+            "TM_h:15",
+            "AR_m2:550",
+            "AR_m2:60",
+            "AR_m2:1"
+        ]
+    }
+}

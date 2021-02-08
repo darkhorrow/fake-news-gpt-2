@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/923016/0/",
+    "title": {
+        "raw_text": "El presidente canario lamenta la muerte de Tadeo, del que destacó su \"talante profesional\"",
+        "lemmatized_text": "el presidente canario lamentar el muerte de tadeo de el que destacar su talante profesional",
+        "lemmatized_text_reduced": "presidente canario lamentar muerte tadeo destacar talante profesional",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Tadeo"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha lamentado el fallecimiento del presidente de la Cámara de Comercio de Gran Canaria, Ángel Luis Tadeo, del que destacó su \"talante profesional y personal\".",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber lamentar el fallecimiento de el presidente de el cámara_de_comercio_de_gran_canaria ángel_luis_tadeo de el que destacar su talante profesional y personal",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber lamentar fallecimiento presidente cámara_de_comercio_de_gran_canaria ángel_luis_tadeo destacar talante profesional personal",
+        "persons": [
+            "Paulino_Rivero",
+            "Ángel_Luis_Tadeo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Cámara_de_Comercio_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha lamentado el fallecimiento del presidente de la Cámara de Comercio de Gran Canaria, Ángel Luis Tadeo, del que destacó su \"talante profesional y personal\". Asimismo, Rivero aseguró que con Tadeo \"siempre era posible buscar puntos de encuentro y tender puentes de diálogo, algo de lo que se ha podido beneficiar la sociedad canaria en su conjunto\". El líder del Ejecutivo canario señaló, en un comunicado, que el también propietario del Grupo Dunas, era un \"gran líder empresarial, responsable y ejemplar\". Agregó que con la muerte de Tadeo, Canarias \"se queda sin una de sus referencias indiscutibles en el mundo de la empresa y, en concreto, en el sector turístico\". Por su parte, el presidente y toda la corporación de la Cámara Oficial de Comercio, Industria y Navegación de Lanzarote también han manifestado \"su profundo pesar\" por la muerte de Ángel Luis Tadeo. Tanto Rivero como la Cámara de Comercio de Lanzarote han mostrado sus condolencias a sus familiares.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber lamentar el fallecimiento de el presidente de el cámara_de_comercio_de_gran_canaria ángel_luis_tadeo de el que destacar su talante profesional y personal asimismo rivero asegurar que con tadeo siempre ser posible buscar punto de encuentro y tender puente de diálogo algo de el que se haber poder beneficiar el sociedad canario en su conjunto el líder de el ejecutivo canario señalar en uno comunicado que el también propietario de el grupo_dunas ser uno gran líder empresarial responsable y ejemplar agregar que con el muerte de tadeo canarias se quedar sin uno de su referencia indiscutible en el mundo de el empresa y en concreto en el sector turístico por su parte el presidente y todo el corporación de el cámara_oficial_de_comercio industria y navegación_de_lanzarote también haber manifestar su profundo pesar por el muerte de ángel_luis_tadeo tanto rivero como el cámara_de_comercio_de_lanzarote haber mostrar su condolencia a su familiar",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber lamentar fallecimiento presidente cámara_de_comercio_de_gran_canaria ángel_luis_tadeo destacar talante profesional personal rivero asegurar tadeo ser posible buscar punto encuentro tender puente diálogo haber poder beneficiar sociedad canario conjunto líder ejecutivo canario señalar comunicado propietario grupo_dunas ser gran líder empresarial responsable ejemplar agregar muerte tadeo canarias quedar referencia indiscutible mundo empresa concreto sector turístico parte presidente corporación cámara_oficial_de_comercio industria navegación_de_lanzarote haber manifestar profundo pesar muerte ángel_luis_tadeo rivero cámara_de_comercio_de_lanzarote haber mostrar condolencia familiar",
+        "persons": [
+            "Paulino_Rivero",
+            "Ángel_Luis_Tadeo",
+            "Rivero",
+            "Tadeo",
+            "Rivero"
+        ],
+        "locations": [
+            "Tadeo",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Cámara_de_Comercio_de_Gran_Canaria",
+            "Ejecutivo",
+            "Grupo_Dunas",
+            "Cámara_Oficial_de_Comercio",
+            "Industria",
+            "Navegación_de_Lanzarote",
+            "Cámara_de_Comercio_de_Lanzarote"
+        ],
+        "others": [
+            "Ángel_Luis_Tadeo"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

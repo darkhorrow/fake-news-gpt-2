@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620430/0/",
+    "title": {
+        "raw_text": "Un total de 4 carreteras permanecen cortadas en Gran Canaria por los efectos del temporal",
+        "lemmatized_text": "uno total de 4 carretera permanecer cortar en gran_canaria por el efecto de el temporal",
+        "lemmatized_text_reduced": "total carretera permanecer cortar gran_canaria efecto temporal",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Consejería de Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes del Cabildo de Gran Canaria ha informado que un total de 4 carreteras --GC-60, la GC-605 y 606 y el tramo de la GC-210 desde el kilómetro 9,5 a La Aldea-- permanecen cerradas al tráfico por los efectos del temporal en la isla, informó hoy la Corporación en un comunicado.",
+        "lemmatized_text": "el consejería_de_desarrollo_económico obras_públicas y infraestructuras y transportes_del_cabildo_de_gran_canaria haber informar que uno total de 4 carretera GC-60 el GC-605 y 606 y el tramo de el GC-210 desde el kilómetro 9,5 a la_aldea permanecer cerrar a el tráfico por el efecto de el temporal en el isla informar hoy el corporación en uno comunicado",
+        "lemmatized_text_reduced": "consejería_de_desarrollo_económico obras_públicas infraestructuras transportes_del_cabildo_de_gran_canaria haber informar total carretera tramo kilómetro la_aldea permanecer cerrar tráfico efecto temporal isla informar corporación comunicado",
+        "persons": [],
+        "locations": [
+            "La_Aldea"
+        ],
+        "organizations": [
+            "Consejería_de_Desarrollo_Económico",
+            "Obras_Públicas",
+            "Transportes_del_Cabildo_de_Gran_Canaria",
+            "Corporación"
+        ],
+        "others": [
+            "Infraestructuras"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "GC-60",
+            "GC-605",
+            "606",
+            "GC-210",
+            "9,5"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, a pesar de que la mayor parte de las carreteras están abiertas y los servicios de mantenimiento de éstas están vigilantes, el mal tiempo ha incrementado la inseguridad de las vías por lo que se pide a quienes se tengan que utilizarlas la máxima precaución. La GC-60 es la vía que más se ha visto afectada por el temporal, de hecho ha quedado inutilizada al derrumbarse uno de los muros de contención y con ella la plataforma. El daño en la infraestructura fue detectado por los servicios se mantenimiento del Cabildo de Gran Canaria alrededor de las 05.00 horas de hoy. Asimismo, se ha estimado que el corte de esta vía se prolongará durante meses, puesto que primero hay que esperar a que el mal tiempo amaine, se seque la tierra y elaborar el proyecto de rehabilitación para el que se ha planteado el retranqueo de la vía hacia la montaña. Por otra parte, la GC-605 —presa de Las Niñas— y 606 —desde el Cruce del Aserrador hasta la Presa del Parralillo— en el municipio de La Aldea de San Nicolás, también han sido cerradas a la circulación por el alto riesgo de desprendimientos. Esto mismo ocurre en la GC-210 en el tramo entre el punto kilométrico 9,5 y La Aldea. Ésta y las anteriores serán abiertas una vez que pase el temporal. Finalmente, las carreteras de la zona Norte, Centro, Red Interior, Sur y de alta capacidad, no han sufrido mayores inconvenientes y están operativas.",
+        "lemmatized_text": "de este manera a_pesar_de que el mayor parte de el carretera estar abrir y el servicio de mantenimiento de este estar vigilante el mal tiempo haber incrementar el inseguridad de el vía por el que se pedir a quien se tener que utilizar lo el máximo precaución el GC-60 ser el vía que más se haber ver afectar por el temporal de hecho haber quedar inutilizar a el derrumbar se uno de el muro de contención y con él el plataforma el daño en el infraestructura ser detectar por el servicio se mantenimiento de el cabildo_de_gran_canaria alrededor_de el TM_h:5 de hoy asimismo se haber estimar que el corte de este vía se prolongar durante mes puesto que primero haber que esperar a que el mal tiempo amainar se secar el tierra y elaborar el proyecto de rehabilitación para el que se haber plantear el retranqueo de el vía hacia el montaña por otro parte el GC-605 presa de las_niñas y 606 desde el cruce_del_aserrador hasta el presa_del_parralillo en el municipio de la_aldea_de_san_nicolás también haber ser cerrar a el circulación por el alto riesgo de desprendimiento este mismo ocurrir en el GC-210 en el tramo entre el punto kilométrico 9,5 y la_aldea este y el anterior ser abrir una_vez_que pasar el temporal finalmente el carretera de el zona norte centro red_interior sur y de alto capacidad no haber sufrir mayor inconveniente y estar operativo",
+        "lemmatized_text_reduced": "manera mayor parte carretera estar abrir servicio mantenimiento estar vigilante mal tiempo haber incrementar inseguridad vía pedir tener utilizar máximo precaución ser vía haber ver afectar temporal hecho haber quedar inutilizar derrumbar muro contención plataforma daño infraestructura ser detectar servicio mantenimiento cabildo_de_gran_canaria haber estimar corte vía prolongar mes puesto haber esperar mal tiempo amainar secar tierra elaborar proyecto rehabilitación haber plantear retranqueo vía montaña parte presa las_niñas cruce_del_aserrador presa_del_parralillo municipio la_aldea_de_san_nicolás haber ser cerrar circulación alto riesgo desprendimiento ocurrir tramo punto kilométrico la_aldea anterior ser abrir pasar temporal finalmente carretera zona norte centro red_interior sur alto capacidad haber sufrir mayor inconveniente estar operativo",
+        "persons": [],
+        "locations": [
+            "Las_Niñas",
+            "Cruce_del_Aserrador",
+            "La_Aldea_de_San_Nicolás",
+            "La_Aldea",
+            "Norte",
+            "Centro",
+            "Red_Interior"
+        ],
+        "organizations": [
+            "Presa_del_Parralillo",
+            "Sur"
+        ],
+        "others": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-60",
+            "TM_h:5",
+            "GC-605",
+            "606",
+            "GC-210",
+            "9,5"
+        ]
+    }
+}

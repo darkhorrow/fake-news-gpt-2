@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/334087/0/inmigrantes/menores/laspalmas/",
+    "title": {
+        "raw_text": "Arriban dos embarcaciones con 84 inmigrantes a Gran Canaria y Lanzarote",
+        "lemmatized_text": "arribar 2 embarcación con 84 inmigrante a gran_canaria y lanzarote",
+        "lemmatized_text_reduced": "arribar embarcación inmigrante gran_canaria lanzarote",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "84"
+        ]
+    },
+    "lead": {
+        "raw_text": "Tres menores y cinco adultos fueron trasladados a centros sanitarios. 78 personas son de origen subsahariano y otros seis son marroquíes. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "3 menor y 5 adulto ser trasladar a centro sanitario 78 persona ser de origen subsahariano y otro 6 ser marroquí consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "menor adulto ser trasladar centro sanitario persona ser origen subsahariano ser marroquí consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "5",
+            "78",
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "Dos embarcaciones han arribado a Gran Canaria y Lanzarote con 84 inmigrantes a bordo, entre ellos tres menores y cinco adultos que fueron llevados a centros sanitarios para recibir atención médica, según informaron fuentes de los servicios de emergencias. La primera embarcación fue interceptada por la Guardia Civil en la madrugada del martes en el sur de Gran Canaria con 78 inmigrantes a bordo. Los ocupantes del cayuco, todos de origen subsahariano , fueron llevados hasta el muelle de Arguineguín, donde los esperaba una dotación sanitaria que los atendió y recomendó el traslado de cinco de ellos a un centro de salud. Entre estas 78 personas, tres declararon ser menores de edad, un extremo que será confirmado a través de una prueba ósea. Poco más tarde, en torno a la una de la madrugada, la embarcación de Salvamento Marítimo Salvamar Atlántico acudió al rescate de una patera con seis inmigrantes marroquíes a bordo que navegaba en aguas de Caleta de Fuste, en Lanzarote. Salvamento los llevó hasta el muelle de Puerto Naos, en Arrecife, donde se comprobó su buen estado. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "2 embarcación haber arribar a gran_canaria y lanzarote con 84 inmigrante a_bordo entre ellos 3 menor y 5 adulto que ser llevar a centro sanitario para recibir atención médico según informar fuente de el servicio de emergencia el 1 embarcación ser interceptar por el guardia_civil en el madrugada de el [M:??/??/??:??.??:??] en el sur de gran_canaria con 78 inmigrante a_bordo el ocupante de el cayuco todo de origen subsahariano ser llevar hasta el muelle de arguineguín donde lo esperar uno dotación sanitario que lo atender y recomendar el traslado de 5 de ellos a uno centro de salud entre este 78 persona 3 declarar ser menor de edad uno extremo que ser confirmar a_través_de uno prueba óseo poco más tarde en_torno_a el uno de el madrugada el embarcación de salvamento_marítimo_salvamar_atlántico acudir a el rescate de uno patera con 6 inmigrante marroquí a_bordo que navegar en agua de caleta_de_fuste en lanzarote salvamento lo llevar hasta el muelle de puerto_naos en arrecife donde se comprobar su bueno estado consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "embarcación haber arribar gran_canaria lanzarote inmigrante menor adulto ser llevar centro sanitario recibir atención médico informar fuente servicio emergencia 1 embarcación ser interceptar guardia_civil madrugada sur gran_canaria inmigrante ocupante cayuco origen subsahariano ser llevar muelle arguineguín esperar dotación sanitario atender recomendar traslado centro salud persona declarar ser menor edad extremo ser confirmar prueba óseo madrugada embarcación salvamento_marítimo_salvamar_atlántico acudir rescate patera inmigrante marroquí navegar agua caleta_de_fuste lanzarote salvamento llevar muelle puerto_naos arrecife comprobar bueno estado consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Gran_Canaria",
+            "Arguineguín",
+            "Caleta_de_Fuste",
+            "Lanzarote",
+            "Puerto_Naos",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Salvamento_Marítimo_Salvamar_Atlántico"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "84",
+            "3",
+            "5",
+            "78",
+            "5",
+            "78",
+            "3",
+            "6"
+        ]
+    }
+}

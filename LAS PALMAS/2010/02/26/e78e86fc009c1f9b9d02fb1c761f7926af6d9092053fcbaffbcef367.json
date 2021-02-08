@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/638752/0/",
+    "title": {
+        "raw_text": "Canarias promoverá la participación de empresas de las islas en la Feria de Importación y Exportación de China",
+        "lemmatized_text": "canario promover el participación de empresa de el isla en el feria_de_importación y exportación_de_china",
+        "lemmatized_text_reduced": "canario promover participación empresa isla feria_de_importación exportación_de_china",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Feria_de_Importación",
+            "Exportación_de_China"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Sociedad Canaria de Fomento Económico (Proexca), en colaboración con la Cámara de Comercio de Santa Cruz de Tenerife y la Cámara de Comercio de Las Palmas, organizará y promoverá la participación de las empresas canarias en la 107ª edición de la Feria de Importación y Exportación de China, que se celebrará del 15 al 20 de abril en Cantón, según informó hoy el Ejecutivo regional en un comunicado.",
+        "lemmatized_text": "el sociedad_canaria_de_fomento_económico proexca en colaboración con el cámara_de_comercio_de_santa_cruz_de_tenerife y el cámara_de_comercio_de_las_palmas organizar y promover el participación de el empresa canario en el 107ª edición de el feria_de_importación y exportación_de_china que se celebrar de el 15 a el [??:20/4/??:??.??:??] en cantón según informar hoy el ejecutivo regional en uno comunicado",
+        "lemmatized_text_reduced": "sociedad_canaria_de_fomento_económico proexca colaboración cámara_de_comercio_de_santa_cruz_de_tenerife cámara_de_comercio_de_las_palmas organizar promover participación empresa canario edición feria_de_importación exportación_de_china celebrar cantón informar ejecutivo regional comunicado",
+        "persons": [],
+        "locations": [
+            "Cantón"
+        ],
+        "organizations": [
+            "Sociedad_Canaria_de_Fomento_Económico",
+            "Proexca",
+            "Cámara_de_Comercio_de_Santa_Cruz_de_Tenerife",
+            "Cámara_de_Comercio_de_Las_Palmas",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Feria_de_Importación",
+            "Exportación_de_China"
+        ],
+        "dates": [
+            "[??:20/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "107ª",
+            "15"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el encuentro, también conocido como Feria Internacional de Cantón, celebra cada año dos sesiones que suelen realizarse en abril y octubre. Se trata del mayor encuentro comercial, considerado como el de más alto nivel y de mejor resultado de operaciones en Asia. Las últimas ediciones han contado con una asistencia media de 200.000 visitantes provenientes de 210 países. Además, en 2008, la cifra de negocio generada superó los 75.000 millones de dólares. Por su parte, la inscripción tiene un coste de 2.500 euros, incluyendo el billete de avión, el visado de doble entrada, la estancia y desayuno, los traslados diarios a la Feria y el acceso permanente al recinto, el seguro de viaje y una visita a Hong Kong, que tiene por objeto proporcionar a los participantes una visión más amplia del nivel de desarrollo económico de China.",
+        "lemmatized_text": "de este manera el encuentro también conocer como feria_internacional_de_cantón celebrar cada [??:??/??/2:??.??:??] sesión que soler realizar se en [??:??/4/??:??.??:??] y [??:??/10/??:??.??:??] se tratar de el mayor encuentro comercial considerar como el de más alto nivel y de mejor resultado de operación en asia el último edición haber contar con uno asistencia medio de 200 visitante proveniente de 210 país además en 2008 el cifra de negocio generar superar el $_USD:75000000 por su parte el inscripción tener uno coste de $_ECU:2.5 incluir el billete de avión el visado de doble entrada el estancia y desayuno el traslado diario a el feria y el acceso permanente a el recinto el seguro de viaje y uno visita a hong_kong que tener por objeto proporcionar a el participante uno visión más amplio de el nivel de desarrollo económico de china",
+        "lemmatized_text_reduced": "manera encuentro conocer feria_internacional_de_cantón celebrar sesión soler realizar tratar mayor encuentro comercial considerar alto nivel mejor resultado operación asia último edición haber contar asistencia medio visitante proveniente país cifra negocio generar superar parte inscripción tener coste incluir billete avión visado doble entrada estancia desayuno traslado diario feria acceso permanente recinto seguro viaje visita hong_kong tener objeto proporcionar participante visión amplio nivel desarrollo económico china",
+        "persons": [],
+        "locations": [
+            "Asia",
+            "Hong_Kong",
+            "China"
+        ],
+        "organizations": [],
+        "others": [
+            "Feria_Internacional_de_Cantón",
+            "Feria"
+        ],
+        "dates": [
+            "[??:??/??/2:??.??:??]",
+            "[??:??/4/??:??.??:??]",
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "200",
+            "210",
+            "2008",
+            "$_USD:75000000",
+            "$_ECU:2.5"
+        ]
+    }
+}

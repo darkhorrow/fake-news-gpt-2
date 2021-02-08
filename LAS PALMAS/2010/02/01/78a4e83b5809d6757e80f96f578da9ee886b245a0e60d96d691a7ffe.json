@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619185/0/",
+    "title": {
+        "raw_text": "La Aemet extiende hasta mañana la alerta amarilla y naranja por fuertes lluvias en Canarias",
+        "lemmatized_text": "el aemet extender hasta mañana el alerta amarillo y naranja por fuerte lluvia en canarias",
+        "lemmatized_text_reduced": "aemet extender alerta amarillo naranja fuerte lluvia canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha extendido hasta mañana la alerta amarilla por fuertes lluvias en el archipiélago canario, que será naranja en todas las islas de la provincia de Santa Cruz de Tenerife y en Gran Canaria donde se esperan importantes precipitaciones.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber extender hasta mañana el alerta amarillo por fuerte lluvia en el archipiélago canario que ser naranja en todo el isla de el provincia de santa_cruz_de_tenerife y en gran_canaria donde se esperar importante precipitación",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber extender alerta amarillo fuerte lluvia archipiélago canario ser naranja isla provincia santa_cruz_de_tenerife gran_canaria esperar importante precipitación",
+        "persons": [],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Según la Aemet, para la jornada de hoy y a primeras horas de mañana se esperan recoger hasta 120 litros de agua por metro cuadrado en doce horas en las isla de El Hierro, en Gran Canaria, La Gomera, La Palma y Tenerife donde se prevé que la alerta finalice a las 06.00 horas. Por su parte, Fuerteventura y Lanzarote experimentarán fuertes lluvias que podrían acumular hasta 60 litros por metro cuadrado en doce horas. Asimismo, estas dos islas están en alerta amarilla por fuertes rachas de viento que podrían alcanzar los 70 kilómetros por hora. El final de este aviso por meteorología adversa finalizará previsiblemente mañana a las 18.00 horas. En cuanto al viento, en la Comunidad Autónoma de Canarias soplará del suroeste moderado a fuerte, con rachas de muy fuerte en las medianías y zonas altas de las siete islas",
+        "lemmatized_text": "según el aemet para el jornada de hoy y a 1 hora de mañana se esperar recoger hasta VL_l:120 de agua por metro cuadrado en TM_h:12 en el isla de el_hierro en gran_canaria la_gomera la_palma y tenerife donde se prever que el alerta finalizar a el TM_h:6 por su parte fuerteventura y lanzarote experimentar fuerte lluvia que poder acumular hasta CB_l/m2:60 en TM_h:12 asimismo este 2 isla estar en alerta amarillo por fuerte racha de viento que poder alcanzar el SP_km/h:70 el final de este aviso por meteorología adverso finalizar previsiblemente mañana a el TM_h:18 en cuanto a el viento en el comunidad_autónoma_de_canarias soplar de el suroeste moderar a fuerte con racha de muy fuerte en el medianía y zona alto de el 7 isla",
+        "lemmatized_text_reduced": "aemet jornada 1 hora mañana esperar recoger agua metro cuadrado isla el_hierro gran_canaria la_gomera la_palma tenerife prever alerta finalizar parte fuerteventura lanzarote experimentar fuerte lluvia poder acumular isla estar alerta amarillo fuerte racha viento poder alcanzar final aviso meteorología adverso finalizar previsiblemente viento comunidad_autónoma_de_canarias soplar suroeste moderar fuerte racha fuerte medianía zona alto isla",
+        "persons": [],
+        "locations": [
+            "El_Hierro",
+            "Gran_Canaria",
+            "La_Gomera",
+            "La_Palma",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Aemet",
+            "Tenerife",
+            "Fuerteventura",
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "VL_l:120",
+            "TM_h:12",
+            "TM_h:6",
+            "CB_l/m2:60",
+            "TM_h:12",
+            "2",
+            "SP_km/h:70",
+            "TM_h:18",
+            "7"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678777/0/",
+    "title": {
+        "raw_text": "Gobierno canario dice que la finalidad de los 3,5 millones que destina a las productoras lo decidirá RTVC",
+        "lemmatized_text": "gobierno canario decir que el finalidad de el 3,5 millón que destinar a el productor lo decidir rtvc",
+        "lemmatized_text_reduced": "gobierno canario decir finalidad millón destinar productor decidir rtvc",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "RTVC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3,5"
+        ]
+    },
+    "lead": {
+        "raw_text": "El portavoz del Gobierno de Canarias, Martín Marrero, ha señalado hoy que la finalidad de los 3,5 millones de euros que se han destinado a las productoras lo decidirá el ente público de la Radio Televisión Canaria (RTVC).",
+        "lemmatized_text": "el portavoz de el gobierno_de_canarias martín_marrero haber señalar hoy que el finalidad de el 3,5 millón de euro que se haber destinar a el productor lo decidir el ente público de el radio_televisión_canaria rtvc",
+        "lemmatized_text_reduced": "portavoz gobierno_de_canarias martín_marrero haber señalar finalidad millón euro haber destinar productor decidir ente público radio_televisión_canaria rtvc",
+        "persons": [
+            "Martín_Marrero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Radio_Televisión_Canaria",
+            "RTVC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3,5"
+        ]
+    },
+    "body": {
+        "raw_text": "Marrero explicó, en rueda de prensa, que esos más de 3 millones de euros \"están en el presupuesto de la Agencia Canaria de Investigación, Innovación y Sociedad de la Información (ACIISI), son los que figuran en el acuerdo de gobierno, por el cual se autorizó el traspaso de la transferencia de los 3,5 millones de euros desde la Agencia a la Televisión pública Canaria, que no son otros que los del fomento del sector audiovisual y que además responden al cumplimiento de un acuerdo unánime del Parlamento sobre el sector audiovisual como sector estratégico\". Por ello, agregó que los criterios generales \"son los que ahora el ente público como instrumento administrativo gestionará la concesión\" de los 3,5 millones de euros, el que \"concretará la finalidad de esta cuantía\".",
+        "lemmatized_text": "marrero explicar en rueda de prensa que ese más de $_ECU:3000000 estar en el presupuesto de el agencia_canaria_de_investigación innovación y sociedad_de_la_información aciisi ser el que figurar en el acuerdo de gobierno por el cual se autorizar el traspaso de el transferencia de el 3,5 millón de euro desde el agencia a el televisión público canaria que no ser otro que el de el fomento de el sector audiovisual y que además responder a el cumplimiento de uno acuerdo unánime de el parlamento sobre el sector audiovisual como sector estratégico por ello agregar que el criterio general ser el que ahora el ente público como instrumento administrativo gestionar el concesión de el 3,5 millón de euro el que concretar el finalidad de este cuantía",
+        "lemmatized_text_reduced": "marrero explicar rueda prensa estar presupuesto agencia_canaria_de_investigación innovación sociedad_de_la_información aciisi ser figurar acuerdo gobierno autorizar traspaso transferencia millón euro agencia televisión público canaria ser fomento sector audiovisual responder cumplimiento acuerdo unánime parlamento sector audiovisual sector estratégico agregar criterio general ser ente público instrumento administrativo gestionar concesión millón euro concretar finalidad cuantía",
+        "persons": [
+            "Marrero",
+            "Innovación"
+        ],
+        "locations": [],
+        "organizations": [
+            "Agencia_Canaria_de_Investigación",
+            "Sociedad_de_la_Información",
+            "ACIISI",
+            "Agencia",
+            "Televisión",
+            "Canaria",
+            "Parlamento"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:3000000",
+            "3,5",
+            "3,5"
+        ]
+    }
+}

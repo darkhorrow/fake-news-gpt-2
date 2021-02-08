@@ -1,0 +1,99 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714240/0/",
+    "title": {
+        "raw_text": "El lunes se cierra al tráfico el carril de incorporación a la carretera en sentido Pagador-Guía (Gran Canaria)",
+        "lemmatized_text": "el [L:??/??/??:??.??:??] se cerrar a el tráfico el carril de incorporación a el carretera en sentido pagador-guía gran_canaria",
+        "lemmatized_text_reduced": "cerrar tráfico carril incorporación carretera sentido pagador-guía gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [
+            "Pagador-Guía"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las obras de duplicación del tramo de la carretera GC-2 comprendido entre Santa María de Guía y El Pagador, al norte de Gran Canaria, obligan a que a partir del próximo lunes se cierre al tráfico el carril de incorporación a la GC- 2 con sentido El Pagador - Guía situado en el enlace del Pagador.",
+        "lemmatized_text": "el obra de duplicación de el tramo de el carretera GC-2 comprender entre santa_maría_de_guía y el_pagador a el norte de gran_canaria obligar a que a partir de el [L:??/??/??:??.??:??] se cerrar a el tráfico el carril de incorporación a el gc 2 con sentido el_pagador guía situar en el enlace de el pagador",
+        "lemmatized_text_reduced": "obra duplicación tramo carretera comprender santa_maría_de_guía el_pagador norte gran_canaria obligar partir cerrar tráfico carril incorporación gc sentido el_pagador guía situar enlace pagador",
+        "persons": [],
+        "locations": [
+            "El_Pagador",
+            "Gran_Canaria",
+            "El_Pagador",
+            "Pagador"
+        ],
+        "organizations": [
+            "Santa_María_de_Guía",
+            "GC"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-2",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La supresión del tráfico en dicho carril, situación que se mantendrá por espacio de varios meses, es imprescindible para realizar la glorieta prevista en el proyecto por el lado mar, informa el Ejecutivo regional en un comunicado. Mientras se mantenga el cierre del ramal, los vehículos que se dirijan a Guía procedentes de Moya por la carretera GC-75, San Felipe, por la GC-751, así como los que provengan de El Roque y El Altillo, deberán tomar el tronco de la GC-2 con sentido Guía - Las Palmas de Gran Canaria hasta llegar a la glorieta de San Andrés, donde podrán hacer el cambio de sentido para dirigirse hacia Guía por la GC-2. Nuevo desvío por el hormiguero Por otra parte, la Consejería de Obras Públicas y Transportes del Gobierno de Canarias desviará de nuevo el martes y el jueves de la próxima semana (días 25 y 27 de mayo, respectivamente), el tráfico de la carretera GC-2 en sentido Santa María de Guía - Las Palmas de Gran Canaria, por la carretera del Hormiguero. Este desvío, que viene motivado también por las obras de Duplicación del tramo Guía-Pagador, se efectuará entre las 09.00 y las 16.00 horas a la altura de Llano Alegre, pudiendo incorporarse de nuevo los vehículos a la GC-2 en la intersección del Hormiguero. El tráfico con sentido Las Palmas de Gran Canaria-Guía continuará por el tronco de la GC-2, aunque por un sólo carril, ya que será necesario ocupar el otro para ejecutar con seguridad los trabajos de hormigonado del tablero del nuevo viaducto de Silva. La Consejería de Obras Públicas lamenta las molestias que estas modificaciones en el tráfico puedan ocasionar a los usuarios de la vía, pero aclara que \"son imprescindibles para poder ejecutar el proyecto de duplicación\".",
+        "lemmatized_text": "el supresión de el tráfico en decir carril situación que se mantener por espacio de varios mes ser imprescindible para realizar el glorieta prever en el proyecto por el lado mar informar el ejecutivo regional en uno comunicado mientras se mantener el cierre de el ramal el vehículo que se dirigir a guía procedente de moya por el carretera GC-75 san_felipe por el GC-751 así_como el que provenir de el_roque y el_altillo deber tomar el tronco de el GC-2 con sentido guía el palmas_de_gran_canaria hasta llegar a el glorieta de san_andrés donde poder hacer el cambio de sentido para dirigir se hacia guía por el GC-2 nuevo desvío por el hormiguero por otro parte el consejería_de_obras_públicas y transportes_del_gobierno_de_canarias desviar de nuevo el [M:??/??/??:??.??:??] y el [J:??/??/??:??.??:??] de el próximo semana día 25 y [??:27/5/??:??.??:??] respectivamente el tráfico de el carretera GC-2 en sentido santa_maría_de_guía el palmas_de_gran_canaria por el carretera de el hormiguero este desvío que venir motivar también por el obra de duplicación de el tramo guía-pagador se efectuar entre el 9 y el TM_h:16 a el altura de llano_alegre poder incorporar se de nuevo el vehículo a el GC-2 en el intersección de el hormiguero el tráfico con sentido las_palmas_de_gran_canaria-guía continuar por el tronco de el GC-2 aunque por uno sólo carril ya_que ser necesario ocupar el otro para ejecutar con seguridad el trabajo de hormigonado de el tablero de el nuevo viaducto de silva el consejería_de_obras_públicas lamentar el molestia que este modificación en el tráfico poder ocasionar a el usuario de el vía pero aclarar que ser imprescindible para poder ejecutar el proyecto de duplicación",
+        "lemmatized_text_reduced": "supresión tráfico decir carril situación mantener espacio mes ser imprescindible realizar glorieta prever proyecto lado mar informar ejecutivo regional comunicado mantener cierre ramal vehículo dirigir guía procedente moya carretera san_felipe provenir el_roque el_altillo deber tomar tronco sentido guía palmas_de_gran_canaria llegar glorieta san_andrés poder hacer cambio sentido dirigir guía nuevo desvío hormiguero por parte consejería_de_obras_públicas transportes_del_gobierno_de_canarias desviar nuevo próximo semana día respectivamente tráfico carretera sentido santa_maría_de_guía palmas_de_gran_canaria carretera hormiguero desvío venir motivar obra duplicación tramo guía-pagador efectuar altura llano_alegre poder incorporar nuevo vehículo intersección hormiguero tráfico sentido las_palmas_de_gran_canaria-guía continuar tronco carril ser necesario ocupar ejecutar seguridad trabajo hormigonado tablero nuevo viaducto silva consejería_de_obras_públicas lamentar molestia modificación tráfico poder ocasionar usuario vía aclarar ser imprescindible poder ejecutar proyecto duplicación",
+        "persons": [
+            "Guía",
+            "Moya"
+        ],
+        "locations": [
+            "San_Felipe",
+            "El_Roque",
+            "El_Altillo",
+            "Guía",
+            "San_Andrés",
+            "Santa_María_de_Guía",
+            "Palmas_de_Gran_Canaria",
+            "Hormiguero",
+            "Llano_Alegre",
+            "Silva"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Palmas_de_Gran_Canaria",
+            "Guía",
+            "Por",
+            "Consejería_de_Obras_Públicas",
+            "Transportes_del_Gobierno_de_Canarias",
+            "Las_Palmas_de_Gran_Canaria-Guía",
+            "Consejería_de_Obras_Públicas"
+        ],
+        "others": [
+            "Duplicación",
+            "Guía-Pagador",
+            "Hormiguero"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:27/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-75",
+            "GC-751",
+            "GC-2",
+            "GC-2",
+            "25",
+            "GC-2",
+            "9",
+            "TM_h:16",
+            "GC-2",
+            "GC-2"
+        ]
+    }
+}

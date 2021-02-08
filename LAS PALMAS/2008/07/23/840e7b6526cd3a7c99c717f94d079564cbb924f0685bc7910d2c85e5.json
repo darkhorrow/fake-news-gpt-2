@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/401355/0/muere/coche/barranco/",
+    "title": {
+        "raw_text": "Muere un hombre tras precipitarse un vehículo por un barranco en Gran Canaria",
+        "lemmatized_text": "morir uno hombre tras precipitar se uno vehículo por uno barranco en gran_canaria",
+        "lemmatized_text_reduced": "morir hombre precipitar vehículo barranco gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de emergencias sólo pudieron certificar su muerte. El suceso se produjo en la GC-1 entre San Bartolomé de Tirajana y Mogán. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el servicio de emergencia sólo poder certificar su muerte el suceso se producir en el GC-1 entre san_bartolomé_de_tirajana y mogán consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "servicio emergencia poder certificar muerte suceso producir san_bartolomé_de_tirajana mogán consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Mogán"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-1"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre falleció hoy en un accidente de tráfico en Gran Canaria, en la carretera GC-1 entre los municipios de San Bartolomé de Tirajana y Mogán , después de salirse de la vía en la que circulaba y caer por un barranco en San Bartolomé, según datos del Centro coordinador de emergencias y seguridad canario (Cecoes) 112. El varón, cuya edad se desconoce, tuvo el accidente a la altura del punto kilométrico 53 de la citada vía. Al lugar de los hechos acudió una ambulancia de soporte vital básico y una ambulancia de soporte vital avanzado, cuyo personal médico comprobó que el afectado se encontraba en parada cardiorrespiratoria . Le practicó maniobras de reanimación cardiopulmonar avanzada que no dieron resultado y confirmó su fallecimiento. Hasta el lugar de los hechos también acudieron bomberos del Consorcio de Emergencias de Gran Canaria , efectivos de la Guardia Civil y la Policía Local. Los bomberos del Consorcio de Emergencias de Gran Canaria facilitaron el acceso del personal sanitario hasta el lugar en el que se encontraba el accidentado.",
+        "lemmatized_text": "uno hombre fallecer hoy en uno accidente de tráfico en gran_canaria en el carretera GC-1 entre el municipio de san_bartolomé_de_tirajana y mogán después_de salir se de el vía en el que circular y caer por uno barranco en san_bartolomé según dato de el centro coordinador de emergencia y seguridad canario cecoes 112 el varón cuyo edad se desconocer tener el accidente a el altura de el punto kilométrico 53 de el citar vía a el lugar de el hecho acudir uno ambulancia de soporte vital básico y uno ambulancia de soporte vital avanzar cuyo personal médico comprobar que el afectar se encontrar en parada cardiorrespiratoria le practicar maniobra de reanimación cardiopulmonar avanzar que no dar resultado y confirmar su fallecimiento hasta el lugar de el hecho también acudir bombero de el consorcio_de_emergencias_de_gran_canaria efectivo de el guardia_civil y el policía_local el bombero de el consorcio_de_emergencias_de_gran_canaria facilitar el acceso de el personal sanitario hasta el lugar en el que se encontrar el accidentado",
+        "lemmatized_text_reduced": "hombre fallecer accidente tráfico gran_canaria carretera municipio san_bartolomé_de_tirajana mogán salir vía circular caer barranco san_bartolomé dato centro coordinador emergencia seguridad canario cecoes varón edad desconocer tener accidente altura punto kilométrico citar vía lugar hecho acudir ambulancia soporte vital básico ambulancia soporte vital avanzar personal médico comprobar afectar encontrar parada cardiorrespiratoria practicar maniobra reanimación cardiopulmonar avanzar dar resultado confirmar fallecimiento lugar hecho acudir bombero consorcio_de_emergencias_de_gran_canaria efectivo guardia_civil policía_local bombero consorcio_de_emergencias_de_gran_canaria facilitar acceso personal sanitario lugar encontrar accidentado",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "San_Bartolomé_de_Tirajana",
+            "Mogán",
+            "San_Bartolomé"
+        ],
+        "organizations": [
+            "Centro",
+            "Cecoes",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Consorcio_de_Emergencias_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-1",
+            "112",
+            "53"
+        ]
+    }
+}

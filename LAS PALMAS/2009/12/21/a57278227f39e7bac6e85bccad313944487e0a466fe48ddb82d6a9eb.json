@@ -1,0 +1,126 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593214/0/",
+    "title": {
+        "raw_text": "El presupuesto de 2010 de Las Palmas de Gran Canaria genera un impacto sobre el PIB local superior a 165 millones",
+        "lemmatized_text": "el presupuesto de 2010 de las_palmas_de_gran_canaria generar uno impacto sobre el pib local superior a 165000000",
+        "lemmatized_text_reduced": "presupuesto las_palmas_de_gran_canaria generar impacto pib local superior",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [
+            "PIB"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "165000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presupuesto de 2010 de Las Palmas de Gran Canaria genera un impacto sobre el PIB local superior a 165 millones de euros, según informó hoy el Ayuntamiento capitalino.",
+        "lemmatized_text": "el presupuesto de 2010 de las_palmas_de_gran_canaria generar uno impacto sobre el pib local superior a $_ECU:165000000 según informar hoy el ayuntamiento capitalino",
+        "lemmatized_text_reduced": "presupuesto las_palmas_de_gran_canaria generar impacto pib local superior informar ayuntamiento capitalino",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [
+            "PIB"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "$_ECU:165000000"
+        ]
+    },
+    "body": {
+        "raw_text": "La institución local señala que \"el efecto multiplicador que tiene en la economía de Las Palmas de Gran Canaria el empleo directo que promueve el Ayuntamiento es determinante, sobre todo en la actual situación de crisis\". Así, el Consistorio indica que la suma de los trabajadores municipales y los de las empresas con los principales contratos permanentes con el Ayuntamiento genera un impacto sobre el PIB local superior a 165 millones de euros. El Presupuesto municipal para el ejercicio 2010, que fue aprobado en Junta de Gobierno el pasado 17 de diciembre y que pasará a Pleno el día 30 de diciembre, contiene 125 millones euros en su Capítulo I (Personal) más otros 40 millones de euros en contratos directos con empresas que realizan servicios permanentes para el ayuntamiento (limpieza, playas, vías y obras). \"corte keynesiano\" El Ayuntamiento admite que uno de cada cuatro parados de Canarias es vecino de la capital grancanaria. Ante esta situación, el Ayuntamiento de Las Palmas de Gran Canaria adopta, en su Presupuesto de 2010, una política económica de \"corte keynesiano\" que apuesta por la inversión (se garantiza con fondos propios) y el consumo (mediante el mantenimiento de los puestos de trabajo y los contratos con empresas). Por esta razón (y otras determinadas por la cohesión social y la solidaridad), el Presupuesto 2010 garantiza y potencia el empleo. A esto hay que añadir los mil nuevos empleos que prevé generar el Instituto Municipal para el Empleo y la Formación (Imef) en 2010 mediante talleres de seis meses. La actualización tributaria prevista para 2010 cumple su objetivo de mantener el nivel dinamizador de la económica, el empleo y la cohesión social y garantiza la prestación de los servicios públicos. Si no se hubiese compensado la caída de ingresos por el REF y los tributos del Estado, los ingresos medios por habitante habrían sido de 748 euros, lo que supondrían 82 euros menos que la media citada. El valor más bajo de los últimos cinco años. Sin actualización tributaria, habría que retroceder la provisión de servicios e inversiones municipales a niveles equiparables al año 2004, añade el Ayuntamiento. \"Una situación que sería irreal, ya que hoy tenemos obligaciones (pago de préstamos pasados, sentencias heredadas y facturas impagadas pendientes), necesidades (sociales, urbanas, barrios y empleo) y demandas (empleo, económicas y posibles nuevas sentencias urbanísticas) muy superiores\", argumenta, al tiempo que alude a \"necesidades, obligaciones y demandas propias del año 2010, para cuya satisfacción es imprescindible contar con un Presupuesto responsable acorde con esta realidad\".6.500 Puestos de trabajo directos El empleo directo que genera este Ayuntamiento de Las Palmas de Gran Canaria es superior a 6.500 puestos de trabajo (6.472 sólo los principales contratos y empleados públicos), con un impacto económico sobre el PIB local superior a 165 millones de euros. Buena parte del empleo municipal, dadas las características de muchos de sus servicios, es intensivo en mano de obra de baja cualificación. Dada esta realidad socioeconómica, el despido de personal por valor de 23 millones de euros (descenso de la recaudación del Ayuntamiento vía REF y tributos del Estado) tendría un altísimo coste social, económico y laboral, ya que muchas de estas personas tienen una capacidad de inserción laboral limitada. Esta política responsable sólo ha sido posible mediante la reforma tributaria. Los 21,6 millones de euros extra previstos recaudar en 2010 compensa (casi) los 23 millones menos atribuibles al REF y a los tributos del Estado. Gracias a este reequilibrio mediante la reforma tributaria se han conseguido mantener los servicios municipales y con ello el nivel de consumo y empleo indirecto (cesta de la compra, restauración, comercio, educación, venta de periódicos) en la economía local. El Ayuntamiento, con un Presupuesto consolidado para 2010 de 365 millones de euros mantiene un empleo de 4.402 personas (Ayuntamiento, organismos autónomos y empresas públicas). Las cinco mayores empresas por facturación de Canarias (3.200 millones de euros) emplean a 834 trabajadores. Sin entrar en valoraciones más profundas, se visualiza el alto impacto socioeconómico del Presupuesto municipal.",
+        "lemmatized_text": "el institución local señalar que el efecto multiplicador que tener en el economía de las_palmas_de_gran_canaria el empleo directo que promover el ayuntamiento ser determinante sobre todo en el actual situación de crisis así el consistorio indicar que el suma de el trabajador municipal y el de el empresa con el principal contrato permanente con el ayuntamiento generar uno impacto sobre el pib local superior a $_ECU:165000000 el presupuesto municipal para el ejercicio 2010 que ser aprobar en junta_de_gobierno el [??:17/12/??:??.??:??] y que pasar a pleno el [??:30/12/??:??.??:??] contener $_ECU:125000000 en su capítulo_i personal más otro $_ECU:40000000 en contrato directo con empresa que realizar servicio permanente para el ayuntamiento limpieza playa vía y obra corte keynesiano el ayuntamiento admitir que uno de cada 4 parado de canarias ser vecino de el capital grancanaria ante este situación el ayuntamiento_de_las_palmas_de_gran_canaria adoptar en su presupuesto de 2010 uno política económico de corte keynesiano que apostar por el inversión se garantizar con fondo propio y el consumo mediante el mantenimiento de el puesto de trabajo y el contrato con empresa por este razón y otro determinar por el cohesión social y el solidaridad el presupuesto 2010 garantizar y potencia el empleo a este haber que añadir el 1000 nuevo empleo que prever generar el instituto_municipal_para_el_empleo y el formación imef en 2010 mediante taller de 6 mes el actualización tributario prever para 2010 cumplir su objetivo de mantener el nivel dinamizador de el económico el empleo y el cohesión social y garantizar el prestación de el servicio público si no se haber compensar el caída de ingreso por el ref y el tributo de el estado el ingreso medio por habitante haber ser de $_ECU:748 el que suponer $_ECU:82 menos que el media citar el valor más bajo de el último 5 año sin actualización tributario haber que retroceder el provisión de servicio y inversión municipal a nivel equiparable a el [??:??/??/2004:??.??:??] añadir el ayuntamiento uno situación que ser irreal ya_que hoy tener obligación pago de préstamo pasar sentencia heredar y factura impagado pendiente necesidad social urbano barrio y empleo y demanda empleo económico y posible nuevo sentencia urbanístico muy superior argumentar al_tiempo_que aludir a necesidad obligación y demanda propio de el [??:??/??/2010:??.??:??] para cuyo satisfacción ser imprescindible contar con uno presupuesto responsable acorde con este realidad .6.500 puestos de trabajo directo el empleo directo que generar este ayuntamiento_de_las_palmas_de_gran_canaria ser superior a 6.5 puesto de trabajo 6.472 sólo el principal contrato y empleado público con uno impacto económico sobre el pib local superior a $_ECU:165000000 bueno parte de el empleo municipal dar el característica de mucho de su servicio ser intensivo en mano de obra de bajo cualificación dar este realidad socioeconómico el despido de personal por valor de $_ECU:23000000 descenso de el recaudación de el ayuntamiento vía ref y tributo de el estado tener uno alto coste social económico y laboral ya_que mucho de este persona tener uno capacidad de inserción laboral limitar este política responsable sólo haber ser posible mediante el reforma tributario el 21,6 millón de euro extra prever recaudar en 2010 compensar casi el 23000000 menos atribuible a el ref y a el tributo de el estado gracias_a este reequilibrio mediante el reforma tributario se haber conseguir mantener el servicio municipal y con ello el nivel de consumo y empleo indirecto cesta de el compra restauración comercio educación venta de periódico en el economía local el ayuntamiento con uno presupuesto consolidar para 2010 de $_ECU:365000000 mantener uno empleo de 4.402 persona ayuntamiento organismo autónomo y empresa público el 5 mayor empresa por facturación de canarias $_ECU:3200000 emplear a 834 trabajador sin entrar en valoración más profundo se visualizar el alto impacto socioeconómico de el presupuesto municipal",
+        "lemmatized_text_reduced": "institución local señalar efecto multiplicador tener economía las_palmas_de_gran_canaria empleo directo promover ayuntamiento ser determinante actual situación crisis consistorio indicar suma trabajador municipal empresa principal contrato permanente ayuntamiento generar impacto pib local superior presupuesto municipal ejercicio ser aprobar junta_de_gobierno pasar pleno contener capítulo_i personal contrato directo empresa realizar servicio permanente ayuntamiento limpieza playa vía obra corte keynesiano ayuntamiento admitir parado canarias ser vecino capital grancanaria situación ayuntamiento_de_las_palmas_de_gran_canaria adoptar presupuesto política económico corte keynesiano apostar inversión garantizar fondo propio consumo mantenimiento puesto trabajo contrato empresa razón determinar cohesión social solidaridad presupuesto garantizar potencia empleo haber añadir nuevo empleo prever generar instituto_municipal_para_el_empleo formación imef taller mes actualización tributario prever cumplir objetivo mantener nivel dinamizador económico empleo cohesión social garantizar prestación servicio público haber compensar caída ingreso ref tributo estado ingreso medio habitante haber ser suponer media citar valor bajo último año actualización tributario haber retroceder provisión servicio inversión municipal nivel equiparable añadir ayuntamiento situación ser irreal tener obligación pago préstamo pasar sentencia heredar factura impagado pendiente necesidad social urbano barrio empleo demanda empleo económico posible nuevo sentencia urbanístico superior argumentar aludir necesidad obligación demanda propio satisfacción ser imprescindible contar presupuesto responsable acorde realidad puestos trabajo directo el empleo directo generar ayuntamiento_de_las_palmas_de_gran_canaria ser superior puesto trabajo principal contrato empleado público impacto económico pib local superior bueno parte empleo municipal dar característica servicio ser intensivo mano obra bajo cualificación dar realidad socioeconómico despido personal valor descenso recaudación ayuntamiento ref tributo estado tener alto coste social económico laboral persona tener capacidad inserción laboral limitar política responsable haber ser posible reforma tributario millón euro extra prever recaudar compensar atribuible ref tributo estado reequilibrio reforma tributario haber conseguir mantener servicio municipal nivel consumo empleo indirecto cesta compra restauración comercio educación venta periódico economía local ayuntamiento presupuesto consolidar mantener empleo persona ayuntamiento organismo autónomo empresa público mayor empresa facturación canarias emplear trabajador entrar valoración profundo visualizar alto impacto socioeconómico presupuesto municipal",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Capítulo_I",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Consistorio",
+            "Ayuntamiento",
+            "Junta_de_Gobierno",
+            "Pleno",
+            "Ayuntamiento",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Instituto_Municipal_para_el_Empleo",
+            "Imef",
+            "REF",
+            "Estado",
+            "Ayuntamiento",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Ayuntamiento",
+            "REF",
+            "Estado",
+            "REF",
+            "Estado",
+            "Ayuntamiento",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "PIB",
+            "Presupuesto",
+            "Presupuesto",
+            "Presupuesto",
+            "Formación",
+            "Presupuesto",
+            "Puestos",
+            "El",
+            "PIB",
+            "Presupuesto",
+            "Presupuesto"
+        ],
+        "dates": [
+            "[??:17/12/??:??.??:??]",
+            "[??:30/12/??:??.??:??]",
+            "[??:??/??/2004:??.??:??]",
+            "[??:??/??/2010:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:165000000",
+            "2010",
+            "$_ECU:125000000",
+            "$_ECU:40000000",
+            "4",
+            "2010",
+            "2010",
+            "1000",
+            "2010",
+            "6",
+            "2010",
+            "$_ECU:748",
+            "$_ECU:82",
+            "5",
+            ".6.500",
+            "6.5",
+            "6.472",
+            "$_ECU:165000000",
+            "$_ECU:23000000",
+            "21,6",
+            "2010",
+            "23000000",
+            "2010",
+            "$_ECU:365000000",
+            "4.402",
+            "5",
+            "$_ECU:3200000",
+            "834"
+        ]
+    }
+}

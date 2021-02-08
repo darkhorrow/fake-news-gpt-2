@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/652574/0/",
+    "title": {
+        "raw_text": "Un anciano muere después de sufrir una caída en una calle de Firgas (Gran Canaria)",
+        "lemmatized_text": "uno anciano morir después_de sufrir uno caída en uno calle de firgas gran_canaria",
+        "lemmatized_text_reduced": "anciano morir sufrir caída calle firgas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Firgas",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un anciano ha fallecido hoy después de sufrir una caída en una calle de Firgas (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (CECOES) 112.",
+        "lemmatized_text": "uno anciano haber fallecer hoy después_de sufrir uno caída en uno calle de firgas gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "anciano haber fallecer sufrir caída calle firgas gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Firgas"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "CECOES"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 14.54 horas en la Plaza de la Fuente y el fallecido es un hombre de unos 70 años de edad que tras sufrir la caída, recibió asistencia del personal del centro de salud del municipio y del Servicio de Urgencias Canario (SUC) que acudieron al lugar del suceso. Así, una vez allí el personal médico comprobó que el anciano se encontraba en parada caridorrespiratoria, por lo que le practicaron maniobras de reanimación cardiopulmonar avanzadas sin obtener resultado y confirmando su muerte. Asimismo, hasta el lugar del incidente se trasladaron agentes de la Guardia Civil que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "el incidente se producir a el TM_h:14.54 en el plaza_de_la_fuente y el fallecer ser uno hombre de uno 70 año de edad que tras sufrir el caída recibir asistencia de el personal de el centro de salud de el municipio y de el servicio_de_urgencias_canario suc que acudir a el lugar de el suceso así uno vez allí el personal médico comprobar que el anciano se encontrar en parada caridorrespiratoria por el que le practicar maniobra de reanimación cardiopulmonar avanzar sin obtener resultado y confirmar su muerte asimismo hasta el lugar de el incidente se trasladar agente de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "incidente producir plaza_de_la_fuente fallecer ser hombre año edad sufrir caída recibir asistencia personal centro salud municipio servicio_de_urgencias_canario suc acudir lugar suceso vez personal médico comprobar anciano encontrar parada caridorrespiratoria practicar maniobra reanimación cardiopulmonar avanzar obtener resultado confirmar muerte lugar incidente trasladar agente guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Plaza_de_la_Fuente"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.54",
+            "70"
+        ]
+    }
+}

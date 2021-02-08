@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/694378/0/",
+    "title": {
+        "raw_text": "Un anciano crítico tras sufrir una parada cardiorrespiratoria en el partido entre Las Palmas y el Betis",
+        "lemmatized_text": "uno anciano crítico tras sufrir uno parada cardiorrespiratoria en el partido entre las_palmas y el betis",
+        "lemmatized_text_reduced": "anciano crítico sufrir parada cardiorrespiratoria partido las_palmas betis",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas",
+            "Betis"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un anciano en estado crítico tras sufrir una parada cardiorrespiratoria durante el partido de fútbol de Las Palmas con el Betis, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno anciano en estado crítico tras sufrir uno parada cardiorrespiratoria durante el partido de fútbol de las_palmas con el betis según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "anciano estado crítico sufrir parada cardiorrespiratoria partido fútbol las_palmas betis informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas",
+            "Betis",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo en el transcurso del partido de fútbol, sobre las 18.31 horas de la tarde de ayer, en el Estadio Insular de Las Palmas de Gran Canaria. El hombre, de 72 años de edad, fue recuperado por un médico que se encontrada en dicho estadio y por el personal del Servicio de Urgencias Canario (SUC) de la parada cardiorrespiratoria que sufrió. Posteriormente, fue trasladado en estado crítico al Hospital Universitario de Gran Canaria Dr. Negrín. Hasta el lugar también se trasladó la Policía Local que colaboró con los recursos sanitarios y elaboró los informes correspondientes.",
+        "lemmatized_text": "el incidente se producir en el transcurso de el partido de fútbol sobre el [??:??/??/??:6.00:pm] de ayer en el estadio_insular_de_las_palmas_de_gran_canaria el hombre de 72 año de edad ser recuperar por uno médico que se encontrar en decir estadio y por el personal de el servicio_de_urgencias_canario suc de el parada cardiorrespiratoria que sufrir posteriormente ser trasladar en estado crítico a el hospital_universitario_de_gran_canaria_dr._negrín hasta el lugar también se trasladar el policía_local que colaborar con el recurso sanitario y elaborar el informe correspondiente",
+        "lemmatized_text_reduced": "incidente producir transcurso partido fútbol estadio_insular_de_las_palmas_de_gran_canaria hombre año edad ser recuperar médico encontrar decir estadio personal servicio_de_urgencias_canario suc parada cardiorrespiratoria sufrir posteriormente ser trasladar estado crítico hospital_universitario_de_gran_canaria_dr._negrín lugar trasladar policía_local colaborar recurso sanitario elaborar informe correspondiente",
+        "persons": [],
+        "locations": [
+            "Estadio_Insular_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Dr._Negrín",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:6.00:pm]"
+        ],
+        "numbers": [
+            "72"
+        ]
+    }
+}

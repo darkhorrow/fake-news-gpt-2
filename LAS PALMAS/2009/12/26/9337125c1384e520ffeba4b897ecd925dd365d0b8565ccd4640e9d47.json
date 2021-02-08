@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595787/0/",
+    "title": {
+        "raw_text": "Fallece un anciano tras sufrir una parada cardiorrespiratoria en plena vía pública en la capital grancanaria",
+        "lemmatized_text": "fallecer uno anciano tras sufrir uno parada cardiorrespiratoria en pleno vía público en el capital grancanaria",
+        "lemmatized_text_reduced": "fallecer anciano sufrir parada cardiorrespiratoria pleno vía público capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de 75 años de edad ha fallecido hoy tras sufrir una parada cardiorrespiratoria en plena vía pública en la calle Faro, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 75 año de edad haber fallecer hoy tras sufrir uno parada cardiorrespiratoria en pleno vía público en el calle faro en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber fallecer sufrir parada cardiorrespiratoria pleno vía público calle faro las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Faro",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "75",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 09.07 horas, cuando una llamada alertó al Cecoes comunicando que un varón había sufrido un desvanecimiento en la vía y precisaba asistencia sanitaria en la dirección mencionada. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. El personal del Servicio de Urgencias Canario comprobó que el afectado se encontraba en parada cardiorrespiratoria y le practicó maniobras de reanimación cardiopulmonar avanzadas sin resultado, lo que confirmó su fallecimiento. En dicha actuación intervino también el Cuerpo Nacional de Policía, que se encontraba en el lugar del incidente y se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:9.07 cuando uno llamada alertar a el cecoes comunicar que uno varón haber sufrir uno desvanecimiento en el vía y precisar asistencia sanitario en el dirección mencionar de este modo el 112 activar de inmediato el recurso de emergencia necesario el personal de el servicio_de_urgencias_canario comprobar que el afectar se encontrar en parada cardiorrespiratoria y le practicar maniobra de reanimación cardiopulmonar avanzar sin resultado el que confirmar su fallecimiento en decir actuación intervenir también el cuerpo_nacional_de_policía que se encontrar en el lugar de el incidente y se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes comunicar varón haber sufrir desvanecimiento vía precisar asistencia sanitario dirección mencionar modo activar inmediato recurso emergencia necesario personal servicio_de_urgencias_canario comprobar afectar encontrar parada cardiorrespiratoria practicar maniobra reanimación cardiopulmonar avanzar resultado confirmar fallecimiento decir actuación intervenir cuerpo_nacional_de_policía encontrar lugar incidente encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.07",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/517141/0/ganaderos/leche/canarias/",
+    "title": {
+        "raw_text": "El sector ganadero denuncia que se tiran 10.000 litros de leche al día en la isla",
+        "lemmatized_text": "el sector ganadero denuncia que se tirar VL_l:10 de leche a el día en el isla",
+        "lemmatized_text_reduced": "sector ganadero denuncia tirar leche día isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "VL_l:10"
+        ]
+    },
+    "lead": {
+        "raw_text": "Afirman que a principios de año recibían 0,48 euros por litro de leche. Señalan que las dos principales centrales lecheras han bajado el precio de la leche y ahora perciben 0,34 euros por litro. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "afirmar que a_principios_de año recibir $_ECU:0,48 por litro de leche señalar que el 2 principal central lechero haber bajar el precio de el leche y ahora percibir $_ECU:0,34 por litro consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "afirmar año recibir litro leche señalar principal central lechero haber bajar precio leche percibir litro consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:0,48",
+            "2",
+            "$_ECU:0,34"
+        ]
+    },
+    "body": {
+        "raw_text": "El sector ganadero de Gran Canaria ha denunciado que desde hace una semana se está tirando en la isla un total de 10.000 litros de leche al día, un producto que no puede \"ni usarse para obras benéficas debido a que, por los costes de elaboración, la industria no quiere esa leche ni regalada\", ya que no podría percibir las subvenciones para su elaboración, según informaron este lunes Coag Canarias, Fedegran y la Sociedad Cooperativa de Ganaderos de la isla. Una de las centrales lecheras no paga desde el pasado junio Los ganaderos explicaron que se ha llegado a esta situación por una disminución del precio que perciben , puesto que a principios de año recibían 0,48 euros por litro. Además, los 0,11 euros que cuesta envasar el producto en cartón hacen que el coste de producción se sitúe en 0,59 euros. \"Desde los 0,59 euros hasta los 0,85 euros en los que se vende la leche al consumidor hay margen suficiente para el beneficio industrial y para la distribución\", indicaron. Sin embargo, las dos principales centrales lecheras han bajado unilateralmente el precio de la leche y que una de ellas no paga desde el pasado junio. De esta manera, señalaron que los ganaderos perciben en la actualidad entre 0,34 céntimos de euro y 0,40 por litro de leche, una cifra que supone 10 céntimos menos que el mismo dato de hace seis meses. Mayor compromiso de la industria Expusieron que estos ganaderos, que llevan sin cobrar desde el mes de junio, no tienen ninguna alternativa para vender su leche. \"Ni siquiera puede donarse para obras benéficas. La industria no la recibe ni regalada, pues no podría percibir las subvenciones previstas para su elaboración. Para colmo, la Consejería premia a estas industrias otorgándoles la gestión de las ayudas destinadas a los ganaderos productores de leche\", indicaron desde las organizaciones. Así, solicitaron un mayor compromiso de la industria en la isla para adquirir toda la leche que se produce, así como para pagarla a un precio justo y para abonar la leche mensualmente. Al Gobierno de Canarias, por su parte, le solicitaron que condicione el pago de ayudas a la industria lechera al compromiso de absorber toda la producción local y que otorgue la gestión de las ayudas destinadas a los productores, a los propios productores y a sus organizaciones.",
+        "lemmatized_text": "el sector ganadero de gran_canaria haber denunciar que desde hacer uno semana se estar tirar en el isla uno total de VL_l:10 de leche a el día uno producto que no poder ni usar se para obra benéfico debido_a que por el coste de elaboración el industria no querer ese leche ni regalar ya_que no poder percibir el subvención para su elaboración según informar este [L:??/??/??:??.??:??] coag_canarias fedegran y el sociedad_cooperativa_de_ganaderos de el isla uno de el central lechero no pagar desde el [??:??/6/??:??.??:??] los ganadero explicar que se haber llegar a este situación por uno disminución de el precio que percibir puesto que a_principios_de año recibir $_ECU:0,48 por litro además el $_ECU:0,11 que costar envasar el producto en cartón hacer que el coste de producción se situar en $_ECU:0,59 desde el $_ECU:0,59 hasta el $_ECU:0,85 en el que se vender el leche a el consumidor haber margen suficiente para el beneficio industrial y para el distribución indicar sin embargo el 2 principal central lechero haber bajar unilateralmente el precio de el leche y que uno de ellos no pagar desde el [??:??/6/??:??.??:??] de este manera señalar que el ganadero percibir en el actualidad entre 0,34 céntimo de euro y 0,40 por litro de leche uno cifra que suponer 10 céntimo menos que el mismo dato de hacer 6 mes mayor compromiso de el industria expusieron que este ganadero que llevar sin cobrar desde el [??:??/6/??:??.??:??] no tener ninguno alternativa para vender su leche ni siquiera poder donar se para obra benéfico el industria no lo recibir ni regalar pues no poder percibir el subvención prever para su elaboración para_colmo el consejería premiar a este industria otorgar le el gestión de el ayuda destinar a el ganadero productor de leche indicar desde el organización así solicitar uno mayor compromiso de el industria en el isla para adquirir todo el leche que se producir así_como para pagar lo a uno precio justo y para abonar el leche mensualmente a el gobierno_de_canarias por su parte le solicitar que condicionar el pago de ayuda a el industria lechero a el compromiso de absorber todo el producción local y que otorgar el gestión de el ayuda destinar a el productor a el propio productor y a su organización",
+        "lemmatized_text_reduced": "sector ganadero gran_canaria haber denunciar hacer semana estar tirar isla total leche día producto poder usar obra benéfico coste elaboración industria querer leche regalar poder percibir subvención elaboración informar coag_canarias fedegran sociedad_cooperativa_de_ganaderos isla central lechero pagar los ganadero explicar haber llegar situación disminución precio percibir puesto año recibir litro costar envasar producto cartón hacer coste producción situar vender leche consumidor haber margen suficiente beneficio industrial distribución indicar embargo principal central lechero haber bajar unilateralmente precio leche pagar manera señalar ganadero percibir actualidad céntimo euro litro leche cifra suponer céntimo mismo dato hacer mes mayor compromiso industria expusieron ganadero llevar cobrar tener alternativa vender leche poder donar obra benéfico industria recibir regalar poder percibir subvención prever elaboración consejería premiar industria otorgar gestión ayuda destinar ganadero productor leche indicar organización solicitar mayor compromiso industria isla adquirir leche producir pagar precio justo abonar leche mensualmente gobierno_de_canarias parte solicitar condicionar pago ayuda industria lechero compromiso absorber producción local otorgar gestión ayuda destinar productor propio productor organización",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria",
+            "Coag_Canarias",
+            "Fedegran",
+            "Sociedad_Cooperativa_de_Ganaderos",
+            "Consejería",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Los",
+            "Expusieron"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/6/??:??.??:??]",
+            "[??:??/6/??:??.??:??]",
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "VL_l:10",
+            "$_ECU:0,48",
+            "$_ECU:0,11",
+            "$_ECU:0,59",
+            "$_ECU:0,59",
+            "$_ECU:0,85",
+            "2",
+            "0,34",
+            "0,40",
+            "10",
+            "6"
+        ]
+    }
+}

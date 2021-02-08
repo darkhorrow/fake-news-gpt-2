@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/325780/0/agresion/guardiacivil/tenerife/",
+    "title": {
+        "raw_text": "Recibe una paliza de la guardia civil, tras intentar denunciar una agresión",
+        "lemmatized_text": "recibir uno paliza de el guardia civil tras intentar denunciar uno agresión",
+        "lemmatized_text_reduced": "recibir paliza guardia civil intentar denunciar agresión",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los agentes le detuvieron por la calle y le llevaron a la comisaría para cachearle. El agredido recibió un puñetazo por negarse a quitar la ropa interior. Tras intentar denunciarlo, los agentes, supuestamente, le rompieron una pierna tras una paliza.",
+        "lemmatized_text": "el agente le detener por el calle y le llevar a el comisaría para cachear le el agredir recibir uno puñetazo por negar se a quitar el ropa interior tras intentar denunciar lo el agente supuestamente le romper uno pierna tras uno paliza",
+        "lemmatized_text_reduced": "agente detener calle llevar comisaría cachear agredir recibir puñetazo negar quitar ropa interior intentar denunciar agente supuestamente romper pierna paliza",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un ciudadano de Fuerteventura ha denunciado ante el Juzgado local de Corralejo una presunta agresión que sufrió de manos de unos guardias civiles que le ha producido la rotura del fémur por cinco sitios, según publica Canarias7 . Khalid Brodli asegura que unos agentes le detuvieron por la calle y le exigieron que les acompañara a la comisaria para registrarle. Una vez allí, y tras negarse a ser desnudado, Khalid sufrió un puñetazo en la cabeza. Tirado en el descampado Tras el incidente, el agredido intentó denunciar el suceso pero, supuestamente, un grupo de guardias civiles (media docena)se abalanzó sobre él propinándole una paliza, a consecuencia de la cuál Khalid tiene el fémur roto por cinco sitios. \"Cuando se cansaron, me dejaron tirado en el descampado sin el móvil . Cuando intenté ponerme en pie, me di cuenta de que no podía, que tenía el muslo roto\", declara el agredido a Canarias7. Khalid acudió el miércoles a los juzgados a denunciar la agresión en silla de ruedas , aunque ésta sucedió el pasado 8 de diciembre. Las heridas le impidieron acudir al juzgado antes.",
+        "lemmatized_text": "uno ciudadano de fuerteventura haber denunciar ante el juzgado local de corralejo uno presunto agresión que sufrir de mano de uno guardia civil que le haber producir el rotura de el fémur por 5 sitio según publicar Canarias7 khalid_brodli asegurar que uno agente le detener por el calle y le exigir que le acompañar a el comisaria para registrar le uno vez allí y tras negar se a ser desnudar khalid sufrir uno puñetazo en el cabeza tirar en el descampado tras el incidente el agredir intentar denunciar el suceso pero supuestamente uno grupo de guardia civil 6 se abalanzar sobre él propinar le uno paliza a_consecuencia_de el cuál khalid tener el fémur romper por 5 sitio cuando se cansar me dejar tirar en el descampado sin el móvil cuando intentar poner me en pie me dar_cuenta de que no poder que tener el muslo romper declarar el agredir a Canarias7 khalid acudir el [X:??/??/??:??.??:??] a el juzgado a denunciar el agresión en silla de rueda aunque este suceder el [??:8/12/??:??.??:??] el herida le impedir acudir a el juzgado antes",
+        "lemmatized_text_reduced": "ciudadano fuerteventura haber denunciar juzgado local corralejo presunto agresión sufrir mano guardia civil haber producir rotura fémur sitio publicar khalid_brodli asegurar agente detener calle exigir acompañar comisaria registrar vez negar ser desnudar khalid sufrir puñetazo cabeza tirar descampado tras incidente agredir intentar denunciar suceso supuestamente grupo guardia civil abalanzar propinar paliza khalid tener fémur romper sitio cansar dejar tirar descampado móvil intentar poner pie dar_cuenta poder tener muslo romper declarar agredir khalid acudir juzgado denunciar agresión silla rueda suceder herida impedir acudir juzgado",
+        "persons": [
+            "Khalid_Brodli",
+            "Khalid",
+            "Khalid",
+            "Khalid"
+        ],
+        "locations": [
+            "Corralejo"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Juzgado"
+        ],
+        "others": [
+            "Tras"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:8/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "Canarias7",
+            "6",
+            "5",
+            "Canarias7"
+        ]
+    }
+}

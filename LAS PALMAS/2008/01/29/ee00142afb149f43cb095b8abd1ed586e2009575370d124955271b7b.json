@@ -1,0 +1,48 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/341012/0/cadaver/ahogado/laspalmas/",
+    "title": {
+        "raw_text": "Encuentran en la playa el cadáver de un hombre con síntomas de ahogamiento",
+        "lemmatized_text": "encontrar en el playa el cadáver de uno hombre con síntoma de ahogamiento",
+        "lemmatized_text_reduced": "encontrar playa cadáver hombre síntoma ahogamiento",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Unos bañistas sacaron el cuerpo del agua. El personal sanitario intentó reanimarle sin resultados. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "uno bañista sacar el cuerpo de el agua el personal sanitario intentar reanimar le sin resultado consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "bañista sacar cuerpo agua personal sanitario intentar reanimar resultado consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un varón de 78 años ha fallecido con síntomas de ahogamiento en la playa de Mogán , en el municipio de Mogán, a la una de la tarde. El cuerpo del hombre fue sacado del agua por unos bañistas , y atendido en la orilla por el personal médico del SUC, que comprobó que el afectado se encontraba en parada cardiorespiratoria. Los efectivos sanitarios comenzaron a practicar maniobras de reanimación cardiopulmonar avanzadas sin obtener resultados, por lo que confirmaron la muerte del afectado. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno varón de 78 año haber fallecer con síntoma de ahogamiento en el playa de mogán en el municipio de mogán a el uno de el tarde el cuerpo de el hombre ser sacar de el agua por uno bañista y atender en el orilla por el personal médico de el suc que comprobar que el afectar se encontrar en parada cardiorespiratoria el efectivo sanitario comenzar a practicar maniobra de reanimación cardiopulmonar avanzar sin obtener resultado por el que confirmar el muerte de el afectar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "varón año haber fallecer síntoma ahogamiento playa mogán municipio mogán tarde cuerpo hombre ser sacar agua bañista atender orilla personal médico suc comprobar afectar encontrar parada cardiorespiratoria efectivo sanitario comenzar practicar maniobra reanimación cardiopulmonar avanzar obtener resultado confirmar muerte afectar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Mogán",
+            "Mogán"
+        ],
+        "organizations": [
+            "SUC",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "78"
+        ]
+    }
+}

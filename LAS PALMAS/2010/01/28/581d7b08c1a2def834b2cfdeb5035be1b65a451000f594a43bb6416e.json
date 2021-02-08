@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/616920/0/",
+    "title": {
+        "raw_text": "Arucas (Gran Canaria) anuncia la reapertura de la carretera GC-330 que se vio afectada por la caída de un muro",
+        "lemmatized_text": "arucas gran_canaria anunciar el reapertura de el carretera GC-330 que se ver afectar por el caída de uno muro",
+        "lemmatized_text_reduced": "arucas gran_canaria anunciar reapertura carretera ver afectar caída muro",
+        "persons": [
+            "Arucas"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-330"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Arucas (Gran Canaria) ha anunciado hoy la reapertura al tráfico de la carretera GC-330, que se vio afectada por la caída de un muro de una finca de plataneras el pasado 22 de diciembre.",
+        "lemmatized_text": "el ayuntamiento_de_arucas gran_canaria haber anunciar hoy el reapertura a el tráfico de el carretera GC-330 que se ver afectar por el caída de uno muro de uno finca de platanera el [??:22/12/??:??.??:??]",
+        "lemmatized_text_reduced": "ayuntamiento_de_arucas gran_canaria haber anunciar reapertura tráfico carretera ver afectar caída muro finca platanera",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Arucas",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:22/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-330"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el Consistorio norteño en nota de prensa, a partir de mañana viernes quedarán restablecidos todos los servicios en dicha vía, que ha podido ser reabierta gracias a los trabajos ejecutados para solucionar el incidente provocado por las últimas lluvias del pasado año.",
+        "lemmatized_text": "según informar el consistorio norteño en nota de prensa a_partir_de mañana [V:??/??/??:??.??:??] quedar restablecer todo el servicio en decir vía que haber poder ser reabrir gracias_a el trabajo ejecutar para solucionar el incidente provocar por el último lluvia de el pasar año",
+        "lemmatized_text_reduced": "informar consistorio norteño nota prensa quedar restablecer servicio decir vía haber poder ser reabrir trabajo ejecutar solucionar incidente provocar último lluvia pasar año",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consistorio"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/624671/0/",
+    "title": {
+        "raw_text": "Las empresas turísticas de Lanzarote reciben 320.000 euros en 2009 para implantar proyectos de I+D+I",
+        "lemmatized_text": "el empresa turístico de lanzarote recibir $_ECU:320 en 2009 para implantar proyecto de i+d+i",
+        "lemmatized_text_reduced": "empresa turístico lanzarote recibir implantar proyecto i+d+i",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [
+            "I+D+I"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:320",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "Las empresas del sector turístico de Lanzarote recibieron unos 320.000 euros en 2009 para implantar proyectos de Investigación, Desarrollo e Innovación (I+D+I).",
+        "lemmatized_text": "el empresa de el sector turístico de lanzarote recibir uno $_ECU:320 en 2009 para implantar proyecto de investigación desarrollo y innovación i+d+i",
+        "lemmatized_text_reduced": "empresa sector turístico lanzarote recibir implantar proyecto investigación desarrollo innovación i+d+i",
+        "persons": [
+            "Desarrollo",
+            "Innovación"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "I+D+I"
+        ],
+        "others": [
+            "Investigación"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:320",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Estos datos los dieron a conocer hoy la presidenta de la Asociación de Empresarios de Hoteles y Apartamentos de Lanzarote (Asolan), Susana Pérez, y el directivo de la Federación de Empresarios Turísticos de Lanzarote (Aetur), Juan de León, entre otros. Ambos organismos presentaron la Red Cide destinada al sector turístico en Lanzarote y que el pasado año benefició a un total de 30 empresas que impulsaron proyectos de I+D+I. Según indicó Asolan en nota de prensa, las empresas que \"no se incorporen a las nuevas tecnologías desaparecerán\". Asimismo, las patronales turísticas, hoteleras y hosteleras también dieron a conocer los objetivos del sistema I+D+I para 2010. En lo que respecta a la Red Cide está orientada a las empresas del archipiélago que desean subirse al tren de la innovación y convertirse así en empresas \"modernas, ágiles y competitivas\" en el mercado. El objetivo de las patronales se centra en \"apoyar a las empresas que por sí solas tienen dificultades\" para realizar actividades de I+D+I. Así, los técnicos de Asolan y Aetur aportarán las herramientas y capacidades existentes en Canarias para \"aumentar\" su competitividad a través de la innovación y el uso racional de las nuevas tecnologías.",
+        "lemmatized_text": "este dato lo dar_a_conocer hoy el presidente de el asociación_de_empresarios_de_hoteles y apartamentos_de_lanzarote asolar susana_pérez y el directivo de el federación_de_empresarios_turísticos_de_lanzarote aetur juan_de_león entre otro ambos organismo presentar el red_cide destinar a el sector turístico en lanzarote y que el pasar año beneficiar a uno total de 30 empresa que impulsar proyecto de i+d+i según indicar asolan en nota de prensa el empresa que no se incorporar a el nuevo tecnología desaparecer asimismo el patronal turístico hotelero y hostelero también dar_a_conocer el objetivo de el sistema i+d+i para 2010 en el que respectar a el red_cide estar orientar a el empresa de el archipiélago que desear subir se a el tren de el innovación y convertir se así en empresa moderno ágil y competitivo en el mercado el objetivo de el patronal se centrar en apoyar a el empresa que por sí solo tener dificultad para realizar actividad de i+d+i así el técnico de asolan y aetur aportar el herramienta y capacidad existente en canarias para aumentar su competitividad a_través_de el innovación y el uso racional de el nuevo tecnología",
+        "lemmatized_text_reduced": "dato dar_a_conocer presidente asociación_de_empresarios_de_hoteles apartamentos_de_lanzarote asolar susana_pérez directivo federación_de_empresarios_turísticos_de_lanzarote aetur juan_de_león organismo presentar red_cide destinar sector turístico lanzarote pasar año beneficiar total empresa impulsar proyecto i+d+i indicar asolan nota prensa empresa incorporar nuevo tecnología desaparecer patronal turístico hotelero hostelero dar_a_conocer objetivo sistema i+d+i respectar red_cide estar orientar empresa archipiélago desear subir tren innovación convertir empresa moderno ágil competitivo mercado objetivo patronal centrar apoyar empresa solo tener dificultad realizar actividad i+d+i técnico asolan aetur aportar herramienta capacidad existente canarias aumentar competitividad innovación uso racional nuevo tecnología",
+        "persons": [
+            "Susana_Pérez",
+            "Juan_de_León",
+            "Asolan",
+            "Aetur"
+        ],
+        "locations": [
+            "Lanzarote",
+            "I+D+I",
+            "I+D+I",
+            "Asolan",
+            "Canarias"
+        ],
+        "organizations": [
+            "Asociación_de_Empresarios_de_Hoteles",
+            "Apartamentos_de_Lanzarote",
+            "Federación_de_Empresarios_Turísticos_de_Lanzarote",
+            "Aetur",
+            "Red_Cide",
+            "Red_Cide"
+        ],
+        "others": [
+            "I+D+I"
+        ],
+        "dates": [],
+        "numbers": [
+            "30",
+            "2010"
+        ]
+    }
+}

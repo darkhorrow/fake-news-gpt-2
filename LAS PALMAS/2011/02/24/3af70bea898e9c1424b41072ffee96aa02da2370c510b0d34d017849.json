@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/969662/0/",
+    "title": {
+        "raw_text": "Un desprendimiento de tierra en la carretera GC-500 se salda con un vehículo afectado",
+        "lemmatized_text": "uno desprendimiento de tierra en el carretera GC-500 se saldar con uno vehículo afectar",
+        "lemmatized_text_reduced": "desprendimiento tierra carretera saldar vehículo afectar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-500"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un desprendimiento de tierra sobre las 01.45 horas en la carretera Gran Canaria 500 (GC-500), en la zona de Taurito, dentro del término municipal de Mogán, se ha saldado con un vehículo afectado, cuyo conductor presentó un ataque de ansiedad de carácter leve, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno desprendimiento de tierra sobre el TM_h:1.45 en el carretera gran_canaria 500 GC-500 en_la_zona_de taurito dentro de el término municipal de mogán se haber saldar con uno vehículo afectar cuyo conductor presentar uno ataque de ansiedad de carácter leve informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "desprendimiento tierra carretera gran_canaria taurito término municipal mogán haber saldar vehículo afectar conductor presentar ataque ansiedad carácter leve informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Taurito"
+        ],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:1.45",
+            "500",
+            "GC-500",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un desprendimiento de tierra sobre las 01.45 horas en la carretera Gran Canaria 500 (GC-500), en la zona de Taurito, dentro del término municipal de Mogán, se ha saldado con un vehículo afectado, cuyo conductor presentó un ataque de ansiedad de carácter leve, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. Una llamada alertó a la hora indicada del desprendimiento, indicando asimismo que podría haber algún vehículo afectado. En ese instante, se trasladó al lugar una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC). Al llegar, los médicos atendieron a un varón con un ataque de ansiedad de carácter leve, por lo que tuvo que ser trasladado hasta el Centro de Salud de Arguineguín. Finalmente, en el dispositivo también participaron efectivos de Guardia Civil, Policía Local y Mantenimiento de Carreteras.",
+        "lemmatized_text": "uno desprendimiento de tierra sobre el TM_h:1.45 en el carretera gran_canaria 500 GC-500 en_la_zona_de taurito dentro de el término municipal de mogán se haber saldar con uno vehículo afectar cuyo conductor presentar uno ataque de ansiedad de carácter leve informar el centro_coordinador_de_emergencias y seguridad cecoes 112 uno llamada alertar a el hora indicar de el desprendimiento indicar asimismo que poder haber alguno vehículo afectar en ese instante se trasladar a el lugar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc a el llegar el médico atender a uno varón con uno ataque de ansiedad de carácter leve por el que tener que ser trasladar hasta el centro_de_salud_de_arguineguín finalmente en el dispositivo también participar efectivo de guardia_civil policía_local y mantenimiento_de_carreteras",
+        "lemmatized_text_reduced": "desprendimiento tierra carretera gran_canaria taurito término municipal mogán haber saldar vehículo afectar conductor presentar ataque ansiedad carácter leve informar centro_coordinador_de_emergencias seguridad cecoes llamada alertar hora indicar desprendimiento indicar poder haber vehículo afectar instante trasladar lugar ambulancia soporte vital básico servicio_de_urgencias_canario suc llegar médico atender varón ataque ansiedad carácter leve tener ser trasladar centro_de_salud_de_arguineguín finalmente dispositivo participar efectivo guardia_civil policía_local mantenimiento_de_carreteras",
+        "persons": [
+            "Taurito"
+        ],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Centro_de_Salud_de_Arguineguín",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Mantenimiento_de_Carreteras"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:1.45",
+            "500",
+            "GC-500",
+            "112"
+        ]
+    }
+}

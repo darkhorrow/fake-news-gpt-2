@@ -1,0 +1,51 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661766/0/",
+    "title": {
+        "raw_text": "El Gobierno quiere fortalecer el sistema eléctrico canario con sistemas adicionales de tecnología de respaldo",
+        "lemmatized_text": "el gobierno querer fortalecer el sistema eléctrico canario con sistema adicional de tecnología de respaldo",
+        "lemmatized_text_reduced": "gobierno querer fortalecer sistema eléctrico canario sistema adicional tecnología respaldo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Gobierno central quiere fortalecer el sistema eléctrico canario con sistemas adicionales en lo que a tecnología de respado se refiere atendiendo a su condición de región ultraperiférica, según se recoge en su propuesta de documento de acuerdo del Pacto de Zurbano.",
+        "lemmatized_text": "el gobierno central querer fortalecer el sistema eléctrico canario con sistema adicional en el que a tecnología de respado se referir atender a su condición de región ultraperiférico según se recoger en su propuesta de documento de acuerdo de el pacto_de_zurbano",
+        "lemmatized_text_reduced": "gobierno central querer fortalecer sistema eléctrico canario sistema adicional tecnología respado referir atender condición región ultraperiférico recoger propuesta documento acuerdo pacto_de_zurbano",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Pacto_de_Zurbano"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, el documento especifica la \"determinación de las necesidades de tecnologías de respaldo [de Canarias], atendiendo a su condición de región ultraperiférica\". Además, apuesta por fijar \"cupos especiales\" de potencia para energías renovables en el archipiélago de forma destacada dentro de la estrategia general para el sector eléctrico. La propuesta será enviada a los grupos parlamentarios este fin de semana para que el lunes haya recabado los apoyos necesarios para su firma con la vista puesta en la fecha del 30 de marzo, cuando en principio podría aprobarse en Consejo de Ministros a través de un Real Decreto.",
+        "lemmatized_text": "en concreto el documento especificar el determinación de el necesidad de tecnología de respaldo de canarias atender a su condición de región ultraperiférico además apostar por fijar cupo especial de potencia para energía renovable en el archipiélago de forma destacar dentro_de el estrategia general para el sector eléctrico el propuesta ser enviar a el grupo parlamentario este fin de semana para que el [L:??/??/??:??.??:??] haber recabar el apoyo necesario para su firma con el vista poner en el fecha de el [??:30/3/??:??.??:??] cuando en principio poder aprobar se en consejo_de_ministros a_través_de uno real_decreto",
+        "lemmatized_text_reduced": "concreto documento especificar determinación necesidad tecnología respaldo canarias atender condición región ultraperiférico apostar fijar cupo especial potencia energía renovable archipiélago forma destacar estrategia general sector eléctrico propuesta ser enviar grupo parlamentario fin semana haber recabar apoyo necesario firma vista poner fecha principio poder aprobar consejo_de_ministros real_decreto",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Consejo_de_Ministros",
+            "Real_Decreto"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:30/3/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

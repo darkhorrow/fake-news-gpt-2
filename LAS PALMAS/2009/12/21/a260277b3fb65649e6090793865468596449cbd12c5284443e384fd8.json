@@ -1,0 +1,90 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/592689/0/",
+    "title": {
+        "raw_text": "Alerta naranja por fuertes vientos en las cumbres de La Palma y medianías de Tenerife",
+        "lemmatized_text": "alerta naranja por fuerte viento en el cumbre de la_palma y medianía de tenerife",
+        "lemmatized_text_reduced": "naranja fuerte viento cumbre la_palma medianía tenerife",
+        "persons": [],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) mantiene hoy la alerta amarilla por riesgo de vientos de hasta 75 kilómetros por hora en las cumbres de La Palma y Gran Canaria y rachas máximas de 85 kilómetros por hora en los municipios de Vilaflor y La Orotava, en Tenerife, mientras que la alerta será naranja mañana en zonas altas de La Palma y las citadas localidades de medianías de Tenerife.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet mantener hoy el alerta amarillo por riesgo de viento de hasta SP_km/h:75 en el cumbre de la_palma y gran_canaria y racha máximo de SP_km/h:85 en el municipio de vilaflor y la_orotava en tenerife mientras_que el alerta ser naranja mañana en zona alto de la_palma y el citar localidad de medianía de tenerife",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet mantener alerta amarillo riesgo viento cumbre la_palma gran_canaria racha máximo municipio vilaflor la_orotava tenerife alerta ser naranja mañana zona alto la_palma citar localidad medianía tenerife",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Gran_Canaria",
+            "Vilaflor",
+            "La_Orotava",
+            "Tenerife",
+            "La_Palma",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:75",
+            "SP_km/h:85"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, el riesgo amarillo se desarrollará hoy desde las ocho de la mañana y finalizará la medianoche del martes en las localidades tinerfeñas y en la isla de La Palma, mientras que en la cumbre grancanaria persistirá hasta la medianoche del miércoles. Por otro lado, este martes se prevé alerta amarilla por viento, abundantes lluvias y oleaje en las islas de La Palma, La Gomera, El Hierro, Tenerife y Gran Canaria, así como alerta naranja por riesgo importante de fuertes vientos en las cumbres de La Palma y en los mismos municipios tinerfeños citados, donde se esperan rachas máximas de 95 kilómetros por hora, fenómeno adverso que se estima que dure hasta la medianoche del miércoles. A ello se suma que en el resto de La Palma y costa norte, este, sur y oeste de Tenerife se registrarán rachas máximas de 75 kilómetros por hora hasta las 13.00 horas de este martes. Asimismo, en Gran Canaria la alerta será por fuertes vientos de 75 kilómetros por hora en las cumbres y en la costa norte, mientras que en las comarcas del este, sur y oeste y medianías del norte se prevén rachas de 70 kilómetros por hora. Igualmente, en La Gomera y El Hierro se prevén este martes rachas de 75 kilómetros por hora que finalizarán en torno a las 13.00 horas. Además, la Aemet avisa de fenómenos costeros adversos en el norte y oeste de La Palma y suroeste de El Hierro.",
+        "lemmatized_text": "en concreto el riesgo amarillo se desarrollar hoy desde el [??:??/??/??:8.00:am] y finalizar el [M:??/??/??:00.00:am] en el localidad tinerfeño y en el isla de la_palma mientras_que en el cumbre grancanaria persistir hasta el [X:??/??/??:00.00:am] por_otro_lado este [M:??/??/??:??.??:??] se prever alerta amarillo por viento abundante lluvia y oleaje en el isla de la_palma la_gomera el_hierro tenerife y gran_canaria así_como alerta naranja por riesgo importante de fuerte viento en el cumbre de la_palma y en el mismo municipio tinerfeño citar donde se esperar racha máximo de SP_km/h:95 fenómeno adverso que se estimar que durar hasta el [X:??/??/??:00.00:am] a ello se sumar que en el resto de la_palma y costa norte este sur y oeste de tenerife se registrar racha máximo de SP_km/h:75 hasta el TM_h:13 de este [M:??/??/??:??.??:??] asimismo en gran_canaria el alerta ser por fuerte viento de SP_km/h:75 en el cumbre y en el costa norte mientras_que en el comarca de el este sur y oeste y medianía de el norte se prever racha de SP_km/h:70 igualmente en la_gomera y el_hierro se prever este [M:??/??/??:??.??:??] racha de SP_km/h:75 que finalizar en_torno_a el TM_h:13 además el aemet avisar de fenómeno costero adverso en el norte y oeste de la_palma y suroeste de el_hierro",
+        "lemmatized_text_reduced": "concreto riesgo amarillo desarrollar finalizar localidad tinerfeño isla la_palma cumbre grancanaria persistir prever alerta amarillo viento abundante lluvia oleaje isla la_palma la_gomera el_hierro tenerife gran_canaria alerta naranja riesgo importante fuerte viento cumbre la_palma mismo municipio tinerfeño citar esperar racha máximo fenómeno adverso estimar durar sumar resto la_palma costa norte sur oeste tenerife registrar racha máximo gran_canaria alerta ser fuerte viento cumbre costa norte comarca sur oeste medianía norte prever racha igualmente la_gomera el_hierro prever racha finalizar aemet avisar fenómeno costero adverso norte oeste la_palma suroeste el_hierro",
+        "persons": [
+            "La_Gomera"
+        ],
+        "locations": [
+            "La_Palma",
+            "La_Palma",
+            "La_Palma",
+            "La_Palma",
+            "Tenerife",
+            "Gran_Canaria",
+            "La_Gomera",
+            "El_Hierro",
+            "La_Palma",
+            "El_Hierro"
+        ],
+        "organizations": [
+            "El_Hierro",
+            "Tenerife",
+            "Gran_Canaria",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:8.00:am]",
+            "[M:??/??/??:00.00:am]",
+            "[X:??/??/??:00.00:am]",
+            "[M:??/??/??:??.??:??]",
+            "[X:??/??/??:00.00:am]",
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:95",
+            "SP_km/h:75",
+            "TM_h:13",
+            "SP_km/h:75",
+            "SP_km/h:70",
+            "SP_km/h:75",
+            "TM_h:13"
+        ]
+    }
+}

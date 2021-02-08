@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/647505/0/",
+    "title": {
+        "raw_text": "El helicóptero del GES rescata a una senderista herida en Agaete (Gran Canaria)",
+        "lemmatized_text": "el helicóptero de el ges rescatar a uno senderista herida en agaete gran_canaria",
+        "lemmatized_text_reduced": "helicóptero ges rescatar senderista herida agaete gran_canaria",
+        "persons": [],
+        "locations": [
+            "Agaete",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "GES"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El helicóptero del Grupo de Emergencias y Salvamento (GES) ha rescatado a una mujer herida con traumatismo en miembro inferior de carácter menos grave tras sufrir una caída en el Camino real de Agaete a El Hornillo, al noroeste de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el helicóptero de el grupo_de_emergencias y salvamento ges haber rescatar a uno mujer herir con traumatismo en miembro inferior de carácter menos grave tras sufrir uno caída en el camino real de agaete a el_hornillo a el noroeste de gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "helicóptero grupo_de_emergencias salvamento ges haber rescatar mujer herir traumatismo miembro inferior carácter grave sufrir caída camino real agaete el_hornillo noroeste gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Camino",
+            "El_Hornillo"
+        ],
+        "organizations": [
+            "Grupo_de_Emergencias",
+            "GES",
+            "Agaete",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente tuvo lugar a las 11.43 horas, cuando una llamada alertó al Cecoes comunicando que una mujer se había precipitado desde un camino mientras practicaba senderismo en una zona de difícil acceso en el lugar mencionado. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Debido a la orografía del terreno, el helicóptero del GES fue el que finalmente procedió al rescate y traslado de la accidentada hasta el Hospital Universitario de Gran Canaria Doctor Negrín para que recibiera la correspondiente asistencia sanitaria. En dicha actuación también intervinieron una ambulancia de soporte vital básico del Servicio de Urgencias Canario, bomberos del Consorcio de Emergencias de Gran Canaria, Guardia Civil, Policía Local y Protección Civil, que colaboraron en la localización de la afectada.",
+        "lemmatized_text": "el incidente tener_lugar a el TM_h:11.43 cuando uno llamada alertar a el cecoes comunicar que uno mujer se haber precipitar desde uno camino mientras practicar senderismo en uno zona de difícil acceso en el lugar mencionar de este modo el 112 activar de inmediato el recurso de emergencia necesario debido_a el orografía de el terreno el helicóptero de el ges ser el que finalmente proceder a el rescate y traslado de el accidentado hasta el hospital_universitario_de_gran_canaria_doctor_negrín para que recibir el correspondiente asistencia sanitario en decir actuación también intervenir uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario bombero de el consorcio_de_emergencias_de_gran_canaria guardia_civil policía_local y protección_civil que colaborar en el localización de el afectado",
+        "lemmatized_text_reduced": "incidente tener_lugar llamada alertar cecoes comunicar mujer haber precipitar camino practicar senderismo zona difícil acceso lugar mencionar modo activar inmediato recurso emergencia necesario orografía terreno helicóptero ges ser finalmente proceder rescate traslado accidentado hospital_universitario_de_gran_canaria_doctor_negrín recibir correspondiente asistencia sanitario decir actuación intervenir ambulancia soporte vital básico servicio_de_urgencias_canario bombero consorcio_de_emergencias_de_gran_canaria guardia_civil policía_local protección_civil colaborar localización afectado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "GES",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Protección_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:11.43",
+            "112"
+        ]
+    }
+}

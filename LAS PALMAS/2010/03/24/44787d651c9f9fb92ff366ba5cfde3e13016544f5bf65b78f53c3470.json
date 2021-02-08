@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660264/0/",
+    "title": {
+        "raw_text": "Hallado muerto un preso en una celda de la prisión de Salto del Negro en Las Palmas de Gran Canaria",
+        "lemmatized_text": "hallar morir uno preso en uno celda de el prisión de salto_del_negro en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hallar morir preso celda prisión salto_del_negro las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Salto_del_Negro"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un preso de unos 30 años de edad ha sido hoy hallado muerto en una celda en la prisión de Salto del Negro, en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes de la Delegación del Gobierno en las islas.",
+        "lemmatized_text": "uno preso de uno 30 año de edad haber ser hoy hallar morir en uno celda en el prisión de salto_del_negro en las_palmas_de_gran_canaria según informar a europa_press fuente de el delegación_del_gobierno en el isla",
+        "lemmatized_text_reduced": "preso año edad haber ser hallar morir celda prisión salto_del_negro las_palmas_de_gran_canaria informar europa_press fuente delegación_del_gobierno isla",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Salto_del_Negro",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Delegación_del_Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "Hasta el momento se desconocen las causas de la muerte del reo, que fue encontrado a primeras horas de la mañana durante el recuento de internos, según añadieron las mismas fuentes, que informaron de que, tras el hallazgo se informó al juez de guardia y a la Policía Judicial que se encarga de esclarecer los hechos. Después de proceder al levantamiento del cadáver se le está haciendo la autopsia al cuerpo para determinar las causas del óbito. El centro penitenciario, creado para acoger a unos 700 presos, alberga en la actualidad a unos 1.400 reos. (Habrá ampliación)",
+        "lemmatized_text": "hasta el momento se desconocer el causa de el muerte de el reo que ser encontrar a 1 hora de el mañana durante el recuento de interno según añadir el mismo fuente que informar de que tras el hallazgo se informar a el juez de guardia y a el policía_judicial que se encargar de esclarecer el hecho después_de proceder a el levantamiento de el cadáver se le estar hacendar el autopsia a el cuerpo para determinar el causa de el óbito el centro penitenciario crear para acoger a uno 700 preso albergar en el actualidad a uno 1.4 reo haber ampliación",
+        "lemmatized_text_reduced": "momento desconocer causa muerte reo ser encontrar 1 hora mañana recuento interno añadir mismo fuente informar hallazgo informar juez guardia policía_judicial encargar esclarecer hecho proceder levantamiento cadáver estar hacendar autopsia cuerpo determinar causa óbito centro penitenciario crear acoger preso albergar actualidad reo haber ampliación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Judicial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "700",
+            "1.4"
+        ]
+    }
+}

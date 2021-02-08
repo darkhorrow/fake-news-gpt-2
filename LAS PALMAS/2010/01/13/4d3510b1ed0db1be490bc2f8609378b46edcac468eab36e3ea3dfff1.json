@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/605586/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias promocionará las islas en Viena",
+        "lemmatized_text": "el gobierno_de_canarias promocionar el isla en viena",
+        "lemmatized_text_reduced": "gobierno_de_canarias promocionar isla viena",
+        "persons": [],
+        "locations": [
+            "Viena"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, promocionará las islas como destino turístico en la celebración de Ferien, evento que tiene lugar en Viena desde el 14 al 17 de enero.",
+        "lemmatized_text": "el consejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur promocionar el isla como destino turístico en el celebración de ferien evento que tener_lugar en viena desde el 14 a el [??:17/1/??:??.??:??]",
+        "lemmatized_text_reduced": "consejería_de_turismo_del_gobierno_de_canarias empresa público promotur promocionar isla destino turístico celebración ferien evento tener_lugar viena",
+        "persons": [
+            "Ferien"
+        ],
+        "locations": [
+            "Viena"
+        ],
+        "organizations": [
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur"
+        ],
+        "others": [],
+        "dates": [
+            "[??:17/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "14"
+        ]
+    },
+    "body": {
+        "raw_text": "Canarias tendrá, en la citada Feria, un espacio dentro del recinto expositor de Turespaña con la finalidad de publicitar la oferta turística canaria entre los visitantes a este evento austriaco, según informó el Ejecutivo regional en nota de prensa. De esta forma, el archipiélago pretende impulsar las reservas de turistas de esta nacionalidad, ya que las islas tienen conexiones aéreas directas con Austria a través de las líneas aéreas Austrian Airlines y Air Berlín-Fliniki. Además, en ediciones anteriores de dicha Feria, los visitantes \"han mostrado interés\" por la oferta de sol y playa, los campos de golf de las islas, las instalaciones de spa y otros tratamientos para el relax del cuerpo y mente, así como la oferta cultural y la tradición gastronómica canaria. Este año Ferien cumple su 27 edición. El pasado año esta Feria tuvo alrededor de 30.000 metros cuadrados de exposición y contó con 105.439 visitantes, así como con 823 expositores procedentes de 71 países, según datos aportados por la organización ferial.",
+        "lemmatized_text": "canario tener en el citar feria uno espacio dentro de el recinto expositor de turespaña con el finalidad de publicitar el oferta turístico canario entre el visitante a este evento austriaco según informar el ejecutivo regional en nota de prensa de este forma el archipiélago pretender impulsar el reserva de turista de este nacionalidad ya_que el isla tener conexión aéreo directo con austria a_través_de el línea aéreo austrian_airlines y air_berlín-fliniki además en edición anterior de dicha feria el visitante haber mostrar interés por el oferta de sol y playa el campo de golf de el isla el instalación de spa y otro tratamiento para el relax de el cuerpo y mente así_como el oferta cultural y el tradición gastronómico canario este año ferien cumplir su 27 edición el pasar año este feria tener alrededor_de AR_m2:30 de exposición y contar con 105.439 visitante así_como con 823 expositor procedente de 71 país según dato aportar por el organización ferial",
+        "lemmatized_text_reduced": "canario tener citar feria espacio recinto expositor turespaña finalidad publicitar oferta turístico canario visitante evento austriaco informar ejecutivo regional nota prensa forma archipiélago pretender impulsar reserva turista nacionalidad isla tener conexión aéreo directo austria línea aéreo austrian_airlines air_berlín-fliniki edición anterior dicha feria visitante haber mostrar interés oferta sol playa campo golf isla instalación spa tratamiento relax cuerpo mente oferta cultural tradición gastronómico canario año ferien cumplir edición pasar año feria tener exposición contar visitante expositor procedente país dato aportar organización ferial",
+        "persons": [
+            "Ferien"
+        ],
+        "locations": [
+            "Feria",
+            "Turespaña"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Austria",
+            "Austrian_Airlines",
+            "Air_Berlín-Fliniki"
+        ],
+        "others": [
+            "Feria",
+            "Feria"
+        ],
+        "dates": [],
+        "numbers": [
+            "27",
+            "AR_m2:30",
+            "105.439",
+            "823",
+            "71"
+        ]
+    }
+}

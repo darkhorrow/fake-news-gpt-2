@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/721609/0/",
+    "title": {
+        "raw_text": "Lanzarote estará hoy en situación de riesgo amarillo por fuertes vientos y oleaje, según la Aemet",
+        "lemmatized_text": "lanzarote estar hoy en situación de riesgo amarillo por fuerte viento y oleaje según el aemet",
+        "lemmatized_text_reduced": "lanzarote estar situación riesgo amarillo fuerte viento oleaje aemet",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Lanzarote",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) mantendrá activada hasta mañana la situación de riesgo amarillo en la isla de Lanzarote por fuertes vientos y oleaje.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet mantener activar hasta mañana el situación de riesgo amarillo en el isla de lanzarote por fuerte viento y oleaje",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet mantener activar situación riesgo amarillo isla lanzarote fuerte viento oleaje",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, la isla registrará rachas máximas de viento de 70 kilómetros por hora hasta primeras horas del domingo, según los datos recogidos por Europa Press. Igualmente, la Aemet prevé fenómeno costero adverso en el litoral de la isla de nordeste fuerza cinco, arreciando a fuerza seis al final, acompañado de marejada aumentando a fuerte marejada hacia el norte por la tarde y mar de fondo del norte y noroeste de un metro.",
+        "lemmatized_text": "en concreto el isla registrar racha máximo de viento de SP_km/h:70 hasta 1 hora de el [G:??/??/??:??.??:??] según el dato recoger por europa_press igualmente el aemet prever fenómeno costero adverso en el litoral de el isla de nordeste fuerza 5 arreciar a fuerza 6 a el final acompañar de marejada aumentar a fuerte marejada hacia el norte por el tarde y mar de fondo de el norte y noroeste de uno metro",
+        "lemmatized_text_reduced": "concreto isla registrar racha máximo viento 1 hora dato recoger europa_press igualmente aemet prever fenómeno costero adverso litoral isla nordeste fuerza arreciar fuerza final acompañar marejada aumentar fuerte marejada norte tarde mar fondo norte noroeste metro",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Europa_Press",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:70",
+            "5",
+            "6"
+        ]
+    }
+}

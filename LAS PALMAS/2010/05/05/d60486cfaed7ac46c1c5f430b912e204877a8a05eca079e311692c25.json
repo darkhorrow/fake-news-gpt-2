@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/697561/0/",
+    "title": {
+        "raw_text": "Localizan el cuerpo del hombre que cayó al mar en la costa norte de Gran Canaria",
+        "lemmatized_text": "localizar el cuerpo de el hombre que caer a el mar en el costa norte de gran_canaria",
+        "lemmatized_text_reduced": "localizar cuerpo hombre caer mar costa norte gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El trabajo se centra ahora en el rescate del cuerpo",
+        "lemmatized_text": "el trabajo se centrar ahora en el rescate de el cuerpo",
+        "lemmatized_text_reduced": "trabajo centrar rescate cuerpo",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los servicios de emergencias están trabajando en el rescate del cuerpo de F.J.S.R., el hombre que cayó durante la jornada de ayer al mar en la costa de Tinoca, dentro del término municipal de Arucas (Gran Canaria), después de que se localizara su cuerpo sin vida durante las horas centrales de hoy, según informaron a Europa Press fuentes de la Guardia Civil. Los hechos ocurrieron ayer, a las 12.37 horas, cuando varias llamadas alertaron al 112 de que una persona, que se encontraba pescando en la citada zona, había caído al agua por motivos que se desconocen. Posteriormente, los servicios de emergencia activaron de inmediato el dispositivo pertinente para ello. De esta manera, los cuerpos de rescate centran ahora sus esfuerzos en la recuperación del cadáver, mientras que las mismas fuentes explicaron que hasta que no concluya el dispositivo no se podrán conocer más datos sobre las causas del fallecimiento ni los motivos de la caída al mar. Así, en dicha intervención han participado un helicóptero y una unidad de tierra del Grupo de Emergencias y Salvamento (GES), así como un helicóptero y una embarcación de Salvamento Marítimo, dos rescatadores del Consorcio de Emergencias de Gran Canaria, una ambulancia sanitarizada del Servicio de Urgencias Canario, Policía Local y Guardia Civil. Finalmente, será la Benemérita la que se encargue de llevar a cabo las diligencias correspondientes en relación con este suceso.",
+        "lemmatized_text": "el servicio de emergencia estar trabajar en el rescate de el cuerpo de f.j.s.r. el hombre que caer durante el jornada de ayer a el mar en el costa de tinoca dentro de el término municipal de arucas gran_canaria después_de que se localizar su cuerpo sin vida durante el hora central de hoy según informar a europa_press fuente de el guardia_civil el hecho ocurrir ayer a el TM_h:12.37 cuando varios llamada alertar a el 112 de que uno persona que se encontrar pescar en el citar zona haber caer a el agua por motivo que se desconocer posteriormente el servicio de emergencia activar de inmediato el dispositivo pertinente para ello de este manera el cuerpo de rescate centrar ahora su esfuerzo en el recuperación de el cadáver mientras_que el mismo fuente explicar que hasta que no concluir el dispositivo no se poder conocer más dato sobre el causa de el fallecimiento ni el motivo de el caída a el marzo así en decir intervención haber participar uno helicóptero y uno unidad de tierra de el grupo_de_emergencias y salvamento ges así_como uno helicóptero y uno embarcación de salvamento_marítimo 2 rescatador de el consorcio_de_emergencias_de_gran_canaria uno ambulancia sanitarizada de el servicio_de_urgencias_canario policía_local y guardia_civil finalmente ser el benemérita el que se encargar de llevar_a_cabo el diligencia correspondiente en relación con este suceso",
+        "lemmatized_text_reduced": "servicio emergencia estar trabajar rescate cuerpo f.j.s.r. hombre caer jornada mar costa tinoca término municipal arucas gran_canaria localizar cuerpo vida hora central informar europa_press fuente guardia_civil hecho ocurrir llamada alertar persona encontrar pescar citar zona haber caer agua motivo desconocer posteriormente servicio emergencia activar inmediato dispositivo pertinente manera cuerpo rescate centrar esfuerzo recuperación cadáver mismo fuente explicar concluir dispositivo poder conocer dato causa fallecimiento motivo caída marzo así decir intervención haber participar helicóptero unidad tierra grupo_de_emergencias salvamento ges helicóptero embarcación salvamento_marítimo rescatador consorcio_de_emergencias_de_gran_canaria ambulancia sanitarizada servicio_de_urgencias_canario policía_local guardia_civil finalmente ser benemérita encargar llevar_a_cabo diligencia correspondiente relación suceso",
+        "persons": [
+            "Europa_Press",
+            "Así",
+            "Salvamento",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Tinoca",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "F.J.S.R.",
+            "Guardia_Civil",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "Policía_Local",
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.37",
+            "112",
+            "2"
+        ]
+    }
+}

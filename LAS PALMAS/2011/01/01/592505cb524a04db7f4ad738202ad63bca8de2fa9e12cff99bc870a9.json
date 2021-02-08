@@ -1,0 +1,124 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/918249/0/",
+    "title": {
+        "raw_text": "El primer nacimiento de Canarias de 2011 tiene lugar en el Hospital Materno Infantil de Gran Canaria",
+        "lemmatized_text": "el 1 nacimiento de canarias de 2011 tener_lugar en el hospital_materno_infantil_de_gran_canaria",
+        "lemmatized_text_reduced": "1 nacimiento canarias tener_lugar hospital_materno_infantil_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Hospital_Materno_Infantil_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2011"
+        ]
+    },
+    "lead": {
+        "raw_text": "El primer nacimiento de 2011 en los centros públicos de Canarias se produjo en el Hospital Universitario Materno Infantil de Gran Canaria, después de que una niña, de dos kilos, naciera a las 02.02 horas de este 1 de enero.",
+        "lemmatized_text": "el 1 nacimiento de 2011 en el centro público de canarias se producir en el hospital_universitario_materno_infantil_de_gran_canaria después_de que uno niño de 2 kilo nacer a el TM_h:2.02 de este [??:1/1/??:??.??:??]",
+        "lemmatized_text_reduced": "1 nacimiento centro público canarias producir hospital_universitario_materno_infantil_de_gran_canaria niño kilo nacer",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Hospital_Universitario_Materno_Infantil_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "2011",
+            "2",
+            "TM_h:2.02"
+        ]
+    },
+    "body": {
+        "raw_text": "El primer nacimiento de 2011 en los centros públicos de Canarias se produjo en el Hospital Universitario Materno Infantil de Gran Canaria, después de que una niña, de dos kilos, naciera a las 02.02 horas de este 1 de enero. La primera niña en nacer en Canarias lo hizo tras tener su madre un parto normal y ambas se encuentran en buen estado de salud. Los padres de la pequeña son de nacionalidad española, según informó el Ejecutivo regional en un comunicado. Tras el nacimiento de esta niña, a las 03.24 horas en el Hospital Universitario de Canarias (HUC) nació Leo, de madre alemana y padre español. El niño ha pesado 3.190 gramos y mide 50,5 centímetros tras un parto normal. Posteriormente, en el Hospital José Molina Orosa de Lanzarote, el primer nacimiento de dicho centro se produjo a las 04.24 horas cuando una madre cordobesa dio a luz a su segundo hijo, una niña que pesó 3.170 gramos y midió 48 centímetros. Así, en el Hospital General de La Palma el primer nacimiento fue a las 05.14 horas. En esta ocasión una madre de 22 años de edad y natural de Breña Alta, que tuvo que ser asistida mediante ventosa, dio a luz a un niño que pesó 3.110 gramos. Otro hospital, el de Nuestra Señora de Candelaria, en Tenerife, el primer parto de 2011 fue a las 05.23 horas, y fue una niña que para que naciera también hubo que asistir a su madre mediante ventosa. Respecto al hospital de Fuerteventura, el primer nacimiento se produjo a las 08.20 horas. En dicho centro nació una niña que pesó 2.170 gramos y de madre de Burkina Faso. En cuanto a los hospitales públicos de las islas de La Gomera y El Hierro no se han sucedido nacimientos en el comienzo de este 2011. Aitana la última en nacer en 2010 Por otro lado, el último nacimiento de 2010 en el archipiélago se produjo en el Hospital Universitario de Canarias, a las 23.55 horas. Aitana nació cinco minutos antes de las campanadas con un peso de 3.430 gramos y con 52 centímetros de talla. Es el segundo hijo de una pareja española. Otra niña nació dos minutos antes que Aitana, a las 23.53 horas en el Hospital Universitario Materno Infantil de Gran Canaria a través de un parto normal. La pequeña de padres españoles pesó al nacer 3.450 gramos. En el Hospital Universitario Nuestra Señora de Candelaria el último en nacer fue Alex, a las 23.14 horas. El niño de padres rumanos peso de 2.855 gramos. El Hospital José Molina Orosa de Lanzarote tuvo su último nacimiento de 2010 a las 16.50 horas del 31 de diciembre. En esta ocasión la madre, de Lanzarote, dio a luz a un niño que pesó 3.400 gramos y midió 48 centímetros. Finalmente, en el Hospital General de Fuerteventura el último niño en nacer lo hizo a las 13.44 horas y pesó 3.460 gramos, de madre colombiana. Asimismo, en el Hospital General de La Palma se registró el último parto del 31 de diciembre a las 14.00 horas.",
+        "lemmatized_text": "el 1 nacimiento de 2011 en el centro público de canarias se producir en el hospital_universitario_materno_infantil_de_gran_canaria después_de que uno niño de 2 kilo nacer a el TM_h:2.02 de este [??:1/1/??:??.??:??] el 1 niño en nacer en canarias lo hacer tras tener su madre uno parto normal y ambos se encontrar en bueno estado de salud el padre de el pequeño ser de nacionalidad español según informar el ejecutivo regional en uno comunicado tras el nacimiento de este niño a el TM_h:3.24 en el hospital_universitario_de_canarias huc nacer leo de madre alemán y padre español el niño haber pesar WG_g:3.19 y medir LN_cm:50,5 tras uno parto normal posteriormente en el hospital_josé_molina_orosa_de_lanzarote el 1 nacimiento de decir centro se producir a el TM_h:4.24 cuando uno madre cordobés dar a luz a su 2 hijo uno niño que pesar WG_g:3.17 y medir LN_cm:48 así en el hospital_general_de_la_palma el 1 nacimiento ser a el TM_h:5.14 en este ocasión uno madre de 22 año de edad y natural de breña_alta que tener que ser asistir mediante ventosa dar a luz a uno niño que pesar WG_g:3.11 otro hospital el de nuestra_señora_de_candelaria en tenerife el 1 parto de 2011 ser a el TM_h:5.23 y ser uno niño que para que nacer también haber que asistir a su madre mediante ventosa respecto a el hospital de fuerteventura el 1 nacimiento se producir a el TM_h:8.2 en decir centro nacer uno niño que pesar WG_g:2.17 y de madre de burkina_faso en_cuanto_a el hospital público de el isla de la_gomera y el_hierro no se haber suceder nacimiento en el comienzo de este 2011 aitana el último en nacer en 2010 por_otro_lado el último nacimiento de 2010 en el archipiélago se producir en el hospital_universitario_de_canarias a el TM_h:23.55 aitana nacer TM_min:5 antes_de el campanada con uno peso de WG_g:3.43 y con LN_cm:52 de talla ser el 2 hijo de uno pareja español otro niño nacer TM_min:2 antes que aitana a el TM_h:23.53 en el hospital_universitario_materno_infantil_de_gran_canaria a_través_de uno parto normal el pequeño de padre español pesar a el nacer WG_g:3.45 en el hospital_universitario_nuestra_señora_de_candelaria el último en nacer ser alex a el TM_h:23.14 el niño de padre rumano peso de WG_g:2.855 el hospital_josé_molina_orosa_de_lanzarote tener su último nacimiento de 2010 a el [??:31/12/??:4.00:pm] en este ocasión el madre de lanzarote dar a luz a uno niño que pesar WG_g:3.4 y medir LN_cm:48 finalmente en el hospital_general_de_fuerteventura el último niño en nacer lo hacer a el TM_h:13.44 y pesar WG_g:3.46 de madre colombiano asimismo en el hospital_general_de_la_palma se registrar el último parto de el [??:31/12/??:2.00:pm]",
+        "lemmatized_text_reduced": "1 nacimiento centro público canarias producir hospital_universitario_materno_infantil_de_gran_canaria niño kilo nacer 1 niño nacer canarias hacer tener madre parto normal encontrar bueno estado salud padre pequeño ser nacionalidad español informar ejecutivo regional comunicado nacimiento niño hospital_universitario_de_canarias huc nacer leo madre alemán padre español niño haber pesar medir parto normal posteriormente hospital_josé_molina_orosa_de_lanzarote 1 nacimiento decir centro producir madre cordobés dar luz 2 hijo niño pesar medir hospital_general_de_la_palma 1 nacimiento ser ocasión madre año edad natural breña_alta tener ser asistir ventosa dar luz niño pesar hospital nuestra_señora_de_candelaria tenerife 1 parto ser ser niño nacer haber asistir madre ventosa respecto hospital fuerteventura 1 nacimiento producir decir centro nacer niño pesar madre burkina_faso hospital público isla la_gomera el_hierro haber suceder nacimiento comienzo aitana último nacer por_otro_lado último nacimiento archipiélago producir hospital_universitario_de_canarias aitana nacer campanada peso talla ser 2 hijo pareja español niño nacer aitana hospital_universitario_materno_infantil_de_gran_canaria parto normal pequeño padre español pesar nacer hospital_universitario_nuestra_señora_de_candelaria último nacer ser alex niño padre rumano peso hospital_josé_molina_orosa_de_lanzarote tener último nacimiento ocasión madre lanzarote dar luz niño pesar medir finalmente hospital_general_de_fuerteventura último niño nacer hacer pesar madre colombiano hospital_general_de_la_palma registrar último parto",
+        "persons": [
+            "Leo",
+            "Breña_Alta",
+            "Burkina_Faso",
+            "Aitana",
+            "Aitana",
+            "Aitana",
+            "Alex"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Hospital_Universitario_de_Canarias",
+            "Hospital_José_Molina_Orosa_de_Lanzarote",
+            "Nuestra_Señora_de_Candelaria",
+            "Tenerife",
+            "La_Gomera",
+            "El_Hierro",
+            "Hospital_Universitario_de_Canarias",
+            "Hospital_Universitario_Nuestra_Señora_de_Candelaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Hospital_Universitario_Materno_Infantil_de_Gran_Canaria",
+            "Ejecutivo",
+            "HUC",
+            "Hospital_General_de_La_Palma",
+            "Fuerteventura",
+            "Hospital_José_Molina_Orosa_de_Lanzarote",
+            "Hospital_General_de_La_Palma"
+        ],
+        "others": [
+            "Por_otro_lado",
+            "Hospital_Universitario_Materno_Infantil_de_Gran_Canaria",
+            "Hospital_General_de_Fuerteventura"
+        ],
+        "dates": [
+            "[??:1/1/??:??.??:??]",
+            "[??:31/12/??:4.00:pm]",
+            "[??:31/12/??:2.00:pm]"
+        ],
+        "numbers": [
+            "2011",
+            "2",
+            "TM_h:2.02",
+            "TM_h:3.24",
+            "WG_g:3.19",
+            "LN_cm:50,5",
+            "TM_h:4.24",
+            "WG_g:3.17",
+            "LN_cm:48",
+            "TM_h:5.14",
+            "22",
+            "WG_g:3.11",
+            "2011",
+            "TM_h:5.23",
+            "TM_h:8.2",
+            "WG_g:2.17",
+            "2011",
+            "2010",
+            "2010",
+            "TM_h:23.55",
+            "TM_min:5",
+            "WG_g:3.43",
+            "LN_cm:52",
+            "TM_min:2",
+            "TM_h:23.53",
+            "WG_g:3.45",
+            "TM_h:23.14",
+            "WG_g:2.855",
+            "2010",
+            "WG_g:3.4",
+            "LN_cm:48",
+            "TM_h:13.44",
+            "WG_g:3.46"
+        ]
+    }
+}

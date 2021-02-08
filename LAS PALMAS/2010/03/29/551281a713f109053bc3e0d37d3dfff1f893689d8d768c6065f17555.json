@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664257/0/",
+    "title": {
+        "raw_text": "La Guardia Civil detiene a dos personas en Gran Canaria por un delito contra la salud pública",
+        "lemmatized_text": "el guardia_civil detener a 2 persona en gran_canaria por uno delito contra el salud público",
+        "lemmatized_text_reduced": "guardia_civil detener persona gran_canaria delito salud público",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha detenido a dos personas en la isla de Gran Canaria por cometer un presunto delito contra la salud pública. Así, los arrestados son un hombre de nacionalidad portuguesa y una mujer española.",
+        "lemmatized_text": "el guardia_civil haber detener a 2 persona en el isla de gran_canaria por cometer uno presunto delito contra el salud público así el arrestar ser uno hombre de nacionalidad portugués y uno mujer español",
+        "lemmatized_text_reduced": "guardia_civil haber detener persona isla gran_canaria cometer presunto delito salud público arrestar ser hombre nacionalidad portugués mujer español",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron el pasado sábado, 27 de marzo, cuando agentes de la Guardia Civil de la Comandancia de Las Palmas de Gran Canaria, detuvieron en el Aeropuerto de Gran Canaria al hombre cuando trataba de pasar el control de pasajeros, ocultando en el calzado que llevaba puesto en ese momento más de 500 gramos de cocaína. Seguidamente, según informó la Guardia Civil en nota de prensa, los agentes localizaron y detuvieron en Las Palmas de Gran Canaria a una mujer española, que resultó ser la receptora de la droga y que, posteriormente, junto a su marido de origen nigeriano, eran los encargados de distribuirla al consumidor en la isla de Gran Canaria. Asimismo, la Benemérita realizó un registro domiciliario donde se halló una balanza de precisión, usada en la preparación de las dosis de droga, y en el transcurso de la operación se intervinieron también 4.500 euros, fruto de la venta de estupefacientes. Los detenidos y los efectos intervenidos fueron puestos a disposición judicial del Juzgado de Instrucción de Telde.",
+        "lemmatized_text": "el hecho se producir el [S:27/3/??:??.??:??] cuando agente de el guardia_civil_de_la_comandancia_de_las_palmas_de_gran_canaria detener en el aeropuerto_de_gran_canaria a el hombre cuando tratar de pasar el control de pasajero ocultar en el calzado que llevar poner en ese momento más de WG_g:500 de cocaína seguidamente según informar el guardia_civil en nota de prensa el agente localizar y detener en las_palmas_de_gran_canaria a uno mujer español que resultar ser el receptor de el droga y que posteriormente junto_a su marido de origen nigeriano ser el encargar de distribuir lo a el consumidor en el isla de gran_canaria asimismo el benemérita realizar uno registro domiciliario donde se hallar uno balanza de precisión usar en el preparación de el dosis de droga y en el transcurso de el operación se intervenir también $_ECU:4.5 fruto de el venta de estupefaciente el detenido y el efecto intervenir ser poner a disposición judicial de el juzgado_de_instrucción_de_telde",
+        "lemmatized_text_reduced": "hecho producir agente guardia_civil_de_la_comandancia_de_las_palmas_de_gran_canaria detener aeropuerto_de_gran_canaria hombre tratar pasar control pasajero ocultar calzado llevar poner momento cocaína seguidamente informar guardia_civil nota prensa agente localizar detener las_palmas_de_gran_canaria mujer español resultar ser receptor droga posteriormente marido origen nigeriano ser encargar distribuir consumidor isla gran_canaria benemérita realizar registro domiciliario hallar balanza precisión usar preparación dosis droga transcurso operación intervenir fruto venta estupefaciente detenido efecto intervenir ser poner disposición judicial juzgado_de_instrucción_de_telde",
+        "persons": [],
+        "locations": [
+            "Aeropuerto_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil_de_la_Comandancia_de_Las_Palmas_de_Gran_Canaria",
+            "Guardia_Civil",
+            "Benemérita",
+            "Juzgado_de_Instrucción_de_Telde"
+        ],
+        "others": [],
+        "dates": [
+            "[S:27/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "WG_g:500",
+            "$_ECU:4.5"
+        ]
+    }
+}

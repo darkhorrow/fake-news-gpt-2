@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/707304/0/",
+    "title": {
+        "raw_text": "La primera promoción de la Policía Autonómica Canaria visita el Cabildo de Lanzarote",
+        "lemmatized_text": "el 1 promoción de el policía_autonómica_canaria visitar el cabildo_de_lanzarote",
+        "lemmatized_text_reduced": "1 promoción policía_autonómica_canaria visitar cabildo_de_lanzarote",
+        "persons": [],
+        "locations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "organizations": [
+            "Policía_Autonómica_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Cabildo de Lanzarote, Pedro San Ginés, ha recibido hoy a parte de la primera promoción del Cuerpo General de la Policía Autonómica de Canarias.",
+        "lemmatized_text": "el presidente de el cabildo_de_lanzarote pedro_san_ginés haber recibir hoy a parte de el 1 promoción de el cuerpo_general_de_la_policía_autonómica_de_canarias",
+        "lemmatized_text_reduced": "presidente cabildo_de_lanzarote pedro_san_ginés haber recibir parte 1 promoción cuerpo_general_de_la_policía_autonómica_de_canarias",
+        "persons": [
+            "Pedro_San_Ginés"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Cuerpo_General_de_la_Policía_Autonómica_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Se trata de un grupo de 25 agentes, entre ellos dos mujeres, que están en la fase teórica de su preparación académica, informó la corporación insular en un comunicado. Los agentes llevan cinco días en Lanzarote realizando prácticas sobre salvamento acuático, subacuático y primeros auxilios, para lo que han contado con la colaboración logística del Consorcio de Seguridad y Emergencias del Cabildo de Lanzarote. Desea \"larga vida\" al cuerpo El presidente del Cabildo, Pedro San Ginés, resaltó ante estos jóvenes y futuros policías, con edades comprendidas entre los 18 y 30 años, que \"es sin duda un orgullo ver nacer a un cuerpo policial propio que en primera instancia estará dedicado a la custodia y vigilancia de los edificios públicos\", deseándoles una \"larga vida a la Policía Autonómica Canaria\". Esta primera promoción de la Policía Autonómica estará formada por cien agentes, de los que cincuenta se encuentran haciendo prácticas teóricas entre Lanzarote y La Palma.",
+        "lemmatized_text": "se tratar de uno grupo de 25 agente entre ellos 2 mujer que estar en el fase teórico de su preparación académico informar el corporación insular en uno comunicado el agente llevar TM_d:5 en lanzarote realizar práctica sobre salvamento acuático subacuático y 1 auxilio para el que haber contar con el colaboración logístico de el consorcio_de_seguridad y emergencias_del_cabildo_de_lanzarote desear largo vida a el cuerpo el presidente de el cabildo pedro_san_ginés resaltar ante este joven y futuro policía con edad comprender entre el 18 y 30 año que ser sin dudar uno orgullo ver nacer a uno cuerpo policial propio que en 1 instancia estar dedicar a el custodia y vigilancia de el edificio público desear le uno largo vida a el policía_autonómica_canaria este 1 promoción de el policía_autonómica estar formar por 100 agente de el que 50 se encontrar hacer práctica teórico entre lanzarote y la_palma",
+        "lemmatized_text_reduced": "tratar grupo agente mujer estar fase teórico preparación académico informar corporación insular comunicado agente llevar lanzarote realizar práctica salvamento acuático subacuático 1 auxilio haber contar colaboración logístico consorcio_de_seguridad emergencias_del_cabildo_de_lanzarote desear largo vida cuerpo el presidente cabildo pedro_san_ginés resaltar joven futuro policía edad comprender año ser dudar orgullo ver nacer cuerpo policial propio 1 instancia estar dedicar custodia vigilancia edificio público desear largo vida policía_autonómica_canaria 1 promoción policía_autonómica estar formar agente encontrar hacer práctica teórico lanzarote la_palma",
+        "persons": [
+            "Pedro_San_Ginés"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Lanzarote",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Consorcio_de_Seguridad",
+            "El",
+            "Cabildo",
+            "Policía_Autonómica_Canaria",
+            "Policía_Autonómica"
+        ],
+        "others": [
+            "Emergencias_del_Cabildo_de_Lanzarote"
+        ],
+        "dates": [],
+        "numbers": [
+            "25",
+            "2",
+            "TM_d:5",
+            "18",
+            "30",
+            "100",
+            "50"
+        ]
+    }
+}

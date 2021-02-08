@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/726089/0/",
+    "title": {
+        "raw_text": "Un hombre de 60 años fallece por parada cardiorespiratoria en plena calle de la capital grancanaria",
+        "lemmatized_text": "uno hombre de 60 año fallecer por parada cardiorespiratoria en pleno calle de el capital grancanaria",
+        "lemmatized_text_reduced": "hombre año fallecer parada cardiorespiratoria pleno calle capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "60"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 60 años de edad ha fallecido hoy como consecuencia de una parada cardiorespiratoria en plena calle de Las Palmas de Gran Canaria, según indicó a Europa Press el Servicio de Emergencias canario, Cecoes 112.",
+        "lemmatized_text": "uno varón de 60 año de edad haber fallecer hoy como consecuencia de uno parada cardiorespiratoria en pleno calle de las_palmas_de_gran_canaria según indicar a europa_press_el_servicio_de_emergencias canario cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber fallecer consecuencia parada cardiorespiratoria pleno calle las_palmas_de_gran_canaria indicar europa_press_el_servicio_de_emergencias canario cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Servicio_de_Emergencias"
+        ],
+        "others": [
+            "Cecoes"
+        ],
+        "dates": [],
+        "numbers": [
+            "60",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, el suceso tuvo lugar a las 07.45 horas en la calle de Luis Benítez Inglott en la capital grancanaria cuando se encontró una persona tumbada que no respondía a los estímulos. El Servicio de Emergencias Canario (SUC) lo atendió pero finalmente sólo pudo constatar su fallecimiento.",
+        "lemmatized_text": "en concreto el suceso tener_lugar a el TM_h:7.45 en el calle de luis_benítez_inglott en el capital grancanaria cuando se encontrar uno persona tumbar que no responder a el estímulo el servicio_de_emergencias_canario suc lo atender pero finalmente sólo poder constatar su fallecimiento",
+        "lemmatized_text_reduced": "concreto suceso tener_lugar calle luis_benítez_inglott capital grancanaria encontrar persona tumbar responder estímulo servicio_de_emergencias_canario suc atender finalmente poder constatar fallecimiento",
+        "persons": [
+            "Luis_Benítez_Inglott"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Emergencias_Canario",
+            "SUC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.45"
+        ]
+    }
+}

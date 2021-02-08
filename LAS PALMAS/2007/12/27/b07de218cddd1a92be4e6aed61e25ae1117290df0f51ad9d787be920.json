@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/327044/0/ano/nuevo/canarias/",
+    "title": {
+        "raw_text": "En Las Canteras habrá fuegos artificiales y música para recibir el año",
+        "lemmatized_text": "en las_canteras haber fuego artificial y música para recibir el año",
+        "lemmatized_text_reduced": "las_canteras haber fuego artificial música recibir año",
+        "persons": [],
+        "locations": [
+            "Las_Canteras"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Será transmitido en directo por TVE. 220 kilos de pólvora iluminaran la playa. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "ser transmitir en directo por tve 220 kilo de pólvora iluminar el playa consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ser transmitir directo tve kilo pólvora iluminar playa consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "TVE",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "220"
+        ]
+    },
+    "body": {
+        "raw_text": "Los últimos momentos del 2007 se podrán vivir de manera especial en la Playa de Las Canteras de Las Palmas . Un espectáculo de fuegos artificiales desde la Plaza de La Puntilla y un concierto de música en directo desde la Plaza de Saulo Torón servirán para dar la bienvenida al nuevo año en un acto que será retransmitido en directo por la Primera Cadena y el Canal Internacional de TVE. La Playa de Las Canteras será la imagen que esta cadena de Televisión utilizará para llevar al resto del mundo la llegada a las islas del nuevo año. Roberto Herrera presentará el acto desde el Paseo de Las Canteras a la altura del Belén de Arena donde también se situará la pantalla con el reloj digital que marcará los últimos segundo de 2007. La pirotecnia Francisco Dávila se encargará de lanzar un espectáculo de fuegos artificiales con 220 kilos de pólvora que durante 10 minutos iluminarán toda la bahía de Las Canteras y El Confital. La banda Sin Saldo será, de otro lado, la encargada de amenizar musicalmente la noche desde las 11,00 h . a fin de hacer más corta la espera para todos aquellos que decidan comerse las doce uvas de la suerte en la playa. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el último momento de el 2007 se poder vivir de manera especial en el playa_de_las_canteras_de_las_palmas uno espectáculo de fuego artificial desde el plaza_de_la_puntilla y uno concierto de música en directo desde el plaza_de_saulo_torón servir para dar el bienvenida a el nuevo año en uno acto que ser retransmitir en directo por el primera_cadena y el canal_internacional_de_tve el playa_de_las_canteras ser el imagen que este cadena de televisión utilizar para llevar a el resto de el mundo el llegada a el isla de el nuevo año roberto_herrera presentar el acto desde el paseo_de_las_canteras a el altura de el belén_de_arena donde también se situar el pantalla con el reloj digital que marcar el último segundo de 2007 el pirotecnia francisco_dávila se encargar de lanzar uno espectáculo de fuego artificial con 220 kilo de pólvora que durante TM_min:10 iluminar todo el bahía de las_canteras y el_confital el banda sin_saldo ser de otro lado el encargado de amenizar musicalmente el noche desde el TM_h:11,00 a_fin_de hacer más corto el espera para todo aquel que decidir comer se el 12 uva de el suerte en el playa consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "último momento poder vivir manera especial playa_de_las_canteras_de_las_palmas espectáculo fuego artificial plaza_de_la_puntilla concierto música directo plaza_de_saulo_torón servir dar bienvenida nuevo año acto ser retransmitir directo primera_cadena canal_internacional_de_tve playa_de_las_canteras ser imagen cadena televisión utilizar llevar resto mundo llegada isla nuevo año roberto_herrera presentar acto paseo_de_las_canteras altura belén_de_arena situar pantalla reloj digital marcar último segundo pirotecnia francisco_dávila encargar lanzar espectáculo fuego artificial kilo pólvora iluminar bahía las_canteras el_confital banda sin_saldo ser lado encargado amenizar musicalmente noche hacer corto espera decidir comer uva suerte playa consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Roberto_Herrera",
+            "Francisco_Dávila",
+            "Sin_Saldo"
+        ],
+        "locations": [
+            "Plaza_de_La_Puntilla",
+            "Plaza_de_Saulo_Torón",
+            "Playa_de_Las_Canteras",
+            "Paseo_de_Las_Canteras",
+            "Las_Canteras",
+            "El_Confital"
+        ],
+        "organizations": [
+            "Primera_Cadena",
+            "Canal_Internacional_de_TVE",
+            "Televisión",
+            "Belén_de_Arena",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Playa_de_Las_Canteras_de_Las_Palmas"
+        ],
+        "dates": [],
+        "numbers": [
+            "2007",
+            "2007",
+            "220",
+            "TM_min:10",
+            "TM_h:11,00",
+            "12"
+        ]
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639010/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias suspende las clases y actividades extraescolares por la alerta máxima por vientos",
+        "lemmatized_text": "el gobierno_de_canarias suspender el clase y actividad extraescolar por el alerta máximo por viento",
+        "lemmatized_text_reduced": "gobierno_de_canarias suspender clase actividad extraescolar alerta máximo viento",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias ha decidido suspender las clases y actividades extraescolares en horario de tarde para el día de hoy en Tenerife, La Palma, La Gomera y El Hierro, así como en los municipios de Tejeda, Artenara, Valleseco y Vega San Mateo de la isla de Gran Canaria.",
+        "lemmatized_text": "el consejería_de_educación universidades cultura y deportes_del_gobierno_de_canarias haber decidir suspender el clase y actividad extraescolar en horario de tarde para el día de hoy en tenerife la_palma la_gomera y el_hierro así_como en el municipio de tejeda artenara valleseco y vega_san_mateo de el isla de gran_canaria",
+        "lemmatized_text_reduced": "consejería_de_educación universidades cultura deportes_del_gobierno_de_canarias haber decidir suspender clase actividad extraescolar horario tarde día tenerife la_palma la_gomera el_hierro municipio tejeda artenara valleseco vega_san_mateo isla gran_canaria",
+        "persons": [
+            "Valleseco",
+            "Vega_San_Mateo"
+        ],
+        "locations": [
+            "Tenerife",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro",
+            "Tejeda",
+            "Artenara",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Consejería_de_Educación",
+            "Universidades",
+            "Cultura",
+            "Deportes_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así lo ha decidido el Ejecutivo regional ante la última información facilitada por la Agencia Estatal de Meteorología (Aemet) y, siguiendo las recomendaciones de la Dirección General de Seguridad y Emergencias del Gobierno de Canarias, que ha declarado la situación de alerta máxima por vientos, a partir de las 18.00 horas, informó la administración en un comunicado. La Aemet ha activado para hoy y mañana la alerta naranja (riesgo importante) en las islas occidentales del archipiélago canario ante la previsión de que se registren vientos del suroeste de hasta 120 kilómetros por hora. Este viernes, la alerta permanecerá activa desde las 14.00 horas hasta la medianoche y afectará a El Hierro, La Gomera y La Palma, donde habrá vientos del suroeste de entre 90 y 100 kilómetros por hora que afectarán principalmente a medianías y zonas altas; a Tenerife, donde los municipios de La Orotava y Vilaflor serán los más afectados con rachas de viento de hasta 100 kilómetros por hora; y a Gran Canaria, donde soplará con una fuerza de 90 kilómetros por hora, sobre todo en medianías y zonas altas. Asimismo, la Aemet ha decretado la alerta amarilla (riesgo) en La Palma por vientos de hasta 75 kilómetros por hora que afectarán al Este, Norte y Oeste de la isla; a Tenerife, por rachas de 75 kilómetros en zonas del Este, Sur y Oeste; y a Gran Canaria, donde el viento soplará con rachas de hasta 75 kilómetros por hora en el Este, Sur, Oeste y medianías del Norte de la isla. La alerta estará activa desde las 14.00 horas de hoy hasta las 00.00 horas del sábado. Entretanto, mañana permanecerá activa la alerta naranja en El Hierro, La Gomera y La Palma por soplos de viento del suroeste de hasta 100 kilómetros por hora; en Tenerife, donde habrá rachas de hasta 120 kilómetros por hora, afectando principalmente a La Orotava y Vilaflor; y en Gran Canaria, donde el viento soplará con rachas de hasta 100 kilómetros por hora. La alerta naranja estará activa en La Palma entre las 00.00 horas hasta las 13.00 horas del sábado; en El Hierro, La Gomera y Gran Canaria, desde las 00.00 horas hasta las 18.00 horas del sábado; y en Tenerife, desde las 00.00 del sábado hasta las 00.00 horas del domingo. Además, habrá alerta amarilla en La Palma por vientos de hasta 75 kilómetros por hora en el Norte, Oeste y Este de la isla; en zonas del Este, Sur y Oeste de Tenerife; y en el Este, Sur, Oeste y medianías del Norte de Gran Canaria. La alerta estará activa desde las 14.00 horas del sábado hasta las 00.00 horas del domingo.",
+        "lemmatized_text": "así lo haber decidir el ejecutivo regional ante el último información facilitar por el agencia_estatal_de_meteorología aemet y seguir el recomendación de el dirección_general_de_seguridad y emergencias_del_gobierno_de_canarias que haber declarar el situación de alerta máximo por viento a_partir_de el TM_h:18 informar el administración en uno comunicado el aemet haber activar para hoy y mañana el alerta naranja riesgo importante en el isla occidental de el archipiélago canario ante el previsión de que se registrar viento de el suroeste de hasta SP_km/h:120 este [V:??/??/??:??.??:??] el alerta permanecer activo desde el TM_h:14 hasta el [??:??/??/??:00.00:am] y afectar a el_hierro la_gomera y la_palma donde haber viento de el suroeste de entre 90 y SP_km/h:100 que afectar principalmente a medianía y zona alto a tenerife donde el municipio de la_orotava y vilaflor ser el más afectar con racha de viento de hasta SP_km/h:100 y a gran_canaria donde soplar con uno fuerza de SP_km/h:90 sobre todo en medianía y zona alto asimismo el aemet haber decretar el alerta amarillo riesgo en la_palma por viento de hasta SP_km/h:75 que afectar a el este norte y oeste de el isla a tenerife por racha de LN_km:75 en zona de el este sur y oeste y a gran_canaria donde el viento soplar con racha de hasta SP_km/h:75 en el este sur oeste y medianía de el norte de el isla el alerta estar activo desde el TM_h:14 de hoy hasta el TM_h:0 de el [S:??/??/??:??.??:??] entretanto mañana permanecer activo el alerta naranja en el_hierro la_gomera y la_palma por soplo de viento de el suroeste de hasta SP_km/h:100 en tenerife donde haber racha de hasta SP_km/h:120 afectar principalmente a la_orotava y vilaflor y en gran_canaria donde el viento soplar con racha de hasta SP_km/h:100 el alerta naranja estar activo en la_palma entre el TM_h:0 hasta el [S:??/??/??:1.00:pm] en el_hierro la_gomera y gran_canaria desde el TM_h:0 hasta el [S:??/??/??:6.00:pm] y en tenerife desde el 0 de el [S:??/??/??:??.??:??] hasta el TM_h:0 de el [G:??/??/??:??.??:??] además haber alerta amarillo en la_palma por viento de hasta SP_km/h:75 en el norte oeste y este de el isla en zona de el este sur y oeste_de_tenerife y en el este sur oeste y medianía de el norte_de_gran_canaria el alerta estar activo desde el [S:??/??/??:2.00:pm] hasta el TM_h:0 de el [G:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "haber decidir ejecutivo regional último información facilitar agencia_estatal_de_meteorología aemet seguir recomendación dirección_general_de_seguridad emergencias_del_gobierno_de_canarias haber declarar situación alerta máximo viento informar administración comunicado aemet haber activar alerta naranja riesgo importante isla occidental archipiélago canario previsión registrar viento suroeste alerta permanecer activo afectar el_hierro la_gomera la_palma haber viento suroeste afectar principalmente medianía zona alto tenerife municipio la_orotava vilaflor ser afectar racha viento gran_canaria soplar fuerza medianía zona alto aemet haber decretar alerta amarillo riesgo la_palma viento afectar este norte oeste isla tenerife racha zona este sur oeste gran_canaria viento soplar racha este sur oeste medianía norte isla alerta estar activo permanecer activo alerta naranja el_hierro la_gomera la_palma soplo viento suroeste tenerife haber racha afectar principalmente la_orotava vilaflor gran_canaria viento soplar racha alerta naranja estar activo la_palma el_hierro la_gomera gran_canaria tenerife haber alerta amarillo la_palma viento norte oeste este isla zona este sur oeste_de_tenerife este sur oeste medianía norte_de_gran_canaria alerta estar activo",
+        "persons": [
+            "El_Hierro"
+        ],
+        "locations": [
+            "La_Gomera",
+            "La_Palma",
+            "Tenerife",
+            "La_Orotava",
+            "Vilaflor",
+            "Gran_Canaria",
+            "La_Palma",
+            "Este",
+            "Norte",
+            "Oeste",
+            "Este",
+            "Sur",
+            "Oeste",
+            "Gran_Canaria",
+            "Este",
+            "Sur",
+            "Oeste",
+            "Norte",
+            "El_Hierro",
+            "La_Gomera",
+            "La_Palma",
+            "Tenerife",
+            "La_Orotava",
+            "Vilaflor",
+            "Gran_Canaria",
+            "La_Palma",
+            "El_Hierro",
+            "La_Gomera",
+            "Gran_Canaria",
+            "Tenerife",
+            "La_Palma",
+            "Norte",
+            "Oeste",
+            "Este",
+            "Este",
+            "Oeste_de_Tenerife",
+            "Este",
+            "Sur",
+            "Oeste"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Dirección_General_de_Seguridad",
+            "Emergencias_del_Gobierno_de_Canarias",
+            "Aemet",
+            "Aemet",
+            "Tenerife",
+            "Sur"
+        ],
+        "others": [
+            "Norte_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:??/??/??:00.00:am]",
+            "[S:??/??/??:??.??:??]",
+            "[S:??/??/??:1.00:pm]",
+            "[S:??/??/??:6.00:pm]",
+            "[S:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[S:??/??/??:2.00:pm]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:18",
+            "SP_km/h:120",
+            "TM_h:14",
+            "90",
+            "SP_km/h:100",
+            "SP_km/h:100",
+            "SP_km/h:90",
+            "SP_km/h:75",
+            "LN_km:75",
+            "SP_km/h:75",
+            "TM_h:14",
+            "TM_h:0",
+            "SP_km/h:100",
+            "SP_km/h:120",
+            "SP_km/h:100",
+            "TM_h:0",
+            "TM_h:0",
+            "0",
+            "TM_h:0",
+            "SP_km/h:75",
+            "TM_h:0"
+        ]
+    }
+}

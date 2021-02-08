@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-11-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/431107/0/detenidos/camareros/trafico/",
+    "title": {
+        "raw_text": "Detenidos el dueño y varios camareros de un bar de Las Canteras por tráfico de drogas",
+        "lemmatized_text": "detener el dueño y varios camarero de uno bar de las_canteras por tráfico de droga",
+        "lemmatized_text_reduced": "detener dueño camarero bar las_canteras tráfico droga",
+        "persons": [],
+        "locations": [
+            "Las_Canteras"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La policía actuó a raíz de las quejas de los vecinos. Los detenidos son todos mayores de edad y naturales de la capital grancanaria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el policía actuar a_raíz_de el queja de el vecino el detenido ser todo mayor de edad y natural de el capital grancanaria consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "policía actuar queja vecino detenido ser mayor edad natural capital grancanaria consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Agentes adscritos a la Jefatura Superior de Policía de Canarias han detenido a un total de 5 personas por vender sustancias estupefacientes en el interior de un establecimiento ubicado en el paseo de la playa de Las Canteras de Las Palmas de Gran Canaria , según informó la Policía Nacional en un comunicado. Los miembros de la policía tuvieron conocimiento de que existía un establecimiento en la zona donde presuntamente se distribuía sustancias estupefacientes, a raíz de las quejas de los vecinos del paseo , quienes informaron, en aras a la solución del problema, la afluencia de personas que acudían al lugar para abastecerse de droga, incluso cuando el establecimiento estaba cerrado. Operativo policial La Policía organizó así un operativo policía, constatando que bajo la apariencia de una transacción habitual de lícito comercio se ocultaba un tráfico de sustancias estupefacientes. Así, durante el dispositivo, se pudo observar como varios de los camareros y el titular del establecimiento contactaban con los clientes del local y les ofrecían una sustancia que parecía cocaína . Los funcionarios adscritos a la Unidad de Prevención y Reacción (U.P.R.), de la Brigada Provincial de Seguridad Ciudadana de Las palmas, detuvieron a J.L.R.; P.R.C.; A.L.R.; F.C.D.; y J.R.C., siendo todos ellos mayores de edad y naturales de Las Palmas . Además, se intervino 3.625 dosis de cocaína , 4.487 euros, dos teléfonos móviles y diversos útiles para la manipulación de la droga , tales como sustancia para corte, báscula, pinzas y navajas. Finalmente, la Autoridad Judicial decretó el ingreso en prisión de 4 de los 5 detenidos.",
+        "lemmatized_text": "agente adscribir a el jefatura_superior_de_policía_de_canarias haber detener a uno total de 5 persona por vender sustancia estupefaciente en_el_interior_de uno establecimiento ubicar en el paseo de el playa de las_canteras_de_las_palmas_de_gran_canaria según informar el policía_nacional en uno comunicado el miembro de el policía tener conocimiento de que existir uno establecimiento en el zona donde presuntamente se distribuir sustancia estupefaciente a_raíz_de el queja de el vecino de el paseo quien informar en ara a el solución de el problema el afluencia de persona que acudir a el lugar para abastecer se de droga incluso cuando el establecimiento estar cerrar operativo policial la_policía organizar así uno operativo policía constatar que bajo el apariencia de uno transacción habitual de lícito comercio se ocultar uno tráfico de sustancia estupefaciente así durante el dispositivo se poder observar como varios de el camarero y el titular de el establecimiento contactar con el cliente de el local y le ofrecer uno sustancia que parecer cocaína el funcionario adscribir a el unidad_de_prevención y reacción u.p.r. de el brigada_provincial_de_seguridad_ciudadana_de_las palma detener a j.l.r. p.r.c. a.l.r. f.c.d. y j.r.c. ser todo ellos mayor de edad y natural de las_palmas además se intervenir 3.625 dosis de cocaína $_ECU:4.487 2 teléfono móvil y diverso útil para el manipulación de el droga tal como sustancia para corte báscula pinza y navaja finalmente el autoridad_judicial decretar el ingreso en prisión de 4 de el 5 detenido",
+        "lemmatized_text_reduced": "agente adscribir jefatura_superior_de_policía_de_canarias haber detener total persona vender sustancia estupefaciente establecimiento ubicar paseo playa las_canteras_de_las_palmas_de_gran_canaria informar policía_nacional comunicado miembro policía tener conocimiento existir establecimiento zona presuntamente distribuir sustancia estupefaciente queja vecino paseo informar ara solución problema afluencia persona acudir lugar abastecer droga establecimiento estar cerrar operativo policial la_policía organizar operativo policía constatar apariencia transacción habitual lícito comercio ocultar tráfico sustancia estupefaciente dispositivo poder observar camarero titular establecimiento contactar cliente local ofrecer sustancia parecer cocaína funcionario adscribir unidad_de_prevención reacción u.p.r. brigada_provincial_de_seguridad_ciudadana_de_las palma detener j.l.r. p.r.c. a.l.r. f.c.d. j.r.c. ser mayor edad natural las_palmas intervenir dosis cocaína teléfono móvil útil manipulación droga sustancia corte báscula pinza navaja finalmente autoridad_judicial decretar ingreso prisión detenido",
+        "persons": [
+            "J.L.R."
+        ],
+        "locations": [],
+        "organizations": [
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Las_Canteras_de_Las_Palmas_de_Gran_Canaria",
+            "Policía_Nacional",
+            "La_Policía",
+            "Unidad_de_Prevención",
+            "Reacción",
+            "U.P.R.",
+            "Brigada_Provincial_de_Seguridad_Ciudadana_de_Las",
+            "P.R.C.",
+            "A.L.R.",
+            "F.C.D.",
+            "J.R.C.",
+            "Las_Palmas",
+            "Autoridad_Judicial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "3.625",
+            "$_ECU:4.487",
+            "2",
+            "4",
+            "5"
+        ]
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/704678/0/",
+    "title": {
+        "raw_text": "Un piso de 80 metros cuadrados, 3 habitaciones y de menos de 120.000 euros, el más buscado por los canarios",
+        "lemmatized_text": "uno piso de AR_m2:80 3 habitación y de menos de $_ECU:120 el más buscar por el canario",
+        "lemmatized_text_reduced": "piso habitación buscar canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_m2:80",
+            "3",
+            "$_ECU:120"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los canarios buscan un piso de 80 metros cuadrados (m2), de tres habitaciones y que cueste entre 105.000 y 120.000 euros para comprarse, según un estudio elaborado por el portal pisos.com, quien añadió además que si se refiere al alquiler, los isleños buscan un piso de 70 m2, dos dormitorios y que cueste entre 300 y 400 euros mensuales.",
+        "lemmatized_text": "el canario buscar uno piso de AR_m2:80 m2 de 3 habitación y que costar entre 105 y $_ECU:120 para comprar se según uno estudio elaborar por el portal piso com quien añadir además que si se referir a el alquiler el isleño buscar uno piso de AR_m2:70 2 dormitorio y que costar entre 300 y $_ECU:400 mensual",
+        "lemmatized_text_reduced": "canario buscar piso habitación costar comprar estudio elaborar portal piso com añadir referir alquiler isleño buscar piso dormitorio costar mensual",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_m2:80",
+            "m2",
+            "3",
+            "105",
+            "$_ECU:120",
+            "AR_m2:70",
+            "2",
+            "300",
+            "$_ECU:400"
+        ]
+    },
+    "body": {
+        "raw_text": "En la provincia de Las Palmas, los potenciales compradores estarían dispuestos a pagar entre 105.000 y 120.000 euros, igual que la media de la comunidad autónoma, por un piso de 80 m2 con 3 habitaciones. Esta cifra supone hasta 15.000 euros menos que en el último periodo analizado. En el caso de Santa Cruz de Tenerife, este intervalo se vería considerablemente reducido, hasta los 75.000-90.000 euros por un piso de 2 habitaciones y con una superficie de 70 m2. De acuerdo con estos datos, en esta provincia se busca ahora pisos más grandes que en el mes de febrero, cuando sus intereses se centraban en viviendas de un dormitorio y 50 m2, pero estarían dispuestos a pagar hasta 15.000 euros menos. Por su parte, los inquilinos canarios han incrementado las expectativas en la búsqueda de pisos en alquiler. En el caso de Las Palmas, se buscan ahora pisos considerablemente más grandes (80 m2 y 2 habitaciones) que en el último periodo (50 m2 y una habitación), mientras que los potenciales inquilinos estarían dispuestos a pagar una renta de entre 400 y 500 euros, hasta 100 euros más que en el último periodo analizado. En Santa Cruz de Tenerife, los potenciales inquilinos también se decantan ahora por viviendas más espaciosas (70 m2 y 2 habitaciones) que las que buscaban en febrero (50 m2 y una habitación) pero en este caso no estarían dispuestos a incrementar la renta mensual, que se mantendría entre 400 y 500 euros. Recuperación del sector inmobiliario Según explicó pisos.com, a lo largo del primer trimestre de 2010 se han sentado las bases de lo que parece ser la recuperación del sector inmobiliario en España. Las estadísticas oficiales empiezan a retomar poco a poco variables positivas, si bien los porcentajes de avance todavía son tímidos. Analizando las búsquedas registradas por pisos.com entre marzo y mayo de 2010, el 'piso tipo' que buscan los futuros propietarios canarios cuesta entre 105.000 y 120.000 euros, tiene 80 metros cuadrados y dispone de 3 habitaciones. En cuanto a la intención de compra, lo datos no varían con respecto al último periodo analizado (noviembre'09-febrero'10). Por el contrario, en lo que se refiere al alquiler, los datos que se arrojaban del estudio anterior ponían de manifiesto que los canarios buscaban antes pisos de alquiler más pequeños (50 m2, una habitación y una renta mensual de entre 300 y 400 euros) y ahora se decantan por viviendas un poco más grandes (70 m2 y 2 dormitorios) pero estarían dispuestos a pagar lo mismo. Esta tendencia general a la estabilidad podría significar que la prudencia es la máxima que impera dentro de las economías domésticas en España a la hora de planificar futuras inversiones inmobiliarias. \"A lo largo de 2009, los vendedores han reducido el precio de sus inmuebles hasta los márgenes más ajustados —revela Miguel Ángel Alemany, director general de pisos.com— lo que ha hecho que durante el primer trimestre del año la demanda solvente haya aprovechado la coyuntura para apostar por la compra, algo que ha quedado reflejado en los datos del INE, tanto de transacciones como de número de hipotecas\". Para Alemany, el hecho de que el importe medio que están dispuestos a invertir los españoles en ser propietarios haya vuelto a bajar en estos primeros meses del año puede ser una cuestión fiscal o financiera, ya que \"es posible que los usuarios que acuden a pisos.com estén buscando viviendas más económicas porque están pensando en el final de la deducción, en la subida del IVA o porque no cuenten con un ahorro previo o un avalista\".",
+        "lemmatized_text": "en el provincia de las_palmas el potencial comprador estar disponer a pagar entre 105 y $_ECU:120 igual que el media de el comunidad autónomo por uno piso de AR_m2:80 con 3 habitación este cifra suponer hasta $_ECU:15 menos que en el último periodo analizar en el caso de santa_cruz_de_tenerife este intervalo se ver considerablemente reducir hasta el $_ECU:75.000-90.000 por uno piso de 2 habitación y con uno superficie de AR_m2:70 de_acuerdo_con este dato en este provincia se buscar ahora piso más grande que en el [??:??/2/??:??.??:??] cuando su interés se centrar en vivienda de uno dormitorio y AR_m2:50 pero estar disponer a pagar hasta $_ECU:15 menos por su parte el inquilino canario haber incrementar el expectativa en el búsqueda de piso en alquiler en el caso de las_palmas se buscar ahora piso considerablemente más grande AR_m2:80 y 2 habitación que en el último periodo AR_m2:50 y uno habitación mientras_que el potencial inquilino estar disponer a pagar uno renta de entre 400 y $_ECU:500 hasta $_ECU:100 más que en el último periodo analizar en santa_cruz_de_tenerife el potencial inquilino también se decantar ahora por vivienda más espacioso AR_m2:70 y 2 habitación que el que buscar en [??:??/2/??:??.??:??] AR_m2:50 y uno habitación pero en este caso no estar disponer a incrementar el renta mensual que se mantener entre 400 y $_ECU:500 recuperación de el sector inmobiliario según explicar piso com a el largo de el 1 trimestre de 2010 se haber sentar el base de el que parecer ser el recuperación de el sector inmobiliario en españa el estadística oficial empezar a retomar poco_a_poco variable positivo si bien el porcentaje de avance todavía ser tímido analizar el búsqueda registrar por pisos.com entre [??:??/3/??:??.??:??] y [??:??/5/2010:??.??:??] el piso tipo que buscar el futuro propietario canario costar entre 105 y $_ECU:120 tener AR_m2:80 y disponer de 3 habitación en_cuanto_a el intención de compra el dato no variar con respecto a el último periodo analizar [??:??/11/??:??.??:??] 09-febrero 10 por_el_contrario en el que se referir a el alquiler el dato que se arrojar de el estudio anterior poner_de_manifiesto que el canario buscar antes piso de alquiler más pequeño AR_m2:50 uno habitación y uno renta mensual de entre 300 y $_ECU:400 y ahora se decantar por vivienda uno poco más grande AR_m2:70 y 2 dormitorio pero estar disponer a pagar el mismo este tendencia general a el estabilidad poder significar que el prudencia ser el máximo que imperar dentro_de el economía doméstico en españa a el hora de planificar futuro inversión inmobiliario a el largo de 2009 el vendedor haber reducir el precio de su inmueble hasta el margen más ajustar revelar miguel_ángel_alemany director general de piso com el que haber hacer que durante el 1 trimestre de el año el demanda solvente haber aprovechar el coyuntura para apostar por el compra algo que haber quedar reflejar en el dato de el ine tanto de transacción como de número de hipoteca para alemany el hecho de que el importe medio que estar disponer a invertir el español en ser propietario haber volver a bajar en este 1 mes de el año poder ser uno cuestión fiscal o financiero ya_que ser posible que el usuario que acudir a pisos.com estar buscar vivienda más económico porque estar pensar en el final de el deducción en el subida de el iva o porque no contar con uno ahorro previo o uno avalista",
+        "lemmatized_text_reduced": "provincia las_palmas potencial comprador estar disponer pagar media comunidad autónomo piso habitación cifra suponer último periodo analizar caso santa_cruz_de_tenerife intervalo ver considerablemente reducir piso habitación superficie dato provincia buscar piso grande interés centrar vivienda dormitorio estar disponer pagar parte inquilino canario haber incrementar expectativa búsqueda piso alquiler caso las_palmas buscar piso considerablemente grande habitación último periodo habitación potencial inquilino estar disponer pagar renta último periodo analizar santa_cruz_de_tenerife potencial inquilino decantar vivienda espacioso habitación buscar habitación caso estar disponer incrementar renta mensual mantener recuperación sector inmobiliario según explicar piso com largo 1 trimestre haber sentar base parecer ser recuperación sector inmobiliario españa estadística oficial empezar retomar variable positivo porcentaje avance ser tímido analizar búsqueda registrar pisos.com piso tipo buscar futuro propietario canario costar tener disponer habitación intención compra dato variar respecto último periodo analizar referir alquiler dato arrojar estudio anterior poner_de_manifiesto canario buscar piso alquiler pequeño habitación renta mensual decantar vivienda grande dormitorio estar disponer pagar mismo tendencia general estabilidad poder significar prudencia ser máximo imperar economía doméstico españa hora planificar futuro inversión inmobiliario largo vendedor haber reducir precio inmueble margen ajustar revelar miguel_ángel_alemany director general piso com haber hacer 1 trimestre año demanda solvente haber aprovechar coyuntura apostar compra haber quedar reflejar dato ine transacción número hipoteca alemany hecho importe medio estar disponer invertir español ser propietario haber volver bajar 1 mes año poder ser cuestión fiscal financiero ser posible usuario acudir pisos.com estar buscar vivienda económico estar pensar final deducción subida iva contar ahorro previo avalista",
+        "persons": [
+            "Miguel_Ángel_Alemany",
+            "Alemany"
+        ],
+        "locations": [
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Santa_Cruz_de_Tenerife",
+            "España",
+            "España"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "INE"
+        ],
+        "others": [
+            "Según",
+            "IVA"
+        ],
+        "dates": [
+            "[??:??/2/??:??.??:??]",
+            "[??:??/2/??:??.??:??]",
+            "[??:??/3/??:??.??:??]",
+            "[??:??/5/2010:??.??:??]",
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "105",
+            "$_ECU:120",
+            "AR_m2:80",
+            "3",
+            "$_ECU:15",
+            "$_ECU:75.000-90.000",
+            "2",
+            "AR_m2:70",
+            "AR_m2:50",
+            "$_ECU:15",
+            "AR_m2:80",
+            "2",
+            "AR_m2:50",
+            "400",
+            "$_ECU:500",
+            "$_ECU:100",
+            "AR_m2:70",
+            "2",
+            "AR_m2:50",
+            "400",
+            "$_ECU:500",
+            "2010",
+            "105",
+            "$_ECU:120",
+            "AR_m2:80",
+            "3",
+            "09-febrero",
+            "10",
+            "AR_m2:50",
+            "300",
+            "$_ECU:400",
+            "AR_m2:70",
+            "2",
+            "2009"
+        ]
+    }
+}

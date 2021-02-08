@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/689040/0/",
+    "title": {
+        "raw_text": "CC de Gran Canaria rechaza cualquier posibilidad de acuerdo con NC, a quien denomina 'Vieja Canarias'",
+        "lemmatized_text": "cc_de_gran_canaria rechazar cualquiera posibilidad de_acuerdo_con nc a quien denominar vieja_canarias",
+        "lemmatized_text_reduced": "cc_de_gran_canaria rechazar posibilidad nc denominar vieja_canarias",
+        "persons": [
+            "Vieja_Canarias"
+        ],
+        "locations": [],
+        "organizations": [
+            "CC_de_Gran_Canaria",
+            "NC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de Coalición Canaria (CC) de Gran Canaria, Manuel Lobo, ha rechazado \"cualquier posibilidad de alcanzar un acuerdo con Vieja Canarias\" --en relación a Nueva Canarias (NC)--, por lo que ha apuntado a CC \"como la única alternativa nacionalista al desgobierno implantado por Vieja Canarias y sus jefes de filas del Partido Socialista\" en el Cabildo de Gran Canaria.",
+        "lemmatized_text": "el presidente de coalición_canaria cc de gran_canaria manuel_lobo haber rechazar cualquiera posibilidad de alcanzar uno acuerdo con vieja_canarias en relación a nueva_canarias nc por el que haber apuntar a cc como el único alternativa nacionalista a el desgobierno implantar por vieja_canarias y su jefe de fila de el partido_socialista en el cabildo_de_gran_canaria",
+        "lemmatized_text_reduced": "presidente coalición_canaria cc gran_canaria manuel_lobo haber rechazar posibilidad alcanzar acuerdo vieja_canarias relación nueva_canarias nc haber apuntar cc único alternativa nacionalista desgobierno implantar vieja_canarias jefe fila partido_socialista cabildo_de_gran_canaria",
+        "persons": [
+            "Manuel_Lobo",
+            "Nueva_Canarias",
+            "Vieja_Canarias"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Vieja_Canarias",
+            "NC",
+            "CC",
+            "Partido_Socialista"
+        ],
+        "others": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Asimismo, lamentó que \"un partido que se define nacionalista, como Nueva Canarias (NC), haya derivado en un proyecto vacío, sin más objetivos que estar a la caza del voto\", por lo que aseguró que de los propósitos iniciales del partido que lidera Román Rodríguez \"sólo queda el nombre\". En un comunicado, destacó la presencia el pasado fin de semana de dirigentes de NC en los Congresos del Partido Progresista Majorero, PPM, liderado por Domingo González Arroyo, y el Congreso del PIL en Lanzarote. \"Esta nueva era de la Vieja Canarias viene a demostrar que de lo anunciado de este proyecto sólo queda el nombre\", dijo mientras apuntó a Román Rodríguez como \"responsable de la deriva de un proyecto que siempre se ha caracterizado por sobrevivir a la sombra de quien más le ofrece para satisfacer el ego y resolver las ansias de poder de su máximo dirigente —Rodríguez—, ya sea el Partido Socialista, el PIL, formación a la que tanto criticó, o el PPM de González Arroyo\". Así, Lobo lamentó que \"esta desesperación de Rodríguez por sumar votos le impida discernir con claridad sobre el futuro del nacionalismo canario\" y sentenció que \"éste no pasa, sin duda, por el que el propio Román Rodríguez denomina pacto progresista en el que tienen cabida personajes de la talla de Domingo González Arroyo\". El presidente de CC de Gran Canaria explicó también que \"el conjunto de Nueva Canarias ha sucumbido a los propósitos personalistas de su presidente, que siempre ha vendido la formación al mejor postor\" y criticó que \"las alianzas electorales hayan estado siempre por encima de la gestión\".",
+        "lemmatized_text": "asimismo lamentar que uno partido que se definir nacionalista como nueva_canarias nc haber derivar en uno proyecto vacío sin más objetivo que estar a el caza de el voto por el que asegurar que de el propósito inicial de el partido que liderar román_rodríguez sólo quedar el nombre en uno comunicado destacar el presencia el pasar fin de semana de dirigente de nc en el congresos_del_partido_progresista_majorero ppm liderar por [G:??/??/??:??.??:??] gonzález_arroyo y el congreso_del_pil en lanzarote este nuevo ser de el vieja_canarias venir a demostrar que de el anunciar de este proyecto sólo quedar el nombre decir mientras apuntar a román_rodríguez como responsable de el deriva de uno proyecto que siempre se haber caracterizar por sobrevivir a el sombra de quien más le ofrecer para satisfacer el ego y resolver el ansia de poder de su máximo dirigente rodríguez ya ser el partido_socialista el pil formación a el que tanto criticar o el ppm_de_gonzález_arroyo así lobo lamentar que este desesperación de rodríguez por sumar voto le impedir discernir con claridad sobre el futuro de el nacionalismo canario y sentenciar que este no pasar sin duda por el que el propio román_rodríguez denominar pacto progresista en el que tener cabida personaje de el talla de [G:??/??/??:??.??:??] gonzález_arroyo el presidente de cc_de_gran_canaria explicar también que el conjunto de nueva_canarias haber sucumbir a el propósito personalista de su presidente que siempre haber vender el formación a el mejor postor y criticar que el alianza electoral haber estar siempre por encima_de el gestión",
+        "lemmatized_text_reduced": "lamentar partido definir nacionalista nueva_canarias nc haber derivar proyecto vacío objetivo estar caza voto asegurar propósito inicial partido liderar román_rodríguez quedar nombre comunicado destacar presencia pasar fin semana dirigente nc congresos_del_partido_progresista_majorero ppm liderar gonzález_arroyo congreso_del_pil lanzarote nuevo ser vieja_canarias venir demostrar anunciar proyecto quedar nombre decir apuntar román_rodríguez responsable deriva proyecto haber caracterizar sobrevivir sombra ofrecer satisfacer ego resolver ansia poder máximo dirigente rodríguez ser partido_socialista pil formación criticar ppm_de_gonzález_arroyo lobo lamentar desesperación rodríguez sumar voto impedir discernir claridad futuro nacionalismo canario sentenciar pasar duda propio román_rodríguez denominar pacto progresista tener cabida personaje talla gonzález_arroyo presidente cc_de_gran_canaria explicar conjunto nueva_canarias haber sucumbir propósito personalista presidente haber vender formación mejor postor criticar alianza electoral haber estar gestión",
+        "persons": [
+            "Nueva_Canarias",
+            "Román_Rodríguez",
+            "Román_Rodríguez",
+            "Rodríguez",
+            "Lobo",
+            "Rodríguez",
+            "Román_Rodríguez"
+        ],
+        "locations": [
+            "Lanzarote",
+            "PPM_de_González_Arroyo",
+            "González_Arroyo",
+            "Nueva_Canarias"
+        ],
+        "organizations": [
+            "NC",
+            "NC",
+            "Congresos_del_Partido_Progresista_Majorero",
+            "PPM",
+            "González_Arroyo",
+            "Congreso_del_PIL",
+            "Vieja_Canarias",
+            "Partido_Socialista",
+            "PIL",
+            "CC_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/633594/0/",
+    "title": {
+        "raw_text": "Aena desmiente a los controladores canarios y asegura que la programación para Semana Santa no está creada aún",
+        "lemmatized_text": "aena desmentir a el controlador canario y asegurar que el programación para semana_santa no estar crear aun",
+        "lemmatized_text_reduced": "aena desmentir controlador canario asegurar programación semana_santa estar crear",
+        "persons": [
+            "Semana_Santa"
+        ],
+        "locations": [],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Aeropuertos Españoles y Navegación Aérea (Aena) ha desmentido a los controladores canarios, asegurando que la programación de personal para Semana Santa no está creada aún, ya que según el Real Decreto, recientemente aprobado, las previsiones se realizan con \"10 días\" de antelación, según informaron fuentes de Aena a Europa Press.",
+        "lemmatized_text": "aeropuertos_españoles y navegación_aérea aena haber desmentir a el controlador canario asegurar que el programación de personal para semana_santa no estar crear aun ya_que según el real_decreto recientemente aprobar el previsión se realizar con TM_d:10 de antelación según informar fuente de aena a europa_press",
+        "lemmatized_text_reduced": "aeropuertos_españoles navegación_aérea aena haber desmentir controlador canario asegurar programación personal semana_santa estar crear real_decreto recientemente aprobar previsión realizar antelación informar fuente aena europa_press",
+        "persons": [
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea",
+            "Semana_Santa"
+        ],
+        "locations": [],
+        "organizations": [
+            "Aena",
+            "Real_Decreto",
+            "Aena",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:10"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta forma, Aena ha querido salir al paso de las declaraciones de los controladores aéreos de Canarias que esta semana indicaban que la programación para las próximas fiestas de Semana Santa era de un 50 por ciento menos de personal que en las mismas fechas de 2009. Aena hacía así referencia al nuevo Real Decreto, a través del que asume la capacidad de gestión y control del tráfico aéreo, e insistió en que la programación no estará realizada hasta diez días antes de Semana Santa. Asimismo, desde Aeropuertos Españoles y Navegación Aérea se afirmó que está \"bastante asegurado\" el normal funcionamiento de los controladores durante las próximas fiestas en los aeropuertos canarios y \"no se prevé que vaya a ser un caos\".",
+        "lemmatized_text": "de este forma aena haber querer salir a el paso de el declaración de el controlador aéreo de canarias que este semana indicar que el programación para el próximo fiesta de semana_santa ser de uno 50 por 100 menos de personal que en el mismo fecha de 2009 aena hacer así referencia a el nuevo real_decreto a través de el que asumir el capacidad de gestión y control de el tráfico aéreo y insistir en que el programación no estar realizar hasta TM_d:10 antes_de semana_santa asimismo desde aeropuertos_españoles y navegación_aérea se afirmar que estar bastante asegurar el normal funcionamiento de el controlador durante el próximo fiesta en el aeropuerto canario y no se prever que ir a ser uno caos",
+        "lemmatized_text_reduced": "forma aena haber querer salir paso declaración controlador aéreo canarias semana indicar programación próximo fiesta semana_santa ser personal mismo fecha aena hacer referencia nuevo real_decreto través asumir capacidad gestión control tráfico aéreo insistir programación estar realizar semana_santa aeropuertos_españoles navegación_aérea afirmar estar asegurar normal funcionamiento controlador próximo fiesta aeropuerto canario prever ir ser caos",
+        "persons": [
+            "Real_Decreto",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Aena",
+            "Aena",
+            "Semana_Santa"
+        ],
+        "others": [
+            "Semana_Santa"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "100",
+            "2009",
+            "TM_d:10"
+        ]
+    }
+}

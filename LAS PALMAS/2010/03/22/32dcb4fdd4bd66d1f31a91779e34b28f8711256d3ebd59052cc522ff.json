@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/658313/0/",
+    "title": {
+        "raw_text": "El Instituto Municipal para el Empleo y la Formación de Las Palmas de Gran Canaria cierra 2009 liquidando la deuda",
+        "lemmatized_text": "el instituto_municipal_para_el_empleo y el formación_de_las_palmas_de_gran_canaria cerrar 2009 liquidar el deuda",
+        "lemmatized_text_reduced": "instituto_municipal_para_el_empleo formación_de_las_palmas_de_gran_canaria cerrar liquidar deuda",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Instituto_Municipal_para_el_Empleo",
+            "Formación_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Instituto Municipal para el Empleo y la Formación (Imef) del Ayuntamiento de Las Palmas de Gran Canaria ha celebrado hoy un consejo rector para presentar la liquidación de su presupuesto de 2009, año que se ha cerrado con el pago de las deudas.",
+        "lemmatized_text": "el instituto_municipal_para_el_empleo y el formación imef de el ayuntamiento_de_las_palmas_de_gran_canaria haber celebrar hoy uno consejo rector para presentar el liquidación de su presupuesto de 2009 año que se haber cerrar con el pago de el deuda",
+        "lemmatized_text_reduced": "instituto_municipal_para_el_empleo formación imef ayuntamiento_de_las_palmas_de_gran_canaria haber celebrar consejo rector presentar liquidación presupuesto año haber cerrar pago deuda",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Instituto_Municipal_para_el_Empleo",
+            "Imef",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Formación"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "El documento, según indicó el Ayuntamiento de Las Palmas de Gran Canaria en nota de prensa, recoge \"por primera vez en diez años\" una situación presupuestaria \"saneada\". Al respecto, el concejal de Empleo e Imef, Augusto Hidalgo, indicó que este informe de liquidación es como \"la radiografía\" de los dos últimos años del Instituto. \"Nos hemos remangado las mangas para pagar la deuda, varios millones, de los años de bonanza y despilfarro, al tiempo que aumentábamos el número de proyectos para el empleo de este municipio\", apuntilló. En este sentido, el Imef ha presentado un resultado presupuestario \"ajustado positivo\" de 344.040,80 euros; mientras que el remanente de tesorería para gastos generales se situó en 711.899,63 euros. El presupuesto del Instituto en 2009 alcanzó los 11'5 millones de euros. Así, se cerró 2009 con la deuda contraída de cinco millones de euros durante el periodo 2001-2006, entre los que se encontraban 1,3 millones de euros a la Seguridad Social que \"fueron pagados de forma definitiva\" en diciembre pasado. \"Ha sido un año caracterizado por el saneamiento de las cuentas aunque aún quedan algunas demandas en los juzgados anteriores a 2006 que se pagarán con sus recursos corrientes\", apuntó.",
+        "lemmatized_text": "el documento según indicar el ayuntamiento_de_las_palmas_de_gran_canaria en nota de prensa recoger por 1 vez en 10 año uno situación presupuestario sanear a el respecto el concejal de empleo y imef augusto_hidalgo indicar que este informe de liquidación ser como el radiografía de el 2 último año de el instituto nos haber remangar el manga para pagar el deuda varios millón de el año de bonanza y despilfarro al_tiempo_que aumentar el número de proyecto para el empleo de este municipio apuntillar en este sentido el imef haber presentar uno resultado presupuestario ajustar positivo de $_ECU:344.040,80 mientras_que el remanente de tesorería para gasto general se situar en $_ECU:711.899,63 el presupuesto de el instituto en 2009 alcanzar el 11 $_ECU:5000000 así se cerrar 2009 con el deuda contraer de $_ECU:5000000 durante el periodo 2001-2006 entre el que se encontrar 1,3 millón de euro a el seguridad_social que ser pagar de forma definitivo en [??:??/12/??:??.??:??] pasar haber ser uno año caracterizar por el saneamiento de el cuenta aunque aun quedar alguno demanda en el juzgado anterior a 2006 que se pagar con su recurso corriente apuntar",
+        "lemmatized_text_reduced": "documento indicar ayuntamiento_de_las_palmas_de_gran_canaria nota prensa recoger 1 vez año situación presupuestario sanear respecto concejal empleo imef augusto_hidalgo indicar informe liquidación ser radiografía último año instituto haber remangar manga pagar deuda millón año bonanza despilfarro aumentar número proyecto empleo municipio apuntillar sentido imef haber presentar resultado presupuestario ajustar positivo remanente tesorería gasto general situar presupuesto instituto alcanzar cerrar deuda contraer periodo encontrar millón euro seguridad_social ser pagar forma definitivo pasar haber ser año caracterizar saneamiento cuenta quedar demanda juzgado anterior pagar recurso corriente apuntar",
+        "persons": [
+            "Augusto_Hidalgo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Empleo",
+            "Imef",
+            "Instituto",
+            "Imef",
+            "Instituto"
+        ],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "2",
+            "$_ECU:344.040,80",
+            "$_ECU:711.899,63",
+            "2009",
+            "11",
+            "$_ECU:5000000",
+            "2009",
+            "$_ECU:5000000",
+            "2001-2006",
+            "1,3",
+            "2006"
+        ]
+    }
+}

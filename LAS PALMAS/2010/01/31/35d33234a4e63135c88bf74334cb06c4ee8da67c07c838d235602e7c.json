@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618910/0/",
+    "title": {
+        "raw_text": "Un niño en estado crítico y otro menos grave al caer por un barranco en Gran Canaria",
+        "lemmatized_text": "uno niño en estado crítico y otro menos grave a el caer por uno barranco en gran_canaria",
+        "lemmatized_text_reduced": "niño estado crítico grave caer barranco gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un niño, de 13 años de edad, se encuentra en estado crítico tras caer por el barranco de Guayedra, en Agaete (Gran Canaria), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno niño de 13 año de edad se encontrar en estado crítico tras caer por el barranco de guayedra en agaete gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "niño año edad encontrar estado crítico caer barranco guayedra agaete gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Guayedra",
+            "Agaete",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "13",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El joven sufrió traumatismo craneal y fractura en miembro inferior, por lo que al llegar el personal del Servicio de Urgencias Canario (SUC) al lugar del incidente lo trasladó al Hospital Materno Infantil de Gran Canaria. Asimismo, el SUC también trasladó a dicho centro a otro niño, de 10 años, que también cayó por el barranco de Guayedra. Este joven sufrió traumatismo en miembro inferior y policontusiones, todas ellas de carácter menos grave. En cuanto a los hechos, se produjeron a las 13.22 horas y fue a partir de ese momento cuando se activaron los servicios de emergencias, trasladándose hasta el lugar del incidente un helicóptero, así como ambulancias medicalizadas, agentes de la Policía Local, de la Guardia Civil y bomberos, entre otros.",
+        "lemmatized_text": "el joven sufrir traumatismo craneal y fractura en miembro inferior por el que a el llegar el personal de el servicio_de_urgencias_canario suc a el lugar de el incidente lo trasladar a el hospital_materno_infantil_de_gran_canaria asimismo el suc también trasladar a decir centro a otro niño de 10 año que también caer por el barranco de guayedra este joven sufrir traumatismo en miembro inferior y policontusión todo ellos de carácter menos grave en_cuanto_a el hecho se producir a el TM_h:13.22 y ser a_partir_de ese momento cuando se activar el servicio de emergencia trasladar se hasta el lugar de el incidente uno helicóptero así_como ambulancia medicalizadas agente de el policía_local de el guardia_civil y bombero entre otro",
+        "lemmatized_text_reduced": "joven sufrir traumatismo craneal fractura miembro inferior llegar personal servicio_de_urgencias_canario suc lugar incidente trasladar hospital_materno_infantil_de_gran_canaria suc trasladar decir centro niño año caer barranco guayedra joven sufrir traumatismo miembro inferior policontusión carácter grave hecho producir ser momento activar servicio emergencia trasladar lugar incidente helicóptero ambulancia medicalizadas agente policía_local guardia_civil bombero",
+        "persons": [],
+        "locations": [
+            "Guayedra"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Materno_Infantil_de_Gran_Canaria",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10",
+            "TM_h:13.22"
+        ]
+    }
+}

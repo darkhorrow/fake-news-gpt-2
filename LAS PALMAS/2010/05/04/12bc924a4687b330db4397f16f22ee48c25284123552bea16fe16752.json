@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/696628/0/",
+    "title": {
+        "raw_text": "Los servicios de emergencias intentan rescatar a un varón en la costa de Arucas (Gran Canaria)",
+        "lemmatized_text": "el servicio de emergencia intentar rescatar a uno varón en el costa de arucas gran_canaria",
+        "lemmatized_text_reduced": "servicio emergencia intentar rescatar varón costa arucas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de emergencias trabajan en las labores de rescate de un varón que se precipitó en la costa de Tinoca, en el municipio de Arucas (Gran Canaria), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el servicio de emergencia trabajar en el labor de rescate de uno varón que se precipitar en el costa de tinoca en el municipio de arucas gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "servicio emergencia trabajar labor rescate varón precipitar costa tinoca municipio arucas gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Tinoca",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 12.37 horas, cuando varias llamadas alertaron al Cecoes de que una persona había caído al agua por motivos que se desconocen. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Así, hasta el lugar se han desplazado un helicóptero y una unidad de tierra del Grupo de Emergencias y Salvamento (GES), así como dos rescatadores del Consorcio de Emergencias de Gran Canaria, una ambulancia sanitarizada del Servicio de Urgencias Canario, Policía Local y Guardia Civil. De momento no se ha rescatado al afectado y el dispositivo especial está actuando, añadieron las fuentes.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:12.37 cuando varios llamada alertar a el cecoes de que uno persona haber caer a el agua por motivo que se desconocer de este modo el 112 activar de inmediato el dispositivo de emergencia necesario así hasta el lugar se haber desplazar uno helicóptero y uno unidad de tierra de el grupo_de_emergencias y salvamento ges así_como 2 rescatador de el consorcio_de_emergencias_de_gran_canaria uno ambulancia sanitarizada de el servicio_de_urgencias_canario policía_local y guardia_civil de momento no se haber rescatar a el afectar y el dispositivo especial estar actuar añadir el fuente",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes persona haber caer agua motivo desconocer modo activar inmediato dispositivo emergencia necesario lugar haber desplazar helicóptero unidad tierra grupo_de_emergencias salvamento ges rescatador consorcio_de_emergencias_de_gran_canaria ambulancia sanitarizada servicio_de_urgencias_canario policía_local guardia_civil momento haber rescatar afectar dispositivo especial estar actuar añadir fuente",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.37",
+            "112",
+            "2"
+        ]
+    }
+}

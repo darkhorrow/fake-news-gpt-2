@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/717982/0/",
+    "title": {
+        "raw_text": "Una colisión entre 4 vehículos causa fuertes retenciones en Gran Canaria y una herida leve",
+        "lemmatized_text": "uno colisión entre 4 vehículo causa fuerte retención en gran_canaria y uno herida leve",
+        "lemmatized_text_reduced": "colisión vehículo causa fuerte retención gran_canaria herida leve",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una colisión entre cuatro vehículos en la carretera GC-1, en dirección Las Palmas de Gran Canaria, causó a primera hora de esta mañana fuertes retenciones en la entrada a la capital gracanaria.",
+        "lemmatized_text": "uno colisión entre 4 vehículo en el carretera GC-1 en dirección las_palmas_de_gran_canaria causar a 1 hora de este mañana fuerte retención en el entrada a el capital gracanaria",
+        "lemmatized_text_reduced": "colisión vehículo carretera dirección las_palmas_de_gran_canaria causar 1 hora mañana fuerte retención entrada capital gracanaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "GC-1"
+        ]
+    },
+    "body": {
+        "raw_text": "Asimismo, y según informó el Centro Coordinador de Emergencias y Seguridad 112, el incidente se produjo a la altura del municipio de Telde, y resultó herida una mujer que sufrió cervicalgia de carácter leve. La colisión se produjo a las 07.50 horas y hasta el lugar se trasladó personal del Servicio de Urgencias Canario (SUC), así como efectivos de seguridad que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "asimismo y según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir a el altura de el municipio de telde y resultar herir uno mujer que sufrir cervicalgia de carácter leve el colisión se producir a el TM_h:7.5 y hasta el lugar se trasladar personal de el servicio_de_urgencias_canario suc así_como efectivo de seguridad que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "informar centro_coordinador_de_emergencias seguridad incidente producir altura municipio telde resultar herir mujer sufrir cervicalgia carácter leve colisión producir lugar trasladar personal servicio_de_urgencias_canario suc efectivo seguridad instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "TM_h:7.5"
+        ]
+    }
+}

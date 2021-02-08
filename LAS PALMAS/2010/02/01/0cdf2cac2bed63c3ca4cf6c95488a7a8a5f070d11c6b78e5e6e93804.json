@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619731/0/",
+    "title": {
+        "raw_text": "El Circuito Islas de Música, Teatro y Danza llegará esta semana a los municipios de Ingenio y La Aldea (Gran Canaria)",
+        "lemmatized_text": "el circuito_islas_de_música teatro y danza llegar este semana a el municipio de ingenio y la_aldea gran_canaria",
+        "lemmatized_text_reduced": "circuito_islas_de_música teatro danza llegar semana municipio ingenio la_aldea gran_canaria",
+        "persons": [
+            "Teatro",
+            "Danza"
+        ],
+        "locations": [
+            "Ingenio",
+            "La_Aldea"
+        ],
+        "organizations": [
+            "Circuito_Islas_de_Música",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Circuito Islas de Música, Teatro y Danza, que llevan a cabo Gobierno de Canarias y cabildos, llegará esta semana a los municipios de Ingenio y La Aldea (Gran Canaria).",
+        "lemmatized_text": "el circuito_islas_de_música teatro y danza que llevar_a_cabo gobierno_de_canarias y cabildo llegar este semana a el municipio de ingenio y la_aldea gran_canaria",
+        "lemmatized_text_reduced": "circuito_islas_de_música teatro danza llevar_a_cabo gobierno_de_canarias cabildo llegar semana municipio ingenio la_aldea gran_canaria",
+        "persons": [
+            "Teatro",
+            "Danza"
+        ],
+        "locations": [
+            "Ingenio",
+            "La_Aldea"
+        ],
+        "organizations": [
+            "Circuito_Islas_de_Música",
+            "Gobierno_de_Canarias",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, el Trío Zapatista actuará en Ingenio y Non Trubada en La Aldea el próximo 3 de febrero. La programación de este mes incluye, además, la representación de la obra Los mares habitados de 2RC, que se podrá ver en La Aldea el 13 de febrero. Respecto a la actuación del Trío Zapatista, de Producciones del Mar, según informó el Ejecutivo regional, presentará un espectáculo compuesto por canciones \"divertidas\" y una puesta en escena basada en la capacidad teatral y cómica de sus tres componentes. La programación del Circuito continuará, entre otras, el 6 de febrero con un concierto de Non Trubada en el Teatro Jacinto Suárez Martel de Valsequillo, a partir de las 20.30 horas. El grupo de folk es una de las propuestas musicales de sello canario \"más innovadoras\", ya que con instrumentos como el timple, las chácaras o el tambor gomero, obtiene una obra con \"personalidad\".",
+        "lemmatized_text": "en concreto el trío_zapatista actuar en ingenio y non_trubada en la_aldea el [??:3/2/??:??.??:??] el programación de este mes incluir además el representación de el obra los mar habitar de 2RC que se poder ver en la_aldea el [??:13/2/??:??.??:??] respecto_a el actuación de el trío_zapatista de producciones_del_mar según informar el ejecutivo regional presentar uno espectáculo componer por canción divertir y uno puesta en escena basar en el capacidad teatral y cómico de su 3 componente el programación de el circuito continuar entre otro el [??:6/2/??:??.??:??] con uno concierto de non_trubada en el teatro_jacinto_suárez_martel_de_valsequillo a_partir_de el TM_h:20.3 el grupo de folk ser uno de el propuesta musical de sello canario más innovador ya_que con instrumento como el timple el chácara o el tambor gomero obtener uno obra con personalidad",
+        "lemmatized_text_reduced": "concreto trío_zapatista actuar ingenio non_trubada la_aldea programación mes incluir representación obra los mar habitar poder ver la_aldea actuación trío_zapatista producciones_del_mar informar ejecutivo regional presentar espectáculo componer canción divertir puesta escena basar capacidad teatral cómico componente programación circuito continuar concierto non_trubada teatro_jacinto_suárez_martel_de_valsequillo grupo folk ser propuesta musical sello canario innovador instrumento timple chácara tambor gomero obtener obra personalidad",
+        "persons": [
+            "Non_Trubada"
+        ],
+        "locations": [
+            "Ingenio",
+            "Non_Trubada",
+            "La_Aldea",
+            "La_Aldea",
+            "Producciones_del_Mar",
+            "Teatro_Jacinto_Suárez_Martel_de_Valsequillo"
+        ],
+        "organizations": [
+            "Trío_Zapatista",
+            "Trío_Zapatista",
+            "Ejecutivo",
+            "Circuito"
+        ],
+        "others": [
+            "Los"
+        ],
+        "dates": [
+            "[??:3/2/??:??.??:??]",
+            "[??:13/2/??:??.??:??]",
+            "[??:6/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "2RC",
+            "3",
+            "TM_h:20.3"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659746/0/apagon/isla/lanzarote/",
+    "title": {
+        "raw_text": "El norte de la isla de Lanzarote se queda sin luz durante casi dos horas",
+        "lemmatized_text": "el norte de el isla de lanzarote se quedar sin luz durante casi TM_h:2",
+        "lemmatized_text_reduced": "norte isla lanzarote quedar luz",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un apagón dejó la zona a oscuras a las 10.03 horas. Por el momento se desconocen las causas del incidente. El suministro se recuperó a las 11.51 horas.",
+        "lemmatized_text": "uno apagón dejar el zona a oscuro a el TM_h:10.03 por el momento se desconocer el causa de el incidente el suministro se recuperar a el TM_h:11.51",
+        "lemmatized_text_reduced": "apagón dejar zona oscuro momento desconocer causa incidente suministro recuperar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10.03",
+            "TM_h:11.51"
+        ]
+    },
+    "body": {
+        "raw_text": "La zona norte de la isla de Lanzarote permaneció este miércoles a oscuras durante dos horas tras sufrir un incidente a las 10.03 horas que afectó a las tres subestaciones de la isla: Punta Grande (Arrecife), la de San Bartolomé y Mácher, según fuentes de Unelco Endesa . Indicaron, no obstante, que aún se está recabando datos sobre este asunto, pues hasta el momento no se conocen las causas del incidentes o las razones que han provocado esta situación. La isla no recuperó la luz hasta las 11.51 horas de la mañana, cuando las últimas zonas afectadas volvieron a la normalidad. Cerca de 140.000 personas se habrían visto afectadas por este fallo en el suministro eléctrico. Hace algo más de un mes toda la isla de Tenerife se quedó también sin luz a causa del fuerte viento que azotó la isla.",
+        "lemmatized_text": "el zona norte de el isla de lanzarote permanecer este [X:??/??/??:??.??:??] a oscuro durante TM_h:2 tras sufrir uno incidente a el TM_h:10.03 que afectar a el 3 subestación de el isla punta_grande arrecife el de san_bartolomé y mácher según fuente de unelco_endesa indicar no_obstante que aun se estar recabar dato sobre este asunto pues hasta el momento no se conocer el causa de el incidente o el razón que haber provocar este situación el isla no recuperar el luz hasta el [??:??/??/??:11.00:am] cuando el último zona afectar volver a el normalidad cerca de 140 persona se haber ver afectar por este fallo en el suministro eléctrico hacer algo más de uno mes todo el isla de tenerife se quedar también sin luz a causa de el fuerte viento que azotar el isla",
+        "lemmatized_text_reduced": "zona norte isla lanzarote permanecer oscuro sufrir incidente afectar subestación isla punta_grande arrecife san_bartolomé mácher fuente unelco_endesa indicar estar recabar dato asunto momento conocer causa incidente razón haber provocar situación isla recuperar luz último zona afectar volver normalidad persona haber ver afectar fallo suministro eléctrico hacer mes isla tenerife quedar luz causa fuerte viento azotar isla",
+        "persons": [
+            "Punta_Grande"
+        ],
+        "locations": [
+            "Lanzarote",
+            "San_Bartolomé",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Arrecife",
+            "Mácher",
+            "Unelco_Endesa"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:??/??/??:11.00:am]"
+        ],
+        "numbers": [
+            "TM_h:2",
+            "TM_h:10.03",
+            "3",
+            "140"
+        ]
+    }
+}

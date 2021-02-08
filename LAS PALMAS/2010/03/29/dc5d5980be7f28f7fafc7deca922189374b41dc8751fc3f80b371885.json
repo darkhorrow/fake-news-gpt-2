@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664026/0/",
+    "title": {
+        "raw_text": "Rajoy asegura que el PP balear anunciará \"en una hora\" una decisión sobre Matas que él apoyará \"expresamente\"",
+        "lemmatized_text": "rajoy asegurar que el pp balear anunciar en uno hora uno decisión sobre matas que él apoyar expresamente",
+        "lemmatized_text_reduced": "rajoy asegurar pp balear anunciar hora decisión matas apoyar expresamente",
+        "persons": [
+            "Rajoy",
+            "Matas"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del PP, Mariano Rajoy, aseguró hoy que su formación política en Baleares ha adoptado una decisión sobre el ex presidente del Govern, Jaume Matas, que dará a conocer en aproximadamente una hora y que se tratará de una postura que él apoyará \"expresamente\".",
+        "lemmatized_text": "el presidente de el pp mariano_rajoy asegurar hoy que su formación político en baleares haber adoptar uno decisión sobre el ex presidente de el govern jaume_matas que dar_a_conocer en aproximadamente uno hora y que se tratar de uno postura que él apoyar expresamente",
+        "lemmatized_text_reduced": "presidente pp mariano_rajoy asegurar formación político baleares haber adoptar decisión ex presidente govern jaume_matas dar_a_conocer aproximadamente hora tratar postura apoyar expresamente",
+        "persons": [
+            "Mariano_Rajoy",
+            "Jaume_Matas"
+        ],
+        "locations": [
+            "Baleares"
+        ],
+        "organizations": [
+            "PP",
+            "Govern"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"El PP de Baleares tomará una decisión esta misma mañana. Probablemente en una hora anunciará una decisón que yo apoyaré expresamente\", recalcó Rajoy en una entrevista recogida por Europa Press a la Televisión Autonómica de Canarias. El máximo dirigente popular no quiso profundizar más en el fondo del acuerdo adoptado por los populares con respecto a Matas, a quien se le imputan los delitos de malversación de caudales públicos -hasta en siete ocasiones-, falsedad documental, prevaricación administrativa, fraude a la administración, blanqueo de capitales y un delito electoral.",
+        "lemmatized_text": "el pp_de_baleares tomar uno decisión este mismo mañana probablemente en uno hora anunciar uno decisón que yo apoyar expresamente recalcar rajoy en uno entrevista recoger por europa_press a el televisión_autonómica_de_canarias el máximo dirigente popular no querer profundizar más en el fondo de el acuerdo adoptar por el popular con_respecto_a matas a quien se le imputar el delito de malversación de caudal público hasta en 7 ocasión falsedad documental prevaricación administrativo fraude a el administración blanqueo de capital y uno delito electoral",
+        "lemmatized_text_reduced": "pp_de_baleares tomar decisión mismo mañana probablemente hora anunciar decisón apoyar expresamente recalcar rajoy entrevista recoger europa_press televisión_autonómica_de_canarias máximo dirigente popular querer profundizar fondo acuerdo adoptar popular matas imputar delito malversación caudal público ocasión falsedad documental prevaricación administrativo fraude administración blanqueo capital delito electoral",
+        "persons": [
+            "Rajoy",
+            "Europa_Press",
+            "Matas"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP_de_Baleares",
+            "Televisión_Autonómica_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7"
+        ]
+    }
+}

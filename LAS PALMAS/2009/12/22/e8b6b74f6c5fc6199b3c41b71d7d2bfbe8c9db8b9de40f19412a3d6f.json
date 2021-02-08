@@ -1,0 +1,103 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594153/0/",
+    "title": {
+        "raw_text": "La Sala Insular de Teatro (Gran Canaria) ofrece precios especiales de Navidad los días 25 de diciembre y 1 de enero",
+        "lemmatized_text": "el sala_insular_de_teatro gran_canaria ofrecer precio especial de navidad el día [??:25/12/??:??.??:??] y [??:1/1/??:??.??:??]",
+        "lemmatized_text_reduced": "sala_insular_de_teatro gran_canaria ofrecer precio especial navidad día",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Sala_Insular_de_Teatro",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Navidad"
+        ],
+        "dates": [
+            "[??:25/12/??:??.??:??]",
+            "[??:1/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Sala Insular de Teatro (SIT), ubicada en Las Palmas de Gran Canaria, ofrecerá precios especiales en su programación de teatro infantil y adulto con motivo de las fiestas de navidad para los día 25 de diciembre y 1 de enero, según informó el Cabildo grancanario en nota de prensa.",
+        "lemmatized_text": "el sala_insular_de_teatro sit ubicar en las_palmas_de_gran_canaria ofrecer precio especial en su programación de teatro infantil y adulto con motivo de el fiesta de navidad para el [??:25/12/??:??.??:??] y [??:1/1/??:??.??:??] según informar el cabildo grancanario en nota de prensa",
+        "lemmatized_text_reduced": "sala_insular_de_teatro sit ubicar las_palmas_de_gran_canaria ofrecer precio especial programación teatro infantil adulto motivo fiesta navidad informar cabildo grancanario nota prensa",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Sala_Insular_de_Teatro",
+            "SIT",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [
+            "[??:25/12/??:??.??:??]",
+            "[??:1/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Ambos días, la cita con el teatro se iniciará a las 18.00 horas con la programación especial de 'La vuelta al mundo en cinco cuentos' y se cerrará, a las 21.00 horas, con sendos pases de 'Divorciadas, Evangélicas y Vegetarianas'. En ambos casos, se aplicarán descuentos en los precios de las localidades para celebrar, en torno al escenario de la Sala Insular de Teatro, las fiestas de Navidad y Año Nuevo. En el caso de la función infantil, las localidades se venderán a 3 euros, mientras que la obra de Gustavo Ott, que ya triunfó de manera absoluta en el Teatro Cuyás, podrá verse por un precio único de 10 euros. Las localidades ya están a la venta en las taquillas del Cuyás, a través de la página web de Cajatique (www.cajatique.com) o llamando al teléfono 902 405 504. También se podrán comprar en las taquillas de la propia Sala Insular de Teatro una hora antes de cada función. La SIT ofrece un completo programa de funciones con motivo de las fiestas navideñas con un total de 36 representaciones entre el día 19 de diciembre y el 10 de enero. Profetas de Mueble Bar hacen un programa doble que no excluye al público adulto, por lo que Teatros del Cabildo, que complementa su oferta de ocio escénico navideño con el Teatro Cuyás y la Carpa del Cuyás, ofrece unas navidades para todos los públicos. 'Divorciadas, Evangélicas y vegetarianas' es una divertida comedia en torno a la amistad entre mujeres. El espectáculo se desarrolla a gran velocidad en tres actos y tres espacios (estación de metro, cine y campo abierto). Sus personajes son tres mujeres en crisis consigo mismas y con el mundo que les rodea. Paralelamente, la Sala Insular de Teatro acogerá la representación de un espectáculo para los más pequeños y para toda la familia: 'La vuelta al mundo en cinco cuentos', por Teatro Alegre de Profetas de Mueble Bar. Los populares Claudio y Expósito -Fernando Navas y Juan Ramón Pérez- volverán a hacer las delicias de niños y mayores con sus entretenidas andanzas e historias que harán viajar a los espectadores por Rusia, China, Puerto Rico, África y las Islas Canarias.",
+        "lemmatized_text": "ambos día el cita con el teatro se iniciar a el TM_h:18 con el programación especial de el vuelta a el mundo en 5 cuento y se cerrar a el TM_h:21 con sendos pase de divorciado evangélicas y vegetarianas en ambos caso se aplicar descuento en el precio de el localidad para celebrar en torno a el escenario de el sala_insular_de_teatro el fiesta de navidad y año_nuevo en el caso de el función infantil el localidad se vender a $_ECU:3 mientras_que el obra de gustavo_ott que ya triunfar de manera absoluto en el teatro_cuyás poder ver se por uno precio único de $_ECU:10 el localidad ya estar a el venta en el taquilla de el cuyás a_través_de el página web de cajatique www.cajatique.com o llamar a el teléfono 902 405 504 también se poder comprar en el taquilla de el propio sala_insular_de_teatro uno hora antes_de cada función el sit ofrecer uno completo programa de función con motivo de el fiesta navideño con uno total de 36 representación entre el [??:19/12/??:??.??:??] y el [??:10/1/??:??.??:??] profetas_de_mueble_bar hacer uno programa doble que no excluir a el público adulto por el que teatros_del_cabildo que complementar su oferta de ocio escénico navideño con el teatro_cuyás y el carpa_del_cuyás ofrecer uno navidad para todo el público divorciado evangélicas y vegetariano ser uno divertir comedia en_torno_a el amistad entre mujer el espectáculo se desarrollar a gran velocidad en 3 acto y 3 espacio estación de metro cine y campo abrir su personaje ser 3 mujer en crisis conseguir mismo y con el mundo que le rodear paralelamente el sala_insular_de_teatro acoger el representación de uno espectáculo para el más pequeño y para todo el familia el vuelta a el mundo en 5 cuento por teatro_alegre_de_profetas_de_mueble_bar el popular claudio y expósito fernando_navas y juan_ramón_pérez volver a hacer el delicia de niño y mayor con su entretener andanza y historia que hacer viajar a el espectador por rusia china puerto_rico áfrica y el islas_canarias",
+        "lemmatized_text_reduced": "día cita teatro iniciar programación especial vuelta mundo cuento cerrar pase divorciado evangélicas vegetarianas caso aplicar descuento precio localidad celebrar torno escenario sala_insular_de_teatro fiesta navidad año_nuevo caso función infantil localidad vender obra gustavo_ott triunfar manera absoluto teatro_cuyás poder ver precio único localidad estar venta taquilla cuyás página web cajatique www.cajatique.com llamar teléfono poder comprar taquilla propio sala_insular_de_teatro hora función sit ofrecer completo programa función motivo fiesta navideño total representación profetas_de_mueble_bar hacer programa doble excluir público adulto teatros_del_cabildo complementar oferta ocio escénico navideño teatro_cuyás carpa_del_cuyás ofrecer navidad público divorciado evangélicas vegetariano ser divertir comedia amistad mujer espectáculo desarrollar gran velocidad acto espacio estación metro cine campo abrir personaje ser mujer crisis conseguir mismo mundo rodear paralelamente sala_insular_de_teatro acoger representación espectáculo pequeño familia vuelta mundo cuento teatro_alegre_de_profetas_de_mueble_bar popular claudio expósito fernando_navas juan_ramón_pérez volver hacer delicia niño mayor entretener andanza historia hacer viajar espectador rusia china puerto_rico áfrica islas_canarias",
+        "persons": [
+            "Evangélicas",
+            "Vegetarianas",
+            "Año_Nuevo",
+            "Gustavo_Ott",
+            "Sala_Insular_de_Teatro",
+            "Teatros_del_Cabildo",
+            "Evangélicas",
+            "Teatro_Alegre_de_Profetas_de_Mueble_Bar",
+            "Claudio",
+            "Expósito",
+            "Fernando_Navas",
+            "Juan_Ramón_Pérez"
+        ],
+        "locations": [
+            "Teatro_Cuyás",
+            "Cuyás",
+            "Rusia",
+            "Puerto_Rico",
+            "Islas_Canarias"
+        ],
+        "organizations": [
+            "Sala_Insular_de_Teatro",
+            "Cajatique",
+            "SIT",
+            "Teatro_Cuyás",
+            "Sala_Insular_de_Teatro",
+            "China",
+            "África"
+        ],
+        "others": [
+            "Navidad",
+            "Profetas_de_Mueble_Bar",
+            "Carpa_del_Cuyás"
+        ],
+        "dates": [
+            "[??:19/12/??:??.??:??]",
+            "[??:10/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:18",
+            "5",
+            "TM_h:21",
+            "$_ECU:3",
+            "$_ECU:10",
+            "902",
+            "405",
+            "504",
+            "36",
+            "3",
+            "3",
+            "3",
+            "5"
+        ]
+    }
+}

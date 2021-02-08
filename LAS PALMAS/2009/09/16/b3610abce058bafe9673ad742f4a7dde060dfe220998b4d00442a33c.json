@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/518817/0/detenido/autor/incendios/",
+    "title": {
+        "raw_text": "La Guardia Civil detiene a un hombre como presunto autor de varios incendios",
+        "lemmatized_text": "el guardia_civil detener a uno hombre como presunto autor de varios incendio",
+        "lemmatized_text_reduced": "guardia_civil detener hombre presunto autor incendio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El detenido responde a las iniciales de J.L.G.S., tiene 34 años de edad y es natural de Las Palmas de Gran Canaria. Se le investigaba desde el pasado 3 de julio.",
+        "lemmatized_text": "el detenido responder a el inicial de j.l.g.s. tener 34 año de edad y ser natural de las_palmas_de_gran_canaria se le investigar desde el [??:3/7/??:??.??:??]",
+        "lemmatized_text_reduced": "detenido responder inicial j.l.g.s. tener año edad ser natural las_palmas_de_gran_canaria investigar",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "J.L.G.S."
+        ],
+        "others": [],
+        "dates": [
+            "[??:3/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "34"
+        ]
+    },
+    "body": {
+        "raw_text": "La Guardia Civil del Servicio de Protección de la Naturaleza (Seprona), en colaboración con la Brigada de Investigación de Incendios del Cabildo de Gran Canaria (BIIF), ha detenido a un hombre que responde a las iniciales de J.L.G.S., de 34 años de edad, y natural de Las Palmas de Gran Canaria, como presunto autor de un delito continuado de incendio forestal. Los agentes iniciaron las investigaciones el pasado 3 de julio, día en el que se produjo un incendio en la zona conocida como 'Altos de siete puertas', en el término municipal de Las Palmas de Gran Canaria. Posteriormente al 3 de julio y hasta el día de hoy se han producido otros cuatro incendios que han afectado a una superficie total de 10.000 metros cuadrados, lo que los agentes, según informó la Guardia Civil en nota de prensa, han determinado que \"eran intencionados\". El informe técnico y las investigaciones realizadas dan como resultado indicios que permiten \"la total identificación del principal sospechoso\", que fue localizado y detenido en Las Palmas de Gran Canaria a las 10.30 horas de ayer. Así, el detenido y las diligencias practicadas fueron puestas a disposición judicial en el Juzgado de Instrucción número 7 de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el guardia_civil_del_servicio_de_protección_de_la_naturaleza seprona en colaboración con el brigada_de_investigación_de_incendios_del_cabildo_de_gran_canaria biif haber detener a uno hombre que responder a el inicial de j.l.g.s. de 34 año de edad y natural de las_palmas_de_gran_canaria como presunto autor de uno delito continuar de incendio forestal el agente iniciar el investigación el [??:3/7/??:??.??:??] día en el que se producir uno incendio en el zona conocer como alto de 7 puerta en el término municipal de las_palmas_de_gran_canaria posteriormente a el [??:3/7/??:??.??:??] y hasta el día de hoy se haber producir otro 4 incendio que haber afectar a uno superficie total de AR_m2:10 el que el agente según informar el guardia_civil en nota de prensa haber determinar que ser intencionado el informe técnico y el investigación realizar dar como resultado indicio que permitir el total identificación de el principal sospechoso que ser localizar y detener en las_palmas_de_gran_canaria a el TM_h:10.3 de ayer así el detenido y el diligencia practicar ser poner a disposición judicial en el juzgado_de_instrucción número 7 de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil_del_servicio_de_protección_de_la_naturaleza seprona colaboración brigada_de_investigación_de_incendios_del_cabildo_de_gran_canaria biif haber detener hombre responder inicial j.l.g.s. año edad natural las_palmas_de_gran_canaria presunto autor delito continuar incendio forestal agente iniciar investigación día producir incendio zona conocer alto puerta término municipal las_palmas_de_gran_canaria posteriormente día haber producir incendio haber afectar superficie total agente informar guardia_civil nota prensa haber determinar ser intencionado informe técnico investigación realizar dar resultado indicio permitir total identificación principal sospechoso ser localizar detener las_palmas_de_gran_canaria detenido diligencia practicar ser poner disposición judicial juzgado_de_instrucción número las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil_del_Servicio_de_Protección_de_la_Naturaleza",
+            "Seprona",
+            "Brigada_de_Investigación_de_Incendios_del_Cabildo_de_Gran_Canaria",
+            "BIIF",
+            "J.L.G.S.",
+            "Guardia_Civil",
+            "Juzgado_de_Instrucción"
+        ],
+        "others": [],
+        "dates": [
+            "[??:3/7/??:??.??:??]",
+            "[??:3/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "34",
+            "7",
+            "4",
+            "AR_m2:10",
+            "TM_h:10.3",
+            "7"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/713924/0/",
+    "title": {
+        "raw_text": "Soria afirma que el Plan Canarias no se ve afectado y cree que más ajustes son \"difícilmente soportables\"",
+        "lemmatized_text": "soria afirmar que el plan_canarias no se ver afectar y creer que más ajuste ser difícilmente soportable",
+        "lemmatized_text_reduced": "soria afirmar plan_canarias ver afectar creer ajuste ser difícilmente soportable",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [],
+        "others": [
+            "Plan_Canarias"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El vicepresidente y consejero de Economía y Hacienda del Gobierno de Canarias, José Manuel Soria, ha manifestado que \"de momento\" no tiene conocimiento de que el Plan Canarias se vaya a ver afectado por los recortes anunciados por el presidente del Gobierno, José Luis Rodríguez Zapatero, y ha opinado que más ajustes en las islas serían \"difícilmente soportables\", según declaró hoy durante su participación en el primer Foro de Cope Las Palmas.",
+        "lemmatized_text": "el vicepresidente y consejero de economía y hacienda_del_gobierno_de_canarias josé_manuel_soria haber manifestar que de momento no tener conocimiento de que el plan_canarias se ir a ver afectar por el recorte anunciar por el presidente de el gobierno josé_luis_rodríguez_zapatero y haber opinar que más ajuste en el isla ser difícilmente soportable según declarar hoy durante su participación en el 1 foro_de_cope_las_palmas",
+        "lemmatized_text_reduced": "vicepresidente consejero economía hacienda_del_gobierno_de_canarias josé_manuel_soria haber manifestar momento tener conocimiento plan_canarias ir ver afectar recorte anunciar presidente gobierno josé_luis_rodríguez_zapatero haber opinar ajuste isla ser difícilmente soportable declarar participación 1 foro_de_cope_las_palmas",
+        "persons": [
+            "José_Manuel_Soria",
+            "José_Luis_Rodríguez_Zapatero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Economía",
+            "Hacienda_del_Gobierno_de_Canarias",
+            "Gobierno"
+        ],
+        "others": [
+            "Plan_Canarias",
+            "Foro_de_Cope_Las_Palmas"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"De momento, el Gobierno de Canarias no tiene conocimiento y no se nos ha informado de que este recorte vaya a afectar a las inversiones en las islas. El Ejecutivo regional trabaja con la hipótesis de que las inversiones están comprometidas en lo que se denominó Estrategia Integral para Canarias, más conocido como Plan Canarias, aprobadas en el Consejo de Ministros del 9 de octubre por un importe de 25.000 millones de euros en 10 años\", dijo. Aquí, afirmó que para 2010, \"en estos momentos, de esos 2.500 millones de euros presupuestados hay dos proyectos, uno para obras de rehabilitación turística —30 millones de euros— y otro para el programa para agricultura de Apoyo a las Producciones Locales de Canarias (POSEI) —9 millones—. Por su parte, consideró que es posible que a lo largo de los próximos meses haya modificaciones presupuestarias en el Gobierno para que haya más partidas dentro del Plan Canarias, aunque lo vio complicado. \"Es muy difícil, sobre todo estando anunciando el Gobierno todo lo contrario. Ya como estamos, desde luego creo que sería difícilmente soportable para Canarias que hubiese un recorte adicional en las inversiones públicas que ya hay previstas por parte del Gobierno de la Comunidad Autónoma para lo que queda de año\", concluyó.",
+        "lemmatized_text": "de momento el gobierno_de_canarias no tener conocimiento y no se nos haber informar de que este recorte ir a afectar a el inversión en el isla el ejecutivo regional trabajar con el hipótesis de que el inversión estar comprometer en el que se denominar estrategia_integral_para_canarias más conocer como plan_canarias aprobar en el consejo_de_ministros de el [??:9/10/??:??.??:??] por uno importe de $_ECU:25000000 en 10 año decir aquí afirmar que para 2010 en este momento de ese $_ECU:2500000 presupuestar haber 2 proyecto uno para obra de rehabilitación turístico $_ECU:30000000 y otro para el programa para agricultura de apoyo a el producciones_locales_de_canarias posei 9000000 por su parte considerar que ser posible que a el largo de el próximo mes haber modificación presupuestario en el gobierno para que haber más partida dentro de el plan_canarias aunque lo ver complicar ser muy difícil sobre todo estar anunciar el gobierno todo_lo_contrario ya como estar desde_luego creer que ser difícilmente soportable para canarias que haber uno recorte adicional en el inversión público que ya haber prever por parte de el gobierno_de_la_comunidad_autónoma para el que quedar de año concluir",
+        "lemmatized_text_reduced": "momento gobierno_de_canarias tener conocimiento haber informar recorte ir afectar inversión isla ejecutivo regional trabajar hipótesis inversión estar comprometer denominar estrategia_integral_para_canarias conocer plan_canarias aprobar consejo_de_ministros importe año decir afirmar momento presupuestar haber proyecto obra rehabilitación turístico programa agricultura apoyo producciones_locales_de_canarias posei parte considerar ser posible largo próximo mes haber modificación presupuestario gobierno haber partida plan_canarias ver complicar ser difícil estar anunciar gobierno estar creer ser difícilmente soportable canarias haber recorte adicional inversión público haber prever parte gobierno_de_la_comunidad_autónoma quedar año concluir",
+        "persons": [
+            "Plan_Canarias",
+            "Apoyo"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Consejo_de_Ministros",
+            "Producciones_Locales_de_Canarias",
+            "POSEI",
+            "Gobierno",
+            "Gobierno",
+            "Gobierno_de_la_Comunidad_Autónoma"
+        ],
+        "others": [
+            "Estrategia_Integral_para_Canarias",
+            "Plan_Canarias"
+        ],
+        "dates": [
+            "[??:9/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:25000000",
+            "10",
+            "2010",
+            "$_ECU:2500000",
+            "2",
+            "$_ECU:30000000",
+            "9000000"
+        ]
+    }
+}

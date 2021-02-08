@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/640784/0/",
+    "title": {
+        "raw_text": "Una joven resulta herida tras ser agredida por arma blanca en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno joven resultar herir tras ser agredir por arma blanco en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "joven resultar herir ser agredir arma blanco las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven de 21 años de edad ha resultado herida de carácter leve tras ser agredida por arma blanca en el barrio de San Cristóbal en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno joven de 21 año de edad haber resultar herida de carácter leve tras ser agredir por arma blanco en el barrio de san_cristóbal en las_palmas_de_gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "joven año edad haber resultar herida carácter leve ser agredir arma blanco barrio san_cristóbal las_palmas_de_gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "San_Cristóbal",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "21",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 12.54 horas, cuando varias alertas avisaron al Cecoes del incidente en la calle Escama y de que una mujer precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Así, hasta el lugar se desplazó una ambulancia avanzada, un vehículo de intervención rápida y otra ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC), que evacuó a la víctima al Hospital Universitario Insular de Gran Canaria con \"lesiones leves\", según añadieron las mismas fuentes. En dicha actuación también intervino la Policía Nacional, que se encarga de instruir las diligencias correspondientes, confirmaron a Europa Press fuentes de la Jefatura Superior de Policía de Canarias, que no pudieron precisar más información sobre este suceso.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:12.54 cuando varios alerta avisar a el cecoes de el incidente en el calle escama y de que uno mujer precisar asistencia sanitario de este modo el 112 activar de inmediato el dispositivo de emergencia necesario así hasta el lugar se desplazar uno ambulancia avanzar uno vehículo de intervención rápido y otro ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc que evacuar a el víctima a el hospital_universitario_insular_de_gran_canaria con lesión leve según añadir el mismo fuente en decir actuación también intervenir el policía_nacional que se encargar de instruir el diligencia correspondiente confirmar a europa_press fuente de el jefatura_superior_de_policía_de_canarias que no poder precisar más información sobre este suceso",
+        "lemmatized_text_reduced": "hecho ocurrir alerta avisar cecoes incidente calle escama mujer precisar asistencia sanitario modo activar inmediato dispositivo emergencia necesario lugar desplazar ambulancia avanzar vehículo intervención rápido ambulancia soporte vital básico servicio_de_urgencias_canario suc evacuar víctima hospital_universitario_insular_de_gran_canaria lesión leve añadir mismo fuente decir actuación intervenir policía_nacional encargar instruir diligencia correspondiente confirmar europa_press fuente jefatura_superior_de_policía_de_canarias poder precisar información suceso",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Nacional",
+            "Jefatura_Superior_de_Policía_de_Canarias"
+        ],
+        "others": [
+            "Escama"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.54",
+            "112"
+        ]
+    }
+}

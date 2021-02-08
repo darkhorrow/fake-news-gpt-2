@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660474/0/",
+    "title": {
+        "raw_text": "Los trabajos de la Policía en el pozo de Jinamar (Gran Canaria) en busca de huesos continúa atrayendo vecinos a la zona",
+        "lemmatized_text": "el trabajo de el policía en el pozo de jinamar gran_canaria en_busca_de hueso continuar atraer vecino a el zona",
+        "lemmatized_text_reduced": "trabajo policía pozo jinamar gran_canaria hueso continuar atraer vecino zona",
+        "persons": [],
+        "locations": [
+            "Jinamar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los trabajos que desde el pasado lunes realiza la Policía Nacional en un pozo ubicado en una vivienda abandonada en el valle de Jinamar, en Las Palmas de Gran Canaria, donde busca una bolsa que podría contener huesos, tras captarlo así una cámara subacuática en el marco de la investigación de la joven desaparecida Sara Morales, continúa atrayendo a día de hoy a vecinos de la zona.",
+        "lemmatized_text": "el trabajo que desde el [L:??/??/??:??.??:??] realizar el policía_nacional en uno pozo ubicar en uno vivienda abandonar en el valle de jinamar en las_palmas_de_gran_canaria donde buscar uno bolsa que poder contener hueso tras captar lo así uno cámara subacuático en el marco de el investigación de el joven desaparecer sara_morales continuar atraer a día de hoy a vecino de el zona",
+        "lemmatized_text_reduced": "trabajo realizar policía_nacional pozo ubicar vivienda abandonar valle jinamar las_palmas_de_gran_canaria buscar bolsa poder contener hueso captar cámara subacuático marco investigación joven desaparecer sara_morales continuar atraer día vecino zona",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Jinamar",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, día tras día, desde el pasado lunes, junto a la gran cantidad de medios de comunicación en la zona, también se agolpan a pie curiosos para ver cómo trabajan los diferentes grupos de la Policía Nacional que están contribuyendo en este operativo, así como otros cuerpos de seguridad. Los ciudadanos, que muchos están horas en el lugar, reconocen que se acercan para ver \"si se enteran de algo más de lo que sale en los medios de comunicación\". Cuestionados por si creen que esos restos, si fueran humanos, podrían ser de Sara Morales, la joven que desapareció en la capital grancanaria en el verano de 2006, afirman que \"no les gustaría que estuviera muerta pero si está que salga para que la familia descanse\". A colación, añaden que también podrían ser de otra persona porque puntualizaron que en la casa abandonada en la que se encuentra el pozo entran \"muchos\" toxicómanos. En este sentido, indican que sería \"un fracaso\", después de todo el operativo que se ha montado, si se sacan los huesos y finalmente estos resultan ser de animales. Respecto al pozo en el que se trabaja drenando agua para intentar llegar hasta donde se encuentran la supuesta bolsa en la que estarían los huesos, indican que la casa abandonada en la que está dicho pozo era antiguamente un molino en el que los vecinos de la zona llevaban el millo para hacer gofio. Por otro lado, la delegada del Gobierno en Canarias, Carolina Darias, que ha estado durante la mañana de hoy al pie de las labores que se están realizando en la citada zona, abandonó pasada las 15.00 horas el lugar, al igual que el comisario de la Brigada Judicial en Las Palmas, José Luis Regalado, y aún no han vuelto.",
+        "lemmatized_text": "así día tras día desde el [L:??/??/??:??.??:??] junto_a el gran cantidad de medio de comunicación en el zona también se agolpar a pie curioso para ver cómo trabajar el diferente grupo de el policía_nacional que estar contribuir en este operativo así_como otro cuerpo de seguridad el ciudadano que mucho estar hora en el lugar reconocer que se acercar para ver si se enterar de algo más de el que salir en el medio de comunicación cuestionar por si creer que ese resto si ser humano poder ser de sara_morales el joven que desaparecer en el capital grancanaria en el verano de 2006 afirmar que no le gustar que estar morir pero si estar que salir para que el familia descansar a colación añadir que también poder ser de otro persona porque puntualizar que en el casa abandonar en el que se encontrar el pozo entrar mucho toxicómano en este sentido indicar que ser uno fracaso después_de todo el operativo que se haber montar si se sacar el hueso y finalmente este resultar ser de animal respecto a el pozo en el que se trabajar drenar agua para intentar llegar hasta donde se encontrar el suponer bolsa en el que estar el hueso indicar que el casa abandonar en el que estar decir pozo ser antiguamente uno molino en el que el vecino de el zona llevar el millo para hacer gofio por_otro_lado el delegado de el gobierno en canarias carolina_darias que haber estar durante el mañana de hoy a el pie de el labor que se estar realizar en el citar zona abandonar pasar el TM_h:15 el lugar al_igual_que el comisario de el brigada_judicial en las_palmas josé_luis_regalado y aun no haber volver",
+        "lemmatized_text_reduced": "día día gran cantidad medio comunicación zona agolpar pie curioso ver trabajar diferente grupo policía_nacional estar contribuir operativo cuerpo seguridad ciudadano estar hora lugar reconocer acercar ver enterar salir medio comunicación cuestionar creer resto ser humano poder ser sara_morales joven desaparecer capital grancanaria verano afirmar gustar estar morir estar salir familia descansar colación añadir poder ser persona puntualizar casa abandonar encontrar pozo entrar toxicómano sentido indicar ser fracaso operativo haber montar sacar hueso finalmente resultar ser animal respecto pozo trabajar drenar agua intentar llegar encontrar suponer bolsa estar hueso indicar casa abandonar estar decir pozo ser antiguamente molino vecino zona llevar millo hacer gofio delegado gobierno canarias carolina_darias haber estar mañana pie labor estar realizar citar zona abandonar pasar lugar comisario brigada_judicial las_palmas josé_luis_regalado haber volver",
+        "persons": [
+            "Sara_Morales",
+            "Carolina_Darias",
+            "José_Luis_Regalado"
+        ],
+        "locations": [
+            "Canarias",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Gobierno",
+            "Brigada_Judicial"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2006",
+            "TM_h:15"
+        ]
+    }
+}

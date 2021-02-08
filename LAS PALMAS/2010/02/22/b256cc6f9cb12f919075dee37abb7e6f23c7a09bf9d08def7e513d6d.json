@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/635464/0/",
+    "title": {
+        "raw_text": "El centro turístico Castillo de San José de Lanzarote acogerá un concierto de cámara y ópera",
+        "lemmatized_text": "el centro turístico castillo_de_san_josé_de_lanzarote acoger uno concierto de cámara y ópera",
+        "lemmatized_text_reduced": "centro turístico castillo_de_san_josé_de_lanzarote acoger concierto cámara ópera",
+        "persons": [],
+        "locations": [
+            "Castillo_de_San_José_de_Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El centro turístico Castillo de San José, en Lanzarote, acogerá el próximo viernes, 26 de febrero, un concierto de cámara y ópera que correrá a cargo del Grupo Guenia. De esta forma, se dará el pistoletazo de salida al nuevo programa musical de los Centros de Arte, Cultura y Turismo del Cabildo insular.",
+        "lemmatized_text": "el centro turístico castillo_de_san_josé en lanzarote acoger el [V:26/2/??:??.??:??] uno concierto de cámara y ópera que correr a cargo de el grupo_guenia de este forma se dar el pistoletazo de salida a el nuevo programa musical de el centros_de_arte cultura y turismo_del_cabildo insular",
+        "lemmatized_text_reduced": "centro turístico castillo_de_san_josé lanzarote acoger concierto cámara ópera correr cargo grupo_guenia forma dar pistoletazo salida nuevo programa musical centros_de_arte cultura turismo_del_cabildo insular",
+        "persons": [
+            "Turismo_del_Cabildo"
+        ],
+        "locations": [
+            "Castillo_de_San_José",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Grupo_Guenia",
+            "Centros_de_Arte"
+        ],
+        "others": [
+            "Cultura"
+        ],
+        "dates": [
+            "[V:26/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El concierto del próximo viernes, a las 21.00 horas, en el que actuará el Grupo Guenia contará con Ayoze Rodríguez al clarinete, así como con Adrián Niz a la guitarra, Alexis Lemes al timple y Sara Bermúdez hará la voz, según informó el Cabildo de Lanzarote en nota de prensa. Asimismo, junto a estos artistas actuará en el contrabajo Ignacio Saporti y en la percusión estará Manuel Becerra. Todos ellos aportarán los nuevos sonidos para quienes quieran disfrutar de actuaciones \"especiales\" en el Castillo de San José. Por su parte, la vicepresidenta segunda del Cabildo de Lanzarote y consejera de los CACTs, Astrid Pérez, señaló que este plan cultural y turístico forma parte de las \"nuevas estrategias para relanzar\" al Castillo, que bajo el título de 'Música en el Museo' albergará desde este mes de febrero y hasta junio conciertos de cámara y ópera, además de un ciclo de gastronomía. Las entradas para los conciertos tendrán un coste de 8 euros y se pueden adquirir en la taquilla del propio Castillo de San José.",
+        "lemmatized_text": "el concierto de el [V:??/??/??:??.??:??] a el TM_h:21 en el que actuar el grupo_guenia contar con ayoze_rodríguez a el clarinete así_como con adrián_niz a el guitarra alexis_lemes a el timple y sara_bermúdez hacer el voz según informar el cabildo_de_lanzarote en nota de prensa asimismo junto_a este artista actuar en el contrabajo ignacio_saporti y en el percusión estar manuel_becerra todo ellos aportar el nuevo sonido para quien querer disfrutar de actuación especial en el castillo_de_san_josé por su parte el vicepresidente 2 de el cabildo_de_lanzarote y consejero de el cacts astrid_pérez señalar que este plan cultural y turístico formar_parte de el nuevo estrategia para relanzar a el castillo que bajo el título de música en el museo albergar desde este [??:??/2/??:??.??:??] y hasta [??:??/6/??:??.??:??] concierto de cámara y ópera además_de uno ciclo de gastronomía el entrada para el concierto tener uno coste de $_ECU:8 y se poder adquirir en el taquilla de el propio castillo_de_san_josé",
+        "lemmatized_text_reduced": "concierto actuar grupo_guenia contar ayoze_rodríguez clarinete adrián_niz guitarra alexis_lemes timple sara_bermúdez hacer voz informar cabildo_de_lanzarote nota prensa artista actuar contrabajo ignacio_saporti percusión estar manuel_becerra aportar nuevo sonido querer disfrutar actuación especial castillo_de_san_josé parte vicepresidente 2 cabildo_de_lanzarote consejero cacts astrid_pérez señalar plan cultural turístico formar_parte nuevo estrategia relanzar castillo título música museo albergar concierto cámara ópera ciclo gastronomía entrada concierto tener coste poder adquirir taquilla propio castillo_de_san_josé",
+        "persons": [
+            "Ayoze_Rodríguez",
+            "Adrián_Niz",
+            "Alexis_Lemes",
+            "Sara_Bermúdez",
+            "Ignacio_Saporti",
+            "Manuel_Becerra",
+            "Astrid_Pérez",
+            "Castillo"
+        ],
+        "locations": [
+            "Castillo_de_San_José",
+            "Castillo_de_San_José"
+        ],
+        "organizations": [
+            "Grupo_Guenia",
+            "Cabildo_de_Lanzarote",
+            "Cabildo_de_Lanzarote",
+            "CACTs"
+        ],
+        "others": [
+            "Museo"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:??/2/??:??.??:??]",
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21",
+            "$_ECU:8"
+        ]
+    }
+}

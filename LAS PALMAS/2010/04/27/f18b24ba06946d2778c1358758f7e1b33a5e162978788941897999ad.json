@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/689647/0/",
+    "title": {
+        "raw_text": "Guardia Civil detiene a 7 personas en la tercera fase de la 'Operación Jable', alcanzando a 24 el total de arrestos",
+        "lemmatized_text": "guardia_civil detener a 7 persona en el 3 fase de el operación_jable alcanzar a 24 el total de arresto",
+        "lemmatized_text_reduced": "guardia_civil detener persona 3 fase operación_jable alcanzar total arresto",
+        "persons": [
+            "Operación_Jable"
+        ],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "24"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil, en la tercera fase de la 'Operación Jable', ha detenido en Lanzarote a siete personas, entre ellas a la actual consejera del Cabildo de Lanzarote y ex presidenta de la institución insular, María José Docal, y a los que se les imputan, entre otros, varios delitos de cohecho en sus distintos tipos.",
+        "lemmatized_text": "el guardia_civil en el 3 fase de el operación_jable haber detener en lanzarote a 7 persona entre ellos a el actual consejero de el cabildo_de_lanzarote y ex presidente de el institución insular maría_josé_docal y a el que se le imputar entre otro varios delito de cohecho en su distinto tipo",
+        "lemmatized_text_reduced": "guardia_civil 3 fase operación_jable haber detener lanzarote persona actual consejero cabildo_de_lanzarote ex presidente institución insular maría_josé_docal imputar delito cohecho distinto tipo",
+        "persons": [
+            "Operación_Jable",
+            "María_José_Docal"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7"
+        ]
+    },
+    "body": {
+        "raw_text": "Con estas nuevos arrestos, los agentes de la Benemérita ya han detenido a un total de 24 personas entre Lanzarote, Gran Canaria, Madrid y Almería, según informó la Guardia Civil en nota de prensa. (Habrá ampliación)",
+        "lemmatized_text": "con este nuevo arresto el agente de el benemérita ya haber detener a uno total de 24 persona entre lanzarote gran_canaria madrid y almería según informar el guardia_civil en nota de prensa haber ampliación",
+        "lemmatized_text_reduced": "nuevo arresto agente benemérita haber detener total persona lanzarote gran_canaria madrid almería informar guardia_civil nota prensa haber ampliación",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Gran_Canaria",
+            "Almería"
+        ],
+        "organizations": [
+            "Benemérita",
+            "Madrid",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "24"
+        ]
+    }
+}

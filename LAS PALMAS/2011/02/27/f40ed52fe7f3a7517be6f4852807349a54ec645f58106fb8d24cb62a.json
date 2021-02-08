@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/972680/0/",
+    "title": {
+        "raw_text": "Un hombre herido tras el vuelco de un turismo en la Avenida Marítima de Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre herir tras el vuelco de uno turismo en el avenida_marítima_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre herir vuelco turismo avenida_marítima_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Avenida_Marítima_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre de 39 años ha resultado herido de carácter menos grave tras volcar con su vehículo sobre las 04.06 horas de este domingo cuando circulaba en por la Avenida Marítima, a la altura de la estación de guaguas y en dirección sur, dentro del término municipal de Las Palmas de Gran Canaria, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre de 39 año haber resultar herir de carácter menos grave tras volcar con su vehículo sobre el TM_h:4.06 de este [G:??/??/??:??.??:??] cuando circular en por el avenida_marítima a el altura de el estación de guagua y en dirección sur dentro de el término municipal de las_palmas_de_gran_canaria informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre año haber resultar herir carácter grave volcar vehículo circular avenida_marítima altura estación guagua dirección sur término municipal las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Avenida_Marítima",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "39",
+            "TM_h:4.06",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre de 39 años ha resultado herido de carácter menos grave tras volcar con su vehículo sobre las 04.06 horas de este domingo cuando circulaba en por la Avenida Marítima, a la altura de la estación de guaguas y en dirección sur, dentro del término municipal de Las Palmas de Gran Canaria, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. De esta manera, una llamada alertó a la hora indicada del vuelto que un turismo, señalando que podría haber personas heridas. En ese momento, se trasladó al lugar, una ambulancia de soporte vital básico y una ambulancia de soporte vital avanzado del Servicio de Urgencias Canario (SUC). Al llegar, los médicos atendieron a un varón de 39 años que presentó traumatismo craneal de carácter menos grave, por lo que fue trasladado en la ambulancia de soporte vital avanzado del SUC al Hospital Universitario Insular de Gran Canaria. Por su parte, miembros del Servicio de Extinción de Incendios, Salvamento y Rescate de Las Palmas de Gran Canaria se encargaron de asegurar el vehículo, ya que el afectado se encontraba en el exterior del mismo. Finalmente, agentes de la Policía Local de Las Palmas de Gran Canaria instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre de 39 año haber resultar herir de carácter menos grave tras volcar con su vehículo sobre el TM_h:4.06 de este [G:??/??/??:??.??:??] cuando circular en por el avenida_marítima a el altura de el estación de guagua y en dirección sur dentro de el término municipal de las_palmas_de_gran_canaria informar el centro_coordinador_de_emergencias y seguridad cecoes 112 de este manera uno llamada alertar a el hora indicar de el volver que uno turismo señalar que poder haber persona herir en ese momento se trasladar a el lugar uno ambulancia de soporte vital básico y uno ambulancia de soporte vital avanzar de el servicio_de_urgencias_canario suc a el llegar el médico atender a uno varón de 39 año que presentar traumatismo craneal de carácter menos grave por el que ser trasladar en el ambulancia de soporte vital avanzar de el suc a el hospital_universitario_insular_de_gran_canaria por su parte miembro de el servicio_de_extinción_de_incendios salvamento y rescate_de_las_palmas_de_gran_canaria se encargar de asegurar el vehículo ya_que el afectar se encontrar en el exterior de el mismo finalmente agente de el policía_local_de_las_palmas_de_gran_canaria instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre año haber resultar herir carácter grave volcar vehículo circular avenida_marítima altura estación guagua dirección sur término municipal las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes manera llamada alertar hora indicar volver turismo señalar poder haber persona herir momento trasladar lugar ambulancia soporte vital básico ambulancia soporte vital avanzar servicio_de_urgencias_canario suc llegar médico atender varón año presentar traumatismo craneal carácter grave ser trasladar ambulancia soporte vital avanzar suc hospital_universitario_insular_de_gran_canaria parte miembro servicio_de_extinción_de_incendios salvamento rescate_de_las_palmas_de_gran_canaria encargar asegurar vehículo afectar encontrar exterior finalmente agente policía_local_de_las_palmas_de_gran_canaria instruir diligencia correspondiente",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Avenida_Marítima",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Servicio_de_Extinción_de_Incendios",
+            "Rescate_de_Las_Palmas_de_Gran_Canaria",
+            "Policía_Local_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "39",
+            "TM_h:4.06",
+            "112",
+            "39"
+        ]
+    }
+}

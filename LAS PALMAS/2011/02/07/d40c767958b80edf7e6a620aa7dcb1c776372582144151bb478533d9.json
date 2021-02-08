@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/951449/0/",
+    "title": {
+        "raw_text": "Pierde la vida uno de los trabajadores de Repnaval accidentado en el Puerto de La Luz y de Las Palmas",
+        "lemmatized_text": "perder el vida uno de el trabajador de repnaval accidentar en el puerto_de_la_luz y de las_palmas",
+        "lemmatized_text_reduced": "perder vida trabajador repnaval accidentar puerto_de_la_luz las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Repnaval",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Uno de los dos trabajadores que ha caído desde un andamio cuando reparaba el barco 'Esperanza' de GreenPeace ha fallecido, según han explicado fuentes de la Autoridad Portuaria El hombre que se encontraba sobre un andamio había resultado gravemente herido sin que los servicios de urgencias que llegaron hasta el lugar pudieran hacer nada por mantenerle con vida.",
+        "lemmatized_text": "uno de el 2 trabajador que haber caer desde uno andamio cuando reparar el barco esperanza de greenpeace haber fallecer según haber explicar fuente de el autoridad_portuaria_el hombre que se encontrar sobre uno andamio haber resultar gravemente herir sin que el servicio de urgencia que llegar hasta el lugar poder hacer nada por mantener le con vida",
+        "lemmatized_text_reduced": "trabajador haber caer andamio reparar barco esperanza greenpeace haber fallecer haber explicar fuente autoridad_portuaria_el hombre encontrar andamio haber resultar gravemente herir servicio urgencia llegar lugar poder hacer mantener vida",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "GreenPeace",
+            "Autoridad_Portuaria_El"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Uno de los dos trabajadores que ha caído desde un andamio cuando reparaba el barco 'Esperanza' de GreenPeace ha fallecido, según han explicado fuentes de la Autoridad Portuaria El hombre que se encontraba sobre un andamio había resultado gravemente herido sin que los servicios de urgencias que llegaron hasta el lugar pudieran hacer nada por mantenerle con vida. Por otro lado, su compañero se encuentra en estos momentos en estado de gravedad tras haberse precipitado desde el andamio cuando trabajaban en la reparación del barco, según estas mismas fuentes. La alerta se había recibido sobre las 08.30 horas y hasta el lugar se habían desplazado efectivos de la Policía Portuaria, agentes de la Guardia Civil así como ambulancias de soporte vital básico y avanzado del Servicio de Urgencias Canario.",
+        "lemmatized_text": "uno de el 2 trabajador que haber caer desde uno andamio cuando reparar el barco esperanza de greenpeace haber fallecer según haber explicar fuente de el autoridad_portuaria_el hombre que se encontrar sobre uno andamio haber resultar gravemente herir sin que el servicio de urgencia que llegar hasta el lugar poder hacer nada por mantener le con vida por_otro_lado su compañero se encontrar en este momento en estado de gravedad tras haber se precipitar desde el andamio cuando trabajar en el reparación de el barco según este mismo fuente el alerta se haber recibir sobre el TM_h:8.3 y hasta el lugar se haber desplazar efectivo de el policía_portuaria agente de el guardia_civil así_como ambulancia de soporte vital básico y avanzar de el servicio_de_urgencias_canario",
+        "lemmatized_text_reduced": "trabajador haber caer andamio reparar barco esperanza greenpeace haber fallecer haber explicar fuente autoridad_portuaria_el hombre encontrar andamio haber resultar gravemente herir servicio urgencia llegar lugar poder hacer mantener vida compañero encontrar momento estado gravedad haber precipitar andamio trabajar reparación barco mismo fuente alerta haber recibir lugar haber desplazar efectivo policía_portuaria agente guardia_civil ambulancia soporte vital básico avanzar servicio_de_urgencias_canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "GreenPeace",
+            "Autoridad_Portuaria_El",
+            "Policía_Portuaria",
+            "Guardia_Civil",
+            "Servicio_de_Urgencias_Canario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_h:8.3"
+        ]
+    }
+}

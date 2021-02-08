@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/658389/0/",
+    "title": {
+        "raw_text": "La Policía pospone a mañana la recuperación de huesos a Jinámar (Gran Canaria) porque no conseguía \"nada\"",
+        "lemmatized_text": "el policía posponer a mañana el recuperación de hueso a jinámar gran_canaria porque no conseguir nada",
+        "lemmatized_text_reduced": "policía posponer recuperación hueso jinámar gran_canaria conseguir",
+        "persons": [
+            "Jinámar"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La jefa superior de la Policía Nacional en Canarias, Concepción De Vega, ha asegurado que se pospone hasta mañana la recuperación de los huesos hallados en un pozo ubicado en la zona de Jinámar (Gran Canaria) --durante la búsqueda de pistas sobre el paradero de Sara Morales, desaparecida desde junio de 2006--, a la espera de incorporar un sistema de bombeo más potente, puesto que con el actual no conseguían \"nada\".",
+        "lemmatized_text": "el jefe superior de el policía_nacional en canarias concepción_de_vega haber asegurar que se posponer hasta mañana el recuperación de el hueso hallar en uno pozo ubicar en_la_zona_de jinámar gran_canaria durante el búsqueda de pista sobre el paradero de sara_morales desaparecer desde [??:??/6/2006:??.??:??] a_la_espera_de incorporar uno sistema de bombeo más potente poner que con el actual no conseguir nada",
+        "lemmatized_text_reduced": "jefe superior policía_nacional canarias concepción_de_vega haber asegurar posponer recuperación hueso hallar pozo ubicar jinámar gran_canaria búsqueda pista paradero sara_morales desaparecer incorporar sistema bombeo potente poner actual conseguir",
+        "persons": [
+            "Concepción_De_Vega",
+            "Jinámar"
+        ],
+        "locations": [
+            "Canarias",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Sara_Morales"
+        ],
+        "dates": [
+            "[??:??/6/2006:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Lo que sacamos volvía a entrar. Esto se complica cada vez un poquito, por lo que hoy estamos desmontando, ya que el especialista nos ha dicho que lo que estábamos sacando volvía a entrar y que podríamos estar así hasta quince días\", explicó De Vega en declaraciones a los periodistas que esperaban en el terreno del caserón abandonado donde se localiza el pozo. Por su parte, sobre las 15.00 horas, una veintena de efectivos de la Unidad Militar de Emergencias (UME) se sumaron a la búsqueda de los restos óseos, donde han estado intentando drenar sin éxito el agua del pozo hasta las 19.00 horas. De Vega especificó que mañana se retomará la búsqueda, aunque no será desde primera hora, ya que la empresa a la que se ha encargado el drenaje tiene que prepararse porque necesita material del que no dispone en la actualidad. Además, la jefa superior de Policía no quiso aclarar si la casa donde se encuentra el pozo lleva abandonada desde hace 3 años o más tiempo, tal y como apuntaron a los periodistas algunos vecinos del lugar. Finalmente, la delegada del Gobierno de España en Canarias se ha marchado de la zona sin hacer declaraciones, mientras que en el lugar permanecerán efectivos de la Policía Nacional custodiando la zona.",
+        "lemmatized_text": "el que sacar volver a entrar este se complicar cada vez uno poco por el que hoy estar desmontar ya_que el especialista nos haber decir que el que estar sacar volver a entrar y que poder estar así hasta TM_d:15 explicar de_vega en declaración a el periodista que esperar en el terreno de el caserón abandonar donde se localizar el pozo por su parte sobre el TM_h:15 uno veintena de efectivo de el unidad_militar_de_emergencias ume se sumar a el búsqueda de el resto óseo donde haber estado intentar drenar sin éxito el agua de el pozo hasta el TM_h:19 de vega especificar que mañana se retomar el búsqueda aunque no ser desde 1 hora ya_que el empresa a el que se haber encargar el drenaje tener que preparar se porque necesitar material de el que no disponer en el actualidad además el jefe superior de policía no querer aclarar si el casa donde se encontrar el pozo llevar abandonar desde hacer 3 año o más tiempo tal_y_como apuntar a el periodista alguno vecino de el lugar finalmente el delegado de el gobierno_de_españa en canarias se haber marchar de el zona sin hacer declaración mientras_que en el lugar permanecer efectivo de el policía_nacional custodiar el zona",
+        "lemmatized_text_reduced": "sacar volver entrar complicar vez estar desmontar especialista haber decir estar sacar volver entrar poder estar explicar de_vega declaración periodista esperar terreno caserón abandonar localizar pozo parte veintena efectivo unidad_militar_de_emergencias ume sumar búsqueda resto óseo haber estado intentar drenar éxito agua pozo vega especificar retomar búsqueda ser 1 hora empresa haber encargar drenaje tener preparar necesitar material disponer actualidad jefe superior policía querer aclarar casa encontrar pozo llevar abandonar hacer año tiempo apuntar periodista vecino lugar finalmente delegado gobierno_de_españa canarias haber marchar zona hacer declaración lugar permanecer efectivo policía_nacional custodiar zona",
+        "persons": [
+            "De_Vega",
+            "Vega"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Unidad_Militar_de_Emergencias",
+            "UME",
+            "Policía",
+            "Gobierno_de_España",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:15",
+            "TM_h:15",
+            "TM_h:19",
+            "3"
+        ]
+    }
+}

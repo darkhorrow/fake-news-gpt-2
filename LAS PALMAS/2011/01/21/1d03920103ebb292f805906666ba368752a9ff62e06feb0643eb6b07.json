@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935793/0/",
+    "title": {
+        "raw_text": "Un varón sufre un desvanecimiento en una asociación de vecinos de Agaete (Gran Canaria)",
+        "lemmatized_text": "uno varón sufrir uno desvanecimiento en uno asociación de vecino de agaete gran_canaria",
+        "lemmatized_text_reduced": "varón sufrir desvanecimiento asociación vecino agaete gran_canaria",
+        "persons": [],
+        "locations": [
+            "Agaete",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de 46 años ha resulta herido con traumatismo craneoencefálico de carácter menos grave al sufrir un desvanecimiento en una asociación de vecinos en la zona del Valle de Agaete, en el municipio grancanario de Agaete, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2.",
+        "lemmatized_text": "uno varón de 46 año haber resultar herir con traumatismo craneoencefálico de carácter menos grave a el sufrir uno desvanecimiento en uno asociación de vecino en el zona de el valle_de_agaete en el municipio grancanario de agaete según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "varón año haber resultar herir traumatismo craneoencefálico carácter grave sufrir desvanecimiento asociación vecino zona valle_de_agaete municipio grancanario agaete informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Valle_de_Agaete",
+            "Agaete"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "46",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Un varón de 46 años ha resulta herido con traumatismo craneoencefálico de carácter menos grave al sufrir un desvanecimiento en una asociación de vecinos en la zona del Valle de Agaete, en el municipio grancanario de Agaete, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2. Los hechos ocurrieron a las 13.39 horas, cuando efectivos de Protección Civil informaron al Cecoes de que un hombre había sufrido un desmayo y posterior golpe al caer mientras se encontraba en el local vecinal. El 1-1-2 activó de inmediato los recursos de emergencias necesarios. El personal sanitario del Servicio de Urgencias Canario y el equipo médico del centro de salud asistieron al afectado quien, una vez estabilizado, fue evacuado en una ambulancia sanitarizada del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. En dicha actuación intervino la Guardia Civil, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno varón de 46 año haber resultar herir con traumatismo craneoencefálico de carácter menos grave a el sufrir uno desvanecimiento en uno asociación de vecino en el zona de el valle_de_agaete en el municipio grancanario de agaete según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 el hecho ocurrir a el TM_h:13.39 cuando efectivo de protección_civil informar a el cecoes de que uno hombre haber sufrir uno desmayo y posterior golpe a el caer mientras se encontrar en el local vecinal el 1-1-2 activar de inmediato el recurso de emergencia necesario el personal sanitario de el servicio_de_urgencias_canario y el equipo médico de el centro de salud asistir a el afectar quien uno vez estabilizar ser evacuar en uno ambulancia sanitarizada de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín en decir actuación intervenir el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "varón año haber resultar herir traumatismo craneoencefálico carácter grave sufrir desvanecimiento asociación vecino zona valle_de_agaete municipio grancanario agaete informar centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir efectivo protección_civil informar cecoes hombre haber sufrir desmayo posterior golpe caer encontrar local vecinal activar inmediato recurso emergencia necesario personal sanitario servicio_de_urgencias_canario equipo médico centro salud asistir afectar vez estabilizar ser evacuar ambulancia sanitarizada suc hospital_universitario_de_gran_canaria_doctor_negrín decir actuación intervenir guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Valle_de_Agaete",
+            "Agaete"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Protección_Civil",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "46",
+            "1-1-2",
+            "TM_h:13.39",
+            "1-1-2"
+        ]
+    }
+}

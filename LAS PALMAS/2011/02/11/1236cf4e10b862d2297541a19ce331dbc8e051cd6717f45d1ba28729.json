@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/956490/0/",
+    "title": {
+        "raw_text": "El gasto farmacéutico en Canarias cae un 9,78% en enero",
+        "lemmatized_text": "el gasto farmacéutico en canarias caer uno 9,78/100 en [??:??/1/??:??.??:??]",
+        "lemmatized_text_reduced": "gasto farmacéutico canarias caer",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "9,78/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El director general de Farmacia del Gobierno de Canarias, Buenaventura Fernández, ha anunciado este viernes que el gasto farmacéutico descendió un 9,78 por ciento en enero.",
+        "lemmatized_text": "el director general de farmacia_del_gobierno_de_canarias buenaventura_fernández haber anunciar este [V:??/??/??:??.??:??] que el gasto farmacéutico descender uno 9,78 por 100 en [??:??/1/??:??.??:??]",
+        "lemmatized_text_reduced": "director general farmacia_del_gobierno_de_canarias buenaventura_fernández haber anunciar gasto farmacéutico descender",
+        "persons": [
+            "Buenaventura_Fernández"
+        ],
+        "locations": [],
+        "organizations": [
+            "Farmacia_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "9,78",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "El director general de Farmacia del Gobierno de Canarias, Buenaventura Fernández, ha anunciado este viernes que el gasto farmacéutico descendió un 9,78 por ciento en enero. Fernández señaló, en rueda de prensa, que además en Canarias el gasto farmacéutico interanual se situó en el -7,7 por ciento, y aquí el archipiélago continúa \"siendo la primera comunidad\". Asimismo, indicó que se espera que entre marzo y junio se crezca por debajo del 0 por ciento. Finalmente, apuntó que el reto para 2011 será, por segundo año consecutivo, crecer por debajo del 0 por ciento aunque reconoció que \"va a ser muy difícil porque ya el año pasado se creció un -5,8 por ciento\" aunque dijo que se espera que la implantación de la receta electrónica ayude a ello.",
+        "lemmatized_text": "el director general de farmacia_del_gobierno_de_canarias buenaventura_fernández haber anunciar este [V:??/??/??:??.??:??] que el gasto farmacéutico descender uno 9,78 por 100 en [??:??/1/??:??.??:??] fernández señalar en rueda de prensa que además en canarias el gasto farmacéutico interanual se situar en el -7,7 por 100 y aquí el archipiélago continuar ser el 1 comunidad asimismo indicar que se esperar que entre [??:??/3/??:??.??:??] y [??:??/6/??:??.??:??] se crecer por debajo de el 0 por 100 finalmente apuntar que el reto para 2011 ser por_segundo_año_consecutivo crecer por debajo de el 0 por 100 aunque reconocer que ir a ser muy difícil porque ya el año pasar se crecer uno -5,8 por 100 aunque decir que se esperar que el implantación de el receta electrónico ayudar a ello",
+        "lemmatized_text_reduced": "director general farmacia_del_gobierno_de_canarias buenaventura_fernández haber anunciar gasto farmacéutico descender fernández señalar rueda prensa canarias gasto farmacéutico interanual situar archipiélago continuar ser 1 comunidad indicar esperar crecer finalmente apuntar reto ser crecer reconocer ir ser difícil año pasar crecer decir esperar implantación receta electrónico ayudar",
+        "persons": [
+            "Buenaventura_Fernández",
+            "Fernández"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Farmacia_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/3/??:??.??:??]",
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "9,78",
+            "100",
+            "-7,7",
+            "100",
+            "0",
+            "100",
+            "2011",
+            "0",
+            "100",
+            "-5,8",
+            "100"
+        ]
+    }
+}

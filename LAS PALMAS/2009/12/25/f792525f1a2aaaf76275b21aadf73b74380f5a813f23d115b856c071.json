@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595506/0/",
+    "title": {
+        "raw_text": "Un ciclista de 40 años resulta herido al colisionar con un vehículo en Yaiza (Lanzarote)",
+        "lemmatized_text": "uno ciclista de 40 año resultar herir a el colisionar con uno vehículo en yaiza lanzarote",
+        "lemmatized_text_reduced": "ciclista año resultar herir colisionar vehículo yaiza lanzarote",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "40"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un ciclista de 40 años de edad resultó herido en la tarde de ayer al colisionar con un vehículo en el municipio lanzaroteño de Yaiza, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno ciclista de 40 año de edad resultar herir en el tarde de ayer a el colisionar con uno vehículo en el municipio lanzaroteño de yaiza según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "ciclista año edad resultar herir tarde colisionar vehículo municipio lanzaroteño yaiza informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Yaiza"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "40",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El suceso tuvo lugar a las 15.27 horas cuando el Cecoes recibió una llamada indicando que un varón que circulaba en bicicleta había chocado contra un turismo en la carretera LZ-30, a su paso por la zona de Uga, y precisaba asistencia sanitaria. Por ello, se activó al Servicio de Urgencias Canario (SUC) que se trasladó al lugar para asistir al herido, comprobando que presentaba un traumatismo en miembro inferior de carácter grave. Seguidamente, los efectivos del SUC lo trasladaron en ambulancia de soporte vital avanzado hasta el Hospital Doctor José Molina Orosa de Lanzarote. Asimismo, en el incidente participaron miembros de la Guardia Civil, que se encargaron de regular el tráfico en la zona e instruir las diligencias correspondientes.",
+        "lemmatized_text": "el suceso tener_lugar a el TM_h:15.27 cuando el cecoes recibir uno llamada indicar que uno varón que circular en bicicleta haber chocar contra uno turismo en el carretera LZ-30 a su paso por el zona de uga y precisar asistencia sanitario por ello se activar a el servicio_de_urgencias_canario suc que se trasladar a el lugar para asistir a el herir comprobar que presentar uno traumatismo en miembro inferior de carácter grave seguidamente el efectivo de el suc lo trasladar en ambulancia de soporte vital avanzar hasta el hospital_doctor_josé_molina_orosa_de_lanzarote asimismo en el incidente participar miembro de el guardia_civil que se encargar de regular el tráfico en el zona y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "suceso tener_lugar cecoes recibir llamada indicar varón circular bicicleta haber chocar turismo carretera paso zona uga precisar asistencia sanitario activar servicio_de_urgencias_canario suc trasladar lugar asistir herir comprobar presentar traumatismo miembro inferior carácter grave seguidamente efectivo suc trasladar ambulancia soporte vital avanzar hospital_doctor_josé_molina_orosa_de_lanzarote incidente participar miembro guardia_civil encargar regular tráfico zona instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Uga"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Doctor_José_Molina_Orosa_de_Lanzarote",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:15.27",
+            "LZ-30"
+        ]
+    }
+}

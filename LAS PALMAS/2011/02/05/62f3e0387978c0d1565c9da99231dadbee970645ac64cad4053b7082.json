@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950455/0/",
+    "title": {
+        "raw_text": "Herido de carácter menos grave tras una colisión múltiple ocurrida en Gran Canaria",
+        "lemmatized_text": "herir de carácter menos grave tras uno colisión múltiple ocurrir en gran_canaria",
+        "lemmatized_text_reduced": "herir carácter grave colisión múltiple ocurrir gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven de 23 años de edad ha sufrido heridas de carácter menos grave como consecuencia de un accidente múltiple ocurrido esta mañana y en el que se vieron involucrados hasta cuatro vehículos, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes 1-1-2).",
+        "lemmatized_text": "uno joven de 23 año de edad haber sufrir herida de carácter menos grave como consecuencia de uno accidente múltiple ocurrir este mañana y en el que se ver involucrar hasta 4 vehículo según haber informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "joven año edad haber sufrir herida carácter grave consecuencia accidente múltiple ocurrir mañana ver involucrar vehículo haber informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "23",
+            "4",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Un joven de 23 años de edad ha sufrido heridas de carácter menos grave como consecuencia de un accidente múltiple ocurrido esta mañana y en el que se vieron involucrados hasta cuatro vehículos, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes 1-1-2). El suceso ocurrió en la calle Dulcinea del Toboso, en Las Palmas de Gran Canaria, sobre las 06.45 horas, momento en el que el Cecoes registró una alerta informando de un accidente de tráfico en el que habían colisionado cuatro vehículos y una persona había resultado herida, por lo que el 1-1-2 activó de inmediato los recursos de emergencias necesarios para intervenir en la zona. Hasta el lugar se desplazaron agentes de la Policía Local y una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC), cuyo personal sanitario asistió al herido y, una vez estabilizado, lo evacuó al Hospital Universitario de Gran Canaria Doctor Negrín al presentar un traumatismo craneoencefálico y una contusión en la frente de carácter menos grave.",
+        "lemmatized_text": "uno joven de 23 año de edad haber sufrir herida de carácter menos grave como consecuencia de uno accidente múltiple ocurrir este mañana y en el que se ver involucrar hasta 4 vehículo según haber informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 el suceso ocurrir en el calle dulcinea_del_toboso en las_palmas_de_gran_canaria sobre el TM_h:6.45 momento en el que el cecoes registrar uno alerta informar de uno accidente de tráfico en el que haber colisionar 4 vehículo y uno persona haber resultar herida por el que el 1-1-2 activar de inmediato el recurso de emergencia necesario para intervenir en el zona hasta el lugar se desplazar agente de el policía_local y uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc cuyo personal sanitario asistir a el herir y uno vez estabilizar lo evacuar a el hospital_universitario_de_gran_canaria_doctor_negrín a el presentar uno traumatismo craneoencefálico y uno contusión en el frente de carácter menos grave",
+        "lemmatized_text_reduced": "joven año edad haber sufrir herida carácter grave consecuencia accidente múltiple ocurrir mañana ver involucrar vehículo haber informar centro_coordinador_de_emergencias seguridad cecoes suceso ocurrir calle dulcinea_del_toboso las_palmas_de_gran_canaria momento cecoes registrar alerta informar accidente tráfico haber colisionar vehículo persona haber resultar herida activar inmediato recurso emergencia necesario intervenir zona lugar desplazar agente policía_local ambulancia soporte vital básico servicio_de_urgencias_canario suc personal sanitario asistir herir vez estabilizar evacuar hospital_universitario_de_gran_canaria_doctor_negrín presentar traumatismo craneoencefálico contusión frente carácter grave",
+        "persons": [],
+        "locations": [
+            "Dulcinea_del_Toboso",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cecoes",
+            "Policía_Local",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "23",
+            "4",
+            "1-1-2",
+            "TM_h:6.45",
+            "4",
+            "1-1-2"
+        ]
+    }
+}

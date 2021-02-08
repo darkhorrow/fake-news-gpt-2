@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/921816/0/",
+    "title": {
+        "raw_text": "Un hombre menos grave tras sufrir heridas por arma blanca durante una pelea en Arrecife (Lanzarote)",
+        "lemmatized_text": "uno hombre menos grave tras sufrir herida por arma blanco durante uno pelea en arrecife lanzarote",
+        "lemmatized_text_reduced": "hombre grave sufrir herida arma blanco pelea arrecife lanzarote",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre se encuentra menos grave tras sufrir heridas por arma blanca durante una pelea en una vía pública de Arrecife (Lanzarote), según informaron fuentes del Centro Coordinador de Emergencias y Seguridad del 112.",
+        "lemmatized_text": "uno hombre se encontrar menos grave tras sufrir herida por arma blanco durante uno pelea en uno vía público de arrecife lanzarote según informar fuente de el centro_coordinador_de_emergencias y seguridad de el 112",
+        "lemmatized_text_reduced": "hombre encontrar grave sufrir herida arma blanco pelea vía público arrecife lanzarote informar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre se encuentra menos grave tras sufrir heridas por arma blanca durante una pelea en una vía pública de Arrecife (Lanzarote), según informaron fuentes del Centro Coordinador de Emergencias y Seguridad del 112. El incidente se produjo a las 23.30 horas del 6 de enero en la calle Norte de la capital de la isla de Lanzarote, lugar hasta donde acudió personal del Servicio de Urgencias Canario (SUC) después de ser alertado de que en dicha vía había una pelea entre varias personas. En cuanto el herido por arma blanca, es un hombre de 51 años de edad, que se encuentra menos grave. Asimismo, otro varón, de 44 años de edad, sufrió un traumatismo craneoencefálico, también menos grave, por lo que ambos fueron evacuados hasta el Hospital José Molina Orosa. Hasta el lugar del incidente se trasladó además de personal del SUC, agentes de la Policía Local, así como del Cuerpo Nacional de Policía, que instruirá las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre se encontrar menos grave tras sufrir herida por arma blanco durante uno pelea en uno vía público de arrecife lanzarote según informar fuente de el centro_coordinador_de_emergencias y seguridad de el 112 el incidente se producir a el [??:6/1/??:11.00:pm] en el calle norte de el capital de el isla de lanzarote lugar hasta donde acudir personal de el servicio_de_urgencias_canario suc después_de ser alertar de que en decir vía haber 1 pelea entre varios persona en cuanto el herir por arma blanco ser uno hombre de 51 año de edad que se encontrar menos grave asimismo otro varón de 44 año de edad sufrir uno traumatismo craneoencefálico también menos grave por el que ambos ser evacuar hasta el hospital_josé_molina_orosa hasta el lugar de el incidente se trasladar además_de personal de el suc agente de el policía_local así_como de el cuerpo_nacional_de_policía que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre encontrar grave sufrir herida arma blanco pelea vía público arrecife lanzarote informar fuente centro_coordinador_de_emergencias seguridad incidente producir calle norte capital isla lanzarote lugar acudir personal servicio_de_urgencias_canario suc ser alertar decir vía haber pelea persona herir arma blanco ser hombre año edad encontrar grave varón año edad sufrir traumatismo craneoencefálico grave ser evacuar hospital_josé_molina_orosa lugar incidente trasladar personal suc agente policía_local cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote",
+            "Norte",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_José_Molina_Orosa",
+            "SUC",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:6/1/??:11.00:pm]"
+        ],
+        "numbers": [
+            "112",
+            "1",
+            "51",
+            "44"
+        ]
+    }
+}

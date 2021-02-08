@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/612473/0/",
+    "title": {
+        "raw_text": "Gran Canaria y Ryanair promocionarán la isla para incentivar las ventas en el mercado británico",
+        "lemmatized_text": "gran_canaria y ryanair promocionar el isla para incentivar el venta en el mercado británico",
+        "lemmatized_text_reduced": "gran_canaria ryanair promocionar isla incentivar venta mercado británico",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Patronato de Turismo de Gran Canaria y el segundo operador del mercado británico, Ryanair, han suscrito en la Feria Internacional de Turismo que se está celebrando en Madrid, Fitur, un convenio de colaboración para realizar una campaña promocional conjunta que anime a la venta de las plazas aéreas que la compañía ha puesto en marcha desde Reino Unido hasta Gran Canaria.",
+        "lemmatized_text": "el patronato_de_turismo_de_gran_canaria y el 2 operador de el mercado británico ryanair haber suscribir en el feria_internacional_de_turismo que se estar celebrar en madrid fitur uno convenio de colaboración para realizar uno campaña promocional conjunto que animar a el venta de el plaza aéreo que el compañía haber poner en marcha desde reino_unido hasta gran_canaria",
+        "lemmatized_text_reduced": "patronato_de_turismo_de_gran_canaria 2 operador mercado británico ryanair haber suscribir feria_internacional_de_turismo estar celebrar madrid fitur convenio colaboración realizar campaña promocional conjunto animar venta plaza aéreo compañía haber poner marcha reino_unido gran_canaria",
+        "persons": [],
+        "locations": [
+            "Ryanair",
+            "Madrid",
+            "Fitur",
+            "Reino_Unido",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Patronato_de_Turismo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Feria_Internacional_de_Turismo"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En un comunicado, el presidente del Patronato, Roberto Moreno, valoró el acuerdo como \"una iniciativa encaminada a reforzar la política de incremento del número de plazas que Ryanair ha adoptado con Gran Canaria, que ofrece la oportunidad de recuperar parte del mercado británico\". De esta manera, el coste total de la campaña será de 103.00 euros, y se asumirá al 50 por ciento por ambas partes. Las acciones publicitarias a realizar se centrarán en la promoción on line, así como en la decoración interior de aviones de la compañía con la imagen de Gran Canaria y la disposición gratuita de un cupo de billetes gratuitos para su uso promocional. Ryanair colocará un banner de Gran Canaria en su página principal, y establecerá un enlace directo con la página del Patronato en inglés y a través de una URL específica. Asimismo, elaborará un boletín de noticias exclusivo de Gran Canaria, que enviará a una base de datos de más de 1.200.000 suscriptores. Por lo que respecta a la publicidad directa, tres aviones de la línea aérea llevarán durante un mes la imagen de Gran Canaria en la decoración de su interior, que supondrá la colocación de más de 123 paneles con imágenes promocionales de la isla en cada avión.",
+        "lemmatized_text": "en uno comunicado el presidente de el patronato roberto_moreno valorar el acuerdo como uno iniciativa encaminar a reforzar el política de incremento de el número de plaza que ryanair haber adoptar con gran_canaria que ofrecer el oportunidad de recuperar parte de el mercado británico de este manera el coste total de el campaña ser de $_ECU:103 y se asumir a el 50 por 100 por ambos parte el acción publicitario a realizar se centrar en el promoción on_line así_como en el decoración interior de avión de el compañía con el imagen de gran_canaria y el disposición gratuito de uno cupo de billete gratuito para su uso promocional ryanair colocar uno banner de gran_canaria en su página principal y establecer uno enlace directo con el página de el patronato en inglés y a_través_de uno url específico asimismo elaborar uno boletín de noticia exclusivo de gran_canaria que enviar a uno base de dato de más de 1.200.000 suscriptor por el que respectar a el publicidad directo 3 avión de el línea aéreo llevar durante uno mes el imagen de gran_canaria en el decoración de su interior que suponer el colocación de más de 123 panel con imagen promocional de el isla en cada avión",
+        "lemmatized_text_reduced": "comunicado presidente patronato roberto_moreno valorar acuerdo iniciativa encaminar reforzar política incremento número plaza ryanair haber adoptar gran_canaria ofrecer oportunidad recuperar parte mercado británico manera coste total campaña ser asumir parte acción publicitario realizar centrar promoción decoración interior avión compañía imagen gran_canaria disposición gratuito cupo billete gratuito uso promocional ryanair colocar banner gran_canaria página principal establecer enlace directo página patronato inglés url específico elaborar boletín noticia exclusivo gran_canaria enviar base dato suscriptor respectar publicidad directo avión línea aéreo llevar mes imagen gran_canaria decoración interior suponer colocación panel imagen promocional isla avión",
+        "persons": [
+            "Roberto_Moreno",
+            "Ryanair"
+        ],
+        "locations": [],
+        "organizations": [
+            "Patronato",
+            "Ryanair",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Patronato",
+            "URL"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:103",
+            "50",
+            "100",
+            "1.200.000",
+            "3",
+            "123"
+        ]
+    }
+}

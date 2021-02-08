@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/395164/0/",
+    "title": {
+        "raw_text": "Una línea aérea unirá Gran Canaria con Moscú en noviembre",
+        "lemmatized_text": "uno línea aéreo unir gran_canaria con moscú en [??:??/11/??:??.??:??]",
+        "lemmatized_text_reduced": "línea aéreo unir gran_canaria moscú",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria",
+            "Moscú"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El ayuntamiento calcula que la nueva conexión dejará 40 millones de beneficios en la capital. Se espera que el pequeño comercio sea el gran beneficiario de la llegada de turistas rusos. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA.",
+        "lemmatized_text": "el ayuntamiento calcular que el nuevo conexión dejar 40000000 de beneficio en el capital se esperar que el pequeño comercio ser el gran beneficiario de el llegada de turista ruso consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ayuntamiento calcular nuevo conexión dejar beneficio capital esperar pequeño comercio ser gran beneficiario llegada turista ruso consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "40000000"
+        ]
+    },
+    "body": {
+        "raw_text": "La línea aérea que unirá Gran Canaria con Moscú a partir del próximo mes de noviembre otorgará 40 millones de euros de beneficios a Las Palmas de Gran Canaria, puesto que se espera un total de 350 turistas rusos a la semana, lo que supondrá 18.200 al año, según informó hoy el presidente de Promoción de la ciudad, Aday Ruiz. Estos 40 millones de euros de beneficio se distribuirán en alojamiento, gastronomía y cultura. \"Esto generará mucha actividad en el sector del pequeño comercio, que está pasando por unos momento difíciles dado el momento económico que vivimos a nivel mundial\", dijo. España es el tercer destino preferido por los rusos que viajan al extranjero en sus vacaciones. Por su parte, el touroperador canario 'Right Travel' llevará turistas rusos a Gran Canaria durante todo el año, por lo que se esperan unos beneficios constantes. Así, Las Palmas de Gran Canaria pasará de quedarse con el 30% de los ingresos a disponer del 90% de los mismos. \"Esto es importante porque se ha pasado de tener 15 millones de euros de ingresos en la ciudad, a tener 40 millones\", manifestó. El objetivo del ayuntamiento será que el pequeño comercio se beneficie de esta medida y \"se lleve parte de los 40 millones de euros, puesto que generará, no sólo más actividad y gasto, sino también más riqueza y empleo\". Rusia es uno de los mercados emisores de mayor crecimiento en Europa y el mundo en la actualidad, siendo España el tercer destino preferido por los rusos que viajan al extranjero en sus vacaciones.",
+        "lemmatized_text": "el línea aéreo que unir gran_canaria con moscú a partir de el [??:??/11/??:??.??:??] otorgar $_ECU:40000000 de beneficio a las_palmas_de_gran_canaria puesto que se esperar uno total de 350 turista ruso a el semana el que suponer 18.2 a el año según informar hoy el presidente de promoción de el ciudad aday_ruiz este $_ECU:40000000 de beneficio se distribuir en alojamiento gastronomía y cultura este generar mucho actividad en el sector de el pequeño comercio que estar pasar por uno momento difícil dar el momento económico que vivir a nivel mundial decir españa ser el 3 destino preferir por el ruso que viajar a el extranjero en su vacaciones por su parte el touroperador canario right_travel llevar turista ruso a gran_canaria durante todo el año por el que se esperar uno beneficio constante así las_palmas_de_gran_canaria pasar de quedar se con el 30/100 de el ingreso a disponer de el 90/100 de el mismo este ser importante porque se haber pasar de tener $_ECU:15000000 de ingreso en el ciudad a tener 40000000 manifestar el objetivo de el ayuntamiento ser que el pequeño comercio se beneficiar de este medida y se llevar parte de el $_ECU:40000000 puesto que generar no_sólo más actividad y gasto sino también más riqueza y empleo rusia ser uno de el mercado emisor de mayor crecimiento en europa y el mundo en el actualidad ser españa el 3 destino preferir por el ruso que viajar a el extranjero en su vacaciones",
+        "lemmatized_text_reduced": "línea aéreo unir gran_canaria moscú partir otorgar beneficio las_palmas_de_gran_canaria puesto esperar total turista ruso semana suponer año informar presidente promoción ciudad aday_ruiz beneficio distribuir alojamiento gastronomía cultura generar actividad sector pequeño comercio estar pasar momento difícil dar momento económico vivir nivel mundial decir españa ser 3 destino preferir ruso viajar extranjero vacaciones parte touroperador canario right_travel llevar turista ruso gran_canaria año esperar beneficio constante las_palmas_de_gran_canaria pasar quedar ingreso disponer ser importante haber pasar tener ingreso ciudad tener manifestar objetivo ayuntamiento ser pequeño comercio beneficiar medida llevar parte puesto generar actividad gasto riqueza empleo rusia ser mercado emisor mayor crecimiento europa mundo actualidad ser españa 3 destino preferir ruso viajar extranjero vacaciones",
+        "persons": [
+            "Aday_Ruiz",
+            "España",
+            "Right_Travel",
+            "España"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Europa"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Moscú",
+            "Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Rusia"
+        ],
+        "others": [
+            "Promoción"
+        ],
+        "dates": [
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:40000000",
+            "350",
+            "18.2",
+            "$_ECU:40000000",
+            "30/100",
+            "90/100",
+            "$_ECU:15000000",
+            "40000000",
+            "$_ECU:40000000"
+        ]
+    }
+}

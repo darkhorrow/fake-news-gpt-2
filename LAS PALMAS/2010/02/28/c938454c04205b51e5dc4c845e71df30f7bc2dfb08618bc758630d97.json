@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639955/0/",
+    "title": {
+        "raw_text": "Un joven fallece en Gran Canaria tras sufrir una parada cardiorrespiratoria en la calle",
+        "lemmatized_text": "uno joven fallecer en gran_canaria tras sufrir uno parada cardiorrespiratoria en el calle",
+        "lemmatized_text_reduced": "joven fallecer gran_canaria sufrir parada cardiorrespiratoria calle",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven, de 19 años de edad, ha fallecido a primera hora de esta mañana, después de sufrir una parada cardiorrespiratoria en la vía pública en San Bartolomé de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno joven de 19 año de edad haber fallecer a 1 hora de este mañana después_de sufrir uno parada cardiorrespiratoria en el vía público en san_bartolomé_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven año edad haber fallecer 1 hora mañana sufrir parada cardiorrespiratoria vía público san_bartolomé_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "19",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 08.00 horas en una plaza del barrio de Las Crucitas, en San Bartolomé de Tirajana, momento en el que los servicios de emergencia fueron alertados de que una persona se encontraba en el lugar citado convulsionado y necesitaba asistencia. Posteriormente, personal del Servicio de Urgencias Canario (SUC) se trasladó hasta el lugar del suceso donde practicaron maniobras de reanimación cardiopulmonar al joven sin que pudieran hacer nada por salvarle la vida. Asimismo, hasta el lugar del incidente se trasladaron agentes del Cuerpo Nacional de Policía que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir a el TM_h:8 en uno plaza de el barrio de las_crucitas en san_bartolomé_de_tirajana momento en el que el servicio de emergencia ser alertar de que uno persona se encontrar en el lugar citar convulsionar y necesitar asistencia posteriormente personal de el servicio_de_urgencias_canario suc se trasladar hasta el lugar de el suceso donde practicar maniobra de reanimación cardiopulmonar a el joven sin que poder hacer nada por salvar le el vida asimismo hasta el lugar de el incidente se trasladar agente de el cuerpo_nacional_de_policía que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir plaza barrio las_crucitas san_bartolomé_de_tirajana momento servicio emergencia ser alertar persona encontrar lugar citar convulsionar necesitar asistencia posteriormente personal servicio_de_urgencias_canario suc trasladar lugar suceso practicar maniobra reanimación cardiopulmonar joven poder hacer salvar vida lugar incidente trasladar agente cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Crucitas",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:8"
+        ]
+    }
+}

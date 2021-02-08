@@ -1,0 +1,99 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604672/0/",
+    "title": {
+        "raw_text": "Desviado el tráfico en la carretera del Norte de Gran Canaria entre Llano Alegre y la intersección del Hormiguero",
+        "lemmatized_text": "desviar el tráfico en el carretera de el norte_de_gran_canaria entre llano_alegre y el intersección de el hormiguero",
+        "lemmatized_text_reduced": "desviar tráfico carretera norte_de_gran_canaria llano_alegre intersección hormiguero",
+        "persons": [],
+        "locations": [
+            "Llano_Alegre"
+        ],
+        "organizations": [
+            "Norte_de_Gran_Canaria"
+        ],
+        "others": [
+            "Hormiguero"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Con motivo de las obras de Duplicación de la carretera del Norte (GC-2), que supondrán una futura puesta en marcha de un nuevo tramo de autovía, el Gobierno de Canarias ha procedido a desviar el tráfico en la zona que une Llano Alegre con la intersección del Hormiguero desde las 09.00 y hasta las 16.00 horas del día de hoy.",
+        "lemmatized_text": "con motivo de el obra de duplicación de el carretera de el norte GC-2 que suponer uno futuro puesta en marcha de uno nuevo tramo de autovía el gobierno_de_canarias haber proceder a desviar el tráfico en el zona que unir llano_alegre con el intersección de el hormiguero desde el 9 y hasta el TM_h:16 de el día de hoy",
+        "lemmatized_text_reduced": "motivo obra duplicación carretera norte suponer futuro puesta marcha nuevo tramo autovía gobierno_de_canarias haber proceder desviar tráfico zona unir llano_alegre intersección hormiguero día",
+        "persons": [],
+        "locations": [
+            "Norte",
+            "Llano_Alegre"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Duplicación",
+            "Hormiguero"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-2",
+            "9",
+            "TM_h:16"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el Ejecutivo autonómico en nota de prensa, de igual forma que se ha procedido en ocasiones anteriores el tráfico con sentido Guía-Las Palmas Gran Canaria se desviará a la altura de Llano Alegre por la GC-291, pudiendo incorporarse de nuevo a la GC-2 en la intersección del Hormiguero. No obstante, el tráfico rodado con sentido Las Palmas de Gran Canaria-Guía no sufrirá alteraciones, estando permitido el acceso de vehículos por el tronco de la carretera del Norte de la isla. Los técnicos que se encuentran al frente de la obra consideran que, en condiciones normales, estos desvíos no supondrán retrasos de más de diez minutos en el recorrido del tramo. Un avance para la comarca norte La duplicación de la carretera Santa María de Guía-El Pagador, que en estos momentos ejecuta el Gobierno de Canarias en convenio con el Estado, supondrá un avance muy importante para la comarca Norte de Gran Canaria, que podrá disponer, por fin, de una vía de alta capacidad que le comunique con la capital. Las obras, cuyo presupuesto asciende a 53,6 millones de euros, están siendo ejecutadas por la UTE formada por las empresas OHL, Félix Santiago y Hermanos García Álamo. El plazo de ejecución vigente concluye en 2011. El desdoblamiento de la nueva vía arranca en el Albercón de la Virgen, a la entrada de Santa María de Guía, y concluye en El Pagador, en el término municipal de Moya. La longitud total del tronco será de 6,267 kilómetros. La calzada de la nueva vía discurrirá en paralelo a la carretera actual siguiendo la costa hacia el este, para atravesar primero el barranco del Albercón de la Virgen, y Barranco Hondo a continuación. Para superar el primero de estos barrancos se está realizando un viaducto de unos 125 metros de longitud, y otro de 135 metros para atravesar el segundo. Por tanto, el tramo Pagador-Guía pasará a tener dos carriles por sentido y un tercer carril en la rampa que va desde El Pagador hasta Llano Alegre en sentido Las Palmas-Santa María de Guía, en donde se realizará un carril adicional reduciendo el ancho de la mediana. En total, 1.540 metros de la nueva carretera irán sobre viaductos y unos 100 metros en túnel. Finalmente, el comunicado de prensa del Gobierno canario explicó que la nueva vía tendrá capacidad para circular más de 60.000 vehículos diarios en las máximas condiciones de servicio.",
+        "lemmatized_text": "según informar el ejecutivo autonómico en nota de prensa de igual forma que se haber proceder en ocasión anterior el tráfico con sentido guía-las_palmas_gran_canaria se desviar a el altura de llano_alegre por el GC-291 poder incorporar se de nuevo a el GC-2 en el intersección de el hormiguero no_obstante el tráfico rodar con sentido las_palmas_de_gran_canaria-guía no sufrir alteración estar permitir el acceso de vehículo por el tronco de el carretera de el norte de el isla el técnico que se encontrar al_frente_de el obra considerar que en condición normal este desvío no suponer retraso de más de TM_min:10 en el recorrido de el tramo uno avance para el comarca norte la duplicación de el carretera santa_maría_de_guía-el_pagador que en este momento ejecutar el gobierno_de_canarias en convenio con el estado suponer uno avance muy importante para el comarca norte_de_gran_canaria que poder disponer por fin de uno vía de alto capacidad que le comunicar con el capital el obra cuyo presupuesto ascender a 53,6 millón de euro estar ser ejecutar por el ute formar por el empresa ohl félix_santiago y hermanos_garcía_álamo el plazo de ejecución vigente concluir en 2011 el desdoblamiento de el nuevo vía arrancar en el albercón_de_la_virgen a el entrada de santa_maría_de_guía y concluir en el_pagador en el término municipal de moya el longitud total de el tronco ser de LN_km:6267 el calzada de el nuevo vía discurrir en_paralelo a el carretera actual seguir el costa hacia el este para atravesar primero el barranco de el albercón_de_la_virgen y barranco_hondo a continuación para superar el 1 de este barranco se estar realizar uno viaducto de uno LN_m:125 de longitud y otro de LN_m:135 para atravesar el 2 por tanto el tramo pagador-guía pasar a tener 2 carril por sentido y uno 3 carril en el rampa que ir desde el_pagador hasta llano_alegre en sentido las_palmas-santa_maría_de_guía en donde se realizar uno carril adicional reducir el ancho de el mediana en total LN_m:1.54 de el nuevo carretera ir sobre viaducto y uno LN_m:100 en túnel finalmente el comunicado de prensa de el gobierno canario explicar que el nuevo vía tener capacidad para circular más de 60 vehículo diario en el máximo condición de servicio",
+        "lemmatized_text_reduced": "informar ejecutivo autonómico nota prensa igual forma haber proceder ocasión anterior tráfico sentido guía-las_palmas_gran_canaria desviar altura llano_alegre poder incorporar nuevo intersección hormiguero tráfico rodar sentido las_palmas_de_gran_canaria-guía sufrir alteración estar permitir acceso vehículo tronco carretera norte isla técnico encontrar obra considerar condición normal desvío suponer retraso recorrido tramo avance comarca norte la duplicación carretera santa_maría_de_guía-el_pagador momento ejecutar gobierno_de_canarias convenio estado suponer avance importante comarca norte_de_gran_canaria poder disponer fin vía alto capacidad comunicar capital obra presupuesto ascender millón euro estar ser ejecutar ute formar empresa ohl félix_santiago hermanos_garcía_álamo plazo ejecución vigente concluir desdoblamiento nuevo vía arrancar albercón_de_la_virgen entrada santa_maría_de_guía concluir el_pagador término municipal moya longitud total tronco ser calzada nuevo vía discurrir carretera actual seguir costa este atravesar barranco albercón_de_la_virgen barranco_hondo continuación superar 1 barranco estar realizar viaducto longitud atravesar 2 tramo pagador-guía pasar tener carril sentido 3 carril rampa ir el_pagador llano_alegre sentido las_palmas-santa_maría_de_guía realizar carril adicional reducir ancho mediana total nuevo carretera ir viaducto túnel finalmente comunicado prensa gobierno canario explicar nuevo vía tener capacidad circular vehículo diario máximo condición servicio",
+        "persons": [
+            "Hermanos_García_Álamo",
+            "Moya",
+            "Barranco_Hondo"
+        ],
+        "locations": [
+            "Llano_Alegre",
+            "Norte",
+            "La",
+            "Albercón_de_la_Virgen",
+            "El_Pagador",
+            "Albercón_de_la_Virgen",
+            "El_Pagador",
+            "Llano_Alegre"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Guía-Las_Palmas_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria-Guía",
+            "Gobierno_de_Canarias",
+            "Estado",
+            "UTE",
+            "OHL",
+            "Félix_Santiago",
+            "Santa_María_de_Guía",
+            "Pagador-Guía",
+            "Gobierno"
+        ],
+        "others": [
+            "Hormiguero",
+            "Santa_María_de_Guía-El_Pagador",
+            "Norte_de_Gran_Canaria",
+            "Las_Palmas-Santa_María_de_Guía"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-291",
+            "GC-2",
+            "TM_min:10",
+            "53,6",
+            "2011",
+            "LN_km:6267",
+            "LN_m:125",
+            "LN_m:135",
+            "2",
+            "LN_m:1.54",
+            "LN_m:100",
+            "60"
+        ]
+    }
+}

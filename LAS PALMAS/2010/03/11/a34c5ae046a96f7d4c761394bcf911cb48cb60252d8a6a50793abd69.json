@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/649529/0/",
+    "title": {
+        "raw_text": "Directivos de diez empresas británicas especializadas en golf visitan mañana Fuerteventura",
+        "lemmatized_text": "directivo de 10 empresa británico especializar en golf visitar mañana fuerteventura",
+        "lemmatized_text_reduced": "directivo empresa británico especializar golf visitar fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los directivos de diez empresas británicas especializadas en golf visitan mañana el Club de Golf Fuerteventura, asociado al Hotel Elba Palace Golf en la zona Caleta de Fuste, ubicado en Antigua.",
+        "lemmatized_text": "el directivo de 10 empresa británico especializar en golf visitar mañana el club_de_golf_fuerteventura asociar a el hotel_elba_palace_golf en el zona caleta_de_fuste ubicar en antigua",
+        "lemmatized_text_reduced": "directivo empresa británico especializar golf visitar club_de_golf_fuerteventura asociar hotel_elba_palace_golf zona caleta_de_fuste ubicar antigua",
+        "persons": [],
+        "locations": [
+            "Caleta_de_Fuste",
+            "Antigua"
+        ],
+        "organizations": [
+            "Club_de_Golf_Fuerteventura",
+            "Hotel_Elba_Palace_Golf"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "El Patronato de Turismo de Fuerteventura y la OET de Londres colaboran en la organización de este 'fam trip' que este viernes celebra un encuentro con los medios de la isla a partir de las 12.00 horas, según informa la corporación insular en un comunicado. El encuentro con los medios, que tendrá lugar en el tee de prácticas del Club de Golf Fuerteventura, contará con la asistencia del presidente del Cabildo, Mario Cabrera, la consejera de Turismo del Cabildo, Águeda Montelongo, y los representantes de las diez empresas británicas especializadas en golf que han sido invitadas a conocer la oferta específica de la isla en el marco de este 'fam trip'. En concreto, las diez compañías son Golf Sporting, Golf Options, Solo's Holidays, Golf Escapes, Matrix Golf, Golf Breaks, Only Exclusive Travel, y Worldwide Golf Magazine.",
+        "lemmatized_text": "el patronato_de_turismo_de_fuerteventura y el oet_de_londres colaborar en el organización de este fam trip que este [V:??/??/??:??.??:??] celebrar uno encuentro con el medio de el isla a_partir_de el TM_h:12 según informar el corporación insular en uno comunicado el encuentro con el medio que tener_lugar en el tee de práctica de el club_de_golf_fuerteventura contar con el asistencia de el presidente de el cabildo mario_cabrera el consejero de turismo_del_cabildo águeda_montelongo y el representante de el 10 empresa británico especializar en golf que haber ser invitar a conocer el oferta específico de el isla en el marco de este fam trip en concreto el 10 compañía ser golf_sporting golf_options solo's_holidays golf_escapes matrix_golf golf_breaks only_exclusive_travel y worldwide_golf_magazine",
+        "lemmatized_text_reduced": "patronato_de_turismo_de_fuerteventura oet_de_londres colaborar organización fam trip celebrar encuentro medio isla informar corporación insular comunicado encuentro medio tener_lugar tee práctica club_de_golf_fuerteventura contar asistencia presidente cabildo mario_cabrera consejero turismo_del_cabildo águeda_montelongo representante empresa británico especializar golf haber ser invitar conocer oferta específico isla marco fam trip concreto compañía ser golf_sporting golf_options solo's_holidays golf_escapes matrix_golf golf_breaks only_exclusive_travel worldwide_golf_magazine",
+        "persons": [
+            "Mario_Cabrera",
+            "Águeda_Montelongo",
+            "Golf_Options",
+            "Solo's_Holidays",
+            "Golf_Escapes",
+            "Matrix_Golf",
+            "Golf_Breaks",
+            "Only_Exclusive_Travel"
+        ],
+        "locations": [],
+        "organizations": [
+            "Patronato_de_Turismo_de_Fuerteventura",
+            "OET_de_Londres",
+            "Club_de_Golf_Fuerteventura",
+            "Cabildo",
+            "Golf_Sporting",
+            "Worldwide_Golf_Magazine"
+        ],
+        "others": [
+            "Turismo_del_Cabildo"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:12",
+            "10",
+            "10"
+        ]
+    }
+}

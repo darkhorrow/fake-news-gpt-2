@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/602392/0/",
+    "title": {
+        "raw_text": "BinterCanarias vuelve a lanzar un 'Bintazo' para viajar entre islas por 15 euros trayecto en febrero y marzo",
+        "lemmatized_text": "bintercanarias volver a lanzar uno bintazo para viajar entre isla por $_ECU:15 trayecto en [??:??/2/??:??.??:??] y [??:??/3/??:??.??:??]",
+        "lemmatized_text_reduced": "bintercanarias volver lanzar bintazo viajar isla trayecto",
+        "persons": [
+            "BinterCanarias"
+        ],
+        "locations": [
+            "Bintazo"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/2/??:??.??:??]",
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15"
+        ]
+    },
+    "lead": {
+        "raw_text": "La aerolínea BinterCanarias lanzará un nuevo 'Bintazo', su tarifa más económica y competitiva, para que los residentes canarios puedan viajar entre islas por 15 euros el trayecto entre los meses de febrero y marzo.",
+        "lemmatized_text": "el aerolínea bintercanarias lanzar uno nuevo bintazo su tarifa más económico y competitivo para que el residente canario poder viajar entre isla por $_ECU:15 el trayecto entre el mes de [??:??/2/??:??.??:??] y [??:??/3/??:??.??:??]",
+        "lemmatized_text_reduced": "aerolínea bintercanarias lanzar nuevo bintazo tarifa económico competitivo residente canario poder viajar isla trayecto mes",
+        "persons": [
+            "Bintazo"
+        ],
+        "locations": [],
+        "organizations": [
+            "BinterCanarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/2/??:??.??:??]",
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta promoción permitirá adquirir billetes a un precio final de 15 euros por trayecto comprando ida y vuelta para volar a cualquier isla en los meses citados. El periodo en el que se podrán adquirir los billetes y acceder a esta promoción será del 11 al 17 de enero, estando las plazas sujetas a disponibilidad, según informó BinterCanarias en nota de prensa. Por otro lado, la compañía aérea ha recordado a sus clientes la posibilidad de ser los primeros en enterarse de futuros lanzamientos de 'El Bintazo' a través del servicio sms. Para ello, deberán enviar un mensaje al 5011 con el texto Binter Bintazo. Tres días antes del comienzo de la siguiente promoción recibirán en su móvil información del periodo en el que podrán disfrutar de esta tarifa económica.",
+        "lemmatized_text": "este promoción permitir adquirir billete a uno precio final de $_ECU:15 por trayecto comprar ida y vuelta para volar a cualquiera isla en el mes citar el periodo en el que se poder adquirir el billete y acceder a este promoción ser de el 11 a el [??:17/1/??:??.??:??] estar el plaza sujeto a disponibilidad según informar bintercanarias en nota de prensa por_otro_lado el compañía aéreo haber recordar a su cliente el posibilidad de ser el 1 en enterar se de futuro lanzamiento de el bintazo a través de el servicio sms para ello deber enviar uno mensaje a el 5011 con el texto binter_bintazo TM_d:3 antes de el comienzo de el siguiente promoción recibir en su móvil información de el periodo en el que poder disfrutar de este tarifa económico",
+        "lemmatized_text_reduced": "promoción permitir adquirir billete precio final trayecto comprar ida vuelta volar isla mes citar periodo poder adquirir billete acceder promoción ser estar plaza sujeto disponibilidad informar bintercanarias nota prensa compañía aéreo haber recordar cliente posibilidad ser 1 enterar futuro lanzamiento bintazo través servicio sms deber enviar mensaje texto binter_bintazo comienzo siguiente promoción recibir móvil información periodo poder disfrutar tarifa económico",
+        "persons": [
+            "BinterCanarias",
+            "Binter_Bintazo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Bintazo"
+        ],
+        "others": [],
+        "dates": [
+            "[??:17/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15",
+            "11",
+            "5011",
+            "TM_d:3"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/592757/0/",
+    "title": {
+        "raw_text": "Los vuelos de Madrid con destino a Canarias sufren retrasos de tres horas",
+        "lemmatized_text": "el vuelo de madrid con destino a canarias sufrir retraso de TM_h:3",
+        "lemmatized_text_reduced": "vuelo madrid destino canarias sufrir retraso",
+        "persons": [],
+        "locations": [
+            "Madrid",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Todos los vuelos del aeropuerto de Barajas con destino a Canarias sufren retrasos de tres horas por el mal tiempo en Madrid, cuyo aeródromo ya tiene operativas las cuatro pistas de que dispone, tras operar en las primeras horas de las mañana de hoy primero sólo con dos y luego con tres de estas pistas a consecuencia de los efectos del temporal de nieve.",
+        "lemmatized_text": "todo el vuelo de el aeropuerto de barajas con destino a canarias sufrir retraso de TM_h:3 por el mal tiempo en madrid cuyo aeródromo ya tener operativo el 4 pista de que disponer tras operar en el 1 hora de el mañana de hoy primero sólo con 2 y luego con 3 de este pista a_consecuencia_de el efecto de el temporal de nieve",
+        "lemmatized_text_reduced": "vuelo aeropuerto barajas destino canarias sufrir retraso mal tiempo madrid aeródromo tener operativo pista disponer operar 1 hora mañana pista efecto temporal nieve",
+        "persons": [],
+        "locations": [
+            "Barajas",
+            "Canarias",
+            "Madrid"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:3",
+            "4",
+            "2",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo informaron a Europa Press fuentes de Aeropuertos Españoles y Navegación Aérea (Aena), que indicaron que se han registrado diversos vuelos cancelados en los aeropuertos de La Palma, Tenerife y Gran Canaria debido a la alerta amarilla por rachas de hasta 75 kilómetros por hora en el archipiélago. En concreto, en Gran Canaria se ha cancelado un vuelo de Spanair que tenía que llegar de Madrid a las 12.30 horas y también ha sido cancelada su posterior salida del aeropuerto de Gando a las 13.00 horas. Igualmente, han sido anulados los vuelos de las 07.20 horas a La Palma y el de las 09.30 de La Palma-Gran Canaria. Asimismo, en Lanzarote hay problemas por visibilidad reducida. De hecho, a las 11.00 horas un vuelo de Ryanair procedente de Dublín hacia Lanzarote tuvo que ser desviado al aeropuerto de Puerto del Rosario en Fuerteventura. Además, respecto a la provincia de Santa Cruz de Tenerife, las mismas fuentes de Aena informan de que el aeropuerto de La Palma tiene previsto para hoy realizar 50 operaciones, aunque ya han sido cancelados seis vuelos, de los que cuatro son con origen y destino al aeropuerto de Los Rodeos, en Tenerife Norte, y dos a Gran Canaria. A ello se suma el retraso de un vuelo procedente de Ámsterdam y otro de Manchester y dos vuelos de Tenerife Norte hacia La Palma, uno de BinterCanarias y otro de Islas Airways. Alerta naranja La Agencia Estatal de Meteorología (Aemet) mantiene hoy la alerta amarilla por riesgo de vientos de hasta 75 kilómetros por hora en las cumbres de La Palma y Gran Canaria y rachas máximas de 85 kilómetros por hora en los municipios de Vilaflor y La Orotava, en Tenerife, mientras que la alerta será naranja mañana en zonas altas de La Palma y las citadas localidades de medianías de Tenerife. En concreto, el riesgo amarillo se desarrollará hoy desde las ocho de la mañana y finalizará la medianoche del martes en las localidades tinerfeñas y en la isla de La Palma, mientras que en la cumbre grancanaria persistirá hasta la medianoche del miércoles. Por otro lado, este martes se prevé alerta amarilla por viento, abundantes lluvias y oleaje en las islas de La Palma, La Gomera, El Hierro, Tenerife y Gran Canaria, así como alerta naranja por riesgo importante de fuertes vientos en las cumbres de La Palma y en los mismos municipios tinerfeños citados, donde se esperan rachas máximas de 95 kilómetros por hora, fenómeno adverso que se estima que dure hasta la medianoche del miércoles.",
+        "lemmatized_text": "así lo informar a europa_press fuente de aeropuertos_españoles y navegación_aérea aena que indicar que se haber registrar diverso vuelo cancelar en el aeropuerto de la_palma tenerife y gran_canaria debido_a el alerta amarillo por racha de hasta SP_km/h:75 en el archipiélago en concreto en gran_canaria se haber cancelar uno vuelo de spanair que tener que llegar de madrid a el TM_h:12.3 y también haber ser cancelar su posterior salida de el aeropuerto de gando a el TM_h:13 igualmente haber ser anular el vuelo de el TM_h:7.2 a la_palma y el de el 9.3 de la_palma-gran_canaria asimismo en lanzarote haber problema por visibilidad reducir de hecho a el TM_h:11 uno vuelo de ryanair procedente de dublín hacia lanzarote tener que ser desviar a el aeropuerto de puerto_del_rosario en fuerteventura además respecto_a el provincia de santa_cruz_de_tenerife el mismo fuente de aena informar de que el aeropuerto de la_palma tener prever para hoy realizar 50 operación aunque ya haber ser cancelar 6 vuelo de el que 4 ser con origen y destino a el aeropuerto de los_rodeos en tenerife_norte y 2 a gran_canaria a ello se sumar el retraso de uno vuelo procedente de ámsterdam y otro de manchester y 2 vuelo de tenerife_norte hacia la_palma uno de bintercanarias y otro de islas_airways alerta naranja la_agencia_estatal_de_meteorología aemet mantener hoy el alerta amarillo por riesgo de viento de hasta SP_km/h:75 en el cumbre de la_palma y gran_canaria y racha máximo de SP_km/h:85 en el municipio de vilaflor y la_orotava en tenerife mientras_que el alerta ser naranja mañana en zona alto de la_palma y el citar localidad de medianía de tenerife en concreto el riesgo amarillo se desarrollar hoy desde el [??:??/??/??:8.00:am] y finalizar el [M:??/??/??:00.00:am] en el localidad tinerfeño y en el isla de la_palma mientras_que en el cumbre grancanaria persistir hasta el [X:??/??/??:00.00:am] por_otro_lado este [M:??/??/??:??.??:??] se prever alerta amarillo por viento abundante lluvia y oleaje en el isla de la_palma la_gomera el_hierro tenerife y gran_canaria así_como alerta naranja por riesgo importante de fuerte viento en el cumbre de la_palma y en el mismo municipio tinerfeño citar donde se esperar racha máximo de SP_km/h:95 fenómeno adverso que se estimar que durar hasta el [X:??/??/??:00.00:am]",
+        "lemmatized_text_reduced": "informar europa_press fuente aeropuertos_españoles navegación_aérea aena indicar haber registrar vuelo cancelar aeropuerto la_palma tenerife gran_canaria alerta amarillo racha archipiélago concreto gran_canaria haber cancelar vuelo spanair tener llegar madrid haber ser cancelar posterior salida aeropuerto gando igualmente haber ser anular vuelo la_palma la_palma-gran_canaria lanzarote haber problema visibilidad reducir hecho vuelo ryanair procedente dublín lanzarote tener ser desviar aeropuerto puerto_del_rosario fuerteventura provincia santa_cruz_de_tenerife mismo fuente aena informar aeropuerto la_palma tener prever realizar operación haber ser cancelar vuelo ser origen destino aeropuerto los_rodeos tenerife_norte gran_canaria sumar retraso vuelo procedente ámsterdam manchester vuelo tenerife_norte la_palma bintercanarias islas_airways naranja la_agencia_estatal_de_meteorología aemet mantener alerta amarillo riesgo viento cumbre la_palma gran_canaria racha máximo municipio vilaflor la_orotava tenerife alerta ser naranja mañana zona alto la_palma citar localidad medianía tenerife concreto riesgo amarillo desarrollar finalizar localidad tinerfeño isla la_palma cumbre grancanaria persistir prever alerta amarillo viento abundante lluvia oleaje isla la_palma la_gomera el_hierro tenerife gran_canaria alerta naranja riesgo importante fuerte viento cumbre la_palma mismo municipio tinerfeño citar esperar racha máximo fenómeno adverso estimar durar",
+        "persons": [
+            "Europa_Press",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea",
+            "Tenerife_Norte",
+            "Islas_Airways",
+            "La_Gomera"
+        ],
+        "locations": [
+            "La_Palma",
+            "Gran_Canaria",
+            "Madrid",
+            "Gando",
+            "La_Palma",
+            "Lanzarote",
+            "Ryanair",
+            "Dublín",
+            "Lanzarote",
+            "Puerto_del_Rosario",
+            "Fuerteventura",
+            "Santa_Cruz_de_Tenerife",
+            "La_Palma",
+            "Los_Rodeos",
+            "Tenerife_Norte",
+            "Ámsterdam",
+            "Manchester",
+            "La_Palma",
+            "BinterCanarias",
+            "La_Palma",
+            "Gran_Canaria",
+            "Vilaflor",
+            "La_Orotava",
+            "Tenerife",
+            "La_Palma",
+            "Tenerife",
+            "La_Palma",
+            "La_Palma",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Aena",
+            "Tenerife",
+            "Gran_Canaria",
+            "Spanair",
+            "La_Palma-Gran_Canaria",
+            "Aena",
+            "Gran_Canaria",
+            "La_Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "El_Hierro",
+            "Tenerife",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:8.00:am]",
+            "[M:??/??/??:00.00:am]",
+            "[X:??/??/??:00.00:am]",
+            "[M:??/??/??:??.??:??]",
+            "[X:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "SP_km/h:75",
+            "TM_h:12.3",
+            "TM_h:13",
+            "TM_h:7.2",
+            "9.3",
+            "TM_h:11",
+            "50",
+            "6",
+            "4",
+            "2",
+            "2",
+            "SP_km/h:75",
+            "SP_km/h:85",
+            "SP_km/h:95"
+        ]
+    }
+}

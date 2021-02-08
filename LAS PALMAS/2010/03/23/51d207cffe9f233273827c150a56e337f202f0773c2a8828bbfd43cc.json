@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/658815/0/tigres/escapan/zoo/",
+    "title": {
+        "raw_text": "Siete tigres se escapan de un zoo en Gran Canaria: 3 han sido abatidos y 4, capturados",
+        "lemmatized_text": "7 tigre se escapar de uno zoo en gran_canaria 3 haber ser abatir y 4 capturar",
+        "lemmatized_text_reduced": "tigre escapar zoo gran_canaria haber ser abatir capturar",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "3",
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un centenar de agentes han participado en la operación. \"El problema está solucionado\" se ha limitado a informar el parque.",
+        "lemmatized_text": "100 de agente haber participar en el operación el problema estar solucionar se haber limitar a informar el parque",
+        "lemmatized_text_reduced": "agente haber participar operación problema estar solucionar haber limitar informar parque",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "Un centenar de agentes de la Guardia Civil han participado en el dispositivo para capturar a siete tigre s que este martes se habían escapado del parque de animales 'Cocodrilos Park' , situado en la localidad canaria de Los Corralillos . La Delegación del Gobierno en Canarias ha informado de que tres de los animales han sido abatidos y los otro cuatro, capturados . Fuentes del parque han confirmado también que el problema \"está solucionado\" , si bien han declinado dar más información sobre el suceso porque entiende que se trata de un \" problema interno \".",
+        "lemmatized_text": "100 de agente de el guardia_civil haber participar en el dispositivo para capturar a 7 tigre segundo que este [M:??/??/??:??.??:??] se haber escapar de el parque de animal cocodrilos_park situar en el localidad canario de los_corralillos el delegación_del_gobierno en canarias haber informar de que 3 de el animal haber ser abatir y el otro 4 capturar fuente de el parque haber confirmar también que el problema estar solucionar si bien haber declinar dar más información sobre el suceso porque entender que se tratar de uno problema interno",
+        "lemmatized_text_reduced": "agente guardia_civil haber participar dispositivo capturar tigre segundo haber escapar parque animal cocodrilos_park situar localidad canario los_corralillos delegación_del_gobierno canarias haber informar animal haber ser abatir capturar fuente parque haber confirmar problema estar solucionar haber declinar dar información suceso entender tratar problema interno",
+        "persons": [],
+        "locations": [
+            "Los_Corralillos",
+            "Canarias"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Delegación_del_Gobierno"
+        ],
+        "others": [
+            "Cocodrilos_Park"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "100",
+            "7",
+            "3",
+            "4"
+        ]
+    }
+}

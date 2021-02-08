@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-11-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/427924/0/herido/grave/accidente/",
+    "title": {
+        "raw_text": "Un herido grave en un accidente de tráfico en la autovía del sur de Gran Canaria",
+        "lemmatized_text": "uno herir grave en uno accidente de tráfico en el autovía de el sur de gran_canaria",
+        "lemmatized_text_reduced": "herir grave accidente tráfico autovía sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La víctima sufre politraumatismos de caracter grave. El accidente se produjo a la altura de la potabilizadora. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el víctima sufrir politraumatismo de caracter grave el accidente se producir a el altura de el potabilizadora consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "víctima sufrir politraumatismo caracter grave accidente producir altura potabilizadora consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre de 30 años ha resultado herido con politraumatismos de carácter grave tras sufrir un accidente en la autovía del Sur de Gran Canaria, a la altura de la potabilizadora en dirección norte, dentro del término municipal de Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias (Cecoes) 112. El 112 recibió una llamada sobre las 12.26 horas indicando que dos vehículos habían sufrido un accidente y que sus ocupantes precisaban de atención médica. En ese momento, el Servicio de Urgencias Canario (SUC) trasladó al lugar una ambulancia de soporte vital básico y un Vehículo de Intervención Rápida (VIR). Los servicios sanitarios atendieron al herido de diversos politraumatismos de carácter grave y fue conducido en ambulancia de soporte vital básico, acompañado por el médico del vehículo de intervención rápida, al Hospital Universitario Insular de Gran Canaria. Además, también acudió una patrulla de la Guardia Civil, quien instruyó las diligencias oportunas.",
+        "lemmatized_text": "uno hombre de 30 año haber resultar herir con politraumatismo de carácter grave tras sufrir uno accidente en el autovía de el sur_de_gran_canaria a el altura de el potabilizadora en dirección norte dentro de el término municipal de las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias cecoes 112 el 112 recibir uno llamada sobre el TM_h:12.26 indicar que 2 vehículo haber sufrir uno accidente y que su ocupante precisar de atención médico en ese momento el servicio_de_urgencias_canario suc trasladar a el lugar uno ambulancia de soporte vital básico y uno vehículo_de_intervención_rápida vir el servicio sanitario atender a el herir de diverso politraumatismo de carácter grave y ser conducir en ambulancia de soporte vital básico acompañar por el médico de el vehículo de intervención rápido a el hospital_universitario_insular_de_gran_canaria además también acudir uno patrulla de el guardia_civil quien instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "hombre año haber resultar herir politraumatismo carácter grave sufrir accidente autovía sur_de_gran_canaria altura potabilizadora dirección norte término municipal las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias cecoes recibir llamada indicar vehículo haber sufrir accidente ocupante precisar atención médico momento servicio_de_urgencias_canario suc trasladar lugar ambulancia soporte vital básico vehículo_de_intervención_rápida vir servicio sanitario atender herir politraumatismo carácter grave ser conducir ambulancia soporte vital básico acompañar médico vehículo intervención rápido hospital_universitario_insular_de_gran_canaria acudir patrulla guardia_civil instruir diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Sur_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Vehículo_de_Intervención_Rápida",
+            "VIR",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30",
+            "112",
+            "112",
+            "TM_h:12.26",
+            "2"
+        ]
+    }
+}

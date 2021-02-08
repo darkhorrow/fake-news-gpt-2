@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/698910/0/",
+    "title": {
+        "raw_text": "Marrero señala la importancia de seguir destinando dinero a políticas sociales",
+        "lemmatized_text": "marrero señalar el importancia de seguir destinar dinero a política social",
+        "lemmatized_text_reduced": "marrero señalar importancia seguir destinar dinero política social",
+        "persons": [
+            "Marrero"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El portavoz del Gobierno de Canarias, Martín Marrero, ha señalado hoy la importancia de seguir destinado dinero a las políticas sociales, después de que hoy el Parlamento autonómico haya informado de que cederá al Ejecutivo regional 14 millones de euros para cuestiones sociales, tras aprobarlo así la Mesa de la Cámara regional.",
+        "lemmatized_text": "el portavoz de el gobierno_de_canarias martín_marrero haber señalar hoy el importancia de seguir destinar dinero a el política social después_de que hoy el parlamento autonómico haber informar de que ceder a el ejecutivo regional $_ECU:14000000 para cuestión social tras aprobar lo así el mesa_de_la_cámara regional",
+        "lemmatized_text_reduced": "portavoz gobierno_de_canarias martín_marrero haber señalar importancia seguir destinar dinero política social parlamento autonómico haber informar ceder ejecutivo regional cuestión social aprobar mesa_de_la_cámara regional",
+        "persons": [
+            "Martín_Marrero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Parlamento",
+            "Ejecutivo",
+            "Mesa_de_la_Cámara"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:14000000"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Lo importante es que se siga manteniendo atención presupuestaria a esos ciudadanos que están dramáticamente necesitados, y con independencia de quien sea la administración\", apuntilló Marrero en la rueda de prensa posterior al Consejo de Gobierno. Añadió que teniendo en cuenta la situación actual de crisis que vive España en general y Canarias en particular, hay que buscar \"eficacia\" y que las ayudas \"realmente lleguen a los ciudadanos que necesitan desgraciadamente de ella. Lo importante es que se produzca esa transferencia y en las condiciones que ha fijado la Mesa del Parlamento\". En este sentido, indicó que \"no hay motivos para pensar que no se cumpla\" con las condiciones establecidas, entre otras, que el Gobierno canario deberá devolver esta cantidad de 14 millones de euros entre 2012 y 2013.",
+        "lemmatized_text": "el importante ser que se seguir mantener atención presupuestario a ese ciudadano que estar dramáticamente necesitar y con independencia de quien ser el administración apuntillar marrero en el rueda de prensa posterior a el consejo_de_gobierno añadir que tener_en_cuenta el situación actual de crisis que vivir españa en general y canarias en particular haber que buscar eficacia y que el ayuda realmente llegar a el ciudadano que necesitar desgraciadamente de él el importante ser que se producir ese transferencia y en el condición que haber fijar el mesa_del_parlamento en este sentido indicar que no haber motivo para pensar que no se cumplir con el condición establecer entre otro que el gobierno canario deber devolver este cantidad de $_ECU:14000000 entre 2012 y 2013",
+        "lemmatized_text_reduced": "importante ser seguir mantener atención presupuestario ciudadano estar dramáticamente necesitar independencia ser administración apuntillar marrero rueda prensa posterior consejo_de_gobierno añadir tener_en_cuenta situación actual crisis vivir españa general canarias particular haber buscar eficacia ayuda realmente llegar ciudadano necesitar desgraciadamente importante ser producir transferencia condición haber fijar mesa_del_parlamento sentido indicar haber motivo pensar cumplir condición establecer gobierno canario deber devolver cantidad",
+        "persons": [
+            "Marrero",
+            "España"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno",
+            "Mesa_del_Parlamento",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:14000000",
+            "2012",
+            "2013"
+        ]
+    }
+}

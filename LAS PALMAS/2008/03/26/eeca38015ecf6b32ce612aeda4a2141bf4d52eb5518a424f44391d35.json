@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-03-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/362902/0/detenido/homicida/calcinado/",
+    "title": {
+        "raw_text": "Detienen al presunto homicida de la persona hallada calcinada en Gran Canaria",
+        "lemmatized_text": "detener a el presunto homicida de el persona hallar calcinar en gran_canaria",
+        "lemmatized_text_reduced": "detener presunto homicida persona hallar calcinar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cadáver fue hallado el viernes 21 de marzo. El detenido se llama Carlos Quesada Santana. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el cadáver ser hallar el [V:21/3/??:??.??:??] el detenido se llamar carlos_quesada_santana consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "cadáver ser hallar detenido llamar carlos_quesada_santana consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Carlos_Quesada_Santana"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[V:21/3/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre ha sido detenido hoy como presunto homicida de la persona cuyo cadáver fue hallado calcinado el pasado viernes en el vertedero de Costa Botija de Gáldar , al norte de Gran Canaria, según anunció hoy el Tribunal Superior de Justicia de Canarias (TSJC). El detenido, imputado por un presunto delito de homicidio , deberá prestar declaración ante la jueza Elsa del Rosario Díaz Ravelo, titular del juzgado de Primera Instancia e Instrucción Número 3 de Santa María de Guía, aunque en fecha aún por determinar, debido a lo reciente de su detención, explica el TSJC en un comunicado difundido a última hora de esta tarde. En él se detalla que el detenido es Juan Carlos Quesada Santana y se recuerda que el cuerpo de su presunta víctima \"está a la espera de las pruebas biológicas para ser identificado\" , si bien la Guardia Civil anunció ayer que, según los investigadores del caso, podría ser de Francisco Padrón Rivero, de 36 años y vecino del barrio de La Quintana, en el propio municipio de Gáldar. El TSJC recuerda, por otra parte, que las actuaciones judiciales que se siguen en torno a este suceso están bajo secreto de sumario . El cadáver fue hallado la tarde del pasado viernes maniatado y con signos de violencia , después de que fueran alertados los servicios de emergencias del 112, que avisó a la Guardia Civil. Ésta anunció que el hermano de Francisco Padrón Rivero denunció su desaparición el pasado día 7 de marzo y que, por ése y otros hechos, se piensa que él es el fallecido, si bien ha advertido de que es necesario esperar a conocer los resultados de las muestras biológicas de ADN para poder confirmar su identidad en los próximos días. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno hombre haber ser detener hoy como presunto homicida de el persona cuyo cadáver ser hallar calcinar el [V:??/??/??:??.??:??] en el vertedero de costa_botija_de_gáldar a el norte de gran_canaria según anunciar hoy el tribunal_superior_de_justicia_de_canarias tsjc el detener imputar por uno presunto delito de homicidio deber prestar declaración ante el juez elsa_del_rosario_díaz_ravelo titular de el juzgado de primera_instancia y instrucción_número 3 de santa_maría_de_guía aunque en fecha aun por determinar debido_a el reciente de su detención explicar el tsjc en uno comunicado difundir a último hora de este tarde en él se detallar que el detenido ser juan_carlos_quesada_santana y se recordar que el cuerpo de su presunto víctima estar a_la_espera_de el prueba biológico para ser identificar si bien el guardia_civil anunciar ayer que según el investigador de el caso poder ser de francisco_padrón_rivero de 36 año y vecino de el barrio de la_quintana en el propio municipio de gáldar el tsjc recordar por otro parte que el actuación judicial que se seguir en_torno_a este suceso estar bajo secreto de sumario el cadáver ser hallar el tarde de el [V:??/??/??:??.??:??] maniatar y con signo de violencia después_de que ser alertar el servicio de emergencia de el 112 que avisar a el guardia_civil este anunciar que el hermano de francisco_padrón_rivero denunciar su desaparición el [??:7/3/??:??.??:??] y que por ese y otro hecho se pensar que él ser el fallecer si bien haber advertir de que ser necesario esperar a conocer el resultado de el muestra biológico de adn para poder confirmar su identidad en el próximo día consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre haber ser detener presunto homicida persona cadáver ser hallar calcinar vertedero costa_botija_de_gáldar norte gran_canaria anunciar tribunal_superior_de_justicia_de_canarias tsjc detener imputar presunto delito homicidio deber prestar declaración juez elsa_del_rosario_díaz_ravelo titular juzgado primera_instancia instrucción_número santa_maría_de_guía fecha determinar reciente detención explicar tsjc comunicado difundir último hora tarde detallar detenido ser juan_carlos_quesada_santana recordar cuerpo presunto víctima estar prueba biológico ser identificar guardia_civil anunciar investigador caso poder ser francisco_padrón_rivero año vecino barrio la_quintana propio municipio gáldar tsjc recordar parte actuación judicial seguir suceso estar secreto sumario cadáver ser hallar tarde maniatar signo violencia ser alertar servicio emergencia avisar guardia_civil anunciar hermano francisco_padrón_rivero denunciar desaparición hecho pensar ser fallecer haber advertir ser necesario esperar conocer resultado muestra biológico adn poder confirmar identidad próximo día consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Elsa_del_Rosario_Díaz_Ravelo",
+            "Instrucción_Número",
+            "Juan_Carlos_Quesada_Santana",
+            "Francisco_Padrón_Rivero",
+            "Francisco_Padrón_Rivero"
+        ],
+        "locations": [
+            "Costa_Botija_de_Gáldar",
+            "Gran_Canaria",
+            "La_Quintana",
+            "Gáldar"
+        ],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "TSJC",
+            "Santa_María_de_Guía",
+            "TSJC",
+            "Guardia_Civil",
+            "TSJC",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Primera_Instancia",
+            "ADN"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[??:7/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "36",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/712393/0/",
+    "title": {
+        "raw_text": "Jet2.com lanza vuelos directos desde Lanzarote y Tenerife a la región inglesa de East Midlands",
+        "lemmatized_text": "Jet2.com lanza vuelo directo desde lanzarote y tenerife a el región inglés de east_midlands",
+        "lemmatized_text_reduced": "lanza vuelo directo lanzarote tenerife región inglés east_midlands",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "East_Midlands"
+        ],
+        "organizations": [
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "Jet2.com"
+        ]
+    },
+    "lead": {
+        "raw_text": "La aerolínea de bajo coste del norte de Inglaterra Jet2.com estrena esta semana nuevos vuelos desde Lanzarote y Tenerife. A partir de hoy conectará el aeropuerto lanzaroteño de Arrecife con la región inglesa de East Midlands, que se sumará a las rutas ya operadas hacía Manchester, Leeds y Newcastle.",
+        "lemmatized_text": "el aerolínea de bajo coste de el norte de inglaterra Jet2.com estrenar este semana nuevo vuelo desde lanzarote y tenerife a_partir_de hoy conectar el aeropuerto lanzaroteño de arrecife con el región inglés de east_midlands que se sumar a el ruta ya operar hacer manchester leeds y newcastle",
+        "lemmatized_text_reduced": "aerolínea coste norte inglaterra estrenar semana nuevo vuelo lanzarote tenerife conectar aeropuerto lanzaroteño arrecife región inglés east_midlands sumar ruta operar hacer manchester leeds newcastle",
+        "persons": [],
+        "locations": [
+            "Inglaterra",
+            "Lanzarote",
+            "Arrecife",
+            "East_Midlands",
+            "Manchester",
+            "Leeds",
+            "Newcastle"
+        ],
+        "organizations": [
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "Jet2.com"
+        ]
+    },
+    "body": {
+        "raw_text": "Este viernes, 21 de mayo, será el turno de Tenerife, que también tendrá conexión con la región de East Midlands, según informa la compañía en un comunicado, en el que precisa que ésta será la sexta ruta de la aerolínea desde el aeropuerto tinerfeño, ya que cuenta con vuelos directos a las ciudades de Manchester, Leeds, Belfast, Newcastle y Blackpool. Jet2.com recueda que los East Midlands abarcan una parte especial de Inglaterra: castillos magníficos como el de Belvoir, que \"ofrecen una visión única del pasado, su campiña inspiradora con las colinas ondulantes del famoso parque nacional Peak District\". Además de destacar ciudades mercantiles como Stamford y Oudle, jardines majestuosos y lugares que han inspirado a directores de cine (la catedral de Lincoln aparece en el Código da Vinci). Todo esto para ofrecer al viajero canario una original alternativa para sus escapadas a ciudades todavía por descubrir. Inaugurada en octubre de 2002, Jet2.com es una compañía subsidiaria del Grupo Dart PLC, especializado en aviación y distribución con más de 30 años de experiencia en la aviación comercial y que cotiza, desde 1991, en la Bolsa de Londres bajo el nombre de Dart Group Plc. Este grupo emplea a 2.200 personas, de las cuales más de 1300 trabajan directamente para Jet2.com. Desde su comienzo ha transportado más de 20 millones de pasajeros y posee 22 aviones boeing 737-300 y 11 boeing 757-200.",
+        "lemmatized_text": "este [V:21/5/??:??.??:??] ser el turno de tenerife que también tener conexión con el región de east_midlands según informar el compañía en uno comunicado en el que precisar que este ser el 6 ruta de el aerolínea desde el aeropuerto tinerfeño ya_que contar con vuelo directo a el ciudad de manchester leeds belfast newcastle y blackpool Jet2.com recueda que el east_midlands abarcar uno parte especial de inglaterra castillo magnífico como el de belvoir que ofrecer uno visión único de el pasado su campiña inspirador con el colina ondulante de el famoso parque nacional peak_district además_de destacar ciudad mercantil como stamford y oudle jardín majestuoso y lugar que haber inspirar a director de cine el catedral de lincoln aparecer en el código dar vinci todo este para ofrecer a el viajero canario uno original alternativa para su escapada a ciudad todavía por descubrir inaugurar en [??:??/10/2002:??.??:??] Jet2.com ser uno compañía subsidiario de el grupo_dart_plc especializar en aviación y distribución con más de 30 año de experiencia en el aviación comercial y que cotizar desde 1991 en el bolsa_de_londres bajo el nombre de dart_group_plc._este grupo emplear a 2.2 persona de el cual más de 1300 trabajar directamente para Jet2.com desde su comienzo haber transportar más de 20000000 de pasajero y poseer 22 avión boeing 737-300 y 11 boeing 757-200",
+        "lemmatized_text_reduced": "ser turno tenerife tener conexión región east_midlands informar compañía comunicado precisar ser 6 ruta aerolínea aeropuerto tinerfeño contar vuelo directo ciudad manchester leeds belfast newcastle blackpool recueda east_midlands abarcar parte especial inglaterra castillo magnífico belvoir ofrecer visión único pasado campiña inspirador colina ondulante famoso parque nacional peak_district destacar ciudad mercantil stamford oudle jardín majestuoso lugar haber inspirar director cine catedral lincoln aparecer código dar vinci ofrecer viajero canario original alternativa escapada ciudad descubrir inaugurar ser compañía subsidiario grupo_dart_plc especializar aviación distribución año experiencia aviación comercial cotizar bolsa_de_londres nombre dart_group_plc._este grupo emplear persona trabajar directamente comienzo haber transportar pasajero poseer avión boeing boeing",
+        "persons": [
+            "Blackpool",
+            "Peak_District"
+        ],
+        "locations": [
+            "East_Midlands",
+            "Manchester",
+            "Leeds",
+            "Newcastle",
+            "Inglaterra",
+            "Belvoir",
+            "Stamford",
+            "Oudle",
+            "Lincoln"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Belfast",
+            "East_Midlands",
+            "Vinci",
+            "Grupo_Dart_PLC",
+            "Bolsa_de_Londres"
+        ],
+        "others": [
+            "Código",
+            "Dart_Group_Plc._Este"
+        ],
+        "dates": [
+            "[V:21/5/??:??.??:??]",
+            "[??:??/10/2002:??.??:??]"
+        ],
+        "numbers": [
+            "Jet2.com",
+            "Jet2.com",
+            "30",
+            "1991",
+            "2.2",
+            "1300",
+            "Jet2.com",
+            "20000000",
+            "22",
+            "737-300",
+            "11",
+            "757-200"
+        ]
+    }
+}

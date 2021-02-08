@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/624132/0/",
+    "title": {
+        "raw_text": "El casting para elegir a 100 figurantes para la gala drag se elegirá hoy en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el casting para elegir a 100 figurante para el gala drag se elegir hoy en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "casting elegir figurante gala drag elegir las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El casting para elegir a los 100 figurantes que participarán en la gala drag, el próximo 12 de febrero, se elegirá hoy en el edificio Miller de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el casting para elegir a el 100 figurante que participar en el gala drag el [??:12/2/??:??.??:??] se elegir hoy en el edificio miller_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "casting elegir figurante participar gala drag elegir edificio miller_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Miller_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:12/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta forma, todos los que deseen participar en dicho casting, tendrán como \"única\" condición acceder a la selección disfrazados de personajes de alguna de las míticas series de televisión, tales como Heidi, la abeja Maya o Epi y Blas, entre otros, según informó el Ayuntamiento de la capital grancanaria en nota de prensa. Así, el Carnaval de la Televisión quiere abrir el espectáculo a las mascaritas, a todos los que se atrevan a recuperar personajes de las teleseries de toda la vida.",
+        "lemmatized_text": "de este forma todo el que desear participar en decir casting tener como único condición acceder a el selección disfrazar de personaje de alguno de el mítico serie de televisión tal como heidi el abeja maya o epi y blas entre otro según informar el ayuntamiento de el capital grancanaria en nota de prensa así el carnaval_de_la_televisión querer abrir el espectáculo a el mascaritas a todo el que se atrever a recuperar personaje de el teleseries de todo el vida",
+        "lemmatized_text_reduced": "forma desear participar decir casting tener único condición acceder selección disfrazar personaje mítico serie televisión heidi abeja maya epi blas informar ayuntamiento capital grancanaria nota prensa carnaval_de_la_televisión querer abrir espectáculo mascaritas atrever recuperar personaje teleseries vida",
+        "persons": [
+            "Heidi",
+            "Maya",
+            "Epi"
+        ],
+        "locations": [],
+        "organizations": [
+            "Blas",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Carnaval_de_la_Televisión"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

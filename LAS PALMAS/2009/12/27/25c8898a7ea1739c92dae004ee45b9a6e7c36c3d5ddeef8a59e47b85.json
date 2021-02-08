@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596042/0/",
+    "title": {
+        "raw_text": "Un motorista resulta herido tras sufrir una caída en San Mateo (Gran Canaria)",
+        "lemmatized_text": "uno motorista resultar herir tras sufrir uno caída en san_mateo gran_canaria",
+        "lemmatized_text_reduced": "motorista resultar herir sufrir caída san_mateo gran_canaria",
+        "persons": [],
+        "locations": [
+            "San_Mateo",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un motorista de 46 años de edad ha resultado herido con traumatismo en miembro superior de carácter menos grave tras sufrir una caída en el diseminado de Lomo Aljorradero en el municipio de San Mateo (Gran Canaria), según informó hoy el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno motorista de 46 año de edad haber resultar herir con traumatismo en miembro superior de carácter menos grave tras sufrir uno caída en el diseminar de lomo_aljorradero en el municipio de san_mateo gran_canaria según informar hoy el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "motorista año edad haber resultar herir traumatismo miembro superior carácter grave sufrir caída diseminar lomo_aljorradero municipio san_mateo gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Lomo_Aljorradero"
+        ],
+        "locations": [
+            "San_Mateo"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "46",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente tuvo lugar ayer, a las 15.26 horas, cuando una llamada alertó al Cecoes comunicando que un motorista había sufrido una caída y precisaba asistencia sanitaria en el lugar mencionado. De este modo, el 112 activó los recursos de emergencia necesarios. El personal del Servicio de Urgencias Canario (SUC) asistió al afectado y lo trasladó en ambulancia de soporte vital básico del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. En dicha actuación también intervino la Guardia Civil, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el accidente tener_lugar ayer a el TM_h:15.26 cuando uno llamada alertar a el cecoes comunicar que uno motorista haber sufrir uno caída y precisar asistencia sanitario en el lugar mencionar de este modo el 112 activar el recurso de emergencia necesario el personal de el servicio_de_urgencias_canario suc asistir a el afectar y lo trasladar en ambulancia de soporte vital básico de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín en decir actuación también intervenir el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "accidente tener_lugar llamada alertar cecoes comunicar motorista haber sufrir caída precisar asistencia sanitario lugar mencionar modo activar recurso emergencia necesario personal servicio_de_urgencias_canario suc asistir afectar trasladar ambulancia soporte vital básico suc hospital_universitario_de_gran_canaria_doctor_negrín decir actuación intervenir guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:15.26",
+            "112"
+        ]
+    }
+}

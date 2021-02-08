@@ -1,0 +1,98 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/706063/0/",
+    "title": {
+        "raw_text": "La demanda eléctrica cae un 1,9% en Canarias durante el primer trimestre de 2010",
+        "lemmatized_text": "el demanda eléctrico caer uno 1,9/100 en canarias durante el 1 trimestre de 2010",
+        "lemmatized_text_reduced": "demanda eléctrico caer canarias 1 trimestre",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,9/100",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "La demanda de energía eléctrica ha bajado un 1,9 por ciento en Canarias durante los tres primeros meses de 2010 respecto al mismo período del año anterior.",
+        "lemmatized_text": "el demanda de energía eléctrico haber bajar uno 1,9 por 100 en canarias durante el 3 1 mes de 2010 respecto a el mismo período de el año anterior",
+        "lemmatized_text_reduced": "demanda energía eléctrico haber bajar canarias 1 mes respecto mismo período año anterior",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,9",
+            "100",
+            "3",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "Por islas, fue El Hierro donde más decreció la demanda eléctrica en el período señalado, con un descenso de la demanda del 5 por ciento. Le sigue La Palma (-3,8%), Lanzarote (-3,3%); Fuerteventura (-2,2%); Gran Canaria (-1,9%); y Tenerife (-1,5%). En La Gomera, única isla en que la demanda aumentó, ésta lo hizo un 1,4 por ciento, informó Endesa en un comunicado. En estos tres meses, la compañía eléctrica atendió en Gran Canaria una demanda de electricidad de 872.066 megawatios hora (MWh). La producción bruta de las dos centrales de la isla ascendió durante este mismo período a 890.352 MWh. Esto supone un descenso del 0,4 por ciento respecto al mismo período del año anterior. A 31 de marzo de 2010, las centrales de Gran Canaria sumaban una potencia instalada de 1.112,6 megawatios. Por su parte, Endesa debió atender en estos tres meses en Tenerife una demanda de electricidad de 872.837 MWh, la mayor por islas de Canarias. La producción bruta de las dos centrales de esta ínsula fue durante este mismo período de 821.855 MWh. Esto supone un decrecimiento del -2,1 por ciento respecto al mismo período del año anterior. Igualmente, a 31 de marzo de este año, las centrales de Tenerife sumaban una potencia instalada de 899 megawatios.",
+        "lemmatized_text": "por isla ser el_hierro donde más decrecer el demanda eléctrico en el período señalar con uno descenso de el demanda de el 5 por 100 le seguir la_palma -3,8/100 lanzarote -3,3/100 fuerteventura -2,2/100 gran_canaria -1,9/100 y tenerife -1,5/100 en la_gomera único isla en que el demanda aumentar este lo hacer uno 1,4 por 100 informar endesa en uno comunicado en este 3 mes el compañía eléctrico atender en gran_canaria uno demanda de electricidad de 872.066 megawatio hora mwh el producción bruto de el 2 central de el isla ascender durante este mismo período a 890.352 mwh este suponer uno descenso de el 0,4 por 100 respecto a el mismo período de el año anterior a [??:31/3/2010:??.??:??] el central de gran_canaria sumar uno potencia instalar de 1.112,6 megawatio por su parte endesa deber atender en este 3 mes en tenerife uno demanda de electricidad de 872.837 mwh el mayor por isla de canarias el producción bruto de el 2 central de este ínsula ser durante este mismo período de 821.855 mwh este suponer uno decrecimiento de el -2,1 por 100 respecto a el mismo período de el año anterior igualmente a [??:31/3/??:??.??:??] de este año el central de tenerife sumar uno potencia instalar de 899 megawatio",
+        "lemmatized_text_reduced": "isla ser el_hierro decrecer demanda eléctrico período señalar descenso demanda seguir la_palma lanzarote fuerteventura gran_canaria tenerife la_gomera único isla demanda aumentar hacer informar endesa comunicado mes compañía eléctrico atender gran_canaria demanda electricidad megawatio hora mwh producción bruto central isla ascender mismo período mwh suponer descenso respecto mismo período año anterior central gran_canaria sumar potencia instalar megawatio parte endesa deber atender mes tenerife demanda electricidad mwh mayor isla canarias producción bruto central ínsula ser mismo período mwh suponer decrecimiento respecto mismo período año anterior igualmente año central tenerife sumar potencia instalar megawatio",
+        "persons": [],
+        "locations": [
+            "El_Hierro",
+            "Lanzarote",
+            "La_Gomera",
+            "Gran_Canaria",
+            "Tenerife",
+            "Canarias"
+        ],
+        "organizations": [
+            "La_Palma",
+            "Fuerteventura",
+            "Gran_Canaria",
+            "Tenerife",
+            "Endesa",
+            "Gran_Canaria",
+            "Endesa",
+            "Tenerife"
+        ],
+        "others": [
+            "MWh",
+            "MWh",
+            "MWh",
+            "MWh"
+        ],
+        "dates": [
+            "[??:31/3/2010:??.??:??]",
+            "[??:31/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "100",
+            "-3,8/100",
+            "-3,3/100",
+            "-2,2/100",
+            "-1,9/100",
+            "-1,5/100",
+            "1,4",
+            "100",
+            "3",
+            "872.066",
+            "2",
+            "890.352",
+            "0,4",
+            "100",
+            "1.112,6",
+            "3",
+            "872.837",
+            "2",
+            "821.855",
+            "-2,1",
+            "100",
+            "899"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/587689/0/",
+    "title": {
+        "raw_text": "Un primo de Haidar intenta pero finalmente desiste de convencer a Aminetu para que abandone la huelga de hambre",
+        "lemmatized_text": "uno primo de haidar intentar pero finalmente desistir de convencer a aminetu para que abandonar el huelga de hambre",
+        "lemmatized_text_reduced": "primo haidar intentar finalmente desistir convencer aminetu abandonar huelga hambre",
+        "persons": [
+            "Haidar",
+            "Aminetu"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un primo de Aminetu Haidar, Taleb Haidar, ha visitado hoy a la activista saharahui en el aeropuerto de Lanzarote con la idea de convencerla para que abandonara definitivamente su huelga de hambre, que se alarga durante 29 días, pero ha desistido finalmente de hacerlo tras comprobar su determinación por \"llegar hasta el final\".",
+        "lemmatized_text": "uno primo de aminetu_haidar taleb_haidar haber visitar hoy a el activista saharahui en el aeropuerto de lanzarote con el idea de convencer lo para que abandonar definitivamente su huelga de hambre que se alargar durante TM_d:29 pero haber desistir finalmente de hacer lo tras comprobar su determinación por llegar hasta el final",
+        "lemmatized_text_reduced": "primo aminetu_haidar taleb_haidar haber visitar activista saharahui aeropuerto lanzarote idea convencer abandonar definitivamente huelga hambre alargar haber desistir finalmente hacer comprobar determinación llegar final",
+        "persons": [
+            "Aminetu_Haidar",
+            "Taleb_Haidar"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:29"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Rechazó mi consejo y dijo que va a llegar hasta el final\", relató Taleb al término de su encuentro con Aminetu en la mañana de hoy en Arrecife, capital de la isla de Lanzarote. El primo de Aminetu llegó al aeropuerto insular sobre las 12.00 horas del mediodía desde los campamentos de refugiados de Tinduf y dijo estar convencido de que el Gobierno de Marruecos está aún esperando a que su salud sea más débil, además de a fortalecer su \"credibilidad\" y fortaleza como país. Corazón y riñones \"debilitados\" Explicó también que la ha visto más débil y que \"su corazón y sus riñones se están debilitando\", según tradujo uno de los miembros de la comunidad saharaui en Canarias. Además, se pronunció sobre la situación política en el Sáhara Occidental y dijo que \"hasta hoy su pueblo ha estado reprimido y no se han denunciado las vulneraciones de los derechos humanos sobre el pueblo saharaui\".",
+        "lemmatized_text": "rechazar mi consejo y decir que ir a llegar hasta el final relatar taleb a el término de su encuentro con aminetu en el mañana de hoy en arrecife capital de el isla de lanzarote el primo de aminetu llegar a el aeropuerto insular sobre el [??:??/??/??:12.00:pm] desde el campamento de refugiado de tinduf y decir estar convencer de que el gobierno_de_marruecos estar aun esperar a que su salud ser más débil además_de a fortalecer su credibilidad y fortaleza como país corazón y riñón debilitar explicar también que lo haber ver más débil y que su corazón y su riñón se estar debilitar según traducir uno de el miembro de el comunidad saharaui en canarias además se pronunciar sobre el situación político en el sáhara_occidental y decir que hasta hoy su pueblo haber estar reprimir y no se haber denunciar el vulneración de el derecho humano sobre el pueblo saharaui",
+        "lemmatized_text_reduced": "rechazar consejo decir ir llegar final relatar taleb término encuentro aminetu mañana arrecife capital isla lanzarote primo aminetu llegar aeropuerto insular campamento refugiado tinduf decir estar convencer gobierno_de_marruecos estar esperar salud ser débil fortalecer credibilidad fortaleza país corazón riñón debilitar explicar haber ver débil corazón riñón estar debilitar traducir miembro comunidad saharaui canarias pronunciar situación político sáhara_occidental decir pueblo haber estar reprimir haber denunciar vulneración derecho humano pueblo saharaui",
+        "persons": [
+            "Taleb",
+            "Aminetu",
+            "Tinduf",
+            "Corazón"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote",
+            "Canarias",
+            "Sáhara_Occidental"
+        ],
+        "organizations": [
+            "Aminetu",
+            "Gobierno_de_Marruecos"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": []
+    }
+}

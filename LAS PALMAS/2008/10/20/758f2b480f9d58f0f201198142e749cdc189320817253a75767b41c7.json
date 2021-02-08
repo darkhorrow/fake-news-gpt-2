@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/421047/0/pruebas/violador/perrera/",
+    "title": {
+        "raw_text": "Buscan pruebas sobre el presunto violador de Gran Canaria frente a una perrera",
+        "lemmatized_text": "buscar prueba sobre el presunto violador de gran_canaria frente_a uno perrera",
+        "lemmatized_text_reduced": "buscar prueba presunto violador gran_canaria perrera",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El rastreo ha comenzado esta mañana. Policía y Ejército buscan en varias áreas de la costa norte de la isla. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el rastreo haber comenzar este mañana policía y ejército buscar en varios área de el costa norte de el isla consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "rastreo haber comenzar mañana policía ejército buscar área costa norte isla consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "Ejército",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Policía Nacional, Protección Civil y el Ejército de Tierra rastrean desde primera hora de la mañana en los alrededores de la perrera municipal ubicada en Arucas , al norte de Gran Canaria, en busca de pruebas relacionadas con el presunto violador de Gran Canaria, según fuentes cercanas a la investigación. La zona de búsqueda se extiende por las zonas en las que supuestamente actuaba M.M.R. , de 47 años de edad, como en los alrededores del monumento del Atlante, donde el acusado solía llevar en su furgoneta blanca a sus víctimas de agresiones sexuales. En prisión sin fianza El juez de Instrucción número 3 de Las Palmas de Gran Canaria, Tomás Martín, decretó el pasado 16 de octubre el ingreso en prisión incondicional y sin fianza al presunto violador de Gran Canaria , a quien ha imputado un total de 22 presuntos delitos, entre los que figuran cuatro supuestos de agresión sexual, cuatro de detención ilegal y uno de tentativa de homicidio. M.A.M.R., detenido el sábado 11 de octubre en la zona de Lomo Chinche en la capital por un presunto delito de agresión sexual , prestó declaración ante el juez que acordó su ingreso en prisión incondicional y sin fianza a petición del Ministerio Fiscal. En concreto, al detenido se le imputan los siguientes delitos: 4 delitos de agresión sexual , 4 de detención ilegal, un delito de tentativa de homicidio , 4 delitos de coacciones, 4 de amenazas, 4 delitos contra la integridad moral y 1 delito de robo.",
+        "lemmatized_text": "el policía_nacional protección_civil y el ejército_de_tierra rastrear desde 1 hora de el mañana en el alrededor de el perrera municipal ubicar en arucas a el norte de gran_canaria en_busca_de prueba relacionar con el presunto violador de gran_canaria según fuente cercano a el investigación el zona de búsqueda se extender por el zona en el que supuestamente actuar m.m.r. de 47 año de edad como en el alrededor de el monumento de el atlante donde el acusado soler llevar en su furgoneta blanco a su víctima de agresión sexual en prisión sin fianza el juez de instrucción número 3 de las_palmas_de_gran_canaria tomás_martín decretar el [??:16/10/??:??.??:??] el ingreso en prisión incondicional y sin fianza a el presunto violador de gran_canaria a quien haber imputar uno total de 22 presunto delito entre el que figurar 4 supuesto de agresión sexual 4 de detención ilegal y uno de tentativa de homicidio m.a.m.r. detener el [S:11/10/??:??.??:??] en_la_zona_de lomo_chinche en el capital por uno presunto delito de agresión sexual prestar declaración ante el juez que acordar su ingreso en prisión incondicional y sin fianza a petición de el ministerio_fiscal en concreto a el detenido se le imputar el siguiente delito 4 delito de agresión sexual 4 de detención ilegal uno delito de tentativa de homicidio 4 delito de coacción 4 de amenaza 4 delito contra el integridad moral y 1 delito de robo",
+        "lemmatized_text_reduced": "policía_nacional protección_civil ejército_de_tierra rastrear 1 hora mañana alrededor perrera municipal ubicar arucas norte gran_canaria prueba relacionar presunto violador gran_canaria fuente cercano investigación zona búsqueda extender zona supuestamente actuar m.m.r. año edad alrededor monumento atlante acusado soler llevar furgoneta blanco víctima agresión sexual prisión fianza el juez instrucción número las_palmas_de_gran_canaria tomás_martín decretar ingreso prisión incondicional fianza presunto violador gran_canaria haber imputar total presunto delito figurar supuesto agresión sexual detención ilegal tentativa homicidio m.a.m.r. detener lomo_chinche capital presunto delito agresión sexual prestar declaración juez acordar ingreso prisión incondicional fianza petición ministerio_fiscal concreto detenido imputar siguiente delito delito agresión sexual detención ilegal delito tentativa homicidio delito coacción amenaza delito integridad moral delito robo",
+        "persons": [
+            "Tomás_Martín",
+            "Lomo_Chinche"
+        ],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Atlante",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Protección_Civil",
+            "Ejército_de_Tierra",
+            "M.M.R.",
+            "El",
+            "Instrucción",
+            "M.A.M.R.",
+            "Ministerio_Fiscal"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:16/10/??:??.??:??]",
+            "[S:11/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "47",
+            "3",
+            "22",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "1"
+        ]
+    }
+}

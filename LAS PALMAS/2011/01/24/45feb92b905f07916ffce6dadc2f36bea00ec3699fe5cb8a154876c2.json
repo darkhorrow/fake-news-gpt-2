@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/938100/0/",
+    "title": {
+        "raw_text": "Un hombre grave después de sufrir una parada cardiorrespiratoria en una vía pública de Gran Canaria",
+        "lemmatized_text": "uno hombre grave después_de sufrir uno parada cardiorrespiratoria en uno vía público de gran_canaria",
+        "lemmatized_text_reduced": "hombre grave sufrir parada cardiorrespiratoria vía público gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre, de 65 años de edad, se encuentra grave después de sufrir una parada cardiorrespiratoria en la calle Fernando Guanarteme, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre de 65 año de edad se encontrar grave después_de sufrir uno parada cardiorrespiratoria en el calle fernando_guanarteme en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre año edad encontrar grave sufrir parada cardiorrespiratoria calle fernando_guanarteme las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Fernando_Guanarteme",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "65",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre, de 65 años de edad, se encuentra grave después de sufrir una parada cardiorrespiratoria en la calle Fernando Guanarteme, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos se produjeron en la tarde de este lunes cuando el 112 fue alertado de que un hombre estaba desvanecido en el lugar anteriormente citado. Hasta la zona se trasladó personal del Servicio de Urgencias Canario (SUC) que le practicó maniobras de reanimación cardiopulmonar básica y avanzada logrando revertir la parada cardiorrespiratoria. Posteriormente, el hombre fue evacuado en una ambulancia de soporte vital avanzado del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. Asimismo, en el lugar se personaron agentes de la Policía Local y del Cuerpo Nacional de Policía.",
+        "lemmatized_text": "uno hombre de 65 año de edad se encontrar grave después_de sufrir uno parada cardiorrespiratoria en el calle fernando_guanarteme en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho se producir en el tarde de este [L:??/??/??:??.??:??] cuando el 112 ser alertar de que uno hombre estar desvanecer en el lugar anteriormente citar hasta el zona se trasladar personal de el servicio_de_urgencias_canario suc que le practicar maniobra de reanimación cardiopulmonar básico y avanzar lograr revertir el parada cardiorrespiratoria posteriormente el hombre ser evacuar en uno ambulancia de soporte vital avanzar de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín asimismo en el lugar se personar agente de el policía_local y de el cuerpo_nacional_de_policía",
+        "lemmatized_text_reduced": "hombre año edad encontrar grave sufrir parada cardiorrespiratoria calle fernando_guanarteme las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad hecho producir tarde ser alertar hombre estar desvanecer lugar anteriormente citar zona trasladar personal servicio_de_urgencias_canario suc practicar maniobra reanimación cardiopulmonar básico avanzar lograr revertir parada cardiorrespiratoria posteriormente hombre ser evacuar ambulancia soporte vital avanzar suc hospital_universitario_de_gran_canaria_doctor_negrín lugar personar agente policía_local cuerpo_nacional_de_policía",
+        "persons": [],
+        "locations": [
+            "Fernando_Guanarteme",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "65",
+            "112",
+            "112"
+        ]
+    }
+}

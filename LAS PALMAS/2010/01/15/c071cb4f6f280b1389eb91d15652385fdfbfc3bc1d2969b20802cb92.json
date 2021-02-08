@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/607656/0/",
+    "title": {
+        "raw_text": "San Bartolomé de Tirajana (Gran Canaria) finaliza las obras del nuevo trazado de la vía GC-500",
+        "lemmatized_text": "san_bartolomé_de_tirajana gran_canaria finalizar el obra de el nuevo trazado de el vía GC-500",
+        "lemmatized_text_reduced": "san_bartolomé_de_tirajana gran_canaria finalizar obra nuevo trazado vía",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-500"
+        ]
+    },
+    "lead": {
+        "raw_text": "La consejera de Turismo del Gobierno de Canarias, Rita Martín, ha entregado hoy a la alcaldesa de San Bartolomé de Tirajana, María Pino Torres, la obra del nuevo trazado de la vía Gran Canaria (GC) 500 entre la glorieta de Maspalomas y la de Meloneras.",
+        "lemmatized_text": "el consejero de turismo_del_gobierno_de_canarias rita_martín haber entregar hoy a el alcaldesa de san_bartolomé_de_tirajana maría_pino_torres el obra de el nuevo trazado de el vía gran_canaria gc 500 entre el glorieta de maspalomas y el de meloneras",
+        "lemmatized_text_reduced": "consejero turismo_del_gobierno_de_canarias rita_martín haber entregar alcaldesa san_bartolomé_de_tirajana maría_pino_torres obra nuevo trazado vía gran_canaria gc glorieta maspalomas meloneras",
+        "persons": [
+            "Rita_Martín",
+            "María_Pino_Torres",
+            "Maspalomas"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Meloneras"
+        ],
+        "organizations": [
+            "Turismo_del_Gobierno_de_Canarias",
+            "Gran_Canaria",
+            "GC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "500"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta obra, cuyo presupuesto asciende a 568.159 euros, responde así a un aspecto de \"singular importancia\" en el futuro de estas zonas, tales como el completo desarrollo urbanístico y la dotación de accesos a zonas urbanas de \"importancia en breve espacio de tiempo\", según informó el Gobierno de Canarias en nota de prensa. Así, San Bartolomé de Tirajana ya cuenta con zonas ajardinadas y una vía para las bicicletas, además de aceras para que los viandantes puedan acceder a diferentes lugares cercanos como el Hospital con garantías de seguridad. \"Tenemos que conseguir que nuestros municipios ofrezcan la imagen de destino turístico maduro y competitivo que todos deseamos. De nada nos sirve tener unas instalaciones magníficas y unos buenos profesionales si, después, el entorno no responde a las expectativas que tienen nuestros visitantes\", subrayó Martín. La Consejería de Turismo del Gobierno de Canarias ha invertido más de 12,5 millones de euros en San Bartolomé de Tirajana. Además de las obras de los Jardines del Sur, Parque Puerto de la Cruz y Campo Internacional sector IV, ya se han finalizado otros trabajos como la rotonda Campo Internacional (375.869 euros) y Avenida de Colón (2.066.876 euros).",
+        "lemmatized_text": "este obra cuyo presupuesto ascender a $_ECU:568.159 responder así a uno aspecto de singular importancia en el futuro de este zona tal como el completo desarrollo urbanístico y el dotación de acceso a zona urbano de importancia en breve espacio de tiempo según informar el gobierno_de_canarias en nota de prensa así san_bartolomé_de_tirajana ya contar con zona ajardinar y uno vía para el bicicleta además_de acera para que el viandante poder acceder a diferente lugar cercano como el hospital con garantía de seguridad tener que conseguir que nuestro municipio ofrecer el imagen de destino turístico maduro y competitivo que todo desear de nada nos servir tener uno instalación magnífico y uno bueno profesional si después el entorno no responder a el expectativa que tener nuestro visitante subrayar martín el consejería_de_turismo_del_gobierno_de_canarias haber invertir más de 12,5 millón de euro en san_bartolomé_de_tirajana además_de el obra de el jardines_del_sur parque_puerto_de_la_cruz y campo_internacional sector iv ya se haber finalizar otro trabajo como el rotonda campo_internacional $_ECU:375.869 y avenida_de_colón $_ECU:2.066.876",
+        "lemmatized_text_reduced": "obra presupuesto ascender responder aspecto singular importancia futuro zona completo desarrollo urbanístico dotación acceso zona urbano importancia breve espacio tiempo informar gobierno_de_canarias nota prensa san_bartolomé_de_tirajana contar zona ajardinar vía bicicleta acera viandante poder acceder lugar cercano hospital garantía seguridad tener conseguir municipio ofrecer imagen destino turístico maduro competitivo desear servir tener instalación magnífico bueno profesional entorno responder expectativa tener visitante subrayar martín consejería_de_turismo_del_gobierno_de_canarias haber invertir millón euro san_bartolomé_de_tirajana obra jardines_del_sur parque_puerto_de_la_cruz campo_internacional sector iv haber finalizar trabajo rotonda campo_internacional avenida_de_colón",
+        "persons": [
+            "San_Bartolomé_de_Tirajana",
+            "Martín",
+            "Campo_Internacional"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Parque_Puerto_de_la_Cruz",
+            "Avenida_de_Colón"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Hospital",
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Jardines_del_Sur",
+            "Campo_Internacional",
+            "IV"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:568.159",
+            "12,5",
+            "$_ECU:375.869",
+            "$_ECU:2.066.876"
+        ]
+    }
+}

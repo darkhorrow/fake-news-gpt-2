@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/938318/0/",
+    "title": {
+        "raw_text": "El Gobierno canario reclama al Estado prorrogar la ayuda de 426 euros",
+        "lemmatized_text": "el gobierno canario reclamar a el estado prorrogar el ayuda de $_ECU:426",
+        "lemmatized_text_reduced": "gobierno canario reclamar estado prorrogar ayuda",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:426"
+        ]
+    },
+    "lead": {
+        "raw_text": "Estima que la propuesta de sustituir el subsidio por 350 euros debe estar \"más elaborada y concreta\"",
+        "lemmatized_text": "estimar que el propuesta de sustituir el subsidio por $_ECU:350 deber estar más elaborar y concreto",
+        "lemmatized_text_reduced": "estimar propuesta sustituir subsidio deber estar elaborar concreto",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:350"
+        ]
+    },
+    "body": {
+        "raw_text": "La vicepresidenta y consejera de Empleo, Industria y Comercio del Gobierno de Canarias, María del Mar Julios (CC), reclamó este lunes durante la Conferencia Sectorial de Empleo y Asuntos Laborales en Madrid, presidida por el ministro de Trabajo e Inmigración, Valeriano Gómez, la posibilidad de prorrogar seis meses más el subsidio de 426 euros para los parados de larga duración y colaborar, durante ese tiempo, en la concreción de la propuesta. En este sentido, calificó la medida de sustituir la ayuda de Protección por Desempleo e Inserción (PRODI) por otra de 350 euros vinculada a la formación, como \"poco elaborada y concreta\", dada la inminencia de su puesta en marcha, el próximo mes de febrero. La vicepresidenta recordó, a través de un comunicado, que el subsidio de 426 euros para los desempleados de larga duración fue adoptada de forma unilateral por el Gobierno de España. Consideró que se debe trasladar \"con claridad\" a la ciudadanía que la percepción de la nueva ayuda de 350 euros será más restringida que la actual, en función, entre otras cuestiones, de la duración de las actividades de formación en que el desempleado participe. Julios insistió en que las Comunidades Autónomas no pueden hacer frente a la financiación de esta ayuda, puesto que, al igual que el Estado, tienen un límite de endeudamiento.",
+        "lemmatized_text": "el vicepresidente y consejero de empleo industria y comercio_del_gobierno_de_canarias maría_del_mar_julios cc reclamar este [L:??/??/??:??.??:??] durante el conferencia_sectorial_de_empleo y asuntos_laborales en madrid presidir por el ministro de trabajo y inmigración valeriano_gómez el posibilidad de prorrogar 6 mes más el subsidio de $_ECU:426 para el parado de largo duración y colaborar durante ese tiempo en el concreción de el propuesta en este sentido calificar el medida de sustituir el ayuda de protección_por_desempleo y inserción prodi por otro de $_ECU:350 vincular a el formación como poco elaborar y concreto dar el inminencia de su puesta en marcha el [??:??/2/??:??.??:??] el vicepresidente recordar a_través_de uno comunicado que el subsidio de $_ECU:426 para el desempleado de largo duración ser adoptar de forma unilateral por el gobierno_de_españa considerar que se deber trasladar con claridad a el ciudadanía que el percepción de el nuevo ayuda de $_ECU:350 ser más restringir que el actual en función entre otro cuestión de el duración de el actividad de formación en que el desempleado participar julios insistir en que el comunidades_autónomas no poder hacer_frente a el financiación de este ayuda poner que al_igual_que el estado tener uno límite de endeudamiento",
+        "lemmatized_text_reduced": "vicepresidente consejero empleo industria comercio_del_gobierno_de_canarias maría_del_mar_julios cc reclamar conferencia_sectorial_de_empleo asuntos_laborales madrid presidir ministro trabajo inmigración valeriano_gómez posibilidad prorrogar mes subsidio parado largo duración colaborar tiempo concreción propuesta sentido calificar medida sustituir ayuda protección_por_desempleo inserción prodi vincular formación elaborar concreto dar inminencia puesta marcha vicepresidente recordar comunicado subsidio desempleado largo duración ser adoptar forma unilateral gobierno_de_españa considerar deber trasladar claridad ciudadanía percepción nuevo ayuda ser restringir actual función cuestión duración actividad formación desempleado participar julios insistir comunidades_autónomas poder hacer_frente financiación ayuda poner estado tener límite endeudamiento",
+        "persons": [
+            "María_del_Mar_Julios",
+            "Valeriano_Gómez",
+            "PRODI",
+            "Julios"
+        ],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Empleo",
+            "Industria",
+            "Comercio_del_Gobierno_de_Canarias",
+            "CC",
+            "Conferencia_Sectorial_de_Empleo",
+            "Asuntos_Laborales",
+            "Trabajo",
+            "Inserción",
+            "Gobierno_de_España",
+            "Comunidades_Autónomas",
+            "Estado"
+        ],
+        "others": [
+            "Inmigración",
+            "Protección_por_Desempleo"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "6",
+            "$_ECU:426",
+            "$_ECU:350",
+            "$_ECU:426",
+            "$_ECU:350"
+        ]
+    }
+}

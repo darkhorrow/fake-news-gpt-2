@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661015/0/",
+    "title": {
+        "raw_text": "Condenado a 8 años de cárcel un acusado de abusar sexualmente de una niña en Gran Canaria",
+        "lemmatized_text": "condenar a 8 año de cárcel uno acusado de abusar sexualmente de uno niño en gran_canaria",
+        "lemmatized_text_reduced": "condenar año cárcel acusado abusar sexualmente niño gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Sección Sexta de la Audiencia Provincial de Las Palmas ha condenado a 8 años de cárcel a David Rivero Almeida que abusó sexualmente de una niña en el domicilio familiar de ella en Gran Canaria en junio de 2007, cuando la menor tenía 11 años de edad.",
+        "lemmatized_text": "el sección_sexta_de_la_audiencia_provincial_de_las_palmas haber condenar a 8 año de cárcel a david_rivero_almeida que abusar sexualmente de uno niño en el domicilio familiar de él en gran_canaria en [??:??/6/2007:??.??:??] cuando el menor tener 11 año de edad",
+        "lemmatized_text_reduced": "sección_sexta_de_la_audiencia_provincial_de_las_palmas haber condenar año cárcel david_rivero_almeida abusar sexualmente niño domicilio familiar gran_canaria menor tener año edad",
+        "persons": [
+            "David_Rivero_Almeida"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Sección_Sexta_de_la_Audiencia_Provincial_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/6/2007:??.??:??]"
+        ],
+        "numbers": [
+            "8",
+            "11"
+        ]
+    },
+    "body": {
+        "raw_text": "La sentencia, dada a conocer hoy por el Tribunal Superior de Justicia de Canarias y contra la que cabe recurso, prohíbe también al acusado aproximarse o acercarse a la niña o a su domicilio, colegio o lugar de trabajo por un periodo de cinco años, y a una distancia inferior a 500 metros, ni de comunicarse con ella por cualquier medio o procedimiento. Asimismo, deberá indemnizar a la víctima en la cantidad de 25.000 euros. La Sala considera probado que Rivero Almeida, mayor de edad y sin antecedentes penales, se encontraba a fines del mes de junio de 2007 en el domicilio de la niña, con cuya familia tenía amistad desde hace tiempo. \"Subió a la azotea de edificio para buscar unos tornillos para una cuna\", subiendo también la menor, de manera que en un momento dado se encontraron los dos solos en el cuarto de la azotea, lo que el acusado aprovechó para, supuestamente \"con ánimo de satisfacer sus instintos libidinosos\", intentar realizar prácticas sexuales con ella, a pesar de la negativa de la niña. Una vez que el acusado presuntamente consiguió su propósito, le dijo a la menor, que se encontraba llorando por lo que acababa de suceder, que no le contase lo ocurrido a su familia para que no perdieran la amistad que tenían, precisa la sentencia.",
+        "lemmatized_text": "el sentencia dar_a_conocer hoy por el tribunal_superior_de_justicia_de_canarias y contra el que caber recurso prohibir también a el acusar aproximar se o acercar se a el niño o a su domicilio colegio o lugar de trabajo por uno periodo de 5 año y a uno distancia inferior a LN_m:500 ni de comunicar se con él por cualquiera medio o procedimiento asimismo deber indemnizar a el víctima en el cantidad de $_ECU:25 el sala considerar probar que rivero_almeida mayor de edad y sin antecedente penal se encontrar a fin de el [??:??/6/2007:??.??:??] en el domicilio de el niño con cuyo familia tener amistad desde hacer tiempo subir a el azotea de edificio para buscar uno tornillo para uno cuna subir también el menor de manera que en uno momento dar se encontrar el 2 solo en el cuarto de el azotea el que el acusado aprovechar para supuestamente con ánimo de satisfacer su instinto libidinoso intentar realizar práctica sexual con él a_pesar_de el negativa de el niño una_vez_que el acusado presuntamente conseguir su propósito le decir a el menor que se encontrar llorar por el que acabar de suceder que no le contar el ocurrir a su familia para que no perder el amistad que tener precisar el sentencia",
+        "lemmatized_text_reduced": "sentencia dar_a_conocer tribunal_superior_de_justicia_de_canarias caber recurso prohibir acusar aproximar acercar niño domicilio colegio lugar trabajo periodo año distancia inferior comunicar medio procedimiento deber indemnizar víctima cantidad sala considerar probar rivero_almeida mayor edad antecedente penal encontrar fin domicilio niño familia tener amistad hacer tiempo subir azotea edificio buscar tornillo cuna subir menor manera momento dar encontrar solo cuarto azotea acusado aprovechar supuestamente ánimo satisfacer instinto libidinoso intentar realizar práctica sexual negativa niño acusado presuntamente conseguir propósito decir menor encontrar llorar acabar suceder contar ocurrir familia perder amistad tener precisar sentencia",
+        "persons": [
+            "Rivero_Almeida"
+        ],
+        "locations": [],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "Sala"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/6/2007:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "LN_m:500",
+            "$_ECU:25",
+            "2"
+        ]
+    }
+}

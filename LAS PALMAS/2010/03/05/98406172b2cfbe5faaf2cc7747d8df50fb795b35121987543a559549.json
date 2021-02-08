@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/644890/0/",
+    "title": {
+        "raw_text": "El PP asegura que Gran Canaria \"no se merece lo que el Cabildo del PSOE y NC está haciendo con la cultura\"",
+        "lemmatized_text": "el pp asegurar que gran_canaria no se merecer el que el cabildo_del_psoe y nc estar hacendar con el cultura",
+        "lemmatized_text_reduced": "pp asegurar gran_canaria merecer cabildo_del_psoe nc estar hacendar cultura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Gran_Canaria",
+            "Cabildo_del_PSOE",
+            "NC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El consejero del Partido Popular en el Cabildo de Gran Canaria, Christian Santana, ha denunciado \"la chapuza y el despilfarro de PSOE y NC con el Hospital San Martín\", al tiempo que ha aseverado que \"Gran Canaria no se merece lo que el Cabildo está haciendo con la cultura\".",
+        "lemmatized_text": "el consejero de el partido_popular en el cabildo_de_gran_canaria christian_santana haber denunciar el chapuza y el despilfarro de psoe y nc con el hospital_san_martín al_tiempo_que haber aseverar que gran_canaria no se merecer el que el cabildo estar hacendar con el cultura",
+        "lemmatized_text_reduced": "consejero partido_popular cabildo_de_gran_canaria christian_santana haber denunciar chapuza despilfarro psoe nc hospital_san_martín haber aseverar gran_canaria merecer cabildo estar hacendar cultura",
+        "persons": [
+            "Christian_Santana"
+        ],
+        "locations": [],
+        "organizations": [
+            "Partido_Popular",
+            "Cabildo_de_Gran_Canaria",
+            "PSOE",
+            "NC",
+            "Hospital_San_Martín",
+            "Gran_Canaria",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Actualmente ya han reservado 4,2 millones de euros para una quinta parte del edificio sin saber concretamente los usos que va a tener. Que dos años después de su anunciada inauguración, el Consejero Delegado del CAAM haya solicitado, a través de un correo electrónico, sugerencias para el Plan de Usos y el Proyecto Museológico del Hospital es un insulto a los grancanarios\", añadió Santana en una nota de prensa. Para el consejero popular, \"nos encontramos con otro ejemplo más de lo que es el desgobierno, la improvisación y la gestión de espaldas a los grancanarios\". El consejero popular aseguró que \"este capricho del presidente del Cabildo ya ha costado más de 4 millones de euros, y por el momento nada se sabe de los usos concretos que tendrá el futuro centro cultural, cómo se va a gestionar, cómo se va a convertir en proyecto puntero, qué presupuesto tendrá y qué obra albergará\".",
+        "lemmatized_text": "actualmente ya haber reservar 4,2 millón de euro para uno 5 parte de el edificio sin saber concretamente el uso que ir a tener que 2 año después_de su anunciar inauguración el consejero_delegado_del_caam haber solicitar a_través_de uno correo electrónico sugerencia para el plan_de_usos y el proyecto_museológico_del_hospital ser uno insulto a el grancanarios añadir santana en uno nota de prensa para el consejero popular nos encontrar con otro ejemplo más de el que ser el desgobierno el improvisación y el gestión de espalda a el grancanarios el consejero popular asegurar que este capricho de el presidente de el cabildo ya haber costar más de $_ECU:4000000 y por el momento nada se saber de el uso concreto que tener el futuro centro cultural cómo se ir a gestionar cómo se ir a convertir en proyecto puntero qué presupuesto tener y qué obra albergar",
+        "lemmatized_text_reduced": "actualmente haber reservar millón euro 5 parte edificio saber concretamente uso ir tener año anunciar inauguración consejero_delegado_del_caam haber solicitar correo electrónico sugerencia plan_de_usos proyecto_museológico_del_hospital ser insulto grancanarios añadir santana nota prensa consejero popular encontrar ejemplo ser desgobierno improvisación gestión espalda grancanarios consejero popular asegurar capricho presidente cabildo haber costar momento saber uso concreto tener futuro centro cultural ir gestionar ir convertir proyecto puntero presupuesto tener obra albergar",
+        "persons": [
+            "Santana"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consejero_Delegado_del_CAAM",
+            "Proyecto_Museológico_del_Hospital",
+            "Cabildo"
+        ],
+        "others": [
+            "Plan_de_Usos"
+        ],
+        "dates": [],
+        "numbers": [
+            "4,2",
+            "2",
+            "$_ECU:4000000"
+        ]
+    }
+}

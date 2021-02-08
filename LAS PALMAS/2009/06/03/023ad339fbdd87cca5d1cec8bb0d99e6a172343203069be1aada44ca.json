@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/472106/0/colision/retenciones/heridos/",
+    "title": {
+        "raw_text": "Importantes retenciones y una mujer herida tras una colisión entre tres vehículos",
+        "lemmatized_text": "importante retención y uno mujer herir tras uno colisión entre 3 vehículo",
+        "lemmatized_text_reduced": "importante retención mujer herir colisión vehículo",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La colisión se ha producido en los túneles de Julio Luengo. La joven ha sido trasladada en ambulancia a una clínica. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el colisión se haber producir en el túnel de [??:??/7/??:??.??:??] luengo el joven haber ser trasladar en ambulancia a uno clínica consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "colisión haber producir túnel luengo joven haber ser trasladar ambulancia clínica consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Luengo"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una colisión entre tres vehículos este miércoles en los túneles de Julio Luengo en Las Palmas de Gran Canaria se ha saldado con una mujer de 27 años con dolor cervical leve e importantes retenciones de tráfico, informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112. Los hechos se produjeron sobre las 08.00 h en el interior de los túneles en dirección al norte de la isla, cuando una llamada alertó al 112 de la colisión entre dos turismos y un furgón , por lo que se activó el dispositivo de emergencias. Una mujer de 27 años resultó herida tras el impacto, por lo que tuvo que ser trasladada en ambulancia a la Clínica Perpetuo Socorro.",
+        "lemmatized_text": "uno colisión entre 3 vehículo este [X:??/??/??:??.??:??] en el túnel de [??:??/7/??:??.??:??] luengo en las_palmas_de_gran_canaria se haber saldar con uno mujer de 27 año con dolor cervical leve y importante retención de tráfico informar fuente de el centro_coordinador_de_emergencias y seguridad 112 el hecho se producir sobre el TM_h:8 en_el_interior_de el túnel en dirección a el norte de el isla cuando uno llamada alertar a el 112 de el colisión entre 2 turismo y uno furgón por el que se activar el dispositivo de emergencia uno mujer de 27 año resultar herir tras el impacto por el que tener que ser trasladar en ambulancia a el clínica_perpetuo_socorro",
+        "lemmatized_text_reduced": "colisión vehículo túnel luengo las_palmas_de_gran_canaria haber saldar mujer año dolor cervical leve importante retención tráfico informar fuente centro_coordinador_de_emergencias seguridad hecho producir túnel dirección norte isla llamada alertar colisión turismo furgón activar dispositivo emergencia mujer año resultar herir impacto tener ser trasladar ambulancia clínica_perpetuo_socorro",
+        "persons": [],
+        "locations": [
+            "Luengo",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Clínica_Perpetuo_Socorro"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "27",
+            "112",
+            "TM_h:8",
+            "112",
+            "2",
+            "27"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659178/0/",
+    "title": {
+        "raw_text": "Soria asegura que no hay ninguna tensión entre los consejeros de CC y PP por el recorte de los 112 millones de euros",
+        "lemmatized_text": "soria asegurar que no haber ninguno tensión entre el consejero de cc y pp por el recorte de el $_ECU:112000000",
+        "lemmatized_text_reduced": "soria asegurar haber tensión consejero cc pp recorte",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [
+            "CC",
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:112000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El vicepresidente y consejero de Economía y Hacienda del Gobierno de Canarias, José Manuel Soria, ha asegurado que no existe ningún tipo de tensión ni problema entre los consejeros del Ejecutivo regional de CC y los del PP debido al recorte de 112 millones de euros que habrá que llevar a cabo en las arcas de las diferentes consejerías.",
+        "lemmatized_text": "el vicepresidente y consejero de economía y hacienda_del_gobierno_de_canarias josé_manuel_soria haber asegurar que no existir ninguno tipo de tensión ni problema entre el consejero de el ejecutivo regional de cc y el de el pp deber a el recorte de $_ECU:112000000 que haber que llevar_a_cabo en el arca de el diferente consejería",
+        "lemmatized_text_reduced": "vicepresidente consejero economía hacienda_del_gobierno_de_canarias josé_manuel_soria haber asegurar existir tipo tensión problema consejero ejecutivo regional cc pp deber recorte haber llevar_a_cabo arca diferente consejería",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "Economía",
+            "Hacienda_del_Gobierno_de_Canarias",
+            "Ejecutivo",
+            "CC",
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:112000000"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Absolutamente ninguna (tensiones entre CC y PP). Cero, y quien diga lo contrario no está describiendo la verdad\", manifestó hoy el también presidente del PP canario durante una rueda de prensa. De esta manera, explicó que los criterios para esta reducción serán similares a los que se utilizaron con el presupuesto autonómico de 2010. Así, el criterio número 1 será que existirán partidas que no disminuirán, aquellas que cuenten con financiación vinculada a otras administraciones, ya se del Estado o de la Unión Europea. Además, el recorte afectará en menor medida —por debajo de la media— a aquellas áreas que tengan por finalidad la prestación de servicios públicos fundamentales; sanidad, educación y políticas sociales. Por su parte, existirán áreas que, no estando vinculadas a servicios sociales, tienen un tratamiento prioritario a ojos del Gobierno canario debido a la especial incidencia en la economía del archipiélago. Finalmente, Soria apuntó que en estos momentos, el Ejecutivo regional trabaja con tres hipótesis. En la primera se baraja un recorte en las políticas sociales menor que la media; en la segunda un recorte más bajo que en el de la primera opción y, finalmente, una tercera opción con una disminución para las políticas sociales aún más baja.",
+        "lemmatized_text": "absolutamente ninguno tensión entre cc y pp 0 y quien decir el contrario no estar describir el verdad manifestar hoy el también presidente de el pp canario durante uno rueda de prensa de este manera explicar que el criterio para este reducción ser similar a el que se utilizar con el presupuesto autonómico de 2010 así el criterio número 1 ser que existir partida que no disminuir aquel que contar con financiación vincular a otro administración ya se de el estado o de el unión_europea además el recorte afectar en menor medida por debajo_de el media a aquel área que tener por finalidad el prestación de servicio público fundamental sanidad educación y política social por su parte existir área que no estar vincular a servicio social tener uno tratamiento prioritario a ojo de el gobierno canario debido_a el especial incidencia en el economía de el archipiélago finalmente soria apuntar que en este momento el ejecutivo regional trabajar con 3 hipótesis en el 1 se barajar uno recorte en el política social menor que el medio en el 2 uno recorte más bajo que en el de el 1 opción y finalmente uno 3 opción con uno disminución para el política social aun más bajo",
+        "lemmatized_text_reduced": "absolutamente tensión cc pp decir contrario estar describir verdad manifestar presidente pp canario rueda prensa manera explicar criterio reducción ser similar utilizar presupuesto autonómico criterio número ser existir partida disminuir contar financiación vincular administración estado unión_europea recorte afectar menor medida media área tener finalidad prestación servicio público fundamental sanidad educación política social parte existir área estar vincular servicio social tener tratamiento prioritario ojo gobierno canario especial incidencia economía archipiélago finalmente soria apuntar momento ejecutivo regional trabajar hipótesis 1 barajar recorte política social menor medio 2 recorte 1 opción finalmente 3 opción disminución política social bajo",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [
+            "CC",
+            "PP",
+            "PP",
+            "Estado",
+            "Unión_Europea",
+            "Gobierno",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "0",
+            "2010",
+            "1",
+            "3"
+        ]
+    }
+}

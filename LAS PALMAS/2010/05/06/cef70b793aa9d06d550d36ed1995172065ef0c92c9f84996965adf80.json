@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/699029/0/",
+    "title": {
+        "raw_text": "El Gobierno canario destina 300.000 euros para proyectos medioambientales en La Gomera y El Hierro",
+        "lemmatized_text": "el gobierno canario destinar $_ECU:300 para proyecto medioambiental en la_gomera y el_hierro",
+        "lemmatized_text_reduced": "gobierno canario destinar proyecto medioambiental la_gomera el_hierro",
+        "persons": [],
+        "locations": [
+            "La_Gomera",
+            "El_Hierro"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:300"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno del Ejecutivo canario aprobó hoy la asignación de 300.000 euros para dar cobertura a diferentes proyectos medioambientales, a desarrollar este año, e incluidos en los convenios de colaboración suscritos por la Consejería de Medio Ambiente y Ordenación Territorial con los cabildos de La Gomera y El Hierro.",
+        "lemmatized_text": "el consejo_de_gobierno_del_ejecutivo canario aprobar hoy el asignación de $_ECU:300 para dar cobertura a diferente proyecto medioambiental a desarrollar este año y incluir en el convenio de colaboración suscribir por el consejería_de_medio_ambiente y ordenación_territorial con el cabildo de la_gomera y el_hierro",
+        "lemmatized_text_reduced": "consejo_de_gobierno_del_ejecutivo canario aprobar asignación dar cobertura proyecto medioambiental desarrollar año incluir convenio colaboración suscribir consejería_de_medio_ambiente ordenación_territorial cabildo la_gomera el_hierro",
+        "persons": [],
+        "locations": [
+            "La_Gomera",
+            "El_Hierro"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno_del_Ejecutivo",
+            "Consejería_de_Medio_Ambiente",
+            "Ordenación_Territorial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:300"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta partida presupuestaria tienen relación con la gestión de los recursos naturales y el Plan Forestal de Canarias durante el periodo 2007-2013, y se dividirá de tal forma que cada Cabildo recibirá 150.000 euros, según informó el Gobierno regional en nota de prensa. Ambos presupuestos son de cofinanciación con Fondos Europeos FEADER y desarrollan las medidas medioambientales del Plan de Desarrollo Rural (PDR). Así, el fin de estas partidas está en la realización de diferentes actuaciones de recuperación ambiental y del citado Plan Forestal del archipiélago donde las islas son las destinatarias del presupuesto establecido. En cuanto al Cabildo de El Hierro invertirá los 150.000 euros en la mejora del medio ambiente y el medio rural, concretamente, en la restauración del potencial silvícola e introducción de acciones de prevención en el tramo Cruz de los Reyes-Fuente El Julán, en El Pinar. Así, en el caso de La Gomera, también se destinará a la restauración y actuaciones de prevención, invirtiendo 116.162,50 euros en la ordenación del combustible en el barranco de Guadiana, y 33.837,50 a la adquisición de vehículo especializado en la lucha de incendios forestales.",
+        "lemmatized_text": "este partida presupuestario tener relación con el gestión de el recurso natural y el plan_forestal_de_canarias durante el periodo 2007-2013 y se dividir de tal forma que cada cabildo recibir $_ECU:150 según informar el gobierno regional en nota de prensa ambos presupuesto ser de cofinanciación con fondos_europeos_feader y desarrollar el medida medioambiental de el plan_de_desarrollo_rural pdr así el fin de este partida estar en el realización de diferente actuación de recuperación ambiental y de el citar plan_forestal de el archipiélago donde el isla ser el destinatario de el presupuesto establecer en cuanto a el cabildo_de_el_hierro invertir el $_ECU:150 en el mejora de el medio ambiente y el medio rural concretamente en el restauración de el potencial silvícola y introducción de acción de prevención en el tramo cruz_de_los_reyes-fuente_el_julán en el_pinar así en el caso de la_gomera también se destinar a el restauración y actuación de prevención invertir $_ECU:116.162,50 en el ordenación de el combustible en el barranco de guadiana y 33.837,50 a el adquisición de vehículo especializar en el lucha de incendio forestal",
+        "lemmatized_text_reduced": "partida presupuestario tener relación gestión recurso natural plan_forestal_de_canarias periodo dividir forma cabildo recibir informar gobierno regional nota prensa presupuesto ser cofinanciación fondos_europeos_feader desarrollar medida medioambiental plan_de_desarrollo_rural pdr fin partida estar realización actuación recuperación ambiental citar plan_forestal archipiélago isla ser destinatario presupuesto establecer cabildo_de_el_hierro invertir mejora medio ambiente medio rural concretamente restauración potencial silvícola introducción acción prevención tramo cruz_de_los_reyes-fuente_el_julán el_pinar caso la_gomera destinar restauración actuación prevención invertir ordenación combustible barranco guadiana adquisición vehículo especializar lucha incendio forestal",
+        "persons": [
+            "Cabildo",
+            "Fondos_Europeos_FEADER"
+        ],
+        "locations": [
+            "Cruz_de_los_Reyes-Fuente_El_Julán",
+            "El_Pinar",
+            "La_Gomera",
+            "Guadiana"
+        ],
+        "organizations": [
+            "Gobierno",
+            "PDR",
+            "Cabildo_de_El_Hierro"
+        ],
+        "others": [
+            "Plan_Forestal_de_Canarias",
+            "Plan_de_Desarrollo_Rural",
+            "Plan_Forestal"
+        ],
+        "dates": [],
+        "numbers": [
+            "2007-2013",
+            "$_ECU:150",
+            "$_ECU:150",
+            "$_ECU:116.162,50",
+            "33.837,50"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/408466/0/vacas/dioxido/carbono/",
+    "title": {
+        "raw_text": "El ganado vacuno en Canarias emite 45.254 toneladas de CO2 a la atmósfera",
+        "lemmatized_text": "el ganado vacuno en canarias emitir WG_tm:45.254 de CO2 a el atmósfera",
+        "lemmatized_text_reduced": "ganado vacuno canarias emitir atmósfera",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_tm:45.254",
+            "CO2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Según un estudio del Instituto Tecnológico y de Energías Renovables. El informe afirma que las vacas también emiten metano y amoniaco. CONSULTA AQUÍ MÁS NOTICIAS DE TU CIUDAD.",
+        "lemmatized_text": "según uno estudio de el instituto_tecnológico y de energías_renovables el informe afirmar que el vaca también emitir metano y amoniaco consulta_aquí_más_noticias_de_tu_ciudad",
+        "lemmatized_text_reduced": "estudio instituto_tecnológico energías_renovables informe afirmar vaca emitir metano amoniaco consulta_aquí_más_noticias_de_tu_ciudad",
+        "persons": [
+            "Energías_Renovables"
+        ],
+        "locations": [],
+        "organizations": [
+            "Instituto_Tecnológico"
+        ],
+        "others": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_TU_CIUDAD"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El ganado vacuno de Canarias , con cerca de 20.500 cabezas, emite a la atmósfera al año 45.245 toneladas de dióxido de carbono (CO2), 890 toneladas de metano (CH4) y 16 de amoniaco , entre otros gases contaminantes, según un estudio del Instituto Tecnológico y de Energías Renovables. Este estudio, informa hoy en un comunicado el Cabildo de Tenerife, forma parte de las investigaciones que realizan los investigadores de la División de Medio Ambiente del Instituto Tecnológico y de Energías Renovables (ITER) , sobre las emisiones de contaminantes a la atmósfera procedentes de diversas fuentes antropogénicas, como las centrales termoeléctricas, la refinería, los vertederos y las depuradoras, entre otras, así como de la calidad del aire ambiente de Tenerife, en lo que respecta a determinados contaminantes atmosféricos. Los primeros resultados obtenidos en lo que respecta al ganado vacuno reflejan que cada vaca en Tenerife emite diariamente a la atmósfera del orden de los 6.045 gramos de dióxido de carbono (CO2), 119 gramos de metano (CH4), 2 gramos de amoniaco (NH3) y 0,024 gramos de compuestos orgánicos volátiles (COVs) no metanizados. Por lo tanto, la cabaña en Tenerife, con un censo de unas 6.000 cabezas de ganado vacuno, podría emitir anualmente a la atmósfera del orden de las 13.245 toneladas de dióxido de carbono (CO2), 260 toneladas de metano, 5 de amoniaco y 0,052 toneladas de compuestos orgánicos volátiles no metanizados. Estos resultados, añade la nota, se han obtenido en observaciones en granjas locales que eran usadas como una cámara de acumulación de los gases que emitía el ganado vacuno existente en su interior, con la finalidad de evaluar la tasa de emisión de los mismos mediante el uso de técnicas analíticas convencionales y sensores ópticos remotos. La ganadería es una fuente significativa de la emisión de los gases de efecto invernadero. De hecho, informan, desde el punto de vista global, las actividades relacionadas con la ganadería contribuyen con un 18 por ciento, equivalentes de dióxido de carbono (CO2), a las emisiones antropogénicas de los gases de efecto invernadero. Lo que equivale incluso a un porcentaje más alto que las emisiones del sector del transporte , según los datos publicados por la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO), en 2006. A escala global, la ganadería en su conjunto es responsable de entre un 35 y un 40 por ciento de la emisión de metano derivada de actividades antropogénicas. La mayor parte de estas emisiones son debidas a la fermentación en el preestómago de los rumiantes y por el almacenamiento de abonos orgánicos como estiércoles líquidos y sólidos. En el caso del amoniaco, la ganadería a escala global es responsable del 64 por ciento de las emisiones antropogénicas totales de amoniaco , que de una manera significativa contribuyen a la acidez del ecosistema.",
+        "lemmatized_text": "el ganado vacuno de canarias con cerca de 20.5 cabeza emitir a el atmósfera a el [??:??/??/45:??.??:??] tonelada de dióxido de carbono CO2 WG_tm:890 de metano CH4 y 16 de amoniaco entre otro gas contaminante según uno estudio de el instituto_tecnológico y de energías_renovables este estudio informar hoy en uno comunicado el cabildo_de_tenerife formar_parte de el investigación que realizar el investigador de el división_de_medio_ambiente_del_instituto_tecnológico y de energías_renovables iter sobre el emisión de contaminante a el atmósfera procedente de diverso fuente antropogénico como el central termoeléctrico el refinería el vertedero y el depuradora entre otro así_como de el calidad de el aire ambiente de tenerife en el que respectar a determinar contaminante atmosférico el 1 resultado obtener en el que respectar a el ganado vacuno reflejar que cada vaca en tenerife emitir diariamente a el atmósfera de el orden de el WG_g:6.045 de dióxido de carbono CO2 WG_g:119 de metano CH4 WG_g:2 de amoniaco NH3 y WG_g:24 de compuesto orgánico volátil covs no metanizados por_lo_tanto el cabaña en tenerife con uno censo de uno 6 cabeza de ganado vacuno poder emitir anualmente a el atmósfera de el orden de el WG_tm:13.245 de dióxido de carbono CO2 WG_tm:260 de metano 5 de amoniaco y WG_tm:52 de compuesto orgánico volátil no metanizados este resultado añadir el nota se haber obtener en observación en granja local que ser usar como uno cámara de acumulación de el gas que emitir el ganado vacuno existente en su interior con el finalidad de evaluar el tasa de emisión de el mismo mediante el uso de técnica analítico convencional y sensor óptico remoto el ganadería ser uno fuente significativo de el emisión de el gas de efecto invernadero de hecho informar desde el punto de vista global el actividad relacionar con el ganadería contribuir con uno 18 por 100 equivalente de dióxido de carbono CO2 a el emisión antropogénico de el gas de efecto invernadero el que equivaler incluso a uno porcentaje más alto que el emisión de el sector de el transporte según el dato publicar por el organización_de_las_naciones_unidas_para_la_agricultura y el alimentación fao en 2006 a escala global el ganadería en su conjunto ser responsable de entre uno 35 y uno 40 por 100 de el emisión de metano derivar de actividad antropogénico el mayor parte de este emisión ser deber a el fermentación en el preestómago de el rumiante y por el almacenamiento de abono orgánico como estiércol líquido y sólido en el caso de el amoniaco el ganadería a escala global ser responsable de el 64 por 100 de el emisión antropogénico total de amoniaco que de uno manera significativo contribuir a el acidez de el ecosistema",
+        "lemmatized_text_reduced": "ganado vacuno canarias cabeza emitir atmósfera tonelada dióxido carbono metano amoniaco gas contaminante estudio instituto_tecnológico energías_renovables estudio informar comunicado cabildo_de_tenerife formar_parte investigación realizar investigador división_de_medio_ambiente_del_instituto_tecnológico energías_renovables iter emisión contaminante atmósfera procedente fuente antropogénico central termoeléctrico refinería vertedero depuradora calidad aire ambiente tenerife respectar determinar contaminante atmosférico 1 resultado obtener respectar ganado vacuno reflejar vaca tenerife emitir diariamente atmósfera orden dióxido carbono metano amoniaco compuesto orgánico volátil covs metanizados cabaña tenerife censo cabeza ganado vacuno poder emitir anualmente atmósfera orden dióxido carbono metano amoniaco compuesto orgánico volátil metanizados resultado añadir nota haber obtener observación granja local ser usar cámara acumulación gas emitir ganado vacuno existente interior finalidad evaluar tasa emisión uso técnica analítico convencional sensor óptico remoto ganadería ser fuente significativo emisión gas efecto invernadero hecho informar punto vista global actividad relacionar ganadería contribuir equivalente dióxido carbono emisión antropogénico gas efecto invernadero equivaler porcentaje alto emisión sector transporte dato publicar organización_de_las_naciones_unidas_para_la_agricultura alimentación fao escala global ganadería conjunto ser responsable emisión metano derivar actividad antropogénico mayor parte emisión ser deber fermentación preestómago rumiante almacenamiento abono orgánico estiércol líquido sólido caso amoniaco ganadería escala global ser responsable emisión antropogénico total amoniaco manera significativo contribuir acidez ecosistema",
+        "persons": [
+            "Energías_Renovables",
+            "Energías_Renovables"
+        ],
+        "locations": [
+            "Canarias",
+            "Tenerife",
+            "Tenerife",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Instituto_Tecnológico",
+            "División_de_Medio_Ambiente_del_Instituto_Tecnológico",
+            "ITER",
+            "Organización_de_las_Naciones_Unidas_para_la_Agricultura",
+            "Alimentación",
+            "FAO"
+        ],
+        "others": [
+            "Cabildo_de_Tenerife",
+            "COVs"
+        ],
+        "dates": [
+            "[??:??/??/45:??.??:??]"
+        ],
+        "numbers": [
+            "20.5",
+            "CO2",
+            "WG_tm:890",
+            "CH4",
+            "16",
+            "WG_g:6.045",
+            "CO2",
+            "WG_g:119",
+            "CH4",
+            "WG_g:2",
+            "NH3",
+            "WG_g:24",
+            "6",
+            "WG_tm:13.245",
+            "CO2",
+            "WG_tm:260",
+            "5",
+            "WG_tm:52",
+            "18",
+            "100",
+            "CO2",
+            "2006",
+            "35",
+            "40",
+            "100",
+            "64",
+            "100"
+        ]
+    }
+}

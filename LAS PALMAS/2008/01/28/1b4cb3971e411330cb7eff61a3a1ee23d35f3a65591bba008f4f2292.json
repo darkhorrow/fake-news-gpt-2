@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/340379/0/inmigrantes/rescate/laspalmas/",
+    "title": {
+        "raw_text": "Rescatan a 37 inmigrantes que viajaban en un cayuco a tres millas de Gran Canaria",
+        "lemmatized_text": "rescatar a 37 inmigrante que viajar en uno cayuco a LN_mi:3 de gran_canaria",
+        "lemmatized_text_reduced": "rescatar inmigrante viajar cayuco gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "37",
+            "LN_mi:3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los radares de la Guardia Civil detectaron la embarcación. Salvamento Marítimo los condujo hasta el muelle de Arguineguín. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el radar de el guardia_civil detectar el embarcación salvamento_marítimo lo conducir hasta el muelle de arguineguín consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "radar guardia_civil detectar embarcación salvamento_marítimo conducir muelle arguineguín consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo ha rescatado a 37 inmigrantes que viajaban en un cayuco a tres millas de Gran Canaria, han informado fuentes de este organismo que, no obstante, han agregado que el cómputo de personas será confirmado al llegar a tierra. La operación comenzó en torno a las siete de la mañana del lunes cuando los radares de la Guardia Civil detectaron una embarcación que navegaba a pocas millas del sur de la isla. Salvamento acudió a su encuentro y recogió a los inmigrantes, aparentemente de origen subsahariano, que están siendo conducidos al muelle de Arguineguín , donde los espera una dotación de la Cruz Roja para prestarles los primeros auxilios. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "salvamento_marítimo haber rescatar a 37 inmigrante que viajar en uno cayuco a LN_mi:3 de gran_canaria haber informar fuente de este organismo que no_obstante haber agregar que el cómputo de persona ser confirmar a el llegar a tierra el operación comenzar en_torno_a el [L:??/??/??:7.00:am] cuando el radar de el guardia_civil detectar uno embarcación que navegar a poco milla de el sur de el isla salvamento acudir a su encuentro y recoger a el inmigrante aparentemente de origen subsahariano que estar ser conducir a el muelle de arguineguín donde lo esperar uno dotación de el cruz_roja para prestar le el 1 auxilio consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo haber rescatar inmigrante viajar cayuco gran_canaria haber informar fuente organismo haber agregar cómputo persona ser confirmar llegar tierra operación comenzar radar guardia_civil detectar embarcación navegar milla sur isla salvamento acudir encuentro recoger inmigrante aparentemente origen subsahariano estar ser conducir muelle arguineguín esperar dotación cruz_roja prestar 1 auxilio consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Cruz_Roja",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:7.00:am]"
+        ],
+        "numbers": [
+            "37",
+            "LN_mi:3"
+        ]
+    }
+}

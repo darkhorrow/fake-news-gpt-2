@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/964925/0/",
+    "title": {
+        "raw_text": "Detenida en el aeropuerto de Lanzarote con 2 kilos de cocaína",
+        "lemmatized_text": "detener en el aeropuerto de lanzarote con 2 kilo de cocaína",
+        "lemmatized_text_reduced": "detener aeropuerto lanzarote kilo cocaína",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha detenido a una mujer en el aeropuerto de Guacimeta, en Lanzarote, como presunta autora de un delito contra la salud pública al intentar introducir en la isla unos dos kilos de cocaína, según ha informado la Benemérita en una nota de prensa.",
+        "lemmatized_text": "el guardia_civil haber detener a uno mujer en el aeropuerto de guacimeta en lanzarote como presunto autor de uno delito contra el salud público a el intentar introducir en el isla uno 2 kilo de cocaína según haber informar el benemérita en uno nota de prensa",
+        "lemmatized_text_reduced": "guardia_civil haber detener mujer aeropuerto guacimeta lanzarote presunto autor delito salud público intentar introducir isla kilo cocaína haber informar benemérita nota prensa",
+        "persons": [],
+        "locations": [
+            "Guacimeta",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La Guardia Civil ha detenido a una mujer en el aeropuerto de Guacimeta, en Lanzarote, como presunta autora de un delito contra la salud pública al intentar introducir en la isla unos dos kilos de cocaína, según ha informado la Benemérita en una nota de prensa. Dentro de las funciones de resguardo fiscal del Estado en las que se realizan diferentes inspecciones aleatorias encaminadas a evitar y perseguir el contrabando, así como otros ilícitos penales, la Guardia Civil interceptó a la mujer en la Terminal 1 del aeropuerto lanzaroteño tras haber llegado en un vuelo procedente de Madrid. Fue entonces cuando los agentes procedieron a inspeccionar a la pasajera y a su equipaje, detectándose entre sus pertenencias dentro de una maleta un paquete envuelto en plástico con unos 2.000 gramos de cocaína en su interior. En consecuencia, la Guardia Civil procedió a la detención de la mujer cuyas iniciales corresponde a L.M.Z.G. como presunta autora de un delito contra la salud pública (tráfico de drogas). La detenida, junto con las diligencias y la droga aprehendida, pasó a disposición del Juzgado de Instrucción, quien decretó su ingreso en prisión.",
+        "lemmatized_text": "el guardia_civil haber detener a uno mujer en el aeropuerto de guacimeta en lanzarote como presunto autor de uno delito contra el salud público a el intentar introducir en el isla uno 2 kilo de cocaína según haber informar el benemérita en uno nota de prensa dentro_de el función de resguardo fiscal de el estado en el que se realizar diferente inspección aleatorio encaminar a evitar y perseguir el contrabando así_como otro ilícito penal el guardia_civil interceptar a el mujer en el terminal 1 de el aeropuerto lanzaroteño tras haber llegar en uno vuelo procedente de madrid ser entonces cuando el agente proceder a inspeccionar a el pasajero y a su equipaje detectar se entre su pertenencia dentro_de uno maleta uno paquete envolver en plástico con uno WG_g:2 de cocaína en su interior en_consecuencia el guardia_civil proceder a el detención de el mujer cuyo inicial corresponder a l.m.z.g. como presunto autor de uno delito contra el salud público tráfico de droga el detener junto_con el diligencia y el droga aprehender pasar a disposición de el juzgado_de_instrucción quien decretar su ingreso en prisión",
+        "lemmatized_text_reduced": "guardia_civil haber detener mujer aeropuerto guacimeta lanzarote presunto autor delito salud público intentar introducir isla kilo cocaína haber informar benemérita nota prensa función resguardo fiscal estado realizar inspección aleatorio encaminar evitar perseguir contrabando ilícito penal guardia_civil interceptar mujer terminal aeropuerto lanzaroteño haber llegar vuelo procedente madrid ser agente proceder inspeccionar pasajero equipaje detectar pertenencia maleta paquete envolver plástico cocaína interior guardia_civil proceder detención mujer inicial corresponder l.m.z.g. presunto autor delito salud público tráfico droga detener diligencia droga aprehender pasar disposición juzgado_de_instrucción decretar ingreso prisión",
+        "persons": [],
+        "locations": [
+            "Guacimeta",
+            "Lanzarote",
+            "Madrid"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Benemérita",
+            "Estado",
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "L.M.Z.G.",
+            "Juzgado_de_Instrucción"
+        ],
+        "others": [
+            "Terminal"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "1",
+            "WG_g:2"
+        ]
+    }
+}

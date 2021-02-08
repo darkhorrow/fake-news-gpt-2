@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/715243/0/",
+    "title": {
+        "raw_text": "Una mujer herida de gravedad tras incendiarse su vivienda en Lanzarote",
+        "lemmatized_text": "uno mujer herir de gravedad tras incendiar se su vivienda en lanzarote",
+        "lemmatized_text_reduced": "mujer herir gravedad incendiar vivienda lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer resultó herida de gravedad tras incendiarse su vivienda en Puerto del Carmen, Lanzarote, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad del 112.",
+        "lemmatized_text": "uno mujer resultar herida de gravedad tras incendiar se su vivienda en puerto_del_carmen lanzarote según informar fuente de el centro_coordinador_de_emergencias y seguridad de el 112",
+        "lemmatized_text_reduced": "mujer resultar herida gravedad incendiar vivienda puerto_del_carmen lanzarote informar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Carmen",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El suceso se produjo a las 5.15 horas y la herida, de 49 años de edad, sufrió politraumatismo grave al tirarse por la ventana de su vivienda para huir del fuego. Una vez alertado el 112, asistió hasta el lugar y trasladó a la mujer al Hospital Doctor José Molina Orosa en una ambulancia del Servicio de Urgencias Canario (SUC). Asimismo, en el lugar se personaron efectivos de bomberos, agentes de la Policía Local, así como de la Guardia Civil, que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "el suceso se producir a el TM_h:5.15 y el herida de 49 año de edad sufrir politraumatismo grave a el tirar se por el ventana de su vivienda para huir de el fuego uno vez alertar el 112 asistir hasta el lugar y trasladar a el mujer a el hospital_doctor_josé_molina_orosa en uno ambulancia de el servicio_de_urgencias_canario suc asimismo en el lugar se personar efectivo de bombero agente de el policía_local así_como de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "suceso producir herida año edad sufrir politraumatismo grave tirar ventana vivienda huir fuego vez alertar asistir lugar trasladar mujer hospital_doctor_josé_molina_orosa ambulancia servicio_de_urgencias_canario suc lugar personar efectivo bombero agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Hospital_Doctor_José_Molina_Orosa",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:5.15",
+            "49",
+            "112"
+        ]
+    }
+}

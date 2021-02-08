@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/692266/0/",
+    "title": {
+        "raw_text": "Una mujer resulta herida tras precipitarse con su coche por un barranco de unos 20 metros en Gran Canaria",
+        "lemmatized_text": "uno mujer resultar herir tras precipitar se con su coche por uno barranco de uno LN_m:20 en gran_canaria",
+        "lemmatized_text_reduced": "mujer resultar herir precipitar coche barranco gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:20"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una mujer ha resultado hoy herida tras precipitarse el vehículo en el que circulaba por un barranco de unos 20 metros en Teror (Gran Canaria), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que indicaron que la afectada sufre \"dolor costal\".",
+        "lemmatized_text": "uno mujer haber resultar hoy herir tras precipitar se el vehículo en el que circular por uno barranco de uno LN_m:20 en teror gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que indicar que el afectado sufrir dolor costal",
+        "lemmatized_text_reduced": "mujer haber resultar herir precipitar vehículo circular barranco teror gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes indicar afectado sufrir dolor costal",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Teror",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_m:20",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 14.15 horas, cuando varias llamadas alertaron al Cecoes de que un vehículo se había caído por el barranco ubicado en las inmediaciones de la calle Las Escaleras en el barrio de Miraflor. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Se desconocen las causas del siniestro, en el que la conductora resultó afectada con contusiones en el costado. La afectada ha sido trasladada en ambulancia de soporte vital básico del Servicio de Urgencias Canario al Hospital Universitario de Gran Canaria Doctor Negrín para su observación. En dicha actuación intervinieron bomberos del Consorcio de Emergencias de Gran Canaria, Protección Civil y la Policía Local. Mientras que la Guardia Civil se encargó de instruir las correspondientes diligencias.",
+        "lemmatized_text": "el accidente se producir a el TM_h:14.15 cuando varios llamada alertar a el cecoes de que uno vehículo se haber caer por el barranco ubicar en el inmediación de el calle las_escaleras en el barrio de miraflor de este modo el 112 activar de inmediato el dispositivo de emergencia necesario se desconocer el causa de el siniestro en el que el conductor resultar afectar con contusión en el costado el afectado haber ser trasladar en ambulancia de soporte vital básico de el servicio_de_urgencias_canario a el hospital_universitario_de_gran_canaria_doctor_negrín para su observación en decir actuación intervenir bombero de el consorcio_de_emergencias_de_gran_canaria protección_civil y el policía_local mientras_que el guardia_civil se encargar de instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "accidente producir llamada alertar cecoes vehículo haber caer barranco ubicar inmediación calle las_escaleras barrio miraflor modo activar inmediato dispositivo emergencia necesario desconocer causa siniestro conductor resultar afectar contusión costado afectado haber ser trasladar ambulancia soporte vital básico servicio_de_urgencias_canario hospital_universitario_de_gran_canaria_doctor_negrín observación decir actuación intervenir bombero consorcio_de_emergencias_de_gran_canaria protección_civil policía_local guardia_civil encargar instruir correspondiente diligencia",
+        "persons": [],
+        "locations": [
+            "Las_Escaleras",
+            "Miraflor"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Protección_Civil",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.15",
+            "112"
+        ]
+    }
+}

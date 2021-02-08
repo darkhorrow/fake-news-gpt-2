@@ -1,0 +1,94 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/654912/0/",
+    "title": {
+        "raw_text": "La calima estará presente en Canarias hasta las 15.00 horas de mañana y estará acompañada de una subida de temperaturas",
+        "lemmatized_text": "el calima estar presente en canarias hasta el [??:??/??/??:3.00:am] y estar acompañar de uno subida de temperatura",
+        "lemmatized_text_reduced": "calima estar presente canarias estar acompañar subida temperatura",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:3.00:am]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La calima --polvo en suspensión-- estará presenta en la Comunidad Autónoma de Canarias desde las 10.00 horas de hoy hasta aproximadamente las 15.00 horas de mañana, un fenómeno meteorológico que vendrá acompañado con una subida de la temperaturas, que rondarán una media de 26 grados de máxima, según informa la Agencia Estatal de Meteorología (AEMET) De esta manera, la calima se concentrará principalmente durante la tarde de hoy, afectando en primer lugar a las islas más orientales, desplazándose hacia la provincia de Tenerife y afectando a las islas de Tenerife y La Gomera. Además, las islas de El Hierro y La Palma se librarán de el polvo en suspensión.",
+        "lemmatized_text": "el calima polvo en suspensión estar presentar en el comunidad_autónoma_de_canarias desde el TM_h:10 de hoy hasta aproximadamente el [??:??/??/??:3.00:am] uno fenómeno meteorológico que venir acompañar con uno subida de el temperatura que rondar uno medio de 26 grado de máximo según informar el agencia_estatal_de_meteorología aemet de este manera el calima se concentrar principalmente durante el tarde de hoy afectar en 1 lugar a el isla más oriental desplazar se hacia el provincia de tenerife y afectar a el isla de tenerife y la_gomera además el isla de el_hierro y la_palma se librar de el polvo en suspensión",
+        "lemmatized_text_reduced": "calima polvo suspensión estar presentar comunidad_autónoma_de_canarias aproximadamente fenómeno meteorológico venir acompañar subida temperatura rondar medio grado máximo informar agencia_estatal_de_meteorología aemet de manera calima concentrar principalmente tarde afectar 1 lugar isla oriental desplazar provincia tenerife afectar isla tenerife la_gomera isla el_hierro la_palma librar polvo suspensión",
+        "persons": [
+            "De"
+        ],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Tenerife",
+            "Tenerife",
+            "La_Gomera",
+            "El_Hierro",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:3.00:am]"
+        ],
+        "numbers": [
+            "TM_h:10",
+            "26"
+        ]
+    },
+    "body": {
+        "raw_text": "La calima —polvo en suspensión— estará presenta en la Comunidad Autónoma de Canarias desde las 10.00 horas de hoy hasta aproximadamente las 15.00 horas de mañana, un fenómeno meteorológico que vendrá acompañado con una subida de la temperaturas, que rondarán una media de 26 grados de máxima, según informa la Agencia Estatal de Meteorología (AEMET) De esta manera, la calima se concentrará principalmente durante la tarde de hoy, afectando en primer lugar a las islas más orientales, desplazándose hacia la provincia de Tenerife y afectando a las islas de Tenerife y La Gomera. Además, las islas de El Hierro y La Palma se librarán de el polvo en suspensión. En cuando a la visibilidad, se espera que se reduzca ha hasta llegar a los 3 kilómetros de distancia, aunque podría ser menor y llegar a afectar con mayor incidencias a las islas de Fuerteventura y Lanzarote. Por su parte, la previsión meteorológica en la provincia de Las Palmas para hoy, jueves 18 de marzo, indica que en Gran Canaria predominarán los cielos poco nubosos o despejados aunque habrá calima persistente que se espesará a partir de la mañana. Respecto a las islas de Lanzarote y Fuerteventura, predominarán los cielos poco nubosos o despejados y aquí la calima también será persistente, comenzando a espesarse de madrugada. El viento soplará en costas de componente norte flojo en general, girando a sureste flojo a moderado durante la mañana, y siendo más intenso durante las horas centrales del día; en medianías y zonas altas el viento será de componente sur moderado con intervalos de fuerte por la tarde. Las temperaturas irán en ligero ascenso, oscilando entre los 19 y 26 grados centígrados. En Santa Cruz de Tenerife, la previsión meteorológica en la provincia occidental indica que predominará el cielo poco nuboso, con algunos intervalos de nubes altas y calima, mientras que el viento soplará de componente Norte flojo, girando a componente Sur flojo a moderado a partir del mediodía; en medianías y zonas altas, soplará de componente Sur moderado, con intervalos de fuerte por la tarde. Finalmente, sobre las temperaturas, el termómetro registrará un ligero a moderado ascenso, más acusado en medianías y zonas altas, y oscilará entre los 25 grados de máxima y los 18 de mínima.",
+        "lemmatized_text": "el calima polvo en suspensión estar presentar en el comunidad_autónoma_de_canarias desde el TM_h:10 de hoy hasta aproximadamente el [??:??/??/??:3.00:am] uno fenómeno meteorológico que venir acompañar con uno subida de el temperatura que rondar uno medio de 26 grado de máximo según informar el agencia_estatal_de_meteorología aemet de este manera el calima se concentrar principalmente durante el tarde de hoy afectar en 1 lugar a el isla más oriental desplazar se hacia el provincia de tenerife y afectar a el isla de tenerife y la_gomera además el isla de el_hierro y la_palma se librar de el polvo en suspensión en cuando a el visibilidad se esperar que se reducir haber hasta llegar a el LN_km:3 de distancia aunque poder ser menor y llegar a afectar con mayor incidencia a el isla de fuerteventura y lanzarote por su parte el previsión meteorológico en el provincia de las_palmas para hoy [J:18/3/??:??.??:??] indicar que en gran_canaria predominar el cielo poco nuboso o despejar aunque haber calima persistente que se espesar a_partir_de el mañana respecto_a el isla de lanzarote y fuerteventura predominar el cielo poco nuboso o despejar y aquí el calima también ser persistente comenzar a espesar se de_madrugada el viento soplar en costa de componente norte flojo en general girar a sureste flojo a moderar durante el mañana y ser más intenso durante el hora central de el día en medianía y zona alto el viento ser de componente sur moderar con intervalo de fuerte por el tarde el temperatura ir en ligero ascenso oscilar entre el 19 y TP_C:26 en santa_cruz_de_tenerife el previsión meteorológico en el provincia occidental indicar que predominar el cielo poco nuboso con alguno intervalo de nube alto y calima mientras_que el viento soplar de componente norte flojo girar a componente sur flojo a moderar a partir de el [??:??/??/??:12.00:pm] en medianía y zona alto soplar de componente sur moderar con intervalo de fuerte por el tarde finalmente sobre el temperatura el termómetro registrar uno ligero a moderar ascenso más acusar en medianía y zona alto y oscilar entre el 25 grado de máximo y el 18 de mínimo",
+        "lemmatized_text_reduced": "calima polvo suspensión estar presentar comunidad_autónoma_de_canarias aproximadamente fenómeno meteorológico venir acompañar subida temperatura rondar medio grado máximo informar agencia_estatal_de_meteorología aemet de manera calima concentrar principalmente tarde afectar 1 lugar isla oriental desplazar provincia tenerife afectar isla tenerife la_gomera isla el_hierro la_palma librar polvo suspensión visibilidad esperar reducir haber llegar distancia poder ser menor llegar afectar mayor incidencia isla fuerteventura lanzarote parte previsión meteorológico provincia las_palmas indicar gran_canaria predominar cielo nuboso despejar haber calima persistente espesar mañana isla lanzarote fuerteventura predominar cielo nuboso despejar calima ser persistente comenzar espesar viento soplar costa componente norte flojo general girar sureste flojo moderar mañana ser intenso hora central día medianía zona alto viento ser componente sur moderar intervalo fuerte tarde temperatura ir ligero ascenso oscilar santa_cruz_de_tenerife previsión meteorológico provincia occidental indicar predominar cielo nuboso intervalo nube alto calima viento soplar componente norte flojo girar componente sur flojo moderar partir medianía zona alto soplar componente sur moderar intervalo fuerte tarde finalmente temperatura termómetro registrar ligero moderar ascenso acusar medianía zona alto oscilar grado máximo mínimo",
+        "persons": [
+            "De"
+        ],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Tenerife",
+            "Tenerife",
+            "La_Gomera",
+            "El_Hierro",
+            "La_Palma",
+            "Fuerteventura",
+            "Lanzarote",
+            "Gran_Canaria",
+            "Lanzarote",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "Las_Palmas",
+            "Fuerteventura",
+            "Sur",
+            "Sur"
+        ],
+        "others": [
+            "Norte"
+        ],
+        "dates": [
+            "[??:??/??/??:3.00:am]",
+            "[J:18/3/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "TM_h:10",
+            "26",
+            "LN_km:3",
+            "19",
+            "TP_C:26",
+            "25",
+            "18"
+        ]
+    }
+}

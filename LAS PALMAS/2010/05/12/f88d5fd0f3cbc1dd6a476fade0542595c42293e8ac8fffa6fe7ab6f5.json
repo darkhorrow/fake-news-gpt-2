@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/705027/0/",
+    "title": {
+        "raw_text": "Unos 950 enfermeros del Hospital de Gran Canaria Doctor Negrín entregan rosas a los pacientes en su Día",
+        "lemmatized_text": "uno 950 enfermero de el hospital_de_gran_canaria_doctor_negrín entregar rosa a el paciente en su día",
+        "lemmatized_text_reduced": "enfermero hospital_de_gran_canaria_doctor_negrín entregar rosa paciente día",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Hospital_de_Gran_Canaria_Doctor_Negrín",
+            "Día"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "950"
+        ]
+    },
+    "lead": {
+        "raw_text": "El personal de Enfermería del Hospital Universitario de Gran Canaria Doctor Negrín, compuesto por 950 profesionales, ha entregado hoy rosas a los pacientes ingresados en el centro hospitalario con motivo del Día Internacional de la Enfermera.",
+        "lemmatized_text": "el personal de enfermería_del_hospital_universitario_de_gran_canaria_doctor_negrín componer por 950 profesional haber entregar hoy rosa a el paciente ingresar en el centro hospitalario con motivo de el día_internacional_de_la_enfermera",
+        "lemmatized_text_reduced": "personal enfermería_del_hospital_universitario_de_gran_canaria_doctor_negrín componer profesional haber entregar rosa paciente ingresar centro hospitalario motivo día_internacional_de_la_enfermera",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Enfermería_del_Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín"
+        ],
+        "others": [
+            "Día_Internacional_de_la_Enfermera"
+        ],
+        "dates": [],
+        "numbers": [
+            "950"
+        ]
+    },
+    "body": {
+        "raw_text": "Con el lema 'Donde haya una enfermera habrá una sonrisa, donde haya una sonrisa habrá una rosa', los enfermeros del Hospital hicieron entrega de una rosa y una tarjeta a cada uno de los pacientes ingresados, informó el Ejecutivo regional en un comunicado. Se trata de un gesto que se ha convertido en una tradición por parte de estos profesionales del Hospital, en su voluntad de homenajear a los enfermos, receptores de su labor diaria. Desde hace 15 años, cada 12 de mayo, las enfermeras del Hospital reciben de un grupo comercial canario mil rosas en homenaje a su día que el colectivo de Enfermería comparte con los pacientes. Siguiendo el lema del Consejo Internacional de Enfermería (CIE) elegido este año para celebrar el Día Internacional: Servir a la comunidad y garantizar la calidad: Las enfermeras en la vanguardia de los cuidados de las enfermedades crónicas, el personal de Enfermería festeja su jornada además con charlas científicas dirigidas a todo el personal del Hospital. Los enfermeros del Hospital realizan actividad asistencial, educación para la salud, investigación y formación, y evalúan la eficacia del plan de cuidados de cada paciente. La jornada de hoy se completa con un foro científico en el que se expondrán ponencias sobre los cuidados de Enfermería en pacientes crónicos y un con un coloquio posterior.",
+        "lemmatized_text": "con el lema donde haber uno enfermero haber uno sonrisa donde haber uno sonrisa haber uno rosa el enfermero de el hospital hacer entrega de uno rosa y uno tarjeta a cada uno de el paciente ingresar informar el ejecutivo regional en uno comunicado se tratar de uno gesto que se haber convertir en uno tradición por parte de este profesional de el hospital en su voluntad de homenajear a el enfermo receptor de su labor diario desde hacer 15 año cada [??:12/5/??:??.??:??] el enfermero de el hospital recibir de uno grupo comercial canario 1000 rosa en homenaje a su día que el colectivo de enfermería compartir con el paciente seguir el lema de el consejo_internacional_de_enfermería cie elegir este año para celebrar el día_internacional servir a el comunidad y garantizar el calidad el enfermero en el vanguardia de el cuidado de el enfermedad crónico el personal de enfermería festejar su jornada además con charla científico dirigir a todo el personal de el hospital el enfermero de el hospital realizar actividad asistencial educación para el salud investigación y formación y evaluar el eficacia de el plan de cuidado de cada paciente el jornada de hoy se completar con uno foro científico en el que se exponer ponencia sobre el cuidado de enfermería en paciente crónico y uno con uno coloquio posterior",
+        "lemmatized_text_reduced": "lema haber enfermero haber sonrisa haber sonrisa haber rosa enfermero hospital hacer entrega rosa tarjeta paciente ingresar informar ejecutivo regional comunicado tratar gesto haber convertir tradición parte profesional hospital voluntad homenajear enfermo receptor labor diario hacer año enfermero hospital recibir grupo comercial canario rosa homenaje día colectivo enfermería compartir paciente seguir lema consejo_internacional_de_enfermería cie elegir año celebrar día_internacional servir comunidad garantizar calidad enfermero vanguardia cuidado enfermedad crónico personal enfermería festejar jornada charla científico dirigir personal hospital enfermero hospital realizar actividad asistencial educación salud investigación formación evaluar eficacia plan cuidado paciente jornada completar foro científico exponer ponencia cuidado enfermería paciente crónico coloquio posterior",
+        "persons": [],
+        "locations": [
+            "Enfermería",
+            "Enfermería",
+            "Enfermería"
+        ],
+        "organizations": [
+            "Hospital",
+            "Ejecutivo",
+            "Hospital",
+            "Hospital",
+            "Consejo_Internacional_de_Enfermería",
+            "CIE",
+            "Hospital",
+            "Hospital"
+        ],
+        "others": [
+            "Día_Internacional"
+        ],
+        "dates": [
+            "[??:12/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "15",
+            "1000"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660388/0/",
+    "title": {
+        "raw_text": "San Bartolomé de Tirajana (Gran Canaria) comienza con las obras de reparación de desperfectos por las lluvias",
+        "lemmatized_text": "san_bartolomé_de_tirajana gran_canaria comenzar con el obra de reparación de desperfecto por el lluvia",
+        "lemmatized_text_reduced": "san_bartolomé_de_tirajana gran_canaria comenzar obra reparación desperfecto lluvia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de San Bartolomé de Tirajana (Gran Canaria) ha iniciado ya las obras de reparación de las infraestructuras del puente del barranquillo de La Huerta en Tunte, la carretera vecinal a La Montaña desde la GC-655 y la carretera de acceso a Casas Blancas desde la GC-655, que resultaron dañadas por las fuertes lluvias caídas en la zona alta del municipio el pasado 18 de febrero.",
+        "lemmatized_text": "el ayuntamiento_de_san_bartolomé_de_tirajana gran_canaria haber iniciar ya el obra de reparación de el infraestructura de el puente de el barranco de la_huerta en tunte el carretera vecinal a la_montaña desde el GC-655 y el carretera de acceso a casas_blancas desde el GC-655 que resultar dañar por el fuerte lluvia caer en el zona alto de el municipio el [??:18/2/??:??.??:??]",
+        "lemmatized_text_reduced": "ayuntamiento_de_san_bartolomé_de_tirajana gran_canaria haber iniciar obra reparación infraestructura puente barranco la_huerta tunte carretera vecinal la_montaña carretera acceso casas_blancas resultar dañar fuerte lluvia caer zona alto municipio",
+        "persons": [],
+        "locations": [
+            "La_Huerta",
+            "Tunte",
+            "La_Montaña",
+            "Casas_Blancas"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:18/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-655",
+            "GC-655"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, el Consistorio sureño explicó que en el puente del barranquillo de La Huerta se ejecutará por 115.690 euros la demolición de un tramo del canal en unos veinte metros lineales aproximadamente, desde su boca superior hasta el cruce con la calle Fernando Guanarteme, tramo en el que la sección de desagüe es insuficiente. Por otro lado, se ha adjudicado a la entidad Satocan por 196.574 euros, la reparación de la carretera vecinal que une el núcleo de La Montaña con la GC-655. En esta zona se llevarán a cabo labores de desescombro, tanto de muros caídos como en aquellos en los que existe un riesgo de derrumbe. También se reconstruirán los muros a base de hormigón con revestimiento exterior con piedras y se rellenarán; se instalarán taludes en terrenos situados sobre la carretera; nuevos muros de contención; se repondrá el pavimento rodado de la carretera; se restituirán los servicios afectados (riegos, abastecimiento...) y se instalarán vallados de protección. Además, se reparará el firme de la carretera de acceso a Casas Blancas desde la GC-655 y se procederá a la reposición de las vallas de seguridad del tramo afectado. Esta obra ha sido adjudicada a la empresa Hermanos Medina Cazorla por 13.842 euros. La ejecución de dichas obras por el procedimiento de emergencia está motivada por los riesgos de inundación de las viviendas, accidentes de tráfico, nuevos desplomes y por el aislamiento de los vecinos. Finalmente, el Ayuntamiento de San Bartolomé de Tirajana ha iniciado los trámites para solicitar al Estado y a la Comunidad Autónoma de Canarias las ayudas correspondientes para sufragar los costes de estas obras por destrozos ocasionados por el último temporal.",
+        "lemmatized_text": "en uno comunicado el consistorio sureño explicar que en el puente de el barranco de la_huerta se ejecutar por $_ECU:115.69 el demolición de uno tramo de el canal en uno LN_m:20 lineal aproximadamente desde su boca superior hasta el cruce con el calle fernando_guanarteme tramo en el que el sección de desagüe ser insuficiente por_otro_lado se haber adjudicar a el entidad satocan por $_ECU:196.574 el reparación de el carretera vecinal que unir el núcleo de la_montaña con el GC-655 en este zona se llevar_a_cabo labor de desescombro tanto de muro caer como en aquel en el que existir uno riesgo de derrumbe también se reconstruir el muro a_base_de hormigón con revestimiento exterior con piedra y se rellenar se instalar talud en terreno situar sobre el carretera nuevo muro de contención se reponer el pavimento rodar de el carretera se restituir el servicio afectar riego abastecimiento y se instalar vallar de protección además se reparar el firme de el carretera de acceso a casas_blancas desde el GC-655 y se proceder a el reposición de el valla de seguridad de el tramo afectar este obra haber ser adjudicar a el empresa hermanos_medina_cazorla por $_ECU:13.842 el ejecución de decir obra por el procedimiento de emergencia estar motivar por el riesgo de inundación de el vivienda accidente de tráfico nuevo desplome y por el aislamiento de el vecino finalmente el ayuntamiento_de_san_bartolomé_de_tirajana haber iniciar el trámite para solicitar a el estado y a el comunidad_autónoma_de_canarias el ayuda correspondiente para sufragar el coste de este obra por destrozo ocasionar por el último temporal",
+        "lemmatized_text_reduced": "comunicado consistorio sureño explicar puente barranco la_huerta ejecutar demolición tramo canal lineal aproximadamente boca superior cruce calle fernando_guanarteme tramo sección desagüe ser insuficiente haber adjudicar entidad satocan reparación carretera vecinal unir núcleo la_montaña zona llevar_a_cabo labor desescombro muro caer existir riesgo derrumbe reconstruir muro hormigón revestimiento exterior piedra rellenar instalar talud terreno situar carretera nuevo muro contención reponer pavimento rodar carretera restituir servicio afectar riego abastecimiento instalar vallar protección reparar firme carretera acceso casas_blancas proceder reposición valla seguridad tramo afectar obra haber ser adjudicar empresa hermanos_medina_cazorla ejecución decir obra procedimiento emergencia estar motivar riesgo inundación vivienda accidente tráfico nuevo desplome aislamiento vecino finalmente ayuntamiento_de_san_bartolomé_de_tirajana haber iniciar trámite solicitar estado comunidad_autónoma_de_canarias ayuda correspondiente sufragar coste obra destrozo ocasionar último temporal",
+        "persons": [
+            "Fernando_Guanarteme",
+            "Satocan"
+        ],
+        "locations": [
+            "La_Huerta",
+            "La_Montaña",
+            "Casas_Blancas"
+        ],
+        "organizations": [
+            "Consistorio",
+            "Hermanos_Medina_Cazorla",
+            "Ayuntamiento_de_San_Bartolomé_de_Tirajana",
+            "Estado",
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:115.69",
+            "LN_m:20",
+            "$_ECU:196.574",
+            "GC-655",
+            "GC-655",
+            "$_ECU:13.842"
+        ]
+    }
+}

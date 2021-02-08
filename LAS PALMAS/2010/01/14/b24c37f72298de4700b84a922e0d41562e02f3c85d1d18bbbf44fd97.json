@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/606394/0/",
+    "title": {
+        "raw_text": "Detenido en la capital grancanaria un hombre por vender droga en el auto-lavado de coches de su propiedad",
+        "lemmatized_text": "detener en el capital grancanaria uno hombre por vender droga en el auto-lavado de coche de su propiedad",
+        "lemmatized_text_reduced": "detener capital grancanaria hombre vender droga auto-lavado coche propiedad",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido en Las Palmas de Gran Canaria a un hombre, A.P.C. de 23 años de edad, por adulterar, preparar y vender drogas en el auto-lavado de su propiedad también situado en la capital de la isla, según informó el cuerpo de seguridad en nota de prensa.",
+        "lemmatized_text": "el policía_nacional haber detener en las_palmas_de_gran_canaria a uno hombre a.p.c. de 23 año de edad por adulterar preparar y vender droga en el auto-lavado de su propiedad también situar en el capital de el isla según informar el cuerpo de seguridad en nota de prensa",
+        "lemmatized_text_reduced": "policía_nacional haber detener las_palmas_de_gran_canaria hombre a.p.c. año edad adulterar preparar vender droga auto-lavado propiedad situar capital isla informar cuerpo seguridad nota prensa",
+        "persons": [
+            "A.P.C."
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "23"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, la detención pudo llevarse a cabo a raíz de una investigación que se inició una vez que los agentes policiales se percataron de la existencia de un punto negro de venta de sustancias estupefacientes, en concreto cocaína y hachís, al que acudían compradores del barrio de Cruz de Piedra y otros puntos de la isla. Después de tratar y separar la droga en pequeñas dosis, el detenido la distribuía tanto en su domicilio como en su auto-lavado de coches de la capital, a través del que se aprovechaba para actuar con total impunidad. Por ello, los agentes del Grupo Operativo Especial de Seguridad (GOES) le practicaron un registro domiciliario, en el que los policías se incautaron de 1.700 dosis de cocaína, 10 gramos de hachís, utensilios de corte de sustancia estupefaciente, armas de defensa y teléfonos móviles. La droga intervenida hubiese generado al detenido un beneficio cercano a los 6.000 euros en el mercado ilícito. Finalmente, el detenido, que presentaba antecedentes policiales, fue puesto a disposición de la Autoridad Judicial, junto con los efectos incautados, que decretó su ingresó en prisión.",
+        "lemmatized_text": "en concreto el detención poder llevar_a_cabo a_raíz_de uno investigación que se iniciar una_vez_que el agente policial se percatar de el existencia de uno punto negro de venta de sustancia estupefaciente en concreto cocaína y hachís a el que acudir comprador de el barrio de cruz_de_piedra y otro punto de el isla después_de tratar y separar el droga en pequeño dosis el detener lo distribuir tanto en su domicilio como en su auto-lavado de coche de el capital a través de el que se aprovechar para actuar con total impunidad por ello el agente de el grupo_operativo_especial_de_seguridad goes le practicar uno registro domiciliario en el que el policía se incautar de 1.7 dosis de cocaína WG_g:10 de hachís utensilio de corte de sustancia estupefaciente arma de defensa y teléfono móvil el droga intervenir haber generar a el detener uno beneficio cercano a el $_ECU:6 en el mercado ilícito finalmente el detenido que presentar antecedente policial ser poner a disposición de el autoridad_judicial junto_con el efecto incautar que decretar su ingresar en prisión",
+        "lemmatized_text_reduced": "concreto detención poder llevar_a_cabo investigación iniciar agente policial percatar existencia punto negro venta sustancia estupefaciente concreto cocaína hachís acudir comprador barrio cruz_de_piedra punto isla tratar separar droga pequeño dosis detener distribuir domicilio auto-lavado coche capital través aprovechar actuar total impunidad agente grupo_operativo_especial_de_seguridad goes practicar registro domiciliario policía incautar dosis cocaína hachís utensilio corte sustancia estupefaciente arma defensa teléfono móvil droga intervenir haber generar detener beneficio cercano mercado ilícito finalmente detenido presentar antecedente policial ser poner disposición autoridad_judicial efecto incautar decretar ingresar prisión",
+        "persons": [],
+        "locations": [
+            "Cruz_de_Piedra"
+        ],
+        "organizations": [
+            "Grupo_Operativo_Especial_de_Seguridad",
+            "GOES",
+            "Autoridad_Judicial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1.7",
+            "WG_g:10",
+            "$_ECU:6"
+        ]
+    }
+}

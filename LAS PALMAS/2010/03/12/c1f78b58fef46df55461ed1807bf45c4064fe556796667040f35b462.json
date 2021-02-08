@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/650867/0/",
+    "title": {
+        "raw_text": "Un hombre resulta herido tras incendiarse el vehículo que estaba reparando en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre resultar herir tras incendiar se el vehículo que estar reparar en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre resultar herir incendiar vehículo estar reparar las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado afectado por intoxicación por inhalación de humo tras incendiarse el vehículo que estaba reparando en el garaje del domicilio familiar en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes de la Policía Local y de los bomberos que extinguieron el fuego.",
+        "lemmatized_text": "uno hombre haber resultar afectar por intoxicación por inhalación de humo tras incendiar se el vehículo que estar reparar en el garaje de el domicilio familiar en las_palmas_de_gran_canaria según informar a europa_press fuente de el policía_local y de el bombero que extinguir el fuego",
+        "lemmatized_text_reduced": "hombre haber resultar afectar intoxicación inhalación humo incendiar vehículo estar reparar garaje domicilio familiar las_palmas_de_gran_canaria informar europa_press fuente policía_local bombero extinguir fuego",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 16.36 horas, cuando varias llamadas alertaron al Centro Coordinador de Emergencias y Seguridad (Cecoes) del siniestro ocurrido en la calle Guantánamo, en la zona de Salto del Negro. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazó personal del Servicio de Urgencias Canario, que trasladaron al hombre afectado en ambulancia a un centro hospitalario para su observación. Según fuentes de los bomberos del parque de Vegueta que actuaron en dicho servicio, el varón estaba reparando el vehículo en el garaje de su casa terrera de dos plantas cuando, de repente, se prendió fuego el motor por causas que se desconocen. Las mismas fuentes apuntan a que el incendio del motor se pudo producir por \"un cortocircuito\" y el vehículo \"quedó siniestro total\". Los bomberos —cuatro agentes y un cabo— tardaron aproximadamente quince minutos en extinguir el fuego y emplearon alrededor de mil litros para ello. En dicha actuación también intervino la Policía Local, que se encargó de instruir las correspondientes diligencias.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:16.36 cuando varios llamada alertar a el centro_coordinador_de_emergencias y seguridad cecoes de el siniestro ocurrir en el calle guantánamo en_la_zona_de salto_del_negro de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar personal de el servicio_de_urgencias_canario que trasladar a el hombre afectar en ambulancia a uno centro hospitalario para su observación según fuente de el bombero de el parque de vegueta que actuar en decir servicio el varón estar reparar el vehículo en el garaje de su casa terrero de 2 planta cuando de_repente se prender fuego el motor por causa que se desconocer el mismo fuente apuntar a que el incendio de el motor se poder producir por uno cortocircuito y el vehículo quedar siniestro total el bombero 4 agente y uno cabo tardar aproximadamente TM_min:15 en extinguir el fuego y emplear alrededor_de VL_l:1000 para ello en decir actuación también intervenir el policía_local que se encargar de instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar centro_coordinador_de_emergencias seguridad cecoes siniestro ocurrir calle guantánamo salto_del_negro modo activar inmediato dispositivo emergencia necesario lugar desplazar personal servicio_de_urgencias_canario trasladar hombre afectar ambulancia centro hospitalario observación fuente bombero parque vegueta actuar decir servicio varón estar reparar vehículo garaje casa terrero planta prender fuego motor causa desconocer mismo fuente apuntar incendio motor poder producir cortocircuito vehículo quedar siniestro total bombero agente cabo tardar aproximadamente extinguir fuego emplear decir actuación intervenir policía_local encargar instruir correspondiente diligencia",
+        "persons": [
+            "Salto_del_Negro"
+        ],
+        "locations": [
+            "Guantánamo",
+            "Vegueta"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.36",
+            "112",
+            "2",
+            "4",
+            "TM_min:15",
+            "VL_l:1000"
+        ]
+    }
+}

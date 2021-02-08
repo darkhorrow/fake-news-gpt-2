@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/654938/0/",
+    "title": {
+        "raw_text": "CC exige al PSC-PSOE que explique su postura sobre los viajes de Zapatero en aviones del Ejército a mítines socialistas",
+        "lemmatized_text": "cc exigir a el psc-psoe que explicar su postura sobre el viaje de zapatero en avión de el ejército a mitin socialista",
+        "lemmatized_text_reduced": "cc exigir psc-psoe explicar postura viaje zapatero avión ejército mitin socialista",
+        "persons": [
+            "Zapatero"
+        ],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "PSC-PSOE",
+            "Ejército"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Coalición Canaria (CC) ha exigido al Partido Socialista Canario (PSC) a que exprese públicamente su posición con respecto a los desplazamientos del presidente del Gobierno, José Luis Rodríguez Zapatero, a mítines del PSOE en aviones del Ejército, señalando que durante las últimas elecciones europeas usó \"reiteradamente\" un Falcon 900, según informó la formación nacionalista en un comunicado.",
+        "lemmatized_text": "coalición_canaria cc haber exigir a el partido_socialista_canario psc a que expresar públicamente su posición con_respecto_a el desplazamiento de el presidente de el gobierno josé_luis_rodríguez_zapatero a mitin de el psoe en avión de el ejército señalar que durante el último elección europeo usar reiteradamente uno falcon 900 según informar el formación nacionalista en uno comunicado",
+        "lemmatized_text_reduced": "coalición_canaria cc haber exigir partido_socialista_canario psc expresar públicamente posición desplazamiento presidente gobierno josé_luis_rodríguez_zapatero mitin psoe avión ejército señalar último elección europeo usar reiteradamente falcon informar formación nacionalista comunicado",
+        "persons": [
+            "José_Luis_Rodríguez_Zapatero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Partido_Socialista_Canario",
+            "PSC",
+            "Gobierno",
+            "PSOE",
+            "Ejército"
+        ],
+        "others": [
+            "Falcon"
+        ],
+        "dates": [],
+        "numbers": [
+            "900"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Los socialistas canarios reprochan los viajes oficiales del presidente del Gobierno de Canarias en helicóptero, un medio de transporte que tan sólo utiliza cuando su agenda le impide desplazarse en vuelo regular, y ocultan que el presidente del Gobierno del Estado usa los aviones del Ejército para acudir a citas partidistas y actos electorales\", explicaron desde CC. De esta manera, el partido hizo especial hincapié en que Zapatero usó en las pasadas elecciones europeas el avión del Ejército para asistir a numerosos actos de su partido, con el \"agravante\" de que en algunos desplazamientos viajó acompañado de candidatos del PSOE, incluido el socialista canario Juan Fernando López Aguilar. \"La última vez —continuó CC— que Zapatero usó el Falcon 900 del Ejército del Aire para asistir a un mitin fue el pasado día 21 de febrero, cuando se desplazó a Málaga, desde la base aérea de Torrejón de Ardoz, para asistir a un acto organizado por el PSOE andaluz\". Finalmente, la formación consideró que el uso de recursos públicos para asistir a actos partidistas, \"como hace de manera reiterada Zapatero\", es un ejemplo de que \"antepone sus intereses de partido por encima de las necesidades de los ciudadanos\".",
+        "lemmatized_text": "el socialista canario reprochar el viaje oficial de el presidente de el gobierno_de_canarias en helicóptero uno medio de transporte que tan sólo utilizar cuando su agenda le impedir desplazar se en vuelo regular y ocultar que el presidente de el gobierno_del_estado usar el avión de el ejército para acudir a cita partidista y acto electoral explicar desde cc de este manera el partido hacer especial hincapié en que zapatero usar en el pasar elección europeo el avión de el ejército para asistir a numeroso acto de su partido con el agravante de que en alguno desplazamiento viajar acompañar de candidato de el psoe incluir el socialista canario juan_fernando_lópez_aguilar el último vez continuar cc que zapatero usar el falcon 900 de el ejército_del_aire para asistir a uno mitin ser el [??:21/2/??:??.??:??] cuando se desplazar a málaga desde el base aéreo de torrejón_de_ardoz para asistir a uno acto organizar por el psoe andaluz finalmente el formación considerar que el uso de recurso público para asistir a acto partidista como hacer de manera reiterar zapatero ser uno ejemplo de que anteponer su interés de partido por encima_de el necesidad de el ciudadano",
+        "lemmatized_text_reduced": "socialista canario reprochar viaje oficial presidente gobierno_de_canarias helicóptero medio transporte utilizar agenda impedir desplazar vuelo regular ocultar presidente gobierno_del_estado usar avión ejército acudir cita partidista acto electoral explicar cc manera partido hacer especial hincapié zapatero usar pasar elección europeo avión ejército asistir numeroso acto partido agravante desplazamiento viajar acompañar candidato psoe incluir socialista canario juan_fernando_lópez_aguilar último vez continuar cc zapatero usar falcon ejército_del_aire asistir mitin ser desplazar málaga base aéreo torrejón_de_ardoz asistir acto organizar psoe andaluz finalmente formación considerar uso recurso público asistir acto partidista hacer manera reiterar zapatero ser ejemplo anteponer interés partido necesidad ciudadano",
+        "persons": [
+            "Zapatero",
+            "Juan_Fernando_López_Aguilar",
+            "Zapatero",
+            "Zapatero"
+        ],
+        "locations": [
+            "Málaga",
+            "Torrejón_de_Ardoz"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Gobierno_del_Estado",
+            "Ejército",
+            "CC",
+            "Ejército",
+            "PSOE",
+            "CC",
+            "Ejército_del_Aire",
+            "PSOE"
+        ],
+        "others": [
+            "Falcon"
+        ],
+        "dates": [
+            "[??:21/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "900"
+        ]
+    }
+}

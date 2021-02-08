@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660782/0/",
+    "title": {
+        "raw_text": "Arde un vehículo en Pájara (Fuerteventura) sin causar heridos",
+        "lemmatized_text": "arder uno vehículo en pájara fuerteventura sin causar herido",
+        "lemmatized_text_reduced": "arder vehículo pájara fuerteventura causar herido",
+        "persons": [],
+        "locations": [
+            "Pájara"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un vehículo ha sido incendiado durante la madrugada en la calle Taifa en Morrojable, en el municipio de Pájara (Fuerteventura), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que precisaron que el fuego no ha causado heridos.",
+        "lemmatized_text": "uno vehículo haber ser incendiar durante el madrugada en el calle taifa en morrojable en el municipio de pájara fuerteventura según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que precisar que el fuego no haber causar herido",
+        "lemmatized_text_reduced": "vehículo haber ser incendiar madrugada calle taifa morrojable municipio pájara fuerteventura informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes precisar fuego haber causar herido",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Taifa",
+            "Morrojable",
+            "Pájara"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron sobre las 04.30 horas, cuando varias llamadas alertaron al Cecoes del incendio de un coche en la citada vía, por lo que el 112 activó de inmediato el dispositivo de emergencias necesario. Así, hasta el lugar se desplazaron efectivos de bomberos de la localidad que lograron extinguir las llamas, que afectaron parcialmente a la fachada de una vivienda. En dicha actuación intervino la Policía Local y la Guardia Civil, encargados de instruir las diligencias oportunas.",
+        "lemmatized_text": "el hecho ocurrir sobre el TM_h:4.3 cuando varios llamada alertar a el cecoes de el incendio de uno coche en el citar vía por el que el 112 activar de inmediato el dispositivo de emergencia necesario así hasta el lugar se desplazar efectivo de bombero de el localidad que lograr extinguir el llama que afectar parcialmente a el fachada de uno vivienda en decir actuación intervenir el policía_local y el guardia_civil encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes incendio coche citar vía activar inmediato dispositivo emergencia necesario lugar desplazar efectivo bombero localidad lograr extinguir llama afectar parcialmente fachada vivienda decir actuación intervenir policía_local guardia_civil encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:4.3",
+            "112"
+        ]
+    }
+}

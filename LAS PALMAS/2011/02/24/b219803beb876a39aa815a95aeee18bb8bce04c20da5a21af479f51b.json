@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/970101/0/",
+    "title": {
+        "raw_text": "Rivero analizará con Mas la conectividad aérea y portuaria entre las dos comunidades",
+        "lemmatized_text": "rivero analizar con mas el conectividad aéreo y portuario entre el 2 comunidad",
+        "lemmatized_text_reduced": "rivero analizar mas conectividad aéreo portuario comunidad",
+        "persons": [
+            "Rivero",
+            "Mas"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente canario, Paulino Rivero, analizará en la reunión que mantendrá mañana viernes con su homólogo en Cataluña, Artur Mas, cuestiones como la conectividad aérea y portuaria entre ambas comunidades autónomas.",
+        "lemmatized_text": "el presidente canario paulino_rivero analizar en el reunión que mantener mañana [V:??/??/??:??.??:??] con su homólogo en cataluña artur_mas cuestión como el conectividad aéreo y portuario entre ambos comunidad autónomo",
+        "lemmatized_text_reduced": "presidente canario paulino_rivero analizar reunión mantener homólogo cataluña artur_mas cuestión conectividad aéreo portuario comunidad autónomo",
+        "persons": [
+            "Paulino_Rivero",
+            "Artur_Mas"
+        ],
+        "locations": [
+            "Cataluña"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente canario, Paulino Rivero, analizará en la reunión que mantendrá mañana viernes con su homólogo en Cataluña, Artur Mas, cuestiones como la conectividad aérea y portuaria entre ambas comunidades autónomas. Así lo indicó este jueves el portavoz del Gobierno canario, Martín Marrero, quien apuntó que \"parece normal\" que uno de los temas que se traten sea la conectividad, los sistemas de comunicación, cuya gestión en la actualidad es del Gobierno central. Agregó, en la rueda de prensa posterior al Consejo de Gobierno, que no se trata de una reunión protocolaria sino que \"tendrá contenido\". Finalmente, apuntó que entra en el marco de los encuentros que el presidente canario persigue con los presidentes de otras comunidades autónomas, así como con el Ejecutivo central, enmarcándose en el \"la orientación de diálogo entre las administraciones\".",
+        "lemmatized_text": "el presidente canario paulino_rivero analizar en el reunión que mantener mañana [V:??/??/??:??.??:??] con su homólogo en cataluña artur_mas cuestión como el conectividad aéreo y portuario entre ambos comunidad autónomo así lo indicar este [J:??/??/??:??.??:??] el portavoz de el gobierno canario martín_marrero quien apuntar que parecer normal que uno de el tema que se tratar ser el conectividad el sistema de comunicación cuyo gestión en el actualidad ser de el gobierno central agregar en el rueda de prensa posterior a el consejo_de_gobierno que no se tratar de uno reunión protocolario sino_que tener contenido finalmente apuntar que entrar en el marco de el encuentro que el presidente canario perseguir con el presidente de otro comunidad autónomo así_como con el ejecutivo central enmarcar se en el el orientación de diálogo entre el administración",
+        "lemmatized_text_reduced": "presidente canario paulino_rivero analizar reunión mantener homólogo cataluña artur_mas cuestión conectividad aéreo portuario comunidad autónomo indicar portavoz gobierno canario martín_marrero apuntar parecer normal tema tratar ser conectividad sistema comunicación gestión actualidad ser gobierno central agregar rueda prensa posterior consejo_de_gobierno tratar reunión protocolario tener contenido finalmente apuntar entrar marco encuentro presidente canario perseguir presidente comunidad autónomo ejecutivo central enmarcar orientación diálogo administración",
+        "persons": [
+            "Paulino_Rivero",
+            "Artur_Mas",
+            "Martín_Marrero"
+        ],
+        "locations": [
+            "Cataluña"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Gobierno",
+            "Consejo_de_Gobierno",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

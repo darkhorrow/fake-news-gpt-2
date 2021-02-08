@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/959363/0/",
+    "title": {
+        "raw_text": "Fallece una mujer tras ser atropellada en la salida de los túneles de Julio Luengo de Las Palmas de Gran Canaria",
+        "lemmatized_text": "fallecer uno mujer tras ser atropellar en el salida de el túnel de [??:??/7/??:??.??:??] luengo_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "fallecer mujer ser atropellar salida túnel luengo_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Luengo_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer de 60 años ha fallecido sobre las 15.33 horas de este lunes tras ser atropellada en la carretera GC-2, en dirección norte, a la altura de los túneles de Julio Luengo, dentro del término municipal de Las Palmas de Gran Canaria, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno mujer de 60 año haber fallecer sobre el TM_h:15.33 de este [L:??/??/??:??.??:??] tras ser atropellar en el carretera GC-2 en dirección norte a el altura de el túnel de [??:??/7/??:??.??:??] luengo dentro de el término municipal de las_palmas_de_gran_canaria informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "mujer año haber fallecer ser atropellar carretera dirección norte altura túnel luengo término municipal las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Luengo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "60",
+            "TM_h:15.33",
+            "GC-2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer de 60 años ha fallecido sobre las 15.33 horas de este lunes tras ser atropellada en la carretera GC-2, en dirección norte, a la altura de los túneles de Julio Luengo, dentro del término municipal de Las Palmas de Gran Canaria, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. De esta manera, a la hora indicada varias llamadas alertado de que una mujer había sido atropellada y que precisaba atención médica. En ese momento, se trasladó al lugar una ambulancia de soporte vital básico y una ambulancia de soporte vital avanzado del Servicio de Urgencias Canario (SUC). Al llegar, los médicos comprobaron que la mujer se encontraba en parada cardiorrespiratoria y le practicaron maniobras de reanimación cardiopulmonar avanzadas sin obtener resultado, lo que confirmó su fallecimiento. Además, atendió y estabilizó a la conductora del vehículo implicado para que fuera trasladada en la ambulancia de soporte vital básico del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. Finalmente, agentes de la Policía Local reguló el tráfico en la zona e instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno mujer de 60 año haber fallecer sobre el TM_h:15.33 de este [L:??/??/??:??.??:??] tras ser atropellar en el carretera GC-2 en dirección norte a el altura de el túnel de [??:??/7/??:??.??:??] luengo dentro de el término municipal de las_palmas_de_gran_canaria informar el centro_coordinador_de_emergencias y seguridad cecoes 112 de este manera a el hora indicar varios llamada alertar de que uno mujer haber ser atropellar y que precisar atención médico en ese momento se trasladar a el lugar uno ambulancia de soporte vital básico y uno ambulancia de soporte vital avanzar de el servicio_de_urgencias_canario suc a el llegar el médico comprobar que el mujer se encontrar en parada cardiorrespiratoria y le practicar maniobra de reanimación cardiopulmonar avanzar sin obtener resultado el que confirmar su fallecimiento además atender y estabilizar a el conductor de el vehículo implicar para que ser trasladar en el ambulancia de soporte vital básico de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín finalmente agente de el policía_local regular el tráfico en el zona y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "mujer año haber fallecer ser atropellar carretera dirección norte altura túnel luengo término municipal las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes manera hora indicar llamada alertar mujer haber ser atropellar precisar atención médico momento trasladar lugar ambulancia soporte vital básico ambulancia soporte vital avanzar servicio_de_urgencias_canario suc llegar médico comprobar mujer encontrar parada cardiorrespiratoria practicar maniobra reanimación cardiopulmonar avanzar obtener resultado confirmar fallecimiento atender estabilizar conductor vehículo implicar ser trasladar ambulancia soporte vital básico suc hospital_universitario_de_gran_canaria_doctor_negrín finalmente agente policía_local regular tráfico zona instruir diligencia correspondiente",
+        "persons": [
+            "Luengo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "60",
+            "TM_h:15.33",
+            "GC-2",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935023/0/",
+    "title": {
+        "raw_text": "Una joven resulta herida en el vuelco de un turismo en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno joven resultar herir en el vuelco de uno turismo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "joven resultar herir vuelco turismo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una joven de 18 años de edad ha resultado herida con traumatismo lumbar de carácter menos grave en el vuelco de un turismo en la Calle Bravo Murillo esquina Perojo, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2.",
+        "lemmatized_text": "uno joven de 18 año de edad haber resultar herida con traumatismo lumbar de carácter menos grave en el vuelco de uno turismo en el calle_bravo_murillo esquina perojo en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "joven año edad haber resultar herida traumatismo lumbar carácter grave vuelco turismo calle_bravo_murillo esquina perojo las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Perojo"
+        ],
+        "locations": [
+            "Calle_Bravo_Murillo",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "18",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Una joven de 18 años de edad ha resultado herida con traumatismo lumbar de carácter menos grave en el vuelco de un turismo en la Calle Bravo Murillo esquina Perojo, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2. Los hechos ocurrieron a las 22.50 horas, cuando se recibió alerta en el Cecoes informando del vuelco de un turismo en la dirección mencionada. De este modo, el 1-1-2 activó de inmediato los recursos de emergencias necesarios. Efectivos de bomberos del Servicio de Extinción, Salvamento y Rescate de la capital al llegar al lugar de los hechos comprobaron que la afectada ya había salido del vehículo por sus propios medios, por lo que colaboraron con la Policía Local en la seguridad en la zona. El personal del Servicio de Urgencias Canario (SUC) se encargó de prestar la asistencia inicial de la afectada y de su posterior traslado en una ambulancia del SUC al Hospital Universitario Insular de Gran Canaria En dicha actuación intervino la Policía Local, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno joven de 18 año de edad haber resultar herida con traumatismo lumbar de carácter menos grave en el vuelco de uno turismo en el calle_bravo_murillo esquina perojo en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 el hecho ocurrir a el TM_h:22.5 cuando se recibir alerta en el cecoes informar de el vuelco de uno turismo en el dirección mencionar de este modo el 1-1-2 activar de inmediato el recurso de emergencia necesario efectivo de bombero de el servicio_de_extinción salvamento y rescate de el capital a el llegar a el lugar de el hecho comprobar que el afectado ya haber salir de el vehículo por su propio medio por el que colaborar con el policía_local en el seguridad en el zona el personal de el servicio_de_urgencias_canario suc se encargar de prestar el asistencia inicial de el afectado y de su posterior traslado en uno ambulancia de el suc a el hospital_universitario_insular_de_gran_canaria_en decir actuación intervenir el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "joven año edad haber resultar herida traumatismo lumbar carácter grave vuelco turismo calle_bravo_murillo esquina perojo las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir recibir cecoes informar vuelco turismo dirección mencionar modo activar inmediato recurso emergencia necesario efectivo bombero servicio_de_extinción salvamento rescate capital llegar lugar hecho comprobar afectado haber salir vehículo propio medio colaborar policía_local seguridad zona personal servicio_de_urgencias_canario suc encargar prestar asistencia inicial afectado posterior traslado ambulancia suc hospital_universitario_insular_de_gran_canaria_en decir actuación intervenir policía_local instruir diligencia correspondiente",
+        "persons": [
+            "Perojo",
+            "Salvamento"
+        ],
+        "locations": [
+            "Calle_Bravo_Murillo",
+            "Las_Palmas_de_Gran_Canaria",
+            "Cecoes",
+            "Rescate"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Extinción",
+            "Policía_Local",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria_En",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "18",
+            "1-1-2",
+            "TM_h:22.5",
+            "1-1-2"
+        ]
+    }
+}

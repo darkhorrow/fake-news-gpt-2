@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/695956/0/",
+    "title": {
+        "raw_text": "Canarias lidera la subida del paro en abril con un aumento del 1,72% y 4.508 nuevos desempleados",
+        "lemmatized_text": "canario liderar el subida de el paro en [??:??/4/??:??.??:??] con uno aumento de el 1,72/100 y 4.508 nuevo desempleado",
+        "lemmatized_text_reduced": "canario liderar subida paro aumento nuevo desempleado",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,72/100",
+            "4.508"
+        ]
+    },
+    "lead": {
+        "raw_text": "El paro en Canarias se situó en abril en las 266.042 personas, lo que supone un aumento del 1,72 por ciento y la incorporación de 4.508 nuevos al desempleo, según informó hoy el Ministerio de Trabajo e Inmigración, que confirmó así los datos filtrados el pasado fin de semana.",
+        "lemmatized_text": "el paro en canarias se situar en [??:??/4/??:??.??:??] en el 266.042 persona el que suponer uno aumento de el 1,72 por 100 y el incorporación de 4.508 nuevo a el desempleo según informar hoy el ministerio_de_trabajo y inmigración que confirmar así el dato filtrar el pasar fin de semana",
+        "lemmatized_text_reduced": "paro canarias situar persona suponer aumento incorporación nuevo desempleo informar ministerio_de_trabajo inmigración confirmar dato filtrar pasar fin semana",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Ministerio_de_Trabajo",
+            "Inmigración"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "266.042",
+            "1,72",
+            "100",
+            "4.508"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta forma Canarias lidera el aumento del paro entre las comunidades autónomas y sólo tienen un índice superior de aumento del desempleo las ciudades autónomas de Ceuta (+4%) y Melilla (+2,04%). En términos interanuales, el paro en las islas Canarias aumentó un 7,93 por ciento y exactamente hay 19.542 parados más en abril de 2010 que en el mismo mes del pasado ejercicio. (Habrá ampliación)",
+        "lemmatized_text": "de este forma canarias liderar el aumento de el paro entre el comunidad autónomo y sólo tener uno índice superior de aumento de el desempleo el ciudad autónomo de ceuta +4/100 y melilla +2,04/100 en término interanual el paro en el isla canarias aumentar uno 7,93 por 100 y exactamente haber 19.542 parado más en [??:??/4/2010:??.??:??] que en el mismo mes de el pasar ejercicio haber ampliación",
+        "lemmatized_text_reduced": "forma canarias liderar aumento paro comunidad autónomo tener índice superior aumento desempleo ciudad autónomo ceuta melilla término interanual paro isla canarias aumentar exactamente haber parado mismo mes pasar ejercicio haber ampliación",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Ceuta",
+            "Melilla",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/4/2010:??.??:??]"
+        ],
+        "numbers": [
+            "+4/100",
+            "+2,04/100",
+            "7,93",
+            "100",
+            "19.542"
+        ]
+    }
+}

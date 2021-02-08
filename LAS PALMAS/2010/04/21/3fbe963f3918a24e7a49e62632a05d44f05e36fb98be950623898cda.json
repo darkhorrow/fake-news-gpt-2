@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/684492/0/",
+    "title": {
+        "raw_text": "CC pide la comparecencia \"urgente\" de Blanco en el Congreso para informar del caos aéreo",
+        "lemmatized_text": "cc pedir el comparecencia urgente de blanco en el congreso para informar de el caos aéreo",
+        "lemmatized_text_reduced": "cc pedir comparecencia urgente blanco congreso informar caos aéreo",
+        "persons": [
+            "Blanco"
+        ],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "Congreso"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los diputados de Coalición Canaria (CC) en el Congreso han solicitado la comparecencia \"urgente\" del ministro de Fomento, José Blanco, en la Cámara, para que haga una valoración de la crisis y del caos aéreo generados por la erupción del volcán islandés Eyjafjalla y las acciones adoptadas por el Gobierno.",
+        "lemmatized_text": "el diputado de coalición_canaria cc en el congreso haber solicitar el comparecencia urgente de el ministro de fomento josé_blanco en el cámara para que hacer uno valoración de el crisis y de el caos aéreo generar por el erupción de el volcán islandés eyjafjalla y el acción adoptar por el gobierno",
+        "lemmatized_text_reduced": "diputado coalición_canaria cc congreso haber solicitar comparecencia urgente ministro fomento josé_blanco cámara hacer valoración crisis caos aéreo generar erupción volcán islandés eyjafjalla acción adoptar gobierno",
+        "persons": [
+            "José_Blanco"
+        ],
+        "locations": [
+            "Eyjafjalla"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Congreso",
+            "Cámara",
+            "Gobierno"
+        ],
+        "others": [
+            "Fomento"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La primera consecuencia de las anulaciones aéreas motivadas por el fenómeno natural ha sido \"un frenazo en la recuperación turística de Canarias\", señalan los nacionalistas en un comunicado, en el que apuntan que los datos a día de hoy indican que los touroperadores han cancelado prácticamente todas las reservas de paquetes turísticos con destino a las islas para la próxima semana. Desde el pasado jueves, quedaron atrapados unos 120.000 turistas, y según AENA, no han podido llegar más de 100.000 a Canarias. El sector turístico canario va a perder unos 25 millones de euros diarios, según datos del Ejecutivo autónomo.A UN 25% De ocupación Los establecimientos turísticos están a un 25 por ciento de ocupación, la mitad de la cifra registrada en abril del año pasado. Pero no sólo los complejos turísticos y las compañías aéreas están siendo afectadas. También otros sectores relacionados como los restaurantes, cafeterías y taxis, entre otros, señala CC. Así, advierte de que \"incluso un sector tan sensible y dependiente del transporte como el de la exportación de flores y plantas ha empezado a resentirse\". Según la Asociación de Cosecheros y Exportadores de Flores y Plantas Vivas de canarias (Asocan), la interrupción de los envíos a Europa ha producido hasta ahora pérdidas superiores a los 30.000 euros.",
+        "lemmatized_text": "el 1 consecuencia de el anulación aéreo motivar por el fenómeno natural haber ser uno frenazo en el recuperación turístico de canarias señalar el nacionalista en uno comunicado en el que apuntar que el dato a día de hoy indicar que el touroperadores haber cancelar prácticamente todo el reserva de paquete turístico con destino a el isla para el próximo semana desde el [J:??/??/??:??.??:??] quedar atrapar uno 120 turista y según aena no haber poder llegar más de 100 a canarias el sector turístico canario ir a perder uno $_ECU:25000000 diario según dato de el ejecutivo autónomo a uno 25/100 de ocupación los establecimiento turístico estar a uno 25 por 100 de ocupación el mitad de el cifra registrar en [??:??/4/??:??.??:??] de el año pasar pero no_sólo el complejo turístico y el compañía aéreo estar ser afectar también otro sector relacionar como el restaurante cafetería y taxi entre otro señalar cc así advertir de que incluso uno sector tan sensible y dependiente de el transporte como el de el exportación de flor y planta haber empezar a resentir se según el asociación_de_cosecheros y exportadores_de_flores y plantas_vivas de canario asocan el interrupción de el envío a europa haber producir hasta ahora pérdida superior a el $_ECU:30",
+        "lemmatized_text_reduced": "1 consecuencia anulación aéreo motivar fenómeno natural haber ser frenazo recuperación turístico canarias señalar nacionalista comunicado apuntar dato día indicar touroperadores haber cancelar prácticamente reserva paquete turístico destino isla próximo semana quedar atrapar turista aena haber poder llegar canarias sector turístico canario ir perder diario dato ejecutivo autónomo de ocupación los establecimiento turístico estar ocupación mitad cifra registrar año pasar complejo turístico compañía aéreo estar ser afectar sector relacionar restaurante cafetería taxi señalar cc advertir sector sensible dependiente transporte exportación flor planta haber empezar resentir asociación_de_cosecheros exportadores_de_flores plantas_vivas canario asocan interrupción envío europa haber producir pérdida superior",
+        "persons": [
+            "De",
+            "Plantas_Vivas"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Asocan"
+        ],
+        "organizations": [
+            "AENA",
+            "Ejecutivo",
+            "CC",
+            "Asociación_de_Cosecheros",
+            "Exportadores_de_Flores",
+            "Europa"
+        ],
+        "others": [
+            "Los"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "120",
+            "100",
+            "$_ECU:25000000",
+            "25/100",
+            "25",
+            "100",
+            "$_ECU:30"
+        ]
+    }
+}

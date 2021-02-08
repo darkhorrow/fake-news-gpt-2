@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/695460/0/",
+    "title": {
+        "raw_text": "Un mujer resulta herida al intentar saltar una verja que separaba dos casas en Lanzarote",
+        "lemmatized_text": "uno mujer resultar herir a el intentar saltar uno verja que separar 2 casa en lanzarote",
+        "lemmatized_text_reduced": "mujer resultar herir intentar saltar verja separar casa lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una mujer ha resultado herido al intentar saltar una verja con pinchos que separaba dos casas en Playa Honda, en el municipio de San Bartolomé (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno mujer haber resultar herir a el intentar saltar uno verja con pincho que separar 2 casa en playa_honda en el municipio de san_bartolomé lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "mujer haber resultar herir intentar saltar verja pincho separar casa playa_honda municipio san_bartolomé lanzarote informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Playa_Honda",
+            "San_Bartolomé",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 12.20 horas en la calle Siroco de dicho lugar, y la herida, de la que se desconoce la gravedad, fue una mujer de unos 45 años de edad, que al intentar saltar una valla que separaba dos domicilios se clavó los pinchos en un brazo. Hasta el lugar se trasladaron bomberos de la isla que finalmente tuvieron que cortar la verja, mientras que a la herida se la trasladó hasta el Hospital José Molina Orosa. Asimismo, agentes de la Policía Local también se personaron en la zona.",
+        "lemmatized_text": "el incidente se producir a el TM_h:12.2 en el calle siroco de decir lugar y el herida de el que se desconocer el gravedad ser uno mujer de uno 45 año de edad que a el intentar saltar uno valla que separar 2 domicilio se clavar el pincho en uno brazo hasta el lugar se trasladar bombero de el isla que finalmente tener que cortar el verja mientras_que a el herida se lo trasladar hasta el hospital_josé_molina_orosa asimismo agente de el policía_local también se personar en el zona",
+        "lemmatized_text_reduced": "incidente producir calle siroco decir lugar herida desconocer gravedad ser mujer año edad intentar saltar valla separar domicilio clavar pincho brazo lugar trasladar bombero isla finalmente tener cortar verja herida trasladar hospital_josé_molina_orosa agente policía_local personar zona",
+        "persons": [],
+        "locations": [
+            "Siroco"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [
+            "Hospital_José_Molina_Orosa"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.2",
+            "45",
+            "2"
+        ]
+    }
+}

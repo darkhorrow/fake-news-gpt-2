@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/439253/0/detenida/robo/vuelo/",
+    "title": {
+        "raw_text": "Detienen al llegar a Gran Canaria a un mujer que robó a otros pasajeros durante un vuelo",
+        "lemmatized_text": "detener a el llegar a gran_canaria a uno mujer que robar a otro pasajero durante uno vuelo",
+        "lemmatized_text_reduced": "detener llegar gran_canaria mujer robar pasajero vuelo",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La mujer, de nacionalidad checa, se hizo con diversos objetos personales, dinero y lotería por valor de 570 euros. Sucedió el martes en un vuelo de Air Europa proveniente de Madrid. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el mujer de nacionalidad checo se hacer con diverso objeto personal dinero y lotería por valor de $_ECU:570 suceder el [M:??/??/??:??.??:??] en uno vuelo de air_europa proveniente de madrid consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "mujer nacionalidad checo hacer objeto personal dinero lotería valor suceder vuelo air_europa proveniente madrid consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Air_Europa",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:570"
+        ]
+    },
+    "body": {
+        "raw_text": "La Guardia Civil detuvo, a su llegada al aeropuerto de Gran Canaria, a una pasajera de nacionalidad checa que viajó en un avión de Air Europa procedente de Madrid y robó a otros usuarios de la aeronave efectos valorados en 570 euros durante el vuelo. La detenida está acusada de un supuesto delito de hurto continuado y su actuación fue comunicada por el comandante del vuelo de la compañía Air Europa número UX-9172, procedente de Madrid que aterrizó a las 20.45 horas del 23 de diciembre en el aeropuerto de Gran Canaria, informó el instituto armado en un comunicado. Fue en ese momento cuando la Guardia Civil de la Sección del aeropuerto de Gran Canaria fue requerida por el Centro de Coordinación del aeródromo de la isla para que se personara al pie del avión porque se había producido algún incidente entre pasajeros . Una vez estacionada la aeronave e informados los agentes por la tripulación de que una pasajera había cometido varios hurtos a diferentes pasajeros, y tras la denuncia de éstos, se procedió a la detención de J.S. , de nacionalidad checa, quien, presuntamente, sustrajo efectos personales, dinero y lotería por un valor total de 570 euros, que fueron recuperados. Tanto las diligencias instruidas como la detenida serán puestas a disposición de la autoridad judicial. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el guardia_civil detener a su llegada a el aeropuerto de gran_canaria a uno pasajero de nacionalidad checo que viajar en uno avión de air_europa procedente de madrid y robar a otro usuario de el aeronave efecto valorar en $_ECU:570 durante el vuelo el detener estar acusar de uno suponer delito de hurto continuar y su actuación ser comunicar por el comandante de el vuelo de el compañía air_europa número UX-9172 procedente de madrid que aterrizar a el [??:23/12/??:8.00:pm] en el aeropuerto de gran_canaria informar el instituto armar en uno comunicado ser en ese momento cuando el guardia_civil_de_la_sección de el aeropuerto de gran_canaria ser requerir por el centro_de_coordinación de el aeródromo de el isla para que se personar a el pie de el avión porque se haber producir alguno incidente entre pasajero uno vez estacionar el aeronave y informar el agente por el tripulación de que uno pasajero haber cometer varios hurto a diferente pasajero y tras el denuncia de este se proceder a el detención de j.s. de nacionalidad checo quien presuntamente sustraer efecto personal dinero y lotería por uno valor total de $_ECU:570 que ser recuperar tanto el diligencia instruir como el detener ser poner a disposición de el autoridad judicial consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "guardia_civil detener llegada aeropuerto gran_canaria pasajero nacionalidad checo viajar avión air_europa procedente madrid robar usuario aeronave efecto valorar vuelo detener estar acusar suponer delito hurto continuar actuación ser comunicar comandante vuelo compañía air_europa número procedente madrid aterrizar aeropuerto gran_canaria informar instituto armar comunicado ser momento guardia_civil_de_la_sección aeropuerto gran_canaria ser requerir centro_de_coordinación aeródromo isla personar pie avión haber producir incidente pasajero vez estacionar aeronave informar agente tripulación pasajero haber cometer hurto pasajero denuncia proceder detención j.s. nacionalidad checo presuntamente sustraer efecto personal dinero lotería valor total ser recuperar diligencia instruir detener ser poner disposición autoridad judicial consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Madrid",
+            "Madrid",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Air_Europa",
+            "Air_Europa",
+            "Guardia_Civil_de_la_Sección",
+            "Centro_de_Coordinación",
+            "J.S.",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:23/12/??:8.00:pm]"
+        ],
+        "numbers": [
+            "$_ECU:570",
+            "UX-9172",
+            "$_ECU:570"
+        ]
+    }
+}

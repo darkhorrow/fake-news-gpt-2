@@ -1,0 +1,112 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922635/0/",
+    "title": {
+        "raw_text": "El precio de la gasolina en Canarias cierra 2010 con una subida del 2% y el diesel crece un 7,4%",
+        "lemmatized_text": "el precio de el gasolina en canarias cerrar 2010 con uno subida de el 2/100 y el diesel crecer uno 7,4/100",
+        "lemmatized_text_reduced": "precio gasolina canarias cerrar subida diesel crecer",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "2/100",
+            "7,4/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio de la gasolina en Canarias ha cerrado 2010 con una subida del 2,06 por ciento con respecto al mes de noviembre, según datos recogidos por Europa Press del conjunto de gasolineras de las islas.",
+        "lemmatized_text": "el precio de el gasolina en canarias haber cerrar 2010 con uno subida de el 2,06 por 100 con respecto a el [??:??/11/??:??.??:??] según dato recoger por europa_press de el conjunto de gasolinera de el isla",
+        "lemmatized_text_reduced": "precio gasolina canarias haber cerrar subida respecto dato recoger europa_press conjunto gasolinera isla",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "2010",
+            "2,06",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio de la gasolina en Canarias ha cerrado 2010 con una subida del 2,06 por ciento con respecto al mes de noviembre, según datos recogidos por Europa Press del conjunto de gasolineras de las islas. En concreto, la gasolina de 95 octanos, la más consumida, en el conjunto del archipiélago se fijó de media en 0,986 euros por litro en diciembre a diferencia de los 0,966 euros de noviembre. Por provincias, la única que experimentó un crecimiento en este carburante fue la de Las Palmas, que aumentó en un 4,16 por ciento al situarse en un euro por litro, a diferencia de los 0,960 euros por litro de noviembre, mientras que en la de Santa Cruz de Tenerife se mantuvo en los 0,973 euros. La gasolina de 98 octanos, por su parte, también se incrementó y lo hizo en el conjunto de las islas en un 4,5 por ciento, ya que fijó su precio en 1,054 euros el litro; asimismo, en las dos provincias este carburante creció en un 6,8 y 2,10 por ciento en la de Las Palmas (1,090 euros por litro) y en la de Santa Cruz de Tenerife (1,019), respectivamente. En cuanto al diesel convencional siguió la misma línea del resto de carburante, incrementando su precio en el cierre de 2010. De esta forma, experimentó un crecimiento de un 7,4 por ciento en el conjunto del archipiélago, fijando su precio en 0,876 euros el litro a diferencia de los 0,816 euros con los que cerró noviembre. Asimismo, el precio de dicho carburante también aumentó en la provincia de Las Palmas, en casi un 10 por ciento, alcanzando los 0,904 euros por litro y en la de Santa Cruz de Tenerife el crecimiento fue de un 5 por ciento (0,849 euros). Finalmente, el diesel enriquecido cerró diciembre con un crecimiento del 5,18 por ciento, alcanzando de media 0,892 euros el litro en el conjunto del archipiélago. Por provincias, en Las Palmas se fijó en los 0,895 euros (+8,22%) y 0,889 euros para Santa Cruz de Tenerife (+2,30%).",
+        "lemmatized_text": "el precio de el gasolina en canarias haber cerrar 2010 con uno subida de el 2,06 por 100 con respecto a el [??:??/11/??:??.??:??] según dato recoger por europa_press de el conjunto de gasolinera de el isla en concreto el gasolina de 95 octano el más consumir en el conjunto de el archipiélago se fijar de medio en $_ECU:986 por litro en [??:??/12/??:??.??:??] a_diferencia_de el $_ECU:966 de [??:??/11/??:??.??:??] por provincia el único que experimentar uno crecimiento en este carburante ser el de las_palmas que aumentar en uno 4,16 por 100 a el situar se en uno euro por litro a_diferencia_de el $_ECU:960 por litro de [??:??/11/??:??.??:??] mientras_que en el de santa_cruz_de_tenerife se mantener en el $_ECU:973 el gasolina de 98 octano por su parte también se incrementar y lo hacer en el conjunto de el isla en uno 4,5 por 100 ya_que fijar su precio en $_ECU:1054 el litro asimismo en el 2 provincia este carburante crecer en uno 6,8 y 2,10 por 100 en el de las_palmas $_ECU:1090 por litro y en el de santa_cruz_de_tenerife 1019 respectivamente en cuanto a el diesel convencional seguir el mismo línea de el resto de carburante incrementar su precio en el cierre de 2010 de este forma experimentar uno crecimiento de uno 7,4 por 100 en el conjunto de el archipiélago fijar su precio en $_ECU:876 el litro a_diferencia_de el $_ECU:816 con el que cerrar [??:??/11/??:??.??:??] asimismo el precio de decir carburante también aumentar en el provincia de las_palmas en casi uno 10 por 100 alcanzar el $_ECU:904 por litro y en el de santa_cruz_de_tenerife el crecimiento ser de uno 5 por 100 $_ECU:849 finalmente el diesel enriquecer cerrar [??:??/12/??:??.??:??] con uno crecimiento de el 5,18 por 100 alcanzar de medio $_ECU:892 el litro en el conjunto de el archipiélago por provincia en las_palmas se fijar en el $_ECU:895 +8,22/100 y $_ECU:889 para santa_cruz_de_tenerife +2,30/100",
+        "lemmatized_text_reduced": "precio gasolina canarias haber cerrar subida respecto dato recoger europa_press conjunto gasolinera isla concreto gasolina octano consumir conjunto archipiélago fijar medio litro provincia único experimentar crecimiento carburante ser las_palmas aumentar situar euro litro litro santa_cruz_de_tenerife mantener gasolina octano parte incrementar hacer conjunto isla fijar precio litro provincia carburante crecer las_palmas litro santa_cruz_de_tenerife respectivamente diesel convencional seguir mismo línea resto carburante incrementar precio cierre forma experimentar crecimiento conjunto archipiélago fijar precio litro cerrar precio decir carburante aumentar provincia las_palmas alcanzar litro santa_cruz_de_tenerife crecimiento ser finalmente diesel enriquecer cerrar crecimiento alcanzar medio litro conjunto archipiélago provincia las_palmas fijar santa_cruz_de_tenerife",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/11/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/11/??:??.??:??]",
+            "[??:??/11/??:??.??:??]",
+            "[??:??/11/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "2010",
+            "2,06",
+            "100",
+            "95",
+            "$_ECU:986",
+            "$_ECU:966",
+            "4,16",
+            "100",
+            "$_ECU:960",
+            "$_ECU:973",
+            "98",
+            "4,5",
+            "100",
+            "$_ECU:1054",
+            "2",
+            "6,8",
+            "2,10",
+            "100",
+            "$_ECU:1090",
+            "1019",
+            "2010",
+            "7,4",
+            "100",
+            "$_ECU:876",
+            "$_ECU:816",
+            "10",
+            "100",
+            "$_ECU:904",
+            "5",
+            "100",
+            "$_ECU:849",
+            "5,18",
+            "100",
+            "$_ECU:892",
+            "$_ECU:895",
+            "+8,22/100",
+            "$_ECU:889",
+            "+2,30/100"
+        ]
+    }
+}

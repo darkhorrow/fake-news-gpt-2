@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/700751/0/",
+    "title": {
+        "raw_text": "El incendio de un vehículo en la GC-3 produce importantes retenciones en dirección sur",
+        "lemmatized_text": "el incendio de uno vehículo en el GC-3 producir importante retención en dirección sur",
+        "lemmatized_text_reduced": "incendio vehículo producir importante retención dirección sur",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-3"
+        ]
+    },
+    "lead": {
+        "raw_text": "El incendio de un vehículo en la carretera Gran Canaria 3 (GC-3) a la altura de la zona de Pedro Hidalgo, ha producido importantes retenciones en dirección sur, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112, quien precisó que el incidente no ha producido heridos.",
+        "lemmatized_text": "el incendio de uno vehículo en el carretera gran_canaria 3 GC-3 a el altura de el zona de pedro_hidalgo haber producir importante retención en dirección sur según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112 quien precisar que el incidente no haber producir herido",
+        "lemmatized_text_reduced": "incendio vehículo carretera gran_canaria altura zona pedro_hidalgo haber producir importante retención dirección sur informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes precisar incidente haber producir herido",
+        "persons": [
+            "Pedro_Hidalgo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "GC-3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, se recibió una llamada sobre las 10.34 horas indicando que un coche había comenzado a arder. En ese momento, el 112 activó el dispositivo de urgencia habitual en estos casos y trasladó al lugar al servicio de bomberos de Las Palmas de Gran Canaria, quien se ha encargado de sofocar el fuego. Por su parte, el incendio del vehículo ha producido importantes retenciones en la GC-3 en dirección sur.",
+        "lemmatized_text": "de este manera se recibir uno llamada sobre el TM_h:10.34 indicar que uno coche haber comenzar a arder en ese momento el 112 activar el dispositivo de urgencia habitual en este caso y trasladar a el lugar a el servicio de bombero de las_palmas_de_gran_canaria quien se haber encargar de sofocar el fuego por su parte el incendio de el vehículo haber producir importante retención en el GC-3 en dirección sur",
+        "lemmatized_text_reduced": "manera recibir llamada indicar coche haber comenzar arder momento activar dispositivo urgencia habitual caso trasladar lugar servicio bombero las_palmas_de_gran_canaria haber encargar sofocar fuego parte incendio vehículo haber producir importante retención dirección sur",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10.34",
+            "112",
+            "GC-3"
+        ]
+    }
+}

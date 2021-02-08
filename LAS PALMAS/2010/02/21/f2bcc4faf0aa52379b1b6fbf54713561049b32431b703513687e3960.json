@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634535/0/",
+    "title": {
+        "raw_text": "Los bomberos extinguen un incendio en un asadero de pollos en Las Palmas de Gran Canaria sin heridos",
+        "lemmatized_text": "el bombero extinguir uno incendio en uno asadero de pollo en las_palmas_de_gran_canaria sin herido",
+        "lemmatized_text_reduced": "bombero extinguir incendio asadero pollo las_palmas_de_gran_canaria herido",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Efectivos de bomberos del Ayuntamiento de Las Palmas de Gran Canaria han extinguido un incendio originado en un asadero de pollos ubicado en la calle Tomás Morales, número 47, esquina con la calle Aguadulce, según informaron a Europa Press fuentes de los bomberos, que indicaron que no ha habido daños personales, aunque sí materiales.",
+        "lemmatized_text": "efectivo de bombero de el ayuntamiento_de_las_palmas_de_gran_canaria haber extinguir uno incendio originar en uno asadero de pollo ubicar en el calle tomás_morales número 47 esquina con el calle aguadulce según informar a europa_press fuente de el bombero que indicar que no haber haber daño personal aunque sí material",
+        "lemmatized_text_reduced": "efectivo bombero ayuntamiento_de_las_palmas_de_gran_canaria haber extinguir incendio originar asadero pollo ubicar calle tomás_morales número esquina calle aguadulce informar europa_press fuente bombero indicar haber haber daño personal material",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Tomás_Morales",
+            "Aguadulce"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "47"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 13.42 horas, cuando varias llamadas alertaron a los bomberos de la gran humareda en el citado lugar, por lo que se desplazaron hasta el siniestro tres unidades de bomberos de Miller Bajo. A su llegada al popular establecimiento denominado Las Brasas, se procedió a evacuar el edificio como medida preventiva. El fuego se originó en la campana extractora, donde \"la llama fue quemando toda la grasa acumulada en la canalización hasta la azotea del edificio\", explicaron las mismas fuentes, que advirtieron de que, como consecuencia del incendio, \"hubo mucha generación de humo\". En dicha actuación también participó la Policía Local, que se encargó de instruir las correspondientes diligencias y colaborar con los recursos de emergencias.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:13.42 cuando varios llamada alertar a el bombero de el gran humareda en el citar lugar por el que se desplazar hasta el siniestro 3 unidad de bombero de miller_bajo a su llegada a el popular establecimiento denominar las_brasas se proceder a evacuar el edificio como medida preventivo el fuego se originar en el campana extractor donde el llama ser quemar todo el grasa acumular en el canalización hasta el azotea de el edificio explicar el mismo fuente que advertir de que como consecuencia de el incendio haber mucho generación de humo en decir actuación también participar el policía_local que se encargar de instruir el correspondiente diligencia y colaborar con el recurso de emergencia",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar bombero gran humareda citar lugar desplazar siniestro unidad bombero miller_bajo llegada popular establecimiento denominar las_brasas proceder evacuar edificio medida preventivo fuego originar campana extractor llama ser quemar grasa acumular canalización azotea edificio explicar mismo fuente advertir consecuencia incendio haber generación humo decir actuación participar policía_local encargar instruir correspondiente diligencia colaborar recurso emergencia",
+        "persons": [
+            "Miller_Bajo",
+            "Las_Brasas"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:13.42",
+            "3"
+        ]
+    }
+}

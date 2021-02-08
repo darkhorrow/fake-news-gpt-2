@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/610260/0/",
+    "title": {
+        "raw_text": "Pyrenair lanza una oferta para celebrar San Valentín en el pirineo aragonés y con conexiones desde Canarias",
+        "lemmatized_text": "pyrenair lanzar uno oferta para celebrar san_valentín en el pirineo aragonés y con conexión desde canarias",
+        "lemmatized_text_reduced": "pyrenair lanzar oferta celebrar san_valentín pirineo aragonés conexión canarias",
+        "persons": [
+            "Pyrenair"
+        ],
+        "locations": [
+            "San_Valentín",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Pyrenair ha lanzado un paquete especial para celebrar San Valentín en el pirineo aragonés, con conexiones desde las islas de Tenerife y Gran Canaria, vía Madrid, hasta llegar al destino, Huesca.",
+        "lemmatized_text": "pyrenair haber lanzar uno paquete especial para celebrar san_valentín en el pirineo aragonés con conexión desde el isla de tenerife y gran_canaria vía madrid hasta llegar a el destino huesca",
+        "lemmatized_text_reduced": "pyrenair haber lanzar paquete especial celebrar san_valentín pirineo aragonés conexión isla tenerife gran_canaria vía madrid llegar destino huesca",
+        "persons": [
+            "Pyrenair"
+        ],
+        "locations": [
+            "San_Valentín",
+            "Tenerife",
+            "Gran_Canaria",
+            "Madrid",
+            "Huesca"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El pirineo aragonés ubica las estaciones de esquí de Astún, Candanchú, Panticosa y Formigal. Así, este paquete especial de Pyrenair para San Valentín incluye las conexiones desde Tenerife y Gran Canaria hasta Huesca, además coche de alquiler y estancia de dos noches en alojamiento con desayunos y cenas incluidos, así como una sesión completa de spa. Esta oferta turística, según informó Pyrenair en nota de prensa, es de un fin de semana, con entrada el viernes, 12 de febrero, y salida el domingo, 14 de febrero. En cuanto al coste es de 282 euros por persona e incluye vuelos de ida y vuelta Madrid-Huesca, coche de alquiler, alojamiento en régimen de media pensión, cena especial de San Valentín y recorrido termal. Los canarios, \"gracias al código compartido de Iberia y Pyrenair, pueden disfrutar de sus descuentos como residentes a la hora de reservar su vuelo a Madrid, donde se hace la conexión sin tener que volver a facturar el equipaje\".",
+        "lemmatized_text": "el pirineo aragonés ubicar el estación de esquí de astún candanchú panticosa y formigal así este paquete especial de pyrenair_para_san_valentín incluir el conexión desde tenerife y gran_canaria hasta huesca además coche de alquiler y estancia de 2 noche en alojamiento con desayuno y cena incluir así_como uno sesión completo de spa este oferta turístico según informar pyrenair en nota de prensa ser de uno fin de semana con entrada el [V:12/2/??:??.??:??] y salida el [G:14/2/??:??.??:??] en cuanto a el coste ser de $_ECU:282 por persona y incluir vuelo de_ida_y_vuelta madrid-huesca coche de alquiler alojamiento en régimen de medio pensión cena especial de san_valentín y recorrido termal el canario gracia a el código compartir de iberia y pyrenair poder disfrutar de su descuento como residente a el hora de reservar su vuelo a madrid donde se hacer el conexión sin tener que volver a facturar el equipaje",
+        "lemmatized_text_reduced": "pirineo aragonés ubicar estación esquí astún candanchú panticosa formigal paquete especial pyrenair_para_san_valentín incluir conexión tenerife gran_canaria huesca coche alquiler estancia noche alojamiento desayuno cena incluir sesión completo spa oferta turístico informar pyrenair nota prensa ser fin semana entrada salida coste ser persona incluir vuelo madrid-huesca coche alquiler alojamiento régimen medio pensión cena especial san_valentín recorrido termal canario gracia código compartir iberia pyrenair poder disfrutar descuento residente hora reservar vuelo madrid hacer conexión tener volver facturar equipaje",
+        "persons": [
+            "Candanchú",
+            "Pyrenair",
+            "Pyrenair"
+        ],
+        "locations": [
+            "Astún",
+            "Formigal",
+            "Pyrenair_para_San_Valentín",
+            "Huesca",
+            "San_Valentín",
+            "Madrid"
+        ],
+        "organizations": [
+            "Panticosa",
+            "Tenerife",
+            "Gran_Canaria",
+            "Iberia"
+        ],
+        "others": [
+            "Madrid-Huesca"
+        ],
+        "dates": [
+            "[V:12/2/??:??.??:??]",
+            "[G:14/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "$_ECU:282"
+        ]
+    }
+}

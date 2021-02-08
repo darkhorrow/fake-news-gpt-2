@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620445/0/",
+    "title": {
+        "raw_text": "Fallece uno de los dos trabajadores heridos en el desplome de una obra en Las Palmas de Gran Canaria",
+        "lemmatized_text": "fallecer uno de el 2 trabajador herir en el desplome de uno obra en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "fallecer trabajador herir desplome obra las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Uno de los dos trabajadores que resultó herido hoy en el desplome de la estructura de una obra en Las Palmas de Gran Canaria ha fallecido, mientras que el otro obrero se encuentra en estado grave, según informaron a Europa Press fuentes del Hospital Universitario Insular de Gran Canaria.",
+        "lemmatized_text": "uno de el 2 trabajador que resultar herir hoy en el desplome de el estructura de uno obra en las_palmas_de_gran_canaria haber fallecer mientras_que el otro obrero se encontrar en estado grave según informar a europa_press fuente de el hospital_universitario_insular_de_gran_canaria",
+        "lemmatized_text_reduced": "trabajador resultar herir desplome estructura obra las_palmas_de_gran_canaria haber fallecer obrero encontrar estado grave informar europa_press fuente hospital_universitario_insular_de_gran_canaria",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Hospital_Universitario_Insular_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron sobre las 10.45 horas, momento en que el Centro Coordinador de Emergencias y Seguridad 112 recibió la alerta de la Policía Local de que dos trabajadores se habían caído mientras realizaban las labores de construcción de un edificio anexo a la Facultad de Ciencias de la Salud de la Universidad de Las Palmas de Gran Canaria (ULPGC), en el campus de San Cristóbal y necesitaban asistencia médica. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Al llegar al lugar, personal del Servicio de Urgencias Canario atendió a los dos heridos, que fueron trasladados al Hospital Insular de Gran Canaria. Se trata de dos obreros que trabajaban en una estructura que se desplomó y de la que cayeron cuando ambos estaban a la altura de unos cinco pisos, según informaron a Europa Press fuentes del Ayuntamiento de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el hecho se producir sobre el TM_h:10.45 momento en que el centro_coordinador_de_emergencias y seguridad 112 recibir el alerta de el policía_local de que 2 trabajador se haber caer mientras realizar el labor de construcción de uno edificio anexo a el facultad_de_ciencias_de_la_salud_de_la_universidad_de_las_palmas_de_gran_canaria ulpgc en el campus de san_cristóbal y necesitar asistencia médico de este modo el 112 activar de inmediato el dispositivo de emergencia necesario a el llegar a el lugar personal de el servicio_de_urgencias_canario atender a el 2 herido que ser trasladar a el hospital_insular_de_gran_canaria se tratar de 2 obrero que trabajar en uno estructura que se desplomar y de el que caer cuando ambos estar a el altura de uno 5 piso según informar a europa_press fuente de el ayuntamiento_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hecho producir momento centro_coordinador_de_emergencias seguridad recibir alerta policía_local trabajador haber caer realizar labor construcción edificio anexo facultad_de_ciencias_de_la_salud_de_la_universidad_de_las_palmas_de_gran_canaria ulpgc campus san_cristóbal necesitar asistencia médico modo activar inmediato dispositivo emergencia necesario llegar lugar personal servicio_de_urgencias_canario atender herido ser trasladar hospital_insular_de_gran_canaria tratar obrero trabajar estructura desplomar caer estar altura piso informar europa_press fuente ayuntamiento_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "San_Cristóbal"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Policía_Local",
+            "Facultad_de_Ciencias_de_la_Salud_de_la_Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC",
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Insular_de_Gran_Canaria",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:10.45",
+            "112",
+            "2",
+            "112",
+            "2",
+            "2",
+            "5"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/730959/0/",
+    "title": {
+        "raw_text": "El 30% de los trabajadores de la Universidad de Las Palmas de Gran Canaria secunda la huelga",
+        "lemmatized_text": "el 30/100 de el trabajador de el universidad_de_las_palmas_de_gran_canaria secundar el huelga",
+        "lemmatized_text_reduced": "trabajador universidad_de_las_palmas_de_gran_canaria secundar huelga",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El 30 por ciento de los trabajadores de la Universidad de Las Palmas de Gran Canaria han secundado la huelga convocada por los sindicatos contra la reducción del Gobierno a los funcionarios, según informó hoy la Institución universitaria en un comunicado.",
+        "lemmatized_text": "el 30 por 100 de el trabajador de el universidad_de_las_palmas_de_gran_canaria haber secundar el huelga convocar por el sindicato contra el reducción de el gobierno a el funcionario según informar hoy el institución universitario en uno comunicado",
+        "lemmatized_text_reduced": "trabajador universidad_de_las_palmas_de_gran_canaria haber secundar huelga convocar sindicato reducción gobierno funcionario informar institución universitario comunicado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "Gobierno",
+            "Institución"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "\"De acuerdo con los datos recabados por la Gerencia de la Universidad de Las Palmas de Gran Canaria, correspondientes a las primeras horas de la mañana de hoy martes 8 de junio de 2010, el seguimiento de la huelga convocada para los trabajadores públicos puede cifrarse en un 30 por ciento, tanto del Personal Docente e Investigador como del Personal de Administración y Servicios\", explicó la ULPGC. Por su parte, ULPGC y representantes del comité de huelga habían llegado al acuerdo de fijar como servicios mínimos los profesores de los exámenes oficiales convocados para el día de hoy, un trabajador de Consejería por edificio y turno y otros trabajadores que aseguraran los servicios imprescindibles en cartería, reprografía, granja y animalario, registro, servicio de informática y servicio de alumnos. Finalmente, desde la Universidad se informó de que en esta jornada no se han registrado incidentes y los servicios han funcionado con normalidad.",
+        "lemmatized_text": "de_acuerdo_con el dato recabar por el gerencia_de_la_universidad_de_las_palmas_de_gran_canaria correspondiente a el 1 hora de el mañana de hoy [M:8/6/2010:??.??:??] el seguimiento de el huelga convocar para el trabajador público poder cifrar se en uno 30 por 100 tanto de el personal_docente y investigador como de el personal_de_administración y servicios explicar el ulpgc por su parte ulpgc y representante de el comité de huelga haber llegar a el acuerdo de fijar como servicio mínimo el profesor de el examen oficial convocar para el día de hoy uno trabajador de consejería por edificio y turno y otro trabajador que asegurar el servicio imprescindible en cartería reprografía granja y animalario registro servicio de informática y servicio de alumno finalmente desde el universidad se informar de que en este jornada no se haber registrar incidente y el servicio haber funcionar con normalidad",
+        "lemmatized_text_reduced": "dato recabar gerencia_de_la_universidad_de_las_palmas_de_gran_canaria correspondiente 1 hora mañana seguimiento huelga convocar trabajador público poder cifrar personal_docente investigador personal_de_administración servicios explicar ulpgc parte ulpgc representante comité huelga haber llegar acuerdo fijar servicio mínimo profesor examen oficial convocar día trabajador consejería edificio turno trabajador asegurar servicio imprescindible cartería reprografía granja animalario registro servicio informática servicio alumno finalmente universidad informar jornada haber registrar incidente servicio haber funcionar normalidad",
+        "persons": [
+            "Investigador"
+        ],
+        "locations": [
+            "Personal_Docente"
+        ],
+        "organizations": [
+            "Gerencia_de_la_Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "Personal_de_Administración",
+            "Servicios",
+            "ULPGC",
+            "ULPGC",
+            "Consejería",
+            "Universidad"
+        ],
+        "others": [],
+        "dates": [
+            "[M:8/6/2010:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "100"
+        ]
+    }
+}

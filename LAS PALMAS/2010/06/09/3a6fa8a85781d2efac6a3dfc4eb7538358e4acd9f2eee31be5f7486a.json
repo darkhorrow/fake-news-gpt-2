@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/731606/0/",
+    "title": {
+        "raw_text": "Teresa Cruz presenta junto a otros periodistas las XXIII Jornadas Gastronómicas 'Aprenda con los Maestros' en Madrid",
+        "lemmatized_text": "teresa_cruz presentar junto_a otro periodista el xxiii_jornadas_gastronómicas aprender con el maestros en madrid",
+        "lemmatized_text_reduced": "teresa_cruz presentar periodista xxiii_jornadas_gastronómicas aprender maestros madrid",
+        "persons": [
+            "Teresa_Cruz"
+        ],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "XXIII_Jornadas_Gastronómicas",
+            "Maestros"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La periodista Teresa Cruz presenta hoy una de las jornadas de las XXIII Jornadas Gastronómicas 'Aprenda con los Maestros', que se celebran desde el lunes y hasta mañana en Madrid, dentro del Restaurante Pedro Larumbe y patrocinadas por Bodegas Miguel Torres y el diario Abc.",
+        "lemmatized_text": "el periodista teresa_cruz presentar hoy uno de el jornada de el xxiii_jornadas_gastronómicas aprender con el maestros que se celebrar desde el [L:??/??/??:??.??:??] y hasta mañana en madrid dentro de el restaurante_pedro_larumbe y patrocinar por bodegas_miguel_torres y el diario abc",
+        "lemmatized_text_reduced": "periodista teresa_cruz presentar jornada xxiii_jornadas_gastronómicas aprender maestros celebrar mañana madrid restaurante_pedro_larumbe patrocinar bodegas_miguel_torres diario abc",
+        "persons": [
+            "Teresa_Cruz",
+            "Bodegas_Miguel_Torres"
+        ],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "XXIII_Jornadas_Gastronómicas",
+            "Maestros",
+            "Restaurante_Pedro_Larumbe",
+            "Abc"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En esta nueva edición, cinco representativos 'chefs' españoles, presentarán y elaborarán sus recetas, de forma didáctica, a la vista de los asistentes, explicando sus secretos y desarrollando un curso práctico de cocina que puede considerarse único y excepcional. El cocinero José Antonio Luengo García fue presentado el lunes por Ramón Francás, de La Vanguardia; Álvaro Garrido lo fue ayer por Carlos Maribona, de Abc; hoy José Torjano será introducido por Teresa Cruz, directora de informativos de Canarias Radio La Autonómica; y mañana concluirán las jornadas con el chef Richard Alcayde presentado por Gaspar Rey, de Cocina Futuro, y Jesús Almagro por Antonio Ivorra, de la revista GQ. El menú que presenta hoy Torjano consiste en mil hojas de tomate y queso, aceite de albahaca y sorbete de mojo picón, gazpacho de tunos con manzana, huevas de trucha y helado de pimiento rojo y anchoas con aceitunas, tomate y aguacate.",
+        "lemmatized_text": "en este nuevo edición 5 representativo chefs español presentar y elaborar su receta de forma didáctico a el vista de el asistente explicar su secreto y desarrollar uno curso práctico de cocina que poder considerar se único y excepcional el cocinero josé_antonio_luengo_garcía ser presentar el [L:??/??/??:??.??:??] por ramón_francás de la_vanguardia álvaro_garrido lo ser ayer por carlos_maribona de abc hoy josé_torjano ser introducir por teresa_cruz director de informativo de canarias_radio_la_autonómica y mañana concluir el jornada con el chef richard_alcayde presentar por gaspar_rey de cocina_futuro y jesús_almagro_por_antonio_ivorra de el revista gq el menú que presentar hoy torjano consistir en 1000 hoja de tomate y queso aceite de albahaca y sorbete de mojo picón gazpacho de tuno con manzana hueva de trucha y helado de pimiento rojo y anchoa con aceituna tomate y aguacate",
+        "lemmatized_text_reduced": "nuevo edición representativo chefs español presentar elaborar receta forma didáctico vista asistente explicar secreto desarrollar curso práctico cocina poder considerar único excepcional cocinero josé_antonio_luengo_garcía ser presentar ramón_francás la_vanguardia álvaro_garrido ser carlos_maribona abc josé_torjano ser introducir teresa_cruz director informativo canarias_radio_la_autonómica concluir jornada chef richard_alcayde presentar gaspar_rey cocina_futuro jesús_almagro_por_antonio_ivorra revista gq menú presentar torjano consistir hoja tomate queso aceite albahaca sorbete mojo picón gazpacho tuno manzana hueva trucha helado pimiento rojo anchoa aceituna tomate aguacate",
+        "persons": [
+            "José_Antonio_Luengo_García",
+            "Ramón_Francás",
+            "Álvaro_Garrido",
+            "Carlos_Maribona",
+            "José_Torjano",
+            "Teresa_Cruz",
+            "Richard_Alcayde",
+            "Gaspar_Rey",
+            "Torjano"
+        ],
+        "locations": [],
+        "organizations": [
+            "Abc",
+            "Canarias_Radio_La_Autonómica",
+            "Cocina_Futuro",
+            "GQ"
+        ],
+        "others": [
+            "La_Vanguardia",
+            "Jesús_Almagro_por_Antonio_Ivorra"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "1000"
+        ]
+    }
+}

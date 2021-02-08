@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/366713/0/inmigrantes/gomera/lanzarote/",
+    "title": {
+        "raw_text": "Llegan 56 inmigrantes en cayuco a La Gomera y 29 a Lanzarote en patera",
+        "lemmatized_text": "llegar 56 inmigrante en cayuco a la_gomera y 29 a lanzarote en patera",
+        "lemmatized_text_reduced": "llegar inmigrante cayuco la_gomera lanzarote patera",
+        "persons": [],
+        "locations": [
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "56",
+            "29"
+        ]
+    },
+    "lead": {
+        "raw_text": "Del grupo que llegó a la primera isla, al menos diez parecen menores. Fueron atendidos por los servicios médicos. Todos en buen estado de salud. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA Y DE SANTA CRUZ DE TENERIFE .",
+        "lemmatized_text": "de el grupo que llegar a el 1 isla a el menos 10 parecer menor ser atender por el servicio médico todo en bueno estado de salud consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_y_de_santa_cruz_de_tenerife",
+        "lemmatized_text_reduced": "grupo llegar 1 isla parecer menor ser atender servicio médico bueno estado salud consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_y_de_santa_cruz_de_tenerife",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA_Y_DE_SANTA_CRUZ_DE_TENERIFE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "Los inmigrantes llegados hoy por sus propios medios en un cayuco a La Gomera son 56, entre ellos diez posibles menores , informaron fuentes de la Delegación del Gobierno en Canarias. El cayuco llegó a Playa Santiago hacia las 18.40 horas, y allí sus ocupantes fueron atendidos por los servicios médicos y por dos patrullas de la Guardia Civi l. Se produjo el traslado de uno de los inmigrantes a un centro sanitario, aunque en principio no se trata de nada grave , indicaron las fuentes. Ésta es la segunda embarcación con inmigrantes que llega hoy a Canarias, ya que por la mañana arribaron 29 personas a Lanzarote en una patera. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA Y DE SANTA CRUZ DE TENERIFE .",
+        "lemmatized_text": "el inmigrante llegar hoy por su propio medio en uno cayuco a la_gomera ser 56 entre ellos 10 posible menor informar fuente de el delegación_del_gobierno en canarias el cayuco llegar a playa_santiago hacia el TM_h:18.4 y allí su ocupante ser atender por el servicio médico y por 2 patrulla de el guardia_civi l se producir el traslado de uno de el inmigrante a uno centro sanitario aunque en principio no se tratar de nada grave indicar el fuente este ser el 2 embarcación con inmigrante que llegar hoy a canarias ya_que por el mañana arribar 29 persona a lanzarote en uno patera consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_y_de_santa_cruz_de_tenerife",
+        "lemmatized_text_reduced": "inmigrante llegar propio medio cayuco la_gomera ser posible menor informar fuente delegación_del_gobierno canarias cayuco llegar playa_santiago ocupante ser atender servicio médico patrulla guardia_civi l producir traslado inmigrante centro sanitario principio tratar grave indicar fuente ser 2 embarcación inmigrante llegar canarias mañana arribar persona lanzarote patera consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_y_de_santa_cruz_de_tenerife",
+        "persons": [
+            "Playa_Santiago"
+        ],
+        "locations": [
+            "La_Gomera",
+            "Canarias",
+            "Canarias",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Delegación_del_Gobierno",
+            "Guardia_Civi",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA_Y_DE_SANTA_CRUZ_DE_TENERIFE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "56",
+            "10",
+            "TM_h:18.4",
+            "2",
+            "29"
+        ]
+    }
+}

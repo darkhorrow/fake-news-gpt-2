@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/343322/0/muere/hombre/ahogado/",
+    "title": {
+        "raw_text": "Muere ahogado un hombre de 40 años en la playa de Puerto Rico (Gran Canaria)",
+        "lemmatized_text": "morir ahogar uno hombre de 40 año en el playa de puerto_rico gran_canaria",
+        "lemmatized_text_reduced": "morir ahogar hombre año playa puerto_rico gran_canaria",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "40"
+        ]
+    },
+    "lead": {
+        "raw_text": "Al parecer es de nacionalidad extranjera. La víctima fue rescatada del mar por una patrullera de la Guardia Civil. Otro hombre, de 32 años, fue rescatado con vida.",
+        "lemmatized_text": "a el parecer ser de nacionalidad extranjero el víctima ser rescatar de el mar por uno patrullera de el guardia_civil otro hombre de 32 año ser rescatar con vida",
+        "lemmatized_text_reduced": "parecer ser nacionalidad extranjero víctima ser rescatar mar patrullera guardia_civil hombre año ser rescatar vida",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "32"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre de 40 años , al parecer de nacionalidad extranjera, murió ahogado esta tarde en la playa de Puerto Rico, en el municipio grancanario de Mogán, informó Emergencias 112. La víctima fue rescatada del mar por una patrullera de la Guardia Civil, si bien se encontraba ya inconsciente y en tierra los sanitarios del Servicio de Urgencias Canario (SUC) certificaron su muerte. El suceso ocurrió sobre las 17.06 horas cuando el 112 fue alertado por varios testigos de que había dos hombres en apuros en el agua en las inmediaciones de la Playa de Puerto Rico. Otro rescatado Una embarcación de la Guardia Civil rescató a uno de ellos, que se encontraba inconsciente, y lo llevó hasta tierra, mientras que el otro había llegado hasta la orilla en una embarcación particular que se encontraba por el lugar. A su llegada al lugar, el personal médico del SUC comprobó que uno de los afectados se encontraba en parada cardiorrespiratoria y le practicó maniobras de reanimación, pero murió. El otro rescatado, un hombre de 32 años, fue trasladado al centro de salud de Arguineguín con policontusiones de carácter leve.",
+        "lemmatized_text": "uno hombre de 40 año a el parecer de nacionalidad extranjero morir ahogar este tarde en el playa de puerto_rico en el municipio grancanario de mogán informar emergencias 112 el víctima ser rescatar de el mar por uno patrullera de el guardia_civil si bien se encontrar ya inconsciente y en tierra el sanitario de el servicio_de_urgencias_canario suc certificar su muerte el suceso ocurrir sobre el TM_h:17.06 cuando el 112 ser alertar por varios testigo de que haber 2 hombre en apuro en el agua en el inmediación de el playa_de_puerto_rico otro rescatar uno embarcación de el guardia_civil rescatar a uno de ellos que se encontrar inconsciente y lo llevar hasta tierra mientras_que el otro haber llegar hasta el orilla en uno embarcación particular que se encontrar por el lugar a su llegada a el lugar el personal médico de el suc comprobar que uno de el afectado se encontrar en parada cardiorrespiratoria y le practicar maniobra de reanimación pero morir el otro rescatar uno hombre de 32 año ser trasladar a el centro de salud de arguineguín con policontusión de carácter leve",
+        "lemmatized_text_reduced": "hombre año parecer nacionalidad extranjero morir ahogar tarde playa puerto_rico municipio grancanario mogán informar emergencias víctima ser rescatar mar patrullera guardia_civil encontrar inconsciente tierra sanitario servicio_de_urgencias_canario suc certificar muerte suceso ocurrir ser alertar testigo haber hombre apuro agua inmediación playa_de_puerto_rico rescatar embarcación guardia_civil rescatar encontrar inconsciente llevar tierra haber llegar orilla embarcación particular encontrar lugar llegada lugar personal médico suc comprobar afectado encontrar parada cardiorrespiratoria practicar maniobra reanimación morir rescatar hombre año ser trasladar centro salud arguineguín policontusión carácter leve",
+        "persons": [
+            "Emergencias"
+        ],
+        "locations": [
+            "Puerto_Rico",
+            "Mogán",
+            "Playa_de_Puerto_Rico",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil",
+            "SUC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "40",
+            "112",
+            "TM_h:17.06",
+            "112",
+            "2",
+            "32"
+        ]
+    }
+}

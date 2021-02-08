@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/701004/0/",
+    "title": {
+        "raw_text": "Evacuado en helicóptero un senderista tras sufrir una caída en el Risco de Faneque (Gran Canaria)",
+        "lemmatized_text": "evacuar en helicóptero uno senderista tras sufrir uno caída en el risco_de_faneque gran_canaria",
+        "lemmatized_text_reduced": "evacuar helicóptero senderista sufrir caída risco_de_faneque gran_canaria",
+        "persons": [],
+        "locations": [
+            "Risco_de_Faneque"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un senderista de 31 años ha resultado herido con traumatismo menos grave en miembro inferior tras sufrir una caída en el Risco de Faneque, dentro de la Ruta de Tamadaba, en Agaete (Gran Canaria), por lo que tuvo que ser evacuado en helicóptero al Hospital Universitario de Gran Canaria Doctor Negrín, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno senderista de 31 año haber resultar herir con traumatismo menos grave en miembro inferior tras sufrir uno caída en el risco_de_faneque dentro_de el ruta_de_tamadaba en agaete gran_canaria por el que tener que ser evacuar en helicóptero a el hospital_universitario_de_gran_canaria_doctor_negrín según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "senderista año haber resultar herir traumatismo grave miembro inferior sufrir caída risco_de_faneque ruta_de_tamadaba agaete gran_canaria tener ser evacuar helicóptero hospital_universitario_de_gran_canaria_doctor_negrín informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Risco_de_Faneque",
+            "Agaete",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Ruta_de_Tamadaba",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "31",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Sobre las 13.49 horas se recibió una llamada indicando que una persona había sufrido una caída mientras hacía senderismo y que precisaba de atención médica. En ese momento, el 112 activó su dispositivo de urgencias y movilizó una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC) y el helicóptero de rescate del Grupo de Emergencias y Salvamento (GES). Por su parte, dado que el lugar del incidente era de difícil acceso —a 2 horas y media de camino a pie— el helicóptero del GES evacuó al afectado hasta el centro hospitalario, donde personal sanitario del SUC esperaba su llegada y lo trasladó en la ambulancia hasta el interior del hospital. Finalmente, agentes de la Guardia Civil y Policía Local fueron informadas convenientemente y elaboraron los informes oportunos.",
+        "lemmatized_text": "sobre el TM_h:13.49 se recibir uno llamada indicar que uno persona haber sufrir uno caída mientras hacer senderismo y que precisar de atención médico en ese momento el 112 activar su dispositivo de urgencia y movilizar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc y el helicóptero de rescate de el grupo_de_emergencias y salvamento ges por su parte dado_que el lugar de el incidente ser de difícil acceso a [??:??/??/??:2.30:??] de camino a pie el helicóptero de el ges evacuar a el afectar hasta el centro hospitalario donde personal sanitario de el suc esperar su llegada y lo trasladar en el ambulancia hasta el interior de el hospital finalmente agente de el guardia_civil y policía_local ser informar convenientemente y elaborar el informe oportuno",
+        "lemmatized_text_reduced": "recibir llamada indicar persona haber sufrir caída hacer senderismo precisar atención médico momento activar dispositivo urgencia movilizar ambulancia soporte vital básico servicio_de_urgencias_canario suc helicóptero rescate grupo_de_emergencias salvamento ges parte lugar incidente ser difícil acceso camino pie helicóptero ges evacuar afectar centro hospitalario personal sanitario suc esperar llegada trasladar ambulancia interior hospital finalmente agente guardia_civil policía_local ser informar convenientemente elaborar informe oportuno",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Grupo_de_Emergencias",
+            "GES",
+            "GES",
+            "SUC",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:2.30:??]"
+        ],
+        "numbers": [
+            "TM_h:13.49",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639984/0/",
+    "title": {
+        "raw_text": "Canarias fuera de la alerta aunque la próxima semana volverá a estar en riesgo por viento y fenómenos costeros",
+        "lemmatized_text": "canario fuera_de el alerta aunque el próximo semana volver a estar en riesgo por viento y fenómeno costero",
+        "lemmatized_text_reduced": "canario alerta próximo semana volver estar riesgo viento fenómeno costero",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Canarias ya no se encuentra en alerta, después de que a primera hora de esta mañana se terminará el aviso que la Agencia Estatal de Meteorología (Aemet) tenía establecido para el archipiélago por la ciclogénesis explosiva que durante parte del fin de semana ha pasado por las islas y que ahora continúa afectando a la península .",
+        "lemmatized_text": "canario ya no se encontrar en alerta después_de que a 1 hora de este mañana se terminar el aviso que el agencia_estatal_de_meteorología aemet tener establecer para el archipiélago por el ciclogénesis explosivo que durante parte de el fin de semana haber pasar por el isla y que ahora continuar afectar a el península",
+        "lemmatized_text_reduced": "canario encontrar alerta 1 hora mañana terminar aviso agencia_estatal_de_meteorología aemet tener establecer archipiélago ciclogénesis explosivo parte fin semana haber pasar isla continuar afectar península",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Sin embargo, el archipiélago canario volverá a estar en alerta la próxima semana por viento y fenómenos costeros que comenzarán afectando a la isla de La Palma, que a partir de las 18.00 horas de mañana lunes estará en alerta amarilla (riesgo). En concreto, y según la Aemet, las rachas de vientos en La Palma podrían alcanzar los 75 kilómetros por hora, alerta que se prevé mantener hasta el martes a las 18.00 horas; mientras que el aviso por fenómenos costeros se extenderá hasta el miércoles, 3 de marzo. Asimismo, para el martes 2 de marzo la alerta amarilla por viento llegará hasta las islas de La Gomera y El Hierro, donde podrían soplar rachas de hasta 75 kilómetros por hora desde las 00.00 horas y hasta las 08.00 horas de ese día. La isla de El Hierro estará, además, en alerta amarilla por fenómenos costeros, aviso que se extenderá hasta el miércoles. También de la provincia de Santa Cruz de Tenerife estará en alerta la isla de Tenerife por vientos, siendo el aviso en la costa Norte, Este, Sur y Oeste por rachas que podrían alcanzar los 75 kilómetros por hora hasta el martes; sin embargo, el riesgo por rachas fuertes de viento permanecerá en La Orotava y Vilaflor hasta el miércoles, día en el que también se prevé que finalice el aviso por fenómenos costeros en dicha isla. Por otro lado, en la provincia de Las Palmas, la isla más afectada será Gran Canaria que también estará el martes en alerta amarilla por vientos, ya que podrían soplar rachas de hasta 75 kilómetros por hora; mientras que Fuerteventura y Lanzarote estarán en riesgo por fenómenos costeros.",
+        "lemmatized_text": "sin embargo el archipiélago canario volver a estar en alerta el próximo semana por viento y fenómeno costero que comenzar afectar a el isla de la_palma que a_partir_de el [??:??/??/??:6.00:am] [L:??/??/??:??.??:??] estar en alerta amarillo riesgo en concreto y según el aemet el racha de viento en la_palma poder alcanzar el SP_km/h:75 alerta que se prever mantener hasta el [M:??/??/??:6.00:pm] mientras_que el aviso por fenómeno costero se extender hasta el [X:3/3/??:??.??:??] asimismo para el [M:2/3/??:??.??:??] el alerta amarillo por viento llegar hasta el isla de la_gomera y el_hierro donde poder soplar racha de hasta SP_km/h:75 desde el TM_h:0 y hasta el TM_h:8 de ese día el isla de el_hierro estar además en alerta amarillo por fenómeno costero aviso que se extender hasta el [X:??/??/??:??.??:??] también de el provincia de santa_cruz_de_tenerife estar en alerta el isla de tenerife por viento ser el aviso en el costa norte este sur y oeste por racha que poder alcanzar el SP_km/h:75 hasta el [M:??/??/??:??.??:??] sin embargo el riesgo por racha fuerte de viento permanecer en la_orotava y vilaflor hasta el [X:??/??/??:??.??:??] día en el que también se prever que finalizar el aviso por fenómeno costero en decir isla por_otro_lado en el provincia de las_palmas el isla más afectar ser gran_canaria que también estar el [M:??/??/??:??.??:??] en alerta amarillo por viento ya_que poder soplar racha de hasta SP_km/h:75 mientras_que fuerteventura y lanzarote estar en riesgo por fenómeno costero",
+        "lemmatized_text_reduced": "embargo archipiélago canario volver estar alerta próximo semana viento fenómeno costero comenzar afectar isla la_palma estar alerta amarillo riesgo concreto aemet racha viento la_palma poder alcanzar alerta prever mantener aviso fenómeno costero extender alerta amarillo viento llegar isla la_gomera el_hierro poder soplar racha día isla el_hierro estar alerta amarillo fenómeno costero aviso extender provincia santa_cruz_de_tenerife estar alerta isla tenerife viento ser aviso costa norte este sur oeste racha poder alcanzar embargo riesgo racha fuerte viento permanecer la_orotava vilaflor día prever finalizar aviso fenómeno costero decir isla provincia las_palmas isla afectar ser gran_canaria estar alerta amarillo viento poder soplar racha fuerteventura lanzarote estar riesgo fenómeno costero",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro",
+            "El_Hierro",
+            "Santa_Cruz_de_Tenerife",
+            "Tenerife",
+            "Norte",
+            "Este",
+            "Sur",
+            "Oeste",
+            "La_Orotava",
+            "Vilaflor",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Aemet",
+            "Gran_Canaria",
+            "Fuerteventura",
+            "Lanzarote"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:6.00:am]",
+            "[L:??/??/??:??.??:??]",
+            "[M:??/??/??:6.00:pm]",
+            "[X:3/3/??:??.??:??]",
+            "[M:2/3/??:??.??:??]",
+            "[X:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:75",
+            "SP_km/h:75",
+            "TM_h:0",
+            "TM_h:8",
+            "SP_km/h:75",
+            "SP_km/h:75"
+        ]
+    }
+}

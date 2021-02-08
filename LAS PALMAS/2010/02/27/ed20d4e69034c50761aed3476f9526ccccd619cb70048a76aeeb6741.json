@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639539/0/",
+    "title": {
+        "raw_text": "Una joven fallece en Gran Canaria tras sufrir una caída en moto",
+        "lemmatized_text": "uno joven fallecer en gran_canaria tras sufrir uno caída en moto",
+        "lemmatized_text_reduced": "joven fallecer gran_canaria sufrir caída moto",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una joven ha fallecido en la jornada de hoy en la isla de Gran Canaria tras sufrir una caída en moto, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 del Gobierno de Canarias.",
+        "lemmatized_text": "uno joven haber fallecer en el jornada de hoy en el isla de gran_canaria tras sufrir uno caída en moto según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 de el gobierno_de_canarias",
+        "lemmatized_text_reduced": "joven haber fallecer jornada isla gran_canaria sufrir caída moto informar centro_coordinador_de_emergencias seguridad cecoes gobierno_de_canarias",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 05.40 horas de hoy en la carretera GC-500 en el municipio de San Bartolomé de Tirajana y en la motocicleta viajaban dos personas. Además de la joven de 18 fallecida, el otro ocupante del vehículo, un varón de 24 años, sufrió policontusiones de carácter grave y fue trasladado en ambulancia medicalizada del Servicio de Urgencias Canario al Hospital de Gran Canaria.",
+        "lemmatized_text": "el accidente se producir a el TM_h:5.4 de hoy en el carretera GC-500 en el municipio de san_bartolomé_de_tirajana y en el motocicleta viajar 2 persona además_de el joven de 18 fallecer el otro ocupante de el vehículo uno varón de 24 año sufrir policontusión de carácter grave y ser trasladar en ambulancia medicalizada de el servicio_de_urgencias_canario a el hospital_de_gran_canaria",
+        "lemmatized_text_reduced": "accidente producir carretera municipio san_bartolomé_de_tirajana motocicleta viajar persona joven fallecer ocupante vehículo varón año sufrir policontusión carácter grave ser trasladar ambulancia medicalizada servicio_de_urgencias_canario hospital_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:5.4",
+            "GC-500",
+            "2",
+            "18",
+            "24"
+        ]
+    }
+}

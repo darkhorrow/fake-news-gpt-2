@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/373804/0/inmigrantes/patera/palmas/",
+    "title": {
+        "raw_text": "Llega a Gran Canaria una patera con 23 inmigrantes en buen estado de salud",
+        "lemmatized_text": "llegar a gran_canaria uno patera con 23 inmigrante en bueno estado de salud",
+        "lemmatized_text_reduced": "llegar gran_canaria patera inmigrante bueno estado salud",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "23"
+        ]
+    },
+    "lead": {
+        "raw_text": "A bordo había dos mujeres. Desembarcaron en el puerto de Arguineguín. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "a_bordo haber 2 mujer desembarcar en el puerto de arguineguín consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "haber mujer desembarcar puerto arguineguín consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [
+            "Arguineguín"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Una patera con 23 inmigrantes magrebíes en buen estado de salud llegó este fin de semana a Gran Canaria, informó hoy el servicio de emergencias 112 . La embarcación fue detectada cuando se dirigía a la costa grancanaria y Salvamento Marítimo acudió a su encuentro y la trasladó al puerto de Arguineguín. La patera arribó a las 22.30 del sábado y debido al buen estado de salud de sus ocupantes, todos adultos , no fue necesario el traslado de ninguno de ellos a un centro sanitario. Veintiuno de ellos eran varones adultos y otros dos mujeres. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno patera con 23 inmigrante magrebí en bueno estado de salud llegar este fin de semana a gran_canaria informar hoy el servicio de emergencia 112 el embarcación ser detectar cuando se dirigir a el costa grancanaria y salvamento_marítimo acudir a su encuentro y el trasladar a el puerto de arguineguín el patera arribar a el [S:??/??/??:10.00:pm] y deber a el bueno estado de salud de su ocupante todo adulto no ser necesario el traslado de ninguno de ellos a uno centro sanitario 21 de ellos ser varón adulto y otro 2 mujer consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "patera inmigrante magrebí bueno estado salud llegar fin semana gran_canaria informar servicio emergencia embarcación ser detectar dirigir costa grancanaria salvamento_marítimo acudir encuentro trasladar puerto arguineguín patera arribar deber bueno estado salud ocupante adulto ser necesario traslado centro sanitario ser varón adulto mujer consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:10.00:pm]"
+        ],
+        "numbers": [
+            "23",
+            "112",
+            "21",
+            "2"
+        ]
+    }
+}

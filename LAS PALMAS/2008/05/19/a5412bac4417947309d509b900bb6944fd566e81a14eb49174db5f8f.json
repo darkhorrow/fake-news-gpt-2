@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/380303/0/disparo/avion/palmas/",
+    "title": {
+        "raw_text": "Un disparo fortuito obliga a cambiar de avión a 41 pasajeros de un Binter canario",
+        "lemmatized_text": "uno disparo fortuito obligar a cambiar de avión a 41 pasajero de uno binter canario",
+        "lemmatized_text_reduced": "disparo fortuito obligar cambiar avión pasajero binter canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Binter"
+        ],
+        "dates": [],
+        "numbers": [
+            "41"
+        ]
+    },
+    "lead": {
+        "raw_text": "Se disparó el arma de un agente que viajaba en el aparato. El disparo ha dejado un agujero en el fuselaje del avión. El vuelo debía ir de Fuerteventura a Gran Canaria.",
+        "lemmatized_text": "se disparar el arma de uno agente que viajar en el aparato el disparo haber dejar uno agujero en el fuselaje de el avión el vuelo deber ir de fuerteventura a gran_canaria",
+        "lemmatized_text_reduced": "disparar arma agente viajar aparato disparo haber dejar agujero fuselaje avión vuelo deber ir fuerteventura gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un arma de fuego se ha diparado fortuitamente esta tarde a bordo de un avión de Binter cuando dos agentes de las Fuerzas de Seguridad del Estado se disponían a entregar su armamento al comandante, tal como ordena la ley. El disparo obligó a los 41 pasajeros del vuelo a cambiar de avión . Fuentes de la compañía aérea detallaron que el incidente se produjo durante el abordaje de los pasajeros del vuelo NT-221 que tenía prevista su salida a las 15.15 horas desde Fuerteventura hacia Gran Canaria . Los dos agentes, tal como establece la normativa de seguridad aérea , se presentaron a la tripulación para comunicar que iban armados y entregar las armas al comandante, momento en el que, por causas que serán investigadas, una de ellas se disparó. El impacto no causó daño personal alguno, pero produjo un agujero en el fuselaje que obligó a dejar estacionado el aparato y reubicar a los pasajeros en el siguiente vuelo. La Guardia Civil ha abierto una investigación y la compañía se ha puesto a su disposición para aclarar los detalles del suceso. Mientras tanto, los mecánicos de la aerolínea canaria valoran los daños .",
+        "lemmatized_text": "uno arma de fuego se haber diparado fortuitamente este tarde a_bordo de uno avión de binter cuando 2 agente de el fuerzas_de_seguridad_del_estado se disponer a entregar su armamento a el comandante tal_y_como ordenar el ley el disparo obligar a el 41 pasajero de el vuelo a cambiar de avión fuentes de el compañía aéreo detallar que el incidente se producir durante el abordaje de el pasajero de el vuelo NT-221 que tener prever su salida a el TM_h:15.15 desde fuerteventura hacia gran_canaria el 2 agente tal_y_como establecer el normativa de seguridad aéreo se presentar a el tripulación para comunicar que ir armar y entregar el arma a el comandante momento en el que por causa que ser investigar uno de ellos se disparar el impacto no causar daño personal alguno pero producir uno agujero en el fuselaje que obligar a dejar estacionar el aparato y reubicar a el pasajero en el siguiente vuelo el guardia_civil haber abrir uno investigación y el compañía se haber poner a su disposición para aclarar el detalle de el suceso mientras tanto el mecánico de el aerolínea canario valorar el daño",
+        "lemmatized_text_reduced": "arma fuego haber diparado fortuitamente tarde avión binter agente fuerzas_de_seguridad_del_estado disponer entregar armamento comandante ordenar ley disparo obligar pasajero vuelo cambiar avión fuentes compañía aéreo detallar incidente producir abordaje pasajero vuelo tener prever salida fuerteventura gran_canaria agente establecer normativa seguridad aéreo presentar tripulación comunicar ir armar entregar arma comandante momento causa ser investigar disparar impacto causar daño personal producir agujero fuselaje obligar dejar estacionar aparato reubicar pasajero siguiente vuelo guardia_civil haber abrir investigación compañía haber poner disposición aclarar detalle suceso mecánico aerolínea canario valorar daño",
+        "persons": [
+            "Binter"
+        ],
+        "locations": [],
+        "organizations": [
+            "Fuerzas_de_Seguridad_del_Estado",
+            "Fuentes",
+            "Fuerteventura",
+            "Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "41",
+            "NT-221",
+            "TM_h:15.15",
+            "2"
+        ]
+    }
+}

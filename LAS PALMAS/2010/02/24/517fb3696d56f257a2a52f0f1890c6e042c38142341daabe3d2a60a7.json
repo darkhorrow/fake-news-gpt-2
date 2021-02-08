@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/637329/0/",
+    "title": {
+        "raw_text": "Canarias se enfrenta el viernes a su cuarta borrasca en un mes",
+        "lemmatized_text": "canario se enfrentar el [V:??/??/??:??.??:??] a su 4 borrasca en uno mes",
+        "lemmatized_text_reduced": "canario enfrentar 4 borrasca mes",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Canarias se enfrentará el próximo viernes a su cuarta borrasca en un mes, según informó a Europa Press la delegada en las islas de la Agencia Estatal de Meteorología (Aemet), Irene Sanz, que aseguró que esta situación es \"normal\" en invierno.",
+        "lemmatized_text": "canario se enfrentar el [V:??/??/??:??.??:??] a su 4 borrasca en uno mes según informar a europa_press el delegado en el isla de el agencia_estatal_de_meteorología aemet irene_sanz que asegurar que este situación ser normal en invierno",
+        "lemmatized_text_reduced": "canario enfrentar 4 borrasca mes informar europa_press delegado isla agencia_estatal_de_meteorología aemet irene_sanz asegurar situación ser normal invierno",
+        "persons": [
+            "Irene_Sanz"
+        ],
+        "locations": [],
+        "organizations": [
+            "Europa_Press",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, la Aemet activará la alerta naranja por rachas de viento de hasta 100 kilómetros por hora en las cumbres de La Palma y Gran Canaria y los municipios de La Orotava y Vilaflor, en Tenerife, mientras que en el resto de zonas también habrá riesgo amarillo por fuertes vientos. No obstante, se prevé que las islas de Lanzarote y Fuerteventura y el norte de Gran Canaria y Tenerife se salven del temporal. Esta situación meteorológica adversa se registrará desde las 14.00 horas del viernes hasta la medianoche del sábado. La Aemet avisa de alerta naranja en las cumbres de La Palma y cumbres centrales de Tenerife, donde se producirán rachas de viento de hasta 100 kilómetros por hora, y alerta amarilla con viento de 75 kilómetros por hora en el este, norte y oeste de La Palma, y este, sur y oeste de la isla tinerfeña. Asimismo, en La Gomera y El Hierro se esperan también rachas de viento de hasta 75 kilómetros por hora. En Gran Canaria se prevé alerta naranja por viento de hasta 90 kilómetros por hora en la cumbre, mientras que en el este, sur y oeste, y medianías norte de la isla se prevén rachas de hasta 75 kilómetros por hora. Una vez más la provincia occidental será más castigada por el temporal que afectará a las islas durante el fin de semana y que durante este mes ha causado diversos daños en el archipiélago, entre los que destaca el 'cero energético' que afectó a la isla de Tenerife el pasado jueves y el corte de carreteras por las riadas.",
+        "lemmatized_text": "en concreto el aemet activar el alerta naranja por racha de viento de hasta SP_km/h:100 en el cumbre de la_palma y gran_canaria y el municipio de la_orotava y vilaflor en tenerife mientras_que en el resto de zona también haber riesgo amarillo por fuerte viento no_obstante se prever que el isla de lanzarote y fuerteventura y el norte de gran_canaria y tenerife se salvar de el temporal este situación meteorológico adverso se registrar desde el [V:??/??/??:2.00:pm] hasta el [S:??/??/??:00.00:am] el aemet avisar de alerta naranja en el cumbre de la_palma y cumbre central de tenerife donde se producir racha de viento de hasta SP_km/h:100 y alerta amarillo con viento de SP_km/h:75 en el este norte y oeste de la_palma y este sur y oeste de el isla tinerfeño asimismo en la_gomera y el_hierro se esperar también racha de viento de hasta SP_km/h:75 en gran_canaria se prever alerta naranja por viento de hasta SP_km/h:90 en el cumbre mientras_que en el este sur y oeste y medianía norte de el isla se prever racha de hasta SP_km/h:75 uno vez más el provincia occidental ser más castigar por el temporal que afectar a el isla durante el fin de semana y que durante este mes haber causar diverso daño en el archipiélago entre el que destacar el 0 energético que afectar a el isla de tenerife el [J:??/??/??:??.??:??] y el corte de carretera por el riada",
+        "lemmatized_text_reduced": "concreto aemet activar alerta naranja racha viento cumbre la_palma gran_canaria municipio la_orotava vilaflor tenerife resto zona haber riesgo amarillo fuerte viento prever isla lanzarote fuerteventura norte gran_canaria tenerife salvar temporal situación meteorológico adverso registrar aemet avisar alerta naranja cumbre la_palma cumbre central tenerife producir racha viento alerta amarillo viento este norte oeste la_palma sur oeste isla tinerfeño la_gomera el_hierro esperar racha viento gran_canaria prever alerta naranja viento cumbre este sur oeste medianía norte isla prever racha vez provincia occidental ser castigar temporal afectar isla fin semana mes haber causar daño archipiélago destacar energético afectar isla tenerife corte carretera riada",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Gran_Canaria",
+            "La_Orotava",
+            "Vilaflor",
+            "Tenerife",
+            "Lanzarote",
+            "Gran_Canaria",
+            "La_Palma",
+            "Tenerife",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro",
+            "Gran_Canaria",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Aemet",
+            "Fuerteventura",
+            "Tenerife",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:2.00:pm]",
+            "[S:??/??/??:00.00:am]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:100",
+            "SP_km/h:100",
+            "SP_km/h:75",
+            "SP_km/h:75",
+            "SP_km/h:90",
+            "SP_km/h:75",
+            "0"
+        ]
+    }
+}

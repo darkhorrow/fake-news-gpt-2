@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/646995/0/",
+    "title": {
+        "raw_text": "Las obras en la calle Néstor de la Torre, en Las Palmas de Gran Canaria, comienzan hoy de forma urgente",
+        "lemmatized_text": "el obra en el calle néstor_de_la_torre en las_palmas_de_gran_canaria comenzar hoy de forma urgente",
+        "lemmatized_text_reduced": "obra calle néstor_de_la_torre las_palmas_de_gran_canaria comenzar forma urgente",
+        "persons": [],
+        "locations": [
+            "Néstor_de_la_Torre",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las obras de la calle Néstor de la Torre, en Las Palmas de Gran Canaria, han comenzado hoy de forma urgente, a fin de controlar las posibles filtraciones en los bajos de los edificios y comercios de la zona tras detectarse fugas por la desintegración de la red de saneamiento.",
+        "lemmatized_text": "el obra de el calle néstor_de_la_torre en las_palmas_de_gran_canaria haber comenzar hoy de forma urgente a_fin_de controlar el posible filtración en el bajo de el edificio y comercio de el zona tras detectar se fuga por el desintegración de el red de saneamiento",
+        "lemmatized_text_reduced": "obra calle néstor_de_la_torre las_palmas_de_gran_canaria haber comenzar forma urgente controlar posible filtración bajo edificio comercio zona detectar fuga desintegración red saneamiento",
+        "persons": [],
+        "locations": [
+            "Néstor_de_la_Torre",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Esta intervención de \"urgencia\" afectará al tramo comprendido entre las calles Valencia y General Vives. En cuanto al motivo de los trabajos, según informó el Ayuntamiento de Las Palmas de Gran Canaria en nota de prensa, se debe a la rotura crítica o desaparición de la tubería de saneamiento por \"falta de mantenimiento en las últimas décadas\". Por ello, el pasado jueves la junta de gobierno abordó el problema, \"alertado por informes de sanidad\", resolviendo el inicio \"inmediato\" de las obras de urgencia en la calle Néstor de la Torre, concretando la fecha para hoy martes. Los trabajos tendrán un coste inicial de 120.000 euros y el plazo de ejecución de la obra será de 30 días. De todos modos, la duración de esta intervención estará condicionada por la \"gravedad de la avería, cuyo alcance real sólo se podrá descubrir una vez se inicien los trabajos\". El Consistorio aseguró que tanto los comerciantes como los vecinos de Néstor de la Torre (además de Mesa y López y el Mercado Central) están siendo informados de la obra y su desarrollo. Además, también se verán alterados, entre otros, el tráfico y las líneas de Guaguas Municipales. Esta obra urgente se ha puesto en marcha tras la constatación de que la red de saneamiento en la zona estaba \"muy deteriorada o, simplemente, había desaparecido\" debido al desgaste crítico del material, lo que supone \"un claro riesgo\" de filtraciones en los bajos de los edificios anexos.",
+        "lemmatized_text": "este intervención de urgencia afectar a el tramo comprender entre el calle valencia y general_vives en cuanto a el motivo de el trabajo según informar el ayuntamiento_de_las_palmas_de_gran_canaria en nota de prensa se deber a el rotura crítico o desaparición de el tubería de saneamiento por falta de mantenimiento en el último década por ello el [J:??/??/??:??.??:??] el junta de gobierno abordar el problema alertar por informe de sanidad resolver el inicio inmediato de el obra de urgencia en el calle néstor_de_la_torre concretar el fecha para hoy [M:??/??/??:??.??:??] el trabajo tener uno coste inicial de $_ECU:120 y el plazo de ejecución de el obra ser de TM_d:30 de_todos_modos el duración de este intervención estar condicionar por el gravedad de el avería cuyo alcance real sólo se poder descubrir uno vez se iniciar el trabajo el consistorio asegurar que tanto el comerciante como el vecino de néstor_de_la_torre además_de mesa y lópez y el mercado_central estar ser informar de el obra y su desarrollo además también se ver alterar entre otro el tráfico y el línea de guaguas_municipales este obra urgente se haber poner en marcha tras el constatación de que el red de saneamiento en el zona estar muy deteriorar o simplemente haber desaparecer deber a el desgaste crítico de el material el que suponer uno claro riesgo de filtración en el bajo de el edificio anexo",
+        "lemmatized_text_reduced": "intervención urgencia afectar tramo comprender calle valencia general_vives motivo trabajo informar ayuntamiento_de_las_palmas_de_gran_canaria nota prensa deber rotura crítico desaparición tubería saneamiento falta mantenimiento último década junta gobierno abordar problema alertar informe sanidad resolver inicio inmediato obra urgencia calle néstor_de_la_torre concretar fecha trabajo tener coste inicial plazo ejecución obra ser duración intervención estar condicionar gravedad avería alcance real poder descubrir vez iniciar trabajo consistorio asegurar comerciante vecino néstor_de_la_torre mesa lópez mercado_central estar ser informar obra desarrollo ver alterar tráfico línea guaguas_municipales obra urgente haber poner marcha constatación red saneamiento zona estar deteriorar simplemente haber desaparecer deber desgaste crítico material suponer claro riesgo filtración bajo edificio anexo",
+        "persons": [
+            "López"
+        ],
+        "locations": [
+            "Valencia",
+            "Néstor_de_la_Torre",
+            "Néstor_de_la_Torre"
+        ],
+        "organizations": [
+            "General_Vives",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Consistorio",
+            "Mesa",
+            "Mercado_Central",
+            "Guaguas_Municipales"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:120",
+            "TM_d:30"
+        ]
+    }
+}

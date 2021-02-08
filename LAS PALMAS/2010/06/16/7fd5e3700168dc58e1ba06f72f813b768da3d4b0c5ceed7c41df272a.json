@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/738757/0/",
+    "title": {
+        "raw_text": "Rivero afirma que será el primero en aplaudir si el Gobierno cumple el Plan Canarias o de denunciarlo si no es así",
+        "lemmatized_text": "rivero afirmar que ser el 1 en aplaudir si el gobierno cumplir el plan_canarias o de denunciar lo si no ser así",
+        "lemmatized_text_reduced": "rivero afirmar ser 1 aplaudir gobierno cumplir plan_canarias denunciar ser",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [
+            "Plan_Canarias"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero (CC), aseguró hoy que será el primero en aplaudir si el Ejecutivo central cumple el Plan Canarias o de denunciarlo si no se hacen efectivos los acuerdos programados.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero cc asegurar hoy que ser el 1 en aplaudir si el ejecutivo central cumplir el plan_canarias o de denunciar lo si no se hacer efectivo el acuerdo programar",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero cc asegurar ser 1 aplaudir ejecutivo central cumplir plan_canarias denunciar hacer efectivo acuerdo programar",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "CC",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Plan_Canarias"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Si se cumple seré el primero que me pondré en primera fila a aplaudir, no regatearé ningún esfuerzo para aplaudir el grado de cumplimiento de los compromisos del Gobierno de España con Canarias; y si no se cumplen seré el primero no solamente en lamentarlo sino en denunciarlo\", apuntilló en declaraciones a los medios tras un acto público. Agregó que hasta el momento, y a modo de ejemplo, citó que se ha firmado el convenio para la reindustrialización de Canarias dotado con 12 millones de euros o se ha adelantado 50 millones de euros para el impulso de los tres parques tecnológicos en diferentes islas. \"Estamos trabajando. ¿En qué grado?, mañana veremos dónde estamos en cada uno de los asuntos, dónde tenemos que seguir apretando las tuercas para que se sigan avanzando y trabajar, trabajar y trabajar\", insistió. De todos modos, y en relación a las declaraciones del vicepresidente del Gobierno regional, José Manuel Soria (PP), criticando el Plan Canarias, pidió \"tranquilidad\" porque \"todo el mundo está preocupado\" por la situación económica actual.",
+        "lemmatized_text": "si se cumplir ser el 1 que me poner en 1 fila a aplaudir no regatear ninguno esfuerzo para aplaudir el grado de cumplimiento de el compromiso de el gobierno_de_españa con canarias y si no se cumplir ser el 1 no solamente en lamentar lo sino en denunciar lo apuntillar en declaración a el medio tras uno acto público agregar que hasta el momento y a_modo_de ejemplo citar que se haber firmar el convenio para el reindustrialización de canarias dotar con $_ECU:12000000 o se haber adelantar $_ECU:50000000 para el impulso de el 3 parque tecnológico en diferente isla estar trabajar en qué gradar mañana ver dónde estar en cada uno de el asunto dónde tener que seguir apretar el tuerca para que se seguir avanzar y trabajar trabajar y trabajar insistir de_todos_modos y en relación a el declaración de el vicepresidente de el gobierno regional josé_manuel_soria pp criticar el plan_canarias pedir tranquilidad porque todo el mundo estar preocupar por el situación económico actual",
+        "lemmatized_text_reduced": "cumplir ser 1 poner 1 fila aplaudir regatear esfuerzo aplaudir grado cumplimiento compromiso gobierno_de_españa canarias cumplir ser 1 solamente lamentar denunciar apuntillar declaración medio acto público agregar momento ejemplo citar haber firmar convenio reindustrialización canarias dotar haber adelantar impulso parque tecnológico isla estar trabajar gradar ver estar asunto tener seguir apretar tuerca seguir avanzar trabajar trabajar trabajar insistir relación declaración vicepresidente gobierno regional josé_manuel_soria pp criticar plan_canarias pedir tranquilidad mundo estar preocupar situación económico actual",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_España",
+            "Gobierno",
+            "PP"
+        ],
+        "others": [
+            "Plan_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:12000000",
+            "$_ECU:50000000",
+            "3"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/324105/0/atraco/banco/palmas/",
+    "title": {
+        "raw_text": "Buscan a dos hombres que atracaron un banco de Las Palmas y robaron 6.000 euros",
+        "lemmatized_text": "buscar a 2 hombre que atracar uno banco de las_palmas y robar $_ECU:6",
+        "lemmatized_text_reduced": "buscar hombre atracar banco las_palmas robar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "$_ECU:6"
+        ]
+    },
+    "lead": {
+        "raw_text": "Ocurrió en una sede del Banco Santander Central Hispano. En el número 16 de la calle Obispo Romo. Los delincuentes portaban un arma corta. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "ocurrir en uno sede de el banco_santander_central_hispano en el número 16 de el calle obispo_romo el delincuente portar uno arma corto consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ocurrir sede banco_santander_central_hispano número calle obispo_romo delincuente portar arma corto consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Obispo_Romo"
+        ],
+        "organizations": [
+            "Banco_Santander_Central_Hispano",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "16"
+        ]
+    },
+    "body": {
+        "raw_text": "Efectivos de la Policía Nacional buscan por las calles de Las Palmas de Gran Canaria a dos individuos que han irrumpido hoy con un arma corta en una sucursal bancaria de la ciudad y se han apoderado de 6.000 euros. Los hechos ocurrieron a las 08.56 horas en una oficina del banco Santander Central Hispano situada en el número 16 de la calle Obispo Romo, según adelantó el periódico \"Canarias 7\" y confirmó un portavoz de la Jefatura Superior de Policía de Canarias. Todo fue \"muy rápido \" A la Policía no le consta que haya habido rehenes en este atraco ni que ningún empleado de la oficina o clientes hayan resultado heridos, a pesar de que los dos atracadores portaban un arma corta. Hasta la oficina bancaria se ha desplazado el director de zona de Gran Canaria de la entidad bancaria, han informado fuentes de la entidad. Tres empleados informó el director de zona de la entidad, Luis García, que destacó que todo ocurrió \"muy rápido\" , y que sus compañeros se encuentran bien. García señaló que se desplazó a la sucursal situada en el número 16 de la calle Obispo Romo nada más conocer el suceso, y comentó que, según le informaron sus compañeros, en el momento del atraco no había clientes en la oficina . Cerrado al público Asimismo indicó que el Banco Santander Central Hispano emitirá un comunicado para informar de lo ocurrido. A las puertas del banco, que permanece cerrado al público, se han acercado comerciantes y vecinos de la zona para interesarse por lo sucedido, así como clientes que desconocían el suceso . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "efectivos_de_la_policía_nacional buscar por el calle de las_palmas_de_gran_canaria a 2 individuo que haber irrumpir hoy con uno arma corto en uno sucursal bancario de el ciudad y se haber apoderar de $_ECU:6 el hecho ocurrir a el TM_h:8.56 en uno oficina de el banco santander_central_hispano situar en el número 16 de el calle obispo_romo según adelantar el periódico canario 7 y confirmar uno portavoz de el jefatura_superior_de_policía_de_canarias todo ser muy rápido a el policía no le constar que haber haber rehén en este atraco ni_que ninguno empleado de el oficina o cliente haber resultar herido a_pesar_de que el 2 atracador portar uno arma corto hasta el oficina bancario se haber desplazar el director de zona de gran_canaria de el entidad bancario haber informar fuente de el entidad 3 empleado informar el director de zona de el entidad luis_garcía que destacar que todo ocurrir muy rápido y que su compañero se encontrar bien garcía señalar que se desplazar a el sucursal situar en el número 16 de el calle obispo_romo nada más conocer el suceso y comentar que según le informar su compañero en el momento de el atraco no haber cliente en el oficina cerrar a el público asimismo indicar que el banco_santander_central_hispano emitir uno comunicado para informar de el ocurrir a el puerta de el banco que permanecer cerrar a el público se haber acercar comerciante y vecino de el zona para interesar se por el suceder así_como cliente que desconocer el suceso consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "efectivos_de_la_policía_nacional buscar calle las_palmas_de_gran_canaria individuo haber irrumpir arma corto sucursal bancario ciudad haber apoderar hecho ocurrir oficina banco santander_central_hispano situar número calle obispo_romo adelantar periódico canario confirmar portavoz jefatura_superior_de_policía_de_canarias ser rápido policía constar haber haber rehén atraco empleado oficina cliente haber resultar herido atracador portar arma corto oficina bancario haber desplazar director zona gran_canaria entidad bancario haber informar fuente entidad empleado informar director zona entidad luis_garcía destacar ocurrir rápido compañero encontrar garcía señalar desplazar sucursal situar número calle obispo_romo conocer suceso comentar informar compañero momento atraco haber cliente oficina cerrar público asimismo indicar banco_santander_central_hispano emitir comunicado informar ocurrir puerta banco permanecer cerrar público haber acercar comerciante vecino zona interesar suceder cliente desconocer suceso consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Luis_García",
+            "García",
+            "Asimismo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Obispo_Romo",
+            "Obispo_Romo"
+        ],
+        "organizations": [
+            "Efectivos_de_la_Policía_Nacional",
+            "Santander_Central_Hispano",
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Policía",
+            "Banco_Santander_Central_Hispano",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "$_ECU:6",
+            "TM_h:8.56",
+            "16",
+            "7",
+            "2",
+            "3",
+            "16"
+        ]
+    }
+}

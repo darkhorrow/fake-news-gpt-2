@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/715253/0/",
+    "title": {
+        "raw_text": "La carretera GC-1 registra dos accidentes con varios heridos en Gran Canaria",
+        "lemmatized_text": "el carretera GC-1 registrar 2 accidente con varios herido en gran_canaria",
+        "lemmatized_text_reduced": "carretera registrar accidente herido gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-1",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La carretera GC-1 registró la pasada madrugada dos accidentes que se saldaron con varios heridos de carácter menos grave en la isla de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad del 112.",
+        "lemmatized_text": "el carretera GC-1 registrar el pasar madrugada 2 accidente que se saldar con varios herido de carácter menos grave en el isla de gran_canaria según informar el centro_coordinador_de_emergencias y seguridad de el 112",
+        "lemmatized_text_reduced": "carretera registrar pasar madrugada accidente saldar herido carácter grave isla gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-1",
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El primero de los accidentes, una colisión entre dos vehículos, se produjo a las 5.00 horas en la GC-1, a la altura del Aeropuerto de Gran Canaria y en dirección Las Palmas de Gran Canaria. El resultado de este suceso fueron dos heridos de carácter menos grave, uno con traumatismo craneal y otro con traumatismo abdominal. Posteriormente, a las 6.00 horas la GC-1, a la altura del Tarajalillo, en San Bartolomé de Tirajana, y en dirección a Las Palmas de Gran Canaria, registró otra colisión entre dos vehículos donde hubo dos afectados menos grave, una joven de 26 años de edad que sufrió traumatismo en la rodilla y un hombre de 53 años de edad con traumatismo en el torax. Los heridos de los dos accidentes fueron trasladados a centros sanitarios y en los lugares de los hechos se personaron tanto miembros del Servicio de Urgencias Canario (SUC) como agentes de la Guardia Civil, que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "el 1 de el accidente uno colisión entre 2 vehículo se producir a el TM_h:5 en el GC-1 a el altura de el aeropuerto_de_gran_canaria y en dirección las_palmas_de_gran_canaria el resultado de este suceso ser 2 herido de carácter menos grave uno con traumatismo craneal y otro con traumatismo abdominal posteriormente a el TM_h:6 el GC-1 a el altura de el tarajalillo en san_bartolomé_de_tirajana y en_dirección_a las_palmas_de_gran_canaria registrar otro colisión entre 2 vehículo donde haber 2 afectado menos grave uno joven de 26 año de edad que sufrir traumatismo en el rodilla y uno hombre de 53 año de edad con traumatismo en el torax el herido de el 2 accidente ser trasladar a centro sanitario y en el lugar de el hecho se personar tanto miembro de el servicio_de_urgencias_canario suc como agente de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "1 accidente colisión vehículo producir altura aeropuerto_de_gran_canaria dirección las_palmas_de_gran_canaria resultado suceso ser herido carácter grave traumatismo craneal traumatismo abdominal posteriormente altura tarajalillo san_bartolomé_de_tirajana las_palmas_de_gran_canaria registrar colisión vehículo haber afectado grave joven año edad sufrir traumatismo rodilla hombre año edad traumatismo torax herido accidente ser trasladar centro sanitario lugar hecho personar miembro servicio_de_urgencias_canario suc agente guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Tarajalillo",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Aeropuerto_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_h:5",
+            "GC-1",
+            "2",
+            "TM_h:6",
+            "GC-1",
+            "2",
+            "2",
+            "26",
+            "53",
+            "2"
+        ]
+    }
+}

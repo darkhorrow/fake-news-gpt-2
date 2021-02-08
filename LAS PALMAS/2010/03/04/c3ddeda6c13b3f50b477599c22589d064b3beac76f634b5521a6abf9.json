@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/643216/0/",
+    "title": {
+        "raw_text": "Atropellado un varón de unos 40 años en Jinámar (Gran Canaria)",
+        "lemmatized_text": "atropellar uno varón de uno 40 año en jinámar gran_canaria",
+        "lemmatized_text_reduced": "atropellar varón año jinámar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "40"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de aproximadamente 40 años de edad ha resultado hoy herido con traumatismo costal de carácter menos grave tras ser atropellado por un turismo en el barrio de Jinámar, en el municipio grancanario de Telde, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de aproximadamente 40 año de edad haber resultar hoy herir con traumatismo costal de carácter menos grave tras ser atropellar por uno turismo en el barrio de jinámar en el municipio grancanario de telde según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón aproximadamente año edad haber resultar herir traumatismo costal carácter grave ser atropellar turismo barrio jinámar municipio grancanario telde informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Jinámar",
+            "Telde"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "40",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron sobre las 07.47 horas, cuando un alertante accidental avisó al Cecoes del incidente acontecido en la tercera fase de Jinámar, a la altura del número 16. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazó una ambulancia sanitarizada del Servicio de Urgencias Canario, que evacuó al afectado al Hospital Universitario Insular de Gran Canaria. En esta actuación intervino la Policía Local del municipio teldense, que se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el hecho ocurrir sobre el TM_h:7.47 cuando uno alertante accidental avisar a el cecoes de el incidente acontecer en el 3 fase de jinámar a el altura de el número 16 de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar uno ambulancia sanitarizada de el servicio_de_urgencias_canario que evacuar a el afectar a el hospital_universitario_insular_de_gran_canaria en este actuación intervenir el policía_local de el municipio teldense que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho ocurrir alertante accidental avisar cecoes incidente acontecer 3 fase jinámar altura número modo activar inmediato dispositivo emergencia necesario lugar desplazar ambulancia sanitarizada servicio_de_urgencias_canario evacuar afectar hospital_universitario_insular_de_gran_canaria actuación intervenir policía_local municipio teldense encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Jinámar"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.47",
+            "16",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590393/0/",
+    "title": {
+        "raw_text": "Cáritas denuncia que el Gobierno canario deniega una subvención de 120.000 euros para mujeres desfavorecidas",
+        "lemmatized_text": "cáritas denunciar que el gobierno canario denegar uno subvención de $_ECU:120 para mujer desfavorecer",
+        "lemmatized_text_reduced": "cáritas denunciar gobierno canario denegar subvención mujer desfavorecer",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cáritas",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:120"
+        ]
+    },
+    "lead": {
+        "raw_text": "Cáritas Diocesana de Canarias ha denunciado hoy que el Instituto Canario de la Mujer (ICM), dependiente del Gobierno autonómico, le ha denegado los 120.000 euros correspondientes a la subvención anual que recibe la organización para poder llevar a cabo un programa de ayuda a las mujeres desfavorecidas.",
+        "lemmatized_text": "cáritas_diocesana_de_canarias haber denunciar hoy que el instituto_canario_de_la_mujer icm dependiente de el gobierno autonómico le haber denegar el $_ECU:120 correspondiente a el subvención anual que recibir el organización para poder llevar_a_cabo uno programa de ayuda a el mujer desfavorecer",
+        "lemmatized_text_reduced": "cáritas_diocesana_de_canarias haber denunciar instituto_canario_de_la_mujer icm dependiente gobierno autonómico haber denegar correspondiente subvención anual recibir organización poder llevar_a_cabo programa ayuda mujer desfavorecer",
+        "persons": [
+            "Cáritas_Diocesana_de_Canarias"
+        ],
+        "locations": [],
+        "organizations": [
+            "Instituto_Canario_de_la_Mujer",
+            "ICM",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:120"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó Cáritas en nota de prensa, \"las mujeres son las que más altas tasas de pobreza presentan y las que menos mecanismos tienen a su alcance para superar su situación de desventaja social\". Por tanto, este recorte presupuestario, que también han hecho efectivo otras administraciones, hace que el colectivo femenino se encuentre en una situación \"totalmente precaria\" de cara al 2010 ya que en su presupuesto sólo cuenta con 17.870 euros para el desarrollo del Programa de Mujer Acerina y el mantenimiento de los dos centros de atención a la mujer. No obstante, el Cabildo de Gran Canaria es quien se ha hecho cargo de la totalidad del dinero presupuestado para el presente año ante el recorte de partidas llevado a cabo por el Gobierno de Canarias. Por ello, Cáritas ha querido \"concienciar\" a la población de lo que supondría el cierre de los centros para mujeres, que dejarían de atender a 600 usuarias y a sus familias, quedando éstas en \"absoluta desprotección y sin posibilidad de acceso a otros recursos que presten servicios similares, pues son inexistentes o están absolutamente saturados\". Ante esta situación, la ONG solicitó \"apoyo económico para la sostenibilidad de estos centros que atienden a las mujeres en exclusión socio-laboral\", a la vez que exigió a las instituciones que \"cumplan con sus funciones y objetivos poniendo sus recursos económicos y humano a favor de la ciudadanía\".",
+        "lemmatized_text": "según informar cáritas en nota de prensa el mujer ser el que más alto tasa de pobreza presentar y el que menos mecanismo tener a su alcance para superar su situación de desventaja social por tanto este recorte presupuestario que también haber hacer efectivo otro administración hacer que el colectivo femenino se encontrar en uno situación totalmente precario de cara a el 2010 ya_que en su presupuesto sólo contar con $_ECU:17.87 para el desarrollo de el programa_de_mujer_acerina y el mantenimiento de el 2 centro de atención a el mujer no_obstante el cabildo_de_gran_canaria ser quien se haber hacer_cargo de el totalidad de el dinero presupuestar para el presente año ante el recorte de partida llevar_a_cabo por el gobierno_de_canarias por ello cáritas haber querer concienciar a el población de el que suponer el cierre de el centro para mujer que dejar de atender a 600 usuario y a su familia quedar este en absoluto desprotección y sin posibilidad de acceso a otro recurso que prestar servicio similar pues ser inexistente o estar absolutamente saturar ante este situación el ong solicitar apoyo económico para el sostenibilidad de este centro que atender a el mujer en exclusión socio-laboral a_la_vez_que exigir a el institución que cumplir con su función y objetivo poner su recurso económico y humano a_favor_de el ciudadanía",
+        "lemmatized_text_reduced": "informar cáritas nota prensa mujer ser alto tasa pobreza presentar mecanismo tener alcance superar situación desventaja social recorte presupuestario haber hacer efectivo administración hacer colectivo femenino encontrar situación totalmente precario cara presupuesto contar desarrollo programa_de_mujer_acerina mantenimiento centro atención mujer cabildo_de_gran_canaria ser haber hacer_cargo totalidad dinero presupuestar presente año recorte partida llevar_a_cabo gobierno_de_canarias cáritas haber querer concienciar población suponer cierre centro mujer dejar atender usuario familia quedar absoluto desprotección posibilidad acceso recurso prestar servicio similar ser inexistente estar absolutamente saturar situación ong solicitar apoyo económico sostenibilidad centro atender mujer exclusión socio-laboral exigir institución cumplir función objetivo poner recurso económico humano ciudadanía",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cáritas",
+            "Cabildo_de_Gran_Canaria",
+            "Gobierno_de_Canarias",
+            "Cáritas",
+            "ONG"
+        ],
+        "others": [
+            "Programa_de_Mujer_Acerina"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "$_ECU:17.87",
+            "2",
+            "600"
+        ]
+    }
+}

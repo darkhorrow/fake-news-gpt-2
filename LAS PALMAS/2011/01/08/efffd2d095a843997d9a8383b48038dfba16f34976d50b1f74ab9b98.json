@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922807/0/",
+    "title": {
+        "raw_text": "Hallan el cadáver de un mujer en una pista de tierra en Fuerteventura",
+        "lemmatized_text": "hallar el cadáver de uno mujer en uno pista de tierra en fuerteventura",
+        "lemmatized_text_reduced": "hallar cadáver mujer pista tierra fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Hallan el cadáver de una mujer en una pista de tierra de la isla de Fuerteventura, según informó el Centro Coordinador de Emergencias y Seguridad del 112.",
+        "lemmatized_text": "hallar el cadáver de uno mujer en uno pista de tierra de el isla de fuerteventura según informar el centro_coordinador_de_emergencias y seguridad de el 112",
+        "lemmatized_text_reduced": "hallar cadáver mujer pista tierra isla fuerteventura informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Hallan el cadáver de una mujer en una pista de tierra de la isla de Fuerteventura, según informó el Centro Coordinador de Emergencias y Seguridad del 112. El 112 recibió una alerta este sábado en el que se informaba de que una mujer, de unos 60 años de edad, se encontraba en una pista de tierra situada entre los municipios de Corralejo y El Cotillo. Hasta el lugar se trasladó además de personal del Servicio de Urgencias Canario (SUC), bomberos, así como agentes de la Policía Local y de la Guardia Civil, que realizaron las instrucciones correspondientes y pasaron el caso a disposición judicial.",
+        "lemmatized_text": "hallar el cadáver de uno mujer en uno pista de tierra de el isla de fuerteventura según informar el centro_coordinador_de_emergencias y seguridad de el 112 el 112 recibir uno alerta este [S:??/??/??:??.??:??] en el que se informar de que uno mujer de uno 60 año de edad se encontrar en uno pista de tierra situar entre el municipio de corralejo y el_cotillo hasta el lugar se trasladar además_de personal de el servicio_de_urgencias_canario suc bombero así_como agente de el policía_local y de el guardia_civil que realizar el instrucción correspondiente y pasar el caso a disposición judicial",
+        "lemmatized_text_reduced": "hallar cadáver mujer pista tierra isla fuerteventura informar centro_coordinador_de_emergencias seguridad recibir alerta informar mujer año edad encontrar pista tierra situar municipio corralejo el_cotillo lugar trasladar personal servicio_de_urgencias_canario suc bombero agente policía_local guardia_civil realizar instrucción correspondiente pasar caso disposición judicial",
+        "persons": [],
+        "locations": [
+            "Corralejo",
+            "El_Cotillo"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "112",
+            "60"
+        ]
+    }
+}

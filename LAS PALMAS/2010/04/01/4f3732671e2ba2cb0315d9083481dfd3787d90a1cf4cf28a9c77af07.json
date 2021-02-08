@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/666824/0/",
+    "title": {
+        "raw_text": "Air Europa comienza hoy a cobrar 50 euros por la segunda maleta aunque aplicará excepciones con residentes canarios",
+        "lemmatized_text": "air europa comenzar hoy a cobrar $_ECU:50 por el 2 maleta aunque aplicar excepción con residente canario",
+        "lemmatized_text_reduced": "air europa comenzar cobrar 2 maleta aplicar excepción residente canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Europa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:50"
+        ]
+    },
+    "lead": {
+        "raw_text": "Pagarán 14 euros por el sobrepeso en la segunda maleta si no supera los 32 kilogramos",
+        "lemmatized_text": "pagar $_ECU:14 por el sobrepeso en el 2 maleta si no superar el WG_kg:32",
+        "lemmatized_text_reduced": "pagar sobrepeso 2 maleta superar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:14",
+            "WG_kg:32"
+        ]
+    },
+    "body": {
+        "raw_text": "Air Europa comienza hoy a cobrar entre 50 y 60 euros por la segunda maleta de hasta 23 kilogramos de peso que se facture en clase turista —exceptuando la tarifa 'turista completa'—, aunque aplicará algunas excepciones con los residentes canarios y baleares, quienes deberán aportar 14 euros por la segunda maleta siempre que no supere los 32 kilogramos, según la tabla de precios publicada en su página web. Concretamente, el coste será de 50 euros cuando la segunda maleta se facture de manera anticipada y 60 euros al hacerlo el mismo día de la salida, medida que no afectará a los pasajeros de clase 'business'. Estos cambios se aplicarán únicamente a las reservas realizadas a partir de hoy, por lo que los billetes adquiridos con anterioridad no se verán afectados en ningún caso. Su aplicación se extiende a todos los itinerarios, debido a los \"problemas derivados del elevado peso de la carga transportada por los aviones de la aerolínea\". La tarifa por sobrepeso —al exceder los 23 kilos— también tiene un coste de entre 50 y 60 euros en función del método de facturación, aunque en este caso se aplicará una excepción a los residentes de Baleares y Canarias, quienes sólo deberán aportar 14 euros siempre que la maleta no supere los 32 kilos.SPANAIR Spanair fue la primera aerolínea en incorporar este año recargo por el uso de un segundo bulto, tras aplicar desde mediados de enero una tasa de 50 euros por este concepto en las reservas efectuadas a través de su web y de 60 euros al facturar en el aeropuerto. Sin embargo, la compañía aplica desde esta semana un descuento del 50% en el precio de la segunda maleta a los residente en Canarias y Baleares, lo que supone que con una maleta de menos de 15 kilos los habitantes estas comunidades pagarán 25 euros —frente a los 50 que se pagan actualmente—, y si se supera este peso se pagarán 50 euros y no los 100 que costaba hasta ahora.IBERIA Por su parte, Iberia también comenzó el pasado 1 de marzo a cobrar por la segunda maleta bajo las mismas condiciones que ha incorporado hoy Air Europa, aplicando una tarifa especial a los residentes en Canarias y Baleares similar a la incorporada hoy por Air Europa, aunque por un precio de 15 euros. Junto a esta medida, la compañía anunció también un incremento de hasta 46 kilos en dos maletas la franquicia de la clase 'business'.",
+        "lemmatized_text": "air europa comenzar hoy a cobrar entre 50 y $_ECU:60 por el 2 maleta de hasta WG_kg:23 de peso que se facturar en clase turista exceptuar el tarifa turista completo aunque aplicar alguno excepción con el residente canario y balear quien deber aportar $_ECU:14 por el 2 maleta siempre que no superar el WG_kg:32 según el tabla de precio publicar en su página web concretamente el coste ser de $_ECU:50 cuando el 2 maleta se facturar de manera anticipar y $_ECU:60 a el hacer lo el mismo día de el salida medida que no afectar a el pasajero de clase business este cambio se aplicar únicamente a el reserva realizar a_partir_de hoy por el que el billete adquirir con anterioridad no se ver afectar en ninguno caso su aplicación se extender a todo el itinerario debido_a el problema derivar de el elevar peso de el carga transportar por el avión de el aerolínea el tarifa por sobrepeso a el exceder el 23 kilo también tener uno coste de entre 50 y $_ECU:60 en función de el método de facturación aunque en este caso se aplicar uno excepción a el residente de baleares y canarias quien sólo deber aportar $_ECU:14 siempre que el maleta no superar el 32 kilo spanair_spanair ser el 1 aerolínea en incorporar este año recargo por el uso de uno 2 bulto tras aplicar desde mediar de [??:??/1/??:??.??:??] uno tasa de $_ECU:50 por este concepto en el reserva efectuar a_través_de su web y de $_ECU:60 a el facturar en el aeropuerto sin embargo el compañía aplicar desde este semana uno descuento de el 50/100 en el precio de el 2 maleta a el residente en canarias y baleares el que suponer que con uno maleta de menos de 15 kilo el habitante este comunidad pagar $_ECU:25 frente_a el 50 que se pagar actualmente y si se superar este peso se pagar $_ECU:50 y no el 100 que costar hasta ahora iberia_por su parte iberia también comenzar el [??:1/3/??:??.??:??] a cobrar por el 2 maleta bajo el mismo condición que haber incorporar hoy air_europa aplicar uno tarifa especial a el residente en canarias y baleares similar a el incorporar hoy por air_europa aunque por uno precio de $_ECU:15 junto_a este medida el compañía anunciar también uno incremento de hasta 46 kilo en 2 maleta el franquicia de el clase business",
+        "lemmatized_text_reduced": "air europa comenzar cobrar 2 maleta peso facturar clase turista exceptuar tarifa turista completo aplicar excepción residente canario balear deber aportar 2 maleta superar tabla precio publicar página web concretamente coste ser 2 maleta facturar manera anticipar hacer mismo día salida medida afectar pasajero clase business cambio aplicar únicamente reserva realizar billete adquirir anterioridad ver afectar caso aplicación extender itinerario problema derivar elevar peso carga transportar avión aerolínea tarifa sobrepeso exceder kilo tener coste función método facturación caso aplicar excepción residente baleares canarias deber aportar maleta superar kilo spanair_spanair ser 1 aerolínea incorporar año recargo uso 2 bulto aplicar mediar tasa concepto reserva efectuar web facturar aeropuerto embargo compañía aplicar semana descuento precio 2 maleta residente canarias baleares suponer maleta kilo habitante comunidad pagar pagar actualmente superar peso pagar costar iberia_por parte iberia comenzar cobrar 2 maleta mismo condición haber incorporar air_europa aplicar tarifa especial residente canarias baleares similar incorporar air_europa precio medida compañía anunciar incremento kilo maleta franquicia clase business",
+        "persons": [],
+        "locations": [
+            "Baleares",
+            "Canarias",
+            "Canarias",
+            "Baleares",
+            "Canarias",
+            "Baleares"
+        ],
+        "organizations": [
+            "Europa",
+            "SPANAIR_Spanair",
+            "IBERIA_Por",
+            "Iberia",
+            "Air_Europa",
+            "Air_Europa"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:1/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "$_ECU:60",
+            "WG_kg:23",
+            "$_ECU:14",
+            "WG_kg:32",
+            "$_ECU:50",
+            "$_ECU:60",
+            "23",
+            "50",
+            "$_ECU:60",
+            "$_ECU:14",
+            "32",
+            "$_ECU:50",
+            "$_ECU:60",
+            "50/100",
+            "15",
+            "$_ECU:25",
+            "50",
+            "$_ECU:50",
+            "100",
+            "$_ECU:15",
+            "46",
+            "2"
+        ]
+    }
+}

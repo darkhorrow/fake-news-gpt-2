@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641443/0/",
+    "title": {
+        "raw_text": "Cuatro detenidos por agredir y robar a dos súbditos británicos en Lanzarote",
+        "lemmatized_text": "4 detenido por agredir y robar a 2 súbdito británico en lanzarote",
+        "lemmatized_text_reduced": "detenido agredir robar súbdito británico lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil del Puesto Principal de Tías, en Lanzarote, ha detenido a cuatro súbditos de origen marroquí por presuntamente haber agredido y robado a dos súbditos británicos en los alrededores del Centro Comercial Atlántico, ubicado en la zona turística de Puerto del Carmen.",
+        "lemmatized_text": "el guardia_civil_del_puesto_principal_de_tías en lanzarote haber detener a 4 súbdito de origen marroquí por presuntamente haber agredir y robar a 2 súbdito británico en el alrededor de el centro_comercial_atlántico ubicar en el zona turístico de puerto_del_carmen",
+        "lemmatized_text_reduced": "guardia_civil_del_puesto_principal_de_tías lanzarote haber detener súbdito origen marroquí presuntamente haber agredir robar súbdito británico alrededor centro_comercial_atlántico ubicar zona turístico puerto_del_carmen",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Puerto_del_Carmen"
+        ],
+        "organizations": [
+            "Guardia_Civil_del_Puesto_Principal_de_Tías",
+            "Centro_Comercial_Atlántico"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los arrestados han sido identificados como B.E.M., M,G., F.T. y M.O.A., acusados de un supuesto delito de robo con violencia, según informa la Benemérita en un comunicado. Los hechos ocurrieron el pasado 22 de febrero, cuando dos ciudadanos británicos presentaron una denuncia por supuesto delito de robo con violencia con resultado de lesiones, ya que uno de ellos sufrió una rotura de tímpano. Según su versión, los denunciantes fueron abordados por cuatro hombres que, tras agredirles, les sustrajeron una cartera y una pulsera de oro, valorada en unos 950 euros. Después de realizar el análisis del 'modus operandi' de los agresores, los agentes del área de Investigación del Puesto Principal de Tías consiguieron identificar y detener a cuatro individuos como presuntos autores del hecho, todos de nacionalidad marroquí. Las diligencias junto con los detenidos fueron entregados en el Juzgado de Guardia e Instrucción número siete de Arrecife.",
+        "lemmatized_text": "el arrestar haber ser identificar como b.e.m. m g. f.t. y m.o.a. acusar de uno suponer delito de robo con violencia según informar el benemérita en uno comunicado el hecho ocurrir el [??:22/2/??:??.??:??] cuando 2 ciudadano británico presentar uno denuncia por_supuesto delito de robo con violencia con resultado de lesión ya_que uno de ellos sufrir uno rotura de tímpano según su versión el denunciante ser abordar por 4 hombre que tras agredir le le sustraer uno cartera y uno pulsera de oro valorar en uno $_ECU:950 después_de realizar el análisis de el modus operandi de el agresor el agente de el área de investigación_del_puesto_principal_de_tías conseguir identificar y detener a 4 individuo como presunto autor de el hecho todo de nacionalidad marroquí el diligencia junto_con el detenido ser entregar en el juzgado_de_guardia y instrucción número 7 de arrecife",
+        "lemmatized_text_reduced": "arrestar haber ser identificar b.e.m. m g. f.t. m.o.a. acusar suponer delito robo violencia informar benemérita comunicado hecho ocurrir ciudadano británico presentar denuncia delito robo violencia resultado lesión sufrir rotura tímpano versión denunciante ser abordar hombre agredir sustraer cartera pulsera oro valorar realizar análisis modus operandi agresor agente área investigación_del_puesto_principal_de_tías conseguir identificar detener individuo presunto autor hecho nacionalidad marroquí diligencia detenido ser entregar juzgado_de_guardia instrucción número arrecife",
+        "persons": [],
+        "locations": [
+            "Investigación_del_Puesto_Principal_de_Tías",
+            "Arrecife"
+        ],
+        "organizations": [
+            "B.E.M.",
+            "G.",
+            "F.T.",
+            "M.O.A.",
+            "Benemérita",
+            "Juzgado_de_Guardia",
+            "Instrucción"
+        ],
+        "others": [
+            "M"
+        ],
+        "dates": [
+            "[??:22/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "4",
+            "$_ECU:950",
+            "4",
+            "7"
+        ]
+    }
+}

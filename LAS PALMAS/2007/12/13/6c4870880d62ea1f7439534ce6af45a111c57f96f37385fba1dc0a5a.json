@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/321329/0/fuertes/vientos/canarias/",
+    "title": {
+        "raw_text": "Rachas de viento de 80 kilómetros por hora al sur de Gran Canaria",
+        "lemmatized_text": "racha de viento de SP_km/h:80 a el sur de gran_canaria",
+        "lemmatized_text_reduced": "racha viento sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:80"
+        ]
+    },
+    "lead": {
+        "raw_text": "Es un récord para la isla en esta temporada. 75 Km/h en algunas zonas de Las Palmas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "ser uno récord para el isla en este temporada SP_km/h:75 en alguno zona de las_palmas consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ser récord isla temporada zona las_palmas consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:75"
+        ]
+    },
+    "body": {
+        "raw_text": "El Instituto Nacional de Meteorología en Canarias, confirmó en que Mogán , Gran Canaria, ha sido el punto del archipiélago donde más intenso ha sido el viento durante esta madrugada, con picos de hasta 80 kilómetros hora , tras los registros de la estación meteorológica de Izaña, en Tenerife, donde se han alcanzado los 120 kilómetros hora. Izaña, a 2.500 metros de altitud, una de las estaciones meteorológicas ubicadas a más altitud de España, siempre se sitúa \"a la cabeza\" de este listado de lugares con más intensidad de viento. Donde también se hizo sentir muy fuerte el viento fue en La Aldea de San Nicolás, donde desde las doce de la madrugada a las cinco de la mañana se registraron rachas de 75 kilómetros horas , al igual que en el barrio de San Cristóbal en Las Palmas de Gran Canaria. En el Aeropuerto Internacional de Gran Canaria se sintió con menos intensidad. Las rachas llegaron a un máximo de 50 kilómetros hora. En la zona turística de Maspalomas la velocidad se pudo sentir hasta los 70 kilómetros por hora. Los fuertes vientos presentes durante toda la madrugada han provocado innumerables caídas de la iluminación navideña, árboles y vallas en toda la isla, sin que hasta el momento se hayan registrado importantes pérdidas materiales o humanas. Alerta amarilla El nivel amarillo de emergencia continúa en toda Canarias durante todo el día de hoy y hasta las dos de la mañana del viernes 14 , por fenómeno meteorológico relacionado con lluvias y viento. De hecho se pronostican rachas máximas \"que pueden superar los 75 kilómetros hora y 15 litros por metro cuadrado\". El viento que ha soplado hasta ahora viene \"del sur-sureste bastante seco\", pero a partir de ahora \"entrará un aire más húmedo por el sur\". Con ello \"cesará la intensidad del viento pero habrá más humedad y se formará más nubosidad\" y se espera que el factor principal en las próximas horas \"sea la lluvia más que el viento\". \"De cara a mañana disminuirá la fuerza del viento y la posibilidad de las lluvias\", aunque la inestabilidad se mantendrá en los próximos días. Durante el fin de semana \"predominará la inestabilidad atmosférica con intervalos nubosos y vientos moderados\". CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el instituto_nacional_de_meteorología en canarias confirmar en que mogán gran_canaria haber ser el punto de el archipiélago donde más intenso haber ser el viento durante este madrugada con pico de hasta LN_km:80 hora tras el registro de el estación meteorológico de izaña en tenerife donde se haber alcanzar el LN_km:120 hora izaña a LN_m:2.5 de altitud uno de el estación meteorológico ubicar a más altitud de españa siempre se situar a el cabeza de este listado de lugar con más intensidad de viento donde también se hacer sentir muy fuerte el viento ser en la_aldea_de_san_nicolás donde desde el [??:??/??/??:12.00:am] a el [??:??/??/??:5.00:am] se registrar racha de LN_km:75 hora al_igual_que en el barrio de san_cristóbal en las_palmas_de_gran_canaria en el aeropuerto_internacional_de_gran_canaria se sentir con menos intensidad el racha llegar a uno máximo de LN_km:50 hora en el zona turístico de maspalomas el velocidad se poder sentir hasta el SP_km/h:70 el fuerte viento presente durante todo el madrugada haber provocar innumerable caída de el iluminación navideño árbol y valla en todo el isla sin que hasta el momento se haber registrar importante pérdida material o humano alerta amarillo el nivel amarillo de emergencia continuar en todo canarias durante todo el día de hoy y hasta el [V:14/??/??:2.00:am] por fenómeno meteorológico relacionar con lluvia y viento de hecho se pronosticar racha máximo que poder superar el LN_km:75 hora y CB_l/m2:15 el viento que haber soplar hasta ahora venir de el sur-sureste bastante seco pero a_partir_de ahora entrar uno aire más húmedo por el sur con ello cesar el intensidad de el viento pero haber más humedad y se formar más nubosidad y se esperar que el factor principal en el próximo hora ser el lluvia más que el viento de_cara_a mañana disminuir el fuerza de el viento y el posibilidad de el lluvia aunque el inestabilidad se mantener en el próximo día durante el fin de semana predominar el inestabilidad atmosférico con intervalo nuboso y viento moderar consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "instituto_nacional_de_meteorología canarias confirmar mogán gran_canaria haber ser punto archipiélago intenso haber ser viento madrugada pico hora registro estación meteorológico izaña tenerife haber alcanzar hora izaña altitud estación meteorológico ubicar altitud españa situar cabeza listado lugar intensidad viento hacer sentir fuerte viento ser la_aldea_de_san_nicolás registrar racha hora barrio san_cristóbal las_palmas_de_gran_canaria aeropuerto_internacional_de_gran_canaria sentir intensidad racha llegar máximo hora zona turístico maspalomas velocidad poder sentir fuerte viento presente madrugada haber provocar innumerable caída iluminación navideño árbol valla isla momento haber registrar importante pérdida material humano amarillo el nivel amarillo emergencia continuar canarias día fenómeno meteorológico relacionar lluvia viento hecho pronosticar racha máximo poder superar hora viento haber soplar venir sur-sureste seco entrar aire húmedo sur cesar intensidad viento haber humedad formar nubosidad esperar factor principal próximo hora ser lluvia viento disminuir fuerza viento posibilidad lluvia inestabilidad mantener próximo día fin semana predominar inestabilidad atmosférico intervalo nuboso viento moderar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Mogán",
+            "Gran_Canaria",
+            "Izaña",
+            "El"
+        ],
+        "locations": [
+            "Canarias",
+            "Izaña",
+            "Tenerife",
+            "España",
+            "La_Aldea_de_San_Nicolás",
+            "San_Cristóbal",
+            "Las_Palmas_de_Gran_Canaria",
+            "Aeropuerto_Internacional_de_Gran_Canaria",
+            "Maspalomas",
+            "Canarias"
+        ],
+        "organizations": [
+            "Instituto_Nacional_de_Meteorología",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:am]",
+            "[??:??/??/??:5.00:am]",
+            "[V:14/??/??:2.00:am]"
+        ],
+        "numbers": [
+            "LN_km:80",
+            "LN_km:120",
+            "LN_m:2.5",
+            "LN_km:75",
+            "LN_km:50",
+            "SP_km/h:70",
+            "LN_km:75",
+            "CB_l/m2:15"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/592374/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo sigue sin localizar al marinero filipino que cayó al agua en la madrugada del viernes",
+        "lemmatized_text": "salvamento_marítimo seguir sin localizar a el marinero filipino que caer a el agua en el madrugada de el [V:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "salvamento_marítimo seguir localizar marinero filipino caer agua madrugada",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Salvamento Marítimo de Las Palmas ha asegurado hoy que continúa sin localizar al marinero de nacionalidad filipina desaparecido tras caer al agua desde una embarcación en la madrugada del pasado viernes.",
+        "lemmatized_text": "salvamento_marítimo_de_las_palmas haber asegurar hoy que continuar sin localizar a el marinero de nacionalidad filipino desaparecer tras caer a el agua desde uno embarcación en el madrugada de el [V:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "salvamento_marítimo_de_las_palmas haber asegurar continuar localizar marinero nacionalidad filipino desaparecer caer agua embarcación madrugada",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Salvamento_Marítimo_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El organismo encargado de los servicios de búsqueda y rescate de la provincia recordó que el hombre se precipitó por la borda de la embarcación, también originaria de Filipinas, a 30 millas del norte de Lanzarote. Asimismo, Salvamento Marítimo indicó que a pesar de no tener rastro del desaparecido, continúan las labores de búsqueda en la zona a la que se ha desplazado un avión del organismo, el Helimer 208, y la embarcación Salvamar Atlántico.",
+        "lemmatized_text": "el organismo encargar de el servicio de búsqueda y rescate de el provincia recordar que el hombre se precipitar por el borda de el embarcación también originario de filipinas a LN_mi:30 de el norte de lanzarote asimismo salvamento_marítimo indicar que a_pesar_de no tener rastro de el desaparecer continuar el labor de búsqueda en el zona a el que se haber desplazar uno avión de el organismo el helimer 208 y el embarcación salvamar_atlántico",
+        "lemmatized_text_reduced": "organismo encargar servicio búsqueda rescate provincia recordar hombre precipitar borda embarcación originario filipinas norte lanzarote salvamento_marítimo indicar tener rastro desaparecer continuar labor búsqueda zona haber desplazar avión organismo helimer embarcación salvamar_atlántico",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamar_Atlántico"
+        ],
+        "locations": [
+            "Filipinas",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Helimer"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:30",
+            "208"
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/394583/0/",
+    "title": {
+        "raw_text": "Aumenta a 188 el número de inmigrantes llegados hoy a Gran Canaria",
+        "lemmatized_text": "aumentar a 188 el número de inmigrante llegar hoy a gran_canaria",
+        "lemmatized_text_reduced": "aumentar número inmigrante llegar gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "188"
+        ]
+    },
+    "lead": {
+        "raw_text": "50 inmigrantes se suman esta tarde a los 138 llegados de madrugada. Entre los indocumentados viajaban 34 posibles menores Otra embarcación fue hallada vacía en la costa sureste de la isla. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "50 inmigrante se sumar este tarde a el 138 llegar de_madrugada entre el indocumentado viajar 34 posible menor otra embarcación ser hallar vacío en el costa sureste de el isla consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "inmigrante sumar tarde llegar indocumentado viajar posible menor otra embarcación ser hallar vacío costa sureste isla consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Otra"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50",
+            "138",
+            "34"
+        ]
+    },
+    "body": {
+        "raw_text": "Una embarcación con 50 inmigrantes arribó esta tarde al sur de Gran Canaria, con lo que se eleva a 188 el número de africanos que han llegado hoy por mar a la isla. Fuentes de los servicios de emergencias informaron de que la embarcación fue detectada a cien metros de la costa y llegó a la zona turística del Faro de Maspalomas por sus propios medios cerca de las cinco y media de la tarde. Otros dos cayucos con 138 inmigrantes subsaharianos a bordo, entre ellos 34 menores , llegaron esta madrugada al suroeste Gran Canaria , donde fueron atendidos por personal de la Cruz Roja, informaron a Efe fuentes de los servicios de emergencias. Las embarcaciones arribadas de madrugada llegaron hasta la costa sin ser detectados , lo que se suma a una tercera embarcación encontrada en el sureste de la isla sin ropa ni rastro de sus ocupantes, pero sí con bidones de combustible. Los ocupantes del cayuco declararon que llevaban siete días en alta mar. El primero de los cayucos llegó en torno a las 5.40 horas de la madrugada a la playa turística de Puerto Rico , donde desembarcaron por su propio pie 76 varones subsaharianos, entre ellos 21 menores a los que se les realizará la prueba ósea para confirmar su edad. Los ocupantes del cayuco declararon a su llegada que partieron de Senegal y pasaron siete días en alta mar. Poco después, a las seis de la mañana, la Policía Local de Mogán alertó de la llegada de otro cayuco, en esta ocasión al puerto de esta localidad, con 62 inmigrantes subsaharianos a bordo, 13 de ellos menores de edad. Los adultos fueron trasladados a las dependencias policiales de Maspalomas y los menores serán llevados a un centro de acogida .",
+        "lemmatized_text": "uno embarcación con 50 inmigrante arribar este tarde a el sur de gran_canaria con el que se elevar a 188 el número de africano que haber llegar hoy por mar a el isla fuentes de el servicio de emergencia informar de que el embarcación ser detectar a LN_m:100 de el costa y llegar a el zona turístico de el faro_de_maspalomas por su propio medio cerca de el [??:??/??/??:5.30:pm] otro 2 cayucos con 138 inmigrante subsahariano a_bordo entre ellos 34 menor llegar este madrugada a el suroeste gran_canaria donde ser atender por personal de el cruz_roja informar a efe fuente de el servicio de emergencia el embarcación arribar de_madrugada llegar hasta el costa sin ser detectar el que se sumar a uno 3 embarcación encontrar en el sureste de el isla sin ropa ni rastro de su ocupante pero sí con bidón de combustible el ocupante de el cayuco declarar que llevar TM_d:7 en alto marzo el primero de el cayucos llegar en_torno_a el [??:??/??/??:5.00:am] a el playa turístico de puerto_rico donde desembarcar por su propio pie 76 varón subsahariano entre ellos 21 menor a el que se le realizar el prueba óseo para confirmar su edad el ocupante de el cayuco declarar a su llegada que partir de senegal y pasar TM_d:7 en alto marzo poco después a el [??:??/??/??:6.00:am] el policía_local_de_mogán alertar de el llegada de otro cayuco en este ocasión a el puerto de este localidad con 62 inmigrante subsahariano a_bordo 13 de ellos menor de edad el adulto ser trasladar a el dependencia policial de maspalomas y el menor ser llevar a uno centro de acogida",
+        "lemmatized_text_reduced": "embarcación inmigrante arribar tarde sur gran_canaria elevar número africano haber llegar mar isla fuentes servicio emergencia informar embarcación ser detectar costa llegar zona turístico faro_de_maspalomas propio medio cayucos inmigrante subsahariano menor llegar madrugada suroeste gran_canaria ser atender personal cruz_roja informar efe fuente servicio emergencia embarcación arribar llegar costa ser detectar sumar 3 embarcación encontrar sureste isla ropa rastro ocupante bidón combustible ocupante cayuco declarar llevar alto marzo el cayucos llegar playa turístico puerto_rico desembarcar propio pie varón subsahariano menor realizar prueba óseo confirmar edad ocupante cayuco declarar llegada partir senegal pasar alto marzo poco policía_local_de_mogán alertar llegada cayuco ocasión puerto localidad inmigrante subsahariano menor edad adulto ser trasladar dependencia policial maspalomas menor ser llevar centro acogida",
+        "persons": [
+            "Fuentes",
+            "Poco",
+            "Maspalomas"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Puerto_Rico",
+            "Senegal"
+        ],
+        "organizations": [
+            "Cruz_Roja",
+            "Efe",
+            "Policía_Local_de_Mogán"
+        ],
+        "others": [
+            "Faro_de_Maspalomas",
+            "El"
+        ],
+        "dates": [
+            "[??:??/??/??:5.30:pm]",
+            "[??:??/??/??:5.00:am]",
+            "[??:??/??/??:6.00:am]"
+        ],
+        "numbers": [
+            "50",
+            "188",
+            "LN_m:100",
+            "2",
+            "138",
+            "34",
+            "TM_d:7",
+            "76",
+            "21",
+            "TM_d:7",
+            "62",
+            "13"
+        ]
+    }
+}

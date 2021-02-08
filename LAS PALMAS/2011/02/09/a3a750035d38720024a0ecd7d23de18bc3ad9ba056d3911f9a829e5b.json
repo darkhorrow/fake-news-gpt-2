@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/954647/0/",
+    "title": {
+        "raw_text": "Localizan el cuerpo sin vida de un hombre en un barranco de Fuerteventura",
+        "lemmatized_text": "localizar el cuerpo sin vida de uno hombre en uno barranco de fuerteventura",
+        "lemmatized_text_reduced": "localizar cuerpo vida hombre barranco fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de emergencias han localizado este miércoles el cuerpo sin vida de un hombre en el Barranco de Butihondo, en el municipio de Pájara (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el servicio de emergencia haber localizar este [X:??/??/??:??.??:??] el cuerpo sin vida de uno hombre en el barranco_de_butihondo en el municipio de pájara fuerteventura según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "servicio emergencia haber localizar cuerpo vida hombre barranco_de_butihondo municipio pájara fuerteventura informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Butihondo",
+            "Pájara"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los servicios de emergencias han localizado este miércoles el cuerpo sin vida de un hombre en el Barranco de Butihondo, en el municipio de Pájara (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad 112. El cuerpo encontrado pertenece a un hombre, de unos 60 años de edad, que se había desvanecido en el citado barranco. Tras llegar al lugar el médico del centro de salud de la zona y el personal del Servicio de Urgencias Canario (SUC), sólo pudieron confirmar el fallecimiento del afectado. Hasta el lugar se trasladaron además agentes de la Policía Local y de la Guardia Civil, que se encargó de la custodia del cuerpo del fallecido hasta la llegada de la autoridad judicial e instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el servicio de emergencia haber localizar este [X:??/??/??:??.??:??] el cuerpo sin vida de uno hombre en el barranco_de_butihondo en el municipio de pájara fuerteventura según informar el centro_coordinador_de_emergencias y seguridad 112 el cuerpo encontrar pertenecer a uno hombre de uno 60 año de edad que se haber desvanecer en el citar barranco tras llegar a el lugar el médico de el centro de salud de el zona y el personal de el servicio_de_urgencias_canario suc sólo poder confirmar el fallecimiento de el afectar hasta el lugar se trasladar además agente de el policía_local y de el guardia_civil que se encargar de el custodia de el cuerpo de el fallecer hasta el llegada de el autoridad judicial y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "servicio emergencia haber localizar cuerpo vida hombre barranco_de_butihondo municipio pájara fuerteventura informar centro_coordinador_de_emergencias seguridad cuerpo encontrar pertenecer hombre año edad haber desvanecer citar barranco llegar lugar médico centro salud zona personal servicio_de_urgencias_canario suc poder confirmar fallecimiento afectar lugar trasladar agente policía_local guardia_civil encargar custodia cuerpo fallecer llegada autoridad judicial instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Butihondo",
+            "Pájara"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "60"
+        ]
+    }
+}

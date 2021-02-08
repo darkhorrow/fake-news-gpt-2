@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/657852/0/",
+    "title": {
+        "raw_text": "Darias asegura que \"falta cada vez menos para saber\" que hay en el pozo de Jinamar (Gran Canaria) pero pide paciencia",
+        "lemmatized_text": "darias asegurar que faltar cada vez menos para saber que haber en el pozo de jinamar gran_canaria pero pedir paciencia",
+        "lemmatized_text_reduced": "darias asegurar faltar vez saber haber pozo jinamar gran_canaria pedir paciencia",
+        "persons": [
+            "Darias"
+        ],
+        "locations": [
+            "Jinamar"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La delegada del Gobierno en Canarias, Carolina Darias, aseguró hoy que \"falta cada vez menos para saber de lo estamos hablando\" y si los restos del pozo de Jinamar (Gran Canaria) son de la niña desaparecida Sara Morales.",
+        "lemmatized_text": "el delegado de el gobierno en canarias carolina_darias asegurar hoy que faltar cada vez menos para saber de lo estar hablar y si el resto de el pozo de jinamar gran_canaria ser de el niño desaparecer sara_morales",
+        "lemmatized_text_reduced": "delegado gobierno canarias carolina_darias asegurar faltar vez saber estar hablar resto pozo jinamar gran_canaria ser niño desaparecer sara_morales",
+        "persons": [
+            "Carolina_Darias",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Canarias",
+            "Jinamar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Darias, presente en los terrenos, precisó que la Policía aún no ha podido bajar hasta el fondo del pozo y pidió paciencia mediática, ya \"que están trabajando\". La delegada del Gobierno en las islas quiso \"poner en valor\" el trabajo de la Policía en el acceso a un pozo que tiene 30 metros de profundidad. \"Quiero poner en valor el trabajo de los agentes y esperar\", fue lo único que quiso comentar.",
+        "lemmatized_text": "darias presente en el terreno precisar que el policía aun no haber poder bajar hasta el fondo de el pozo y pedir paciencia mediático ya que estar trabajar el delegado de el gobierno en el isla querer poner en valor el trabajo de el policía en el acceso a uno pozo que tener LN_m:30 de profundidad querer poner en valor el trabajo de el agente y esperar ser el único que querer comentar",
+        "lemmatized_text_reduced": "darias presente terreno precisar policía haber poder bajar fondo pozo pedir paciencia mediático estar trabajar delegado gobierno isla querer poner valor trabajo policía acceso pozo tener profundidad querer poner valor trabajo agente esperar ser único querer comentar",
+        "persons": [
+            "Darias"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "Gobierno",
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:30"
+        ]
+    }
+}

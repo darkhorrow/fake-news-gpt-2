@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/966112/0/",
+    "title": {
+        "raw_text": "Soria(PP) lamenta la muerte del socialista Carmelo Artiles y destaca que fue una persona \"muy consecuente\" con sus ideas",
+        "lemmatized_text": "soria pp lamentar el muerte de el socialista carmelo_artiles y destacar que ser uno persona muy consecuente con su idea",
+        "lemmatized_text_reduced": "soria pp lamentar muerte socialista carmelo_artiles destacar ser persona consecuente idea",
+        "persons": [
+            "Carmelo_Artiles"
+        ],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del PP de Canarias, José Manuel Soria, ha lamentado este lunes el fallecimiento del socialista y ex presidente del Cabildo de Gran Canaria Carmelo Artiles, del que destacó que fue una persona \"muy consecuente\" con sus ideas.",
+        "lemmatized_text": "el presidente de el pp_de_canarias josé_manuel_soria haber lamentar este [L:??/??/??:??.??:??] el fallecimiento de el socialista y ex presidente de el cabildo_de_gran_canaria_carmelo_artiles de el que destacar que ser uno persona muy consecuente con su idea",
+        "lemmatized_text_reduced": "presidente pp_de_canarias josé_manuel_soria haber lamentar fallecimiento socialista ex presidente cabildo_de_gran_canaria_carmelo_artiles destacar ser persona consecuente idea",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP_de_Canarias",
+            "Cabildo_de_Gran_Canaria_Carmelo_Artiles"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente del PP de Canarias, José Manuel Soria, ha lamentado este lunes el fallecimiento del socialista y ex presidente del Cabildo de Gran Canaria Carmelo Artiles, del que destacó que fue una persona \"muy consecuente\" con sus ideas. \"Lamento mucho que haya fallecido, que no haya podido remontar el iptus que tuvo hace algunos días, y lo lamento mucho además por lo que significaba no sólo como político sino como persona, siempre le vi una persona muy consecuente con sus ideas, unas ideas muy diferentes a las mías\", subrayó Soria en declaraciones a Europa Press. En este sentido, resaltó que \"en ningún momento\" vio a Artiles \"ningún atisbo de sectarismo cuando expresaba ideas diferentes a las de los demás\" lo que, matizó, en los tiempos que corren \"es algo digno de subrayar\". Como presidente del Cabildo de Gran Canaria, cargo que Soria también ha ocupado, el líder de los 'populares' en el archipiélago señaló que \"todos los presidentes de cabildo siempre\" intentan hacer \"lo mejor\" para la isla y destacó de Artiles el \"empeño que le puso siempre a disponer de una isla verde\". \"En aquel momento creo que era un objetivo que él tenía y que era compartido\", sentenció.",
+        "lemmatized_text": "el presidente de el pp_de_canarias josé_manuel_soria haber lamentar este [L:??/??/??:??.??:??] el fallecimiento de el socialista y ex presidente de el cabildo_de_gran_canaria_carmelo_artiles de el que destacar que ser uno persona muy consecuente con su idea lamento mucho que haber fallecer que no haber poder remontar el iptus que tener hacer alguno día y el lamento mucho además por el que significar no_sólo como político sino como persona siempre le ver uno persona muy consecuente con su idea uno idea muy diferente a el mío subrayar soria en declaración a europa_press en este sentido resaltar que en ninguno momento ver a artiles ninguno atisbo de sectarismo cuando expresar idea diferente a el de el demás el que matizar en el tiempo que correr ser algo digno de subrayar como presidente de el cabildo_de_gran_canaria cargo que soria también haber ocupar el líder de el popular en el archipiélago señalar que todo el presidente de cabildo siempre intentar hacer el mejor para el isla y destacar de artiles el empeño que le poner siempre a disponer de uno isla verde en aquel momento creer que ser uno objetivo que él tener y que ser compartir sentenciar",
+        "lemmatized_text_reduced": "presidente pp_de_canarias josé_manuel_soria haber lamentar fallecimiento socialista ex presidente cabildo_de_gran_canaria_carmelo_artiles destacar ser persona consecuente idea lamento haber fallecer haber poder remontar iptus tener hacer día lamento significar político persona ver persona consecuente idea idea diferente mío subrayar soria declaración europa_press sentido resaltar momento ver artiles atisbo sectarismo expresar idea diferente matizar tiempo correr ser digno subrayar presidente cabildo_de_gran_canaria cargo soria haber ocupar líder popular archipiélago señalar presidente cabildo intentar hacer mejor isla destacar artiles empeño poner disponer isla verde momento creer ser objetivo tener ser compartir sentenciar",
+        "persons": [
+            "José_Manuel_Soria",
+            "Artiles",
+            "Artiles"
+        ],
+        "locations": [
+            "Soria",
+            "Soria"
+        ],
+        "organizations": [
+            "PP_de_Canarias",
+            "Cabildo_de_Gran_Canaria_Carmelo_Artiles",
+            "Europa_Press",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/640255/0/",
+    "title": {
+        "raw_text": "Un hombre resulta herido tras sufrir un atropello en Lanzarote",
+        "lemmatized_text": "uno hombre resultar herir tras sufrir uno atropello en lanzarote",
+        "lemmatized_text_reduced": "hombre resultar herir sufrir atropello lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido después de ser atropellado por un vehículo este mediodía en el municipio de Teguise (Lanzarote), según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112 a Europa Press.",
+        "lemmatized_text": "uno hombre haber resultar herir después_de ser atropellar por uno vehículo este [??:??/??/??:12.00:pm] en el municipio de teguise lanzarote según informar fuente de el centro_coordinador_de_emergencias y seguridad 112 a europa_press",
+        "lemmatized_text_reduced": "hombre haber resultar herir ser atropellar vehículo municipio teguise lanzarote informar fuente centro_coordinador_de_emergencias seguridad europa_press",
+        "persons": [],
+        "locations": [
+            "Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Europa_Press"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo alrededor de las 16.00 horas en dicho municipio y el hombre resultó afectado en una de las piernas aunque se desconoce el carácter de gravedad de las heridas. Así, una vez fue alertado el 112, el personal del Servicio de Urgencias Canario (SUC) se personó en el lugar de los hechos donde atendieron al herido, al que finalmente trasladaron al Hospital José Molina Oroza de Lanzarote.",
+        "lemmatized_text": "el incidente se producir alrededor_de el TM_h:16 en decir municipio y el hombre resultar afectar en uno de el pierna aunque se desconocer el carácter de gravedad de el herida así uno vez ser alertar el 112 el personal de el servicio_de_urgencias_canario suc se personar en el lugar de el hecho donde atender a el herir a el que finalmente trasladar a el hospital_josé_molina_oroza_de_lanzarote",
+        "lemmatized_text_reduced": "incidente producir decir municipio hombre resultar afectar pierna desconocer carácter gravedad herida vez ser alertar personal servicio_de_urgencias_canario suc personar lugar hecho atender herir finalmente trasladar hospital_josé_molina_oroza_de_lanzarote",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_José_Molina_Oroza_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16",
+            "112"
+        ]
+    }
+}

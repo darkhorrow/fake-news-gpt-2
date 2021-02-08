@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/617191/0/",
+    "title": {
+        "raw_text": "El Hospitalito para el Carnaval de Las Palmas de Gran Canaria comenzará a estar operativo mañana",
+        "lemmatized_text": "el hospitalito_para_el_carnaval_de_las_palmas_de_gran_canaria comenzar a estar operativo mañana",
+        "lemmatized_text_reduced": "hospitalito_para_el_carnaval_de_las_palmas_de_gran_canaria comenzar estar operativo mañana",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Hospitalito_para_el_Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Hospitalito para el Carnaval de Las Palmas de Gran Canaria comenzará a estar operativo a partir de mañana, a lo que se unirá un equipo de más de 100 efectivos entre voluntarios y trabajadores, que ya trabajan desde el 26 de enero y permanecerán hasta el 21 de febrero, para prestar apoyo sanitario a las personas que acudan a esta fiesta.",
+        "lemmatized_text": "el hospitalito_para_el_carnaval_de_las_palmas_de_gran_canaria comenzar a estar operativo a_partir_de mañana a el que se unir uno equipo de más de 100 efectivo entre voluntario y trabajador que ya trabajar desde el [??:26/1/??:??.??:??] y permanecer hasta el [??:21/2/??:??.??:??] para prestar apoyo sanitario a el persona que acudir a este fiesta",
+        "lemmatized_text_reduced": "hospitalito_para_el_carnaval_de_las_palmas_de_gran_canaria comenzar estar operativo mañana unir equipo efectivo voluntario trabajador trabajar permanecer prestar apoyo sanitario persona acudir fiesta",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Hospitalito_para_el_Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:26/1/??:??.??:??]",
+            "[??:21/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "En cuanto a la ubicación del puesto médico del Hospitalito será en la calle Eduardo Benot, a la altura de El Refugio, en los alrededores del parque Santa Catalina, donde se celebran los Carnavales de la capital grancanaria. Además, el voluntariado y los médicos de Cruz Roja estarán en todos los actos del Carnaval, con especial presencia en las noches más importantes y de mayor participación de gente en la calle —fines de semana y lunes de carnaval—, donde estarán desde las 21.00 horas hasta las 6.30 horas, según informó el Ayuntamiento de Las Palmas de Gran Canaria en nota de prensa. Al puesto médico, donde trabajarán un total de 15 personas entre médicos, enfermeros y personal sanitario, se unen 50 voluntarios divididos en grupos de seis ó siete efectivos que estarán en la zona de ocio en el entorno del parque Santa Catalina por si fuera necesaria alguna intervención inmediata. Asimismo, del personal sanitario asignado a las seis ambulancias (una de ellas medicalizada) que permanecerán activadas, las noches de domingo a jueves habrá una veintena de efectivos sanitarios y médicos prestando servicio, así como dos ambulancias disponibles. En esta edición, al igual que el año pasado, Cruz Roja gestionará los servicios sanitarios del Carnaval durante las cabalgatas, con un mayor número de efectivos, un centenar de personas que comenzarán su labor a las 16.00 horas. En cuanto al entierro de la sardina, el dispositivo se trasladará a la playa de Las Canteras, comenzando a las 18.00 horas, y tras la quema de la sardina volverá al parque de Santa Catalina.",
+        "lemmatized_text": "en_cuanto_a el ubicación de el puesto médico de el hospitalito ser en el calle eduardo_benot a el altura de el_refugio en el alrededor de el parque santa_catalina donde se celebrar el carnavales de el capital grancanaria además el voluntariado y el médico de cruz_roja estar en todo el acto de el carnaval con especial presencia en el noche más importante y de mayor participación de gente en el calle fin de semana y [L:??/??/??:??.??:??] de carnaval donde estar desde el TM_h:21 hasta el TM_h:6.3 según informar el ayuntamiento_de_las_palmas_de_gran_canaria en nota de prensa a el puesto médico donde trabajar uno total de 15 persona entre médico enfermero y personal sanitario se unir 50 voluntario dividir en grupo de 6 ó 7 efectivo que estar en_la_zona_de ocio en el entorno de el parque santa_catalina por si ser necesario alguno intervención inmediato asimismo de el personal sanitario asignar a el 6 ambulancia uno de ellos medicalizada que permanecer activar el noche de [G:??/??/??:??.??:??] a [J:??/??/??:??.??:??] haber uno veintena de efectivo sanitario y médico prestar servicio así_como 2 ambulancia disponible en este edición al_igual_que el año pasar cruz_roja gestionar el servicio sanitario de el carnaval durante el cabalgata con uno mayor número de efectivo 100 de persona que comenzar su labor a el TM_h:16 en cuanto a el entierro de el sardina el dispositivo se trasladar a el playa de las_canteras comenzar a el TM_h:18 y tras el quema de el sardina volver a el parque de santa_catalina",
+        "lemmatized_text_reduced": "ubicación puesto médico hospitalito ser calle eduardo_benot altura el_refugio alrededor parque santa_catalina celebrar carnavales capital grancanaria voluntariado médico cruz_roja estar acto carnaval especial presencia noche importante mayor participación gente calle fin semana carnaval estar informar ayuntamiento_de_las_palmas_de_gran_canaria nota prensa puesto médico trabajar total persona médico enfermero personal sanitario unir voluntario dividir grupo efectivo estar ocio entorno parque santa_catalina ser necesario intervención inmediato personal sanitario asignar ambulancia medicalizada permanecer activar noche haber veintena efectivo sanitario médico prestar servicio ambulancia disponible edición año pasar cruz_roja gestionar servicio sanitario carnaval cabalgata mayor número efectivo persona comenzar labor entierro sardina dispositivo trasladar playa las_canteras comenzar quema sardina volver parque santa_catalina",
+        "persons": [],
+        "locations": [
+            "Eduardo_Benot",
+            "El_Refugio",
+            "Santa_Catalina",
+            "Santa_Catalina",
+            "Las_Canteras",
+            "Santa_Catalina"
+        ],
+        "organizations": [
+            "Hospitalito",
+            "Cruz_Roja",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Cruz_Roja"
+        ],
+        "others": [
+            "Carnavales",
+            "Carnaval",
+            "Carnaval"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21",
+            "TM_h:6.3",
+            "15",
+            "50",
+            "6",
+            "7",
+            "6",
+            "2",
+            "100",
+            "TM_h:16",
+            "TM_h:18"
+        ]
+    }
+}

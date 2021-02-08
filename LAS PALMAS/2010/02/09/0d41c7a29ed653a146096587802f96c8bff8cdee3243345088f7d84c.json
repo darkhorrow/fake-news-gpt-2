@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625381/0/",
+    "title": {
+        "raw_text": "Soraya y la cantante dance Crystal Waters actuarán en la gala Drag Queen de Las Palmas de Gran Canaria",
+        "lemmatized_text": "soraya y el cantante danzar crystal_waters actuar en el gala drag_queen_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "soraya cantante danzar crystal_waters actuar gala drag_queen_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Soraya",
+            "Crystal_Waters"
+        ],
+        "locations": [],
+        "organizations": [
+            "Drag_Queen_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La gala Drag Queen de Las Palmas de Gran Canaria --que tendrá lugar el próximo viernes 12, 21.00 horas-- contará con las actuaciones de la cantante Soraya, una de las artistas de mayor éxito salida del programa de televisión Operación Triunfo, y la norteamericana Cristal Waters, una de las actuales divas de la música dance, serán las invitadas del espectáculo de las plataformas y la trasgresión, informó hoy el Ayuntamiento capitalino en un comunicado.",
+        "lemmatized_text": "el gala drag_queen_de_las_palmas_de_gran_canaria que tener_lugar el [V:12/??/??:??.??:??] TM_h:21 contar con el actuación de el cantante soraya uno de el artista de mayor éxito salida de el programa de televisión operación_triunfo y el norteamericano cristal_waters uno de el actual diva de el música danzar ser el invitado de el espectáculo de el plataforma y el trasgresión informar hoy el ayuntamiento capitalino en uno comunicado",
+        "lemmatized_text_reduced": "gala drag_queen_de_las_palmas_de_gran_canaria tener_lugar contar actuación cantante soraya artista mayor éxito salida programa televisión operación_triunfo norteamericano cristal_waters actual diva música danzar ser invitado espectáculo plataforma trasgresión informar ayuntamiento capitalino comunicado",
+        "persons": [
+            "Soraya",
+            "Cristal_Waters"
+        ],
+        "locations": [],
+        "organizations": [
+            "Drag_Queen_de_Las_Palmas_de_Gran_Canaria",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Operación_Triunfo"
+        ],
+        "dates": [
+            "[V:12/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, Soraya, finalista de la cuarta edición de Operación Triunfo, tiene en el mercado 4 discos en los que recupera grandes éxitos que marcaron una época. Canciones imprescindibles para entender la dimensión del período más prolífero y creativo de la historia de la música dance. Así, en la Gala Drag interpretará algunos de los temas de su ultimo trabajo Sin miedo. Por su parte, Crystal Waters es conocida por sus dos éxitos en los años 1990: Gypsy Woman (She's Homeless) (1991) y 100% Pure Love (1994). En 1991, Gypsy Woman fue un éxito mundial y su estribillo era tarareado en todas las pistas de baile. La cantante, nacida en Filadelfia (EEUU), estuvo en los primeros puestos en los Billboard Hot 100 y fue un gran éxito en Europa. Sus producciones discográficas han vendido millones de copias.",
+        "lemmatized_text": "de este manera soraya finalista de el 4 edición de operación_triunfo tener en el mercado 4 disco en el que recuperar grande éxito que marcar uno época canción imprescindible para entender el dimensión de el período más prolífero y creativo de el historia de el música danzar así en el gala_drag interpretar alguno de el tema de su ultimar trabajo sin miedo por su parte crystal_waters ser conocer por su 2 éxito en el año 1990 gypsy_woman she's_homeless 1991 y 100/100 pure_love 1994 en 1991 gypsy_woman ser uno éxito mundial y su estribillo ser tararear en todo el pista de baile el cantante nacer en filadelfia eeuu estar en el 1 puesto en el billboard_hot 100 y ser uno gran éxito en europa su producción discográfico haber vender millón de copia",
+        "lemmatized_text_reduced": "manera soraya finalista 4 edición operación_triunfo tener mercado disco recuperar grande éxito marcar época canción imprescindible entender dimensión período prolífero creativo historia música danzar gala_drag interpretar tema ultimar trabajo sin miedo parte crystal_waters ser conocer éxito año gypsy_woman she's_homeless pure_love gypsy_woman ser éxito mundial estribillo ser tararear pista baile cantante nacer filadelfia eeuu estar 1 puesto billboard_hot ser gran éxito europa producción discográfico haber vender millón copia",
+        "persons": [
+            "Soraya",
+            "Crystal_Waters",
+            "Gypsy_Woman",
+            "Pure_Love",
+            "Gypsy_Woman"
+        ],
+        "locations": [
+            "Gala_Drag",
+            "Filadelfia",
+            "EEUU",
+            "Europa"
+        ],
+        "organizations": [
+            "Sin",
+            "She's_Homeless"
+        ],
+        "others": [
+            "Operación_Triunfo",
+            "Billboard_Hot"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "2",
+            "1990",
+            "1991",
+            "100/100",
+            "1994",
+            "1991",
+            "100"
+        ]
+    }
+}

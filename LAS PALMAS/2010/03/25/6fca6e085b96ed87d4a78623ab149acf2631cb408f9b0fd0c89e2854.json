@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661725/0/",
+    "title": {
+        "raw_text": "El sistema de bombeo del pozo de Jinámar (Gran Canaria) se rompe y el nivel del agua vuelve a subir",
+        "lemmatized_text": "el sistema de bombeo de el pozo de jinámar gran_canaria se romper y el nivel de el agua volver a subir",
+        "lemmatized_text_reduced": "sistema bombeo pozo jinámar gran_canaria romper nivel agua volver subir",
+        "persons": [],
+        "locations": [
+            "Jinámar"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El sistema de bombeo del pozo de Jinámar (Gran Canaria) se ha roto sobre las 19.00 horas, por lo que el nivel del agua ha vuelto a aumentar, según confirmó la delegada del Gobierno de España en Canarias, Carolina Darias, en declaraciones a los medios de comunicación.",
+        "lemmatized_text": "el sistema de bombeo de el pozo de jinámar gran_canaria se haber romper sobre el TM_h:19 por el que el nivel de el agua haber volver a aumentar según confirmar el delegado de el gobierno_de_españa en canarias carolina_darias en declaración a el medio de comunicación",
+        "lemmatized_text_reduced": "sistema bombeo pozo jinámar gran_canaria haber romper nivel agua haber volver aumentar confirmar delegado gobierno_de_españa canarias carolina_darias declaración medio comunicación",
+        "persons": [
+            "Carolina_Darias"
+        ],
+        "locations": [
+            "Jinámar",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Gobierno_de_España"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:19"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, la compañía de sistemas de bombeo de José Falcón intentará recuperar el sistema de extracción de agua actual, aunque si no se pudiera arreglar, se tendría que cambiar por otro. Por su parte, Darias manifestó que no tienen una estimación sobre cuándo se podría volver a comenzar con el bombeo de agua, mientras que puntualizó que los miembros de la Policía Nacional no están trabajando durante la noche. Sobre las 19.00 horas, los efectivos que trabajan en el interior del pozo decidieron retirar completamente el sistema de bombeo del interior del foso, aunque la grúa se mantiene en el aire en un lateral de la casa donde se ha localizado, a través de una cámara subacuática, una bolsa que podría contener huesos humanos.",
+        "lemmatized_text": "de este manera el compañía de sistema de bombeo de josé_falcón intentar recuperar el sistema de extracción de agua actual aunque si no se poder arreglar se tener que cambiar por otro por su parte darias manifestar que no tener uno estimación sobre cuándo se poder volver a comenzar con el bombeo de agua mientras_que puntualizar que el miembro de el policía_nacional no estar trabajar durante el noche sobre el TM_h:19 el efectivo que trabajar en el interior de el pozo decidir retirar completamente el sistema de bombeo de el interior de el foso aunque el grúa se mantener en el aire en uno lateral de el casa donde se haber localizar a_través_de uno cámara subacuático uno bolsa que poder contener hueso humano",
+        "lemmatized_text_reduced": "manera compañía sistema bombeo josé_falcón intentar recuperar sistema extracción agua actual poder arreglar tener cambiar parte darias manifestar tener estimación poder volver comenzar bombeo agua puntualizar miembro policía_nacional estar trabajar noche efectivo trabajar interior pozo decidir retirar completamente sistema bombeo interior foso grúa mantener aire lateral casa haber localizar cámara subacuático bolsa poder contener hueso humano",
+        "persons": [
+            "José_Falcón",
+            "Darias"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:19"
+        ]
+    }
+}

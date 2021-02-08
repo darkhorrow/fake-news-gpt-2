@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/667040/0/",
+    "title": {
+        "raw_text": "Un hombre fallece tras ahogarse en la piscina de unos apartamentos de Puerto Rico (Gran Canaria)",
+        "lemmatized_text": "uno hombre fallecer tras ahogar se en el piscina de uno apartamento de puerto_rico gran_canaria",
+        "lemmatized_text_reduced": "hombre fallecer ahogar piscina apartamento puerto_rico gran_canaria",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre de unos 33 años ha fallecido sobre las 12.50 horas tras ahogarse en la piscina de unos apartamentos ubicados en la avenida Roque del Este, en Puerto Rico, dentro del término municipal de Mogán (Gran Canaria), según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno hombre de uno 33 año haber fallecer sobre el TM_h:12.5 tras ahogar se en el piscina de uno apartamento ubicar en el avenida roque_del_este en puerto_rico dentro de el término municipal de mogán gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre año haber fallecer ahogar piscina apartamento ubicar avenida roque_del_este puerto_rico término municipal mogán gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Roque_del_Este",
+            "Puerto_Rico",
+            "Mogán"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "33",
+            "TM_h:12.5",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, se recibió una llamada a la hora indicada informando de que un varón no respondía a estímulos tras haberse ahogado en una piscina y que precisaba de atención médica. En ese momento, el 112 activó su dispositivo de urgencias habitual y trasladó al lugar una ambulancia de soporte vital básico y otra de soporte vital avanzado del Servicio de Urgencias Canario (SUC). Al llegar, el personal médico, tras confirmar que el hombre no respondía a estímulos y que estaba en parada cardiorrespiratoria, procedió a practicarle maniobras de reanimación básicas y avanzadas, aunque no pudieron hacer nada por salvarle vida. Por su parte, agentes de la Policía Local de Mogán colaboraron con los recursos intervinientes, mientras que la Guardia Civil instruyó las diligencias correspondientes.",
+        "lemmatized_text": "de este manera se recibir uno llamada a el hora indicar informar de que uno varón no responder a estímulo tras haber se ahogar en uno piscina y que precisar de atención médico en ese momento el 112 activar su dispositivo de urgencia habitual y trasladar a el lugar uno ambulancia de soporte vital básico y otro de soporte vital avanzar de el servicio_de_urgencias_canario suc a el llegar el personal médico tras confirmar que el hombre no responder a estímulo y que estar en parada cardiorrespiratoria proceder a practicar le maniobra de reanimación básico y avanzar aunque no poder hacer nada por salvar le vida por su parte agente de el policía_local_de_mogán colaborar con el recurso interviniente mientras_que el guardia_civil instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "manera recibir llamada hora indicar informar varón responder estímulo haber ahogar piscina precisar atención médico momento activar dispositivo urgencia habitual trasladar lugar ambulancia soporte vital básico soporte vital avanzar servicio_de_urgencias_canario suc llegar personal médico confirmar hombre responder estímulo estar parada cardiorrespiratoria proceder practicar maniobra reanimación básico avanzar poder hacer salvar vida parte agente policía_local_de_mogán colaborar recurso interviniente guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local_de_Mogán",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    }
+}

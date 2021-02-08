@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621969/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Tías (Lanzarote) recoge casi 100 perros en 2009",
+        "lemmatized_text": "el ayuntamiento_de_tías lanzarote recoger casi 100 perro en 2009",
+        "lemmatized_text_reduced": "ayuntamiento_de_tías lanzarote recoger perro",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Tías"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Tías (Lanzarote) recogió el pasado año casi 100 perros, en concreto 93, llevando a cabo 112 servicios el pasado año por el departamento encargado de estos procesos.",
+        "lemmatized_text": "el ayuntamiento_de_tías lanzarote recoger el pasar año casi 100 perro en concreto 93 llevar_a_cabo 112 servicio el pasar año por el departamento encargar de este proceso",
+        "lemmatized_text_reduced": "ayuntamiento_de_tías lanzarote recoger pasar año perro concreto llevar_a_cabo servicio pasar año departamento encargar proceso",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Tías"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100",
+            "93",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "En cuanto a los canes recogidos, en 40 casos fueron a instancia de la Policía Local, mientras que 39 se hizo por demanda directa de los propios vecinos. Asimismo, 14 perros fueron entregados por sus propietarios al servicio de recogida municipal, según informó el Ayuntamiento de Tías en nota de prensa. Además, de los animales recogidos, 61 perros fueron recuperados por sus propietarios, mientras que seis se encontraban heridos o en muy mal estado en el momento de ser detectados por los operarios de este servicio y murieron; el resto fueron adoptados o están en régimen de adopción. El mes con más incidencias fue julio, con trece recogidas, seguido del mes de diciembre con doce y junio con nueve. El resto de los meses del año osciló entre los cuatro y cinco de noviembre y diciembre, respectivamente, y los ocho de enero y octubre. De los 93 perros recogidos, sólo 27 estaban identificados por medio de microchip y el resto no portaban identificación alguna. Asimismo, 13 de los animales recogidos son de los considerados perros de razas peligrosas. Por otro lado, la Concejalía de Agricultura del Ayuntamiento de Tías prestó servicios de rastrilla de finca a 192 usuarios del municipio y se intervino en una superficie superior a las 136,2 hectáreas en 2009. Tías dispone de un tractor agrícola para asistir a los agricultores del municipio en sus tareas de limpieza y preparación para el barbecho de sus fincas.",
+        "lemmatized_text": "en_cuanto_a el can recoger en 40 caso ser a instancia de el policía_local mientras_que 39 se hacer por demanda directo de el propio vecino asimismo 14 perro ser entregar por su propietario a el servicio de recogida municipal según informar el ayuntamiento_de_tías en nota de prensa además de el animal recoger 61 perro ser recuperar por su propietario mientras_que 6 se encontrar herido o en muy mal estar en el momento de ser detectar por el operario de este servicio y morir el resto ser adoptar o estar en régimen de adopción el mes con más incidencia ser [??:??/7/??:??.??:??] con 13 recogida seguir de el [??:??/12/??:??.??:??] con 12 y [??:??/6/??:??.??:??] con 9 el resto de el mes de el año oscilar entre el 4 y [??:5/11/??:??.??:??] y [??:??/12/??:??.??:??] respectivamente y el [??:8/1/??:??.??:??] y [??:??/10/??:??.??:??] de el 93 perro recoger sólo 27 estar identificar por_medio_de microchip y el resto no portar identificación alguno asimismo 13 de el animal recoger ser de el considerar perro de raza peligroso por_otro_lado el concejalía_de_agricultura_del_ayuntamiento_de_tías prestar servicio de rastrilla de finca a 192 usuario de el municipio y se intervenir en uno superficie superior a el AR_hA:136,2 en 2009 tías disponer de uno tractor agrícola para asistir a el agricultor de el municipio en su tarea de limpieza y preparación para el barbecho de su finca",
+        "lemmatized_text_reduced": "can recoger caso ser instancia policía_local hacer demanda directo propio vecino perro ser entregar propietario servicio recogida municipal informar ayuntamiento_de_tías nota prensa animal recoger perro ser recuperar propietario encontrar herido estar momento ser detectar operario servicio morir resto ser adoptar estar régimen adopción mes incidencia ser recogida seguir resto mes año oscilar respectivamente perro recoger estar identificar microchip resto portar identificación animal recoger ser considerar perro raza peligroso concejalía_de_agricultura_del_ayuntamiento_de_tías prestar servicio rastrilla finca usuario municipio intervenir superficie superior tías disponer tractor agrícola asistir agricultor municipio tarea limpieza preparación barbecho finca",
+        "persons": [
+            "Tías"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_Local",
+            "Ayuntamiento_de_Tías",
+            "Concejalía_de_Agricultura_del_Ayuntamiento_de_Tías"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/6/??:??.??:??]",
+            "[??:5/11/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:8/1/??:??.??:??]",
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "40",
+            "39",
+            "14",
+            "61",
+            "6",
+            "13",
+            "12",
+            "9",
+            "4",
+            "93",
+            "27",
+            "13",
+            "192",
+            "AR_hA:136,2",
+            "2009"
+        ]
+    }
+}

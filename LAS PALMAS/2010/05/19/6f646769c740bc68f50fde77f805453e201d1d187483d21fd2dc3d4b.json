@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/711198/0/",
+    "title": {
+        "raw_text": "Arde una nave industrial abandonada en Telde (Gran Canaria)",
+        "lemmatized_text": "arder uno nave industrial abandonar en telde gran_canaria",
+        "lemmatized_text_reduced": "arder nave industrial abandonar telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una nave industrial abandonada ardió anoche en el camino del Cascajo en Jinámar, en el municipio de Telde (Gran Canaria), sin causar afectados, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno nave industrial abandonar arder anoche en el camino de el cascajo en jinámar en el municipio de telde gran_canaria sin causar afectado según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "nave industrial abandonar arder camino cascajo jinámar municipio telde gran_canaria causar afectado informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Jinámar",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cascajo",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El fuego se originó sobre las 21.30 horas, cuando varias llamadas alertaron al Cecoes del incendio, cuyas causas se desconocen por el momento. El 112 activó de inmediato el dispositivo de emergencias necesario, por lo que hasta el lugar se desplazaron bomberos del Consorcio de Emergencias de Telde que sofocaron las llamas. Asimismo, hasta el lugar se acercó Protección Civil, así como Policía Local y Policía Nacional, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el fuego se originar sobre el TM_h:21.3 cuando varios llamada alertar a el cecoes de el incendio cuyo causa se desconocer por el momento el 112 activar de inmediato el dispositivo de emergencia necesario por el que hasta el lugar se desplazar bombero de el consorcio_de_emergencias_de_telde que sofocar el llama asimismo hasta el lugar se acercar protección_civil así_como policía_local y policía_nacional que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "fuego originar llamada alertar cecoes incendio causa desconocer momento activar inmediato dispositivo emergencia necesario lugar desplazar bombero consorcio_de_emergencias_de_telde sofocar llama lugar acercar protección_civil policía_local policía_nacional encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Consorcio_de_Emergencias_de_Telde",
+            "Protección_Civil",
+            "Policía_Local",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:21.3",
+            "112"
+        ]
+    }
+}

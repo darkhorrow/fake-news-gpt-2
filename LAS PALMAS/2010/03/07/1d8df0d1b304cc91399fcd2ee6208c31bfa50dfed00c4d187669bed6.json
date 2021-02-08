@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/645822/0/",
+    "title": {
+        "raw_text": "La Cámara de Las Palmas aboga a la \"autoestima y la motivación\" de los empresarios canarios para salir de la crisis",
+        "lemmatized_text": "el cámara_de_las_palmas abogar a el autoestima y el motivación de el empresario canario para salir de el crisis",
+        "lemmatized_text_reduced": "cámara_de_las_palmas abogar autoestima motivación empresario canario salir crisis",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Cámara Oficial de Comercio, Industria y Navegación de Las Palmas abogará a la \"autoestima y la motivación\" de los empresarios de Canarias con la ponencia del escritor y doctor en psiquiatría, Luis Rojas, quien, dentro del Ciclo de Conferencias Económicas, ofrecerá una charla sobre la motivación empresarial.",
+        "lemmatized_text": "el cámara_oficial_de_comercio industria y navegación_de_las_palmas abogar a el autoestima y el motivación de el empresario de canarias con el ponencia de el escritor y doctor en psiquiatría luis_rojas quien dentro de el ciclo_de_conferencias_económicas ofrecer uno charla sobre el motivación empresarial",
+        "lemmatized_text_reduced": "cámara_oficial_de_comercio industria navegación_de_las_palmas abogar autoestima motivación empresario canarias ponencia escritor doctor psiquiatría luis_rojas ciclo_de_conferencias_económicas ofrecer charla motivación empresarial",
+        "persons": [
+            "Luis_Rojas"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Cámara_Oficial_de_Comercio",
+            "Industria",
+            "Navegación_de_Las_Palmas"
+        ],
+        "others": [
+            "Ciclo_de_Conferencias_Económicas"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En un comunicado, la Institución cameral informó que el acto será inaugurado el próximo viernes, 12 de marzo, por el vicepresidente de la Cámara de Las Palmas, Jaime Bouzón, y el director de Comunicación y Relaciones Institucionales de La Caja de Canarias, Miguel Ángel Suárez. Además, la conferencia, que tendrá lugar en el Cicca de Las Palmas de Gran Canaria, contará con la presencia de autoridades de las distintas Instituciones canarias, así como, presidentes de Cámaras de Comercio.",
+        "lemmatized_text": "en uno comunicado el institución cameral informar que el acto ser inaugurar el [V:12/3/??:??.??:??] por el vicepresidente de el cámara_de_las_palmas jaime_bouzón y el director de comunicación y relaciones_institucionales_de_la_caja_de_canarias miguel_ángel_suárez además el conferencia que tener_lugar en el cicca_de_las_palmas_de_gran_canaria contar con el presencia de autoridad de el distinto instituciones canario así_como presidente de cámaras_de_comercio",
+        "lemmatized_text_reduced": "comunicado institución cameral informar acto ser inaugurar vicepresidente cámara_de_las_palmas jaime_bouzón director comunicación relaciones_institucionales_de_la_caja_de_canarias miguel_ángel_suárez conferencia tener_lugar cicca_de_las_palmas_de_gran_canaria contar presencia autoridad distinto instituciones canario presidente cámaras_de_comercio",
+        "persons": [
+            "Jaime_Bouzón",
+            "Miguel_Ángel_Suárez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Institución",
+            "Cámara_de_Las_Palmas",
+            "Instituciones",
+            "Cámaras_de_Comercio"
+        ],
+        "others": [
+            "Comunicación",
+            "Relaciones_Institucionales_de_La_Caja_de_Canarias",
+            "Cicca_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[V:12/3/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

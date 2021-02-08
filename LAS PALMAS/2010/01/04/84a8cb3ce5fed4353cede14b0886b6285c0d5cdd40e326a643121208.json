@@ -1,0 +1,90 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/600114/0/",
+    "title": {
+        "raw_text": "Canarias registra en 2009 un total de dos muertes por accidentes laborales en el sector de la construcción",
+        "lemmatized_text": "canario registrar en 2009 uno total de 2 muerte por accidente laboral en el sector de el construcción",
+        "lemmatized_text_reduced": "canario registrar total muerte accidente laboral sector construcción",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias registró el pasado año un total de dos fallecimientos a causa de accidentes laborales en la construcción, un sector que, en toda España, dejó 177 muertes en siniestros, según datos facilitados por la Federación de Construcción, Madera y Afines de Comisiones Obreras (FECOMA).",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias registrar el pasar año uno total de 2 fallecimiento a_causa_de accidente laboral en el construcción uno sector que en todo españa dejar 177 muerte en siniestro según dato facilitar por el federación_de_construcción madera y afines_de_comisiones_obreras fecoma",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias registrar pasar año total fallecimiento accidente laboral construcción sector españa dejar muerte siniestro dato facilitar federación_de_construcción madera afines_de_comisiones_obreras fecoma",
+        "persons": [
+            "España",
+            "Madera"
+        ],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Federación_de_Construcción",
+            "Afines_de_Comisiones_Obreras",
+            "FECOMA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "177"
+        ]
+    },
+    "body": {
+        "raw_text": "Según estos datos, con un total de 25 fallecidos, Castilla-León se ha convertido en la región española con más muertes por accidente laboral en la construcción, alcanzando así el 14 por ciento del total de esta tipología de siniestros. Le sigue la Comunidad Valencia, y Galicia con 19 muertes (11%). A continuación, con 18 fallecimientos se sitúa Andalucía (10,8%), seguida de Castilla-La Mancha y Comunidad de Madrid, con 17 accidentes mortales cada una, concentrando así el 9,71 por ciento del total de las muertes del sector. Posteriormente, se sitúa Cataluña con 16 accidentes laborales en la construcción, País Vasco con 13, Asturias (8), Aragón (6), Baleares (5), Navarra (4), Extremadura (3), La Rioja, Canarias y Cantabria con 2 accidentes y Murcia con un sólo accidente laboral.",
+        "lemmatized_text": "según este dato con uno total de 25 fallecer castilla-león se haber convertir en el región español con más muerte por accidente laboral en el construcción alcanzar así el 14 por 100 de el total de este tipología de siniestro le seguir el comunidad_valencia y galicia con 19 muerte 11/100 a continuación con 18 fallecimiento se situar andalucía 10,8/100 seguir de castilla-la_mancha y comunidad_de_madrid con 17 accidente mortal cada uno concentrar así el 9,71 por 100 de el total de el muerte de el sector posteriormente se situar cataluña con 16 accidente laboral en el construcción país_vasco con 13 asturias 8 aragón 6 baleares 5 navarra 4 extremadura 3 la_rioja canarias y cantabria con 2 accidente y murcia con uno sólo accidente laboral",
+        "lemmatized_text_reduced": "dato total fallecer castilla-león haber convertir región español muerte accidente laboral construcción alcanzar total tipología siniestro seguir comunidad_valencia galicia muerte continuación fallecimiento situar andalucía seguir castilla-la_mancha comunidad_de_madrid accidente mortal concentrar total muerte sector posteriormente situar cataluña accidente laboral construcción país_vasco asturias aragón baleares navarra extremadura la_rioja canarias cantabria accidente murcia accidente laboral",
+        "persons": [],
+        "locations": [
+            "Castilla-León",
+            "Galicia",
+            "Andalucía",
+            "Castilla-La_Mancha",
+            "Comunidad_de_Madrid",
+            "Cataluña",
+            "País_Vasco",
+            "Asturias",
+            "Aragón",
+            "Baleares",
+            "Navarra",
+            "Extremadura",
+            "La_Rioja",
+            "Canarias",
+            "Cantabria",
+            "Murcia"
+        ],
+        "organizations": [
+            "Comunidad_Valencia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25",
+            "14",
+            "100",
+            "19",
+            "11/100",
+            "18",
+            "10,8/100",
+            "17",
+            "9,71",
+            "100",
+            "16",
+            "13",
+            "8",
+            "6",
+            "5",
+            "4",
+            "3",
+            "2"
+        ]
+    }
+}

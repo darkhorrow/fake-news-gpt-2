@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/720075/0/",
+    "title": {
+        "raw_text": "El Aeropuerto de Fuerteventura expone pinturas de la ONG infantil Apufram para dar a conocer su labor",
+        "lemmatized_text": "el aeropuerto_de_fuerteventura exponer pintura de el ong infantil apufram para dar_a_conocer su labor",
+        "lemmatized_text_reduced": "aeropuerto_de_fuerteventura exponer pintura ong infantil apufram dar_a_conocer labor",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "ONG",
+            "Apufram"
+        ],
+        "others": [
+            "Aeropuerto_de_Fuerteventura"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Aeropuerto de Fuerteventura acogerá hasta julio una exposición de pintura de la ONG infantil Apufram con la que pretende dar a conocer la labor de esta organización, así como recabar fondos para su mantenimiento.",
+        "lemmatized_text": "el aeropuerto_de_fuerteventura acoger hasta [??:??/7/??:??.??:??] uno exposición de pintura de el ong infantil apufram con el que pretender dar_a_conocer el labor de este organización así_como recabar fondo para su mantenimiento",
+        "lemmatized_text_reduced": "aeropuerto_de_fuerteventura acoger exposición pintura ong infantil apufram pretender dar_a_conocer labor organización recabar fondo mantenimiento",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Aeropuerto_de_Fuerteventura",
+            "ONG",
+            "Apufram"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En total se muestran una veinte de creaciones de esta ONG de Honduras, pinturas realizadas por niños del Instituto Maximiliano Kolbe, en Comayagua, centro dedicado a dar educación a niños de familias con escasos recursos y en el que disponen de un taller de pintura donde aprenden este arte, según informó la organización de la exposición en un comunicado. Además, algunos de los jóvenes \"más dotados\" ya han sido premiados por sus obras en certámenes infantiles nacionales e internacionales. La exposición se podrá ver en la zona de facturación de la planta baja del edificio terminal, una vez pasados los mostradores. Apufram, que obtuvo el Premio Nacional de Honduras de los Derechos Humanos en 2008, también da la posibilidad de adquirir estas creaciones, con el objetivo de llegar a ser autosuficiente en términos económicos.",
+        "lemmatized_text": "en total se mostrar uno 20 de creación de este ong_de_honduras pintura realizar por niño de el instituto_maximiliano_kolbe en comayagua centro dedicar a dar educación a niño de familia con escaso recurso y en el que disponer de uno taller de pintura donde aprender este arte según informar el organización de el exposición en uno comunicado además alguno de el joven más dotar ya haber ser premiar por su obra en certamen infantil nacional y internacional el exposición se poder ver en_la_zona_de facturación de el planta bajo de el edificio terminal uno vez pasar el mostrador apufram que obtener el premio_nacional_de_honduras_de_los_derechos_humanos en 2008 también dar el posibilidad de adquirir este creación con el objetivo de llegar a ser autosuficiente en término económico",
+        "lemmatized_text_reduced": "total mostrar creación ong_de_honduras pintura realizar niño instituto_maximiliano_kolbe comayagua centro dedicar dar educación niño familia recurso disponer taller pintura aprender arte informar organización exposición comunicado joven dotar haber ser premiar obra certamen infantil nacional internacional exposición poder ver facturación planta bajo edificio terminal vez pasar mostrador apufram obtener premio_nacional_de_honduras_de_los_derechos_humanos dar posibilidad adquirir creación objetivo llegar ser autosuficiente término económico",
+        "persons": [
+            "Apufram"
+        ],
+        "locations": [
+            "Comayagua"
+        ],
+        "organizations": [
+            "Instituto_Maximiliano_Kolbe"
+        ],
+        "others": [
+            "ONG_de_Honduras",
+            "Premio_Nacional_de_Honduras_de_los_Derechos_Humanos"
+        ],
+        "dates": [],
+        "numbers": [
+            "20",
+            "2008"
+        ]
+    }
+}

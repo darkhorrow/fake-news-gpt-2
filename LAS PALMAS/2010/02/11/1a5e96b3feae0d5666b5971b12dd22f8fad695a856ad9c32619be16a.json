@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/627206/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias exige al Estado que el recorte presupuestario \"no toque\" a las islas",
+        "lemmatized_text": "el gobierno_de_canarias exigir a el estado que el recorte presupuestario no tocar a el isla",
+        "lemmatized_text_reduced": "gobierno_de_canarias exigir estado recorte presupuestario tocar isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha exigido al Estado que el recorte presupuestario de 50.000 millones de euros planteado por el Gobierno español \"no toque\" a las islas porque \"es de justicia\" que esta política de ajuste económico \"no afecte\" a los territorios con mayores dificultades.",
+        "lemmatized_text": "el gobierno_de_canarias haber exigir a el estado que el recorte presupuestario de $_ECU:50000000 plantear por el gobierno español no tocar a el isla porque ser de justicia que este política de ajuste económico no afectar a el territorio con mayor dificultad",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber exigir estado recorte presupuestario plantear gobierno español tocar isla ser justicia política ajuste económico afectar territorio mayor dificultad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Estado",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:50000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo manifestó el dirigente canario, Paulino Rivero, en declaraciones a los medios de comunicación concedidas con motivo de su visita a las instalaciones del Club de Natación Metropole de Las Palmas de Gran Canaria donde aseguró que el Ejecutivo nacional \"todavía\" no ha explicado como afectará la disminución del presupuesto a las islas. \"Si se llevara a cabo en estos momentos una política de ajuste económico de las partidas presupuestarias, nosotros exigimos que no se toque a Canarias y no solamente desde la perspectiva de que hay un acuerdo político sino desde el punto de vista de la equidad, solidaridad, e incluso de lo que es la justicia\", afirmó el nacionalista. En este sentido, consideró que \"no se le puede quitar a los que menos tienen\" porque \"el ajuste hay que hacerlo con los que más tienen y en este caso Canarias, a pesar de los acuerdos alcanzados, sigue lejos de la media de inversión por habitante, por debajo de la media de financiación de las competencias transferidas y por lo tanto es de justicia que a Canarias o a aquellos territorios que tienen más dificultades en estos momentos que el recorte no les afecte\". Asimismo, Rivero aseguró que Coalición Canaria (CC) se ha puesto en contacto con el grupo socialista parlamentario para \"exigirle que se cumplan los acuerdos con Canarias\" puesto que fue pacto político que \"propició que CC apoyara los presupuestos generales del Estado\".",
+        "lemmatized_text": "así lo manifestar el dirigente canario paulino_rivero en declaración a el medio de comunicación conceder con motivo de su visita a el instalación de el club_de_natación_metropole_de_las_palmas_de_gran_canaria donde asegurar que el ejecutivo nacional todavía no haber explicar como afectar el disminución de el presupuesto a el isla si se llevar_a_cabo en este momento uno política de ajuste económico de el partida presupuestario nosotros exigir que no se tocar a canarias y no solamente desde el perspectiva de que haber uno acuerdo político sino desde el punto de vista de el equidad solidaridad y incluso de el que ser el justicia afirmar el nacionalista en este sentido considerar que no se le poder quitar a el que menos tener porque el ajuste haber que hacer lo con el que más tener y en este caso canarias a_pesar_de el acuerdo alcanzar seguir lejos_de el media de inversión por habitante por debajo_de el media de financiación de el competencia transferir y por_lo_tanto ser de justicia que a canarias o a aquel territorio que tener más dificultad en este momento que el recorte no le afectar asimismo rivero asegurar que coalición_canaria cc se haber poner_en_contacto con el grupo socialista parlamentario para exigir le que se cumplir el acuerdo con canarias puesto que ser pacto político que propiciar que cc apoyar el presupuesto general de el estado",
+        "lemmatized_text_reduced": "manifestar dirigente canario paulino_rivero declaración medio comunicación conceder motivo visita instalación club_de_natación_metropole_de_las_palmas_de_gran_canaria asegurar ejecutivo nacional haber explicar afectar disminución presupuesto isla llevar_a_cabo momento política ajuste económico partida presupuestario exigir tocar canarias solamente perspectiva haber acuerdo político punto vista equidad solidaridad ser justicia afirmar nacionalista sentido considerar poder quitar tener ajuste haber hacer tener caso canarias acuerdo alcanzar seguir media inversión habitante media financiación competencia transferir ser justicia canarias territorio tener dificultad momento recorte afectar rivero asegurar coalición_canaria cc haber poner_en_contacto grupo socialista parlamentario exigir cumplir acuerdo canarias puesto ser pacto político propiciar cc apoyar presupuesto general estado",
+        "persons": [
+            "Paulino_Rivero",
+            "Rivero"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Club_de_Natación_Metropole_de_Las_Palmas_de_Gran_Canaria",
+            "Ejecutivo",
+            "Coalición_Canaria",
+            "CC",
+            "CC",
+            "Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

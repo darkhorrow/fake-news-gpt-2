@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/366430/0/corrupcion/eolica/perdomo/",
+    "title": {
+        "raw_text": "Trama de corrupción eólica en Canarias: \"Cinco millones de euros por megavatio\"",
+        "lemmatized_text": "trama de corrupción eólico en canarias $_ECU:5000000 por megavatio",
+        "lemmatized_text_reduced": "trama corrupción eólico canarias megavatio",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:5000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "Salen a la luz las conversaciones entre el ex director general de Industria del Gobierno Canario y varios empresarios. Los casos de corrupción salieron a la luz en 2005. El fiscal pide seis añlos de cárcel para el alto cargo Celso Perdomo.",
+        "lemmatized_text": "salir a el luz el conversación entre el ex director general de industria_del_gobierno_canario y varios empresario el caso de corrupción salir a el luz en 2005 el fiscal pedir 6 añlos de cárcel para el alto cargo celso_perdomo",
+        "lemmatized_text_reduced": "salir luz conversación ex director general industria_del_gobierno_canario empresario caso corrupción salir luz fiscal pedir añlos cárcel alto cargo celso_perdomo",
+        "persons": [
+            "Celso_Perdomo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Industria_del_Gobierno_Canario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2005",
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "En 2005 , el despido del director general de la empresa eólica Siemeca, sacó a la luz una presunta trama de corrupción alrededor de la concesión de proyectos de energía eólica que implicaba a altos cargos del Gobierno canario y empresarios locales. Tres años después el fiscal del caso ha reconstruído, según informa el diario El País , el intercambio de información privilegiada entre el ex director general de Industria de Canarias y varios empresarios. Según el fiscal del caso, Celso Perdomo -destituído en 2005- \"facilitó información que no debía ser divulgada a personas que tenían interés\" en el concurso de instalación de parques eólicos, a cambio de sustanciosos cohechos. Por todo ello, Perdomo se enfrenta a una petición de seis años de cárcel . Entre los delitos concretos que se le imputan, destaca el envío de correos electrónico s ilegales, cesión de acciones, pagos en Luxemburgo (Perdomo ingresó por este sistema más de 23.000 euros), pagos en especie y sobornos (hasta cinco millones de euros por megavatatio adjudicado). En diciembre de 2005 el Tribunal Superior de Justicia de Canarias anuló el decreto en el que se sustentaba el concurso de adjudicación de instalaciones eólicas. Con esta decisión, se quedaron sin concesión más de 400 proyectos de unas 200 empresas. Ahora, el gobierno nacionalista publicó, antes de las recientes elecciones, las bases para un nueva convocatoria , a la que se han presentado alrededor de 600 proyectos.",
+        "lemmatized_text": "en 2005 el despido de el director general de el empresa eólico siemeca sacar a el luz uno presunto trama de corrupción alrededor_de el concesión de proyecto de energía eólico que implicar a alto cargo de el gobierno canario y empresario local 3 año después el fiscal de el caso haber reconstruído según informar el diario el_país el intercambio de información privilegiar entre el ex director general de industria_de_canarias y varios empresario según el fiscal de el caso celso_perdomo destituído en 2005 facilitar información que no deber ser divulgar a persona que tener interés en el concurso de instalación de parque eólico a_cambio_de sustancioso cohecho por todo ello perdomo se enfrentar a uno petición de 6 año de cárcel entre el delito concreto que se le imputar destacar el envío de correo electrónico segundo ilegal cesión de acción pago en luxemburgo perdomar ingresar por este sistema más de $_ECU:23 pago en especie y soborno hasta $_ECU:5000000 por megavatatio adjudicar en [??:??/12/2005:??.??:??] el tribunal_superior_de_justicia_de_canarias anular el decreto en el que se sustentar el concurso de adjudicación de instalación eólico con este decisión se quedar sin concesión más de 400 proyecto de uno 200 empresa ahora el gobierno nacionalista publicar antes_de el reciente elección el base para uno nuevo convocatoria a el que se haber presentar alrededor_de 600 proyecto",
+        "lemmatized_text_reduced": "despido director general empresa eólico siemeca sacar luz presunto trama corrupción concesión proyecto energía eólico implicar alto cargo gobierno canario empresario local año fiscal caso haber reconstruído informar diario el_país intercambio información privilegiar ex director general industria_de_canarias empresario fiscal caso celso_perdomo destituído facilitar información deber ser divulgar persona tener interés concurso instalación parque eólico sustancioso cohecho perdomo enfrentar petición año cárcel delito concreto imputar destacar envío correo electrónico segundo ilegal cesión acción pago luxemburgo perdomar ingresar sistema pago especie soborno megavatatio adjudicar tribunal_superior_de_justicia_de_canarias anular decreto sustentar concurso adjudicación instalación eólico decisión quedar concesión proyecto empresa gobierno nacionalista publicar reciente elección base nuevo convocatoria haber presentar proyecto",
+        "persons": [
+            "Celso_Perdomo",
+            "Perdomo"
+        ],
+        "locations": [
+            "Luxemburgo"
+        ],
+        "organizations": [
+            "Siemeca",
+            "Gobierno",
+            "El_País",
+            "Industria_de_Canarias",
+            "Tribunal_Superior_de_Justicia_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/2005:??.??:??]"
+        ],
+        "numbers": [
+            "2005",
+            "3",
+            "2005",
+            "6",
+            "$_ECU:23",
+            "$_ECU:5000000",
+            "400",
+            "200",
+            "600"
+        ]
+    }
+}

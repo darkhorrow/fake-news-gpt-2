@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/637094/0/",
+    "title": {
+        "raw_text": "Un explosión en depósitos de combustible de la Ducar en el puerto de Las Palmas causa dos heridos, uno grave",
+        "lemmatized_text": "uno explosión en depósito de combustible de el ducar en el puerto de las_palmas causa 2 herido uno grave",
+        "lemmatized_text_reduced": "explosión depósito combustible ducar puerto las_palmas causa herido grave",
+        "persons": [],
+        "locations": [
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Ducar"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La explosión en un tanque de los depósitos de combustible de la Ducar, en el puerto de La Luz y de Las Palmas, en la capital grancanaria, ha causado dos heridos, uno de ellos podría ser de gravedad pero se desconoce el estado exacto en el que se encuentra.",
+        "lemmatized_text": "el explosión en uno tanque de el depósito de combustible de el ducar en el puerto de la_luz y de las_palmas en el capital grancanaria haber causar 2 herido uno de ellos poder ser de gravedad pero se desconocer el estado exacto en el que se encontrar",
+        "lemmatized_text_reduced": "explosión tanque depósito combustible ducar puerto la_luz las_palmas capital grancanaria haber causar herido poder ser gravedad desconocer estado exacto encontrar",
+        "persons": [],
+        "locations": [
+            "La_Luz"
+        ],
+        "organizations": [
+            "Ducar",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los heridos estaban trabajando este mediodía en el lugar del incidente cuando se produjo un incendio \"superficial\" en un tanque en la zona exterior de Ducar, según informaron fuentes de la Autoridad Portuaria de Las Palmas a Europa Press. Ambos trabajadores fueron evacuados por el 112 a un centro hospitalario y uno de ellos llevaba quemaduras que podrían ser de carácter \"grave\", según las mismas fuentes. En cuanto al fuego, no existió peligro de propagación, ya que se extinguió en poco tiempo.",
+        "lemmatized_text": "el herido estar trabajar este [??:??/??/??:12.00:pm] en el lugar de el incidente cuando se producir uno incendio superficial en uno tanque en el zona exterior de ducar según informar fuente de el autoridad_portuaria_de_las_palmas a europa_press ambos trabajador ser evacuar por el 112 a uno centro hospitalario y uno de ellos llevar quemadura que poder ser de carácter grave según el mismo fuente en cuanto a el fuego no existir peligro de propagación ya_que se extinguir en poco tiempo",
+        "lemmatized_text_reduced": "herido estar trabajar lugar incidente producir incendio superficial tanque zona exterior ducar informar fuente autoridad_portuaria_de_las_palmas europa_press trabajador ser evacuar centro hospitalario llevar quemadura poder ser carácter grave mismo fuente fuego existir peligro propagación extinguir tiempo",
+        "persons": [],
+        "locations": [
+            "Ducar",
+            "Europa_Press"
+        ],
+        "organizations": [
+            "Autoridad_Portuaria_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    }
+}

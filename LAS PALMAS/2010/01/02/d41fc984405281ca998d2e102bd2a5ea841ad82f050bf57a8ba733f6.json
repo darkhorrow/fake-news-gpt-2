@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599221/0/",
+    "title": {
+        "raw_text": "Mercado de Vegueta de Las Palmas de Gran Canaria se llenará mañana de ambiente navideño con actuaciones de villancicos",
+        "lemmatized_text": "mercado_de_vegueta_de_las_palmas_de_gran_canaria se llenar mañana de ambiente navideño con actuación de villancico",
+        "lemmatized_text_reduced": "mercado_de_vegueta_de_las_palmas_de_gran_canaria llenar ambiente navideño actuación villancico",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Mercado_de_Vegueta_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Mercado de Vegueta de Las Palmas de Gran Canaria se llenará mañana, a partir de las 12.00 horas, de ambiente navideño con una serie de actuaciones de villancicos, una cita que tendrá lugar gracias a la reconversión del Festival de Villancicos, que tuvo que ser suspendido en su día por riesgo de fuertes lluvias.",
+        "lemmatized_text": "el mercado_de_vegueta_de_las_palmas_de_gran_canaria se llenar mañana a_partir_de el TM_h:12 de ambiente navideño con uno serie de actuación de villancico uno cita que tener_lugar gracias_a el reconversión de el festival_de_villancicos que tener que ser suspender en su día por riesgo de fuerte lluvia",
+        "lemmatized_text_reduced": "mercado_de_vegueta_de_las_palmas_de_gran_canaria llenar ambiente navideño serie actuación villancico cita tener_lugar reconversión festival_de_villancicos tener ser suspender día riesgo fuerte lluvia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Mercado_de_Vegueta_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Festival_de_Villancicos"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:12"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, fuentes del Ayuntamiento capitalino señalaron que el objetivo es conseguir un ambiente \"entrañable\" y navideño para que las familias acudan y disfruten con sus hijos de los villancicos. Por su parte, el programa navideño del Consistorio contempla la recepción de SS.MM. los Reyes Magos de Oriente el próximo 5 de enero en una fiesta que tendrá lugar a partir de las 10.45 horas en el Muelle de Santa Catalina, y que contará con el espectáculo musical 'La vuelta al mundo en 80 días', de Clapso Producciones. Además, la Cabalgata, partirá a las 17.00 horas del Castillo de la Luz, y a las 24.00 horas la Noche de Reyes contará con el concierto de Non Trubada en la Plaza de Santa Ana de Vegueta.",
+        "lemmatized_text": "de este manera fuente de el ayuntamiento capitalino señalar que el objetivo ser conseguir uno ambiente entrañable y navideño para que el familia acudir y disfrutar con su hijo de el villancico por su parte el programa navideño de el consistorio contemplar el recepción de ss.mm._los_reyes_magos_de_oriente el [??:5/1/??:??.??:??] en uno fiesta que tener_lugar a_partir_de el TM_h:10.45 en el muelle_de_santa_catalina y que contar con el espectáculo musical el vuelta a el mundo en TM_d:80 de clapso_producciones además el cabalgata partir a el TM_h:17 de el castillo_de_la_luz y a el TM_h:24 el noche_de_reyes contar con el concierto de non_trubada en el plaza_de_santa_ana_de_vegueta",
+        "lemmatized_text_reduced": "manera fuente ayuntamiento capitalino señalar objetivo ser conseguir ambiente entrañable navideño familia acudir disfrutar hijo villancico parte programa navideño consistorio contemplar recepción ss.mm._los_reyes_magos_de_oriente fiesta tener_lugar muelle_de_santa_catalina contar espectáculo musical vuelta mundo clapso_producciones cabalgata partir castillo_de_la_luz noche_de_reyes contar concierto non_trubada plaza_de_santa_ana_de_vegueta",
+        "persons": [
+            "Clapso_Producciones",
+            "Non_Trubada"
+        ],
+        "locations": [
+            "Muelle_de_Santa_Catalina",
+            "Castillo_de_la_Luz",
+            "Plaza_de_Santa_Ana_de_Vegueta"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Consistorio",
+            "Cabalgata",
+            "Noche_de_Reyes"
+        ],
+        "others": [
+            "SS.MM._los_Reyes_Magos_de_Oriente"
+        ],
+        "dates": [
+            "[??:5/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:10.45",
+            "TM_d:80",
+            "TM_h:17",
+            "TM_h:24"
+        ]
+    }
+}

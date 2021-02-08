@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/647949/0/",
+    "title": {
+        "raw_text": "Una pelea entre varias personas en Las Palmas de Gran Canaria se salda sin heridos",
+        "lemmatized_text": "uno pelea entre varios persona en las_palmas_de_gran_canaria se saldar sin herido",
+        "lemmatized_text_reduced": "pelea persona las_palmas_de_gran_canaria saldar herido",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una pelea entre \"bastantes\" personas en Las Palmas de Gran Canaria no ha causado herido aunque ha necesitado de la presencia de la Policía Nacional, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno pelea entre bastante persona en las_palmas_de_gran_canaria no haber causar herir aunque haber necesitar de el presencia de el policía_nacional según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "pelea persona las_palmas_de_gran_canaria haber causar herir haber necesitar presencia policía_nacional informar europa_press fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 6.30 horas de esta mañana en la calle Franchy Roca, en la capital grancanaria. Así, una vez que varias llamadas alertaran al 112 del incidente, la Policía Nacional se trasladó hasta el lugar donde no se registró ningún herido.",
+        "lemmatized_text": "el hecho se producir a el TM_h:6.3 de este mañana en el calle franchy_roca en el capital grancanaria así una_vez_que varios llamada alertar a el 112 de el incidente el policía_nacional se trasladar hasta el lugar donde no se registrar ninguno herir",
+        "lemmatized_text_reduced": "hecho producir mañana calle franchy_roca capital grancanaria llamada alertar incidente policía_nacional trasladar lugar registrar herir",
+        "persons": [
+            "Franchy_Roca"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:6.3",
+            "112"
+        ]
+    }
+}

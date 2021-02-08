@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604313/0/",
+    "title": {
+        "raw_text": "Un varón de 60 años fallece tras sufrir un atropello en Agüimes (Gran Canaria)",
+        "lemmatized_text": "uno varón de 60 año fallecer tras sufrir uno atropello en agüimes gran_canaria",
+        "lemmatized_text_reduced": "varón año fallecer sufrir atropello agüimes gran_canaria",
+        "persons": [],
+        "locations": [
+            "Agüimes",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "60"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 60 años de edad falleció ayer después de que un turismo le atropellara en las inmediaciones de la rotonda del cruce de Arinaga, en el municipio grancanario de Agüimes, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno varón de 60 año de edad fallecer ayer después_de que uno turismo le atropellar en el inmediación de el rotonda de el cruce de arinaga en el municipio grancanario de agüimes según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad fallecer turismo atropellar inmediación rotonda cruce arinaga municipio grancanario agüimes informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Arinaga",
+            "Agüimes"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "60",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 20.23 horas indicando que un vehículo había atropellado a un hombre en la GC-191 y que debido a las lesiones presentadas, precisaba asistencia sanitaria. Por ello, el dispositivo de emergencia activó al Servicio de Urgencias Canario (SUC), que se trasladó hasta el lugar de los hechos para atender al afectado. Una vez allí, los efectivos médicos del SUC comprobaron que el herido se encontraba en parada cardiorrespiratoria, por lo que procedieron a practicarle las maniobras de reanimación cardiopulmonar avanzadas que no dieron resultado y únicamente pudieron confirmar su fallecimiento. Asimismo, en el suceso participaron miembros de la Guardia Civil y la Policía Local, que se encargaron de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:20.23 indicar que uno vehículo haber atropellar a uno hombre en el GC-191 y que debido_a el lesión presentar precisar asistencia sanitario por ello el dispositivo de emergencia activar a el servicio_de_urgencias_canario suc que se trasladar hasta el lugar de el hecho para atender a el afectar uno vez allí el efectivo médico de el suc comprobar que el herir se encontrar en parada cardiorrespiratoria por el que proceder a practicar le el maniobra de reanimación cardiopulmonar avanzada que no dar resultado y únicamente poder confirmar su fallecimiento asimismo en el suceso participar miembro de el guardia_civil y el policía_local que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar vehículo haber atropellar hombre lesión presentar precisar asistencia sanitario dispositivo emergencia activar servicio_de_urgencias_canario suc trasladar lugar hecho atender afectar vez efectivo médico suc comprobar herir encontrar parada cardiorrespiratoria proceder practicar maniobra reanimación cardiopulmonar avanzada dar resultado únicamente poder confirmar fallecimiento suceso participar miembro guardia_civil policía_local encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:20.23",
+            "GC-191"
+        ]
+    }
+}

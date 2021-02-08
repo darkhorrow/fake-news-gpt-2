@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/729928/0/",
+    "title": {
+        "raw_text": "Fallece un varón de 58 años tras sufrir una parada cardiorrespiratoria en un hotel de Lanzarote",
+        "lemmatized_text": "fallecer uno varón de 58 año tras sufrir uno parada cardiorrespiratoria en uno hotel de lanzarote",
+        "lemmatized_text_reduced": "fallecer varón año sufrir parada cardiorrespiratoria hotel lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "58"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 58 años de edad y de origen irlandés ha fallecido hoy tras sufrir una parada cardiorrespiratoria en un hotel ubicado en la Calle La Graciosa de Puerto del Carmen, en el municipio de Tías (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 58 año de edad y de origen irlandés haber fallecer hoy tras sufrir uno parada cardiorrespiratoria en uno hotel ubicar en el calle_la_graciosa_de_puerto_del_carmen en el municipio de tías lanzarote según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad origen irlandés haber fallecer sufrir parada cardiorrespiratoria hotel ubicar calle_la_graciosa_de_puerto_del_carmen municipio tías lanzarote informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Calle_La_Graciosa_de_Puerto_del_Carmen",
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "58",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 16.04 horas, cuando se recibió una llamada en el Cecoes que comunicaba que una persona había sufrido un desvanecimiento y no respondía a estímulos en la zona de la piscina de un recinto hotelero. Así pues, el 112 activó de inmediato los recursos de emergencia necesarios. Personal del hotel, al constatar que el afectado se encontraba en parada cardiorrespiratoria, le prestó la primera asistencia y comenzó a practicarle maniobras de reanimación cardiopulmonar. A la llegada al lugar del personal médico del Servicio de Urgencias Canario (SUC), estos continuaron con las maniobras de reanimación, pero ya de manera avanzada, sin que tuvieran resultado, por lo que sólo pudieron confirmar su fallecimiento. Hasta el lugar se desplazaron una ambulancia de soporte vital básico y otra de soporte vital avanzado del SUC. Igualmente, en dicha actuación intervino la Guardia Civil, que elaboró los informes oportunos, mientras que la Policía Local colaboró con el resto de los recursos de emergencia.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:16.04 cuando se recibir uno llamada en el cecoes que comunicar que uno persona haber sufrir uno desvanecimiento y no responder a estímulo en_la_zona_de el piscina de uno recinto hotelero así_pues el 112 activar de inmediato el recurso de emergencia necesario personal de el hotel a el constatar que el afectar se encontrar en parada cardiorrespiratoria le prestar el 1 asistencia y comenzar a practicar le maniobra de reanimación cardiopulmonar a el llegada a el lugar de el personal médico de el servicio_de_urgencias_canario suc este continuar con el maniobra de reanimación pero ya de manera avanzar sin que tener resultado por el que sólo poder confirmar su fallecimiento hasta el lugar se desplazar uno ambulancia de soporte vital básico y otro de soporte vital avanzar de el suc igualmente en decir actuación intervenir el guardia_civil que elaborar el informe oportuno mientras_que el policía_local colaborar con el resto de el recurso de emergencia",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes comunicar persona haber sufrir desvanecimiento responder estímulo piscina recinto hotelero activar inmediato recurso emergencia necesario personal hotel constatar afectar encontrar parada cardiorrespiratoria prestar 1 asistencia comenzar practicar maniobra reanimación cardiopulmonar llegada lugar personal médico servicio_de_urgencias_canario suc continuar maniobra reanimación manera avanzar tener resultado poder confirmar fallecimiento lugar desplazar ambulancia soporte vital básico soporte vital avanzar suc igualmente decir actuación intervenir guardia_civil elaborar informe oportuno policía_local colaborar resto recurso emergencia",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.04",
+            "112"
+        ]
+    }
+}

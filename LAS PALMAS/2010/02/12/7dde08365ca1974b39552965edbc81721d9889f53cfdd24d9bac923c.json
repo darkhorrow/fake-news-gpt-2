@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/627658/0/",
+    "title": {
+        "raw_text": "Los bomberos extinguen seis incendios en Gran Canaria, Fuerteventura y Lanzarote sin heridos",
+        "lemmatized_text": "el bombero extinguir 6 incendio en gran_canaria fuerteventura y lanzarote sin herido",
+        "lemmatized_text_reduced": "bombero extinguir incendio gran_canaria fuerteventura lanzarote herido",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "Efectivos de bomberos han extinguido durante la noche seis incendios en Las Palmas de Gran Canaria, Arrecife (Lanzarote) y Puerto del Rosario (Fuerteventura), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que precisaron que no ha habido heridos como consecuencia de los sucesos.",
+        "lemmatized_text": "efectivo de bombero haber extinguir durante el noche 6 incendio en las_palmas_de_gran_canaria arrecife lanzarote y puerto_del_rosario fuerteventura según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que precisar que no haber haber herido como consecuencia de el suceso",
+        "lemmatized_text_reduced": "efectivo bombero haber extinguir noche incendio las_palmas_de_gran_canaria arrecife lanzarote puerto_del_rosario fuerteventura informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes precisar haber haber herido consecuencia suceso",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Arrecife",
+            "Lanzarote",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "6",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Las intervenciones se realizaron durante la madrugada, cuando llamadas alertaron al Cecoes del fuego en distintos puntos de las islas, por lo que el 112 activó de inmediato el dispositivo de emergencias necesario para cada caso. Las actuaciones más importantes correspondieron al incendio que se declaró en la zona donde se encontraba la madera en el Punto Limpio de El Batán en la capital grancanaria y el incendio de dos coches en la calle Seguidilla en Arrecife. Los otros incidentes en los que actuaron servicios de emergencias correspondieron al fuego originado en dos contenedores en Puerto del Rosario y otros dos que ardieron en Las Palmas de Gran Canaria, añadieron las mismas fuentes. En todas estas actuaciones participaron agentes del Cuerpo Nacional de Policía, que se encargaron de instruir las diligencias pertinentes.",
+        "lemmatized_text": "el intervención se realizar durante el madrugada cuando llamada alertar a el cecoes de el fuego en distinto punto de el isla por el que el 112 activar de inmediato el dispositivo de emergencia necesario para cada caso el actuación más importante corresponder a el incendio que se declarar en el zona donde se encontrar el madera en el punto_limpio_de_el_batán en el capital grancanaria y el incendio de 2 coche en el calle seguidilla en arrecife el otro incidente en el que actuar servicio de emergencia corresponder a el fuego originar en 2 contenedor en puerto_del_rosario y otro 2 que arder en las_palmas_de_gran_canaria añadir el mismo fuente en todo este actuación participar agente de el cuerpo_nacional_de_policía que se encargar de instruir el diligencia pertinente",
+        "lemmatized_text_reduced": "intervención realizar madrugada llamada alertar cecoes fuego punto isla activar inmediato dispositivo emergencia necesario caso actuación importante corresponder incendio declarar zona encontrar madera punto_limpio_de_el_batán capital grancanaria incendio coche calle seguidilla arrecife incidente actuar servicio emergencia corresponder fuego originar contenedor puerto_del_rosario arder las_palmas_de_gran_canaria añadir mismo fuente actuación participar agente cuerpo_nacional_de_policía encargar instruir diligencia pertinente",
+        "persons": [],
+        "locations": [
+            "Punto_Limpio_de_El_Batán",
+            "Seguidilla",
+            "Arrecife",
+            "Puerto_del_Rosario",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "2",
+            "2",
+            "2"
+        ]
+    }
+}

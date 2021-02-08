@@ -1,0 +1,131 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598734/0/",
+    "title": {
+        "raw_text": "El precio de la gasolina en Canarias sufre su mayor caída en diciembre pero inicia 2010 un 25% más cara que hace un año",
+        "lemmatized_text": "el precio de el gasolina en canarias sufrir su mayor caída en [??:??/12/??:??.??:??] pero iniciar 2010 uno 25/100 más cara que hacer uno año",
+        "lemmatized_text_reduced": "precio gasolina canarias sufrir mayor caída iniciar cara hacer año",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "2010",
+            "25/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un usuario canario medio debe destinar casi 8 euros más este comienzo de año a llenar su depósito que en enero de 2009",
+        "lemmatized_text": "uno usuario canario medio deber destinar casi $_ECU:8 más este comienzo de año a llenar su depósito que en [??:??/1/2009:??.??:??]",
+        "lemmatized_text_reduced": "usuario canario medio deber destinar comienzo año llenar depósito",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/2009:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:8"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio de la gasolina en Canarias ha sufrido su mayor descenso del año 2009 en el mes de diciembre, abaratándose la de 95 octanos —la más consumida— un 8,38 por ciento en el conjunto del archipiélago, aunque ha iniciado 2010 un 25,46 por ciento más cara que en enero del pasado año, según datos recogidos por Europa Press del total de surtidores de las islas. Los conductores que reposten hoy se encontrarán también con que el precio de la gasolina de 98 octanos es un 23,74 por ciento más cara que en enero de 2009, mientras que los propietarios de vehículos propulsados por diesel tendrán que afrontar un menor aumento del desembolso necesario para llenar su depósito, después de que el diesel tradicional se haya encarecido un 5,78 por ciento en el conjunto de Canarias y el enriquecido un 5,56 por ciento. Esta subida del combustible, supone para los usuarios de gasolina de 95 octanos tener que desembolsar 7,91 euros más que hace un año para llenar el tanque de sus coches —teniendo en cuenta que un depósito medio tiene capacidad para 50 litros—, pasando de gastar 31,07 euros hace un año a los 39 euros de 2010. El precio del litro de la de 95 octanos cerró 2009 y comienza el nuevo año en los 0,779 euros de media en Canarias, aunque su precio varía por provincias de forma que en Las Palmas quedó fijada en los 0,784 euros el litro, mientras que en la de Santa Cruz de Tenerife es de 0,774. La gasolina de 98 octanos, por su parte, se situó en los 0,85 euros por litro de media, con 0,846 euros el litro en Las Palmas y 0,854 en Santa Cruz de Tenerife. El diésel comenzó 2010 en 0,64 euros el litro, 0,645 en la provincia oriental y 0,636 en la occidental; mientras que el diésel enriquecido lo hizo en 0,673 euros el litro, con 0,676 en Las Palmas y 0,671 en Santa Cruz de Tenerife. Las gasolineras más baratas Las ochos gasolineras más baratas en 95 octanos de la provincia de Las Palmas se sitúan en Fuerteventura y son la Repsol de Puerto del Rosario y la de Caleta de Fuste; la PCAN Gasolinera Gil y la de El Castillo también en Puerto del Rosario; las Cepsa de la autovía, la Mercasosa y la de la carretera La Oliva. En Gran Canaria las más económicas son la Shell y la BP de San Mateo. En la provincia occidental, en cambio, las más económicas se concentran en Tenerife, encabezadas por la Makro del polígono de Los Majuelos (La Laguna), la PCAN del polígono El Mayorazgo en Santa Cruz de Tenerife, la Shell de carrera general Las Galletas, en Costa del Silencio, y la Cepsa Padre Anchieta, en La Laguna.",
+        "lemmatized_text": "el precio de el gasolina en canarias haber sufrir su mayor descenso de el [??:??/??/2009:??.??:??] en el [??:??/12/??:??.??:??] abaratar se el de 95 octano el más consumir uno 8,38 por 100 en el conjunto de el archipiélago aunque haber iniciar 2010 uno 25,46 por 100 más cara que en [??:??/1/??:??.??:??] de el pasar año según dato recoger por europa_press de el total de surtidor de el isla el conductor que repostar hoy se encontrar también con que el precio de el gasolina de 98 octano ser uno 23,74 por 100 más cara que en [??:??/1/2009:??.??:??] mientras_que el propietario de vehículo propulsar por diesel tener que afrontar uno menor aumento de el desembolso necesario para llenar su depósito después_de que el diesel tradicional se haber encarecer uno 5,78 por 100 en el conjunto de canarias y el enriquecer uno 5,56 por 100 este subida de el combustible suponer para el usuario de gasolina de 95 octano tener que desembolsar $_ECU:7,91 más que hacer uno año para llenar el tanque de su coche tener_en_cuenta que uno depósito medio tener capacidad para VL_l:50 pasar de gastar $_ECU:31,07 hacer uno año a el $_ECU:39 de 2010 el precio de el litro de el de 95 octano cerrar 2009 y comenzar el nuevo año en el $_ECU:779 de medio en canarias aunque su precio variar por provincia de forma que en las_palmas quedar fijar en el $_ECU:784 el litro mientras_que en el de santa_cruz_de_tenerife ser de 774 el gasolina de 98 octano por su parte se situar en el $_ECU:0,85 por litro de medio con $_ECU:846 el litro en las_palmas y 854 en santa_cruz_de_tenerife el diésel comenzar 2010 en $_ECU:0,64 el litro 645 en el provincia oriental y 636 en el occidental mientras_que el diésel enriquecer lo hacer en $_ECU:673 el litro con 676 en las_palmas y 671 en santa_cruz_de_tenerife el gasolinera más barato las ochos gasolinera más barato en 95 octano de el provincia de las_palmas se situar en fuerteventura y ser el repsol_de_puerto_del_rosario y el de caleta_de_fuste el pcan_gasolinera_gil y el de el_castillo también en puerto_del_rosario el cepsa de el autovía el mercasosa y el de el carretera la_oliva en gran_canaria el más económico ser el shell y el bp_de_san_mateo en el provincia occidental en cambio el más económico se concentrar en tenerife encabezar por el makro de el polígono de los_majuelos el laguna el pcan de el polígono el_mayorazgo en santa_cruz_de_tenerife el shell de carrera general las_galletas en costa_del_silencio y el cepsa_padre_anchieta en la_laguna",
+        "lemmatized_text_reduced": "precio gasolina canarias haber sufrir mayor descenso abaratar octano consumir conjunto archipiélago haber iniciar cara pasar año dato recoger europa_press total surtidor isla conductor repostar encontrar precio gasolina octano ser cara propietario vehículo propulsar diesel tener afrontar menor aumento desembolso necesario llenar depósito diesel tradicional haber encarecer conjunto canarias enriquecer subida combustible suponer usuario gasolina octano tener desembolsar hacer año llenar tanque coche tener_en_cuenta depósito medio tener capacidad pasar gastar hacer año precio litro octano cerrar comenzar nuevo año medio canarias precio variar provincia forma las_palmas quedar fijar litro santa_cruz_de_tenerife ser gasolina octano parte situar litro medio litro las_palmas santa_cruz_de_tenerife diésel comenzar litro provincia oriental occidental diésel enriquecer hacer litro las_palmas santa_cruz_de_tenerife gasolinera barato las ochos gasolinera barato octano provincia las_palmas situar fuerteventura ser repsol_de_puerto_del_rosario caleta_de_fuste pcan_gasolinera_gil el_castillo puerto_del_rosario cepsa autovía mercasosa carretera la_oliva gran_canaria económico ser shell bp_de_san_mateo provincia occidental cambio económico concentrar tenerife encabezar makro polígono los_majuelos laguna pcan polígono el_mayorazgo santa_cruz_de_tenerife shell carrera general las_galletas costa_del_silencio cepsa_padre_anchieta la_laguna",
+        "persons": [
+            "Las"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Canarias",
+            "Santa_Cruz_de_Tenerife",
+            "Santa_Cruz_de_Tenerife",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Fuerteventura",
+            "Caleta_de_Fuste",
+            "El_Castillo",
+            "Puerto_del_Rosario",
+            "La_Oliva",
+            "Gran_Canaria",
+            "Tenerife",
+            "Los_Majuelos",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Galletas",
+            "Costa_del_Silencio",
+            "La_Laguna"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Las_Palmas",
+            "Las_Palmas",
+            "Las_Palmas",
+            "Repsol_de_Puerto_del_Rosario",
+            "Cepsa",
+            "Mercasosa",
+            "Shell",
+            "BP_de_San_Mateo",
+            "Makro",
+            "Laguna",
+            "PCAN",
+            "Shell",
+            "Cepsa_Padre_Anchieta"
+        ],
+        "others": [
+            "PCAN_Gasolinera_Gil",
+            "El_Mayorazgo"
+        ],
+        "dates": [
+            "[??:??/??/2009:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/1/2009:??.??:??]"
+        ],
+        "numbers": [
+            "95",
+            "8,38",
+            "100",
+            "2010",
+            "25,46",
+            "100",
+            "98",
+            "23,74",
+            "100",
+            "5,78",
+            "100",
+            "5,56",
+            "100",
+            "95",
+            "$_ECU:7,91",
+            "VL_l:50",
+            "$_ECU:31,07",
+            "$_ECU:39",
+            "2010",
+            "95",
+            "2009",
+            "$_ECU:779",
+            "$_ECU:784",
+            "774",
+            "98",
+            "$_ECU:0,85",
+            "$_ECU:846",
+            "854",
+            "2010",
+            "$_ECU:0,64",
+            "645",
+            "636",
+            "$_ECU:673",
+            "676",
+            "671",
+            "95"
+        ]
+    }
+}

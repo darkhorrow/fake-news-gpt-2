@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/655512/0/",
+    "title": {
+        "raw_text": "El Gobierno canario recomienda a niños, ancianos y personas con enfermedades evitar el aire exterior por la calima",
+        "lemmatized_text": "el gobierno canario recomendar a niño anciano y persona con enfermedad evitar el aire exterior por el calima",
+        "lemmatized_text_reduced": "gobierno canario recomendar niño anciano persona enfermedad evitar aire exterior calima",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Sanidad del Gobierno de Canarias ha recomendado hoy a niños, ancianos y personas con enfermedades respiratorias o cardiovasculares crónicas, evitar \"en la medida de lo posible\" la exposición al aire exterior manteniendo las ventanas cerradas debido al \"alto\" grado de calima que se prevé continúe hasta la medianoche del viernes en el archipiélago.",
+        "lemmatized_text": "el consejería_de_sanidad_del_gobierno_de_canarias haber recomendar hoy a niño anciano y persona con enfermedad respiratorio o cardiovascular crónica evitar en el medida de el posible el exposición a el aire exterior mantener el ventana cerrar deber a el alto grado de calima que se prever continuar hasta el [V:??/??/??:00.00:am] en el archipiélago",
+        "lemmatized_text_reduced": "consejería_de_sanidad_del_gobierno_de_canarias haber recomendar niño anciano persona enfermedad respiratorio cardiovascular crónica evitar medida posible exposición aire exterior mantener ventana cerrar deber alto grado calima prever continuar archipiélago",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejería_de_Sanidad_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:00.00:am]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Según informó el Ejecutivo regional en un comunicado, los datos de la Red de Vigilancia de la Calidad del Aire apuntan a un aporte de partículas de origen natural con impacto en los niveles de material particulado (PM 10) considerado como \"alto\" y que está afectando \"fundamentalmente\" a las islas de Lanzarote, Fuerteventura, Gran Canaria, Tenerife y La Gomera. La exposición a este contaminante puede producir molestias torácicas, tos, palpitaciones, fatiga o incremento a la susceptibilidad a infecciones respiratorias, \"al menos\", durante los cinco días posteriores al inicio del episodio. Por ello, también se ha recomendado a la población en general que evite realizar esfuerzos físicos prolongados al aire libre y tomar abundante agua. Asimismo, se invita a los afectados que lo necesiten que, en una primera instancia, acudan a su centro de salud o a los centros periféricos de urgencia.",
+        "lemmatized_text": "según informar el ejecutivo regional en uno comunicado el dato de el red_de_vigilancia_de_la_calidad_del_aire apuntar a uno aporte de partícula de origen natural con impacto en el nivel de material particulado pm 10 considerar como alto y que estar afectar fundamentalmente a el isla de lanzarote fuerteventura gran_canaria tenerife y la_gomera el exposición a este contaminante poder producir molestia torácico tos palpitación fatiga o incremento a el susceptibilidad a infección respiratorio a el menos durante el TM_d:5 posterior a el inicio de el episodio por ello también se haber recomendar a el población en general que evitar realizar esfuerzo físico prolongar a el aire libre y tomar abundante agua asimismo se invitar a el afectado que lo necesitar que en uno 1 instancia acudir a su centro de salud o a el centro periférico de urgencia",
+        "lemmatized_text_reduced": "informar ejecutivo regional comunicado dato red_de_vigilancia_de_la_calidad_del_aire apuntar aporte partícula origen natural impacto nivel material particulado pm considerar alto estar afectar fundamentalmente isla lanzarote fuerteventura gran_canaria tenerife la_gomera exposición contaminante poder producir molestia torácico tos palpitación fatiga incremento susceptibilidad infección respiratorio posterior inicio episodio haber recomendar población general evitar realizar esfuerzo físico prolongar aire libre tomar abundante agua invitar afectado necesitar 1 instancia acudir centro salud centro periférico urgencia",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "PM",
+            "Fuerteventura",
+            "Gran_Canaria",
+            "Tenerife",
+            "La_Gomera"
+        ],
+        "others": [
+            "Red_de_Vigilancia_de_la_Calidad_del_Aire"
+        ],
+        "dates": [],
+        "numbers": [
+            "10",
+            "TM_d:5"
+        ]
+    }
+}

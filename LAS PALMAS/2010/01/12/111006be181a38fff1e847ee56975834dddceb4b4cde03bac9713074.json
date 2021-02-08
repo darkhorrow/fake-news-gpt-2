@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604927/0/",
+    "title": {
+        "raw_text": "El Festival de Música de Canarias pondrá a la venta entradas empleando la fórmula 'Last Minute'",
+        "lemmatized_text": "el festival_de_música_de_canarias poner a el venta entrada emplear el fórmula last_minute",
+        "lemmatized_text_reduced": "festival_de_música_de_canarias poner venta entrada emplear fórmula last_minute",
+        "persons": [
+            "Last_Minute"
+        ],
+        "locations": [],
+        "organizations": [
+            "Festival_de_Música_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El XXVI Festival Internacional de Música de Canarias prevé poner a la venta entradas empleando la fórmula 'Last Minute', utilizada ya en diversos espectáculos como Brodway o Londres, lo que facilitará la adquisición de localidades a precios reducidos, completando así un aforo que de otro modo estaría vacío.",
+        "lemmatized_text": "el xxvi_festival_internacional_de_música_de_canarias prever poner a el venta entrada emplear el fórmula last_minute utilizar ya en diverso espectáculo como brodway o londres el que facilitar el adquisición de localidad a precio reducir completar así uno aforo que de otro modo estar vacío",
+        "lemmatized_text_reduced": "xxvi_festival_internacional_de_música_de_canarias prever poner venta entrada emplear fórmula last_minute utilizar espectáculo brodway londres facilitar adquisición localidad precio reducir completar aforo modo estar vacío",
+        "persons": [
+            "Last_Minute"
+        ],
+        "locations": [
+            "Londres"
+        ],
+        "organizations": [
+            "XXVI_Festival_Internacional_de_Música_de_Canarias",
+            "Brodway"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta forma, los jóvenes menores de 30 años podrán adquirir entradas sueltas al precio de siete euros cuando éstas no se hayan vendido aún a 40 minutos del inicio del concierto. Los tickets sólo podrán adquirirse en las taquillas de los auditorios previa presentación del documento nacional de identidad, según informó el Festival en un comunicado. Asimismo, los alumnos de las universidades y conservatorios pueden optar a la adquisición de entradas a 10 euros en los conciertos del 15 de enero en el Auditorio de Tenerife, protagonizado por la OST con Lü Jia al frente; y del 19 de enero, también en Santa Cruz de Tenerife, con el concierto de la Göteborg Symfoniker dirigida por Gustavo Dudamel. Así, el Festival de Música de Canarias pretende acercar este certamen a los espectadores más jóvenes y crear un nuevo público para posteriores ediciones. Por otro lado, y de forma paralela, el Gobierno canario recordó que las entradas sueltas para los conciertos de la programación 2010 en Tenerife y Gran Canaria, cuyos precios oscilan entre los 15 y los 100 euros, se encuentran disponibles en los puntos de venta habituales.",
+        "lemmatized_text": "de este forma el joven menor de 30 año poder adquirir entrada suelto a el precio de $_ECU:7 cuando este no se haber vender aun a TM_min:40 de el inicio de el concierto el ticket sólo poder adquirir se en el taquilla de el auditorio previo presentación de el documento nacional de identidad según informar el festival en uno comunicado asimismo el alumno de el universidad y conservatorio poder optar a el adquisición de entrada a $_ECU:10 en el concierto de el [??:15/1/??:??.??:??] en el auditorio_de_tenerife protagonizar por el ost con lü_jia a el frente y de el [??:19/1/??:??.??:??] también en santa_cruz_de_tenerife con el concierto de el göteborg_symfoniker dirigir por gustavo_dudamel así el festival_de_música_de_canarias pretender acercar este certamen a el espectador más joven y crear uno nuevo público para posterior edición por_otro_lado y de forma paralelo el gobierno canario recordar que el entrada suelto para el concierto de el programación 2010 en tenerife y gran_canaria cuyo precio oscilar entre el 15 y el $_ECU:100 se encontrar disponible en el punto de venta habitual",
+        "lemmatized_text_reduced": "forma joven menor año poder adquirir entrada suelto precio haber vender inicio concierto ticket poder adquirir taquilla auditorio previo presentación documento nacional identidad informar festival comunicado alumno universidad conservatorio poder optar adquisición entrada concierto auditorio_de_tenerife protagonizar ost lü_jia frente santa_cruz_de_tenerife concierto göteborg_symfoniker dirigir gustavo_dudamel festival_de_música_de_canarias pretender acercar certamen espectador joven crear nuevo público posterior edición forma paralelo gobierno canario recordar entrada suelto concierto programación tenerife gran_canaria precio oscilar encontrar disponible punto venta habitual",
+        "persons": [
+            "Lü_Jia",
+            "Gustavo_Dudamel"
+        ],
+        "locations": [
+            "Auditorio_de_Tenerife",
+            "Santa_Cruz_de_Tenerife",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Festival",
+            "OST",
+            "Gobierno",
+            "Tenerife"
+        ],
+        "others": [
+            "Göteborg_Symfoniker",
+            "Festival_de_Música_de_Canarias"
+        ],
+        "dates": [
+            "[??:15/1/??:??.??:??]",
+            "[??:19/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "$_ECU:7",
+            "TM_min:40",
+            "$_ECU:10",
+            "2010",
+            "15",
+            "$_ECU:100"
+        ]
+    }
+}

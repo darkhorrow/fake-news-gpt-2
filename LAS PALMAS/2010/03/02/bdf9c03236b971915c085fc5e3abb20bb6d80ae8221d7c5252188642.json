@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641204/0/",
+    "title": {
+        "raw_text": "Un hombre en estado crítico después de que su turismo volcara en Gran Canaria",
+        "lemmatized_text": "uno hombre en estado crítico después_de que su turismo volcar en gran_canaria",
+        "lemmatized_text_reduced": "hombre estado crítico turismo volcar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven, de 20 años de edad, se encuentra en estado crítico después de que el vehículo en el que viajaba volcara en Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno joven de 20 año de edad se encontrar en estado crítico después_de que el vehículo en el que viajar volcar en gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven año edad encontrar estado crítico vehículo viajar volcar gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "20",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 00.30 horas de la pasada noche en la GC-500, a la altura del kilómetro 20, en dirección Sur, en concreto, la carretera antigua que une San Bartolomé de Tirajana con Mogán. En cuanto al herido sufrió traumatismo abdominal y craneal de carácter grave, por lo que el personal del Servicio de Urgencias Canario (SUC) tuvo que trasladarlo en estado crítico, después de que sufriera una parada cardiorrespiratoria, que pudo ser revertida por personal del SUC, hasta el Hospital Universitario Insular de Gran Canaria. Asimismo, en el lugar del suceso se personó el Servicio de Extinción de Incendios y Salvamento de San Bartolomé de Tirajana, así como agentes de la Policía Local que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir a el TM_h:0.3 de el pasar noche en el GC-500 a el altura de el kilómetro 20 en dirección sur en concreto el carretera antiguo que unir san_bartolomé_de_tirajana con mogán en cuanto a el herir sufrir traumatismo abdominal y craneal de carácter grave por el que el personal de el servicio_de_urgencias_canario suc tener que trasladar lo en estado crítico después_de que sufrir uno parada cardiorrespiratoria que poder ser revertir por personal de el suc hasta el hospital_universitario_insular_de_gran_canaria asimismo en el lugar de el suceso se personar el servicio_de_extinción_de_incendios y salvamento_de_san_bartolomé_de_tirajana así_como agente de el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir pasar noche altura kilómetro dirección sur concreto carretera antiguo unir san_bartolomé_de_tirajana mogán herir sufrir traumatismo abdominal craneal carácter grave personal servicio_de_urgencias_canario suc tener trasladar estado crítico sufrir parada cardiorrespiratoria poder ser revertir personal suc hospital_universitario_insular_de_gran_canaria lugar suceso personar servicio_de_extinción_de_incendios salvamento_de_san_bartolomé_de_tirajana agente policía_local instruir diligencia correspondiente",
+        "persons": [
+            "Salvamento_de_San_Bartolomé_de_Tirajana"
+        ],
+        "locations": [
+            "Sur",
+            "San_Bartolomé_de_Tirajana",
+            "Mogán"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Servicio_de_Extinción_de_Incendios",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:0.3",
+            "GC-500",
+            "20"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-03-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/359938/0/apunalado/bar/canaria/",
+    "title": {
+        "raw_text": "Hallan el cadáver de un hombre de 52 años apuñalado en un bar de Gran Canaria",
+        "lemmatized_text": "hallar el cadáver de uno hombre de 52 año apuñalar en uno bar de gran_canaria",
+        "lemmatized_text_reduced": "hallar cadáver hombre año apuñalar bar gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "52"
+        ]
+    },
+    "lead": {
+        "raw_text": "La víctima, que tenía arrendado el bar, se llamaba Rafael Abrante. La dueña del local alertó a la policía al ver que el hombre no abría el negocio desde el domingo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar o reducir este mapa, o desplazarte por él.",
+        "lemmatized_text": "el víctima que tener arrendar el bar se llamar rafael_abrante el dueño de el local alertar a el policía a el ver que el hombre no abrir el negocio desde el [G:??/??/??:??.??:??] consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar o reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "víctima tener arrendar bar llamar rafael_abrante dueño local alertar policía ver hombre abrir negocio consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [
+            "Rafael_Abrante"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El cadáver de un hombre de 52 años apuñalado ha sido encontrado por un policía local de La Aldea en el Bar Tagoror de esta localidad grancanaria, donde los vecinos han alertado a las autoridades porque desde domingo no abría el local , han informado fuentes policiales. El hallazgo se produjo el miércoles por la tarde , momento en el que se hizo cargo del caso la Guardia Civil, han agregado. La víctima tenía arrendado el bar y la dueña, al detectar su ausencia , acudió con el policía local y las llaves para acceder a su interior, donde encontraron a Rafael Abrante, vecino de La Aldea aunque nacido en la capital grancanaria, con heridas de arma blanca. La Guardia Civil baraja la posibilidad de que se trate del resultado de rencillas y circunscribe la autoría en su entorno, por lo que investiga a vecinos, clientes y conocidos. En el local no se encontraron señales de robo y, según los primeros indicios, posiblemente murió el domingo, último día que abrió el bar. La Justicia ha decretado el secreto del sumario y especialistas de la Guardia Civil se han trasladado a La Aldea para investigar el caso. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el cadáver de uno hombre de 52 año apuñalar haber ser encontrar por uno policía local de la_aldea en el bar_tagoror de este localidad grancanaria donde el vecino haber alertar a el autoridad porque desde [G:??/??/??:??.??:??] no abrir el local haber informar fuente policial el hallazgo se producir el [X:??/??/??:??.??:pm] momento en el que se hacer_cargo de el caso el guardia_civil haber agregar el víctima tener arrendar el bar y el dueño a el detectar su ausencia acudir con el policía local y el llave para acceder a su interior donde encontrar a rafael_abrante vecino de la_aldea aunque nacer en el capital grancanaria con herida de arma blanco el guardia_civil barajar el posibilidad de que se tratar de el resultado de rencilla y circunscribir el autoría en su entorno por el que investigar a vecino cliente y conocer en el local no se encontrar señal de robo y según el 1 indicio posiblemente morir el [G:??/??/??:??.??:??] último día que abrir el bar el justicia haber decretar el secreto de el sumario y especialista de el guardia_civil se haber trasladar a la_aldea para investigar el caso consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "cadáver hombre año apuñalar haber ser encontrar policía local la_aldea bar_tagoror localidad grancanaria vecino haber alertar autoridad abrir local haber informar fuente policial hallazgo producir momento hacer_cargo caso guardia_civil haber agregar víctima tener arrendar bar dueño detectar ausencia acudir policía local llave acceder interior encontrar rafael_abrante vecino la_aldea nacer capital grancanaria herida arma blanco guardia_civil barajar posibilidad tratar resultado rencilla circunscribir autoría entorno investigar vecino cliente conocer local encontrar señal robo 1 indicio posiblemente morir último día abrir bar justicia haber decretar secreto sumario especialista guardia_civil haber trasladar la_aldea investigar caso consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Rafael_Abrante"
+        ],
+        "locations": [
+            "La_Aldea",
+            "Bar_Tagoror",
+            "La_Aldea",
+            "La_Aldea"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "Justicia",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:pm]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "52"
+        ]
+    }
+}

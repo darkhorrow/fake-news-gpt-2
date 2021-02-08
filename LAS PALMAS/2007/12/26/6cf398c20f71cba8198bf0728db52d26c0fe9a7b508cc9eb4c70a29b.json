@@ -1,0 +1,129 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/326442/0/queen/victoria/palmas/",
+    "title": {
+        "raw_text": "El 'Queen Victoria' atracará en el puerto de Las Palmas el 30 de diciembre",
+        "lemmatized_text": "el queen_victoria atracar en el puerto de las_palmas el [??:30/12/??:??.??:??]",
+        "lemmatized_text_reduced": "queen_victoria atracar puerto las_palmas",
+        "persons": [
+            "Queen_Victoria"
+        ],
+        "locations": [
+            "Las_Palmas"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:30/12/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Es el nuevo crucero de la compañía Cunard. Fue inaugurado a principios de diciembre por Camila Parker Bowles. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "ser el nuevo crucero de el compañía cunard ser inaugurar a_principios_de [??:??/12/??:??.??:??] por camila_parker_bowles consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ser nuevo crucero compañía cunard ser inaugurar camila_parker_bowles consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Camila_Parker_Bowles"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cunard",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El 'Queen Victoria' , el nuevo buque de la compañía de cruceros Cunard Line , atracará el sábado 29 de diciembre en el puerto de Las Palmas, después de haber visitado los puertos de Lanzarote, Málaga y Vigo, en el itinerario navideño de este barco turístico de lujo. El barco, que se suma al 'Queen Mary 2' y al 'Queen Elizabeth 2', fue inaugurado a principios del mes de diciembre por Su Alteza Real la Duquesa de Cornualles, Camila Parker Bowles , y en su construcción se han invertido cerca de 500 millones de dólares. Medidas y precios Tiene 294 metros de eslora, un peso de 90.000 toneladas y capacidad para 2.000 pasajeros . Entre sus servicios, cuenta con un teatro con 830 asientos, un museo con objetos de Cunard Line de gran valor, una biblioteca de dos pisos y más de 6.000 tomos en varios idiomas y un invernadero de estilo colonial. Además, la nave tiene un Grand Lobby en tres altura s, en caoba y mármol, con un tapiz de doble altura sobre las escaleras; una sala de baile, la Queens Room, con dos alturas y una pista de mas de 100 metros cuadrados, adornada con lámparas de araña, y el restaurante de dos pisos Britannia, con columnas y arcos decorativos y una pieza central realizada en bronce y cristal. El 'Queen Victoria' realizó, tras su inauguración, un crucero por el Norte de Europa y, antes de Málaga, atracó en Vigo el 23 de diciembre y lo hará en Lanzarote y Las Palmas de Gran Canaria el 29 y el 30 de diciembre , respectivamente. Tras este itinerario, volverá a Southampton para comenzar su primer crucero alrededor del mundo, en el que durante 107 días hará escala en 37 ciudades de 23 países. Próximos destinos De este modo, después de llegar a Nueva York, irá al Canal de Panamá antes de hacer paradas inaugurales en puertos de ciudades como Los Angeles, Auckland, Sidney, Bangkok, Singapur, Kuala Lumpur, Mumbai, Dubai, Atenas y Barcelona. Para el verano de 2008 realizará cruceros de 12 noches por el Mediterráneo, dos de ellos con salidas desde Barcelona. Por su parte, el puerto de Málaga cerrará 2007 con 285.000 pasajeros, un 27 por ciento más que en el pasado 2006 , y espera alcanzar en aproximadamente cinco años unos 500.000 cruceristas anuales con la nueva estación marítima, instalación que comenzará a recibir viajeros el próximo enero y que ha supuesto una inversión de 27 millones de euros. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el queen_victoria el nuevo buque de el compañía de crucero cunard_line atracar el [S:29/12/??:??.??:??] en el puerto de las_palmas después_de haber visitar el puerto de lanzarote málaga y vigo en el itinerario navideño de este barco turístico de lujo el barco que se sumar a el queen_mary 2 y a el queen_elizabeth 2 ser inaugurar a principio de el [??:??/12/??:??.??:??] por su_alteza_real_la_duquesa_de_cornualles camila_parker_bowles y en su construcción se haber invertir cerca de $_USD:500000000 medida y precio tiene LN_m:294 de eslora uno peso de WG_tm:90 y capacidad para 2 pasajero entre su servicio contar con uno teatro con 830 asiento uno museo con objeto de cunard_line de gran valor uno biblioteca de 2 piso y más de 6 tomo en varios idioma y uno invernadero de estilo colonial además el nave tener uno grand_lobby en 3 altura segundo en caoba y mármol con uno tapiz de doble altura sobre el escalera uno sala de baile el queens_room con 2 altura y uno pista de mas de AR_m2:100 adornar con lámpara de araña y el restaurante de 2 piso britannia con columna y arco decorativo y uno pieza central realizar en bronce y cristal el queen_victoria realizar tras su inauguración uno crucero por el norte_de_europa y antes_de málaga atracar en vigo el [??:23/12/??:??.??:??] y lo hacer en lanzarote y las_palmas_de_gran_canaria el 29 y el [??:30/12/??:??.??:??] respectivamente tras este itinerario volver a southampton para comenzar su 1 crucero alrededor de el mundo en el que durante TM_d:107 hacer escala en 37 ciudad de 23 país próximo destino de este modo después_de llegar a nueva_york ir a el canal_de_panamá antes_de hacer parada inaugural en puerto de ciudad como los_angeles auckland sidney bangkok singapur kuala_lumpur mumbai dubai atenas y barcelona para el verano de 2008 realizar crucero de 12 noche por el mediterráneo 2 de ellos con salida desde barcelona por su parte el puerto de málaga cerrar 2007 con 285 pasajero uno 27 por 100 más que en el pasar 2006 y esperar alcanzar en aproximadamente 5 año uno 500 cruceristas anual con el nuevo estación marítimo instalación que comenzar a recibir viajero el [??:??/1/??:??.??:??] y que haber suponer uno inversión de $_ECU:27000000 consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "queen_victoria nuevo buque compañía crucero cunard_line atracar puerto las_palmas haber visitar puerto lanzarote málaga vigo itinerario navideño barco turístico lujo barco sumar queen_mary queen_elizabeth ser inaugurar principio su_alteza_real_la_duquesa_de_cornualles camila_parker_bowles construcción haber invertir medida precio tiene eslora peso capacidad pasajero servicio contar teatro asiento museo objeto cunard_line gran valor biblioteca piso tomo idioma invernadero estilo colonial nave tener grand_lobby altura segundo caoba mármol tapiz doble altura escalera sala baile queens_room altura pista adornar lámpara araña restaurante piso britannia columna arco decorativo pieza central realizar bronce cristal queen_victoria realizar inauguración crucero norte_de_europa málaga atracar vigo hacer lanzarote las_palmas_de_gran_canaria respectivamente itinerario volver southampton comenzar 1 crucero mundo hacer escala ciudad país próximo destino de modo llegar nueva_york ir canal_de_panamá hacer parada inaugural puerto ciudad los_angeles auckland sidney bangkok singapur kuala_lumpur mumbai dubai atenas barcelona verano realizar crucero noche mediterráneo salida barcelona parte puerto málaga cerrar pasajero pasar esperar alcanzar aproximadamente año cruceristas anual nuevo estación marítimo instalación comenzar recibir viajero haber suponer inversión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Queen_Victoria",
+            "Queen_Mary",
+            "Queen_Elizabeth",
+            "Camila_Parker_Bowles",
+            "Cunard_Line",
+            "Grand_Lobby",
+            "Queen_Victoria",
+            "De"
+        ],
+        "locations": [
+            "Las_Palmas",
+            "Lanzarote",
+            "Málaga",
+            "Vigo",
+            "Málaga",
+            "Vigo",
+            "Lanzarote",
+            "Las_Palmas_de_Gran_Canaria",
+            "Southampton",
+            "Nueva_York",
+            "Los_Angeles",
+            "Auckland",
+            "Singapur",
+            "Kuala_Lumpur",
+            "Mumbai",
+            "Dubai",
+            "Barcelona",
+            "Barcelona",
+            "Málaga"
+        ],
+        "organizations": [
+            "Cunard_Line",
+            "Britannia",
+            "Norte_de_Europa",
+            "Canal_de_Panamá",
+            "Sidney",
+            "Bangkok",
+            "Atenas",
+            "Mediterráneo",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Su_Alteza_Real_la_Duquesa_de_Cornualles",
+            "Tiene",
+            "Queens_Room"
+        ],
+        "dates": [
+            "[S:29/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:23/12/??:??.??:??]",
+            "[??:30/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "2",
+            "$_USD:500000000",
+            "LN_m:294",
+            "WG_tm:90",
+            "2",
+            "830",
+            "2",
+            "6",
+            "3",
+            "2",
+            "AR_m2:100",
+            "2",
+            "29",
+            "TM_d:107",
+            "37",
+            "23",
+            "2008",
+            "12",
+            "2",
+            "2007",
+            "285",
+            "27",
+            "100",
+            "2006",
+            "5",
+            "500",
+            "$_ECU:27000000"
+        ]
+    }
+}

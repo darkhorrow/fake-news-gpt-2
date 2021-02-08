@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/434887/0/belen/arena/canarias/",
+    "title": {
+        "raw_text": "Ya se puede visitar en Las Palmas el mayor belén de arena de España",
+        "lemmatized_text": "ya se poder visitar en las_palmas el mayor belén de arena de españa",
+        "lemmatized_text_reduced": "poder visitar las_palmas mayor belén arena españa",
+        "persons": [],
+        "locations": [
+            "Las_Palmas",
+            "España"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una superficie de 600 metros cuadrados y 240 toneladas de arena. Se ha inaugurado en la playa de Las Canteras.",
+        "lemmatized_text": "uno superficie de AR_m2:600 y WG_tm:240 de arena se haber inaugurar en el playa de las_canteras",
+        "lemmatized_text_reduced": "superficie arena haber inaugurar playa las_canteras",
+        "persons": [],
+        "locations": [
+            "Las_Canteras"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_m2:600",
+            "WG_tm:240"
+        ]
+    },
+    "body": {
+        "raw_text": "Con una superficie de 600 metros cuadrados y 240 toneladas de arena , se ha construido el mayor belén de arena de España. Se ha inaugurado en la playa de Las Canteras de Las Palmas de Gran Canaria. Éste es el tercer año consecutivo en el que un belén de grandes dimensiones se mostrará al público en la capital grancanaria. Siete artistas de cinco países diferentes ( Ucrania, Rusia, Dinamarca, Irlanda y España ) han colaborado en su construcción. El Ayuntamiento de Las Palmas y el Cabildo de Gran Canaria han aportado de manera conjunta los 130.000 euros que ha costado el proyecto.",
+        "lemmatized_text": "con uno superficie de AR_m2:600 y WG_tm:240 de arena se haber construir el mayor belén de arena de españa se haber inaugurar en el playa de las_canteras_de_las_palmas_de_gran_canaria este ser el 3 año consecutivo en el que uno belén de grande dimensión se mostrar a el público en el capital grancanaria 7 artista de 5 país diferente ucranio rusia dinamarca irlanda y españa haber colaborar en su construcción el ayuntamiento_de_las_palmas y el cabildo_de_gran_canaria haber aportar de manera conjunto el $_ECU:130 que haber costar el proyecto",
+        "lemmatized_text_reduced": "superficie arena haber construir mayor belén arena españa haber inaugurar playa las_canteras_de_las_palmas_de_gran_canaria ser 3 año consecutivo belén grande dimensión mostrar público capital grancanaria artista país diferente ucranio rusia dinamarca irlanda españa haber colaborar construcción ayuntamiento_de_las_palmas cabildo_de_gran_canaria haber aportar manera conjunto haber costar proyecto",
+        "persons": [],
+        "locations": [
+            "España",
+            "Dinamarca",
+            "Irlanda",
+            "España"
+        ],
+        "organizations": [
+            "Rusia",
+            "Ayuntamiento_de_Las_Palmas",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Las_Canteras_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "AR_m2:600",
+            "WG_tm:240",
+            "7",
+            "5",
+            "$_ECU:130"
+        ]
+    }
+}

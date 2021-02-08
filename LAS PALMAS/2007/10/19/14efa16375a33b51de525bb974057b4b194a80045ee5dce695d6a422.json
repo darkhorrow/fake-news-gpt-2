@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-10-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/293321/0/arzak/dulce/creacion/",
+    "title": {
+        "raw_text": "El cocinero Arzak presentará su \"dulce creación\" en un menú guardado en secreto",
+        "lemmatized_text": "el cocinero arzak presentar su dulce creación en uno menú guardar en secreto",
+        "lemmatized_text_reduced": "cocinero arzak presentar dulce creación menú guardar secreto",
+        "persons": [
+            "Arzak"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Tendrá lugar el martes en el Hotel Santa Catalina. El lunes firmará ejemplares de su libro: 'Bocados'. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "tener_lugar el [M:??/??/??:??.??:??] en el hotel_santa_catalina el [L:??/??/??:??.??:??] firmar ejemplar de su libro bocados consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "tener_lugar hotel_santa_catalina firmar ejemplar libro bocados consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Bocados"
+        ],
+        "organizations": [
+            "Hotel_Santa_Catalina",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El cocinero donostiarra Juan Mari Arzak presentará el próximo martes en Las Palmas de Gran Canaria su nueva \"dulce creación\" en unas jornadas en las que, junto a un equipo de diez personas, ofrecerá un cóctel a base de pintxos vascos y una cena cuyo menú se guarda en secreto . El chef vasco, galardonado con tres estrellas de la Guía Michelín y poseedor del Gran Premio del Arte de la Cocina concedido al mejor cocinero de Europa por la Academia Europea de Gastronomía, y del título de Caballero de la Orden de las Artes y las Letras de Francia, participará en una sesión organizada por la multinacional Diageo , que comercializa marcas como Johnnie Walker, Baileys, Smirnoff, J&B, Tanqueray y Gordon's. Entre el equipo que acompañará a Arzak en estas jornadas gastronómicas, que tendrán lugar en el Hotel Santa Catalina , se encontrará Igor Zalacain, director de I+D de Arzak y responsable del banco de sabores del restaurante vasco, que contiene más de 1.000 productos e ingredientes con los que investigar y seguir creando . Un día antes, el próximo lunes 22 de octubre, el cocinero donostiarra Juan Mari Arzak firmará en una librería de unos grandes almacenes de Las Palmas de Gran Canaria ejemplares de su último libro \"Bocados\", una recopilación de cien creativos pintxos con sus recetas para poder elaborarlos en casa y que resultó galardonada, por unanimidad, por los 32 críticos gastronómicos que conforman la Academia Internacional de Gastronomía con el Prix Littéraire Gastronomique 2006. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el cocinero donostiarra juan_mari_arzak presentar el [M:??/??/??:??.??:??] en las_palmas_de_gran_canaria su nuevo dulce creación en uno jornada en el que junto_a uno equipo de 10 persona ofrecer uno cóctel a_base_de pintxos vasco y uno cena cuyo menú se guardar en secreto el chef vasco galardonar con 3 estrella de el guía_michelín y poseedor de el gran_premio_del_arte_de_la_cocina conceder a el mejor cocinero de europa_por_la_academia_europea_de_gastronomía y de el título de caballero_de_la_orden_de_las_artes y el letras_de_francia participar en uno sesión organizar por el multinacional diageo que comercializar marca como johnnie_walker baileys smirnoff j_&_b tanqueray y gordon's entre el equipo que acompañar a arzak en este jornada gastronómico que tener_lugar en el hotel_santa_catalina se encontrar igor_zalacain director de i+d_de_arzak y responsable de el banco de sabor de el restaurante vasco que contener más de 1 producto y ingrediente con el que investigar y seguir crear uno día antes el [L:22/10/??:??.??:??] el cocinero donostiarra juan_mari_arzak firmar en uno librería de uno grande almacén de las_palmas_de_gran_canaria ejemplar de su último libro bocados uno recopilación de 100 creativo pintxos con su receta para poder elaborar lo en casa y que resultar galardonar por unanimidad por el 32 crítico gastronómico que conformar el academia_internacional_de_gastronomía con el prix_littéraire_gastronomique 2006 consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cocinero donostiarra juan_mari_arzak presentar las_palmas_de_gran_canaria nuevo dulce creación jornada equipo persona ofrecer cóctel pintxos vasco cena menú guardar secreto chef vasco galardonar estrella guía_michelín poseedor gran_premio_del_arte_de_la_cocina conceder mejor cocinero europa_por_la_academia_europea_de_gastronomía título caballero_de_la_orden_de_las_artes letras_de_francia participar sesión organizar multinacional diageo comercializar marca johnnie_walker baileys smirnoff j_&_b tanqueray gordon's equipo acompañar arzak jornada gastronómico tener_lugar hotel_santa_catalina encontrar igor_zalacain director i+d_de_arzak responsable banco sabor restaurante vasco contener producto ingrediente investigar seguir crear día cocinero donostiarra juan_mari_arzak firmar librería grande almacén las_palmas_de_gran_canaria ejemplar último libro bocados recopilación creativo pintxos receta poder elaborar casa resultar galardonar unanimidad crítico gastronómico conformar academia_internacional_de_gastronomía prix_littéraire_gastronomique consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Juan_Mari_Arzak",
+            "Johnnie_Walker",
+            "Baileys",
+            "Smirnoff",
+            "Gordon's",
+            "Arzak",
+            "Igor_Zalacain",
+            "Juan_Mari_Arzak"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Hotel_Santa_Catalina",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Guía_Michelín",
+            "Caballero_de_la_Orden_de_las_Artes",
+            "Letras_de_Francia",
+            "Diageo",
+            "J_&_B",
+            "Tanqueray",
+            "I+D_de_Arzak",
+            "Academia_Internacional_de_Gastronomía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Gran_Premio_del_Arte_de_la_Cocina",
+            "Europa_por_la_Academia_Europea_de_Gastronomía",
+            "Bocados",
+            "Prix_Littéraire_Gastronomique"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[L:22/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "3",
+            "1",
+            "100",
+            "32",
+            "2006"
+        ]
+    }
+}

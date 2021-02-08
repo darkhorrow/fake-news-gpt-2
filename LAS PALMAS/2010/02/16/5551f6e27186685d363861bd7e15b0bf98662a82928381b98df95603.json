@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/630603/0/",
+    "title": {
+        "raw_text": "Los fuertes vientos y las lluvias ocasionan desprendimientos de fachadas en Gran Canaria",
+        "lemmatized_text": "el fuerte viento y el lluvia ocasionar desprendimiento de fachada en gran_canaria",
+        "lemmatized_text_reduced": "fuerte viento lluvia ocasionar desprendimiento fachada gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los fuertes vientos y las lluvias han ocasionado durante esta mañana desprendimientos de fachadas, así como caídas de árboles y señales en diversos puntos de la isla de Gran Canaria, necesitando la asistencia de los bomberos para retirarlos. Además tampoco ha habido que lamentar heridos.",
+        "lemmatized_text": "el fuerte viento y el lluvia haber ocasionar durante este mañana desprendimiento de fachada así_como caer de árbol y señal en diverso punto de el isla de gran_canaria necesitar el asistencia de el bombero para retirar lo además tampoco haber haber que lamentar herido",
+        "lemmatized_text_reduced": "fuerte viento lluvia haber ocasionar mañana desprendimiento fachada caer árbol señal punto isla gran_canaria necesitar asistencia bombero retirar haber haber lamentar herido",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, y según informaron fuentes del Centro Coordinador de Emergencias y Seguridad del 112 a Europa Press, se han visto afectados por el temporal, principalmente, la ciudad de Las Palmas de Gran Canaria y Vecindario, este último municipio del Sur de la isla. Gran Canaria se encuentra en alerta naranja (riesgo importante) por vientos que podrían soplar hasta 90 kilómetros por hora.",
+        "lemmatized_text": "en concreto y según informar fuente de el centro_coordinador_de_emergencias y seguridad de el 112 a europa_press se haber ver afectar por el temporal principalmente el ciudad de las_palmas_de_gran_canaria y vecindario este último municipio de el sur de el isla gran_canaria se encontrar en alerta naranja riesgo importante por viento que poder soplar hasta SP_km/h:90",
+        "lemmatized_text_reduced": "concreto informar fuente centro_coordinador_de_emergencias seguridad europa_press haber ver afectar temporal principalmente ciudad las_palmas_de_gran_canaria vecindario último municipio sur isla gran_canaria encontrar alerta naranja riesgo importante viento poder soplar",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Vecindario"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Sur",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "SP_km/h:90"
+        ]
+    }
+}

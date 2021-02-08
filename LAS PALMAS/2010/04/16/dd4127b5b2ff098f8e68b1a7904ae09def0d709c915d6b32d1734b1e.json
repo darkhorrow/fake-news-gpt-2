@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/679925/0/",
+    "title": {
+        "raw_text": "El Cabildo de Lanzarote asegura que los turistas afectados por las cancelaciones de vuelos están reubicados en hoteles",
+        "lemmatized_text": "el cabildo_de_lanzarote asegurar que el turista afectar por el cancelación de vuelo estar reubicar en hotel",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote asegurar turista afectar cancelación vuelo estar reubicar hotel",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Lanzarote ha asegurado que los pasajeros afectados por las cancelaciones de vuelos procedentes de Reino Unido, Irlanda, Noruega, Dinamarca, Finlandia, Holanda, Bélgica y Suecia se encuentran reubicados y atendidos en diferentes hoteles de la isla.",
+        "lemmatized_text": "el cabildo_de_lanzarote haber asegurar que el pasajero afectar por el cancelación de vuelo procedente de reino_unido irlanda noruega dinamarca finlandia holanda bélgica y suecia se encontrar reubicar y atender en diferente hotel de el isla",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote haber asegurar pasajero afectar cancelación vuelo procedente reino_unido irlanda noruega dinamarca finlandia holanda bélgica suecia encontrar reubicar atender hotel isla",
+        "persons": [],
+        "locations": [
+            "Reino_Unido",
+            "Irlanda",
+            "Dinamarca",
+            "Finlandia",
+            "Holanda",
+            "Suecia"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Noruega",
+            "Bélgica"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, la Corporación explicó que estos momentos la situación se mantiene en las mismas condiciones que ayer y se prevé que hasta mañana sábado no sean autorizadas las salidas de dichos vuelos. Desde la Consejería de Turismo del Cabildo de Lanzarote se ha estimado que han sido canceladas unas cincuenta operaciones, ya que durante el día de ayer 25 aviones no pudieran volar hacia Lanzarote y por tanto tampoco hoy han podido regresar a su destino. Hasta el último informe recibido, los vuelos nacionales han podido aterrizar en Guacimeta con normalidad. Por su parte, los turistas afectados por las cancelaciones de estos vuelos han sido reubicados por parte de las propias compañías aéreas. Éstos han sido alojados en hoteles cercanos al aeropuerto, principalmente de Arrecife y Puerto del Carmen. Las compañías aéreas les han trasladado la necesidad de que permanezcan localizados en los hoteles hasta que se restablezcan los vuelos, para evitarles esperas innecesarias en el Aeropuerto. Dichas operadoras aéreas se encargarán también de atender a los turistas afectados y realizar los traslados pertinentes. La Corporación insular, además, está en permanente contacto tanto con las compañías aéreas como con la dirección del Aeropuerto, en la medida de poder atender o colaborar ante cualquier situación adversa que pudiera tener lugar.",
+        "lemmatized_text": "de este manera el corporación explicar que este momento el situación se mantener en el mismo condición que ayer y se prever que hasta mañana [S:??/??/??:??.??:??] no ser autorizar el salida de decir vuelo desde el consejería_de_turismo_del_cabildo_de_lanzarote se haber estimar que haber ser cancelar uno 50 operación ya_que durante el día de ayer 25 avión no poder volar hacia lanzarote y por tanto tampoco hoy haber poder regresar a su destino hasta el último informe recibir el vuelo nacional haber poder aterrizar en guacimeta con normalidad por su parte el turista afectar por el cancelación de este vuelo haber ser reubicar por parte de el propio compañía aéreo este haber ser alojar en hotel cercano a el aeropuerto principalmente de arrecife y puerto_del_carmen el compañía aéreo le haber trasladar el necesidad de que permanecer localizar en el hotel hasta que se restablecer el vuelo para evitar le espera innecesario en el aeropuerto decir operador aéreo se encargar también de atender a el turista afectar y realizar el traslado pertinente el corporación insular además estar en permanente contacto tanto con el compañía aéreo como con el dirección de el aeropuerto en el medida de poder atender o colaborar ante cualquiera situación adverso que poder tener_lugar",
+        "lemmatized_text_reduced": "manera corporación explicar momento situación mantener mismo condición prever ser autorizar salida decir vuelo consejería_de_turismo_del_cabildo_de_lanzarote haber estimar haber ser cancelar operación día avión poder volar lanzarote haber poder regresar destino último informe recibir vuelo nacional haber poder aterrizar guacimeta normalidad parte turista afectar cancelación vuelo haber ser reubicar parte propio compañía aéreo haber ser alojar hotel cercano aeropuerto principalmente arrecife puerto_del_carmen compañía aéreo haber trasladar necesidad permanecer localizar hotel restablecer vuelo evitar espera innecesario aeropuerto decir operador aéreo encargar atender turista afectar realizar traslado pertinente corporación insular estar permanente contacto compañía aéreo dirección aeropuerto medida poder atender colaborar situación adverso poder tener_lugar",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Guacimeta",
+            "Arrecife",
+            "Puerto_del_Carmen",
+            "Aeropuerto"
+        ],
+        "organizations": [
+            "Corporación",
+            "Consejería_de_Turismo_del_Cabildo_de_Lanzarote",
+            "Corporación",
+            "Aeropuerto"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "25"
+        ]
+    }
+}

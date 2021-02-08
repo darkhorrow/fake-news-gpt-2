@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/694604/0/incendio/oficina/marsans/",
+    "title": {
+        "raw_text": "Un empleado muerto y 4 bomberos heridos en el incendio de una oficina de Marsans",
+        "lemmatized_text": "uno empleado morir y 4 bombero herir en el incendio de uno oficina de marsans",
+        "lemmatized_text_reduced": "empleado morir bombero herir incendio oficina marsans",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Marsans"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "La empresa de viajes Marsans, propiedad del presidente de la CEOE, Díaz Ferrán, atraviesa una complicada situación financiera . Las causas del incendio se desconocen, y prosigue la investigación.",
+        "lemmatized_text": "el empresa de viaje marsans propiedad de el presidente de el ceoe díaz_ferrán atravesar uno complicar situación financiero el causa de el incendio se desconocer y proseguir el investigación",
+        "lemmatized_text_reduced": "empresa viaje marsans propiedad presidente ceoe díaz_ferrán atravesar complicar situación financiero causa incendio desconocer proseguir investigación",
+        "persons": [
+            "Díaz_Ferrán"
+        ],
+        "locations": [],
+        "organizations": [
+            "Marsans",
+            "CEOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un empleado de la limpieza de 45 años ha muerto y cuatro bomberos han resultado heridos por intoxicación de humo en un incendio ocurrido a mediodía de este domingo en una oficina de viajes Marsans, empresa en situación muy delicada y propiedad del presidente de la CEOE , Gerardo Díaz Ferrán , en Las Palmas, han informado fuentes de la Policía Local. El incendio se originó cuando el empleado estaba en el sótano del inmueble , donde se guardan los productos de limpieza, han señalado las fuentes, que han indicado que efectivos de los bomberos de la capital aún tratan de sofocar el fuego. Las causas del incendio se desconocen, si bien se baraja su relación con los materiales de limpieza , han indicado las fuentes, que han señalado que los bomberos afectados por el humo fueron atendidos en el lugar del suceso, donde se les suministró oxígeno.",
+        "lemmatized_text": "uno empleado de el limpieza de 45 año haber morir y 4 bombero haber resultar herido por intoxicación de humo en uno incendio ocurrir a_mediodía de este [G:??/??/??:??.??:??] en uno oficina de viaje marsans empresa en situación muy delicado y propiedad de el presidente de el ceoe gerardo_díaz_ferrán en las_palmas haber informar fuente de el policía_local el incendio se originar cuando el empleado estar en el sótano de el inmueble donde se guardar el producto de limpieza haber señalar el fuente que haber indicar que efectivo de el bombero de el capital aun tratar de sofocar el fuego el causa de el incendio se desconocer si bien se barajar su relación con el material de limpieza haber indicar el fuente que haber señalar que el bombero afectar por el humo ser atender en el lugar de el suceso donde se le suministrar oxígeno",
+        "lemmatized_text_reduced": "empleado limpieza año haber morir bombero haber resultar herido intoxicación humo incendio ocurrir oficina viaje marsans empresa situación delicado propiedad presidente ceoe gerardo_díaz_ferrán las_palmas haber informar fuente policía_local incendio originar empleado estar sótano inmueble guardar producto limpieza haber señalar fuente haber indicar efectivo bombero capital tratar sofocar fuego causa incendio desconocer barajar relación material limpieza haber indicar fuente haber señalar bombero afectar humo ser atender lugar suceso suministrar oxígeno",
+        "persons": [
+            "Gerardo_Díaz_Ferrán"
+        ],
+        "locations": [],
+        "organizations": [
+            "Marsans",
+            "CEOE",
+            "Las_Palmas",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "45",
+            "4"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/942956/0/",
+    "title": {
+        "raw_text": "IC acusa a Rivero de tener un \"delirio psicótico\" y \"mentir como un bellaco\" por su valoración del paro",
+        "lemmatized_text": "ic acusar a rivero de tener uno delirio psicótico y mentir como uno bellaco por su valoración de el paro",
+        "lemmatized_text_reduced": "ic acusar rivero tener delirio psicótico mentir bellaco valoración paro",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "IC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El portavoz de Intersindical Canaria (IC), Antonio Sardá, acusó este viernes al presidente del Gobierno regional, Paulino Rivero, de padecer un \"delirio psicótico\" y \"mentir como un bellaco\", al asegurar que el archipiélago \"es de las comunidades donde menos se incrementa el paro\".",
+        "lemmatized_text": "el portavoz de intersindical_canaria ic antonio_sardá acusar este [V:??/??/??:??.??:??] a el presidente de el gobierno regional paulino_rivero de padecer uno delirio psicótico y mentir como uno bellaco a el asegurar que el archipiélago ser de el comunidad donde menos se incrementar el paro",
+        "lemmatized_text_reduced": "portavoz intersindical_canaria ic antonio_sardá acusar presidente gobierno regional paulino_rivero padecer delirio psicótico mentir bellaco asegurar archipiélago ser comunidad incrementar paro",
+        "persons": [
+            "Antonio_Sardá",
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Intersindical_Canaria",
+            "IC",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El portavoz de Intersindical Canaria (IC), Antonio Sardá, acusó este viernes al presidente del Gobierno regional, Paulino Rivero, de padecer un \"delirio psicótico\" y \"mentir como un bellaco\", al asegurar que el archipiélago \"es de las comunidades donde menos se incrementa el paro\". En declaraciones a los medios durante una protesta en la capital grancanaria, el representante sindical dijo que Rivero (CC) puede tener \"un delirio psicótico que le imposibilita estar en la realidad y que, por tanto, su lugar no es presidir una comunidad como Canarias\". \"O bien miente como un bellaco, conscientemente de que está mintiendo y si miente como un bellaco tampoco puede representar al pueblo canario\", apostilló. Canarias cerró el cuarto trimestre de 2010 manteniendo el índice más alto de paro del país con un total de 314.400 personas sin trabajo, lo que supone un 28,96 por ciento de la población activa, según la EPA hecha pública este viernes por el Instituto Nacional de Estadística (INE).",
+        "lemmatized_text": "el portavoz de intersindical_canaria ic antonio_sardá acusar este [V:??/??/??:??.??:??] a el presidente de el gobierno regional paulino_rivero de padecer uno delirio psicótico y mentir como uno bellaco a el asegurar que el archipiélago ser de el comunidad donde menos se incrementar el paro en declaración a el medio durante uno protesta en el capital grancanaria el representante sindical decir que rivero cc poder tener uno delirio psicótico que le imposibilitar estar en el realidad y que por tanto su lugar no ser presidir uno comunidad como canarias o_bien mentir como uno bellaco conscientemente de que estar mentir y si mentar como uno bellaco tampoco poder representar a el pueblo canario apostillar canario cerrar el 4 trimestre de 2010 mantener el índice más alto de paro de el país con uno total de 314.4 persona sin trabajo el que suponer uno 28,96 por 100 de el población activo según el epa hacer público este [V:??/??/??:??.??:??] por el instituto_nacional_de_estadística ine",
+        "lemmatized_text_reduced": "portavoz intersindical_canaria ic antonio_sardá acusar presidente gobierno regional paulino_rivero padecer delirio psicótico mentir bellaco asegurar archipiélago ser comunidad incrementar paro declaración medio protesta capital grancanaria representante sindical decir rivero cc poder tener delirio psicótico imposibilitar estar realidad lugar ser presidir comunidad canarias mentir bellaco conscientemente estar mentir mentar bellaco poder representar pueblo canario apostillar canario cerrar 4 trimestre mantener índice alto paro país total persona trabajo suponer población activo epa hacer público instituto_nacional_de_estadística ine",
+        "persons": [
+            "Antonio_Sardá",
+            "Paulino_Rivero",
+            "Rivero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Intersindical_Canaria",
+            "IC",
+            "Gobierno",
+            "CC",
+            "EPA",
+            "Instituto_Nacional_de_Estadística"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2010",
+            "314.4",
+            "28,96",
+            "100"
+        ]
+    }
+}

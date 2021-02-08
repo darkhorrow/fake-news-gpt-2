@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/616848/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a dos personas por un presunto robo con violencia en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el policía_nacional detener a 2 persona por uno presunto robo con violencia en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional detener persona presunto robo violencia las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a dos personas como presuntos autores de un robo con violencia, en la madrugada de la noche de Reyes, en el barrio de Schamann, en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el policía_nacional haber detener a 2 persona como presunto autor de uno robo con violencia en el madrugada de el noche de reyes en el barrio de schamann en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional haber detener persona presunto autor robo violencia madrugada noche reyes barrio schamann las_palmas_de_gran_canaria",
+        "persons": [
+            "Reyes"
+        ],
+        "locations": [
+            "Schamann",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El arresto se ha llevado a cabo, tras las investigaciones realizadas por los agentes en la citada la zona. Además, según informó la Policía Nacional en un comunicado, durante el robo resultó herida una joven, que fue la víctima principal del robo, y un vecino de ésta tuvo que socorrerla, recibiendo ambos sendas heridas en los brazos. Ante ello, el Grupo de la Policía Judicial de la Comisaría de Distrito Centro de la capital grancanaria montó un dispositivo específico que propició la \"pronta\" detención de los autores, apenas 48 horas después de que se cometieran los hechos. En cuanto a los arrestados responden a las iniciales de J. M. M., de 20 años de edad y natural de Colombia, y J. E. H. B., también de 20 años de edad y de nacionalidad venezolana. Este último tenía antecedentes por robo de vehículo y robo con violencia e intimidación. Ambos, en unión del atestado practicado, fueron puestos a disposición de la autoridad judicial.",
+        "lemmatized_text": "el arresto se haber llevar_a_cabo tras el investigación realizar por el agente en el citar el zona además según informar el policía_nacional en uno comunicado durante el robo resultar herir uno joven que ser el víctima principal de el robo y uno vecino de este tener que socorrer lo recibir ambos sendos herida en el brazo ante ello el grupo_de_la_policía_judicial_de_la_comisaría_de_distrito_centro de el capital grancanaria montar uno dispositivo específico que propiciar el pronto detención de el autor apenas TM_h:48 después_de que se cometer el hecho en_cuanto_a el arrestar responder a el inicial de j._m._m. de 20 año de edad y natural de colombia y j._e._h._b. también de 20 año de edad y de nacionalidad venezolano este último tener antecedente por robo de vehículo y robo con violencia y intimidación ambos en unión de el atestado practicar ser poner a disposición de el autoridad judicial",
+        "lemmatized_text_reduced": "arresto haber llevar_a_cabo investigación realizar agente citar zona informar policía_nacional comunicado robo resultar herir joven ser víctima principal robo vecino tener socorrer recibir herida brazo grupo_de_la_policía_judicial_de_la_comisaría_de_distrito_centro capital grancanaria montar dispositivo específico propiciar pronto detención autor cometer hecho arrestar responder inicial j._m._m. año edad natural colombia j._e._h._b. año edad nacionalidad venezolano último tener antecedente robo vehículo robo violencia intimidación unión atestado practicar ser poner disposición autoridad judicial",
+        "persons": [
+            "J._M._M.",
+            "J._E._H._B."
+        ],
+        "locations": [
+            "Colombia"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Grupo_de_la_Policía_Judicial_de_la_Comisaría_de_Distrito_Centro"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:48",
+            "20",
+            "20"
+        ]
+    }
+}

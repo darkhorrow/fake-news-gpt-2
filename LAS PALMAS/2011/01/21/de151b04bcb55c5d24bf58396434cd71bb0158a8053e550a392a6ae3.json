@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935579/0/",
+    "title": {
+        "raw_text": "Tres afectados en un incendio en una vivienda en Las Palmas de Gran Canaria",
+        "lemmatized_text": "3 afectado en uno incendio en uno vivienda en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "afectado incendio vivienda las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Tres personas, dos mujeres de 43 y 76 años de edad y un hombre de 70 años, han resultado afectadas con intoxicación por humo de carácter leve al registrarse un incendio en su vivienda en la Calle Ruperto Chapi, a la altura del número 16, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "3 persona 2 mujer de 43 y 76 año de edad y uno hombre de 70 año haber resultar afectar con intoxicación por humo de carácter leve a el registrar se uno incendio en su vivienda en el calle_ruperto_chapi a el altura de el número 16 en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "persona mujer año edad hombre año haber resultar afectar intoxicación humo carácter leve registrar incendio vivienda calle_ruperto_chapi altura número las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Calle_Ruperto_Chapi",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "2",
+            "43",
+            "76",
+            "70",
+            "16",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Tres personas, dos mujeres de 43 y 76 años de edad y un hombre de 70 años, han resultado afectadas con intoxicación por humo de carácter leve al registrarse un incendio en su vivienda en la Calle Ruperto Chapi, a la altura del número 16, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. Los hechos ocurrieron a las 12.08 horas, cuando el Cecoes recibió varias alertas informando del incendio en una cocina en la citada casa, ubicada en la tercera planta de un edificio de cuatro pisos en la dirección mencionada. Así pues, el 1-1-2 activó de inmediato los recursos de emergencias necesarios. Bomberos del Servicio de Extinción de Incendios, Salvamento y Rescate de Las Palmas de Gran Canaria llevaron a cabo las tareas de extinción del fuego y, posteriormente, ventilaron el inmueble. Por su parte, el Servicio de Urgencias Canario (SUC) realizó la asistencia inicial de los afectados. En concreto, las dos mujeres fueron trasladadas en una ambulancia del SUC al Centro de Salud de Miller Bajo, mientras que el varón fue atendido 'in situ'. Efectivos de la Policía Local y del Cuerpo Nacional del Policía colaboraron facilitando el acceso a los vehículos de emergencias.",
+        "lemmatized_text": "3 persona 2 mujer de 43 y 76 año de edad y uno hombre de 70 año haber resultar afectar con intoxicación por humo de carácter leve a el registrar se uno incendio en su vivienda en el calle_ruperto_chapi a el altura de el número 16 en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 el hecho ocurrir a el TM_h:12.08 cuando el cecoes recibir varios alerta informar de el incendio en uno cocina en el citar casa ubicar en el 3 planta de uno edificio de 4 piso en el dirección mencionar así_pues el 1-1-2 activar de inmediato el recurso de emergencia necesario bomberos_del_servicio_de_extinción_de_incendios salvamento y rescate_de_las_palmas_de_gran_canaria llevar_a_cabo el tarea de extinción de el fuego y posteriormente ventilar el inmueble por su parte el servicio_de_urgencias_canario suc realizar el asistencia inicial de el afectado en concreto el 2 mujer ser trasladar en uno ambulancia de el suc a el centro_de_salud_de_miller_bajo mientras_que el varón ser atender in_situ efectivos_de_la_policía_local y de el cuerpo_nacional_del_policía colaborar facilitar el acceso a el vehículo de emergencia",
+        "lemmatized_text_reduced": "persona mujer año edad hombre año haber resultar afectar intoxicación humo carácter leve registrar incendio vivienda calle_ruperto_chapi altura número las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir cecoes recibir alerta informar incendio cocina citar casa ubicar 3 planta edificio piso dirección mencionar activar inmediato recurso emergencia necesario bomberos_del_servicio_de_extinción_de_incendios salvamento rescate_de_las_palmas_de_gran_canaria llevar_a_cabo tarea extinción fuego posteriormente ventilar inmueble parte servicio_de_urgencias_canario suc realizar asistencia inicial afectado concreto mujer ser trasladar ambulancia suc centro_de_salud_de_miller_bajo varón ser atender efectivos_de_la_policía_local cuerpo_nacional_del_policía colaborar facilitar acceso vehículo emergencia",
+        "persons": [],
+        "locations": [
+            "Calle_Ruperto_Chapi",
+            "Las_Palmas_de_Gran_Canaria",
+            "Salvamento"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cecoes",
+            "Bomberos_del_Servicio_de_Extinción_de_Incendios",
+            "Rescate_de_Las_Palmas_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Centro_de_Salud_de_Miller_Bajo",
+            "Efectivos_de_la_Policía_Local",
+            "Cuerpo_Nacional_del_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "2",
+            "43",
+            "76",
+            "70",
+            "16",
+            "112",
+            "TM_h:12.08",
+            "4",
+            "1-1-2",
+            "2"
+        ]
+    }
+}

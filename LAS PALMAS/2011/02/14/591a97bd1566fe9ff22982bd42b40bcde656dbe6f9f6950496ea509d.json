@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/958534/0/",
+    "title": {
+        "raw_text": "Un incendio en un restaurante de Gran Canaria se salda con un herido leve",
+        "lemmatized_text": "uno incendio en uno restaurante de gran_canaria se saldar con uno herir leve",
+        "lemmatized_text_reduced": "incendio restaurante gran_canaria saldar herir leve",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El incendio en la cocina de un restaurante de Vecindario, en el municipio de Santa Lucía de Tirajana (Gran Canaria), la pasada noche se ha saldado con herido de carácter leve.",
+        "lemmatized_text": "el incendio en el cocina de uno restaurante de vecindario en el municipio de santa_lucía_de_tirajana gran_canaria el pasar noche se haber saldar con herir de carácter leve",
+        "lemmatized_text_reduced": "incendio cocina restaurante vecindario municipio santa_lucía_de_tirajana gran_canaria pasar noche haber saldar herir carácter leve",
+        "persons": [],
+        "locations": [
+            "Vecindario",
+            "Santa_Lucía_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El incendio en la cocina de un restaurante de Vecindario, en el municipio de Santa Lucía de Tirajana (Gran Canaria), la pasada noche se ha saldado con herido de carácter leve. Los hechos se produjeron a las 23.32 horas del domingo en un restaurante de la Avenida de Canarias, en Vecindario, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad del 112. El herido, de 40 años de edad, sufrió quemaduras en miembros superiores, de carácter leve, por lo que tuvo que ser trasladado en una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC) al Centro de Salud El Doctorial. Además, los vecinos del edificio en el que se encontraba el restaurante abandonaron el inmueble antes de que llegaran los servicios de emergencia. Hasta el lugar del incidente se trasladaron bomberos del Consorcio de Emergencias de Gran Canaria, así como agentes de la Policía Local y de la Guardia Civil que colaboraron con el resto de los servicios de emergencias e instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el incendio en el cocina de uno restaurante de vecindario en el municipio de santa_lucía_de_tirajana gran_canaria el pasar noche se haber saldar con herir de carácter leve el hecho se producir a el [G:??/??/??:11.00:pm] en uno restaurante de el avenida_de_canarias en vecindario según informar fuente de el centro_coordinador_de_emergencias y seguridad de el 112 el herir de 40 año de edad sufrir quemadura en miembro superior de carácter leve por el que tener que ser trasladar en uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc a el centro_de_salud_el_doctorial además el vecino de el edificio en el que se encontrar el restaurante abandonar el inmueble antes_de que llegar el servicio de emergencia hasta el lugar de el incidente se trasladar bombero de el consorcio_de_emergencias_de_gran_canaria así_como agente de el policía_local y de el guardia_civil que colaborar con el resto de el servicio de emergencia y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "incendio cocina restaurante vecindario municipio santa_lucía_de_tirajana gran_canaria pasar noche haber saldar herir carácter leve hecho producir restaurante avenida_de_canarias vecindario informar fuente centro_coordinador_de_emergencias seguridad herir año edad sufrir quemadura miembro superior carácter leve tener ser trasladar ambulancia soporte vital básico servicio_de_urgencias_canario suc centro_de_salud_el_doctorial vecino edificio encontrar restaurante abandonar inmueble llegar servicio emergencia lugar incidente trasladar bombero consorcio_de_emergencias_de_gran_canaria agente policía_local guardia_civil colaborar resto servicio emergencia instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Vecindario",
+            "Santa_Lucía_de_Tirajana",
+            "Gran_Canaria",
+            "Avenida_de_Canarias",
+            "Vecindario"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Centro_de_Salud_El_Doctorial",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:11.00:pm]"
+        ],
+        "numbers": [
+            "112",
+            "40"
+        ]
+    }
+}

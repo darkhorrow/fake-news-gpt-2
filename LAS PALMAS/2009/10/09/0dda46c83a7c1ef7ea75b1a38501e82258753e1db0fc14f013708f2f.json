@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-10-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/537752/0/patera/inmigrantes/lanzarote/",
+    "title": {
+        "raw_text": "Interceptada una patera con 27 inmigrantes en la isla de La Graciosa en Lanzarote",
+        "lemmatized_text": "interceptar uno patera con 27 inmigrante en el isla de la_graciosa en lanzarote",
+        "lemmatized_text_reduced": "interceptar patera inmigrante isla la_graciosa lanzarote",
+        "persons": [],
+        "locations": [
+            "La_Graciosa",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "27"
+        ]
+    },
+    "lead": {
+        "raw_text": "Fue avistada a las 20.00 h. Entre ellos, tres menores de edad. Son de origen magrebí y están en buen estado de salud.",
+        "lemmatized_text": "ser avistar a el TM_h:20 entre ellos 3 menor de edad ser de origen magrebí y estar en bueno estado de salud",
+        "lemmatized_text_reduced": "ser avistar menor edad ser origen magrebí estar bueno estado salud",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:20",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Una patera con 27 inmigrantes de origen magrebí ha sido interceptada la noche de este jueves junto a isla de La Graciosa, en Lanzarote. Todos se encuentran en buen estado de salud, informaron fuentes de Cruz Roja. La patera fue avistada sobre las 20.00 h y sendas embarcaciones de la Guardia Civil y de Salvamento Marítimo acudieron en auxilio de los inmigrantes, entre los que hay tres menores de edad. Tras ser embarcados en una nave del instituto armado, los inmigrantes llegaron a las 21.45 h al puerto de Arrecife, donde la Cruz Roja había desplegado un dispositivo humanitario para atenderlos. Tras ser atendidos, agentes del Cuerpo Nacional de Policía se hicieron cargo de los inmigrantes para su traslado a un centro de extranjeros.",
+        "lemmatized_text": "uno patera con 27 inmigrante de origen magrebí haber ser interceptar el noche de este [J:??/??/??:??.??:??] junto_a isla de la_graciosa en lanzarote todo se encontrar en bueno estado de salud informar fuente de cruz_roja el patera ser avistar sobre el TM_h:20 y sendos embarcación de el guardia_civil y de salvamento_marítimo acudir en auxilio de el inmigrante entre el que haber 3 menor de edad tras ser embarcar en uno nave de el instituto armar el inmigrante llegar a el TM_h:21.45 a el puerto de arrecife donde el cruz_roja haber desplegar uno dispositivo humanitario para atender lo tras ser atender agente de el cuerpo_nacional_de_policía se hacer_cargo de el inmigrante para su traslado a uno centro de extranjero",
+        "lemmatized_text_reduced": "patera inmigrante origen magrebí haber ser interceptar noche isla la_graciosa lanzarote encontrar bueno estado salud informar fuente cruz_roja patera ser avistar embarcación guardia_civil salvamento_marítimo acudir auxilio inmigrante haber menor edad ser embarcar nave instituto armar inmigrante llegar puerto arrecife cruz_roja haber desplegar dispositivo humanitario atender ser atender agente cuerpo_nacional_de_policía hacer_cargo inmigrante traslado centro extranjero",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "La_Graciosa",
+            "Lanzarote",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Cruz_Roja",
+            "Guardia_Civil",
+            "Cruz_Roja",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "27",
+            "TM_h:20",
+            "3",
+            "TM_h:21.45"
+        ]
+    }
+}

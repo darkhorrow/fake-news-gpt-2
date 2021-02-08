@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/591743/0/",
+    "title": {
+        "raw_text": "Cinco personas resultan heridas debido a la colisión de dos vehículos en el sureste de Gran Canaria",
+        "lemmatized_text": "5 persona resultar herir debido_a el colisión de 2 vehículo en el sureste de gran_canaria",
+        "lemmatized_text_reduced": "persona resultar herir colisión vehículo sureste gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "5",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Cinco personas han resultado heridas con cervicalgia de carácter leve debido a la colisión de dos vehículos en la carretera GC-1 en dirección sur, a la altura de Carrizal, en el municipio de Ingenio (Gran Canaria), según informaron a Europa Press fuente del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "5 persona haber resultar herida con cervicalgia de carácter leve debido_a el colisión de 2 vehículo en el carretera GC-1 en dirección sur a el altura de carrizal en el municipio de ingenio gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "persona haber resultar herida cervicalgia carácter leve colisión vehículo carretera dirección sur altura carrizal municipio ingenio gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Carrizal",
+            "Ingenio",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "5",
+            "2",
+            "GC-1",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 16.45 horas, cuando varias llamadas alertaron al Cecoes del incidente, en el que uno de los coches volcó pero no hubo personas atrapadas. El 112 activó de inmediato el dispositivo de emergencias necesario. Así, hasta el lugar se desplazaron varias ambulancias que trasladaron a los perjudicados al Hospital Insular de Gran Canaria, la Clínica San Roque y la Clínica Perpetuo Socorro, según precisaron las mismas fuentes, que no pudieron detallar la identidad de los afectados. En dicha actuación también intervinieron los bomberos que se encargaron de asegurar los vehículos y Guardia Civil, que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el accidente se producir a el TM_h:16.45 cuando varios llamada alertar a el cecoes de el incidente en el que uno de el coche volcar pero no haber persona atrapar el 112 activar de inmediato el dispositivo de emergencia necesario así hasta el lugar se desplazar varios ambulancia que trasladar a el perjudicado a el hospital_insular_de_gran_canaria el clínica_san_roque y el clínica_perpetuo_socorro según precisar el mismo fuente que no poder detallar el identidad de el afectado en decir actuación también intervenir el bombero que se encargar de asegurar el vehículo y guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "accidente producir llamada alertar cecoes incidente coche volcar haber persona atrapar activar inmediato dispositivo emergencia necesario lugar desplazar ambulancia trasladar perjudicado hospital_insular_de_gran_canaria clínica_san_roque clínica_perpetuo_socorro precisar mismo fuente poder detallar identidad afectado decir actuación intervenir bombero encargar asegurar vehículo guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Hospital_Insular_de_Gran_Canaria",
+            "Clínica_San_Roque",
+            "Clínica_Perpetuo_Socorro",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.45",
+            "112"
+        ]
+    }
+}

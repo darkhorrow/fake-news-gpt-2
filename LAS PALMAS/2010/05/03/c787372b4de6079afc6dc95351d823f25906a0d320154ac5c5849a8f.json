@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/694936/0/",
+    "title": {
+        "raw_text": "La actriz y presentadora Norma Duval visita Gran Canaria el 5 de mayo",
+        "lemmatized_text": "el actriz y presentador norma_duval visita gran_canaria el [??:5/5/??:??.??:??]",
+        "lemmatized_text_reduced": "actriz presentador norma_duval visita gran_canaria",
+        "persons": [
+            "Norma_Duval"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:5/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La actriz y presentadora Norma Duval visitará la isla de Gran Canaria el próximo 5 de mayo para la apertura de una tienda de la marca Punto Roma en la localidad de Telde, según indicó hoy la cadena de ropa en un comunicado.",
+        "lemmatized_text": "el actriz y presentador norma_duval visitar el isla de gran_canaria el [??:5/5/??:??.??:??] para el apertura de uno tienda de el marca punto_roma en el localidad de telde según indicar hoy el cadena de ropa en uno comunicado",
+        "lemmatized_text_reduced": "actriz presentador norma_duval visitar isla gran_canaria apertura tienda marca punto_roma localidad telde indicar cadena ropa comunicado",
+        "persons": [
+            "Norma_Duval"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Telde"
+        ],
+        "organizations": [
+            "Punto_Roma"
+        ],
+        "others": [],
+        "dates": [
+            "[??:5/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El acto tendrá lugar en la nueva tienda en Avenida Constitución 21 a las 17.00 horas del próximo miércoles. Punto Roma cuenta con 21 tiendas en las islas Canarias, de las que 11 de ellas están en la provincia de Las Palmas. La firma de moda para señora ya cuenta con 223 tiendas, 175 puntos de venta en España y 48 en el extranjero, entre Andorra, Portugal, Eslovenia, Qatar, Kuwait, Barhain, Egipto, Arabia Saudí, Líbano, Irlanda y México y cuenta con \"una gran perspectiva de expansión a corto plazo, tanto en territorio español como extranjero\". \"La firma controla el proceso de producción de cada pieza, desde su diseño hasta la presentación en la tienda, nada queda al azar. Cada etapa está pensada para satisfacer a sus clientas hasta en el último detalle\", aseguró en una nota.",
+        "lemmatized_text": "el acto tener_lugar en el nuevo tienda en avenida_constitución 21 a el [X:??/??/??:5.00:pm] punto_roma contar con 21 tienda en el isla canarias de el que 11 de ellos estar en el provincia de las_palmas el firma de moda para señor ya contar con 223 tienda 175 punto de venta en españa y 48 en el extranjero entre andorra portugal eslovenia qatar kuwait barhain egipto arabia_saudí líbano irlanda y méxico y contar con uno gran perspectiva de expansión a corto plazo tanto en territorio español como extranjero el firma controlar el proceso de producción de cada pieza desde su diseño hasta el presentación en el tienda nada quedar a el azar cada etapa estar pensar para satisfacer a su cliente hasta en el último detalle asegurar en uno nota",
+        "lemmatized_text_reduced": "acto tener_lugar nuevo tienda avenida_constitución punto_roma contar tienda isla canarias estar provincia las_palmas firma moda señor contar tienda punto venta españa extranjero andorra portugal eslovenia qatar kuwait barhain egipto arabia_saudí líbano irlanda méxico contar gran perspectiva expansión corto plazo territorio español extranjero firma controlar proceso producción pieza diseño presentación tienda quedar azar etapa estar pensar satisfacer cliente último detalle asegurar nota",
+        "persons": [
+            "Punto_Roma"
+        ],
+        "locations": [
+            "Avenida_Constitución",
+            "Canarias",
+            "Las_Palmas",
+            "España",
+            "Andorra",
+            "Portugal",
+            "Qatar",
+            "Kuwait",
+            "Líbano",
+            "México"
+        ],
+        "organizations": [
+            "Eslovenia",
+            "Barhain",
+            "Egipto",
+            "Arabia_Saudí",
+            "Irlanda"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:5.00:pm]"
+        ],
+        "numbers": [
+            "21",
+            "21",
+            "11",
+            "223",
+            "175",
+            "48"
+        ]
+    }
+}

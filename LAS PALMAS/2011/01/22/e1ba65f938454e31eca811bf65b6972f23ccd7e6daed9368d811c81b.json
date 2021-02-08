@@ -1,0 +1,87 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/936511/0/",
+    "title": {
+        "raw_text": "Gustavo Martín Cerpa será el candidato de NC en Arucas (Gran Canaria) para las próximas elecciones",
+        "lemmatized_text": "gustavo_martín_cerpa ser el candidato de nc en arucas gran_canaria para el próximo elección",
+        "lemmatized_text_reduced": "gustavo_martín_cerpa ser candidato nc arucas gran_canaria próximo elección",
+        "persons": [
+            "Gustavo_Martín_Cerpa"
+        ],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "NC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Asamblea local de Nueva Canarias (NC) en Arucas (Gran Canaria) ha elegido como candidato a la Alcaldía del municipio para las elecciones del 22 de mayo a Gustavo Martín Cerpa, de 38 años de edad.",
+        "lemmatized_text": "el asamblea local de nueva_canarias nc en arucas gran_canaria haber elegir como candidato a el alcaldía de el municipio para el elección de el [??:22/5/??:??.??:??] a gustavo_martín_cerpa de 38 año de edad",
+        "lemmatized_text_reduced": "asamblea local nueva_canarias nc arucas gran_canaria haber elegir candidato alcaldía municipio elección gustavo_martín_cerpa año edad",
+        "persons": [
+            "Gustavo_Martín_Cerpa"
+        ],
+        "locations": [
+            "Nueva_Canarias",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Asamblea",
+            "NC",
+            "Alcaldía"
+        ],
+        "others": [],
+        "dates": [
+            "[??:22/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "38"
+        ]
+    },
+    "body": {
+        "raw_text": "La Asamblea local de Nueva Canarias (NC) en Arucas (Gran Canaria) ha elegido como candidato a la Alcaldía del municipio para las elecciones del 22 de mayo a Gustavo Martín Cerpa, de 38 años de edad. Martín Cerpa es Licenciado en Filología Hispánica por la Universidad de Las Palmas de Gran Canaria (ULPGC) y en política ha ejercido como concejal en el Consistorio de Arucas en varias áreas, tales como Desarrollo Local, Empleo, Educación y en su última etapa Teniente de Alcalde. Asimismo, y según informó NC en un comunicado, también ha sido consejero delegado de la Sociedad Municipal de Arucas y concejal de Urbanismo durante la época en la que se puso en marcha el Plan General de Ordenación de Arucas.",
+        "lemmatized_text": "el asamblea local de nueva_canarias nc en arucas gran_canaria haber elegir como candidato a el alcaldía de el municipio para el elección de el [??:22/5/??:??.??:??] a gustavo_martín_cerpa de 38 año de edad martín_cerpa ser licenciado en filología_hispánica_por_la_universidad_de_las_palmas_de_gran_canaria ulpgc y en política haber ejercer como concejal en el consistorio_de_arucas en varios área tal como desarrollo_local empleo educación y en su último etapa teniente_de_alcalde asimismo y según informar nc en uno comunicado también haber ser consejero delegado de el sociedad_municipal_de_arucas y concejal de urbanismo durante el época en el que se poner en marcha el plan_general_de_ordenación_de_arucas",
+        "lemmatized_text_reduced": "asamblea local nueva_canarias nc arucas gran_canaria haber elegir candidato alcaldía municipio elección gustavo_martín_cerpa año edad martín_cerpa ser licenciado filología_hispánica_por_la_universidad_de_las_palmas_de_gran_canaria ulpgc política haber ejercer concejal consistorio_de_arucas área desarrollo_local empleo educación último etapa teniente_de_alcalde informar nc comunicado haber ser consejero delegado sociedad_municipal_de_arucas concejal urbanismo época poner marcha plan_general_de_ordenación_de_arucas",
+        "persons": [
+            "Gustavo_Martín_Cerpa",
+            "Martín_Cerpa",
+            "Licenciado",
+            "Desarrollo_Local",
+            "Teniente_de_Alcalde"
+        ],
+        "locations": [
+            "Nueva_Canarias",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Asamblea",
+            "NC",
+            "Alcaldía",
+            "Filología_Hispánica_por_la_Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC",
+            "Consistorio_de_Arucas",
+            "Empleo",
+            "NC",
+            "Sociedad_Municipal_de_Arucas",
+            "Plan_General_de_Ordenación_de_Arucas"
+        ],
+        "others": [
+            "Educación",
+            "Urbanismo"
+        ],
+        "dates": [
+            "[??:22/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "38"
+        ]
+    }
+}

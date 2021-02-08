@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/331272/0/detienen/autor/secuestro/",
+    "title": {
+        "raw_text": "Detienen al presunto autor del intento de secuestro de una menor en Telde",
+        "lemmatized_text": "detener a el presunto autor de el intento de secuestro de uno menor en telde",
+        "lemmatized_text_reduced": "detener presunto autor intento secuestro menor telde",
+        "persons": [],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La policía no ha revelado ningún detalle sobre la identidad del sospechoso. La población se encuentra alarmada debido a los delitos cometidos contra menores, de los cuales dos continúan desaparecidos: Sara y Yeremi. CONSULTA MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el policía no haber revelar ninguno detalle sobre el identidad de el sospechoso el población se encontrar alarmar debido_a el delito cometer contra menor de el cual 2 continuar desaparecer sara y yeremi consulta_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía haber revelar detalle identidad sospechoso población encontrar alarmar delito cometer menor continuar desaparecer sara yeremi consulta_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Sara",
+            "Yeremi"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional detuvo anoche al presunto autor del intento de secuestro de una menor de 10 años en el barrio de La Garita de Telde, en Gran Canaria, informó hoy una nota del gabinete de prensa de la Jefatura Superior de Policía. No dan detalles La detención se produjo sobre las 22.00 horas, según la nota, en la que se precisa la imposibilidad de facilitar por el momento más información sobre el presunto autor del intento de secuestro, el pasado viernes, dado el carácter secreto de las actuaciones y porque se continúa con las investigaciones. El detenido se encuentra en las dependencias de la Jefatura Superior de Policía de Canarias, en la capital grancanaria, y será puesto a disposición del Juzgado de Instrucción Número 2 de Telde , indica la nota. El intento de secuestro generó la alarma entre la población de Telde, cuyo Ayuntamiento anunció ayer, entre otras medidas, preparar una reunión urgente con los alcaldes de la isla para abordar los casos de desapariciones acaecidos en Gran Canaria y solicitar información sobre las investigaciones que se efectúan. Otros casos, sin resolver Este intento de secuestro se suma a las desapariciones de la joven Sara Morales en la capital grancanaria y el niño Yeremi Vargas en el sureste de la isla, donde también han surgido supuestos intento de rapto a menores. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el policía_nacional detener anoche a el presunto autor de el intento de secuestro de uno menor de 10 año en el barrio de la_garita_de_telde en gran_canaria informar hoy uno nota de el gabinete de prensa de el jefatura_superior_de_policía no dar detalle la detención se producir sobre el TM_h:22 según el nota en el que se precisar el imposibilidad de facilitar por el momento más información sobre el presunto autor de el intento de secuestro el [V:??/??/??:??.??:??] dar el carácter secreto de el actuación y porque se continuar con el investigación el detenido se encontrar en el dependencia de el jefatura_superior_de_policía_de_canarias en el capital grancanaria y ser poner a disposición de el juzgado_de_instrucción_número 2 de telde indicar el nota el intento de secuestro generar el alarma entre el población de telde cuyo ayuntamiento anunciar ayer entre otro medida preparar uno reunión urgente con el alcalde de el isla para abordar el caso de desaparición acaecer en gran_canaria y solicitar información sobre el investigación que se efectuar otro caso sin resolver este intento de secuestro se sumar a el desaparición de el joven sara_morales en el capital grancanaria y el niño yeremi_vargas en el sureste de el isla donde también haber surgir suponer intento de rapto a menor consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional detener presunto autor intento secuestro menor año barrio la_garita_de_telde gran_canaria informar nota gabinete prensa jefatura_superior_de_policía dar detalle la detención producir nota precisar imposibilidad facilitar momento información presunto autor intento secuestro dar carácter secreto actuación continuar investigación detenido encontrar dependencia jefatura_superior_de_policía_de_canarias capital grancanaria ser poner disposición juzgado_de_instrucción_número telde indicar nota intento secuestro generar alarma población telde ayuntamiento anunciar medida preparar reunión urgente alcalde isla abordar caso desaparición acaecer gran_canaria solicitar información investigación efectuar caso resolver este intento secuestro sumar desaparición joven sara_morales capital grancanaria niño yeremi_vargas sureste isla haber surgir suponer intento rapto menor consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "La",
+            "Sara_Morales",
+            "Yeremi_Vargas"
+        ],
+        "locations": [
+            "La_Garita_de_Telde",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Este"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Jefatura_Superior_de_Policía",
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Juzgado_de_Instrucción_Número",
+            "Telde",
+            "Telde",
+            "Ayuntamiento",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "TM_h:22",
+            "2"
+        ]
+    }
+}

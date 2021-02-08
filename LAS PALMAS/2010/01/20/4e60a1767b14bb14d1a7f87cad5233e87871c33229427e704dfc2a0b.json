@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/611172/0/",
+    "title": {
+        "raw_text": "Haidar confirma que viaja a Madrid por revisión médica y que tendrá que renovar en Andalucía su tarjeta de residencia",
+        "lemmatized_text": "haidar confirmar que viajar a madrid por revisión médico y que tener que renovar en andalucía su tarjeta de residencia",
+        "lemmatized_text_reduced": "haidar confirmar viajar madrid revisión médico tener renovar andalucía tarjeta residencia",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "Madrid",
+            "Andalucía"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "LAS PALMAS DE GRAN CANARIA, La activista saharaui Aminetu Haidar ha asegurado hoy que ayer por la tarde consiguió salir de El Aaiún con destino a Gran Canaria \"sin problemas\" y que tomará un vuelo a Madrid con el objetivo de hacerse una \"revisión médica\" ya que después de haber finalizado una huelga de hambre en el aeropuerto de Lanzarote que duró 32 días continúa con \"dolores de estómago\" y con la \"tensión baja\".",
+        "lemmatized_text": "las_palmas_de_gran_canaria la activista saharaui aminetu_haidar haber asegurar hoy que ayer por el tarde conseguir salir de el_aaiún con destino a gran_canaria sin problema y que tomar uno vuelo a madrid con el objetivo de hacer se uno revisión médico ya_que después_de haber finalizar uno huelga de hambre en el aeropuerto de lanzarote que durar TM_d:32 continuar con dolor de estómago y con el tensión bajo",
+        "lemmatized_text_reduced": "las_palmas_de_gran_canaria la activista saharaui aminetu_haidar haber asegurar tarde conseguir salir el_aaiún destino gran_canaria problema tomar vuelo madrid objetivo hacer revisión médico haber finalizar huelga hambre aeropuerto lanzarote durar continuar dolor estómago tensión bajo",
+        "persons": [
+            "La",
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "El_Aaiún",
+            "Madrid",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "LAS_PALMAS_DE_GRAN_CANARIA",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:32"
+        ]
+    },
+    "body": {
+        "raw_text": "Las palmas de gran canaria , La activista saharaui Aminetu Haidar ha asegurado hoy que ayer por la tarde consiguió salir de El Aaiún con destino a Gran Canaria \"sin problemas\" y que tomará un vuelo a Madrid con el objetivo de hacerse una \"revisión médica\" ya que después de haber finalizado una huelga de hambre en el aeropuerto de Lanzarote que duró 32 días continúa con \"dolores de estómago\" y con la \"tensión baja\". Así lo manifestó hoy la conocida como la 'Ghandi saharaui' minutos antes de efectuar la facturación y el embarque en el vuelo Iberia 813 con destino a la capital de España. Haidar respondió a las preguntas de los medios de comunicación y aclaró que \"cada dos meses\" sale del Sáhara Occidental para someterse a \"una revisión de la úlcera\". Asimismo, reconoció que su tarjeta de residencia caduca en unos días, y que será en Andalucía donde deberá renovarla. Sobre su salida de El Aaiún, la activista indicó también que a su salida del aeropuerto estuvo retenida durante 15 minutos porque \"una señora de la policía no\" le \"dijo nada\" y le \"devolvió el pasaporte\" pero \"después recibió instrucción seguro de Rabat\" y en \"15 minutos me han dejado salir sin problemas\".",
+        "lemmatized_text": "el palma de gran canario la activista saharaui aminetu_haidar haber asegurar hoy que ayer por el tarde conseguir salir de el_aaiún con destino a gran_canaria sin problema y que tomar uno vuelo a madrid con el objetivo de hacer se uno revisión médico ya_que después_de haber finalizar uno huelga de hambre en el aeropuerto de lanzarote que durar TM_d:32 continuar con dolor de estómago y con el tensión bajo así lo manifestar hoy el conocer como el ghandi saharaui minuto antes_de efectuar el facturación y el embarque en el vuelo iberia 813 con destino a el capital de españa haidar responder a el pregunta de el medio de comunicación y aclarar que cada 2 mes salir de el sáhara_occidental para someter se a uno revisión de el úlcera asimismo reconocer que su tarjeta de residencia caduco en uno día y que ser en andalucía donde deber renovar lo sobre su salida de el_aaiún el activista indicar también que a su salida de el aeropuerto estar retener durante TM_min:15 porque uno señor de el policía no le decir nada y le devolver el pasaporte pero después recibir instrucción seguro de rabat y en TM_min:15 me haber dejar salir sin problema",
+        "lemmatized_text_reduced": "palma gran canario la activista saharaui aminetu_haidar haber asegurar tarde conseguir salir el_aaiún destino gran_canaria problema tomar vuelo madrid objetivo hacer revisión médico haber finalizar huelga hambre aeropuerto lanzarote durar continuar dolor estómago tensión bajo manifestar conocer ghandi saharaui minuto efectuar facturación embarque vuelo iberia destino capital españa haidar responder pregunta medio comunicación aclarar mes salir sáhara_occidental someter revisión úlcera reconocer tarjeta residencia caduco día ser andalucía deber renovar salida el_aaiún activista indicar salida aeropuerto estar retener señor policía decir devolver pasaporte recibir instrucción seguro rabat haber dejar salir problema",
+        "persons": [
+            "La",
+            "Aminetu_Haidar",
+            "Ghandi",
+            "Haidar"
+        ],
+        "locations": [
+            "El_Aaiún",
+            "Madrid",
+            "Lanzarote",
+            "España",
+            "Sáhara_Occidental",
+            "Andalucía",
+            "El_Aaiún",
+            "Rabat"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:32",
+            "813",
+            "2",
+            "TM_min:15",
+            "TM_min:15"
+        ]
+    }
+}

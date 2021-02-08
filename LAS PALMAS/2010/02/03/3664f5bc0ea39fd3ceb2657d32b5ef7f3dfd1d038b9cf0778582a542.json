@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621251/0/",
+    "title": {
+        "raw_text": "APMUN emprende procedimiento administrativo contra un ciudadano de Antigua (Fuerteventura) por realizar obras ilegales",
+        "lemmatized_text": "apmun emprender procedimiento administrativo contra uno ciudadano de antigua fuerteventura por realizar obra ilegal",
+        "lemmatized_text_reduced": "apmun emprender procedimiento administrativo ciudadano antigua fuerteventura realizar obra ilegal",
+        "persons": [],
+        "locations": [
+            "Antigua"
+        ],
+        "organizations": [
+            "APMUN",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las obras afectan a la construcción de una edificación situada en un suelo clasificado como rústico, de especial protección natural del lugar conocido como Lomo La Virgen de Aguas de Bueyes.",
+        "lemmatized_text": "el obra afectar a el construcción de uno edificación situar en uno suelo clasificar como rústico de especial protección natural de el lugar conocer como lomo_la_virgen_de_aguas_de_bueyes",
+        "lemmatized_text_reduced": "obra afectar construcción edificación situar suelo clasificar rústico especial protección natural lugar conocer lomo_la_virgen_de_aguas_de_bueyes",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Lomo_La_Virgen_de_Aguas_de_Bueyes"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Agencia de Protección del Medio Urbano y Natural (APMUN) ha notificado a un ciudadano una resolución por la que ha iniciado un procedimiento administrativo por ejecutar obras ilegales en Antigua (Fuerteventura), según ha publicado el Boletín Oficial de Canarias (BOC). En cuanto a la infracción cometida contra el texto refundido de las Leyes de Ordenación del Territorio de Canarias y de Espacios Naturales de Canarias, afecta a la citada edificación por \"carecer ésta de la preceptiva calificación territorial y licencia urbanística\". El organismo de naturaleza ha publicado en el BOC esta resolución al no haber podido notificar la misma al interesado de conformidad con la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Para ello, la APMUN ha dado un plazo de 15 días al interesado para que pueda presentar las alegaciones, documentos o informaciones que crea necesarias.",
+        "lemmatized_text": "el agencia_de_protección_del_medio_urbano y natural apmun haber notificar a uno ciudadano uno resolución por el que haber iniciar uno procedimiento administrativo por ejecutar obra ilegal en antigua fuerteventura según haber publicar el boletín_oficial_de_canarias boc en_cuanto_a el infracción cometer contra el texto refundir de el leyes_de_ordenación_del_territorio_de_canarias y de espacios_naturales_de_canarias afectar a el citar edificación por carecer este de el preceptivo calificación territorial y licencia urbanístico el organismo de naturaleza haber publicar en el boc este resolución a el no haber poder notificar el mismo a el interesar de conformidad con el ley_de_régimen_jurídico_de_las_administraciones_públicas y de el procedimiento_administrativo_común para ello el apmun haber dar uno plazo de TM_d:15 a el interesar para que poder presentar el alegación documento o información que creer necesario",
+        "lemmatized_text_reduced": "agencia_de_protección_del_medio_urbano natural apmun haber notificar ciudadano resolución haber iniciar procedimiento administrativo ejecutar obra ilegal antigua fuerteventura haber publicar boletín_oficial_de_canarias boc infracción cometer texto refundir leyes_de_ordenación_del_territorio_de_canarias espacios_naturales_de_canarias afectar citar edificación carecer preceptivo calificación territorial licencia urbanístico organismo naturaleza haber publicar boc resolución haber poder notificar mismo interesar conformidad ley_de_régimen_jurídico_de_las_administraciones_públicas procedimiento_administrativo_común apmun haber dar plazo interesar poder presentar alegación documento información creer necesario",
+        "persons": [],
+        "locations": [
+            "Antigua",
+            "Espacios_Naturales_de_Canarias"
+        ],
+        "organizations": [
+            "Agencia_de_Protección_del_Medio_Urbano",
+            "Natural",
+            "APMUN",
+            "Fuerteventura",
+            "Boletín_Oficial_de_Canarias",
+            "Procedimiento_Administrativo_Común",
+            "APMUN"
+        ],
+        "others": [
+            "BOC",
+            "Leyes_de_Ordenación_del_Territorio_de_Canarias",
+            "BOC",
+            "Ley_de_Régimen_Jurídico_de_las_Administraciones_Públicas"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_d:15"
+        ]
+    }
+}

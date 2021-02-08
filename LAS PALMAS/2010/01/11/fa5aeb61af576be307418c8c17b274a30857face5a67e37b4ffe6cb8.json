@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/603940/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias promocionará las islas en la Feria Vakantiebeurs de Utrecht (Holanda)",
+        "lemmatized_text": "el gobierno_de_canarias promocionar el isla en el feria_vakantiebeurs_de_utrecht holanda",
+        "lemmatized_text_reduced": "gobierno_de_canarias promocionar isla feria_vakantiebeurs_de_utrecht holanda",
+        "persons": [],
+        "locations": [
+            "Feria_Vakantiebeurs_de_Utrecht",
+            "Holanda"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, promocionará las excelencias del archipiélago como destino turístico en la feria Vakantiebeurs 2010, en la ciudad holandesa de Utrecht del día 12 al 17 de enero, informó hoy el Ejecutivo regional en un comunicado.",
+        "lemmatized_text": "el consejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur promocionar el excelencia de el archipiélago como destino turístico en el feria vakantiebeurs 2010 en el ciudad holandés de utrecht de el [??:12/??/??:??.??:??] a el [??:17/1/??:??.??:??] informar hoy el ejecutivo regional en uno comunicado",
+        "lemmatized_text_reduced": "consejería_de_turismo_del_gobierno_de_canarias empresa público promotur promocionar excelencia archipiélago destino turístico feria vakantiebeurs ciudad holandés utrecht informar ejecutivo regional comunicado",
+        "persons": [],
+        "locations": [
+            "Utrecht"
+        ],
+        "organizations": [
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Vakantiebeurs"
+        ],
+        "dates": [
+            "[??:12/??/??:??.??:??]",
+            "[??:17/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, Canarias participará con varios mostradores de información turística instalados dentro del pabellón español coordinado por Turespaña. A esta convocatoria se trasladarán representantes de la Consejería de Turismo y de todos los patronatos de turismo de las islas con la finalidad de promocionar el destino canario entre los potenciales turistas holandeses. Este evento consiste en un feria de turismo general abierta al público. El día de apertura se reserva exclusivamente a los profesionales del turismo y a periodistas. En su pasada edición, la feria —que celebra su 39 edición— ocupó una superficie total de 30.584 metros cuadrados y se registraron unos 1.600 expositores de 160 países, y 132.961 visitantes, de los cuales 14.422 fueron profesionales.",
+        "lemmatized_text": "de este manera canarias participar con varios mostrador de información turístico instalar dentro de el pabellón español coordinar por turespaña a este convocatoria se trasladar representante de el consejería_de_turismo y de todo el patronato de turismo de el isla con el finalidad de promocionar el destino canario entre el potencial turista holandés este evento consistir en uno feria de turismo general abrir a el público el día de apertura se reservar exclusivamente a el profesional de el turismo y a periodista en su pasar edición el feria que celebrar su 39 edición ocupar uno superficie total de AR_m2:30.584 y se registrar uno 1.6 expositor de 160 país y 132.961 visitante de el cual 14.422 ser profesional",
+        "lemmatized_text_reduced": "manera canarias participar mostrador información turístico instalar pabellón español coordinar turespaña convocatoria trasladar representante consejería_de_turismo patronato turismo isla finalidad promocionar destino canario potencial turista holandés evento consistir feria turismo general abrir público día apertura reservar exclusivamente profesional turismo periodista pasar edición feria celebrar edición ocupar superficie total registrar expositor país visitante ser profesional",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Turespaña",
+            "Consejería_de_Turismo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "39",
+            "AR_m2:30.584",
+            "1.6",
+            "160",
+            "132.961",
+            "14.422"
+        ]
+    }
+}

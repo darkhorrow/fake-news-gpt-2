@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/946120/0/",
+    "title": {
+        "raw_text": "La Gala de la Reina del Carnaval de Las Palmas de Gran Canaria contará con un total de 11 candidatas",
+        "lemmatized_text": "el gala_de_la_reina_del_carnaval_de_las_palmas_de_gran_canaria contar con uno total de 11 candidato",
+        "lemmatized_text_reduced": "gala_de_la_reina_del_carnaval_de_las_palmas_de_gran_canaria contar total candidato",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gala_de_la_Reina_del_Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "11"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de once candidatas, dos más que en la pasada edición, desfilarán el viernes 25 de febrero a partir de las 21.00 horas en la Gala de elección de la Reina del Carnaval, según informó el Ayuntamiento de Las Palmas de Gran Canaria en un comunicado.",
+        "lemmatized_text": "uno total de 11 candidato 2 más que en el pasar edición desfilar el [V:25/2/??:??.??:??] a_partir_de el TM_h:21 en el gala de elección de el reina_del_carnaval según informar el ayuntamiento_de_las_palmas_de_gran_canaria en uno comunicado",
+        "lemmatized_text_reduced": "total candidato pasar edición desfilar gala elección reina_del_carnaval informar ayuntamiento_de_las_palmas_de_gran_canaria comunicado",
+        "persons": [
+            "Gala",
+            "Reina_del_Carnaval"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[V:25/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "11",
+            "2",
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "Un total de once candidatas, dos más que en la pasada edición, desfilarán el viernes 25 de febrero a partir de las 21.00 horas en la Gala de elección de la Reina del Carnaval, según informó el Ayuntamiento de Las Palmas de Gran Canaria en un comunicado. De esta manera, el orden de participación, como en otras ediciones, quedará establecido en el sorteo que tendrá lugar el 18 de febrero durante el transcurso del pregón. Siete centros comerciales y de ocio, El Mirador, Las Terrazas, El Muelle, Siete Palmas, Tamarana, Alcampo-Telde, y Atlántico; y otras cinco empresas, Manualidades el taller y Peluquería Mana, Depilación Láser Canarias, Airvema Insular, y Seguridad Integral Canaria presentarán sobre el escenario del parque de Santa Catalina los diseños y fantasías inspirados en la alegoría Carnaval de Mar y Culturas. A lo largo de estos días se darán a conocer los nombres de las fantasías y de las candidatas que representarán a las empresas señaladas en la Gala de la elección de la Reina del Carnaval, espectáculo que será retransmitido en exclusiva para todo el archipiélago por la Televisión Canaria.",
+        "lemmatized_text": "uno total de 11 candidato 2 más que en el pasar edición desfilar el [V:25/2/??:??.??:??] a_partir_de el TM_h:21 en el gala de elección de el reina_del_carnaval según informar el ayuntamiento_de_las_palmas_de_gran_canaria en uno comunicado de este manera el orden de participación como en otro edición quedar establecer en el sorteo que tener_lugar el [??:18/2/??:??.??:??] durante el transcurso de el pregón 7 centro comercial y de ocio el_mirador las_terrazas el_muelle 7 palmas tamarana alcampo-telde y atlántico y otro 5 empresa manualidades el taller y peluquería_mana depilación_láser_canarias airvema_insular y seguridad_integral_canaria presentar sobre el escenario de el parque de santa_catalina el diseño y fantasía inspirar en el alegoría carnaval_de_mar y culturas a el largo de este día se dar_a_conocer el nombre de el fantasía y de el candidato que representar a el empresa señalar en el gala de el elección de el reina_del_carnaval espectáculo que ser retransmitir en exclusiva para todo el archipiélago por el televisión_canaria",
+        "lemmatized_text_reduced": "total candidato pasar edición desfilar gala elección reina_del_carnaval informar ayuntamiento_de_las_palmas_de_gran_canaria comunicado manera orden participación edición quedar establecer sorteo tener_lugar transcurso pregón centro comercial ocio el_mirador las_terrazas el_muelle palmas tamarana alcampo-telde atlántico empresa manualidades taller peluquería_mana depilación_láser_canarias airvema_insular seguridad_integral_canaria presentar escenario parque santa_catalina diseño fantasía inspirar alegoría carnaval_de_mar culturas largo día dar_a_conocer nombre fantasía candidato representar empresa señalar gala elección reina_del_carnaval espectáculo ser retransmitir exclusiva archipiélago televisión_canaria",
+        "persons": [
+            "Gala",
+            "Reina_del_Carnaval",
+            "El_Muelle",
+            "Manualidades",
+            "Peluquería_Mana",
+            "Depilación_Láser_Canarias",
+            "Airvema_Insular",
+            "Gala"
+        ],
+        "locations": [
+            "El_Mirador",
+            "Las_Terrazas",
+            "Palmas",
+            "Tamarana",
+            "Santa_Catalina",
+            "Carnaval_de_Mar",
+            "Culturas"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Alcampo-Telde",
+            "Televisión_Canaria"
+        ],
+        "others": [
+            "Atlántico",
+            "Seguridad_Integral_Canaria",
+            "Reina_del_Carnaval"
+        ],
+        "dates": [
+            "[V:25/2/??:??.??:??]",
+            "[??:18/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "11",
+            "2",
+            "TM_h:21",
+            "7",
+            "7",
+            "5"
+        ]
+    }
+}

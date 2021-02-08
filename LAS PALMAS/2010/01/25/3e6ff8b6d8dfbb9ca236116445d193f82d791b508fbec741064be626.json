@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614223/0/",
+    "title": {
+        "raw_text": "Arrecife (Lanzarote) se queda temporalmente sin abastecimiento de agua por una rotura en la red",
+        "lemmatized_text": "arrecife lanzarote se quedar temporalmente sin abastecimiento de agua por uno rotura en el red",
+        "lemmatized_text_reduced": "arrecife lanzarote quedar temporalmente abastecimiento agua rotura red",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La empresa pública de Aguas de Lanzarote, Inalsa, ha informado a sus clientes y usuarios que la capital de la isla, Arrecife, estará temporalmente durante el día de hoy sin abastecimiento de agua debido a una rotura en la red.",
+        "lemmatized_text": "el empresa público de aguas_de_lanzarote inalsa haber informar a su cliente y usuario que el capital de el isla arrecife estar temporalmente durante el día de hoy sin abastecimiento de agua debido_a uno rotura en el red",
+        "lemmatized_text_reduced": "empresa público aguas_de_lanzarote inalsa haber informar cliente usuario capital isla arrecife estar temporalmente día abastecimiento agua rotura red",
+        "persons": [
+            "Arrecife"
+        ],
+        "locations": [],
+        "organizations": [
+            "Aguas_de_Lanzarote",
+            "Inalsa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Este incidente, que se produjo a las 04.00 horas de la madrugada de este lunes, ha provocado el cierre temporal del abastecimiento de agua en \"gran parte\" de Arrecife, según informó el Cabildo de Lanzarote en nota de prensa. En concreto, la avería en la red se ha producido en la calle General García Escámez, a la altura de la sede de Cruz Roja, con lo que sólo quedarán excluidos de la situación de desabastecimiento temporal los barrios de Maneje, Los Geranios, Argana Alta y Argana Baja. Respecto a la reparación del incidente, Inalsa estimó que en el periodo comprendido entre 12 y 14 horas esté arreglada la avería; sin embargo, indicó que una vez reparada la misma se tendrá que volver a presurizar toda la red de suministro, por lo que calcula que hasta la madrugada o primera hora del martes, 26 de enero, no se habrá restablecido el suministro con normalidad en Arrecife. Ante este hecho, Inalsa ha pedido a la población que haga uso de sus depósitos, que el contrato con la empresa obliga a tener, y realicen el menor consumo de agua posible hasta que se restablezca la normalidad en el suministro. Asimismo, la empresa pública lamentó las \"molestias que esta avería pueda ocasionar\" y pidió disculpas a los afectados.",
+        "lemmatized_text": "este incidente que se producir a el [??:??/??/??:4.00:am] de este [L:??/??/??:??.??:??] haber provocar el cierre temporal de el abastecimiento de agua en gran parte de arrecife según informar el cabildo_de_lanzarote en nota de prensa en concreto el avería en el red se haber producir en el calle general_garcía_escámez a el altura de el sede de cruz_roja con el que sólo quedar excluir de el situación de desabastecimiento temporal el barrio de maneje los_geranios argana_alta y argana_baja respecto_a el reparación de el incidente inalsa estimar que en el periodo comprender entre 12 y TM_h:14 estar arreglar el avería sin embargo indicar que uno vez reparar el mismo se tener que volver a presurizar todo el red de suministro por el que calcular que hasta el madrugada o 1 hora de el [M:26/1/??:??.??:??] no se haber restablecer el suministro con normalidad en arrecife ante este hecho inalsa haber pedir a el población que hacer_uso de su depósito que el contrato con el empresa obligar a tener y realizar el menor consumo de agua posible hasta que se restablecer el normalidad en el suministro asimismo el empresa público lamentar el molestia que este avería poder ocasionar y pedir disculpa a el afectado",
+        "lemmatized_text_reduced": "incidente producir haber provocar cierre temporal abastecimiento agua gran parte arrecife informar cabildo_de_lanzarote nota prensa concreto avería red haber producir calle general_garcía_escámez altura sede cruz_roja quedar excluir situación desabastecimiento temporal barrio maneje los_geranios argana_alta argana_baja reparación incidente inalsa estimar periodo comprender estar arreglar avería embargo indicar vez reparar tener volver presurizar red suministro calcular madrugada 1 hora haber restablecer suministro normalidad arrecife hecho inalsa haber pedir población hacer_uso depósito contrato empresa obligar tener realizar menor consumo agua posible restablecer normalidad suministro empresa público lamentar molestia avería poder ocasionar pedir disculpa afectado",
+        "persons": [
+            "Los_Geranios",
+            "Argana_Alta",
+            "Argana_Baja",
+            "Inalsa",
+            "Inalsa"
+        ],
+        "locations": [
+            "Arrecife",
+            "Cruz_Roja",
+            "Maneje",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "General_García_Escámez"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:4.00:am]",
+            "[L:??/??/??:??.??:??]",
+            "[M:26/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "12",
+            "TM_h:14"
+        ]
+    }
+}

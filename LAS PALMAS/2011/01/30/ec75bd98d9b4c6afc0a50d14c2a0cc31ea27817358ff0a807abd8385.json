@@ -1,0 +1,113 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/944223/0/",
+    "title": {
+        "raw_text": "La Aemet amplia el riesgo amarillo por fuertes lluvias a Tenerife, La Palma y La Gomera",
+        "lemmatized_text": "el aemet amplio el riesgo amarillo por fuerte lluvia a tenerife la_palma y la_gomera",
+        "lemmatized_text_reduced": "aemet amplio riesgo amarillo fuerte lluvia tenerife la_palma la_gomera",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Aemet",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha ampliado el riesgo amarillo por fuertes lluvias que llegarán a 60 mm a las islas de Tenerife, La Palma y La Gomera, sumándose así a la alerta establecida en Gran Canaria y El Hierro, según informa el organismo estatal.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber ampliar el riesgo amarillo por fuerte lluvia que llegar a LN_mm:60 a el isla de tenerife la_palma y la_gomera sumar se así a el alerta establecer en gran_canaria y el_hierro según informar el organismo estatal",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber ampliar riesgo amarillo fuerte lluvia llegar isla tenerife la_palma la_gomera sumar alerta establecer gran_canaria el_hierro informar organismo estatal",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "La_Palma",
+            "La_Gomera",
+            "Gran_Canaria",
+            "El_Hierro"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mm:60"
+        ]
+    },
+    "body": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha ampliado el riesgo amarillo por fuertes lluvias que llegarán a 60 mm a las islas de Tenerife, La Palma y La Gomera, sumándose así a la alerta establecida en Gran Canaria y El Hierro, según informa el organismo estatal. De esta manera, la alerta comenzó a las 06.00 horas de hoy y se prolongará hasta las 23.00 horas en todas las islas. En el resto de España, un total de 22 provincias del área cantábrica, del Sistema Ibérico y de La Meseta permanecerán todavía este domingo en alerta por riesgo de nevadas, aunque se espera que la nieve y la lluvia que se han dado en días atrás vayan remitiendo a lo largo del fin de semana, según la predicción de la Agencia Estatal de Meteorología (Aemet). En concreto, la alerta naranja (riesgo importante) por nieve se activará en Cantabria, mientras que la alerta amarilla se extenderá por este mismo motivo a distintos puntos de Aragón, País Vasco, Asturias, La Rioja, Cataluña, Comunidad Valenciana, Castilla y León, Castilla-La Mancha y Comunidad de Madrid. Así, la cota de nieve se mantendrá entre los 400 y 800 metros en la mitad norte peninsular, los 900 y 1.300 en el sudeste y Baleares y entre 500 y 1.000 en el resto del país. Los cielos permanecerán muy nubosos en el norte peninsular, donde se pueden registrar precipitaciones débiles que pueden ser localmente moderadas en el Cantábrico y localmente persistentes en el nordeste de Cataluña. En el resto de la Península y Baleares se esperan también intervalos nubosos y lluvias débiles en la Meseta, área del Sistema Ibérico y del Estrecho. Las precipitaciones pueden extenderse al resto del país, aunque no se esperan en el oeste de Andalucía. En Canarias la nubosidad irá en aumento y se producirán precipitaciones débiles a moderadas, que pueden llegar a ser localmente persistentes. Las temperaturas registrarán un ligero descenso en la mitad sur peninsular y Baleares, mientras que se mantendrán con pocos cambios en el resto. Además, se darán heladas débiles localmente moderadas en el interior peninsular y bancos de niebla en La Meseta y Cataluña. Por último, llegará viento moderado de componente oeste en el litoral de Andalucía y de componente norte en el de Galicia, Baleares y, con intervalos fuertes, a Canarias y el nordeste de Girona.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber ampliar el riesgo amarillo por fuerte lluvia que llegar a LN_mm:60 a el isla de tenerife la_palma y la_gomera sumar se así a el alerta establecer en gran_canaria y el_hierro según informar el organismo estatal de este manera el alerta comenzar a el TM_h:6 de hoy y se prolongar hasta el TM_h:23 en todo el isla en el resto de españa uno total de 22 provincia de el área cantábrico de el sistema_ibérico y de la_meseta permanecer todavía este [G:??/??/??:??.??:??] en alerta por riesgo de nevada aunque se esperar que el nieve y el lluvia que se haber dar en día atrás ir remitir a el largo de el fin de semana según el predicción de el agencia_estatal_de_meteorología aemet en concreto el alerta naranja riesgo importante por nieve se activar en cantabria mientras_que el alerta amarillo se extender por este mismo motivo a distinto punto de aragón país_vasco asturias la_rioja cataluña comunidad_valenciana castilla y león castilla-la_mancha y comunidad_de_madrid así el cota de nieve se mantener entre el 400 y LN_m:800 en el mitad norte peninsular el 900 y 1.3 en el sudeste y baleares y entre 500 y 1 en el resto de el país el cielo permanecer muy nuboso en el norte peninsular donde se poder registrar precipitación débil que poder ser localmente moderar en el cantábrico y localmente persistente en el nordeste de cataluña en el resto de el península y baleares se esperar también intervalo nuboso y lluvia débil en el meseta área de el sistema_ibérico y de el estrecho el precipitación poder extender se a el resto de el país aunque no se esperar en el oeste de andalucía en canarias el nubosidad ir en aumento y se producir precipitación débil a moderado que poder llegar a ser localmente persistente el temperatura registrar uno ligero descenso en el mitad sur peninsular y baleares mientras_que se mantener con poco cambio en el resto además se dar helada débil localmente moderar en el interior peninsular y banco de niebla en la_meseta y cataluña por último llegar viento moderar de componente oeste en el litoral de andalucía y de componente norte en el de galicia baleares y con intervalo fuerte a canarias y el nordeste de girona",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber ampliar riesgo amarillo fuerte lluvia llegar isla tenerife la_palma la_gomera sumar alerta establecer gran_canaria el_hierro informar organismo estatal manera alerta comenzar prolongar isla resto españa total provincia área cantábrico sistema_ibérico la_meseta permanecer alerta riesgo nevada esperar nieve lluvia haber dar día ir remitir largo fin semana predicción agencia_estatal_de_meteorología aemet concreto alerta naranja riesgo importante nieve activar cantabria alerta amarillo extender mismo motivo punto aragón país_vasco asturias la_rioja cataluña comunidad_valenciana castilla león castilla-la_mancha comunidad_de_madrid cota nieve mantener mitad norte peninsular sudeste baleares resto país cielo permanecer nuboso norte peninsular poder registrar precipitación débil poder ser localmente moderar cantábrico localmente persistente nordeste cataluña resto península baleares esperar intervalo nuboso lluvia débil meseta área sistema_ibérico estrecho precipitación poder extender resto país esperar oeste andalucía canarias nubosidad ir aumento producir precipitación débil moderado poder llegar ser localmente persistente temperatura registrar ligero descenso mitad sur peninsular baleares mantener cambio resto dar helada débil localmente moderar interior peninsular banco niebla la_meseta cataluña último llegar viento moderar componente oeste litoral andalucía componente norte galicia baleares intervalo fuerte canarias nordeste girona",
+        "persons": [
+            "León"
+        ],
+        "locations": [
+            "Tenerife",
+            "La_Palma",
+            "La_Gomera",
+            "Gran_Canaria",
+            "El_Hierro",
+            "España",
+            "La_Meseta",
+            "Cantabria",
+            "Aragón",
+            "País_Vasco",
+            "Asturias",
+            "La_Rioja",
+            "Cataluña",
+            "Comunidad_Valenciana",
+            "Castilla",
+            "Castilla-La_Mancha",
+            "Comunidad_de_Madrid",
+            "Baleares",
+            "Cantábrico",
+            "Cataluña",
+            "Península",
+            "Baleares",
+            "Meseta",
+            "Estrecho",
+            "Andalucía",
+            "Canarias",
+            "Baleares",
+            "La_Meseta",
+            "Cataluña",
+            "Andalucía",
+            "Galicia",
+            "Baleares",
+            "Canarias",
+            "Girona"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [
+            "Sistema_Ibérico",
+            "Sistema_Ibérico"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mm:60",
+            "TM_h:6",
+            "TM_h:23",
+            "22",
+            "400",
+            "LN_m:800",
+            "900",
+            "1.3",
+            "500",
+            "1"
+        ]
+    }
+}

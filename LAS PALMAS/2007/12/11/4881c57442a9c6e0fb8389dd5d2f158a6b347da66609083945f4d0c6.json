@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/319841/0/ayuda/alquiler/canarios/",
+    "title": {
+        "raw_text": "Cerca de 17.000 jóvenes canarios podrán beneficiarse de las ayudas al alquiler",
+        "lemmatized_text": "cerca de 17 joven canario poder beneficiar se de el ayuda a el alquiler",
+        "lemmatized_text_reduced": "joven canario poder beneficiar ayuda alquiler",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "17"
+        ]
+    },
+    "lead": {
+        "raw_text": "Incluye una ayuda directa de 210 € mensuales. Se dirige a los jóvenes de entre 22 y 30 años que trabajen. Las ayudas serán efectivas a partir del 1 de enero. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Y SANTA CRUZ DE TENERIFE",
+        "lemmatized_text": "incluir uno ayuda directo de $_ECU:210 mensual se dirigir a el joven de entre 22 y 30 año que trabajar el ayuda ser efectivo a partir de el [??:1/1/??:??.??:??] consulta_aquí_más_noticias_de_las_palmas_y_santa_cruz_de_tenerife",
+        "lemmatized_text_reduced": "incluir ayuda directo mensual dirigir joven año trabajar ayuda ser efectivo partir consulta_aquí_más_noticias_de_las_palmas_y_santa_cruz_de_tenerife",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Y_SANTA_CRUZ_DE_TENERIFE"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:210",
+            "22",
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "La ministra de Vivienda, Carme Chacón, y la consejera de Bienestar Social, Juventud y Vivienda, y presidenta del Instituto Canario de la Vivienda , Inés Nieves Rojas de León, han firmado, en la sede de la Delegación de Gobierno de Las Palmas de Gran Canaria, el convenio para la gestión conjunta de la Renta Básica de Emancipación . La ayuda, incluida en el Plan de Apoyo a la Emancipación e Impulso del Alquiler , fue aprobada por el Gobierno hace un mes con el objetivo de ayudar a los jóvenes a emanciparse facilitándoles el acceso a una vivienda en alquiler . Según las previsiones del Ministerio, unos 17.000 jóvenes canarios podrían beneficiarse de estas ayudas durante el próximo 2008. La ayuda La Renta Básica de Emancipación incluye una ayuda directa de 210 € mensuales, más un préstamo de 600 euros para la fianza y 120 euros para costear un aval. Esta ayuda está dirigida a los jóvenes de entre 22 y 30 años que trabajen, sean titulares del contrato de arrendamiento de la vivienda y tengan unos ingresos inferiores a los 22.000 euros brutos anuales . Hasta este momento, ya han suscrito dicho convenio para la gestión conjunta de la Renta Básica de Emancipación los gobiernos de Extremadura, del Principado de Asturias, Aragón, Castilla-La Mancha, Cantabria, Andalucía y Valencia. El objetivo del Ministerio es que antes de finalizar el año se hayan firmado los correspondientes acuerdos de colaboración con el resto de las Comunidades Autónomas para que todos los jóvenes puedan acceder a esas ayudas a partir del uno de enero , con independencia de la comunidad en que residan. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Y SANTA CRUZ DE TENERIFE",
+        "lemmatized_text": "el ministro de vivienda carme_chacón y el consejero de bienestar_social juventud y vivienda y presidente de el instituto_canario_de_la_vivienda inés_nieves_rojas_de_león haber firmar en el sede de el delegación_de_gobierno_de_las_palmas_de_gran_canaria el convenio para el gestión conjunto de el renta_básica_de_emancipación el ayuda incluir en el plan_de_apoyo a el emancipación y impulso_del_alquiler ser aprobar por el gobierno hacer uno mes con el objetivo de ayudar a el joven a emancipar se facilitar le el acceso a uno vivienda en alquiler según el previsión de el ministerio uno 17 joven canario poder beneficiar se de este ayuda durante el próximo 2008 el ayuda la_renta_básica_de_emancipación incluir uno ayuda directo de $_ECU:210 mensual más uno préstamo de $_ECU:600 para el fianza y $_ECU:120 para costear uno aval este ayuda estar dirigir a el joven de entre 22 y 30 año que trabajar ser titular de el contrato de arrendamiento de el vivienda y tener uno ingreso inferior a el $_ECU:22 bruto anual hasta este momento ya haber suscribir decir convenio para el gestión conjunto de el renta_básica_de_emancipación el gobierno de extremadura de el principado_de_asturias aragón castilla-la_mancha cantabria andalucía y valencia el objetivo de el ministerio ser que antes_de finalizar el año se haber firmar el correspondiente acuerdo de colaboración con el resto de el comunidades_autónomas para que todo el joven poder acceder a ese ayuda a partir de el [??:1/1/??:??.??:??] con independencia de el comunidad en que residir consulta_aquí_más_noticias_de_las_palmas_y_santa_cruz_de_tenerife",
+        "lemmatized_text_reduced": "ministro vivienda carme_chacón consejero bienestar_social juventud vivienda presidente instituto_canario_de_la_vivienda inés_nieves_rojas_de_león haber firmar sede delegación_de_gobierno_de_las_palmas_de_gran_canaria convenio gestión conjunto renta_básica_de_emancipación ayuda incluir plan_de_apoyo emancipación impulso_del_alquiler ser aprobar gobierno hacer mes objetivo ayudar joven emancipar facilitar acceso vivienda alquiler previsión ministerio joven canario poder beneficiar ayuda próximo ayuda la_renta_básica_de_emancipación incluir ayuda directo mensual préstamo fianza costear aval ayuda estar dirigir joven año trabajar ser titular contrato arrendamiento vivienda tener ingreso inferior bruto anual momento haber suscribir decir convenio gestión conjunto renta_básica_de_emancipación gobierno extremadura principado_de_asturias aragón castilla-la_mancha cantabria andalucía valencia objetivo ministerio ser finalizar año haber firmar correspondiente acuerdo colaboración resto comunidades_autónomas joven poder acceder ayuda partir independencia comunidad residir consulta_aquí_más_noticias_de_las_palmas_y_santa_cruz_de_tenerife",
+        "persons": [
+            "Carme_Chacón",
+            "Inés_Nieves_Rojas_de_León",
+            "Impulso_del_Alquiler"
+        ],
+        "locations": [
+            "Extremadura",
+            "Principado_de_Asturias",
+            "Aragón",
+            "Castilla-La_Mancha",
+            "Cantabria",
+            "Andalucía",
+            "Valencia"
+        ],
+        "organizations": [
+            "Vivienda",
+            "Vivienda",
+            "Instituto_Canario_de_la_Vivienda",
+            "Delegación_de_Gobierno_de_Las_Palmas_de_Gran_Canaria",
+            "Renta_Básica_de_Emancipación",
+            "Gobierno",
+            "Ministerio",
+            "Renta_Básica_de_Emancipación",
+            "Ministerio",
+            "Comunidades_Autónomas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Y_SANTA_CRUZ_DE_TENERIFE"
+        ],
+        "others": [
+            "Bienestar_Social",
+            "Juventud",
+            "Plan_de_Apoyo",
+            "Emancipación",
+            "La_Renta_Básica_de_Emancipación"
+        ],
+        "dates": [
+            "[??:1/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "17",
+            "2008",
+            "$_ECU:210",
+            "$_ECU:600",
+            "$_ECU:120",
+            "22",
+            "30",
+            "$_ECU:22"
+        ]
+    }
+}

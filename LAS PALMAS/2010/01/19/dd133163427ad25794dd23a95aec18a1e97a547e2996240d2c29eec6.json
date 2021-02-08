@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/609901/0/",
+    "title": {
+        "raw_text": "Detenidos los autores de los daños en las Casas Consistoriales de Tunte (Gran Canaria) en la Noche de Reyes",
+        "lemmatized_text": "detener el autor de el daño en el casas_consistoriales_de_tunte gran_canaria en el noche_de_reyes",
+        "lemmatized_text_reduced": "detener autor daño casas_consistoriales_de_tunte gran_canaria noche_de_reyes",
+        "persons": [],
+        "locations": [
+            "Casas_Consistoriales_de_Tunte",
+            "Noche_de_Reyes"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes del Cuerpo Nacional de Policía de la Comisaría de Maspalomas (Gran Canaria), lograron localizar y detener a los dos jóvenes que durante la pasada noche de Reyes ocasionaron daños en las Casas Consistoriales del Ayuntamiento de San Bartolomé de Tirajana, situadas en Tunte, así como los sufridos en un vehículo oficial, habiendo estado éstos en paradero desconocido desde el día de los hechos, informó hoy la Jefatura Provincial de Policía de Canarias en un comunicado.",
+        "lemmatized_text": "agentes_del_cuerpo_nacional_de_policía_de_la_comisaría_de_maspalomas gran_canaria lograr localizar y detener a el 2 joven que durante el pasar noche de reyes ocasionar daño en el casas_consistoriales_del_ayuntamiento_de_san_bartolomé_de_tirajana situar en tunte así_como el sufrir en uno vehículo oficial haber estar este en paradero desconocer desde el día de el hecho informar hoy el jefatura_provincial_de_policía_de_canarias en uno comunicado",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_nacional_de_policía_de_la_comisaría_de_maspalomas gran_canaria lograr localizar detener joven pasar noche reyes ocasionar daño casas_consistoriales_del_ayuntamiento_de_san_bartolomé_de_tirajana situar tunte sufrir vehículo oficial haber estar paradero desconocer día hecho informar jefatura_provincial_de_policía_de_canarias comunicado",
+        "persons": [
+            "Reyes"
+        ],
+        "locations": [
+            "Tunte"
+        ],
+        "organizations": [
+            "Agentes_del_Cuerpo_Nacional_de_Policía_de_la_Comisaría_de_Maspalomas",
+            "Gran_Canaria",
+            "Casas_Consistoriales_del_Ayuntamiento_de_San_Bartolomé_de_Tirajana",
+            "Jefatura_Provincial_de_Policía_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, tras fracturar una ventana del edificio, A.A.A. de 21 años, y E.C.V. de 19, sin antecedentes policiales, accedieron a diversos documentos oficiales que se almacenaban en el interior del edificio y procedieron a quemar los mismos en un baño público próximo al lugar, fracturando además el parabrisas y espejos retrovisores de un vehículo oficial del Ayuntamiento estacionado en una de las calles colindantes. Por su parte, los jóvenes fueron sorprendidos por funcionarios de Policía Local e hicieron caso omiso al requerimiento policial, por lo que emprendieron una huida a pie y consiguieron escapar de los agentes. Posteriormente, y tras una semana de investigaciones y comprobaciones, agentes adscritos al Grupo de Policía Judicial de la Comisaría de Maspalomas, pudieron localizar e identificar plenamente a estos dos individuos, a los cuales se les imputó un delito de daños. Finalmente, los detenidos, con las diligencias instruidas, fueron puestos a disposición de la Autoridad Judicial.",
+        "lemmatized_text": "de este manera tras fracturar uno ventana de el edificio a.a.a. de 21 año y e.c.v. de 19 sin antecedente policial acceder a diverso documento oficial que se almacenar en el interior de el edificio y proceder a quemar el mismo en uno baño público próximo a el lugar fracturar además el parabrisas y espejo retrovisor de uno vehículo oficial de el ayuntamiento estacionar en uno de el calle colindante por su parte el joven ser sorprender por funcionario de policía_local y hacer caso omiso a el requerimiento policial por el que emprender uno huida a pie y conseguir escapar de el agente posteriormente y tras uno semana de investigación y comprobación agente adscribir a el grupo_de_policía_judicial_de_la_comisaría_de_maspalomas poder localizar y identificar plenamente a este 2 individuo a el cual se le imputar uno delito de daño finalmente el detenido con el diligencia instruir ser poner a disposición de el autoridad_judicial",
+        "lemmatized_text_reduced": "manera fracturar ventana edificio a.a.a. año e.c.v. antecedente policial acceder documento oficial almacenar interior edificio proceder quemar mismo baño público próximo lugar fracturar parabrisas espejo retrovisor vehículo oficial ayuntamiento estacionar calle colindante parte joven ser sorprender funcionario policía_local hacer caso omiso requerimiento policial emprender huida pie conseguir escapar agente posteriormente semana investigación comprobación agente adscribir grupo_de_policía_judicial_de_la_comisaría_de_maspalomas poder localizar identificar plenamente individuo imputar delito daño finalmente detenido diligencia instruir ser poner disposición autoridad_judicial",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "A.A.A.",
+            "E.C.V.",
+            "Ayuntamiento",
+            "Policía_Local",
+            "Grupo_de_Policía_Judicial_de_la_Comisaría_de_Maspalomas",
+            "Autoridad_Judicial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "21",
+            "19",
+            "2"
+        ]
+    }
+}

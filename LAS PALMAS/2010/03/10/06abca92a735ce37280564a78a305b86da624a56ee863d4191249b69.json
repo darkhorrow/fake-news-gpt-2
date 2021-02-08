@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/648556/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria se propone eliminar todos los grafitis de la ciudad",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria se proponer eliminar todo el grafitis de el ciudad",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria proponer eliminar grafitis ciudad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La concejala de Fomento y Servicios Públicos del Ayuntamiento de Las Palmas de Gran Canaria, Nardy Barrios, se ha propuesto acabar con todos los grafitis de la capital mediante una operación de limpieza que comenzará mañana por varias calles del municipio.",
+        "lemmatized_text": "el concejal de fomento y servicios_públicos_del_ayuntamiento_de_las_palmas_de_gran_canaria nardy_barrios se haber proponer acabar con todo el grafitis de el capital mediante uno operación de limpieza que comenzar mañana por varios calle de el municipio",
+        "lemmatized_text_reduced": "concejal fomento servicios_públicos_del_ayuntamiento_de_las_palmas_de_gran_canaria nardy_barrios haber proponer acabar grafitis capital operación limpieza comenzar calle municipio",
+        "persons": [
+            "Nardy_Barrios"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicios_Públicos_del_Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Fomento"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La operación de limpieza de grafitis, que llevarán a cabo dos equipos de operarios, se iniciará este jueves con actuaciones en las calles: Albareda, Agustín Millares Sal, Eduardo Benot, La Habana, León y Castillo, Padre Cueto y Rafael Cabrera. Nardy Barrios afirma en un comunicado que \"estas actuaciones continuarán por otras zonas de la capital hasta dejarlas libres de grafitis, que tanto afean las fachadas de inmuebles y muros de muchas calles de la ciudad\".",
+        "lemmatized_text": "el operación de limpieza de grafitis que llevar_a_cabo 2 equipo de operario se iniciar este [J:??/??/??:??.??:??] con actuación en el calle albareda agustín_millares_sal eduardo_benot la_habana león y castillo padre_cueto y rafael_cabrera nardy_barrios afirmar en uno comunicado que este actuación continuar por otro zona de el capital hasta dejar lo libre de grafitis que tanto afear el fachada de inmueble y muro de mucho calle de el ciudad",
+        "lemmatized_text_reduced": "operación limpieza grafitis llevar_a_cabo equipo operario iniciar actuación calle albareda agustín_millares_sal eduardo_benot la_habana león castillo padre_cueto rafael_cabrera nardy_barrios afirmar comunicado actuación continuar zona capital dejar libre grafitis afear fachada inmueble muro calle ciudad",
+        "persons": [
+            "Albareda",
+            "Agustín_Millares_Sal",
+            "Eduardo_Benot",
+            "León",
+            "Castillo",
+            "Padre_Cueto",
+            "Rafael_Cabrera",
+            "Nardy_Barrios"
+        ],
+        "locations": [
+            "La_Habana"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    }
+}

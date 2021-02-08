@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/411781/0/hormigonera/colapso/autovia/",
+    "title": {
+        "raw_text": "Una hormigonera averiada colapsa la entrada a la capital grancanaria",
+        "lemmatized_text": "uno hormigonera averiar colapsar el entrada a el capital grancanaria",
+        "lemmatized_text_reduced": "hormigonera averiar colapsar entrada capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La avería causó retenciones de hasta 6 kilómetros. El atasco duró cerca de dos horas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el avería causar retención de hasta LN_km:6 el atasco durar cerca de 2 hora consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "avería causar retención atasco durar hora consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:6",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La avería registrada en un camión hormigonera que circulaba por uno de los carriles de entrada a Las Palmas de Gran Canaria colapsó hoy por espacio de hora y media el tránsito de vehículos, lo que ocasionó un atasco de seis kilómetros . Así lo confirmó a Efe un portavoz de la Policía Local de Tráfico de la ciudad, quien informó de que la avería en el camión, que quedó completamente bloqueado sobre la calzada, se produjo sobre las 06.30 horas en el carril derecho de entrada a la ciudad, a la altura de los juzgados de Granadera Canaria . Desde esa hora y hasta las 08.25 horas, el vehículo permaneció obstaculizando el tráfico por el carril que circulaba, del que fue retirado por una grúa. Este incidente ocasionó un importante atasco de vehículos , de seis kilómetros de longitud, lo que produjo que las retenciones se prolongarán hasta antes de llegar a la potabilizadora, agregaron las fuentes.",
+        "lemmatized_text": "el avería registrar en uno camión hormigonera que circular por uno de el carril de entrada a las_palmas_de_gran_canaria colapsar hoy por espacio de hora y medio el tránsito de vehículo el que ocasionar uno atasco de LN_km:6 así lo confirmar a efe uno portavoz de el policía_local_de_tráfico de el ciudad quien informar de que el avería en el camión que quedar completamente bloquear sobre el calzada se producir sobre el TM_h:6.3 en el carril derecho de entrada a el ciudad a el altura de el juzgado de granadera_canaria desde ese hora y hasta el TM_h:8.25 el vehículo permanecer obstaculizar el tráfico por el carril que circular de el que ser retirar por uno grúa este incidente ocasionar uno importante atasco de vehículo de LN_km:6 de longitud el que producir que el retención se prolongar hasta antes_de llegar a el potabilizadora agregar el fuente",
+        "lemmatized_text_reduced": "avería registrar camión hormigonera circular carril entrada las_palmas_de_gran_canaria colapsar espacio hora medio tránsito vehículo ocasionar atasco confirmar efe portavoz policía_local_de_tráfico ciudad informar avería camión quedar completamente bloquear calzada producir carril derecho entrada ciudad altura juzgado granadera_canaria hora vehículo permanecer obstaculizar tráfico carril circular ser retirar grúa incidente ocasionar importante atasco vehículo longitud producir retención prolongar llegar potabilizadora agregar fuente",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Granadera_Canaria"
+        ],
+        "organizations": [
+            "Efe",
+            "Policía_Local_de_Tráfico"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:6",
+            "TM_h:6.3",
+            "TM_h:8.25",
+            "LN_km:6"
+        ]
+    }
+}

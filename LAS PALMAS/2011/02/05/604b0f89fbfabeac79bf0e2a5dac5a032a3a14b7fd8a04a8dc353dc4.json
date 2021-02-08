@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950771/0/",
+    "title": {
+        "raw_text": "Fallece tras colisionar contra un turismo en Fuerteventura",
+        "lemmatized_text": "fallecer tras colisionar contra uno turismo en fuerteventura",
+        "lemmatized_text_reduced": "fallecer colisionar turismo fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre de 55 años de edad ha perdido la vida como consecuencia de una colisión contra un turismo ocurrida este mediodía en el municipio de Tuineje, en Fuerteventura, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes 1-1-2).",
+        "lemmatized_text": "uno hombre de 55 año de edad haber perder el vida como consecuencia de uno colisión contra uno turismo ocurrir este [??:??/??/??:12.00:pm] en el municipio de tuineje en fuerteventura según haber informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "hombre año edad haber perder vida consecuencia colisión turismo ocurrir municipio tuineje fuerteventura haber informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Tuineje",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "55",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre de 55 años de edad ha perdido la vida como consecuencia de una colisión contra un turismo ocurrida este mediodía en el municipio de Tuineje, en Fuerteventura, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes 1-1-2). El suceso se produjo en la carretera FV-2, a la altura de Pozo Negro, sobre las 14.15 horas, momento en el que el Cecoes recibió una alerta informando de que un turismo y una moto habían colisionado y el motorista se encontraba gravemente herido, por lo que el 1-1-2 movilizó de inmediato los recursos de emergencia necesarios para intervenir en la zona. Hasta el lugar se desplazaron agentes de la Guardia Civil, efectivos de Protección Civil de Tuineje, un helicóptero de soporte vital avanzado y una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC), cuyo personal sanitario asistió y estabilizó al herido, que fue trasladado en helicóptero al presentar una amputación traumática de miembro inferior de carácter grave al Hospital General de Fuerteventura, donde finalmente falleció. Entretanto, efectivos de Protección Civil aseguraron la toma de tierra del helicóptero y colaboraron con los recursos desplazados, y la Guardia Civil canalizó el tráfico en la zona e instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre de 55 año de edad haber perder el vida como consecuencia de uno colisión contra uno turismo ocurrir este [??:??/??/??:12.00:pm] en el municipio de tuineje en fuerteventura según haber informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 el suceso se producir en el carretera FV-2 a el altura de pozo_negro sobre el TM_h:14.15 momento en el que el cecoes recibir uno alerta informar de que uno turismo y uno moto haber colisionar y el motorista se encontrar gravemente herir por el que el 1-1-2 movilizar de inmediato el recurso de emergencia necesario para intervenir en el zona hasta el lugar se desplazar agente de el guardia_civil efectivo de protección_civil_de_tuineje uno helicóptero de soporte vital avanzar y uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc cuyo personal sanitario asistir y estabilizar a el herir que ser trasladar en helicóptero a el presentar uno amputación traumático de miembro inferior de carácter grave a el hospital_general_de_fuerteventura donde finalmente fallecer entretanto efectivo de protección_civil asegurar el toma de tierra de el helicóptero y colaborar con el recurso desplazar y el guardia_civil canalizar el tráfico en el zona y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre año edad haber perder vida consecuencia colisión turismo ocurrir municipio tuineje fuerteventura haber informar centro_coordinador_de_emergencias seguridad cecoes suceso producir carretera altura pozo_negro momento cecoes recibir alerta informar turismo moto haber colisionar motorista encontrar gravemente herir movilizar inmediato recurso emergencia necesario intervenir zona lugar desplazar agente guardia_civil efectivo protección_civil_de_tuineje helicóptero soporte vital avanzar ambulancia soporte vital básico servicio_de_urgencias_canario suc personal sanitario asistir estabilizar herir ser trasladar helicóptero presentar amputación traumático miembro inferior carácter grave hospital_general_de_fuerteventura finalmente fallecer efectivo protección_civil asegurar toma tierra helicóptero colaborar recurso desplazar guardia_civil canalizar tráfico zona instruir diligencia correspondiente",
+        "persons": [
+            "Pozo_Negro"
+        ],
+        "locations": [
+            "Tuineje",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cecoes",
+            "Guardia_Civil",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_General_de_Fuerteventura",
+            "Protección_Civil",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad",
+            "Protección_Civil_de_Tuineje"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "55",
+            "1-1-2",
+            "FV-2",
+            "TM_h:14.15",
+            "1-1-2"
+        ]
+    }
+}

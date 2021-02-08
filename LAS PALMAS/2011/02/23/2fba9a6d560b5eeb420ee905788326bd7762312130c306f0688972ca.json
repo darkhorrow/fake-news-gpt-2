@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/969519/0/",
+    "title": {
+        "raw_text": "Fallece una mujer tras sufrir una parada cardiorrespirtaoria en Lanzarote",
+        "lemmatized_text": "fallecer uno mujer tras sufrir uno parada cardiorrespirtaoria en lanzarote",
+        "lemmatized_text_reduced": "fallecer mujer sufrir parada cardiorrespirtaoria lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer ha fallecido este miércoles después de sufrir una parada cardiorrespiratoria en Playa Flamingo, en la isla de Lanzarote, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno mujer haber fallecer este [X:??/??/??:??.??:??] después_de sufrir uno parada cardiorrespiratoria en playa_flamingo en el isla de lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "mujer haber fallecer sufrir parada cardiorrespiratoria playa_flamingo isla lanzarote informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Playa_Flamingo",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer ha fallecido este miércoles después de sufrir una parada cardiorrespiratoria en Playa Flamingo, en la isla de Lanzarote, según informó el Centro Coordinador de Emergencias y Seguridad 112. La mujer, de unos 70 años de edad y extranjera, tuvo que ser sacada del agua por personas que se encontraban en la playa y ya en la arena, cuando llegó el personal del Servicio de Urgencias Canario (SUC), la fallecida se encontraba en parada cardiorrespiratoria aunque el 112 indicó que la muerte podría haberse debido a un ahogamiento. El personal del SUC que se personó en el lugar le practicó a la mujer maniobras de reanimación que no tuvieron resultado y sólo se pudo confirmar el fallecimiento. Hasta el lugar acudieron además agentes de la Policía Local, así como de la Guardia Civil, que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "uno mujer haber fallecer este [X:??/??/??:??.??:??] después_de sufrir uno parada cardiorrespiratoria en playa_flamingo en el isla de lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112 el mujer de uno 70 año de edad y extranjero tener que ser sacar de el agua por persona que se encontrar en el playa y ya en el arena cuando llegar el personal de el servicio_de_urgencias_canario suc el fallecer se encontrar en parada cardiorrespiratoria aunque el 112 indicar que el muerte poder haber se debido_a uno ahogamiento el personal de el suc que se personar en el lugar le practicar a el mujer maniobra de reanimación que no tener resultado y sólo se poder confirmar el fallecimiento hasta el lugar acudir además agente de el policía_local así_como de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "mujer haber fallecer sufrir parada cardiorrespiratoria playa_flamingo isla lanzarote informar centro_coordinador_de_emergencias seguridad mujer año edad extranjero tener ser sacar agua persona encontrar playa arena llegar personal servicio_de_urgencias_canario suc fallecer encontrar parada cardiorrespiratoria indicar muerte poder haber ahogamiento personal suc personar lugar practicar mujer maniobra reanimación tener resultado poder confirmar fallecimiento lugar acudir agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Playa_Flamingo",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "70",
+            "112"
+        ]
+    }
+}

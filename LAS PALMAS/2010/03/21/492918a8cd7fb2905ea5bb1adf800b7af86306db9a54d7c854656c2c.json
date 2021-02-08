@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/657401/0/",
+    "title": {
+        "raw_text": "Los servicios de emergencia asisten a una persona tras sufrir un ahogamiento en Fuerteventura",
+        "lemmatized_text": "el servicio de emergencia asistir a uno persona tras sufrir uno ahogamiento en fuerteventura",
+        "lemmatized_text_reduced": "servicio emergencia asistir persona sufrir ahogamiento fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de emergencia están asistiendo a una persona que ha sufrido un ahogamiento en una playa de Fuerteventura, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112 a Europa Press.",
+        "lemmatized_text": "el servicio de emergencia estar asistir a uno persona que haber sufrir uno ahogamiento en uno playa de fuerteventura según informar fuente de el centro_coordinador_de_emergencias y seguridad 112 a europa_press",
+        "lemmatized_text_reduced": "servicio emergencia estar asistir persona haber sufrir ahogamiento playa fuerteventura informar fuente centro_coordinador_de_emergencias seguridad europa_press",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Europa_Press"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 16.30 horas en Costa Calma, en la isla de Fuerteventura, y hasta el lugar se trasladó personal del Servicio de Urgencias Canario (SUC) y un médico del municipio que asisten a la persona afectada. Asimismo, hasta la zona se trasladaron bomberos y agentes de la Policía Local.",
+        "lemmatized_text": "el incidente se producir a el TM_h:16.3 en costa_calma en el isla de fuerteventura y hasta el lugar se trasladar personal de el servicio_de_urgencias_canario suc y uno médico de el municipio que asistir a el persona afectar asimismo hasta el zona se trasladar bombero y agente de el policía_local",
+        "lemmatized_text_reduced": "incidente producir costa_calma isla fuerteventura lugar trasladar personal servicio_de_urgencias_canario suc médico municipio asistir persona afectar zona trasladar bombero agente policía_local",
+        "persons": [],
+        "locations": [
+            "Costa_Calma",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.3"
+        ]
+    }
+}

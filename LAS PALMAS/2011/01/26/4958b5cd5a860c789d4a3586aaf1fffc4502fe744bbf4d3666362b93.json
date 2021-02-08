@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/940424/0/",
+    "title": {
+        "raw_text": "Aparece el cuerpo sin vida de un hombre en La Oliva (Fuerteventura)",
+        "lemmatized_text": "aparecer el cuerpo sin vida de uno hombre en la_oliva fuerteventura",
+        "lemmatized_text_reduced": "aparecer cuerpo vida hombre la_oliva fuerteventura",
+        "persons": [],
+        "locations": [
+            "La_Oliva"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de rescate han recuperado este miércoles el cuerpo sin vida de un hombre de avanzada edad en la zona que comprende entre Majanicho y El Cotillo, en el municipal de La Oliva (Fuerteventura).",
+        "lemmatized_text": "el servicio de rescate haber recuperar este [X:??/??/??:??.??:??] el cuerpo sin vida de uno hombre de avanzar edad en el zona que comprender entre majanicho y el_cotillo en el municipal de la_oliva fuerteventura",
+        "lemmatized_text_reduced": "servicio rescate haber recuperar cuerpo vida hombre avanzar edad zona comprender majanicho el_cotillo municipal la_oliva fuerteventura",
+        "persons": [
+            "Majanicho"
+        ],
+        "locations": [
+            "El_Cotillo",
+            "La_Oliva"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los servicios de rescate han recuperado este miércoles el cuerpo sin vida de un hombre de avanzada edad en la zona que comprende entre Majanicho y El Cotillo, en el municipal de La Oliva (Fuerteventura). El 112, según informó el Centro Coordinador de Emergencias y Seguridad, recibió la alerta a las 11.27 horas, momento en el que activó los recursos necesarios para emprender el rescate. Hasta el lugar se desplazaron agentes de la Guardia Civil en un helicóptero, ya que el cuerpo se encontraba en una zona de difícil acceso. Tras recuperar el cuerpo sin vida se desconoce la identificación del hombre. Asimismo, en la zona se personaron agentes de la Policía Local, mientras que ha sido la Benemérita quien ha instruido las diligencias correspondientes.",
+        "lemmatized_text": "el servicio de rescate haber recuperar este [X:??/??/??:??.??:??] el cuerpo sin vida de uno hombre de avanzar edad en el zona que comprender entre majanicho y el_cotillo en el municipal de la_oliva fuerteventura el 112 según informar el centro_coordinador_de_emergencias y seguridad recibir el alerta a el TM_h:11.27 momento en el que activar el recurso necesario para emprender el rescate hasta el lugar se desplazar agente de el guardia_civil en uno helicóptero ya_que el cuerpo se encontrar en uno zona de difícil acceso tras recuperar el cuerpo sin vida se desconocer el identificación de el hombre asimismo en el zona se personar agente de el policía_local mientras_que haber ser el benemérita quien haber instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "servicio rescate haber recuperar cuerpo vida hombre avanzar edad zona comprender majanicho el_cotillo municipal la_oliva fuerteventura informar centro_coordinador_de_emergencias seguridad recibir alerta momento activar recurso necesario emprender rescate lugar desplazar agente guardia_civil helicóptero cuerpo encontrar zona difícil acceso recuperar cuerpo vida desconocer identificación hombre zona personar agente policía_local haber ser benemérita haber instruir diligencia correspondiente",
+        "persons": [
+            "Majanicho"
+        ],
+        "locations": [
+            "El_Cotillo",
+            "La_Oliva"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Benemérita"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:11.27"
+        ]
+    }
+}

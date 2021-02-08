@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/671543/0/",
+    "title": {
+        "raw_text": "El Sueño de Morfeo actuará el domingo en el Auditorio Insular de Fuerteventura",
+        "lemmatized_text": "el sueño_de_morfeo actuar el [G:??/??/??:??.??:??] en el auditorio_insular_de_fuerteventura",
+        "lemmatized_text_reduced": "sueño_de_morfeo actuar auditorio_insular_de_fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Sueño_de_Morfeo"
+        ],
+        "others": [
+            "Auditorio_Insular_de_Fuerteventura"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El grupo El Sueño de Morfeo actuará en Fuerteventura este domingo día 11 de abril, a partir de las 21.00 horas, dentro de las actividades de La Agenda de abril de la Consejería de Cultura y Patrimonio Histórico del Cabildo de Fuerteventura. El Auditorio Insular, ubicado en Puerto del Rosario, acogerá la actuación del conjunto, que presentará su último trabajo, 'Cosas que nos hacen sentir bien'.",
+        "lemmatized_text": "el grupo el_sueño_de_morfeo actuar en fuerteventura este [G:11/4/??:??.??:??] a_partir_de el TM_h:21 dentro_de el actividad de la_agenda de [??:??/4/??:??.??:??] de el consejería_de_cultura y patrimonio_histórico_del_cabildo_de_fuerteventura el auditorio_insular ubicar en puerto_del_rosario acoger el actuación de el conjunto que presentar su último trabajo cosa que nos hacer sentir bien",
+        "lemmatized_text_reduced": "grupo el_sueño_de_morfeo actuar fuerteventura actividad la_agenda consejería_de_cultura patrimonio_histórico_del_cabildo_de_fuerteventura auditorio_insular ubicar puerto_del_rosario acoger actuación conjunto presentar último trabajo cosa hacer sentir",
+        "persons": [],
+        "locations": [
+            "Fuerteventura",
+            "La_Agenda",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "El_Sueño_de_Morfeo",
+            "Consejería_de_Cultura",
+            "Patrimonio_Histórico_del_Cabildo_de_Fuerteventura",
+            "Auditorio_Insular"
+        ],
+        "others": [],
+        "dates": [
+            "[G:11/4/??:??.??:??]",
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "Por su parte, las entradas se encuentran disponibles a un precio de 20 euros en el Centro de Arte Juan Ismael, de martes a sábado en horario de 10.00 a 13.00 horas y de 17.00 a 21.00 horas, y a partir de dos horas antes del concierto en la taquilla del Auditorio. El grupo está formado por Raquel del Rosario (voz), Juan Luis Suárez (guitarra) y David Feito (guitarra), quienes desde Asturias llevan años funcionando juntos y elaborando canciones de sólidas estructuras pop-rock aderezadas con fuertes aromas folk, apoyados en la llamativa voz de Raquel. De esta manera, poseen una muy especial manera de componer y arreglar su propia música, ensamblando concienzudamente las piezas delicadas de voz y hermosos detalles musicales con el poderío de una robusta formación eléctrica y rockera, hasta conseguir un matizado y atractivo sonido que no deja indemnes tras su escucha; junto a unos valientes ejercicios de sinceridad a la hora de narrar sus sentimientos.",
+        "lemmatized_text": "por su parte el entrada se encontrar disponible a uno precio de $_ECU:20 en el centro_de_arte_juan_ismael de [M:??/??/??:??.??:??] a [S:??/??/??:??.??:??] en horario de 10 a TM_h:13 y de 17 a TM_h:21 y a_partir_de TM_h:2 antes de el concierto en el taquilla de el auditorio el grupo estar formar por raquel_del_rosario voz juan_luis_suárez guitarra y david_feito guitarra quien desde asturias llevar año funcionar junto y elaborar canción de sólido estructura pop-rock aderezar con fuerte aroma folk apoyar en el llamativo voz de raquel de este manera poseer uno muy especial manera de componer y arreglar su propio música ensamblar concienzudamente el pieza delicado de voz y hermoso detalle musical con el poderío de uno robusto formación eléctrico y rockero hasta conseguir uno matizar y atractivo sonido que no dejar indemne tras su escucha junto_a uno valiente ejercicio de sinceridad a el hora de narrar su sentimiento",
+        "lemmatized_text_reduced": "parte entrada encontrar disponible precio centro_de_arte_juan_ismael horario concierto taquilla auditorio grupo estar formar raquel_del_rosario voz juan_luis_suárez guitarra david_feito guitarra asturias llevar año funcionar junto elaborar canción sólido estructura pop-rock aderezar fuerte aroma folk apoyar llamativo voz raquel manera poseer especial manera componer arreglar propio música ensamblar concienzudamente pieza delicado voz hermoso detalle musical poderío robusto formación eléctrico rockero conseguir matizar atractivo sonido dejar indemne escucha valiente ejercicio sinceridad hora narrar sentimiento",
+        "persons": [
+            "Juan_Luis_Suárez",
+            "David_Feito",
+            "Raquel"
+        ],
+        "locations": [
+            "Auditorio",
+            "Asturias"
+        ],
+        "organizations": [
+            "Centro_de_Arte_Juan_Ismael",
+            "Raquel_del_Rosario"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:20",
+            "10",
+            "TM_h:13",
+            "17",
+            "TM_h:21",
+            "TM_h:2"
+        ]
+    }
+}

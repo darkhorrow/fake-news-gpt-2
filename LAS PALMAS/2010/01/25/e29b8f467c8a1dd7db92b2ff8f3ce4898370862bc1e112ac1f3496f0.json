@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614583/0/",
+    "title": {
+        "raw_text": "El Cabildo de Lanzarote abre el plazo para actualizar el censo del ganado en la isla",
+        "lemmatized_text": "el cabildo_de_lanzarote abrir el plazo para actualizar el censo de el ganado en el isla",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote abrir plazo actualizar censo ganado isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Ganadería y Pesca del Cabildo de Lanzarote ha abierto el plazo para la actualización del censo de ganado, periodo que se extenderá hasta el próximo 26 de febrero para inscribir sus cabezas en el censo insular.",
+        "lemmatized_text": "el consejería_de_ganadería y pesca_del_cabildo_de_lanzarote haber abrir el plazo para el actualización de el censo de ganado periodo que se extender hasta el [??:26/2/??:??.??:??] para inscribir su cabeza en el censo insular",
+        "lemmatized_text_reduced": "consejería_de_ganadería pesca_del_cabildo_de_lanzarote haber abrir plazo actualización censo ganado periodo extender inscribir cabeza censo insular",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejería_de_Ganadería",
+            "Pesca_del_Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [
+            "[??:26/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El pasado año, según informó el Gobierno insular en nota de prensa, actualizaron su datos un total de 368 ganaderos, que sumaron más de 46.000 cabezas de ganado en toda la isla. De esta cifra, 183 correspondían a vacuno, 8.710 ejemplares eran ganado ovino; 4.700 a cabezas de porcino; 180 a caballos; más de 20.800 a ganado caprino; 360 cabezas de camello; más de 8.000 de gallinas; y unas 110 de burro. Por otro lado, la Consejería de Agricultura recordó que ya está abierto el plazo para la solicitud de las subvenciones a la prima de ganado ovino y caprino de 2010. Las subvenciones a la 'Participación en el Programa Comunitario de apoyo a las Producciones Agrarias en Canarias' están convocadas por el Gobierno canario aunque los interesados pueden presentar sus solicitudes y obtener más información en la Granja Agrícola Experimental del Cabildo. Los interesados pueden dirigirse a la Granja Agrícola Experimental, de lunes a viernes, en horario de 8.00 a 14.00 horas. El Cabildo señaló que los ganaderos interesados en optar a estas subvenciones deberán presentar el libro de explotación ganadera. El plazo de presentación de las solicitudes finaliza el próximo 28 de febrero.",
+        "lemmatized_text": "el pasar año según informar el gobierno insular en nota de prensa actualizar su dato uno total de 368 ganadero que sumar más de 46 cabeza de ganado en todo el isla de este cifra 183 corresponder a vacuno 8.71 ejemplar ser ganar ovino 4.7 a cabeza de porcino 180 a caballo más de 20.8 a ganado caprino 360 cabeza de camello más de 8 de gallina y uno 110 de burro por_otro_lado el consejería_de_agricultura recordar que ya estar abrir el plazo para el solicitud de el subvención a el prima de ganado ovino y caprino de 2010 el subvención a el participación en el programa_comunitario de apoyo a el producciones_agrarias en canarias estar convocar por el gobierno canario aunque el interesar poder presentar su solicitud y obtener más información en el granja_agrícola_experimental_del_cabildo el interesar poder dirigir se a el granja_agrícola_experimental de [L:??/??/??:??.??:??] a [V:??/??/??:??.??:??] en horario de 8 a TM_h:14 el cabildo señalar que el ganadero interesar en optar a este subvención deber presentar el libro de explotación ganadero el plazo de presentación de el solicitud finalizar el [??:28/2/??:??.??:??]",
+        "lemmatized_text_reduced": "pasar año informar gobierno insular nota prensa actualizar dato total ganadero sumar cabeza ganado isla cifra corresponder vacuno ejemplar ser ganar ovino cabeza porcino caballo ganado caprino cabeza camello gallina burro consejería_de_agricultura recordar estar abrir plazo solicitud subvención prima ganado ovino caprino subvención participación programa_comunitario apoyo producciones_agrarias canarias estar convocar gobierno canario interesar poder presentar solicitud obtener información granja_agrícola_experimental_del_cabildo interesar poder dirigir granja_agrícola_experimental horario cabildo señalar ganadero interesar optar subvención deber presentar libro explotación ganadero plazo presentación solicitud finalizar",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Consejería_de_Agricultura",
+            "Producciones_Agrarias",
+            "Gobierno",
+            "Cabildo"
+        ],
+        "others": [
+            "Programa_Comunitario",
+            "Granja_Agrícola_Experimental_del_Cabildo",
+            "Granja_Agrícola_Experimental"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[??:28/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "368",
+            "46",
+            "183",
+            "8.71",
+            "4.7",
+            "180",
+            "20.8",
+            "360",
+            "8",
+            "110",
+            "2010",
+            "8",
+            "TM_h:14"
+        ]
+    }
+}

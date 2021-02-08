@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/418470/0/parto/autovia/grancanaria/",
+    "title": {
+        "raw_text": "Una mujer da a luz en la autovía del sur de Gran Canaria",
+        "lemmatized_text": "uno mujer dar a luz en el autovía de el sur de gran_canaria",
+        "lemmatized_text_reduced": "mujer dar luz autovía sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ha ocurrido esta mañana mientras la mujer se dirigía al norte de la isla. Tanto la madre como su hija se encuentran en buen estado de salud. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "haber ocurrir este mañana mientras el mujer se dirigir a el norte de el isla tanto el madre como su hijo se encontrar en bueno estado de salud consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber ocurrir mañana mujer dirigir norte isla madre hijo encontrar bueno estado salud consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una mujer ha dado a luz hoy a una niña sobre las 08.00 horas en la autovía del sur de Gran Canaria (GC-1), dirección Las Palmas de Gran Canaria, a la altura del municipio de Santa Lucía de Tirajana , según informó a Europa Press en Centro Coordinador de Emergencias (Cecoes) 112. El 112 recibió una alerta sobre las 07.45 horas indicando que una mujer se había puesto de parto en la carretera mientras se dirigía hacia el norte de la isla. En este momento, el Servicio de Urgencias Canario activó su dispositivo de emergencias y trasladó al lugar un total de 3 ambulancias ; una de soporte vital básico, otra medicalizada y una última sanitarizada. Así, la niña nació en la ambulancia sanitarizada . Tanto madre como hija se encuentran en perfecto estado de salud , aunque ambas fueron trasladas al Hospital Materno Infantil de la capital grancanaria para un reconocimiento.",
+        "lemmatized_text": "uno mujer haber dar a luz hoy a uno niño sobre el TM_h:8 en el autovía de el sur de gran_canaria GC-1 dirección las_palmas_de_gran_canaria a el altura de el municipio de santa_lucía_de_tirajana según informar a europa_press en centro_coordinador_de_emergencias cecoes 112 el 112 recibir uno alerta sobre el TM_h:7.45 indicar que uno mujer se haber poner de parto en el carretera mientras se dirigir hacia el norte de el isla en este momento el servicio_de_urgencias_canario activar su dispositivo de emergencia y trasladar a el lugar uno total de 3 ambulancia uno de soporte vital básico otro medicalizada y uno último sanitarizada así el niño nacer en el ambulancia sanitarizada tanto madre como hijo se encontrar en perfecto estado de salud aunque ambos ser trasladar a el hospital_materno_infantil de el capital grancanaria para uno reconocimiento",
+        "lemmatized_text_reduced": "mujer haber dar luz niño autovía sur gran_canaria dirección las_palmas_de_gran_canaria altura municipio santa_lucía_de_tirajana informar europa_press centro_coordinador_de_emergencias cecoes recibir alerta indicar mujer haber poner parto carretera dirigir norte isla momento servicio_de_urgencias_canario activar dispositivo emergencia trasladar lugar total ambulancia soporte vital básico medicalizada último sanitarizada niño nacer ambulancia sanitarizada madre hijo encontrar perfecto estado salud ser trasladar hospital_materno_infantil capital grancanaria reconocimiento",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Santa_Lucía_de_Tirajana",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "organizations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Materno_Infantil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:8",
+            "GC-1",
+            "112",
+            "112",
+            "TM_h:7.45",
+            "3"
+        ]
+    }
+}

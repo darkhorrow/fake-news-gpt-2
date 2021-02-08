@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/716730/0/",
+    "title": {
+        "raw_text": "Un varón de 41 años resulta herido tras sufrir una agresión por arma blanca en un bar al sur de Gran Canaria",
+        "lemmatized_text": "uno varón de 41 año resultar herir tras sufrir uno agresión por arma blanco en uno bar a el sur de gran_canaria",
+        "lemmatized_text_reduced": "varón año resultar herir sufrir agresión arma blanco bar sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "41"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 41 años de edad, de nacionalidad extranjera, ha resultado afectado con herida abdominal de carácter menos grave tras sufrir una agresión por arma blanca en un bar situado en un centro comercial de la Avenida de Gran Canaria, en Playa del Inglés, en el municipio de San Bartolomé de Tirajana, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 41 año de edad de nacionalidad extranjero haber resultar afectar con herida abdominal de carácter menos grave tras sufrir uno agresión por arma blanco en uno bar situar en uno centro comercial de el avenida_de_gran_canaria en playa_del_inglés en el municipio de san_bartolomé_de_tirajana según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad nacionalidad extranjero haber resultar afectar herida abdominal carácter grave sufrir agresión arma blanco bar situar centro comercial avenida_de_gran_canaria playa_del_inglés municipio san_bartolomé_de_tirajana informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Avenida_de_Gran_Canaria",
+            "Playa_del_Inglés",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "41",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente ocurrió sobre las dos de la madrugada, cuando se recibió una llamada en el Cecoes que informaba de que un varón había sufrido una agresión por arma blanca en el citado pub y que precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Hasta el lugar se desplazó personal médico del Servicio de Urgencias Canario que, tras estabilizar al afectado, lo evacuó en ambulancia de soporte vital avanzado al Hospital Universitario Insular de Gran Canaria. En dicha actuación también intervino la Policía Nacional, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el incidente ocurrir sobre el [??:??/??/??:2.00:am] cuando se recibir uno llamada en el cecoes que informar de que uno varón haber sufrir uno agresión por arma blanco en el citar pub y que precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencias_canario que tras estabilizar a el afectar lo evacuar en ambulancia de soporte vital avanzar a el hospital_universitario_insular_de_gran_canaria en decir actuación también intervenir el policía_nacional que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "incidente ocurrir recibir llamada cecoes informar varón haber sufrir agresión arma blanco citar pub precisar asistencia sanitario modo activar inmediato recurso emergencia necesario lugar desplazar personal médico servicio_de_urgencias_canario estabilizar afectar evacuar ambulancia soporte vital avanzar hospital_universitario_insular_de_gran_canaria decir actuación intervenir policía_nacional encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:2.00:am]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    }
+}

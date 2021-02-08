@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/656689/0/",
+    "title": {
+        "raw_text": "El archipiélago canario continúa hoy en alerta amarilla por calima",
+        "lemmatized_text": "el archipiélago canario continuar hoy en alerta amarillo por calima",
+        "lemmatized_text_reduced": "archipiélago canario continuar alerta amarillo calima",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El archipiélago canario, a excepción de la isla de La Palma, continuará durante el día de hoy en alerta amarilla por calima y con este son ya tres los días que el polvo en suspensión cubre la atmósfera de las islas.",
+        "lemmatized_text": "el archipiélago canario a_excepción_de el isla de la_palma continuar durante el día de hoy en alerta amarillo por calima y con este ser ya 3 el día que el polvo en suspensión cubrir el atmósfera de el isla",
+        "lemmatized_text_reduced": "archipiélago canario isla la_palma continuar día alerta amarillo calima ser día polvo suspensión cubrir atmósfera isla",
+        "persons": [],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, la alerta se prevé que finalice a las 12.00 horas de hoy en las seis islas del archipiélago canario afectadas por la calima, según la Agencia Estatal de Meteorología (AEMET). En la provincia oriental, la densa calima, que cubre las islas puede llegar a reducir la visibilidad en Gran Canaria, Lanzarote y Fuerteventura hasta los 3 kilómetros de distancia. Al igual que ocurre en la provincia occidental, donde se están viendo afectadas la isla de Tenerife, La Gomera y El Hierro. Asimismo, La Palma se salvará de este fenómeno meteorológico adverso, según la Aemet, que precisa que en Canarias los cielos estarán poco nubosos y registrarán un ligero o moderado descenso de las temperaturas.RECOMENDACIONES En cuanto a las recomendaciones que se han previsto desde la Consejería de Sanidad del Gobierno de Canarias ante la situación de calima, apuntan a que tanto niños como ancianos y personas con enfermedades respiratorias o cardiovasculares crónicas, eviten \"en la medida de lo posible\" la exposición al aire exterior manteniendo las ventanas cerradas debido al \"alto\" grado de polvo en suspensión. La exposición a la calima puede producir molestias torácicas, tos, palpitaciones, fatiga o incremento a la susceptibilidad a infecciones respiratorias, \"al menos\", durante los cinco días posteriores al inicio del episodio. Por ello, también se ha recomendado a la población en general que evite realizar esfuerzos físicos prolongados al aire libre y tomar abundante agua. Asimismo, se invita a los afectados que lo necesiten que, en una primera instancia, acudan a su centro de salud o a los centros periféricos de urgencia.",
+        "lemmatized_text": "así el alerta se prever que finalizar a el TM_h:12 de hoy en el 6 isla de el archipiélago canario afectar por el calima según el agencia_estatal_de_meteorología aemet en el provincia oriental el denso calima que cubrir el isla poder llegar a reducir el visibilidad en gran_canaria lanzarote y fuerteventura hasta el LN_km:3 de distancia al_igual_que ocurrir en el provincia occidental donde se estar ver afectar el isla de tenerife la_gomera y el_hierro asimismo la_palma se salvar de este fenómeno meteorológico adverso según el aemet que precisar que en canarias el cielo estar poco nuboso y registrar uno ligero o moderar descenso de el temperatura recomendaciones_en_cuanto_a el recomendación que se haber prever desde el consejería_de_sanidad_del_gobierno_de_canarias ante el situación de calima apuntar a que tanto niño como anciano y persona con enfermedad respiratorio o cardiovascular crónica evitar en el medida de el posible el exposición a el aire exterior mantener el ventana cerrar deber a el alto grado de polvo en suspensión el exposición a el calima poder producir molestia torácico tos palpitación fatiga o incremento a el susceptibilidad a infección respiratorio a el menos durante el TM_d:5 posterior a el inicio de el episodio por ello también se haber recomendar a el población en general que evitar realizar esfuerzo físico prolongar a el aire libre y tomar abundante agua asimismo se invitar a el afectado que lo necesitar que en uno 1 instancia acudir a su centro de salud o a el centro periférico de urgencia",
+        "lemmatized_text_reduced": "alerta prever finalizar isla archipiélago canario afectar calima agencia_estatal_de_meteorología aemet provincia oriental denso calima cubrir isla poder llegar reducir visibilidad gran_canaria lanzarote fuerteventura distancia ocurrir provincia occidental estar ver afectar isla tenerife la_gomera el_hierro la_palma salvar fenómeno meteorológico adverso aemet precisar canarias cielo estar nuboso registrar ligero moderar descenso temperatura recomendaciones_en_cuanto_a recomendación haber prever consejería_de_sanidad_del_gobierno_de_canarias situación calima apuntar niño anciano persona enfermedad respiratorio cardiovascular crónica evitar medida posible exposición aire exterior mantener ventana cerrar deber alto grado polvo suspensión exposición calima poder producir molestia torácico tos palpitación fatiga incremento susceptibilidad infección respiratorio posterior inicio episodio haber recomendar población general evitar realizar esfuerzo físico prolongar aire libre tomar abundante agua invitar afectado necesitar 1 instancia acudir centro salud centro periférico urgencia",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote",
+            "Tenerife",
+            "La_Gomera",
+            "El_Hierro",
+            "La_Palma",
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "Fuerteventura",
+            "Aemet",
+            "Consejería_de_Sanidad_del_Gobierno_de_Canarias"
+        ],
+        "others": [
+            "RECOMENDACIONES_En_cuanto_a"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:12",
+            "6",
+            "LN_km:3",
+            "TM_d:5"
+        ]
+    }
+}

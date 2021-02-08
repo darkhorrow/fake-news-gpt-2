@@ -1,0 +1,91 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678639/0/",
+    "title": {
+        "raw_text": "Mercadona aumenta un 12% la compra de productos en Canarias durante 2009, hasta los 385 millones",
+        "lemmatized_text": "mercadona aumentar uno 12/100 el compra de producto en canarias durante 2009 hasta el 385000000",
+        "lemmatized_text_reduced": "mercadona aumentar compra producto canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Mercadona"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "12/100",
+            "2009",
+            "385000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "La cadena de supermercados de Juan Roig destaca su conciliación laboral y que su media de madres es más alta que en España",
+        "lemmatized_text": "el cadena de supermercado de juan_roig destacar su conciliación laboral y que su media de madre ser más alto que en españa",
+        "lemmatized_text_reduced": "cadena supermercado juan_roig destacar conciliación laboral media madre ser alto españa",
+        "persons": [
+            "Juan_Roig"
+        ],
+        "locations": [
+            "España"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La cadena de supermercados de proximidad Mercadona ha invertido un total de 385 millones de euros en compras de productos en Canarias durante 2009, lo que supone un aumento del 12 por ciento respecto al ejercicio anterior. Este es el reflejo numérico de \"la apuesta sostenida de la compañía por el sector agroalimentario e industrial canario\", explicó hoy la compañía que preside Juan Roig en un comunicado. Mercadona ha cerrado 2009 con 64 tiendas en la las islas, con dos centros más que en 2008, y una plantilla conformada por un total de 3.300 personas, \"todos ellos con contrato fijo, lo que demuestra el compromiso de Mercadona por mantener y crear empleo estable y de calidad en Canarias\". Además, y en línea con el esfuerzo de la compañía valenciana por conciliar vida laboral y persona, en Canarias 150 madres se acogieron a la iniciativa de ampliar en un mes su permiso maternal y hasta 3.927 trabajadoras en el conjunto de España. Mercadona considera que éste es el reflejo de \"un modelo laboral basado en la estabilidad y en iniciativas que apuestan por la conciliación familia-trabajo, como refleja el hecho de que en Mercadona el porcentaje de mujeres que deciden ser madres es de un 9,4 por ciento, cinco puntos por encima de la media de nacimientos en España\". 15 Millones de inversión con interproveedores La empresa de Juan Roig realizó en 2009 un \"incremento constante y sostenido de las compras a proveedores\" canarios e invirtió más de 15 millones de euros a través de \"los fabricantes interproveedores de las marcas Hacendado, Bosque Verde, Deliplus y Compy, entre otras\". Mercadona explicó también que \"va a continuar durante 2010 aplicando las estrategias de volver a la sencillez, disponer de un surtido eficiente y repercutir las bajadas de las materias primas en los precios para continuar 'innovando en precio' y persiguiendo el céntimo para bajar precios\".",
+        "lemmatized_text": "el cadena de supermercado de proximidad mercadona haber invertir uno total de $_ECU:385000000 en compra de producto en canarias durante 2009 el que suponer uno aumento de el 12 por 100 respecto a el ejercicio anterior este ser el reflejo numérico de el apuesta sostener de el compañía por el sector agroalimentario y industrial canario explicar hoy el compañía que presidir juan_roig en uno comunicado mercadona haber cerrar 2009 con 64 tienda en el el isla con 2 centro más que en 2008 y uno plantilla conformar por uno total de 3.3 persona todo ellos con contrato fijo el que demostrar el compromiso de mercadona por mantener y crear empleo estable y de calidad en canarias además y en_línea con el esfuerzo de el compañía valenciano por conciliar vida laboral y persona en canarias 150 madre se acoger a el iniciativa de ampliar en uno mes su permiso maternal y hasta 3.927 trabajador en el conjunto de españa mercadona considerar que este ser el reflejo de uno modelo laboral basar en el estabilidad y en iniciativa que apostar por el conciliación familia-trabajo como reflejar el hecho de que en mercadona el porcentaje de mujer que decidir ser madre ser de uno 9,4 por 100 5 punto por encima_de el media de nacimiento en españa 15000000 de inversión con interproveedor la empresa de juan_roig realizar en 2009 uno incremento constante y sostener de el compra a proveedor canario y invertir más de $_ECU:15000000 a_través_de el fabricante interproveedor de el marca hacendado bosque_verde deliplus y compy entre otro mercadona explicar también que ir a continuar durante 2010 aplicar el estrategia de volver a el sencillez disponer de uno surtido eficiente y repercutir el bajada de el materia primo en el precio para continuar innovar en precio y perseguir el céntimo para bajar precio",
+        "lemmatized_text_reduced": "cadena supermercado proximidad mercadona haber invertir total compra producto canarias suponer aumento respecto ejercicio anterior ser reflejo numérico apuesta sostener compañía sector agroalimentario industrial canario explicar compañía presidir juan_roig comunicado mercadona haber cerrar tienda isla centro plantilla conformar total persona contrato fijo demostrar compromiso mercadona mantener crear empleo estable calidad canarias esfuerzo compañía valenciano conciliar vida laboral persona canarias madre acoger iniciativa ampliar mes permiso maternal trabajador conjunto españa mercadona considerar ser reflejo modelo laboral basar estabilidad iniciativa apostar conciliación familia-trabajo reflejar hecho mercadona porcentaje mujer decidir ser madre ser punto media nacimiento españa inversión interproveedor la empresa juan_roig realizar incremento constante sostener compra proveedor canario invertir fabricante interproveedor marca hacendado bosque_verde deliplus compy mercadona explicar ir continuar aplicar estrategia volver sencillez disponer surtido eficiente repercutir bajada materia primo precio continuar innovar precio perseguir céntimo bajar precio",
+        "persons": [
+            "Juan_Roig",
+            "Juan_Roig",
+            "Mercadona"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Canarias",
+            "España",
+            "Mercadona",
+            "España"
+        ],
+        "organizations": [
+            "Mercadona",
+            "Mercadona",
+            "Mercadona",
+            "Mercadona",
+            "La",
+            "Bosque_Verde",
+            "Deliplus",
+            "Compy"
+        ],
+        "others": [
+            "Hacendado"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:385000000",
+            "2009",
+            "12",
+            "100",
+            "2009",
+            "64",
+            "2",
+            "2008",
+            "3.3",
+            "150",
+            "3.927",
+            "9,4",
+            "100",
+            "5",
+            "15000000",
+            "2009",
+            "$_ECU:15000000",
+            "2010"
+        ]
+    }
+}

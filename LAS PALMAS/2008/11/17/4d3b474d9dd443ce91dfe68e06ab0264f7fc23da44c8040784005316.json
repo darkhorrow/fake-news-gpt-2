@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-11-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/429220/0/rivero/recibe/alta/",
+    "title": {
+        "raw_text": "El presidente de Canarias recibe el alta hospitalaria",
+        "lemmatized_text": "el presidente de canarias recibir el alto hospitalario",
+        "lemmatized_text_reduced": "presidente canarias recibir alto hospitalario",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Después de 12 días ingresado por hemorragias nasales. Fue sometido a dos exploraciones nasales y al taponamiento de una arteria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "después_de TM_d:12 ingresar por hemorragia nasal ser someter a 2 exploración nasal y a el taponamiento de uno arteria consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ingresar hemorragia nasal ser someter exploración nasal taponamiento arteria consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:12",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha recibido hoy el alta médica después de 12 días ingresado en el Hospital Universitario de Gran Canaria Doctor Negrín, por sufrir varios episodios de epixtasis (hemorragias nasales) , informó hoy la Consejería de Sanidad del Ejecutivo Autonómico. Rivero ha presentado una evolución satisfactoria dentro de los parámetros habituales en este tipo de procedimientos, según puso de manifiesto el último parte médico del Hospital. Durante el tiempo en el que estuvo ingresado fue sometido a dos exploraciones nasales y a un taponamiento de la arteria que provocaba el sangrado, motivado todo ello por un cuadro de hipertensión . El presidente autonómico ingresó el pasado martes, 4 de noviembre, en dicho Hospital con un cuadro de hemorragias nasales y durante el ingreso se detectó hipertensión arterial, llevándose a cabo el procedimiento habitual en estos casos. Evolución favorable El presidente tuvo una \"buena respuesta inicial\" al protocolo habitual que los médicos pusieron en marcha, por lo que 48 horas después se le dio el alta médica . Sin embargo, reingresó horas después de recibir el alta por una recaída. Posteriormente, el personal médico procedió a un taponamiento y a una exploración quirúrgica nasal en la mañana del pasado viernes, 7 de noviembre, momento en el que se descubre un vaso arterial sangrante que se cauteriza ; 48 horas después se observó otra recaída del presidente, por lo que los médicos decidieron someter a Rivero a una exploración quirúrgica nasal donde se \"objetiva un nuevo punto sangrante\" en la misma vena que ya le había sangrado, por lo que volvió a cauterizarse --quemar el vaso sanguíneo--. Seguidamente, los médicos descubrieron que persiste una \"leve hemorragia\", por lo que se decidió un taponamiento de la arteria que sangraba mediante radiología vascular intervencionista . De ese momento, los sucesivos partes médicos han indicado una evolución favorable de la epixtasis hasta ser dado de alta durante la mañana de hoy.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber recibir hoy el alto médico después_de TM_d:12 ingresar en el hospital_universitario_de_gran_canaria_doctor_negrín por sufrir varios episodio de epixtasis hemorragia nasal informar hoy el consejería_de_sanidad_del_ejecutivo_autonómico rivero haber presentar uno evolución satisfactorio dentro_de el parámetro habitual en este tipo de procedimiento según poner_de_manifiesto el último parte médico de el hospital durante el tiempo en el que estar ingresar ser someter a 2 exploración nasal y a uno taponamiento de el arteria que provocar el sangrado motivar todo ello por uno cuadro de hipertensión el presidente autonómico ingresar el [M:4/11/??:??.??:??] en decir hospital con uno cuadro de hemorragia nasal y durante el ingreso se detectar hipertensión arterial llevar_a_cabo el procedimiento habitual en este caso evolución favorable el presidente tener uno bueno respuesta inicial a el protocolo habitual que el médico poner en marcha por el que TM_h:48 después se le dar el alto médico sin embargo reingresar hora después_de recibir el alto por uno recaída posteriormente el personal médico proceder a uno taponamiento y a uno exploración quirúrgico nasal en el mañana de el [V:7/11/??:??.??:??] momento en el que se descubrir uno vaso arterial sangrante que se cauterizar TM_h:48 después se observar otro recaída de el presidente por el que el médico decidir someter a rivero a uno exploración quirúrgico nasal donde se objetivar uno nuevo punto sangrante en el mismo vena que ya le haber sangrar por el que volver a cauterizar se quemar el vaso sanguíneo seguidamente el médico descubrir que persistir uno leve hemorragia por el que se decidir uno taponamiento de el arteria que sangrar mediante radiología vascular intervencionista de ese momento el sucesivo parte médico haber indicar uno evolución favorable de el epixtasis hasta ser dar_de_alta durante el mañana de hoy",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber recibir alto médico ingresar hospital_universitario_de_gran_canaria_doctor_negrín sufrir episodio epixtasis hemorragia nasal informar consejería_de_sanidad_del_ejecutivo_autonómico rivero haber presentar evolución satisfactorio parámetro habitual tipo procedimiento poner_de_manifiesto último parte médico hospital tiempo estar ingresar ser someter exploración nasal taponamiento arteria provocar sangrado motivar cuadro hipertensión presidente autonómico ingresar decir hospital cuadro hemorragia nasal ingreso detectar hipertensión arterial llevar_a_cabo procedimiento habitual caso evolución favorable el presidente tener bueno respuesta inicial protocolo habitual médico poner marcha dar alto médico embargo reingresar hora recibir alto recaída posteriormente personal médico proceder taponamiento exploración quirúrgico nasal mañana momento descubrir vaso arterial sangrante cauterizar observar recaída presidente médico decidir someter rivero exploración quirúrgico nasal objetivar nuevo punto sangrante mismo vena haber sangrar volver cauterizar quemar vaso sanguíneo seguidamente médico descubrir persistir leve hemorragia decidir taponamiento arteria sangrar radiología vascular intervencionista momento sucesivo parte médico haber indicar evolución favorable epixtasis ser mañana",
+        "persons": [
+            "Paulino_Rivero",
+            "Rivero",
+            "El",
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Consejería_de_Sanidad_del_Ejecutivo_Autonómico",
+            "Hospital",
+            "Hospital"
+        ],
+        "others": [],
+        "dates": [
+            "[M:4/11/??:??.??:??]",
+            "[V:7/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_d:12",
+            "2",
+            "TM_h:48",
+            "TM_h:48"
+        ]
+    }
+}

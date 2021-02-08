@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/309071/0/gerlach/hotel/mierda/",
+    "title": {
+        "raw_text": "Teo Gerlach, empresario turístico: \"Tengo un hotel de lujo en un oasis lleno de mierda\"",
+        "lemmatized_text": "teo_gerlach empresario turístico tener uno hotel de lujo en uno oasis lleno de mierda",
+        "lemmatized_text_reduced": "teo_gerlach empresario turístico tener hotel lujo oasis lleno mierda",
+        "persons": [
+            "Teo_Gerlach"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Es uno de propietarios afectados por el abandono de Maspalomas. Su hotel es considerado uno de los mejores del mundo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "ser uno de propietario afectar por el abandono de maspalomas su hotel ser considerar uno de el mejor de el mundo consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ser propietario afectar abandono maspalomas hotel ser considerar mejor mundo consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Maspalomas"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Uno de los empresarios turísticos más afectados por el abandono al que lleva años condenado el palmeral de Maspalomas es Teo Gerlach, presidente del grupo Seaside Hotels, cuyo buque insignia es el Gran Hotel Residencia que linda con ese espacio protegido. \"Tengo un hotel de lujo en un oasis lleno de mierda \", ha denunciado el empresario en más de una ocasión. Ese comentario ha sido publicado recientemente en una revista alemana especializada en turismo , unos meses antes de que el Cabildo de Gran Canaria y el Ayuntamiento de San Bartolomé de Tirajana se alinearan para combatir la suciedad del palmeral. El hotel de Gerlach está considerado como uno de los mejores del mundo, reconocimiento que recibió en 2005 y que le ha valido la categoría cinco estrellas de lujo. Al premio se presentaron unos 8.000 establecimientos hoteleros y fue concedido por Tui Holly . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno de el empresario turístico más afectar por el abandono a el que llevar año condenar el palmeral de maspalomas ser teo_gerlach presidente de el grupo seaside_hotels cuyo buque insignia ser el gran_hotel_residencia que lindar con ese espacio proteger tener uno hotel de lujo en uno oasis lleno de mierda haber denunciar el empresario en más de uno ocasión ese comentario haber ser publicar recientemente en uno revista alemán especializar en turismo uno mes antes_de que el cabildo_de_gran_canaria y el ayuntamiento_de_san_bartolomé_de_tirajana se alinear para combatir el suciedad de el palmeral el hotel de gerlach estar considerar como uno de el mejor de el mundo reconocimiento que recibir en 2005 y que le haber valer el categoría 5 estrella de lujo a el premio se presentar uno 8 establecimiento hotelero y ser conceder por tui_holly consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "empresario turístico afectar abandono llevar año condenar palmeral maspalomas ser teo_gerlach presidente grupo seaside_hotels buque insignia ser gran_hotel_residencia lindar espacio proteger tener hotel lujo oasis lleno mierda haber denunciar empresario ocasión comentario haber ser publicar recientemente revista alemán especializar turismo mes cabildo_de_gran_canaria ayuntamiento_de_san_bartolomé_de_tirajana alinear combatir suciedad palmeral hotel gerlach estar considerar mejor mundo reconocimiento recibir haber valer categoría estrella lujo premio presentar establecimiento hotelero ser conceder tui_holly consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Maspalomas",
+            "Teo_Gerlach",
+            "Gerlach",
+            "Tui_Holly"
+        ],
+        "locations": [],
+        "organizations": [
+            "Seaside_Hotels",
+            "Gran_Hotel_Residencia",
+            "Cabildo_de_Gran_Canaria",
+            "Ayuntamiento_de_San_Bartolomé_de_Tirajana",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2005",
+            "5",
+            "8"
+        ]
+    }
+}

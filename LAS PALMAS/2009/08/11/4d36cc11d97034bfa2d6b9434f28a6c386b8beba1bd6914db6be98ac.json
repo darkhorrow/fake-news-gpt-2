@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-08-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/496241/0/vivienda/barata/canarias/",
+    "title": {
+        "raw_text": "La vivienda más barata de Canarias cuesta 42.000 euros y está en Guía (Gran Canaria)",
+        "lemmatized_text": "el vivienda más barato de canarias costar $_ECU:42 y estar en guía gran_canaria",
+        "lemmatized_text_reduced": "vivienda barato canarias costar estar guía gran_canaria",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Guía",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:42"
+        ]
+    },
+    "lead": {
+        "raw_text": "Se desprende de un estudio del portal inmobiliario pisos.com. El segundo inmueble más barato es un apartamento en Arona.",
+        "lemmatized_text": "se desprender de uno estudio de el portal inmobiliario piso com el 2 inmueble más barato ser uno apartamento en arona",
+        "lemmatized_text_reduced": "desprender estudio portal inmobiliario piso com 2 inmueble barato ser apartamento arona",
+        "persons": [],
+        "locations": [
+            "Arona"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El piso más barato de la Comunidad Autónoma de Canarias cuesta 42.000 euros y está situado en el municipio grancanario de Santa María de Guía , en la provincia de Las Palmas, según un estudio realizado por el portal inmobiliario pisos.com realizado en 2.400 viviendas de las islas. El segundo inmueble más barato es un apartamento en Costa del Silencio , en Arona (Tenerife), con un valor de 44.100 euros. El tercero con menor precio es un estudio en Puerto de Santiago, en Tenerife, con un valor de 45.000 euros. Asimismo, San Cristóbal de La Laguna dispone del cuarto inmueble más barato de la región canaria. El quinto se sitúa en Santa Cruz de La Palma y cuesta 51.000 euros. El listado elaborado por pisos.com también contempla los inmuebles más exclusivos, al alcance de pocos bolsillos. La vivienda más cara se ubica en Las Palmas de Gran Canaria, una casa situada en el Paseo de Chil por un valor de 2 millones de euros. El segundo inmueble más caro de Canarias es un chalet independiente en Acoran, en la provincia de Santa Cruz de Tenerife, con un valor de 1.500.000 euros. Con el mismo valor, 1.500.000 de euros, se encuentra un chalet situado en Telde, en Gran Canaria. Con un precio muy similar, 1.442.429 euros, el portal inmobiliario recomienda un chalet independiente en Ciudad Jardín, en Las Palmas de Gran Canaria, mientras que el quinto inmueble más caro es una casa unifamiliar en Santa Brígida, en Gran Canaria.",
+        "lemmatized_text": "el piso más barato de el comunidad_autónoma_de_canarias costar $_ECU:42 y estar situar en el municipio grancanario de santa_maría_de_guía en el provincia de las_palmas según uno estudio realizar por el portal inmobiliario pisos.com realizar en 2.4 vivienda de el isla el 2 inmueble más barato ser uno apartamento en costa_del_silencio en arona tenerife con uno valor de $_ECU:44.1 el 3 con menor precio ser uno estudio en puerto_de_santiago en tenerife con uno valor de $_ECU:45 asimismo san_cristóbal_de_la_laguna disponer de el 4 inmueble más barato de el región canario el 5 se situar en santa_cruz_de_la_palma y costar $_ECU:51 el listado elaborar por pisos.com también contemplar el inmueble más exclusivo a el alcance de poco bolsillo el vivienda más caro se ubicar en las_palmas_de_gran_canaria uno casa situar en el paseo_de_chil por uno valor de $_ECU:2000000 el 2 inmueble más caro de canarias ser uno chalet independiente en acoran en el provincia de santa_cruz_de_tenerife con uno valor de $_ECU:1.500.000 con el mismo valor $_ECU:1.500.000 se encontrar uno chalet situar en telde en gran_canaria con uno precio muy similar $_ECU:1.442.429 el portal inmobiliario recomendar uno chalet independiente en ciudad_jardín en las_palmas_de_gran_canaria mientras_que el 5 inmueble más caro ser uno casa unifamiliar en santa_brígida en gran_canaria",
+        "lemmatized_text_reduced": "piso barato comunidad_autónoma_de_canarias costar estar situar municipio grancanario santa_maría_de_guía provincia las_palmas estudio realizar portal inmobiliario pisos.com realizar vivienda isla 2 inmueble barato ser apartamento costa_del_silencio arona tenerife valor 3 menor precio ser estudio puerto_de_santiago tenerife valor san_cristóbal_de_la_laguna disponer 4 inmueble barato región canario 5 situar santa_cruz_de_la_palma costar listado elaborar pisos.com contemplar inmueble exclusivo alcance bolsillo vivienda caro ubicar las_palmas_de_gran_canaria casa situar paseo_de_chil valor 2 inmueble caro canarias ser chalet independiente acoran provincia santa_cruz_de_tenerife valor mismo valor encontrar chalet situar telde gran_canaria precio similar portal inmobiliario recomendar chalet independiente ciudad_jardín las_palmas_de_gran_canaria 5 inmueble caro ser casa unifamiliar santa_brígida gran_canaria",
+        "persons": [
+            "San_Cristóbal_de_La_Laguna"
+        ],
+        "locations": [
+            "Santa_María_de_Guía",
+            "Las_Palmas",
+            "Costa_del_Silencio",
+            "Arona",
+            "Tenerife",
+            "Puerto_de_Santiago",
+            "Tenerife",
+            "Santa_Cruz_de_La_Palma",
+            "Las_Palmas_de_Gran_Canaria",
+            "Paseo_de_Chil",
+            "Canarias",
+            "Acoran",
+            "Santa_Cruz_de_Tenerife",
+            "Telde",
+            "Gran_Canaria",
+            "Ciudad_Jardín",
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Brígida",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:42",
+            "2.4",
+            "$_ECU:44.1",
+            "$_ECU:45",
+            "$_ECU:51",
+            "$_ECU:2000000",
+            "$_ECU:1.500.000",
+            "$_ECU:1.500.000",
+            "$_ECU:1.442.429"
+        ]
+    }
+}

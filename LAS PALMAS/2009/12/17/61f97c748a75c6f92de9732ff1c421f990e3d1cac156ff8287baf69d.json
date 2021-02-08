@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590882/0/",
+    "title": {
+        "raw_text": "El avión de Haidar despega del aeropuerto de Lanzarote rumbo a El Aaiún",
+        "lemmatized_text": "el avión de haidar despegar de el aeropuerto de lanzarote rumbo a el_aaiún",
+        "lemmatized_text_reduced": "avión haidar despegar aeropuerto lanzarote rumbo el_aaiún",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "Lanzarote",
+            "El_Aaiún"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El avión de la activista saharaui Aminetu Haidar ha despegado finalmente del Aeropuerto de Lanzarote rumbo a El Aaiún a las 22.23 horas, tras 32 días de huelga de hambre en la isla lanzaroteña y después de que hace 15 días se produjera un intento fallido de subirla en una aeronave con destino a su hogar en el Sáhara Occidental.",
+        "lemmatized_text": "el avión de el activista saharaui aminetu_haidar haber despegar finalmente de el aeropuerto_de_lanzarote rumbo a el_aaiún a el TM_h:22.23 tras TM_d:32 de huelga de hambre en el isla lanzaroteña y después_de que hacer TM_d:15 se producir uno intento fallir de subir lo en uno aeronave con destino a su hogar en el sáhara_occidental",
+        "lemmatized_text_reduced": "avión activista saharaui aminetu_haidar haber despegar finalmente aeropuerto_de_lanzarote rumbo el_aaiún huelga hambre isla lanzaroteña hacer producir intento fallir subir aeronave destino hogar sáhara_occidental",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Aeropuerto_de_Lanzarote",
+            "El_Aaiún",
+            "Sáhara_Occidental"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:22.23",
+            "TM_d:32",
+            "TM_d:15"
+        ]
+    },
+    "body": {
+        "raw_text": "Haidar vuelve a su casa pero sin pasaporte español o marroquí, sino únicamente con un salvoconducto del Gobierno español y el visto bueno de Marruecos para su entrada al país, según confirmaron a Europa Press fuentes de la Plataforma de Apoyo a Aminetu. La activista saharaui está regresando a la capital del Sáhara Occidental acompañada por su hermana, Leila Haidar, que llegó anoche y el doctor y director del Hospital de Lanzarote, Domingo de Guzmán, que ha seguido su caso desde el principio. La duración del vuelo es aproximadamente de entre 40 y 45 minutos, con lo que se espera la llegada de Haidar a El Aaiún pasadas las 23.00 horas de la noche (hora canaria).",
+        "lemmatized_text": "haidar volver a su casa pero sin pasaporte español o marroquí sino únicamente con uno salvoconducto de el gobierno español y el ver bueno de marruecos para su entrada a el país según confirmar a europa_press fuente de el plataforma_de_apoyo a aminetu el activista saharaui estar regresar a el capital de el sáhara_occidental acompañar por su hermano leila_haidar que llegar anoche y el doctor y director de el hospital_de_lanzarote [G:??/??/??:??.??:??] de guzmán que haber seguir su caso desde el principio el duración de el vuelo ser aproximadamente de entre 40 y TM_min:45 con el que se esperar el llegada de haidar a el_aaiún pasar el [??:??/??/??:11.00:pm] hora canario",
+        "lemmatized_text_reduced": "haidar volver casa pasaporte español marroquí únicamente salvoconducto gobierno español ver bueno marruecos entrada país confirmar europa_press fuente plataforma_de_apoyo aminetu activista saharaui estar regresar capital sáhara_occidental acompañar hermano leila_haidar llegar doctor director hospital_de_lanzarote guzmán haber seguir caso principio duración vuelo ser aproximadamente esperar llegada haidar el_aaiún pasar hora canario",
+        "persons": [
+            "Haidar",
+            "Europa_Press",
+            "Leila_Haidar",
+            "Guzmán",
+            "Haidar"
+        ],
+        "locations": [
+            "Marruecos",
+            "Aminetu",
+            "Sáhara_Occidental",
+            "El_Aaiún"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Plataforma_de_Apoyo",
+            "Hospital_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[??:??/??/??:11.00:pm]"
+        ],
+        "numbers": [
+            "40",
+            "TM_min:45"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/627252/0/",
+    "title": {
+        "raw_text": "Juan Ruiz Alzola y Carolina Déniz pasan a representar a Canarias en el consejo de administración de Grafcan",
+        "lemmatized_text": "juan_ruiz_alzola y carolina_déniz pasar a representar a canarias en el consejo de administración de grafcan",
+        "lemmatized_text_reduced": "juan_ruiz_alzola carolina_déniz pasar representar canarias consejo administración grafcan",
+        "persons": [
+            "Juan_Ruiz_Alzola",
+            "Carolina_Déniz"
+        ],
+        "locations": [
+            "Canarias",
+            "Grafcan"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Juan Ruiz Alzola y Carolina Déniz han pasado hoy a representar a Canarias en el marco del consejo de administración de la sociedad mercantil pública Cartográficas de Canarias S.A (Grafcan).",
+        "lemmatized_text": "juan_ruiz_alzola y carolina_déniz haber pasar hoy a representar a canarias en el marco de el consejo de administración de el sociedad mercantil público cartográficas_de_canarias_s._a grafcan",
+        "lemmatized_text_reduced": "juan_ruiz_alzola carolina_déniz haber pasar representar canarias marco consejo administración sociedad mercantil público cartográficas_de_canarias_s._a grafcan",
+        "persons": [
+            "Juan_Ruiz_Alzola",
+            "Carolina_Déniz"
+        ],
+        "locations": [
+            "Canarias",
+            "Grafcan"
+        ],
+        "organizations": [],
+        "others": [
+            "Cartográficas_de_Canarias_S._A"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, lo anunció hoy el portavoz del Gobierno de Canarias, Martín Marrero, quien dio a conocer el nombramiento de ambos como representantes de la Administración de la Comunidad Autónoma de Canarias en el citado Consejo. De esta forma, Alzola y Déniz sustituirán a Pedro Pacheco y a Rafael Castellano, quienes ya han cesado de sus cargos.",
+        "lemmatized_text": "así lo anunciar hoy el portavoz de el gobierno_de_canarias martín_marrero quien dar_a_conocer el nombramiento de ambos como representante de el administración_de_la_comunidad_autónoma_de_canarias en el citar consejo de este forma alzola y déniz sustituir a pedro_pacheco y a rafael_castellano quien ya haber cesar de su cargo",
+        "lemmatized_text_reduced": "anunciar portavoz gobierno_de_canarias martín_marrero dar_a_conocer nombramiento representante administración_de_la_comunidad_autónoma_de_canarias citar consejo forma alzola déniz sustituir pedro_pacheco rafael_castellano haber cesar cargo",
+        "persons": [
+            "Martín_Marrero",
+            "Déniz",
+            "Pedro_Pacheco",
+            "Rafael_Castellano"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Administración_de_la_Comunidad_Autónoma_de_Canarias",
+            "Consejo",
+            "Alzola"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

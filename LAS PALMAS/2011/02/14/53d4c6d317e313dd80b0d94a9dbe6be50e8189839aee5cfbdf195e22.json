@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/958546/0/",
+    "title": {
+        "raw_text": "Continúa la búsqueda del joven desaparecido en aguas de Cofete, en Fuerteventura",
+        "lemmatized_text": "continuar el búsqueda de el joven desaparecer en agua de cofete en fuerteventura",
+        "lemmatized_text_reduced": "continuar búsqueda joven desaparecer agua cofete fuerteventura",
+        "persons": [],
+        "locations": [
+            "Cofete",
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de rescate y emergencias han reanudado este domingo la búsqueda del joven alemán de 22 años que desapareció durante las horas centrales del pasado viernes, 11 de febrero, en aguas de Cofete, dentro del término municipal de Pájara (Fuerteventura), según informaron fuentes del Salvamento Marítimo.",
+        "lemmatized_text": "el servicio de rescate y emergencia haber reanudar este [G:??/??/??:??.??:??] el búsqueda de el joven alemán de 22 año que desaparecer durante el hora central de el [V:11/2/??:??.??:??] en agua de cofete dentro de el término municipal de pájara fuerteventura según informar fuente de el salvamento_marítimo",
+        "lemmatized_text_reduced": "servicio rescate emergencia haber reanudar búsqueda joven alemán año desaparecer hora central agua cofete término municipal pájara fuerteventura informar fuente salvamento_marítimo",
+        "persons": [],
+        "locations": [
+            "Cofete",
+            "Pájara",
+            "Salvamento_Marítimo"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[V:11/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "22"
+        ]
+    },
+    "body": {
+        "raw_text": "Los servicios de rescate y emergencias han reanudado este domingo la búsqueda del joven alemán de 22 años que desapareció durante las horas centrales del pasado viernes, 11 de febrero, en aguas de Cofete, dentro del término municipal de Pájara (Fuerteventura), según informaron fuentes del Salvamento Marítimo. La búsqueda comenzó este lunes a las 08.30 horas y Salvamento Marítimo participa en la misma con el helicóptero Helimer 208 y la Salvamar Mizar. Asimismo, el helicóptero de la Guardia Civil y el del Grupo de Emergencias y Salvamento (GES) también trabajan junto a efectivos de Protección Civil.",
+        "lemmatized_text": "el servicio de rescate y emergencia haber reanudar este [G:??/??/??:??.??:??] el búsqueda de el joven alemán de 22 año que desaparecer durante el hora central de el [V:11/2/??:??.??:??] en agua de cofete dentro de el término municipal de pájara fuerteventura según informar fuente de el salvamento_marítimo el búsqueda comenzar este [L:??/??/??:8.00:??] y salvamento_marítimo participar en el mismo con el helicóptero helimer 208 y el salvamar_mizar asimismo el helicóptero de el guardia_civil y el de el grupo_de_emergencias y salvamento ges también trabajar junto_a efectivo de protección_civil",
+        "lemmatized_text_reduced": "servicio rescate emergencia haber reanudar búsqueda joven alemán año desaparecer hora central agua cofete término municipal pájara fuerteventura informar fuente salvamento_marítimo búsqueda comenzar salvamento_marítimo participar mismo helicóptero helimer salvamar_mizar helicóptero guardia_civil grupo_de_emergencias salvamento ges trabajar efectivo protección_civil",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento"
+        ],
+        "locations": [
+            "Cofete",
+            "Pájara",
+            "Salvamento_Marítimo"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Salvamar_Mizar",
+            "Guardia_Civil",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Protección_Civil"
+        ],
+        "others": [
+            "Helimer"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[V:11/2/??:??.??:??]",
+            "[L:??/??/??:8.00:??]"
+        ],
+        "numbers": [
+            "22",
+            "208"
+        ]
+    }
+}

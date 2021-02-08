@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/655509/0/",
+    "title": {
+        "raw_text": "Un hombre muere tras sufrir una caída en una calle céntrica de Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre morir tras sufrir uno caída en uno calle céntrico de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre morir sufrir caída calle céntrico las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha fallecido hoy tras sufrir una caída en una calle céntrica de Las Palmas de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber fallecer hoy tras sufrir uno caída en uno calle céntrico de las_palmas_de_gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber fallecer sufrir caída calle céntrico las_palmas_de_gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo sobre las 12.36 horas, momento en el que el 112 recibió una llamada que alertaba que un hombre se había caído en la calle Malteses, cercana a la calle Triana de la capital grancanaria, y se encontraba inconsciente. Posteriormente, se trasladaron los servicios de urgencias hasta el lugar donde certificaron que se trataba de un varón de 66 años de edad que se encontraba muerto. Asimismo, agentes de la Policía Nacional que acudieron hasta la zona del incidente se han hecho cargo de las diligencias.",
+        "lemmatized_text": "el incidente se producir sobre el TM_h:12.36 momento en el que el 112 recibir uno llamada que alertar que uno hombre se haber caer en el calle malteses cercano a el calle triana de el capital grancanaria y se encontrar inconsciente posteriormente se trasladar el servicio de urgencia hasta el lugar donde certificar que se tratar de uno varón de 66 año de edad que se encontrar morir asimismo agente de el policía_nacional que acudir hasta el zona de el incidente se haber hacer_cargo de el diligencia",
+        "lemmatized_text_reduced": "incidente producir momento recibir llamada alertar hombre haber caer calle malteses cercano calle triana capital grancanaria encontrar inconsciente posteriormente trasladar servicio urgencia lugar certificar tratar varón año edad encontrar morir agente policía_nacional acudir zona incidente haber hacer_cargo diligencia",
+        "persons": [],
+        "locations": [
+            "Triana"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Malteses"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.36",
+            "112",
+            "66"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/707879/0/",
+    "title": {
+        "raw_text": "Un motorista grave tras chocar contra un vehículo en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno motorista grave tras chocar contra uno vehículo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "motorista grave chocar vehículo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un motorista de 24 años ha resultado herido de carácter grave tras colisionar contra un vehículo cuando circulada por la calle General Mas de Gaminde de Las Palmas de Gran Canaria, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno motorista de 24 año haber resultar herir de carácter grave tras colisionar contra uno vehículo cuando circular por el calle general_mas_de_gaminde_de_las_palmas_de_gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "motorista año haber resultar herir carácter grave colisionar vehículo circular calle general_mas_de_gaminde_de_las_palmas_de_gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "General_Mas_de_Gaminde_de_Las_Palmas_de_Gran_Canaria",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "24",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el suceso se produjo sobre las 22.30 horas de ayer, cuando se recibió una llamada alertando de que se había producido un choque entre una moto y un coche y que el motorista podría necesitar ayuda médica. En ese momento, el 112 activó su dispositivo de urgencias habitual y trasladó al lugar una ambulancia medicalizada del Servicio de Urgencias Canario (SUC). Al llegar, los médicos atendieron a un joven de 24 años que presentaba traumatismo en miembro inferior de carácter grave, por lo que tuvo que ser trasladado hasta el Hospital de Gran Canaria Doctor Negrín.",
+        "lemmatized_text": "de este manera el suceso se producir sobre el TM_h:22.3 de ayer cuando se recibir uno llamada alertar de que se haber producir uno choque entre uno moto y uno coche y que el motorista poder necesitar ayuda médico en ese momento el 112 activar su dispositivo de urgencia habitual y trasladar a el lugar uno ambulancia medicalizada de el servicio_de_urgencias_canario suc a el llegar el médico atender a uno joven de 24 año que presentar traumatismo en miembro inferior de carácter grave por el que tener que ser trasladar hasta el hospital_de_gran_canaria_doctor_negrín",
+        "lemmatized_text_reduced": "manera suceso producir recibir llamada alertar haber producir choque moto coche motorista poder necesitar ayuda médico momento activar dispositivo urgencia habitual trasladar lugar ambulancia medicalizada servicio_de_urgencias_canario suc llegar médico atender joven año presentar traumatismo miembro inferior carácter grave tener ser trasladar hospital_de_gran_canaria_doctor_negrín",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_de_Gran_Canaria_Doctor_Negrín"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:22.3",
+            "112",
+            "24"
+        ]
+    }
+}

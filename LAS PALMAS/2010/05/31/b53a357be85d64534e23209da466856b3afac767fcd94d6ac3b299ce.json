@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/723332/0/",
+    "title": {
+        "raw_text": "Junio comenzará con alerta amarilla por temperaturas de hasta 34 grados en Canarias y con probabilidad de calima",
+        "lemmatized_text": "[??:??/6/??:??.??:??] comenzar con alerta amarillo por temperatura de hasta 34 grado en canarias y con probabilidad de calima",
+        "lemmatized_text_reduced": "comenzar alerta amarillo temperatura grado canarias probabilidad calima",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "34"
+        ]
+    },
+    "lead": {
+        "raw_text": "El mes de mayo concluye este lunes con temperaturas típicas del verano y junio comenzará asimismo con valores altos, que podrían llegar a los 34 grados centígrados en Canarias, donde varias islas permanecerán mañana en alerta amarilla (riesgo) y con posibilidad de calima, así como se prevén lluvias débiles en el extremo norte peninsular, según la predicción de la Agencia Estatal de Meteorología (AEMET).",
+        "lemmatized_text": "el [??:??/5/??:??.??:??] concluir este [L:??/??/??:??.??:??] con temperatura típico de el verano y [??:??/6/??:??.??:??] comenzar asimismo con valor alto que poder llegar a el TP_C:34 en canarias donde varios isla permanecer mañana en alerta amarillo riesgo y con posibilidad de calima así_como se prever lluvia débil en el extremo norte peninsular según el predicción de el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "concluir temperatura típico verano comenzar valor alto poder llegar canarias isla permanecer alerta amarillo riesgo posibilidad calima prever lluvia débil extremo norte peninsular predicción agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/5/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "TP_C:34"
+        ]
+    },
+    "body": {
+        "raw_text": "Este fenómeno en las islas se registrará desde las once de la mañana y se prolongará hasta las 19.00 horas, una jornada de calor que previsiblemente se repetirá nuevamente el miércoles, según la información recogida por Europa Press. En concreto, las altas temperaturas afectarán a las zonas del este, sur y oeste y medianías del norte de Gran Canaria, así como a la isla de Lanzarote, Fuerteventura y al este, sur y oeste y los municipios de La Orotava y Vilaflor en Tenerife, con probabilidad de calimas principalmente en zonas de medianías y altas. En el norte de España se esperan cielos nubosos o muy nubosos, con posibilidad de alguna lluvia débil y cielos poco nubosos, o con intervalos de nubes medias y altas, más abundantes en la mitad norte y menos en el sur y área mediterránea. Así, en el archipiélago predominarán los cielos poco nubosos con probabilidad de calima y los bancos de niebla matinales aparecerán en Galicia y el Cantábrico. Asimismo, los vientos flojos sobre todo la componente norte soplarán en la península y Baleares, con intervalos de moderado en el litoral de Galicia, valle del Ebro y extremo noreste de Cataluña, mientras que en Canarias se esperan los vientos de moderados de componente oeste. Finalmente, se prevén temperaturas sin cambios o en ligero descenso en el noroeste peninsular, y permanecerán sin cambios en el área del Mediterráneo. En el resto, sin cambios en el área mediterránea y en ligeros ascenso en el reto del país, siendo significativamente más altas en Canarias.",
+        "lemmatized_text": "este fenómeno en el isla se registrar desde el [??:??/??/??:11.00:am] y se prolongar hasta el TM_h:19 uno jornada de calor que previsiblemente se repetir nuevamente el [X:??/??/??:??.??:??] según el información recoger por europa_press en concreto el alto temperatura afectar a el zona de el este sur y oeste y medianía de el norte de gran_canaria así_como a el isla de lanzarote fuerteventura y a el este sur y oeste y el municipio de la_orotava y vilaflor en tenerife con probabilidad de calima principalmente en zona de medianía y alto en el norte de españa se esperar cielo nuboso o muy nuboso con posibilidad de alguno lluvia débil y cielo poco nuboso o con intervalo de nube medio y alto más abundante en el mitad norte y menos en el sur y área mediterráneo así en el archipiélago predominar el cielo poco nuboso con probabilidad de calima y el banco de niebla matinal aparecer en galicia y el cantábrico asimismo el viento flojo sobre todo el componente norte soplar en el península y baleares con intervalo de moderar en el litoral de galicia valle de el ebro y extremo noreste de cataluña mientras_que en canarias se esperar el viento de moderado de componente oeste finalmente se prever temperatura sin cambio o en ligero descenso en el noroeste peninsular y permanecer sin cambio en el área de el mediterráneo en el resto sin cambio en el área mediterráneo y en ligero ascenso en el reto de el país ser significativamente más alto en canarias",
+        "lemmatized_text_reduced": "fenómeno isla registrar prolongar jornada calor previsiblemente repetir nuevamente información recoger europa_press concreto alto temperatura afectar zona sur oeste medianía norte gran_canaria isla lanzarote fuerteventura sur oeste municipio la_orotava vilaflor tenerife probabilidad calima principalmente zona medianía alto norte españa esperar cielo nuboso nuboso posibilidad lluvia débil cielo nuboso intervalo nube medio alto abundante mitad norte sur área mediterráneo archipiélago predominar cielo nuboso probabilidad calima banco niebla matinal aparecer galicia cantábrico viento flojo componente norte soplar península baleares intervalo moderar litoral galicia valle ebro extremo noreste cataluña canarias esperar viento moderado componente oeste finalmente prever temperatura cambio ligero descenso noroeste peninsular permanecer cambio área mediterráneo resto cambio área mediterráneo ligero ascenso reto país ser significativamente alto canarias",
+        "persons": [
+            "Europa_Press",
+            "España"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote",
+            "La_Orotava",
+            "Vilaflor",
+            "Tenerife",
+            "Galicia",
+            "Baleares",
+            "Galicia",
+            "Ebro",
+            "Cataluña",
+            "Canarias",
+            "Mediterráneo",
+            "Canarias"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Cantábrico"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:11.00:am]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:19"
+        ]
+    }
+}

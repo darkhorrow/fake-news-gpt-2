@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664434/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria destina 32.319 euros al nuevo alumbrado de Lomo Cuesta Ramón",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria destinar $_ECU:32.319 a el nuevo alumbrado de lomo_cuesta_ramón",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria destinar nuevo alumbrado lomo_cuesta_ramón",
+        "persons": [
+            "Lomo_Cuesta_Ramón"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:32.319"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Concejalía de Fomento y Servicios Públicos del Ayuntamiento de Las Palmas de Gran Canaria ha destinado 32.319 euros al nuevo alumbrado del barrio de Lomo Cuesta Ramón que se inaugurará esta tarde.",
+        "lemmatized_text": "el concejalía_de_fomento y servicios_públicos_del_ayuntamiento_de_las_palmas_de_gran_canaria haber destinar $_ECU:32.319 a el nuevo alumbrado de el barrio de lomo_cuesta_ramón que se inaugurar este tarde",
+        "lemmatized_text_reduced": "concejalía_de_fomento servicios_públicos_del_ayuntamiento_de_las_palmas_de_gran_canaria haber destinar nuevo alumbrado barrio lomo_cuesta_ramón inaugurar tarde",
+        "persons": [
+            "Lomo_Cuesta_Ramón"
+        ],
+        "locations": [],
+        "organizations": [
+            "Concejalía_de_Fomento",
+            "Servicios_Públicos_del_Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:32.319"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta acción que se ha llevado a cabo con dinero procedente del Fondo Estatal de Inversión Local (Feile), es la primera de una serie de actuaciones de alumbrado que se ejecutarán en barrios periféricos de la capital grancanaria como Pintor Alto o La Milagrosa, según informó el Ayuntamiento en nota de prensa. Respecto a la nueva iluminación de la calle Lomo Cuesta Ramón, que no contaba con alumbrado, está compuesta por ocho puntos de luz sobre brazos metálicos, un centro de mando dotado de un reloj astronómico ajustado al ocaso y al orto para hacerlos coincidir milimétricamente con el encendido y el apagado de las lámparas. La luminaria se compone de lámparas de Vapor de Sodio de Alta Presión (V.S.A.P.) de 150 watios, caracterizadas por su \"alta eficiencia\" luminosa y vida media. En cuanto a la potencia eléctrica total instalada asciende a 1.200 watios, lo que conllevará un consumo anual de 5.040 kilowatios al año, equivalentes a 705 euros. El plazo de ejecución de la instalación del alumbrado ha sido de 10 meses y las empresas adjudicatarias fueron la UTE compuesta por IMESAPI S.A. y LUMICAN S.A.",
+        "lemmatized_text": "este acción que se haber llevar_a_cabo con dinero procedente de el fondo_estatal_de_inversión_local feile ser el 1 de uno serie de actuación de alumbrado que se ejecutar en barrio periférico de el capital grancanaria como pintor_alto o la_milagrosa según informar el ayuntamiento en nota de prensa respecto_a el nuevo iluminación de el calle lomo_cuesta_ramón que no contar con alumbrado estar componer por 8 punto de luz sobre brazo metálico uno centro de mando dotar de uno reloj astronómico ajustar a el ocaso y a el orto para hacer lo coincidir milimétricamente con el encendido y el apagado de el lámpara el luminaria se componer de lámpara de vapor_de_sodio_de_alta_presión v.s.a.p. de EN_w:150 caracterizar por su alto eficiencia luminoso y vida medio en_cuanto_a el potencia eléctrico total instalar ascender a EN_w:1.2 el que conllevar uno consumo anual de 5.04 kilowatios a el año equivalente a $_ECU:705 el plazo de ejecución de el instalación de el alumbrado haber ser de 10 mes y el empresa adjudicatario ser el ute componer por imesapi_s.a. y lumican_s.a.",
+        "lemmatized_text_reduced": "acción haber llevar_a_cabo dinero procedente fondo_estatal_de_inversión_local feile ser 1 serie actuación alumbrado ejecutar barrio periférico capital grancanaria pintor_alto la_milagrosa informar ayuntamiento nota prensa nuevo iluminación calle lomo_cuesta_ramón contar alumbrado estar componer punto luz brazo metálico centro mando dotar reloj astronómico ajustar ocaso orto hacer coincidir milimétricamente encendido apagado lámpara luminaria componer lámpara vapor_de_sodio_de_alta_presión v.s.a.p. caracterizar alto eficiencia luminoso vida medio potencia eléctrico total instalar ascender conllevar consumo anual kilowatios año equivalente plazo ejecución instalación alumbrado haber ser mes empresa adjudicatario ser ute componer imesapi_s.a. lumican_s.a.",
+        "persons": [
+            "Pintor_Alto",
+            "Lomo_Cuesta_Ramón"
+        ],
+        "locations": [
+            "Feile"
+        ],
+        "organizations": [
+            "Fondo_Estatal_de_Inversión_Local",
+            "La_Milagrosa",
+            "Ayuntamiento",
+            "V.S.A.P.",
+            "UTE",
+            "IMESAPI_S.A.",
+            "LUMICAN_S.A."
+        ],
+        "others": [
+            "Vapor_de_Sodio_de_Alta_Presión"
+        ],
+        "dates": [],
+        "numbers": [
+            "8",
+            "EN_w:150",
+            "EN_w:1.2",
+            "5.04",
+            "$_ECU:705",
+            "10"
+        ]
+    }
+}

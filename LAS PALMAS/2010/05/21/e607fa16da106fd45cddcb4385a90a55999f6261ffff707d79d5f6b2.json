@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714194/0/",
+    "title": {
+        "raw_text": "Localizadas en Agüimes (Gran Canaria) dos personas desaparecidas",
+        "lemmatized_text": "localizar en agüimes gran_canaria 2 persona desaparecer",
+        "lemmatized_text_reduced": "localizar agüimes gran_canaria persona desaparecer",
+        "persons": [],
+        "locations": [
+            "Agüimes",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Local de Agüimes localizó el pasado miércoles a dos personas naturales de Las Palmas de Gran Canaria y Santa Lucía de Tirajana que estaban desaparecidas.",
+        "lemmatized_text": "el policía_local_de_agüimes localizar el [X:??/??/??:??.??:??] a 2 persona natural de las_palmas_de_gran_canaria y santa_lucía_de_tirajana que estar desaparecer",
+        "lemmatized_text_reduced": "policía_local_de_agüimes localizar persona natural las_palmas_de_gran_canaria santa_lucía_de_tirajana estar desaparecer",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Policía_Local_de_Agüimes"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El primer caso ocurrió sobre las 13.25 horas de dicho día, cuando se recibió una llamada del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 en la Jefatura de la Policía Local alertando de la presencia en la estación Cepsa, ubicada en la carretera GC-1, de una persona que llevaba varios días desaparecida. Al lugar se trasladó una unidad de la Policía Local que certificó, tras contactar con su familia, que el ciudadano con las iniciales F.M.H., vecino de Las Palmas de Gran Canaria, llevaba varios días desaparecido, tal y como se denunció en las dependencias de la Policía Nacional de la capital. Posteriormente, la Policía Local de Agüimes trasladó a la persona localizada al centro de salud de Agüimes para su observación, al llevar dos días sin comer, según manifestó el propio afectado. El mismo día, a las 21.50 horas una unidad de la Policía Local de Agüimes advirtió la presencia de una persona tirada en la vía GC-100, a la altura de la denominada curva de Los Lagartos, que presentaba síntomas de desorientación. La persona, identificada como J.R.P. natural del municipio de Santa Lucía de Tirajana, fue traslada al centro de salud de Agüimes para su reconocimiento.",
+        "lemmatized_text": "el 1 caso ocurrir sobre el TM_h:13.25 de decir día cuando se recibir uno llamada de el centro_coordinador_de_emergencias y seguridad cecoes 112 en el jefatura_de_la_policía_local alertar de el presencia en el estación cepsa ubicar en el carretera GC-1 de uno persona que llevar varios día desaparecer a el lugar se trasladar uno unidad de el policía_local que certificar tras contactar con su familia que el ciudadano con el inicial f.m.h. vecino de las_palmas_de_gran_canaria llevar varios día desaparecer tal_y_como se denunciar en el dependencia de el policía_nacional de el capital posteriormente el policía_local_de_agüimes trasladar a el persona localizar a el centro de salud de agüimes para su observación a el llevar TM_d:2 sin comer según manifestar el propio afectar el mismo día a el TM_h:21.5 uno unidad de el policía_local_de_agüimes advertir el presencia de uno persona tirar en el vía GC-100 a el altura de el denominar curva de los_lagartos que presentar síntoma de desorientación el persona identificar como j.r.p. natural de el municipio de santa_lucía_de_tirajana ser trasladar a el centro de salud de agüimes para su reconocimiento",
+        "lemmatized_text_reduced": "1 caso ocurrir decir día recibir llamada centro_coordinador_de_emergencias seguridad cecoes jefatura_de_la_policía_local alertar presencia estación cepsa ubicar carretera persona llevar día desaparecer lugar trasladar unidad policía_local certificar contactar familia ciudadano inicial f.m.h. vecino las_palmas_de_gran_canaria llevar día desaparecer denunciar dependencia policía_nacional capital posteriormente policía_local_de_agüimes trasladar persona localizar centro salud agüimes observación llevar comer manifestar propio afectar mismo día unidad policía_local_de_agüimes advertir presencia persona tirar vía altura denominar curva los_lagartos presentar síntoma desorientación persona identificar j.r.p. natural municipio santa_lucía_de_tirajana ser trasladar centro salud agüimes reconocimiento",
+        "persons": [],
+        "locations": [
+            "Jefatura_de_la_Policía_Local",
+            "Cepsa",
+            "Las_Palmas_de_Gran_Canaria",
+            "Agüimes",
+            "Los_Lagartos",
+            "Santa_Lucía_de_Tirajana",
+            "Agüimes"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Policía_Local",
+            "F.M.H.",
+            "Policía_Nacional",
+            "Policía_Local_de_Agüimes",
+            "Policía_Local_de_Agüimes",
+            "J.R.P."
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:13.25",
+            "112",
+            "GC-1",
+            "TM_d:2",
+            "TM_h:21.5",
+            "GC-100"
+        ]
+    }
+}

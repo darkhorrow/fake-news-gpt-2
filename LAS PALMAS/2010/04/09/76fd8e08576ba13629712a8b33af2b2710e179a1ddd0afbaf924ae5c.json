@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/672697/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias fija 2014 como fecha de terminación de tres subestaciones que refuercen el sistema eléctrico",
+        "lemmatized_text": "el gobierno_de_canarias fijar 2014 como fecha de terminación de 3 subestación que reforzar el sistema eléctrico",
+        "lemmatized_text_reduced": "gobierno_de_canarias fijar fecha terminación subestación reforzar sistema eléctrico",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2014",
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "El consejero de Empleo, Industria y Comercio del Gobierno de Canarias, Jorge Rodríguez, ha fijado el año 2014 como fecha para la terminación de tres subestaciones --Caletillas (Tenerife), Jinámar (Gran Canaria) y Puerto del Rosario (Fuerteventura)-- \"que dupliquen a las actuales para hacer el sistema más resistente a los fallos\".",
+        "lemmatized_text": "el consejero de empleo industria y comercio_del_gobierno_de_canarias jorge_rodríguez haber fijar el [??:??/??/2014:??.??:??] como fecha para el terminación de 3 subestación caletillas tenerife jinámar gran_canaria y puerto_del_rosario fuerteventura que duplicar a el actual para hacer el sistema más resistente a el fallo",
+        "lemmatized_text_reduced": "consejero empleo industria comercio_del_gobierno_de_canarias jorge_rodríguez haber fijar fecha terminación subestación caletillas tenerife jinámar gran_canaria puerto_del_rosario fuerteventura duplicar actual hacer sistema resistente fallo",
+        "persons": [
+            "Jorge_Rodríguez",
+            "Jinámar"
+        ],
+        "locations": [
+            "Caletillas",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Empleo",
+            "Industria",
+            "Comercio_del_Gobierno_de_Canarias",
+            "Tenerife",
+            "Gran_Canaria",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/2014:??.??:??]"
+        ],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "\"El Plan que presentó Red Eléctrica es un plan 2010-2014 para la construcción de tres subestaciones. Esto ya ha sido solicitado y la compañía está trabajando, por lo que las subestaciones se van a construir\", declaró hoy durante unas declaraciones a los medios de comunicación antes de la reunión del Comité de Seguimiento del Plan Energético de Canarias (Pecan). Aquí, apuntó que construir una infraestructura de este tipo requiere unos años, ya que hay que cumplir con la legislación básica ambiental de España y de la Unión Europea, normas que establecen la elaboración de estudios de impacto ambiental y una autorización estratégica ambiental (en algunos casos). Rodríguez señaló que todos estos trámites tienen una duración aproximada que van de uno a dos años y que después se tienen que llevar a cabo la propia construcción de la subestación. \"Hay que construir una nueva infraestructura —continuó— sin dejar de operar con la antigua para evitar los apagones\". En este sentido, el plazo fijado para la total terminación de los proyectos es 2014, aunque, \"mientras tanto se han tomando y se seguirán tomando medidas que refuercen la seguridad\".",
+        "lemmatized_text": "el plan que presentar red_eléctrica ser uno plan 2010-2014 para el construcción de 3 subestación este ya haber ser solicitar y el compañía estar trabajar por el que el subestación se ir a construir declarar hoy durante uno declaración a el medio de comunicación antes_de el reunión de el comité_de_seguimiento_del_plan_energético_de_canarias pecar aquí apuntar que construir uno infraestructura de este tipo requerir uno año ya_que haber que cumplir con el legislación básico ambiental de españa y de el unión_europea norma que establecer el elaboración de estudio de impacto ambiental y uno autorización estratégico ambiental en alguno caso rodríguez señalar que todo este trámite tener uno duración aproximar que ir de uno a 2 año y que después se tener que llevar_a_cabo el propio construcción de el subestación haber que construir uno nuevo infraestructura continuar sin dejar de operar con el antiguo para evitar el apagón en este sentido el plazo fijar para el total terminación de el proyecto ser 2014 aunque mientras tanto se haber tomar y se seguir tomar medida que reforzar el seguridad",
+        "lemmatized_text_reduced": "plan presentar red_eléctrica ser plan construcción subestación haber ser solicitar compañía estar trabajar subestación ir construir declarar declaración medio comunicación reunión comité_de_seguimiento_del_plan_energético_de_canarias pecar apuntar construir infraestructura tipo requerir año haber cumplir legislación básico ambiental españa unión_europea norma establecer elaboración estudio impacto ambiental autorización estratégico ambiental caso rodríguez señalar trámite tener duración aproximar ir año tener llevar_a_cabo propio construcción subestación haber construir nuevo infraestructura continuar dejar operar antiguo evitar apagón sentido plazo fijar total terminación proyecto ser haber tomar seguir tomar medida reforzar seguridad",
+        "persons": [
+            "Rodríguez"
+        ],
+        "locations": [
+            "España"
+        ],
+        "organizations": [
+            "Red_Eléctrica",
+            "Comité_de_Seguimiento_del_Plan_Energético_de_Canarias",
+            "Unión_Europea"
+        ],
+        "others": [
+            "Plan"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010-2014",
+            "3",
+            "2",
+            "2014"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/687563/0/",
+    "title": {
+        "raw_text": "Muere un joven por herida de arma blanca en Gran Canaria",
+        "lemmatized_text": "morir uno joven por herida de arma blanco en gran_canaria",
+        "lemmatized_text_reduced": "morir joven herida arma blanco gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven de 20 años de edad ha fallecido esta tarde por una herida con arma blanca en el municipio grancanario de Santa Lucía de Tirajana, según confirmaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 del Gobierno de Canarias.",
+        "lemmatized_text": "uno joven de 20 año de edad haber fallecer este tarde por uno herida con arma blanco en el municipio grancanario de santa_lucía_de_tirajana según confirmar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 de el gobierno_de_canarias",
+        "lemmatized_text_reduced": "joven año edad haber fallecer tarde herida arma blanco municipio grancanario santa_lucía_de_tirajana confirmar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes gobierno_de_canarias",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "20",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El suceso se produjo poco después de las 16.00 horas en la Calle Honduras del núcleo urbano de Vecindario y el personal médico del Servicio de Urgencias Canario no pudo hacer nada por salvar la vida al joven. La Guardia Civil desplazada al lugar ha comenzado la investigación para aclarar lo sucedido.",
+        "lemmatized_text": "el suceso se producir poco después_de el TM_h:16 en el calle_honduras de el núcleo urbano de vecindario y el personal médico de el servicio_de_urgencias_canario no poder hacer nada por salvar el vida a el joven el guardia_civil desplazar a el lugar haber comenzar el investigación para aclarar el suceder",
+        "lemmatized_text_reduced": "suceso producir calle_honduras núcleo urbano vecindario personal médico servicio_de_urgencias_canario poder hacer salvar vida joven guardia_civil desplazar lugar haber comenzar investigación aclarar suceder",
+        "persons": [],
+        "locations": [
+            "Calle_Honduras",
+            "Vecindario"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16"
+        ]
+    }
+}

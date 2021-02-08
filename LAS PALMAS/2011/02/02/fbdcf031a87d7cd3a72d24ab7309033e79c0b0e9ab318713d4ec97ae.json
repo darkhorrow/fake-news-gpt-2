@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/948047/0/",
+    "title": {
+        "raw_text": "Pérez (PSOE) aboga por un pacto en Canarias para afrontar el desempleo en las islas",
+        "lemmatized_text": "pérez psoe abogar por uno pacto en canarias para afrontar el desempleo en el isla",
+        "lemmatized_text_reduced": "pérez psoe abogar pacto canarias afrontar desempleo isla",
+        "persons": [
+            "Pérez"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El secretario general del PSOE en Canarias y candidato a la Presidencia del Gobierno regional, José Miguel Pérez, ha abogado este miércoles por un pacto entre todas las administraciones públicas del archipiélago para afrontar la situación del desempleo en la comunidad.",
+        "lemmatized_text": "el secretario general de el psoe en canarias y candidato a el presidencia_del_gobierno regional josé_miguel_pérez haber abogar este [X:??/??/??:??.??:??] por uno pacto entre todo el administración público de el archipiélago para afrontar el situación de el desempleo en el comunidad",
+        "lemmatized_text_reduced": "secretario general psoe canarias candidato presidencia_del_gobierno regional josé_miguel_pérez haber abogar pacto administración público archipiélago afrontar situación desempleo comunidad",
+        "persons": [
+            "José_Miguel_Pérez"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "PSOE",
+            "Presidencia_del_Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El secretario general del PSOE en Canarias y candidato a la Presidencia del Gobierno regional, José Miguel Pérez, ha abogado este miércoles por un pacto entre todas las administraciones públicas del archipiélago para afrontar la situación del desempleo en la comunidad. Pérez, durante un acto en Telde (Gran Canaria), recordó las cifras que se han conocido este miércoles donde los resultados de Canarias arrojan un incrementó del paro en 3.691 personas en enero, situando la cifra total en 258.311 desempleados, un 1,45 por ciento más que en diciembre. \"Desgraciadamente las cifras vuelven a ser negativas pero es factible que las políticas activas de empleo salgan adelante mejor si están todas las administraciones públicas en la misma línea\", concluyó en un comunicado.",
+        "lemmatized_text": "el secretario general de el psoe en canarias y candidato a el presidencia_del_gobierno regional josé_miguel_pérez haber abogar este [X:??/??/??:??.??:??] por uno pacto entre todo el administración público de el archipiélago para afrontar el situación de el desempleo en el comunidad pérez durante uno acto en telde gran_canaria recordar el cifra que se haber conocer este [X:??/??/??:??.??:??] donde el resultado de canarias arrojar uno incrementar de el paro en 3.691 persona en [??:??/1/??:??.??:??] situar el cifra total en 258.311 desempleado uno 1,45 por 100 más que en [??:??/12/??:??.??:??] desgraciadamente el cifra volver a ser negativo pero ser factible que el política activo de empleo salgar adelante mejor si estar todo el administración público en el mismo línea concluir en uno comunicado",
+        "lemmatized_text_reduced": "secretario general psoe canarias candidato presidencia_del_gobierno regional josé_miguel_pérez haber abogar pacto administración público archipiélago afrontar situación desempleo comunidad pérez acto telde gran_canaria recordar cifra haber conocer resultado canarias arrojar incrementar paro persona situar cifra total desempleado desgraciadamente cifra volver ser negativo ser factible política activo empleo salgar mejor estar administración público mismo línea concluir comunicado",
+        "persons": [
+            "José_Miguel_Pérez",
+            "Pérez"
+        ],
+        "locations": [
+            "Canarias",
+            "Telde",
+            "Gran_Canaria",
+            "Canarias"
+        ],
+        "organizations": [
+            "PSOE",
+            "Presidencia_del_Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "3.691",
+            "258.311",
+            "1,45",
+            "100"
+        ]
+    }
+}

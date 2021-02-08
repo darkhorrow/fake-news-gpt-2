@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/670721/0/",
+    "title": {
+        "raw_text": "Los trabajadores de Pérez Ortega están dispuestos a mantener la empresa canaria viva mediante cooperativa",
+        "lemmatized_text": "el trabajador de pérez_ortega estar disponer a mantener el empresa canario vivir mediante cooperativa",
+        "lemmatized_text_reduced": "trabajador pérez_ortega estar disponer mantener empresa canario vivir cooperativa",
+        "persons": [
+            "Pérez_Ortega"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los trabajadores de la empresa de distribución de plantas y flores Pérez Ortega, con más de 120 trabajadores en Canarias, están dispuestos a hacerse cargo de la compañía mediante el procedimiento de fundar una cooperativa si es que finalmente la intención de los dueños es cerrar, ya que creen que tiene completa viabilidad económica, según informó el delegado de personal Francisco Campos.",
+        "lemmatized_text": "el trabajador de el empresa de distribución de planta y flor pérez_ortega con más de 120 trabajador en canarias estar disponer a hacer_cargo de el compañía mediante el procedimiento de fundar uno cooperativa si ser que finalmente el intención de el dueño ser cerrar ya_que creer que tener completo viabilidad económico según informar el delegado de personal francisco_campos",
+        "lemmatized_text_reduced": "trabajador empresa distribución planta flor pérez_ortega trabajador canarias estar disponer hacer_cargo compañía procedimiento fundar cooperativa ser finalmente intención dueño ser cerrar creer tener completo viabilidad económico informar delegado personal francisco_campos",
+        "persons": [
+            "Pérez_Ortega",
+            "Francisco_Campos"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "120"
+        ]
+    },
+    "body": {
+        "raw_text": "En todo caso, el principal problema que afrontan ahora los trabajadores es la incertidumbre de no existir comunicación oficial sobre el cierre de la que es la máxima distribuidora de plantas y flores del archipiélago. Los encargados fueron informados por uno de los hijos del dueño de que el propietario había decidido jubilarse —tiene mas de 70 años— y que, por tanto, la empresa iba a cerrar, según explicó hoy en una rueda de prensa Rita González, trabajadora y miembro del comité de huelga. En todo caso, tanto representantes de los trabajadores en la empresa como el sindicato han pedido información y encuentros con la dirección que, según la propia UGT, no han sido satisfechos. Además y sin fecha para el supuesto cierre, los trabajadores del centro de Gran Canaria han sido forzados a usar 14 días de vacaciones ya (no de momento en Tenerife). Ésta sería la parte de días que les correspondería por trabajar la mitad del año, lo que acrecienta el temor y riesgo de un cierre inminente sin dejar pasar el verano. Para protestar por todo ello, los trabajadores convocan un paro mañana entre las 11.00 y las 13.00 horas en el centro, ubicado en Telde, donde estará presente UGT para intentar hacer \"algo de ruido\", según comentó un portavoz. De momento, tanto los trabajadores como el sindicato consideran que la empresa es totalmente viable aunque, de momento, ningún representante empresarial ha negado o explicado si condicionantes económicos han desembocado también en esta decisión de un eventual cierre.",
+        "lemmatized_text": "en_todo_caso el principal problema que afrontar ahora el trabajador ser el incertidumbre de no existir comunicación oficial sobre el cierre de el que ser el máximo distribuidor de planta y flor de el archipiélago el encargar ser informar por uno de el hijo de el dueño de que el propietario haber decidir jubilar se tener mas de 70 año y que por tanto el empresa ir a cerrar según explicar hoy en uno rueda de prensa rita_gonzález trabajador y miembro de el comité de huelga en_todo_caso tanto representante de el trabajador en el empresa como el sindicato haber pedir información y encuentro con el dirección que según el propio ugt no haber ser satisfacer además y sin fecha para el suponer cierre el trabajador de el centro de gran_canaria haber ser forzar a usar TM_d:14 de vacaciones ya no de momento en tenerife este ser el parte de día que le corresponder por trabajar el mitad de el año el que acrecentar el temor y riesgo de uno cierre inminente sin dejar pasar el verano para protestar por todo ello el trabajador convocar uno paro mañana entre el 11 y el TM_h:13 en el centro ubicar en telde donde estar presente ugt para intentar hacer algo de ruido según comentar uno portavoz de momento tanto el trabajador como el sindicato considerar que el empresa ser totalmente viable aunque de momento ninguno representante empresarial haber negar o explicar si condicionante económico haber desembocar también en este decisión de uno eventual cierre",
+        "lemmatized_text_reduced": "principal problema afrontar trabajador ser incertidumbre existir comunicación oficial cierre ser máximo distribuidor planta flor archipiélago encargar ser informar hijo dueño propietario haber decidir jubilar tener año empresa ir cerrar explicar rueda prensa rita_gonzález trabajador miembro comité huelga representante trabajador empresa sindicato haber pedir información encuentro dirección propio ugt haber ser satisfacer fecha suponer cierre trabajador centro gran_canaria haber ser forzar usar vacaciones momento tenerife ser parte día corresponder trabajar mitad año acrecentar temor riesgo cierre inminente dejar pasar verano protestar trabajador convocar paro centro ubicar telde estar presente ugt intentar hacer ruido comentar portavoz momento trabajador sindicato considerar empresa ser totalmente viable momento representante empresarial haber negar explicar condicionante económico haber desembocar decisión eventual cierre",
+        "persons": [
+            "Rita_González"
+        ],
+        "locations": [
+            "Tenerife",
+            "Telde"
+        ],
+        "organizations": [
+            "UGT",
+            "Gran_Canaria",
+            "UGT"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70",
+            "TM_d:14",
+            "11",
+            "TM_h:13"
+        ]
+    }
+}

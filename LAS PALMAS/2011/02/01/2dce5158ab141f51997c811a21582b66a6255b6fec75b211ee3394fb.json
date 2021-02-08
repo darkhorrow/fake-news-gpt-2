@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/946312/0/",
+    "title": {
+        "raw_text": "Policía Nacional en Canarias solicita la colaboración ciudadana para identificar a un hombre fallecido en la calle",
+        "lemmatized_text": "policía_nacional en canarias solicitar el colaboración ciudadano para identificar a uno hombre fallecer en el calle",
+        "lemmatized_text_reduced": "policía_nacional canarias solicitar colaboración ciudadano identificar hombre fallecer calle",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Jefatura Superior de Policía en Canarias ha solicitado la colaboración ciudadana para identificar a un hombre cuyo cadáver fue encontrado el pasado 24 de enero en la calle Ripoche de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el jefatura_superior_de_policía en canarias haber solicitar el colaboración ciudadano para identificar a uno hombre cuyo cadáver ser encontrar el [??:24/1/??:??.??:??] en el calle ripoche_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "jefatura_superior_de_policía canarias haber solicitar colaboración ciudadano identificar hombre cadáver ser encontrar calle ripoche_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Jefatura_Superior_de_Policía"
+        ],
+        "others": [
+            "Ripoche_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[??:24/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Jefatura Superior de Policía en Canarias ha solicitado la colaboración ciudadana para identificar a un hombre cuyo cadáver fue encontrado el pasado 24 de enero en la calle Ripoche de Las Palmas de Gran Canaria. El varón de unos 55 años, falleció el pasado día 25 de enero por causas naturales en la calle Ripoche. Se trata de un varón de complexión delgada, 1,75 metros de altura, pelo corto castaño, barba poblada y ojos azules. Por su parte, en caso de reconocer al fallecido o poder aportar algún tipo de información, se ruega den el aviso a los números 928 30 47 69 y 628 14 05 09.",
+        "lemmatized_text": "el jefatura_superior_de_policía en canarias haber solicitar el colaboración ciudadano para identificar a uno hombre cuyo cadáver ser encontrar el [??:24/1/??:??.??:??] en el calle ripoche_de_las_palmas_de_gran_canaria el varón de uno 55 año fallecer el [??:25/1/??:??.??:??] por causa natural en el calle ripoche se tratar de uno varón de complexión delgado LN_m:1,75 de altura pelo corto castaño barba poblar y ojo azul por su parte en_caso_de reconocer a el fallecer o poder aportar alguno tipo de información se rogar dar el aviso a el número 928 30 47 69 y 628 14 5 9",
+        "lemmatized_text_reduced": "jefatura_superior_de_policía canarias haber solicitar colaboración ciudadano identificar hombre cadáver ser encontrar calle ripoche_de_las_palmas_de_gran_canaria varón año fallecer causa natural calle ripoche tratar varón complexión delgado altura pelo corto castaño barba poblar ojo azul parte reconocer fallecer poder aportar tipo información rogar dar aviso número",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Ripoche"
+        ],
+        "organizations": [
+            "Jefatura_Superior_de_Policía"
+        ],
+        "others": [
+            "Ripoche_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[??:24/1/??:??.??:??]",
+            "[??:25/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "55",
+            "LN_m:1,75",
+            "928",
+            "30",
+            "47",
+            "69",
+            "628",
+            "14",
+            "5",
+            "9"
+        ]
+    }
+}

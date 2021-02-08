@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/348445/0/cayuco/cincuenta/inmigrantes/",
+    "title": {
+        "raw_text": "Localizan cayuco con unos 50 inmigrantes a 200 metros de playa Gran Canaria",
+        "lemmatized_text": "localizar cayuco con uno 50 inmigrante a LN_m:200 de playa gran_canaria",
+        "lemmatized_text_reduced": "localizar inmigrante playa gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "LN_m:200"
+        ]
+    },
+    "lead": {
+        "raw_text": "Fueron conducidos al puerto de Arguineguín. Sus ocupantes reciben atención humanitaria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "ser conducir a el puerto de arguineguín su ocupante recibir atención humanitario consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ser conducir puerto arguineguín ocupante recibir atención humanitario consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arguineguín"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un cayuco, al parecer ocupado por unos 50 inmigrantes, ha sido localizado esta tarde a unos doscientos metros de la playa de Las Burras , al sur de Gran Canaria, informaron fuentes del 112. La embarcación fue posteriormente interceptada por una embarcación de la Guardia Civil y otra de Salvamento Marítimo y es conducida al puerto de Arguineguín para proceder al desembarco de los inmigrantes. La patera fue avistada sobre las 14:30 horas (local) en la zona costera de Playa del Inglés y de inmediato se montó el dispositivo humanitario especial para atender a sus ocupantes. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno cayuco a el parecer ocupar por uno 50 inmigrante haber ser localizar este tarde a uno LN_m:200 de el playa de las_burras a el sur de gran_canaria informar fuente de el 112 el embarcación ser posteriormente interceptar por uno embarcación de el guardia_civil y otro de salvamento_marítimo y ser conducir a el puerto de arguineguín para proceder a el desembarco de el inmigrante el patera ser avistar sobre el TM_h:14:30 local en el zona costero de playa_del_inglés y de inmediato se montar el dispositivo humanitario especial para atender a su ocupante consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "cayuco parecer ocupar inmigrante haber ser localizar tarde playa las_burras sur gran_canaria informar fuente embarcación ser posteriormente interceptar embarcación guardia_civil salvamento_marítimo ser conducir puerto arguineguín proceder desembarco inmigrante patera ser avistar local zona costero playa_del_inglés inmediato montar dispositivo humanitario especial atender ocupante consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Las_Burras",
+            "Gran_Canaria",
+            "Arguineguín",
+            "Playa_del_Inglés"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50",
+            "LN_m:200",
+            "112",
+            "TM_h:14:30"
+        ]
+    }
+}

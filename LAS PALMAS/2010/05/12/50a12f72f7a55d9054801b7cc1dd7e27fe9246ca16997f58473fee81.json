@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/705237/0/",
+    "title": {
+        "raw_text": "La Cofradía de Pescadores de Mogán (Gran Canaria) recibe 23 nuevos cuartos de pertrecho tras sufrir un incendio",
+        "lemmatized_text": "el cofradía_de_pescadores_de_mogán gran_canaria recibir 23 nuevo cuarto de pertrechar tras sufrir uno incendio",
+        "lemmatized_text_reduced": "cofradía_de_pescadores_de_mogán gran_canaria recibir nuevo cuarto pertrechar sufrir incendio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cofradía_de_Pescadores_de_Mogán",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "23"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Cofradía de Pescadores de Mogán, al sur de Gran Canaria, ha recibido hoy 23 nuevos cuartos de pertrecho, tras el incendio que afectó a la zona en noviembre de 2007.",
+        "lemmatized_text": "el cofradía_de_pescadores_de_mogán a el sur de gran_canaria haber recibir hoy 23 nuevo cuarto de pertrechar tras el incendio que afectar a el zona en [??:??/11/2007:??.??:??]",
+        "lemmatized_text_reduced": "cofradía_de_pescadores_de_mogán sur gran_canaria haber recibir nuevo cuarto pertrechar incendio afectar zona",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [
+            "Cofradía_de_Pescadores_de_Mogán"
+        ],
+        "dates": [
+            "[??:??/11/2007:??.??:??]"
+        ],
+        "numbers": [
+            "23"
+        ]
+    },
+    "body": {
+        "raw_text": "El alcalde de Mogán, Francisco González, el vicepresidente y consejero de Economía y Hacienda del Gobierno de Canarias, José Manuel Soria, y el viceconsejero de Pesca, Francisco López, entregaron hoy en Puerto de Mogán el nuevo inmueble de uso pesquero, según informó el Ayuntamiento en un comunicado. La obra ha tenido un presupuesto de 799.032,77 euros de fondos procedentes del Instrumento Financiero de Ordenación de la Pesca (IFOP).INSTALACIONES La actuación ha consistido en la construcción de 23 nuevos cuartos de pertrecho que serán asignados a los armadores, zona de aparcamiento, aseos, un almacén y un cuarto de mantenimiento y contadores, para una superficie total de 606 metros cuadrados en el mismo emplazamiento en que estaba la anterior estructura. El inmueble actual conserva la disposición de una de las fachadas de la infraestructura antigua, anexa a la escalera exterior que da acceso al risco y posee dos fachadas libres y otra situada a medio metro del risco. La segunda fase de la obra consistirá en la construcción de un local social para los marineros de esta cofradía, que se prevé pueda concluir próximamente. \"Gracias a esta obra, los pescadores de la cofradía recobrarán los servicios que disponían antes de incendio, e incluso los verán ampliados\", afirmó Francisco González, quién agradeció \"el esfuerzo realizado por el Gobierno de Canarias para mejorar las condiciones de los marineros del municipio\".",
+        "lemmatized_text": "el alcalde de mogán francisco_gonzález el vicepresidente y consejero de economía y hacienda_del_gobierno_de_canarias josé_manuel_soria y el viceconsejero de pesca francisco_lópez entregar hoy en puerto_de_mogán el nuevo inmueble de uso pesquero según informar el ayuntamiento en uno comunicado el obra haber tener uno presupuesto de $_ECU:799.032,77 de fondo procedente de el instrumento_financiero_de_ordenación_de_la_pesca ifop instalaciones_la actuación haber consistir en el construcción de 23 nuevo cuarto de pertrechar que ser asignar a el armador zona de aparcamiento aseo uno almacén y uno cuarto de mantenimiento y contador para uno superficie total de AR_m2:606 en el mismo emplazamiento en que estar el anterior estructura el inmueble actual conservar el disposición de uno de el fachada de el infraestructura antiguo anexo a el escalera exterior que dar acceso a el risco y poseer 2 fachada libre y otro situar a medio metro de el risco el 2 fase de el obra consistir en el construcción de uno local social para el marinero de este cofradía que se prever poder concluir próximamente gracias_a este obra el pescador de el cofradía recobrar el servicio que disponer antes_de incendio y incluso lo ver ampliar afirmar francisco_gonzález quién agradecer el esfuerzo realizar por el gobierno_de_canarias para mejorar el condición de el marinero de el municipio",
+        "lemmatized_text_reduced": "alcalde mogán francisco_gonzález vicepresidente consejero economía hacienda_del_gobierno_de_canarias josé_manuel_soria viceconsejero pesca francisco_lópez entregar puerto_de_mogán nuevo inmueble uso pesquero informar ayuntamiento comunicado obra haber tener presupuesto fondo procedente instrumento_financiero_de_ordenación_de_la_pesca ifop instalaciones_la actuación haber consistir construcción nuevo cuarto pertrechar ser asignar armador zona aparcamiento aseo almacén cuarto mantenimiento contador superficie total mismo emplazamiento estar anterior estructura inmueble actual conservar disposición fachada infraestructura antiguo anexo escalera exterior dar acceso risco poseer fachada libre situar medio metro risco 2 fase obra consistir construcción local social marinero cofradía prever poder concluir próximamente obra pescador cofradía recobrar servicio disponer incendio ver ampliar afirmar francisco_gonzález agradecer esfuerzo realizar gobierno_de_canarias mejorar condición marinero municipio",
+        "persons": [
+            "Francisco_González",
+            "José_Manuel_Soria",
+            "Francisco_López",
+            "Francisco_González"
+        ],
+        "locations": [
+            "Mogán",
+            "Puerto_de_Mogán"
+        ],
+        "organizations": [
+            "Economía",
+            "Hacienda_del_Gobierno_de_Canarias",
+            "Ayuntamiento",
+            "Instrumento_Financiero_de_Ordenación_de_la_Pesca",
+            "IFOP",
+            "INSTALACIONES_La",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Pesca"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:799.032,77",
+            "23",
+            "AR_m2:606",
+            "2"
+        ]
+    }
+}

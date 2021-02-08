@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641596/0/",
+    "title": {
+        "raw_text": "La Guardia Civil detiene a 5 personas por cometer diversos robos con fuerza en Gran Canaria",
+        "lemmatized_text": "el guardia_civil detener a 5 persona por cometer diverso robo con fuerza en gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil detener persona cometer robo fuerza gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil del Puesto Principal de Agüimes (Gran Canaria) ha detenido a cinco personas como presuntos autores de diversos robos con fuerza ocurridos durante el pasado mes de febrero en Agüimes, concretamente, en la zona de Arinaga.",
+        "lemmatized_text": "el guardia_civil_del_puesto_principal_de_agüimes gran_canaria haber detener a 5 persona como presunto autor de diverso robo con fuerza ocurrir durante el [??:??/2/??:??.??:??] en agüimes concretamente en_la_zona_de arinaga",
+        "lemmatized_text_reduced": "guardia_civil_del_puesto_principal_de_agüimes gran_canaria haber detener persona presunto autor robo fuerza ocurrir agüimes concretamente arinaga",
+        "persons": [],
+        "locations": [
+            "Agüimes",
+            "Arinaga"
+        ],
+        "organizations": [
+            "Guardia_Civil_del_Puesto_Principal_de_Agüimes",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, los agentes tras acometerse los robos comenzaron a investigar, obteniendo como resultado el arresto, en un primero momento (19 de febrero), de dos personas que respondían a las iniciales de L.A.A. y D.J.C., de 22 y 23 años de edad, respectivamente. La detención de estas personas supuso, según informó la Benemérita en nota de prensa, la recuperación de parte del material sustraído que tenía en su \"poder uno de ellos y que lo mantenía oculto en un Hostal del Sur de la Isla\". Posteriormente, los agentes continuaron investigando para recuperar el resto de efectos sustraídos, lo que dio como resultado la detención de otras tres personas, el 20 de febrero, como presuntos receptores de los objetos sustraídos. Los arrestados responden a las iniciales de I.G.M., P.E.R.S. y Y.L.L.G.. Además, en esta operación la Guardia Civil intervino otra parte de los objetos sustraídos, tales como diversas joyas, ordenadores, dinero en efectivo, consolas y un reloj de \"gran valor\" que llevaba puesto uno de los receptores. Los agentes han entregado ya \"gran parte\" de los objetos intervenidos a sus propietarios y los restantes esperan a ser reconocidos por sus legítimos propietarios. Finalmente, los detenidos y las diligencias instruidas pasaron a disposición del Juzgado de Instrucción de Telde.",
+        "lemmatized_text": "así el agente tras acometer se el robo comenzar a investigar obtener como resultado el arresto en uno 1 momento [??:19/2/??:??.??:??] de 2 persona que responder a el inicial de l.a.a. y d.j.c. de 22 y 23 año de edad respectivamente el detención de este persona suponer según informar el benemérita en nota de prensa el recuperación de parte de el material sustraer que tener en su poder uno de ellos y que lo mantener oculto en uno hostal_del_sur_de_la_isla posteriormente el agente continuar investigar para recuperar el resto de efecto sustraer el que dar como resultado el detención de otro 3 persona el [??:20/2/??:??.??:??] como presunto receptor de el objeto sustraer el arrestar responder a el inicial de i.g.m. p.e.r.s. y y.l.l.g. además en este operación el guardia_civil intervenir otro parte de el objeto sustraer tal como diverso joya ordenador dinero en efectivo consola y uno reloj de gran valor que llevar poner uno de el receptor el agente haber entregar ya gran parte de el objeto intervenir a su propietario y el restante esperar a ser reconocer por su legítimo propietario finalmente el detenido y el diligencia instruir pasar a disposición de el juzgado_de_instrucción_de_telde",
+        "lemmatized_text_reduced": "agente acometer robo comenzar investigar obtener resultado arresto 1 momento persona responder inicial l.a.a. d.j.c. año edad respectivamente detención persona suponer informar benemérita nota prensa recuperación parte material sustraer tener poder mantener oculto hostal_del_sur_de_la_isla posteriormente agente continuar investigar recuperar resto efecto sustraer dar resultado detención persona presunto receptor objeto sustraer arrestar responder inicial i.g.m. p.e.r.s. y.l.l.g. operación guardia_civil intervenir parte objeto sustraer joya ordenador dinero efectivo consola reloj gran valor llevar poner receptor agente haber entregar gran parte objeto intervenir propietario restante esperar ser reconocer legítimo propietario finalmente detenido diligencia instruir pasar disposición juzgado_de_instrucción_de_telde",
+        "persons": [],
+        "locations": [
+            "Hostal_del_Sur_de_la_Isla"
+        ],
+        "organizations": [
+            "L.A.A.",
+            "D.J.C.",
+            "Benemérita",
+            "I.G.M.",
+            "P.E.R.S.",
+            "Y.L.L.G.",
+            "Guardia_Civil",
+            "Juzgado_de_Instrucción_de_Telde"
+        ],
+        "others": [],
+        "dates": [
+            "[??:19/2/??:??.??:??]",
+            "[??:20/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "22",
+            "23",
+            "3"
+        ]
+    }
+}

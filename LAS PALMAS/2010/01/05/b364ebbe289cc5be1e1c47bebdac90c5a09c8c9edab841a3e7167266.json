@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/600874/0/",
+    "title": {
+        "raw_text": "Los Reyes Magos visitarán a los niños ingresados en la unidad de pediatría del Hospital Materno Infantil de Canarias",
+        "lemmatized_text": "el reyes_magos visitar a el niño ingresar en el unidad de pediatría de el hospital_materno_infantil_de_canarias",
+        "lemmatized_text_reduced": "reyes_magos visitar niño ingresar unidad pediatría hospital_materno_infantil_de_canarias",
+        "persons": [
+            "Reyes_Magos"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Hospital_Materno_Infantil_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los Reyes Magos de Oriente visitarán mañana, a partir de las 10.15 horas, la unidad de pediatría del Hospital Universitario Materno Infantil de Canarias, en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el reyes_magos_de_oriente visitar mañana a_partir_de el TM_h:10.15 el unidad de pediatría de el hospital_universitario_materno_infantil_de_canarias en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "reyes_magos_de_oriente visitar unidad pediatría hospital_universitario_materno_infantil_de_canarias las_palmas_de_gran_canaria",
+        "persons": [
+            "Reyes_Magos_de_Oriente"
+        ],
+        "locations": [
+            "Hospital_Universitario_Materno_Infantil_de_Canarias",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10.15"
+        ]
+    },
+    "body": {
+        "raw_text": "La visita está incluida dentro del programa de actos de Navidad programado por el Complejo Hospitalario Universitario Insular Materno Infantil y en los que los pacientes más pequeños del centro hospitalario han participado en talleres de cuenta cuentos, villancicos y canciones de los 'Cantores de Belén', entre otros, según informó el Gobierno de Canarias en nota de prensa. De esta forma, la Dirección Gerencia del Complejo Hospitalario Universitario Insular Materno Infantil pretende que los niños ingresados tengan una estancia lo más agradable posible durante las fiestas de Navidad.",
+        "lemmatized_text": "el visita estar incluir dentro de el programa de acto de navidad programar por el complejo_hospitalario_universitario_insular_materno_infantil y en el que el paciente más pequeño de el centro hospitalario haber participar en taller de contar cuento villancico y canción de el cantores_de_belén entre otro según informar el gobierno_de_canarias en nota de prensa de este forma el dirección_gerencia_del_complejo_hospitalario_universitario_insular_materno_infantil pretender que el niño ingresar tener uno estancia el más agradable posible durante el fiesta de navidad",
+        "lemmatized_text_reduced": "visita estar incluir programa acto navidad programar complejo_hospitalario_universitario_insular_materno_infantil paciente pequeño centro hospitalario haber participar taller contar cuento villancico canción cantores_de_belén informar gobierno_de_canarias nota prensa forma dirección_gerencia_del_complejo_hospitalario_universitario_insular_materno_infantil pretender niño ingresar tener estancia agradable posible fiesta navidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Complejo_Hospitalario_Universitario_Insular_Materno_Infantil",
+            "Gobierno_de_Canarias",
+            "Dirección_Gerencia_del_Complejo_Hospitalario_Universitario_Insular_Materno_Infantil"
+        ],
+        "others": [
+            "Navidad",
+            "Cantores_de_Belén",
+            "Navidad"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

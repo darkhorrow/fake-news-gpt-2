@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/327049/0/atraco/frustrado/lanzarote/",
+    "title": {
+        "raw_text": "Un atracador fue identificado por un mordisco que le propinó su víctima",
+        "lemmatized_text": "uno atracador ser identificar por uno mordisco que le propinar su víctima",
+        "lemmatized_text_reduced": "atracador ser identificar mordisco propinar víctima",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Al defenderse mordió la mano del delincuente. No logró robarlo pero le amputó parte de la oreja. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "a el defender se morder el mano de el delincuente no lograr robar lo pero le amputar parte de el oreja consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "defender morder mano delincuente lograr robar amputar parte oreja consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La huella dejada por la mordida que su víctima le propinó en una mano al repeler su agresión ha servido a la Guardia Civil para detener al autor del atraco frustrado del que fue víctima el gerente de una empresa de Lanzarote la pasada semana en la localidad turística de Puerto del Carmen (Tías). El atracador no pudo hacerse con el valioso botín, pero en el forcejeo logró herir a su víctima , a la que le ocasionó la amputación parcial de la oreja izquierda con un cuchillo. Atraco y lesiones Según informó la Guardia Civil, el detenido ha sido identificado como J. M. G., de 40 años. intento de atraco esgrimía un cuchillo NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el huella dejar por el morder que su víctima le propinar en uno mano a el repeler su agresión haber servir a el guardia_civil para detener a el autor de el atraco frustrar de el que ser víctima el gerente de uno empresa de lanzarote el pasar semana en el localidad turístico de puerto_del_carmen tías el atracador no poder hacer se con el valioso botín pero en el forcejeo lograr herir a su víctima a el que le ocasionar el amputación parcial de el oreja izquierdo con uno cuchillo atraco y lesión según informar el guardia_civil el detener haber ser identificar como j._m._g. de 40 año intento de atraco esgrimir uno cuchillo noticias_de_las_palmas",
+        "lemmatized_text_reduced": "huella dejar morder víctima propinar mano repeler agresión haber servir guardia_civil detener autor atraco frustrar ser víctima gerente empresa lanzarote pasar semana localidad turístico puerto_del_carmen tías atracador poder hacer valioso botín forcejeo lograr herir víctima ocasionar amputación parcial oreja izquierdo cuchillo atraco lesión según informar guardia_civil detener haber ser identificar j._m._g. año intento atraco esgrimir cuchillo noticias_de_las_palmas",
+        "persons": [
+            "J._M._G."
+        ],
+        "locations": [
+            "Lanzarote",
+            "Puerto_del_Carmen",
+            "Tías"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Según",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "dates": [],
+        "numbers": [
+            "40"
+        ]
+    }
+}

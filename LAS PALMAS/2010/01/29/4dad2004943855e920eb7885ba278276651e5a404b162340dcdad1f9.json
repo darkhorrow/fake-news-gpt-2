@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618199/0/",
+    "title": {
+        "raw_text": "Un hombre grave al sufrir una parada cardiorrespiratoria mientras montaba en bicicleta en Gran Canaria",
+        "lemmatized_text": "uno hombre grave a el sufrir uno parada cardiorrespiratoria mientras montar en bicicleta en gran_canaria",
+        "lemmatized_text_reduced": "hombre grave sufrir parada cardiorrespiratoria montar bicicleta gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre de 60 años de edad ha sufrido hoy una parada cardiorrespiratoria de carácter grave mientras montaba en bicicleta en la carretera de Montaña La Data a Ayagaures, en el municipio de San Bartolomé de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre de 60 año de edad haber sufrir hoy uno parada cardiorrespiratoria de carácter grave mientras montar en bicicleta en el carretera de montaña_la_data a ayagaures en el municipio de san_bartolomé_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre año edad haber sufrir parada cardiorrespiratoria carácter grave montar bicicleta carretera montaña_la_data ayagaures municipio san_bartolomé_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Montaña_La_Data",
+            "Ayagaures",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "60",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 15.07 horas, cuando se recibió una llamada en el Cecoes informando de que una persona había sufrido una caída de la bicicleta en la que circulaba y permanecía en el suelo sin responder a estímulos. De este modo, el 112 activó de inmediato los recursos de emergencias oportunos. Una vez en el lugar el personal del Servicio de Urgencias Canario (SUC) comprobó que el afectado se encontraba en situación de parada cardiorrespiratoria, por lo que procedió a realizarle maniobras de reanimación cardiopulmonar básicas y avanzadas y, tras recuperarlo y estabilizarlo, procedió a trasladarlo en ambulancia de soporte vital avanzado del SUC al Hospital Universitario Insular de Gran Canaria. En dicha actuación también intervino la Policía Local, que llevó a cabo las diligencias oportunas.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:15.07 cuando se recibir uno llamada en el cecoes informar de que uno persona haber sufrir uno caída de el bicicleta en el que circular y permanecer en el suelo sin responder a estímulo de este modo el 112 activar de inmediato el recurso de emergencia oportuno uno vez en el lugar el personal de el servicio_de_urgencias_canario suc comprobar que el afectar se encontrar en situación de parada cardiorrespiratoria por el que proceder a realizar le maniobra de reanimación cardiopulmonar básico y avanzar y tras recuperar lo y estabilizar lo proceder a trasladar lo en ambulancia de soporte vital avanzar de el suc a el hospital_universitario_insular_de_gran_canaria en decir actuación también intervenir el policía_local que llevar_a_cabo el diligencia oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes informar persona haber sufrir caída bicicleta circular permanecer suelo responder estímulo modo activar inmediato recurso emergencia oportuno vez lugar personal servicio_de_urgencias_canario suc comprobar afectar encontrar situación parada cardiorrespiratoria proceder realizar maniobra reanimación cardiopulmonar básico avanzar recuperar estabilizar proceder trasladar ambulancia soporte vital avanzar suc hospital_universitario_insular_de_gran_canaria decir actuación intervenir policía_local llevar_a_cabo diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:15.07",
+            "112"
+        ]
+    }
+}

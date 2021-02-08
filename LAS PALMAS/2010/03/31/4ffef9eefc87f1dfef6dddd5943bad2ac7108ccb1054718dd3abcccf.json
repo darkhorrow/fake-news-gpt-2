@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/666618/0/",
+    "title": {
+        "raw_text": "Gran Canaria es el destino de España preferido en apartamentos con más de 1,1 millones de pernoctaciones",
+        "lemmatized_text": "gran_canaria ser el destino de españa preferir en apartamento con más de 1,1 millón de pernoctación",
+        "lemmatized_text_reduced": "gran_canaria ser destino españa preferir apartamento millón pernoctación",
+        "persons": [
+            "España"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,1"
+        ]
+    },
+    "lead": {
+        "raw_text": "La isla presenta el mayor grado de ocupación, que alcanzó en febrero el 82,4%",
+        "lemmatized_text": "el isla presentar el mayor grado de ocupación que alcanzar en [??:??/2/??:??.??:??] el 82,4/100",
+        "lemmatized_text_reduced": "isla presentar mayor grado ocupación alcanzar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "82,4/100"
+        ]
+    },
+    "body": {
+        "raw_text": "Gran Canaria ha sido \"una vez más el destino de España preferido en apartamentos\", con más de 1,1 millones de pernoctaciones y una ocupación del 84,2 por ciento del total de alojamientos de estas características ofertados, que asciende a 77.000 plazas extrahoteleras. Así lo afirma en un comunicado el presidente del Patronato de Turismo de Gran Canaria, Roberto Moreno, que recuerda que \"la isla lidera el ranking canario y nacional también este mes de febrero, consolidando una tendencia en la que el destino está mostrando una gran solidez\". No en vano Gran Canaria aventaja en 9 puntos porcentuales en ocupación por plazas, y en más de 10 en ocupación por apartamentos, al siguiente destino turístico español en el ránking. Por lo que respecta al conjunto de Canarias, se registraron más de 2,6 millones de pernoctaciones, un 3,6 por ciento menos que en febrero de 2009. Respecto al grado de ocupación medio del archipiélago fue del 72,8 por ciento de los apartamentos existentes, siendo San Bartolomé de Tirajana, Arona y Mogán los puntos turísticos con mayor número de pernoctaciones en Canarias.",
+        "lemmatized_text": "gran_canaria haber ser uno vez más el destino de españa preferir en apartamento con más de 1,1 millón de pernoctación y uno ocupación de el 84,2 por 100 de el total de alojamiento de este característica ofertar que ascender a 77 plaza extrahoteleras así lo afirmar en uno comunicado el presidente de el patronato_de_turismo_de_gran_canaria roberto_moreno que recordar que el isla liderar el ranking canario y nacional también este [??:??/2/??:??.??:??] consolidar uno tendencia en el que el destino estar mostrar uno gran solidez no en vano gran_canaria aventajar en 9 punto porcentual en ocupación por plaza y en más de 10 en ocupación por apartamento a el siguiente destino turístico español en el ránking por el que respectar a el conjunto de canarias se registrar más de 2,6 millón de pernoctación uno 3,6 por 100 menos que en [??:??/2/2009:??.??:??] respecto a el grado de ocupación medio de el archipiélago ser de el 72,8 por 100 de el apartamento existente ser san_bartolomé_de_tirajana arona y mogán el punto turístico con mayor número de pernoctación en canarias",
+        "lemmatized_text_reduced": "gran_canaria haber ser vez destino españa preferir apartamento millón pernoctación ocupación total alojamiento característica ofertar ascender plaza extrahoteleras afirmar comunicado presidente patronato_de_turismo_de_gran_canaria roberto_moreno recordar isla liderar ranking canario nacional consolidar tendencia destino estar mostrar gran solidez vano gran_canaria aventajar punto porcentual ocupación plaza ocupación apartamento siguiente destino turístico español ránking respectar conjunto canarias registrar millón pernoctación respecto grado ocupación medio archipiélago ser apartamento existente ser san_bartolomé_de_tirajana arona mogán punto turístico mayor número pernoctación canarias",
+        "persons": [
+            "Roberto_Moreno",
+            "Mogán"
+        ],
+        "locations": [
+            "España",
+            "Canarias",
+            "San_Bartolomé_de_Tirajana",
+            "Arona",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Patronato_de_Turismo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/2/??:??.??:??]",
+            "[??:??/2/2009:??.??:??]"
+        ],
+        "numbers": [
+            "1,1",
+            "84,2",
+            "100",
+            "77",
+            "9",
+            "10",
+            "2,6",
+            "3,6",
+            "100",
+            "72,8",
+            "100"
+        ]
+    }
+}

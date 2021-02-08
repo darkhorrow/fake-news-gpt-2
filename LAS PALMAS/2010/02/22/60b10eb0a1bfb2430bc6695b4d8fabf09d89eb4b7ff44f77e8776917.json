@@ -1,0 +1,125 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634758/0/",
+    "title": {
+        "raw_text": "Finaliza la alerta en Canarias aunque se mantiene en la cumbre de Tenerife por fuertes rachas de viento",
+        "lemmatized_text": "finalizar el alerta en canarias aunque se mantener en el cumbre de tenerife por fuerte racha de viento",
+        "lemmatized_text_reduced": "finalizar alerta canarias mantener cumbre tenerife fuerte racha viento",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Tenerife"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha desactivado hoy la alerta en Canarias por riesgo importante de lluvias intensas y fuertes vientos, que han azotado a las islas estos días, aunque se mantiene el nivel amarillo por rachas máximas de hasta 75 kilómetros por hora en los municipios de La Orotava y Vilaflor, en Tenerife.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber desactivar hoy el alerta en canarias por riesgo importante de lluvia intenso y fuerte viento que haber azotar a el isla este día aunque se mantener el nivel amarillo por racha máximo de hasta SP_km/h:75 en el municipio de la_orotava y vilaflor en tenerife",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber desactivar alerta canarias riesgo importante lluvia intenso fuerte viento haber azotar isla día mantener nivel amarillo racha máximo municipio la_orotava vilaflor tenerife",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "La_Orotava",
+            "Vilaflor",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:75"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, esta situación de alerta por viento permanecerá en la cumbre de Tenerife desde las seis de la mañana y hasta las 18.00 horas de hoy, según información de la Aemet recogida por Europa Press. Así pues, se da por finalizada la alerta naranja en el archipiélago por intensas lluvias y fuertes vientos con rachas máximas de hasta 120 kilómetros en los municipios de La Orotava y Vilaflor (Tenerife) y de hasta 90 kilómetros por hora en la cumbre de La Palma. La provincia occidental ha sido, por tanto, más castigada por este último temporal que ha afectado a las islas y que no ha azotado, según la predicción, al norte de Gran Canaria y a las islas de Fuerteventura y Lanzarote, que se han salvado del mal tiempo durante el fin de semana. Casi toda la península , En alerta En todo caso, el fuerte viento mantiene hoy en alerta a casi toda la Península con rachas máximas que podrían alcanzar los 100 kilómetros por hora (km/h) en la comunidad autónoma de Galicia donde la alerta era naranja (riesgo importante), según datos de la Aemet recogidos por Europa Press. Las únicas comunidades que permanecían sin alertas eran Valencia, Murcia y las Islas Canarias y Baleares, mientras que el resto de la Península sufría alertas por viento y lluvias. Las lluvias más intensas se concentraban en el sur y oeste de la Península con una acumulación de 40 milímetros cada 12 horas en Granada y Cádiz, al igual que en Cáceres. Además, durante la mañana se mantenía el riesgo en las zonas costeras de Almería, así como en el suroeste de Andalucía, unas alertas que alcanzarían el nivel de riesgo importante en el litoral gallego con fuerza 8 y mar de fondo del oeste en torno a 4,5 metros.46 Carreteras cortadas Un total de 46 carreteras permanecían hoy cortadas al tráfico en la red secundaria mientras que en las vías nacionales los cortes se reducen a la N-323A, entre Granada y Montillana a causa de la lluvia en el kilómetro 84. Asimismo, en la A-2, a la altura de Torrejón de Ardoz, la circulación es difícil debido a un accidente que provoca las retenciones entre los kilómetros 25 y 34, según la Dirección General de Tráfico (DGT). Cádiz era la provincia más afectada con 21 vías cerradas en su red secundaria. Los cortes afectan también a las provincias de Sevilla, Salamanca, Lugo, Granada, Cuenca, Almería y Ávila. Por su parte, en Santa Cruz de Tenerife hasta seis carreteras se cerraron debido a los desprendimientos. En cuanto a los puertos de montaña, se mantenían cerrados Lunada y Estacas de Trueba, en Cantabria, así como el puerto de Lunada, en la provincia de Burgos. El uso de cadenas era obligatorio en algunas zonas de montaña de Segovia, León y Asturias.",
+        "lemmatized_text": "en concreto este situación de alerta por viento permanecer en el cumbre de tenerife desde el [??:??/??/??:6.00:am] y hasta el TM_h:18 de hoy según información de el aemet recoger por europa_press así_pues se dar por finalizar el alerta naranja en el archipiélago por intenso lluvia y fuerte viento con racha máximo de hasta LN_km:120 en el municipio de la_orotava y vilaflor tenerife y de hasta SP_km/h:90 en el cumbre de la_palma el provincia occidental haber ser por tanto más castigar por este último temporal que haber afectar a el isla y que no haber azotar según el predicción a el norte de gran_canaria y a el isla de fuerteventura y lanzarote que se haber salvar de el mal tiempo durante el fin de semana casi todo el península en alertar en_todo_caso el fuerte viento mantener hoy en alerta a casi todo el península con racha máximo que poder alcanzar el SP_km/h:100 kilómetro h en el comunidad autónomo de galicia donde el alerta ser naranja riesgo importante según dato de el aemet recoger por europa_press el único comunidad que permanecer sin alerta ser valencia murcia y el islas_canarias y baleares mientras_que el resto de el península sufrir alerta por viento y lluvia el lluvia más intenso se concentrar en el sur y oeste de el península con uno acumulación de LN_mm:40 cada TM_h:12 en granada y cádiz al_igual_que en cáceres además durante el mañana se mantener el riesgo en el zona costero de almería así_como en el suroeste de andalucía uno alerta que alcanzar el nivel de riesgo importante en el litoral gallego con fuerza 8 y mar de fondo de el oeste en_torno_a 4,5 metros.46 carreteras cortar uno total de 46 carretera permanecer hoy cortar a el tráfico en el red secundario mientras_que en el vía nacional el corte se reducir a el N-323A entre granada y montillana a_causa_de el lluvia en el kilómetro 84 asimismo en el A-2 a el altura de torrejón_de_ardoz el circulación ser difícil debido_a uno accidente que provocar el retención entre el kilómetro 25 y 34 según el dirección_general_de_tráfico dgt cádiz ser el provincia más afectar con 21 vía cerrar en su red secundario el corte afectar también a el provincia de sevilla salamanca lugo granada cuenca almería y ávila por su parte en santa_cruz_de_tenerife hasta 6 carretera se cerrar debido_a el desprendimiento en_cuanto_a el puerto de montaña se mantener cerrar lunada y estacas_de_trueba en cantabria así_como el puerto de lunada en el provincia de burgos el uso de cadena ser obligatorio en alguno zona de montaña de segovia león y asturias",
+        "lemmatized_text_reduced": "concreto situación alerta viento permanecer cumbre tenerife información aemet recoger europa_press dar finalizar alerta naranja archipiélago intenso lluvia fuerte viento racha máximo municipio la_orotava vilaflor tenerife cumbre la_palma provincia occidental haber ser castigar último temporal haber afectar isla haber azotar predicción norte gran_canaria isla fuerteventura lanzarote haber salvar mal tiempo fin semana península en alertar en_todo_caso fuerte viento mantener alerta península racha máximo poder alcanzar kilómetro h comunidad autónomo galicia alerta ser naranja riesgo importante dato aemet recoger europa_press único comunidad permanecer alerta ser valencia murcia islas_canarias baleares resto península sufrir alerta viento lluvia lluvia intenso concentrar sur oeste península acumulación granada cádiz cáceres mañana mantener riesgo zona costero almería suroeste andalucía alerta alcanzar nivel riesgo importante litoral gallego fuerza mar fondo oeste carreteras cortar total carretera permanecer cortar tráfico red secundario vía nacional corte reducir granada montillana lluvia kilómetro altura torrejón_de_ardoz circulación ser difícil accidente provocar retención kilómetro dirección_general_de_tráfico dgt cádiz ser provincia afectar vía cerrar red secundario corte afectar provincia sevilla salamanca lugo granada cuenca almería ávila parte santa_cruz_de_tenerife carretera cerrar desprendimiento puerto montaña mantener cerrar lunada estacas_de_trueba cantabria puerto lunada provincia burgos uso cadena ser obligatorio zona montaña segovia león asturias",
+        "persons": [
+            "En",
+            "En_todo_caso"
+        ],
+        "locations": [
+            "Tenerife",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Palma",
+            "Gran_Canaria",
+            "Lanzarote",
+            "Península",
+            "Galicia",
+            "Murcia",
+            "Islas_Canarias",
+            "Baleares",
+            "Península",
+            "Granada",
+            "Cádiz",
+            "Cáceres",
+            "Almería",
+            "Andalucía",
+            "Carreteras",
+            "Granada",
+            "Montillana",
+            "Torrejón_de_Ardoz",
+            "Cádiz",
+            "Sevilla",
+            "Salamanca",
+            "Lugo",
+            "Granada",
+            "Cuenca",
+            "Almería",
+            "Ávila",
+            "Santa_Cruz_de_Tenerife",
+            "Cantabria",
+            "Lunada",
+            "Burgos",
+            "Segovia",
+            "León",
+            "Asturias"
+        ],
+        "organizations": [
+            "Aemet",
+            "Europa_Press",
+            "Tenerife",
+            "Fuerteventura",
+            "Aemet",
+            "Europa_Press",
+            "Valencia",
+            "Península",
+            "Dirección_General_de_Tráfico",
+            "DGT",
+            "Estacas_de_Trueba"
+        ],
+        "others": [
+            "Lunada"
+        ],
+        "dates": [
+            "[??:??/??/??:6.00:am]"
+        ],
+        "numbers": [
+            "TM_h:18",
+            "LN_km:120",
+            "SP_km/h:90",
+            "SP_km/h:100",
+            "LN_mm:40",
+            "TM_h:12",
+            "8",
+            "4,5",
+            "metros.46",
+            "46",
+            "N-323A",
+            "84",
+            "A-2",
+            "25",
+            "34",
+            "21",
+            "6"
+        ]
+    }
+}

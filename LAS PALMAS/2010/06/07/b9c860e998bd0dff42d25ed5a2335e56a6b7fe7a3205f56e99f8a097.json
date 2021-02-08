@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/729898/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias establece servicios mínimos con motivo de la huelga",
+        "lemmatized_text": "el gobierno_de_canarias establecer servicio mínimo con motivo de el huelga",
+        "lemmatized_text_reduced": "gobierno_de_canarias establecer servicio mínimo motivo huelga",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha aprobado las órdenes por las que se establecen los servicios mínimos con motivo de la huelga general de empleados públicos que afecta al personal funcionario, laboral y estatutario de la administración de la Comunidad Autónoma, convocada por diversas centrales sindicales para mañana desde las 08.00 horas hasta las 08.00 horas del miércoles.",
+        "lemmatized_text": "el gobierno_de_canarias haber aprobar el orden por el que se establecer el servicio mínimo con motivo de el huelga general de empleado público que afectar a el personal funcionario laboral y estatutario de el administración de el comunidad_autónoma convocar por diverso central sindical para mañana desde el TM_h:8 hasta el [X:??/??/??:8.00:??]",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber aprobar orden establecer servicio mínimo motivo huelga general empleado público afectar personal funcionario laboral estatutario administración comunidad_autónoma convocar central sindical mañana",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Comunidad_Autónoma"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:8.00:??]"
+        ],
+        "numbers": [
+            "TM_h:8"
+        ]
+    },
+    "body": {
+        "raw_text": "El decreto firmado por el jefe del Ejecutivo regional, Paulino Rivero, y las órdenes aprobadas por las diferentes consejerías alegan, así, al uso del derecho de huelga por parte de los trabajadores que reconoce el artículo 28.2 de la Constitución Española, entre otros, según la información del Boletín Oficial de Canarias recogida por Europa Press. De este modo, el Ejecutivo considera la necesidad de garantizar cautelarmente la prestación de servicios considerados \"esenciales\", dentro del conjunto de las funciones que son competencia de los diferentes departamentos en el contexto de la administración autonómica. Tras ser oído el Comité de Huelga en la fijación de los servicios mínimos propuestos por las áreas del Ejecutivo regional, se determinan los servicios mínimos a cumplir en cada caso y el personal que deberá atender los mismos durante la huelga.",
+        "lemmatized_text": "el decreto firmar por el jefe de el ejecutivo regional paulino_rivero y el orden aprobar por el diferente consejería alegar así a el uso de el derecho de huelga por parte de el trabajador que reconocer el artículo 28.2 de el constitución_española entre otro según el información de el boletín_oficial_de_canarias recoger por europa_press de este modo el ejecutivo considerar el necesidad de garantizar cautelarmente el prestación de servicio considerar esencial dentro de el conjunto de el función que ser competencia de el diferente departamento en el contexto de el administración autonómico tras ser oír el comité_de_huelga en el fijación de el servicio mínimo proponer por el área de el ejecutivo regional se determinar el servicio mínimo a cumplir en cada caso y el personal que deber atender el mismo durante el huelga",
+        "lemmatized_text_reduced": "decreto firmar jefe ejecutivo regional paulino_rivero orden aprobar diferente consejería alegar uso derecho huelga parte trabajador reconocer artículo constitución_española información boletín_oficial_de_canarias recoger europa_press modo ejecutivo considerar necesidad garantizar cautelarmente prestación servicio considerar esencial conjunto función ser competencia diferente departamento contexto administración autonómico ser oír comité_de_huelga fijación servicio mínimo proponer área ejecutivo regional determinar servicio mínimo cumplir caso personal deber atender mismo huelga",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ejecutivo",
+            "Constitución_Española",
+            "Boletín_Oficial_de_Canarias",
+            "Europa_Press",
+            "Ejecutivo",
+            "Comité_de_Huelga",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "28.2"
+        ]
+    }
+}

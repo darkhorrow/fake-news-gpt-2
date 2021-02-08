@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/409494/0/homicidio/coreana/laspalmas/",
+    "title": {
+        "raw_text": "Acusado de agresión sexual el autor de la muerte de la niña coreana en Las Palmas",
+        "lemmatized_text": "acusar de agresión sexual el autor de el muerte de el niño coreano en las_palmas",
+        "lemmatized_text_reduced": "acusar agresión sexual autor muerte niño coreano las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Fue detenido como presunto autor del homicidio de In-Sil Oh. Está acusado también de robo con violencia. La niña fue hallada muerta el sábado en la vivienda familiar. CONSULTA QUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "ser detener como presunto autor de el homicidio de in-sil_oh estar acusar también de robo con violencia el niño ser hallar morir el [S:??/??/??:??.??:??] en el vivienda familiar consulta_quí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ser detener presunto autor homicidio in-sil_oh estar acusar robo violencia niño ser hallar morir vivienda familiar consulta_quí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "In-Sil_Oh"
+        ],
+        "organizations": [
+            "CONSULTA_QUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El ciudadano de nacionalidad coreana detenido como presunto autor del homicidio de la niña de 11 años In-Sil Oh , de la misma nacionalidad y encontrada muerta este fin de semana en su domicilio familiar de Las Palmas de Gran Canaria, está acusado también de agresión sexual y robo con violencia . Así lo informó en la tarde de este jueves el Tribunal Superior de Justicia de Canarias, que detalló que el detenido, arrestado en la Península, será puesto este viernes a disposición de un juzgado de la capital grancanaria. La niña fue hallada muerta el sábado por la tarde en la vivienda familiar situada en el número 215 de la calle La Naval, a la altura de la plaza de Manuel Becerra , en el popular barrio de La Isleta. Las autoridades no han podido facilitar el lugar exacto de la detención ni la identificación del detenido y si tenía relación con la familia de la menor, ya que el juez del Juzgado de Instrucción número 1 de la ciudad, Alberto Puebla, ha decretado secreto de sumario , indicaron fuentes policiales. CONSULTA QUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el ciudadano de nacionalidad coreano detener como presunto autor de el homicidio de el niño de 11 año in-sil_oh de el mismo nacionalidad y encontrar morir este fin de semana en su domicilio familiar de las_palmas_de_gran_canaria estar acusar también de agresión sexual y robo con violencia así lo informar en el tarde de este [J:??/??/??:??.??:??] el tribunal_superior_de_justicia_de_canarias que detallar que el detener arrestar en el península ser poner este [V:??/??/??:??.??:??] a disposición de uno juzgado de el capital grancanaria el niño ser hallar morir el [S:??/??/??:??.??:pm] en el vivienda familiar situar en el número 215 de el calle la_naval a el altura de el plaza de manuel_becerra en el popular barrio de la_isleta el autoridad no haber poder facilitar el lugar exacto de el detención ni el identificación de el detener y si tener relación con el familia de el menor ya_que el juez de el juzgado_de_instrucción número 1 de el ciudad alberto_puebla haber decretar secreto de sumario indicar fuente policial consulta_quí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ciudadano nacionalidad coreano detener presunto autor homicidio niño año in-sil_oh mismo nacionalidad encontrar morir fin semana domicilio familiar las_palmas_de_gran_canaria estar acusar agresión sexual robo violencia informar tarde tribunal_superior_de_justicia_de_canarias detallar detener arrestar península ser poner disposición juzgado capital grancanaria niño ser hallar morir vivienda familiar situar número calle la_naval altura plaza manuel_becerra popular barrio la_isleta autoridad haber poder facilitar lugar exacto detención identificación detener tener relación familia menor juez juzgado_de_instrucción número ciudad alberto_puebla haber decretar secreto sumario indicar fuente policial consulta_quí_más_noticias_de_las_palmas",
+        "persons": [
+            "Alberto_Puebla"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Península",
+            "La_Naval",
+            "Manuel_Becerra",
+            "La_Isleta"
+        ],
+        "organizations": [
+            "In-Sil_Oh",
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "Juzgado_de_Instrucción",
+            "CONSULTA_QUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:pm]"
+        ],
+        "numbers": [
+            "11",
+            "215",
+            "1"
+        ]
+    }
+}

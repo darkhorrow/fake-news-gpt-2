@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/658176/0/",
+    "title": {
+        "raw_text": "Jefa Superior de Policía Nacional en Canarias y Darias abandonan la zona donde se encuentra el pozo de Jinámar",
+        "lemmatized_text": "jefa_superior_de_policía_nacional en canarias y darias abandonar el zona donde se encontrar el pozo de jinámar",
+        "lemmatized_text_reduced": "jefa_superior_de_policía_nacional canarias darias abandonar zona encontrar pozo jinámar",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Darias",
+            "Jinámar"
+        ],
+        "organizations": [
+            "Jefa_Superior_de_Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La delegada del Gobierno en Canarias, Carolina Darias, y la jefa Superior de la Policía Nacional en el archipiélago, Concepción de Vega, han abandonado ya la zona en la que se encuentra el pozo de Jinámar (Gran Canaria) donde diversos efectivos están buscando restos de huesos.",
+        "lemmatized_text": "el delegado de el gobierno en canarias carolina_darias y el jefe superior_de_la_policía_nacional en el archipiélago concepción_de_vega haber abandonar ya el zona en el que se encontrar el pozo de jinámar gran_canaria donde diverso efectivo estar buscar resto de hueso",
+        "lemmatized_text_reduced": "delegado gobierno canarias carolina_darias jefe superior_de_la_policía_nacional archipiélago concepción_de_vega haber abandonar zona encontrar pozo jinámar gran_canaria efectivo estar buscar resto hueso",
+        "persons": [
+            "Carolina_Darias",
+            "Concepción_de_Vega"
+        ],
+        "locations": [
+            "Canarias",
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [
+            "Superior_de_la_Policía_Nacional"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Ambas, han estado en el lugar prácticamente durante toda la mañana. En estos momentos, los trabajos continúan en la zona donde una veintena de efectivos de la Unidad Militar de Emergencias (UME) se han sumado al operativo de la Policía Nacional en busca de restos óseos en un pozo. En concreto, hasta el lugar se han desplazado tres vehículos cuatro por cuatro, un camión con bomba extractora y otro de transporte para intentar vaciar parte del pozo. Asimismo, agentes de la Policía Nacional encargada de la investigación han extraído diversas cajas de cartón del inmueble de Jinamar en el que se encuentra el pozo, y las han depositado en una furgoneta policial, que se mantiene en el lugar. Desde primera hora de esta mañana agentes del Grupo Operativo Especiales de Seguridad (GOES) de la Policía Nacional están trabajando en el lugar. Estas labores se llevan a cabo después de que una cámara subacuática captara el pasado viernes, durante los rastreos que se están realizando por el caso de Sara Morales (la niña desaparecida en la isla hace más de tres años), una imagen en la que aparecía una bolsa que podría contener restos de huesos. De todos modos, hasta el momento no hay ningún resultado al respecto, según confirmaron fuentes del Cuerpo Nacional de Seguridad a Europa Press.",
+        "lemmatized_text": "ambos haber estar en el lugar prácticamente durante todo el mañana en este momento el trabajo continuar en el zona donde uno veintena de efectivo de el unidad_militar_de_emergencias ume se haber sumar a el operativo de el policía_nacional en_busca_de resto óseo en uno pozo en concreto hasta el lugar se haber desplazar 3 vehículo 4 por 4 uno camión con bomba extractor y otro de transporte para intentar vaciar parte de el pozo asimismo agente de el policía_nacional encargar de el investigación haber extraer diverso caja de cartón de el inmueble de jinamar en el que se encontrar el pozo y lo haber depositar en uno furgoneta policial que se mantener en el lugar desde 1 hora de este mañana agente de el grupo_operativo_especiales_de_seguridad goes de el policía_nacional estar trabajar en el lugar este labor se llevar_a_cabo después_de que uno cámara subacuático captar el [V:??/??/??:??.??:??] durante el rastreo que se estar realizar por el caso de sara_morales el niño desaparecer en el isla hacer más de 3 año uno imagen en el que aparecer uno bolsa que poder contener resto de hueso de_todos_modos hasta el momento no haber ninguno resultado a el respecto según confirmar fuente de el cuerpo_nacional_de_seguridad a europa_press",
+        "lemmatized_text_reduced": "haber estar lugar prácticamente mañana momento trabajo continuar zona veintena efectivo unidad_militar_de_emergencias ume haber sumar operativo policía_nacional resto óseo pozo concreto lugar haber desplazar vehículo camión bomba extractor transporte intentar vaciar parte pozo agente policía_nacional encargar investigación haber extraer caja cartón inmueble jinamar encontrar pozo haber depositar furgoneta policial mantener lugar 1 hora mañana agente grupo_operativo_especiales_de_seguridad goes policía_nacional estar trabajar lugar labor llevar_a_cabo cámara subacuático captar rastreo estar realizar caso sara_morales niño desaparecer isla hacer año imagen aparecer bolsa poder contener resto hueso momento haber resultado respecto confirmar fuente cuerpo_nacional_de_seguridad europa_press",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Jinamar"
+        ],
+        "organizations": [
+            "Unidad_Militar_de_Emergencias",
+            "UME",
+            "Policía_Nacional",
+            "Policía_Nacional",
+            "Grupo_Operativo_Especiales_de_Seguridad",
+            "GOES",
+            "Policía_Nacional",
+            "Cuerpo_Nacional_de_Seguridad",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "4",
+            "4",
+            "3"
+        ]
+    }
+}

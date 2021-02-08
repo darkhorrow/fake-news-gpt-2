@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/652527/0/",
+    "title": {
+        "raw_text": "Un transeunte se encuentra el cuerpo de una mujer flotando en el Muelle Deportivo de Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno transeunte se encontrar el cuerpo de uno mujer flotar en el muelle_deportivo_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "transeunte encontrar cuerpo mujer flotar muelle_deportivo_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Muelle_Deportivo_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un transeunte se ha encontrado hoy el cuerpo de una mujer flotando en las cercanías del Muelle Deportivo, en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes de la Autoridad Portuaria.",
+        "lemmatized_text": "uno transeunte se haber encontrar hoy el cuerpo de uno mujer flotar en el cercanía de el muelle_deportivo en las_palmas_de_gran_canaria según informar a europa_press fuente de el autoridad_portuaria",
+        "lemmatized_text_reduced": "transeunte haber encontrar cuerpo mujer flotar cercanía muelle_deportivo las_palmas_de_gran_canaria informar europa_press fuente autoridad_portuaria",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Muelle_Deportivo",
+            "Autoridad_Portuaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La persona, que paseaba sobre las 17.15 horas de esta tarde por dicho Muelle, dio la voz de alarma a la Autoridad Portuaria que, posteriormente, llamó a la Guardia Civil que se ha encargado de intervenir. Asimismo, hasta el lugar del incidente se ha trasladado personal del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el persona que pasear sobre el TM_h:17.15 de este tarde por decir muelle dar el voz de alarma a el autoridad_portuaria que posteriormente llamar a el guardia_civil que se haber encargar de intervenir asimismo hasta el lugar de el incidente se haber trasladar personal de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "persona pasear tarde decir muelle dar voz alarma autoridad_portuaria posteriormente llamar guardia_civil haber encargar intervenir lugar incidente haber trasladar personal centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Muelle"
+        ],
+        "locations": [],
+        "organizations": [
+            "Autoridad_Portuaria",
+            "Guardia_Civil",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.15",
+            "112"
+        ]
+    }
+}

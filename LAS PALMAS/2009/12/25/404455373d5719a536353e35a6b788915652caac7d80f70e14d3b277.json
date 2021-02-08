@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595510/0/",
+    "title": {
+        "raw_text": "Dos personas resultan afectadas en un incendio declarado en una vivienda de Arucas (Gran Canaria)",
+        "lemmatized_text": "2 persona resultar afectar en uno incendio declarar en uno vivienda de arucas gran_canaria",
+        "lemmatized_text_reduced": "persona resultar afectar incendio declarar vivienda arucas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos personas, un varón de 45 años y una mujer de 74 años, resultaron intoxicadas por inhalación de humo en la tarde de ayer en un incendio que se declaró en su vivienda de Arucas (Gran Canaria), según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "2 persona uno varón de 45 año y uno mujer de 74 año resultar intoxicar por inhalación de humo en el tarde de ayer en uno incendio que se declarar en su vivienda de arucas gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "persona varón año mujer año resultar intoxicar inhalación humo tarde incendio declarar vivienda arucas gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Arucas"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "45",
+            "74",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 17.06 horas indicando que se había producido un fuego en una vivienda unifamiliar en la calle Artemi Semidán del municipio de Arucas y dos personas precisaban asistencia sanitaria. Por ello, el recurso de emergencia activó al Servicio de Urgencias Canario (SUC), que se trasladó al lugar de los hechos comprobando que los afectados presentaban intoxicaciones por el humo, por lo que fueron trasladadas en ambulancias de soporte vital básico hasta el centro de salud de la zona. Asimismo, en el suceso participaron los Bomberos del Consorcio, que sofocaron el incendio y ventilaron el inmueble, la Policía Local de Arucas y la Guardia Civil, que se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:17.06 indicar que se haber producir uno fuego en uno vivienda unifamiliar en el calle artemi_semidán de el municipio de arucas y 2 persona precisar asistencia sanitario por ello el recurso de emergencia activar a el servicio_de_urgencias_canario suc que se trasladar a el lugar de el hecho comprobar que el afectado presentar intoxicación por el humo por el que ser trasladar en ambulancia de soporte vital básico hasta el centro de salud de el zona asimismo en el suceso participar el bomberos_del_consorcio que sofocar el incendio y ventilar el inmueble el policía_local_de_arucas y el guardia_civil que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar haber producir fuego vivienda unifamiliar calle artemi_semidán municipio arucas persona precisar asistencia sanitario recurso emergencia activar servicio_de_urgencias_canario suc trasladar lugar hecho comprobar afectado presentar intoxicación humo ser trasladar ambulancia soporte vital básico centro salud zona suceso participar bomberos_del_consorcio sofocar incendio ventilar inmueble policía_local_de_arucas guardia_civil encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Artemi_Semidán",
+            "Arucas"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Bomberos_del_Consorcio",
+            "Policía_Local_de_Arucas",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.06",
+            "2"
+        ]
+    }
+}

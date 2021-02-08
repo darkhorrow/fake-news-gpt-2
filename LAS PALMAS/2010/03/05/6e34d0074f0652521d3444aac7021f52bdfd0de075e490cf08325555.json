@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/644760/0/",
+    "title": {
+        "raw_text": "El Patrullero 'Vencedora' partirá mañana desde Gran Canaria hacia el Índico para incorporarse a la Operación Atalanta",
+        "lemmatized_text": "el patrullero vencedor partir mañana desde gran_canaria hacia el índico para incorporar se a el operación_atalanta",
+        "lemmatized_text_reduced": "patrullero vencedor partir gran_canaria índico incorporar operación_atalanta",
+        "persons": [
+            "Patrullero"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Índico"
+        ],
+        "others": [
+            "Operación_Atalanta"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Patrullero de la Armada Española 'Vencedora', con base en Gran Canaria, partirá mañana hacia el Océano Índico para incorporarse a la Operación Atalanta y contribuir a las nuevas funciones de vigilancia y control sobre los puertos somalíes desde los que operan los piratas, informó hoy el Ministerio de Defensa en un comunicado.",
+        "lemmatized_text": "el patrullero_de_la_armada_española vencedor con base en gran_canaria partir mañana hacia el océano_índico para incorporar se a el operación_atalanta y contribuir a el nuevo función de vigilancia y control sobre el puerto somalí desde el que operar el pirata informar hoy el ministerio_de_defensa en uno comunicado",
+        "lemmatized_text_reduced": "patrullero_de_la_armada_española vencedor base gran_canaria partir océano_índico incorporar operación_atalanta contribuir nuevo función vigilancia control puerto somalí operar pirata informar ministerio_de_defensa comunicado",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Océano_Índico"
+        ],
+        "organizations": [
+            "Patrullero_de_la_Armada_Española",
+            "Ministerio_de_Defensa"
+        ],
+        "others": [
+            "Operación_Atalanta"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, la decisión del envío de este patrullero responde al apoyo alcanzado por los ministros de Defensa de la UE en la Reunión Informal celebrada la pasada semana en Palma de Mallorca, para reforzar las acciones contra la piratería en el Índico. Atalanta es la primera operación marítima que organiza y dirige la UE. Se inició el 8 de diciembre de 2008 y la integrarán más de 1.000 militares de Francia, Reino Unido, Alemania, Países Bajos, Grecia y España. Aquí, España asumió el mando a partir de mediados de abril de 2009 por un periodo de cuatro meses. El patrullero 'Vencedora', con una dotación mayoritariamente canaria, zarpará mañana 6 de marzo del Arsenal Militar de Las Palmas. Previo a su incorporación a zona de operaciones, realizará unos ejercicios de alistamiento pre-misión en aguas de Cartagena. Se prevé que permanezca integrado dentro de la operación por un periodo de tres meses. Por su parte, el almirante comandante del Mando Naval de Canarias presidirá una ceremonia de despedida del buque, que se incorporará a la operación Atalanta de lucha contra la piratería en el Océano Índico. El acto, al que acudirán las familias de los 90 miembros de la dotación, mayoritariamente canaria, se celebrará mañana día 6 a las 12.00 horas en el Arsenal Militar de Las Palmas.",
+        "lemmatized_text": "de este manera el decisión de el envío de este patrullero responder a el apoyo alcanzar por el ministro de defensa_de_la_ue en el reunión_informal celebrar el pasar semana en palma_de_mallorca para reforzar el acción contra el piratería en el índico atalantar ser el 1 operación marítimo que organizar y dirigir el ue se iniciar el [??:8/12/2008:??.??:??] y lo integrar más de 1 militar de francia reino_unido alemania países_bajos grecia y españa aquí españa asumir el mando a_partir_de mediar de [??:??/4/2009:??.??:??] por uno periodo de 4 mes el patrullero vencedor con uno dotación mayoritariamente canario zarpar mañana [??:6/3/??:??.??:??] de el arsenal_militar_de_las_palmas previo a su incorporación a zona de operación realizar uno ejercicio de alistamiento pre-misión en agua de cartagena se prever que permanecer integrar dentro_de el operación por uno periodo de 3 mes por su parte el almirante comandante de el mando_naval_de_canarias presidir uno ceremonia de despedida de el buque que se incorporar a el operación atalanta de lucha contra el piratería en el océano_índico el acto a el que acudir el familia de el 90 miembro de el dotación mayoritariamente canario se celebrar mañana [??:6/??/??:12.00:??] en el arsenal_militar_de_las_palmas",
+        "lemmatized_text_reduced": "manera decisión envío patrullero responder apoyo alcanzar ministro defensa_de_la_ue reunión_informal celebrar pasar semana palma_de_mallorca reforzar acción piratería índico atalantar ser 1 operación marítimo organizar dirigir ue iniciar integrar militar francia reino_unido alemania países_bajos grecia españa españa asumir mando mediar periodo mes patrullero vencedor dotación mayoritariamente canario zarpar arsenal_militar_de_las_palmas previo incorporación zona operación realizar ejercicio alistamiento pre-misión agua cartagena prever permanecer integrar operación periodo mes parte almirante comandante mando_naval_de_canarias presidir ceremonia despedida buque incorporar operación atalanta lucha piratería océano_índico acto acudir familia miembro dotación mayoritariamente canario celebrar arsenal_militar_de_las_palmas",
+        "persons": [
+            "España"
+        ],
+        "locations": [
+            "Reunión_Informal",
+            "Palma_de_Mallorca",
+            "Índico",
+            "Francia",
+            "Reino_Unido",
+            "España",
+            "Cartagena",
+            "Océano_Índico",
+            "Arsenal_Militar_de_Las_Palmas"
+        ],
+        "organizations": [
+            "Defensa_de_la_UE",
+            "UE",
+            "Alemania",
+            "Países_Bajos",
+            "Grecia",
+            "Arsenal_Militar_de_Las_Palmas",
+            "Mando_Naval_de_Canarias"
+        ],
+        "others": [
+            "Atalanta"
+        ],
+        "dates": [
+            "[??:8/12/2008:??.??:??]",
+            "[??:??/4/2009:??.??:??]",
+            "[??:6/3/??:??.??:??]",
+            "[??:6/??/??:12.00:??]"
+        ],
+        "numbers": [
+            "1",
+            "4",
+            "3",
+            "90"
+        ]
+    }
+}

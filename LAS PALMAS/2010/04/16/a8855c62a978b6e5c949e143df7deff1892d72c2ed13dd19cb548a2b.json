@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/679367/0/",
+    "title": {
+        "raw_text": "El Cabildo de Lanzarote siembra 378 hectáreas de trigo, cebada y archita",
+        "lemmatized_text": "el cabildo_de_lanzarote sembrar AR_hA:378 de trigo cebada y archita",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote sembrar trigo cebada archita",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_hA:378"
+        ]
+    },
+    "lead": {
+        "raw_text": "La consejería de Agricultura, Ganadería y Pesca del Cabildo de Lanzarote ha sembrado este año un total de 378 hectáreas, repartidas por 578 fincas de la isla, de trigo, cebada y archita.",
+        "lemmatized_text": "el consejería de agricultura ganadería y pesca_del_cabildo_de_lanzarote haber sembrar este año uno total de AR_hA:378 repartir por 578 finca de el isla de trigo cebada y archita",
+        "lemmatized_text_reduced": "consejería agricultura ganadería pesca_del_cabildo_de_lanzarote haber sembrar año total repartir finca isla trigo cebada archita",
+        "persons": [],
+        "locations": [
+            "Ganadería"
+        ],
+        "organizations": [
+            "Agricultura",
+            "Pesca_del_Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_hA:378",
+            "578"
+        ]
+    },
+    "body": {
+        "raw_text": "En total, según informó el Cabildo de Lanzarote en nota de prensa, se han plantado 24.000 kilogramos de semillas de cereales y legumbres para el control cinegético insular. La siembra se ha llevado a cabo durante varios meses por distintas zonas de los siete municipios de la isla. Así, la siembra se ha realizado en municipios como Teguise, Arrecife o San Bartolomé, entre otros. La consejera de Agricultura del Cabildo de Lanzarote, Nereida Pérez, señaló que el objetivo de sembrar estos cereales se centra en recuperar fincas que tradicionalmente se cultivaban, favorecer la supervivencia de especies autóctonas y preservar las producciones y plantaciones agrícolas de la isla, controlando que las especies locales, tales como los conejos o perdices se dispersen comiéndose y deteriorando los cultivos.",
+        "lemmatized_text": "en total según informar el cabildo_de_lanzarote en nota de prensa se haber plantar WG_kg:24 de semilla de cereal y legumbre para el control cinegético insular el siembra se haber llevar_a_cabo durante varios mes por distinto zona de el 7 municipio de el isla así el siembra se haber realizar en municipio como teguise arrecife o san_bartolomé entre otro el consejero de agricultura_del_cabildo_de_lanzarote nereida_pérez señalar que el objetivo de sembrar este cereal se centrar en recuperar finca que tradicionalmente se cultivar favorecer el supervivencia de especie autóctono y preservar el producción y plantación agrícola de el isla controlar que el especie local tal como el conejo o perdiz se dispersar comer se y deteriorar el cultivo",
+        "lemmatized_text_reduced": "total informar cabildo_de_lanzarote nota prensa haber plantar semilla cereal legumbre control cinegético insular siembra haber llevar_a_cabo mes zona municipio isla siembra haber realizar municipio teguise arrecife san_bartolomé consejero agricultura_del_cabildo_de_lanzarote nereida_pérez señalar objetivo sembrar cereal centrar recuperar finca tradicionalmente cultivar favorecer supervivencia especie autóctono preservar producción plantación agrícola isla controlar especie local conejo perdiz dispersar comer deteriorar cultivo",
+        "persons": [
+            "Arrecife",
+            "Nereida_Pérez"
+        ],
+        "locations": [
+            "Teguise",
+            "San_Bartolomé"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [
+            "Agricultura_del_Cabildo_de_Lanzarote"
+        ],
+        "dates": [],
+        "numbers": [
+            "WG_kg:24",
+            "7"
+        ]
+    }
+}

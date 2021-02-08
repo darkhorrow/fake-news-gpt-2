@@ -1,0 +1,109 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/638687/0/",
+    "title": {
+        "raw_text": "Canarias, con 830 millones, es la región donde más gastaron los turistas extranjeros en enero pese al descenso del 1,3%",
+        "lemmatized_text": "canario con 830000000 ser el región donde más gastar el turista extranjero en [??:??/1/??:??.??:??] pesar a el descenso de el 1,3/100",
+        "lemmatized_text_reduced": "canario ser región gastar turista extranjero pesar descenso",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "830000000",
+            "1,3/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias ha sido la región donde más gastaron los turistas extranjeros en enero pese a registrar un descenso del 1,3 por ciento respecto al año pasado, mientras que a nivel nacional el gasto total se recuperó enero y creció un 4,1 por ciento por primera vez desde abril de 2009, según la Encuesta de Gasto Turístico (Egatur) que elabora el Instituto de Estudios Turísticos del Ministerio de Industria, Turismo y Comercio.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias haber ser el región donde más gastar el turista extranjero en [??:??/1/??:??.??:??] pese_a registrar uno descenso de el 1,3 por 100 respecto a el año pasar mientras_que a nivel nacional el gasto total se recuperar [??:??/1/??:??.??:??] y crecer uno 4,1 por 100 por 1 vez desde [??:??/4/2009:??.??:??] según el encuesta_de_gasto_turístico egatur que elaborar el instituto_de_estudios_turísticos_del_ministerio_de_industria turismo y comercio",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias haber ser región gastar turista extranjero registrar descenso respecto año pasar nivel nacional gasto total recuperar crecer 1 vez encuesta_de_gasto_turístico egatur elaborar instituto_de_estudios_turísticos_del_ministerio_de_industria turismo comercio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Egatur",
+            "Instituto_de_Estudios_Turísticos_del_Ministerio_de_Industria",
+            "Turismo",
+            "Comercio"
+        ],
+        "others": [
+            "Encuesta_de_Gasto_Turístico"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/4/2009:??.??:??]"
+        ],
+        "numbers": [
+            "1,3",
+            "100",
+            "4,1",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el gasto total de los turistas foráneos en las islas se situó en 830 millones de euros, lo que supone una media de 1.043 euros por persona, un 2,8 por ciento menos que en enero de 2009. Así, el gasto diario fue de 95 euros, un 4 por ciento menos que el mismo mes del año pasado. En el conjunto de España, el gasto medio por persona alcanzó los 947 millones de euros, un 3,2% más que en enero de 2008, mientras que el gasto medio diario fue de 94 euros, un 3,1 % más. Por mercados emisores, los alemanes fueron los que mayor gasto total aportaron al turismo en España en el mes de enero a pesar de registrar un descenso del 7,9%, aunque el gasto medio se mantuvo por encima de los 1.000 euros al caer por debajo del 2%. Los turistas británicos gastaron un 9,2% menos pero incrementaron su gasto diario un 3,7%. No obstante, los turistas nórdicos incrementaron su gasto un 0,3% y los franceses un 2,3%. La tendencia alcista del gasto continuó con los turistas italianos, con un aumento del 5%. Por comunidades autónomas, el destino que acumuló más gasto fue Canarias, a pesar de un descenso del 1,3%, seguida de Cataluña, con un crecimiento del 14,6% gracias al buen comportamiento de los países nórdicos y mercados lejanos así como por el crecimiento de la estancia media. Andalucía registró un incremento del 6% y se situó como tercera comunidad por gasto recibido seguida de la Comunidad de Madrid, que siguió en tendencia alcista con un incremento del 16,8% gracias a la evolución positiva de Francia e Italia. Peor en las islas y en comunidad valenciana . En el lado negativo se situó la Comunidad Valenciana, con un descenso del 6,5% y Baleares (-25,6%) debido a la caída registrada por parte de sus principales mercados emisores, Reino Unido y Alemania. En cuanto al tipo de alojamiento, el gasto de los turistas que escogieron el alojamiento extrahotelero aumentó un 9,5%, mientras que el de los que se alojaron en hoteles creció, en este caso, un 1,3%. El gasto de turistas que viajaron sin paquete turístico representó un 66,4% del total realizado y disminuyó un 2,1%, mientras que el gasto de los que vinieron con paquete, con menor importancia en peso, aumentó un 7,6%.",
+        "lemmatized_text": "de este manera el gasto total de el turista foráneo en el isla se situar en $_ECU:830000000 el que suponer uno medio de $_ECU:1.043 por persona uno 2,8 por 100 menos que en [??:??/1/2009:??.??:??] así el gasto diario ser de $_ECU:95 uno 4 por 100 menos que el mismo mes de el año pasar en el conjunto de españa el gasto medio por persona alcanzar el $_ECU:947000000 uno 3,2/100 más que en [??:??/1/2008:??.??:??] mientras_que el gasto medio diario ser de $_ECU:94 uno 3,1/100 más por mercado emisor el alemán ser el que mayor gasto total aportar a el turismo en españa en el [??:??/1/??:??.??:??] a_pesar_de registrar uno descenso de el 7,9/100 aunque el gasto medio se mantener por encima_de el $_ECU:1 a el caer por debajo de el 2/100 el turista británico gastar uno 9,2/100 menos pero incrementar su gasto diario uno 3,7/100 no_obstante el turista nórdico incrementar su gasto uno 0,3/100 y el francés uno 2,3/100 el tendencia alcista de el gasto continuar con el turista italiano con uno aumento de el 5/100 por comunidad autónomo el destino que acumular más gasto ser canarias a_pesar_de uno descenso de el 1,3/100 seguir de cataluña con uno crecimiento de el 14,6/100 gracia a el bueno comportamiento de el país nórdico y mercado lejano así_como por el crecimiento de el estancia medio andalucía registrar uno incremento de el 6/100 y se situar como 3 comunidad por gasto recibir seguir de el comunidad_de_madrid que seguir en tendencia alcista con uno incremento de el 16,8/100 gracias_a el evolución positivo de francia y italia peor en el isla y en comunidad valenciano en el lado negativo se situar el comunidad_valenciana con uno descenso de el 6,5/100 y baleares -25,6/100 debido_a el caída registrar por parte de su principal mercado emisor reino_unido y alemania en cuanto a el tipo de alojamiento el gasto de el turista que escoger el alojamiento extrahotelero aumentar uno 9,5/100 mientras_que el de el que se alojar en hotel crecer en este caso uno 1,3/100 el gasto de turista que viajar sin paquete turístico representar uno 66,4/100 de el total realizar y disminuir uno 2,1/100 mientras_que el gasto de el que venir con paquete con menor importancia en peso aumentar uno 7,6/100",
+        "lemmatized_text_reduced": "manera gasto total turista foráneo isla situar suponer medio persona gasto diario ser mismo mes año pasar conjunto españa gasto medio persona alcanzar gasto medio diario ser mercado emisor alemán ser mayor gasto total aportar turismo españa registrar descenso gasto medio mantener caer turista británico gastar incrementar gasto diario turista nórdico incrementar gasto francés tendencia alcista gasto continuar turista italiano aumento comunidad autónomo destino acumular gasto ser canarias descenso seguir cataluña crecimiento gracia bueno comportamiento país nórdico mercado lejano crecimiento estancia medio andalucía registrar incremento situar 3 comunidad gasto recibir seguir comunidad_de_madrid seguir tendencia alcista incremento evolución positivo francia italia isla comunidad valenciano lado negativo situar comunidad_valenciana descenso baleares caída registrar parte principal mercado emisor reino_unido alemania tipo alojamiento gasto turista escoger alojamiento extrahotelero aumentar alojar hotel crecer caso gasto turista viajar paquete turístico representar total realizar disminuir gasto venir paquete menor importancia peso aumentar",
+        "persons": [],
+        "locations": [
+            "España",
+            "España",
+            "Canarias",
+            "Cataluña",
+            "Andalucía",
+            "Italia",
+            "Comunidad_Valenciana",
+            "Baleares",
+            "Reino_Unido",
+            "Alemania"
+        ],
+        "organizations": [
+            "Comunidad_de_Madrid",
+            "Francia"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/2009:??.??:??]",
+            "[??:??/1/2008:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:830000000",
+            "$_ECU:1.043",
+            "2,8",
+            "100",
+            "$_ECU:95",
+            "4",
+            "100",
+            "$_ECU:947000000",
+            "3,2/100",
+            "$_ECU:94",
+            "3,1/100",
+            "7,9/100",
+            "$_ECU:1",
+            "2/100",
+            "9,2/100",
+            "3,7/100",
+            "0,3/100",
+            "2,3/100",
+            "5/100",
+            "1,3/100",
+            "14,6/100",
+            "6/100",
+            "16,8/100",
+            "6,5/100",
+            "-25,6/100",
+            "9,5/100",
+            "1,3/100",
+            "66,4/100",
+            "2,1/100",
+            "7,6/100"
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/937874/0/",
+    "title": {
+        "raw_text": "Rivero pide al Gobierno prorrogar la ayuda de 426 euros a los desempleados \"al menos\" seis meses más",
+        "lemmatized_text": "rivero pedir a el gobierno prorrogar el ayuda de $_ECU:426 a el desempleado a el menos 6 mes más",
+        "lemmatized_text_reduced": "rivero pedir gobierno prorrogar ayuda desempleado mes",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:426",
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, consideró este lunes que \"lo lógico y lo natural\" es que el Estado prorrogue durante \"al menos\" otros seis meses el pago de los 426 euros mensuales a desempleados de larga duración.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero considerar este [L:??/??/??:??.??:??] que el lógico y el natural ser que el estado prorrogar durante a el menos otro 6 mes el pago de el $_ECU:426 mensual a desempleado de largo duración",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero considerar lógico natural ser estado prorrogar mes pago mensual desempleado largo duración",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Estado"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "6",
+            "$_ECU:426"
+        ]
+    },
+    "body": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, consideró este lunes que \"lo lógico y lo natural\" es que el Estado prorrogue durante \"al menos\" otros seis meses el pago de los 426 euros mensuales a desempleados de larga duración. En declaraciones a los medios de comunicación tras presidir el Foro Canario de la Sociedad de la Información en la capital grancanaria, Rivero explicó que ésta es la postura del Ejecutivo regional en la Conferencia Sectorial Extraordinaria de Empleo y Asuntos Sociales que se celebra en Madrid. \"La posición de Canarias en principio es que aquí cada uno asume sus responsabilidades. El Estado es el que cobra de la cuota de la Seguridad Social que pagamos todos y tiene esa Caja Única para impulsar las políticas que garanticen la cohesión social y ésta es una responsabilidad del Estado\", remarcó. El jefe del Ejecutivo autonómico apostó por que en los próximos seis meses \"con tranquilidad se busquen las fórmulas más adecuadas para reorientar una herramienta o instrumento que sea más provechoso para esta compensación a las familias que no tienen empleo, que puede estar vinculado a formación o darle otra orientación\". Al entender de Rivero, \"son cuestiones que necesitan tiempo\", por lo que estima que \"lo primero que hay que hacer es prorrogar la ayuda por al menos seis meses que permita trabajar con tranquilidad entre las comunidades autónomas y el Estado\".",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero considerar este [L:??/??/??:??.??:??] que el lógico y el natural ser que el estado prorrogar durante a el menos otro 6 mes el pago de el $_ECU:426 mensual a desempleado de largo duración en declaración a el medio de comunicación tras presidir el foro_canario_de_la_sociedad_de_la_información en el capital grancanaria rivero explicar que este ser el postura de el ejecutivo regional en el conferencia_sectorial_extraordinaria_de_empleo y asuntos_sociales que se celebrar en madrid el posición de canarias en principio ser que aquí cada uno asumir su responsabilidad el estado ser el que cobrar de el cuota de el seguridad_social que pagar todo y tener ese caja_única para impulsar el política que garantizar el cohesión social y este ser uno responsabilidad de el estado remarcar el jefe de el ejecutivo autonómico apostar por que en el próximo 6 mes con tranquilidad se buscar el fórmula más adecuar para reorientar uno herramienta o instrumento que ser más provechoso para este compensación a el familia que no tener empleo que poder estar vincular a formación o dar le otro orientación a el entender de rivero ser cuestión que necesitar tiempo por el que estimar que el 1 que haber que hacer ser prorrogar el ayuda por a el menos 6 mes que permitir trabajar con tranquilidad entre el comunidad autónomo y el estado",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero considerar lógico natural ser estado prorrogar mes pago mensual desempleado largo duración declaración medio comunicación presidir foro_canario_de_la_sociedad_de_la_información capital grancanaria rivero explicar ser postura ejecutivo regional conferencia_sectorial_extraordinaria_de_empleo asuntos_sociales celebrar madrid posición canarias principio ser asumir responsabilidad estado ser cobrar cuota seguridad_social pagar tener caja_única impulsar política garantizar cohesión social ser responsabilidad estado remarcar jefe ejecutivo autonómico apostar próximo mes tranquilidad buscar fórmula adecuar reorientar herramienta instrumento ser provechoso compensación familia tener empleo poder estar vincular formación dar orientación entender rivero ser cuestión necesitar tiempo estimar 1 haber hacer ser prorrogar ayuda mes permitir trabajar tranquilidad comunidad autónomo estado",
+        "persons": [
+            "Paulino_Rivero",
+            "Rivero",
+            "Rivero"
+        ],
+        "locations": [
+            "Madrid",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Estado",
+            "Foro_Canario_de_la_Sociedad_de_la_Información",
+            "Ejecutivo",
+            "Asuntos_Sociales",
+            "Estado",
+            "Caja_Única",
+            "Estado",
+            "Ejecutivo",
+            "Estado"
+        ],
+        "others": [
+            "Conferencia_Sectorial_Extraordinaria_de_Empleo",
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "6",
+            "$_ECU:426",
+            "6",
+            "6"
+        ]
+    }
+}

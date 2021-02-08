@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-07-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/477117/0/cocodrilo/cristiano/ronaldo/",
+    "title": {
+        "raw_text": "Los niños bautizan 'Cristiano Ronaldo' al cocodrilo albino de Gran Canaria",
+        "lemmatized_text": "el niño bautizar cristiano_ronaldo a el cocodrilo albino de gran_canaria",
+        "lemmatized_text_reduced": "niño bautizar cristiano_ronaldo cocodrilo albino gran_canaria",
+        "persons": [
+            "Cristiano_Ronaldo"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Afirman que ambos son \"únicos\" y \"los fichajes más importantes\". Se barajaban también los nombres de 'Gran Albin' y 'Blanquito'. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "afirmar que ambos ser único y el fichaje más importante se barajar también el nombre de gran_albin y blanco consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "afirmar ser único fichaje importante barajar nombre gran_albin blanco consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Gran_Albin"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los niños de Gran Canaria han decidido poner el nombre del futbolista portugués Cristiano Ronaldo , uno de los fichajes estrellas del Real Madrid , al cocodrilo albino del parque temático Sioux City, ubicado en la isla, por ser ambos \"blancos\" y \"la sensación de la temporada\". Tras la adquisición del reptil, el centro optó por dejar que los niños que visitan el parque decidieran el nombre, informaron fuentes del centro. El animal llegó al parque el pasado mes de diciembre y, aunque en un principio se imponían los nombres de 'Gran Albin' o 'Blanquito ', el reciente fichaje del Real Madrid superó a todas las opciones. Y es que para los niños canarios (han acudido 8.623 al parque con sus colegios), reptil y jugador comparten varias características: son \"blancos\", \"únicos\", \"los fichajes más importantes\" y \"la sensación de la temporada\". El bautizo oficial del 'Cristiano Ronaldo' albino tendrá lugar este mes de julio.",
+        "lemmatized_text": "el niño de gran_canaria haber decidir poner el nombre de el futbolista portugués cristiano_ronaldo uno de el fichaje estrella de el real_madrid a el cocodrilo albino de el parque temático sioux_city ubicar en el isla por ser ambos blanco y el sensación de el temporada tras el adquisición de el reptil el centro optar por dejar que el niño que visitar el parque decidir el nombre informar fuente de el centro el animal llegar a el parque el [??:??/12/??:??.??:??] y aunque en uno principio se imponer el nombre de gran_albin o blanco el reciente fichaje de el real_madrid superar a todo el opción y ser que para el niño canario haber acudir 8.623 a el parque con su colegio reptil y jugador compartir varios característica ser blanco único el fichaje más importante y el sensación de el temporada el bautizo oficial de el cristiano_ronaldo albino tener_lugar este [??:??/7/??:??.??:??]",
+        "lemmatized_text_reduced": "niño gran_canaria haber decidir poner nombre futbolista portugués cristiano_ronaldo fichaje estrella real_madrid cocodrilo albino parque temático sioux_city ubicar isla ser blanco sensación temporada adquisición reptil centro optar dejar niño visitar parque decidir nombre informar fuente centro animal llegar parque principio imponer nombre gran_albin blanco reciente fichaje real_madrid superar opción ser niño canario haber acudir parque colegio reptil jugador compartir característica ser blanco único fichaje importante sensación temporada bautizo oficial cristiano_ronaldo albino tener_lugar",
+        "persons": [
+            "Cristiano_Ronaldo",
+            "Cristiano_Ronaldo"
+        ],
+        "locations": [
+            "Sioux_City"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Real_Madrid",
+            "Real_Madrid"
+        ],
+        "others": [
+            "Gran_Albin"
+        ],
+        "dates": [
+            "[??:??/12/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "8.623"
+        ]
+    }
+}

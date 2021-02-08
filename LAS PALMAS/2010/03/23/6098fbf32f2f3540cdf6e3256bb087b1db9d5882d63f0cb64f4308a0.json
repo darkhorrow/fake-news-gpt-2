@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659397/0/",
+    "title": {
+        "raw_text": "Un total de 70 comercios de Gran Canaria recibirán mañana el sello de calidad en el servicio",
+        "lemmatized_text": "uno total de 70 comercio de gran_canaria recibir mañana el sello de calidad en el servicio",
+        "lemmatized_text_reduced": "total comercio gran_canaria recibir sello calidad servicio",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de 70 comercios de Gran Canaria recibirán mañana el sello de calidad 'Distínguete', una iniciativa impulsada por la Cámara y por la Dirección General de Comercio del Gobierno de Canarias con la colaboración de Aenor.",
+        "lemmatized_text": "uno total de 70 comercio de gran_canaria recibir mañana el sello de calidad distinguir te uno iniciativa impulsar por el cámara y por el dirección_general_de_comercio_del_gobierno_de_canarias con el colaboración de aenor",
+        "lemmatized_text_reduced": "total comercio gran_canaria recibir sello calidad distinguir iniciativa impulsar cámara dirección_general_de_comercio_del_gobierno_de_canarias colaboración aenor",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cámara",
+            "Dirección_General_de_Comercio_del_Gobierno_de_Canarias",
+            "Aenor"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70"
+        ]
+    },
+    "body": {
+        "raw_text": "El acto tendrá lugar a las 12.30 horas en la Cámara de Comercio de Las Palmas. Asistirán el director general de Comercio del Gobierno de Canarias, Arturo Cabrera, el tesorero de la entidad cameral, Manuel Santana, y el director de la Delegación de Canarias de Aenor, José Luis Mataix, que entregarán el certificado de 'Calidad de Servicio en el Pequeño Comercio UNE 175001'. Este distintivo, que estará colocado en los escaparates de los establecimientos avalados, acredita ante los consumidores la prestación de un servicio de calidad, tanto en la actividad de venta como en los servicios adicionales, informó la Cámara. El sello de calidad, que ya funciona en cinco comunidades autónomas, es una iniciativa impulsada por la Cámara de Comercio y la Dirección General de Comercio del Gobierno de Canarias con la colaboración de AENOR. El objetivo de este programa, que ha contado con un presupuesto de 60.000 euros, es ayudar al comercio minorista a consolidar su clientela y mejorar su imagen",
+        "lemmatized_text": "el acto tener_lugar a el TM_h:12.3 en el cámara_de_comercio_de_las_palmas asistir el director general de comercio_del_gobierno_de_canarias arturo_cabrera el tesorero de el entidad cameral manuel_santana y el director de el delegación_de_canarias_de_aenor josé_luis_mataix que entregar el certificado de calidad_de_servicio en el pequeño_comercio_une 175001 este distintivo que estar colocar en el escaparate de el establecimiento avalar acreditar ante el consumidor el prestación de uno servicio de calidad tanto en el actividad de venta como en el servicio adicional informar el cámara el sello de calidad que ya funcionar en 5 comunidad autónomo ser uno iniciativa impulsar por el cámara_de_comercio y el dirección_general_de_comercio_del_gobierno_de_canarias con el colaboración de aenor el objetivo de este programa que haber contar con uno presupuesto de $_ECU:60 ser ayudar a el comercio minorista a consolidar su clientela y mejorar su imagen",
+        "lemmatized_text_reduced": "acto tener_lugar cámara_de_comercio_de_las_palmas asistir director general comercio_del_gobierno_de_canarias arturo_cabrera tesorero entidad cameral manuel_santana director delegación_de_canarias_de_aenor josé_luis_mataix entregar certificado calidad_de_servicio pequeño_comercio_une distintivo estar colocar escaparate establecimiento avalar acreditar consumidor prestación servicio calidad actividad venta servicio adicional informar cámara sello calidad funcionar comunidad autónomo ser iniciativa impulsar cámara_de_comercio dirección_general_de_comercio_del_gobierno_de_canarias colaboración aenor objetivo programa haber contar presupuesto ser ayudar comercio minorista consolidar clientela mejorar imagen",
+        "persons": [
+            "Arturo_Cabrera",
+            "Manuel_Santana",
+            "José_Luis_Mataix",
+            "Calidad_de_Servicio"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Comercio_de_Las_Palmas",
+            "Comercio_del_Gobierno_de_Canarias",
+            "Delegación_de_Canarias_de_Aenor",
+            "Cámara",
+            "Cámara_de_Comercio",
+            "Dirección_General_de_Comercio_del_Gobierno_de_Canarias",
+            "AENOR"
+        ],
+        "others": [
+            "Pequeño_Comercio_UNE"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.3",
+            "175001",
+            "5",
+            "$_ECU:60"
+        ]
+    }
+}

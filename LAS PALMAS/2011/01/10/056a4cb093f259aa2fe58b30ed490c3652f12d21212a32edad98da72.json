@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/924156/0/",
+    "title": {
+        "raw_text": "Fallece un motorista al colisionar con una guagua en Gran Canaria",
+        "lemmatized_text": "fallecer uno motorista a el colisionar con uno guagua en gran_canaria",
+        "lemmatized_text_reduced": "fallecer motorista colisionar guagua gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un motorista ha fallecido este lunes después de colisionar su moto con una guagua en la carretera GC-15, en la zona del cruce de Valleseco, en el municipio de Tejeda (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno motorista haber fallecer este [L:??/??/??:??.??:??] después_de colisionar su moto con uno guagua en el carretera GC-15 en el zona de el cruce de valleseco en el municipio de tejeda gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "motorista haber fallecer colisionar moto guagua carretera zona cruce valleseco municipio tejeda gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Valleseco",
+            "Tejeda",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-15",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un motorista ha fallecido este lunes después de colisionar su moto con una guagua en la carretera GC-15, en la zona del cruce de Valleseco, en el municipio de Tejeda (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112. El personal del Servicio de Urgencias Canario (SUC), una vez recibió la alerta de que una moto había chocado frontalmente con una guagua y que el motorista necesitaba asistencia médica, se trasladó hasta el lugar. Posteriormente, una vez en el lugar, el personal médico constató la gravedad de las heridas del afectado sin que pudiera hacer nada por salvar su vida, y falleciendo en el lugar. Hasta la zona también se trasladó un médico y un enfermero del centro de salud de Tejeda, así como agentes de la Policía Local y de la Guardia Civil que realizó las diligencias correspondientes.",
+        "lemmatized_text": "uno motorista haber fallecer este [L:??/??/??:??.??:??] después_de colisionar su moto con uno guagua en el carretera GC-15 en el zona de el cruce de valleseco en el municipio de tejeda gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el personal de el servicio_de_urgencias_canario suc uno vez recibir el alerta de que uno moto haber chocar frontalmente con uno guagua y que el motorista necesitar asistencia médico se trasladar hasta el lugar posteriormente uno vez en el lugar el personal médico constatar el gravedad de el herida de el afectar sin que poder hacer nada por salvar su vida y fallecer en el lugar hasta el zona también se trasladar uno médico y uno enfermero de el centro de salud de tejeda así_como agente de el policía_local y de el guardia_civil que realizar el diligencia correspondiente",
+        "lemmatized_text_reduced": "motorista haber fallecer colisionar moto guagua carretera zona cruce valleseco municipio tejeda gran_canaria informar centro_coordinador_de_emergencias seguridad personal servicio_de_urgencias_canario suc vez recibir alerta moto haber chocar frontalmente guagua motorista necesitar asistencia médico trasladar lugar posteriormente vez lugar personal médico constatar gravedad herida afectar poder hacer salvar vida fallecer lugar zona trasladar médico enfermero centro salud tejeda agente policía_local guardia_civil realizar diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Valleseco",
+            "Tejeda",
+            "Gran_Canaria",
+            "Tejeda"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-15",
+            "112"
+        ]
+    }
+}

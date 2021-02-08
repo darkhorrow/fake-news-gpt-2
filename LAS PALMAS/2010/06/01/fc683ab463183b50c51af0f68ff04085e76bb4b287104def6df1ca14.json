@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/723937/0/",
+    "title": {
+        "raw_text": "Un hombre fallece y una mujer grave tras caer con su coche 25 metros por un barranco en Telde (Gran Canaria)",
+        "lemmatized_text": "uno hombre fallecer y uno mujer grave tras caer con su coche LN_m:25 por uno barranco en telde gran_canaria",
+        "lemmatized_text_reduced": "hombre fallecer mujer grave caer coche barranco telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:25"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un hombre ha fallecido y una mujer se encuentra en estado grave tras caer 25 metros por un barranco mientras circulaban por el kilómetro 15 de la carretera Gran Canaria 130 (GC-130) --la carretera de Cazadores--, dentro del término municipal de Telde, sobre las 10.20 horas, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre haber fallecer y uno mujer se encontrar en estado grave tras caer LN_m:25 por uno barranco mientras circular por el kilómetro 15 de el carretera gran_canaria 130 GC-130 el carretera de cazadores dentro de el término municipal de telde sobre el TM_h:10.2 según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre haber fallecer mujer encontrar estado grave caer barranco circular kilómetro carretera gran_canaria carretera cazadores término municipal telde informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Cazadores"
+        ],
+        "organizations": [
+            "Telde",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_m:25",
+            "15",
+            "130",
+            "GC-130",
+            "TM_h:10.2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, se recibió una llamada a la hora indicada informando que un vehículo se había precipitado por un barranco y que sus ocupantes podrían precisar de atención médica. En ese momento, el 112 activó su dispositivo habitual y trasladó al lugar al Servicio de Urgencias Canario (SUC); helicóptero del Grupo de Emergencias y Salvamento (GES) y a los bomberos. Al llegar, tanto los médicos como los bomberos bajaron al fondo del barranco, donde el SUC constató el fallecimiento del varón, mientras que una mujer, que se encontraba en estado grave, tuvo que ser evacuada en el helicóptero del GES al Hospital Universitario de Gran Canaria Doctor Negrín. Asimismo, al lugar acudieron miembros de la Policía Local de Telde, así como la Guardia Civil y Protección Civil, que colaboraron en el dispositivo.",
+        "lemmatized_text": "de este manera se recibir uno llamada a el hora indicar informar que uno vehículo se haber precipitar por uno barranco y que su ocupante poder precisar de atención médico en ese momento el 112 activar su dispositivo habitual y trasladar a el lugar a el servicio_de_urgencias_canario suc helicóptero de el grupo_de_emergencias y salvamento ges y a el bombero a el llegar tanto el médico como el bombero bajar a el fondo de el barranco donde el suc constatar el fallecimiento de el varón mientras_que uno mujer que se encontrar en estado grave tener que ser evacuar en el helicóptero de el ges a el hospital_universitario_de_gran_canaria_doctor_negrín asimismo a el lugar acudir miembro de el policía_local_de_telde así_como el guardia_civil y protección_civil que colaborar en el dispositivo",
+        "lemmatized_text_reduced": "manera recibir llamada hora indicar informar vehículo haber precipitar barranco ocupante poder precisar atención médico momento activar dispositivo habitual trasladar lugar servicio_de_urgencias_canario suc helicóptero grupo_de_emergencias salvamento ges bombero llegar médico bombero bajar fondo barranco suc constatar fallecimiento varón mujer encontrar estado grave tener ser evacuar helicóptero ges hospital_universitario_de_gran_canaria_doctor_negrín lugar acudir miembro policía_local_de_telde guardia_civil protección_civil colaborar dispositivo",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Grupo_de_Emergencias",
+            "GES",
+            "SUC",
+            "GES",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Policía_Local_de_Telde",
+            "Guardia_Civil",
+            "Protección_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/630915/0/",
+    "title": {
+        "raw_text": "Los aeropuertos de La Gomera y El Hierro cierran cancelando todos sus vuelos",
+        "lemmatized_text": "el aeropuerto de la_gomera y el_hierro cerrar cancelar todo su vuelo",
+        "lemmatized_text_reduced": "aeropuerto la_gomera el_hierro cerrar cancelar vuelo",
+        "persons": [],
+        "locations": [
+            "La_Gomera",
+            "El_Hierro"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los aeropuertos de la isla de La Gomera y El Hierro ya han cerrado y en el día de hoy también se han visto obligados a cancelar todos sus vuelos debido al temporal de viento y lluvia que está azotando al archipiélago canario.",
+        "lemmatized_text": "el aeropuerto de el isla de la_gomera y el_hierro ya haber cerrar y en el día de hoy también se haber ver obligar a cancelar todo su vuelo deber a el temporal de viento y lluvia que estar azotar a el archipiélago canario",
+        "lemmatized_text_reduced": "aeropuerto isla la_gomera el_hierro haber cerrar día haber ver obligar cancelar vuelo deber temporal viento lluvia estar azotar archipiélago canario",
+        "persons": [],
+        "locations": [
+            "La_Gomera",
+            "El_Hierro"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta forma, en El Hierro se cancelaron ocho vuelos, mientras que en La Gomera hubo cuatro operaciones canceladas, según informó Aeropuertos Españoles y Navegación Aérea (AENA) a Europa Press. En cuanto a la isla de La Palma, el aeropuerto aún permanece abierto pero de las 84 operaciones previstas para hoy, ya se han tenido que cancelar 40 vuelos y se prevé que finalmente también se tengan que cancelar todos. Respecto a los aeropuertos de la isla de Tenerife, tanto el del Norte como el del Sur, continúan operando con normalidad, ya que aunque hace viento los aviones pueden despegar y aterrizar. De todos modos, las cancelaciones que se están produciendo en estos aeródromos son las forzadas por la situación de las islas de La Gomera, El Hierro y La Palma. Finalmente en la provincia de Las Palmas, los aeropuertos de Gran Canaria, Fuerteventura y Lanzarote operan con \"normalidad absoluta\".",
+        "lemmatized_text": "de este forma en el_hierro se cancelar 8 vuelo mientras_que en la_gomera haber 4 operación cancelar según informar aeropuertos_españoles y navegación_aérea aena a europa_press en_cuanto_a el isla de la_palma el aeropuerto aun permanecer abrir pero de el 84 operación prever para hoy ya se haber tener que cancelar 40 vuelo y se prever que finalmente también se tener que cancelar todo respecto_a el aeropuerto de el isla de tenerife tanto el de el norte como el de el sur continuar operar con normalidad ya_que aunque hacer viento el avión poder despegar y aterrizar de_todos_modos el cancelación que se estar producir en este aeródromo ser el forzar por el situación de el isla de la_gomera el_hierro y la_palma finalmente en el provincia de las_palmas el aeropuerto de gran_canaria fuerteventura y lanzarote operar con normalidad absoluto",
+        "lemmatized_text_reduced": "forma el_hierro cancelar vuelo la_gomera haber operación cancelar informar aeropuertos_españoles navegación_aérea aena europa_press isla la_palma aeropuerto permanecer abrir operación prever haber tener cancelar vuelo prever finalmente tener cancelar aeropuerto isla tenerife norte sur continuar operar normalidad hacer viento avión poder despegar aterrizar cancelación estar producir aeródromo ser forzar situación isla la_gomera el_hierro la_palma finalmente provincia las_palmas aeropuerto gran_canaria fuerteventura lanzarote operar normalidad absoluto",
+        "persons": [
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea",
+            "Europa_Press"
+        ],
+        "locations": [
+            "El_Hierro",
+            "La_Gomera",
+            "La_Palma",
+            "Tenerife",
+            "Norte",
+            "La_Gomera",
+            "El_Hierro",
+            "La_Palma",
+            "Las_Palmas",
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "AENA",
+            "Sur",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8",
+            "4",
+            "84",
+            "40"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/702626/0/",
+    "title": {
+        "raw_text": "Kimberly-Clark confía a BNP Paribas Real Estate la venta de su nave logística en Telde (Gran Canaria)",
+        "lemmatized_text": "kimberly-clark confiar a bnp_paribas_real_estate el venta de su nave logístico en telde gran_canaria",
+        "lemmatized_text_reduced": "kimberly-clark confiar bnp_paribas_real_estate venta nave logístico telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Kimberly-Clark",
+            "BNP_Paribas_Real_Estate"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La multinacional norteamericana Kimberly-Clark ha encomendado a BNP Paribas Real Estate, la división inmobiliaria del grupo de servicios financieros BNP Paribas, el mandato para la comercialización en venta de sus instalaciones logísticas en Telde (Gran Canaria).",
+        "lemmatized_text": "el multinacional norteamericano kimberly-clark haber encomendar a bnp_paribas_real_estate el división inmobiliario de el grupo de servicio financiero bnp_paribas el mandato para el comercialización en venta de su instalación logístico en telde gran_canaria",
+        "lemmatized_text_reduced": "multinacional norteamericano kimberly-clark haber encomendar bnp_paribas_real_estate división inmobiliario grupo servicio financiero bnp_paribas mandato comercialización venta instalación logístico telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Kimberly-Clark",
+            "BNP_Paribas_Real_Estate",
+            "BNP_Paribas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La multinacional, propietaria de marcas tan conocidas para el cuidado personal y familiar como Kleenex, Huggies o Scottex, pone en venta una nave de 3.865 metros cuadrados de superficie en el Polígono Industrial El Goro, informó la empresa en un comunicado. Con una fachada de aproximadamente 100 metros, el inmueble es uno de los más emblemáticos del polígono por su situación respecto a la carretera GC-1, la principal vía de comunicación por carretera de la isla, y su proximidad a la capital y el aeropuerto. La nave se puede dividir hasta en cinco unidades, dispone de varios accesos independientes y las mejores instalaciones técnicas para la actividad logística e industrial. Sobre el mercado logístico La compañía informa de que el ejercicio 2009 se ha cerrado con el menor número de operaciones y volumen de absorción de superficie industrial y logística de los últimos cinco años, según datos de BNP Paribas Real Estate. Los precios han registrado descensos generalizados de las rentas así como de los precios de venta. Según el delegado en Canarias del BNP Paribas Real Estate, Juan Ariel Mejías, el arranque de 2010 ha coincidido con un incremento de la demanda por parte de operadores interesados en superficie logística que hace prever un mayor volumen de contratación durante el presente ejercicio.",
+        "lemmatized_text": "el multinacional propietario de marca tan conocer para el cuidado personal y familiar como kleenex huggies o scottex poner en venta uno nave de AR_m2:3.865 de superficie en el polígono_industrial_el_goro informar el empresa en uno comunicado con uno fachada de aproximadamente LN_m:100 el inmueble ser uno de el más emblemático de el polígono por su situación respecto_a el carretera GC-1 el principal vía de comunicación por carretera de el isla y su proximidad a el capital y el aeropuerto el nave se poder dividir hasta en 5 unidad disponer de varios acceso independiente y el mejor instalación técnico para el actividad logístico y industrial sobre el mercado logístico la compañía informar de que el ejercicio 2009 se haber cerrar con el menor número de operación y volumen de absorción de superficie industrial y logístico de el último 5 año según dato de bnp_paribas_real_estate el precio haber registrar descenso generalizar de el renta así_como de el precio de venta según el delegado en canarias_del_bnp_paribas_real_estate juan_ariel_mejías el arranque de 2010 haber coincidir con uno incremento de el demanda por parte de operador interesar en superficie logístico que hacer prever uno mayor volumen de contratación durante el presente ejercicio",
+        "lemmatized_text_reduced": "multinacional propietario marca conocer cuidado personal familiar kleenex huggies scottex poner venta nave superficie polígono_industrial_el_goro informar empresa comunicado fachada aproximadamente inmueble ser emblemático polígono situación carretera principal vía comunicación carretera isla proximidad capital aeropuerto nave poder dividir unidad disponer acceso independiente mejor instalación técnico actividad logístico industrial mercado logístico la compañía informar ejercicio haber cerrar menor número operación volumen absorción superficie industrial logístico último año dato bnp_paribas_real_estate precio haber registrar descenso generalizar renta precio venta delegado canarias_del_bnp_paribas_real_estate juan_ariel_mejías arranque haber coincidir incremento demanda parte operador interesar superficie logístico hacer prever mayor volumen contratación presente ejercicio",
+        "persons": [
+            "Kleenex",
+            "Huggies",
+            "Scottex",
+            "Juan_Ariel_Mejías"
+        ],
+        "locations": [
+            "Polígono_Industrial_El_Goro",
+            "Canarias_del_BNP_Paribas_Real_Estate"
+        ],
+        "organizations": [
+            "La",
+            "BNP_Paribas_Real_Estate"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_m2:3.865",
+            "LN_m:100",
+            "GC-1",
+            "5",
+            "2009",
+            "5",
+            "2010"
+        ]
+    }
+}

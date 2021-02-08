@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618314/0/",
+    "title": {
+        "raw_text": "'El Bicho' actuará en concierto en el Teatro de San Bartolomé, en Lanzarote",
+        "lemmatized_text": "el bicho actuar en concierto en el teatro_de_san_bartolomé en lanzarote",
+        "lemmatized_text_reduced": "bicho actuar concierto teatro_de_san_bartolomé lanzarote",
+        "persons": [],
+        "locations": [
+            "Teatro_de_San_Bartolomé",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [
+            "Bicho"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Miguel Campello, 'El Bicho', viajará hasta la isla de Lanzarote acompañado de su banda con los que ofrecerá el próximo 6 de febrero un concierto en el Teatro de San Bartolomé, donde presentará su último trabajo 'elbichodeimaginar'.",
+        "lemmatized_text": "miguel_campello el bicho viajar hasta el isla de lanzarote acompañar de su banda con el que ofrecer el [??:6/2/??:??.??:??] uno concierto en el teatro_de_san_bartolomé donde presentar su último trabajo elbichodeimaginar",
+        "lemmatized_text_reduced": "miguel_campello bicho viajar isla lanzarote acompañar banda ofrecer concierto teatro_de_san_bartolomé presentar último trabajo elbichodeimaginar",
+        "persons": [
+            "Miguel_Campello"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Teatro_de_San_Bartolomé"
+        ],
+        "organizations": [
+            "Bicho"
+        ],
+        "others": [],
+        "dates": [
+            "[??:6/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Campello define la actuación como una \"auténtica fiesta y una montaña rusa de sensaciones\". La banda formada por Víctor Iniesta (guitarra); Carlos Punkbass (bajo); Toni Mangas (batería); David Amores (percusión) y Juan Carlos Aracíl (flauta), está de gira por las islas presentando este nuevo trabajo dentro del Festival Flamenco en Caja, según informó el Cabildo de Gran Canaria en nota de prensa. Las entradas para esta actuación se pondrán a la venta el próximo 1 de febrero y podrán adquirirse, al precio de 15 euros, en el departamento de Cultura del Ayuntamiento de San Bartolomé.",
+        "lemmatized_text": "campello definir el actuación como uno auténtico fiesta y uno montaña ruso de sensación el banda formar por víctor_iniesta guitarra carlos_punkbass bajo toni_mangas batería david_amores percusión y juan_carlos_aracíl flauta estar de gira por el isla presentar este nuevo trabajo dentro de el festival_flamenco en caja según informar el cabildo_de_gran_canaria en nota de prensa el entrada para este actuación se poner a el venta el [??:1/2/??:??.??:??] y poder adquirir se a el precio de $_ECU:15 en el departamento de cultura_del_ayuntamiento_de_san_bartolomé",
+        "lemmatized_text_reduced": "campello definir actuación auténtico fiesta montaña ruso sensación banda formar víctor_iniesta guitarra carlos_punkbass bajo toni_mangas batería david_amores percusión juan_carlos_aracíl flauta estar gira isla presentar nuevo trabajo festival_flamenco caja informar cabildo_de_gran_canaria nota prensa entrada actuación poner venta poder adquirir precio departamento cultura_del_ayuntamiento_de_san_bartolomé",
+        "persons": [
+            "Campello",
+            "Víctor_Iniesta",
+            "Carlos_Punkbass",
+            "Toni_Mangas",
+            "David_Amores",
+            "Juan_Carlos_Aracíl"
+        ],
+        "locations": [
+            "Caja"
+        ],
+        "organizations": [
+            "Festival_Flamenco",
+            "Cabildo_de_Gran_Canaria",
+            "Cultura_del_Ayuntamiento_de_San_Bartolomé"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15"
+        ]
+    }
+}

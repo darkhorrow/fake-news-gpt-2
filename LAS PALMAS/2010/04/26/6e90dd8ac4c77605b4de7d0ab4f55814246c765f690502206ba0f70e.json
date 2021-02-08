@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/689173/0/",
+    "title": {
+        "raw_text": "Una joven fallece en Fuerteventura y podría ser otro caso de violencia de género",
+        "lemmatized_text": "uno joven fallecer en fuerteventura y poder ser otro caso de violencia de género",
+        "lemmatized_text_reduced": "joven fallecer fuerteventura poder ser caso violencia género",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una joven ha fallecido esta tarde en La Lajita, en el municipio de Pájara (Fuerteventura), y su muerte podría ser otro caso de violencia de género, según indicaron a Europa Press fuentes de los servicios de seguridad que se han trasladado hasta la zona.",
+        "lemmatized_text": "uno joven haber fallecer este tarde en la_lajita en el municipio de pájara fuerteventura y su muerte poder ser otro caso de violencia de género según indicar a europa_press fuente de el servicio de seguridad que se haber trasladar hasta el zona",
+        "lemmatized_text_reduced": "joven haber fallecer tarde la_lajita municipio pájara fuerteventura muerte poder ser caso violencia género indicar europa_press fuente servicio seguridad haber trasladar zona",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "La_Lajita",
+            "Pájara"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La mujer, de nacionalidad brasileña, fue encontrada por agentes de la Guarida Civil y de la Policía Local en el interior de su vivienda, donde ya perecía, y tenía signos de violencia. De todos modos, hasta el lugar del suceso acudió personal del Servicio de Urgencias Canario, así como agentes de las Fuerzas y Cuerpos de Seguridad del Estado que se encargarán ahora de esclarecer este suceso.",
+        "lemmatized_text": "el mujer de nacionalidad brasileño ser encontrar por agente de el guarida_civil y de el policía_local en_el_interior_de su vivienda donde ya perecer y tener signo de violencia de_todos_modos hasta el lugar de el suceso acudir personal de el servicio_de_urgencias_canario así_como agente de el fuerzas y cuerpos_de_seguridad_del_estado que se encargar ahora de esclarecer este suceso",
+        "lemmatized_text_reduced": "mujer nacionalidad brasileño ser encontrar agente guarida_civil policía_local vivienda perecer tener signo violencia lugar suceso acudir personal servicio_de_urgencias_canario agente fuerzas cuerpos_de_seguridad_del_estado encargar esclarecer suceso",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guarida_Civil",
+            "Policía_Local",
+            "Servicio_de_Urgencias_Canario",
+            "Fuerzas",
+            "Cuerpos_de_Seguridad_del_Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

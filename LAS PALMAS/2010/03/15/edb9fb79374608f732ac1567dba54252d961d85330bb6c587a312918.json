@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/652246/0/",
+    "title": {
+        "raw_text": "Detenido un conductor en Gran Canaria por herir a un motorista y matar a su acompañante",
+        "lemmatized_text": "detener uno conductor en gran_canaria por herir a uno motorista y matar a su acompañante",
+        "lemmatized_text_reduced": "detener conductor gran_canaria herir motorista matar acompañante",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil de Tráfico ha detenido a un hombre, identificado como L.D.S, natural de Las Palmas de Gran Canaria, acusado de herir al conductor de un ciclomotor, que actualmente permanece hospitalizado con lesiones graves, mientras que su acompañante falleció en el accidente ocurrido el 27 de febrero al sur de Gran Canaria.",
+        "lemmatized_text": "el guardia_civil_de_tráfico haber detener a uno hombre identificar como l.d._s natural de las_palmas_de_gran_canaria acusar de herir a el conductor de uno ciclomotor que actualmente permanecer hospitalizar con lesión grave mientras_que su acompañante fallecer en el accidente ocurrir el [??:27/2/??:??.??:??] a el sur de gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil_de_tráfico haber detener hombre identificar l.d._s natural las_palmas_de_gran_canaria acusar herir conductor ciclomotor actualmente permanecer hospitalizar lesión grave acompañante fallecer accidente ocurrir sur gran_canaria",
+        "persons": [
+            "L.D._S"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil_de_Tráfico"
+        ],
+        "others": [],
+        "dates": [
+            "[??:27/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El detenido junto con las diligencias pasó el pasado viernes a disposición del Juzgado de Instrucción número 5 de San Bartolomé de Tirajana y el juez decretó su libertad con cargos, imputado por presuntos delitos contra la seguridad vial, homicidio y lesiones graves, según informó hoy en un comunicado la Benemérita. La Guardia Civil señala que el conductor se vio involucrado en un accidente de circulación con una moto en el que viajaba una joven pareja. El Equipo de Atestados e Informes de la Guardia Civil de Tráfico de Las Palmas detuvo el pasado 12 de marzo al citado varón, conductor del coche implicado en el accidente con resultado de muerte. El suceso ocurrió en la madrugada del día 27 de febrero en la carretera GC -500, donde se vieron implicados, un ciclomotor, en el que viajaba una joven pareja, y un turismo.",
+        "lemmatized_text": "el detener junto_con el diligencia pasar el [V:??/??/??:??.??:??] a disposición de el juzgado_de_instrucción número 5 de san_bartolomé_de_tirajana y el juez decretar su libertad con cargo imputar por presunto delito contra el seguridad vial homicidio y lesión grave según informar hoy en uno comunicado el benemérita el guardia_civil señalar que el conductor se ver involucrar en uno accidente de circulación con uno moto en el que viajar uno joven pareja el equipo_de_atestados y informes_de_la_guardia_civil_de_tráfico_de_las_palmas detener el [??:12/3/??:??.??:??] a el citar varón conductor de el coche implicar en el accidente con resultado de muerte el suceso ocurrir en el madrugada de el [??:27/2/??:??.??:??] en el carretera gc -500 donde se ver implicar uno ciclomotor en el que viajar uno joven pareja y uno turismo",
+        "lemmatized_text_reduced": "detener diligencia pasar disposición juzgado_de_instrucción número san_bartolomé_de_tirajana juez decretar libertad cargo imputar presunto delito seguridad vial homicidio lesión grave informar comunicado benemérita guardia_civil señalar conductor ver involucrar accidente circulación moto viajar joven pareja equipo_de_atestados informes_de_la_guardia_civil_de_tráfico_de_las_palmas detener citar varón conductor coche implicar accidente resultado muerte suceso ocurrir madrugada carretera gc ver implicar ciclomotor viajar joven pareja turismo",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Juzgado_de_Instrucción",
+            "Benemérita",
+            "Guardia_Civil",
+            "Equipo_de_Atestados",
+            "Informes_de_la_Guardia_Civil_de_Tráfico_de_Las_Palmas"
+        ],
+        "others": [
+            "GC"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:12/3/??:??.??:??]",
+            "[??:27/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "-500"
+        ]
+    }
+}

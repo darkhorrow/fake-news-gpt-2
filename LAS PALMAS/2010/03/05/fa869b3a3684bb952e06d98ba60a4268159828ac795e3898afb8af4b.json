@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/644629/0/",
+    "title": {
+        "raw_text": "Detenido un hombre acusado de incendiar varias papeleras en Las Palmas de Gran Canaria",
+        "lemmatized_text": "detener uno hombre acusar de incendiar varios papelera en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "detener hombre acusar incendiar papelera las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a un hombre, identificado como F.S.D., de 42 años y natural de Las Palmas de Gran Canaria, como presunto autor de los daños causados mediante incendios en varias papeleras de distintas calles del barrio de Vegueta en la capital.",
+        "lemmatized_text": "el policía_nacional haber detener a uno hombre identificar como f.s.d. de 42 año y natural de las_palmas_de_gran_canaria como presunto autor de el daño causar mediante incendio en varios papelera de distinto calle de el barrio de vegueta en el capital",
+        "lemmatized_text_reduced": "policía_nacional haber detener hombre identificar f.s.d. año natural las_palmas_de_gran_canaria presunto autor daño causar incendio papelera calle barrio vegueta capital",
+        "persons": [
+            "F.S.D."
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Vegueta"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "42"
+        ]
+    },
+    "body": {
+        "raw_text": "A raíz de las manifestaciones y datos de vecinos y taxistas de la citada zona, en las que daban cuenta de la existencia de un individuo como posible causante de los incendios en papeleras de las calles Triana y Malteses, los funcionarios actuantes pusieron en marcha un operativo policial destinado a la localización y detención del mismo. Las investigaciones llevadas a cabo por funcionarios del Grupo de Policía Judicial de la Comisaría de Distrito Sur, con la colaboración del dispositivo montado por efectivos de la Brigada Provincial de Seguridad Ciudadana, permitieron identificar al presunto autor de los incendios, siendo posteriormente detenido 'in franganti', cuando intentaba incendiar otra papelera situada en las inmediaciones del centro comercial Monopol, informó la Policía en un comunicado Al parecer y según las primeras gestiones de investigación practicadas, el detenido podría, además, ser el autor del incendio producido en el Punto Limpio del Batán la misma noche, así como de otros incendios provocados en contenedores de la zona días atrás. Tramitadas las pertinentes diligencias, fue puesto a disposición de la autoridad judicial.",
+        "lemmatized_text": "a_raíz_de el manifestación y dato de vecino y taxista de el citar zona en el que dar_cuenta de el existencia de uno individuo como posible causante de el incendio en papelera de el calle triana y malteses el funcionario actuante poner en marcha uno operativo policial destinar a el localización y detención de el mismo el investigación llevar_a_cabo por funcionario de el grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur con el colaboración de el dispositivo montar por efectivo de el brigada_provincial_de_seguridad_ciudadana permitir identificar a el presunto autor de el incendio ser posteriormente detener in franganti cuando intentar incendiar otro papelera situar en el inmediación de el centro comercial monopol informar el policía en uno comunicado al parecer y según el 1 gestión de investigación practicar el detenido poder además ser el autor de el incendio producir en el punto_limpio_del_batán el mismo noche así_como de otro incendio provocar en contenedor de el zona día atrás tramitar el pertinente diligencia ser poner a disposición de el autoridad judicial",
+        "lemmatized_text_reduced": "manifestación dato vecino taxista citar zona dar_cuenta existencia individuo posible causante incendio papelera calle triana malteses funcionario actuante poner marcha operativo policial destinar localización detención investigación llevar_a_cabo funcionario grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur colaboración dispositivo montar efectivo brigada_provincial_de_seguridad_ciudadana permitir identificar presunto autor incendio ser posteriormente detener in franganti intentar incendiar papelera situar inmediación centro comercial monopol informar policía comunicado al parecer 1 gestión investigación practicar detenido poder ser autor incendio producir punto_limpio_del_batán mismo noche incendio provocar contenedor zona día tramitar pertinente diligencia ser poner disposición autoridad judicial",
+        "persons": [
+            "Al"
+        ],
+        "locations": [
+            "Triana",
+            "Malteses",
+            "Punto_Limpio_del_Batán"
+        ],
+        "organizations": [
+            "Grupo_de_Policía_Judicial_de_la_Comisaría_de_Distrito_Sur",
+            "Monopol",
+            "Policía"
+        ],
+        "others": [
+            "Brigada_Provincial_de_Seguridad_Ciudadana"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

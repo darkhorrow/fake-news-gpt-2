@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/439666/0/muerta/palmas/hotel/",
+    "title": {
+        "raw_text": "Un hombre mata a su mujer tras pegarle en una habitación de hotel de Las Palmas",
+        "lemmatized_text": "uno hombre matar a su mujer tras pegar le en uno habitación de hotel de las_palmas",
+        "lemmatized_text_reduced": "hombre matar mujer pegar habitación hotel las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La pareja discutió por la noche y el recepcionista llamó a la Policía. Encontraron a la mujer herida y murió después en el hospital. Es el quinto caso de violencia machista en España en 48 horas. Teléfono de ayuda contra los malos tratos: 016.",
+        "lemmatized_text": "el pareja discutir por el noche y el recepcionista llamar a el policía encontrar a el mujer herir y morir después en el hospital ser el 5 caso de violencia machista en españa en TM_h:48 teléfono de ayuda contra el malo trato 16",
+        "lemmatized_text_reduced": "pareja discutir noche recepcionista llamar policía encontrar mujer herir morir hospital ser 5 caso violencia machista españa teléfono ayuda malo trato",
+        "persons": [],
+        "locations": [
+            "España"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:48",
+            "16"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer de origen latinoamericano murió en la madrugada pasada en un hospital de la capital grancanaria, al que fue conducida desde un hotel de la ciudad , en el que fue agredida presuntamente por su pareja durante una fuerte discusión. Así lo confirmó un recepcionista del Hotel Valencia, donde ocurrieron los hechos. Ni la fallecida, identificada como Jeanette R.D., ni su compañero sentimental, también de origen latinoamericano, que ha sido detenido por estos hechos, habían estado antes en las instalaciones del Hotel Valencia, situado en la trasera del Mercado Central de Las Palmas de Gran Canaria, informó el recepcionista que realizaba el turno de mañana. Por motivos que se desconocen, la pareja protagonizó una fuerte discusión durante su estancia en el hotel en la madrugada del domingo, lo que obligó al recepcionista del turno de noche a llamar a la Policía. Cuando los agentes llegaron al hotel, se percataron de que la mujer estaba herida , por lo que procedieron a detener a su presunto agresor y a evacuar a la víctima hasta el Hospital de Gran Canaria Doctor Negrín, donde falleció horas después. El trágico suceso ha dejado consternados al director y el personal del Hotel Valencia, un establecimiento que nunca antes había registrado hechos similares en sus 30 años de historia. Trágico fin de semana El de Las Palmas es el quinto caso de violencia machista en España en menos de 48 horas. En Oviedo un hombre ha sido detenido por tirar a su mujer por la ventana durante una discusión, dejándola en estado grave. En Arroyomolinos (Madrid), un hombre agredió a su ex pareja a martillazos en la cabeza , quedando muy grave en el hospital. Además, este domingo un hombre fue detenido por agredir a su pareja en Zaragoza . Y en la mañana de este lunes, otro hombre ha sido arrestado en Bilbao tras romper la orden de alejamiento de su mujer para amenazarla.",
+        "lemmatized_text": "uno mujer de origen latinoamericano morir en el madrugada pasar en uno hospital de el capital grancanaria a el que ser conducir desde uno hotel de el ciudad en el que ser agredir presuntamente por su pareja durante uno fuerte discusión así lo confirmar uno recepcionista de el hotel_valencia donde ocurrir el hecho ni el fallecer identificar como jeanette_r.d. ni su compañero sentimental también de origen latinoamericano que haber ser detener por este hecho haber estar antes en el instalación de el hotel_valencia situar en el trasero de el mercado_central_de_las_palmas_de_gran_canaria informar el recepcionista que realizar el turno de mañana por motivo que se desconocer el pareja protagonizar uno fuerte discusión durante su estancia en el hotel en el madrugada de el [G:??/??/??:??.??:??] el que obligar a el recepcionista de el turno de noche a llamar a el policía cuando el agente llegar a el hotel se percatar de que el mujer estar herida por el que proceder a detener a su presunto agresor y a evacuar a el víctima hasta el hospital_de_gran_canaria_doctor_negrín donde fallecer hora después el trágico suceso haber dejar consternar a el director y el personal de el hotel_valencia uno establecimiento que nunca antes haber registrar hecho similar en su 30 año de historia trágico fin de semana el_de_las_palmas ser el 5 caso de violencia machista en españa en_menos_de TM_h:48 en oviedo uno hombre haber ser detener por tirar a su mujer por el ventana durante uno discusión dejar lo en estado grave en arroyomolinos madrid uno hombre agredir a su ex pareja a martillo en el cabeza quedar muy grave en el hospital además este [G:??/??/??:??.??:??] uno hombre ser detener por agredir a su pareja en zaragoza y en el mañana de este [L:??/??/??:??.??:??] otro hombre haber ser arrestar en bilbao tras romper el orden de alejamiento de su mujer para amenazar lo",
+        "lemmatized_text_reduced": "mujer origen latinoamericano morir madrugada pasar hospital capital grancanaria ser conducir hotel ciudad ser agredir presuntamente pareja fuerte discusión confirmar recepcionista hotel_valencia ocurrir hecho fallecer identificar jeanette_r.d. compañero sentimental origen latinoamericano haber ser detener hecho haber estar instalación hotel_valencia situar trasero mercado_central_de_las_palmas_de_gran_canaria informar recepcionista realizar turno mañana motivo desconocer pareja protagonizar fuerte discusión estancia hotel madrugada obligar recepcionista turno noche llamar policía agente llegar hotel percatar mujer estar herida proceder detener presunto agresor evacuar víctima hospital_de_gran_canaria_doctor_negrín fallecer hora trágico suceso haber dejar consternar director personal hotel_valencia establecimiento haber registrar hecho similar año historia trágico fin semana el_de_las_palmas ser 5 caso violencia machista españa oviedo hombre haber ser detener tirar mujer ventana discusión dejar estado grave arroyomolinos madrid hombre agredir ex pareja martillo cabeza quedar grave hospital hombre ser detener agredir pareja zaragoza mañana hombre haber ser arrestar bilbao romper orden alejamiento mujer amenazar",
+        "persons": [
+            "Jeanette_R.D.",
+            "Oviedo"
+        ],
+        "locations": [
+            "Hospital_de_Gran_Canaria_Doctor_Negrín",
+            "España",
+            "Arroyomolinos",
+            "Madrid",
+            "Zaragoza",
+            "Bilbao"
+        ],
+        "organizations": [
+            "Hotel_Valencia",
+            "Hotel_Valencia",
+            "Mercado_Central_de_Las_Palmas_de_Gran_Canaria",
+            "Policía",
+            "Hotel_Valencia"
+        ],
+        "others": [
+            "El_de_Las_Palmas"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "TM_h:48"
+        ]
+    }
+}

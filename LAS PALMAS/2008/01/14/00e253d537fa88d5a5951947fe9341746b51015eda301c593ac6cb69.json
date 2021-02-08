@@ -1,0 +1,51 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/333335/0/accidente/laboral/muerto/",
+    "title": {
+        "raw_text": "Muere un trabajador al caer por el hueco del ascensor de un noveno piso en Gran Canaria",
+        "lemmatized_text": "morir uno trabajador a el caer por el hueco de el ascensor de uno 9 piso en gran_canaria",
+        "lemmatized_text_reduced": "morir trabajador caer hueco ascensor 9 piso gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La víctima cayó sobre la cabina de otro ascensor. Efectuaba unas obras para sustituir los ascensores por unos nuevos. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "el víctima caer sobre el cabina de otro ascensor efectuar uno obra para sustituir el ascensor por uno nuevo consulta_aquí_más_noticias_de_las_palmas_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "víctima caer cabina ascensor efectuar obra sustituir ascensor nuevo consulta_aquí_más_noticias_de_las_palmas_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un trabajador falleció hoy al caer por el hueco de un ascensor desde la planta novena de un edificio de la capital grancanaria, informaron fuentes del servicio de bomberos. La víctima cayó sobre la cabina de otro ascensor situado en el mismo hueco, a la altura del primero piso del edificio, situado en el número 66 de la Avenida de José de Mesa y López. En el momento del suceso, el trabajador estaba solo y efectuaba unas obras para sustituir los ascensores por unos nuevos, por lo que estaba retirando los marcos antiguos de las puertas y los rieles de de la cabina, indicaron las fuentes. Los bomberos fueron alertados del suceso sobre las 10.00 horas, señalaron las fuentes, que agregaron que estaban pendientes de la llegada del juez para proceder al levantamiento del cadáver . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno trabajador fallecer hoy a el caer por el hueco de uno ascensor desde el planta novena de uno edificio de el capital grancanaria informar fuente de el servicio de bombero el víctima caer sobre el cabina de otro ascensor situar en el mismo hueco a el altura de el 1 piso de el edificio situar en el número 66 de el avenida_de_josé_de_mesa y lópez en el momento de el suceso el trabajador estar solo y efectuar uno obra para sustituir el ascensor por uno nuevo por el que estar retirar el marco antiguo de el puerta y el riel de de el cabina indicar el fuente el bombero ser alertar de el suceso sobre el TM_h:10 señalar el fuente que agregar que estar pendiente de el llegada de el juez para proceder a el levantamiento de el cadáver consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "trabajador fallecer caer hueco ascensor planta novena edificio capital grancanaria informar fuente servicio bombero víctima caer cabina ascensor situar mismo hueco altura 1 piso edificio situar número avenida_de_josé_de_mesa lópez momento suceso trabajador estar solo efectuar obra sustituir ascensor nuevo estar retirar marco antiguo puerta riel cabina indicar fuente bombero ser alertar suceso señalar fuente agregar estar pendiente llegada juez proceder levantamiento cadáver consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "López"
+        ],
+        "locations": [
+            "Avenida_de_José_de_Mesa"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "66",
+            "TM_h:10"
+        ]
+    }
+}

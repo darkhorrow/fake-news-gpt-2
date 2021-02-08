@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/666502/0/",
+    "title": {
+        "raw_text": "Un joven de 17 años resulta herido al ser atropellado en Fuerteventura",
+        "lemmatized_text": "uno joven de 17 año resultar herir a el ser atropellar en fuerteventura",
+        "lemmatized_text_reduced": "joven año resultar herir ser atropellar fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "17"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un joven de 17 años ha resultado herido con policontusiones de carácter menos grave al ser atropellado en la Avenida Juan de Bethencourt, en Puerto del Rosario (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno joven de 17 año haber resultar herir con policontusión de carácter menos grave a el ser atropellar en el avenida_juan_de_bethencourt en puerto_del_rosario fuerteventura según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "joven año haber resultar herir policontusión carácter grave ser atropellar avenida_juan_de_bethencourt puerto_del_rosario fuerteventura informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Avenida_Juan_de_Bethencourt",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "17",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 16.05 horas, cuando el Cecoes recibió una llamada que informaba de que un varón había sido atropellado por un turismo y precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Hasta el lugar se desplazó personal sanitario del Servicio de Urgencias Canario (SUC), que tras asistir y estabilizar al afectado, lo evacuó en una ambulancia de soporte vital básico del SUC al Hospital General de Fuerteventura. En dicha actuación también intervino la Policía Local, que se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:16.05 cuando el cecoes recibir uno llamada que informar de que uno varón haber ser atropellar por uno turismo y precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario hasta el lugar se desplazar personal sanitario de el servicio_de_urgencias_canario suc que tras asistir y estabilizar a el afectar lo evacuar en uno ambulancia de soporte vital básico de el suc a el hospital_general_de_fuerteventura en decir actuación también intervenir el policía_local que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho ocurrir cecoes recibir llamada informar varón haber ser atropellar turismo precisar asistencia sanitario modo activar inmediato recurso emergencia necesario lugar desplazar personal sanitario servicio_de_urgencias_canario suc asistir estabilizar afectar evacuar ambulancia soporte vital básico suc hospital_general_de_fuerteventura decir actuación intervenir policía_local encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_General_de_Fuerteventura",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.05",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641412/0/",
+    "title": {
+        "raw_text": "Alerta amarilla en Canarias por viento y olas de hasta cuatro metros",
+        "lemmatized_text": "alerta amarillo en canarias por viento y ola de hasta LN_m:4",
+        "lemmatized_text_reduced": "amarillo canarias viento ola",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:4"
+        ]
+    },
+    "lead": {
+        "raw_text": "En el archipiélago se prevén chubascos débiles O moderados que ocasionalmente acabarán en tormenta",
+        "lemmatized_text": "en el archipiélago se prever chubasco débil o moderar que ocasionalmente acabar en tormenta",
+        "lemmatized_text_reduced": "archipiélago prever chubasco débil o moderar ocasionalmente acabar tormenta",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "O"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha declarado la alerta amarilla en Canarias por rachas de viento que serán de hasta 85 kilómetros por hora en los municipios de La Orotava y Vilaflor (Tenerife) hasta esta noche, mientras que hasta mañana se registrará mar de fondo del noroeste de dos a tres metros, aumentando durante la tarde con olas de hasta cuatro metros. En concreto, en Gran Canaria se prevén hoy rachas de viento de hasta 75 kilómetros por hora hasta las 16.00 horas, así como oleaje en la costa norte hasta la medianoche del jueves y en el este, sur y oeste de la isla hasta el mediodía de hoy. En Lanzarote y Fuerteventura se salvan del viento aunque sí están en riesgo por olas desde hoy y hasta la medianoche del jueves. Por su parte, en la provincia occidental, la Aemet vaticina en Tenerife rachas de 75 kilómetros por hora hasta esta tarde en la costa norte, sur, este y oeste, así como viento de 85 kilómetros por hora en las localidades de La Orotava y Vilaflor hasta la medianoche del miércoles. Asimismo, esta ínsula se verá afectada por oleaje en su litoral del norte, este, sur y oeste. En la isla de La Palma se esperan rachas de hasta 75 kilómetros por hora hasta las 16.00 horas y fenómenos costeros adversos en el norte y oeste que persistirán hasta la noche del miércoles. Asimismo, en La Gomera y El Hierro se esperan también rachas máximas de 75 kilómetros por hora y fuerte oleaje. Jornada de transición en el resto de españa De esta forma, el archipiélago canario y el área del Estrecho permanecerán hoy en alerta por fenómenos costeros adversos y fuertes rachas de viento, según la predicción de la Aemet, mientras que el resto de la Península afrontará una jornada de transición a la espera de las continuas borrascas atlánticas y sucesivos frentes que atravesarán España durante toda la semana. Así pues, las siete islas que conforman el archipiélago canario están hoy en alerta amarilla (riesgo) debido al oleaje mientras que se esperan fuertes rachas de viento en El Hierro, Gran Canaria, La Gomera, La Palma y Tenerife. Las provincias de Córdoba, Sevilla Cádiz, Huelva, Málaga y Almería estarán en el mismo nivel de alerta por olas, viento y lluvia. Así, los cielos amanecerán poco nubosos con intervalos de nubes altas en Península y Baleares, aunque la nubosidad aumentará a lo largo del dia de sur a norte, con precipitaciones débiles a moderadas a partir de mediodía en Andalucía y, al final de la jornada, en la meseta norte y el sur de Aragón y Cataluña. Las precipitaciones serán más intensas al final de la jornada en el extremo suroeste peninsular y también en Baleares, donde podrían ser localmente fuertes. En Canarias, se prevén chubascos débiles O moderados que ocasionalmente acabarán en tormenta. La cota de nieve bajará hasta los 1.300 y los 1.600 metros en la mitad norte, y las temperaturas máximas en la Península sufrirán un ligero ascenso a moderado en Galicia e interior peninsular. En el caso de las mínimas, se espera un descenso ligero a moderado. Por último, en Canarias habrá vientos de componente oeste moderado a fuerte, y en la Península y Baleares predominarán los de componente este flojo a moderado, llegando a fuerte en el sur de Andalucía y zonas altas de la Península.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber declarar el alerta amarillo en canarias por racha de viento que ser de hasta SP_km/h:85 en el municipio de la_orotava y vilaflor tenerife hasta este noche mientras_que hasta mañana se registrar mar de fondo de el noroeste de 2 a LN_m:3 aumentar durante el tarde con ola de hasta LN_m:4 en concreto en gran_canaria se prever hoy racha de viento de hasta SP_km/h:75 hasta el TM_h:16 así_como oleaje en el costa norte hasta el [J:??/??/??:00.00:am] y en el este sur y oeste de el isla hasta el [??:??/??/??:12.00:pm] de hoy en lanzarote y fuerteventura se salvar de el viento aunque sí estar en riesgo por ola desde hoy y hasta el [J:??/??/??:00.00:am] por su parte en el provincia occidental el aemet vaticinar en tenerife racha de SP_km/h:75 hasta este tarde en el costa norte sur este y oeste así_como viento de SP_km/h:85 en el localidad de la_orotava y vilaflor hasta el [X:??/??/??:00.00:am] asimismo este ínsula se ver afectar por oleaje en su litoral de el norte este sur y oeste en el isla de la_palma se esperar racha de hasta SP_km/h:75 hasta el TM_h:16 y fenómeno costero adverso en el norte y oeste que persistir hasta el noche de el [X:??/??/??:??.??:??] asimismo en la_gomera y el_hierro se esperar también racha máximo de SP_km/h:75 y fuerte oleaje jornada de transición en el resto de españa de este forma el archipiélago canario y el área de el estrecho permanecer hoy en alerta por fenómeno costero adverso y fuerte racha de viento según el predicción de el aemet mientras_que el resto de el península afrontar uno jornada de transición a_la_espera_de el continuo borrasca atlántico y sucesivo frente que atravesar españa durante todo el semana así_pues el 7 isla que conformar el archipiélago canario estar hoy en alerta amarillo riesgo deber a el oleaje mientras_que se esperar fuerte racha de viento en el_hierro gran_canaria la_gomera la_palma y tenerife el provincia de córdoba sevilla_cádiz huelva málaga y almería estar en el mismo nivel de alerta por ola viento y lluvia así el cielo amanecer poco nuboso con intervalo de nube alto en península y baleares aunque el nubosidad aumentar a el largo de el dia de sur a norte con precipitación débil a moderado a_partir_de [??:??/??/??:12.00:pm] en andalucía y a el final de el jornada en el meseta norte y el sur de aragón y cataluña el precipitación ser más intenso a el final de el jornada en el extremo suroeste peninsular y también en baleares donde poder ser localmente fuerte en canarias se prever chubasco débil o moderar que ocasionalmente acabar en tormenta el cota de nieve bajar hasta el 1.3 y el LN_m:1.6 en el mitad norte y el temperatura máximo en el península sufrir uno ligero ascenso a moderar en galicia y interior peninsular en el caso de el mínimo se esperar uno descenso ligero a moderar por último en canarias haber viento de componente oeste moderar a fuerte y en el península y baleares predominar el de componente este flojo a moderar llegar a fuerte en el sur de andalucía y zona alto de el península",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber declarar alerta amarillo canarias racha viento ser municipio la_orotava vilaflor tenerife noche registrar mar fondo noroeste aumentar tarde ola concreto gran_canaria prever racha viento oleaje costa norte este sur oeste isla lanzarote fuerteventura salvar viento estar riesgo ola parte provincia occidental aemet vaticinar tenerife racha tarde costa norte sur este oeste viento localidad la_orotava vilaflor ínsula ver afectar oleaje litoral norte sur oeste isla la_palma esperar racha fenómeno costero adverso norte oeste persistir noche la_gomera el_hierro esperar racha máximo fuerte oleaje jornada transición resto españa de forma archipiélago canario área estrecho permanecer alerta fenómeno costero adverso fuerte racha viento predicción aemet resto península afrontar jornada transición continuo borrasca atlántico sucesivo frente atravesar españa semana isla conformar archipiélago canario estar alerta amarillo riesgo deber oleaje esperar fuerte racha viento el_hierro gran_canaria la_gomera la_palma tenerife provincia córdoba sevilla_cádiz huelva málaga almería estar mismo nivel alerta ola viento lluvia cielo amanecer nuboso intervalo nube alto península baleares nubosidad aumentar largo dia sur norte precipitación débil moderado andalucía final jornada meseta norte sur aragón cataluña precipitación ser intenso final jornada extremo suroeste peninsular baleares poder ser localmente fuerte canarias prever chubasco débil o moderar ocasionalmente acabar tormenta cota nieve bajar mitad norte temperatura máximo península sufrir ligero ascenso moderar galicia interior peninsular caso mínimo esperar descenso ligero moderar último canarias haber viento componente oeste moderar fuerte península baleares predominar componente flojo moderar llegar fuerte sur andalucía zona alto península",
+        "persons": [
+            "España",
+            "Sevilla_Cádiz"
+        ],
+        "locations": [
+            "Canarias",
+            "La_Orotava",
+            "Vilaflor",
+            "Gran_Canaria",
+            "Lanzarote",
+            "Tenerife",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro",
+            "Estrecho",
+            "El_Hierro",
+            "Gran_Canaria",
+            "La_Palma",
+            "Córdoba",
+            "Huelva",
+            "Málaga",
+            "Almería",
+            "Península",
+            "Baleares",
+            "Andalucía",
+            "Aragón",
+            "Cataluña",
+            "Baleares",
+            "Canarias",
+            "Península",
+            "Galicia",
+            "Canarias",
+            "Península",
+            "Baleares",
+            "Andalucía",
+            "Península"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Tenerife",
+            "Fuerteventura",
+            "Aemet",
+            "Aemet",
+            "Península",
+            "La_Gomera",
+            "Tenerife"
+        ],
+        "others": [
+            "De",
+            "O"
+        ],
+        "dates": [
+            "[J:??/??/??:00.00:am]",
+            "[??:??/??/??:12.00:pm]",
+            "[J:??/??/??:00.00:am]",
+            "[X:??/??/??:00.00:am]",
+            "[X:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "SP_km/h:85",
+            "2",
+            "LN_m:3",
+            "LN_m:4",
+            "SP_km/h:75",
+            "TM_h:16",
+            "SP_km/h:75",
+            "SP_km/h:85",
+            "SP_km/h:75",
+            "TM_h:16",
+            "SP_km/h:75",
+            "7",
+            "1.3",
+            "LN_m:1.6"
+        ]
+    }
+}

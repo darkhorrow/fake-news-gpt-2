@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659870/0/",
+    "title": {
+        "raw_text": "Darias confirma que quedan sólo \"unos cuantos metros\" de agua por drenar del pozo de Jinámar (Gran Canaria)",
+        "lemmatized_text": "darias confirmar que quedar sólo uno cuanto metro de agua por drenar de el pozo de jinámar gran_canaria",
+        "lemmatized_text_reduced": "darias confirmar quedar metro agua drenar pozo jinámar gran_canaria",
+        "persons": [
+            "Darias"
+        ],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La delegada de Gobierno en Canarias, Carolina Darias, aseguró hoy minutos antes de las 12.00 horas de la mañana que apenas quedan \"unos cuantos metros\" de agua para drenar completamente el pozo, aunque la jefa suprior de Policía del archipiélago, Concepción De Vega, reconoció que están teniendo \"problemas con una tubería\" para taponarla y evitar que se siga incorporando agua de las galerías adyacentes al pozo de Jinámar (Gran Canaria) donde están los restos que aún no se sabe si pueden ser humanos y que fueron hallados en el marco de la investigación de la desaparición de Sara Morales.",
+        "lemmatized_text": "el delegado de gobierno en canarias carolina_darias asegurar hoy minuto antes_de el [??:??/??/??:12.00:am] que apenas quedar uno cuanto metro de agua para drenar completamente el pozo aunque el jefe suprior de policía de el archipiélago concepción_de_vega reconocer que estar tener problema con uno tubería para taponar lo y evitar que se seguir incorporar agua de el galería adyacente a el pozo de jinámar gran_canaria donde estar el resto que aun no se saber si poder ser humano y que ser hallar en el marco de el investigación de el desaparición de sara_morales",
+        "lemmatized_text_reduced": "delegado gobierno canarias carolina_darias asegurar minuto quedar metro agua drenar completamente pozo jefe suprior policía archipiélago concepción_de_vega reconocer estar tener problema tubería taponar evitar seguir incorporar agua galería adyacente pozo jinámar gran_canaria estar resto saber poder ser humano ser hallar marco investigación desaparición sara_morales",
+        "persons": [
+            "Carolina_Darias",
+            "Concepción_De_Vega",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Canarias",
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Policía"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:am]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Darias aseguró que desde la tarde de ayer, cuando la extracción con la bomba de agua más potente comenzó pasadas las 18.00 horas, se han extraído \"1.800 metros cúbicos y ha bajado el nivel del agua unos 12 metros\". También confirmó que \"ya han bajado\" los GOES y los agentes de subsuelo, que se han dedicado a extraer los escombros y restos que el pozo tenía en su interior. La delegada de Gobierno canaria explicó que \"no hay previsto\" abandonar los trabajos mientras quede algo por hacer y por tanto, la Policía y los operarios continuarán de forma ininterrumpida en la zona hasta acceder a lo que podría ser una bolsa con restos humanos. Los agentes policiales en la zona han ido sacando durante la mañana varias cajas que han depositado en las furgonetas que se encuentran apostadas en los alrededores.",
+        "lemmatized_text": "darias asegurar que desde el tarde de ayer cuando el extracción con el bomba de agua más potente comenzar pasar el TM_h:18 se haber extraer LN_m:1.8 cúbico y haber bajar el nivel de el agua uno LN_m:12 también confirmar que ya haber bajar el goes y el agente de subsuelo que se haber dedicar a extraer el escombro y resto que el pozo tener en su interior el delegado de gobierno canario explicar que no haber prever abandonar el trabajo mientras quedar algo por hacer y por tanto el policía y el operario continuar de forma ininterrumpido en el zona hasta acceder a el que poder ser uno bolsa con resto humano el agente policial en el zona haber ir sacar durante el mañana varios caja que haber depositar en el furgoneta que se encontrar apostar en el alrededor",
+        "lemmatized_text_reduced": "darias asegurar tarde extracción bomba agua potente comenzar pasar haber extraer cúbico haber bajar nivel agua confirmar haber bajar goes agente subsuelo haber dedicar extraer escombro resto pozo tener interior delegado gobierno canario explicar haber prever abandonar trabajo quedar hacer policía operario continuar forma ininterrumpido zona acceder poder ser bolsa resto humano agente policial zona haber ir sacar mañana caja haber depositar furgoneta encontrar apostar alrededor",
+        "persons": [
+            "Darias"
+        ],
+        "locations": [],
+        "organizations": [
+            "GOES",
+            "Gobierno",
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:18",
+            "LN_m:1.8",
+            "LN_m:12"
+        ]
+    }
+}

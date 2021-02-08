@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/942678/0/",
+    "title": {
+        "raw_text": "Darias dice que será Zapatero el que tendrá que decidir cuándo quiere anunciar si volverá a presentarse a las elecciones",
+        "lemmatized_text": "darias decir que ser zapatero el que tener que decidir cuándo querer anunciar si volver a presentar se a el elección",
+        "lemmatized_text_reduced": "darias decir ser zapatero tener decidir querer anunciar volver presentar elección",
+        "persons": [
+            "Darias",
+            "Zapatero"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La candidata del PSOE al Cabildo de Gran Canaria, Carolina Darias, ha señalado este viernes que será José Luis Rodríguez Zapatero el que tendrá que decidir cuándo quiere anunciar si volverá o no a presentarse a las elecciones generales.",
+        "lemmatized_text": "el candidato de el psoe a el cabildo_de_gran_canaria carolina_darias haber señalar este [V:??/??/??:??.??:??] que ser josé_luis_rodríguez_zapatero el que tener que decidir cuándo querer anunciar si volver o no a presentar se a el elección general",
+        "lemmatized_text_reduced": "candidato psoe cabildo_de_gran_canaria carolina_darias haber señalar ser josé_luis_rodríguez_zapatero tener decidir querer anunciar volver presentar elección general",
+        "persons": [
+            "Carolina_Darias",
+            "José_Luis_Rodríguez_Zapatero"
+        ],
+        "locations": [],
+        "organizations": [
+            "PSOE",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La candidata del PSOE al Cabildo de Gran Canaria, Carolina Darias, ha señalado este viernes que será José Luis Rodríguez Zapatero el que tendrá que decidir cuándo quiere anunciar si volverá o no a presentarse a las elecciones generales. \"Es una cuestión que tendrá que decidir él y yo seré respetuosa con los momentos y los procedimientos como también quiero que lo sean con lo míos\", apuntilló Darias en declaraciones a los medios, tras ser preguntada si cómo el presidente extremeño, Guillermo Fernández Vara, considera que Zapatero debe pronunciarse sobre su candidatura antes del 22 de mayo. Por otro lado, cuestionada la también delegada del Gobierno en Canarias por las declaraciones del vicepresidente Tercero del Ejecutivo central, Manuel Chaves, sobre la sucesión de Zapatero, subrayó que sobre \"futuribles\" no se pronuncia. \"Yo sobre futuribles no me pronuncio. Creo que tenemos el presidente que han querido los españoles, que hemos querido los socialistas y es de lo tengo que hablar, del presente, del futuro ya tocará en su momento, y será el que él decida en cualquier caso\", sentenció.",
+        "lemmatized_text": "el candidato de el psoe a el cabildo_de_gran_canaria carolina_darias haber señalar este [V:??/??/??:??.??:??] que ser josé_luis_rodríguez_zapatero el que tener que decidir cuándo querer anunciar si volver o no a presentar se a el elección general ser uno cuestión que tener que decidir él y yo ser respetuoso con el momento y el procedimiento como también querer que lo ser con el mío apuntillar darias en declaración a el medio tras ser preguntar si cómo el presidente extremeño guillermo_fernández_vara considerar que zapatero deber pronunciar se sobre su candidatura antes de el [??:22/5/??:??.??:??] por_otro_lado cuestionar el también delegar de el gobierno en canarias por el declaración de el vicepresidente tercero_del_ejecutivo central manuel_chaves sobre el sucesión de zapatero subrayar que sobre futurible no se pronunciar yo sobre futurible no me pronuncio creer que tener el presidente que haber querer el español que haber querer el socialista y ser de lo tener que hablar de el presente de el futuro ya tocar en su momento y ser el que él decidir en cualquiera caso sentenciar",
+        "lemmatized_text_reduced": "candidato psoe cabildo_de_gran_canaria carolina_darias haber señalar ser josé_luis_rodríguez_zapatero tener decidir querer anunciar volver presentar elección general ser cuestión tener decidir ser respetuoso momento procedimiento querer ser mío apuntillar darias declaración medio ser preguntar presidente extremeño guillermo_fernández_vara considerar zapatero deber pronunciar candidatura cuestionar delegar gobierno canarias declaración vicepresidente tercero_del_ejecutivo central manuel_chaves sucesión zapatero subrayar futurible pronunciar futurible pronuncio creer tener presidente haber querer español haber querer socialista ser tener hablar presente futuro tocar momento ser decidir caso sentenciar",
+        "persons": [
+            "Carolina_Darias",
+            "José_Luis_Rodríguez_Zapatero",
+            "Darias",
+            "Guillermo_Fernández_Vara",
+            "Zapatero",
+            "Manuel_Chaves",
+            "Zapatero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "PSOE",
+            "Cabildo_de_Gran_Canaria",
+            "Gobierno",
+            "Tercero_del_Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:22/5/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

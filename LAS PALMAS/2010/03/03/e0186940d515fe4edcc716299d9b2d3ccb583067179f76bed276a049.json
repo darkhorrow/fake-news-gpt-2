@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/642661/0/",
+    "title": {
+        "raw_text": "Un hombre de carácter menos grave tras colisionar una moto y un turismo en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre de carácter menos grave tras colisionar uno moto y uno turismo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre carácter grave colisionar moto turismo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido de carácter menos grave después de que colisionara una moto y un turismo en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber resultar herir de carácter menos grave después_de que colisionar uno moto y uno turismo en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir carácter grave colisionar moto turismo las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron esta mañana en la carretera GC-1, a la altura del Real Club Náutico, en Las Palmas de Gran Canaria. El herido, un hombre de 30 años de edad, sufrió traumatismo en miembro superior de carácter menos grave, por lo que tuvo que ser trasladado en ambulancia de soporte vital básico al Hospital Universitario de Gran Canaria Doctor Negrín. Así, hasta el lugar del incidente se trasladó además de personal del Servicio de Urgencias Canario (SUC), agentes de la Policía Local que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir este mañana en el carretera GC-1 a el altura de el real_club_náutico en las_palmas_de_gran_canaria el herir uno hombre de 30 año de edad sufrir traumatismo en miembro superior de carácter menos grave por el que tener que ser trasladar en ambulancia de soporte vital básico a el hospital_universitario_de_gran_canaria_doctor_negrín así hasta el lugar de el incidente se trasladar además_de personal de el servicio_de_urgencias_canario suc agente de el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir mañana carretera altura real_club_náutico las_palmas_de_gran_canaria herir hombre año edad sufrir traumatismo miembro superior carácter grave tener ser trasladar ambulancia soporte vital básico hospital_universitario_de_gran_canaria_doctor_negrín lugar incidente trasladar personal servicio_de_urgencias_canario suc agente policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Real_Club_Náutico",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-1",
+            "30"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/611939/0/",
+    "title": {
+        "raw_text": "Gobierno canario satisfecho con el convenio entre Grupo Adonis y Gobierno senegalés para impulsar el turismo",
+        "lemmatized_text": "gobierno canario satisfacer con el convenio entre grupo_adonis y gobierno senegalés para impulsar el turismo",
+        "lemmatized_text_reduced": "gobierno canario satisfacer convenio grupo_adonis gobierno senegalés impulsar turismo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Grupo_Adonis",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La consejera de Turismo del Gobierno de Canarias, Rita Martín, se ha mostrado hoy satisfecha y ha dado su apoyo al desarrollo turístico de Senegal, tras la firma de un convenio entre la empresa Sapco-Grupo Adonis y el Gobierno senegalés con el que se pretende impulsar el sector turístico en el país africano.",
+        "lemmatized_text": "el consejero de turismo_del_gobierno_de_canarias rita_martín se haber mostrar hoy satisfacer y haber dar su apoyo a el desarrollo turístico de senegal tras el firma de uno convenio entre el empresa sapco-grupo_adonis y el gobierno senegalés con el que se pretender impulsar el sector turístico en el país africano",
+        "lemmatized_text_reduced": "consejero turismo_del_gobierno_de_canarias rita_martín haber mostrar satisfacer haber dar apoyo desarrollo turístico senegal firma convenio empresa sapco-grupo_adonis gobierno senegalés pretender impulsar sector turístico país africano",
+        "persons": [
+            "Rita_Martín"
+        ],
+        "locations": [
+            "Senegal"
+        ],
+        "organizations": [
+            "Turismo_del_Gobierno_de_Canarias",
+            "Sapco-Grupo_Adonis",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, el objetivo del acuerdo está centrado en \"fomentar el desarrollo del sector turístico\" de Senegal, a través de la creación de infraestructuras hoteleras, así como la formación de sus jóvenes con la puesta en marcha de un hotel escuela, según informó el Ejecutivo regional en nota de prensa. Martín mostró su satisfacción por la puesta en marcha de este convenio, que supondrá una inversión de unos 600 millones de euros y permitirá que \"el país de Senegal, que actualmente recibe unos 500.000 turistas, pueda llegar a recibir alrededor de un millón y medio gracias a la creación de infraestructuras hoteleras, tal y como se contempla en este convenio\". Además, el destino turístico de Canarias servirá, según el empresario Bernard Lonis, \"de ejemplo para que Senegal consiga una expansión que repercuta de forma importante\" en el país del continente africano. Este acuerdo también cuenta con el apoyo del Cabildo de Tenerife y de la patronal turística de la provincia de Santa Cruz de Tenerife, Ashotel.",
+        "lemmatized_text": "en concreto el objetivo de el acuerdo estar centrar en fomentar el desarrollo de el sector turístico de senegal a_través_de el creación de infraestructura hotelero así_como el formación de su joven con el puesta en marcha de uno hotel escuela según informar el ejecutivo regional en nota de prensa martín mostrar su satisfacción por el puesta en marcha de este convenio que suponer uno inversión de uno $_ECU:600000000 y permitir que el país de senegal que actualmente recibir uno 500 turista poder llegar a recibir alrededor_de 1500000 gracias_a el creación de infraestructura hotelero tal_y_como se contemplar en este convenio además el destino turístico de canarias servir según el empresario bernard_lonis de ejemplo para que senegal conseguir uno expansión que repercutir de forma importante en el país de el continente africano este acuerdo también contar con el apoyo de el cabildo_de_tenerife y de el patronal turístico de el provincia de santa_cruz_de_tenerife ashotel",
+        "lemmatized_text_reduced": "concreto objetivo acuerdo estar centrar fomentar desarrollo sector turístico senegal creación infraestructura hotelero formación joven puesta marcha hotel escuela informar ejecutivo regional nota prensa martín mostrar satisfacción puesta marcha convenio suponer inversión permitir país senegal actualmente recibir turista poder llegar recibir creación infraestructura hotelero contemplar convenio destino turístico canarias servir empresario bernard_lonis ejemplo senegal conseguir expansión repercutir forma importante país continente africano acuerdo contar apoyo cabildo_de_tenerife patronal turístico provincia santa_cruz_de_tenerife ashotel",
+        "persons": [
+            "Martín",
+            "Bernard_Lonis",
+            "Senegal",
+            "Ashotel"
+        ],
+        "locations": [
+            "Senegal",
+            "Senegal",
+            "Canarias",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Ejecutivo"
+        ],
+        "others": [
+            "Cabildo_de_Tenerife"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:600000000",
+            "500",
+            "1500000"
+        ]
+    }
+}

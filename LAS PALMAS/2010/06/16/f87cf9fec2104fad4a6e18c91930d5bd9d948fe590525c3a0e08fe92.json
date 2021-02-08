@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/738166/0/",
+    "title": {
+        "raw_text": "Tres personas heridas, dos de ellos menores, en una colisión en Las Palmas de Gran Canaria",
+        "lemmatized_text": "3 persona herir 2 de ellos menor en uno colisión en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persona herir menor colisión las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una colisión entre dos vehículos a primera hora de esta mañana en Las Palmas de Gran Canaria ha ocasionado tres heridos, dos de ellos menores, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno colisión entre 2 vehículo a 1 hora de este mañana en las_palmas_de_gran_canaria haber ocasionar 3 herido 2 de ellos menor según informar fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "colisión vehículo 1 hora mañana las_palmas_de_gran_canaria haber ocasionar herido menor informar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "3",
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 08.10 horas en la calle Pío XII de la capital grancanaria, resultando herido un adulto, así como dos niños de 14 y 4 años de edad, aunque sufrieron heridas leves. El personal del Servicio de Urgencias Canario (SUC) se personó en el lugar de los hechos, trasladando a los heridos al hospital Perpetuo Socorro. También se personaron agentes de la Policía Local.",
+        "lemmatized_text": "el hecho se producir a el TM_h:8.1 en el calle pío_xii de el capital grancanaria resultar herir uno adulto así_como 2 niño de 14 y 4 año de edad aunque sufrir herida leve el personal de el servicio_de_urgencias_canario suc se personar en el lugar de el hecho trasladar a el herido a el hospital perpetuo_socorro también se personar agente de el policía_local",
+        "lemmatized_text_reduced": "hecho producir calle pío_xii capital grancanaria resultar herir adulto niño año edad sufrir herida leve personal servicio_de_urgencias_canario suc personar lugar hecho trasladar herido hospital perpetuo_socorro personar agente policía_local",
+        "persons": [
+            "Perpetuo_Socorro"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [
+            "Pío_XII"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:8.1",
+            "2",
+            "14",
+            "4"
+        ]
+    }
+}

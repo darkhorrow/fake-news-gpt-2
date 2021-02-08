@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659521/0/",
+    "title": {
+        "raw_text": "La Policía intentará bloquear la entrada de agua al túnel y empezar cuanto antes la búsqueda de restos en Jinámar",
+        "lemmatized_text": "el policía intentar bloquear el entrada de agua a el túnel y empezar cuanto_antes el búsqueda de resto en jinámar",
+        "lemmatized_text_reduced": "policía intentar bloquear entrada agua túnel empezar búsqueda resto jinámar",
+        "persons": [],
+        "locations": [
+            "Jinámar"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La jefa superior de la Policía en Canarias, Concepción De Vega, ha asegurado hoy que intentarán bloquear la entrada de agua al pozo de Jinámar (Gran Canaria) desde las galerías adyacentes para recoger cuanto antes la bolsa que podría contener huesos y que fue captada por una cámara subacuática en el marco de la investigación de Sara Morales, desaparecida el 30 de julio de 2006 en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el jefe superior de el policía en canarias concepción_de_vega haber asegurar hoy que intentar bloquear el entrada de agua a el pozo de jinámar gran_canaria desde el galería adyacente para recoger cuanto_antes el bolsa que poder contener hueso y que ser captar por uno cámara subacuático en el marco de el investigación de sara_morales desaparecer el [??:30/7/2006:??.??:??] en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "jefe superior policía canarias concepción_de_vega haber asegurar intentar bloquear entrada agua pozo jinámar gran_canaria galería adyacente recoger bolsa poder contener hueso ser captar cámara subacuático marco investigación sara_morales desaparecer las_palmas_de_gran_canaria",
+        "persons": [
+            "Concepción_De_Vega",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Canarias",
+            "Jinámar",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:30/7/2006:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Por su parte, la delegada del Gobierno en las islas, Carolina Darias, no quiso hacer declaraciones a los medios de comunicación, aunque desde dentro del cordón policial aseguró —sobre las 19.30 horas— que \"no hay novedades\" en los trabajos y que simplemente de está llevando a cabo el drenaje del agua. De Vega explicó que las labores de vaciado de los escombros y restos del pozo darán comienzo desde que se vaya pudiendo y no se esperará al vaciado total. \"Pretendemos —dijo— estar rebajando el agua toda la noche y seguir limpiando el pozo a medida que saquemos agua. No esperaremos hasta el final\". También explicó que el problema que se están encontrando son las galerías de agua subterráneas, por lo que cuando se bajen 15 metros el nivel de agua intentarán \"sellar\" unas compuertas de las galerías por las que entra el agua. Asimismo, De Vega señaló que en estos momentos el número de efectivos que se encuentran trabajando en las labores de extracción del agua asciende \"mínimo\" a 15, entre miembros de GOES, de Subsuelos y de Homicidios. Finalmente, cuestionada sobre por qué la Guardia Civil no está participando en las tareas de extracción, puntualizó que, en este caso, las competencias las tiene la Policía Nacional, mientras que hizo especial hincapié en que \"los compañeros de la Guardia Civil fueron los primeros que se ofrecieron a colaborar\".",
+        "lemmatized_text": "por su parte el delegado de el gobierno en el isla carolina_darias no querer hacer declaración a el medio de comunicación aunque desde dentro de el cordón policial asegurar sobre el TM_h:19.3 que no haber novedad en el trabajo y que simplemente de estar llevar_a_cabo el drenaje de el agua de vega explicar que el labor de vaciado de el escombro y resto de el pozo dar comienzo desde que se ir poder y no se esperar a el vaciado total pretender decir estar rebajar el agua todo el noche y seguir limpiar el pozo a_medida_que sacar agua no esperar hasta el final también explicar que el problema que se estar encontrar ser el galería de agua subterráneo por el que cuando se bajar LN_m:15 el nivel de agua intentar sellar uno compuerta de el galería por el que entrar el agua asimismo de_vega señalar que en este momento el número de efectivo que se encontrar trabajar en el labor de extracción de el agua ascender mínimo a 15 entre miembro de goes de subsuelos y de homicidios finalmente cuestionar sobre por qué el guardia_civil no estar participar en el tarea de extracción puntualizar que en este caso el competencia lo tener el policía_nacional mientras_que hacer especial hincapié en que el compañero de el guardia_civil ser el 1 que se ofrecer a colaborar",
+        "lemmatized_text_reduced": "parte delegado gobierno isla carolina_darias querer hacer declaración medio comunicación cordón policial asegurar haber novedad trabajo simplemente estar llevar_a_cabo drenaje agua vega explicar labor vaciado escombro resto pozo dar comienzo ir poder esperar vaciado total pretender decir estar rebajar agua noche seguir limpiar pozo sacar agua esperar final explicar problema estar encontrar ser galería agua subterráneo bajar nivel agua intentar sellar compuerta galería entrar agua de_vega señalar momento número efectivo encontrar trabajar labor extracción agua ascender mínimo miembro goes subsuelos homicidios finalmente cuestionar guardia_civil estar participar tarea extracción puntualizar caso competencia tener policía_nacional hacer especial hincapié compañero guardia_civil ser 1 ofrecer colaborar",
+        "persons": [
+            "Carolina_Darias",
+            "Vega",
+            "De_Vega"
+        ],
+        "locations": [
+            "Subsuelos",
+            "Homicidios"
+        ],
+        "organizations": [
+            "Gobierno",
+            "GOES",
+            "Guardia_Civil",
+            "Policía_Nacional",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:19.3",
+            "LN_m:15",
+            "15"
+        ]
+    }
+}

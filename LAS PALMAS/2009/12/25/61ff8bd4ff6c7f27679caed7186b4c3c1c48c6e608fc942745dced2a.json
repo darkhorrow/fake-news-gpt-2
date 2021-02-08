@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595514/0/",
+    "title": {
+        "raw_text": "Hallan el cadáver de un turista noruego en las inmediaciones de la desaladora de Puerto Rico (Gran Canaria)",
+        "lemmatized_text": "hallar el cadáver de uno turista noruego en el inmediación de el desaladora de puerto_rico gran_canaria",
+        "lemmatized_text_reduced": "hallar cadáver turista noruego inmediación desaladora puerto_rico gran_canaria",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cadáver de un hombre de origen noruego fue hallado ayer en las inmediaciones de una canalización de agua perteneciente a la desaladora de Puerto Rico, en el municipio grancanario de Mogán, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el cadáver de uno hombre de origen noruego ser hallar ayer en el inmediación de uno canalización de agua perteneciente a el desaladora de puerto_rico en el municipio grancanario de mogán según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "cadáver hombre origen noruego ser hallar inmediación canalización agua perteneciente desaladora puerto_rico municipio grancanario mogán informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico",
+            "Mogán"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la llamada de una persona sobre las 13.00 horas de ayer indicando que había localizado el cuerpo de un varón que no respondía a estímulos, en la zona anteriormente mencionada. Por ello, se activó al Servicio de Urgencias Canario (SUC), que se trasladó al lugar de los hechos con una ambulancia de soporte vital básico, únicamente pudiendo confirmar su fallecimiento. Asimismo, en el suceso participó el cuerpo de bomberos, que se encargó de recuperar el cuerpo de la zona y efectivos de la Guardia Civil, que está investigando las causas de la muerte.",
+        "lemmatized_text": "el cecoes recibir el llamada de uno persona sobre el TM_h:13 de ayer indicar que haber localizar el cuerpo de uno varón que no responder a estímulo en el zona anteriormente mencionar por ello se activar a el servicio_de_urgencias_canario suc que se trasladar a el lugar de el hecho con uno ambulancia de soporte vital básico únicamente poder confirmar su fallecimiento asimismo en el suceso participar el cuerpo de bombero que se encargar de recuperar el cuerpo de el zona y efectivo de el guardia_civil que estar investigar el causa de el muerte",
+        "lemmatized_text_reduced": "cecoes recibir llamada persona indicar haber localizar cuerpo varón responder estímulo zona anteriormente mencionar activar servicio_de_urgencias_canario suc trasladar lugar hecho ambulancia soporte vital básico únicamente poder confirmar fallecimiento suceso participar cuerpo bombero encargar recuperar cuerpo zona efectivo guardia_civil estar investigar causa muerte",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:13"
+        ]
+    }
+}

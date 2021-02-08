@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660150/0/",
+    "title": {
+        "raw_text": "La Policía Nacional cambia la grúa que utilizaba en el pozo de Jinámar (Gran Canaria) por otra más grande",
+        "lemmatized_text": "el policía_nacional cambiar el grúa que utilizar en el pozo de jinámar gran_canaria por otro más grande",
+        "lemmatized_text_reduced": "policía_nacional cambiar grúa utilizar pozo jinámar gran_canaria grande",
+        "persons": [],
+        "locations": [
+            "Jinámar"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los efectivos de la Policía Nacional que trabajan en la extracción de agua del pozo de Jinámar, en Gran Canaria, donde se busca una bolsa que podría contener restos humanos, han decidido cambiar la grúa que utilizaban hasta ahora por otra más grande y de mayor capacidad para poder llegar al final del foso.",
+        "lemmatized_text": "el efectivo de el policía_nacional que trabajar en el extracción de agua de el pozo de jinámar en gran_canaria donde se buscar uno bolsa que poder contener resto humano haber decidir cambiar el grúa que utilizar hasta ahora por otro más grande y de mayor capacidad para poder llegar a el final de el foso",
+        "lemmatized_text_reduced": "efectivo policía_nacional trabajar extracción agua pozo jinámar gran_canaria buscar bolsa poder contener resto humano haber decidir cambiar grúa utilizar grande mayor capacidad poder llegar final foso",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Según indicaron fuentes del cuerpo policial a los periodistas, la finalidad del cambio de grúa es poder vaciar de agua el interior del pozo porque se sigue colando agua por las compuertas de las galerías subterráneas del mismo. Por su parte, los agentes policiales en la zona han ido sacando durante la mañana varias cajas que han depositado en las furgonetas que se encuentran apostadas en los alrededores. Desde primera hora de la mañana, la delegada del Gobierno en Canarias, Carolina Darias, y la jefa superior de Policía de Canarias, Concepción de Vega, se encuentran en el lugar de la investigación. En la zona, que sigue acordonada, hay un gran número de curiosos además de medios de comunicación que siguen con interés esta investigación.",
+        "lemmatized_text": "según indicar fuente de el cuerpo policial a el periodista el finalidad de el cambio de grúa ser poder vaciar de agua el interior de el pozo porque se seguir colar agua por el compuerta de el galería subterráneo de el mismo por su parte el agente policial en el zona haber ir sacar durante el mañana varios caja que haber depositar en el furgoneta que se encontrar apostar en el alrededor desde 1 hora de el mañana el delegado de el gobierno en canarias carolina_darias y el jefe superior de policía_de_canarias concepción_de_vega se encontrar en el lugar de el investigación en el zona que seguir acordonar haber uno gran número de curioso además_de medio de comunicación que seguir con interés este investigación",
+        "lemmatized_text_reduced": "indicar fuente cuerpo policial periodista finalidad cambio grúa ser poder vaciar agua interior pozo seguir colar agua compuerta galería subterráneo parte agente policial zona haber ir sacar mañana caja haber depositar furgoneta encontrar apostar alrededor 1 hora mañana delegado gobierno canarias carolina_darias jefe superior policía_de_canarias concepción_de_vega encontrar lugar investigación zona seguir acordonar haber gran número curioso medio comunicación seguir interés investigación",
+        "persons": [
+            "Carolina_Darias",
+            "Concepción_de_Vega"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Policía_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

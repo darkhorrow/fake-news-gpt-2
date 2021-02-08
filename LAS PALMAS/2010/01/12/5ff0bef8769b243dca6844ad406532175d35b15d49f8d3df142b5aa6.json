@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604352/0/",
+    "title": {
+        "raw_text": "Canarias es la comunidad donde menos bajó el precio de la vivienda en 2009, con un descenso del 3,8 por ciento",
+        "lemmatized_text": "canario ser el comunidad donde menos bajar el precio de el vivienda en 2009 con uno descenso de el 3,8 por 100",
+        "lemmatized_text_reduced": "canario ser comunidad bajar precio vivienda descenso",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "3,8",
+            "100"
+        ]
+    },
+    "lead": {
+        "raw_text": "Canarias fue la Comunidad Autónoma española donde menos bajó el precio de la vivienda a lo largo de 2009, ya que el archipiélago experimentó un descenso del 3,8 por ciento el pasado año, según el índice que difunde hoy Tasaciones Inmobiliarias (Tinsa) sobre pisos libres, tanto nuevos como usados.",
+        "lemmatized_text": "canario ser el comunidad_autónoma español donde menos bajar el precio de el vivienda a el largo de 2009 ya_que el archipiélago experimentar uno descenso de el 3,8 por 100 el pasar año según el índice que difundir hoy tasaciones_inmobiliarias tinsa sobre piso libre tanto nuevo como usar",
+        "lemmatized_text_reduced": "canario ser comunidad_autónoma español bajar precio vivienda largo archipiélago experimentar descenso pasar año índice difundir tasaciones_inmobiliarias tinsa piso libre nuevo usar",
+        "persons": [
+            "Tasaciones_Inmobiliarias"
+        ],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma",
+            "Tinsa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "3,8",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "A nivel nacional, el precio medio de la vivienda cayó un 6,6 por ciento en 2009, con lo que acumula un descenso del 14,8 por ciento desde el máximo que alcanzó en diciembre de 2007. El descenso interanual que los pisos registraron de cierre del pasado mes de diciembre es igual al contabilizado a la conclusión de noviembre, lo que, según la firma, supone un \"freno momentáneo\" en la moderación que la caída de los precios venía registrando desde mediados de año. Los pisos bajaron en todas las zonas, pero de forma dispar. Así, la caída del precio de los pisos el pasado año osciló entre la del 7,6 por ciento registrada en la costa Mediterránea y la del 3,8 por ciento anotada en Baleares y Canarias. (Habrá ampliación)",
+        "lemmatized_text": "a nivel nacional el precio medio de el vivienda caer uno 6,6 por 100 en 2009 con el que acumular uno descenso de el 14,8 por 100 desde el máximo que alcanzar en [??:??/12/2007:??.??:??] el descenso interanual que el piso registrar de cierre de el [??:??/12/??:??.??:??] ser igual a el contabilizar a el conclusión de [??:??/11/??:??.??:??] el que según el firma suponer uno freno momentáneo en el moderación que el caída de el precio venir registrar desde mediar de año el piso bajar en todo el zona pero de forma dispar así el caída de el precio de el piso el pasar año oscilar entre el de el 7,6 por 100 registrar en el costa mediterránea y el de el 3,8 por 100 anotar en baleares y canarias haber ampliación",
+        "lemmatized_text_reduced": "nivel nacional precio medio vivienda caer acumular descenso máximo alcanzar descenso interanual piso registrar cierre ser igual contabilizar conclusión firma suponer freno momentáneo moderación caída precio venir registrar mediar año piso bajar zona forma dispar caída precio piso pasar año oscilar registrar costa mediterránea anotar baleares canarias haber ampliación",
+        "persons": [],
+        "locations": [
+            "Baleares",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [
+            "Mediterránea"
+        ],
+        "dates": [
+            "[??:??/12/2007:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "6,6",
+            "100",
+            "2009",
+            "14,8",
+            "100",
+            "7,6",
+            "100",
+            "3,8",
+            "100"
+        ]
+    }
+}

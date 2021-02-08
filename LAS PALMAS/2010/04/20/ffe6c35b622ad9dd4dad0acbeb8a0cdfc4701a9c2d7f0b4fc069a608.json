@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/683559/0/",
+    "title": {
+        "raw_text": "Ryanair operará mañana y pasado vuelos adiciones desde Gran Canaria a Madrid",
+        "lemmatized_text": "ryanair operar mañana y pasar vuelo adición desde gran_canaria a madrid",
+        "lemmatized_text_reduced": "ryanair operar pasar vuelo adición gran_canaria madrid",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Madrid"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ryanair ha comunicado que operará vuelos adicionales desde Gran Canaria mañana miércoles 21 y pasado jueves 22 hacia Madrid para permitir a todos los pasajeros que hayan visto su viaje cancelado el acceso hasta la península seguir, desde ahí, por otros medios su viaje de regreso a casa.",
+        "lemmatized_text": "ryanair haber comunicar que operar vuelo adicional desde gran_canaria mañana [X:21/??/??:??.??:??] y [J:22/??/??:??.??:??] hacia madrid para permitir a todo el pasajero que haber ver su viaje cancelar el acceso hasta el península seguir desde ahí por otro medio su viaje de regreso a casa",
+        "lemmatized_text_reduced": "ryanair haber comunicar operar vuelo adicional gran_canaria mañana madrid permitir pasajero haber ver viaje cancelar acceso península seguir medio viaje regreso casa",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[X:21/??/??:??.??:??]",
+            "[J:22/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En un comunicado, el Patronato de Turismo de Gran Canaria explicó que sigue velando por dar solución a los turistas que se han quedado bloqueados tras el caos aéreo provocado por la nube de cenizas del volcán islandés. Así, la Institución \"permanece en continuo contacto con las compañías aéreas y touroperadores para dar alternativas a sus clientes\". Por su parte, los clientes de Ryanair que hayan visto sus vuelos cancelados en días anteriores tendrán este transporte libre de cargo a través de la página web de Ryanair opción 'manage my booking'. Habrá un número limitado de asientos libres para pasajeros en general, a un coste de cien euros el trayecto.",
+        "lemmatized_text": "en uno comunicado el patronato_de_turismo_de_gran_canaria explicar que seguir velar por dar solución a el turista que se haber quedar bloquear tras el caos aéreo provocar por el nube de ceniza de el volcán islandés así el institución permanecer en continuo contacto con el compañía aéreo y touroperadores para dar alternativa a su cliente por su parte el cliente de ryanair que haber ver su vuelo cancelar en día anterior tener este transporte libre de cargo a_través_de el página web de ryanair opción manage my booking haber uno número limitar de asiento libre para pasajero en general a uno coste de $_ECU:100 el trayecto",
+        "lemmatized_text_reduced": "comunicado patronato_de_turismo_de_gran_canaria explicar seguir velar dar solución turista haber quedar bloquear caos aéreo provocar nube ceniza volcán islandés institución permanecer continuo contacto compañía aéreo touroperadores dar alternativa cliente parte cliente ryanair haber ver vuelo cancelar día anterior tener transporte libre cargo página web ryanair opción manage my booking haber número limitar asiento libre pasajero general coste trayecto",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Ryanair"
+        ],
+        "organizations": [
+            "Patronato_de_Turismo_de_Gran_Canaria",
+            "Institución"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:100"
+        ]
+    }
+}

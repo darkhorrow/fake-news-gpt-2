@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/943505/0/",
+    "title": {
+        "raw_text": "Los ciudadanos de los municipios grancanarios podrán conocer la oferta cultural de la isla a través de puntos multimedia",
+        "lemmatized_text": "el ciudadano de el municipio grancanarios poder conocer el oferta cultural de el isla a_través_de punto multimedia",
+        "lemmatized_text_reduced": "ciudadano municipio grancanarios poder conocer oferta cultural isla punto multimedia",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los ciudadanos de los municipios de Gran Canaria podrán conocer la oferta cultural de la isla a través de puntos multimedia que se instalarán en distintos puntos de las 21 localidades.",
+        "lemmatized_text": "el ciudadano de el municipio de gran_canaria poder conocer el oferta cultural de el isla a_través_de punto multimedia que se instalar en distinto punto de el 21 localidad",
+        "lemmatized_text_reduced": "ciudadano municipio gran_canaria poder conocer oferta cultural isla punto multimedia instalar punto localidad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "21"
+        ]
+    },
+    "body": {
+        "raw_text": "Los ciudadanos de los municipios de Gran Canaria podrán conocer la oferta cultural de la isla a través de puntos multimedia que se instalarán en distintos puntos de las 21 localidades. El proyecto, vinculado al Plan Avanza del Ministerio de Industria, Turismo y Comercio, ha supuesto una inversión de 63.000 euros, según informó el Cabildo insular en nota de prensa. Además, estos puntos posibilitarán la retransmisión en directo o visualizar en tiempo real cualquier evento que se celebre en las diferentes localidades. Este proyecto consistirá la instalación de 25 'kioscos digitales' en los 21 municipios, de tal forma que los cuatro equipamientos restantes serán gestionados por el propio Cabildo de Gran Canaria. Cada uno de estos puntos multimedia dispone de un ordenador, una cámara ip, una pantalla plana de 42 pulgadas y un soporte móvil que permite un fácil traslado e instalación. Estos equipamientos multimedia estarán a disposición de las administraciones locales en breve.",
+        "lemmatized_text": "el ciudadano de el municipio de gran_canaria poder conocer el oferta cultural de el isla a_través_de punto multimedia que se instalar en distinto punto de el 21 localidad el proyecto vincular a el plan_avanza_del_ministerio_de_industria turismo y comercio haber suponer uno inversión de $_ECU:63 según informar el cabildo insular en nota de prensa además este punto posibilitar el retransmisión en directo o visualizar en_tiempo_real cualquiera evento que se celebrar en el diferente localidad este proyecto consistir el instalación de 25 kiosco digital en el 21 municipio de tal forma que el 4 equipamiento restante ser gestionar por el propio cabildo_de_gran_canaria cada uno de este punto multimedia disponer de uno ordenador uno cámara ip uno pantalla plano de LN_in:42 y uno soporte móvil que permitir uno fácil traslado y instalación este equipamiento multimedia estar a disposición de el administración local en breve",
+        "lemmatized_text_reduced": "ciudadano municipio gran_canaria poder conocer oferta cultural isla punto multimedia instalar punto localidad proyecto vincular plan_avanza_del_ministerio_de_industria turismo comercio haber suponer inversión informar cabildo insular nota prensa punto posibilitar retransmisión directo visualizar evento celebrar diferente localidad proyecto consistir instalación kiosco digital municipio forma equipamiento restante ser gestionar propio cabildo_de_gran_canaria punto multimedia disponer ordenador cámara ip pantalla plano soporte móvil permitir fácil traslado instalación equipamiento multimedia estar disposición administración local breve",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Plan_Avanza_del_Ministerio_de_Industria",
+            "Turismo",
+            "Comercio",
+            "Cabildo",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "21",
+            "$_ECU:63",
+            "25",
+            "21",
+            "4",
+            "LN_in:42"
+        ]
+    }
+}

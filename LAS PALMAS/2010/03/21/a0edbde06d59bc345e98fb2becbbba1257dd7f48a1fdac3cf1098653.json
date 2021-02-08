@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/657365/0/",
+    "title": {
+        "raw_text": "Los canarios podrán viajar entre islas en abril y mayo con BinterCanarias por 15 euros el trayecto",
+        "lemmatized_text": "el canario poder viajar entre isla en [??:??/4/??:??.??:??] y [??:??/5/??:??.??:??] con bintercanarias por $_ECU:15 el trayecto",
+        "lemmatized_text_reduced": "canario poder viajar isla bintercanarias trayecto",
+        "persons": [],
+        "locations": [
+            "BinterCanarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15"
+        ]
+    },
+    "lead": {
+        "raw_text": "BinterCanarias lanzará a partir de mañana un nuevo 'Bintazo', su tarifa más económica y competitiva, con la que los residentes canarios podrán viajar entre islas en abril y mayo por 15 euros el trayecto.",
+        "lemmatized_text": "bintercanarias lanzar a_partir_de mañana uno nuevo bintazo su tarifa más económico y competitivo con el que el residente canario poder viajar entre isla en [??:??/4/??:??.??:??] y [??:??/5/??:??.??:??] por $_ECU:15 el trayecto",
+        "lemmatized_text_reduced": "bintercanarias lanzar nuevo bintazo tarifa económico competitivo residente canario poder viajar isla trayecto",
+        "persons": [
+            "BinterCanarias",
+            "Bintazo"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15"
+        ]
+    },
+    "body": {
+        "raw_text": "La promoción permitirá adquirir billetes a un precio final de 15 euros por trayecto para residentes canarios, comprando ida y vuelta, así como para volar desde el 7 de abril hasta finales de mayo en rutas interinsulares canarias, según informó la aerolínea en nota de prensa. En cuanto al periodo para adquirir los billetes y acceder a esta promoción comenzará mañana lunes, 22 de marzo, y se extenderá hasta el 28 de marzo aunque las plazas están sujetas a disponibilidad.",
+        "lemmatized_text": "el promoción permitir adquirir billete a uno precio final de $_ECU:15 por trayecto para residente canario comprar ida y vuelta así_como para volar desde el [??:7/4/??:??.??:??] hasta final de [??:??/5/??:??.??:??] en ruta interinsular canario según informar el aerolínea en nota de prensa en cuanto a el periodo para adquirir el billete y acceder a este promoción comenzar mañana [L:22/3/??:??.??:??] y se extender hasta el [??:28/3/??:??.??:??] aunque el plaza estar sujeto a disponibilidad",
+        "lemmatized_text_reduced": "promoción permitir adquirir billete precio final trayecto residente canario comprar ida vuelta volar final ruta interinsular canario informar aerolínea nota prensa periodo adquirir billete acceder promoción comenzar extender plaza estar sujeto disponibilidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:7/4/??:??.??:??]",
+            "[??:??/5/??:??.??:??]",
+            "[L:22/3/??:??.??:??]",
+            "[??:28/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15"
+        ]
+    }
+}

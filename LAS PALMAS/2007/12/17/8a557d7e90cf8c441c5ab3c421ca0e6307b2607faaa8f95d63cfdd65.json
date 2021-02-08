@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/322959/0/detenidos/cocaina/laspalmas/",
+    "title": {
+        "raw_text": "Detenida en el aeropuerto una mujer con 10 kilos de cocaína en su equipaje",
+        "lemmatized_text": "detener en el aeropuerto uno mujer con 10 kilo de cocaína en su equipaje",
+        "lemmatized_text_reduced": "detener aeropuerto mujer kilo cocaína equipaje",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "lead": {
+        "raw_text": "También ha sido detenido el comprador de la droga. El receptor llevaba la totalidad del dinero que pretendía entregar. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "también haber ser detener el comprador de el droga el receptor llevar el totalidad de el dinero que pretender entregar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "haber ser detener comprador droga receptor llevar totalidad dinero pretender entregar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una mujer que llevaba diez kilos de cocaína en su equipaje ha sido detenida en el aeropuerto de Gran Canaria, según ha informado la Guardia Civil. La mujer M.T.C.R., de 51 años y natural de Fuerteventura , llegó a la isla en un vuelo internacional y transportaba en su equipaje 9.920 gramos de cocaína de \"gran pureza\" repartidos en 19 envoltorios cilíndricos. Las investigaciones que se siguieron tras su detención permitieron localizar al receptor de la sustancia , M.S.R., de 30 años y también de nacionalidad española, quien fue arrestado con la totalidad del dinero que pretendía entregar a la detenida a cambio de la droga. Los dos detenidos han ingresado en prisión por un presunto delito contra la salud pública , tras prestar declaración en el Juzgado de Instrucción Número Uno de Telde. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno mujer que llevar 10 kilo de cocaína en su equipaje haber ser detener en el aeropuerto de gran_canaria según haber informar el guardia_civil el mujer m.t.c.r. de 51 año y natural de fuerteventura llegar a el isla en uno vuelo internacional y transportar en su equipaje WG_g:9.92 de cocaína de gran pureza repartir en 19 envoltorio cilíndrico el investigación que se seguir tras su detención permitir localizar a el receptor de el sustancia m.s.r. de 30 año y también de nacionalidad español quien ser arrestar con el totalidad de el dinero que pretender entregar a el detener a_cambio_de el droga el 2 detenido haber ingresar en prisión por uno presunto delito contra el salud público tras prestar declaración en el juzgado_de_instrucción_número uno de telde consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "mujer llevar kilo cocaína equipaje haber ser detener aeropuerto gran_canaria haber informar guardia_civil mujer m.t.c.r. año natural fuerteventura llegar isla vuelo internacional transportar equipaje cocaína gran pureza repartir envoltorio cilíndrico investigación seguir detención permitir localizar receptor sustancia m.s.r. año nacionalidad español ser arrestar totalidad dinero pretender entregar detener droga detenido haber ingresar prisión presunto delito salud público prestar declaración juzgado_de_instrucción_número telde consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Telde"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "M.T.C.R.",
+            "Fuerteventura",
+            "M.S.R.",
+            "Juzgado_de_Instrucción_Número",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10",
+            "51",
+            "WG_g:9.92",
+            "19",
+            "30",
+            "2"
+        ]
+    }
+}

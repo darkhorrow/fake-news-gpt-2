@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632015/0/canarias/temporal/clases/",
+    "title": {
+        "raw_text": "Canarias suspende las clases ante la alerta naranja por el temporal de lluvia y viento",
+        "lemmatized_text": "canario suspender el clase ante el alerta naranja por el temporal de lluvia y viento",
+        "lemmatized_text_reduced": "canario suspender clase alerta naranja temporal lluvia viento",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Prosigue la alerta naranja por vientos y lluvias este jueves. La suspensión afecta también a los actos del Carnaval. El tiempo en tu ciudad | El pronóstico en Tenerife y Las Palmas",
+        "lemmatized_text": "proseguir el alerta naranja por viento y lluvia este [J:??/??/??:??.??:??] el suspensión afectar también a el acto de el carnaval el tiempo en tu ciudad el pronóstico en tenerife y las_palmas",
+        "lemmatized_text_reduced": "proseguir alerta naranja viento lluvia suspensión afectar acto carnaval tiempo ciudad el pronóstico tenerife las_palmas",
+        "persons": [],
+        "locations": [
+            "El",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias ha decidido mantener para este jueves la suspensión de las clases y las actividades extraescolares en la totalidad de los centros educativos de las islas, tanto públicos como privados y concertados. Hay riesgo importante por vientos y lluvias La decisión se ha tomado ante la última información facilitada por la Agencia Estatal de Meteorología ( Aemet ), que prevé rachas de hasta 120 kilómetros hora en La Orotava (Tenerife), y lluvias y fuerte oleaje en Gran Canaria, Fuerteventura, El Hierro, Lanzarote, La Gomera y La Palma. De esta forma, el Ejecutivo ha decidido mantener la suspensión de clases, así como las actividades extraescolares en todos los centros educativos del archipiélago , tanto públicos como privados y concertados. Este miércoles las lluvias y fuertes vientos provocaron desprendimientos, cortes en las comunicaciones y fallos en el suministro eléctrico , y obligaron a suspender, además de las clases, los actos del Carnaval. Lo más complicado de este jueves está en la isla de Tenerife, que se quedaba sin suministro eléctrico pocos minutos después de las 12.00 horas. No obstante, el suministro quedó prácticamente restablecido por la noche.",
+        "lemmatized_text": "el consejería_de_educación universidades cultura y deportes_del_gobierno_de_canarias haber decidir mantener para este [J:??/??/??:??.??:??] el suspensión de el clase y el actividad extraescolar en el totalidad de el centro educativo de el isla tanto público como privar y concertar haber riesgo importante por viento y lluvia la decisión se haber tomar ante el último información facilitar por el agencia_estatal_de_meteorología aemet que prever racha de hasta LN_km:120 hora en la_orotava tenerife y lluvia y fuerte oleaje en gran_canaria fuerteventura el_hierro lanzarote la_gomera y la_palma de este forma el ejecutivo haber decidir mantener el suspensión de clase así_como el actividad extraescolar en todo el centro educativo de el archipiélago tanto público como privar y concertar este [X:??/??/??:??.??:??] el lluvia y fuerte viento provocar desprendimiento corte en el comunicación y fallo en el suministro eléctrico y obligar a suspender además_de el clase el acto de el carnaval el más complicar de este [J:??/??/??:??.??:??] estar en el isla de tenerife que se quedar sin suministro eléctrico poco minuto después_de el TM_h:12 no_obstante el suministro quedar prácticamente restablecer por el noche",
+        "lemmatized_text_reduced": "consejería_de_educación universidades cultura deportes_del_gobierno_de_canarias haber decidir mantener suspensión clase actividad extraescolar totalidad centro educativo isla público privar concertar haber riesgo importante viento lluvia la decisión haber tomar último información facilitar agencia_estatal_de_meteorología aemet prever racha hora la_orotava tenerife lluvia fuerte oleaje gran_canaria fuerteventura el_hierro lanzarote la_gomera la_palma forma ejecutivo haber decidir mantener suspensión clase actividad extraescolar centro educativo archipiélago público privar concertar lluvia fuerte viento provocar desprendimiento corte comunicación fallo suministro eléctrico obligar suspender clase acto carnaval complicar estar isla tenerife quedar suministro eléctrico minuto suministro quedar prácticamente restablecer noche",
+        "persons": [
+            "La"
+        ],
+        "locations": [
+            "La_Orotava",
+            "Tenerife",
+            "Gran_Canaria",
+            "Lanzarote",
+            "La_Gomera",
+            "La_Palma",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Consejería_de_Educación",
+            "Universidades",
+            "Cultura",
+            "Deportes_del_Gobierno_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Fuerteventura",
+            "El_Hierro",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_km:120",
+            "TM_h:12"
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593592/0/",
+    "title": {
+        "raw_text": "Alerta naranja por fuertes vientos y lluvias en Canarias",
+        "lemmatized_text": "alerta naranja por fuerte viento y lluvia en canarias",
+        "lemmatized_text_reduced": "naranja fuerte viento lluvia canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) mantiene hoy la alerta naranja por fuertes vientos con rachas máximas de 95 kilómetros por hora en los municipios de Vilaflor y La Orotava, en Tenerife, y también en medianías y zonas altas de La Palma, situación de riesgo importante a la que se sumará mañana abundantes precipitaciones, fenómenos que se extenderán al este, sur y oeste de Gran Canaria y de Tenerife; cumbres, este y oeste de La Palma, así como a las islas de La Gomera y El Hierro, según los datos recogidos por Europa Press.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet mantener hoy el alerta naranja por fuerte viento con racha máximo de SP_km/h:95 en el municipio de vilaflor y la_orotava en tenerife y también en medianía y zona alto de la_palma situación de riesgo importante a el que se sumar mañana abundante precipitación fenómeno que se extender a el este sur y oeste de gran_canaria y de tenerife cumbre este y oeste de la_palma así_como a el isla de la_gomera y el_hierro según el dato recoger por europa_press",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet mantener alerta naranja fuerte viento racha máximo municipio vilaflor la_orotava tenerife medianía zona alto la_palma situación riesgo importante sumar abundante precipitación fenómeno extender sur oeste gran_canaria tenerife cumbre este oeste la_palma isla la_gomera el_hierro dato recoger europa_press",
+        "persons": [],
+        "locations": [
+            "Vilaflor",
+            "La_Orotava",
+            "Tenerife",
+            "La_Palma",
+            "Gran_Canaria",
+            "Tenerife",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:95"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, se prevé, desde las ocho de la mañana de hoy y hasta la medianoche del jueves, alerta naranja por rachas de viento fuerte en las localidades tinerfeñas de La Orotava y Vilaflor y cumbres de La Palma. Además, las cumbres, este y oeste de La Palma registrarán abundantes lluvias con precipitaciones acumuladas en 12 horas de 80 litros por metro cuadrado, además de alerta amarilla con rachas máximas de 75 kilómetros por hora en el este, norte y oeste de esta isla y fenómeno costero adverso en las zonas norte y oeste. Asimismo, la Aemet prevé hoy alerta amarilla en Gran Canaria, La Gomera y noroeste de El Hierro por riesgo de fuertes vientos con rachas máximas de 75 kilómetros por hora. Riesgo de fuertes lluvias en el archipiélago Para mañana la alerta amarilla se extenderá a todas las islas en forma de fuertes precipitaciones, mientras que Lanzarote y Fuerteventura se salvan de la alerta naranja. Así pues, en el este, sur y oeste y medianías del norte de Gran Canaria se esperan 100 litros por metro cuadrado de precipitaciones acumuladas en 12 horas y 30 litros en una hora, situación que comenzará este miércoles a las 13.00 hora oficial (canaria) y finalizará la medianoche del jueves. Además de rachas máximas de viento de 75 kilómetros por hora. En el este, sur y oeste de Tenerife y en La Orotava y Vilaflor se prevén precipitaciones acumuladas de 30 litros por metro cuadrado en una hora y 100 litros en 12 horas. Al igual que rachas máximas de 95 kilómetros por hora. En las medianías y zonas altas de La Palma se espera que continúen las rachas de viento de 95 kilómetros por hora, al igual que lluvias de 80 litros por metro cuadrado en las cumbres, este y oeste de la isla, así como oleaje en el norte y oeste. En medianías y zonas altas de La Gomera y El Hierro se prevé también riesgo importante de lluvias, 100 litros por metro cuadrado en 12 horas y 30 litros por metro cuadrado de precipitación acumulada en una hora. Del mismo modo, la Aemet avisa de riesgo amarillo en Lanzarote y Fuerteventura por precipitaciones acumuladas que pueden llegar a los 20 litros por metro cuadrado en una hora.",
+        "lemmatized_text": "en concreto se prever desde el [??:??/??/??:8.00:am] de hoy y hasta el [J:??/??/??:00.00:am] alerta naranja por racha de viento fuerte en el localidad tinerfeño de la_orotava y vilaflor y cumbre de la_palma además el cumbre este y oeste de la_palma registrar abundante lluvia con precipitación acumular en TM_h:12 de CB_l/m2:80 además_de alerta amarillo con racha máximo de SP_km/h:75 en el este norte y oeste de este isla y fenómeno costero adverso en el zona norte y oeste asimismo el aemet prever hoy alerta amarillo en gran_canaria la_gomera y noroeste de el_hierro por riesgo de fuerte viento con racha máximo de SP_km/h:75 riesgo de fuerte lluvia en el archipiélago para mañana el alerta amarillo se extender a todo el isla en forma de fuerte precipitación mientras_que lanzarote y fuerteventura se salvar de el alerta naranja así_pues en el este sur y oeste y medianía de el norte de gran_canaria se esperar CB_l/m2:100 de precipitación acumular en TM_h:12 y VL_l:30 en uno hora situación que comenzar este [X:??/??/??:1.00:pm] oficial canario y finalizar el [J:??/??/??:00.00:am] además_de racha máximo de viento de SP_km/h:75 en el este sur y oeste de tenerife y en la_orotava y vilaflor se prever precipitación acumular de CB_l/m2:30 en uno hora y VL_l:100 en TM_h:12 al_igual_que racha máximo de SP_km/h:95 en el medianía y zona alto de la_palma se esperar que continuar el racha de viento de SP_km/h:95 al_igual_que lluvia de CB_l/m2:80 en el cumbre este y oeste de el isla así_como oleaje en el norte y oeste en medianía y zona alto de la_gomera y el_hierro se prever también riesgo importante de lluvia CB_l/m2:100 en TM_h:12 y CB_l/m2:30 de precipitación acumular en uno hora de el mismo modo el aemet avisar de riesgo amarillo en lanzarote y fuerteventura por precipitación acumular que poder llegar a el CB_l/m2:20 en uno hora",
+        "lemmatized_text_reduced": "concreto prever alerta naranja racha viento fuerte localidad tinerfeño la_orotava vilaflor cumbre la_palma cumbre este oeste la_palma registrar abundante lluvia precipitación acumular alerta amarillo racha máximo este norte oeste isla fenómeno costero adverso zona norte oeste aemet prever alerta amarillo gran_canaria la_gomera noroeste el_hierro riesgo fuerte viento racha máximo riesgo fuerte lluvia archipiélago para alerta amarillo extender isla forma fuerte precipitación lanzarote fuerteventura salvar alerta naranja este sur oeste medianía norte gran_canaria esperar precipitación acumular hora situación comenzar oficial canario finalizar racha máximo viento este sur oeste tenerife la_orotava vilaflor prever precipitación acumular hora racha máximo medianía zona alto la_palma esperar continuar racha viento lluvia cumbre este oeste isla oleaje norte oeste medianía zona alto la_gomera el_hierro prever riesgo importante lluvia precipitación acumular hora mismo modo aemet avisar riesgo amarillo lanzarote fuerteventura precipitación acumular poder llegar hora",
+        "persons": [
+            "Riesgo"
+        ],
+        "locations": [
+            "La_Orotava",
+            "Vilaflor",
+            "La_Palma",
+            "La_Palma",
+            "Gran_Canaria",
+            "La_Gomera",
+            "El_Hierro",
+            "Para",
+            "Lanzarote",
+            "Gran_Canaria",
+            "Tenerife",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Aemet",
+            "Fuerteventura",
+            "Aemet",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:8.00:am]",
+            "[J:??/??/??:00.00:am]",
+            "[X:??/??/??:1.00:pm]",
+            "[J:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "TM_h:12",
+            "CB_l/m2:80",
+            "SP_km/h:75",
+            "SP_km/h:75",
+            "CB_l/m2:100",
+            "TM_h:12",
+            "VL_l:30",
+            "SP_km/h:75",
+            "CB_l/m2:30",
+            "VL_l:100",
+            "TM_h:12",
+            "SP_km/h:95",
+            "SP_km/h:95",
+            "CB_l/m2:80",
+            "CB_l/m2:100",
+            "TM_h:12",
+            "CB_l/m2:30",
+            "CB_l/m2:20"
+        ]
+    }
+}

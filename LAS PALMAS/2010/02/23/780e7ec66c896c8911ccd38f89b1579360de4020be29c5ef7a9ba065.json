@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/635701/0/",
+    "title": {
+        "raw_text": "Canarias registrará hoy intervalos nubosos con posibilidad de alguna lluvia débil en la mitad occidental",
+        "lemmatized_text": "canario registrar hoy intervalo nuboso con posibilidad de alguno lluvia débil en el mitad occidental",
+        "lemmatized_text_reduced": "canario registrar intervalo nuboso posibilidad lluvia débil mitad occidental",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Hoy se esperan lluvias fuertes o persistentes en puntos de Andalucía y oeste de Galicia y del sistema central, así como rachas de viento muy fuerte en muchas zonas de la Península, según la predicción de la Agencia Estatal de Meteorología, que prevé en Canarias intervalos de nubosidad con posibilidad de alguna lluvia débil en la mitad occidental.",
+        "lemmatized_text": "hoy se esperar lluvia fuerte o persistente en punto de andalucía y oeste de galicia y de el sistema central así_como racha de viento muy fuerte en mucho zona de el península según el predicción de el agencia_estatal_de_meteorología que prever en canarias intervalo de nubosidad con posibilidad de alguno lluvia débil en el mitad occidental",
+        "lemmatized_text_reduced": "esperar lluvia fuerte persistente punto andalucía oeste galicia sistema central racha viento fuerte zona península predicción agencia_estatal_de_meteorología prever canarias intervalo nubosidad posibilidad lluvia débil mitad occidental",
+        "persons": [],
+        "locations": [
+            "Andalucía",
+            "Galicia",
+            "Península",
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, habrá precipitaciones moderadas en Galicia, que podrían ser localmente fuertes, persistentes y con tormentas. En el resto de la vertiente atlántica y en el área pirenaica, precipitaciones débiles a moderadas, pudiendo ser persistentes en el oeste del Sistema Central y en el extremo sur de Andalucía. En forma débil podrían darse también en el resto de la Península, salvo en el litoral este peninsular y en Baleares donde los cielos estarán poco nubosos con intervalos de nubes medias y altas. La cota de nieve se situará entre los 1.200/1.600 metros en la mitad norte peninsular y entre los 1.500 y los 2.000 en la mitad sur. Las temperaturas experimentarán un ligero a moderado ascenso en la cuenca del Ebro y en el área mediterránea. En el resto, sin o con ligeros cambios. Los vientos soplarán moderados de componente Oeste en la Península y Baleares, con intervalos fuertes en zonas altas y en litorales de Galicia y Mediterráneo. En Canarias, flojos de dirección variable.",
+        "lemmatized_text": "así haber precipitación moderar en galicia que poder ser localmente fuerte persistente y con tormenta en el resto de el vertiente atlántico y en el área pirenaico precipitación débil a moderado poder ser persistente en el oeste de el sistema_central y en el extremo sur de andalucía en forma débil poder dar se también en el resto de el península salvo en el litoral este peninsular y en baleares donde el cielo estar poco nuboso con intervalo de nube medio y alto el cota de nieve se situar entre el LN_m:1.200/1.600 en el mitad norte peninsular y entre el 1.5 y el 2 en el mitad sur el temperatura experimentar uno ligero a moderar ascenso en el cuenca de el ebro y en el área mediterráneo en el resto sin o con ligero cambio el viento soplar moderar de componente oeste en el península y baleares con intervalo fuerte en zona alto y en litoral de galicia y mediterráneo en canarias flojo de dirección variable",
+        "lemmatized_text_reduced": "haber precipitación moderar galicia poder ser localmente fuerte persistente tormenta resto vertiente atlántico área pirenaico precipitación débil moderado poder ser persistente oeste sistema_central extremo sur andalucía forma débil poder dar resto península litoral peninsular baleares cielo estar nuboso intervalo nube medio alto cota nieve situar mitad norte peninsular mitad sur temperatura experimentar ligero moderar ascenso cuenca ebro área mediterráneo resto ligero cambio viento soplar moderar componente oeste península baleares intervalo fuerte zona alto litoral galicia mediterráneo canarias flojo dirección variable",
+        "persons": [],
+        "locations": [
+            "Galicia",
+            "Sistema_Central",
+            "Andalucía",
+            "Península",
+            "Baleares",
+            "Oeste",
+            "Península",
+            "Baleares",
+            "Galicia",
+            "Mediterráneo",
+            "Canarias"
+        ],
+        "organizations": [
+            "Ebro"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:1.200/1.600",
+            "1.5",
+            "2"
+        ]
+    }
+}

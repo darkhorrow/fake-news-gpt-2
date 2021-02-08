@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/630483/0/",
+    "title": {
+        "raw_text": "Islas agradece la \"comprensión\" de las personas afectadas por cancelaciones de vuelos con La Palma",
+        "lemmatized_text": "islas agradecer el comprensión de el persona afectar por cancelación de vuelo con la_palma",
+        "lemmatized_text_reduced": "islas agradecer comprensión persona afectar cancelación vuelo la_palma",
+        "persons": [
+            "Islas"
+        ],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La compañía Islas Líneas Aéreas ha agradecido la \"comprensión\" de las personas que se han visto afectadas por las cancelaciones de los vuelos con la isla de La Palma, donde ayer se celebró la tradicional fiesta de Los Indianos a la que muchos pasajeros tenían pensado asistir pero por las inclemencias del tiempo no han podido volar.",
+        "lemmatized_text": "el compañía islas_líneas_aéreas haber agradecer el comprensión de el persona que se haber ver afectar por el cancelación de el vuelo con el isla de la_palma donde ayer se celebrar el tradicional fiesta de los_indianos a el que mucho pasajero tener pensar asistir pero por el inclemencia de el tiempo no haber poder volar",
+        "lemmatized_text_reduced": "compañía islas_líneas_aéreas haber agradecer comprensión persona haber ver afectar cancelación vuelo isla la_palma celebrar tradicional fiesta los_indianos pasajero tener pensar asistir inclemencia tiempo haber poder volar",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Los_Indianos"
+        ],
+        "organizations": [
+            "Islas_Líneas_Aéreas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Al respecto, la compañía indicó que estaba previsto que llegaran a La Palma más de 10.000 indianos durante el pasado fin de semana, sin embargo los vientos cruzados que han alcanzado ráfagas de 48 nudos (96 kilómetros por horas) ha motivado que se produjeran cancelaciones de vuelos, según informó Islas en un comunicado. Por otro lado, la aerolínea informó de que ya está preparando una programación especial para la isla de La Palma tanto para Semana Santa como para las Fiestas Lustrales de La Bajada de La Virgen de las Nieves, el próximo mes de julio.",
+        "lemmatized_text": "a el respecto el compañía indicar que estar prever que llegar a la_palma más de 10 indiano durante el pasar fin de semana sin embargo el viento cruzar que haber alcanzar ráfaga de 48 nudo LN_km:96 por hora haber motivar que se producir cancelación de vuelo según informar islas en uno comunicado por_otro_lado el aerolínea informar de que ya estar preparar uno programación especial para el isla de la_palma tanto para semana_santa como para el fiestas_lustrales_de_la_bajada_de_la_virgen_de_las_nieves el [??:??/7/??:??.??:??]",
+        "lemmatized_text_reduced": "respecto compañía indicar estar prever llegar la_palma indiano pasar fin semana embargo viento cruzar haber alcanzar ráfaga nudo hora haber motivar producir cancelación vuelo informar islas comunicado aerolínea informar estar preparar programación especial isla la_palma semana_santa fiestas_lustrales_de_la_bajada_de_la_virgen_de_las_nieves",
+        "persons": [
+            "Islas",
+            "Semana_Santa"
+        ],
+        "locations": [
+            "La_Palma",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Fiestas_Lustrales_de_La_Bajada_de_La_Virgen_de_las_Nieves"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "48",
+            "LN_km:96"
+        ]
+    }
+}

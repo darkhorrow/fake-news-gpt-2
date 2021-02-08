@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/317663/0/vuelven/vecinos/laspalmas/",
+    "title": {
+        "raw_text": "Vuelven a casa los vecinos desalojados tras las fuertes lluvias del 22 de noviembre",
+        "lemmatized_text": "volver a casa el vecino desalojar tras el fuerte lluvia de el [??:22/11/??:??.??:??]",
+        "lemmatized_text_reduced": "volver casa vecino desalojar fuerte lluvia",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:22/11/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ya no existe peligro de derrumbe del muro agrietado. 23 personas regresan tras la apertura de las calles. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "ya no existir peligro de derrumbe de el muro agrietar 23 persona regresar tras el apertura de el calle consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "existir peligro derrumbe muro agrietar persona regresar apertura calle consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "23"
+        ]
+    },
+    "body": {
+        "raw_text": "Los vecinos desalojados de sus casas tras las fuertes lluvias del pasado 22 de noviembre en Las Palmas de Gran Canaria ya pueden regresar a sus casas una vez que reabran al tráfico las dos calles que obligaron a cerrar los daños registrados en un gran muro. \"La apertura de las calles y la vuelta a sus casas de los vecinos se hace tras eliminar el peligro de derrumbe, aunque las obras continuarán hasta determinar las causas que lo han provocado y subsanarlas\", según han subrayado fuentes del Ayuntamiento de la ciudad. Las medidas excepcionales como los cortes de tráfico se ordenaron el mismo día de las lluvias. El desalojo de los vecinos tuvo lugar en la jornada siguiente, 23 en total, correspondientes a cinco viviendas próximas al muro, en el que se había registrado una grieta de 150 metros de longitud que hizo temer por su posible desplome. La actual decisión, según recalca el Ayuntamiento, \"está avalada en el informe técnico realizado por la empresa que ejecuta las catas de profundidad para conocer la causa de las grietas detectadas en el muro\". Tanto el realojo de los 23 vecinos afectados como la reapertura de las vías se produce un día antes de lo que estimara el pasado lunes el Ayuntamiento, que anunció ambas medidas para mañana jueves. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el vecino desalojar de su casa tras el fuerte lluvia de el [??:22/11/??:??.??:??] en las_palmas_de_gran_canaria ya poder regresar a su casa una_vez_que reabrir a el tráfico el 2 calle que obligar a cerrar el daño registrar en uno gran muro el apertura de el calle y el vuelta a su casa de el vecino se hacer tras eliminar el peligro de derrumbe aunque el obra continuar hasta determinar el causa que lo haber provocar y subsanar lo según haber subrayar fuente de el ayuntamiento de el ciudad el medida excepcional como el corte de tráfico se ordenar el mismo día de el lluvia el desalojo de el vecino tener_lugar en el jornada siguiente 23 en total correspondiente a 5 vivienda próximo a el muro en el que se haber registrar uno grieta de LN_m:150 de longitud que hacer temer por su posible desplome el actual decisión según recalcar el ayuntamiento estar avalar en el informe técnico realizar por el empresa que ejecutar el cata de profundidad para conocer el causa de el grieta detectar en el muro tanto el realojar de el 23 vecino afectar como el reapertura de el vía se producir uno día antes_de el que estimar el [L:??/??/??:??.??:??] el ayuntamiento que anunciar ambos medida para mañana [J:??/??/??:??.??:??] consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "vecino desalojar casa fuerte lluvia las_palmas_de_gran_canaria poder regresar casa reabrir tráfico calle obligar cerrar daño registrar gran muro apertura calle vuelta casa vecino hacer eliminar peligro derrumbe obra continuar determinar causa haber provocar subsanar haber subrayar fuente ayuntamiento ciudad medida excepcional corte tráfico ordenar mismo día lluvia desalojo vecino tener_lugar jornada siguiente total correspondiente vivienda próximo muro haber registrar grieta longitud hacer temer posible desplome actual decisión recalcar ayuntamiento estar avalar informe técnico realizar empresa ejecutar cata profundidad conocer causa grieta detectar muro realojar vecino afectar reapertura vía producir día estimar ayuntamiento anunciar medida consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Ayuntamiento",
+            "Ayuntamiento",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[??:22/11/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "23",
+            "5",
+            "LN_m:150",
+            "23"
+        ]
+    }
+}

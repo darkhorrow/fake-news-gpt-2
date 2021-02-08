@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/951356/0/",
+    "title": {
+        "raw_text": "Un hombre menos grave después de sufrir una parada cardiorrespiratoria en una playa de Lanzarote",
+        "lemmatized_text": "uno hombre menos grave después_de sufrir uno parada cardiorrespiratoria en uno playa de lanzarote",
+        "lemmatized_text_reduced": "hombre grave sufrir parada cardiorrespiratoria playa lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre, de 40 años de edad, menos grave tras sufrir una parada cardiorrespiratoria en Caleta de Famara, en Teguise (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre de 40 año de edad menos grave tras sufrir uno parada cardiorrespiratoria en caleta_de_famara en teguise lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre año edad grave sufrir parada cardiorrespiratoria caleta_de_famara teguise lanzarote informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Caleta_de_Famara",
+            "Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "40",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre, de 40 años de edad, menos grave tras sufrir una parada cardiorrespiratoria en Caleta de Famara, en Teguise (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos se produjeron en la tarde del domingo y el herido tuvo que ser recuperado de la parada cardiorrespiratoria, tras presentar síntomas de ahogamiento, por lo que tuvo que ser sacado del agua por unas bañistas que se encontraban en la zona y que ya en la arena comprobaron que el hombre no respondía a estímulos, practicándole maniobras cardiopulmonar básicas que lograron recuperarlo. Posteriormente, hasta el lugar se trasladó personal del Servicio de Urgencias Canario (SUC) que evacuó al afectado en una ambulancia de soporte vital avanzado y con pronóstico menos grave al Hospital Dr. José Molina Orosa. Asimismo, en la zona se personaron agentes de la Policía Local y de la Guardia Civil que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre de 40 año de edad menos grave tras sufrir uno parada cardiorrespiratoria en caleta_de_famara en teguise lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho se producir en el tarde de el [G:??/??/??:??.??:??] y el herir tener que ser recuperar de el parada cardiorrespiratoria tras presentar síntoma de ahogamiento por el que tener que ser sacar de el agua por uno bañista que se encontrar en el zona y que ya en el arena comprobar que el hombre no responder a estímulo practicar le maniobra cardiopulmonar básico que lograr recuperar lo posteriormente hasta el lugar se trasladar personal de el servicio_de_urgencias_canario suc que evacuar a el afectar en uno ambulancia de soporte vital avanzar y con pronóstico menos grave a el hospital_dr._josé_molina_orosa asimismo en el zona se personar agente de el policía_local y de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre año edad grave sufrir parada cardiorrespiratoria caleta_de_famara teguise lanzarote informar centro_coordinador_de_emergencias seguridad hecho producir tarde herir tener ser recuperar parada cardiorrespiratoria presentar síntoma ahogamiento tener ser sacar agua bañista encontrar zona arena comprobar hombre responder estímulo practicar maniobra cardiopulmonar básico lograr recuperar posteriormente lugar trasladar personal servicio_de_urgencias_canario suc evacuar afectar ambulancia soporte vital avanzar pronóstico grave hospital_dr._josé_molina_orosa zona personar agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Caleta_de_Famara",
+            "Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad",
+            "Hospital_Dr._José_Molina_Orosa"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "40",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-08-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/405811/0/pateras/inmigrantes/agosto/",
+    "title": {
+        "raw_text": "Llegan dos pateras con más de una treintena de inmigrantes a Gran Canaria y Cádiz",
+        "lemmatized_text": "llegar 2 patera con más de uno treintena de inmigrante a gran_canaria y cádiz",
+        "lemmatized_text_reduced": "llegar patera treintena inmigrante gran_canaria cádiz",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Cádiz"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La patera con mayor número de inmigrantes ha sido localizada en la Playa de Puerto Rico, en Gran Canaria. La segunda, en Punta Acebuche (Tarifa, Cádiz). CONSULTA AQUÍ MÁS NOTICIAS DE TU CIUDAD",
+        "lemmatized_text": "el patera con mayor número de inmigrante haber ser localizar en el playa_de_puerto_rico en gran_canaria el 2 en punta_acebuche tarifa cádiz consulta_aquí_más_noticias_de_tu_ciudad",
+        "lemmatized_text_reduced": "patera mayor número inmigrante haber ser localizar playa_de_puerto_rico gran_canaria 2 punta_acebuche tarifa cádiz consulta_aquí_más_noticias_de_tu_ciudad",
+        "persons": [],
+        "locations": [
+            "Playa_de_Puerto_Rico",
+            "Gran_Canaria",
+            "Punta_Acebuche",
+            "Cádiz"
+        ],
+        "organizations": [],
+        "others": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_TU_CIUDAD"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Este jueves han arribado a las costas españolas más de una treintena de inmigrantes a bordo de embarcaciones. Salvamento Marítimo ha rescatado a una treintena de inmigrantes que navegaba a 4 millas del sur de Gran Canaria, informaron fuentes del organismo estatal. El cayuco fue visto por una embarcación de recreo que se encontraba en la zona, próxima a la Playa de Puerto Rico. La embarcación Salvamar acudió a su encuentro en torno a las diez y media de la mañana y recogió a los ocupantes del cayuco, todos en aparente buen estado de salud. Además, el servicio marítimo de la Guardia Civil interceptó, a tres millas al sur de Punta Acebuche, en Tarifa (Cádiz) , un embarcación a remo con dos inmigrantes marroquíes en su interior. Repatriados La Subdelegación del Gobierno de Cádiz indicó que el suceso tuvo lugar a las 3.20 horas de este jueves, cuando los agentes detectaron esta embarcación de un metro de eslora y sin motor con dos personas a bordo. Según explicó, se trataba de dos inmigrantes marroquíes, varones y mayores de edad que se encontraban en buen estado de salud. Una vez rescatados, fueron conducidos a la Comandancia de la Guardia Civil de Algeciras (Cádiz) antes de ser puestos a disposición de la Policía Nacional para su repatriación. CONSULTA AQUÍ MÁS NOTICIAS DE TU CIUDAD",
+        "lemmatized_text": "este [J:??/??/??:??.??:??] haber arribar a el costa español más de uno treintena de inmigrante a_bordo de embarcación salvamento_marítimo haber rescatar a uno treintena de inmigrante que navegar a LN_mi:4 de el sur de gran_canaria informar fuente de el organismo estatal el cayuco ser ver por uno embarcación de recreo que se encontrar en el zona próximo a el playa_de_puerto_rico el embarcación salvamar acudir a su encuentro en_torno_a el [??:??/??/??:10.30:am] y recoger a el ocupante de el cayuco todo en aparente bueno estado de salud además el servicio marítimo de el guardia_civil interceptar a LN_mi:3 a el sur de punta_acebuche en tarifa cádiz uno embarcación a_remo con 2 inmigrante marroquí en su interior repatriar la_subdelegación_del_gobierno_de_cádiz indicar que el suceso tener_lugar a el TM_h:3.2 de este [J:??/??/??:??.??:??] cuando el agente detectar este embarcación de uno metro de eslora y sin motor con 2 persona a_bordo según explicar se tratar de 2 inmigrante marroquí varón y mayor de edad que se encontrar en bueno estado de salud uno vez rescatar ser conducir a el comandancia_de_la_guardia_civil_de_algeciras cádiz antes_de ser poner a disposición de el policía_nacional para su repatriación consulta_aquí_más_noticias_de_tu_ciudad",
+        "lemmatized_text_reduced": "haber arribar costa español treintena inmigrante embarcación salvamento_marítimo haber rescatar treintena inmigrante navegar sur gran_canaria informar fuente organismo estatal cayuco ser ver embarcación recreo encontrar zona próximo playa_de_puerto_rico embarcación salvamar acudir encuentro recoger ocupante cayuco aparente bueno estado salud servicio marítimo guardia_civil interceptar sur punta_acebuche tarifa cádiz embarcación inmigrante marroquí interior repatriar la_subdelegación_del_gobierno_de_cádiz indicar suceso tener_lugar agente detectar embarcación metro eslora motor persona explicar tratar inmigrante marroquí varón mayor edad encontrar bueno estado salud vez rescatar ser conducir comandancia_de_la_guardia_civil_de_algeciras cádiz ser poner disposición policía_nacional repatriación consulta_aquí_más_noticias_de_tu_ciudad",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamar",
+            "La_Subdelegación_del_Gobierno_de_Cádiz"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Playa_de_Puerto_Rico",
+            "Punta_Acebuche",
+            "Tarifa",
+            "Cádiz",
+            "Cádiz"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Comandancia_de_la_Guardia_Civil_de_Algeciras",
+            "Policía_Nacional"
+        ],
+        "others": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_TU_CIUDAD"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[??:??/??/??:10.30:am]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mi:4",
+            "LN_mi:3",
+            "2",
+            "TM_h:3.2",
+            "2",
+            "2"
+        ]
+    }
+}

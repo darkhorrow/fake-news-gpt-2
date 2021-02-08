@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/437586/0/herido/pedrada/jinamar/",
+    "title": {
+        "raw_text": "El golpe de una piedra le deja herido de caracter menos grave",
+        "lemmatized_text": "el golpe de uno piedra le dejar herir de caracter menos grave",
+        "lemmatized_text_reduced": "golpe piedra dejar herir caracter grave",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Sucedió en el polígono de Jinámar. El herido tiene un traumatismo craneoencefálico. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "suceder en el polígono de jinámar el herir tener uno traumatismo craneoencefálico consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "suceder polígono jinámar herir tener traumatismo craneoencefálico consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Jinámar"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un varón de 60 años ha resultado hoy herido con traumatismo craneoencefálico de carácter menos grave , tras ser alcanzado por una piedra en la carretera de Jinámar, en el municipio grancanario de Telde, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. Los hechos ocurrieron sobre las 13.37 horas, cuando se recibió una alerta en el Cecoes que informaba de que un varón había sido alcanzado por una piedra en la cabeza frente a la iglesia de la mencionada carretera y precisaba asistencia sanitaria. El 112 activó de inmediato los recursos de emergencias necesarios y se desplazó hasta el lugar una ambulancia de soporte vital básico y otra de soporte vital avanzado del Servicio de Urgencias Canario (SUC). El personal médico del SUC atendió y estabilizó al afectado en el lugar para posteriormente trasladarlo al Hospital Universitario Insular de Gran Canaria. Además, hasta el lugar se desplazó la Policía Nacional que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno varón de 60 año haber resultar hoy herir con traumatismo craneoencefálico de carácter menos grave tras ser alcanzar por uno piedra en el carretera de jinámar en el municipio grancanario de telde según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 el hecho ocurrir sobre el TM_h:13.37 cuando se recibir uno alerta en el cecoes que informar de que uno varón haber ser alcanzar por uno piedra en el cabeza frente_a el iglesia de el mencionar carretera y precisar asistencia sanitario el 112 activar de inmediato el recurso de emergencia necesario y se desplazar hasta el lugar uno ambulancia de soporte vital básico y otro de soporte vital avanzar de el servicio_de_urgencias_canario suc el personal médico de el suc atender y estabilizar a el afectar en el lugar para posteriormente trasladar lo a el hospital_universitario_insular_de_gran_canaria además hasta el lugar se desplazar el policía_nacional que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "varón año haber resultar herir traumatismo craneoencefálico carácter grave ser alcanzar piedra carretera jinámar municipio grancanario telde informar centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir recibir alerta cecoes informar varón haber ser alcanzar piedra cabeza iglesia mencionar carretera precisar asistencia sanitario activar inmediato recurso emergencia necesario desplazar lugar ambulancia soporte vital básico soporte vital avanzar servicio_de_urgencias_canario suc personal médico suc atender estabilizar afectar lugar posteriormente trasladar hospital_universitario_insular_de_gran_canaria lugar desplazar policía_nacional instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Telde",
+            "Cecoes"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "60",
+            "112",
+            "TM_h:13.37",
+            "112"
+        ]
+    }
+}

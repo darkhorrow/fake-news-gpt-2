@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/712455/0/",
+    "title": {
+        "raw_text": "La Guardia Civil interviene en la Cofradía de Arguineguín (Gran Canaria) casi 3.000 kilos de pescado inmaduro",
+        "lemmatized_text": "el guardia_civil intervenir en el cofradía_de_arguineguín gran_canaria casi 3 kilo de pescado inmaduro",
+        "lemmatized_text_reduced": "guardia_civil intervenir cofradía_de_arguineguín gran_canaria kilo pescado inmaduro",
+        "persons": [],
+        "locations": [
+            "Cofradía_de_Arguineguín"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha intervenido en la Cofradía de Pescadores de Arguineguín, en el municipio de Mogán (Gran Canaria) casi 3.000 kilos de pescado longorón ('engraulis encrasicholus') por no reunir la talla mínima.",
+        "lemmatized_text": "el guardia_civil haber intervenir en el cofradía_de_pescadores_de_arguineguín en el municipio de mogán gran_canaria casi 3 kilo de pescado longorón engraulis encrasicholus por no reunir el talla mínimo",
+        "lemmatized_text_reduced": "guardia_civil haber intervenir cofradía_de_pescadores_de_arguineguín municipio mogán gran_canaria kilo pescado longorón engraulis encrasicholus reunir talla mínimo",
+        "persons": [],
+        "locations": [
+            "Cofradía_de_Pescadores_de_Arguineguín",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "La operación se desarrolló ayer, cuando la patrulla del Servicio de Protección de la Naturaleza (Seprona) de Vecindario, en unión de Inspectores de Pesca del Estado, realizaron una inspección en las citadas instalaciones para controlar las capturas de tallas mínimas, según informó hoy la Benemérita en un comunicado. Como resultado de dicha inspección se procedió a la incautación de aproximadamente 3.000 kilogramos de longorón por infracción a lo establecido en el anexo XII (no reunir la talla mínima) del Reglamento del Consejo de 30 de marzo de 1998 para la Conservación de los Recursos Pesqueros, a través de Medidas Técnicas de Protección de los Juveniles de organismos marinos. Para centros benéficos El pescado intervenido procedía de tres barcos distintos, según la investigación de la Guardia Civil, que ha instruido las correspondientes actas por infracción administrativa a la normativa citada. De la pesca decomisada, dos toneladas fueron donadas a centros benéficos (San Juan de Dios, Obra Social y Desarrollo y Aldeas Infantiles, entre otros), mientras que el resto fue destruido en cebaderos en alta mar.",
+        "lemmatized_text": "el operación se desarrollar ayer cuando el patrulla de el servicio_de_protección_de_la_naturaleza seprona de vecindario en unión de inspectores_de_pesca_del_estado realizar uno inspección en el citar instalación para controlar el captura de talla mínimo según informar hoy el benemérita en uno comunicado como resultado de decir inspección se proceder a el incautación de aproximadamente WG_kg:3 de longorón por infracción a el establecer en el anexo xii no reunir el talla mínimo de el reglamento_del_consejo de [??:30/3/1998:??.??:??] para el conservación_de_los_recursos_pesqueros a_través_de medidas_técnicas_de_protección_de_los_juveniles de organismo marino para centro benéfico el pescado intervenir proceder de 3 barco distinto según el investigación de el guardia_civil que haber instruir el correspondiente acta por infracción administrativo a el normativa citar de el pesca decomisar WG_tm:2 ser donar a centro benéfico san_juan_de_dios obra_social y desarrollo y aldeas_infantiles entre otro mientras_que el resto ser destruir en cebadero en alto marzo",
+        "lemmatized_text_reduced": "operación desarrollar patrulla servicio_de_protección_de_la_naturaleza seprona vecindario unión inspectores_de_pesca_del_estado realizar inspección citar instalación controlar captura talla mínimo informar benemérita comunicado resultado decir inspección proceder incautación aproximadamente longorón infracción establecer anexo xii reunir talla mínimo reglamento_del_consejo conservación_de_los_recursos_pesqueros medidas_técnicas_de_protección_de_los_juveniles organismo marino centro benéfico el pescado intervenir proceder barco distinto investigación guardia_civil haber instruir correspondiente acta infracción administrativo normativa citar pesca decomisar ser donar centro benéfico san_juan_de_dios obra_social desarrollo aldeas_infantiles resto ser destruir cebadero alto marzo",
+        "persons": [
+            "El",
+            "Desarrollo",
+            "Aldeas_Infantiles"
+        ],
+        "locations": [
+            "Vecindario"
+        ],
+        "organizations": [
+            "Seprona",
+            "Inspectores_de_Pesca_del_Estado",
+            "Benemérita",
+            "Reglamento_del_Consejo",
+            "Conservación_de_los_Recursos_Pesqueros",
+            "Medidas_Técnicas_de_Protección_de_los_Juveniles",
+            "Guardia_Civil",
+            "San_Juan_de_Dios",
+            "Obra_Social"
+        ],
+        "others": [
+            "Servicio_de_Protección_de_la_Naturaleza",
+            "XII"
+        ],
+        "dates": [
+            "[??:30/3/1998:??.??:??]"
+        ],
+        "numbers": [
+            "WG_kg:3",
+            "3",
+            "WG_tm:2"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/410814/0/cabildo/concurso/tren/",
+    "title": {
+        "raw_text": "El Cabildo grancanario prevé el concurso del tren en el primer trimestre de 2009",
+        "lemmatized_text": "el cabildo grancanario prever el concurso de el tren en el 1 trimestre de 2009",
+        "lemmatized_text_reduced": "cabildo grancanario prever concurso tren 1 trimestre",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "Así lo ha anunciado la Autoridad Única de Transporte. Se esperan obtener 181 millones de los gobiernos central y regional para las obras. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "así lo haber anunciar el autoridad_única_de_transporte se esperar obtener 181000000 de el gobierno central y regional para el obra consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber anunciar autoridad_única_de_transporte esperar obtener gobierno central regional obra consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Autoridad_Única_de_Transporte",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "181000000"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cabildo de Gran Canaria prevé publicar el concurso para la construcción del tren que unirá la capital de la isla con el sur en el primer trimestre del próximo año, según declaró hoy el vicepresidente de la institución insular y responsable de la Autoridad Única de Transporte de la isla, Román Rodríguez (NC). En concreto, Rodríguez explicó, durante un desayuno informativo, que el Cabildo ya tiene articulada la empresa pública necesaria para ejecutar todo el proceso , por lo que confía en cerrar antes de marzo de 2009 la publicación del concurso para su obra. El Cabildo espera contar con 71 millones de euros del Gobierno de Canarias y otros 110 millones de euros del Ejecutivo central , en este último caso \"como mínimo\", precisó Rodríguez. El coste total de las obras para el tren es de 1.000 millones de euros , con un importante inversión en obra pública , una de las apuestas del vicepresidente para paliar la crisis desde las administraciones.",
+        "lemmatized_text": "el cabildo_de_gran_canaria prever publicar el concurso para el construcción de el tren que unir el capital de el isla con el sur en el 1 trimestre de el próximo año según declarar hoy el vicepresidente de el institución insular y responsable de el autoridad_única_de_transporte de el isla román_rodríguez nc en concreto rodríguez explicar durante uno desayuno informativo que el cabildo ya tener articular el empresa público necesario para ejecutar todo el proceso por el que confiar en cerrar antes_de [??:??/3/2009:??.??:??] el publicación de el concurso para su obra el cabildo esperar contar con $_ECU:71000000 de el gobierno_de_canarias y otro $_ECU:110000000 de el ejecutivo central en este último caso como_mínimo precisar rodríguez el coste total de el obra para el tren ser de $_ECU:1000000 con uno importante inversión en obra público uno de el apuesta de el vicepresidente para paliar el crisis desde el administración",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria prever publicar concurso construcción tren unir capital isla sur 1 trimestre próximo año declarar vicepresidente institución insular responsable autoridad_única_de_transporte isla román_rodríguez nc concreto rodríguez explicar desayuno informativo cabildo tener articular empresa público necesario ejecutar proceso confiar cerrar publicación concurso obra cabildo esperar contar gobierno_de_canarias ejecutivo central último caso precisar rodríguez coste total obra tren ser importante inversión obra público apuesta vicepresidente paliar crisis administración",
+        "persons": [
+            "Román_Rodríguez",
+            "Rodríguez",
+            "Rodríguez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Autoridad_Única_de_Transporte",
+            "NC",
+            "Cabildo",
+            "Cabildo",
+            "Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/3/2009:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:71000000",
+            "$_ECU:110000000",
+            "$_ECU:1000000"
+        ]
+    }
+}

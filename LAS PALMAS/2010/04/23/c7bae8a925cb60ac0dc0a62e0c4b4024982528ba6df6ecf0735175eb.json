@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/686715/0/",
+    "title": {
+        "raw_text": "Un varón resulta herido al salirse de la vía el vehículo en el que circulaba en la capital grancanaria",
+        "lemmatized_text": "uno varón resultar herir a el salir se de el vía el vehículo en el que circular en el capital grancanaria",
+        "lemmatized_text_reduced": "varón resultar herir salir vía vehículo circular capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una hombre ha resultado herido con contusión cervical de carácter menos grave al salirse de la vía el vehículo en el que circulaba en la carretera GC-2 en dirección norte a la altura del Rincón, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre haber resultar herir con contusión cervical de carácter menos grave a el salir se de el vía el vehículo en el que circular en el carretera GC-2 en dirección norte a el altura de el rincón en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir contusión cervical carácter grave salir vía vehículo circular carretera dirección norte altura rincón las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Rincón",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente tuvo lugar a las 09.33 horas, cuando varias llamadas alertaron al Cecoes de que se había producido la salida de vía y posterior colisión de un solo vehículo, resultando herido su ocupante. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. El personal médico del Servicio de Urgencias Canario (SUC) asistió al afectado en el lugar y, tras estabilizarlo, lo trasladó en ambulancia de soporte vital básico del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. Asimismo, efectivos del Servicio de Extinción de Incendios, Salvamento y Rescate de Las Palmas de Gran Canaria procedieron a retirar el vehículo de la vía. Por su parte, la Guardia Civil reguló el tráfico en la zona e instruyó el atestado correspondiente. Mientras que la Policía Local colaboró con el resto de los recursos de emergencia.",
+        "lemmatized_text": "el accidente tener_lugar a el TM_h:9.33 cuando varios llamada alertar a el cecoes de que se haber producir el salida de vía y posterior colisión de uno solo vehículo resultar herir su ocupante de este modo el 112 activar de inmediato el recurso de emergencia necesario el personal médico de el servicio_de_urgencias_canario suc asistir a el afectar en el lugar y tras estabilizar lo lo trasladar en ambulancia de soporte vital básico de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín asimismo efectivo de el servicio_de_extinción_de_incendios salvamento y rescate_de_las_palmas_de_gran_canaria proceder a retirar el vehículo de el vía por su parte el guardia_civil regular el tráfico en el zona y instruir el atestado correspondiente mientras_que el policía_local colaborar con el resto de el recurso de emergencia",
+        "lemmatized_text_reduced": "accidente tener_lugar llamada alertar cecoes haber producir salida vía posterior colisión solo vehículo resultar herir ocupante modo activar inmediato recurso emergencia necesario personal médico servicio_de_urgencias_canario suc asistir afectar lugar estabilizar trasladar ambulancia soporte vital básico suc hospital_universitario_de_gran_canaria_doctor_negrín efectivo servicio_de_extinción_de_incendios salvamento rescate_de_las_palmas_de_gran_canaria proceder retirar vehículo vía parte guardia_civil regular tráfico zona instruir atestado correspondiente policía_local colaborar resto recurso emergencia",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Extinción_de_Incendios",
+            "Rescate_de_Las_Palmas_de_Gran_Canaria",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.33",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/943576/0/",
+    "title": {
+        "raw_text": "Canarias registrará este sábado lluvias débiles a moderadas",
+        "lemmatized_text": "canario registrar este [S:??/??/??:??.??:??] lluvia débil a moderado",
+        "lemmatized_text_reduced": "canario registrar lluvia débil moderado",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias presenta este sábado cielos nubosos a muy nubosos que dejarán precipitaciones débiles a moderadas en todas las islas, pudiendo ser más abundantes en las zonas sur de las islas, según informó la Agencia Estatal de Meteorología (Aemet).",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias presentar este [S:??/??/??:??.??:??] cielo nuboso a muy nuboso que dejar precipitación débil a moderado en todo el isla poder ser más abundante en el zona sur de el isla según informar el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias presentar cielo nuboso nuboso dejar precipitación débil moderado isla poder ser abundante zona sur isla informar agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Comunidad Autónoma de Canarias presenta este sábado cielos nubosos a muy nubosos que dejarán precipitaciones débiles a moderadas en todas las islas, pudiendo ser más abundantes en las zonas sur de las islas, según informó la Agencia Estatal de Meteorología (Aemet). De esta manera, la previsión meteorológica en la provincia de Las Palmas para hoy indica que habrá intervalos nubosos aumentando durante las horas centrales a nubosos o muy nubosos con probabilidad de lluvias débiles a moderadas, pudiendo ser más abundantes en la vertiente sur. En Fuerteventura y Lanzarote también predominarán los intervalos nubosos en general, con posibilidad de lluvias débiles que podrían ser localmente moderadas, principalmente por la tarde. En cuanto al viento será variable flojo con brisas en costas y con predomino de las de componente norte, girando a componente sur al final del día. Las temperaturas se mantendrán sin cambios o en ligero ascenso, oscilando en Las Palmas de Gran Canaria entre los 23 y 16 grados centígrados. Por su parte, la previsión meteorológica en la provincia de Santa Cruz de Tenerife para hoy indica que predominarán los intervalos nubosos, aumentando a lo largo de la mañana a nuboso o muy nuboso; asimismo, se prevén lluvias débiles a moderadas, pudiendo ser más abundantes en las vertientes sur de las islas. En cuanto a las temperaturas, el termómetro se mantendrá sin cambios o en ligero ascenso y oscilará entre los 22ºC de máxima y los 15ºC de mínima. Por último, según la Aemet, el viento soplará de variable flojo, con brisas en costas, y lo hará del suroeste moderado con intervalos de fuerte por la tarde en altas cumbres centrales.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias presentar este [S:??/??/??:??.??:??] cielo nuboso a muy nuboso que dejar precipitación débil a moderado en todo el isla poder ser más abundante en el zona sur de el isla según informar el agencia_estatal_de_meteorología aemet de este manera el previsión meteorológico en el provincia de las_palmas para hoy indicar que haber intervalo nuboso aumentar durante el hora central a nuboso o muy nuboso con probabilidad de lluvia débil a moderado poder ser más abundante en el vertiente sur en fuerteventura y lanzarote también predominar el intervalo nuboso en general con posibilidad de lluvia débil que poder ser localmente moderar principalmente por el tarde en cuanto a el viento ser variable flojo con brisa en costa y con predominar de el de componente norte girar a componente sur a el final de el día el temperatura se mantener sin cambio o en ligero ascenso oscilar en las_palmas_de_gran_canaria entre el 23 y TP_C:16 por su parte el previsión meteorológico en el provincia de santa_cruz_de_tenerife para hoy indicar que predominar el intervalo nuboso aumentar a el largo de el mañana a nuboso o muy nuboso asimismo se prever lluvia débil a moderado poder ser más abundante en el vertiente sur de el isla en_cuanto_a el temperatura el termómetro se mantener sin cambio o en ligero ascenso y oscilar entre el 22ºC de máximo y el 15ºC de mínimo por último según el aemet el viento soplar de variable flojo con brisa en costa y lo hacer de el suroeste moderar con intervalo de fuerte por el tarde en alto cumbre central",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias presentar cielo nuboso nuboso dejar precipitación débil moderado isla poder ser abundante zona sur isla informar agencia_estatal_de_meteorología aemet manera previsión meteorológico provincia las_palmas indicar haber intervalo nuboso aumentar hora central nuboso nuboso probabilidad lluvia débil moderado poder ser abundante vertiente sur fuerteventura lanzarote predominar intervalo nuboso general posibilidad lluvia débil poder ser localmente moderar principalmente tarde viento ser variable flojo brisa costa predominar componente norte girar componente sur final día temperatura mantener cambio ligero ascenso oscilar las_palmas_de_gran_canaria parte previsión meteorológico provincia santa_cruz_de_tenerife indicar predominar intervalo nuboso aumentar largo mañana nuboso nuboso prever lluvia débil moderado poder ser abundante vertiente sur isla temperatura termómetro mantener cambio ligero ascenso oscilar máximo mínimo último aemet viento soplar variable flojo brisa costa hacer suroeste moderar intervalo fuerte tarde alto cumbre central",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Las_Palmas",
+            "Fuerteventura",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "23",
+            "TP_C:16",
+            "22ºC",
+            "15ºC"
+        ]
+    }
+}

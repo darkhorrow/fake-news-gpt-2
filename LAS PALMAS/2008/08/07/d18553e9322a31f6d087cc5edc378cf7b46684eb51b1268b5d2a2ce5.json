@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-08-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/404824/0/identifican/cadaver/lanzarote/",
+    "title": {
+        "raw_text": "La familia del catalán desaparecido en Lanzarote identifica el cadáver hallado",
+        "lemmatized_text": "el familia de el catalán desaparecer en lanzarote identificar el cadáver hallar",
+        "lemmatized_text_reduced": "familia catalán desaparecer lanzarote identificar cadáver hallar",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Sergio López, de 31 años, desapareció hace siete días. Aseguran que \"desapareció en el agua\", en Haría (Lanzarote). CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "sergio_lópez de 31 año desaparecer hacer TM_d:7 asegurar que desaparecer en el agua en haría lanzarote consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "sergio_lópez año desaparecer hacer asegurar desaparecer agua haría lanzarote consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Sergio_López"
+        ],
+        "locations": [
+            "Haría",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "31",
+            "TM_d:7"
+        ]
+    },
+    "body": {
+        "raw_text": "El cadáver hallado este jueves, sobre las 08.20 horas, en una zona rocosa de la playa de Órzola, en el municipio lanzaroteño de Haría, pertenece al catalán Sergio López, desaparecido el viernes tras la identificación de su familia a partir de varios tatuajes que lucía el joven turista en diferentes partes de su cuerpo. El joven de 31 años llevaba en el tobillo un tatuaje que con el tiempo se borró, pero del que todavía quedaba rastro, además, según estas fuentes, tenía otro grabado en \"la espalda o el pecho\". Las autoridades no confirmarán la identidad del cadáver hallado hasta dar por concluida su autopsia, según informaron fuentes de la Delegación del Gobierno en Canarias. El viernes desapareció un varón de 31 años de edad, natural de Barcelona, que se encontraba de vacaciones en Lanzarote junto con su novia, con la que acudió a una cala del municipio de Haría para bañarse, pero \"desapareció en el agua\" , según fuentes de la Policía Local. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el cadáver hallar este [J:??/??/??:??.??:??] sobre el TM_h:8.2 en uno zona rocoso de el playa de órzola en el municipio lanzaroteño de haría pertenecer a el catalán sergio_lópez desaparecer el [V:??/??/??:??.??:??] tras el identificación de su familia a_partir_de varios tatuaje que lucir el joven turista en diferente parte de su cuerpo el joven de 31 año llevar en el tobillo uno tatuaje que con el tiempo se borrar pero de el que todavía quedar rastro además según este fuente tener otro grabado en el espalda o el pecho el autoridad no confirmar el identidad de el cadáver hallar hasta dar por concluir su autopsia según informar fuente de el delegación_del_gobierno en canarias el [V:??/??/??:??.??:??] desaparecer uno varón de 31 año de edad natural de barcelona que se encontrar de vacaciones en lanzarote junto_con su novio con el que acudir a uno cala de el municipio de haría para bañar se pero desaparecer en el agua según fuente de el policía_local consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cadáver hallar zona rocoso playa órzola municipio lanzaroteño haría pertenecer catalán sergio_lópez desaparecer identificación familia tatuaje lucir joven turista parte cuerpo joven año llevar tobillo tatuaje tiempo borrar quedar rastro fuente tener grabado espalda pecho autoridad confirmar identidad cadáver hallar dar concluir autopsia informar fuente delegación_del_gobierno canarias desaparecer varón año edad natural barcelona encontrar vacaciones lanzarote novio acudir cala municipio haría bañar desaparecer agua fuente policía_local consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Sergio_López"
+        ],
+        "locations": [
+            "Órzola",
+            "Haría",
+            "Canarias",
+            "Barcelona",
+            "Lanzarote",
+            "Haría"
+        ],
+        "organizations": [
+            "Delegación_del_Gobierno",
+            "Policía_Local",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:8.2",
+            "31",
+            "31"
+        ]
+    }
+}

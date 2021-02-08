@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590701/0/",
+    "title": {
+        "raw_text": "Gobierno canario y Fiscalía firman convenios en materia de agresiones contra el personal docente y sanitario",
+        "lemmatized_text": "gobierno canario y fiscalía firmar convenio en_materia_de agresión contra el personal docente y sanitario",
+        "lemmatized_text_reduced": "gobierno canario fiscalía firmar convenio agresión personal docente sanitario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las consejeras de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias, Milagros Luis Brito, y de Sanidad, Mercedes Roldós, firmarán sendos convenios de colaboración con la Fiscalía Superior de la Comunidad Autónoma de Canarias en materia de agresiones contra el personal docente y sanitario.",
+        "lemmatized_text": "el consejero de educación universidades cultura y deportes_del_gobierno_de_canarias milagros_luis_brito y de sanidad mercedes_roldós firmar sendos convenio de colaboración con el fiscalía_superior_de_la_comunidad_autónoma_de_canarias en_materia_de agresión contra el personal docente y sanitario",
+        "lemmatized_text_reduced": "consejero educación universidades cultura deportes_del_gobierno_de_canarias milagros_luis_brito sanidad mercedes_roldós firmar convenio colaboración fiscalía_superior_de_la_comunidad_autónoma_de_canarias agresión personal docente sanitario",
+        "persons": [
+            "Milagros_Luis_Brito",
+            "Mercedes_Roldós"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cultura",
+            "Deportes_del_Gobierno_de_Canarias",
+            "Fiscalía_Superior_de_la_Comunidad_Autónoma_de_Canarias"
+        ],
+        "others": [
+            "Educación",
+            "Universidades",
+            "Sanidad"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En representación de la Fiscalía asistirá el fiscal jefe del Tribunal Superior de Justicia de Canarias, Vicente Garrido García, según informa el Ejecutivo regional en un comunicado. El protocolo de actuación facilitará la actuación inmediata y mejorará la investigación, persecución y castigo. El acto tendrá lugar este viernes, a las 11.30 horas, en la sede de Presidencia de Gobierno en Las Palmas de Gran Canaria. Además, se podrá seguir por videoconferencia en la sede de la Consejería de Educación en Santa Cruz de Tenerife.",
+        "lemmatized_text": "en_representación_de el fiscalía asistir el fiscal jefe de el tribunal_superior_de_justicia_de_canarias vicente_garrido_garcía según informar el ejecutivo regional en uno comunicado el protocolo de actuación facilitar el actuación inmediato y mejorar el investigación persecución y castigo el acto tener_lugar este [V:??/??/??:??.??:??] a el TM_h:11.3 en el sede de presidencia_de_gobierno en las_palmas_de_gran_canaria además se poder seguir por videoconferencia en el sede de el consejería_de_educación en santa_cruz_de_tenerife",
+        "lemmatized_text_reduced": "fiscalía asistir fiscal jefe tribunal_superior_de_justicia_de_canarias vicente_garrido_garcía informar ejecutivo regional comunicado protocolo actuación facilitar actuación inmediato mejorar investigación persecución castigo acto tener_lugar sede presidencia_de_gobierno las_palmas_de_gran_canaria poder seguir videoconferencia sede consejería_de_educación santa_cruz_de_tenerife",
+        "persons": [
+            "Vicente_Garrido_García"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Fiscalía",
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "Ejecutivo",
+            "Presidencia_de_Gobierno",
+            "Consejería_de_Educación"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11.3"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/606427/0/",
+    "title": {
+        "raw_text": "Los bomberos consiguen extinguir un incendio sin afectados en una vivienda de Arrecife (Lanzarote)",
+        "lemmatized_text": "el bombero conseguir extinguir uno incendio sin afectado en uno vivienda de arrecife lanzarote",
+        "lemmatized_text_reduced": "bombero conseguir extinguir incendio afectado vivienda arrecife lanzarote",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos del Consorcio de Seguridad, Emergencias, Salvamento, Prevención y Extinción de Incendios de Lanzarote han conseguido sofocar un fuego originado esta mañana en una vivienda de Arrecife, que no se saldó con ningún herido, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el bombero de el consorcio_de_seguridad emergencias salvamento prevención y extinción_de_incendios_de_lanzarote haber conseguir sofocar uno fuego originar este mañana en uno vivienda de arrecife que no se saldar con ninguno herir según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "bombero consorcio_de_seguridad emergencias salvamento prevención extinción_de_incendios_de_lanzarote haber conseguir sofocar fuego originar mañana vivienda arrecife saldar herir informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Emergencias"
+        ],
+        "locations": [
+            "Arrecife"
+        ],
+        "organizations": [
+            "Consorcio_de_Seguridad",
+            "Salvamento",
+            "Extinción_de_Incendios_de_Lanzarote",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Prevención",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 12.56 horas indicando que se había producido un incendio en un domicilio particular ubicado en la tercera planta de un edificio de la calle Pérez Galdós de la capital lanzaroteña. Por ello, el recurso de emergencia activó a los bomberos, que lograron extinguir las llamas y procedieron a ventilar el inmueble, y al Servicio de Urgencias Canario (SUC), aunque no fue necesaria su intervención, ya que los habitantes de la vivienda no se vieron afectados por el fuego. Asimismo, en el suceso intervinieron efectivos de la Policía Local, que se ocuparon de mantener la seguridad en la zona y colaboraron con el resto de recursos, y del Cuerpo Nacional de Policía, que instruyeron las diligencias oportunas.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:12.56 indicar que se haber producir uno incendio en uno domicilio particular ubicar en el 3 planta de uno edificio de el calle pérez_galdós de el capital lanzaroteña por ello el recurso de emergencia activar a el bombero que lograr extinguir el llama y proceder a ventilar el inmueble y a el servicio_de_urgencias_canario suc aunque no ser necesario su intervención ya_que el habitante de el vivienda no se ver afectar por el fuego asimismo en el suceso intervenir efectivo de el policía_local que se ocupar de mantener el seguridad en el zona y colaborar con el resto de recurso y de el cuerpo_nacional_de_policía que instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar haber producir incendio domicilio particular ubicar 3 planta edificio calle pérez_galdós capital lanzaroteña recurso emergencia activar bombero lograr extinguir llama proceder ventilar inmueble servicio_de_urgencias_canario suc ser necesario intervención habitante vivienda ver afectar fuego suceso intervenir efectivo policía_local ocupar mantener seguridad zona colaborar resto recurso cuerpo_nacional_de_policía instruir diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Pérez_Galdós"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.56"
+        ]
+    }
+}

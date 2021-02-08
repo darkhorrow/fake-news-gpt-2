@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/652164/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene en el aeropuerto de Lanzarote a un traficante de cocaína",
+        "lemmatized_text": "el policía_nacional detener en el aeropuerto de lanzarote a uno traficante de cocaína",
+        "lemmatized_text_reduced": "policía_nacional detener aeropuerto lanzarote traficante cocaína",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido en el aeropuerto de Guacimeta, en Lanzarote, a un hombre identificado como T.D., de 30 años de edad y natural de Guinea-Bissau, acusado por presunto tráfico de cocaína.",
+        "lemmatized_text": "el policía_nacional haber detener en el aeropuerto de guacimeta en lanzarote a uno hombre identificar como t.d. de 30 año de edad y natural de guinea-bissau acusar por presunto tráfico de cocaína",
+        "lemmatized_text_reduced": "policía_nacional haber detener aeropuerto guacimeta lanzarote hombre identificar t.d. año edad natural guinea-bissau acusar presunto tráfico cocaína",
+        "persons": [
+            "T.D."
+        ],
+        "locations": [
+            "Guacimeta",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Guinea-Bissau"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "Agentes del Cuerpo Nacional de Policía arrestaron el pasado día 7 de marzo al varón en el marco de uno de los dispositivos preventivos que se establecen en aeropuertos y puertos para el control de posibles infracciones a la ley de Extranjería. A la llegada de uno de los vuelos se procedió a la identificación de varias personas, una de las cuales, posteriormente identificada como T.D., con diversos antecedentes, portaba documentos que presentaban irregularidades, por lo que se iniciaron las gestiones para comprobar tanto su identidad como si su estancia en territorio nacional se encontraba regularizada. En el transcurso de las indagaciones T.D. mostró \"gran nerviosismo y versiones contradictorias sobre su domicilio y motivo del viaje\". Con tal motivo funcionarios adscritos a la Comisaría del Cuerpo Nacional de Policía de Arrecife efectuaron un registro de su equipaje, y, posteriormente, al levantar sospechas de que su reacciones pudieran obedecer a que transportara en su organismo sustancias estupefacientes, y cumplimentados los requisitos legales, se le efectuó una radiografía. De esta forma, los agentes constataron que en el interior de su organismo portaba varios elementos extraños. Una vez ingresado en centro sanitario, le fueron localizados 32 envoltorios cilíndricos que arrojaron un peso de cerca de 400 gramos, conteniendo un polvo blanco que dio resultado positivo al estupefaciente cocaína. Así, se procedió a su detención y tramitación de diligencias policiales, con las que pasó a disposición del Juzgado de Instrucción de Guardia de Arrecife de Lanzarote.",
+        "lemmatized_text": "agentes_del_cuerpo_nacional_de_policía arrestar el [??:7/3/??:??.??:??] a el varón en el marco de uno de el dispositivo preventivo que se establecer en aeropuerto y puerto para el control de posible infracción a el ley de extranjería a el llegada de uno de el vuelo se proceder a el identificación de varios persona uno de el cual posteriormente identificar como t.d. con diverso antecedente portar documento que presentar irregularidad por el que se iniciar el gestión para comprobar tanto su identidad como si su estancia en territorio nacional se encontrar regularizar en el transcurso de el indagación t.d. mostrar gran nerviosismo y versión contradictorio sobre su domicilio y motivo de el viaje con tal motivo funcionario adscribir a el comisaría_del_cuerpo_nacional_de_policía_de_arrecife efectuar uno registro de su equipaje y posteriormente a el levantar sospecha de que su reacción poder obedecer a que transportar en su organismo sustancia estupefaciente y cumplimentar el requisito legal se le efectuar uno radiografía de este forma el agente constatar que en_el_interior_de su organismo portar varios elemento extraño uno vez ingresar en centro sanitario le ser localizar 32 envoltorio cilíndrico que arrojar uno peso de cerca de WG_g:400 contener uno polvo blanco que dar resultado positivo a el estupefaciente cocaína así se proceder a su detención y tramitación de diligencia policial con el que pasar a disposición de el juzgado_de_instrucción_de_guardia_de_arrecife_de_lanzarote",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_nacional_de_policía arrestar varón marco dispositivo preventivo establecer aeropuerto puerto control posible infracción ley extranjería llegada vuelo proceder identificación persona posteriormente identificar t.d. antecedente portar documento presentar irregularidad iniciar gestión comprobar identidad estancia territorio nacional encontrar regularizar transcurso indagación t.d. mostrar gran nerviosismo versión contradictorio domicilio motivo viaje motivo funcionario adscribir comisaría_del_cuerpo_nacional_de_policía_de_arrecife efectuar registro equipaje posteriormente levantar sospecha reacción poder obedecer transportar organismo sustancia estupefaciente cumplimentar requisito legal efectuar radiografía forma agente constatar organismo portar elemento extraño vez ingresar centro sanitario ser localizar envoltorio cilíndrico arrojar peso contener polvo blanco dar resultado positivo estupefaciente cocaína proceder detención tramitación diligencia policial pasar disposición juzgado_de_instrucción_de_guardia_de_arrecife_de_lanzarote",
+        "persons": [],
+        "locations": [
+            "Extranjería"
+        ],
+        "organizations": [
+            "Agentes_del_Cuerpo_Nacional_de_Policía",
+            "T.D.",
+            "T.D.",
+            "Comisaría_del_Cuerpo_Nacional_de_Policía_de_Arrecife",
+            "Juzgado_de_Instrucción_de_Guardia_de_Arrecife_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [
+            "[??:7/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "32",
+            "WG_g:400"
+        ]
+    }
+}

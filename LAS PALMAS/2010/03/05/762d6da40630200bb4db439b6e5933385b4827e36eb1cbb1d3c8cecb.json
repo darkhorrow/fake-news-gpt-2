@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/644845/0/",
+    "title": {
+        "raw_text": "Un motorista resulta herido al colisionar contra un turismo en Telde (Gran Canaria)",
+        "lemmatized_text": "uno motorista resultar herir a el colisionar contra uno turismo en telde gran_canaria",
+        "lemmatized_text_reduced": "motorista resultar herir colisionar turismo telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un motorista de 41 años ha resultado herido con traumatismo en miembro superior de carácter menos grave al colisionar contra un turismo en la carretera GC-2 a la altura de el barrio de El Calero, en el municipio de Telde (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno motorista de 41 año haber resultar herir con traumatismo en miembro superior de carácter menos grave a el colisionar contra uno turismo en el carretera GC-2 a el altura de el barrio de el_calero en el municipio de telde gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "motorista año haber resultar herir traumatismo miembro superior carácter grave colisionar turismo carretera altura barrio el_calero municipio telde gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "El_Calero",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "41",
+            "GC-2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 13.50 horas, cuando se recibió una llamada en el Cecoes que informaba de que una motocicleta y un turismo habían colisionado y el motorista precisaba atención sanitaria. De este modo, el 112 activó de inmediato los servicios de emergencias correspondientes. Una vez en el lugar el personal médico del Servicio de Urgencias Canario (SUC) atendió y estabilizó al afectado para trasladarlo en una ambulancia de soporte vital básico del SUC al Hospital Universitario Insular de Gran Canaria. En dicha actuación también intervino la Policía Local, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el accidente se producir a el TM_h:13.5 cuando se recibir uno llamada en el cecoes que informar de que uno motocicleta y uno turismo haber colisionar y el motorista precisar atención sanitario de este modo el 112 activar de inmediato el servicio de emergencia correspondiente uno vez en el lugar el personal médico de el servicio_de_urgencias_canario suc atender y estabilizar a el afectar para trasladar lo en uno ambulancia de soporte vital básico de el suc a el hospital_universitario_insular_de_gran_canaria en decir actuación también intervenir el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "accidente producir recibir llamada cecoes informar motocicleta turismo haber colisionar motorista precisar atención sanitario modo activar inmediato servicio emergencia correspondiente vez lugar personal médico servicio_de_urgencias_canario suc atender estabilizar afectar trasladar ambulancia soporte vital básico suc hospital_universitario_insular_de_gran_canaria decir actuación intervenir policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:13.5",
+            "112"
+        ]
+    }
+}

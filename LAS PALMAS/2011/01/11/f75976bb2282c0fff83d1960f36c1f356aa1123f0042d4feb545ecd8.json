@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/924361/0/",
+    "title": {
+        "raw_text": "Las entradas para el concierto de Antonio Orozco en Lanzarote ya están a la venta",
+        "lemmatized_text": "el entrada para el concierto de antonio_orozco en lanzarote ya estar a el venta",
+        "lemmatized_text_reduced": "entrada concierto antonio_orozco lanzarote estar venta",
+        "persons": [
+            "Antonio_Orozco"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las entradas para el concierto de Antonio Orozco en el Teatro de San Bartolomé, Lanzarote, el próximo 14 de enero, a las 21.00 horas, ya están a la venta.",
+        "lemmatized_text": "el entrada para el concierto de antonio_orozco en el teatro_de_san_bartolomé lanzarote el [??:14/1/??:??.??:??] a el TM_h:21 ya estar a el venta",
+        "lemmatized_text_reduced": "entrada concierto antonio_orozco teatro_de_san_bartolomé lanzarote estar venta",
+        "persons": [
+            "Antonio_Orozco"
+        ],
+        "locations": [
+            "Teatro_de_San_Bartolomé",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:14/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "Las entradas para el concierto de Antonio Orozco en el Teatro de San Bartolomé, Lanzarote, el próximo 14 de enero, a las 21.00 horas, ya están a la venta. En cuanto al precio de las entradas para la actuación de Antonio Orozco está fijado en 20 euros y pueden adquirirse en el área de Educación y Cultura del Cabildo de Lanzarote. El cantante actuará en directo dentro de la gira de presentación de su último trabajo discográfico, 'Renovatio', disco en el que el músico catalán vuelve a fusionar el flamenco con el pop-rock, según informó el Cabildo de Lanzarote en nota de prensa. Además, el concierto se enmarca dentro del ciclo FlamencoEnCaja 2011. En su quinto álbum, Orozco \"vuelve a ahondar\" en su estilo de mezcla entre la raíz y los palos flamencos con arreglos y melodías pop Antonio Orozco ya ha vendido más de un millón de discos en su carrera, destacando el Triple Disco de Platino recibido por su penúltimo álbum (\"El principio del comienzo\") y el Disco de Platino que consiguió con \"Cadizfornia\" (Universal Music, 2006).",
+        "lemmatized_text": "el entrada para el concierto de antonio_orozco en el teatro_de_san_bartolomé lanzarote el [??:14/1/??:??.??:??] a el TM_h:21 ya estar a el venta en cuanto a el precio de el entrada para el actuación de antonio_orozco estar fijar en $_ECU:20 y poder adquirir se en el área de educación y cultura_del_cabildo_de_lanzarote el cantante actuar en directo dentro_de el gira de presentación de su último trabajo discográfico renovatio disco en el que el músico catalán volver a fusionar el flamenco con el pop-rock según informar el cabildo_de_lanzarote en nota de prensa además el concierto se enmarcar dentro de el ciclo flamencoencaja 2011 en su 5 álbum orozco volver a ahondar en su estilo de mezcla entre el raíz y el palo flamenco con arreglo y melodía pop antonio_orozco ya haber vender más de 1000000 de disco en su carrera destacar el triple_disco_de_platino recibir por su penúltimo álbum el principio de el comienzo y el disco_de_platino que conseguir con cadizfornia universal_music 2006",
+        "lemmatized_text_reduced": "entrada concierto antonio_orozco teatro_de_san_bartolomé lanzarote estar venta precio entrada actuación antonio_orozco estar fijar poder adquirir área educación cultura_del_cabildo_de_lanzarote cantante actuar directo gira presentación último trabajo discográfico renovatio disco músico catalán volver fusionar flamenco pop-rock informar cabildo_de_lanzarote nota prensa concierto enmarcar ciclo flamencoencaja 5 álbum orozco volver ahondar estilo mezcla raíz palo flamenco arreglo melodía pop antonio_orozco haber vender disco carrera destacar triple_disco_de_platino recibir penúltimo álbum principio comienzo disco_de_platino conseguir cadizfornia universal_music",
+        "persons": [
+            "Antonio_Orozco",
+            "Antonio_Orozco",
+            "Renovatio",
+            "Orozco",
+            "Antonio_Orozco"
+        ],
+        "locations": [
+            "Teatro_de_San_Bartolomé",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Triple_Disco_de_Platino",
+            "Disco_de_Platino",
+            "Cadizfornia",
+            "Universal_Music"
+        ],
+        "others": [
+            "Educación",
+            "Cultura_del_Cabildo_de_Lanzarote",
+            "FlamencoEnCaja"
+        ],
+        "dates": [
+            "[??:14/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21",
+            "$_ECU:20",
+            "2011",
+            "1000000",
+            "2006"
+        ]
+    }
+}

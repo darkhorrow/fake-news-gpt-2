@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597334/0/",
+    "title": {
+        "raw_text": "Estibadores consideran que Puerto de Las Palmas es un \"privilegiado\" tras registrar una bajada de la actividad del 20%",
+        "lemmatized_text": "estibadores considerar que puerto_de_las_palmas ser uno privilegiado tras registrar uno bajada de el actividad de el 20/100",
+        "lemmatized_text_reduced": "estibadores considerar puerto_de_las_palmas ser privilegiado registrar bajada actividad",
+        "persons": [
+            "Estibadores"
+        ],
+        "locations": [
+            "Puerto_de_Las_Palmas"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente de la Asociación de Estibadores Portuarios de Las Palmas, Miguel Rodríguez, ha considerado que el Puerto de La Luz y de Las Palmas ha sido un recinto portuario \"privilegiado\" tras registrar una bajada de la actividad de sólo el 20 por ciento en 2009, mientras otros puertos nacionales han tenido bajadas de hasta el 70 por ciento.",
+        "lemmatized_text": "el presidente de el asociación_de_estibadores_portuarios_de_las_palmas miguel_rodríguez haber considerar que el puerto_de_la_luz y de las_palmas haber ser uno recinto portuario privilegiar tras registrar uno bajada de el actividad de sólo el 20 por 100 en 2009 mientras otro puerto nacional haber tener bajada de hasta el 70 por 100",
+        "lemmatized_text_reduced": "presidente asociación_de_estibadores_portuarios_de_las_palmas miguel_rodríguez haber considerar puerto_de_la_luz las_palmas haber ser recinto portuario privilegiar registrar bajada actividad puerto nacional haber tener bajada",
+        "persons": [
+            "Miguel_Rodríguez"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Asociación_de_Estibadores_Portuarios_de_Las_Palmas",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20",
+            "100",
+            "2009",
+            "70",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Ha habido un descenso importante en la cantidad de facturación que se ha hecho este año en comparación con el año pasado. En 2008 se facturó 52 millones de euros, este año han sido 49 millones a fecha de octubre. A pesa de esta disminución, si se compara con los niveles de reducción en el resto de los puertos de España, el Puerto de Las Palmas es uno de los que mejor les ha ido el año junto con Valencia y Algeciras. Son los únicos tres puertos que han tenido beneficios este año\", dijo hoy durante una rueda de prensa. De esta manera, comentó que estos datos positivos se han debido a la situación geográfica de la isla, al precio del petróleo, \"que han centrado a Las Palmas como un puerto de avituallamiento de los buques\", y finalmente, a la posibilidad de realizar trasbordo de contáiners en el puerto. Esto ha permitido que la reducción en la facturación del recinto portuario haya sido más moderada que en otros puertos que sólo vivían de las mercancías que se consumían en la ciudad donde está ubicado el puerto. \"Esta situación es inmejorable —añadió—. Hemos tenido una reducción total del 20 por ciento, que es una baja importante pero hay que tener en cuenta que hay otros puertos con caídas incluso del 70 por ciento\". La media de reducción de actividad en los puertos españoles ha rondado en 2009 ronda entre el 30 y el 40 por ciento. Además, el Puerto de La Luz ha tenido un incremento del número de pasajes entre cruceristas y no cruceristas —pasajeros que se desplazan entre islas—. A fecha de octubre, se habían transportado 380.000 pasajeros de cruceristas. \"Estos son los datos generales del Puerto. Dentro del balance general nacional e incluso europeo, son privilegiados\", matizó. (Habrá ampliación)",
+        "lemmatized_text": "haber haber uno descenso importante en el cantidad de facturación que se haber hacer este año en comparación con el año pasar en 2008 se facturar $_ECU:52000000 este año haber ser 49000000 a fecha de [??:??/10/??:??.??:??] a pesa de este disminución si se comparar con el nivel de reducción en el resto de el puerto de españa el puerto_de_las_palmas ser uno de el que mejor le haber ir el año junto_con valencia y algeciras ser el único 3 puerto que haber tener beneficio este año decir hoy durante uno rueda de prensa de este manera comentar que este dato positivo se haber debido_a el situación geográfico de el isla a el precio de el petróleo que haber centrar a las_palmas como uno puerto de avituallamiento de el buque y finalmente a el posibilidad de realizar trasbordo de contáiners en el puerto este haber permitir que el reducción en el facturación de el recinto portuario haber ser más moderar que en otro puerto que sólo vivir de el mercancía que se consumir en el ciudad donde estar ubicar el puerto este situación ser inmejorable añadir haber tener uno reducción total de el 20 por 100 que ser uno baja importante pero haber que tener_en_cuenta que haber otro puerto con caída incluso de el 70 por 100 el media de reducción de actividad en el puerto español haber rondar en 2009 ronda entre el 30 y el 40 por 100 además el puerto_de_la_luz haber tener uno incremento de el número de pasaje entre cruceristas y no cruceristas pasajero que se desplazar entre isla a fecha de [??:??/10/??:??.??:??] se haber transportar 380 pasajero de cruceristas este ser el dato general de el puerto dentro de el balance general nacional y incluso europeo ser privilegiar matizar haber ampliación",
+        "lemmatized_text_reduced": "haber haber descenso importante cantidad facturación haber hacer año comparación año pasar facturar año haber ser fecha pesa disminución comparar nivel reducción resto puerto españa puerto_de_las_palmas ser haber ir año valencia algeciras ser único puerto haber tener beneficio año decir rueda prensa manera comentar dato positivo haber situación geográfico isla precio petróleo haber centrar las_palmas puerto avituallamiento buque finalmente posibilidad realizar trasbordo contáiners puerto haber permitir reducción facturación recinto portuario haber ser moderar puerto vivir mercancía consumir ciudad estar ubicar puerto situación ser inmejorable añadir haber tener reducción total ser baja importante haber tener_en_cuenta haber puerto caída media reducción actividad puerto español haber rondar ronda puerto_de_la_luz haber tener incremento número pasaje cruceristas cruceristas pasajero desplazar isla fecha haber transportar pasajero cruceristas ser dato general puerto balance general nacional europeo ser privilegiar matizar haber ampliación",
+        "persons": [],
+        "locations": [
+            "España",
+            "Puerto_de_Las_Palmas",
+            "Valencia",
+            "Puerto_de_La_Luz",
+            "Puerto"
+        ],
+        "organizations": [
+            "Algeciras",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/10/??:??.??:??]",
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "2008",
+            "$_ECU:52000000",
+            "49000000",
+            "3",
+            "20",
+            "100",
+            "70",
+            "100",
+            "2009",
+            "30",
+            "40",
+            "100",
+            "380"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599434/0/",
+    "title": {
+        "raw_text": "Un joven en estado grave tras ser atropellado por un turismo en Playa del Inglés (Gran Canaria)",
+        "lemmatized_text": "uno joven en estado grave tras ser atropellar por uno turismo en playa_del_inglés gran_canaria",
+        "lemmatized_text_reduced": "joven estado grave ser atropellar turismo playa_del_inglés gran_canaria",
+        "persons": [],
+        "locations": [
+            "Playa_del_Inglés",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven de 22 años se encuentra en estado grave con traumatismo craneoencefálico tras ser atropellado sobre las 04.38 horas de hoy por un turismo en las inmediaciones del Centro Comercial Plaza, ubicado en la avenida de Italia, dentro del término municipal de San Bartolomé de Tirajana (Gran Canaria), según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno joven de 22 año se encontrar en estado grave con traumatismo craneoencefálico tras ser atropellar sobre el TM_h:4.38 de hoy por uno turismo en el inmediación de el centro_comercial_plaza ubicar en el avenida de italia dentro de el término municipal de san_bartolomé_de_tirajana gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "joven año encontrar estado grave traumatismo craneoencefálico ser atropellar turismo inmediación centro_comercial_plaza ubicar avenida italia término municipal san_bartolomé_de_tirajana gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Italia"
+        ],
+        "organizations": [
+            "Centro_Comercial_Plaza",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "22",
+            "TM_h:4.38",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, se recibió una llamada a la hora indicada informando de que un varón había sido atropellado y que precisaba de atención médica. En ese momento, el 112 activo su dispositivo de urgencias habitual y trasladó al lugar una ambulancia de soporte vital avanzado del Servicio de Urgencias Canario (SUC). Al llegar, los médicos atendieron a un chico de 22 años que presentaba un traumatismo craneoencefálico de carácter grave, por lo que tuvo que ser trasladado hasta el Hospital Insular de Las Palmas de Gran Canaria. Por su parte, La Policía Local de San Bartolomé de Tirajana, que también se acercó hasta el lugar del accidente, realizó el correspondiente atestado.",
+        "lemmatized_text": "de este manera se recibir uno llamada a el hora indicar informar de que uno varón haber ser atropellar y que precisar de atención médico en ese momento el 112 activo su dispositivo de urgencia habitual y trasladar a el lugar uno ambulancia de soporte vital avanzar de el servicio_de_urgencias_canario suc a el llegar el médico atender a uno chico de 22 año que presentar uno traumatismo craneoencefálico de carácter grave por el que tener que ser trasladar hasta el hospital_insular_de_las_palmas_de_gran_canaria por su parte la_policía_local_de_san_bartolomé_de_tirajana que también se acercar hasta el lugar de el accidente realizar el correspondiente atestado",
+        "lemmatized_text_reduced": "manera recibir llamada hora indicar informar varón haber ser atropellar precisar atención médico momento activo dispositivo urgencia habitual trasladar lugar ambulancia soporte vital avanzar servicio_de_urgencias_canario suc llegar médico atender chico año presentar traumatismo craneoencefálico carácter grave tener ser trasladar hospital_insular_de_las_palmas_de_gran_canaria parte la_policía_local_de_san_bartolomé_de_tirajana acercar lugar accidente realizar correspondiente atestado",
+        "persons": [
+            "La_Policía_Local_de_San_Bartolomé_de_Tirajana"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Insular_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "22"
+        ]
+    }
+}

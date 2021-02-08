@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/702188/0/",
+    "title": {
+        "raw_text": "Roban 2.700 metros de cable de cobre de la red eléctrica de El Castillo del Romeral (Gran Canaria)",
+        "lemmatized_text": "robar LN_m:2.7 de cable de cobre de el red eléctrico de el_castillo_del_romeral gran_canaria",
+        "lemmatized_text_reduced": "robar cable cobre red eléctrico el_castillo_del_romeral gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "El_Castillo_del_Romeral"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:2.7"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Concejalía de Alumbrado Público del Ayuntamiento de San Bartolomé de Tirajana (Gran Canaria) ha denunciado el robo de 2.700 metros de cable de cobre en la red de alumbrado de la zona de El Castillo de El Romeral, material que tiene un valor total de 30.000 euros, según informó hoy el Consistorio sureño en un comunicado.",
+        "lemmatized_text": "el concejalía_de_alumbrado_público_del_ayuntamiento_de_san_bartolomé_de_tirajana gran_canaria haber denunciar el robo de LN_m:2.7 de cable de cobre en el red de alumbrado de el zona de el_castillo_de_el_romeral material que tener uno valor total de $_ECU:30 según informar hoy el consistorio sureño en uno comunicado",
+        "lemmatized_text_reduced": "concejalía_de_alumbrado_público_del_ayuntamiento_de_san_bartolomé_de_tirajana gran_canaria haber denunciar robo cable cobre red alumbrado zona el_castillo_de_el_romeral material tener valor total informar consistorio sureño comunicado",
+        "persons": [],
+        "locations": [
+            "El_Castillo_de_El_Romeral"
+        ],
+        "organizations": [
+            "Concejalía_de_Alumbrado_Público_del_Ayuntamiento_de_San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Consistorio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:2.7",
+            "$_ECU:30"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, durante el fin de semana se sustrajo cable de la entrada del barrio costero, en la zona de los proyectores provisionales frente al Tanatorio municipal. El Ayuntamiento explicó que no es la primera vez que se registran actos vandálicos de este tipo, ya que en las últimas semanas se sustrajo el cable de la red de baja tensión del Tanatorio de El Castillo de El Romeral y también en la red de alumbrado público que une el Tanatorio y la planta de Unelco. Según informa en concejal de Alumbrado Público, Eulogio Hernández, en el mismo Tanatorio Municipal del Castillo de El Romeral este tipo de robos se ha perpetrado dos veces, \"causando desperfectos en el techo del edificio, que el Consistorio ha tenido que arreglar para garantizar la seguridad e integridad del inmueble\". Finalmente, el edil aseguró que el cableado que se va a reponer será de aluminio en lugar de cobre para evitar que se repitan estos actos vandálicos.",
+        "lemmatized_text": "en concreto durante el fin de semana se sustraer cable de el entrada de el barrio costero en_la_zona_de el proyector provisional frente a el tanatorio municipal el ayuntamiento explicar que no ser el 1 vez que se registrar acto vandálico de este tipo ya_que en el último semana se sustraer el cable de el red de bajo tensión de el tanatorio_de_el_castillo_de_el_romeral y también en el red de alumbrado público que unir el tanatorio y el planta de unelco según informar en concejal de alumbrado_público eulogio_hernández en el mismo tanatorio_municipal_del_castillo_de_el_romeral este tipo de robo se haber perpetrar 2 vez causar desperfecto en el techo de el edificio que el consistorio haber tener que arreglar para garantizar el seguridad y integridad de el inmueble finalmente el edil asegurar que el cableado que se ir a reponer ser de aluminio en_lugar_de cobre para evitar que se repetir este acto vandálico",
+        "lemmatized_text_reduced": "concreto fin semana sustraer cable entrada barrio costero proyector provisional tanatorio municipal ayuntamiento explicar ser 1 vez registrar acto vandálico tipo último semana sustraer cable red bajo tensión tanatorio_de_el_castillo_de_el_romeral red alumbrado público unir tanatorio planta unelco informar concejal alumbrado_público eulogio_hernández mismo tanatorio_municipal_del_castillo_de_el_romeral tipo robo haber perpetrar vez causar desperfecto techo edificio consistorio haber tener arreglar garantizar seguridad integridad inmueble finalmente edil asegurar cableado ir reponer ser aluminio cobre evitar repetir acto vandálico",
+        "persons": [
+            "Eulogio_Hernández"
+        ],
+        "locations": [
+            "Tanatorio",
+            "Unelco"
+        ],
+        "organizations": [
+            "Tanatorio",
+            "Ayuntamiento",
+            "Consistorio"
+        ],
+        "others": [
+            "Tanatorio_de_El_Castillo_de_El_Romeral",
+            "Alumbrado_Público",
+            "Tanatorio_Municipal_del_Castillo_de_El_Romeral"
+        ],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    }
+}

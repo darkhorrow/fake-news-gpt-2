@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590792/0/",
+    "title": {
+        "raw_text": "Un avión llegará en aproximadamente 2 horas a Lanzarote para recoger a Haidar",
+        "lemmatized_text": "uno avión llegar en aproximadamente TM_h:2 a lanzarote para recoger a haidar",
+        "lemmatized_text_reduced": "avión llegar aproximadamente lanzarote recoger haidar",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un avión se dirige en estos momentos a la isla de Lanzarote para recoger a la activista saharaui Aminetu Haidar que cumple hoy 32 días en huelga de hambre después de que fuera expulsada de Marruecos, según indicaron a Europa Press fuentes conocedoras del plan de vuelo.",
+        "lemmatized_text": "uno avión se dirigir en este momento a el isla de lanzarote para recoger a el activista saharaui aminetu_haidar que cumplir hoy TM_d:32 en huelga de hambre después_de que ser expulsar de marruecos según indicar a europa_press fuente conocedor de el plan de vuelo",
+        "lemmatized_text_reduced": "avión dirigir momento isla lanzarote recoger activista saharaui aminetu_haidar cumplir huelga hambre ser expulsar marruecos indicar europa_press fuente conocedor plan vuelo",
+        "persons": [
+            "Aminetu_Haidar",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Marruecos"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:32"
+        ]
+    },
+    "body": {
+        "raw_text": "La aeronave llegará a la isla lanzaroteña en aproximadamente dos horas desde la península, mientras que las mismas fuentes aseguraron desconocer aún si se trata de un avión militar.",
+        "lemmatized_text": "el aeronave llegar a el isla lanzaroteña en aproximadamente TM_h:2 desde el península mientras_que el mismo fuente asegurar desconocer aun si se tratar de uno avión militar",
+        "lemmatized_text_reduced": "aeronave llegar isla lanzaroteña aproximadamente península mismo fuente asegurar desconocer tratar avión militar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:2"
+        ]
+    }
+}

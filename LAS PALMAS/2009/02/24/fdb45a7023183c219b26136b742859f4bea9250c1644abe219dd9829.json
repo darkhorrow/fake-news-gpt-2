@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/452602/0/violar/cunada/palmas/",
+    "title": {
+        "raw_text": "Piden 9 años de cárcel para un hombre acusado de retener y violar a su cuñada",
+        "lemmatized_text": "pedir 9 año de cárcel para uno hombre acusar de retener y violar a su cuñado",
+        "lemmatized_text_reduced": "pedir año cárcel hombre acusar retener violar cuñado",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9"
+        ]
+    },
+    "lead": {
+        "raw_text": "El procesado permanece en prisión por intentar quemar viva a su pareja y a la hija de ésta. El acusado presuntamente retuvo a su cuñada durante tres días en un hotel de Las Palmas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el procesado permanecer en prisión por intentar quemar vivo a su pareja y a el hijo de este el acusado presuntamente retener a su cuñado durante TM_d:3 en uno hotel de las_palmas consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "procesado permanecer prisión intentar quemar vivo pareja hijo acusado presuntamente retener cuñado hotel las_palmas consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:3"
+        ]
+    },
+    "body": {
+        "raw_text": "La Fiscalía pide imponer 9 años de cárcel y la acusación particular solicita 22 años de prisión para un hombre acusado de agredir sexualmente de forma continuada a su cuñada a quien retuvo durante tres días en un hotel de Las Palmas de Gran Canaria en julio de 2006, y supuestamente la amenazó diciéndole que si no hacía lo que él quisiera mataría a sus dos hijos y a su novio. La Sección Primera de la Audiencia Provincial de Las Palmas celebrará mañana (11.00 horas) el juicio contra E.J.R.C., acusado de un presunto delito de agresión sexual y que permanece en prisión acusado de dos presuntos delitos de asesinato en grado de tentativa y por dos supuestos delitos de detención ilegal al intentar quemar viva a su pareja, Antonia Cabrera, y a la hija de ésta. La noche del 22 de julio de 2006, la víctima se marchó del domicilio en que residía con su novio en el municipio de Ingenio a consecuencia de una discusión entre ambos, lo que motivó que el procesado -novio de la hermana del chico- se ofreciera a llevarla a un hotel en la playa de Las Canteras, donde supuestamente tuvieron lugar los abusos. La perjudicada no formuló denuncia hasta el día 4 de septiembre de 2006 por temor. A consecuencia de los hechos, la mujer presenta un trastorno adaptativo mixto con ansiedad y estado de ánimo depresivo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el fiscalía pedir imponer 9 año de cárcel y el acusación particular solicitar 22 año de prisión para uno hombre acusar de agredir sexualmente de forma continuar a su cuñado a quien retener durante TM_d:3 en uno hotel de las_palmas_de_gran_canaria en [??:??/7/2006:??.??:??] y supuestamente lo amenazar decir le que si no hacer el que él querer matar a su 2 hijo y a su novio el sección_primera_de_la_audiencia_provincial_de_las_palmas celebrar mañana TM_h:11 el juicio contra e.j.r.c. acusar de uno presunto delito de agresión sexual y que permanecer en prisión acusar de 2 presunto delito de asesinato en grado de tentativa y por 2 supuesto delito de detención ilegal a el intentar quemar vivo a su pareja antonia_cabrera y a el hijo de este el noche de el [??:22/7/2006:??.??:??] el víctima se marchar de el domicilio en que residir con su novio en el municipio de ingenio a_consecuencia_de uno discusión entre ambos el que motivar que el procesado novio de el hermano de el chico se ofrecer a llevar lo a uno hotel en el playa de las_canteras donde supuestamente tener_lugar el abuso el perjudicado no formular denuncia hasta el [??:4/9/2006:??.??:??] por temor a_consecuencia_de el hecho el mujer presentar uno trastorno adaptativo mixto con ansiedad y estado de ánimo depresivo consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "fiscalía pedir imponer año cárcel acusación particular solicitar año prisión hombre acusar agredir sexualmente forma continuar cuñado retener hotel las_palmas_de_gran_canaria supuestamente amenazar decir hacer querer matar hijo novio sección_primera_de_la_audiencia_provincial_de_las_palmas celebrar juicio e.j.r.c. acusar presunto delito agresión sexual permanecer prisión acusar presunto delito asesinato grado tentativa supuesto delito detención ilegal intentar quemar vivo pareja antonia_cabrera hijo noche víctima marchar domicilio residir novio municipio ingenio discusión motivar procesado novio hermano chico ofrecer llevar hotel playa las_canteras supuestamente tener_lugar abuso perjudicado formular denuncia temor hecho mujer presentar trastorno adaptativo mixto ansiedad estado ánimo depresivo consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Antonia_Cabrera"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Ingenio",
+            "Las_Canteras"
+        ],
+        "organizations": [
+            "Fiscalía",
+            "Sección_Primera_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "E.J.R.C.",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/2006:??.??:??]",
+            "[??:22/7/2006:??.??:??]",
+            "[??:4/9/2006:??.??:??]"
+        ],
+        "numbers": [
+            "9",
+            "22",
+            "TM_d:3",
+            "2",
+            "TM_h:11",
+            "2",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714984/0/",
+    "title": {
+        "raw_text": "Evacúan un edificio de viviendas en Las Palmas de Gran Canaria por una subida de tensión eléctrica",
+        "lemmatized_text": "evacuar uno edificio de vivienda en las_palmas_de_gran_canaria por uno subida de tensión eléctrico",
+        "lemmatized_text_reduced": "evacuar edificio vivienda las_palmas_de_gran_canaria subida tensión eléctrico",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos de Las Palmas de Gran Canaria tuvieron que evacuar esta tarde a los inquilinos de un edificio de viviendas nuevo en la capital grancanaria debido a una subida de tensión eléctrica aunque no hubo que lamentar daños personales.",
+        "lemmatized_text": "el bombero de las_palmas_de_gran_canaria tener que evacuar este tarde a el inquilino de uno edificio de vivienda nuevo en el capital grancanaria debido_a uno subida de tensión eléctrico aunque no haber que lamentar daño personal",
+        "lemmatized_text_reduced": "bombero las_palmas_de_gran_canaria tener evacuar tarde inquilino edificio vivienda nuevo capital grancanaria subida tensión eléctrico haber lamentar daño personal",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron sobre las 16.00 horas en la calle Cebrián, en Las Palmas de Gran Canaria, lugar al que se trasladaron efectivos de bomberos, después de que los inquilinos de un edificio alertaran de que olía a quemado. Según explicaron los bomberos a Europa Press, la constructora ha entregado recientemente las viviendas a los propietarios, teniendo algunas de ellas energía normal, mientras que otras aún están alimentándose de energía de obra, por lo que se podría haber producido un corte que hubiera provocado la subida de tensión, que ahora investiga Unelco. Asimismo, hasta el lugar se trasladaron agentes de la Policía Nacional.",
+        "lemmatized_text": "el hecho se producir sobre el TM_h:16 en el calle cebrián en las_palmas_de_gran_canaria lugar a el que se trasladar efectivo de bombero después_de que el inquilino de uno edificio alertar de que oler a quemado según explicar el bombero a europa_press el constructor haber entregar recientemente el vivienda a el propietario tener alguno de ellos energía normal mientras_que otro aun estar alimentar se de energía de obra por el que se poder haber producir uno corte que haber provocar el subida de tensión que ahora investigar unelco asimismo hasta el lugar se trasladar agente de el policía_nacional",
+        "lemmatized_text_reduced": "hecho producir calle cebrián las_palmas_de_gran_canaria lugar trasladar efectivo bombero inquilino edificio alertar oler quemado explicar bombero europa_press constructor haber entregar recientemente vivienda propietario tener energía normal estar alimentar energía obra poder haber producir corte haber provocar subida tensión investigar unelco lugar trasladar agente policía_nacional",
+        "persons": [
+            "Europa_Press",
+            "Unelco"
+        ],
+        "locations": [
+            "Cebrián",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16"
+        ]
+    }
+}

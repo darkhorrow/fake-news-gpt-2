@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/330594/0/recuperan/cuerpo/banista/",
+    "title": {
+        "raw_text": "'Sandokán' recupera el cuerpo del bañista que cayó al mar el pasado viernes",
+        "lemmatized_text": "sandokán recuperar el cuerpo de el bañista que caer a el mar el [V:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "sandokán recuperar cuerpo bañista caer mar",
+        "persons": [
+            "Sandokán"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El persistente oleaje no había permitido su rescate. Al fallecido se le vio momentos antes de morir cuando se aferraba a unas rocas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el persistente oleaje no haber permitir su rescate a el fallecer se le ver momento antes_de morir cuando se aferrar a uno roca consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persistente oleaje haber permitir rescate fallecer ver momento morir aferrar roca consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Manuel Sosa Medina, conocido como \"Sandokán\", ha logrado recuperar esta tarde el cadáver del hombre que cayó el viernes al mar en Costa Ayala, en Gran Canaria, han informado fuentes de Salvamento Marítimo. Al fallecido, de unos 48 años, se le vio por última vez con vida el pasado viernes, cuando intentaba aferrarse a unas rocas , pero el mal estado del mar y el fuerte oleaje impidió sacarlo del agua. Su cuerpo fue visto sin vida el sábado, pero el persistente temporal no permitió su recuperación . El domingo y hoy lunes, los servicios de emergencias han reanudado los intentos por recuperar el cadáver, aunque a las cuatro de la tarde \"Sandokán\" ha acudido con su embarcación a recoger el cuerpo y lo ha llevado al Puertillo , han agregado las fuentes. Manuel Sosa es conocido en Gran Canaria porque en los últimos 30 años ha salvado la vida de unas 300 persona s en apuros en las aguas del norte de la isla, algunas de ellas arrebatadas a las olas cuando ya se daban por perdidas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "manuel_sosa_medina conocer como sandokán haber lograr recuperar este tarde el cadáver de el hombre que caer el [V:??/??/??:??.??:??] a el mar en costa_ayala en gran_canaria haber informar fuente de salvamento_marítimo a el fallecer de uno 48 año se le ver por último vez con vida el [V:??/??/??:??.??:??] cuando intentar aferrar se a uno roca pero el mal estado de el mar y el fuerte oleaje impedir sacar lo de el agua su cuerpo ser ver sin vida el [S:??/??/??:??.??:??] pero el persistente temporal no permitir su recuperación el [G:??/??/??:??.??:??] y hoy [L:??/??/??:??.??:??] el servicio de emergencia haber reanudar el intento por recuperar el cadáver aunque a el [??:??/??/??:4.00:pm] sandokán haber acudir con su embarcación a recoger el cuerpo y lo haber llevar a el puertillo haber agregar el fuente manuel_sosa ser conocer en gran_canaria porque en el último 30 año haber salvar el vida de uno 300 persona segundo en apuro en el agua de el norte de el isla alguno de ellos arrebatar a el ola cuando ya se dar por perdido consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "manuel_sosa_medina conocer sandokán haber lograr recuperar tarde cadáver hombre caer mar costa_ayala gran_canaria haber informar fuente salvamento_marítimo fallecer año ver último vez vida intentar aferrar roca mal estado mar fuerte oleaje impedir sacar agua cuerpo ser ver vida persistente temporal permitir recuperación servicio emergencia haber reanudar intento recuperar cadáver sandokán haber acudir embarcación recoger cuerpo haber llevar puertillo haber agregar fuente manuel_sosa ser conocer gran_canaria último año haber salvar vida persona segundo apuro agua norte isla arrebatar ola dar perdido consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Manuel_Sosa_Medina",
+            "Sandokán",
+            "Manuel_Sosa"
+        ],
+        "locations": [
+            "Costa_Ayala",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo",
+            "Puertillo",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Sandokán"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[??:??/??/??:4.00:pm]"
+        ],
+        "numbers": [
+            "48",
+            "30",
+            "300"
+        ]
+    }
+}

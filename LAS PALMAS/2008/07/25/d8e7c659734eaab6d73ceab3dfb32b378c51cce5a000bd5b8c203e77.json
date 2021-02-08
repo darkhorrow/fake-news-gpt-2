@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/402316/0/detenido/cocaina/rotuladores/",
+    "title": {
+        "raw_text": "Detenido por traficar con cocaína que escondía en rotuladores",
+        "lemmatized_text": "detener por traficar con cocaína que esconder en rotulador",
+        "lemmatized_text_reduced": "detener traficar cocaína esconder rotulador",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El detenido llevaba 19 gramos de cocaína en dos rotuladores cuando lo arrestó la Guardia Civil. En su domicilio de la capital grancanaria encontraron casi medio kilo de droga. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el detenido llevar WG_g:19 de cocaína en 2 rotulador cuando lo arrestar el guardia_civil en su domicilio de el capital grancanaria encontrar casi medio kilo de droga consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "detenido llevar cocaína rotulador arrestar guardia_civil domicilio capital grancanaria encontrar medio kilo droga consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:19",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La Guardia Civil ha detenido a un varón en Las Palmas de Gran Canaria acusado de traficar con drogas, cuyas dosis de cocaína escondía en el interior de rotuladores para su venta. El arrestado por un supuesto delito contra la salud pública, identificado con las iniciales J.M.P.R, natural de la capital grancanaria y de 50 años de edad, será puesto a disposición Judicial mañana en el Juzgado de Guardia de Las Palmas, según informa la Benemérita en un comunicado. Las investigaciones de agentes de la Guardia Civil del Equipo Delincuencia Organizada Antidroga (EDOA) y del Equipo de Patrimonio pertenecientes a la Unidad Orgánica de la Policía se centraron en una persona que se dedicaba a la venta de drogas tanto en zonas de esparcimiento de la capital como en barrios de esta ciudad. Tras un \"eficaz dispositivo de control y seguimiento\" los agentes consiguieron interceptarlo en el interior del Muelle de La Luz de Las Palmas llevando a cabo un registro, y se encontraron en el interior de dos rotuladores que portaba en el bolsillo de su camisa, 37 envoltorios llamados \"lágrimas\" de cocaína preparados para su venta , con un peso total de 19 gramos, así como 462 euros en efectivo fruto de la venta de drogas. Después de su detención los agentes del dispositivo realizaron registros en los dos domicilios del detenido, sitos ambos en Las Palmas de Gran Canaria, donde descubrieron en uno de ellos gran cantidad de objetos destinados a la elaboración y pesaje de droga y otros 387 envoltorios de cocaína también preparados en forma de \"lágrimas\", dispuestos para su venta con un peso de 179,5 gramos, 272,5 gramos más de cocaína preparadas para ser embalada como la anterior, así como 4.090 euros en efectivo. El total de la droga incautada es de 471 gramos, con un valor aproximado en el mercado de 28.260 euros.",
+        "lemmatized_text": "el guardia_civil haber detener a uno varón en las_palmas_de_gran_canaria acusar de traficar con droga cuyo dosis de cocaína esconder en_el_interior_de rotulador para su venta el arrestar por uno suponer delito contra el salud público identificar con el inicial j.m.p._r natural de el capital grancanaria y de 50 año de edad ser poner a disposición judicial mañana en el juzgado_de_guardia_de_las_palmas según informar el benemérita en uno comunicado el investigación de agente de el guardia_civil_del_equipo_delincuencia_organizada_antidroga edoa y de el equipo_de_patrimonio perteneciente a el unidad_orgánica_de_la_policía se centrar en uno persona que se dedicar a el venta de droga tanto en zona de esparcimiento de el capital como en barrio de este ciudad tras uno eficaz dispositivo de control y seguimiento el agente conseguir interceptar lo en el interior de el muelle_de_la_luz_de_las_palmas llevar_a_cabo uno registro y se encontrar en_el_interior_de 2 rotulador que portar en el bolsillo de su camisa 37 envoltorio llamar lágrima de cocaína preparar para su venta con uno peso total de WG_g:19 así_como $_ECU:462 en efectivo fruto de el venta de droga después_de su detención el agente de el dispositivo realizar registro en el 2 domicilio de el detener sito ambos en las_palmas_de_gran_canaria donde descubrir en uno de ellos gran cantidad de objeto destinar a el elaboración y pesaje de droga y otro 387 envoltorio de cocaína también preparar en forma de lágrima disponer para su venta con uno peso de WG_g:179,5 WG_g:272,5 más de cocaína preparar para ser embalar como el anterior así_como $_ECU:4.09 en efectivo el total de el droga incautar ser de WG_g:471 con uno valor aproximar en el mercado de $_ECU:28.26",
+        "lemmatized_text_reduced": "guardia_civil haber detener varón las_palmas_de_gran_canaria acusar traficar droga dosis cocaína esconder rotulador venta arrestar suponer delito salud público identificar inicial j.m.p._r natural capital grancanaria año edad ser poner disposición judicial juzgado_de_guardia_de_las_palmas informar benemérita comunicado investigación agente guardia_civil_del_equipo_delincuencia_organizada_antidroga edoa equipo_de_patrimonio perteneciente unidad_orgánica_de_la_policía centrar persona dedicar venta droga zona esparcimiento capital barrio ciudad eficaz dispositivo control seguimiento agente conseguir interceptar interior muelle_de_la_luz_de_las_palmas llevar_a_cabo registro encontrar rotulador portar bolsillo camisa envoltorio llamar lágrima cocaína preparar venta peso total efectivo fruto venta droga detención agente dispositivo realizar registro domicilio detener sito las_palmas_de_gran_canaria descubrir gran cantidad objeto destinar elaboración pesaje droga envoltorio cocaína preparar forma lágrima disponer venta peso cocaína preparar ser embalar anterior efectivo total droga incautar ser valor aproximar mercado",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Judicial",
+            "Juzgado_de_Guardia_de_Las_Palmas",
+            "Benemérita",
+            "Guardia_Civil_del_Equipo_Delincuencia_Organizada_Antidroga",
+            "EDOA",
+            "Equipo_de_Patrimonio",
+            "Unidad_Orgánica_de_la_Policía",
+            "Muelle_de_La_Luz_de_Las_Palmas"
+        ],
+        "others": [
+            "J.M.P._R"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "2",
+            "37",
+            "WG_g:19",
+            "$_ECU:462",
+            "2",
+            "387",
+            "WG_g:179,5",
+            "WG_g:272,5",
+            "$_ECU:4.09",
+            "WG_g:471",
+            "$_ECU:28.26"
+        ]
+    }
+}

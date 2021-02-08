@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/674964/0/",
+    "title": {
+        "raw_text": "PP denuncia que el Cabildo de Gran Canaria mantiene 394 millones de euros \"en los bancos\"",
+        "lemmatized_text": "pp denunciar que el cabildo_de_gran_canaria mantener $_ECU:394000000 en el banco",
+        "lemmatized_text_reduced": "pp denunciar cabildo_de_gran_canaria mantener banco",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:394000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El portavoz del PP en el Cabildo de Gran Canaria, Carlos Sánchez, ha denunciado hoy que la corporación insular mantiene a 31 de marzo 394,3 millones de euros en distintas entidades bancarias.",
+        "lemmatized_text": "el portavoz de el pp en el cabildo_de_gran_canaria carlos_sánchez haber denunciar hoy que el corporación insular mantener a [??:31/3/??:??.??:??] 394,3 millón de euro en distinto entidad bancario",
+        "lemmatized_text_reduced": "portavoz pp cabildo_de_gran_canaria carlos_sánchez haber denunciar corporación insular mantener millón euro entidad bancario",
+        "persons": [
+            "Carlos_Sánchez"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:31/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "394,3"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo señala el dirigente popular en un comunicado, en el que manifiesta que ello lo confirma el propio grupo de gobierno, formado por PSC-PSOE y Nueva Canarias, en su respuesta a una pregunta del PP. \"Estamos ante la prueba más evidente de la desidia de los representantes del PSOE y NC, que acumulan a manos llenas el dinero de todos los grancanarios mientras las necesidades de la isla se multiplican\", apostilló. Recordó que su partido lleva todo este mandato criticando \"la nefasta gestión de las cuentas por parte del grupo de gobierno del Cabildo, al que se le acumulan retrasos en las actuaciones en todas sus áreas\", continúa Sánchez. Para el PP, \"es de un cinismo indescriptible que socialistas y nacionalistas estuvieran la legislatura pasada criticando al PP por algo que ellos, ahora, sobrepasan de largo\". \"La diferencia, aparte de la cantidad, es que ahora la situación económica es mucho peor que antes y con ese dinero que hoy permanece en las cuentas, la actividad económica de Gran Canaria queda huérfana de una inyección financiera importantísima\", añadió.",
+        "lemmatized_text": "así lo señalar el dirigente popular en uno comunicado en el que manifestar que ello lo confirmar el propio grupo de gobierno formar por psc-psoe y nueva_canarias en su respuesta a uno pregunta de el pp. estar ante el prueba más evidente de el desidia de el representante de el psoe y nc que acumular a_manos_llenas el dinero de todo el grancanarios mientras el necesidad de el isla se multiplicar apostillar recordar que su partido llevar todo este mandato criticar el nefasto gestión de el cuenta por parte de el grupo de gobierno de el cabildo a el que se le acumular retraso en el actuación en todo su área continuar sánchez para el pp ser de uno cinismo indescriptible que socialista y nacionalista estar el legislatura pasar criticar a el pp por algo que ellos ahora sobrepasar de largo el diferencia aparte_de el cantidad ser que ahora el situación económico ser mucho peor que antes y con ese dinero que hoy permanecer en el cuenta el actividad económico de gran_canaria quedar huérfano de uno inyección financiero importante añadir",
+        "lemmatized_text_reduced": "señalar dirigente popular comunicado manifestar confirmar propio grupo gobierno formar psc-psoe nueva_canarias respuesta pregunta pp. estar prueba evidente desidia representante psoe nc acumular dinero grancanarios necesidad isla multiplicar apostillar recordar partido llevar mandato criticar nefasto gestión cuenta parte grupo gobierno cabildo acumular retraso actuación área continuar sánchez pp ser cinismo indescriptible socialista nacionalista estar legislatura pasar criticar pp sobrepasar largo diferencia cantidad ser situación económico ser peor dinero permanecer cuenta actividad económico gran_canaria quedar huérfano inyección financiero importante añadir",
+        "persons": [
+            "Sánchez"
+        ],
+        "locations": [
+            "Nueva_Canarias"
+        ],
+        "organizations": [
+            "PSC-PSOE",
+            "PP.",
+            "PSOE",
+            "NC",
+            "Cabildo",
+            "PP",
+            "PP"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

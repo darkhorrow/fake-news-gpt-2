@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/612949/0/",
+    "title": {
+        "raw_text": "El helicóptero del GES consigue rescatar a un ciclista de una zona de difícil acceso en Tejeda (Gran Canaria)",
+        "lemmatized_text": "el helicóptero de el ges conseguir rescatar a uno ciclista de uno zona de difícil acceso en tejeda gran_canaria",
+        "lemmatized_text_reduced": "helicóptero ges conseguir rescatar ciclista zona difícil acceso tejeda gran_canaria",
+        "persons": [],
+        "locations": [
+            "Tejeda",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "GES"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El helicóptero del Grupo de Emergencias y Salvamento (GES) ha conseguido rescatar a un ciclista que quedó atrapado en una zona de difícil acceso en el municipio grancanario de Tejeda, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el helicóptero de el grupo_de_emergencias y salvamento ges haber conseguir rescatar a uno ciclista que quedar atrapar en uno zona de difícil acceso en el municipio grancanario de tejeda según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "helicóptero grupo_de_emergencias salvamento ges haber conseguir rescatar ciclista quedar atrapar zona difícil acceso municipio grancanario tejeda informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Tejeda"
+        ],
+        "organizations": [
+            "Grupo_de_Emergencias",
+            "GES",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 17.45 horas indicando que un varón que conducía una bicicleta no podía salir de una zona ubicada en la presa de Desiderio del municipio anteriormente mencionado. Por ello, el recurso de emergencias activó al GES que acudió al lugar de los hechos para rescatar y evacuar al ciclista, que no resultó herido, hasta su base situada en el Berriel, al sur de Gran Canaria.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:17.45 indicar que uno varón que conducir uno bicicleta no poder salir de uno zona ubicar en el presa de desiderio de el municipio anteriormente mencionar por ello el recurso de emergencia activar a el ges que acudir a el lugar de el hecho para rescatar y evacuar a el ciclista que no resultar herir hasta su base situar en el berriel a el sur de gran_canaria",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar varón conducir bicicleta poder salir zona ubicar presa desiderio municipio anteriormente mencionar recurso emergencia activar ges acudir lugar hecho rescatar evacuar ciclista resultar herir base situar berriel sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Desiderio",
+            "Berriel",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cecoes",
+            "GES"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.45"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614002/0/",
+    "title": {
+        "raw_text": "Soria (PP) dice que Estado incumple el Plan Canarias porque los PGE no recogen los 2.500 millones de inversión para 2010",
+        "lemmatized_text": "soria pp decir que estado incumplir el plan_canarias porque el pge no recoger el 2500000 de inversión para 2010",
+        "lemmatized_text_reduced": "soria pp decir estado incumplir plan_canarias pge recoger inversión",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [
+            "PP",
+            "Estado",
+            "PGE"
+        ],
+        "others": [
+            "Plan_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "2500000",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "El vicepresidente y consejero de Economía del Gobierno de Canarias, José Manuel Soria, señaló hoy que el Ejecutivo central incumple el Plan Canarias porque los Presupuestos Generales del Estado (PGE) de este año no recogen los 2.500 millones de euros de inversión acordado para las islas para 2010.",
+        "lemmatized_text": "el vicepresidente y consejero de economía_del_gobierno_de_canarias josé_manuel_soria señalar hoy que el ejecutivo central incumplir el plan_canarias porque el presupuestos_generales_del_estado pge de este año no recoger el $_ECU:2500000 de inversión acordar para el isla para 2010",
+        "lemmatized_text_reduced": "vicepresidente consejero economía_del_gobierno_de_canarias josé_manuel_soria señalar ejecutivo central incumplir plan_canarias presupuestos_generales_del_estado pge año recoger inversión acordar isla",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "Economía_del_Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Presupuestos_Generales_del_Estado",
+            "PGE"
+        ],
+        "others": [
+            "Plan_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2500000",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "Soria recordó que el presidente del Gobierno central, José Luis Rodríguez Zapatero, anunció tras el Consejo de Ministros celebrado en las islas, a finales de 2009, y en el que se aprobó el Plan Canarias, una inversión de 25.000 millones de euros en el archipiélago durante diez años, lo que suponía que anualmente Canarias contaría con 2.500 millones de euros de inversión. \"Por tanto, tocaba en el primer año 2010, 2.500 millones de euros. ¿Están esos 2.500 millones de euros en los PGE en relación a Canarias para el año 2010?, no están. ¿Eso significa que se ha cumplido o se ha incumplido?, claramente significa que se ha incumplido\", subrayó Soria en declaraciones a los medios antes de mantener un encuentro con jóvenes empresarios de las islas. Para el vicepresidente canario el Plan Canarias \"levantó muchas expectativas\", por ello, abogó porque la visita que entre hoy y mañana realizará a las islas el vicepresidente tercero del Ejecutivo central, Manuel Chaves, \"sirva para decir que ese incumplimiento —del citado Plan— se va a transformar en cumplimiento\". Finalmente, en vistas al encuentro que Chaves mantendrá mañana con el presidente canario, Paulino Rivero, aseguró que será una reunión \"cordial porque las relaciones entre el Gobierno de Canarias y el Gobierno de España son relaciones, en lo institucional, cordiales\".",
+        "lemmatized_text": "soria recordar que el presidente de el gobierno central josé_luis_rodríguez_zapatero anunciar tras el consejo_de_ministros celebrar en el isla a final de 2009 y en el que se aprobar el plan_canarias uno inversión de $_ECU:25000000 en el archipiélago durante 10 año el que suponer que anualmente canarias contar con $_ECU:2500000 de inversión por tanto tocar en el 1 [??:??/??/2010:??.??:??] $_ECU:2500000 estar ese $_ECU:2500000 en el pge en relación a canarias para el [??:??/??/2010:??.??:??] no estar ese significar que se haber cumplir o se haber incumplir claramente significar que se haber incumplir subrayar soria en declaración a el medio antes_de mantener uno encuentro con joven empresario de el isla para el vicepresidente canario el plan_canarias levantar mucho expectativa por ello abogar porque el visita que entrar hoy y mañana realizar a el isla el vicepresidente 3 de el ejecutivo central manuel_chaves servir para decir que ese incumplimiento de el citar plan se ir a transformar en cumplimiento finalmente en vista a el encuentro que chaves mantener mañana con el presidente canario paulino_rivero asegurar que ser uno reunión cordial porque el relación entre el gobierno_de_canarias y el gobierno_de_españa ser relación en el institucional cordial",
+        "lemmatized_text_reduced": "soria recordar presidente gobierno central josé_luis_rodríguez_zapatero anunciar consejo_de_ministros celebrar isla final aprobar plan_canarias inversión archipiélago año suponer anualmente canarias contar inversión tocar 1 estar pge relación canarias estar significar haber cumplir haber incumplir claramente significar haber incumplir subrayar soria declaración medio mantener encuentro joven empresario isla vicepresidente canario plan_canarias levantar expectativa abogar visita entrar realizar isla vicepresidente 3 ejecutivo central manuel_chaves servir decir incumplimiento citar plan ir transformar cumplimiento finalmente vista encuentro chaves mantener presidente canario paulino_rivero asegurar ser reunión cordial relación gobierno_de_canarias gobierno_de_españa ser relación institucional cordial",
+        "persons": [
+            "José_Luis_Rodríguez_Zapatero",
+            "Manuel_Chaves",
+            "Chaves",
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Soria",
+            "Canarias",
+            "Canarias",
+            "Soria"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Consejo_de_Ministros",
+            "PGE",
+            "Ejecutivo",
+            "Gobierno_de_Canarias",
+            "Gobierno_de_España"
+        ],
+        "others": [
+            "Plan_Canarias",
+            "Plan_Canarias",
+            "Plan"
+        ],
+        "dates": [
+            "[??:??/??/2010:??.??:??]",
+            "[??:??/??/2010:??.??:??]"
+        ],
+        "numbers": [
+            "2009",
+            "$_ECU:25000000",
+            "10",
+            "$_ECU:2500000",
+            "$_ECU:2500000",
+            "$_ECU:2500000"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/730883/0/",
+    "title": {
+        "raw_text": "La familia de un joven canario lo da por desaparecido en Argentina",
+        "lemmatized_text": "el familia de uno joven canario lo dar por desaparecer en argentina",
+        "lemmatized_text_reduced": "familia joven canario dar desaparecer argentina",
+        "persons": [],
+        "locations": [
+            "Argentina"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La familia del joven canario Moisés Jesús González Rodríguez le ha dado por desaparecido en Argentina, después de que no cogiera un avión que la propia familia le había buscado para que volviera de Buenos Aires hasta Barcelona y de ahí a Gran Canaria.",
+        "lemmatized_text": "el familia de el joven canario moisés_jesús_gonzález_rodríguez le haber dar por desaparecer en argentina después_de que no coger uno avión que el propio familia le haber buscar para que volver de buenos_aires hasta barcelona y de ahí a gran_canaria",
+        "lemmatized_text_reduced": "familia joven canario moisés_jesús_gonzález_rodríguez haber dar desaparecer argentina coger avión propio familia haber buscar volver buenos_aires barcelona gran_canaria",
+        "persons": [
+            "Moisés_Jesús_González_Rodríguez"
+        ],
+        "locations": [
+            "Argentina",
+            "Buenos_Aires",
+            "Barcelona",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Este joven de 30 años viajó a Buenos Aires para visitar a unos amigos y \"hace seis días\" llamó a su familia \"porque necesitaba dinero para poder cambiar el billete de vuelta a España, previsto para el pasado 29 de mayo\", según explicó en declaraciones recogidas por Europa Press a Canariasaldia.com el hermano, Jonathan. \"Yo mismo me encargué de hacerle todo el trámite lo antes que pude y le pagué la penalización por el cambio en el pasaje desde Buenos Aires a Barcelona para el viernes 4 de junio. También le saqué uno nuevo para que viajara el día 5 de junio desde Barcelona a Las Palmas. Y sin saber por qué, mi hermano nunca cogió ese avión en Argentina\", contó. La familia ha \"denunciado su desaparición a la Policía Nacional, aquí en Las Palmas, y su Unidad de Desaparecidos\" le ha dicho \"que están ocupándose del caso\". \"Pero nosotros estamos desesperados, por eso queremos hacerlo público para que nos ayuden\", explicó Jonathan. Además, un amigo de Moisés en Argentina incluso ha llamado ya a la familia para preguntar por él \"porque la última vez que lo vio fue el pasado viernes, en torno a las 08.00 horas, saliendo de su hotel\". El hermano está seguro de que su hermano no se ha quedado en Buenos Aires \"por gusto\", ya que si hubiese sido así no le hubiese llamado para pedirle ayuda para cambiar el billete de vuelta. \"La verdad es que no se me pasa nada bueno por la cabeza sobre lo que le ha podido pasar. Estaba en la calle, simplemente con un bolso con ropa y sé que en Argentina la vida de una persona vale muy poco. Temo que le hayan podido hacer algo\", concluyó.",
+        "lemmatized_text": "este joven de 30 año viajar a buenos_aires para visitar a uno amigo y hacer TM_d:6 llamar a su familia porque necesitar dinero para poder cambiar el billete de vuelta a españa prever para el [??:29/5/??:??.??:??] según explicar en declaración recoger por europa_press a canariasaldia.com el hermano jonathan yo mismo me encargar de hacer le todo el trámite el antes que poder y le pagar el penalización por el cambio en el pasaje desde buenos_aires a barcelona para el [V:4/6/??:??.??:??] también le sacar uno nuevo para que viajar el [??:5/6/??:??.??:??] desde barcelona a las_palmas y sin saber por qué mi hermano nunca coger ese avión en argentina contar el familia haber denunciar su desaparición a el policía_nacional aquí en las_palmas y su unidad_de_desaparecidos le haber decir que estar ocupar se de el caso pero nosotros estar desesperar por ese querer hacer lo público para que nos ayudar explicar jonathan además uno amigo de moisés en argentina incluso haber llamar ya a el familia para preguntar por él porque el último vez que lo ver ser el [V:??/??/??:??.??:??] en_torno_a el TM_h:8 salir de su hotel el hermano estar seguro de que su hermano no se haber quedar en buenos_aires por gusto ya_que si haber ser así no le haber llamar para pedir le ayuda para cambiar el billete de vuelta el verdad ser que no se me pasar nada bueno por el cabeza sobre el que le haber poder pasar estar en el calle simplemente con uno bolso con ropa y saber que en argentina el vida de uno persona valer muy poco temer que le haber poder hacer algo concluir",
+        "lemmatized_text_reduced": "joven año viajar buenos_aires visitar amigo hacer llamar familia necesitar dinero poder cambiar billete vuelta españa prever explicar declaración recoger europa_press canariasaldia.com hermano jonathan mismo encargar hacer trámite poder pagar penalización cambio pasaje buenos_aires barcelona sacar nuevo viajar barcelona las_palmas saber hermano coger avión argentina contar familia haber denunciar desaparición policía_nacional las_palmas unidad_de_desaparecidos haber decir estar ocupar caso estar desesperar querer hacer público ayudar explicar jonathan amigo moisés argentina haber llamar familia preguntar último vez ver ser salir hotel hermano estar hermano haber quedar buenos_aires gusto haber ser haber llamar pedir ayuda cambiar billete vuelta verdad ser pasar bueno cabeza haber poder pasar estar calle simplemente bolso ropa saber argentina vida persona valer temer haber poder hacer concluir",
+        "persons": [
+            "Europa_Press",
+            "Jonathan",
+            "Jonathan",
+            "Moisés"
+        ],
+        "locations": [
+            "Buenos_Aires",
+            "España",
+            "Buenos_Aires",
+            "Barcelona",
+            "Barcelona",
+            "Argentina",
+            "Las_Palmas",
+            "Argentina",
+            "Buenos_Aires",
+            "Argentina"
+        ],
+        "organizations": [
+            "Canariasaldia.com",
+            "Las_Palmas",
+            "Policía_Nacional",
+            "Unidad_de_Desaparecidos"
+        ],
+        "others": [],
+        "dates": [
+            "[??:29/5/??:??.??:??]",
+            "[V:4/6/??:??.??:??]",
+            "[??:5/6/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "TM_d:6",
+            "TM_h:8"
+        ]
+    }
+}

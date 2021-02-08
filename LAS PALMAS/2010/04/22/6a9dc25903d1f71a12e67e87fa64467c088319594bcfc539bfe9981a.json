@@ -1,0 +1,90 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/685078/0/",
+    "title": {
+        "raw_text": "Canarias recibe 2,4 millones de turistas hasta marzo, un 3% más que el mismo mes de 2009",
+        "lemmatized_text": "canario recibir 2,4 millón de turista hasta [??:??/3/??:??.??:??] uno 3/100 más que el mismo mes de 2009",
+        "lemmatized_text_reduced": "canario recibir millón turista mismo mes",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "2,4",
+            "3/100",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias recibió un total de 2,4 millones de turistas extranjeros en los tres primeros meses del año, lo que supone un 3 por ciento más respecto al mismo dato de 2009, y elevó un 4,9 por ciento las llegadas en marzo, hasta las 849.464 personas, según los datos de la Encuesta de Movimientos Turísticos en Frontera (Frontur) publicados hoy por el Ministerio de Industria, Turismo y Comercio.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias recibir uno total de 2,4 millón de turista extranjero en el 3 1 mes de el año el que suponer uno 3 por 100 más respecto a el mismo dato de 2009 y elevar uno 4,9 por 100 el llegada en [??:??/3/??:??.??:??] hasta el 849.464 persona según el dato de el encuesta_de_movimientos_turísticos en frontera frontur publicar hoy por el ministerio_de_industria turismo y comercio",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias recibir total millón turista extranjero 1 mes año suponer respecto mismo dato elevar llegada persona dato encuesta_de_movimientos_turísticos frontera frontur publicar ministerio_de_industria turismo comercio",
+        "persons": [],
+        "locations": [
+            "Frontera",
+            "Frontur"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Ministerio_de_Industria",
+            "Turismo",
+            "Comercio"
+        ],
+        "others": [
+            "Encuesta_de_Movimientos_Turísticos"
+        ],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "2,4",
+            "3",
+            "3",
+            "100",
+            "2009",
+            "4,9",
+            "100",
+            "849.464"
+        ]
+    },
+    "body": {
+        "raw_text": "Estos datos sitúan al archipiélago como la región española que más turistas extranjeros ha recibido hasta marzo, seguido de Cataluña, que registró casi 300.000 turistas menos que las islas en los tres primeros meses del año, aunque en este mes fue la comunidad que más turistas recibió con 964.763. Por su parte, los 2,4 millones de turistas extranjeros de Canarias hasta marzo representan el 27,3 por ciento de todo el turismo nacional. Respecto al conjunto del Estado, se recibió 8,81 millones de turistas extranjeros en los tres primeros meses del año, lo que supone un 0,3 por ciento más con respecto al mismo periodo de 2009, y elevó un 3,2 por ciento las llegadas en marzo, hasta los 3,5 millones, incremento que no se registraba desde mayo de 2008. (Habrá ampliación)",
+        "lemmatized_text": "este dato situar a el archipiélago como el región español que más turista extranjero haber recibir hasta [??:??/3/??:??.??:??] seguir de cataluña que registrar casi 300 turista menos que el isla en el 3 1 mes de el año aunque en este mes ser el comunidad que más turista recibir con 964.763 por su parte el 2,4 millón de turista extranjero de canarias hasta [??:??/3/??:??.??:??] representar el 27,3 por 100 de todo el turismo nacional respecto a el conjunto de el estado se recibir 8,81 millón de turista extranjero en el 3 1 mes de el año el que suponer uno 0,3 por 100 más con respecto a el mismo periodo de 2009 y elevar uno 3,2 por 100 el llegada en [??:??/3/??:??.??:??] hasta el 3,5 millón incremento que no se registrar desde [??:??/5/2008:??.??:??] haber ampliación",
+        "lemmatized_text_reduced": "dato situar archipiélago región español turista extranjero haber recibir seguir cataluña registrar turista isla 1 mes año mes ser comunidad turista recibir parte millón turista extranjero canarias representar turismo nacional respecto conjunto estado recibir millón turista extranjero 1 mes año suponer respecto mismo periodo elevar llegada millón incremento registrar haber ampliación",
+        "persons": [],
+        "locations": [
+            "Cataluña",
+            "Canarias"
+        ],
+        "organizations": [
+            "Estado"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]",
+            "[??:??/3/??:??.??:??]",
+            "[??:??/3/??:??.??:??]",
+            "[??:??/5/2008:??.??:??]"
+        ],
+        "numbers": [
+            "300",
+            "3",
+            "964.763",
+            "2,4",
+            "27,3",
+            "100",
+            "8,81",
+            "3",
+            "0,3",
+            "100",
+            "2009",
+            "3,2",
+            "100",
+            "3,5"
+        ]
+    }
+}

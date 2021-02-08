@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/708956/0/",
+    "title": {
+        "raw_text": "Seis operaciones canceladas en aeropuertos canarios por la nube de ceniza",
+        "lemmatized_text": "6 operación cancelar en aeropuerto canario por el nube de ceniza",
+        "lemmatized_text_reduced": "operación cancelar aeropuerto canario nube ceniza",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de seis operaciones han sido canceladas en los aeropuertos de Gran Canaria y Tenerife Sur debido al desplazamiento de la nube de ceniza volcánica procedente de Islandia, informaron a Europa Press fuentes de Aeropuertos Españoles y Navegación Aérea (Aena).",
+        "lemmatized_text": "uno total de 6 operación haber ser cancelar en el aeropuerto de gran_canaria y tenerife_sur deber a el desplazamiento de el nube de ceniza volcánico procedente de islandia informar a europa_press fuente de aeropuertos_españoles y navegación_aérea aena",
+        "lemmatized_text_reduced": "total operación haber ser cancelar aeropuerto gran_canaria tenerife_sur deber desplazamiento nube ceniza volcánico procedente islandia informar europa_press fuente aeropuertos_españoles navegación_aérea aena",
+        "persons": [
+            "Tenerife_Sur",
+            "Europa_Press",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Islandia"
+        ],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, han sido suspendidos, de momento, un vuelo de llegada y otro de salida de Ryanair que conecta Liverpool con Gran Canaria, en cuyo aeródromo se prevén hoy 42 operaciones con Reino Unido. Por otro lado, en los aeropuertos de Puerto del Rosario (Fuerteventura) y Guacimeta (Lanzarote) impera, en principio, la normalidad, añadieron las mismas fuentes. Por su parte, en la provincia occidental, han sido suspendidas cuatro operaciones en el aeropuerto de Tenerife Sur, dos con Dublín (Irlanda) y otras dos con Prestwick (Escocia). En el otro aeropuerto tinerfeño de Los Rodeos, así como en los de La Gomera, La Palma y El Hierro hay \"tranquilidad absoluta\", concluyeron las fuentes.",
+        "lemmatized_text": "en concreto haber ser suspender de momento uno vuelo de llegada y otro de salida de ryanair que conectar liverpool con gran_canaria en cuyo aeródromo se prever hoy 42 operación con reino_unido por_otro_lado en el aeropuerto de puerto_del_rosario fuerteventura y guacimeta lanzarote imperar en principio el normalidad añadir el mismo fuente por su parte en el provincia occidental haber ser suspender 4 operación en el aeropuerto de tenerife_sur 2 con dublín irlanda y otro 2 con prestwick escocia en el otro aeropuerto tinerfeño de los_rodeos así_como en el de la_gomera la_palma y el_hierro haber tranquilidad absoluto concluir el fuente",
+        "lemmatized_text_reduced": "concreto haber ser suspender momento vuelo llegada salida ryanair conectar liverpool gran_canaria aeródromo prever operación reino_unido aeropuerto puerto_del_rosario fuerteventura guacimeta lanzarote imperar principio normalidad añadir mismo fuente parte provincia occidental haber ser suspender operación aeropuerto tenerife_sur dublín irlanda prestwick escocia aeropuerto tinerfeño los_rodeos la_gomera la_palma el_hierro haber tranquilidad absoluto concluir fuente",
+        "persons": [
+            "Liverpool",
+            "El_Hierro"
+        ],
+        "locations": [
+            "Ryanair",
+            "Gran_Canaria",
+            "Reino_Unido",
+            "Puerto_del_Rosario",
+            "Guacimeta",
+            "Tenerife_Sur",
+            "Dublín",
+            "Irlanda",
+            "Escocia",
+            "Los_Rodeos",
+            "La_Gomera",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Lanzarote",
+            "Prestwick"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "42",
+            "4",
+            "2",
+            "2"
+        ]
+    }
+}

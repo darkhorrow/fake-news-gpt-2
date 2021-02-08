@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621791/0/",
+    "title": {
+        "raw_text": "Canarias promociona el turismo de buceo en los Países Bajos",
+        "lemmatized_text": "canario promocionar el turismo de buceo en el países_bajos",
+        "lemmatized_text_reduced": "canario promocionar turismo buceo países_bajos",
+        "persons": [],
+        "locations": [
+            "Países_Bajos"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El archipiélago registró un total de 333.161 viajeros holandeses durante 2009",
+        "lemmatized_text": "el archipiélago registrar uno total de 333.161 viajero holandés durante 2009",
+        "lemmatized_text_reduced": "archipiélago registrar total viajero holandés",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "333.161",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "La Consejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, promociona al archipiélago como destino para la práctica de actividades relacionadas con el submarinismo en la feria Duikvaker que se celebrará en Utrecht, Holanda, desde mañana y hasta el domingo. Una superficie expositora de 60 metros cuadrados en la citada feria exhibe durante tres días la oferta canaria en este segmento turístico, según informa el Ejecutivo regional en un comunicado. La estrategia promocional del departamento autonómico tiene en cuenta que el turismo deportivo es uno de los productos más populares en el sector vacacional del mercado holandés. A la feria asisten profesionales y aficionados del mundo del buceo, prensa especializada, emisoras de televisión y promotores de páginas de Internet centradas en esta especialidad deportiva. El evento que se celebra en Expo Houten Exhibition Centre (Utrecht) consiste en una exhibición dedicada monográficamente a la práctica del buceo en diferentes destinos y actividades complementarias. La feria en su edición del 2009 ocupó una superficie total de 8.140 metros cuadrados, fue visitada por 9.316 personas y la exhibición estuvo compuesta por 140 expositores. Canarias registró un total de 333.161 viajeros holandeses durante el pasado año 2009.",
+        "lemmatized_text": "el consejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur promocionar a el archipiélago como destino para el práctica de actividad relacionar con el submarinismo en el feria duikvaker que se celebrar en utrecht holanda desde mañana y hasta el [G:??/??/??:??.??:??] uno superficie expositor de AR_m2:60 en el citar feria exhibir durante TM_d:3 el oferta canario en este segmento turístico según informar el ejecutivo regional en uno comunicado el estrategia promocional de el departamento autonómico tener_en_cuenta que el turismo deportivo ser uno de el producto más popular en el sector vacacional de el mercado holandés a el feria asistir profesional y aficionado de el mundo de el buceo prensa especializar emisora de televisión y promotor de página de internet centrar en este especialidad deportivo el evento que se celebrar en expo_houten_exhibition_centre utrecht consistir en uno exhibición dedicar monográficamente a el práctica de el buceo en diferente destino y actividad complementario el feria en su edición de el 2009 ocupar uno superficie total de AR_m2:8.14 ser visitar por 9.316 persona y el exhibición estar componer por 140 expositor canario registrar uno total de 333.161 viajero holandés durante el [??:??/??/2009:??.??:??]",
+        "lemmatized_text_reduced": "consejería_de_turismo_del_gobierno_de_canarias empresa público promotur promocionar archipiélago destino práctica actividad relacionar submarinismo feria duikvaker celebrar utrecht holanda mañana superficie expositor citar feria exhibir oferta canario segmento turístico informar ejecutivo regional comunicado estrategia promocional departamento autonómico tener_en_cuenta turismo deportivo ser producto popular sector vacacional mercado holandés feria asistir profesional aficionado mundo buceo prensa especializar emisora televisión promotor página internet centrar especialidad deportivo evento celebrar expo_houten_exhibition_centre utrecht consistir exhibición dedicar monográficamente práctica buceo destino actividad complementario feria edición ocupar superficie total ser visitar persona exhibición estar componer expositor canario registrar total viajero holandés",
+        "persons": [],
+        "locations": [
+            "Utrecht",
+            "Holanda",
+            "Expo_Houten_Exhibition_Centre",
+            "Utrecht"
+        ],
+        "organizations": [
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Duikvaker",
+            "Internet"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[??:??/??/2009:??.??:??]"
+        ],
+        "numbers": [
+            "AR_m2:60",
+            "TM_d:3",
+            "2009",
+            "AR_m2:8.14",
+            "9.316",
+            "140",
+            "333.161"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-08-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/496782/0/muerto/gripe/canarias/",
+    "title": {
+        "raw_text": "Muere un hombre en Gran Canaria, décima víctima mortal de la gripe A en España",
+        "lemmatized_text": "morir uno hombre en gran_canaria 10 víctima mortal de el gripe a en españa",
+        "lemmatized_text_reduced": "morir hombre gran_canaria 10 víctima mortal gripe a españa",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "España"
+        ],
+        "organizations": [],
+        "others": [
+            "A"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Permanecía ingresado desde el pasado 26 de julio. No padecía ninguna enfermedad crónica de base, aunque sí \"tenía factores de riesgo\" que no han sido desvelados por deseo de la familia. CRONOLOGÍA: Diez muertos por gripe A en España . Diferencias entre gripe común y gripe A | 10 mitos sobre la gripe A .",
+        "lemmatized_text": "permanecer ingresar desde el [??:26/7/??:??.??:??] no padecer ninguno enfermedad crónico de base aunque sí tener factor de riesgo que no haber ser desvelar por deseo de el familia cronología 10 muerto por gripe a en españa diferencia entre gripe común y gripe a 10 mito sobre el gripe a",
+        "lemmatized_text_reduced": "permanecer ingresar padecer enfermedad crónico base tener factor riesgo haber ser desvelar deseo familia cronología muerto gripe a españa diferencia gripe común gripe a mito gripe a",
+        "persons": [],
+        "locations": [
+            "España"
+        ],
+        "organizations": [],
+        "others": [
+            "A",
+            "A",
+            "A"
+        ],
+        "dates": [
+            "[??:26/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre de 30 años, que permanecía ingresado desde el pasado 26 de julio en el Hospital Insular de Gran Canaria, murió este miércoles por el virus de la gripe A , informó en un comunicado la Consejería de Sanidad del Gobierno de Canarias. El joven ingresó en el citado hospital tras ser derivado de su centro de salud con una insuficiencia respiratoria . Al día siguiente se le trasladó a Unidad de Medicina Intensiva del citado centro hospitalario de la capital grancanaria. El problema de salud se le agravó y derivó en una neumonía que días más tarde le provocó la muerte por un fallo multiorgánico . El fallecido no padecía ninguna enfermedad crónica de base, aunque sí tenía \"factores de riesgo\" que no han sido desvelados por expreso deseo de la familia. Diez víctimas en mes y medio Ésta es la décima víctima mortal por este virus en España en apenas un mes y medio. El primer fallecimiento por esta enfermedad se produjo el 20 de junio , cuando murió la joven Dalila , de 20 años, que había ingresado embarazada. Pocos días después falleció su hijo Rayan , víctima de un error médico. La última muerte, antes de que se conociera el fallecimiento del hombre de 30 años en Canarias, fue una mujer de 28 años en Valencia . La consejera de Sanidad del Ejecutivo canario, Mercedes Roldós, comparecerá en una rueda de prensa junto al director del Servicio Canario de la Salud, Guillermo Martinón, para dar cuenta de esta nueva muerte.",
+        "lemmatized_text": "uno hombre de 30 año que permanecer ingresar desde el [??:26/7/??:??.??:??] en el hospital_insular_de_gran_canaria morir este [X:??/??/??:??.??:??] por el virus de el gripe a informar en uno comunicado el consejería_de_sanidad_del_gobierno_de_canarias el joven ingresar en el citar hospital tras ser derivar de su centro de salud con uno insuficiencia respiratorio a el día siguiente se le trasladar a unidad_de_medicina_intensiva de el citar centro hospitalario de el capital grancanaria el problema de salud se le agravar y derivar en uno neumonía que día más tarde le provocar el muerte por uno fallo multiorgánico el fallecer no padecer ninguno enfermedad crónico de base aunque sí tener factor de riesgo que no haber ser desvelar por expreso deseo de el familia 10 víctima en mes y medio ésta ser el 10 víctima mortal por este virus en españa en apenas uno mes y medio el 1 fallecimiento por este enfermedad se producir el [??:20/6/??:??.??:??] cuando morir el joven dalila de 20 año que haber ingresar embarazar poco día después fallecer su hijo rayan víctima de uno error médico el último muerte antes_de que se conocer el fallecimiento de el hombre de 30 año en canarias ser uno mujer de 28 año en valencia el consejero de sanidad_del_ejecutivo canario mercedes_roldós comparecer en uno rueda de prensa junto a el director de el servicio_canario_de_la_salud guillermo_martinón para dar_cuenta de este nuevo muerte",
+        "lemmatized_text_reduced": "hombre año permanecer ingresar hospital_insular_de_gran_canaria morir virus gripe a informar comunicado consejería_de_sanidad_del_gobierno_de_canarias joven ingresar citar hospital ser derivar centro salud insuficiencia respiratorio día siguiente trasladar unidad_de_medicina_intensiva citar centro hospitalario capital grancanaria problema salud agravar derivar neumonía día provocar muerte fallo multiorgánico fallecer padecer enfermedad crónico base tener factor riesgo haber ser desvelar expreso deseo familia víctima mes medio ésta ser 10 víctima mortal virus españa mes medio 1 fallecimiento enfermedad producir morir joven dalila año haber ingresar embarazar día fallecer hijo rayan víctima error médico último muerte conocer fallecimiento hombre año canarias ser mujer año valencia consejero sanidad_del_ejecutivo canario mercedes_roldós comparecer rueda prensa junto director servicio_canario_de_la_salud guillermo_martinón dar_cuenta nuevo muerte",
+        "persons": [
+            "Dalila",
+            "Rayan",
+            "Mercedes_Roldós",
+            "Guillermo_Martinón"
+        ],
+        "locations": [
+            "Hospital_Insular_de_Gran_Canaria",
+            "España",
+            "Canarias",
+            "Valencia"
+        ],
+        "organizations": [
+            "Consejería_de_Sanidad_del_Gobierno_de_Canarias",
+            "Ésta",
+            "Sanidad_del_Ejecutivo",
+            "Servicio_Canario_de_la_Salud"
+        ],
+        "others": [
+            "A",
+            "Unidad_de_Medicina_Intensiva"
+        ],
+        "dates": [
+            "[??:26/7/??:??.??:??]",
+            "[X:??/??/??:??.??:??]",
+            "[??:20/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "10",
+            "20",
+            "30",
+            "28"
+        ]
+    }
+}

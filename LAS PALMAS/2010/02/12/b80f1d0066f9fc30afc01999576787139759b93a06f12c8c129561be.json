@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/627749/0/",
+    "title": {
+        "raw_text": "La Boutique Zoe de Las Palmas de Gran Canaria se hace con el primer premio del concurso de escaparates",
+        "lemmatized_text": "el boutique_zoe_de_las_palmas_de_gran_canaria se hacer con el 1 premio de el concurso de escaparate",
+        "lemmatized_text_reduced": "boutique_zoe_de_las_palmas_de_gran_canaria hacer 1 premio concurso escaparate",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Boutique_Zoe_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Boutique Zoe de Las Palmas de Gran Canaria se ha hecho con el primer premio de concurso de escaparates del Carnaval de la ciudad capitalina gracias a su diseño titulado '¿Qué miramos hoy?'.",
+        "lemmatized_text": "el boutique_zoe_de_las_palmas_de_gran_canaria se haber hacer con el 1 premio de concurso de escaparate de el carnaval de el ciudad capitalino gracias_a su diseño titular qué mirar hoy",
+        "lemmatized_text_reduced": "boutique_zoe_de_las_palmas_de_gran_canaria haber hacer 1 premio concurso escaparate carnaval ciudad capitalino diseño titular mirar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Boutique_Zoe_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Este fue el fallo que anoche dio el jurado del concurso de escaparates de estas fiestas que recorrió las seis tiendas que participaron, según informó el Ayuntamiento de Las Palmas de Gran Canaria en nota de prensa. Respecto al segundo premio ha recaído en la zapatería del grupo Maithenus, por su escaparate 'Candombe', mientras que el tercero fue a parar al local Tomasi, de moda italiana, por su diseño 'Retransmitiendo'.",
+        "lemmatized_text": "este ser el fallo que anoche dar el jurado de el concurso de escaparate de este fiesta que recorrer el 6 tienda que participar según informar el ayuntamiento_de_las_palmas_de_gran_canaria en nota de prensa respecto a el 2 premio haber recaer en el zapatería de el grupo maithenus por su escaparate candombe mientras_que el 3 ser a parar a el local tomasi de moda italiano por su diseño retransmitir",
+        "lemmatized_text_reduced": "ser fallo dar jurado concurso escaparate fiesta recorrer tienda participar informar ayuntamiento_de_las_palmas_de_gran_canaria nota prensa respecto 2 premio haber recaer zapatería grupo maithenus escaparate candombe 3 ser parar local tomasi moda italiano diseño retransmitir",
+        "persons": [
+            "Tomasi"
+        ],
+        "locations": [
+            "Candombe"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Maithenus"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    }
+}

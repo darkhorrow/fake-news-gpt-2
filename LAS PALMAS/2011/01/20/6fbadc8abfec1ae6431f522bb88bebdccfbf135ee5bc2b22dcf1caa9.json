@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/934429/0/",
+    "title": {
+        "raw_text": "Dos jóvenes heridos leves en un \"aparatoso\" accidente de tráfico en Lanzarote",
+        "lemmatized_text": "2 joven herido leve en uno aparatoso accidente de tráfico en lanzarote",
+        "lemmatized_text_reduced": "joven herido leve aparatoso accidente tráfico lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos jóvenes, de 19 y 20 años de edad, resultaron heridos leves en un \"aparatoso\" accidente de tráfico en la LZ-20 que une Arrecife y Tinajo, en la isla de Lanzarote, según informaron fuentes del Centro de Coordinación de Emergencias y Seguridad 112.",
+        "lemmatized_text": "2 joven de 19 y 20 año de edad resultar herido leve en uno aparatoso accidente de tráfico en el LZ-20 que unir arrecife y tinajo en el isla de lanzarote según informar fuente de el centro_de_coordinación_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven año edad resultar herido leve aparatoso accidente tráfico unir arrecife tinajo isla lanzarote informar fuente centro_de_coordinación_de_emergencias seguridad",
+        "persons": [
+            "Arrecife"
+        ],
+        "locations": [
+            "Tinajo",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "19",
+            "20",
+            "LZ-20",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Dos jóvenes, de 19 y 20 años de edad, resultaron heridos leves en un \"aparatoso\" accidente de tráfico en la LZ-20 que une Arrecife y Tinajo, en la isla de Lanzarote, según informaron fuentes del Centro de Coordinación de Emergencias y Seguridad 112. El accidente se produjo sobre las 13.30 horas de este jueves y el vehículo en el que viajaban los jóvenes dio varias vueltas pero los implicados sufrieron heridas de levedad, tales como cervicalgia y lumbalgia. De todos modos, ambos fueron trasladados por personal del Servicio de Urgencias Canario (SUC) al Hospital Dr. José Molina Orosa, en Arrecife. Asimismo, en el lugar se personaron agentes de la Guardia Civil, que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "2 joven de 19 y 20 año de edad resultar herido leve en uno aparatoso accidente de tráfico en el LZ-20 que unir arrecife y tinajo en el isla de lanzarote según informar fuente de el centro_de_coordinación_de_emergencias y seguridad 112 el accidente se producir sobre el TM_h:13.3 de este [J:??/??/??:??.??:??] y el vehículo en el que viajar el joven dar varios vuelta pero el implicar sufrir herida de levedad tal como cervicalgia y lumbalgia de_todos_modos ambos ser trasladar por personal de el servicio_de_urgencias_canario suc a el hospital_dr._josé_molina_orosa en arrecife asimismo en el lugar se personar agente de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "joven año edad resultar herido leve aparatoso accidente tráfico unir arrecife tinajo isla lanzarote informar fuente centro_de_coordinación_de_emergencias seguridad accidente producir vehículo viajar joven dar vuelta implicar sufrir herida levedad cervicalgia lumbalgia ser trasladar personal servicio_de_urgencias_canario suc hospital_dr._josé_molina_orosa arrecife lugar personar agente guardia_civil instruir diligencia correspondiente",
+        "persons": [
+            "Arrecife"
+        ],
+        "locations": [
+            "Tinajo",
+            "Lanzarote",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad",
+            "Hospital_Dr._José_Molina_Orosa"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "19",
+            "20",
+            "LZ-20",
+            "112",
+            "TM_h:13.3"
+        ]
+    }
+}

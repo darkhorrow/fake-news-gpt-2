@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/955007/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo rescata a los tripulantes de un barco, tras quedarse sin motor a 2 millas de Gran Canaria",
+        "lemmatized_text": "salvamento_marítimo rescatar a el tripulante de uno barco tras quedar se sin motor a LN_mi:2 de gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo rescatar tripulante barco quedar motor gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_mi:2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Salvamento Marítimo ha rescatado a los tripulantes de un catamarán, después de que se quedara sin motor a dos millas de la zona de La Isleta, en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "salvamento_marítimo haber rescatar a el tripulante de uno catamarán después_de que se quedar sin motor a 2 milla de el zona de la_isleta en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo haber rescatar tripulante catamarán quedar motor milla zona la_isleta las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "La_Isleta",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo ha rescatado a los tripulantes de un catamarán, después de que se quedara sin motor a dos millas de la zona de La Isleta, en Las Palmas de Gran Canaria. El barco 'Juli', de bandera francesa, fue remolcado el miércoles, 9 de febrero, hasta el Puerto Deportivo de Las Palmas de Gran Canaria por la Salvamar 'Nunki', según informaron a Europa Press fuentes de Salvamento Marítimo. Asimismo, a bordo del catamarán había cuatro personas. Las mismas fuentes subrayaron que el remolque se realizó en un momento que soplaba el viento con fuerza.",
+        "lemmatized_text": "salvamento_marítimo haber rescatar a el tripulante de uno catamarán después_de que se quedar sin motor a 2 milla de el zona de la_isleta en las_palmas_de_gran_canaria el barco juli de bandera francés ser remolcar el [X:9/2/??:??.??:??] hasta el puerto_deportivo_de_las_palmas_de_gran_canaria_por_la_salvamar nunki según informar a europa_press fuente de salvamento_marítimo asimismo a_bordo de el catamarán haber 4 persona el mismo fuente subrayar que el remolque se realizar en uno momento que soplar el viento con fuerza",
+        "lemmatized_text_reduced": "salvamento_marítimo haber rescatar tripulante catamarán quedar motor milla zona la_isleta las_palmas_de_gran_canaria barco juli bandera francés ser remolcar puerto_deportivo_de_las_palmas_de_gran_canaria_por_la_salvamar nunki informar europa_press fuente salvamento_marítimo catamarán haber persona mismo fuente subrayar remolque realizar momento soplar viento fuerza",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Europa_Press"
+        ],
+        "locations": [
+            "La_Isleta",
+            "Las_Palmas_de_Gran_Canaria",
+            "Puerto_Deportivo_de_Las_Palmas_de_Gran_Canaria_por_la_Salvamar",
+            "Nunki"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo"
+        ],
+        "others": [
+            "Juli"
+        ],
+        "dates": [
+            "[X:9/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "4"
+        ]
+    }
+}

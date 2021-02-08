@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604468/0/",
+    "title": {
+        "raw_text": "Canarias se promocionará en la Bolsa de Turismo de Lisboa, la feria del sector más importante de Portugal",
+        "lemmatized_text": "canario se promocionar en el bolsa_de_turismo_de_lisboa el feria de el sector más importante de portugal",
+        "lemmatized_text_reduced": "canario promocionar bolsa_de_turismo_de_lisboa feria sector importante portugal",
+        "persons": [],
+        "locations": [
+            "Portugal"
+        ],
+        "organizations": [
+            "Bolsa_de_Turismo_de_Lisboa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, realiza una promoción del archipiélago como destino turístico en Portugal. Dicha promoción se realiza del día 13 al 17 de enero en la BTL, en la celebración de la Bolsa de Turismo de Lisboa, la feria más importante del sector turístico en este país, informó hoy el Ejecutivo regional en un comunicado.",
+        "lemmatized_text": "el consejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur realizar uno promoción de el archipiélago como destino turístico en portugal decir promoción se realizar de el [??:13/??/??:??.??:??] a el [??:17/1/??:??.??:??] en el btl en el celebración de el bolsa_de_turismo_de_lisboa el feria más importante de el sector turístico en este país informar hoy el ejecutivo regional en uno comunicado",
+        "lemmatized_text_reduced": "consejería_de_turismo_del_gobierno_de_canarias empresa público promotur realizar promoción archipiélago destino turístico portugal decir promoción realizar btl celebración bolsa_de_turismo_de_lisboa feria importante sector turístico país informar ejecutivo regional comunicado",
+        "persons": [],
+        "locations": [
+            "Portugal"
+        ],
+        "organizations": [
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur",
+            "BTL",
+            "Bolsa_de_Turismo_de_Lisboa",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[??:13/??/??:??.??:??]",
+            "[??:17/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, la acción promocional se enmarca dentro del espacio expositor de la entidad estatal Turespaña donde las Islas Canarias disponen de varios mostradores para facilitar información turística entre profesionales del sector y el público que acude al evento. El departamento del gobierno regional realizará una promoción del archipiélago en su conjunto con información de destino unificado a la vez que se resaltará la diversificación de la oferta del archipiélago en los diferentes segmentos turísticos, principalmente de los atractivos que se enmarcan dentro de los sellos de nueva creación que se denominan 'Family Welcome', 'Wellness Delight', 'Volcanic Experience' y 'Water Sports Experience'.",
+        "lemmatized_text": "de este manera el acción promocional se enmarcar dentro de el espacio expositor de el entidad estatal turespaña donde el islas_canarias disponer de varios mostrador para facilitar información turístico entre profesional de el sector y el público que acudir a el evento el departamento de el gobierno regional realizar uno promoción de el archipiélago en su conjunto con información de destino unificar a_la_vez_que se resaltar el diversificación de el oferta de el archipiélago en el diferente segmento turístico principalmente de el atractivo que se enmarcar dentro_de el sello de nuevo creación que se denominar family_welcome wellness_delight volcanic_experience y water_sports_experience",
+        "lemmatized_text_reduced": "manera acción promocional enmarcar espacio expositor entidad estatal turespaña islas_canarias disponer mostrador facilitar información turístico profesional sector público acudir evento departamento gobierno regional realizar promoción archipiélago conjunto información destino unificar resaltar diversificación oferta archipiélago diferente segmento turístico principalmente atractivo enmarcar sello nuevo creación denominar family_welcome wellness_delight volcanic_experience water_sports_experience",
+        "persons": [
+            "Family_Welcome",
+            "Wellness_Delight",
+            "Volcanic_Experience",
+            "Water_Sports_Experience"
+        ],
+        "locations": [
+            "Islas_Canarias"
+        ],
+        "organizations": [
+            "Turespaña"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

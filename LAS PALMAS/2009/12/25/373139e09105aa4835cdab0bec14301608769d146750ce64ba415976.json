@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595644/0/",
+    "title": {
+        "raw_text": "Los bomberos sofocan un incendio sin heridos que se produjo en una vivienda de Moya (Gran Canaria)",
+        "lemmatized_text": "el bombero sofocar uno incendio sin herido que se producir en uno vivienda de moya gran_canaria",
+        "lemmatized_text_reduced": "bombero sofocar incendio herido producir vivienda moya gran_canaria",
+        "persons": [
+            "Moya"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los Bomberos del Consorcio de Emergencias de Gran Canaria han sofocado un incendio sin heridos que se produjo en una vivienda unifamiliar del municipio grancanario de Moya, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el bomberos_del_consorcio_de_emergencias_de_gran_canaria haber sofocar uno incendio sin herido que se producir en uno vivienda unifamiliar de el municipio grancanario de moya según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "bomberos_del_consorcio_de_emergencias_de_gran_canaria haber sofocar incendio herido producir vivienda unifamiliar municipio grancanario moya informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Moya"
+        ],
+        "locations": [],
+        "organizations": [
+            "Bomberos_del_Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 14.57 horas indicando que se había originado un fuego en una vivienda de la calle Miguel Hernández de Moya pero que ninguna persona se había visto afectada. Por ello, el recurso de emergencia activó a los bomberos que se encargaron de apagar el incendio y ventilar el inmueble. Asimismo, en el suceso intervino la Policía Local, que aseguró la zona y reguló el tráfico en el lugar, la Guardia Civil, que instruyó las diligencias correspondientes, y varios miembros de Protección Civil, que colaboraron con el resto de recursos de emergencia.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:14.57 indicar que se haber originar uno fuego en uno vivienda de el calle miguel_hernández_de_moya pero que ninguno persona se haber ver afectar por ello el recurso de emergencia activar a el bombero que se encargar de apagar el incendio y ventilar el inmueble asimismo en el suceso intervenir el policía_local que asegurar el zona y regular el tráfico en el lugar el guardia_civil que instruir el diligencia correspondiente y varios miembro de protección_civil que colaborar con el resto de recurso de emergencia",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar haber originar fuego vivienda calle miguel_hernández_de_moya persona haber ver afectar recurso emergencia activar bombero encargar apagar incendio ventilar inmueble suceso intervenir policía_local asegurar zona regular tráfico lugar guardia_civil instruir diligencia correspondiente miembro protección_civil colaborar resto recurso emergencia",
+        "persons": [
+            "Miguel_Hernández_de_Moya"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Policía_Local",
+            "Guardia_Civil",
+            "Protección_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.57"
+        ]
+    }
+}

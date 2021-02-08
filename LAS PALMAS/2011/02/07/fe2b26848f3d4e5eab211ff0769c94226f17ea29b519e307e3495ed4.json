@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/951370/0/",
+    "title": {
+        "raw_text": "Dos trabajadores de Repnaval de Las Palmas de Gran Canaria heridos mientras reparaban un barco",
+        "lemmatized_text": "2 trabajador de repnaval_de_las_palmas_de_gran_canaria herido mientras reparar uno barco",
+        "lemmatized_text_reduced": "trabajador repnaval_de_las_palmas_de_gran_canaria herido reparar barco",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Repnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos trabajadores del astillero Reparaciones Navales Canarias (Repnaval) han resultado heridos mientras reparaban un barco en el Puerto de la Luz y de Las Palmas, según fuentes de la Autoridad Portuaria consultadas por Europa Press.",
+        "lemmatized_text": "2 trabajador de el astillero reparaciones_navales_canarias repnaval haber resultar herir mientras reparar uno barco en el puerto_de_la_luz y de las_palmas según fuente de el autoridad_portuaria consultar por europa_press",
+        "lemmatized_text_reduced": "trabajador astillero reparaciones_navales_canarias repnaval haber resultar herir reparar barco puerto_de_la_luz las_palmas fuente autoridad_portuaria consultar europa_press",
+        "persons": [],
+        "locations": [
+            "Puerto_de_la_Luz"
+        ],
+        "organizations": [
+            "Reparaciones_Navales_Canarias",
+            "Repnaval",
+            "Las_Palmas",
+            "Autoridad_Portuaria",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Dos trabajadores del astillero Reparaciones Navales Canarias (Repnaval) han resultado heridos mientras reparaban un barco en el Puerto de la Luz y de Las Palmas, según fuentes de la Autoridad Portuaria consultadas por Europa Press. Los hechos sucedieron a las 08.27 horas de este lunes en el puerto de Las Palmas de Gran Canaria y el alcance de las heridas de los trabajadores se desconoce, ya que \"al parecer\" cayeron de unos andamios cuando trabajaban en el barco 'Esperanza' de Greenpeace. Hasta el lugar se ha trasladado una ambulancia medicalizada y otra básica del Servicio de Urgencias Canario (SUC), así como agentes de la Policía Portuaria.",
+        "lemmatized_text": "2 trabajador de el astillero reparaciones_navales_canarias repnaval haber resultar herir mientras reparar uno barco en el puerto_de_la_luz y de las_palmas según fuente de el autoridad_portuaria consultar por europa_press el hecho suceder a el TM_h:8.27 de este [L:??/??/??:??.??:??] en el puerto de las_palmas_de_gran_canaria y el alcance de el herida de el trabajador se desconocer ya_que a el parecer caer de uno andamio cuando trabajar en el barco esperanza de greenpeace hasta el lugar se haber trasladar uno ambulancia medicalizada y otro básico de el servicio_de_urgencias_canario suc así_como agente de el policía_portuaria",
+        "lemmatized_text_reduced": "trabajador astillero reparaciones_navales_canarias repnaval haber resultar herir reparar barco puerto_de_la_luz las_palmas fuente autoridad_portuaria consultar europa_press hecho suceder puerto las_palmas_de_gran_canaria alcance herida trabajador desconocer parecer caer andamio trabajar barco esperanza greenpeace lugar haber trasladar ambulancia medicalizada básico servicio_de_urgencias_canario suc agente policía_portuaria",
+        "persons": [],
+        "locations": [
+            "Puerto_de_la_Luz",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Reparaciones_Navales_Canarias",
+            "Repnaval",
+            "Las_Palmas",
+            "Autoridad_Portuaria",
+            "Europa_Press",
+            "Greenpeace",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Portuaria"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "TM_h:8.27"
+        ]
+    }
+}

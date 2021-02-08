@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593446/0/",
+    "title": {
+        "raw_text": "Un anciano resulta herido grave al precipitarse con un turismo en la carretera de La Aldea (Gran Canaria)",
+        "lemmatized_text": "uno anciano resultar herir grave a el precipitar se con uno turismo en el carretera de la_aldea gran_canaria",
+        "lemmatized_text_reduced": "anciano resultar herir grave precipitar turismo carretera la_aldea gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Aldea",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un anciano de 60 años ha resultado herido con politraumatizado de carácter grave al precipitarse con un turismo en la carretera GC-200, en las inmediaciones del cruce de Veneguera, en el municipio grancanario de La Aldea de San Nicolás, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno anciano de 60 año haber resultar herir con politraumatizado de carácter grave a el precipitar se con uno turismo en el carretera GC-200 en el inmediación de el cruce de veneguera en el municipio grancanario de la_aldea_de_san_nicolás según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "anciano año haber resultar herir politraumatizado carácter grave precipitar turismo carretera inmediación cruce veneguera municipio grancanario la_aldea_de_san_nicolás informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Veneguera",
+            "La_Aldea_de_San_Nicolás"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "60",
+            "GC-200",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo anoche a las 22.01 horas, cuando se registró una alerta en el Cecoes que comunicaba que se había producido la salida de vía y posterior precipitación de un turismo desconociendo el número y estado de los ocupantes al ser el acceso dificultoso. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Efectivos de bomberos del Consorcio de Emergencias de Gran Canaria en colaboración con Cruz Roja y Protección Civil se encargaron de rescatar al único afectado y trasladarlo hasta la carretera donde le esperaban los equipos sanitarios. Así pues, el personal sanitario del Servicio de Urgencias Canario (SUC) asistió al afectado y lo trasladó en ambulancia de soporte vital avanzado a la Clínica San Roque Meloneras. En dicha actuación también intervino la Guardia Civil, que realizó el correspondiente atestado y ayudó a regular el tráfico. Además de agentes de la Policía Local, que colaboraron con los recursos de emergencias intervinientes.",
+        "lemmatized_text": "el accidente se producir anoche a el TM_h:22.01 cuando se registrar uno alerta en el cecoes que comunicar que se haber producir el salida de vía y posterior precipitación de uno turismo desconocer el número y estado de el ocupante a el ser el acceso dificultoso de este modo el 112 activar de inmediato el recurso de emergencia necesario efectivo de bombero de el consorcio_de_emergencias_de_gran_canaria en colaboración con cruz_roja y protección_civil se encargar de rescatar a el único afectar y trasladar lo hasta el carretera donde le esperar el equipo sanitario así_pues el personal sanitario de el servicio_de_urgencias_canario suc asistir a el afectar y lo trasladar en ambulancia de soporte vital avanzar a el clínica_san_roque_meloneras en decir actuación también intervenir el guardia_civil que realizar el correspondiente atestado y ayudar a regular el tráfico además_de agente de el policía_local que colaborar con el recurso de emergencia interviniente",
+        "lemmatized_text_reduced": "accidente producir registrar alerta cecoes comunicar haber producir salida vía posterior precipitación turismo desconocer número estado ocupante ser acceso dificultoso modo activar inmediato recurso emergencia necesario efectivo bombero consorcio_de_emergencias_de_gran_canaria colaboración cruz_roja protección_civil encargar rescatar único afectar trasladar carretera esperar equipo sanitario personal sanitario servicio_de_urgencias_canario suc asistir afectar trasladar ambulancia soporte vital avanzar clínica_san_roque_meloneras decir actuación intervenir guardia_civil realizar correspondiente atestado ayudar regular tráfico agente policía_local colaborar recurso emergencia interviniente",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Cruz_Roja",
+            "Protección_Civil",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Clínica_San_Roque_Meloneras",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:22.01",
+            "112"
+        ]
+    }
+}

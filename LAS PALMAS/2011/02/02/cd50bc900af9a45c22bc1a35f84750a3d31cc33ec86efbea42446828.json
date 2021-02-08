@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/947009/0/",
+    "title": {
+        "raw_text": "Detenido un hombre en Lanzarote tras robar en un hotel rural disfrazado de Papá Noel",
+        "lemmatized_text": "detener uno hombre en lanzarote tras robar en uno hotel rural disfrazar de papá_noel",
+        "lemmatized_text_reduced": "detener hombre lanzarote robar hotel rural disfrazar papá_noel",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Papá_Noel"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes de la Guarida Civil de Costa Teguise (Lanzarote) han procedido a la detención de un hombre que robó con fuerza en un hotel rural de la isla utilizando un disfraz de Papá Noel, según informó este miércoles la Benemérita en un comunicado.",
+        "lemmatized_text": "agentes_de_la_guarida_civil_de_costa_teguise lanzarote haber proceder a el detención de uno hombre que robar con fuerza en uno hotel rural de el isla utilizar uno disfraz de papá_noel según informar este [X:??/??/??:??.??:??] el benemérita en uno comunicado",
+        "lemmatized_text_reduced": "agentes_de_la_guarida_civil_de_costa_teguise lanzarote haber proceder detención hombre robar fuerza hotel rural isla utilizar disfraz papá_noel informar benemérita comunicado",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Agentes_de_la_Guarida_Civil_de_Costa_Teguise",
+            "Papá_Noel",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Agentes de la Guarida Civil de Costa Teguise (Lanzarote) han procedido a la detención de un hombre que robó con fuerza en un hotel rural de la isla utilizando un disfraz de Papá Noel, según informó este miércoles la Benemérita en un comunicado. De esta manera, el pasado 31 de diciembre se produjo un robo con fuerza en un Hotel Rural de la localidad de Mozaza-San Bartolomé (Lanzarote), donde el autor sustrajo pertenencias y efectivo por valor de quince mil euros. Dentro de las investigaciones llevadas a cabo por el grupo de investigación de la Guardia Civil de Costa Teguise se puso concretar el modus operandi, siendo el mismo el uso de un disfraz y el forzamiento de la puerta y posteriormente de las ventanas de las 4 habitaciones que robó, llevándose consigo varias pertenencias como cámaras de video, teléfonos móviles, dinero en efectivo, tarjetas de crédito y el vehículo de alquiler de uno de los clientes del Hotel. Una vez recogidas las pruebas oportunas consistentes en el seguimiento de las operaciones realizadas con las tarjetas de crédito sustraídas, se logró identificar al supuesto autor, por lo que a finales del mes de enero se produjo la detención del supuesto autor de los hechos y su puesta a disposición judicial. Así, el detenido H.B. de 39 años, vecino de la localidad de Arrecife (Lanzarote) pasó a disposición del Juzgado de Instrucción número 1 de la localidad de Arrecife el 1 de febrero de 2011.",
+        "lemmatized_text": "agentes_de_la_guarida_civil_de_costa_teguise lanzarote haber proceder a el detención de uno hombre que robar con fuerza en uno hotel rural de el isla utilizar uno disfraz de papá_noel según informar este [X:??/??/??:??.??:??] el benemérita en uno comunicado de este manera el [??:31/12/??:??.??:??] se producir uno robo con fuerza en uno hotel_rural de el localidad de mozaza-san_bartolomé lanzarote donde el autor sustraer pertenencia y efectivo por valor de $_ECU:15000 dentro_de el investigación llevar_a_cabo por el grupo de investigación de el guardia_civil_de_costa_teguise se poner concretar el modus operandi ser el mismo el uso de uno disfraz y el forzamiento de el puerta y posteriormente de el ventana de el 4 habitación que robar llevar se conseguir varios pertenencia como cámara de video teléfono móvil dinero en efectivo tarjeta de crédito y el vehículo de alquiler de uno de el cliente de el hotel uno vez recoger el prueba oportuno consistente en el seguimiento de el operación realizar con el tarjeta de crédito sustraer se lograr identificar a el suponer autor por el que a final de el [??:??/1/??:??.??:??] se producir el detención de el suponer autor de el hecho y su puesta a disposición judicial así el detener h.b. de 39 año vecino de el localidad de arrecife lanzarote pasar a disposición de el juzgado_de_instrucción número 1 de el localidad de arrecife el [??:1/2/2011:??.??:??]",
+        "lemmatized_text_reduced": "agentes_de_la_guarida_civil_de_costa_teguise lanzarote haber proceder detención hombre robar fuerza hotel rural isla utilizar disfraz papá_noel informar benemérita comunicado manera producir robo fuerza hotel_rural localidad mozaza-san_bartolomé lanzarote autor sustraer pertenencia efectivo valor investigación llevar_a_cabo grupo investigación guardia_civil_de_costa_teguise poner concretar modus operandi ser mismo uso disfraz forzamiento puerta posteriormente ventana habitación robar llevar conseguir pertenencia cámara video teléfono móvil dinero efectivo tarjeta crédito vehículo alquiler cliente hotel vez recoger prueba oportuno consistente seguimiento operación realizar tarjeta crédito sustraer lograr identificar suponer autor final producir detención suponer autor hecho puesta disposición judicial detener h.b. año vecino localidad arrecife lanzarote pasar disposición juzgado_de_instrucción número localidad arrecife",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Hotel_Rural",
+            "Mozaza-San_Bartolomé",
+            "Lanzarote",
+            "Arrecife",
+            "Lanzarote",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Agentes_de_la_Guarida_Civil_de_Costa_Teguise",
+            "Papá_Noel",
+            "Benemérita",
+            "Guardia_Civil_de_Costa_Teguise",
+            "Hotel",
+            "H.B.",
+            "Juzgado_de_Instrucción"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:31/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:1/2/2011:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15000",
+            "4",
+            "39",
+            "1"
+        ]
+    }
+}

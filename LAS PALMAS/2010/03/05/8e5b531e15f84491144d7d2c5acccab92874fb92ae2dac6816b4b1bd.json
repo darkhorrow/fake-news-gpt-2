@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/644735/0/",
+    "title": {
+        "raw_text": "Festival de Cine de Las Palmas de Gran Canaria pone el lunes a la venta las entradas para la Inauguración y la Clausura",
+        "lemmatized_text": "festival_de_cine_de_las_palmas_de_gran_canaria poner el [L:??/??/??:??.??:??] a el venta el entrada para el inauguración y el clausura",
+        "lemmatized_text_reduced": "festival_de_cine_de_las_palmas_de_gran_canaria poner venta entrada inauguración clausura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Festival_de_Cine_de_Las_Palmas_de_Gran_Canaria",
+            "Clausura"
+        ],
+        "others": [
+            "Inauguración"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Festival Internacional de Cine de Las Palmas de Gran Canaria pondrá a la venta el próximo lunes, 8 de marzo, las entradas para las galas de Inauguración y clausura de la cita, que tendrá lugar entre los días 12 y 30 de mes, por lo que los aficionados al cine podrán adquirir sus entradas, informó hoy el Ayuntamiento capitalino en un comunicado.",
+        "lemmatized_text": "el festival_internacional_de_cine_de_las_palmas_de_gran_canaria poner a el venta el [L:8/3/??:??.??:??] el entrada para el gala de inauguración y clausura de el cita que tener_lugar entre el día 12 y 30 de mes por el que el aficionado a el cine poder adquirir su entrada informar hoy el ayuntamiento capitalino en uno comunicado",
+        "lemmatized_text_reduced": "festival_internacional_de_cine_de_las_palmas_de_gran_canaria poner venta entrada gala inauguración clausura cita tener_lugar día mes aficionado cine poder adquirir entrada informar ayuntamiento capitalino comunicado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Festival_Internacional_de_Cine_de_Las_Palmas_de_Gran_Canaria",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Inauguración"
+        ],
+        "dates": [
+            "[L:8/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "12",
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, 'La isla interior', la última película de los grancanarios Félix Sabroso y Dunia Ayaso, será la película que inaugure el certamen grancanario el próximo viernes 12, en una gala en la que además recibirán el homenaje del festival, la Lady Harimaguada de honor, el cineasta Atom Egoyan. Ocho días después, el sábado 20, la sala sinfónica del Auditorio acogerá la gala de clausura con la lectura del palmarés, así como la proyección del thriller psicológico, 'Un ciudadano ejemplar', de F. Gary Gray. Las entradas tienen un precio único de 10 euros y estarán a la venta en la taquilla del auditorio Alfredo Kraus de 15.00 a 21.00 horas así como a través de la página auditorio-alfredokraus.com.",
+        "lemmatized_text": "de este manera el isla interior el último película de el grancanarios félix_sabroso y dunia_ayaso ser el película que inaugurar el certamen grancanario el [V:12/??/??:??.??:??] en uno gala en el que además recibir el homenaje de el festival el lady_harimaguada de honor el cineasta atom_egoyan TM_d:8 después el [S:20/??/??:??.??:??] el sala sinfónico de el auditorio acoger el gala de clausura con el lectura de el palmarés así_como el proyección de el thriller psicológico uno ciudadano ejemplar de f._gary_gray el entrada tener uno precio único de $_ECU:10 y estar a el venta en el taquilla de el auditorio alfredo_kraus de 15 a TM_h:21 así_como a_través_de el página auditorio-alfredokraus com",
+        "lemmatized_text_reduced": "manera isla interior último película grancanarios félix_sabroso dunia_ayaso ser película inaugurar certamen grancanario gala recibir homenaje festival lady_harimaguada honor cineasta atom_egoyan sala sinfónico auditorio acoger gala clausura lectura palmarés proyección thriller psicológico ciudadano ejemplar f._gary_gray entrada tener precio único estar venta taquilla auditorio alfredo_kraus página auditorio-alfredokraus com",
+        "persons": [
+            "Félix_Sabroso",
+            "Dunia_Ayaso",
+            "Atom_Egoyan",
+            "F._Gary_Gray",
+            "Alfredo_Kraus"
+        ],
+        "locations": [
+            "Auditorio"
+        ],
+        "organizations": [],
+        "others": [
+            "Lady_Harimaguada"
+        ],
+        "dates": [
+            "[V:12/??/??:??.??:??]",
+            "[S:20/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_d:8",
+            "$_ECU:10",
+            "15",
+            "TM_h:21"
+        ]
+    }
+}

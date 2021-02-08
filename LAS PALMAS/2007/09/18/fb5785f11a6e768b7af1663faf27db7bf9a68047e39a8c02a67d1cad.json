@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-09-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/277483/0/inmigrantes/helicoptero/canaria/",
+    "title": {
+        "raw_text": "Rescatados 59 inmigrantes, dos en helicóptero, a 160 kilómetros mar adentro",
+        "lemmatized_text": "rescatar 59 inmigrante 2 en helicóptero a LN_km:160 mar adentro",
+        "lemmatized_text_reduced": "rescatar inmigrante helicóptero mar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "59",
+            "2",
+            "LN_km:160"
+        ]
+    },
+    "lead": {
+        "raw_text": "Llegarán al muelle de Arguineguín a las 17:00 horas. La Cruz Roja se prepara para atender a los inmigrantes. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "llegar a el muelle de arguineguín a el TM_h:17:00 el cruz_roja se preparar para atender a el inmigrante consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "llegar muelle arguineguín cruz_roja preparar atender inmigrante consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Arguineguín"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cruz_Roja",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17:00"
+        ]
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo ha rescatado a los 59 ocupantes de una embarcación detectada a 90 millas de Gran Canaria, aunque dos de ellos tuvieron que ser evacuados en helicóptero por encontrarse en mal estado, informaron fuentes de este organismo. El cayuco fue detectado ayer por la tarde a unos 160 kilómetros de Maspalomas y fue alcanzado por la embarcación Conde de Godomar a las tres de la madrugada. Salvamento Marítimo recogió a los 57 inmigrantes restantes y partió hacia el muelle de Arguineguín, donde llegará en torno a las cinco de esta tarde. Una dotación de Cruz Roja esperará su llegada para atender al grupo a pie de costa. En cuanto a los dos inmigrantes evacuados, fueron llevados por el Helimer Canarias hasta el Hospital Doctor Negrín aquejados de dolor estomacal e hipotermia , detallaron fuentes del Centro Coordinador de Emergencias y Seguridad. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "salvamento_marítimo haber rescatar a el 59 ocupante de uno embarcación detectar a LN_mi:90 de gran_canaria aunque 2 de ellos tener que ser evacuar en helicóptero por encontrar se en mal estado informar fuente de este organismo el cayuco ser detectar ayer por el tarde a uno LN_km:160 de maspalomas y ser alcanzar por el embarcación conde_de_godomar a el [??:??/??/??:3.00:am] salvamento_marítimo recoger a el 57 inmigrante restante y partir hacia el muelle de arguineguín donde llegar en_torno_a el 5 de este tarde uno dotación de cruz_roja esperar su llegada para atender a el grupo a pie de costa en_cuanto_a el 2 inmigrante evacuar ser llevar por el helimer_canarias hasta el hospital_doctor_negrín aquejar de dolor estomacal y hipotermia detallar fuente de el centro_coordinador_de_emergencias y seguridad consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo haber rescatar ocupante embarcación detectar gran_canaria tener ser evacuar helicóptero encontrar mal estado informar fuente organismo cayuco ser detectar tarde maspalomas ser alcanzar embarcación conde_de_godomar salvamento_marítimo recoger inmigrante restante partir muelle arguineguín llegar tarde dotación cruz_roja esperar llegada atender grupo pie costa inmigrante evacuar ser llevar helimer_canarias hospital_doctor_negrín aquejar dolor estomacal hipotermia detallar fuente centro_coordinador_de_emergencias seguridad consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Maspalomas",
+            "Salvamento_Marítimo",
+            "Hospital_Doctor_Negrín"
+        ],
+        "locations": [
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Conde_de_Godomar",
+            "Cruz_Roja",
+            "Helimer_Canarias",
+            "Centro_Coordinador_de_Emergencias",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:3.00:am]"
+        ],
+        "numbers": [
+            "59",
+            "LN_mi:90",
+            "2",
+            "LN_km:160",
+            "57",
+            "5",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-08-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/268349/0/muerto/patera/canarias/",
+    "title": {
+        "raw_text": "Un inmigrante muerto y tres heridos en una patera naufragada al sur de Canarias",
+        "lemmatized_text": "uno inmigrante morir y 3 herido en uno patera naufragar a el sur de canarias",
+        "lemmatized_text_reduced": "inmigrante morir herido patera naufragar sur canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Se encontraba a 80 millas al sureste de Fuerteventura. Dos de los heridos presentan hipotermia y deshidratación. mientras el tercero sufre quemaduras graves. Una segunda embarcación ha sido avistada a 200 millas al sur de Gran Canaria",
+        "lemmatized_text": "se encontrar a LN_mi:80 a el sureste de fuerteventura 2 de el herido presentar hipotermia y deshidratación mientras el 3 sufrir quemadura grave uno 2 embarcación haber ser avistar a LN_mi:200 a el sur de gran_canaria",
+        "lemmatized_text_reduced": "encontrar sureste fuerteventura herido presentar hipotermia deshidratación 3 sufrir quemadura grave 2 embarcación haber ser avistar sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:80",
+            "2",
+            "LN_mi:200"
+        ]
+    },
+    "body": {
+        "raw_text": "Un inmigrante ha muerto y otros tres han resultado heridos graves tras el naufragio de una patera al sureste de Fuerteventura, en la que viajaban otras veinte personas. La embarcación tuvo que ser auxiliada a primera hora de la tarde del domingo por un pesquero, que los rescató al ver que se encontraban en dificultades a unas 80 millas al sureste de Fuerteventura. El inmigrante fallecido y los tres heridos graves fueron trasladados en un helicóptero Helimer de Salvamento Marítimo a Gran Canaria. Dos de los heridos sufren hipotermia y deshidratación , mientras el tercero presenta quemaduras graves . Todos se encuentran ingresados en distintos hospitales canarios. Segunda patera Por otra parte, una segunda patera con un número indeterminado de inmigrantes ha sido avistada a unas 200 millas al sur de Gran Canaria. Miembros de Salvamento Marítimo han salido al encuentro de la embarcación , con el fin de rescatar a los inmigrantes, cuyo número se desconoce.",
+        "lemmatized_text": "uno inmigrante haber morir y otro 3 haber resultar herido grave tras el naufragio de uno patera a el sureste de fuerteventura en el que viajar otro 20 persona el embarcación tener que ser auxiliar a 1 hora de el tarde de el [G:??/??/??:??.??:??] por uno pesquero que lo rescatar a el ver que se encontrar en dificultad a uno LN_mi:80 a el sureste de fuerteventura el inmigrante fallecer y el 3 herido grave ser trasladar en uno helicóptero helimer_de_salvamento_marítimo a gran_canaria 2 de el herido sufrir hipotermia y deshidratación mientras el 3 presentar quemadura grave todo se encontrar ingresar en distinto hospital canario 2 patera por otro parte uno 2 patera con uno número indeterminar de inmigrante haber ser avistar a uno LN_mi:200 a el sur de gran_canaria miembros_de_salvamento_marítimo haber salir a el encuentro de el embarcación con el fin de rescatar a el inmigrante cuyo número se desconocer",
+        "lemmatized_text_reduced": "inmigrante haber morir haber resultar herido grave naufragio patera sureste fuerteventura viajar persona embarcación tener ser auxiliar 1 hora tarde pesquero rescatar ver encontrar dificultad sureste fuerteventura inmigrante fallecer herido grave ser trasladar helicóptero helimer_de_salvamento_marítimo gran_canaria herido sufrir hipotermia deshidratación 3 presentar quemadura grave encontrar ingresar hospital canario 2 patera por parte 2 patera número indeterminar inmigrante haber ser avistar sur gran_canaria miembros_de_salvamento_marítimo haber salir encuentro embarcación fin rescatar inmigrante número desconocer",
+        "persons": [],
+        "locations": [
+            "Fuerteventura",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Gran_Canaria",
+            "Por"
+        ],
+        "others": [
+            "Helimer_de_Salvamento_Marítimo",
+            "Miembros_de_Salvamento_Marítimo"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "20",
+            "LN_mi:80",
+            "3",
+            "2",
+            "LN_mi:200"
+        ]
+    }
+}

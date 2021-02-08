@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/739385/0/",
+    "title": {
+        "raw_text": "Dos vehículos arden en Las Palmas de Gran Canaria sin causar heridos",
+        "lemmatized_text": "2 vehículo arder en las_palmas_de_gran_canaria sin causar herido",
+        "lemmatized_text_reduced": "vehículo arder las_palmas_de_gran_canaria causar herido",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "El incendio de dos vehículos en Las Palmas de Gran Canaria la pasada madrugada no causó heridos, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el incendio de 2 vehículo en las_palmas_de_gran_canaria el pasar madrugada no causar herido según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "incendio vehículo las_palmas_de_gran_canaria pasar madrugada causar herido informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los turismos ardieron en la Avenida Guillermo Santander, de la capital grancanaria, sobre las 02.00 horas y hasta el lugar se trasladaron bomberos que extinguieron las llamas. Asimismo, en la zona también se personaron agentes de la Policía Local que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el turismo arder en el avenida_guillermo_santander de el capital grancanaria sobre el TM_h:2 y hasta el lugar se trasladar bombero que extinguir el llama asimismo en el zona también se personar agente de el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "turismo arder avenida_guillermo_santander capital grancanaria lugar trasladar bombero extinguir llama zona personar agente policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Avenida_Guillermo_Santander"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:2"
+        ]
+    }
+}

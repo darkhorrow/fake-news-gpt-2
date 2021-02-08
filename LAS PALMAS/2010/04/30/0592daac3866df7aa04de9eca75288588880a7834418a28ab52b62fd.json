@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/692779/0/",
+    "title": {
+        "raw_text": "Incendio sin afectados en la cafetería de la Estación de Guaguas de Arucas (Gran Canaria)",
+        "lemmatized_text": "incendio sin afectado en el cafetería de el estación_de_guaguas_de_arucas gran_canaria",
+        "lemmatized_text_reduced": "incendio afectado cafetería estación_de_guaguas_de_arucas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Estación_de_Guaguas_de_Arucas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La cafetería de la Estación de Guaguas del municipio de Arucas (Gran Canaria) ha registrado un incendio sin afectados, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el cafetería de el estación_de_guaguas de el municipio de arucas gran_canaria haber registrar uno incendio sin afectado según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "cafetería estación_de_guaguas municipio arucas gran_canaria haber registrar incendio afectado informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Estación_de_Guaguas",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 05.39 horas, cuando se recibió una llamada en el Cecoes que comunicaba que se había producido un incendio que partía de la cocina de una cafetería ubicada en la calle Bruno Pérez Medina. De este modo, el 112 activó los recursos de emergencia necesarios. Hasta el lugar se desplazaron efectivos del Consorcio de Emergencias de Gran Canaria, que se encargaron de asegurar la zona, extinguir las llamas y de ventilar las instalaciones. Por su parte, la Policía Local y la Guardia Civil colaboraron con el resto de recursos de emergencia.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:5.39 cuando se recibir uno llamada en el cecoes que comunicar que se haber producir uno incendio que partir de el cocina de uno cafetería ubicar en el calle bruno_pérez_medina de este modo el 112 activar el recurso de emergencia necesario hasta el lugar se desplazar efectivo de el consorcio_de_emergencias_de_gran_canaria que se encargar de asegurar el zona extinguir el llama y de ventilar el instalación por su parte el policía_local y el guardia_civil colaborar con el resto de recurso de emergencia",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes comunicar haber producir incendio partir cocina cafetería ubicar calle bruno_pérez_medina modo activar recurso emergencia necesario lugar desplazar efectivo consorcio_de_emergencias_de_gran_canaria encargar asegurar zona extinguir llama ventilar instalación parte policía_local guardia_civil colaborar resto recurso emergencia",
+        "persons": [],
+        "locations": [
+            "Cecoes",
+            "Bruno_Pérez_Medina"
+        ],
+        "organizations": [
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:5.39",
+            "112"
+        ]
+    }
+}

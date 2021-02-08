@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/937040/0/",
+    "title": {
+        "raw_text": "Un incendio en una vivienda de Arucas (Gran Canaria) se salda con una herida leve",
+        "lemmatized_text": "uno incendio en uno vivienda de arucas gran_canaria se saldar con uno herida leve",
+        "lemmatized_text_reduced": "incendio vivienda arucas gran_canaria saldar herida leve",
+        "persons": [],
+        "locations": [
+            "Arucas"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un incendio en una vivienda del Camino de la Calva, en el municipio de Arucas (Gran Canaria), se ha saldado este domingo con una herida de leve, según informó el Centro de Coordinación y Emergencias 112.",
+        "lemmatized_text": "uno incendio en uno vivienda de el camino_de_la_calva en el municipio de arucas gran_canaria se haber saldar este [G:??/??/??:??.??:??] con uno herida de leve según informar el centro_de_coordinación y emergencias 112",
+        "lemmatized_text_reduced": "incendio vivienda camino_de_la_calva municipio arucas gran_canaria haber saldar herida leve informar centro_de_coordinación emergencias",
+        "persons": [],
+        "locations": [
+            "Camino_de_la_Calva",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación"
+        ],
+        "others": [
+            "Emergencias"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un incendio en una vivienda del Camino de la Calva, en el municipio de Arucas (Gran Canaria), se ha saldado este domingo con una herida de leve, según informó el Centro de Coordinación y Emergencias 112. La herida es una mujer de 77 años de edad, que sufrió intoxicación por inhalación de humo de carácter leve, por lo que tuvo que ser evacuada por personal del Servicio de Urgencias Canario (SUC) hasta el Centro de Salud de Arucas. El fuego, que afectó fundamentalmente a la cocina del inmueble, fue sofocado por bomberos del Consorcio de Emergencias de Gran Canaria, que extinguieron las llamas y ventilaron el inmueble. Asimismo hasta el lugar se trasladaron personal de Protección Civil, así como agentes de la Guardia Civil y de la Policía Local.",
+        "lemmatized_text": "uno incendio en uno vivienda de el camino_de_la_calva en el municipio de arucas gran_canaria se haber saldar este [G:??/??/??:??.??:??] con uno herida de leve según informar el centro_de_coordinación y emergencias 112 el herida ser uno mujer de 77 año de edad que sufrir intoxicación por inhalación de humo de carácter leve por el que tener que ser evacuar por personal de el servicio_de_urgencias_canario suc hasta el centro_de_salud_de_arucas el fuego que afectar fundamentalmente a el cocina de el inmueble ser sofocar por bombero de el consorcio_de_emergencias_de_gran_canaria que extinguir el llama y ventilar el inmueble asimismo hasta el lugar se trasladar personal de protección_civil así_como agente de el guardia_civil y de el policía_local",
+        "lemmatized_text_reduced": "incendio vivienda camino_de_la_calva municipio arucas gran_canaria haber saldar herida leve informar centro_de_coordinación emergencias herida ser mujer año edad sufrir intoxicación inhalación humo carácter leve tener ser evacuar personal servicio_de_urgencias_canario suc centro_de_salud_de_arucas fuego afectar fundamentalmente cocina inmueble ser sofocar bombero consorcio_de_emergencias_de_gran_canaria extinguir llama ventilar inmueble lugar trasladar personal protección_civil agente guardia_civil policía_local",
+        "persons": [],
+        "locations": [
+            "Camino_de_la_Calva",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Centro_de_Salud_de_Arucas",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Protección_Civil",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [
+            "Emergencias"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "77"
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/949456/0/",
+    "title": {
+        "raw_text": "El precio de la gasolina en Canarias sube casi un 3% al cierre de enero y el diesel incrementa su coste en un 4%",
+        "lemmatized_text": "el precio de el gasolina en canarias subir casi uno 3/100 a el cierre de [??:??/1/??:??.??:??] y el diesel incrementar su coste en uno 4/100",
+        "lemmatized_text_reduced": "precio gasolina canarias subir cierre diesel incrementar coste",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "3/100",
+            "4/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio de la gasolina en Canarias ha cerrado el primer mes de 2011 con una subida del 2,9 por ciento con respecto a diciembre del pasado año, según datos recogidos por Europa Press del conjunto de gasolineras de las islas.",
+        "lemmatized_text": "el precio de el gasolina en canarias haber cerrar el 1 mes de 2011 con uno subida de el 2,9 por 100 con_respecto_a [??:??/12/??:??.??:??] de el pasar año según dato recoger por europa_press de el conjunto de gasolinera de el isla",
+        "lemmatized_text_reduced": "precio gasolina canarias haber cerrar 1 mes subida pasar año dato recoger europa_press conjunto gasolinera isla",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "2011",
+            "2,9",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio de la gasolina en Canarias ha cerrado el primer mes de 2011 con una subida del 2,9 por ciento con respecto a diciembre del pasado año, según datos recogidos por Europa Press del conjunto de gasolineras de las islas. En concreto, la gasolina de 95 octanos, la más consumida, en el conjunto del archipiélago se fijó de media en 1,015 euros por litro a diferencia de los 0,986 euros por litro de diciembre. Por provincias, la que mayor incremento experimentó en este carburante fue la de Las Palmas, que aumentó en un 4 por ciento al situarse en 1,040 euros por litro a diferencia del euro que costaba el litro en diciembre; mientras que en la de Santa Cruz de Tenerife se incrementó en un 1,74 por ciento al fijarse de media en los 0,990 euros el litro, cuando un mes antes costaba 0,973 euros. La gasolina de 98 octanos, por su parte, también incrementó su coste aunque en menor medida, ya que en el conjunto de las islas creció en un 1,42 por ciento, al situar su precio en 1,069 euros por litros. Respecto a las dos provincias canarias, este carburante se mantuvo en Las Palmas (1,090 euros por litro), mientras que en Santa Cruz de Tenerife experimentó un crecimiento del 2,9 por ciento (1,049). En cuanto al diesel convencional siguió la misma línea del resto de carburante, elevando su precio en el primer mes de este 2011 en un 3,7 por ciento (0,909 euros por litro). Por provincias, en este carburante fue la de Santa Cruz de Tenerife la que tuvo un mayor crecimiento, en concreto, del 5 por ciento al situarse en los 0,892 euros el litro a diferencia de los 0,849 que costaba el litro en diciembre; en la provincia de Las Palmas, por su lado, incrementó el precio en un 2,5 por ciento al alcanzar los 0,927 euros por litro con respecto a los 0,904 euros por litro de diciembre. Finalmente, el diesel enriquecido cerró diciembre con un crecimiento del 3,3 por ciento, alcanzando de media 0,922 euros el litro en el conjunto del archipiélago. Por provincias, en Las Palmas se fijó en los 0,916 euros (+2,3%) y 0,929 euros para Santa Cruz de Tenerife (+4,4%).",
+        "lemmatized_text": "el precio de el gasolina en canarias haber cerrar el 1 mes de 2011 con uno subida de el 2,9 por 100 con_respecto_a [??:??/12/??:??.??:??] de el pasar año según dato recoger por europa_press de el conjunto de gasolinera de el isla en concreto el gasolina de 95 octano el más consumir en el conjunto de el archipiélago se fijar de medio en $_ECU:1015 por litro a_diferencia_de el $_ECU:986 por litro de [??:??/12/??:??.??:??] por provincia el que mayor incremento experimentar en este carburante ser el de las_palmas que aumentar en uno 4 por 100 a el situar se en $_ECU:1040 por litro a diferencia de el euro que costar el litro en [??:??/12/??:??.??:??] mientras_que en el de santa_cruz_de_tenerife se incrementar en uno 1,74 por 100 a el fijar se de medio en el $_ECU:990 el litro cuando uno mes antes costar $_ECU:973 el gasolina de 98 octano por su parte también incrementar su coste aunque en menor medida ya_que en el conjunto de el isla crecer en uno 1,42 por 100 a el situar su precio en $_ECU:1069 por litro respecto_a el 2 provincia canario este carburante se mantener en las_palmas $_ECU:1090 por litro mientras_que en santa_cruz_de_tenerife experimentar uno crecimiento de el 2,9 por 100 1049 en cuanto a el diesel convencional seguir el mismo línea de el resto de carburante elevar su precio en el 1 mes de este 2011 en uno 3,7 por 100 $_ECU:909 por litro por provincia en este carburante ser el de santa_cruz_de_tenerife el que tener uno mayor crecimiento en concreto de el 5 por 100 a el situar se en el $_ECU:892 el litro a_diferencia_de el 849 que costar el litro en [??:??/12/??:??.??:??] en el provincia de las_palmas por su lado incrementar el precio en uno 2,5 por 100 a el alcanzar el $_ECU:927 por litro con_respecto_a el $_ECU:904 por litro de [??:??/12/??:??.??:??] finalmente el diesel enriquecer cerrar [??:??/12/??:??.??:??] con uno crecimiento de el 3,3 por 100 alcanzar de medio $_ECU:922 el litro en el conjunto de el archipiélago por provincia en las_palmas se fijar en el $_ECU:916 +2,3/100 y $_ECU:929 para santa_cruz_de_tenerife +4,4/100",
+        "lemmatized_text_reduced": "precio gasolina canarias haber cerrar 1 mes subida pasar año dato recoger europa_press conjunto gasolinera isla concreto gasolina octano consumir conjunto archipiélago fijar medio litro litro provincia mayor incremento experimentar carburante ser las_palmas aumentar situar litro diferencia euro costar litro santa_cruz_de_tenerife incrementar fijar medio litro mes costar gasolina octano parte incrementar coste menor medida conjunto isla crecer situar precio litro provincia canario carburante mantener las_palmas litro santa_cruz_de_tenerife experimentar crecimiento diesel convencional seguir mismo línea resto carburante elevar precio 1 mes litro provincia carburante ser santa_cruz_de_tenerife tener mayor crecimiento concreto situar litro costar litro provincia las_palmas lado incrementar precio alcanzar litro litro finalmente diesel enriquecer cerrar crecimiento alcanzar medio litro conjunto archipiélago provincia las_palmas fijar santa_cruz_de_tenerife",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "2011",
+            "2,9",
+            "100",
+            "95",
+            "$_ECU:1015",
+            "$_ECU:986",
+            "4",
+            "100",
+            "$_ECU:1040",
+            "1,74",
+            "100",
+            "$_ECU:990",
+            "$_ECU:973",
+            "98",
+            "1,42",
+            "100",
+            "$_ECU:1069",
+            "2",
+            "$_ECU:1090",
+            "2,9",
+            "100",
+            "1049",
+            "2011",
+            "3,7",
+            "100",
+            "$_ECU:909",
+            "5",
+            "100",
+            "$_ECU:892",
+            "849",
+            "2,5",
+            "100",
+            "$_ECU:927",
+            "$_ECU:904",
+            "3,3",
+            "100",
+            "$_ECU:922",
+            "$_ECU:916",
+            "+2,3/100",
+            "$_ECU:929",
+            "+4,4/100"
+        ]
+    }
+}

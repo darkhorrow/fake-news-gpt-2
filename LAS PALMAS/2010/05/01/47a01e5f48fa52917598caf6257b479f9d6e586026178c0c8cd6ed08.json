@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/694193/0/",
+    "title": {
+        "raw_text": "La familia de la joven asesinada en La Lajita (Fuerteventura) convoca una concentración para protestar por su muerte",
+        "lemmatized_text": "el familia de el joven asesinar en la_lajita fuerteventura convocar uno concentración para protestar por su muerte",
+        "lemmatized_text_reduced": "familia joven asesinar la_lajita fuerteventura convocar concentración protestar muerte",
+        "persons": [],
+        "locations": [
+            "La_Lajita"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La familia de la joven presuntamente asesinada en La Lajita, en el municipio de Pájara (Fuerteventura) y que responde a las iniciales de Y.M.C.S., ha convocado para mañana una concentración para protestar por su muerte.",
+        "lemmatized_text": "el familia de el joven presuntamente asesinar en la_lajita en el municipio de pájara fuerteventura y que responder a el inicial de y.m.c.s. haber convocar para mañana uno concentración para protestar por su muerte",
+        "lemmatized_text_reduced": "familia joven presuntamente asesinar la_lajita municipio pájara fuerteventura responder inicial y.m.c.s. haber convocar concentración protestar muerte",
+        "persons": [],
+        "locations": [
+            "La_Lajita",
+            "Pájara"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Y.M.C.S."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, la familia a través de un comunicado señaló que la muerte de la joven se debió a un \"crimen machista y pasional\", por lo que invitó a \"todos\" los habitantes de Fuerteventura, así como del archipiélago en su conjunto a unirse a la concentración que se celebrará a partir de las 17.00 horas en la calle Achimencey de La Lajita, frente a la casa donde se cometió el suceso. Además, al finalizar la concentración un portavoz de la familia leerá un manifiesto \"contra la violencia machista que sufren muchas mujeres, y entre ellas a Y., que le costó la vida\". El suceso ocurrió el pasado lunes, 26 de abril, y la joven de nacionalidad brasileña fue encontrada por agentes de la Guarida Civil y de la Policía Local en el interior de su vivienda muerta y con signos de violencia, según informaron a Europa Press fuentes de los servicios de seguridad que se han trasladado hasta la zona.",
+        "lemmatized_text": "así el familia a_través_de uno comunicado señalar que el muerte de el joven se deber a uno crimen machista y pasional por el que invitar a todo el habitante de fuerteventura así_como de el archipiélago en su conjunto a unir se a el concentración que se celebrar a_partir_de el TM_h:17 en el calle achimencey_de_la_lajita frente_a el casa donde se cometer el suceso además a el finalizar el concentración uno portavoz de el familia leer uno manifiesto contra el violencia machista que sufrir mucho mujer y entre ellos a y. que le costar el vida el suceso ocurrir el [L:26/4/??:??.??:??] y el joven de nacionalidad brasileño ser encontrar por agente de el guarida_civil y de el policía_local en_el_interior_de su vivienda morir y con signo de violencia según informar a europa_press fuente de el servicio de seguridad que se haber trasladar hasta el zona",
+        "lemmatized_text_reduced": "familia comunicado señalar muerte joven deber crimen machista pasional invitar habitante fuerteventura archipiélago conjunto unir concentración celebrar calle achimencey_de_la_lajita casa cometer suceso finalizar concentración portavoz familia leer manifiesto violencia machista sufrir mujer y. costar vida suceso ocurrir joven nacionalidad brasileño ser encontrar agente guarida_civil policía_local vivienda morir signo violencia informar europa_press fuente servicio seguridad haber trasladar zona",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Achimencey_de_La_Lajita"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Y.",
+            "Guarida_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[L:26/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:17"
+        ]
+    }
+}

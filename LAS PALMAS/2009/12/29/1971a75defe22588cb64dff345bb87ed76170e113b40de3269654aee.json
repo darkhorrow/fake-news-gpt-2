@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597364/0/",
+    "title": {
+        "raw_text": "Gobierno canario pierde el recurso para evitar pagar los 900.000 euros del caso de las gemelas separadas al nacer",
+        "lemmatized_text": "gobierno canario perder el recurso para evitar pagar el $_ECU:900 de el caso de el gemelo separar a el nacer",
+        "lemmatized_text_reduced": "gobierno canario perder recurso evitar pagar caso gemelo separar nacer",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:900"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno canario ha perdido el recurso que presentó para evitar el pago de 900.000 euros en concepto de indemnización por el caso de las dos gemelas separadas al nacer en Gran Canaria, después de que la Sala de lo Contencioso Administrativo del Tribunal Superior de Justicia de Canarias (TSJC) desestimara los argumentos de la Consejería de Sanidad canaria.",
+        "lemmatized_text": "el gobierno canario haber perder el recurso que presentar para evitar el pago de $_ECU:900 en_concepto_de indemnización por el caso de el 2 gemelo separar a el nacer en gran_canaria después_de que el sala de el contencioso_administrativo_del_tribunal_superior_de_justicia_de_canarias tsjc desestimar el argumento de el consejería_de_sanidad canario",
+        "lemmatized_text_reduced": "gobierno canario haber perder recurso presentar evitar pago indemnización caso gemelo separar nacer gran_canaria sala contencioso_administrativo_del_tribunal_superior_de_justicia_de_canarias tsjc desestimar argumento consejería_de_sanidad canario",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Sala",
+            "Contencioso_Administrativo_del_Tribunal_Superior_de_Justicia_de_Canarias",
+            "TSJC",
+            "Consejería_de_Sanidad"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:900",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta forma, confirma el fallo del Contencioso Administrativo número 3 de Las Palmas, donde se establecía el pago de 180.000 euros a la madre biológica de las gemelas y también a una de las gemelas y la niña que no resultó ser su hermana. El importe se eleva hasta los 360.000 euros para la gemela separada de su familia. Según publica hoy el diario 'Canarias7', el recurso de la Consejería de Sanidad pedía que se revocara el fallo alegando que no estaba demostrado que el error hubiera ocurrido en el público Hospital de El Pino (Gran canaria). La intención de los abogados demandantes, por su parte, era aumentar el importe de las indemnizaciones, pero finalmente no lo consiguieron, después de que el TSJC confirmara tal cual la sentencia anterior.",
+        "lemmatized_text": "de este forma confirmar el fallo de el contencioso_administrativo número 3 de las_palmas donde se establecer el pago de $_ECU:180 a el madre biológico de el gemelo y también a uno de el gemelo y el niño que no resultar ser su hermano el importe se elevar hasta el $_ECU:360 para el gemelo separar de su familia según publicar hoy el diario Canarias7 el recurso de el consejería_de_sanidad pedir que se revocar el fallo alegar que no estar demostrar que el error haber ocurrir en el público hospital_de_el_pino gran canario el intención de el abogado demandante por su parte ser aumentar el importe de el indemnización pero finalmente no lo conseguir después_de que el tsjc confirmar tal_cual el sentencia anterior",
+        "lemmatized_text_reduced": "forma confirmar fallo contencioso_administrativo número las_palmas establecer pago madre biológico gemelo gemelo niño resultar ser hermano importe elevar gemelo separar familia publicar diario recurso consejería_de_sanidad pedir revocar fallo alegar estar demostrar error haber ocurrir público hospital_de_el_pino gran canario intención abogado demandante parte ser aumentar importe indemnización finalmente conseguir tsjc confirmar sentencia anterior",
+        "persons": [],
+        "locations": [
+            "Las_Palmas",
+            "Hospital_de_El_Pino"
+        ],
+        "organizations": [
+            "Contencioso_Administrativo",
+            "Consejería_de_Sanidad",
+            "Gran",
+            "TSJC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "$_ECU:180",
+            "$_ECU:360",
+            "Canarias7"
+        ]
+    }
+}

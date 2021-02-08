@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/932970/0/",
+    "title": {
+        "raw_text": "Detenido un hombre por vender droga junto a un Instituto en la capital grancanaria",
+        "lemmatized_text": "detener uno hombre por vender droga junto_a uno instituto en el capital grancanaria",
+        "lemmatized_text_reduced": "detener hombre vender droga instituto capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Instituto"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a Job Nahun M.G., de 26 años de edad y natural de Las Palmas de Gran Canaria, por posesión de droga destinada para su venta junto al Instituto de Enseñanza Secundaria Felo Monzón, en el barrio de Lomo Blanco.",
+        "lemmatized_text": "el policía_nacional haber detener a job_nahun_m.g. de 26 año de edad y natural de las_palmas_de_gran_canaria por posesión de droga destinar para su venta junto a el instituto_de_enseñanza_secundaria_felo_monzón en el barrio de lomo_blanco",
+        "lemmatized_text_reduced": "policía_nacional haber detener job_nahun_m.g. año edad natural las_palmas_de_gran_canaria posesión droga destinar venta junto instituto_de_enseñanza_secundaria_felo_monzón barrio lomo_blanco",
+        "persons": [
+            "Job_Nahun_M.G."
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Lomo_Blanco"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Instituto_de_Enseñanza_Secundaria_Felo_Monzón"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "26"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional ha detenido a Job Nahun M.G., de 26 años de edad y natural de Las Palmas de Gran Canaria, por posesión de droga destinada para su venta junto al Instituto de Enseñanza Secundaria Felo Monzón, en el barrio de Lomo Blanco. Agentes del Cuerpo Nacional de Policía adscritos al Grupo de Policía Judicial de la Comisaría de Distrito Sur de la ciudad arrestaron al hombre por un presunto delito contra la salud pública, según informa la Policía en un comunicado, en el que precisa que a este varón le constan antecedentes policiales por los mismos motivos. La detención se realizó gracias a la colaboración de dicho centro, que hizo saber a la Policía que tanto en el interior como en el exterior de dicho centro se consumía y se traficaba con sustancias estupefacientes. De esta forma, se estableció un dispositivo de vigilancia por la zona por parte de policías del Grupo Operativo de Respuesta y de Policía Judicial para identificar a posibles consumidores y vendedores. Así pues se llegó a sancionar administrativamente en numerosas ocasiones la posesión de estas sustancias tanto en el interior del IES como en las proximidades del mismo. El pasado 14 de enero, se llevó a cabo la detención del referido hombre, a quien se le intervino 64 gramos de hachís y 28 comprimidos de \"trankimazín\", presuntamente destinados a su venta. Asimismo y en el mismo lugar se le interviene a otro joven una tableta con seis pastillas de diacepán. El detenido fue puesto a disposición judicial junto con las diligencias policiales, si bien ha sido puesto en libertad con cargos, siendo remitidas las sustancias estupefacientes al destino legalmente establecido. No obstante, la Policía continúa con la vigilancia y seguimiento por parte de esta comisaría para que se radique el consumo y tráfico de sustancias estupefacientes en el IES Felo Monzón-Grau Bassas y alrededores.",
+        "lemmatized_text": "el policía_nacional haber detener a job_nahun_m.g. de 26 año de edad y natural de las_palmas_de_gran_canaria por posesión de droga destinar para su venta junto a el instituto_de_enseñanza_secundaria_felo_monzón en el barrio de lomo_blanco agentes_del_cuerpo_nacional_de_policía adscribir a el grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur de el ciudad arrestar a el hombre por uno presunto delito contra el salud público según informar el policía en uno comunicado en el que precisar que a este varón le constar antecedente policial por el mismo motivo el detención se realizar gracias_a el colaboración de decir centro que hacer saber a el policía que tanto en el interior como en el exterior de decir centro se consumir y se traficar con sustancia estupefaciente de este forma se establecer uno dispositivo de vigilancia por el zona por parte de policía de el grupo_operativo_de_respuesta y de policía_judicial para identificar a posible consumidor y vendedor así_pues se llegar a sancionar administrativamente en numeroso ocasión el posesión de este sustancia tanto en el interior de el ies como en el proximidad de el mismo el [??:14/1/??:??.??:??] se llevar_a_cabo el detención de el referir hombre a quien se le intervenir WG_g:64 de hachís y 28 comprimido de trankimazín presuntamente destinar a su venta asimismo y en el mismo lugar se le intervenir a otro joven uno tableta con 6 pastilla de diacepán el detenido ser poner a disposición judicial junto_con el diligencia policial si bien haber ser poner en libertad con cargo ser remitir el sustancia estupefaciente a el destino legalmente establecer no_obstante el policía continuar con el vigilancia y seguimiento por parte de este comisaría para que se radicar el consumo y tráfico de sustancia estupefaciente en el ies_felo_monzón-grau_bassas y alrededor",
+        "lemmatized_text_reduced": "policía_nacional haber detener job_nahun_m.g. año edad natural las_palmas_de_gran_canaria posesión droga destinar venta junto instituto_de_enseñanza_secundaria_felo_monzón barrio lomo_blanco agentes_del_cuerpo_nacional_de_policía adscribir grupo_de_policía_judicial_de_la_comisaría_de_distrito_sur ciudad arrestar hombre presunto delito salud público informar policía comunicado precisar varón constar antecedente policial mismo motivo detención realizar colaboración decir centro hacer saber policía interior exterior decir centro consumir traficar sustancia estupefaciente forma establecer dispositivo vigilancia zona parte policía grupo_operativo_de_respuesta policía_judicial identificar posible consumidor vendedor llegar sancionar administrativamente numeroso ocasión posesión sustancia interior ies proximidad llevar_a_cabo detención referir hombre intervenir hachís comprimido trankimazín presuntamente destinar venta mismo lugar intervenir joven tableta pastilla diacepán detenido ser poner disposición judicial diligencia policial haber ser poner libertad cargo ser remitir sustancia estupefaciente destino legalmente establecer policía continuar vigilancia seguimiento parte comisaría radicar consumo tráfico sustancia estupefaciente ies_felo_monzón-grau_bassas alrededor",
+        "persons": [
+            "Job_Nahun_M.G."
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Lomo_Blanco"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Instituto_de_Enseñanza_Secundaria_Felo_Monzón",
+            "Agentes_del_Cuerpo_Nacional_de_Policía",
+            "Grupo_de_Policía_Judicial_de_la_Comisaría_de_Distrito_Sur",
+            "Policía",
+            "Policía",
+            "Grupo_Operativo_de_Respuesta",
+            "Policía_Judicial",
+            "IES",
+            "Policía"
+        ],
+        "others": [
+            "IES_Felo_Monzón-Grau_Bassas"
+        ],
+        "dates": [
+            "[??:14/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "26",
+            "WG_g:64",
+            "28",
+            "6"
+        ]
+    }
+}

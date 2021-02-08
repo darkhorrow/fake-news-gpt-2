@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598065/0/",
+    "title": {
+        "raw_text": "La Policía Local de Las Palmas de Gran Canaria celebrará mañana el 150 aniversario de su creación",
+        "lemmatized_text": "el policía_local_de_las_palmas_de_gran_canaria celebrar mañana el 150 aniversario de su creación",
+        "lemmatized_text_reduced": "policía_local_de_las_palmas_de_gran_canaria celebrar aniversario creación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "150"
+        ]
+    },
+    "lead": {
+        "raw_text": "Mañana jueves, 31 de diciembre de 2009, el alcalde en funciones de Las Palmas de Gran Canaria, Néstor Hernández, y el concejal de Seguridad, Jesús González Dumpiérrez, asistirán al acto conmemorativo del 150 aniversario de la creación de la Policía Local, en el que se descubrirá una placa que recordará el establecimiento del Cuerpo de la Guardia Municipal y a los seis primeros agentes que lo formaron.",
+        "lemmatized_text": "mañana [J:31/12/2009:??.??:??] el alcalde en función de las_palmas_de_gran_canaria néstor_hernández y el concejal de seguridad jesús_gonzález_dumpiérrez asistir a el acto conmemorativo de el 150 aniversario de el creación de el policía_local en el que se descubrir uno placa que recordar el establecimiento de el cuerpo_de_la_guardia_municipal y a el 6 1 agente que lo formar",
+        "lemmatized_text_reduced": "alcalde función las_palmas_de_gran_canaria néstor_hernández concejal seguridad jesús_gonzález_dumpiérrez asistir acto conmemorativo aniversario creación policía_local descubrir placa recordar establecimiento cuerpo_de_la_guardia_municipal 1 agente formar",
+        "persons": [
+            "Néstor_Hernández",
+            "Jesús_González_Dumpiérrez"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Local",
+            "Cuerpo_de_la_Guardia_Municipal"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[J:31/12/2009:??.??:??]"
+        ],
+        "numbers": [
+            "150",
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "Con este homenaje se realizará un viaje al pasado, concretamente al 31 de diciembre de 1859, cuando en sesión plenaria de la época, siendo alcalde Cristóbal del Castillo y Manrique, se formó este primer cuerpo policial, al que se le ordenó desempeñar, entre otras funciones, el servicio de los serenos. El coste total fue entonces de 2.700 reales, según informó hoy el Ayuntamiento capitalino. De esta manera, el acto comenzará a las 12.00 horas y tendrá lugar en el cuartel de la Policía Local en la calle Eufemiano Fuentes Cabrera, 3, en Miller Bajo.",
+        "lemmatized_text": "con este homenaje se realizar uno viaje a el pasado concretamente a el [??:31/12/1859:??.??:??] cuando en sesión plenario de el época ser alcalde cristóbal_del_castillo y manrique se formar este 1 cuerpo policial a el que se le ordenar desempeñar entre otro función el servicio de el sereno el coste total ser entonces de $_BRL:2.7 según informar hoy el ayuntamiento capitalino de este manera el acto comenzar a el TM_h:12 y tener_lugar en el cuartel de el policía_local en el calle eufemiano_fuentes_cabrera 3 en miller_bajo",
+        "lemmatized_text_reduced": "homenaje realizar viaje pasado concretamente sesión plenario época ser alcalde cristóbal_del_castillo manrique formar 1 cuerpo policial ordenar desempeñar función servicio sereno coste total ser informar ayuntamiento capitalino manera acto comenzar tener_lugar cuartel policía_local calle eufemiano_fuentes_cabrera miller_bajo",
+        "persons": [
+            "Cristóbal_del_Castillo",
+            "Manrique",
+            "Eufemiano_Fuentes_Cabrera"
+        ],
+        "locations": [
+            "Miller_Bajo"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[??:31/12/1859:??.??:??]"
+        ],
+        "numbers": [
+            "$_BRL:2.7",
+            "TM_h:12",
+            "3"
+        ]
+    }
+}

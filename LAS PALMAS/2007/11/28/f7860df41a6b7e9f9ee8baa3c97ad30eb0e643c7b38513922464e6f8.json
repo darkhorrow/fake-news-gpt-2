@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/313651/0/descuentos/transporte/canariras/",
+    "title": {
+        "raw_text": "Descuentos aéreos y marítimos, también para residentes extra comunitarios",
+        "lemmatized_text": "descuento aéreo y marítimo también para residente extra comunitario",
+        "lemmatized_text_reduced": "descuento aéreo marítimo residente extra comunitario",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los descuentos serán hasta del 50 por ciento. El costo de la medida se estima en 10 millones de euros. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el descuento ser hasta de el 50 por 100 el costo de el medida se estimar en $_ECU:10000000 consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "descuento ser costo medida estimar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50",
+            "100",
+            "$_ECU:10000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Este martes el Senado aprobó este martes que se extienda, en 2008, los descuentos en las tarifas de los servicios regulares del transporte aéreo y marítimo para los residentes en Canarias, Baleares, Ceuta y Melilla a los ciudadanos extracomunitarios regularizados . Inicialmente estos descuentos se aplicaban solo a los españoles, luego se ampliaron para los comunitarios residentes y a partir del próximo año los residentes extracomunitarios regularizados también los disfrutarán. Según Pere Sampol, estos residentes no comunitarios tienen los mismos derechos y obligaciones que los españoles o comunitarios, ya que trabajan y cotizan en esos lugares y no extender esas tarifas -descuentos del 50 por ciento- supone una discriminación. Difícilmente podemos pretender la plena integración de estos colectivos cuando no les hacemos partícipes de los derechos Agregó Sampol que \"difícilmente podemos pretender la plena integración de estos colectivos cuando no les hacemos partícipes de los derechos que disfrutamos el resto de residentes por el hecho de ser miembros de la Unión Europea\". Aún cuando se estima en unos 10 millones de euros el costo de la medida, también se debe tener en cuenta la \"precaria situación económica y social\" de estos trabajadores que, en algunos casos, se ven obligados a viajar para realizar determinados trámites administrativos a la península. El representante de CC, Félix Ayala, se opuso argumentando \"el esfuerzo económico\" que supone para el Gobierno. De similar opinión fue el senador del PSOE Luis Ayllón y añadió que \"la Comisión no va a enmendar al Pleno\", ya que en junio del año pasado se rechazó una medida similar. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "este [M:??/??/??:??.??:??] el senado aprobar este [M:??/??/??:??.??:??] que se extender en 2008 el descuento en el tarifa de el servicio regular de el transporte aéreo y marítimo para el residente en canarias baleares ceuta y melilla a el ciudadano extracomunitario regularizar inicialmente este descuento se aplicar solo a el español luego se ampliar para el comunitario residente y a partir de el próximo año el residente extracomunitario regularizar también lo disfrutar según pere_sampol este residente no comunitario tener el mismo derecho y obligación que el español o comunitario ya_que trabajar y cotizar en ese lugar y no extender ese tarifa descuento de el 50 por 100 suponer uno discriminación difícilmente poder pretender el pleno integración de este colectivo cuando no le hacer partícipe de el derecho agregó_sampol que difícilmente poder pretender el pleno integración de este colectivo cuando no le hacer partícipe de el derecho que disfrutar el resto de residente por el hecho de ser miembro de el unión_europea aún_cuando se estimar en uno $_ECU:10000000 el costo de el medida también se deber tener_en_cuenta el precario situación económico y social de este trabajador que en alguno caso se ver obligar a viajar para realizar determinar trámite administrativo a el península el representante de cc félix_ayala se oponer argumentar el esfuerzo económico que suponer para el gobierno de similar opinión ser el senador de el psoe_luis_ayllón y añadir que el comisión no ir a enmendar a el pleno ya_que en [??:??/6/??:??.??:??] de el año pasar se rechazar uno medida similar consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "senado aprobar extender descuento tarifa servicio regular transporte aéreo marítimo residente canarias baleares ceuta melilla ciudadano extracomunitario regularizar inicialmente descuento aplicar español ampliar comunitario residente partir próximo año residente extracomunitario regularizar disfrutar pere_sampol residente comunitario tener mismo derecho obligación español comunitario trabajar cotizar lugar extender tarifa descuento suponer discriminación difícilmente poder pretender pleno integración colectivo hacer partícipe derecho agregó_sampol difícilmente poder pretender pleno integración colectivo hacer partícipe derecho disfrutar resto residente hecho ser miembro unión_europea estimar costo medida deber tener_en_cuenta precario situación económico social trabajador caso ver obligar viajar realizar determinar trámite administrativo península representante cc félix_ayala oponer argumentar esfuerzo económico suponer gobierno similar opinión ser senador psoe_luis_ayllón añadir comisión ir enmendar pleno año pasar rechazar medida similar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Pere_Sampol",
+            "Agregó_Sampol",
+            "Félix_Ayala"
+        ],
+        "locations": [
+            "Canarias",
+            "Baleares",
+            "Melilla"
+        ],
+        "organizations": [
+            "Senado",
+            "Ceuta",
+            "Unión_Europea",
+            "CC",
+            "Gobierno",
+            "PSOE_Luis_Ayllón",
+            "Comisión",
+            "Pleno",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "2008",
+            "50",
+            "100",
+            "$_ECU:10000000"
+        ]
+    }
+}

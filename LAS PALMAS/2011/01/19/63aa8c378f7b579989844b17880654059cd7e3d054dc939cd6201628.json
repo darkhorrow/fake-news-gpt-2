@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/933003/0/",
+    "title": {
+        "raw_text": "Rivero no cree que el Gobierno esté para dar lecciones de \"gestión\" y espera que impere el diálogo con las CCAA",
+        "lemmatized_text": "rivero no creer que el gobierno estar para dar lección de gestión y esperar que imperar el diálogo con el ccaa",
+        "lemmatized_text_reduced": "rivero creer gobierno estar dar lección gestión esperar imperar diálogo ccaa",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "CCAA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de Canarias, Paulino Rivero, ha considerado que el Gobierno no está para dar \"lecciones\" de \"gestión\" a nadie en alusión a las advertencias del Ejecutivo a Cataluña por su alto nivel de deuda.",
+        "lemmatized_text": "el presidente de canarias paulino_rivero haber considerar que el gobierno no estar para dar lección de gestión a nadie en alusión a el advertencia de el ejecutivo a cataluña por su alto nivel de deuda",
+        "lemmatized_text_reduced": "presidente canarias paulino_rivero haber considerar gobierno estar dar lección gestión alusión advertencia ejecutivo cataluña alto nivel deuda",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Canarias",
+            "Cataluña"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente de Canarias, Paulino Rivero, ha considerado que el Gobierno no está para dar \"lecciones\" de \"gestión\" a nadie en alusión a las advertencias del Ejecutivo a Cataluña por su alto nivel de deuda. Rivero, que visitó hoy Fitur, sí reclamó explicaciones al Gobierno de Zapatero y confió que en el tema de la deuda de las comunidades autónomas se imponga el diálogo. \"El gobierno no está para dar lecciones de gestión económica a nadie, sino para dar alguna explicación, por lo tanto, lo que espero es que impere el diálogo\", ha subrayado.",
+        "lemmatized_text": "el presidente de canarias paulino_rivero haber considerar que el gobierno no estar para dar lección de gestión a nadie en alusión a el advertencia de el ejecutivo a cataluña por su alto nivel de deuda rivero que visitar hoy fitur sí reclamar explicación a el gobierno_de_zapatero y confiar que en el tema de el deuda de el comunidad autónomo se imponer el diálogo el gobierno no estar para dar lección de gestión económico a nadie sino para dar alguno explicación por_lo_tanto el que esperar ser que imperar el diálogo haber subrayar",
+        "lemmatized_text_reduced": "presidente canarias paulino_rivero haber considerar gobierno estar dar lección gestión alusión advertencia ejecutivo cataluña alto nivel deuda rivero visitar fitur reclamar explicación gobierno_de_zapatero confiar tema deuda comunidad autónomo imponer diálogo gobierno estar dar lección gestión económico dar explicación esperar ser imperar diálogo haber subrayar",
+        "persons": [
+            "Paulino_Rivero",
+            "Rivero",
+            "Fitur"
+        ],
+        "locations": [
+            "Canarias",
+            "Cataluña"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Ejecutivo",
+            "Gobierno_de_Zapatero"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

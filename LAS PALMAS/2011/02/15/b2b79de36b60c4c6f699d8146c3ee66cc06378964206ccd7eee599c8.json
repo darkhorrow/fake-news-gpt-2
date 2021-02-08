@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/959911/0/",
+    "title": {
+        "raw_text": "Alrededor de 7.000 personas reciben la Prestación Canaria de Inserción, lo que supone 3.556 familias",
+        "lemmatized_text": "alrededor_de 7 persona recibir el prestación_canaria_de_inserción el que suponer 3.556 familia",
+        "lemmatized_text_reduced": "persona recibir prestación_canaria_de_inserción suponer familia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Prestación_Canaria_de_Inserción"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "3.556"
+        ]
+    },
+    "lead": {
+        "raw_text": "Alrededor de 7.000 personas reciben en la actualidad la Prestación Canaria de Inserción (PCI), lo que supone un total de 3.556 familias de las islas, según datos facilitados este martes por la consejera de Bienestar Social, Juventud y Vivienda del Gobierno de Canarias, Inés Rojas, durante una rueda de prensa en la que hizo especial hincapié en que no existe cola de espera para acceder a esta ayuda.",
+        "lemmatized_text": "alrededor_de 7 persona recibir en el actualidad el prestación_canaria_de_inserción pci el que suponer uno total de 3.556 familia de el isla según dato facilitar este [M:??/??/??:??.??:??] por el consejero de bienestar_social juventud y vivienda_del_gobierno_de_canarias inés_rojas durante uno rueda de prensa en el que hacer especial hincapié en que no existir cola de espera para acceder a este ayuda",
+        "lemmatized_text_reduced": "persona recibir actualidad prestación_canaria_de_inserción pci suponer total familia isla dato facilitar consejero bienestar_social juventud vivienda_del_gobierno_de_canarias inés_rojas rueda prensa hacer especial hincapié existir cola espera acceder ayuda",
+        "persons": [
+            "Inés_Rojas"
+        ],
+        "locations": [],
+        "organizations": [
+            "Prestación_Canaria_de_Inserción",
+            "PCI",
+            "Vivienda_del_Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Bienestar_Social",
+            "Juventud"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "7",
+            "3.556"
+        ]
+    },
+    "body": {
+        "raw_text": "Alrededor de 7.000 personas reciben en la actualidad la Prestación Canaria de Inserción (PCI), lo que supone un total de 3.556 familias de las islas, según datos facilitados este martes por la consejera de Bienestar Social, Juventud y Vivienda del Gobierno de Canarias, Inés Rojas, durante una rueda de prensa en la que hizo especial hincapié en que no existe cola de espera para acceder a esta ayuda. De esta manera, desde la creación de la Ley en 2007 han sido 13.849 las personas beneficiarias de la prestación, dato que representa 6.882 familias canarias, mientras que en estos últimos cuatro años se han insertado 838 personas a través de un empleo. Respecto al presupuesto con el que se cuenta, la consejera señaló que para 2011, la PCI contará con un presupuesto de 20 millones de euros, cifra que es un 19,76 por ciento superior a la de 2009 y un 156 por ciento mayor al presupuesto que hubo en el primer año de actividad. (Habrá ampliación)",
+        "lemmatized_text": "alrededor_de 7 persona recibir en el actualidad el prestación_canaria_de_inserción pci el que suponer uno total de 3.556 familia de el isla según dato facilitar este [M:??/??/??:??.??:??] por el consejero de bienestar_social juventud y vivienda_del_gobierno_de_canarias inés_rojas durante uno rueda de prensa en el que hacer especial hincapié en que no existir cola de espera para acceder a este ayuda de este manera desde el creación de el ley en 2007 haber ser 13.849 el persona beneficiario de el prestación dato que representar 6.882 familia canario mientras_que en este último 4 año se haber insertar 838 persona a_través_de uno empleo respecto a el presupuesto con el que se contar el consejero señalar que para 2011 el pci contar con uno presupuesto de $_ECU:20000000 cifra que ser uno 19,76 por 100 superior a el de 2009 y uno 156 por 100 mayor a el presupuesto que haber en el 1 año de actividad haber ampliación",
+        "lemmatized_text_reduced": "persona recibir actualidad prestación_canaria_de_inserción pci suponer total familia isla dato facilitar consejero bienestar_social juventud vivienda_del_gobierno_de_canarias inés_rojas rueda prensa hacer especial hincapié existir cola espera acceder ayuda manera creación ley haber ser persona beneficiario prestación dato representar familia canario último año haber insertar persona empleo respecto presupuesto contar consejero señalar pci contar presupuesto cifra ser superior mayor presupuesto haber 1 año actividad haber ampliación",
+        "persons": [
+            "Inés_Rojas"
+        ],
+        "locations": [],
+        "organizations": [
+            "Prestación_Canaria_de_Inserción",
+            "PCI",
+            "Vivienda_del_Gobierno_de_Canarias",
+            "PCI"
+        ],
+        "others": [
+            "Bienestar_Social",
+            "Juventud",
+            "Ley"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "7",
+            "3.556",
+            "2007",
+            "13.849",
+            "6.882",
+            "4",
+            "838",
+            "2011",
+            "$_ECU:20000000",
+            "19,76",
+            "100",
+            "2009",
+            "156",
+            "100"
+        ]
+    }
+}

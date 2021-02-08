@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/654734/0/",
+    "title": {
+        "raw_text": "Las Palmas de Gran Canaria destina 109.000 euros a subvenciones para compensar impuesto de vehículos de tracción",
+        "lemmatized_text": "el palmas_de_gran_canaria destinar $_ECU:109 a subvención para compensar impuesto de vehículo de tracción",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria destinar subvención compensar impuesto vehículo tracción",
+        "persons": [],
+        "locations": [
+            "Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:109"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria destinará 109.000 euros en subvenciones para compensar la actualización del Impuesto de Vehículos de Tracción Mecánica (IVTM) que se ha realizado este año a los profesionales del transporte registrados en la capital grancanaria.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria destinar $_ECU:109 en subvención para compensar el actualización de el impuesto_de_vehículos_de_tracción_mecánica ivtm que se haber realizar este año a el profesional de el transporte registrar en el capital grancanaria",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria destinar subvención compensar actualización impuesto_de_vehículos_de_tracción_mecánica ivtm haber realizar año profesional transporte registrar capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "IVTM"
+        ],
+        "others": [
+            "Impuesto_de_Vehículos_de_Tracción_Mecánica"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:109"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, con este acuerdo se verán beneficiados unos 1.000 trabajadores, según informó el Consistorio capitalino en nota de prensa. \"Como dijimos a finales del pasado año la actualización tributaria era una necesidad real que había que afrontar pero también pondríamos los medios para proteger a los vecinos más afectados por la crisis económica\", subrayó el director de gobierno de Hacienda y Economía, Benito Cabrera. En concreto, los 109.000 euros se han destinado a compensar a los trabajadores del taxi y a los transportistas aunque también se prepara otra línea específica de subvenciones para compensar la subida del Impuesto sobre Bienes Inmuebles (IBI) y que cuya cifra a repartir alcanza los 1,5 millones de euros para los propietarios de viviendas cuyo valor catastral sea inferior a 30.000 euros.",
+        "lemmatized_text": "así con este acuerdo se ver beneficiar uno 1 trabajador según informar el consistorio capitalino en nota de prensa como decir a final de el pasar año el actualización tributario ser uno necesidad real que haber que afrontar pero también poner el medio para proteger a el vecino más afectar por el crisis económico subrayar el director de gobierno de hacienda y economía benito_cabrera en concreto el $_ECU:109 se haber destinar a compensar a el trabajador de el taxi y a el transportista aunque también se preparar otro línea específico de subvención para compensar el subida de el impuesto sobre bienes_inmuebles ibi y que cuyo cifrar a repartir alcanzar el 1,5 millón de euro para el propietario de vivienda cuyo valor catastral ser inferior a $_ECU:30",
+        "lemmatized_text_reduced": "acuerdo ver beneficiar trabajador informar consistorio capitalino nota prensa decir final pasar año actualización tributario ser necesidad real haber afrontar poner medio proteger vecino afectar crisis económico subrayar director gobierno hacienda economía benito_cabrera concreto haber destinar compensar trabajador taxi transportista preparar línea específico subvención compensar subida impuesto bienes_inmuebles ibi cifrar repartir alcanzar millón euro propietario vivienda valor catastral ser inferior",
+        "persons": [
+            "Benito_Cabrera",
+            "Bienes_Inmuebles"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consistorio",
+            "Hacienda",
+            "IBI"
+        ],
+        "others": [
+            "Economía",
+            "Impuesto"
+        ],
+        "dates": [],
+        "numbers": [
+            "1",
+            "$_ECU:109",
+            "1,5",
+            "$_ECU:30"
+        ]
+    }
+}

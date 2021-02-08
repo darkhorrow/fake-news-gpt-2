@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/682554/0/",
+    "title": {
+        "raw_text": "Salen a la venta las entradas para el concierto de Revólver en Lanzarote",
+        "lemmatized_text": "salir a el venta el entrada para el concierto de revólver en lanzarote",
+        "lemmatized_text_reduced": "salir venta entrada concierto revólver lanzarote",
+        "persons": [],
+        "locations": [
+            "Revólver",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Hoy se han puesto a la venta las entradas para asistir al concierto que el grupo musical Revólver ofrecerá el próximo jueves 29 de abril en el Teatro de San Bartolomé (Lanzarote), a las 21.00 horas.",
+        "lemmatized_text": "hoy se haber poner a el venta el entrada para asistir a el concierto que el grupo musical revólver ofrecer el [J:29/4/??:??.??:??] en el teatro_de_san_bartolomé lanzarote a el TM_h:21",
+        "lemmatized_text_reduced": "haber poner venta entrada asistir concierto grupo musical revólver ofrecer teatro_de_san_bartolomé lanzarote",
+        "persons": [],
+        "locations": [
+            "Teatro_de_San_Bartolomé",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Revólver"
+        ],
+        "others": [],
+        "dates": [
+            "[J:29/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "El grupo de pop-rock que lidera Carlos Goñi visitará la isla para presentar las canciones que se incluyen en su último trabajo discográfico, '21 gramos', según informó el Cabildo en un comunicado. Las entradas para este concierto pueden adquirirse, al precio de 18 euros, en el Centro Insular de Cultura El Almacén y en el departamento de Cultura del ayuntamiento de San Bartolomé. La actuación de Revólver está organizada por el área de Educación y Cultura del Cabildo de Lanzarote y por la Obra Social de La Caja de Canarias, con la colaboración del ayuntamiento de San Bartolomé.A Punto del 20 ANIVERSARIO A punto de cumplirse 20 años de existencia de Revólver, y alrededor de 27 desde que comenzara su carrera musical —primero con los rudos Garage y luego con los incisivos Comité Cisne—, Carlos Goñi hace tiempo que es uno de los nombres esenciales del mejor rock español. Y lo es no sólo por esas dos décadas, lo es por una discografía indiscutible que con este nuevo '21 Gramos' alcanza la docena de discos, por un sonido netamente propio e identificable, por su independencia absoluta que le mantiene a cubierto de modas pasajeras, y por atesorar un cancionero intenso que forma parte de la memoria musical de España —'Si es tan sólo amor', 'El roce de tu piel', 'Eldorado', 'No va más', 'Odio', 'Calle Mayor', 'Faro de Lisboa', entre otras—. Este nuevo trabajo de Revólver revela el Carlos Goñi más íntimo y más profundo, haciendo una mirada introspectiva sobre sí mismo y sobre todo aquello que le rodea, indic ala nota. \"Tendremos que expulsar prejuicios y prepararnos para sumergirnos en un viaje para descubrir rincones y llevar a cabo reflexiones sobre valores y hechos que nos rodean\", concluye el Cabildo lanzaroteño.",
+        "lemmatized_text": "el grupo de pop-rock que liderar carlos_goñi visitar el isla para presentar el canción que se incluir en su último trabajo discográfico WG_g:21 según informar el cabildo en uno comunicado el entrada para este concierto poder adquirir se a el precio de $_ECU:18 en el centro_insular_de_cultura_el_almacén y en el departamento de cultura de el ayuntamiento de san_bartolomé el actuación de revólver estar organizar por el área de educación y cultura_del_cabildo_de_lanzarote y por el obra_social_de_la_caja_de_canarias con el colaboración de el ayuntamiento de san_bartolomé a punto de el 20 aniversario_a_punto_de cumplir se 20 año de existencia de revólver y alrededor_de 27 desde que comenzar su carrera musical 1 con el rudo garage y luego con el incisivo comité_cisne carlos_goñi hacer tiempo que ser uno de el nombre esencial de el mejor rock español y lo ser no_sólo por ese 2 década lo ser por uno discografía indiscutible que con este nuevo 21 gramos alcanzar el docena de disco por uno sonido netamente propio y identificable por su independencia absoluto que le mantener a cubrir de moda pasajero y por atesorar uno cancionero intenso que formar_parte de el memoria musical de españa si ser tan sólo amor el roce de tu piel eldorado no ir más odio calle_mayor faro_de_lisboa entre otro este nuevo trabajo de revólver revelar el carlos_goñi más íntimo y más profundo hacer uno mirada introspectivo sobre sí mismo y sobre todo aquel que le rodear indic ala nota tener que expulsar prejuicio y preparar nos para sumergir nos en uno viaje para descubrir rincón y llevar_a_cabo reflexión sobre valor y hecho que nos rodear concluir el cabildo lanzaroteño",
+        "lemmatized_text_reduced": "grupo pop-rock liderar carlos_goñi visitar isla presentar canción incluir último trabajo discográfico informar cabildo comunicado entrada concierto poder adquirir precio centro_insular_de_cultura_el_almacén departamento cultura ayuntamiento san_bartolomé actuación revólver estar organizar área educación cultura_del_cabildo_de_lanzarote obra_social_de_la_caja_de_canarias colaboración ayuntamiento san_bartolomé punto aniversario_a_punto_de cumplir año existencia revólver comenzar carrera musical 1 rudo garage incisivo comité_cisne carlos_goñi hacer tiempo ser nombre esencial mejor rock español ser década ser discografía indiscutible nuevo gramos alcanzar docena disco sonido netamente propio identificable independencia absoluto mantener cubrir moda pasajero atesorar cancionero intenso formar_parte memoria musical españa ser amor roce piel eldorado ir odio calle_mayor faro_de_lisboa nuevo trabajo revólver revelar carlos_goñi íntimo profundo hacer mirada introspectivo mismo rodear ala nota tener expulsar prejuicio preparar sumergir viaje descubrir rincón llevar_a_cabo reflexión valor hecho rodear concluir cabildo lanzaroteño",
+        "persons": [
+            "Carlos_Goñi",
+            "Punto",
+            "Garage",
+            "Carlos_Goñi",
+            "España",
+            "Eldorado",
+            "Carlos_Goñi"
+        ],
+        "locations": [
+            "San_Bartolomé",
+            "San_Bartolomé",
+            "Calle_Mayor",
+            "Revólver"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Centro_Insular_de_Cultura_El_Almacén",
+            "Cultura",
+            "Revólver",
+            "Cultura_del_Cabildo_de_Lanzarote",
+            "Obra_Social_de_La_Caja_de_Canarias",
+            "Revólver",
+            "Comité_Cisne",
+            "Cabildo"
+        ],
+        "others": [
+            "Educación",
+            "ANIVERSARIO_A_punto_de",
+            "Gramos",
+            "Faro_de_Lisboa"
+        ],
+        "dates": [],
+        "numbers": [
+            "WG_g:21",
+            "$_ECU:18",
+            "20",
+            "20",
+            "27",
+            "2",
+            "21"
+        ]
+    }
+}

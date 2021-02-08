@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/605218/0/",
+    "title": {
+        "raw_text": "El Opel Astra se convierte en el mejor coche del año para los canarios, según GM España",
+        "lemmatized_text": "el opel_astra se convertir en el mejor coche de el año para el canario según gm_españa",
+        "lemmatized_text_reduced": "opel_astra convertir mejor coche año canario gm_españa",
+        "persons": [
+            "GM_España"
+        ],
+        "locations": [],
+        "organizations": [
+            "Opel_Astra"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Opel Astra ha sido elegido como 'El Mejor Coche del Año en Canarias 2010', después de recibir un 41,6 por ciento de los votos emitidos por los trece miembros del jurado, compuesto por especialistas del motor en el archipiélago.",
+        "lemmatized_text": "el opel_astra haber ser elegir como el mejor_coche_del_año en canarias 2010 después_de recibir uno 41,6 por 100 de el voto emitir por el 13 miembro de el jurado componer por especialista de el motor en el archipiélago",
+        "lemmatized_text_reduced": "opel_astra haber ser elegir mejor_coche_del_año canarias recibir voto emitir miembro jurado componer especialista motor archipiélago",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Opel_Astra",
+            "Mejor_Coche_del_Año"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "41,6",
+            "100",
+            "13"
+        ]
+    },
+    "body": {
+        "raw_text": "El premio organizado por la Asociación de la Prensa Deportiva de Las Palmas y Tenerife, en su quinta edición, distingue al automóvil que reúne unas condiciones \"óptimas\" para los ciudadanos de las islas, según informó GM España en un comunicado. Así, para la elección del vehículo se han valorando aspectos como la seguridad, tanto activa como pasiva, además de los acabados, la estética, equipamientos, tecnología, ecología, innovación, costes de mantenimiento, relación calidad-precio y servicio posventa del concesionario o importador de la marca para el archipiélago. Este premio se une así al ya \"amplio abanico de galardones que está cosechando\" el nuevo Astra, tanto en España como en el resto de Europa, entre los que destacan el 'Mejor Coche del Año de ABC 2010', 'El Coche del Año de los Lectores 2010' del Grupo Editorial Prensa Ibérica o el 'Volante de Oro' que concede la prestigiosa revista AutoBild.",
+        "lemmatized_text": "el premio organizar por el asociación_de_la_prensa_deportiva_de_las_palmas y tenerife en su 5 edición distinguir a el automóvil que reunir uno condición bueno para el ciudadano de el isla según informar gm_españa en uno comunicado así para el elección de el vehículo se haber valorar aspecto como el seguridad tanto activo como pasivo además_de el acabado el estética equipamiento tecnología ecología innovación coste de mantenimiento relación calidad-precio y servicio posventa de el concesionario o importador de el marca para el archipiélago este premio se unir así a el ya amplio abanico de galardón que estar cosechar el nuevo astra tanto en españa como en el resto de europa entre el que destacar el mejor_coche_del_año_de_abc 2010 el coche_del_año_de_los_lectores 2010 de el grupo_editorial_prensa_ibérica o el volante_de_oro que conceder el prestigioso revista autobild",
+        "lemmatized_text_reduced": "premio organizar asociación_de_la_prensa_deportiva_de_las_palmas tenerife 5 edición distinguir automóvil reunir condición bueno ciudadano isla informar gm_españa comunicado elección vehículo haber valorar aspecto seguridad activo pasivo acabado estética equipamiento tecnología ecología innovación coste mantenimiento relación calidad-precio servicio posventa concesionario importador marca archipiélago premio unir amplio abanico galardón estar cosechar nuevo astra españa resto europa destacar mejor_coche_del_año_de_abc coche_del_año_de_los_lectores grupo_editorial_prensa_ibérica volante_de_oro conceder prestigioso revista autobild",
+        "persons": [],
+        "locations": [
+            "Astra",
+            "España",
+            "Europa"
+        ],
+        "organizations": [
+            "Asociación_de_la_Prensa_Deportiva_de_Las_Palmas",
+            "Tenerife",
+            "GM_España",
+            "Grupo_Editorial_Prensa_Ibérica",
+            "AutoBild"
+        ],
+        "others": [
+            "Mejor_Coche_del_Año_de_ABC",
+            "Coche_del_Año_de_los_Lectores",
+            "Volante_de_Oro"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "2010"
+        ]
+    }
+}

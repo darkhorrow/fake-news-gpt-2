@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/921149/0/",
+    "title": {
+        "raw_text": "Una patera llega por sus propios medios a Playa Blanca (Fuerteventura) y sus ocupantes se dispersan",
+        "lemmatized_text": "uno patera llegar por su propio medio a playa_blanca fuerteventura y su ocupante se dispersar",
+        "lemmatized_text_reduced": "patera llegar propio medio playa_blanca fuerteventura ocupante dispersar",
+        "persons": [
+            "Playa_Blanca"
+        ],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una patera ha llegado por sus propios medios a la zona de Playa Blanca, dentro del término municipal de Puerto del Rosario (Fuerteventura), y sus ocupantes --las primeras estimaciones apuntan a 15 personas-- se han dispersado al tocar tierra, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno patera haber llegar por su propio medio a_la_zona_de playa_blanca dentro de el término municipal de puerto_del_rosario fuerteventura y su ocupante el 1 estimación apuntar a 15 persona se haber dispersar a el tocar tierra según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "patera haber llegar propio medio playa_blanca término municipal puerto_del_rosario fuerteventura ocupante 1 estimación apuntar persona haber dispersar tocar tierra informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Playa_Blanca"
+        ],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "15",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una patera ha llegado por sus propios medios a la zona de Playa Blanca, dentro del término municipal de Puerto del Rosario (Fuerteventura), y sus ocupantes —las primeras estimaciones apuntan a 15 personas— se han dispersado al tocar tierra, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. De esta manera, una persona alertó sobre las 16.01 horas de este miércoles de que una embarcación había arribado a la costa de Playa Blanca y que sus ocupantes, que calculó en unos 15 individuos, se habían alejado del lugar al llegar. En ese momento, se activó el dispositivo de búsqueda habitual en estos casos y se movilizó a Policía Local de Puerto del Rosario, Policía Nacional, Guardia Civil, Cruz Roja y personal del Frontex, quienes trabajan en estos momentos en la localización de los inmigrantes.",
+        "lemmatized_text": "uno patera haber llegar por su propio medio a_la_zona_de playa_blanca dentro de el término municipal de puerto_del_rosario fuerteventura y su ocupante el 1 estimación apuntar a 15 persona se haber dispersar a el tocar tierra según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112 de este manera uno persona alertar sobre el TM_h:16.01 de este [X:??/??/??:??.??:??] de que uno embarcación haber arribar a el costa de playa_blanca y que su ocupante que calcular en uno 15 individuo se haber alejar de el lugar a el llegar en ese momento se activar el dispositivo de búsqueda habitual en este caso y se movilizar a policía_local_de_puerto_del_rosario policía_nacional guardia_civil cruz_roja y personal de el frontex quien trabajar en este momento en el localización de el inmigrante",
+        "lemmatized_text_reduced": "patera haber llegar propio medio playa_blanca término municipal puerto_del_rosario fuerteventura ocupante 1 estimación apuntar persona haber dispersar tocar tierra informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes manera persona alertar embarcación haber arribar costa playa_blanca ocupante calcular individuo haber alejar lugar llegar momento activar dispositivo búsqueda habitual caso movilizar policía_local_de_puerto_del_rosario policía_nacional guardia_civil cruz_roja personal frontex trabajar momento localización inmigrante",
+        "persons": [
+            "Playa_Blanca",
+            "Playa_Blanca"
+        ],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Policía_Local_de_Puerto_del_Rosario",
+            "Policía_Nacional",
+            "Guardia_Civil",
+            "Cruz_Roja",
+            "Frontex"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "15",
+            "112",
+            "TM_h:16.01",
+            "15"
+        ]
+    }
+}

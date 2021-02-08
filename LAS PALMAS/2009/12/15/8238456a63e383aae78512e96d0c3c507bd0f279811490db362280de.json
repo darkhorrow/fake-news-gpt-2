@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/588127/0/",
+    "title": {
+        "raw_text": "Fallece un varón al sufrir una parada cardiorrespiratoria en una vía pública de Valleseco (Gran Canaria)",
+        "lemmatized_text": "fallecer uno varón a el sufrir uno parada cardiorrespiratoria en uno vía público de valleseco gran_canaria",
+        "lemmatized_text_reduced": "fallecer varón sufrir parada cardiorrespiratoria vía público valleseco gran_canaria",
+        "persons": [],
+        "locations": [
+            "Valleseco",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de 74 años de edad ha fallecido tras sufrir una parada cardiorrespiratoria en la GC-30 a su paso por la zona de La Laguna, en el municipio grancanario de Valleseco, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno varón de 74 año de edad haber fallecer tras sufrir uno parada cardiorrespiratoria en el GC-30 a su paso por el zona de la_laguna en el municipio grancanario de valleseco según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber fallecer sufrir parada cardiorrespiratoria paso zona la_laguna municipio grancanario valleseco informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "La_Laguna",
+            "Valleseco"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "74",
+            "GC-30",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 07.22 horas de esta mañana asegurando que un hombre se encontraba tendido en el suelo y no respondía a estímulos en la dirección anteriormente mencionada. Por ello, se activó al Servicio de Urgencias Canario (SUC) y al personal médico de los centros de salud de la zona que se trasladaron al lugar de los hechos comprobando que el afectado se encontraba en parada cardiorrespiratoria. Los miembros sanitarios le practicaron las maniobras de reanimación pulmonar avanzadas que no dieron resultado, por lo que solamente se pudo constatar el fallecimiento del varón de 74 años. Asimismo, en el incidente participaron la Policía Local, que colaboró con el resto de recursos de emergencia, y la Guardia Civil, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:7.22 de este mañana asegurar que uno hombre se encontrar tender en el suelo y no responder a estímulo en el dirección anteriormente mencionar por ello se activar a el servicio_de_urgencias_canario suc y a el personal médico de el centro de salud de el zona que se trasladar a el lugar de el hecho comprobar que el afectar se encontrar en parada cardiorrespiratoria el miembro sanitario le practicar el maniobra de reanimación pulmonar avanzada que no dar resultado por el que solamente se poder constatar el fallecimiento de el varón de 74 año asimismo en el incidente participar el policía_local que colaborar con el resto de recurso de emergencia y el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "cecoes recibir alerta mañana asegurar hombre encontrar tender suelo responder estímulo dirección anteriormente mencionar activar servicio_de_urgencias_canario suc personal médico centro salud zona trasladar lugar hecho comprobar afectar encontrar parada cardiorrespiratoria miembro sanitario practicar maniobra reanimación pulmonar avanzada dar resultado solamente poder constatar fallecimiento varón año incidente participar policía_local colaborar resto recurso emergencia guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.22",
+            "74"
+        ]
+    }
+}

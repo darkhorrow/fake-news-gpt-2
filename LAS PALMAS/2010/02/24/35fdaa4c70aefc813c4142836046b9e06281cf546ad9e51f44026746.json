@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/637139/0/",
+    "title": {
+        "raw_text": "El incendio en un tanque en el Puerto de Las Palmas se produjo durante operaciones de soldadura",
+        "lemmatized_text": "el incendio en uno tanque en el puerto_de_las_palmas se producir durante operación de soldadura",
+        "lemmatized_text_reduced": "incendio tanque puerto_de_las_palmas producir operación soldadura",
+        "persons": [],
+        "locations": [
+            "Puerto_de_Las_Palmas"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Autoridad Portuaria de Las Palmas ha precisado a Europa Press que el incendio producido en un tanque de los depósitos de combustible de la Ducar, en el Puerto de La Luz, se produjo durante \"operaciones de soldadura\" y \"no hubo explosión\".",
+        "lemmatized_text": "el autoridad_portuaria_de_las_palmas haber precisar a europa_press que el incendio producir en uno tanque de el depósito de combustible de el ducar en el puerto_de_la_luz se producir durante operación de soldadura y no haber explosión",
+        "lemmatized_text_reduced": "autoridad_portuaria_de_las_palmas haber precisar europa_press incendio producir tanque depósito combustible ducar puerto_de_la_luz producir operación soldadura haber explosión",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Autoridad_Portuaria_de_Las_Palmas",
+            "Ducar"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las mismas fuentes indicaron que el fuego fue \"superficial\" y \"se extinguió sobre la marcha\", por lo que no precisó la intervención de los bomberos que se acercaron hasta el lugar. Los hechos ocurrieron en horas del mediodía cuando dos operarios estaban trabajando en un tanque ubicado en la zona industrial de El Sebadal, en la capital grancanaria, realizando operaciones de soldadura cuando, en un momento dado, se produjo un incendio que \"se extinguió por sí sólo, ya que fue una combustión rápida\". Como consecuencia del incidente, los dos trabajadores resultaron heridos, por lo que fueron evacuados por ambulancias del Servicio de Urgencias Canario a un centro hospitalario. Uno de ellos sufrió quemaduras que podrían ser de carácter \"grave\", según las mismas fuentes. La Autoridad Portuaria informó de que el fuego \"no ha supuesto peligro para la instalación ni para el Puerto y el origen del incendio no fue una explosión sino consecuencia de los trabajos que se estaban realizando fuera del tanque\". Aproximadamente a las 14.30 horas se levantó el plan de emergencias del Puerto que fue activado en cuanto se alertó del suceso, que dejó una gran humareda sobre la zona portuaria.",
+        "lemmatized_text": "el mismo fuente indicar que el fuego ser superficial y se extinguir sobre el marcha por el que no precisar el intervención de el bombero que se acercar hasta el lugar el hecho ocurrir en hora de el [??:??/??/??:12.00:pm] cuando 2 operario estar trabajar en uno tanque ubicar en el zona industrial de el_sebadal en el capital grancanaria realizar operación de soldadura cuando en uno momento dar se producir uno incendio que se extinguir por sí sólo ya_que ser uno combustión rápido como consecuencia de el incidente el 2 trabajador resultar herir por el que ser evacuar por ambulancia de el servicio_de_urgencias_canario a uno centro hospitalario uno de ellos sufrir quemadura que poder ser de carácter grave según el mismo fuente el autoridad_portuaria informar de que el fuego no haber suponer peligro para el instalación ni para el puerto y el origen de el incendio no ser uno explosión sino consecuencia de el trabajo que se estar realizar fuera de el tanque aproximadamente a el TM_h:14.3 se levantar el plan de emergencia de el puerto que ser activar en cuanto se alertar de el suceso que dejar uno gran humareda sobre el zona portuario",
+        "lemmatized_text_reduced": "mismo fuente indicar fuego ser superficial extinguir marcha precisar intervención bombero acercar lugar hecho ocurrir hora operario estar trabajar tanque ubicar zona industrial el_sebadal capital grancanaria realizar operación soldadura momento dar producir incendio extinguir ser combustión rápido consecuencia incidente trabajador resultar herir ser evacuar ambulancia servicio_de_urgencias_canario centro hospitalario sufrir quemadura poder ser carácter grave mismo fuente autoridad_portuaria informar fuego haber suponer peligro instalación puerto origen incendio ser explosión consecuencia trabajo estar realizar tanque aproximadamente levantar plan emergencia puerto ser activar alertar suceso dejar gran humareda zona portuario",
+        "persons": [],
+        "locations": [
+            "El_Sebadal",
+            "Puerto"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Autoridad_Portuaria",
+            "Puerto"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "2",
+            "2",
+            "TM_h:14.3"
+        ]
+    }
+}

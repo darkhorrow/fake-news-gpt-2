@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/439690/0/fallecido/accidente/grancanaria/",
+    "title": {
+        "raw_text": "Un muerto y un herido grave al caer su coche por un barranco en Gran Canaria",
+        "lemmatized_text": "uno muerto y uno herir grave a el caer su coche por uno barranco en gran_canaria",
+        "lemmatized_text_reduced": "muerto herir grave caer coche barranco gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Cayeron desde una gran altura cerca de Ayacata, en San Bartolomé de Tirajana. La mujer permanece ingresada en el hospital en estado crítico. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "caer desde uno gran altura cerca de ayacata en san_bartolomé_de_tirajana el mujer permanecer ingresar en el hospital en estado crítico consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "caer gran altura ayacata san_bartolomé_de_tirajana mujer permanecer ingresar hospital estado crítico consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Ayacata",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre de 27 años de edad ha fallecido y una mujer permanece en estado crítico al volcar el vehículo en el que viajaban y precipitarse por un barranco ocho kilómetros después del Cruce de Ayacata, en el municipio grancanario de San Bartolomé de Tirajana, en la carretera en dirección a la Presa de Las Niñas, informaron fuentes del Centro Coordinador de Emergencias y Seguridad (CECOES) 112, que no pudieron precisar más datos de las víctimas. El accidente ocurrió a las 14.00 horas, cuando el Cecoes recibió una llamada alertando de lo sucedido y activó el dispositivo de emergencias necesario ya que los ocupantes precisaban asistencia sanitaria. Hasta el lugar se desplazó la Guardia Civil para instruir las correspondientes diligencias y bomberos del Consorcio de Emergencias de Gran Canaria, que rescataron a los afectados que quedaron atrapados en el interior del vehículo . También acudieron al siniestro una ambulancia de soporte vital básico y otra medicalizada del Servicio de Urgencias Canario, que atendieron a las dos personas y confirmaron el fallecimiento del varón. Un helicóptero del Grupo de Emergencias y Salvamento (GES) trasladó a la mujer al Hospital Universitario de Gran Canaria Doctor Negrín y desde la helisuperficie al centro hospitalario fue trasladada en una ambulancia medicalizada del SUC.",
+        "lemmatized_text": "uno hombre de 27 año de edad haber fallecer y uno mujer permanecer en estado crítico a el volcar el vehículo en el que viajar y precipitar se por uno barranco LN_km:8 después de el cruce_de_ayacata en el municipio grancanario de san_bartolomé_de_tirajana en el carretera en_dirección_a el presa_de_las_niñas informar fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que no poder precisar más dato de el víctima el accidente ocurrir a el TM_h:14 cuando el cecoes recibir uno llamada alertar de el suceder y activar el dispositivo de emergencia necesario ya_que el ocupante precisar asistencia sanitario hasta el lugar se desplazar el guardia_civil para instruir el correspondiente diligencia y bombero de el consorcio_de_emergencias_de_gran_canaria que rescatar a el afectado que quedar atrapar en el interior de el vehículo también acudir a el siniestro uno ambulancia de soporte vital básico y otro medicalizada de el servicio_de_urgencias_canario que atender a el 2 persona y confirmar el fallecimiento de el varón uno helicóptero de el grupo_de_emergencias y salvamento ges trasladar a el mujer a el hospital_universitario_de_gran_canaria_doctor_negrín y desde el helisuperficie a el centro hospitalario ser trasladar en uno ambulancia medicalizada de el suc",
+        "lemmatized_text_reduced": "hombre año edad haber fallecer mujer permanecer estado crítico volcar vehículo viajar precipitar barranco cruce_de_ayacata municipio grancanario san_bartolomé_de_tirajana carretera presa_de_las_niñas informar fuente centro_coordinador_de_emergencias seguridad cecoes poder precisar dato víctima accidente ocurrir cecoes recibir llamada alertar suceder activar dispositivo emergencia necesario ocupante precisar asistencia sanitario lugar desplazar guardia_civil instruir correspondiente diligencia bombero consorcio_de_emergencias_de_gran_canaria rescatar afectado quedar atrapar interior vehículo acudir siniestro ambulancia soporte vital básico medicalizada servicio_de_urgencias_canario atender persona confirmar fallecimiento varón helicóptero grupo_de_emergencias salvamento ges trasladar mujer hospital_universitario_de_gran_canaria_doctor_negrín helisuperficie centro hospitalario ser trasladar ambulancia medicalizada suc",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Cruce_de_Ayacata",
+            "San_Bartolomé_de_Tirajana",
+            "Presa_de_Las_Niñas"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "CECOES",
+            "Cecoes",
+            "Guardia_Civil",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "27",
+            "LN_km:8",
+            "112",
+            "TM_h:14",
+            "2"
+        ]
+    }
+}

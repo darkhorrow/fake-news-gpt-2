@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/356358/0/denidos/portugueses/trafico/",
+    "title": {
+        "raw_text": "Detienen al capitán de un barco portugués por tráfico de inmigrantes",
+        "lemmatized_text": "detener a el capitán de uno barco portugués por tráfico de inmigrante",
+        "lemmatized_text_reduced": "detener capitán barco portugués tráfico inmigrante",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Él oficial y cinco tripulantes, que también fueron detenidos, cobraron 44.000 euros a once inmigrantes de Guinea Bissau y Mauritania. Tenían documentación para hacerlos pasar por marineros. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "él oficial y 5 tripulante que también ser detener cobrar $_ECU:44 a 11 inmigrante de guinea_bissau y mauritania tener documentación para hacer lo pasar por marinero consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "oficial tripulante ser detener cobrar inmigrante guinea_bissau mauritania tener documentación hacer pasar marinero consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Guinea_Bissau",
+            "Mauritania"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "$_ECU:44",
+            "11"
+        ]
+    },
+    "body": {
+        "raw_text": "El capitán y cinco tripulantes del barco portugués \"Albimar\" han ingresado en prisión tras ser detenidos al llegar a Gran Canaria con once inmigrantes irregulares a los que cobraron 44.000 euros por transportarlos hasta Canarias, informó hoy la Jefatura Superior de Policía. El barco permanece atracado en la capital grancanaria, adonde llegó con inmigrantes de Guinea Bissau y Mauritania tras cobrarles 4.000 euros a cada uno . Además los obligaron a trabajar El capitán, Carlos Alberto A.R., embarcó a los inmigrantes en el puerto mauritano de Nouadhibou, tenía documentación para hacerlos pasar por marineros y los obligó a trabajar durante el trayecto sin pagarles nada a cambio. El capitán ya estuvo detenido en Senegal acusado de tráfico de personas en el mismo barco, por lo que pasó ocho meses de prisión. Todos los inmigrantes han declarado que fueron captados por dos marineros del barco llamados Eduardo José M.P y Joao S.D., quienes fueron detenidos junto al primer oficial Joao D.S.V. y el marinero Mohamed M.S.H. El objetivo del capitán y la tripulación era desembarcarlos poco a poco en Gran Canaria y zarpar sin ellos, tal como han hecho de forma continuada, a veces con inmigrantes escondidos en un zulo bajo el cajón de redes. Condiciones infrahumanas El quinto marinero implicado, Alberto K.Jl, ya fue detenido en 2006 en Gran Canaria junto al resto de la tripulación del barco portugués \"Mapopeche-1 \", que atracó con veinte inmigrantes subsaharianos escondidos en otro zulo de 3 por 1,5 metros de superficie por uno de alto, por lo que también ingresaron en prisión. Los inmigrantes aseguran que la pérdida de 4.000 euros es para ellos un quiebro económico porque en su país es una verdadera fortuna . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA.",
+        "lemmatized_text": "el capitán y 5 tripulante de el barco portugués albimar haber ingresar en prisión tras ser detener a el llegar a gran_canaria con 11 inmigrante irregular a el que cobrar $_ECU:44 por transportar lo hasta canarias informar hoy el jefatura_superior_de_policía el barco permanecer atracar en el capital grancanaria adonde llegar con inmigrante de guinea_bissau y mauritania tras cobrar le $_ECU:4 a cada uno además lo obligar a trabajar el capitán carlos_alberto_a.r. embarcar a el inmigrante en el puerto mauritano de nouadhibou tener documentación para hacer lo pasar por marinero y el obligar a trabajar durante el trayecto sin pagar le nada a_cambio el capitán ya estar detener en senegal acusar de tráfico de persona en el mismo barco por el que pasar 8 mes de prisión todo el inmigrante haber declarar que ser captar por 2 marinero de el barco llamar eduardo_josé_m._p y joao_s.d. quien ser detener junto a el 1 oficial joao_d.s.v. y el marinero mohamed_m.s.h._el objetivo de el capitán y el tripulación ser desembarcar lo poco_a_poco en gran_canaria y zarpar sin ellos tal_y_como haber hacer de forma continuar a vez con inmigrante esconder en uno zulo bajo el cajón de red condición infrahumano el 5 marinero implicar alberto_k._jl ya ser detener en 2006 en gran_canaria junto a el resto de el tripulación de el barco portugués Mapopeche-1 que atracar con 20 inmigrante subsahariano esconder en otro zulo de 3 por LN_m:1,5 de superficie por uno de alto por el que también ingresar en prisión el inmigrante asegurar que el pérdida de $_ECU:4 ser para ellos uno quiebro económico porque en su país ser uno verdadero fortuna consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "capitán tripulante barco portugués albimar haber ingresar prisión ser detener llegar gran_canaria inmigrante irregular cobrar transportar canarias informar jefatura_superior_de_policía barco permanecer atracar capital grancanaria llegar inmigrante guinea_bissau mauritania cobrar obligar trabajar el capitán carlos_alberto_a.r. embarcar inmigrante puerto mauritano nouadhibou tener documentación hacer pasar marinero obligar trabajar trayecto pagar capitán estar detener senegal acusar tráfico persona mismo barco pasar mes prisión inmigrante haber declarar ser captar marinero barco llamar eduardo_josé_m._p joao_s.d. ser detener 1 oficial joao_d.s.v. marinero mohamed_m.s.h._el objetivo capitán tripulación ser desembarcar gran_canaria zarpar haber hacer forma continuar vez inmigrante esconder zulo cajón red condición infrahumano el 5 marinero implicar alberto_k._jl ser detener gran_canaria junto resto tripulación barco portugués atracar inmigrante subsahariano esconder zulo superficie alto ingresar prisión inmigrante asegurar pérdida ser quiebro económico país ser verdadero fortuna consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Carlos_Alberto_A.R.",
+            "Eduardo_José_M._P",
+            "Joao_S.D.",
+            "Joao_D.S.V.",
+            "Mohamed_M.S.H._El",
+            "El",
+            "Alberto_K._Jl"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Canarias",
+            "Guinea_Bissau",
+            "Mauritania",
+            "Nouadhibou",
+            "Senegal",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Albimar",
+            "Jefatura_Superior_de_Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "El"
+        ],
+        "dates": [],
+        "numbers": [
+            "5",
+            "11",
+            "$_ECU:44",
+            "$_ECU:4",
+            "8",
+            "2",
+            "2006",
+            "Mapopeche-1",
+            "20",
+            "3",
+            "LN_m:1,5",
+            "$_ECU:4"
+        ]
+    }
+}

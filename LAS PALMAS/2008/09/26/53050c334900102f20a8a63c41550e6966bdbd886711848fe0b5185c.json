@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/414985/0/alerta/vientos/canarias/",
+    "title": {
+        "raw_text": "Finaliza la alerta por fuertes vientos en Gran Canaria",
+        "lemmatized_text": "finalizar el alerta por fuerte viento en gran_canaria",
+        "lemmatized_text_reduced": "finalizar alerta fuerte viento gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El gobierno canario ha decretado el final de la alerta esta mañana. Los bomberos de la capital tuvieron que atender ayer desprendimientos de palmeras y fachadas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el gobierno canario haber decretar el final de el alerta este mañana el bombero de el capital tener que atender ayer desprendimiento de palmera y fachada consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "gobierno canario haber decretar final alerta mañana bombero capital tener atender desprendimiento palmera fachada consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Dirección general de Seguridad y Emergencias del Gobierno canario ha levantado hoy la alerta en la isla de Gran Canaria por fuertes vientos , según informaron fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. En cuanto a las incidencias que provocó ayer el viento en diferentes puntos de la isla, el Centro Coordinador de Emergencias y Seguridad 112 de Canarias informó de la caída de una torreta de tendido eléctrico en el cruce de Melenara, lo que ha provocado cortes de carretera en el autovía Gran Canaria 1 (GC-1). Los fuertes vientos ocasionaron también problemas de suministro eléctrico en el norte de la isla , caídas de palmeras, árboles, piedras y objetos de edificaciones en la capital grancanaria, informaron fuentes de los Bomberos. TODOS LOS BOMBEROS TRABAJANDO Toda la plantilla de bomberos de Las Palmas de Gran Canaria tuvo que salir de los parques para atender avisos de emergencia y tuvo que ser reforzada debido a los problemas originados por las rachas de viento del suroeste que se están produciendo. A media tarde, Protección Civil activó la prealerta por vientos de hasta 75 kilómetros por hora y poco después la Dirección General de Seguridad y Emergencias del Gobierno de Canarias declaró la alerta por vientos de hasta 90 kilómetros a la hora.",
+        "lemmatized_text": "el dirección general de seguridad y emergencias_del_gobierno canario haber levantar hoy el alerta en el isla de gran_canaria por fuerte viento según informar fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 en_cuanto_a el incidencia que provocar ayer el viento en diferente punto de el isla el centro_coordinador_de_emergencias y seguridad 112 de canarias informar de el caída de uno torreta de tendido eléctrico en el cruce de melenara el que haber provocar corte de carretera en el autovía gran_canaria 1 GC-1 el fuerte viento ocasionar también problema de suministro eléctrico en el norte de el isla caer de palmera árbol piedra y objeto de edificación en el capital grancanaria informar fuente de el bomberos todos_los_bomberos_trabajando_toda el plantilla de bombero de las_palmas_de_gran_canaria tener que salir de el parque para atender aviso de emergencia y tener que ser reforzar debido_a el problema originar por el racha de viento de el suroeste que se estar producir a medio tarde protección_civil activar el prealerta por viento de hasta SP_km/h:75 y poco después el dirección_general_de_seguridad y emergencias_del_gobierno_de_canarias declarar el alerta por viento de hasta LN_km:90 a el hora",
+        "lemmatized_text_reduced": "dirección general seguridad emergencias_del_gobierno canario haber levantar alerta isla gran_canaria fuerte viento informar fuente centro_coordinador_de_emergencias seguridad cecoes incidencia provocar viento punto isla centro_coordinador_de_emergencias seguridad canarias informar caída torreta tendido eléctrico cruce melenara haber provocar corte carretera autovía gran_canaria fuerte viento ocasionar problema suministro eléctrico norte isla caer palmera árbol piedra objeto edificación capital grancanaria informar fuente bomberos todos_los_bomberos_trabajando_toda plantilla bombero las_palmas_de_gran_canaria tener salir parque atender aviso emergencia tener ser reforzar problema originar racha viento suroeste estar producir medio tarde protección_civil activar prealerta viento dirección_general_de_seguridad emergencias_del_gobierno_de_canarias declarar alerta viento hora",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Canarias",
+            "Melenara",
+            "Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Dirección",
+            "Emergencias_del_Gobierno",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Centro_Coordinador_de_Emergencias",
+            "Bomberos",
+            "Protección_Civil",
+            "Dirección_General_de_Seguridad",
+            "Emergencias_del_Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Seguridad",
+            "Seguridad",
+            "Seguridad",
+            "TODOS_LOS_BOMBEROS_TRABAJANDO_Toda"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "112",
+            "1",
+            "GC-1",
+            "SP_km/h:75",
+            "LN_km:90"
+        ]
+    }
+}

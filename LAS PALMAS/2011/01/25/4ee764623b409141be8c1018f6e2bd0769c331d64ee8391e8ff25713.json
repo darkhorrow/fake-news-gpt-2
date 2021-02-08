@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/938526/0/",
+    "title": {
+        "raw_text": "El 112 registra numerosas llamadas de la provincia de Las Palmas pidiendo ayuda por las precipitaciones",
+        "lemmatized_text": "el 112 registrar numeroso llamada de el provincia de las_palmas pedir ayuda por el precipitación",
+        "lemmatized_text_reduced": "registrar numeroso llamada provincia las_palmas pedir ayuda precipitación",
+        "persons": [],
+        "locations": [
+            "Las_Palmas"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Centro de Coordinación de Emergencias y Seguridad 112 ha registrado durante la noche de este martes, así como durante las primeras horas, numerosas llamadas de la provincia de Las Palmas solicitando ayuda a causa de las precipitaciones que se están produciendo en las islas.",
+        "lemmatized_text": "el centro_de_coordinación_de_emergencias y seguridad 112 haber registrar durante el noche de este [M:??/??/??:??.??:??] así_como durante el 1 hora numeroso llamada de el provincia de las_palmas solicitar ayuda a_causa_de el precipitación que se estar producir en el isla",
+        "lemmatized_text_reduced": "centro_de_coordinación_de_emergencias seguridad haber registrar noche 1 hora numeroso llamada provincia las_palmas solicitar ayuda precipitación estar producir isla",
+        "persons": [],
+        "locations": [
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Centro de Coordinación de Emergencias y Seguridad 112 ha registrado durante la noche de este martes, así como durante las primeras horas, numerosas llamadas de la provincia de Las Palmas solicitando ayuda a causa de las precipitaciones que se están produciendo en las islas. En concreto, y según informó el 112, la solicitud de ayudas durante la noche de este martes procedían principalmente de las islas de Fuerteventura y Lanzarote donde se informaba de achiques de agua en viviendas, calles anegadas o alcantarillas atascadas. Sin embargo, a primera hora de esta mañana las peticiones de ayuda proceden del Sur de la isla de Gran Canaria, entre otros, de municipios como Mogán, también por las razonas citadas. Ante ello, se ha activado al Consorcio de Emergencias de Gran Canaria con el objetivo de atender las llamadas que el 112 recibe. El archipiélago canario se encuentra en alerta naranja por vientos y lluvias, pudiéndose acumular hasta 90 litros por metro cúbico en doce horas.",
+        "lemmatized_text": "el centro_de_coordinación_de_emergencias y seguridad 112 haber registrar durante el noche de este [M:??/??/??:??.??:??] así_como durante el 1 hora numeroso llamada de el provincia de las_palmas solicitar ayuda a_causa_de el precipitación que se estar producir en el isla en concreto y según informar el 112 el solicitud de ayuda durante el noche de este [M:??/??/??:??.??:??] proceder principalmente de el isla de fuerteventura y lanzarote donde se informar de achique de agua en vivienda calle anegar o alcantarilla atascar sin embargo a 1 hora de este mañana el petición de ayuda proceder de el sur de el isla de gran_canaria entre otro de municipio como mogán también por el razonar citar ante ello se haber activar a el consorcio_de_emergencias_de_gran_canaria con el objetivo de atender el llamada que el 112 recibir el archipiélago canario se encontrar en alerta naranja por viento y lluvia poder se acumular hasta VL_l:90 por metro cúbico en TM_h:12",
+        "lemmatized_text_reduced": "centro_de_coordinación_de_emergencias seguridad haber registrar noche 1 hora numeroso llamada provincia las_palmas solicitar ayuda precipitación estar producir isla concreto informar solicitud ayuda noche proceder principalmente isla fuerteventura lanzarote informar achique agua vivienda calle anegar alcantarilla atascar embargo 1 hora mañana petición ayuda proceder sur isla gran_canaria municipio mogán razonar citar haber activar consorcio_de_emergencias_de_gran_canaria objetivo atender llamada recibir archipiélago canario encontrar alerta naranja viento lluvia poder acumular metro cúbico",
+        "persons": [],
+        "locations": [
+            "Las_Palmas",
+            "Fuerteventura",
+            "Lanzarote",
+            "Gran_Canaria",
+            "Mogán"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación_de_Emergencias",
+            "Sur",
+            "Consorcio_de_Emergencias_de_Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "112",
+            "112",
+            "VL_l:90",
+            "TM_h:12"
+        ]
+    }
+}

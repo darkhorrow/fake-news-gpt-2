@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/689498/0/",
+    "title": {
+        "raw_text": "La tercera fase de la 'operación Jable' en Lanzarote incluye hoy hasta 8 nuevos detenidos",
+        "lemmatized_text": "el 3 fase de el operación jable en lanzarote incluir hoy hasta 8 nuevo detenido",
+        "lemmatized_text_reduced": "3 fase operación jable lanzarote incluir nuevo detenido",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Jable"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8"
+        ]
+    },
+    "lead": {
+        "raw_text": "La tercera fase de la 'operación Jable' que se lleva realizando desde primera hora de la mañana en Lanzarote incluye hasta un total de 8 nuevos detenidos, de entre los que hasta el momento ya está bajo custodia de la Guardia Civil la consejera del Cabildo y ex presidenta de la Institución insular, María José Docal.",
+        "lemmatized_text": "el 3 fase de el operación jable que se llevar realizar desde 1 hora de el mañana en lanzarote incluir hasta uno total de 8 nuevo detenido de entre el que hasta el momento ya estar bajo custodia de el guardia_civil el consejero de el cabildo y ex presidente de el institución insular maría_josé_docal",
+        "lemmatized_text_reduced": "3 fase operación jable llevar realizar 1 hora mañana lanzarote incluir total nuevo detenido momento estar custodia guardia_civil consejero cabildo ex presidente institución insular maría_josé_docal",
+        "persons": [
+            "Jable",
+            "Cabildo",
+            "María_José_Docal"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Institución"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8"
+        ]
+    },
+    "body": {
+        "raw_text": "Con ello, el número de detenidos desde que estalló el pasado lunes la presunta trama de corrupción se elevaría hasta las 25 personas. La Guardia Civil ha asegurado a Europa Press que informará oficialmente del número de detenidos y sus nombres durante la mañana y una vez finalice el operativo. Otros detenidos son el empresario Samuel Lemes, el concejal de Parques y Jardines de Arrecife, Antonio Machín, y Luisa Blanco, ambos del PIL, según avanza Canarias7.es. Además, también ha sido detenido el dueño de Lanzagrava, Demetrio Rodríguez Robayna, quien ha realizado varias obras para el Consistorio en los últimos años y adjudicataria del Plan de Barrios impulsado por el PIL en la capital, según La Voz de Lanzarote. El registro de Docal comenzó en su domicilio sobre las 8:15 de la mañana, mientras que el de Machín tuvo lugar durante el registro del Ayuntamiento de Arrecife.",
+        "lemmatized_text": "con ello el número de detenido desde que estallar el [L:??/??/??:??.??:??] el presunto trama de corrupción se elevar hasta el 25 persona el guardia_civil haber asegurar a europa_press que informar oficialmente de el número de detenido y su nombre durante el mañana y uno vez finalizar el operativo otro detenido ser el empresario samuel_lemes el concejal de parques y jardines_de_arrecife antonio_machín y luisa_blanco ambos de el pil según avanzar Canarias7.es además también haber ser detener el dueño de lanzagrava demetrio_rodríguez_robayna quien haber realizar varios obra para el consistorio en el último año y adjudicatario de el plan_de_barrios impulsar por el pil en el capital según la_voz_de_lanzarote el registro de docal comenzar en su domicilio sobre el [??:??/??/??:8.15:am] mientras_que el de machín tener_lugar durante el registro de el ayuntamiento_de_arrecife",
+        "lemmatized_text_reduced": "número detenido estallar presunto trama corrupción elevar persona guardia_civil haber asegurar europa_press informar oficialmente número detenido nombre mañana vez finalizar operativo detenido ser empresario samuel_lemes concejal parques jardines_de_arrecife antonio_machín luisa_blanco pil avanzar haber ser detener dueño lanzagrava demetrio_rodríguez_robayna haber realizar obra consistorio último año adjudicatario plan_de_barrios impulsar pil capital la_voz_de_lanzarote registro docal comenzar domicilio machín tener_lugar registro ayuntamiento_de_arrecife",
+        "persons": [
+            "Europa_Press",
+            "Samuel_Lemes",
+            "Antonio_Machín",
+            "Luisa_Blanco",
+            "Demetrio_Rodríguez_Robayna",
+            "La_Voz_de_Lanzarote",
+            "Docal",
+            "Machín"
+        ],
+        "locations": [
+            "Lanzagrava"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "PIL",
+            "Consistorio",
+            "PIL",
+            "Ayuntamiento_de_Arrecife"
+        ],
+        "others": [
+            "Parques",
+            "Jardines_de_Arrecife",
+            "Plan_de_Barrios"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/??/??:8.15:am]"
+        ],
+        "numbers": [
+            "25",
+            "Canarias7.es"
+        ]
+    }
+}

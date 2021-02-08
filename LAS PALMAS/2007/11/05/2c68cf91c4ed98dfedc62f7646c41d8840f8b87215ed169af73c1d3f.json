@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/300549/0/juicio/terrorismo/canarias/",
+    "title": {
+        "raw_text": "A juicio porque se paseó con una camiseta de Bin Laden el día del 11-M",
+        "lemmatized_text": "a juicio porque se pasear con uno camiseta de bin_laden el día de el 11-M",
+        "lemmatized_text_reduced": "juicio pasear camiseta bin_laden día",
+        "persons": [
+            "Bin_Laden"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "11-M"
+        ]
+    },
+    "lead": {
+        "raw_text": "El joven, de origen árabe, es residente de Telde. Gritaba: \"Me alegro del atentado de Madrid\". CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el joven de origen árabe ser residente de telde gritar me alegrar de el atentado de madrid consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "joven origen árabe ser residente telde gritar alegrar atentado madrid consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Telde",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Audiencia Nacional juzgará el próximo jueves a un joven de origen árabe que el 11-M se paseó por el barrio en el que residía en Telde, Gran Canaria, con una camiseta que lucía la imagen de Osama Bin Laden mientras gritaba : \"Me alegro del atentado de Madrid\". El juicio a este joven -Sidi Blaiha-, para el que la Fiscalía solicita un año y medio de cárcel por un delito de enaltecimiento del terrorismo, debía haberse celebrado el pasado 8 de junio, pero entonces no compareció y la sección tercera de la Sala de lo Penal ordenó que fuera localizado y puesto a disposición del tribunal. Según el fiscal, el mismo día de los atentados del 11-M el acusado se exhibió \"con una camiseta negra con dos imágenes de Osama Bin Laden, haciendo gestos de satisfacción por el resultado de los citados hechos, diciendo 'me alegro del atentado de Madrid' y 'con Bin Laden no puede nadie', enfrentándose con algunos vecinos\". La Fiscalía considera que los hechos son constitutivos de un delito de enaltecimiento del terrorismo y además de la pena de cárcel pide que el joven sea condenado a diez años de inhabilitación absoluta y al \"decomiso de la prenda intervenida\". CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el audiencia_nacional juzgar el [J:??/??/??:??.??:??] a uno joven de origen árabe que el 11-M se pasear por el barrio en el que residir en telde gran_canaria con uno camiseta que lucir el imagen de osama_bin_laden mientras gritar me alegrar de el atentado de madrid el juicio a este joven sidi_blaiha para el que el fiscalía solicitar uno año y medio de cárcel por uno delito de enaltecimiento de el terrorismo deber haber se celebrar el [??:8/6/??:??.??:??] pero entonces no comparecer y el sección 3 de el sala de el penal ordenar que ser localizar y poner a disposición de el tribunal según el fiscal el mismo día de el atentado de el 11-M el acusado se exhibir con uno camiseta negro con 2 imagen de osama_bin_laden hacer gesto de satisfacción por el resultado de el citar hecho decir me alegrar de el atentado de madrid y con bin_laden no poder nadie enfrentar se con alguno vecino el fiscalía considerar que el hecho ser constitutivo de uno delito de enaltecimiento de el terrorismo y además_de el pena de cárcel pedir que el joven ser condenar a 10 año de inhabilitación absoluto y a el decomiso de el prenda intervenir consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "audiencia_nacional juzgar joven origen árabe pasear barrio residir telde gran_canaria camiseta lucir imagen osama_bin_laden gritar alegrar atentado madrid juicio joven sidi_blaiha fiscalía solicitar año medio cárcel delito enaltecimiento terrorismo deber haber celebrar comparecer sección 3 sala penal ordenar ser localizar poner disposición tribunal fiscal mismo día atentado acusado exhibir camiseta negro imagen osama_bin_laden hacer gesto satisfacción resultado citar hecho decir alegrar atentado madrid bin_laden poder enfrentar vecino fiscalía considerar hecho ser constitutivo delito enaltecimiento terrorismo pena cárcel pedir joven ser condenar año inhabilitación absoluto decomiso prenda intervenir consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Gran_Canaria",
+            "Osama_Bin_Laden",
+            "Sidi_Blaiha",
+            "Osama_Bin_Laden",
+            "Bin_Laden"
+        ],
+        "locations": [
+            "Telde",
+            "Madrid",
+            "Madrid"
+        ],
+        "organizations": [
+            "Audiencia_Nacional",
+            "Fiscalía",
+            "Sala",
+            "Penal",
+            "Fiscalía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[??:8/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "11-M",
+            "11-M",
+            "2",
+            "10"
+        ]
+    }
+}

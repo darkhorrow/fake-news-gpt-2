@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/376810/0/bebe/acantilado/fuerteventura/",
+    "title": {
+        "raw_text": "Muere el bebé que fue arrojado por su madre por un barranco en Fuerteventura",
+        "lemmatized_text": "morir el bebé que ser arrojar por su madre por uno barranco en fuerteventura",
+        "lemmatized_text_reduced": "morir bebé ser arrojar madre barranco fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La madre permanece custodiada por la Guardia Civil en la unidad de psiquiatría de Fuerteventura. El padre del bebé llegará hoy en avión a la capital de grancanaria. El suceso tuvo lugar ayer por la tarde, cuando la madre arrojó al bebé por un acantilado de 10 metros de altura. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el madre permanecer custodiar por el guardia_civil en el unidad de psiquiatría de fuerteventura el padre de el bebé llegar hoy en avión a el capital de grancanaria el suceso tener_lugar ayer por el tarde cuando el madre arrojar a el bebé por uno acantilado de LN_m:10 de altura consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "madre permanecer custodiar guardia_civil unidad psiquiatría fuerteventura padre bebé llegar avión capital grancanaria suceso tener_lugar tarde madre arrojar bebé acantilado altura consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil",
+            "Fuerteventura",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:10"
+        ]
+    },
+    "body": {
+        "raw_text": "El bebé de seis meses que fue arrojado el pasado miércoles por su madre por un barranco de la costa sur de Fuerteventura falleció poco después de mediodía de hoy en el Hospital Insular de Gran Canaria, donde permanecía en estado \"muy crítico \", informó la Guardia Civil. El fallecimiento se produjo sobre las 12,45 horas, indicaron las fuentes, que informaron de que su madre, de 36 años, que sufre una fuerte depresión postparto , continúa ingresada en la Unidad de Salud Mental del Hospital General de Fuerteventura. La jueza del Juzgado de Instrucción número 1 de Puerto del Rosario deberá decidir sobre la continuidad en un centro de salud mental o el ingreso en prisión de la madre, natural de Uruguay y con nacionalidad italiana, señalaron las fuentes Según la Guardia Civil, la madre del bebé acudió el pasado miércoles por la tarde a la oficina municipal de Costa Calma, porque, según relató, su marido quería ingresarla en un psiquiátrico y quitarle a su bebé . La Policía Local avisó entonces a la Guardia Civil, que localizó a su marido y pudo ver cómo habló con su mujer en plena calle y le decía que llevaba meses muy mal y que la quería ayudar. El marido le dijo a su mujer que no tenía intención de quitarle a su hijo y que se iba a poner en contacto con su cuñado en Uruguay para que se fuera con su bebé junto a su familia, para así recuperarse. Así mismo, el marido le dijo que iba a pedir la tarde del miércoles libre para estar con ella, pero, cuando volvió a su casa, su mujer ya se había ido y había arrojado por un terraplén de cinco metros de altura al bebé , que cayó sobre unas piedras y se golpeó la cabeza. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el bebé de 6 mes que ser arrojar el [X:??/??/??:??.??:??] por su madre por uno barranco de el costa sur de fuerteventura fallecer poco después_de [??:??/??/??:12.00:pm] de hoy en el hospital_insular_de_gran_canaria donde permanecer en estado muy crítico informar el guardia_civil el fallecimiento se producir sobre el TM_h:12,45 indicar el fuente que informar de que su madre de 36 año que sufrir uno fuerte depresión postparto continuar ingresar en el unidad_de_salud_mental_del_hospital_general_de_fuerteventura el juez de el juzgado_de_instrucción número 1 de puerto_del_rosario deber decidir sobre el continuidad en uno centro de salud mental o el ingreso en prisión de el madre natural de uruguay y con nacionalidad italiano señalar el fuente según_la_guardia_civil el madre de el bebé acudir el [X:??/??/??:??.??:pm] a el oficina municipal de costa_calma porque según relatar su marido querer ingresar lo en uno psiquiátrico y quitar le a su bebé el policía_local avisar entonces a el guardia_civil que localizar a su marido y poder ver cómo hablar con su mujer en pleno calle y le decir que llevar mes muy mal y que lo querer ayudar el marido le decir a su mujer que no tener intención de quitar le a su hijo y que se ir a poner_en_contacto con su cuñado en uruguay para que se ir con su bebé junto_a su familia para así recuperar se así mismo el marido le decir que ir a pedir el tarde de el [X:??/??/??:??.??:??] libre para estar con él pero cuando volver a su casa su mujer ya se haber ir y haber arrojar por uno terraplén de LN_m:5 de altura a el bebé que caer sobre uno piedra y se golpear el cabeza consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "bebé mes ser arrojar madre barranco costa sur fuerteventura fallecer hospital_insular_de_gran_canaria permanecer estado crítico informar guardia_civil fallecimiento producir indicar fuente informar madre año sufrir fuerte depresión postparto continuar ingresar unidad_de_salud_mental_del_hospital_general_de_fuerteventura juez juzgado_de_instrucción número puerto_del_rosario deber decidir continuidad centro salud mental ingreso prisión madre natural uruguay nacionalidad italiano señalar fuente según_la_guardia_civil madre bebé acudir oficina municipal costa_calma relatar marido querer ingresar psiquiátrico quitar bebé policía_local avisar guardia_civil localizar marido poder ver hablar mujer pleno calle decir llevar mes mal querer ayudar marido decir mujer tener intención quitar hijo ir poner_en_contacto cuñado uruguay ir bebé familia recuperar mismo marido decir ir pedir tarde libre estar volver casa mujer haber ir haber arrojar terraplén altura bebé caer piedra golpear cabeza consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Rosario",
+            "Uruguay",
+            "Costa_Calma",
+            "Uruguay"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Hospital_Insular_de_Gran_Canaria",
+            "Guardia_Civil",
+            "Unidad_de_Salud_Mental_del_Hospital_General_de_Fuerteventura",
+            "Juzgado_de_Instrucción",
+            "Policía_Local",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Según_la_Guardia_Civil"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]",
+            "[X:??/??/??:??.??:pm]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "6",
+            "TM_h:12,45",
+            "36",
+            "1",
+            "LN_m:5"
+        ]
+    }
+}

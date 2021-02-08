@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/944079/0/",
+    "title": {
+        "raw_text": "Canarias registrará este domingo lluvias débiles a moderadas",
+        "lemmatized_text": "canario registrar este [G:??/??/??:??.??:??] lluvia débil a moderado",
+        "lemmatized_text_reduced": "canario registrar lluvia débil moderado",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias registrará este domingo lluvias que será de débiles a moderadas, pudiendo ser más persistentes durante las primeras horas, según informó la Agencia Estatal de Meteorología (Aemet).",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias registrar este [G:??/??/??:??.??:??] lluvia que ser de débil a moderado poder ser más persistente durante el 1 hora según informar el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias registrar lluvia ser débil moderado poder ser persistente 1 hora informar agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Comunidad Autónoma de Canarias registrará este domingo lluvias que será de débiles a moderadas, pudiendo ser más persistentes durante las primeras horas, según informó la Agencia Estatal de Meteorología (Aemet). De esta manera, la previsión meteorológica en la provincia de Las Palmas para hoy, domingo 30 de enero de 2011, indica que habrá intervalos nubosos aumentando durante la tarde a muy nubosos con probabilidad de lluvias débiles, que podrían ser persistentes. En Fuerteventura y Lanzarote también predominarán los intervalos nubosos aumentando a muy nubosos durante la tarde con posibilidad de lluvias. En cuanto al viento será del nordeste moderado con intervalos de fuerte en costas sudeste y noroeste. Las temperaturas se mantendrán sin cambios, oscilando en Las Palmas de Gran Canaria entre los 22 y 18 grados centígrados. Por su parte, la previsión meteorológica en la provincia de Santa Cruz de Tenerife para hoy indica que predominarán los intervalos nubosos, aumentando por la tarde a muy nuboso; asimismo, se prevén lluvias débiles que podrían ser persistentes. En cuanto a las temperaturas, el termómetro se mantendrá sin cambios o en ligero descenso y oscilará entre los 21ºC de máxima y los 16ºC de mínima. Por último, según la Aemet, el viento soplará del nordeste flojo a moderado durante la primera mitad del día, aumentando a moderado con algún intervalo de fuerte durante la tarde.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias registrar este [G:??/??/??:??.??:??] lluvia que ser de débil a moderado poder ser más persistente durante el 1 hora según informar el agencia_estatal_de_meteorología aemet de este manera el previsión meteorológico en el provincia de las_palmas para hoy [G:30/1/2011:??.??:??] indicar que haber intervalo nuboso aumentar durante el tarde a muy nuboso con probabilidad de lluvia débil que poder ser persistente en fuerteventura y lanzarote también predominar el intervalo nuboso aumentar a muy nuboso durante el tarde con posibilidad de lluvia en cuanto a el viento ser de el nordeste moderar con intervalo de fuerte en costa sudeste y noroeste el temperatura se mantener sin cambio oscilar en las_palmas_de_gran_canaria entre el 22 y TP_C:18 por su parte el previsión meteorológico en el provincia de santa_cruz_de_tenerife para hoy indicar que predominar el intervalo nuboso aumentar por el tarde a muy nuboso asimismo se prever lluvia débil que poder ser persistente en_cuanto_a el temperatura el termómetro se mantener sin cambio o en ligero descenso y oscilar entre el 21ºC de máximo y el 16ºC de mínimo por último según el aemet el viento soplar de el nordeste flojo a moderar durante el 1 mitad de el día aumentar a moderar con alguno intervalo de fuerte durante el tarde",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias registrar lluvia ser débil moderado poder ser persistente 1 hora informar agencia_estatal_de_meteorología aemet manera previsión meteorológico provincia las_palmas indicar haber intervalo nuboso aumentar tarde nuboso probabilidad lluvia débil poder ser persistente fuerteventura lanzarote predominar intervalo nuboso aumentar nuboso tarde posibilidad lluvia viento ser nordeste moderar intervalo fuerte costa sudeste noroeste temperatura mantener cambio oscilar las_palmas_de_gran_canaria parte previsión meteorológico provincia santa_cruz_de_tenerife indicar predominar intervalo nuboso aumentar tarde nuboso prever lluvia débil poder ser persistente temperatura termómetro mantener cambio ligero descenso oscilar máximo mínimo último aemet viento soplar nordeste flojo moderar 1 mitad día aumentar moderar intervalo fuerte tarde",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Las_Palmas",
+            "Fuerteventura",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[G:30/1/2011:??.??:??]"
+        ],
+        "numbers": [
+            "22",
+            "TP_C:18",
+            "21ºC",
+            "16ºC"
+        ]
+    }
+}

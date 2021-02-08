@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/708017/0/",
+    "title": {
+        "raw_text": "Martín afirma que se está \"volviendo a la normalidad\" y recuerda que hay que \"convivir\" con el volcán",
+        "lemmatized_text": "martín afirmar que se estar volver a el normalidad y recordar que haber que convivir con el volcán",
+        "lemmatized_text_reduced": "martín afirmar estar volver normalidad recordar haber convivir volcán",
+        "persons": [
+            "Martín"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La consejera de Turismo del Gobierno de Canarias, Rita Martín, ha afirmado, sobre los problemas ocasionados por la nube de cenizas al turismo del archipiélago, que se está \"volviendo a la normalidad\", recordando que hay que \"convivir\" con los inconvenientes que produce el volcán de Islandia, según puso hoy de manifiesto durante unas declaraciones a los medios tras inaugurar la III Feria Vacaciones en Canarias.",
+        "lemmatized_text": "el consejero de turismo_del_gobierno_de_canarias rita_martín haber afirmar sobre el problema ocasionar por el nube de ceniza a el turismo de el archipiélago que se estar volver a el normalidad recordar que haber que convivir con el inconveniente que producir el volcán de islandia según poner hoy de manifiesto durante uno declaración a el medio tras inaugurar el iii_feria_vacaciones en canarias",
+        "lemmatized_text_reduced": "consejero turismo_del_gobierno_de_canarias rita_martín haber afirmar problema ocasionar nube ceniza turismo archipiélago estar volver normalidad recordar haber convivir inconveniente producir volcán islandia poner manifiesto declaración medio inaugurar iii_feria_vacaciones canarias",
+        "persons": [
+            "Rita_Martín"
+        ],
+        "locations": [
+            "Islandia",
+            "Canarias"
+        ],
+        "organizations": [
+            "Turismo_del_Gobierno_de_Canarias"
+        ],
+        "others": [
+            "III_Feria_Vacaciones"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Estamos volviendo a la normalidad y tenemos que convivir con esta intermitencia porque está latente, el volcán sigue con la misma intensidad a la hora de emitir esas cenizas y en cualquier momento nos puede ocasionar ese mismo colapso, como ocurrió el martes. Entendemos que en Canarias el transporte es crucial\", declaró. En este sentido, sobre la reunión que ha mantenido hoy con los consejeros del área de los cabildos insulares, la consejera explicó que durante la misma se ha puesto sobre la mesa la coordinación y la sinergia entre las instituciones para afrontar los efectos de la nube. Asimismo, Martín apuntó a que, como consecuencia del recorte de presupuesto que ha tenido que llevar a cabo el Gobierno de Canarias, en el encuentro también se ha hablado sobre cómo reestructurar los presupuestos de cara a 2011. Al respecto, apuntó que a la Consejería de Turismo le ha tocado un 5,3 por ciento de recorte, lo que supone 5 millones de euros \"que no va a afectar en este momento a ninguna de las administraciones públicas\". Aquí, aseguró que durante la reunión con los consejeros de los cabildos se ha intentado \"reorganizar todo y prepararse para el año que viene\". \"La época de bonanza —añadió— no va a volver. Hay un antes como consecuencia de esa crisis que afectó a los principales países que emitían turismo a las islas y, a partir de aquí, nos tendremos que adaptar a la nueva situación y al futuro\".",
+        "lemmatized_text": "estar volver a el normalidad y tener que convivir con este intermitencia porque estar latente el volcán seguir con el mismo intensidad a el hora de emitir ese ceniza y en cualquiera momento nos poder ocasionar ese mismo colapso como ocurrir el [M:??/??/??:??.??:??] entender que en canarias el transporte ser crucial declarar en este sentido sobre el reunión que haber mantener hoy con el consejero de el área de el cabildo insular el consejero explicar que durante el mismo se haber poner sobre el mesa el coordinación y el sinergia entre el institución para afrontar el efecto de el nube asimismo martín apuntar a que como consecuencia de el recorte de presupuesto que haber tener que llevar_a_cabo el gobierno_de_canarias en el encuentro también se haber hablar sobre cómo reestructurar el presupuesto de_cara_a 2011 a el respecto apuntar que a el consejería_de_turismo le haber tocar uno 5,3 por 100 de recorte el que suponer $_ECU:5000000 que no ir a afectar en este momento a ninguno de el administración público aquí asegurar que durante el reunión con el consejero de el cabildo se haber intentar reorganizar todo y preparar se para el año que venir el época de bonanza añadir no ir a volver haber uno antes como consecuencia de ese crisis que afectar a el principal país que emitir turismo a el isla y a_partir_de aquí nos tener que adaptar a el nuevo situación y a el futuro",
+        "lemmatized_text_reduced": "estar volver normalidad tener convivir intermitencia estar latente volcán seguir mismo intensidad hora emitir ceniza momento poder ocasionar mismo colapso ocurrir entender canarias transporte ser crucial declarar sentido reunión haber mantener consejero área cabildo insular consejero explicar mismo haber poner mesa coordinación sinergia institución afrontar efecto nube martín apuntar consecuencia recorte presupuesto haber tener llevar_a_cabo gobierno_de_canarias encuentro haber hablar reestructurar presupuesto respecto apuntar consejería_de_turismo haber tocar recorte suponer ir afectar momento administración público asegurar reunión consejero cabildo haber intentar reorganizar preparar año venir época bonanza añadir ir volver haber consecuencia crisis afectar principal país emitir turismo isla tener adaptar nuevo situación futuro",
+        "persons": [
+            "Martín"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Consejería_de_Turismo"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2011",
+            "5,3",
+            "100",
+            "$_ECU:5000000"
+        ]
+    }
+}

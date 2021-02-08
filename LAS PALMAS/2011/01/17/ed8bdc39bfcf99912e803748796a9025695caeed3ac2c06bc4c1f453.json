@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/930351/0/",
+    "title": {
+        "raw_text": "Aparece una patera vacía en la zona de La Isleta de Las Palmas de Gran Canaria",
+        "lemmatized_text": "aparecer uno patera vacío en_la_zona_de la_isleta_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "aparecer patera vacío la_isleta_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "La_Isleta_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una patera ha aparecido vacía en el agua de la zona de La Isleta de Las Palmas de Gran Canaria, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno patera haber aparecer vacío en el agua de el zona de la_isleta_de_las_palmas_de_gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "patera haber aparecer vacío agua zona la_isleta_de_las_palmas_de_gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "La_Isleta_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una patera ha aparecido vacía en el agua de la zona de La Isleta de Las Palmas de Gran Canaria, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. De esta manera, sobre las 07.45 horas de este lunes, dos llamadas alertaron de que había una embarcación pequeña, de madera y pintada de un color oscuro flotando en el mar en la zona de La Isleta. En ese momento, el 112 activó el dispositivo habitual y trasladó al lugar a Policía Local y Policía Nacional. Por su parte, fuentes de la Policía Nacional explicaron a Europa Press que la embarcación, que apareció vacía, aún no ha sido remolcada a tierra, mientras que se estudia la posibilidad de que la patera fuera de inmigrantes, aunque hasta el momento no se ha encontrado a ninguna persona que pudiera haber llegado en la misma. Finalmente, efectivos de la Policía del área de Extranjería y Documentación y Seguridad Ciudadana se encuentran el zona de la Iglesia de San Pedro, en El Confital, donde desarrollan las pesquisas policiales.",
+        "lemmatized_text": "uno patera haber aparecer vacío en el agua de el zona de la_isleta_de_las_palmas_de_gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112 de este manera sobre el TM_h:7.45 de este [L:2/??/??:??.??:??] llamar alertar de que haber 1 embarcación pequeño de madera y pintada de uno color oscuro flotar en el mar en_la_zona_de la_isleta en ese momento el 112 activar el dispositivo habitual y trasladar a el lugar a policía_local y policía_nacional por su parte fuente de el policía_nacional explicar a europa_press que el embarcación que aparecer vacío aun no haber ser remolcar a tierra mientras_que se estudiar el posibilidad de que el patera fuera_de inmigrante aunque hasta el momento no se haber encontrar a ninguno persona que poder haber llegar en el mismo finalmente efectivo de el policía de el área de extranjería y documentación y seguridad_ciudadana se encontrar el zona de el iglesia_de_san_pedro en el_confital donde desarrollar el pesquisa policial",
+        "lemmatized_text_reduced": "patera haber aparecer vacío agua zona la_isleta_de_las_palmas_de_gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes manera llamar alertar haber embarcación pequeño madera pintada color oscuro flotar mar la_isleta momento activar dispositivo habitual trasladar lugar policía_local policía_nacional parte fuente policía_nacional explicar europa_press embarcación aparecer vacío haber ser remolcar tierra estudiar posibilidad patera inmigrante momento haber encontrar persona poder haber llegar mismo finalmente efectivo policía área extranjería documentación seguridad_ciudadana encontrar zona iglesia_de_san_pedro el_confital desarrollar pesquisa policial",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "La_Isleta_de_Las_Palmas_de_Gran_Canaria",
+            "La_Isleta",
+            "Extranjería",
+            "Documentación",
+            "Iglesia_de_San_Pedro",
+            "El_Confital"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Policía_Local",
+            "Policía_Nacional",
+            "Policía_Nacional",
+            "Policía"
+        ],
+        "others": [
+            "Seguridad",
+            "Seguridad_Ciudadana"
+        ],
+        "dates": [
+            "[L:2/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:7.45",
+            "1",
+            "112"
+        ]
+    }
+}

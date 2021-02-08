@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/731206/0/",
+    "title": {
+        "raw_text": "Sindicatos creen \"adecuado\" el seguimiento de la huelga y tildan de \"provocación\" los datos del Gobierno canario",
+        "lemmatized_text": "sindicatos creer adecuar el seguimiento de el huelga y tildar de provocación el dato de el gobierno canario",
+        "lemmatized_text_reduced": "sindicatos creer adecuar seguimiento huelga tildar provocación dato gobierno canario",
+        "persons": [
+            "Sindicatos"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los sindicatos canarios consideraron hoy \"adecuado\" el seguimiento de la huelga y han tildado de \"provocación\" los datos que ha dado el Gobierno canario en cuanto a seguimiento del paro de hoy, según explicó en declaraciones a Europa Press el secretario de la federación de servicios de CCOO, Pedro Moreno.",
+        "lemmatized_text": "el sindicato canario considerar hoy adecuar el seguimiento de el huelga y haber tildar de provocación el dato que haber dar el gobierno canario en_cuanto_a seguimiento de el paro de hoy según explicar en declaración a europa_press el secretario de el federación de servicio de ccoo pedro_moreno",
+        "lemmatized_text_reduced": "sindicato canario considerar adecuar seguimiento huelga haber tildar provocación dato haber dar gobierno canario seguimiento paro explicar declaración europa_press secretario federación servicio ccoo pedro_moreno",
+        "persons": [
+            "Pedro_Moreno"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Europa_Press",
+            "CCOO"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Moreno destacó \"problemas por servicios mínimos abusivos en algunos sectores de la administración\" y por \"la actitud nada colaboradora del Gobierno de Canarias con el personal de la comunidad para facilitar si quiera las asambleas informativas\". El secretario general de UGT, Juan Francisco Fontes, por su parte, dijo que las medidas suponen \"ir a por\" los funcionarios y destacó también las dificultades puestas por la administración canaria con servicios mínimos \"abusivos\". \"reflejan el malestar de la sociedad\" El balance definitivo de seguimiento se sitúa en el 60 por ciento y ambos sindicatos confiaron en que las manifestaciones \"reflejen el malestar de la sociedad\". Desde CCOO dijeron desconocer incidente alguno con piquetes. \"Los compañeros no han tenido ni han causado ningún problema a la hora de informar\", comentó Moreno. Además, explicó que \"los datos que da el Gobierno canario son una provocación en el sentido de que no es posible\" y dijo que \"la agresión es terrible\". La manifestación que tenía previsto salir del parque San Telmo de la capital grancanaria a las 18.30 horas ha empezado con retraso y sobre las 19.00 horas aún comenzaba su recorrido con más de 2.000 personas, según los sindicatos y sin datos aún disponibles de la policía local.",
+        "lemmatized_text": "moreno destacar problema por servicio mínimo abusivo en alguno sector de el administración y por el actitud nada colaborador de el gobierno_de_canarias con el personal de el comunidad para facilitar si querer el asamblea informativo el secretario general de ugt juan_francisco_fontes por su parte decir que el medida suponer ir a por el funcionario y destacar también el dificultad poner por el administración canario con servicio mínimo abusivo reflejar el malestar de el sociedad el balance definitivo de seguimiento se situar en el 60 por 100 y ambos sindicato confiar en que el manifestación reflejar el malestar de el sociedad desde ccoo decir desconocer incidente alguno con piquete el compañero no haber tener ni haber causar ninguno problema a el hora de informar comentar moreno además explicar que el dato que dar el gobierno canario ser uno provocación en el sentido de que no ser posible y decir que el agresión ser terrible el manifestación que tener prever salir de el parque san_telmo de el capital grancanaria a el TM_h:18.3 haber empezar con retraso y sobre el TM_h:19 aun comenzar su recorrido con más de 2 persona según el sindicato y sin dato aun disponible de el policía local",
+        "lemmatized_text_reduced": "moreno destacar problema servicio mínimo abusivo sector administración actitud colaborador gobierno_de_canarias personal comunidad facilitar querer asamblea informativo secretario general ugt juan_francisco_fontes parte decir medida suponer ir funcionario destacar dificultad poner administración canario servicio mínimo abusivo reflejar malestar sociedad balance definitivo seguimiento situar sindicato confiar manifestación reflejar malestar sociedad ccoo decir desconocer incidente piquete compañero haber tener haber causar problema hora informar comentar moreno explicar dato dar gobierno canario ser provocación sentido ser posible decir agresión ser terrible manifestación tener prever salir parque san_telmo capital grancanaria haber empezar retraso comenzar recorrido persona sindicato dato disponible policía local",
+        "persons": [
+            "Juan_Francisco_Fontes",
+            "Moreno"
+        ],
+        "locations": [
+            "San_Telmo"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "UGT",
+            "CCOO",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "60",
+            "100",
+            "TM_h:18.3",
+            "TM_h:19",
+            "2"
+        ]
+    }
+}

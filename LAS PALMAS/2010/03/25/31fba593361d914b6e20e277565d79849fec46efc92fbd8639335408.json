@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660948/0/",
+    "title": {
+        "raw_text": "La Policía confía terminar hoy la búsqueda de los restos humanos en el pozo de Jinamar (Gran Canaria)",
+        "lemmatized_text": "el policía confiar terminar hoy el búsqueda de el resto humano en el pozo de jinamar gran_canaria",
+        "lemmatized_text_reduced": "policía confiar terminar búsqueda resto humano pozo jinamar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinamar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las labores de búsqueda en el pozo de Jinámar (Gran Canaria) donde una cámara subacuática detectó lo que podrían ser restos humanos van \"bastante bien\" en la mañana de hoy y la Policía Nacional confía en terminar a lo largo del día, según indicaron fuentes policiales de la investigación.",
+        "lemmatized_text": "el labor de búsqueda en el pozo de jinámar gran_canaria donde uno cámara subacuático detectar el que poder ser resto humano ir bastante bien en el mañana de hoy y el policía_nacional confiar en terminar a el largo de el día según indicar fuente policial de el investigación",
+        "lemmatized_text_reduced": "labor búsqueda pozo jinámar gran_canaria cámara subacuático detectar poder ser resto humano ir mañana policía_nacional confiar terminar largo día indicar fuente policial investigación",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La búsqueda de restos, encuadrada en la investigación de la desaparición de Sara Morales, continuó ayer toda la noche y ya se ha conseguido mantener el nivel de agua entre los 50 y los 80 centímetros, lo que permite a los agentes trabajar y extraer el lodo y el resto de materiales que hay en el pozo. Las labores se han visto complicadas ya que se ha descubierto que el pozo acaba en forma de cono, por lo que es más profundo de lo esperado en un primer momento, y también por los restos tirados en su interior, como redes de cercado de terrenos que ayer tuvieron a los agentes implicados más de tres horas en sacar tan solo una de ellas, según explicaron las mismas fuentes. Por estas dificultades, todavía no está localizada la bolsa con los restos, entre otras cosas porque con el lodo no se puede usar la cámara subacuática y saber dónde se hallan exactamente. En todo caso, la Policía se muestra segura de que están: \"Lo que vimos tiene que estar ahí\", apuntaron. En los terrenos donde se realizan los trabajos desde el lunes se espera pronto la llegada de la delegada del Gobierno en Canarias, Carolina Darias, que proporcionará más información.",
+        "lemmatized_text": "el búsqueda de resto encuadrar en el investigación de el desaparición de sara_morales continuar ayer todo el noche y ya se haber conseguir mantener el nivel de agua entre el 50 y el LN_cm:80 el que permitir a el agente trabajar y extraer el lodo y el resto de material que haber en el pozo el labor se haber ver complicar ya_que se haber descubrir que el pozo acabar en forma de cono por el que ser más profundo de el esperar en uno 1 momento y también por el resto tirar en su interior como red de cercado de terreno que ayer tener a el agente implicar más de TM_h:3 en sacar tan solo uno de ellos según explicar el mismo fuente por este dificultad todavía no estar localizar el bolsa con el resto entre otro cosa porque con el lodo no se poder usar el cámara subacuático y saber dónde se hallar exactamente en_todo_caso el policía se mostrar seguro de que estar el que ver tener que estar ahí apuntar en el terreno donde se realizar el trabajo desde el [L:??/??/??:??.??:??] se esperar pronto el llegada de el delegado de el gobierno en canarias carolina_darias que proporcionar más información",
+        "lemmatized_text_reduced": "búsqueda resto encuadrar investigación desaparición sara_morales continuar noche haber conseguir mantener nivel agua permitir agente trabajar extraer lodo resto material haber pozo labor haber ver complicar haber descubrir pozo acabar forma cono ser profundo esperar 1 momento resto tirar interior red cercado terreno tener agente implicar sacar explicar mismo fuente dificultad estar localizar bolsa resto cosa lodo poder usar cámara subacuático saber hallar exactamente policía mostrar seguro estar ver tener estar apuntar terreno realizar trabajo esperar llegada delegado gobierno canarias carolina_darias proporcionar información",
+        "persons": [
+            "Sara_Morales",
+            "Carolina_Darias"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Policía",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "LN_cm:80",
+            "TM_h:3"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664371/0/",
+    "title": {
+        "raw_text": "Una anciana se encuentra grave después de que se incendiara su vivienda en Teror (Gran Canaria)",
+        "lemmatized_text": "uno anciano se encontrar grave después_de que se incendiar su vivienda en teror gran_canaria",
+        "lemmatized_text_reduced": "anciano encontrar grave incendiar vivienda teror gran_canaria",
+        "persons": [],
+        "locations": [
+            "Teror",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer, de 81 años de edad, se encuentra en estado grave después de que se incendiara su vivienda en Teror (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno mujer de 81 año de edad se encontrar en estado grave después_de que se incendiar su vivienda en teror gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "mujer año edad encontrar estado grave incendiar vivienda teror gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Teror",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "81",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El fuego se originó esta mañana en la cocina de una vivienda ubicada en el tercer piso de un bloque de la calle Juan Ortega Pulido de Teror. El 112 recibió la alerta sobre las 11.25 horas, momento en el que activaron los servicios, trasladándose hasta el lugar personal del Servicio de Urgencias Canario (SUC) que tuvo que atender a la anciana que se encontraba en estado crítico. Así, tras atenderla en un primer momento en el lugar del suceso, el personal del SUC evacuó a la mujer en una ambulancia medicalizada al Hospital Universitario de Gran Canaria Doctor Negrín con quemaduras de carácter grave. Respecto al resto de servicios de urgencia que participó en dicho suceso, hay que indicar que un médico del centro de salud de Teror asistió a la mujer en un primer momento, para posteriormente ser atendida por el personal del SUC. Asimismo, los bomberos del Consorcio de Emergencias de Gran Canaria apagaron las llamas y ventilaron el inmueble. También asistieron agentes de la Policía Local y de la Guardia Civil.",
+        "lemmatized_text": "el fuego se originar este mañana en el cocina de uno vivienda ubicar en el 3 piso de uno bloque de el calle juan_ortega_pulido_de_teror el 112 recibir el alerta sobre el TM_h:11.25 momento en el que activar el servicio trasladar se hasta el lugar personal de el servicio_de_urgencias_canario suc que tener que atender a el anciano que se encontrar en estado crítico así tras atender lo en uno 1 momento en el lugar de el suceso el personal de el suc evacuar a el mujer en uno ambulancia medicalizada a el hospital_universitario_de_gran_canaria_doctor_negrín con quemadura de carácter grave respecto a el resto de servicio de urgencia que participar en decir suceso haber que indicar que uno médico de el centro de salud de teror asistir a el mujer en uno 1 momento para posteriormente ser atender por el personal de el suc asimismo el bombero de el consorcio_de_emergencias_de_gran_canaria apagar el llama y ventilar el inmueble también asistir agente de el policía_local y de el guardia_civil",
+        "lemmatized_text_reduced": "fuego originar mañana cocina vivienda ubicar 3 piso bloque calle juan_ortega_pulido_de_teror recibir alerta momento activar servicio trasladar lugar personal servicio_de_urgencias_canario suc tener atender anciano encontrar estado crítico atender 1 momento lugar suceso personal suc evacuar mujer ambulancia medicalizada hospital_universitario_de_gran_canaria_doctor_negrín quemadura carácter grave respecto resto servicio urgencia participar decir suceso haber indicar médico centro salud teror asistir mujer 1 momento posteriormente ser atender personal suc bombero consorcio_de_emergencias_de_gran_canaria apagar llama ventilar inmueble asistir agente policía_local guardia_civil",
+        "persons": [
+            "Juan_Ortega_Pulido_de_Teror"
+        ],
+        "locations": [
+            "Teror"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "TM_h:11.25"
+        ]
+    }
+}

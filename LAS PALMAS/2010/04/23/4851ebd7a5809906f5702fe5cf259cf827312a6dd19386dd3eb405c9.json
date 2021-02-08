@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/686350/0/corrupcion/urbanistica/lanzarote/",
+    "title": {
+        "raw_text": "Detenidas otras 8 personas por la red de corrupción urbanística en Lanzarote",
+        "lemmatized_text": "detener otro 8 persona por el red de corrupción urbanístico en lanzarote",
+        "lemmatized_text_reduced": "detener persona red corrupción urbanístico lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8"
+        ]
+    },
+    "lead": {
+        "raw_text": "Entre los detenidos están la ex alcaldesa de Arrecife, María Isabel Déniz, y un ingeniero jefe del Ayuntamiento. En total ya hay detenidas 16 personas.",
+        "lemmatized_text": "entre el detenido estar el ex alcaldesa de arrecife maría_isabel_déniz y uno ingeniero jefe de el ayuntamiento en total ya haber detener 16 persona",
+        "lemmatized_text_reduced": "detenido estar ex alcaldesa arrecife maría_isabel_déniz ingeniero jefe ayuntamiento total haber detener persona",
+        "persons": [
+            "María_Isabel_Déniz"
+        ],
+        "locations": [
+            "Arrecife"
+        ],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "16"
+        ]
+    },
+    "body": {
+        "raw_text": "Agentes de la Unidad Central Operativa (UCO) de la Guardia Civil han detenido a otras ocho personas en el marco de la 'operación Jable' , que investiga una supuesta trama de corrupción urbanística en Lanzarote , con lo que ya son 16 las personas detenidas por este caso. Fuentes de la investigación han explicado que las detenciones se han producido a lo largo de la mañana del viernes en Lanzarote, Gran Canaria y la Península , si bien hasta el momento no ha transcendido la identidad de las personas arrestadas. Hasta ahora se habían detenido a ocho personas supuestamente relacionadas con esta red de corrupción, incluida la ex alcaldesa de Arrecife, María Isabel Déniz , quien se encuentra en prisión provisional junto ingeniero jefe de la Oficina Técnica del Ayuntamiento de Arrecife, Juan Rafael Arrocha , y al técnico de la empresa de limpieza Urbaser Jacinto Álvarez . Las otras cinco personas que ya han prestado declaración ante el titular del juzgado de Instrucción número 5 de Lanzarote, han quedado en libertad con cargos .",
+        "lemmatized_text": "agentes_de_la_unidad_central_operativa uco de el guardia_civil haber detener a otro 8 persona en el marco de el operación jable que investigar uno suponer trama de corrupción urbanístico en lanzarote con el que ya ser 16 el persona detener por este caso fuentes de el investigación haber explicar que el detención se haber producir a el largo de el mañana de el [V:??/??/??:??.??:??] en lanzarote gran_canaria y el península si bien hasta el momento no haber transcender el identidad de el persona arrestar hasta ahora se haber detener a 8 persona supuestamente relacionar con este red de corrupción incluir el ex alcaldesa de arrecife maría_isabel_déniz quien se encontrar en prisión provisional junto ingeniero jefe de el oficina_técnica_del_ayuntamiento_de_arrecife juan_rafael_arrocha y a el técnico de el empresa de limpieza urbaser_jacinto_álvarez el otro 5 persona que ya haber prestar declaración ante el titular de el juzgado de instrucción número 5 de lanzarote haber quedar en libertad con cargo",
+        "lemmatized_text_reduced": "agentes_de_la_unidad_central_operativa uco guardia_civil haber detener persona marco operación jable investigar suponer trama corrupción urbanístico lanzarote ser persona detener caso fuentes investigación haber explicar detención haber producir largo mañana lanzarote gran_canaria península momento haber transcender identidad persona arrestar haber detener persona supuestamente relacionar red corrupción incluir ex alcaldesa arrecife maría_isabel_déniz encontrar prisión provisional junto ingeniero jefe oficina_técnica_del_ayuntamiento_de_arrecife juan_rafael_arrocha técnico empresa limpieza urbaser_jacinto_álvarez persona haber prestar declaración titular juzgado instrucción número lanzarote haber quedar libertad cargo",
+        "persons": [
+            "Fuentes",
+            "María_Isabel_Déniz",
+            "Juan_Rafael_Arrocha"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Lanzarote",
+            "Gran_Canaria",
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Agentes_de_la_Unidad_Central_Operativa",
+            "UCO",
+            "Guardia_Civil",
+            "Península",
+            "Oficina_Técnica_del_Ayuntamiento_de_Arrecife",
+            "Urbaser_Jacinto_Álvarez",
+            "Instrucción"
+        ],
+        "others": [
+            "Jable"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "8",
+            "16",
+            "8",
+            "5",
+            "5"
+        ]
+    }
+}

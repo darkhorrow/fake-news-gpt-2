@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/587790/0/",
+    "title": {
+        "raw_text": "El Estado invertirá casi dos millones de euros en ampliar la red de saneamiento de Playa Honda (Lanzarote)",
+        "lemmatized_text": "el estado invertir casi $_ECU:2000000 en ampliar el red de saneamiento de playa_honda lanzarote",
+        "lemmatized_text_reduced": "estado invertir ampliar red saneamiento playa_honda lanzarote",
+        "persons": [],
+        "locations": [
+            "Playa_Honda",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ministerio de Medio Ambiente y Medio Rural y Marino (MARM) ha asegurado hoy que invertirá casi dos millones de euros en llevar a cabo la ampliación de la red de saneamiento de Playa Honda, en el término municipal de San Bartolomé (Lanzarote), según informó el Gobierno Central en nota de prensa.",
+        "lemmatized_text": "el ministerio_de_medio_ambiente y medio_rural y marino marm haber asegurar hoy que invertir casi $_ECU:2000000 en llevar_a_cabo el ampliación de el red de saneamiento de playa_honda en el término municipal de san_bartolomé lanzarote según informar el gobierno_central en nota de prensa",
+        "lemmatized_text_reduced": "ministerio_de_medio_ambiente medio_rural marino marm haber asegurar invertir llevar_a_cabo ampliación red saneamiento playa_honda término municipal san_bartolomé lanzarote informar gobierno_central nota prensa",
+        "persons": [
+            "Marino"
+        ],
+        "locations": [
+            "Playa_Honda",
+            "San_Bartolomé",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Ministerio_de_Medio_Ambiente",
+            "Medio_Rural",
+            "MARM",
+            "Gobierno_Central"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Por ahora, el MARM ya ha licitado, a través de la Dirección General del Agua, la primera fase de las obras del proyecto que, entre otros aspectos, contempla la construcción de la red de recogida de aguas pluviales de Playa Honda, en un sistema separativo, con el objeto de reducir el riesgo de inundaciones de este núcleo urbano. La recogida de pluviales se proyecta con tres tipos de captaciones. En primer lugar, a través de un enlace en los puntos de desagüe de los viales superiores de la urbanización de la zona industrial de Playa Honda, paralela a la costa, configurando de esta forma la cabecera de las redes de evacuación de pluviales para incorporar los caudales provenientes de algunos cauces naturales que vierten actualmente hacia el mar atravesando el núcleo urbano de Playa Honda. Asimismo, se establecerán diversos puntos para la recogida de aguas pluviales a lo largo del trazado de la red de aguas pluviales proyectada. En el proyecto también se contempla la creación de aliviaderos de crecidas de la red de saneamiento existente. Por otro lado, esta red se proyectará en tubulares de 400, 500, 600, 800 y 1.000 milímetros de diámetro allí donde se requieren pequeñas secciones de desagüe y en secciones rectangulares variables de hormigón para las secciones que requieren mayor capacidad de desagüe. Toda la red se proyecta de forma enterrada en zanja y con pozos de registro para su correcto mantenimiento, similar a algunos ramales de pluviales que existen en el interior del casco urbano de Arrecife y otros núcleos de Lanzarote, que han funcionado hasta la fecha.",
+        "lemmatized_text": "por ahora el marm ya haber licitar a_través_de el dirección_general_del_agua el 1 fase de el obra de el proyecto que entre otro aspecto contemplar el construcción de el red de recogida de agua pluvial de playa_honda en uno sistema separativo con el objeto de reducir el riesgo de inundación de este núcleo urbano el recogida de pluvial se proyectar con 3 tipo de captación en 1 lugar a_través_de uno enlace en el punto de desagüe de el vial superior de el urbanización de el zona industrial de playa_honda paralelo a el costa configurar de este forma el cabecera de el red de evacuación de pluvial para incorporar el caudal proveniente de alguno cauce natural que verter actualmente hacia el mar atravesar el núcleo urbano de playa_honda asimismo se establecer diverso punto para el recogida de agua pluvial a el largo de el trazado de el red de agua pluvial proyectar en el proyecto también se contemplar el creación de aliviadero de crecida de el red de saneamiento existente por_otro_lado este red se proyectar en tubular de 400 500 600 800 y LN_mm:1 de diámetro allí donde se requerir pequeño sección de desagüe y en sección rectangular variable de hormigón para el sección que requerir mayor capacidad de desagüe todo el red se proyectar de forma enterrar en zanja y con pozo de registro para su correcto mantenimiento similar a alguno ramal de pluvial que existir en el interior de el casco urbano de arrecife y otro núcleo de lanzarote que haber funcionar hasta el fecha",
+        "lemmatized_text_reduced": "marm haber licitar dirección_general_del_agua 1 fase obra proyecto aspecto contemplar construcción red recogida agua pluvial playa_honda sistema separativo objeto reducir riesgo inundación núcleo urbano recogida pluvial proyectar tipo captación 1 lugar enlace punto desagüe vial superior urbanización zona industrial playa_honda paralelo costa configurar forma cabecera red evacuación pluvial incorporar caudal proveniente cauce natural verter actualmente mar atravesar núcleo urbano playa_honda establecer punto recogida agua pluvial largo trazado red agua pluvial proyectar proyecto contemplar creación aliviadero crecida red saneamiento existente red proyectar tubular diámetro requerir pequeño sección desagüe sección rectangular variable hormigón sección requerir mayor capacidad desagüe red proyectar forma enterrar zanja pozo registro correcto mantenimiento similar ramal pluvial existir interior casco urbano arrecife núcleo lanzarote haber funcionar fecha",
+        "persons": [
+            "Playa_Honda"
+        ],
+        "locations": [
+            "Playa_Honda",
+            "Playa_Honda",
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "MARM",
+            "Dirección_General_del_Agua"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "400",
+            "500",
+            "600",
+            "800",
+            "LN_mm:1"
+        ]
+    }
+}

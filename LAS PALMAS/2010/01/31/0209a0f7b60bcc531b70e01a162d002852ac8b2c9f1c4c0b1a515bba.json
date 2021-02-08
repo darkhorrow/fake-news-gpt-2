@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618735/0/",
+    "title": {
+        "raw_text": "La Policía Local de Ingenio (Gran Canaria) detiene a un joven por conducir bajo los efectos del alcohol",
+        "lemmatized_text": "el policía_local_de_ingenio gran_canaria detener a uno joven por conducir bajo el efecto de el alcohol",
+        "lemmatized_text_reduced": "policía_local_de_ingenio gran_canaria detener joven conducir efecto alcohol",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local_de_Ingenio",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Local de Ingenio (Gran Canaria) ha detenido a un joven por conducir bajo los efectos del alcohol y verse involucrado en un accidente en el que estuvieron implicados otros dos vehículos.",
+        "lemmatized_text": "el policía_local_de_ingenio gran_canaria haber detener a uno joven por conducir bajo el efecto de el alcohol y ver se involucrar en uno accidente en el que estar implicar otro 2 vehículo",
+        "lemmatized_text_reduced": "policía_local_de_ingenio gran_canaria haber detener joven conducir efecto alcohol ver involucrar accidente estar implicar vehículo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local_de_Ingenio",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron la pasada noche y tras el accidente de circulación los agentes de la Unidad de Atestados de la Policía Local de Ingenio, procedieron a la detención del conductor responsable del incidente, ya que el conductor tenía una tasa de alcohol superior a la legalmente permitida, además, de detectar la presencia de psicotrópicos en su organismo, según informó el Cuerpo local de seguridad de Ingenio en nota de prensa. En cuanto al arrestado tiene 23 años de edad, es natural de Ingenio, y responde a las iniciales de A.J.L.H. Los agentes le sometieron a pruebas para comprobar la posible detección de intoxicaciones por alcohol, así como de estupefacientes, psicotrópicos y estimulantes, dando como resultando una tasa de alcohol superior a la establecida, y un resultado positivo por consumo de cannabis. Los hechos se produjeron en una céntrica vía de Ingenio cuando el implicado, que circulaba con una furgoneta, colisionó por detrás con otro turismo y éste, a su vez, con el vehículo que le antecedía, resultando de la colisión en cadena el traslado de uno de los perjudicados hasta el Hospital Universitario Insular de Gran Canaria.",
+        "lemmatized_text": "el hecho se producir el pasar noche y tras el accidente de circulación el agente de el unidad_de_atestados_de_la_policía_local_de_ingenio proceder a el detención de el conductor responsable de el incidente ya_que el conductor tener uno tasa de alcohol superior a el legalmente permitir además de detectar el presencia de psicotrópico en su organismo según informar el cuerpo local de seguridad de ingenio en nota de prensa en cuanto a el arrestar tener 23 año de edad ser natural de ingenio y responder a el inicial de a.j.l.h._los agente le someter a prueba para comprobar el posible detección de intoxicación por alcohol así_como de estupefaciente psicotrópico y estimulante dar como resultar uno tasa de alcohol superior a el establecer y uno resultado positivo por consumo de cannabis el hecho se producir en uno céntrico vía de ingenio cuando el implicado que circular con uno furgoneta colisionar por detrás con otro turismo y este a su vez con el vehículo que le anteceder resultar de el colisión en cadena el traslado de uno de el perjudicado hasta el hospital_universitario_insular_de_gran_canaria",
+        "lemmatized_text_reduced": "hecho producir pasar noche accidente circulación agente unidad_de_atestados_de_la_policía_local_de_ingenio proceder detención conductor responsable incidente conductor tener tasa alcohol superior legalmente permitir detectar presencia psicotrópico organismo informar cuerpo local seguridad ingenio nota prensa arrestar tener año edad ser natural ingenio responder inicial a.j.l.h._los agente someter prueba comprobar posible detección intoxicación alcohol estupefaciente psicotrópico estimulante dar resultar tasa alcohol superior establecer resultado positivo consumo cannabis hecho producir céntrico vía ingenio implicado circular furgoneta colisionar turismo vez vehículo anteceder resultar colisión cadena traslado perjudicado hospital_universitario_insular_de_gran_canaria",
+        "persons": [
+            "A.J.L.H._Los"
+        ],
+        "locations": [
+            "Ingenio",
+            "Ingenio",
+            "Ingenio"
+        ],
+        "organizations": [
+            "Unidad_de_Atestados_de_la_Policía_Local_de_Ingenio",
+            "Cuerpo",
+            "Hospital_Universitario_Insular_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "23"
+        ]
+    }
+}

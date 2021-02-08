@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/952045/0/",
+    "title": {
+        "raw_text": "Fallece el trabajador de Repnaval que fue trasladado al Hospital de Gran Canaria Dr. Negrín",
+        "lemmatized_text": "fallecer el trabajador de repnaval que ser trasladar a el hospital_de_gran_canaria_dr._negrín",
+        "lemmatized_text_reduced": "fallecer trabajador repnaval ser trasladar hospital_de_gran_canaria_dr._negrín",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Repnaval",
+            "Hospital_de_Gran_Canaria_Dr._Negrín"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El trabajador de Carcrube, empresa subcontratada por el astillero Reparaciones Navales Canarias (Repnaval), que fue trasladado en estado crítico al Hospital de Gran Canaria Dr. Negrín ha fallecido, tras no superar la intervención a la que se le sometió, según confirmaron a Europa Press fuentes del hospital.",
+        "lemmatized_text": "el trabajador de carcrube empresa subcontratar por el astillero reparaciones_navales_canarias repnaval que ser trasladar en estado crítico a el hospital_de_gran_canaria_dr._negrín haber fallecer tras no superar el intervención a el que se le someter según confirmar a europa_press fuente de el hospital",
+        "lemmatized_text_reduced": "trabajador carcrube empresa subcontratar astillero reparaciones_navales_canarias repnaval ser trasladar estado crítico hospital_de_gran_canaria_dr._negrín haber fallecer superar intervención someter confirmar europa_press fuente hospital",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Carcrube",
+            "Reparaciones_Navales_Canarias",
+            "Repnaval",
+            "Hospital_de_Gran_Canaria_Dr._Negrín"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El trabajador de Carcrube, empresa subcontratada por el astillero Reparaciones Navales Canarias (Repnaval), que fue trasladado en estado crítico al Hospital de Gran Canaria Dr. Negrín ha fallecido, tras no superar la intervención a la que se le sometió, según confirmaron a Europa Press fuentes del hospital. De esta forma, los dos trabajadores implicados en el incidente ocurrido a primera hora de este lunes en el Puerto de la Luz, en Las Palmas de Gran Canaria, mientras reparaban el barco 'Esperanza' de Greenpeace han muerto a causa de las heridas ocasionadas por el accidente laboral que sufrieron. Así, los fallecidos responden a las iniciales de M.F.A., de 57 años, y J.J.S.S. Ambos trabajadores realizaban tareas de pintura en el casco de un buque, a bordo de una góndola que, y por causas que aún se desconocen, se precipitó contra el suelo, según indicó Repnaval en un comunicado. En estos momentos las autoridades competentes están realizando los informes correspondientes sobre el accidente y la empresa ha cesado su actividad durante este lunes como muestra de duelo y respeto con los trabajadores afectados y sus familias.",
+        "lemmatized_text": "el trabajador de carcrube empresa subcontratar por el astillero reparaciones_navales_canarias repnaval que ser trasladar en estado crítico a el hospital_de_gran_canaria_dr._negrín haber fallecer tras no superar el intervención a el que se le someter según confirmar a europa_press fuente de el hospital de este forma el 2 trabajador implicar en el incidente ocurrir a 1 hora de este [L:??/??/??:??.??:??] en el puerto_de_la_luz en las_palmas_de_gran_canaria mientras reparar el barco esperanza de greenpeace haber morir a_causa_de el herida ocasionar por el accidente laboral que sufrir así el fallecer responder a el inicial de m.f.a. de 57 año y j.j.s.s._ambos trabajador realizar tarea de pintura en el casco de uno buque a_bordo de uno góndola que y por causa que aun se desconocer se precipitar contra el suelo según indicar repnaval en uno comunicado en este momento el autoridad competente estar realizar el informe correspondiente sobre el accidente y el empresa haber cesar su actividad durante este [L:??/??/??:??.??:??] como mostrar de duelo y respeto con el trabajador afectar y su familia",
+        "lemmatized_text_reduced": "trabajador carcrube empresa subcontratar astillero reparaciones_navales_canarias repnaval ser trasladar estado crítico hospital_de_gran_canaria_dr._negrín haber fallecer superar intervención someter confirmar europa_press fuente hospital forma trabajador implicar incidente ocurrir 1 hora puerto_de_la_luz las_palmas_de_gran_canaria reparar barco esperanza greenpeace haber morir herida ocasionar accidente laboral sufrir fallecer responder inicial m.f.a. año j.j.s.s._ambos trabajador realizar tarea pintura casco buque góndola causa desconocer precipitar suelo indicar repnaval comunicado momento autoridad competente estar realizar informe correspondiente accidente empresa haber cesar actividad mostrar duelo respeto trabajador afectar familia",
+        "persons": [
+            "Europa_Press",
+            "J.J.S.S._Ambos",
+            "Repnaval"
+        ],
+        "locations": [
+            "Puerto_de_la_Luz",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Carcrube",
+            "Reparaciones_Navales_Canarias",
+            "Repnaval",
+            "Hospital_de_Gran_Canaria_Dr._Negrín",
+            "Greenpeace",
+            "M.F.A."
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "57"
+        ]
+    }
+}

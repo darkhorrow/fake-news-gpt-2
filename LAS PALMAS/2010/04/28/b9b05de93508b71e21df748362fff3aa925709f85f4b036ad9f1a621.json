@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/691405/0/",
+    "title": {
+        "raw_text": "Empresario Juan Francisco Rosa detenido en el marco de 'Operación Jable', donde el número de arresto llega a 25",
+        "lemmatized_text": "empresario_juan_francisco_rosa detener en el marco de operación_jable donde el número de arresto llegar a 25",
+        "lemmatized_text_reduced": "empresario_juan_francisco_rosa detener marco operación_jable número arresto llegar",
+        "persons": [
+            "Empresario_Juan_Francisco_Rosa",
+            "Operación_Jable"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25"
+        ]
+    },
+    "lead": {
+        "raw_text": "El empresario Juan Francisco Rosa también ha sido detenido hoy en el marco de la 'Operación Jable', que la Guardia Civil investiga en Lanzarote, y donde el número de arrestos alcanza ya a las 25 personas entre los que se encuentran altos cargos, así como una ex presidenta del Cabildo insular.",
+        "lemmatized_text": "el empresario juan_francisco_rosa también haber ser detener hoy en el marco de el operación_jable que el guardia_civil investigar en lanzarote y donde el número de arresto alcanzar ya a el 25 persona entre el que se encontrar alto cargo así_como uno ex presidente de el cabildo insular",
+        "lemmatized_text_reduced": "empresario juan_francisco_rosa haber ser detener marco operación_jable guardia_civil investigar lanzarote número arresto alcanzar persona encontrar alto cargo ex presidente cabildo insular",
+        "persons": [
+            "Juan_Francisco_Rosa",
+            "Operación_Jable"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25"
+        ]
+    },
+    "body": {
+        "raw_text": "Rosa está vinculado a empresas del sector tanto turísticas como vitivinícolas, de la construcción, así como a medios de comunicación; su detención se enmarca dentro de la cuarta fase de la 'Operación Jable', que investiga una trama de corrupción urbanística en la isla, según informa el periódico regional Canarias7 y recoge Europa Press. Los agentes de la Benemérita encargados de la investigación también han procedido al registro en las instalaciones centrales del grupo de Rosa en Arrecife. Entre las sociedades que son propiedad de este empresario en Lanzarote están el Hotel Los Fariones, Hotel Princesa Yaiza, Aparthotel Fariones, además de varios complejos de apartamentos; parte del Puerto Deportivo Marina Rubicón, la empresa Galerías Rosa, la bodega Stratus y Lancelot Televisión, entre otras. Por otro lado, el juez que instruye la 'Operación Jable' también está tomando declaración a la consejera de Presidencia del Cabildo lanzaroteño, María José Docal (PIL), y a la concejal de Festejos del Ayuntamiento de Arrecife, Luisa Blanco (PIL).",
+        "lemmatized_text": "rosa estar vincular a empresa de el sector tanto turístico como vitivinícola de el construcción así_como a medio de comunicación su detención se enmarcar dentro_de el 4 fase de el operación_jable que investigar uno trama de corrupción urbanístico en el isla según informar el periódico regional Canarias7 y recoger europa_press el agente de el benemérita encargar de el investigación también haber proceder a el registro en el instalación central de el grupo de rosa en arrecife entre el sociedad que ser propiedad de este empresario en lanzarote estar el hotel_los_fariones hotel_princesa_yaiza aparthotel_fariones además_de varios complejo de apartamento parte de el puerto_deportivo_marina_rubicón el empresa galerías_rosa el bodega stratus y lancelot_televisión entre otro por_otro_lado el juez que instruir el operación_jable también estar tomar declaración a el consejero de presidencia_del_cabildo lanzaroteño maría_josé_docal pil y a el concejal de festejos_del_ayuntamiento_de_arrecife luisa_blanco pil",
+        "lemmatized_text_reduced": "rosa estar vincular empresa sector turístico vitivinícola construcción medio comunicación detención enmarcar 4 fase operación_jable investigar trama corrupción urbanístico isla informar periódico regional recoger europa_press agente benemérita encargar investigación haber proceder registro instalación central grupo rosa arrecife sociedad ser propiedad empresario lanzarote estar hotel_los_fariones hotel_princesa_yaiza aparthotel_fariones complejo apartamento parte puerto_deportivo_marina_rubicón empresa galerías_rosa bodega stratus lancelot_televisión juez instruir operación_jable estar tomar declaración consejero presidencia_del_cabildo lanzaroteño maría_josé_docal pil concejal festejos_del_ayuntamiento_de_arrecife luisa_blanco pil",
+        "persons": [
+            "Operación_Jable",
+            "Europa_Press",
+            "Rosa",
+            "Hotel_Princesa_Yaiza",
+            "Aparthotel_Fariones",
+            "Lancelot_Televisión",
+            "Operación_Jable",
+            "María_José_Docal",
+            "Luisa_Blanco"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Benemérita",
+            "Puerto_Deportivo_Marina_Rubicón",
+            "Galerías_Rosa",
+            "Stratus",
+            "Presidencia_del_Cabildo",
+            "PIL",
+            "PIL"
+        ],
+        "others": [
+            "Hotel_Los_Fariones",
+            "Festejos_del_Ayuntamiento_de_Arrecife"
+        ],
+        "dates": [],
+        "numbers": [
+            "Canarias7"
+        ]
+    }
+}

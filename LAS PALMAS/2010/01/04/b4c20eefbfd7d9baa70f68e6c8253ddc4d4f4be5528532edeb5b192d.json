@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/600022/0/",
+    "title": {
+        "raw_text": "El sector platanero de Canarias percibe unos 70 millones de euros en ayudas del POSEI",
+        "lemmatized_text": "el sector platanero de canarias percibir uno $_ECU:70000000 en ayuda de el posei",
+        "lemmatized_text_reduced": "sector platanero canarias percibir ayuda posei",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "POSEI"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:70000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El sector platanero de Canarias ha conseguido percibir un total de 69.735.424,69 euros correspondientes a las ayudas del Programa Comunitario de Apoyo a las Producciones de Canarias (POSEI), según informó el Gobierno autonómico en nota de prensa.",
+        "lemmatized_text": "el sector platanero de canarias haber conseguir percibir uno total de $_ECU:69.735.424,69 correspondiente a el ayuda de el programa_comunitario_de_apoyo a el producciones_de_canarias posei según informar el gobierno autonómico en nota de prensa",
+        "lemmatized_text_reduced": "sector platanero canarias haber conseguir percibir total correspondiente ayuda programa_comunitario_de_apoyo producciones_de_canarias posei informar gobierno autonómico nota prensa",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Producciones_de_Canarias",
+            "POSEI",
+            "Gobierno"
+        ],
+        "others": [
+            "Programa_Comunitario_de_Apoyo"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:69.735.424,69"
+        ]
+    },
+    "body": {
+        "raw_text": "Desde la última semana del mes de diciembre se ha venido abonando la primera mitad del total de las ayudas correspondientes a este sector productivo, que ronda los 70 millones de euros, a 7.951 agricultores encuadrados en seis organizaciones de productores. Este pago parcial de la ficha financiera, que asciende a 141,1 millones de euros, se ha venido produciendo las últimas campañas, según lo autorizado por la Comisión Europea, que ha consolidado en su normativa la posibilidad de que se pueda fraccionar todos los años con regularidad este pago a los productores de plátano. Por otro lado, la consejera regional de Agricultura, Ganadería, Pesca y Alimentación, Pilar Merino, visitará este jueves las zonas afectadas por las fuertes lluvias que tuvieron lugar a finales del pasado mes de diciembre en La Palma. En concreto, prevé recorrer El Paso y Fuencaliente junto a la presidenta del Cabildo, Guadalupe González, y los alcaldes de ambos municipios.",
+        "lemmatized_text": "desde el último semana de el [??:??/12/??:??.??:??] se haber venir abonar el 1 mitad de el total de el ayuda correspondiente a este sector productivo que rondar el $_ECU:70000000 a 7.951 agricultor encuadrar en 6 organización de productor este pago parcial de el ficha financiero que ascender a 141,1 millón de euro se haber venir producir el último campaña según el autorizar por el comisión_europea que haber consolidar en su normativa el posibilidad de que se poder fraccionar todo el año con regularidad este pago a el productor de plátano por_otro_lado el consejero regional de agricultura ganadería pesca y alimentación pilar_merino visitar este [J:??/??/??:??.??:??] el zona afectar por el fuerte lluvia que tener_lugar a final de el [??:??/12/??:??.??:??] en la_palma en concreto prever recorrer el_paso y fuencaliente junto_a el presidente de el cabildo guadalupe_gonzález y el alcalde de ambos municipio",
+        "lemmatized_text_reduced": "último semana haber venir abonar 1 mitad total ayuda correspondiente sector productivo rondar agricultor encuadrar organización productor pago parcial ficha financiero ascender millón euro haber venir producir último campaña autorizar comisión_europea haber consolidar normativa posibilidad poder fraccionar año regularidad pago productor plátano consejero regional agricultura ganadería pesca alimentación pilar_merino visitar zona afectar fuerte lluvia tener_lugar final la_palma concreto prever recorrer el_paso fuencaliente presidente cabildo guadalupe_gonzález alcalde municipio",
+        "persons": [
+            "Pesca",
+            "Pilar_Merino",
+            "Guadalupe_González"
+        ],
+        "locations": [
+            "La_Palma",
+            "El_Paso",
+            "Fuencaliente"
+        ],
+        "organizations": [
+            "Comisión_Europea",
+            "Ganadería",
+            "Cabildo"
+        ],
+        "others": [
+            "Agricultura",
+            "Alimentación"
+        ],
+        "dates": [
+            "[??:??/12/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:70000000",
+            "7.951",
+            "6",
+            "141,1"
+        ]
+    }
+}

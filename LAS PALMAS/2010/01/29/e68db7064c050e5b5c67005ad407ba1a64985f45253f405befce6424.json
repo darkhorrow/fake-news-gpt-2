@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/617483/0/",
+    "title": {
+        "raw_text": "Un incendio en un complejo hotelero del sur de Gran Canaria se salda con víctimas pero se desconoce su gravedad",
+        "lemmatized_text": "uno incendio en uno complejo hotelero de el sur de gran_canaria se saldar con víctima pero se desconocer su gravedad",
+        "lemmatized_text_reduced": "incendio complejo hotelero sur gran_canaria saldar víctima desconocer gravedad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un incendio en un complejo hotelero del municipio de San Bartolomé de Tirajana, al sur de Gran Canaria, se saldó con afectados de los que se desconoce su gravedad, según informaron fuentes del Centro Coordinador de Emergencias 112.",
+        "lemmatized_text": "uno incendio en uno complejo hotelero de el municipio de san_bartolomé_de_tirajana a el sur de gran_canaria se saldar con afectado de el que se desconocer su gravedad según informar fuente de el centro_coordinador_de_emergencias 112",
+        "lemmatized_text_reduced": "incendio complejo hotelero municipio san_bartolomé_de_tirajana sur gran_canaria saldar afectado desconocer gravedad informar fuente centro_coordinador_de_emergencias",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El fuego se produjo en la piscina de un hotel en la calle Einstein, en la zona de Maspalomas, en el citado municipio, sobre las 02.00 horas. En cuanto a los afectados fueron trasladados a centros sanitarios privados. Así, hasta el lugar del suceso se trasladaron también bomberos de San Bartolomé de Tirajana, entre otros.",
+        "lemmatized_text": "el fuego se producir en el piscina de uno hotel en el calle einstein en_la_zona_de maspalomas en el citar municipio sobre el TM_h:2 en_cuanto_a el afectado ser trasladar a centro sanitario privar así hasta el lugar de el suceso se trasladar también bombero de san_bartolomé_de_tirajana entre otro",
+        "lemmatized_text_reduced": "fuego producir piscina hotel calle einstein maspalomas citar municipio afectado ser trasladar centro sanitario privar lugar suceso trasladar bombero san_bartolomé_de_tirajana",
+        "persons": [
+            "Einstein"
+        ],
+        "locations": [
+            "Maspalomas",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:2"
+        ]
+    }
+}

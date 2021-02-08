@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625843/0/",
+    "title": {
+        "raw_text": "Un anciano muere al sufrir una parada cardiorrespiratoria en San Bartolomé de Tirajana (Gran Canaria)",
+        "lemmatized_text": "uno anciano morir a el sufrir uno parada cardiorrespiratoria en san_bartolomé_de_tirajana gran_canaria",
+        "lemmatized_text_reduced": "anciano morir sufrir parada cardiorrespiratoria san_bartolomé_de_tirajana gran_canaria",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre, de 70 años de edad, ha fallecido a primera hora de esta mañana después de que sufriera una parada cardiorrespiratoria en una vía pública del municipio de San Bartolomé de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre de 70 año de edad haber fallecer a 1 hora de este mañana después_de que sufrir uno parada cardiorrespiratoria en uno vía público de el municipio de san_bartolomé_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre año edad haber fallecer 1 hora mañana sufrir parada cardiorrespiratoria vía público municipio san_bartolomé_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "70",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 07.03 horas cuando el fallecido se encontraba con su vehículo a la altura de la vía Gran Canaria 500 (GC-500), a su paso por la zona conocida como Bahía Feliz, municipio de San Bartolomé de Tirajana. Asimismo, hasta el lugar del incidente se trasladó personal del Servicio de Urgencias Canario (SUC), con una ambulancia de soporte vital básico y otra de soporte vital avanzado, además de agentes de la Policía Local y del Cuerpo Nacional de Policía, quien instruirá las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir a el TM_h:7.03 cuando el fallecer se encontrar con su vehículo a el altura de el vía gran_canaria 500 GC-500 a su paso por el zona conocer como bahía_feliz municipio de san_bartolomé_de_tirajana asimismo hasta el lugar de el incidente se trasladar personal de el servicio_de_urgencias_canario suc con uno ambulancia de soporte vital básico y otro de soporte vital avanzar además_de agente de el policía_local y de el cuerpo_nacional_de_policía quien instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir fallecer encontrar vehículo altura vía gran_canaria paso zona conocer bahía_feliz municipio san_bartolomé_de_tirajana lugar incidente trasladar personal servicio_de_urgencias_canario suc ambulancia soporte vital básico soporte vital avanzar agente policía_local cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Bahía_Feliz",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.03",
+            "500",
+            "GC-500"
+        ]
+    }
+}

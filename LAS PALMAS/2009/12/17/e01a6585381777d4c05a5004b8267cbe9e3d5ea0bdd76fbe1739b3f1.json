@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590880/0/",
+    "title": {
+        "raw_text": "Más de 300 personas reciben con vítores a Haidar en el aeropuerto de Lanzarote y ya está dentro del avión",
+        "lemmatized_text": "más de 300 persona recibir con vítor a haidar en el aeropuerto de lanzarote y ya estar dentro de el avión",
+        "lemmatized_text_reduced": "persona recibir vítor haidar aeropuerto lanzarote estar avión",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "300"
+        ]
+    },
+    "lead": {
+        "raw_text": "Más de 300 personas han recibido con vítores y aplausos a la activista saharaui Aminetu Haidar en el aeropuerto de Guacimeta, a donde llegó la defensora de los derechos humanos en una ambulancia medicalizada escoltada por la Guardia Civil y ya ha entrado al avión con destino a su casa en El Aaiún, sin pasaporte marroquí ni español y con un salvoconducto de España para salir del país.",
+        "lemmatized_text": "más de 300 persona haber recibir con vítor y aplauso a el activista saharaui aminetu_haidar en el aeropuerto de guacimeta a_donde llegar el defensor de el derecho humano en uno ambulancia medicalizada escoltar por el guardia_civil y ya haber entrar a el avión con destino a su casa en el_aaiún sin pasaporte marroquí ni español y con uno salvoconducto de españa para salir de el país",
+        "lemmatized_text_reduced": "persona haber recibir vítor aplauso activista saharaui aminetu_haidar aeropuerto guacimeta llegar defensor derecho humano ambulancia medicalizada escoltar guardia_civil haber entrar avión destino casa el_aaiún pasaporte marroquí español salvoconducto españa salir país",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Guacimeta",
+            "El_Aaiún",
+            "España"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "300"
+        ]
+    },
+    "body": {
+        "raw_text": "Miembros de la comunidad saharaui expresan su alegría en las instalaciones aeroportuarias con gritos de \"victoria\" y \"Sáhara libre vencerá\" para despedir a Haidar, acompañados por miembros de la Plataforma de Solidaridad que han estado con ella durante estos 32 días en huelga de hambre, la representante del Centro Robert Kennedy de Justicia y Derechos Humanos, Marcela Gonzalves, y la mujer del escritor José Saramago, Pilar del Río, entre otros. El avión está ubicado en la T2 preparado para despegar, situación que ha creado gran expectación entre los medios de comunicación y centenares de personas congregadas en las instalaciones aeroportuarias. De hecho, miembros de la comunidad saharaui han reconocido que van a permanecer en el aeródromo durante 40 minutos más para comprobar que efectivamente llega a el Aaiún. El aparato se dirige hacia la pista del aeropuerto de Guacimeta para proceder al vuelo en los próximos minutos.",
+        "lemmatized_text": "miembro de el comunidad saharaui expresar su alegría en el instalación aeroportuario con grito de victoria y sáhara libre vencer para despedir a haidar acompañar por miembro de el plataforma_de_solidaridad que haber estar con él durante este TM_d:32 en huelga de hambre el representante de el centro_robert_kennedy_de_justicia y derechos_humanos marcela_gonzalves y el mujer de el escritor josé_saramago pilar_del_río entre otro el avión estar ubicar en el T2 preparar para despegar situación que haber crear gran expectación entre el medio de comunicación y centenar de persona congregar en el instalación aeroportuario de hecho miembro de el comunidad saharaui haber reconocer que ir a permanecer en el aeródromo durante TM_min:40 más para comprobar que efectivamente llegar a el aaiún el aparato se dirigir hacia el pista de el aeropuerto de guacimeta para proceder a el vuelo en el próximo minuto",
+        "lemmatized_text_reduced": "miembro comunidad saharaui expresar alegría instalación aeroportuario grito victoria sáhara libre vencer despedir haidar acompañar miembro plataforma_de_solidaridad haber estar huelga hambre representante centro_robert_kennedy_de_justicia derechos_humanos marcela_gonzalves mujer escritor josé_saramago pilar_del_río avión estar ubicar preparar despegar situación haber crear gran expectación medio comunicación centenar persona congregar instalación aeroportuario hecho miembro comunidad saharaui haber reconocer ir permanecer aeródromo comprobar efectivamente llegar aaiún aparato dirigir pista aeropuerto guacimeta proceder vuelo próximo minuto",
+        "persons": [
+            "Sáhara",
+            "Haidar",
+            "Derechos_Humanos",
+            "Marcela_Gonzalves",
+            "José_Saramago",
+            "Pilar_del_Río"
+        ],
+        "locations": [
+            "Guacimeta"
+        ],
+        "organizations": [
+            "Plataforma_de_Solidaridad",
+            "Centro_Robert_Kennedy_de_Justicia",
+            "Aaiún"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:32",
+            "T2",
+            "TM_min:40"
+        ]
+    }
+}

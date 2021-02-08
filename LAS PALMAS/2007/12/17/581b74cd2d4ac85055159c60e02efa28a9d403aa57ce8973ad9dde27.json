@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/322438/0/tres/incendios/las/",
+    "title": {
+        "raw_text": "Los bomberos vivieron un domingo muy activo con tres incendios",
+        "lemmatized_text": "el bombero vivir uno [G:??/??/??:??.??:??] muy activo con 3 incendio",
+        "lemmatized_text_reduced": "bombero vivir activo incendio",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Sólo se reportaron daños materiales. Una persona sufrió una crisis hipertensiva leve. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "sólo se reportar daño material uno persona sufrir uno crisis hipertensivo leve consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "reportar daño material persona sufrir crisis hipertensivo leve consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El domingo tuvieron que lidiar los Bomberos de Gran Canaria con tres incendios en la ciudad. Por la mañana empezó a arder una vivienda en el barrio de La Feria , sin que se registraran daños personales. Las llamas devoraron dos inmuebles tipo dúplex situadas en la confluencia de las calles Pacuco Penichet y Diego Betancort Suárez. Como medida preventiva los vecinos debieron ser desalojados . En la extinción participaron tres camiones de bomberos que evitaron que las llamas se propagasen al resto de viviendas adyacentes. La segunda alarma fue recibida poco después de las 16.00 horas avisando de otro incendio, esta vez en la calle Océano Atlántico , en Costa Ayala, en el término municipal de Las Palmas de Gran Canaria. Nuevamente una vivienda era pasto del fuego. El fuego comenzó en un inmueble de tres plantas y los miembros del servicio de Bomberos procedieron al control y extinción del incendio . El Cuerpo Nacional de Policía conjuntamente con la Policía Local se hicieron cargo del control perimetral, instruyendo éstos últimos las diligencias del incidente. Una ambulancia de urgencia del SUC trasladó al centro de salud más cercano a un varón de 33 años que presentaba crisis hipertensiva de carácter leve. El tercer incendio se produjo ya avanzada la tarde y obligó al desalojo de un edificio de viviendas en la calle Molino de Viento, entre Pamochamosos y Aguadulce. Las llamas comenzaron en un cuarto piso y fue necesario que acudieran al lugar del incendio tres camiones de bomberos, la Policía Nacional y la Policía Local. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el [G:??/??/??:??.??:??] tener que lidiar el bomberos_de_gran_canaria con 3 incendio en el ciudad por el mañana empezar a arder uno vivienda en el barrio de la_feria sin que se registrar daño personal el llama devorar 2 inmueble tipo dúplex situar en el confluencia de el calle pacuco_penichet y diego_betancort_suárez como medida preventivo el vecino deber ser desalojar en el extinción participar 3 camión de bombero que evitar que el llama se propagar a el resto de vivienda adyacente el 2 alarma ser recibir poco después_de el TM_h:16 avisar de otro incendio este vez en el calle océano_atlántico en costa_ayala en el término municipal de las_palmas_de_gran_canaria nuevamente uno vivienda ser pasto de el fuego el fuego comenzar en uno inmueble de 3 planta y el miembro de el servicio de bomberos proceder a el control y extinción de el incendio el cuerpo_nacional_de_policía conjuntamente con el policía_local se hacer_cargo de el control perimetral instruir este último el diligencia de el incidente uno ambulancia de urgencia de el suc trasladar a el centro de salud más cercano a uno varón de 33 año que presentar crisis hipertensivo de carácter leve el 3 incendio se producir ya avanzar el tarde y obligar a el desalojo de uno edificio de vivienda en el calle molino_de_viento entre pamochamosos y aguadulce el llama comenzar en uno 4 piso y ser necesario que acudir a el lugar de el incendio 3 camión de bombero el policía_nacional y el policía_local consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "tener lidiar bomberos_de_gran_canaria incendio ciudad mañana empezar arder vivienda barrio la_feria registrar daño personal llama devorar inmueble tipo dúplex situar confluencia calle pacuco_penichet diego_betancort_suárez medida preventivo vecino deber ser desalojar extinción participar camión bombero evitar llama propagar resto vivienda adyacente 2 alarma ser recibir avisar incendio vez calle océano_atlántico costa_ayala término municipal las_palmas_de_gran_canaria nuevamente vivienda ser pasto fuego fuego comenzar inmueble planta miembro servicio bomberos proceder control extinción incendio cuerpo_nacional_de_policía conjuntamente policía_local hacer_cargo control perimetral instruir último diligencia incidente ambulancia urgencia suc trasladar centro salud cercano varón año presentar crisis hipertensivo carácter leve 3 incendio producir avanzar tarde obligar desalojo edificio vivienda calle molino_de_viento pamochamosos aguadulce llama comenzar 4 piso ser necesario acudir lugar incendio camión bombero policía_nacional policía_local consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Diego_Betancort_Suárez",
+            "Bomberos",
+            "Pamochamosos"
+        ],
+        "locations": [
+            "La_Feria",
+            "Pacuco_Penichet",
+            "Océano_Atlántico",
+            "Costa_Ayala",
+            "Las_Palmas_de_Gran_Canaria",
+            "Molino_de_Viento",
+            "Aguadulce"
+        ],
+        "organizations": [
+            "Bomberos_de_Gran_Canaria",
+            "Cuerpo_Nacional_de_Policía",
+            "Policía_Local",
+            "SUC",
+            "Policía_Nacional",
+            "Policía_Local",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "2",
+            "3",
+            "TM_h:16",
+            "3",
+            "33",
+            "3"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/693552/0/",
+    "title": {
+        "raw_text": "CC acusa al Cabildo de Gran Canaria de \"lavarse las manos\" con la instalación de la regasificadora en la isla",
+        "lemmatized_text": "cc acusar a el cabildo_de_gran_canaria de lavar se el mano con el instalación de el regasificadora en el isla",
+        "lemmatized_text_reduced": "cc acusar cabildo_de_gran_canaria lavar mano instalación regasificadora isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El portavoz de Coalición Canaria (CC) en el Cabildo de Gran Canaria, ,Manuel Lobo, acusó al Grupo de Gobierno --PSOE-NC-- de querer \"lavarse las manos\" en el asunto de la instalación de la planta de gas en la isla \"por el miedo a imponer su ubicación en determinados municipios\".",
+        "lemmatized_text": "el portavoz de coalición_canaria cc en el cabildo_de_gran_canaria manuel_lobo acusar a el grupo_de_gobierno psoe-nc de querer lavar se el mano en el asunto de el instalación de el planta de gas en el isla por el miedo a imponer su ubicación en determinar municipio",
+        "lemmatized_text_reduced": "portavoz coalición_canaria cc cabildo_de_gran_canaria manuel_lobo acusar grupo_de_gobierno psoe-nc querer lavar mano asunto instalación planta gas isla miedo imponer ubicación determinar municipio",
+        "persons": [
+            "Manuel_Lobo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Cabildo_de_Gran_Canaria",
+            "Grupo_de_Gobierno",
+            "PSOE-NC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En un comunicado, Lobo acusó a la Corporación de \"manejar este asunto de forma irresponsable\" y agregó que este \"terror que le impide anteponer el interés general al los políticos acarreará sólo en Gran Canaria un sobre coste de 150 millones de euros anuales en la producción de energía eléctrica\", aclarando que la idea de hacer una planta 'off shore' \"sólo es una huida hacia delante, pues no cuenta ni con la financiación ni con el apoyo del Ministerio\". El dirigente nacionalista denunció \"el escaso rigor técnico con el que el Partido Socialista y Nueva Canarias están manejando los asuntos en materia energética, que llevará a la isla a quedarse a la cola en la diversificación de las fuentes de energía\". Al respecto, Lobo hizo un llamamiento \"a la cordura\" y criticó al PSOE-NC de \"cargar sobre el Gobierno de Canarias el fruto de su incompetencia y de lanzar discursos demagógicos sobre otro tipo de fuentes energéticas, como la central hicroeléctrica, que si bien supondrá un claro beneficio y hay que apostar por ellas, no podrían sustituir en ningún caso al gas\". Finalmente, recordó que la introducción del gas en Gran Canaria supondrá no sólo una disminución en los costes de producción de energía, sino la reducción del 30 por ciento de las emisiones del CO2, con respecto a los derivados del petróleo, por lo que \"es una irresponsabilidad de este grupo de Gobierno que no ha hecho otra cosa que echar balones fuera e intentar engañar a los ciudadanos\".",
+        "lemmatized_text": "en uno comunicado lobo acusar a el corporación de manejar este asunto de forma irresponsable y agregar que este terror que le impedir anteponer el interés general a el el político acarrear sólo en gran_canaria uno sobre coste de $_ECU:150000000 anual en el producción de energía eléctrico aclarar que el idea de hacer uno planta off shore sólo ser uno huida hacia delante pues no contar ni con el financiación ni con el apoyo de el ministerio el dirigente nacionalista denunciar el escaso rigor técnico con el que el partido_socialista y nueva_canarias estar manejar el asunto en materia energético que llevar a el isla a quedar se a_la_cola en el diversificación de el fuente de energía a el respecto lobo hacer uno llamamiento a el cordura y criticar a el psoe-nc de cargar sobre el gobierno_de_canarias el fruto de su incompetencia y de lanzar discurso demagógico sobre otro tipo de fuente energético como el central hicroeléctrica que si bien suponer uno claro beneficio y haber que apostar por ellos no poder sustituir en ninguno caso a el gas finalmente recordar que el introducción de el gas en gran_canaria suponer no_sólo uno disminución en el coste de producción de energía sino el reducción de el 30 por 100 de el emisión de el CO2 con_respecto_a el derivado de el petróleo por el que ser uno irresponsabilidad de este grupo de gobierno que no haber hacer otro cosa que echar balón fuera y intentar engañar a el ciudadano",
+        "lemmatized_text_reduced": "comunicado lobo acusar corporación manejar asunto forma irresponsable agregar terror impedir anteponer interés general político acarrear gran_canaria coste anual producción energía eléctrico aclarar idea hacer planta off shore ser huida contar financiación apoyo ministerio dirigente nacionalista denunciar escaso rigor técnico partido_socialista nueva_canarias estar manejar asunto materia energético llevar isla quedar diversificación fuente energía respecto lobo hacer llamamiento cordura criticar psoe-nc cargar gobierno_de_canarias fruto incompetencia lanzar discurso demagógico tipo fuente energético central hicroeléctrica suponer claro beneficio haber apostar poder sustituir caso gas finalmente recordar introducción gas gran_canaria suponer disminución coste producción energía reducción emisión derivado petróleo ser irresponsabilidad grupo gobierno haber hacer cosa echar balón intentar engañar ciudadano",
+        "persons": [
+            "Lobo",
+            "Lobo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Corporación",
+            "Ministerio",
+            "Partido_Socialista",
+            "Nueva_Canarias",
+            "PSOE-NC",
+            "Gobierno_de_Canarias",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:150000000",
+            "30",
+            "100",
+            "CO2"
+        ]
+    }
+}

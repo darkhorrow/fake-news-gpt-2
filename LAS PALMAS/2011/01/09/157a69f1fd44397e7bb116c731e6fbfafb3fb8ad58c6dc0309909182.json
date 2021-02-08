@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/923082/0/",
+    "title": {
+        "raw_text": "El precio de la gasolina en Canarias crece un 13% entre enero y diciembre de 2010",
+        "lemmatized_text": "el precio de el gasolina en canarias crecer uno 13/100 entre [??:??/1/??:??.??:??] y [??:??/12/2010:??.??:??]",
+        "lemmatized_text_reduced": "precio gasolina canarias crecer",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/2010:??.??:??]"
+        ],
+        "numbers": [
+            "13/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio de la gasolina ha crecido en Canarias un 13 por ciento en los doce meses de 2010, según datos recogidos por Europa Press del conjunto de gasolineras de las islas.",
+        "lemmatized_text": "el precio de el gasolina haber crecer en canarias uno 13 por 100 en el 12 mes de 2010 según dato recoger por europa_press de el conjunto de gasolinera de el isla",
+        "lemmatized_text_reduced": "precio gasolina haber crecer canarias mes dato recoger europa_press conjunto gasolinera isla",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "13",
+            "100",
+            "12",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio de la gasolina ha crecido en Canarias un 13 por ciento en los doce meses de 2010, según datos recogidos por Europa Press del conjunto de gasolineras de las islas. Así, la gasolina 95, la más consumida, entre enero y diciembre del pasado año incrementó su precio en un 13 por ciento, fijándose de media en el conjunto del archipiélago en los 0,939 euros por litro. Respecto a otro de los carburantes más solicitados, el diesel convencional, experimentó una subida mayor, ya que en doce meses aumentó un 19,33 por ciento, pasando de los 0,734 euros por litro de enero de 2010 a los 0,876 con los que finalizó el pasado año. Por su parte, el precio de la gasolina 98 también experimentó en el conjunto de las islas un crecimiento aunque fue el menor de todos los carburantes. De todos modos, su coste se incrementó entre enero y diciembre del pasado año en casi un 12 por ciento, situándose el precio medio en 0,992 euros el litro. Finalmente, el coste del diesel enriquecido alcanzó en doce meses prácticamente un crecimiento del 19 por ciento, fijando su precio medio entre enero y diciembre de 2010 en 0,811 euros el litro.",
+        "lemmatized_text": "el precio de el gasolina haber crecer en canarias uno 13 por 100 en el 12 mes de 2010 según dato recoger por europa_press de el conjunto de gasolinera de el isla así el gasolina 95 el más consumir entre [??:??/1/??:??.??:??] y [??:??/12/??:??.??:??] de el pasar año incrementar su precio en uno 13 por 100 fijar se de media en el conjunto de el archipiélago en el $_ECU:939 por litro respecto_a otro de el carburante más solicitar el diesel convencional experimentar uno subida mayor ya_que en 12 mes aumentar uno 19,33 por 100 pasar de el $_ECU:734 por litro de [??:??/1/2010:??.??:??] a el 876 con el que finalizar el pasar año por su parte el precio de el gasolina 98 también experimentar en el conjunto de el isla uno crecimiento aunque ser el menor de todo el carburante de_todos_modos su coste se incrementar entre [??:??/1/??:??.??:??] y [??:??/12/??:??.??:??] de el pasar año en casi uno 12 por 100 situar se el precio medio en $_ECU:992 el litro finalmente el coste de el diesel enriquecer alcanzar en 12 mes prácticamente uno crecimiento de el 19 por 100 fijar su precio medio entre [??:??/1/??:??.??:??] y [??:??/12/2010:??.??:??] en $_ECU:811 el litro",
+        "lemmatized_text_reduced": "precio gasolina haber crecer canarias mes dato recoger europa_press conjunto gasolinera isla gasolina consumir pasar año incrementar precio fijar media conjunto archipiélago litro carburante solicitar diesel convencional experimentar subida mayor mes aumentar pasar litro finalizar pasar año parte precio gasolina experimentar conjunto isla crecimiento ser menor carburante coste incrementar pasar año situar precio medio litro finalmente coste diesel enriquecer alcanzar mes prácticamente crecimiento fijar precio medio litro",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/1/2010:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/2010:??.??:??]"
+        ],
+        "numbers": [
+            "13",
+            "100",
+            "12",
+            "2010",
+            "95",
+            "13",
+            "100",
+            "$_ECU:939",
+            "12",
+            "19,33",
+            "100",
+            "$_ECU:734",
+            "876",
+            "98",
+            "12",
+            "100",
+            "$_ECU:992",
+            "12",
+            "19",
+            "100",
+            "$_ECU:811"
+        ]
+    }
+}

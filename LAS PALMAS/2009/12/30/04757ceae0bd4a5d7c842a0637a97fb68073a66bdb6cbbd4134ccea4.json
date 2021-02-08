@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598250/0/",
+    "title": {
+        "raw_text": "Arucas (Gran Canaria) realizará un seguimiento \"exhaustivo\" de la huelga de basura para actuar en defensa del municipio",
+        "lemmatized_text": "arucas gran_canaria realizar uno seguimiento exhaustivo de el huelga de basura para actuar en defensa de el municipio",
+        "lemmatized_text_reduced": "arucas gran_canaria realizar seguimiento exhaustivo huelga basura actuar defensa municipio",
+        "persons": [
+            "Arucas"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Arucas (Gran Canaria) ha asegurado hoy que llevará a cabo un seguimiento \"exhaustivo\" de la huelga que iniciarán el sábado los trabajadores del servicio de basura, pertenecientes a la empresa RINCA S.L., para actuar en defensa del municipio tomando las medidas previstas por la ley en caso de que se provoquen molestias a la ciudadanía.",
+        "lemmatized_text": "el ayuntamiento_de_arucas gran_canaria haber asegurar hoy que llevar_a_cabo uno seguimiento exhaustivo de el huelga que iniciar el [S:??/??/??:??.??:??] el trabajador de el servicio de basura perteneciente a el empresa rinca_s.l. para actuar en defensa de el municipio tomar el medida prever por el ley en_caso_de que se provocar molestia a el ciudadanía",
+        "lemmatized_text_reduced": "ayuntamiento_de_arucas gran_canaria haber asegurar llevar_a_cabo seguimiento exhaustivo huelga iniciar trabajador servicio basura perteneciente empresa rinca_s.l. actuar defensa municipio tomar medida prever ley provocar molestia ciudadanía",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Arucas",
+            "Gran_Canaria",
+            "RINCA_S.L."
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las palmas de gran canaria , 30 ( Europa press Según informó el Consistorio norteño en nota de prensa, el objetivo de esta medida es \"evitar perjuicios a los residentes del municipio y preservar ante todo el buen funcionamiento del servicio de recogida de residuos\". Asimismo, el Ayuntamiento garantizó que \"tiene al día el pago de las facturas\" de la empresa concesionaria del servicio de limpieza viaria, enseres, plazas y eventos en el término municipal de Arucas, RINCA S.L, tal y como se acredita tanto por el Interventor como por el Tesorero municipal. En este sentido, recordó que el pasado día 11 de diciembre la Junta de Gobierno Local inició el expediente de resolución del contrato de este servicio municipal debido a los incumplimientos constantes y progresivos de la empresa concesionaria.",
+        "lemmatized_text": "el palma de gran canario 30 europa press según informar el consistorio norteño en nota de prensa el objetivo de este medida ser evitar perjuicio a el residente de el municipio y preservar ante todo el bueno funcionamiento de el servicio de recogida de residuo asimismo el ayuntamiento garantizar que tener a el día el pago de el factura de el empresa concesionario de el servicio de limpieza viario enseres plaza y evento en el término municipal de arucas rinca [s:l] tal_y_como se acreditar tanto por el interventor como por el tesorero municipal en este sentido recordar que el [??:11/12/??:??.??:??] el junta_de_gobierno_local iniciar el expediente de resolución de el contrato de este servicio municipal debido_a el incumplimiento constante y progresivo de el empresa concesionario",
+        "lemmatized_text_reduced": "palma gran canario europa press según informar consistorio norteño nota prensa objetivo medida ser evitar perjuicio residente municipio preservar bueno funcionamiento servicio recogida residuo ayuntamiento garantizar tener día pago factura empresa concesionario servicio limpieza viario enseres plaza evento término municipal arucas rinca acreditar interventor tesorero municipal sentido recordar junta_de_gobierno_local iniciar expediente resolución contrato servicio municipal incumplimiento constante progresivo empresa concesionario",
+        "persons": [],
+        "locations": [
+            "Arucas"
+        ],
+        "organizations": [
+            "Europa",
+            "Según",
+            "Consistorio",
+            "Ayuntamiento",
+            "RINCA",
+            "Interventor",
+            "Tesorero",
+            "Junta_de_Gobierno_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[s:l]",
+            "[??:11/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "30"
+        ]
+    }
+}

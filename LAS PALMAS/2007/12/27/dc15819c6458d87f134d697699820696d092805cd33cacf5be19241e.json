@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/327015/0/expropiacion/salto/negro/",
+    "title": {
+        "raw_text": "Expropiarán 240.000 metros cuadrados en Salto del Negro para hacer casas",
+        "lemmatized_text": "expropiar AR_m2:240 en salto_del_negro para hacer casa",
+        "lemmatized_text_reduced": "expropiar salto_del_negro hacer casa",
+        "persons": [],
+        "locations": [
+            "Salto_del_Negro"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_m2:240"
+        ]
+    },
+    "lead": {
+        "raw_text": "El gobierno municipal ha consignado 376.000 euros en los presupuestos de la empresa Geursa del próximo año para llevar a cabo el proyecto de urbanización y expropiación. Forma parte del plan parcial de Salto del Negro, un plan que fue aprobado en la década de los noventa. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el gobierno municipal haber consignar $_ECU:376 en el presupuesto de el empresa geursa de el próximo año para llevar_a_cabo el proyecto de urbanización y expropiación formar_parte de el plan parcial de salto_del_negro uno plan que ser aprobar en el década de el 90 consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "gobierno municipal haber consignar presupuesto empresa geursa próximo año llevar_a_cabo proyecto urbanización expropiación formar_parte plan parcial salto_del_negro plan ser aprobar década consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salto_del_Negro"
+        ],
+        "locations": [],
+        "organizations": [
+            "Geursa",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:376",
+            "90"
+        ]
+    },
+    "body": {
+        "raw_text": "El Ayuntamiento de la capital grancanaria pondrá en marcha el próximo año la expropiación de unos 240.000 metros cuadrados en Salto del Negro para construir 600 casas de protección oficial , según informa el diario La Provincia, de Las Palmas. El gobierno municipal ha consignado 376.000 euros en los presupuestos de la empresa Geursa del próximo año para llevar a cabo el proyecto de urbanización y expropiación del suelo urbanizable que forma parte del plan parcial de Salto del Negro, un plan que fue aprobado en la década de los noventa, pero que no se ha desarrollado. Compesaciones con parcelas urbanizadas La Concejalía de Vivienda, que dirige Chani Ruiz, pretende poner en marcha en Salto del Negro un proceso de urbanización similar al que se está llevando a cabo en Tamaraceite-Sur , que consiste en expropiar el suelo a los propietarios y compensarles con parcelas urbanizadas. Mientras sale adelante el plan parcial de Salto del Negro, en el que se construirán viviendas de protección oficial de promoción pública y privada , el gobierno municipal inició ayer la liberación de parcelas disponibles para construir casas sociales. La junta de gobierno aprobó ayer la cesión al Instituto Canario de la Vivienda del Gobierno canario de dos parcelas de 3.500 metros cuadrados en Las Mesas para construir unas 70 viviendas de promoción pública en régimen especial de alquiler. Chani Ruiz explicó que las casas serán construidas por Visocan \"sobre la marcha\", según le aseguró el director del Instituto Canario de la Vivienda, Jerónimo Fregel. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el ayuntamiento de el capital grancanaria poner en marcha el próximo año el expropiación de uno AR_m2:240 en salto_del_negro para construir 600 casa de protección oficial según informar el diario la_provincia de las_palmas el gobierno municipal haber consignar $_ECU:376 en el presupuesto de el empresa geursa de el próximo año para llevar_a_cabo el proyecto de urbanización y expropiación de el suelo urbanizable que formar_parte de el plan parcial de salto_del_negro uno plan que ser aprobar en el década de el 90 pero que no se haber desarrollar compesaciones con parcela urbanizar la_concejalía_de_vivienda que dirigir chani_ruiz pretender poner en marcha en salto_del_negro uno proceso de urbanización similar a el que se estar llevar_a_cabo en tamaraceite-sur que consistir en expropiar el suelo a el propietario y compensar le con parcela urbanizar mientras salir adelante el plan parcial de salto_del_negro en el que se construir vivienda de protección oficial de promoción público y privar el gobierno municipal iniciar ayer el liberación de parcela disponible para construir casa social el junta de gobierno aprobar ayer el cesión a el instituto_canario_de_la_vivienda_del_gobierno canario de 2 parcela de AR_m2:3.5 en las_mesas para construir uno 70 vivienda de promoción público en régimen especial de alquiler chani_ruiz explicar que el casa ser construir por visocan sobre el marcha según le asegurar el director de el instituto_canario_de_la_vivienda jerónimo_fregel consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ayuntamiento capital grancanaria poner marcha próximo año expropiación salto_del_negro construir casa protección oficial informar diario la_provincia las_palmas gobierno municipal haber consignar presupuesto empresa geursa próximo año llevar_a_cabo proyecto urbanización expropiación suelo urbanizable formar_parte plan parcial salto_del_negro plan ser aprobar década haber desarrollar compesaciones parcela urbanizar la_concejalía_de_vivienda dirigir chani_ruiz pretender poner marcha salto_del_negro proceso urbanización similar estar llevar_a_cabo tamaraceite-sur consistir expropiar suelo propietario compensar parcela urbanizar salir plan parcial salto_del_negro construir vivienda protección oficial promoción público privar gobierno municipal iniciar liberación parcela disponible construir casa social junta gobierno aprobar cesión instituto_canario_de_la_vivienda_del_gobierno canario parcela las_mesas construir vivienda promoción público régimen especial alquiler chani_ruiz explicar casa ser construir visocan marcha asegurar director instituto_canario_de_la_vivienda jerónimo_fregel consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salto_del_Negro",
+            "Chani_Ruiz",
+            "Chani_Ruiz",
+            "Jerónimo_Fregel"
+        ],
+        "locations": [
+            "Salto_del_Negro",
+            "Salto_del_Negro",
+            "Tamaraceite-Sur",
+            "Salto_del_Negro",
+            "Las_Mesas"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "La_Provincia",
+            "Las_Palmas",
+            "Geursa",
+            "Compesaciones",
+            "Instituto_Canario_de_la_Vivienda_del_Gobierno",
+            "Visocan",
+            "Instituto_Canario_de_la_Vivienda",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "La_Concejalía_de_Vivienda"
+        ],
+        "dates": [],
+        "numbers": [
+            "AR_m2:240",
+            "600",
+            "$_ECU:376",
+            "90",
+            "2",
+            "AR_m2:3.5",
+            "70"
+        ]
+    }
+}

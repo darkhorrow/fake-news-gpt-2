@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703757/0/",
+    "title": {
+        "raw_text": "La nube de cenizas abandona Canarias",
+        "lemmatized_text": "el nube de ceniza abandonar canarias",
+        "lemmatized_text_reduced": "nube ceniza abandonar canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La nube de cenizas volcánicas que provocó durante la mañana el cierre de los aeropuertos de Tenerife Norte, Tenerife Sur, La Palma y La Gomera abandonará Canarias al menos hasta la 01.00 horas de mañana miércoles, 12 de mayo, según el último mapa publicado por el organismo europeo que coordina el tráfico aéreo, Eurocontrol.",
+        "lemmatized_text": "el nube de ceniza volcánico que provocar durante el mañana el cierre de el aeropuerto de tenerife_norte tenerife_sur la_palma y la_gomera abandonar canarias a el menos hasta el [??:??/??/??:1.00:am] [X:12/5/??:??.??:??] según el último mapa publicar por el organismo europeo que coordinar el tráfico aéreo eurocontrol",
+        "lemmatized_text_reduced": "nube ceniza volcánico provocar mañana cierre aeropuerto tenerife_norte tenerife_sur la_palma la_gomera abandonar canarias último mapa publicar organismo europeo coordinar tráfico aéreo eurocontrol",
+        "persons": [
+            "Tenerife_Sur",
+            "Eurocontrol"
+        ],
+        "locations": [
+            "Tenerife_Norte",
+            "La_Palma",
+            "Canarias"
+        ],
+        "organizations": [
+            "La_Gomera"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:1.00:am]",
+            "[X:12/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, aún quedan restos de la nube al oeste del archipiélago, mientras que la masa principal de cenizas está bordeando las islas por el norte, tocando el norte de Lanzarote y ascendiendo por la costa atlántica de Marruecos y la costa mediterránea de la península ibérica. Asimismo, unas 1.400 personas y 124 vuelos se han visto afectados por el cierre de los aeropuertos de Tenerife, La Palma y La Gomera en la mañana de hoy por el paso de la nube de cenizas volcánicas sobre los cielos del archipiélago, según informó el consejero de Obras Públicas y Transporte del Gobierno de Canarias, Juan Ramón Hernández. En estos momentos, todos los aeropuertos de la Comunidad Autónoma están operativos menos el de La Palma. Además, Aeropuertos Españoles y Navegación Aérea (Aena) apuntó durante la mañana al cierre del aeropuerto de Lanzarote a partir, aunque finalmente no hubo que dejar de operar en el recinto aeroportuario de Guacimeta.",
+        "lemmatized_text": "de este manera aun quedar resto de el nube a el oeste de el archipiélago mientras_que el masa principal de ceniza estar bordear el isla por el norte tocar el norte de lanzarote y ascender por el costa atlántico de marruecos y el costa mediterráneo de el península ibérico asimismo uno 1.4 persona y 124 vuelo se haber ver afectar por el cierre de el aeropuerto de tenerife la_palma y la_gomera en el mañana de hoy por el paso de el nube de ceniza volcánico sobre el cielo de el archipiélago según informar el consejero de obras_públicas y transporte_del_gobierno_de_canarias juan_ramón_hernández en este momento todo el aeropuerto de el comunidad_autónoma estar operativo menos el de la_palma además aeropuertos_españoles y navegación_aérea aena apuntar durante el mañana a el cierre de el aeropuerto de lanzarote a partir aunque finalmente no haber que dejar de operar en el recinto aeroportuario de guacimeta",
+        "lemmatized_text_reduced": "manera quedar resto nube oeste archipiélago masa principal ceniza estar bordear isla norte tocar norte lanzarote ascender costa atlántico marruecos costa mediterráneo península ibérico persona vuelo haber ver afectar cierre aeropuerto tenerife la_palma la_gomera mañana paso nube ceniza volcánico cielo archipiélago informar consejero obras_públicas transporte_del_gobierno_de_canarias juan_ramón_hernández momento aeropuerto comunidad_autónoma estar operativo la_palma aeropuertos_españoles navegación_aérea aena apuntar mañana cierre aeropuerto lanzarote partir finalmente haber dejar operar recinto aeroportuario guacimeta",
+        "persons": [
+            "Juan_Ramón_Hernández",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Marruecos",
+            "Tenerife",
+            "La_Palma",
+            "La_Gomera",
+            "La_Palma",
+            "Lanzarote",
+            "Guacimeta"
+        ],
+        "organizations": [
+            "Obras_Públicas",
+            "Transporte_del_Gobierno_de_Canarias",
+            "Comunidad_Autónoma",
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1.4",
+            "124"
+        ]
+    }
+}

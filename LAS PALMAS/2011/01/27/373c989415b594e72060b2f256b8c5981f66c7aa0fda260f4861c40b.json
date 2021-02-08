@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/942227/0/",
+    "title": {
+        "raw_text": "Los bomberos de Gran Canaria sofocan el incendio de una carpintería",
+        "lemmatized_text": "el bombero de gran_canaria sofocar el incendio de uno carpintería",
+        "lemmatized_text_reduced": "bombero gran_canaria sofocar incendio carpintería",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos del Consorcio de Emergencias de Gran Canaria han tenido que sofocar este jueves el incendio que se produjo en una carpintería, donde no hubo que lamentar daños personales.",
+        "lemmatized_text": "el bombero de el consorcio_de_emergencias_de_gran_canaria haber tener que sofocar este [J:??/??/??:??.??:??] el incendio que se producir en uno carpintería donde no haber que lamentar daño personal",
+        "lemmatized_text_reduced": "bombero consorcio_de_emergencias_de_gran_canaria haber tener sofocar incendio producir carpintería haber lamentar daño personal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consorcio_de_Emergencias_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los bomberos del Consorcio de Emergencias de Gran Canaria han tenido que sofocar este jueves el incendio que se produjo en una carpintería, donde no hubo que lamentar daños personales. Los hechos ocurrieron a las 16.10 horas en el polígono industrial Las Rubiesas, en Telde, según informó el Centro Coordinador de Emergencias y Seguridad 112. Hasta el lugar se trasladó personal de Protección Civil de Telde, así como del Servicio de Urgencias Canario (SUC) y agentes de la Policía Local y del Cuerpo Nacional de Policía, que se encargaron de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el bombero de el consorcio_de_emergencias_de_gran_canaria haber tener que sofocar este [J:??/??/??:??.??:??] el incendio que se producir en uno carpintería donde no haber que lamentar daño personal el hecho ocurrir a el TM_h:16.1 en el polígono industrial las_rubiesas en telde según informar el centro_coordinador_de_emergencias y seguridad 112 hasta el lugar se trasladar personal de protección_civil_de_telde así_como de el servicio_de_urgencias_canario suc y agente de el policía_local y de el cuerpo_nacional_de_policía que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "bombero consorcio_de_emergencias_de_gran_canaria haber tener sofocar incendio producir carpintería haber lamentar daño personal hecho ocurrir polígono industrial las_rubiesas telde informar centro_coordinador_de_emergencias seguridad lugar trasladar personal protección_civil_de_telde servicio_de_urgencias_canario suc agente policía_local cuerpo_nacional_de_policía encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Rubiesas",
+            "Telde"
+        ],
+        "organizations": [
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad",
+            "Protección_Civil_de_Telde"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:16.1",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620837/0/",
+    "title": {
+        "raw_text": "Buscan a un hombre que podría haber caído al mar en zona de La Caleta (Gran Canaria)",
+        "lemmatized_text": "buscar a uno hombre que poder haber caer a el mar en zona de la_caleta gran_canaria",
+        "lemmatized_text_reduced": "buscar hombre poder haber caer mar zona la_caleta gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Caleta",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de rescate se encuentran buscando a un hombre que podría haber caído al mar en la zona de La Caleta, dentro del término municipal de Gáldar, en Gran Canaria, sobre las 08.40 horas, según informó hoy el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112, quien especificó que aún no se tiene la seguridad de que el varón se haya precipitado al agua.",
+        "lemmatized_text": "el servicio de rescate se encontrar buscar a uno hombre que poder haber caer a el mar en_la_zona_de la_caleta dentro de el término municipal de gáldar en gran_canaria sobre el TM_h:8.4 según informar hoy el centro_coordinador_de_emergencias y seguridad cecoes 112 quien especificar que aun no se tener el seguridad de que el varón se haber precipitar a el agua",
+        "lemmatized_text_reduced": "servicio rescate encontrar buscar hombre poder haber caer mar la_caleta término municipal gáldar gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes especificar tener seguridad varón haber precipitar agua",
+        "persons": [],
+        "locations": [
+            "La_Caleta",
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:8.4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el 112 recibió una llamada a la hora indicada informando que se estaba buscando a un hombre y que cabía la posibilidad de que éste se hubiera caído al mar. En ese momento, se activó el dispositivo habitual y se comenzó con la búsqueda del varón en La Caleta. En el dispositivo están participando el helicóptero del Grupo de Emergencia y Seguridad (GES), Salvamento Marítimo, Bomberos y Policía Local.",
+        "lemmatized_text": "de este manera el 112 recibir uno llamada a el hora indicar informar que se estar buscar a uno hombre y que caber el posibilidad de que este se haber caer a el marzo en ese momento se activar el dispositivo habitual y se comenzar con el búsqueda de el varón en la_caleta en el dispositivo estar participar el helicóptero de el grupo_de_emergencia y seguridad ges salvamento_marítimo bomberos y policía_local",
+        "lemmatized_text_reduced": "manera recibir llamada hora indicar informar estar buscar hombre caber posibilidad haber caer marzo en momento activar dispositivo habitual comenzar búsqueda varón la_caleta dispositivo estar participar helicóptero grupo_de_emergencia seguridad ges salvamento_marítimo bomberos policía_local",
+        "persons": [
+            "En",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "La_Caleta"
+        ],
+        "organizations": [
+            "Grupo_de_Emergencia",
+            "GES",
+            "Bomberos",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    }
+}

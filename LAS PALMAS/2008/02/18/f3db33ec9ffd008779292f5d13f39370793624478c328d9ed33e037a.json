@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/350604/0/asesinato/arma/blanca/",
+    "title": {
+        "raw_text": "Dos personas se entregan y un menor es detenido por el crimen de Las Palmas",
+        "lemmatized_text": "2 persona se entregar y uno menor ser detener por el crimen de las_palmas",
+        "lemmatized_text_reduced": "persona entregar menor ser detener crimen las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un hombre de 41 años murió tras sufrir una agresión con arma blanca. Se investiga si obedece a un posible ajuste de cuentas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno hombre de 41 año morir tras sufrir uno agresión con arma blanco se investigar si obedecer a uno posible ajuste de cuenta consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "hombre año morir sufrir agresión arma blanco investigar obedecer posible ajuste cuenta consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "41"
+        ]
+    },
+    "body": {
+        "raw_text": "Dos persona s se han entregado y un menor ha sido detenido por su relación con el crimen que se produjo ayer en la calle Primero de Mayo de la capital grancanaria, donde un hombre de 41 años murió tras sufrir una agresión con arma blanca , informaron fuentes próximas al caso. Los dos detenidos, que se entregaron en los juzgados, permanecerán en instalaciones policiales hasta que pasen a disposición judicial, para lo que hay un plazo de 72 horas. El crimen se produjo ayer cerca de las cuatro de la tarde en las inmediaciones de la oficina de Correos. La Policía investiga las causas del homicidio y si obedece a un posible ajuste de cuentas por cuestiones de drogas, indicó la subdelegada del Gobierno en Canarias, Laura Martín. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "2 persona segundo se haber entregar y uno menor haber ser detener por su relación con el crimen que se producir ayer en el calle primero de [??:??/5/??:??.??:??] de el capital grancanaria donde uno hombre de 41 año morir tras sufrir uno agresión con arma blanco informar fuente próximo a el caso el 2 detenido que se entregar en el juzgado permanecer en instalación policial hasta que pasar a disposición judicial para el que haber uno plazo de TM_h:72 el crimen se producir ayer cerca de el [??:??/??/??:4.00:pm] en el inmediación de el oficina de correos el policía investigar el causa de el homicidio y si obedecer a uno posible ajuste de cuenta por cuestión de droga indicar el subdelegado de el gobierno en canarias laura_martín consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "persona segundo haber entregar menor haber ser detener relación crimen producir calle primero capital grancanaria hombre año morir sufrir agresión arma blanco informar fuente próximo caso detenido entregar juzgado permanecer instalación policial pasar disposición judicial haber plazo crimen producir inmediación oficina correos policía investigar causa homicidio obedecer posible ajuste cuenta cuestión droga indicar subdelegado gobierno canarias laura_martín consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Laura_Martín"
+        ],
+        "locations": [
+            "Correos",
+            "Canarias"
+        ],
+        "organizations": [
+            "Policía",
+            "Gobierno",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Primero"
+        ],
+        "dates": [
+            "[??:??/5/??:??.??:??]",
+            "[??:??/??/??:4.00:pm]"
+        ],
+        "numbers": [
+            "2",
+            "41",
+            "2",
+            "TM_h:72"
+        ]
+    }
+}

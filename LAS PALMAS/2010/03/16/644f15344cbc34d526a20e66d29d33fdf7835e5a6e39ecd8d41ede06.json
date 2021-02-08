@@ -1,0 +1,96 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/653592/0/",
+    "title": {
+        "raw_text": "El Gobierno canario licitará la obra de la nueva depuradora de El Cotillo (Fuerteventura)",
+        "lemmatized_text": "el gobierno canario licitar el obra de el nuevo depuradora de el_cotillo fuerteventura",
+        "lemmatized_text_reduced": "gobierno canario licitar obra nuevo depuradora el_cotillo fuerteventura",
+        "persons": [],
+        "locations": [
+            "El_Cotillo"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El director general de Aguas del Gobierno de Canarias, Mariano de León, \"ha confirmado\" al Cabildo de Fuerteventura la próxima licitación de la obra de la nueva depuradora de El Cotillo a fin de que los trabajos puedan estar adjudicados antes del verano.",
+        "lemmatized_text": "el director general de aguas_del_gobierno_de_canarias mariano_de_león haber confirmar a el cabildo_de_fuerteventura el próximo licitación de el obra de el nuevo depuradora de el_cotillo a_fin_de que el trabajo poder estar adjudicar antes de el verano",
+        "lemmatized_text_reduced": "director general aguas_del_gobierno_de_canarias mariano_de_león haber confirmar cabildo_de_fuerteventura próximo licitación obra nuevo depuradora el_cotillo trabajo poder estar adjudicar verano",
+        "persons": [
+            "Mariano_de_León"
+        ],
+        "locations": [
+            "El_Cotillo"
+        ],
+        "organizations": [
+            "Aguas_del_Gobierno_de_Canarias",
+            "Cabildo_de_Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta forma, según indicó el Cabildo de Fuerteventura en nota de prensa se responde a la solicitud formulada por el Consejo Insular de Aguas para asumir el \"100 por 100 del coste de la construcción de la nueva Estación Depuradora de Aguas Residuales de El Cotillo y El Roque\". La inversión total supera los 3 millones de euros y ya ha sido aprobada en el Consejo Insular de Aguas de Fuerteventura. Además, el Consejo de Gobierno del Ejecutivo autonómico aprobó en noviembre la suspensión puntual del Plan Insular de Ordenación de Fuerteventura y de las Normas Subsidiarias de La Oliva, por lo que se \"pueda autorizar\" dicha obra. Al respecto, el presidente del Cabildo de Fuerteventura, Mario Cabrera, recordó que el Consejo Insular de Aguas dispone de unos 900.000 euros para acometer la primera fase de la obra \"y el Gobierno —regional—, con cargo al convenio Canarias-Estado, se encarga de gestionar el resto, más de 2 millones de euros restantes\". Por ello, dada la \"urgencia\" de la obra el Cabildo insular solicitó la \"máxima\" colaboración del Gobierno canario tanto en la tramitación de la calificación del suelo, que se ha resuelto en unos \"tres meses\" como en la dotación de fondos económicos para afrontar su totalidad. Cabrera subrayó la colaboración recibida por parte de la Consejería de Medio Ambiente y la de Obras Públicas del Gobierno de Canarias, ya que \"han agilizado\" los trámites y han dado las \"máximas\" facilidades para poder desbloquear esta situación, contando además con la colaboración del Ayuntamiento que \"igualmente ha gestionado el suelo necesario\". La nueva estación depuradora se instalará en una parcela de 20.337 metros cuadrados, que se localiza entre El Cotillo y El Roque, ésta contará con dos líneas de tratamiento para 400 metros cúbicos por día, ampliable con otros módulos, según las necesidades. También dispondrá en las mismas instalaciones de un depósito de 1.000 metros cúbicos de capacidad para reutilización. En cuanto a la tubería de impulsión, discurrirá desde El Cotillo, por el margen de la carretera Cotillo-Roque, hasta sobrepasar la población de El Roque, y seguirá el trazado del carril bici ejecutado sobre el de la antigua vía de Lajares a El Cotillo. Asimismo, se prevé la instalación de un emisario submarino para el desagüe del \"excedente\" de agua depurada, si lo hubiera, que discurrirá paralelo a la tubería de impulsión hasta llegar a la costa en las cercanías de la antigua depuradora. El Cotillo y El Roque cuentan con alrededor de 1.600 vecinos inscritos como residentes aunque su población \"supera esa cifra debido a la actividad turística y de servicios existente en la zona\". La nueva EDAR está diseñada \"no sólo para responder a la demanda actual sino incluso para seguir creciendo si la demanda lo requiere\".",
+        "lemmatized_text": "de este forma según indicar el cabildo_de_fuerteventura en nota de prensa se responder a el solicitud formular por el consejo_insular_de_aguas para asumir el 100/100 de el coste de el construcción de el nuevo estación_depuradora_de_aguas_residuales_de_el_cotillo y el_roque el inversión total superar el $_ECU:3000000 y ya haber ser aprobar en el consejo_insular_de_aguas_de_fuerteventura además el consejo_de_gobierno_del_ejecutivo autonómico aprobar en [??:??/11/??:??.??:??] el suspensión puntual de el plan_insular_de_ordenación_de_fuerteventura y de el normas_subsidiarias_de_la_oliva por el que se poder autorizar decir obra a el respecto el presidente de el cabildo_de_fuerteventura mario_cabrera recordar que el consejo_insular_de_aguas disponer de uno $_ECU:900 para acometer el 1 fase de el obra y el gobierno regional con cargo a el convenio canarias-estado se encargar de gestionar el resto más de $_ECU:2000000 restante por ello dar el urgencia de el obra el cabildo insular solicitar el máximo colaboración de el gobierno canario tanto en el tramitación de el calificación de el suelo que se haber resolver en uno 3 mes como en el dotación de fondo económico para afrontar su totalidad cabrera subrayar el colaboración recibir por parte de el consejería_de_medio_ambiente y el de obras_públicas_del_gobierno_de_canarias ya_que haber agilizar el trámite y haber dar el máximo facilidad para poder desbloquear este situación contar además con el colaboración de el ayuntamiento que igualmente haber gestionar el suelo necesario el nuevo estación depurador se instalar en uno parcela de AR_m2:20.337 que se localizar entre el_cotillo y el_roque este contar con 2 línea de tratamiento para LN_m:400 cúbico por día ampliable con otro módulo según el necesidad también disponer en el mismo instalación de uno depósito de LN_m:1 cúbico de capacidad para reutilización en_cuanto_a el tubería de impulsión discurrir desde el_cotillo por el margen de el carretera cotillo-roque hasta sobrepasar el población de el_roque y seguir el trazado de el carril bici ejecutar sobre el de el antiguo vía de lajares a el_cotillo asimismo se prever el instalación de uno emisario submarino para el desagüe de el excedente de agua depurar si lo haber que discurrir paralelo a el tubería de impulsión hasta llegar a el costa en_las_cercanías_de el antiguo depuradora el cotillo y el_roque contar con alrededor_de 1.6 vecino inscribir como residente aunque su población superar ese cifra debido_a el actividad turístico y de servicio existente en el zona el nuevo edar estar diseñar no_sólo para responder a el demanda actual sino incluso para seguir crecer si el demanda lo requerir",
+        "lemmatized_text_reduced": "forma indicar cabildo_de_fuerteventura nota prensa responder solicitud formular consejo_insular_de_aguas asumir coste construcción nuevo estación_depuradora_de_aguas_residuales_de_el_cotillo el_roque inversión total superar haber ser aprobar consejo_insular_de_aguas_de_fuerteventura consejo_de_gobierno_del_ejecutivo autonómico aprobar suspensión puntual plan_insular_de_ordenación_de_fuerteventura normas_subsidiarias_de_la_oliva poder autorizar decir obra respecto presidente cabildo_de_fuerteventura mario_cabrera recordar consejo_insular_de_aguas disponer acometer 1 fase obra gobierno regional cargo convenio canarias-estado encargar gestionar resto restante dar urgencia obra cabildo insular solicitar máximo colaboración gobierno canario tramitación calificación suelo haber resolver mes dotación fondo económico afrontar totalidad cabrera subrayar colaboración recibir parte consejería_de_medio_ambiente obras_públicas_del_gobierno_de_canarias haber agilizar trámite haber dar máximo facilidad poder desbloquear situación contar colaboración ayuntamiento igualmente haber gestionar suelo necesario nuevo estación depurador instalar parcela localizar el_cotillo el_roque contar línea tratamiento cúbico día ampliable módulo necesidad disponer mismo instalación depósito cúbico capacidad reutilización tubería impulsión discurrir el_cotillo margen carretera cotillo-roque sobrepasar población el_roque seguir trazado carril bici ejecutar antiguo vía lajares el_cotillo prever instalación emisario submarino desagüe excedente agua depurar haber discurrir paralelo tubería impulsión llegar costa antiguo depuradora cotillo el_roque contar vecino inscribir residente población superar cifra actividad turístico servicio existente zona nuevo edar estar diseñar responder demanda actual seguir crecer demanda requerir",
+        "persons": [
+            "Mario_Cabrera",
+            "Cabrera",
+            "El_Cotillo"
+        ],
+        "locations": [
+            "Estación_Depuradora_de_Aguas_Residuales_de_El_Cotillo",
+            "El_Roque",
+            "El_Roque",
+            "El_Cotillo",
+            "El_Roque",
+            "Lajares",
+            "El_Cotillo",
+            "El_Roque"
+        ],
+        "organizations": [
+            "Consejo_Insular_de_Aguas",
+            "Consejo_Insular_de_Aguas_de_Fuerteventura",
+            "Consejo_de_Gobierno_del_Ejecutivo",
+            "Normas_Subsidiarias_de_La_Oliva",
+            "Cabildo_de_Fuerteventura",
+            "Consejo_Insular_de_Aguas",
+            "Gobierno",
+            "Canarias-Estado",
+            "Cabildo",
+            "Gobierno",
+            "Consejería_de_Medio_Ambiente",
+            "Obras_Públicas_del_Gobierno_de_Canarias",
+            "Ayuntamiento",
+            "Cotillo",
+            "EDAR"
+        ],
+        "others": [
+            "Cabildo_de_Fuerteventura",
+            "Plan_Insular_de_Ordenación_de_Fuerteventura",
+            "Cotillo-Roque"
+        ],
+        "dates": [
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "100/100",
+            "$_ECU:3000000",
+            "$_ECU:900",
+            "$_ECU:2000000",
+            "3",
+            "AR_m2:20.337",
+            "2",
+            "LN_m:400",
+            "LN_m:1",
+            "1.6"
+        ]
+    }
+}

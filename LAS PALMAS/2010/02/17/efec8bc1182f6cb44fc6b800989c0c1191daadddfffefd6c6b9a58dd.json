@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/631874/0/",
+    "title": {
+        "raw_text": "Un velero de un súbdito británico encalla en la costa de Puerto del Carmen en Lanzarote por el oleaje",
+        "lemmatized_text": "uno velero de uno súbdito británico encallar en el costa de puerto_del_carmen en lanzarote por el oleaje",
+        "lemmatized_text_reduced": "velero súbdito británico encallar costa puerto_del_carmen lanzarote oleaje",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Carmen",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un velero encalló esta tarde en la costa del Puerto del Carmen, en el municipio de Tías, en Lanzarote, debido al fuerte oleaje, según informaron a Europa Press fuentes de la Policía Local, que indicaron que su único tripulante, un súbdito de origen británico, no ha resultado herido.",
+        "lemmatized_text": "uno velero encallar este tarde en el costa de el puerto_del_carmen en el municipio de tías en lanzarote deber a el fuerte oleaje según informar a europa_press fuente de el policía_local que indicar que su único tripulante uno súbdito de origen británico no haber resultar herir",
+        "lemmatized_text_reduced": "velero encallar tarde costa puerto_del_carmen municipio tías lanzarote deber fuerte oleaje informar europa_press fuente policía_local indicar único tripulante súbdito origen británico haber resultar herir",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Puerto_del_Carmen",
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron en torno a las 15.30 horas, en la Playa Fariones, frente al Hotel San Antonio, cuando la embarcación sufrió una avería y le falló el motor, por lo que el ocupante tuvo que encargarse de dirigir el barco a vela, pero, tras intentar las maniobras sin éxito, terminó encallando en el litoral. Según las mismas fuentes, el varón desembarcó \"sin problemas\" en la orilla, por lo que \"no fue necesario ningún tipo de rescate\". A continuación, \"ató el velero a unos cocoteros\", donde sigue encallado. En dicha actuación también intervino Protección Civil, Cruz Roja y la Guardia Civil que, junto con la Policía Local, se encargaron de estabilizar la embarcación.",
+        "lemmatized_text": "el hecho ocurrir en_torno_a el TM_h:15.3 en el playa_fariones frente a el hotel_san_antonio cuando el embarcación sufrir uno avería y le fallar el motor por el que el ocupante tener que encargar se de dirigir el barco a vela pero tras intentar el maniobra sin éxito terminar encallar en el litoral según el mismo fuente el varón desembarcar sin problema en el orilla por el que no ser necesario ninguno tipo de rescate a continuación atar el velero a uno cocotero donde seguir encallar en decir actuación también intervenir protección_civil cruz_roja y el guardia_civil que junto_con el policía_local se encargar de estabilizar el embarcación",
+        "lemmatized_text_reduced": "hecho ocurrir playa_fariones hotel_san_antonio embarcación sufrir avería fallar motor ocupante tener encargar dirigir barco vela intentar maniobra éxito terminar encallar litoral mismo fuente varón desembarcar problema orilla ser necesario tipo rescate continuación atar velero cocotero seguir encallar decir actuación intervenir protección_civil cruz_roja guardia_civil policía_local encargar estabilizar embarcación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Hotel_San_Antonio",
+            "Protección_Civil",
+            "Cruz_Roja",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [
+            "Playa_Fariones"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:15.3"
+        ]
+    }
+}

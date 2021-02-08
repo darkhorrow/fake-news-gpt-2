@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/628386/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a un hombre en Las Palmas de Gran Canaria por tráfico de drogas",
+        "lemmatized_text": "el policía_nacional detener a uno hombre en las_palmas_de_gran_canaria por tráfico de droga",
+        "lemmatized_text_reduced": "policía_nacional detener hombre las_palmas_de_gran_canaria tráfico droga",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes del Cuerpo Nacional de Policía de Las Palmas de Gran Canaria han finalizado recientemente una operación policial en la que han detenido a un hombre imputado por un presunto delito de tráfico de estupefacientes, siendo incautada una cantidad cercana a los ochenta gramos de cocaína sin cortar.",
+        "lemmatized_text": "agentes_del_cuerpo_nacional_de_policía_de_las_palmas_de_gran_canaria haber finalizar recientemente uno operación policial en el que haber detener a uno hombre imputar por uno presunto delito de tráfico de estupefaciente ser incautar uno cantidad cercano a el WG_g:80 de cocaína sin cortar",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_nacional_de_policía_de_las_palmas_de_gran_canaria haber finalizar recientemente operación policial haber detener hombre imputar presunto delito tráfico estupefaciente ser incautar cantidad cercano cocaína cortar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Agentes_del_Cuerpo_Nacional_de_Policía_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:80"
+        ]
+    },
+    "body": {
+        "raw_text": "Las investigaciones comenzaron a raíz de diversas quejas de colectivos vecinales, que alertaban de la presencia de traficantes y toxicómanos en la zona de la Plaza del Pueblo del barrio de La Isleta, según informó la Policía Nacional en un comunicado. Funcionarios adscritos al Grupo de Investigación de la Comisaría del Distrito Norte lograron identificar un punto de venta de sustancia estupefaciente próximo y tras determinar la identidad del autor y examinar minuciosamente su 'modus operandi', se practicaron las actuaciones necesarias para obtener pruebas de cargo. Una vez obtenida una orden judicial para proceder al registro de la vivienda donde almacena la droga, se procedió a su detención 'in fraganti', incautando además de la cantidad de estupefacientes referida, más de una treintena de papelinas de cocaína preparadas para la venta y consumo. El detenido F.V.M.S. de 53 años, natural de Las Palmas de Gran Canaria y con antecedentes previos por delito contra la salud pública entre otros, pasó a disposición de la autoridad judicial, junto con las diligencias instruidas, siendo decretado su ingreso en prisión provisional.",
+        "lemmatized_text": "el investigación comenzar a_raíz_de diverso queja de colectivo vecinal que alertar de el presencia de traficante y toxicómano en_la_zona_de el plaza_del_pueblo de el barrio de la_isleta según informar el policía_nacional en uno comunicado funcionarios adscribir a el grupo_de_investigación_de_la_comisaría_del_distrito_norte lograr identificar uno punto de venta de sustancia estupefaciente próximo y tras determinar el identidad de el autor y examinar minuciosamente su modus operandi se practicar el actuación necesario para obtener prueba de cargo uno vez obtener uno orden judicial para proceder a el registro de el vivienda donde almacenar el droga se proceder a su detención in_fraganti incautar además_de el cantidad de estupefaciente referir más de uno treintena de papelina de cocaína preparar para el venta y consumo el detener f.v.m.s. de 53 año natural de las_palmas_de_gran_canaria y con antecedente previo por delito contra el salud público entre otro pasar a disposición de el autoridad judicial junto_con el diligencia instruir ser decretar su ingreso en prisión provisional",
+        "lemmatized_text_reduced": "investigación comenzar queja colectivo vecinal alertar presencia traficante toxicómano plaza_del_pueblo barrio la_isleta informar policía_nacional comunicado funcionarios adscribir grupo_de_investigación_de_la_comisaría_del_distrito_norte lograr identificar punto venta sustancia estupefaciente próximo determinar identidad autor examinar minuciosamente modus operandi practicar actuación necesario obtener prueba cargo vez obtener orden judicial proceder registro vivienda almacenar droga proceder detención incautar cantidad estupefaciente referir treintena papelina cocaína preparar venta consumo detener f.v.m.s. año natural las_palmas_de_gran_canaria antecedente previo delito salud público pasar disposición autoridad judicial diligencia instruir ser decretar ingreso prisión provisional",
+        "persons": [
+            "Funcionarios"
+        ],
+        "locations": [
+            "Plaza_del_Pueblo",
+            "La_Isleta",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Grupo_de_Investigación_de_la_Comisaría_del_Distrito_Norte",
+            "F.V.M.S."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "53"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/951377/0/",
+    "title": {
+        "raw_text": "El Cabildo de Lanzarote da alojamiento a los pasajeros expulsados del vuelo de Ryanair",
+        "lemmatized_text": "el cabildo_de_lanzarote dar alojamiento a el pasajero expulsar de el vuelo de ryanair",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote dar alojamiento pasajero expulsar vuelo ryanair",
+        "persons": [],
+        "locations": [
+            "Ryanair"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Lanzarote proporcionó alojamiento a los pasajeros expulsados de un vuelo de Ryanair que debía trasladarlos a Charleroi (Bélgica), este fin de semana.",
+        "lemmatized_text": "el cabildo_de_lanzarote proporcionar alojamiento a el pasajero expulsar de uno vuelo de ryanair que deber trasladar lo a charleroi bélgica este fin de semana",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote proporcionar alojamiento pasajero expulsar vuelo ryanair deber trasladar charleroi bélgica fin semana",
+        "persons": [],
+        "locations": [
+            "Charleroi",
+            "Bélgica"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Ryanair"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Cabildo de Lanzarote proporcionó alojamiento a los pasajeros expulsados de un vuelo de Ryanair que debía trasladarlos a Charleroi (Bélgica), este fin de semana. Este hecho se produjo, después de que el presidente insular, Pedro San Ginés, se personara en el aeropuerto de Guacimeta, tras los incidentes de algunos de los pasajeros con un miembro de la tripulación y después de hablar con el cónsul belga en Canarias, según informó el Cabildo de Lanzarote en nota de prensa. Tras el incidente, explicó el Cabildo, \"el pasajero en cuestión fue invitado a abandonar el avión, medida que provocó que un pequeño grupo de pasajeros iniciara una sonora protesta que finalizó con el desalojo de más de un centenar de pasajeros, en su mayoría estudiantes universitarios belgas que habían viajado a Lanzarote en un grupo de 120 personas, al igual que el afectado\". Asimismo, se ha desmentido que los pasajeros desalojados \"se encontraran en estado de embriaguez\".",
+        "lemmatized_text": "el cabildo_de_lanzarote proporcionar alojamiento a el pasajero expulsar de uno vuelo de ryanair que deber trasladar lo a charleroi bélgica este fin de semana este hecho se producir después_de que el presidente insular pedro_san_ginés se personar en el aeropuerto de guacimeta tras el incidente de alguno de el pasajero con uno miembro de el tripulación y después_de hablar con el cónsul belga en canarias según informar el cabildo_de_lanzarote en nota de prensa tras el incidente explicar el cabildo el pasajero en cuestión ser invitar a abandonar el avión medida que provocar que uno pequeño grupo de pasajero iniciar uno sonoro protesta que finalizar con el desalojo de más de 100 de pasajero en su mayoría estudiante universitario belga que haber viajar a lanzarote en uno grupo de 120 persona al_igual_que el afectar asimismo se haber desmentir que el pasajero desalojar se encontrar en estado de embriaguez",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote proporcionar alojamiento pasajero expulsar vuelo ryanair deber trasladar charleroi bélgica fin semana hecho producir presidente insular pedro_san_ginés personar aeropuerto guacimeta incidente pasajero miembro tripulación hablar cónsul belga canarias informar cabildo_de_lanzarote nota prensa incidente explicar cabildo pasajero cuestión ser invitar abandonar avión medida provocar pequeño grupo pasajero iniciar sonoro protesta finalizar desalojo pasajero mayoría estudiante universitario belga haber viajar lanzarote grupo persona afectar haber desmentir pasajero desalojar encontrar estado embriaguez",
+        "persons": [
+            "Pedro_San_Ginés"
+        ],
+        "locations": [
+            "Charleroi",
+            "Bélgica",
+            "Guacimeta",
+            "Canarias",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Ryanair",
+            "Cabildo_de_Lanzarote",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100",
+            "120"
+        ]
+    }
+}

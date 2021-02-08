@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/656330/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detecta a 9 trabajadores ilegales en una empresa de Fuerteventura",
+        "lemmatized_text": "el policía_nacional detectar a 9 trabajador ilegal en uno empresa de fuerteventura",
+        "lemmatized_text_reduced": "policía_nacional detectar trabajador ilegal empresa fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detectado a nueve empleados de una empresa de Fuerteventura que trabajaban de forma ilegal, según informó el cuerpo de seguridad en nota de prensa.",
+        "lemmatized_text": "el policía_nacional haber detectar a 9 empleado de uno empresa de fuerteventura que trabajar de forma ilegal según informar el cuerpo de seguridad en nota de prensa",
+        "lemmatized_text_reduced": "policía_nacional haber detectar empleado empresa fuerteventura trabajar forma ilegal informar cuerpo seguridad nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9"
+        ]
+    },
+    "body": {
+        "raw_text": "Los agentes que realizaron las investigaciones en colaboración con la Inspección de Trabajo de Fuerteventura, inspeccionaron una nave industrial del polígono 'Nuevo Horizonte', en la localidad de Antigua, la empresa en la que detectaron a los trabajadores ilegales. En principio, la inspección se llevó a cabo para comprobar la presencia de trabajadores en situación irregular, ya que las sospechas sobre esta actividad comenzaron cuando agentes de la Brigada Local de Extranjería y Fronteras observaron a un grupo de inmigrantes que, tienen tramitado algún expediente sancionador por estancia irregular, acudían \"frecuentemente\" al polígono en horario nocturno. Así, una vez comprobado el lugar exacto, se acordó con la Inspección de Trabajo una intervención conjunta, ya que los preceptos infringidos son varios. De esta forma, se conoció que dos de los trabajadores de la empresa, de nacionalidad española, carecían de contrato y \"al mismo tiempo\" estaban cobrando el subsidio de desempleo, lo que convierte la sanción en la \"máxima\" permitida. Por otro lado, otros siete trabajadores, en este caso extranjeros, estaban en situación irregular bien por carecer de permiso de residencia o bien por carecer de autorización para trabajar, contando incluso uno de ellos con un expediente de expulsión sin ejecutar. Además, la empresa tendrá que afrontar una sanción de unos 85.000 euros por tener trabajadores \"sin contrato y ocultos\" a la Seguridad Social, y se le aplicará la Ley de Extranjería a \"todos\" los inmigrantes que estuviesen trabajando sin contar con permiso para ello.",
+        "lemmatized_text": "el agente que realizar el investigación en colaboración con el inspección_de_trabajo_de_fuerteventura inspeccionar uno nave industrial de el polígono nuevo_horizonte en el localidad de antigua el empresa en el que detectar a el trabajador ilegal en principio el inspección se llevar_a_cabo para comprobar el presencia de trabajador en situación irregular ya_que el sospecha sobre este actividad comenzar cuando agente de el brigada_local_de_extranjería y fronteras observar a uno grupo de inmigrante que tener tramitar alguno expediente sancionador por estancia irregular acudir frecuentemente a el polígono en horario nocturno así uno vez comprobar el lugar exacto se acordar con el inspección_de_trabajo uno intervención conjunto ya_que el precepto infringir ser varios de este forma se conocer que 2 de el trabajador de el empresa de nacionalidad español carecer de contrato y a el mismo tiempo estar cobrar el subsidio de desempleo el que convertir el sanción en el máximo permitir por_otro_lado otro 7 trabajador en este caso extranjero estar en situación irregular bien por carecer de permiso de residencia o_bien por carecer de autorización para trabajar contar incluso uno de ellos con uno expediente de expulsión sin ejecutar además el empresa tener que afrontar uno sanción de uno $_ECU:85 por tener trabajador sin contrato y oculto a el seguridad_social y se le aplicar el ley_de_extranjería a todo el inmigrante que estar trabajar sin_contar_con permiso para ello",
+        "lemmatized_text_reduced": "agente realizar investigación colaboración inspección_de_trabajo_de_fuerteventura inspeccionar nave industrial polígono nuevo_horizonte localidad antigua empresa detectar trabajador ilegal principio inspección llevar_a_cabo comprobar presencia trabajador situación irregular sospecha actividad comenzar agente brigada_local_de_extranjería fronteras observar grupo inmigrante tener tramitar expediente sancionador estancia irregular acudir frecuentemente polígono horario nocturno vez comprobar lugar exacto acordar inspección_de_trabajo intervención conjunto precepto infringir ser forma conocer trabajador empresa nacionalidad español carecer contrato mismo tiempo estar cobrar subsidio desempleo convertir sanción máximo permitir trabajador caso extranjero estar situación irregular carecer permiso residencia carecer autorización trabajar contar expediente expulsión ejecutar empresa tener afrontar sanción tener trabajador contrato oculto seguridad_social aplicar ley_de_extranjería inmigrante estar trabajar permiso",
+        "persons": [],
+        "locations": [
+            "Nuevo_Horizonte",
+            "Antigua"
+        ],
+        "organizations": [
+            "Inspección_de_Trabajo_de_Fuerteventura",
+            "Brigada_Local_de_Extranjería",
+            "Fronteras",
+            "Inspección_de_Trabajo"
+        ],
+        "others": [
+            "Seguridad_Social",
+            "Ley_de_Extranjería"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "7",
+            "$_ECU:85"
+        ]
+    }
+}

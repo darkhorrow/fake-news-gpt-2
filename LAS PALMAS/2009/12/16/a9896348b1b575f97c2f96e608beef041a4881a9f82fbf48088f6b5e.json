@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/589712/0/",
+    "title": {
+        "raw_text": "Detenidos dos hombres por traficar con cocaína y hachís en Las Palmas de Gran Canaria",
+        "lemmatized_text": "detener 2 hombre por traficar con cocaína y hachís en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "detener hombre traficar cocaína hachís las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Agentes del Cuerpo Nacional de Policía han detenido a dos hombres, de 34 y 35 años de edad, que se dedicaban a la venta de sustancias estupefacientes, en concreto cocaína y hachís, en el barrio de las Rehoyas de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "agentes_del_cuerpo_nacional_de_policía haber detener a 2 hombre de 34 y 35 año de edad que se dedicar a el venta de sustancia estupefaciente en concreto cocaína y hachís en el barrio de el rehoyas_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_nacional_de_policía haber detener hombre año edad dedicar venta sustancia estupefaciente concreto cocaína hachís barrio rehoyas_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Agentes_del_Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Rehoyas_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "34",
+            "35"
+        ]
+    },
+    "body": {
+        "raw_text": "Las primeras pesquisas practicadas por el Grupo de Mediano Tráfico, de la UDYCO de la Brigada Provincial de Policía Judicial de Las Palmas, apuntaron a la existencia de una persona como máximo responsable de una organización que se dedicaba a la adquisición de sustancias estupefacientes, en el mercado local de la isla, según informó la Policía Nacional en nota de prensa. El principal responsable de la estructura criminal, G.Q.D., adulteraba la citada droga y la preparaba en pequeñas dosis que finalmente distribuía desde una ventana de su vivienda del barrio de las Rehoyas, entre numerosos consumidores. Al mismo le constaban tres reclamaciones judiciales en vigor, encontrándose pendiente de ingreso en prisión para cumplir condena de tráfico de drogas. Al individuo, A.L.R., que colaboraba en la venta de droga, le constan 15 antecedentes policiales, dos de ellos por un delito de tráfico de drogas. En el registro domiciliario fueron incautados 500 gramos de hachís, varias dosis de cocaína, utensilios de corte de sustancia estupefaciente, cerca de 500 euros y varios teléfonos móviles. La droga intervenida hubiese generado al detenido en el mercado ilícito un beneficio cercano a los 2.500 euros. Finalmente, el cuerpo de seguridad aseguró que los detenidos, junto con los efectos intervenidos, fueron puestos a disposición de la Autoridad Judicial, que decretó el ingreso en prisión del primero de los detenidos.",
+        "lemmatized_text": "el 1 pesquisa practicar por el grupo_de_mediano_tráfico de el udyco_de_la_brigada_provincial_de_policía_judicial_de_las_palmas apuntar a el existencia de uno persona como máximo responsable de uno organización que se dedicar a el adquisición de sustancia estupefaciente en el mercado local de el isla según informar el policía_nacional en nota de prensa el principal responsable de el estructura criminal g.q.d. adulterar el citar droga y el preparar en pequeño dosis que finalmente distribuir desde uno ventana de su vivienda de el barrio de el rehoyas entre numeroso consumidor a el mismo le constar 3 reclamación judicial en vigor encontrar se pendiente de ingreso en prisión para cumplir condena de tráfico de droga a el individuo a.l.r. que colaborar en el venta de droga le constar 15 antecedente policial 2 de ellos por uno delito de tráfico de droga en el registro domiciliario ser incautar WG_g:500 de hachís varios dosis de cocaína utensilio de corte de sustancia estupefaciente cerca de $_ECU:500 y varios teléfono móvil el droga intervenir haber generar a el detener en el mercado ilícito uno beneficio cercano a el $_ECU:2.5 finalmente el cuerpo de seguridad asegurar que el detenido junto_con el efecto intervenir ser poner a disposición de el autoridad_judicial que decretar el ingreso en prisión de el primero de el detenido",
+        "lemmatized_text_reduced": "1 pesquisa practicar grupo_de_mediano_tráfico udyco_de_la_brigada_provincial_de_policía_judicial_de_las_palmas apuntar existencia persona máximo responsable organización dedicar adquisición sustancia estupefaciente mercado local isla informar policía_nacional nota prensa principal responsable estructura criminal g.q.d. adulterar citar droga preparar pequeño dosis finalmente distribuir ventana vivienda barrio rehoyas numeroso consumidor constar reclamación judicial vigor encontrar pendiente ingreso prisión cumplir condena tráfico droga individuo a.l.r. colaborar venta droga constar antecedente policial delito tráfico droga registro domiciliario ser incautar hachís dosis cocaína utensilio corte sustancia estupefaciente teléfono móvil droga intervenir haber generar detener mercado ilícito beneficio cercano finalmente cuerpo seguridad asegurar detenido efecto intervenir ser poner disposición autoridad_judicial decretar ingreso prisión detenido",
+        "persons": [],
+        "locations": [
+            "Rehoyas"
+        ],
+        "organizations": [
+            "Grupo_de_Mediano_Tráfico",
+            "UDYCO_de_la_Brigada_Provincial_de_Policía_Judicial_de_Las_Palmas",
+            "Policía_Nacional",
+            "G.Q.D.",
+            "A.L.R.",
+            "Autoridad_Judicial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "15",
+            "2",
+            "WG_g:500",
+            "$_ECU:500",
+            "$_ECU:2.5"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/694697/0/",
+    "title": {
+        "raw_text": "Los Multicines Monopol de Las Palmas de Gran Canaria proyectarán la próxima semana 'Suave es la noche' de Henry King",
+        "lemmatized_text": "el multicines_monopol_de_las_palmas_de_gran_canaria proyectar el próximo semana suave ser el noche de henry_king",
+        "lemmatized_text_reduced": "multicines_monopol_de_las_palmas_de_gran_canaria proyectar próximo semana suave ser noche henry_king",
+        "persons": [
+            "Henry_King"
+        ],
+        "locations": [
+            "Suave"
+        ],
+        "organizations": [
+            "Multicines_Monopol_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los Multicines Monopol de Las Palmas de Gran Canaria proyectarán el próximo martes, 4 de mayo, la versión original y con subtítulos en español de la película 'Suave es la noche' de Henry King.",
+        "lemmatized_text": "el multicines_monopol_de_las_palmas_de_gran_canaria proyectar el [M:4/5/??:??.??:??] el versión original y con subtítulo en español de el película suave ser el noche de henry_king",
+        "lemmatized_text_reduced": "multicines_monopol_de_las_palmas_de_gran_canaria proyectar versión original subtítulo español película suave ser noche henry_king",
+        "persons": [
+            "Suave",
+            "Henry_King"
+        ],
+        "locations": [],
+        "organizations": [
+            "Multicines_Monopol_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[M:4/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El largometraje que se incluye dentro del programa de la Filmoteca Canaria y en el marco del ciclo dedicado a la cinematografía del director Henry King, también se podrá ver en los cines Renoir-Price de Santa Cruz de Tenerife pero el jueves, 6 de mayo. En ambos sitios, las proyecciones comenzarán a las 20.30 horas, según informó el Gobierno regional en nota de prensa. El film, realizado por King en 1961, está protagonizado por Jennifer Jones, Jason Robards, Joan Fontaine y Tom Ewell. La historia se centra en Nicole, una mujer de clase alta, que sufre graves trastornos emocionales, y que decide casarse con Dick River, su psiquiatra. La pareja decide trasladan a una casa que ella tiene en la Riviera, donde lleva una intensa vida social.",
+        "lemmatized_text": "el largometraje que se incluir dentro de el programa de el filmoteca_canaria y en el marco de el ciclo dedicar a el cinematografía de el director henry_king también se poder ver en el cine renoir-price_de_santa_cruz_de_tenerife pero el [J:6/5/??:??.??:??] en ambos sitio el proyección comenzar a el TM_h:20.3 según informar el gobierno regional en nota de prensa el film realizar por king en 1961 estar protagonizar por jennifer_jones jason_robards joan_fontaine y tom_ewell el historia se centrar en nicole uno mujer de clase alto que sufrir grave trastorno emocional y que decidir casar se con dick_river su psiquiatra el pareja decidir trasladar a uno casa que él tener en el riviera donde llevar uno intenso vida social",
+        "lemmatized_text_reduced": "largometraje incluir programa filmoteca_canaria marco ciclo dedicar cinematografía director henry_king poder ver cine renoir-price_de_santa_cruz_de_tenerife sitio proyección comenzar informar gobierno regional nota prensa film realizar king estar protagonizar jennifer_jones jason_robards joan_fontaine tom_ewell historia centrar nicole mujer clase alto sufrir grave trastorno emocional decidir casar dick_river psiquiatra pareja decidir trasladar casa tener riviera llevar intenso vida social",
+        "persons": [
+            "Henry_King",
+            "Jennifer_Jones",
+            "Jason_Robards",
+            "Joan_Fontaine",
+            "Tom_Ewell",
+            "Dick_River"
+        ],
+        "locations": [
+            "Nicole",
+            "Riviera"
+        ],
+        "organizations": [
+            "Gobierno",
+            "King"
+        ],
+        "others": [
+            "Filmoteca_Canaria",
+            "Renoir-Price_de_Santa_Cruz_de_Tenerife"
+        ],
+        "dates": [
+            "[J:6/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:20.3",
+            "1961"
+        ]
+    }
+}

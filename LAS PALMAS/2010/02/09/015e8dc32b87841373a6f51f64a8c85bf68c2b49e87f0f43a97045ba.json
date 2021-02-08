@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625254/0/",
+    "title": {
+        "raw_text": "NC pide inteligencia a Gobierno de Canarias para tratar por igual a Tenerife y Gran Canaria en las obras por el temporal",
+        "lemmatized_text": "nc pedir inteligencia a gobierno_de_canarias para tratar por_igual a tenerife y gran_canaria en el obra por el temporal",
+        "lemmatized_text_reduced": "nc pedir inteligencia gobierno_de_canarias tratar tenerife gran_canaria obra temporal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "NC",
+            "Gobierno_de_Canarias",
+            "Tenerife",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de Nueva Canarias (NC), Román Rodríguez, ha solicitado hoy al Gobierno de Canarias inteligencia para tratar por igual a Tenerife y Gran Canaria en las obras derivadas de los destrozos ocasionados por el temporal de lluvia de la semana pasada, puesto que el Ejecutivo financiará el 100 por cien de las obras en Tenerife y sólo el 25 por ciento en Gran Canaria.",
+        "lemmatized_text": "el presidente de nueva_canarias nc román_rodríguez haber solicitar hoy a el gobierno_de_canarias inteligencia para tratar por_igual a tenerife y gran_canaria en el obra derivar de el destrozo ocasionar por el temporal de lluvia de el semana pasar poner que el ejecutivo financiar el 100/100 de el obra en tenerife y sólo el 25 por 100 en gran_canaria",
+        "lemmatized_text_reduced": "presidente nueva_canarias nc román_rodríguez haber solicitar gobierno_de_canarias inteligencia tratar tenerife gran_canaria obra derivar destrozo ocasionar temporal lluvia semana pasar poner ejecutivo financiar obra tenerife gran_canaria",
+        "persons": [
+            "Nueva_Canarias",
+            "Román_Rodríguez"
+        ],
+        "locations": [
+            "Tenerife"
+        ],
+        "organizations": [
+            "NC",
+            "Gobierno_de_Canarias",
+            "Tenerife",
+            "Gran_Canaria",
+            "Ejecutivo",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100/100",
+            "25",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "En cuanto al desarrollo de la obra en el tramo de la carretera Gran Canaria 60 (GC-60) —que une Tejeda con Ayacata— y que se desplomó en la jornada del 2 de febrero debido al temporal que azotó durante los primeros días del mes al archipiélago, indicó que van todo lo rápido que es posible. \"Va al máximo ritmo de lo que es posible (la rehabilitación de la carretera). Lo que no tenemos es ninguna solución inmediata. Los técnicos están haciendo los estudios, se está analizando la zona topográficamente y se hablará con los titulares de los suelos colindantes por si llegamos a un acuerdo de cara a su ocupación\", explicó en declaraciones a Europa Press. De esta manera, hizo especial hincapié en que el único límite que tiene la obra es lo que digan los técnicos e ingenieros y lo que diga la Ley. \"No hay límite de presupuesto —añadió—. Si cuesta un millón de euros, pues un millón, y si cuesta cinco, cinco, porque estamos hablando de una vía vital para la población\". Rodríguez esperó que, de la misma manera que en Tenerife el Gobierno de Canarias financiará el 100 por cien de las obras por el temporal de la semana pasada, en Gran Canaria no ponga sólo el 25 por ciento. \"El Gobierno de Canarias para Anaga (Tenerife) va a actuar y va a financiar y para Tejeda (Gran Canaria) lo financia el Cabildo. Espero que el Ejecutivo canario sea lo suficientemente inteligente para tratar a las dos islas por igual, aunque estamos mal acostumbrados con este Gobierno\", dijo. Asimismo, puntualizó que desde la Corporación insular se hará todo lo que esté en sus manos para la restitución de la vía, aunque aclaró que no se pueden saltar la Ley ni buscar soluciones inmediatas, ya que técnicamente no son viables.",
+        "lemmatized_text": "en cuanto a el desarrollo de el obra en el tramo de el carretera gran_canaria 60 GC-60 que unir tejeda con ayacata y que se desplomar en el jornada de el [??:2/2/??:??.??:??] deber a el temporal que azotar durante el 1 día de el mes a el archipiélago indicar que ir todo el rápido que ser posible ir a el máximo ritmo de el que ser posible el rehabilitación de el carretera el que no tener ser ninguno solución inmediato el técnico estar hacendar el estudio se estar analizar el zona topográficamente y se hablar con el titular de el suelo colindante por si llegar a uno acuerdo de_cara_a su ocupación explicar en declaración a europa_press de este manera hacer especial hincapié en que el único límite que tener el obra ser lo que decir el técnico y ingeniero y lo que decir el ley no haber límite de presupuesto añadir si costar $_ECU:1000000 pues 1000000 y si costar 5 5 porque estar hablar de uno vía vital para el población rodríguez esperar que de el mismo manera que en tenerife_el_gobierno_de_canarias financiar el 100/100 de el obra por el temporal de el semana pasar en gran_canaria no poner sólo el 25 por 100 el gobierno_de_canarias_para_anaga tenerife ir a actuar y ir a financiar y para tejeda gran_canaria lo financiar el cabildo esperar que el ejecutivo canario ser el suficientemente inteligente para tratar a el 2 isla por_igual aunque estar mal acostumbrar con este gobierno decir asimismo puntualizar que desde el corporación insular se hacer todo el que estar en su mano para el restitución de el vía aunque aclarar que no se poder saltar el ley ni buscar solución inmediato ya_que técnicamente no ser viable",
+        "lemmatized_text_reduced": "desarrollo obra tramo carretera gran_canaria unir tejeda ayacata desplomar jornada deber temporal azotar 1 día mes archipiélago indicar ir rápido ser posible ir máximo ritmo ser posible rehabilitación carretera tener ser solución inmediato técnico estar hacendar estudio estar analizar zona topográficamente hablar titular suelo colindante llegar acuerdo ocupación explicar declaración europa_press manera hacer especial hincapié único límite tener obra ser decir técnico ingeniero decir ley haber límite presupuesto añadir costar costar estar hablar vía vital población rodríguez esperar mismo manera tenerife_el_gobierno_de_canarias financiar obra temporal semana pasar gran_canaria poner gobierno_de_canarias_para_anaga tenerife ir actuar ir financiar tejeda gran_canaria financiar cabildo esperar ejecutivo canario ser suficientemente inteligente tratar isla estar acostumbrar gobierno decir puntualizar corporación insular hacer estar mano restitución vía aclarar poder saltar ley buscar solución inmediato técnicamente ser viable",
+        "persons": [
+            "Tejeda",
+            "Rodríguez"
+        ],
+        "locations": [
+            "Ayacata",
+            "Tenerife_el_Gobierno_de_Canarias",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Gobierno_de_Canarias_para_Anaga",
+            "Tenerife",
+            "Tejeda",
+            "Cabildo",
+            "Ejecutivo",
+            "Gobierno",
+            "Corporación"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Ley",
+            "Gran_Canaria",
+            "Ley"
+        ],
+        "dates": [
+            "[??:2/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "60",
+            "GC-60",
+            "$_ECU:1000000",
+            "1000000",
+            "5",
+            "5",
+            "100/100",
+            "25",
+            "100",
+            "2"
+        ]
+    }
+}

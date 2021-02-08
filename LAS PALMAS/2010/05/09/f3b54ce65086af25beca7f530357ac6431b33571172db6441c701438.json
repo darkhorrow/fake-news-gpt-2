@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/701350/0/",
+    "title": {
+        "raw_text": "Rescatado tras volcar y quedar atrapado en el interior de su vehículo en Playa Chica (Fuerteventura)",
+        "lemmatized_text": "rescatar tras volcar y quedar atrapar en_el_interior_de su vehículo en playa_chica fuerteventura",
+        "lemmatized_text_reduced": "rescatar volcar quedar atrapar vehículo playa_chica fuerteventura",
+        "persons": [],
+        "locations": [
+            "Playa_Chica"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre --que resultó herido leve-- ha tenido que ser rescatado después de volcar y quedar atrapado en el interior de su vehículo en Playa Chica, dentro del término municipal de Puerto del Rosario (Fuerteventura), según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno hombre que resultar herir leve haber tener que ser rescatar después_de volcar y quedar atrapar en_el_interior_de su vehículo en playa_chica dentro de el término municipal de puerto_del_rosario fuerteventura según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre resultar herir leve haber tener ser rescatar volcar quedar atrapar vehículo playa_chica término municipal puerto_del_rosario fuerteventura informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Playa_Chica",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, se recibió una llamada sobre las 09.00 horas indicando que un coche que circulaba por la bajada a Playa Chica, en lugar de girar continuó, chocó con un muro de contención y volcó, quedando el vehículo sobre la orilla de la playa. En ese momento, se activó el dispositivo de urgencias habitual y se trasladó al lugar una ambulancia de soporte vital básico y otra medicalizada del Servicio de Urgencias Canario (SUC), además de los bomberos, que se encargaron de sacar al afectado del interior del coche, ya que las puertas no se podían abrir. Por su parte, los médicos del SUC atendieron a un hombre de 61 años de edad que presentaba policontusiones de carácter leve, por lo que tuvo que ser evacuado hasta el Hospital de Fuerteventura. Finalmente, agentes de la Policía Local de Puerto del Rosario, que también acudieron al lugar de los hechos, colaboraron con el dispositivo.",
+        "lemmatized_text": "así se recibir uno llamada sobre el TM_h:9 indicar que uno coche que circular por el bajada a playa_chica en_lugar_de girar continuar chocar con uno muro de contención y volcar quedar el vehículo sobre el orilla de el playa en ese momento se activar el dispositivo de urgencia habitual y se trasladar a el lugar uno ambulancia de soporte vital básico y otro medicalizada de el servicio_de_urgencias_canario suc además_de el bombero que se encargar de sacar a el afectar de el interior de el coche ya_que el puerta no se poder abrir por su parte el médico de el suc atender a uno hombre de 61 año de edad que presentar policontusión de carácter leve por el que tener que ser evacuar hasta el hospital_de_fuerteventura finalmente agente de el policía_local_de_puerto_del_rosario que también acudir a el lugar de el hecho colaborar con el dispositivo",
+        "lemmatized_text_reduced": "recibir llamada indicar coche circular bajada playa_chica girar continuar chocar muro contención volcar quedar vehículo orilla playa momento activar dispositivo urgencia habitual trasladar lugar ambulancia soporte vital básico medicalizada servicio_de_urgencias_canario suc bombero encargar sacar afectar interior coche puerta poder abrir parte médico suc atender hombre año edad presentar policontusión carácter leve tener ser evacuar hospital_de_fuerteventura finalmente agente policía_local_de_puerto_del_rosario acudir lugar hecho colaborar dispositivo",
+        "persons": [],
+        "locations": [
+            "Playa_Chica"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_de_Fuerteventura",
+            "Policía_Local_de_Puerto_del_Rosario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9",
+            "61"
+        ]
+    }
+}

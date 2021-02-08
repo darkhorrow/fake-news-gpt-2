@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604347/0/",
+    "title": {
+        "raw_text": "Los establecimientos de Lanzarote consiguen una ocupación media del 65,01% en 2009",
+        "lemmatized_text": "el establecimiento de lanzarote conseguir uno ocupación medio de el 65,01/100 en 2009",
+        "lemmatized_text_reduced": "establecimiento lanzarote conseguir ocupación medio",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "65,01/100",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los establecimientos de Lanzarote han conseguido una ocupación media del 65,01 por ciento en 2009, según se desprende del estudio elaborado por la Asociación de Empresarios de Hoteles y Apartamentos de Lanzarote (Asolan).",
+        "lemmatized_text": "el establecimiento de lanzarote haber conseguir uno ocupación medio de el 65,01 por 100 en 2009 según se desprender de el estudio elaborar por el asociación_de_empresarios_de_hoteles y apartamentos_de_lanzarote asolar",
+        "lemmatized_text_reduced": "establecimiento lanzarote haber conseguir ocupación medio desprender estudio elaborar asociación_de_empresarios_de_hoteles apartamentos_de_lanzarote asolar",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Asociación_de_Empresarios_de_Hoteles",
+            "Apartamentos_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "65,01",
+            "100",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, agosto fue el que mejor dato obtuvo en cuanto a alojamiento, ya que registró una media del 78,43 por ciento, seguido de julio y septiembre; por el contrario, mayo fue el que registró una menor ocupación, con el 49,10 por ciento, según informó Asolan en nota de prensa. En cuanto al mes de diciembre del pasado año, la ocupación media en los complejos hoteleros y extra hoteleros de Lanzarote se situó en el 59,17 por ciento frente al 62,85 por ciento del mismo periodo en el 2008. Por segmentos, los establecimientos que lograron la mejor ocupación en diciembre fueron los bungalows con un 70,24 por ciento, seguido de los apartamentos con una media del 65,68 por ciento y los aparhoteles con un 63,68 por ciento. Los establecimientos extra hoteleros aportan una mayor oferta alojativa en la isla de los volcanes con un 54,75 por ciento. De todos modos, la isla registró una media de ocupación del 65,01 por ciento en 2009, cifra similar a la que se inició el pasado año, caracterizado por la crisis económica internacional con el 65,10 registrado en enero pasado.",
+        "lemmatized_text": "así [??:??/8/??:??.??:??] ser el que mejor dato obtener en_cuanto_a alojamiento ya_que registrar uno medio de el 78,43 por 100 seguir de [??:??/7/??:??.??:??] y [??:??/9/??:??.??:??] por_el_contrario [??:??/5/??:??.??:??] ser el que registrar uno menor ocupación con el 49,10 por 100 según informar asolan en nota de prensa en cuanto a el [??:??/12/??:??.??:??] de el pasar año el ocupación medio en el complejo hotelero y extra hotelero de lanzarote se situar en el 59,17 por 100 frente a el 62,85 por 100 de el mismo periodo en el 2008 por segmento el establecimiento que lograr el mejor ocupación en [??:??/12/??:??.??:??] ser el bungalow con uno 70,24 por 100 seguir de el apartamento con uno medio de el 65,68 por 100 y el aparhoteles con uno 63,68 por 100 el establecimiento extra hotelero aportar uno mayor oferta alojativa en el isla de el volcán con uno 54,75 por 100 de_todos_modos el isla registrar uno media de ocupación de el 65,01 por 100 en 2009 cifra similar a el que se iniciar el pasar año caracterizar por el crisis económico internacional con el 65,10 registrar en [??:??/1/??:??.??:??] pasar",
+        "lemmatized_text_reduced": "ser mejor dato obtener alojamiento registrar medio seguir ser registrar menor ocupación informar asolan nota prensa pasar año ocupación medio complejo hotelero extra hotelero lanzarote situar frente mismo periodo segmento establecimiento lograr mejor ocupación ser bungalow seguir apartamento medio aparhoteles establecimiento extra hotelero aportar mayor oferta alojativa isla volcán isla registrar media ocupación cifra similar iniciar pasar año caracterizar crisis económico internacional registrar pasar",
+        "persons": [
+            "Asolan"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/8/??:??.??:??]",
+            "[??:??/7/??:??.??:??]",
+            "[??:??/9/??:??.??:??]",
+            "[??:??/5/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "78,43",
+            "100",
+            "49,10",
+            "100",
+            "59,17",
+            "100",
+            "62,85",
+            "100",
+            "2008",
+            "70,24",
+            "100",
+            "65,68",
+            "100",
+            "63,68",
+            "100",
+            "54,75",
+            "100",
+            "65,01",
+            "100",
+            "2009",
+            "65,10"
+        ]
+    }
+}

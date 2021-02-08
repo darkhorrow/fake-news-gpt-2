@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/607251/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias y Cruz Roja envía un primer avión de ayuda humanitaria de Haití",
+        "lemmatized_text": "el gobierno_de_canarias y cruz_roja enviar uno 1 avión de ayuda humanitario de haití",
+        "lemmatized_text_reduced": "gobierno_de_canarias cruz_roja enviar 1 avión ayuda humanitario haití",
+        "persons": [],
+        "locations": [
+            "Haití"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Cruz_Roja"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ante la trágica situación que vive la población de Haití tras el seísmo devastador que arrasó esta semana su capital, Puerto Príncipe, el Gobierno de Canarias, a través del Comisionado de Acción Exterior, ha decidido enviar, junto con Cruz Roja Internacional, un primer avión de ayuda humanitaria desde Canarias.",
+        "lemmatized_text": "ante el trágico situación que vivir el población de haití tras el seísmo devastador que arrasar este semana su capital puerto_príncipe el gobierno_de_canarias a través de el comisionado_de_acción_exterior haber decidir enviar junto_con cruz_roja_internacional uno 1 avión de ayuda humanitario desde canarias",
+        "lemmatized_text_reduced": "trágico situación vivir población haití seísmo devastador arrasar semana capital puerto_príncipe gobierno_de_canarias través comisionado_de_acción_exterior haber decidir enviar cruz_roja_internacional 1 avión ayuda humanitario canarias",
+        "persons": [
+            "Cruz_Roja_Internacional"
+        ],
+        "locations": [
+            "Haití",
+            "Puerto_Príncipe",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Comisionado_de_Acción_Exterior"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Según informó el Ejecutivo autonómico en nota de prensa, el contingente de ayuda, que se coordina a través del Centro Logístico Humanitario de la Cooperación Española en Las Palmas, saldrá desde el aeropuerto de Gando el próximo martes, e incluirá varios vehículos, kits de herramientas, bidones de agua, mosquiteras mantas y tiendas de campañas, entre otros materiales de primera necesidad. Además, la comisionada de Acción Exterior, Elsa Casas, no descarta seguir colaborando con el país caribeño, una vez que se comiencen las labores de reconstrucción.",
+        "lemmatized_text": "según informar el ejecutivo autonómico en nota de prensa el contingente de ayuda que se coordinar a través de el centro_logístico_humanitario_de_la_cooperación_española en las_palmas salir desde el aeropuerto de gando el [M:??/??/??:??.??:??] y incluir varios vehículo kit de herramienta bidón de agua mosquitero manta y tienda de campaña entre otro material de 1 necesidad además el comisionado de acción_exterior elsa_casas no descartar seguir colaborar con el país caribeño una_vez_que se comenzar el labor de reconstrucción",
+        "lemmatized_text_reduced": "informar ejecutivo autonómico nota prensa contingente ayuda coordinar través centro_logístico_humanitario_de_la_cooperación_española las_palmas salir aeropuerto gando incluir vehículo kit herramienta bidón agua mosquitero manta tienda campaña material 1 necesidad comisionado acción_exterior elsa_casas descartar seguir colaborar país caribeño comenzar labor reconstrucción",
+        "persons": [
+            "Elsa_Casas"
+        ],
+        "locations": [
+            "Las_Palmas",
+            "Gando"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Centro_Logístico_Humanitario_de_la_Cooperación_Española",
+            "Acción_Exterior"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

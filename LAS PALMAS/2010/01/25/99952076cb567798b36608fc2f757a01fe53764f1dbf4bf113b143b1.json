@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614162/0/",
+    "title": {
+        "raw_text": "'El Fatiga' alega que mató a un joven en Las Palmas de Gran Canaria bajo los efectos de porros, cocaína y alcohol",
+        "lemmatized_text": "el fatiga alegar que matar a uno joven en las_palmas_de_gran_canaria bajo el efecto de porro cocaína y alcohol",
+        "lemmatized_text_reduced": "fatiga alegar matar joven las_palmas_de_gran_canaria efecto porro cocaína alcohol",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Fatiga"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Echedey Jesús Lorda Rivero, conocido como 'El Fatiga', acusado del asesinato de Octavio Santos Valencia, de 22 años de edad y al que presuntamente propinó una cuchillada en el corazón la madrugada del 25 de diciembre de 2008 en Las Palmas de Gran Canaria, alegó hoy que actuó bajo los efectos de haber bebido \"un botella y media de ron\", fumar \"varios porros\" y esnifar \"cocaína\".",
+        "lemmatized_text": "echedey_jesús_lorda_rivero conocer como el fatiga acusar de el asesinato de octavio_santos_valencia de 22 año de edad y a el que presuntamente propinar uno cuchillada en el corazón el madrugada de el [??:25/12/2008:??.??:??] en las_palmas_de_gran_canaria alegar hoy que actuar bajo el efecto de haber beber uno botella y medio de ron fumar varios porro y esnifar cocaína",
+        "lemmatized_text_reduced": "echedey_jesús_lorda_rivero conocer fatiga acusar asesinato octavio_santos_valencia año edad presuntamente propinar cuchillada corazón madrugada las_palmas_de_gran_canaria alegar actuar efecto haber beber botella medio ron fumar porro esnifar cocaína",
+        "persons": [
+            "Echedey_Jesús_Lorda_Rivero",
+            "Octavio_Santos_Valencia"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Fatiga"
+        ],
+        "others": [],
+        "dates": [
+            "[??:25/12/2008:??.??:??]"
+        ],
+        "numbers": [
+            "22"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Yo sé que le di una picada, pero en ningún momento pensé que le había matado, pensé que le había apuñalado en el abdomen, no sé lo que me pasó esa noche\", aseguró el procesado —de 23 años de edad y sin antecedentes penales— durante el juicio celebrado con Tribunal de Jurado en la Sección Segunda de la Audiencia Provincial de Las Palmas, donde la Fiscalía solicitó imponerle 18 años de cárcel. Añadió que no tuvo intención de matar a Octavio Santos, sino de \"asustarle\". No obstante, se contradijo en varias ocasiones respecto a sus declaraciones judiciales anteriores y admitió que recordaba todo lo acontecido sobre las cuatro de la madrugada del día 25 de diciembre de 2008, cuando se encontraba en la fiesta que, con ocasión de la noche de Navidad, habían organizado los vecinos de la calle Córdoba en la Vega de San José y que se celebraba en la citada vía con la confluencia de la calle León, en esta capital. (Habrá ampliación)",
+        "lemmatized_text": "yo saber que le dar uno picada pero en ninguno momento pensar que le haber matar pensar que le haber apuñalar en el abdomen no saber el que me pasar ese noche asegurar el procesado de 23 año de edad y sin antecedente penal durante el juicio celebrar con tribunal_de_jurado en el sección_segunda_de_la_audiencia_provincial_de_las_palmas donde el fiscalía solicitar imponer le 18 año de cárcel añadir que no tener intención de matar a octavio_santos sino de asustar le no_obstante se contradecir en varios ocasión respecto_a su declaración judicial anterior y admitir que recordar todo lo acontecer sobre el [??:25/12/2008:4.00:am] cuando se encontrar en el fiesta que con_ocasión_de el noche de navidad haber organizar el vecino de el calle córdoba en el vega_de_san_josé y que se celebrar en el citar vía con el confluencia de el calle león en este capital haber ampliación",
+        "lemmatized_text_reduced": "saber dar picada momento pensar haber matar pensar haber apuñalar abdomen saber pasar noche asegurar procesado año edad antecedente penal juicio celebrar tribunal_de_jurado sección_segunda_de_la_audiencia_provincial_de_las_palmas fiscalía solicitar imponer año cárcel añadir tener intención matar octavio_santos asustar contradecir ocasión declaración judicial anterior admitir recordar acontecer encontrar fiesta noche navidad haber organizar vecino calle córdoba vega_de_san_josé celebrar citar vía confluencia calle león capital haber ampliación",
+        "persons": [
+            "Octavio_Santos"
+        ],
+        "locations": [
+            "Sección_Segunda_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "Córdoba",
+            "León"
+        ],
+        "organizations": [
+            "Tribunal_de_Jurado",
+            "Fiscalía"
+        ],
+        "others": [
+            "Navidad",
+            "Vega_de_San_José"
+        ],
+        "dates": [
+            "[??:25/12/2008:4.00:am]"
+        ],
+        "numbers": [
+            "23",
+            "18"
+        ]
+    }
+}

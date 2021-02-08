@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/321314/0/inmigrantes/irregulares/canarias/",
+    "title": {
+        "raw_text": "Un cayuco con 52 inmigrantes, cinco de ellos menores, llega a Gran Canaria",
+        "lemmatized_text": "uno cayuco con 52 inmigrante 5 de ellos menor llegar a gran_canaria",
+        "lemmatized_text_reduced": "cayuco inmigrante menor llegar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "52",
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Arribaron esta madrugada en Puerto Rico. Todos presentaban cansancio y fatiga. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "arribar este madrugada en puerto_rico todo presentar cansancio y fatiga consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "arribar madrugada puerto_rico presentar cansancio fatiga consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un cayuco con 52 personas a bordo llegó esta madrugada a la playa de Puerto Rico , en el municipio de Mogán en Gran Canaria, a las 04:35 horas de hoy, según han informado fuentes de la Guardia Civil en Gran Canaria. El cayuco que arribó por sus propios medios a la playa de esta importante y conocida zona turística del sur de Gran Canaria, transportaba a 52 varones entre los que se cuentan cinco menores . Todos presentaban un cuadro grave de cansancio y fatiga , aunque sólo uno ha tenido que ser trasladado al centro de salud de Maspalomas por padecer un fuerte dolor en el costado. El resto fue atendido a pie de playa por efectivos de la Cruz Roja, la Guardia Civil y la Policía Local de Mogán, antes de trasladarlos a la Comisaría de Policía para su identificación. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "uno cayuco con 52 persona a_bordo llegar este madrugada a el playa de puerto_rico en el municipio de mogán en gran_canaria a el TM_h:04:35 de hoy según haber informar fuente de el guardia_civil en gran_canaria el cayuco que arribar por su propio medio a el playa de este importante y conocer zona turístico de el sur de gran_canaria transportar a 52 varón entre el que se contar 5 menor todo presentar uno cuadro grave de cansancio y fatiga aunque sólo uno haber tener que ser trasladar a el centro de salud de maspalomas por padecer uno fuerte dolor en el costado el resto ser atender a pie de playa por efectivo de el cruz_roja el guardia_civil y el policía_local_de_mogán antes_de trasladar lo a el comisaría_de_policía para su identificación consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cayuco persona llegar madrugada playa puerto_rico municipio mogán gran_canaria haber informar fuente guardia_civil gran_canaria cayuco arribar propio medio playa importante conocer zona turístico sur gran_canaria transportar varón contar menor presentar cuadro grave cansancio fatiga haber tener ser trasladar centro salud maspalomas padecer fuerte dolor costado resto ser atender pie playa efectivo cruz_roja guardia_civil policía_local_de_mogán trasladar comisaría_de_policía identificación consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_Rico",
+            "Mogán",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Maspalomas"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Cruz_Roja",
+            "Guardia_Civil",
+            "Policía_Local_de_Mogán",
+            "Comisaría_de_Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "52",
+            "TM_h:04:35",
+            "52",
+            "5"
+        ]
+    }
+}

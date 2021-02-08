@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/936641/0/",
+    "title": {
+        "raw_text": "Clapso se sube al escenario del Auditorio de Corralejo (Fuerteventura) para presentar el musical 'La lengua del dragón'",
+        "lemmatized_text": "clapso se subir a el escenario de el auditorio_de_corralejo fuerteventura para presentar el musical el lengua de el dragón",
+        "lemmatized_text_reduced": "clapso subir escenario auditorio_de_corralejo fuerteventura presentar musical lengua dragón",
+        "persons": [
+            "Clapso"
+        ],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [
+            "Auditorio_de_Corralejo"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La compañía canaria Clapso se subirá este domingo al escenario del Auditorio de Corralejo, en el municipio de La Oliva (Fuerteventura), para presentar el musical infantil 'La lengua del dragón'.",
+        "lemmatized_text": "el compañía canario clapso se subir este [G:??/??/??:??.??:??] a el escenario de el auditorio_de_corralejo en el municipio de la_oliva fuerteventura para presentar el musical infantil el lengua de el dragón",
+        "lemmatized_text_reduced": "compañía canario clapso subir escenario auditorio_de_corralejo municipio la_oliva fuerteventura presentar musical infantil lengua dragón",
+        "persons": [],
+        "locations": [
+            "Auditorio_de_Corralejo",
+            "La_Oliva"
+        ],
+        "organizations": [
+            "Clapso",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La compañía canaria Clapso se subirá este domingo al escenario del Auditorio de Corralejo, en el municipio de La Oliva (Fuerteventura), para presentar el musical infantil 'La lengua del dragón'. Los ocho actores que actuarán expondrán, a partir de las 17.00 horas, una historia encantada donde la avaricia y el rencor terminan siendo aplastados por la justicia y el amor, según informó el Ayuntamiento de La Oliva en nota de prensa. Se trata de una aventura de reinos encantados, anillos mágicos y dragones, dirigido al público familiar. 'La lengua del dragón' está escrita y dirigida por Israel Reyes, y su puesta en escena se acompaña con la música original de Germán Arias. En cuanto a los actores que darán vida a los personajes del musical serán por Guacimara Gil, José Carlos Campos, Mingo Ruano, Yanet Sierra, David García, Rosa Escrig, Víctor Formoso y Alex Naranjo",
+        "lemmatized_text": "el compañía canario clapso se subir este [G:??/??/??:??.??:??] a el escenario de el auditorio_de_corralejo en el municipio de la_oliva fuerteventura para presentar el musical infantil el lengua de el dragón el 8 actor que actuar exponer a_partir_de el TM_h:17 uno historia encantar donde el avaricia y el rencor terminar ser aplastar por el justicia y el amor según informar el ayuntamiento_de_la_oliva en nota de prensa se tratar de uno aventura de reino encantar anillo mágico y dragón dirigir a el público familiar el lengua de el dragón estar escribir y dirigir por israel_reyes y su puesta en escena se acompañar con el música original de germán_arias en_cuanto_a el actor que dar vida a el personaje de el musical ser por guacimara_gil josé_carlos_campos mingo_ruano yanet_sierra david_garcía rosa_escrig víctor_formoso y alex_naranjo",
+        "lemmatized_text_reduced": "compañía canario clapso subir escenario auditorio_de_corralejo municipio la_oliva fuerteventura presentar musical infantil lengua dragón actor actuar exponer historia encantar avaricia rencor terminar ser aplastar justicia amor informar ayuntamiento_de_la_oliva nota prensa tratar aventura reino encantar anillo mágico dragón dirigir público familiar lengua dragón estar escribir dirigir israel_reyes puesta escena acompañar música original germán_arias actor dar vida personaje musical ser guacimara_gil josé_carlos_campos mingo_ruano yanet_sierra david_garcía rosa_escrig víctor_formoso alex_naranjo",
+        "persons": [
+            "Israel_Reyes",
+            "Germán_Arias",
+            "Guacimara_Gil",
+            "José_Carlos_Campos",
+            "Mingo_Ruano",
+            "Yanet_Sierra",
+            "David_García",
+            "Rosa_Escrig",
+            "Víctor_Formoso",
+            "Alex_Naranjo"
+        ],
+        "locations": [
+            "Auditorio_de_Corralejo",
+            "La_Oliva"
+        ],
+        "organizations": [
+            "Clapso",
+            "Fuerteventura",
+            "Ayuntamiento_de_La_Oliva"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "8",
+            "TM_h:17"
+        ]
+    }
+}

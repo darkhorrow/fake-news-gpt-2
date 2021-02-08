@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/675255/0/",
+    "title": {
+        "raw_text": "Revolver actuará el próximo 28 de abril en el Auditorio de Puerto del Rosario (Fuerteventura)",
+        "lemmatized_text": "revolver actuar el [??:28/4/??:??.??:??] en el auditorio_de_puerto_del_rosario fuerteventura",
+        "lemmatized_text_reduced": "revolver actuar auditorio_de_puerto_del_rosario fuerteventura",
+        "persons": [],
+        "locations": [
+            "Auditorio_de_Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[??:28/4/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Auditorio Insular de Puerto del Rosario, en Fuerteventura, acogerá el próximo miércoles, 28 de abril, la actuación de Carlos Goñi, 'Revolver', para presentar su último disco '21 gramos', cita que será a partir de las 21.00 horas y dentro de la programación que se desarrolla conjuntamente con la Obra Social de La Caja de Canarias.",
+        "lemmatized_text": "el auditorio_insular_de_puerto_del_rosario en fuerteventura acoger el [X:28/4/??:??.??:??] el actuación de carlos_goñi revolver para presentar su último disco WG_g:21 citar que ser a_partir_de el TM_h:21 y dentro_de el programación que se desarrollar conjuntamente con el obra_social_de_la_caja_de_canarias",
+        "lemmatized_text_reduced": "auditorio_insular_de_puerto_del_rosario fuerteventura acoger actuación carlos_goñi revolver presentar último disco citar ser programación desarrollar conjuntamente obra_social_de_la_caja_de_canarias",
+        "persons": [
+            "Carlos_Goñi"
+        ],
+        "locations": [
+            "Auditorio_Insular_de_Puerto_del_Rosario",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Obra_Social_de_La_Caja_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[X:28/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "WG_g:21",
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, el Cabildo insular recordó que las entradas ya se encuentran a la venta al precio de 18 euros. En '21 gramos' Revolver/Carlos Goñi, se presenta como un autor e intérprete consolidado, dirigiendo y tocando él mismo casi todos los instrumentos. Partiendo del rock como género, pero elaborando sinuosos arreglos de cuerdas y viento, busca nuevas aventuras sonoras con ritmo latinoamericano. Es rock melódico en el que la producción está al servicio de la canción. Por su parte, Carlos Goñi cuenta con una extensa trayectoria musical comenzada hace unos 27 años en grupos como 'Garage' o 'Comité Cisne', para desde hace 20 años actuar ya como 'Revolver'.",
+        "lemmatized_text": "en uno comunicado el cabildo insular recordar que el entrada ya se encontrar a el venta a el precio de $_ECU:18 en WG_g:21 revolver carlos_goñi se presentar como uno autor y intérprete consolidar dirigir y tocar él mismo casi todo el instrumento partir de el rock como género pero elaborar sinuoso arreglo de cuerda y viento buscar nuevo aventura sonoro con ritmo latinoamericano ser rock melódico en el que el producción estar a el servicio de el canción por su parte carlos_goñi contar con uno extenso trayectoria musical comenzar hacer uno 27 año en grupo como garage o comité_cisne para desde hacer 20 año actuar ya como revolver",
+        "lemmatized_text_reduced": "comunicado cabildo insular recordar entrada encontrar venta precio revolver carlos_goñi presentar autor intérprete consolidar dirigir tocar mismo instrumento partir rock género elaborar sinuoso arreglo cuerda viento buscar nuevo aventura sonoro ritmo latinoamericano ser rock melódico producción estar servicio canción parte carlos_goñi contar extenso trayectoria musical comenzar hacer año grupo garage comité_cisne hacer año actuar revolver",
+        "persons": [
+            "Carlos_Goñi",
+            "Carlos_Goñi",
+            "Garage"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo",
+            "Comité_Cisne"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:18",
+            "WG_g:21",
+            "27",
+            "20"
+        ]
+    }
+}

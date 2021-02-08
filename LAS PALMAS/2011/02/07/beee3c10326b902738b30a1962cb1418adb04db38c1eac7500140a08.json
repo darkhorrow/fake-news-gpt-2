@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/952365/0/",
+    "title": {
+        "raw_text": "Un soldado fallecido y tres más heridos por el volcado de un vehículo militar en Fuerteventura",
+        "lemmatized_text": "uno soldado fallecer y 3 más herir por el volcado de uno vehículo militar en fuerteventura",
+        "lemmatized_text_reduced": "soldado fallecer herir volcado vehículo militar fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un soldado ha fallecido y tres más han resultado heridos después de que se haya producido el volcado de un vehículo militar en el campo de Tiro de Pájara, en la isla de Fuerteventura, según han indicado a Europa Press fuentes del Mando de Canarias.",
+        "lemmatized_text": "uno soldado haber fallecer y 3 más haber resultar herido después_de que se haber producir el volcado de uno vehículo militar en el campo de tiro_de_pájara en el isla de fuerteventura según haber indicar a europa_press fuente de el mando_de_canarias",
+        "lemmatized_text_reduced": "soldado haber fallecer haber resultar herido haber producir volcado vehículo militar campo tiro_de_pájara isla fuerteventura haber indicar europa_press fuente mando_de_canarias",
+        "persons": [],
+        "locations": [
+            "Tiro_de_Pájara",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Mando_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Un soldado ha fallecido y tres más han resultado heridos después de que se haya producido el volcado de un vehículo militar en el campo de Tiro de Pájara, en la isla de Fuerteventura, según han indicado a Europa Press fuentes del Mando de Canarias. El Mando militar de Canarias ha explicado en un comunicado que el vehículo \"ha volcado por causas que todavía se desconocen\". El militar fallecido es José Tomás Fariña, natural de Caracas (Venezuela), y tenía 28 años. Ingresó en el Ejército en febrero de 2007, estaba casado y tenía tres hijos. La familia del fallecido ha sido informada y está siendo atendida por personal de la unidad. En concreto, el accidente se produjo por el volcado de un vehículo blindado LMV, mientras realizaban \"un ejercicio táctico de preparación del contingente que el próximo abril se desplazará a Afganistán\". El fallecimiento del soldado se produjo este lunes a las 16.40 (hora canaria), accidente en el que también resultaron heridos los soldados Alexander Alonso Castro, Raquel García Habas y Miguel Bauluz Pérez, que han sido evacuados al hospital insular de Puerto de Rosario, donde han quedado ingresados. Todos ellos, incluído el fallecido, pertenecen al II Batallón del Regimiento de Infantería Ligera 'Tenerife' 49.",
+        "lemmatized_text": "uno soldado haber fallecer y 3 más haber resultar herido después_de que se haber producir el volcado de uno vehículo militar en el campo de tiro_de_pájara en el isla de fuerteventura según haber indicar a europa_press fuente de el mando_de_canarias el mando militar de canarias haber explicar en uno comunicado que el vehículo haber volcar por causa que todavía se desconocer el militar fallecer ser josé_tomás_fariña natural de caracas venezuela y tener 28 año ingresar en el ejército en [??:??/2/2007:??.??:??] estar casar y tener 3 hijo el familia de el fallecer haber ser informar y estar ser atender por personal de el unidad en concreto el accidente se producir por el volcado de uno vehículo blindar lmv mientras realizar uno ejercicio táctico de preparación de el contingente que el [??:??/4/??:??.??:??] se desplazar a afganistán el fallecimiento de el soldado se producir este [L:??/??/??:4.00:pm] hora canario accidente en el que también resultar herir el soldado alexander_alonso_castro raquel_garcía_habas y miguel_bauluz_pérez que haber ser evacuar a el hospital insular de puerto_de_rosario donde haber quedar ingresar todo ellos incluído el fallecer pertenecer a el ii_batallón_del_regimiento_de_infantería_ligera tenerife 49",
+        "lemmatized_text_reduced": "soldado haber fallecer haber resultar herido haber producir volcado vehículo militar campo tiro_de_pájara isla fuerteventura haber indicar europa_press fuente mando_de_canarias mando militar canarias haber explicar comunicado vehículo haber volcar causa desconocer militar fallecer ser josé_tomás_fariña natural caracas venezuela tener año ingresar ejército estar casar tener hijo familia fallecer haber ser informar estar ser atender personal unidad concreto accidente producir volcado vehículo blindar lmv realizar ejercicio táctico preparación contingente desplazar afganistán fallecimiento soldado producir hora canario accidente resultar herir soldado alexander_alonso_castro raquel_garcía_habas miguel_bauluz_pérez haber ser evacuar hospital insular puerto_de_rosario haber quedar ingresar incluído fallecer pertenecer ii_batallón_del_regimiento_de_infantería_ligera tenerife",
+        "persons": [
+            "José_Tomás_Fariña",
+            "Alexander_Alonso_Castro",
+            "Raquel_García_Habas",
+            "Miguel_Bauluz_Pérez"
+        ],
+        "locations": [
+            "Tiro_de_Pájara",
+            "Fuerteventura",
+            "Canarias",
+            "Caracas",
+            "Venezuela",
+            "Afganistán",
+            "Puerto_de_Rosario"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Mando_de_Canarias",
+            "Mando",
+            "Ejército",
+            "LMV",
+            "II_Batallón_del_Regimiento_de_Infantería_Ligera",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/2/2007:??.??:??]",
+            "[??:??/4/??:??.??:??]",
+            "[L:??/??/??:4.00:pm]"
+        ],
+        "numbers": [
+            "3",
+            "28",
+            "3",
+            "49"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/933070/0/",
+    "title": {
+        "raw_text": "PP anima a CC a explicar a los canarios la \"entrega incondicional\" a Zapatero",
+        "lemmatized_text": "pp animar a cc a explicar a el canario el entrega incondicional a zapatero",
+        "lemmatized_text_reduced": "pp animar cc explicar canario entrega incondicional zapatero",
+        "persons": [
+            "Zapatero"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "CC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Navarro disculpa a CC \"porque están muy nerviosos con las elecciones\"",
+        "lemmatized_text": "navarro disculpa a cc porque estar muy nervioso con el elección",
+        "lemmatized_text_reduced": "navarro disculpa cc estar nervioso elección",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La portavoz del PP en el Parlamento de Canarias, María Australia Navarro, animó este miércoles a Coalición Canaria (CC) a explicar a los canarios la \"entrega incondicional\" de los nacionalistas al presidente del Gobierno central, José Luis Rodríguez Zapatero. Navarro disculpó en un comunicado las críticas de la presidenta de CC, Claudina Morales, a la visita del alcalde de Madrid, Alberto Ruiz Gallardón, \"porque en CC están muy nerviosos con las elecciones de mayo y temen que su apoyo incondicional a Zapatero les arrastre junto al PSOE al fracaso en las urnas\". El alcalde de Madrid aseguró \"lo que todos sabemos: que CC apoya a Zapatero para quitar el dinero a los pensionistas, para quitar las ayudas a los jóvenes y para condenar cada vez a más españoles al desempleo y a la desesperanza\", recordó la dirigente popular a Morales. \"dos opciones\" para las elecciones \"Y claro, cuando alguien se lo recuerda, como hizo Ruiz Gallardón, se ponen nerviosos y empiezan a descalificar a los demás. No creemos que sea mala intención, simplemente nerviosismo\", comentó. La portavoz parlamentaria del PP canario entiende que los canarios siguen \"esperando una explicación de CC al apoyo incondicional que le ofrece todos los días a Zapatero, pero está claro que Claudina Morales y sus compañeros de CC prefieren hablar de otras cuestiones que, curiosamente, no le interesan al ciudadano canario\". Navarro cree que en las elecciones de mayo \"los ciudadanos van a elegir entre dos opciones claramente distintas: la opción del fracaso, que representa el PSOE y su aliado de CC; y la opción del cambio, que representa el Partido Popular\". \"Sólo esperamos que en CC sean capaces entonces de asumir lo que de verdad piensan los ciudadanos de Canarias\", concluyó.",
+        "lemmatized_text": "el portavoz de el pp en el parlamento_de_canarias maría_australia_navarro animar este [X:??/??/??:??.??:??] a coalición_canaria cc a explicar a el canario el entrega incondicional de el nacionalista a el presidente de el gobierno central josé_luis_rodríguez_zapatero navarro disculpar en uno comunicado el crítica de el presidente de cc claudina_morales a el visita de el alcalde de madrid alberto_ruiz_gallardón porque en cc estar muy nervioso con el elección de [??:??/5/??:??.??:??] y temer que su apoyo incondicional a zapatero le arrastrar junto a el psoe a el fracaso en el urna el alcalde de madrid asegurar el que todo saber que cc apoyar a zapatero para quitar el dinero a el pensionista para quitar el ayuda a el joven y para condenar cada vez a más español a el desempleo y a el desesperanza recordar el dirigente popular a morales 2 opción para el elección y claro cuando alguien se lo recordar como hacer ruiz_gallardón se poner nervioso y empezar a descalificar a el demás no creer que ser malo intención simplemente nerviosismo comentar el portavoz parlamentario de el pp canario entender que el canario seguir esperar uno explicación de cc a el apoyo incondicional que le ofrecer todo el día a zapatero pero estar claro que claudina_morales y su compañero de cc preferir hablar de otro cuestión que curiosamente no le interesar a el ciudadano canario navarro creer que en el elección de [??:??/5/??:??.??:??] el ciudadano ir a elegir entre 2 opción claramente distinto el opción de el fracaso que representar el psoe y su aliado de cc y el opción de el cambio que representar el partido_popular sólo esperar que en cc ser capaz entonces de asumir el que de verdad pensar el ciudadano de canarias concluir",
+        "lemmatized_text_reduced": "portavoz pp parlamento_de_canarias maría_australia_navarro animar coalición_canaria cc explicar canario entrega incondicional nacionalista presidente gobierno central josé_luis_rodríguez_zapatero navarro disculpar comunicado crítica presidente cc claudina_morales visita alcalde madrid alberto_ruiz_gallardón cc estar nervioso elección temer apoyo incondicional zapatero arrastrar junto psoe fracaso urna alcalde madrid asegurar saber cc apoyar zapatero quitar dinero pensionista quitar ayuda joven condenar vez español desempleo desesperanza recordar dirigente popular morales opción elección claro recordar hacer ruiz_gallardón poner nervioso empezar descalificar creer ser malo intención simplemente nerviosismo comentar portavoz parlamentario pp canario entender canario seguir esperar explicación cc apoyo incondicional ofrecer día zapatero estar claudina_morales compañero cc preferir hablar cuestión curiosamente interesar ciudadano canario navarro creer elección ciudadano ir elegir opción claramente distinto opción fracaso representar psoe aliado cc opción cambio representar partido_popular esperar cc ser capaz asumir verdad pensar ciudadano canarias concluir",
+        "persons": [
+            "María_Australia_Navarro",
+            "José_Luis_Rodríguez_Zapatero",
+            "Claudina_Morales",
+            "Alberto_Ruiz_Gallardón",
+            "Zapatero",
+            "Zapatero",
+            "Morales",
+            "Ruiz_Gallardón",
+            "Zapatero",
+            "Claudina_Morales"
+        ],
+        "locations": [
+            "Madrid",
+            "Madrid",
+            "Canarias"
+        ],
+        "organizations": [
+            "PP",
+            "Parlamento_de_Canarias",
+            "Coalición_Canaria",
+            "CC",
+            "Gobierno",
+            "CC",
+            "CC",
+            "PSOE",
+            "CC",
+            "PP",
+            "CC",
+            "CC",
+            "PSOE",
+            "CC",
+            "Partido_Popular",
+            "CC"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:??/5/??:??.??:??]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "2"
+        ]
+    }
+}

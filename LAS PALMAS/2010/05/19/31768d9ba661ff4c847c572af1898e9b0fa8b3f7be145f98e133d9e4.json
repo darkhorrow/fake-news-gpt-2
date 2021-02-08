@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/711461/0/",
+    "title": {
+        "raw_text": "La UE reducirá a menos de la mitad los aranceles al banano centroamericano en 10 años",
+        "lemmatized_text": "el ue reducir a menos de el mitad el arancel a el banano centroamericano en 10 año",
+        "lemmatized_text_reduced": "ue reducir mitad arancel banano centroamericano año",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "lead": {
+        "raw_text": "La UE ha alcanzado un acuerdo con Centroamérica en varios aspectos comerciales entre los que se encuentra la reducción en diez años a menos de la mitad actual los aranceles al banano proveniente de estos países, que compiten con el plátano canario.",
+        "lemmatized_text": "el ue haber alcanzar uno acuerdo con centroamérica en varios aspecto comercial entre el que se encontrar el reducción en 10 año a menos de el mitad actual el arancel a el banano proveniente de este país que competir con el plátano canario",
+        "lemmatized_text_reduced": "ue haber alcanzar acuerdo centroamérica aspecto comercial encontrar reducción año mitad actual arancel banano proveniente país competir plátano canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UE",
+            "Centroamérica"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "El acuerdo alcanzado a última hora de ayer supone reducir desde los 176 euros por tonelada actuales a los 75 euros (93 dólares) en diez años (la misma cifra que se ofreció recientemente a Colombia y Perú en la negociación de un acuerdo de libre comercio) a Honduras, Guatemala, El Salvador, Nicaragua, Costa Rica y Panamá. El acuerdo con Centroamérica, que se da bajo la presidencia española de la UE, supondrá la apertura del 100 por ciento del mercado para los productos industriales para ambas partes. Los europeos logran además acceso libre al mercado centroamericano para su industria automovilística durante 10 años mientras que, además de a la banana, se reducen los aranceles a las exportaciones centroamericanas de carne de vacuno y arroz. La UE ha creado además un Mecanismo de Inversión en América Latina que servirá para \"movilizar nuevos fondos de respaldo a la inversión\" en esta región. Según explicó Barroso, contará con 125 millones en subvenciones hasta 2013. Los líderes respaldaron la creación de la Fundación UE-ALC, llamada a ser un \"instrumento útil para reforzar nuestra asociación\" y para \"suscitar el debate sobre las estrategias y actuaciones comunes\", según la declaración final. Dicha fundación, según explicaron fuentes diplomáticas, tendrá su sede con toda probabilidad en la ciudad alemana de Hamburgo, aunque todavía no hay una decisión formal. Zapatero consideró la cumbre llena de \"aciertos y resultados\" entre dos bloques que representan a cerca de 1.000 millones de personas y tienen un volumen de intercambios comerciales de 150.000 millones euros.",
+        "lemmatized_text": "el acuerdo alcanzar a último hora de ayer suponer reducir desde el $_ECU:176 por tonelada actual a el $_ECU:75 $_USD:93 en 10 año el mismo cifra que se ofrecer recientemente a colombia y perú en el negociación de uno acuerdo de libre comercio a honduras guatemala el_salvador nicaragua costa_rica y panamá el acuerdo con centroamérica que se dar bajo el presidencia español de el ue suponer el apertura de el 100 por 100 de el mercado para el producto industrial para ambos parte el europeo lograr además acceso libre a el mercado centroamericano para su industria automovilístico durante 10 año mientras_que además_de a el banana se reducir el arancel a el exportación centroamericano de carne de vacuno y arroz el ue haber crear además uno mecanismo_de_inversión en américa_latina que servir para movilizar nuevo fondo de respaldo a el inversión en este región según explicar barroso contar con 125000000 en subvención hasta 2013 el líder respaldar el creación de el fundación_ue-alc llamar a ser uno instrumento útil para reforzar nuestro asociación y para suscitar el debate sobre el estrategia y actuación común según el declaración final decir fundación según explicar fuente diplomático tener su sede con todo probabilidad en el ciudad alemán de hamburgo aunque todavía no haber uno decisión formal zapatero considerar el cumbre lleno de acierto y resultado entre 2 bloque que representar a_cerca_de 1000000 de persona y tener uno volumen de intercambio comercial de $_ECU:150000000",
+        "lemmatized_text_reduced": "acuerdo alcanzar último hora suponer reducir tonelada actual año mismo cifra ofrecer recientemente colombia perú negociación acuerdo libre comercio honduras guatemala el_salvador nicaragua costa_rica panamá acuerdo centroamérica dar presidencia español ue suponer apertura mercado producto industrial parte europeo lograr acceso libre mercado centroamericano industria automovilístico año banana reducir arancel exportación centroamericano carne vacuno arroz ue haber crear mecanismo_de_inversión américa_latina servir movilizar nuevo fondo respaldo inversión región explicar barroso contar subvención líder respaldar creación fundación_ue-alc llamar ser instrumento útil reforzar asociación suscitar debate estrategia actuación común declaración final decir fundación explicar fuente diplomático tener sede probabilidad ciudad alemán hamburgo haber decisión formal zapatero considerar cumbre lleno acierto resultado bloque representar persona tener volumen intercambio comercial",
+        "persons": [
+            "Barroso"
+        ],
+        "locations": [
+            "El_Salvador",
+            "Nicaragua",
+            "Panamá",
+            "Centroamérica",
+            "América_Latina",
+            "Hamburgo"
+        ],
+        "organizations": [
+            "Colombia",
+            "Perú",
+            "Honduras",
+            "Guatemala",
+            "Costa_Rica",
+            "UE",
+            "UE",
+            "Fundación_UE-ALC"
+        ],
+        "others": [
+            "Mecanismo_de_Inversión"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:176",
+            "$_ECU:75",
+            "$_USD:93",
+            "10",
+            "100",
+            "100",
+            "10",
+            "125000000",
+            "2013",
+            "2",
+            "1000000",
+            "$_ECU:150000000"
+        ]
+    }
+}

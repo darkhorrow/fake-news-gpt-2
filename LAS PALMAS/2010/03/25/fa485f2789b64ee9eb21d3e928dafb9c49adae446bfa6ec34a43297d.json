@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661507/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria comienza los trabajos de rehabilitación de la carretera que une La Calzada y Santa Brígida",
+        "lemmatized_text": "el cabildo_de_gran_canaria comenzar el trabajo de rehabilitación de el carretera que unir la_calzada y santa_brígida",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria comenzar trabajo rehabilitación carretera unir la_calzada santa_brígida",
+        "persons": [],
+        "locations": [
+            "La_Calzada",
+            "Santa_Brígida"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes del Cabildo de Gran Canaria, ha iniciado esta semana los trabajos de rehabilitación de la carretera GC-320, que une las localidades de La Calzada y Santa Brígida, que tendrá un presupuesto de 2,39 millones de euros.",
+        "lemmatized_text": "el consejería_de_desarrollo_económico obras_públicas y infraestructuras y transportes_del_cabildo_de_gran_canaria haber iniciar este semana el trabajo de rehabilitación de el carretera GC-320 que unir el localidad de la_calzada y santa_brígida que tener uno presupuesto de 2,39 millón de euro",
+        "lemmatized_text_reduced": "consejería_de_desarrollo_económico obras_públicas infraestructuras transportes_del_cabildo_de_gran_canaria haber iniciar semana trabajo rehabilitación carretera unir localidad la_calzada santa_brígida tener presupuesto millón euro",
+        "persons": [],
+        "locations": [
+            "La_Calzada",
+            "Santa_Brígida"
+        ],
+        "organizations": [
+            "Consejería_de_Desarrollo_Económico",
+            "Obras_Públicas",
+            "Transportes_del_Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Infraestructuras"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-320",
+            "2,39"
+        ]
+    },
+    "body": {
+        "raw_text": "Las obras, según informó el Cabildo de Gran Canaria en nota de prensa, están destinadas al \"incremento de la seguridad\" de la vía, ya que existen tramos en los que no pueden pasar dos vehículos, curvas estrechas y puntos con poca visibilidad. En cuanto al plazo de ejecución de los trabajos será de cuatro meses y medio, tiempo en el que se acometerá la duplicación del Puente de Las Meleguinas, el ensanchamiento de diversas curvas, la prolongación de la obra de fábrica en la salida de Pino Santo para \"suavizar la pendiente y mejorar\" la visibilidad para los conductores. Además, se colocarán mallas de contención en las laderas para evitar desprendimientos, revestimiento de las cunetas, colocación de señalización vertical y horizontal, así como reasfaltado de la vía. Respecto a la empresa que se encargará de los trabajos será la UTE compuesta por Postigo Obras y Servicios SA-Obras junto con Asfaltos Canarios SL, que se concentran entre los puntos kilométricos 0 y 5+860.",
+        "lemmatized_text": "el obra según informar el cabildo_de_gran_canaria en nota de prensa estar destinar a el incremento de el seguridad de el vía ya_que existir tramo en el que no poder pasar 2 vehículo curva estrecho y punto con poco visibilidad en cuanto a el plazo de ejecución de el trabajo ser de 4 mes y medio tiempo en el que se acometer el duplicación de el puente_de_las_meleguinas el ensanchamiento de diverso curva el prolongación de el obra de fábrica en el salida de pino_santo para suavizar el pendiente y mejorar el visibilidad para el conductor además se colocar malla de contención en el ladera para evitar desprendimiento revestimiento de el cuneta colocación de señalización vertical y horizontal así_como reasfaltar de el vía respecto_a el empresa que se encargar de el trabajo ser el ute componer por postigo_obras y servicios_sa-obras junto_con asfaltos_canarios_sl que se concentrar entre el punto kilométrico 0 y 5+860",
+        "lemmatized_text_reduced": "obra informar cabildo_de_gran_canaria nota prensa estar destinar incremento seguridad vía existir tramo poder pasar vehículo curva estrecho punto visibilidad plazo ejecución trabajo ser mes medio tiempo acometer duplicación puente_de_las_meleguinas ensanchamiento curva prolongación obra fábrica salida pino_santo suavizar pendiente mejorar visibilidad conductor colocar malla contención ladera evitar desprendimiento revestimiento cuneta colocación señalización vertical horizontal reasfaltar vía empresa encargar trabajo ser ute componer postigo_obras servicios_sa-obras asfaltos_canarios_sl concentrar punto kilométrico",
+        "persons": [
+            "Pino_Santo"
+        ],
+        "locations": [
+            "Puente_de_Las_Meleguinas"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "UTE",
+            "Postigo_Obras",
+            "Servicios_SA-Obras"
+        ],
+        "others": [
+            "Asfaltos_Canarios_SL"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "4",
+            "0",
+            "5+860"
+        ]
+    }
+}

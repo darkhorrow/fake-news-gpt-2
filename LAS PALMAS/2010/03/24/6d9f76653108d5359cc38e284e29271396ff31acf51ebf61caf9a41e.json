@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660225/0/",
+    "title": {
+        "raw_text": "Una perra encuentra vivo a un hombre que llevaba siete días desaparecido en Lanzarote",
+        "lemmatized_text": "uno perro encontrar vivo a uno hombre que llevar TM_d:7 desaparecer en lanzarote",
+        "lemmatized_text_reduced": "perro encontrar vivo hombre llevar desaparecer lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:7"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una perra ha encontrado vivo a un hombre que llevaba siete días desaparecido en Arrecife, según informó a Europa Press Óscar Fondón Rodríguez, guía canino de la ONG de Emergencias y Rescate de Lanzarote (Emerlan), que localizó al varón, quien había sufrido una paliza.",
+        "lemmatized_text": "uno perro haber encontrar vivo a uno hombre que llevar TM_d:7 desaparecer en arrecife según informar a europa_press_óscar_fondón_rodríguez guía canino de el ong_de_emergencias y rescate_de_lanzarote emerlan que localizar a el varón quien haber sufrir uno paliza",
+        "lemmatized_text_reduced": "perro haber encontrar vivo hombre llevar desaparecer arrecife informar europa_press_óscar_fondón_rodríguez guía canino ong_de_emergencias rescate_de_lanzarote emerlan localizar varón haber sufrir paliza",
+        "persons": [
+            "Rescate_de_Lanzarote"
+        ],
+        "locations": [
+            "Arrecife"
+        ],
+        "organizations": [
+            "Europa_Press_Óscar_Fondón_Rodríguez",
+            "Emerlan"
+        ],
+        "others": [
+            "ONG_de_Emergencias"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_d:7"
+        ]
+    },
+    "body": {
+        "raw_text": "La organización fue informado ayer, sobre las 14.00 horas por el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 de la desaparición del hombre, de unos 35 años de edad, quien llevaba siete días en paradero desconocido, según sus familiares, que denunciaron ante la Policía Nacional. De esta forma, Emerlan activó de inmediato una unidad canina con perros de salvamento, una grupo de montaña, una ambulancia de soporte vital básico y doce voluntarios.'CUBA' De este modo, sobre las 16.00 horas, un equipo formado por una perra —raza pastor belga y llamada 'Cuba'— y dos voluntarios, uno de ellos Óscar Fondón, encontraron el cuerpo tirado en el suelo y con signos de violencia en una zona ubicada detrás del polígono industrial en Arrecife, cerca del Castillo de San José. \"Apareció vivo, nada más verlo la perra ladró, que es la señal para indicar que la persona está viva\", añadió el voluntario, que manifestó que, en un principio, él pensó que el varón estaba muerto hasta que comprobó que estaba \"deshidratado, con golpes en la cabeza, aturdido y desorientado\". \"Al chico le devolvimos la vida, escapó de milagro\", apuntó. Y es que presuntamente había sufrido una paliza \"y le tiraron en un descampado\", añadió. Una vez hallado, fue trasladado en ambulancia hasta el Hospital José Molina Oroza con pronóstico reservado.",
+        "lemmatized_text": "el organización ser informar ayer sobre el TM_h:14 por el centro_coordinador_de_emergencias y seguridad cecoes 112 de el desaparición de el hombre de uno 35 año de edad quien llevar TM_d:7 en paradero desconocer según su familiar que denunciar ante el policía_nacional de este forma emerlan activar de inmediato uno unidad canino con perro de salvamento uno grupo de montaña uno ambulancia de soporte vital básico y 12 voluntario cuba de este modo sobre el TM_h:16 uno equipo formar por uno perro raza pastor belga y llamar cuba y 2 voluntario uno de ellos óscar_fondón encontrar el cuerpo tirar en el suelo y con signo de violencia en uno zona ubicar detrás de el polígono industrial en arrecife cerca de el castillo_de_san_josé aparecer vivo nada más ver lo el perro ladrar que ser el señal para indicar que el persona estar vivo añadir el voluntario que manifestar que en uno principio él pensar que el varón estar morir hasta que comprobar que estar deshidratar con golpe en el cabeza aturdir y desorientar a el chico le devolver el vida escapar de milagro apuntar y ser que presuntamente haber sufrir uno paliza y le tirar en uno descampado añadir uno vez hallar ser trasladar en ambulancia hasta el hospital_josé_molina_oroza con pronóstico reservar",
+        "lemmatized_text_reduced": "organización ser informar centro_coordinador_de_emergencias seguridad cecoes desaparición hombre año edad llevar paradero desconocer familiar denunciar policía_nacional forma emerlan activar inmediato unidad canino perro salvamento grupo montaña ambulancia soporte vital básico voluntario cuba modo equipo formar perro raza pastor belga llamar cuba voluntario óscar_fondón encontrar cuerpo tirar suelo signo violencia zona ubicar polígono industrial arrecife castillo_de_san_josé aparecer vivo ver perro ladrar ser señal indicar persona estar vivo añadir voluntario manifestar principio pensar varón estar morir comprobar estar deshidratar golpe cabeza aturdir desorientar chico devolver vida escapar milagro apuntar ser presuntamente haber sufrir paliza tirar descampado añadir vez hallar ser trasladar ambulancia hospital_josé_molina_oroza pronóstico reservar",
+        "persons": [
+            "Emerlan",
+            "Óscar_Fondón"
+        ],
+        "locations": [
+            "Cuba",
+            "Arrecife",
+            "Castillo_de_San_José"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Policía_Nacional",
+            "CUBA",
+            "Hospital_José_Molina_Oroza"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:14",
+            "112",
+            "35",
+            "TM_d:7",
+            "12",
+            "TM_h:16",
+            "2"
+        ]
+    }
+}

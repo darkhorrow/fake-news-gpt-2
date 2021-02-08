@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/305534/0/declaracion/padrastro/yulisa/",
+    "title": {
+        "raw_text": "La Policía toma declaración al padrastro de Yulisa, a la que se hará la autopsia mañana",
+        "lemmatized_text": "el policía tomar declaración a el padrastro de yulisa a el que se hacer el autopsia mañana",
+        "lemmatized_text_reduced": "policía tomar declaración padrastro yulisa hacer autopsia",
+        "persons": [],
+        "locations": [
+            "Yulisa"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Antonio F.M. no ha sido imputado. El cuerpo de la joven presentó signos de violencia y descomposición. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "antonio_f.m. no haber ser imputar el cuerpo de el joven presentar signo de violencia y descomposición consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "antonio_f.m. haber ser imputar cuerpo joven presentar signo violencia descomposición consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Antonio_F.M."
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Policía toma declaración al padrastro de la joven Yulisa Pérez, a cuyo cadáver se le practicará mañana la autopsia , informaron hoy fuentes de la Delegación del Gobierno. La pareja de la madre de la joven hallada hoy muerta en Lanzarote tras haber desaparecido el pasado jueves no ha sido imputada en el caso , y después de que se le tome declaración se conocerá en que estado quedará, explicaron las fuentes. El hombre, identificado como Antonio F.M., fue trasladado esta mañana a la comisaría de Arrecife ante el riesgo de ser linchado, ya que miembros de la comunidad dominicana y familiares de la chica lo señalaban como sospechoso. El cuerpo de la joven, que presentó signos de violencia y descomposición , se encuentra en un juzgado de Arrecife hasta que mañana, previsiblemente, se le realice el estudio forense que determinará las causas exactas de su muerte. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el policía tomar declaración a el padrastro de el joven yulisa_pérez a cuyo cadáver se le practicar mañana el autopsia informar hoy fuente de el delegación_del_gobierno el pareja de el madre de el joven hallar hoy morir en lanzarote tras haber desaparecer el [J:??/??/??:??.??:??] no haber ser imputar en el caso y después_de que se le tomar declaración se conocer en que estado quedar explicar el fuente el hombre identificar como antonio_f.m. ser trasladar este mañana a el comisaría de arrecife ante el riesgo de ser linchar ya_que miembro de el comunidad dominicano y familiar de el chico lo señalar como sospechoso el cuerpo de el joven que presentar signo de violencia y descomposición se encontrar en uno juzgado de arrecife hasta que mañana previsiblemente se le realizar el estudio forense que determinar el causa exacto de su muerte consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía tomar declaración padrastro joven yulisa_pérez cadáver practicar autopsia informar fuente delegación_del_gobierno pareja madre joven hallar morir lanzarote haber desaparecer haber ser imputar caso tomar declaración conocer estado quedar explicar fuente hombre identificar antonio_f.m. ser trasladar mañana comisaría arrecife riesgo ser linchar miembro comunidad dominicano familiar chico señalar sospechoso cuerpo joven presentar signo violencia descomposición encontrar juzgado arrecife previsiblemente realizar estudio forense determinar causa exacto muerte consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Yulisa_Pérez",
+            "Antonio_F.M.",
+            "Arrecife"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Policía",
+            "Delegación_del_Gobierno",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

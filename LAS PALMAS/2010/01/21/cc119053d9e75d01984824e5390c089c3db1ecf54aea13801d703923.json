@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/611620/0/",
+    "title": {
+        "raw_text": "Chaves visitará Las Palmas de Gran Canaria el próximo lunes para analizar las obras del Feile",
+        "lemmatized_text": "chaves visitar las_palmas_de_gran_canaria el [L:??/??/??:??.??:??] para analizar el obra de el feile",
+        "lemmatized_text_reduced": "chaves visitar las_palmas_de_gran_canaria analizar obra feile",
+        "persons": [
+            "Chaves"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [
+            "Feile"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El vicepresidente tercero del Gobierno, Manuel Chaves, visitará la ciudad de Las Palmas de Gran Canaria el próximo lunes, 25 de enero, para analizar las obras del Fondo de Inversión Local para el Empleo (Feile).",
+        "lemmatized_text": "el vicepresidente 3 de el gobierno manuel_chaves visitar el ciudad de las_palmas_de_gran_canaria el [L:25/1/??:??.??:??] para analizar el obra de el fondo_de_inversión_local_para_el_empleo feile",
+        "lemmatized_text_reduced": "vicepresidente 3 gobierno manuel_chaves visitar ciudad las_palmas_de_gran_canaria analizar obra fondo_de_inversión_local_para_el_empleo feile",
+        "persons": [
+            "Manuel_Chaves"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Fondo_de_Inversión_Local_para_el_Empleo",
+            "Feile"
+        ],
+        "others": [],
+        "dates": [
+            "[L:25/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, lo anunció hoy, en rueda de prensa, el portavoz del Ayuntamiento de Las Palmas de Gran Canaria, Sebastián Franquis, quien indicó que Chaves asistirá junto al alcalde de la ciudad, Jerónimo Saavedra, a una de las obras que se están desarrollando del Feile 2009 en la capital grancanaria. Ambos valorarán el resultado, así como el desarrollo de las obras del Fondo de Inversión Local para el Empleo (Feile) en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "así lo anunciar hoy en rueda de prensa el portavoz de el ayuntamiento_de_las_palmas_de_gran_canaria sebastián_franquis quien indicar que chaves asistir junto a el alcalde de el ciudad jerónimo_saavedra a uno de el obra que se estar desarrollar de el feile 2009 en el capital grancanaria ambos valorar el resultado así_como el desarrollo de el obra de el fondo_de_inversión_local_para_el_empleo feile en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "anunciar rueda prensa portavoz ayuntamiento_de_las_palmas_de_gran_canaria sebastián_franquis indicar chaves asistir junto alcalde ciudad jerónimo_saavedra obra estar desarrollar feile capital grancanaria valorar resultado desarrollo obra fondo_de_inversión_local_para_el_empleo feile las_palmas_de_gran_canaria",
+        "persons": [
+            "Sebastián_Franquis",
+            "Chaves",
+            "Jerónimo_Saavedra"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Feile",
+            "Feile"
+        ],
+        "others": [
+            "Fondo_de_Inversión_Local_para_el_Empleo"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    }
+}

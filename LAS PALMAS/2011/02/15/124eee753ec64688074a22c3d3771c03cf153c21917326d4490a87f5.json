@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/959733/0/",
+    "title": {
+        "raw_text": "La colisión múltiple entre 4 vehículos en Las Palmas de Gran Canaria deja 4 heridos leves",
+        "lemmatized_text": "el colisión múltiple entre 4 vehículo en las_palmas_de_gran_canaria dejar 4 herido leve",
+        "lemmatized_text_reduced": "colisión múltiple vehículo las_palmas_de_gran_canaria dejar herido leve",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "La colisión múltiple entre cuatro vehículos en el paseo Eduardo Millares Sall, dentro del término municipal de Las Palmas de Gran Canaria, ha dejado otros cuatro heridos de carácter leve, informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el colisión múltiple entre 4 vehículo en el paseo eduardo_millares_sall dentro de el término municipal de las_palmas_de_gran_canaria haber dejar otro 4 herido de carácter leve informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "colisión múltiple vehículo paseo eduardo_millares_sall término municipal las_palmas_de_gran_canaria haber dejar herido carácter leve informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Eduardo_Millares_Sall"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "La colisión múltiple entre cuatro vehículos en el paseo Eduardo Millares Sall, dentro del término municipal de Las Palmas de Gran Canaria, ha dejado otros cuatro heridos de carácter leve, informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. La Policía Local capitalina alertó sobre las 07.55 horas de que se había producido un choque en el que se había visto involucrados varios coches y que podría haber personas que precisaran atención médica. En ese momento, se trasladó al lugar al Servicio Urgencias Canario (SUC). Al llegar, los médicos atendieron a cuatro personas que presentaron cervicalgias de carácter leve, por lo que dos de ellos tuvieron que ser trasladados a la Clínica del Perpetuo Socorro y los otros dos a la Clínica de La Paloma.",
+        "lemmatized_text": "el colisión múltiple entre 4 vehículo en el paseo eduardo_millares_sall dentro de el término municipal de las_palmas_de_gran_canaria haber dejar otro 4 herido de carácter leve informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112 el policía_local capitalino alertar sobre el TM_h:7.55 de que se haber producir uno choque en el que se haber ver involucrar varios coche y que poder haber persona que precisar atención médico en ese momento se trasladar a el lugar a el servicio_urgencias_canario suc a el llegar el médico atender a 4 persona que presentar cervicalgias de carácter leve por el que 2 de ellos tener que ser trasladar a el clínica_del_perpetuo_socorro y el otro 2 a el clínica_de_la_paloma",
+        "lemmatized_text_reduced": "colisión múltiple vehículo paseo eduardo_millares_sall término municipal las_palmas_de_gran_canaria haber dejar herido carácter leve informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes policía_local capitalino alertar haber producir choque haber ver involucrar coche poder haber persona precisar atención médico momento trasladar lugar servicio_urgencias_canario suc llegar médico atender persona presentar cervicalgias carácter leve tener ser trasladar clínica_del_perpetuo_socorro clínica_de_la_paloma",
+        "persons": [
+            "Eduardo_Millares_Sall"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Policía_Local",
+            "Servicio_Urgencias_Canario",
+            "SUC",
+            "Clínica_del_Perpetuo_Socorro",
+            "Clínica_de_La_Paloma"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "4",
+            "112",
+            "TM_h:7.55",
+            "4",
+            "2",
+            "2"
+        ]
+    }
+}

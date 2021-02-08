@@ -1,0 +1,92 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/713975/0/",
+    "title": {
+        "raw_text": "Fallece en Madrid el tenor grancanario Suso Mariategui",
+        "lemmatized_text": "fallecer en madrid el tenor grancanario suso_mariategui",
+        "lemmatized_text_reduced": "fallecer madrid tenor grancanario suso_mariategui",
+        "persons": [
+            "Suso_Mariategui"
+        ],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El tenor y profesor de canto grancanario Suso Mariategui ha fallecido hoy en Madrid tras sufrir un infarto, según informaron a Europa Press fuentes cercanas al cantante, quienes explicaron que la capilla ardiente está en el tanatorio Sur de la capital madrileña.",
+        "lemmatized_text": "el tenor y profesor de_canto grancanario suso_mariategui haber fallecer hoy en madrid tras sufrir uno infarto según informar a europa_press fuente cercano a el cantante quien explicar que el capilla ardiente estar en el tanatorio sur de el capital madrileño",
+        "lemmatized_text_reduced": "tenor profesor grancanario suso_mariategui haber fallecer madrid sufrir infarto informar europa_press fuente cercano cantante explicar capilla ardiente estar tanatorio sur capital madrileño",
+        "persons": [
+            "Suso_Mariategui",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Sur"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Mariategui, que iba a estar este fin de semana a la 43ª Temporada de Ópera de la capital y presenciar la obra 'La Italiana en Argel', nació en Las Palmas de Gran Canaria y una vez terminados sus estudios de Derecho y Música, decidió realizar su definitiva vocación de cantante, que había iniciado como actor en el Teatro Español Universitario. El tenor grancanario, quien fue nombrado en 2003 hijo predilecto de Las Palmas de Gran Canaria, estudió canto e interpretación en la 'Hochschule für Musik und Darstellende Kunst' y trabajó durante tres años la literatura liderística de los compositires austriacos y alemanes con el cantante Anton Dermota. Debuta en la escena en el año 1971 con 'La Flauta Mágica' de Mozart en el Landestheater de Salzburgo y con el 'Don Pasquale' de Donizetti en el 'Schömbrunn Schlosstheater' de Viena. En el Festival de Opera de Las Palmas, por ejemplo, cantó durante varios años 'Don Pasquale', 'Elisir d*amore', 'Don Giovanni' y 'Otello (Casio)', entre otros. También trabajó personajes como \"El Inocente (Boris Goudonov)' o 'El Cisne (Carmina Burana)', que cantó más de cien veces asi como personajes de Strauss como Rosenkavalier, según consta en su propia página web.",
+        "lemmatized_text": "mariategui que ir a estar este fin de semana a el 43ª temporada_de_ópera de el capital y presenciar el obra el italiana en argel nacer en las_palmas_de_gran_canaria y uno vez terminar su estudio de derecho y música decidir realizar su definitivo vocación de cantante que haber iniciar como actor en el teatro_español_universitario el tenor grancanario quien ser nombrar en 2003 hijo predilecto de las_palmas_de_gran_canaria estudiar canto y interpretación en el hochschule für musik und darstellende_kunst y trabajar durante 3 año el literatura liderística de el compositires austriaco y alemán con el cantante anton_dermota debutar en el escena en el [??:??/??/1971:??.??:??] con el flauta_mágica de mozart en el landestheater_de_salzburgo y con el don_pasquale de donizetti en el schömbrunn_schlosstheater de viena en el festival_de_opera_de_las_palmas por_ejemplo cantar durante varios año don_pasquale elisir d amorar don_giovanni y otello casio entre otro también trabajar personaje como el inocente boris_goudonov o el cisne carmina_burana que cantar más de 100 vez asi como personaje de strauss como rosenkavalier según constar en su propio página web",
+        "lemmatized_text_reduced": "mariategui ir estar fin semana temporada_de_ópera capital presenciar obra italiana argel nacer las_palmas_de_gran_canaria vez terminar estudio derecho música decidir realizar definitivo vocación cantante haber iniciar actor teatro_español_universitario tenor grancanario ser nombrar hijo predilecto las_palmas_de_gran_canaria estudiar canto interpretación hochschule für musik und darstellende_kunst trabajar año literatura liderística compositires austriaco alemán cantante anton_dermota debutar escena flauta_mágica mozart landestheater_de_salzburgo don_pasquale donizetti schömbrunn_schlosstheater viena festival_de_opera_de_las_palmas cantar año don_pasquale elisir d amorar don_giovanni otello casio trabajar personaje inocente boris_goudonov cisne carmina_burana cantar vez asi personaje strauss rosenkavalier constar propio página web",
+        "persons": [
+            "Mariategui",
+            "Temporada_de_Ópera",
+            "Musik",
+            "Darstellende_Kunst",
+            "Anton_Dermota",
+            "Mozart",
+            "Don_Pasquale",
+            "Schömbrunn_Schlosstheater",
+            "Don_Pasquale",
+            "Elisir",
+            "Don_Giovanni",
+            "Otello",
+            "Boris_Goudonov",
+            "Carmina_Burana",
+            "Rosenkavalier"
+        ],
+        "locations": [
+            "Argel",
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Hochschule",
+            "Landestheater_de_Salzburgo",
+            "Donizetti",
+            "Viena",
+            "Casio",
+            "Cisne",
+            "Strauss"
+        ],
+        "organizations": [
+            "Italiana",
+            "Música",
+            "Teatro_Español_Universitario",
+            "Flauta_Mágica",
+            "Inocente"
+        ],
+        "others": [
+            "Derecho",
+            "Festival_de_Opera_de_Las_Palmas"
+        ],
+        "dates": [
+            "[??:??/??/1971:??.??:??]"
+        ],
+        "numbers": [
+            "43ª",
+            "2003",
+            "3",
+            "100"
+        ]
+    }
+}

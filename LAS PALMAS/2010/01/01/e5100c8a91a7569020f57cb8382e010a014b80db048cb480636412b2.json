@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599025/0/",
+    "title": {
+        "raw_text": "Una mujer se precipita por un barranco en Gran Canaria al chocar la moto en la que viajaba contra un puente",
+        "lemmatized_text": "uno mujer se precipitar por uno barranco en gran_canaria a el chocar el moto en el que viajar contra uno puente",
+        "lemmatized_text_reduced": "mujer precipitar barranco gran_canaria chocar moto viajar puente",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer se precipita por un barranco tras chocar la moto en la que viajaba contra un puente en Valsequillo cuando circulaba junto a un varón por la carretera Gran Canaria-41 , según ha informado el Centro Coordinador de Emergencias 112 (Cecoes 112).",
+        "lemmatized_text": "uno mujer se precipitar por uno barranco tras chocar el moto en el que viajar contra uno puente en valsequillo cuando circular junto_a uno varón por el carretera gran Canaria-41 según haber informar el centro_coordinador_de_emergencias 112 cecoes 112",
+        "lemmatized_text_reduced": "mujer precipitar barranco chocar moto viajar puente valsequillo circular varón carretera gran haber informar centro_coordinador_de_emergencias cecoes",
+        "persons": [],
+        "locations": [
+            "Valsequillo"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Gran"
+        ],
+        "dates": [],
+        "numbers": [
+            "Canaria-41",
+            "112",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Numerosos operativos acudieron hasta la zona denominada La Vega para sacar a la mujer del fondo del cauce después de que sobre las 18.33 se diese la voz de alerta del suceso. Así mientras que el compañero de 21 años sufrió golpes de carácter menos grave en la cara y el cuerpo; la muchacha sufrió policontusiones y precisó de la atención de servicios de emergencia para salir del barranco en camilla. Ambos han sido ingresados en el Hospital Insular de Gran Canaria en donde han quedado ingresados, según fuentes del Centro de Emergencias.",
+        "lemmatized_text": "numerosos operativo acudir hasta el zona denominar la_vega para sacar a el mujer de el fondo de el cauce después_de que sobre el 18.33 se dar el voz de alerta de el suceso así mientras_que el compañero de 21 año sufrir golpe de carácter menos grave en el cara y el cuerpo el muchacho sufrir policontusión y precisar de el atención de servicio de emergencia para salir de el barranco en camilla ambos haber ser ingresar en el hospital_insular_de_gran_canaria en donde haber quedar ingresar según fuente de el centro_de_emergencias",
+        "lemmatized_text_reduced": "numerosos operativo acudir zona denominar la_vega sacar mujer fondo cauce dar voz alerta suceso compañero año sufrir golpe carácter grave cara cuerpo muchacho sufrir policontusión precisar atención servicio emergencia salir barranco camilla haber ser ingresar hospital_insular_de_gran_canaria haber quedar ingresar fuente centro_de_emergencias",
+        "persons": [
+            "Numerosos"
+        ],
+        "locations": [
+            "La_Vega"
+        ],
+        "organizations": [
+            "Centro_de_Emergencias"
+        ],
+        "others": [
+            "Hospital_Insular_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "18.33",
+            "21"
+        ]
+    }
+}

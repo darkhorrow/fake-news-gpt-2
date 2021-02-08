@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950717/0/",
+    "title": {
+        "raw_text": "Un empujón a una azafata termina con el desalojo de un avión en el Aeropuerto de Lanzarote",
+        "lemmatized_text": "uno empujón a uno azafata terminar con el desalojo de uno avión en el aeropuerto_de_lanzarote",
+        "lemmatized_text_reduced": "empujón azafata terminar desalojo avión aeropuerto_de_lanzarote",
+        "persons": [],
+        "locations": [
+            "Aeropuerto_de_Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El supuesto empujón de un pasajero a una azafata ha derivado esta mañana en una pelea multitudinaria ocurrida en el interior de un avión de la compañía 'low cost' Ryanair en el Aeropuerto de Guacimeta, en Lanzarote, según han informado a Europa Press fuentes del Cuerpo Nacional de Policía (CNP).",
+        "lemmatized_text": "el suponer empujón de uno pasajero a uno azafata haber derivar este mañana en uno pelea multitudinario ocurrir en_el_interior_de uno avión de el compañía low cost ryanair en el aeropuerto_de_guacimeta en lanzarote según haber informar a europa_press fuente de el cuerpo_nacional_de_policía cnp",
+        "lemmatized_text_reduced": "suponer empujón pasajero azafata haber derivar mañana pelea multitudinario ocurrir avión compañía low cost ryanair aeropuerto_de_guacimeta lanzarote haber informar europa_press fuente cuerpo_nacional_de_policía cnp",
+        "persons": [],
+        "locations": [
+            "Aeropuerto_de_Guacimeta",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Ryanair",
+            "Europa_Press",
+            "Cuerpo_Nacional_de_Policía",
+            "CNP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El supuesto empujón de un pasajero a una azafata ha derivado esta mañana en una pelea multitudinaria ocurrida en el interior de un avión de la compañía 'low cost' Ryanair en el Aeropuerto de Guacimeta, en Lanzarote, según han informado a Europa Press fuentes del Cuerpo Nacional de Policía (CNP). El incidente se produjo poco antes de las 10.30 horas, cuando en el interior de un avión de Ryanair que se disponía a volar a Charleroi (Bruselas) un pasajero fue 'invitado' a bajarse del aparato tras empujar a un miembro de la tripulación. Ante su negativa, parte del pasaje se encaró con este sujeto, iniciándose así una pelea dentro de la aeronave. En consecuencia, el comandante del aparato solicitó la intervención de los Cuerpos y Fuerzas de Seguridad del Estado, que pusieron fin al incidente desalojando a una veintena de pasajeros. Pese a todo, el avión pudo tomar rumbo a Bruselas con el resto del pasaje. Según las fuentes consultadas, los pasajeros que fueron desalojados del avión por agentes de la Guardia Civil y de la Policía Nacional aún permanecen en la terminal del Aeropuerto de Guacimeta, donde están protestando por los hechos ocurridos.",
+        "lemmatized_text": "el suponer empujón de uno pasajero a uno azafata haber derivar este mañana en uno pelea multitudinario ocurrir en_el_interior_de uno avión de el compañía low cost ryanair en el aeropuerto_de_guacimeta en lanzarote según haber informar a europa_press fuente de el cuerpo_nacional_de_policía cnp el incidente se producir poco antes_de el TM_h:10.3 cuando en_el_interior_de uno avión de ryanair que se disponer a volar a charleroi bruselas uno pasajero ser invitar a bajar se de el aparato tras empujar a uno miembro de el tripulación ante su negativa parte de el pasaje se encarar con este sujeto iniciar se así uno pelea dentro_de el aeronave en_consecuencia el comandante de el aparato solicitar el intervención de el cuerpos y fuerzas_de_seguridad_del_estado que poner fin a el incidente desalojar a uno veintena de pasajero pese_a todo el avión poder tomar rumbo a bruselas con el resto de el pasaje según el fuente consultar el pasajero que ser desalojar de el avión por agente de el guardia_civil y de el policía_nacional aun permanecer en el terminal de el aeropuerto_de_guacimeta donde estar protestar por el hecho ocurrir",
+        "lemmatized_text_reduced": "suponer empujón pasajero azafata haber derivar mañana pelea multitudinario ocurrir avión compañía low cost ryanair aeropuerto_de_guacimeta lanzarote haber informar europa_press fuente cuerpo_nacional_de_policía cnp incidente producir avión ryanair disponer volar charleroi bruselas pasajero ser invitar bajar aparato empujar miembro tripulación negativa parte pasaje encarar sujeto iniciar pelea aeronave comandante aparato solicitar intervención cuerpos fuerzas_de_seguridad_del_estado poner fin incidente desalojar veintena pasajero avión poder tomar rumbo bruselas resto pasaje fuente consultar pasajero ser desalojar avión agente guardia_civil policía_nacional permanecer terminal aeropuerto_de_guacimeta estar protestar hecho ocurrir",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Aeropuerto_de_Guacimeta",
+            "Lanzarote",
+            "Charleroi",
+            "Bruselas",
+            "Bruselas",
+            "Aeropuerto_de_Guacimeta"
+        ],
+        "organizations": [
+            "Ryanair",
+            "Europa_Press",
+            "Cuerpo_Nacional_de_Policía",
+            "CNP",
+            "Cuerpos",
+            "Fuerzas_de_Seguridad_del_Estado",
+            "Guardia_Civil",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10.3"
+        ]
+    }
+}

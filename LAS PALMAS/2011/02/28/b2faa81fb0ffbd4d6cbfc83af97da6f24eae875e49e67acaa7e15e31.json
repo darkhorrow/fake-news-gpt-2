@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/973257/0/",
+    "title": {
+        "raw_text": "El gasto turístico crece en Canarias un 5,9% en enero, hasta los 879 millones",
+        "lemmatized_text": "el gasto turístico crecer en canarias uno 5,9/100 en [??:??/1/??:??.??:??] hasta el 879000000",
+        "lemmatized_text_reduced": "gasto turístico crecer canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "5,9/100",
+            "879000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El gasto turístico se ha incrementado en Canarias un 5,9 por ciento en enero hasta alcanzar los 879 millones de euros, convirtiéndose así en la primera comunidad receptora de gasto y la segunda en la que se produjo un mayor crecimiento en cuanto al dinero que dejan los visitantes en el archipiélago.",
+        "lemmatized_text": "el gasto turístico se haber incrementar en canarias uno 5,9 por 100 en [??:??/1/??:??.??:??] hasta alcanzar el $_ECU:879000000 convertir se así en el 1 comunidad receptor de gasto y el 2 en el que se producir uno mayor crecimiento en cuanto a el dinero que dejar el visitante en el archipiélago",
+        "lemmatized_text_reduced": "gasto turístico haber incrementar canarias alcanzar convertir 1 comunidad receptor gasto 2 producir mayor crecimiento dinero dejar visitante archipiélago",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "5,9",
+            "100",
+            "$_ECU:879000000"
+        ]
+    },
+    "body": {
+        "raw_text": "El gasto turístico se ha incrementado en Canarias un 5,9 por ciento en enero hasta alcanzar los 879 millones de euros, convirtiéndose así en la primera comunidad receptora de gasto y la segunda en la que se produjo un mayor crecimiento en cuanto al dinero que dejan los visitantes en el archipiélago. Así se desprende de los datos de la encuesta de Gasto Turístico (Egatur) elaborada por el Ministerio de Industria, Turismo y Comercio y dado a conocer este lunes. En el conjunto nacional, el gasto realizado por los turistas internacionales aumentó un 3 por ciento en enero, hasta 2.478 millones de euros, con respecto al mismo mes de 2010. No obstante, el gasto medio por turista se situó en 934 euros, lo que supone un descenso del 1,6 por ciento frente al mismo mes del año anterior, pese a ser el segundo mejor dato del gasto medio realizado por visitante en el primer mes del año desde que se tienen registros de Egatur (2004). Por su parte, el gasto medio diario cayó un 5,6 por ciento, hasta los 89 euros. ((Habrá ampliación))",
+        "lemmatized_text": "el gasto turístico se haber incrementar en canarias uno 5,9 por 100 en [??:??/1/??:??.??:??] hasta alcanzar el $_ECU:879000000 convertir se así en el 1 comunidad receptor de gasto y el 2 en el que se producir uno mayor crecimiento en cuanto a el dinero que dejar el visitante en el archipiélago así se desprender de el dato de el encuesta de gasto_turístico egatur elaborar por el ministerio_de_industria turismo y comercio y dar_a_conocer este [L:??/??/??:??.??:??] en el conjunto nacional el gasto realizar por el turista internacional aumentar uno 3 por 100 en [??:??/1/??:??.??:??] hasta $_ECU:2478000 con respecto a el mismo mes de 2010 no_obstante el gasto medio por turista se situar en $_ECU:934 el que suponer uno descenso de el 1,6 por 100 frente a el mismo mes de el año anterior pese_a ser el 2 mejor dato de el gasto medio realizar por visitante en el 1 mes de el año desde que se tener registro de egatur 2004 por su parte el gasto medio diario caer uno 5,6 por 100 hasta el $_ECU:89 haber ampliación",
+        "lemmatized_text_reduced": "gasto turístico haber incrementar canarias alcanzar convertir 1 comunidad receptor gasto 2 producir mayor crecimiento dinero dejar visitante archipiélago desprender dato encuesta gasto_turístico egatur elaborar ministerio_de_industria turismo comercio dar_a_conocer conjunto nacional gasto realizar turista internacional aumentar respecto mismo mes gasto medio turista situar suponer descenso frente mismo mes año anterior ser 2 mejor dato gasto medio realizar visitante 1 mes año tener registro egatur parte gasto medio diario caer haber ampliación",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Gasto_Turístico",
+            "Egatur",
+            "Egatur"
+        ],
+        "organizations": [
+            "Ministerio_de_Industria",
+            "Turismo",
+            "Comercio"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "5,9",
+            "100",
+            "$_ECU:879000000",
+            "3",
+            "100",
+            "$_ECU:2478000",
+            "2010",
+            "$_ECU:934",
+            "1,6",
+            "100",
+            "2004",
+            "5,6",
+            "100",
+            "$_ECU:89"
+        ]
+    }
+}

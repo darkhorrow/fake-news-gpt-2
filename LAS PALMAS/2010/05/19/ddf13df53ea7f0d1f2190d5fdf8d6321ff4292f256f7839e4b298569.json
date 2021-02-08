@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/711186/0/",
+    "title": {
+        "raw_text": "Una colisión entre varios vehículos provoca importantes retenciones en Gran Canaria",
+        "lemmatized_text": "uno colisión entre varios vehículo provocar importante retención en gran_canaria",
+        "lemmatized_text_reduced": "colisión vehículo provocar importante retención gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una colisión entre varios vehículos ha provocado importantes retenciones en la carretera GC-1, en dirección norte a la altura de la potabilizadora en Telde (Gran Canaria), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que precisaron que no se registraron afectados.",
+        "lemmatized_text": "uno colisión entre varios vehículo haber provocar importante retención en el carretera GC-1 en dirección norte a el altura de el potabilizadora en telde gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que precisar que no se registrar afectar",
+        "lemmatized_text_reduced": "colisión vehículo haber provocar importante retención carretera dirección norte altura potabilizadora telde gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes precisar registrar afectar",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-1",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 07.15 horas, cuando varias llamadas alertaron al Cecoes del choque entre \"tres o cuatro vehículos\". De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. En dicha actuación intervino la Guardia Civil, que se encargó de canalizar el tráfico. Asimismo, operarios del servicio de Mantenimiento de Carreteras del Cabildo procedieron a la limpieza de la vía. Igualmente, hasta el lugar se desplazó una ambulancia de soporte vital básico del Servicio de Urgencias Canario que acudió de forma preventiva, aunque no tuvo que asistir a ningún herido, según precisaron las mismas fuentes.",
+        "lemmatized_text": "el accidente se producir a el TM_h:7.15 cuando varios llamada alertar a el cecoes de el choque entre 3 o 4 vehículo de este modo el 112 activar de inmediato el dispositivo de emergencia necesario en decir actuación intervenir el guardia_civil que se encargar de canalizar el tráfico asimismo operario de el servicio de mantenimiento_de_carreteras_del_cabildo proceder a el limpieza de el vía igualmente hasta el lugar se desplazar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario que acudir de forma preventivo aunque no tener que asistir a ninguno herir según precisar el mismo fuente",
+        "lemmatized_text_reduced": "accidente producir llamada alertar cecoes choque vehículo modo activar inmediato dispositivo emergencia necesario decir actuación intervenir guardia_civil encargar canalizar tráfico operario servicio mantenimiento_de_carreteras_del_cabildo proceder limpieza vía igualmente lugar desplazar ambulancia soporte vital básico servicio_de_urgencias_canario acudir forma preventivo tener asistir herir precisar mismo fuente",
+        "persons": [
+            "Mantenimiento_de_Carreteras_del_Cabildo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Guardia_Civil",
+            "Servicio_de_Urgencias_Canario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.15",
+            "3",
+            "4",
+            "112"
+        ]
+    }
+}

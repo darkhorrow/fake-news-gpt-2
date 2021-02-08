@@ -1,0 +1,90 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/605740/0/",
+    "title": {
+        "raw_text": "Figueroa (PP) pide a la socialista Rosa Cabrera que diga cuánta inversión le corresponde a Fuerteventura del Gobierno",
+        "lemmatized_text": "figueroa pp pedir a el socialista rosa_cabrera que decir cuánto inversión le corresponder a fuerteventura_del_gobierno",
+        "lemmatized_text_reduced": "figueroa pp pedir socialista rosa_cabrera decir inversión corresponder fuerteventura_del_gobierno",
+        "persons": [
+            "Figueroa",
+            "Rosa_Cabrera"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Fuerteventura_del_Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El diputado Carlos Figueroa ha pedido a la socialista Rosa Bella Cabrera que diga cuánta inversión le corresponde a Fuerteventura y a Canarias en su conjunto del Gobierno central. \"Cuánta es la inversión propiamente dicha que corresponden a Fuerteventura y a Canarias, le vuelvo a preguntar --a Rosa Cabrera-- dónde está el Plan Canarias 2010-2020 pero, sobre todo, dónde están los 2.500 millones de euros que se iban a destinar este año al Plan Canarias\", cuestionó.",
+        "lemmatized_text": "el diputado carlos_figueroa haber pedir a el socialista rosa_bella_cabrera que decir cuánto inversión le corresponder a fuerteventura y a canarias en su conjunto de el gobierno central cuánto ser el inversión propiamente decir que corresponder a fuerteventura y a canarias le volver a preguntar a rosa_cabrera dónde estar el plan_canarias 2010-2020 pero sobre todo dónde estar el $_ECU:2500000 que se ir a destinar este año a el plan_canarias cuestionar",
+        "lemmatized_text_reduced": "diputado carlos_figueroa haber pedir socialista rosa_bella_cabrera decir inversión corresponder fuerteventura canarias conjunto gobierno central ser inversión propiamente decir corresponder fuerteventura canarias volver preguntar rosa_cabrera estar plan_canarias estar ir destinar año plan_canarias cuestionar",
+        "persons": [
+            "Carlos_Figueroa",
+            "Rosa_Bella_Cabrera",
+            "Rosa_Cabrera"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Gobierno",
+            "Fuerteventura"
+        ],
+        "others": [
+            "Plan_Canarias",
+            "Plan_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010-2020",
+            "$_ECU:2500000"
+        ]
+    },
+    "body": {
+        "raw_text": "Al respecto, Figueroa se preguntó \"dónde está compensada la deuda histórica del Estado con Canarias en sanidad y educación\". Añadió, en un comunicado, que la inversión del Gobierno central en el archipiélago para el 2010 \"está por debajo de la media nacional destinada a otros territorios\". En este sentido, cuestionó a la socialista por la partida presupuestaria para el nuevo Muelle Comercial de Fuerteventura en La Hondura, así como de las avenidas Marítimas del Charco, Playa Blanca, Puerto Lajas y la conexión con el barrio de Los Pozos en Puerto del Rosario, la prolongación de la Avenida Marítima de Gran Tarajal o de Corralejo en La Oliva, entre otros. Para el también secretario general del PP, \"el PSOE se está poniendo muy nervioso ante las próximas elecciones autonómicas y locales, puesto que los vecinos ya están viendo la mala gestión en Pájara, cuyo Ayuntamiento está apunto de entrar en quiebra técnica y con subida de impuestos como única fórmula de tapar los agujeros de su nefasta gestión\". Finalmente, aconsejó a Cabrera que se informe de las \"más de 10.000 personas inscritas en el paro en Fuerteventura\" para que compruebe de \"qué ha servido el tan famoso y publicitado Plan E, bueno sí, ha servido para que determinados alcaldes, incluido en su municipio, se dedicaran a hacer fuentes, quitar aceras para volver a ponerlas, para asfaltar sobre asfaltado, pero en cuanto a la creación de empleo nada de nada. Una tomadura de pelo más de Zapatero\".",
+        "lemmatized_text": "a el respecto figueroa se preguntar dónde estar compensar el deuda histórico de el estado con canarias en sanidad y educación añadir en uno comunicado que el inversión de el gobierno central en el archipiélago para el 2010 estar por debajo_de el media nacional destinar a otro territorio en este sentido cuestionar a el socialista por el partida presupuestario para el nuevo muelle_comercial_de_fuerteventura en la_hondura así_como de el avenida marítimas_del_charco playa_blanca puerto_lajas y el conexión con el barrio de los_pozos en puerto_del_rosario el prolongación de el avenida_marítima_de_gran_tarajal o de corralejo en la_oliva entre otro para el también secretario general de el pp el psoe se estar poner muy nervioso ante el próximo elección autonómico y local poner que el vecino ya estar ver el malo gestión en pájara cuyo ayuntamiento estar apuntar de entrar en quiebra técnico y con subida de impuesto como único fórmula de tapar el agujero de su nefasto gestión finalmente aconsejar a cabrera que se informar de el más de 10 persona inscribir en el paro en fuerteventura para que comprobar de qué haber servir el tan famoso y publicitar plan_e bueno sí haber servir para que determinar alcalde incluir en su municipio se dedicar a hacer fuente quitar acera para volver a poner lo para asfaltar sobre asfaltado pero en_cuanto_a el creación de empleo nada de nada uno tomadura de pelo más de zapatero",
+        "lemmatized_text_reduced": "respecto figueroa preguntar estar compensar deuda histórico estado canarias sanidad educación añadir comunicado inversión gobierno central archipiélago estar media nacional destinar territorio sentido cuestionar socialista partida presupuestario nuevo muelle_comercial_de_fuerteventura la_hondura avenida marítimas_del_charco playa_blanca puerto_lajas conexión barrio los_pozos puerto_del_rosario prolongación avenida_marítima_de_gran_tarajal corralejo la_oliva secretario general pp psoe estar poner nervioso próximo elección autonómico local poner vecino estar ver malo gestión pájara ayuntamiento estar apuntar entrar quiebra técnico subida impuesto único fórmula tapar agujero nefasto gestión finalmente aconsejar cabrera informar persona inscribir paro fuerteventura comprobar haber servir famoso publicitar plan_e bueno haber servir determinar alcalde incluir municipio dedicar hacer fuente quitar acera volver poner asfaltar asfaltado creación empleo tomadura pelo zapatero",
+        "persons": [
+            "Figueroa",
+            "Playa_Blanca",
+            "Puerto_Lajas",
+            "Cabrera",
+            "Zapatero"
+        ],
+        "locations": [
+            "Canarias",
+            "La_Hondura",
+            "Marítimas_del_Charco",
+            "Los_Pozos",
+            "Puerto_del_Rosario",
+            "Avenida_Marítima_de_Gran_Tarajal",
+            "Corralejo",
+            "La_Oliva",
+            "Pájara",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Estado",
+            "Gobierno",
+            "PP",
+            "PSOE",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Muelle_Comercial_de_Fuerteventura",
+            "Plan_E"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "10"
+        ]
+    }
+}

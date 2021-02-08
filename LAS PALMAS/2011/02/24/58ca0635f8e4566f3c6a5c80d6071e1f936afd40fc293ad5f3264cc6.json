@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/970721/0/",
+    "title": {
+        "raw_text": "El presidente de la UD Vecindario (Gran Canaria) detenido por la Guardia Civil",
+        "lemmatized_text": "el presidente de el ud_vecindario gran_canaria detener por el guardia_civil",
+        "lemmatized_text_reduced": "presidente ud_vecindario gran_canaria detener guardia_civil",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UD_Vecindario",
+            "Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de la UD Vecindario (Gran Canaria), Pablo Álvarez, ha sido detenido este jueves por agentes de la Guardia Civil, arresto motivado por una orden judicial, según informaron a Europa Press fuentes de la Benemérita.",
+        "lemmatized_text": "el presidente de el ud_vecindario gran_canaria pablo_álvarez haber ser detener este [J:??/??/??:??.??:??] por agente de el guardia_civil arresto motivar por uno orden judicial según informar a europa_press fuente de el benemérita",
+        "lemmatized_text_reduced": "presidente ud_vecindario gran_canaria pablo_álvarez haber ser detener agente guardia_civil arresto motivar orden judicial informar europa_press fuente benemérita",
+        "persons": [
+            "Pablo_Álvarez",
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "UD_Vecindario",
+            "Gran_Canaria",
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente de la UD Vecindario (Gran Canaria), Pablo Álvarez, ha sido detenido este jueves por agentes de la Guardia Civil, arresto motivado por una orden judicial, según informaron a Europa Press fuentes de la Benemérita. Álvarez ha estado en las dependencias de la Guardia Civil, y las mismas fuentes han precisado que todavía no se le ha imputado ningún delito al empresario. Asimismo, se desconoce a qué causas responden sus detención. De todos modos, los agentes de la Guardia Civil habrían llevado a cabo la detención de Álvarez, según avanzó Canarias Ahora y recogió Europa Press, en cumplimiento de una requisitoria de un juzgado de Puerto del Rosario (Fuerteventura), donde se prevé que preste declaración a primera hora de este viernes. El presidente de la UD Vecindario es también propietario de la mercantil MTI, dedicada a servicios de mantenimiento y limpieza.",
+        "lemmatized_text": "el presidente de el ud_vecindario gran_canaria pablo_álvarez haber ser detener este [J:??/??/??:??.??:??] por agente de el guardia_civil arresto motivar por uno orden judicial según informar a europa_press fuente de el benemérita álvarez haber estar en el dependencia de el guardia_civil y el mismo fuente haber precisar que todavía no se le haber imputar ninguno delito a el empresario asimismo se desconocer a qué causa responder su detención de_todos_modos el agente de el guardia_civil haber llevar_a_cabo el detención de álvarez según avanzar canarias_ahora y recoger europa_press en cumplimiento de uno requisitoria de uno juzgado de puerto_del_rosario fuerteventura donde se prever que prestar declaración a 1 hora de este [V:??/??/??:??.??:??] el presidente de el ud_vecindario ser también propietario de el mercantil mti dedicar a servicio de mantenimiento y limpieza",
+        "lemmatized_text_reduced": "presidente ud_vecindario gran_canaria pablo_álvarez haber ser detener agente guardia_civil arresto motivar orden judicial informar europa_press fuente benemérita álvarez haber estar dependencia guardia_civil mismo fuente haber precisar haber imputar delito empresario desconocer causa responder detención agente guardia_civil haber llevar_a_cabo detención álvarez avanzar canarias_ahora recoger europa_press cumplimiento requisitoria juzgado puerto_del_rosario fuerteventura prever prestar declaración 1 hora presidente ud_vecindario ser propietario mercantil mti dedicar servicio mantenimiento limpieza",
+        "persons": [
+            "Pablo_Álvarez",
+            "Europa_Press",
+            "Álvarez",
+            "Álvarez",
+            "Canarias_Ahora",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Puerto_del_Rosario",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "UD_Vecindario",
+            "Gran_Canaria",
+            "Guardia_Civil",
+            "Benemérita",
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "UD_Vecindario",
+            "MTI"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

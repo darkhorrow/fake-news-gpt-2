@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935040/0/",
+    "title": {
+        "raw_text": "Antonio Orozco saca la Tarjeta Roja al maltratador en Fuerteventura",
+        "lemmatized_text": "antonio_orozco sacar el tarjeta_roja a el maltratador en fuerteventura",
+        "lemmatized_text_reduced": "antonio_orozco sacar tarjeta_roja maltratador fuerteventura",
+        "persons": [
+            "Antonio_Orozco"
+        ],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [
+            "Tarjeta_Roja"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cantante Antonio Orozco se suma a la campaña del Ministerio de Sanidad, Política Social e Igualdad 'Saca la Tarjeta Roja al Maltratador'.",
+        "lemmatized_text": "el cantante antonio_orozco se sumar a el campaña de el ministerio_de_sanidad política_social y igualdad saca_la_tarjeta_roja a el maltratador",
+        "lemmatized_text_reduced": "cantante antonio_orozco sumar campaña ministerio_de_sanidad política_social igualdad saca_la_tarjeta_roja maltratador",
+        "persons": [
+            "Antonio_Orozco",
+            "Igualdad",
+            "Saca_la_Tarjeta_Roja"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ministerio_de_Sanidad",
+            "Maltratador"
+        ],
+        "others": [
+            "Política_Social"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El cantante Antonio Orozco se suma a la campaña del Ministerio de Sanidad, Política Social e Igualdad 'Saca la Tarjeta Roja al Maltratador'. Tras el concierto que pone fin a su gira 'Renovatio' celebrado, el pasado sábado, en el Auditorio de Puerto del Rosario, la jefa de la Unidad contra la Violencia sobre la Mujer en Fuerteventura, Carmen Algora, explicó al artista los fundamentos de la campaña y él se sumó inmediatamente, manifestando, así, su rechazo a la violencia de género y su apoyo a las mujeres que la sufren, según informó el referido Ministerio en un comunicado. El gesto de sacar la tarjeta roja pretende ser un movimiento social y que nace con la idea de generar una movilización de rechazo a la violencia de género para que cualquiera pueda unirse y decir 'no' a la violencia y SÍ a la convivencia en igualdad. \"Y así lo comprendieron y apoyaron\" tanto Ángeles Martínez, responsable de la producción del evento, como el propio Orozco, que recordó especialmente la figura del recientemente fallecido Enrique Morente, que formó parte de la campaña.",
+        "lemmatized_text": "el cantante antonio_orozco se sumar a el campaña de el ministerio_de_sanidad política_social y igualdad saca_la_tarjeta_roja a el maltratador tras el concierto que poner fin a su gira renovatio celebrar el [S:??/??/??:??.??:??] en el auditorio_de_puerto_del_rosario el jefe de el unidad contra el violencia sobre el mujer en fuerteventura carmen_algora explicar a el artista el fundamento de el campaña y él se sumar inmediatamente manifestar así su rechazo a el violencia de género y su apoyo a el mujer que lo sufrir según informar el referir ministerio en uno comunicado el gesto de sacar el tarjeta rojo pretender ser uno movimiento social y que nacer con el idea de generar uno movilización de rechazo a el violencia de género para que cualquiera poder unir se y decir no a el violencia y sí a el convivencia en igualdad y así lo comprender y apoyar tanto ángeles_martínez responsable de el producción de el evento como el propio orozco que recordar especialmente el figura de el recientemente fallecer enrique_morente que formar_parte de el campaña",
+        "lemmatized_text_reduced": "cantante antonio_orozco sumar campaña ministerio_de_sanidad política_social igualdad saca_la_tarjeta_roja maltratador concierto poner fin gira renovatio celebrar auditorio_de_puerto_del_rosario jefe unidad violencia mujer fuerteventura carmen_algora explicar artista fundamento campaña sumar inmediatamente manifestar rechazo violencia género apoyo mujer sufrir informar referir ministerio comunicado gesto sacar tarjeta rojo pretender ser movimiento social nacer idea generar movilización rechazo violencia género poder unir decir violencia sí convivencia igualdad comprender apoyar ángeles_martínez responsable producción evento propio orozco recordar especialmente figura recientemente fallecer enrique_morente formar_parte campaña",
+        "persons": [
+            "Antonio_Orozco",
+            "Igualdad",
+            "Saca_la_Tarjeta_Roja",
+            "Mujer",
+            "Carmen_Algora",
+            "Ángeles_Martínez",
+            "Orozco",
+            "Enrique_Morente"
+        ],
+        "locations": [
+            "Auditorio_de_Puerto_del_Rosario",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Ministerio_de_Sanidad",
+            "Maltratador",
+            "Unidad",
+            "Violencia",
+            "Ministerio",
+            "SÍ"
+        ],
+        "others": [
+            "Política_Social",
+            "Renovatio"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

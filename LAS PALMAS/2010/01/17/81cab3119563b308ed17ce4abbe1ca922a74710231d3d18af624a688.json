@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/608263/0/",
+    "title": {
+        "raw_text": "El incendio en una vivienda de Gáldar (Gran Canaria) se salda con dos personas intoxicadas por el humo",
+        "lemmatized_text": "el incendio en uno vivienda de gáldar gran_canaria se saldar con 2 persona intoxicar por el humo",
+        "lemmatized_text_reduced": "incendio vivienda gáldar gran_canaria saldar persona intoxicar humo",
+        "persons": [],
+        "locations": [
+            "Gáldar"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos personas, un hombre de 39 años y una mujer de 40 años de edad, resultaron heridas ayer por intoxicación de humo al originarse un incendio en su vivienda unifamiliar de Gáldar, en Gran Canaria, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "2 persona uno hombre de 39 año y uno mujer de 40 año de edad resultar herir ayer por intoxicación de humo a el originar se uno incendio en su vivienda unifamiliar de gáldar en gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "persona hombre año mujer año edad resultar herir intoxicación humo originar incendio vivienda unifamiliar gáldar gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "39",
+            "40",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 22.03 horas indicando de la existencia de un fuego en un domicilio de la calle Delgado del citado municipio. Por ello, el 112 activó a un dispositivo formado por los efectivos del Servicio de Urgencias Canario (SUC), los bomberos del Consorcio de Emergencias de Gran Canaria, Policía Local y Guardia Civil. Una vez en el lugar, el SUC asistió in situ a los dos afectados que presentaban problemas respiratorios al haberse intoxicado con el humo. Por su parte, los bomberos se encargaron de sofocar las llamas y ventilar el inmueble. Asimismo, otras dos personas resultaron heridas ayer por la tarde tras protagonizar una caída en moto en la GC-500 a la altura de Temisas, en el municipio grancanario de Agüimes. El Cecoes activó al SUC, que acudió al lugar para asistir a los dos afectados entre los que se encontraba una mujer que presentaba traumatismo en la espalda de carácter grave, por lo que fue trasladada en ambulancia de soporte vital avanzado hasta el Hospital Insular de la capital. En este incidente también se vio implicado un varón con traumatismo leve que fue trasladado por el personal del SUC hasta el Centro de Salud del Doctoral, mientras que agentes de la Guardia Civil se encargaron de instruir las diligencias oportunas.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:22.03 indicar de el existencia de uno fuego en uno domicilio de el calle delgado de el citar municipio por ello el 112 activar a uno dispositivo formar por el efectivo de el servicio_de_urgencias_canario suc el bombero de el consorcio_de_emergencias_de_gran_canaria policía_local y guardia_civil uno vez en el lugar el suc asistir in_situ a el 2 afectado que presentar problema respiratorio a el haber se intoxicar con el humo por su parte el bombero se encargar de sofocar el llama y ventilar el inmueble asimismo otro 2 persona resultar herir ayer por el tarde tras protagonizar uno caída en moto en el GC-500 a el altura de temisas en el municipio grancanario de agüimes el cecoes activar a el suc que acudir a el lugar para asistir a el 2 afectado entre el que se encontrar uno mujer que presentar traumatismo en el espalda de carácter grave por el que ser trasladar en ambulancia de soporte vital avanzar hasta el hospital_insular de el capital en este incidente también se ver implicar uno varón con traumatismo leve que ser trasladar por el personal de el suc hasta el centro_de_salud_del_doctoral mientras_que agente de el guardia_civil se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar existencia fuego domicilio calle delgado citar municipio activar dispositivo formar efectivo servicio_de_urgencias_canario suc bombero consorcio_de_emergencias_de_gran_canaria policía_local guardia_civil vez lugar suc asistir afectado presentar problema respiratorio haber intoxicar humo parte bombero encargar sofocar llama ventilar inmueble persona resultar herir tarde protagonizar caída moto altura temisas municipio grancanario agüimes cecoes activar suc acudir lugar asistir afectado encontrar mujer presentar traumatismo espalda carácter grave ser trasladar ambulancia soporte vital avanzar hospital_insular capital incidente ver implicar varón traumatismo leve ser trasladar personal suc centro_de_salud_del_doctoral agente guardia_civil encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Delgado",
+            "Temisas",
+            "Agüimes",
+            "Hospital_Insular"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Guardia_Civil",
+            "SUC",
+            "Cecoes",
+            "SUC",
+            "SUC",
+            "Centro_de_Salud_del_Doctoral",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:22.03",
+            "112",
+            "2",
+            "2",
+            "GC-500",
+            "2"
+        ]
+    }
+}

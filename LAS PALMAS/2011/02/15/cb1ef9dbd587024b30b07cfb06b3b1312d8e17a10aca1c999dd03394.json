@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/959996/0/",
+    "title": {
+        "raw_text": "El Carnaval de Las Palmas de Gran Canaria pone a la venta este miércoles las entradas para la Gala Drag Queen",
+        "lemmatized_text": "el carnaval_de_las_palmas_de_gran_canaria poner a el venta este [X:??/??/??:??.??:??] el entrada para el gala_drag_queen",
+        "lemmatized_text_reduced": "carnaval_de_las_palmas_de_gran_canaria poner venta entrada gala_drag_queen",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Carnaval_de_Las_Palmas_de_Gran_Canaria",
+            "Gala_Drag_Queen"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las entradas para asistir a la gala Drag Queen del Carnaval de Las Palmas de Gran Canaria, que tendrá lugar este viernes, 4 de marzo) estarán disponibles desde mañana miércoles 16 de febrero, a partir de las 08.30 horas, recogiendo de esta manera desde el Ayuntamiento la petición del público y en aras de un mejor servicio.",
+        "lemmatized_text": "el entrada para asistir a el gala drag_queen_del_carnaval_de_las_palmas_de_gran_canaria que tener_lugar este [V:4/3/??:??.??:??] estar disponible desde mañana [X:16/2/??:??.??:??] a_partir_de el TM_h:8.3 recoger de este manera desde el ayuntamiento el petición de el público y en_aras_de uno mejor servicio",
+        "lemmatized_text_reduced": "entrada asistir gala drag_queen_del_carnaval_de_las_palmas_de_gran_canaria tener_lugar estar disponible recoger manera ayuntamiento petición público mejor servicio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Drag_Queen_del_Carnaval_de_Las_Palmas_de_Gran_Canaria",
+            "Ayuntamiento"
+        ],
+        "others": [],
+        "dates": [
+            "[V:4/3/??:??.??:??]",
+            "[X:16/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:8.3"
+        ]
+    },
+    "body": {
+        "raw_text": "Las entradas para asistir a la gala Drag Queen del Carnaval de Las Palmas de Gran Canaria, que tendrá lugar este viernes, 4 de marzo) estarán disponibles desde mañana miércoles 16 de febrero, a partir de las 08.30 horas, recogiendo de esta manera desde el Ayuntamiento la petición del público y en aras de un mejor servicio. En un comunicado, el Consistorio capitalino explicó que los puntos de venta son el servicio telefónico de La Caja de Canarias (902 405 504), la página www.cajatique.com, los cajeros de venta de la red de La Caja de Canarias y en la taquilla ubicada junto al punto de información turística del Parque de Santa Catalina (de lunes a viernes, de 10.00 a 13.00 y de 16.00 a 19.00 horas; y sábados y domingos, de 10.00 a 13.00 horas). El precio único de venta es de 10 euros, como en el caso de la Reina; mientras que para la preselección, el precio es de 5 euros. Sólo se podrá adquirir un máximo de cuatro entradas por persona. Por otra parte, las entradas para asistir a la gala de la Reina del Carnaval de Las Palmas de Gran Canaria (viernes 25 de febrero) y a la preselección Drag Queen (miércoles 2 de marzo) siguen a la venta en los mismos puntos, aunque para éste último evento sólo quedan disponibles las últimas localidades.",
+        "lemmatized_text": "el entrada para asistir a el gala drag_queen_del_carnaval_de_las_palmas_de_gran_canaria que tener_lugar este [V:4/3/??:??.??:??] estar disponible desde mañana [X:16/2/??:??.??:??] a_partir_de el TM_h:8.3 recoger de este manera desde el ayuntamiento el petición de el público y en_aras_de uno mejor servicio en uno comunicado el consistorio capitalino explicar que el punto de venta ser el servicio telefónico de la_caja_de_canarias 902 405 504 el página www.cajatique.com el cajero de venta de el red de la_caja_de_canarias y en el taquilla ubicar junto a el punto de información turístico de el parque_de_santa_catalina de [L:??/??/??:??.??:??] a [V:??/??/??:??.??:??] de 10 a 13 y de 16 a TM_h:19 y sábado y domingo de 10 a TM_h:13 el precio único de venta ser de $_ECU:10 como en el caso de el reina mientras_que para el preselección el precio ser de $_ECU:5 sólo se poder adquirir uno máximo de 4 entrada por persona por otro parte el entrada para asistir a el gala de el reina_del_carnaval_de_las_palmas_de_gran_canaria [V:25/2/??:??.??:??] y a el preselección drag_queen [X:2/3/??:??.??:??] seguir a el venta en el mismo punto aunque para este último evento sólo quedar disponible el último localidad",
+        "lemmatized_text_reduced": "entrada asistir gala drag_queen_del_carnaval_de_las_palmas_de_gran_canaria tener_lugar estar disponible recoger manera ayuntamiento petición público mejor servicio comunicado consistorio capitalino explicar punto venta ser servicio telefónico la_caja_de_canarias página www.cajatique.com cajero venta red la_caja_de_canarias taquilla ubicar junto punto información turístico parque_de_santa_catalina sábado domingo precio único venta ser caso reina preselección precio ser poder adquirir máximo entrada persona parte entrada asistir gala reina_del_carnaval_de_las_palmas_de_gran_canaria preselección drag_queen seguir venta mismo punto último evento quedar disponible último localidad",
+        "persons": [
+            "Reina",
+            "Drag_Queen"
+        ],
+        "locations": [
+            "Parque_de_Santa_Catalina"
+        ],
+        "organizations": [
+            "Drag_Queen_del_Carnaval_de_Las_Palmas_de_Gran_Canaria",
+            "Ayuntamiento",
+            "Consistorio",
+            "La_Caja_de_Canarias",
+            "La_Caja_de_Canarias",
+            "Reina_del_Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[V:4/3/??:??.??:??]",
+            "[X:16/2/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[V:25/2/??:??.??:??]",
+            "[X:2/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:8.3",
+            "902",
+            "405",
+            "504",
+            "10",
+            "13",
+            "16",
+            "TM_h:19",
+            "10",
+            "TM_h:13",
+            "$_ECU:10",
+            "$_ECU:5",
+            "4"
+        ]
+    }
+}

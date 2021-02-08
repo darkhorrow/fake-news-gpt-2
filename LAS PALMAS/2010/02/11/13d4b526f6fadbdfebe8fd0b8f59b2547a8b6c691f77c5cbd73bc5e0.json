@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/626823/0/",
+    "title": {
+        "raw_text": "Tres de cada cuatro europeos desconoce todavía la existencia del teléfono de emergencias 1-1-2 tras 20 años funcionando",
+        "lemmatized_text": "3/4 europeo desconocer todavía el existencia de el teléfono de emergencia 1-1-2 tras 20 año funcionar",
+        "lemmatized_text_reduced": "europeo desconocer existencia teléfono emergencia año funcionar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3/4",
+            "1-1-2",
+            "20"
+        ]
+    },
+    "lead": {
+        "raw_text": "Tres de cada cuatro ciudadanos europeos desconoce \"todavía\" la existencia del teléfono 1-1-2 tras casi veinte años en funcionamiento, desde que Europa recomendó en 1991 a todos los estados miembros la creación de un número único de emergencias.",
+        "lemmatized_text": "3/4 ciudadano europeo desconocer todavía el existencia de el teléfono 1-1-2 tras casi 20 año en funcionamiento desde que europa recomendar en 1991 a todo el estado miembro el creación de uno número único de emergencia",
+        "lemmatized_text_reduced": "ciudadano europeo desconocer existencia teléfono año funcionamiento europa recomendar estado miembro creación número único emergencia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Europa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3/4",
+            "1-1-2",
+            "20",
+            "1991"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo manifestó hoy la vicepresidenta del Parlamento europeo, Diana Wallis, en una video emitido durante la celebración del Día Europeo del 112 en Las Palmas de Gran Canaria, primera sede española para la conmemoración oficial de este acto, al que han asistido representantes de los 1-1-2 nacionales y de Europa y del 9-1-1 de Estados Unidos, en un encuentro presidido por el presidente canario, Paulino Rivero. Wallis destacó la importancia de estos \"tres números mágicos\" que permiten la coordinación de los servicios de emergencias y seguridad en una \"iniciativa única en Europa, que está disponible las 24 horas del día y los 365 días del año de forma gratuita\". (Habrá ampliación)",
+        "lemmatized_text": "así lo manifestar hoy el vicepresidente de el parlamento europeo diana_wallis en uno video emitir durante el celebración de el día_europeo de el 112 en las_palmas_de_gran_canaria 1 sede español para el conmemoración oficial de este acto a el que haber asistir representante de el 1-1-2 nacional y de europa y de el 9-1-1 de estados_unidos en uno encuentro presidir por el presidente canario paulino_rivero wallis destacar el importancia de este 3 número mágico que permitir el coordinación de el servicio de emergencia y seguridad en uno iniciativa único en europa que estar disponible el TM_h:24 de el día y el TM_d:365 de el año de forma gratuito haber ampliación",
+        "lemmatized_text_reduced": "manifestar vicepresidente parlamento europeo diana_wallis video emitir celebración día_europeo las_palmas_de_gran_canaria 1 sede español conmemoración oficial acto haber asistir representante nacional europa estados_unidos encuentro presidir presidente canario paulino_rivero wallis destacar importancia número mágico permitir coordinación servicio emergencia seguridad iniciativa único europa estar disponible día año forma gratuito haber ampliación",
+        "persons": [
+            "Diana_Wallis",
+            "Paulino_Rivero",
+            "Wallis"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Europa"
+        ],
+        "organizations": [
+            "Parlamento",
+            "Día_Europeo",
+            "Europa",
+            "Estados_Unidos"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "1-1-2",
+            "9-1-1",
+            "3",
+            "TM_h:24",
+            "TM_d:365"
+        ]
+    }
+}

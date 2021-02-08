@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950951/0/",
+    "title": {
+        "raw_text": "Ryanair aclara que el desalojo de un avión en Lanzarote se debió a un altercado provocado por cien estudiantes",
+        "lemmatized_text": "ryanair aclarar que el desalojo de uno avión en lanzarote se deber a uno altercado provocar por 100 estudiante",
+        "lemmatized_text_reduced": "ryanair aclarar desalojo avión lanzarote deber altercado provocar estudiante",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100"
+        ]
+    },
+    "lead": {
+        "raw_text": "La compañía 'low cost' Ryanair ha aclarado en un comunicado colgado en su web los hechos ocurridos este sábado en el aeropuerto de Guacimeta, en Lanzarote, donde un supuesto empujón a una azafata provocó que parte del pasaje fuera desalojado de un avión que debía volar hacia las 10.30 horas a Charleroi, en Bruselas.",
+        "lemmatized_text": "el compañía low cost ryanair haber aclarar en uno comunicado colgar en su web el hecho ocurrir este [S:??/??/??:??.??:??] en el aeropuerto de guacimeta en lanzarote donde uno suponer empujón a uno azafata provocar que parte de el pasaje ser desalojar de uno avión que deber volar hacia el TM_h:10.3 a charleroi en bruselas",
+        "lemmatized_text_reduced": "compañía low cost ryanair haber aclarar comunicado colgar web hecho ocurrir aeropuerto guacimeta lanzarote suponer empujón azafata provocar parte pasaje ser desalojar avión deber volar charleroi bruselas",
+        "persons": [],
+        "locations": [
+            "Guacimeta",
+            "Lanzarote",
+            "Charleroi",
+            "Bruselas"
+        ],
+        "organizations": [
+            "Ryanair"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:10.3"
+        ]
+    },
+    "body": {
+        "raw_text": "La compañía 'low cost' Ryanair ha aclarado en un comunicado colgado en su web los hechos ocurridos este sábado en el aeropuerto de Guacimeta, en Lanzarote, donde un supuesto empujón a una azafata provocó que parte del pasaje fuera desalojado de un avión que debía volar hacia las 10.30 horas a Charleroi, en Bruselas. Según el comunicado consultado por Europa Press, un grupo de cien estudiantes belgas fueron desalojados del aparato por miembros de la Guardia Civil y del Cuerpo Nacional de Policía, tras provocar un altercado en el interior del avión. Tal y como ha aclarado la aerolínea, la negativa de algunos de estos estudiantes a pagar por el exceso de equipaje fue el desencadenante de este incidente. Ryanair ha asegurado que, como consecuencia de la mala conducta de los estudiantes, los agentes impidieron volar al grupo de estudiantes por razones de seguridad, siendo desalojado del aparato. La compañía ha querido pedir disculpas a los 66 pasajeros que tuvieron que padecer las 3 horas de retraso causadas por este percance. Asimismo, miembros de la aerolínea colocaron a algunos de los estudiantes en otros vuelos para que pudieran viajar a Charleroi, exceptuando a aquellos que provocaron el incidente, a los que se les ha prohibido volar en vuelos de la compañía.",
+        "lemmatized_text": "el compañía low cost ryanair haber aclarar en uno comunicado colgar en su web el hecho ocurrir este [S:??/??/??:??.??:??] en el aeropuerto de guacimeta en lanzarote donde uno suponer empujón a uno azafata provocar que parte de el pasaje ser desalojar de uno avión que deber volar hacia el TM_h:10.3 a charleroi en bruselas según el comunicado consultar por europa_press uno grupo de 100 estudiante belga ser desalojar de el aparato por miembro de el guardia_civil y de el cuerpo_nacional_de_policía tras provocar uno altercado en el interior de el avión tal_y_como haber aclarar el aerolínea el negativa de alguno de este estudiante a pagar por el exceso de equipaje ser el desencadenante de este incidente ryanair haber asegurar que como consecuencia de el malo conducta de el estudiante el agente impedir volar a el grupo de estudiante por razón de seguridad ser desalojar de el aparato el compañía haber querer pedir disculpa a el 66 pasajero que tener que padecer el TM_h:3 de retraso causar por este percance asimismo miembro de el aerolínea colocar a alguno de el estudiante en otro vuelo para que poder viajar a charleroi exceptuar a aquel que provocar el incidente a el que se le haber prohibir volar en vuelo de el compañía",
+        "lemmatized_text_reduced": "compañía low cost ryanair haber aclarar comunicado colgar web hecho ocurrir aeropuerto guacimeta lanzarote suponer empujón azafata provocar parte pasaje ser desalojar avión deber volar charleroi bruselas comunicado consultar europa_press grupo estudiante belga ser desalojar aparato miembro guardia_civil cuerpo_nacional_de_policía provocar altercado interior avión haber aclarar aerolínea negativa estudiante pagar exceso equipaje ser desencadenante incidente ryanair haber asegurar consecuencia malo conducta estudiante agente impedir volar grupo estudiante razón seguridad ser desalojar aparato compañía haber querer pedir disculpa pasajero tener padecer retraso causar percance miembro aerolínea colocar estudiante vuelo poder viajar charleroi exceptuar provocar incidente haber prohibir volar vuelo compañía",
+        "persons": [
+            "Europa_Press",
+            "Ryanair"
+        ],
+        "locations": [
+            "Guacimeta",
+            "Lanzarote",
+            "Charleroi",
+            "Bruselas",
+            "Charleroi"
+        ],
+        "organizations": [
+            "Ryanair",
+            "Guardia_Civil",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:10.3",
+            "100",
+            "66",
+            "TM_h:3"
+        ]
+    }
+}

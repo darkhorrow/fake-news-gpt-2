@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/682325/0/",
+    "title": {
+        "raw_text": "El presidente canario promete \"escuchar\" a alumnos de un Instituto de Gáldar en huelga indefinida",
+        "lemmatized_text": "el presidente canario prometer escuchar a alumno de uno instituto_de_gáldar en huelga indefinido",
+        "lemmatized_text_reduced": "presidente canario prometer escuchar alumno instituto_de_gáldar huelga indefinido",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Instituto_de_Gáldar"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, se comprometió hoy a \"escuchar\" a los alumnos del Ciclo Medio de Técnico en Gestión Administrativa del IES Roque Amagro, en Gáldar (Gran Canaria), en huelga indefinida tras la pretensión del Ejecutivo regional de suprimir dicho ciclo a partir de este año.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero se comprometer hoy a escuchar a el alumno de el ciclo_medio_de_técnico en gestión_administrativa_del_ies_roque_amagro en gáldar gran_canaria en huelga indefinido tras el pretensión de el ejecutivo regional de suprimir decir ciclo a_partir_de este año",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero comprometer escuchar alumno ciclo_medio_de_técnico gestión_administrativa_del_ies_roque_amagro gáldar gran_canaria huelga indefinido pretensión ejecutivo regional suprimir decir ciclo año",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Gestión_Administrativa_del_IES_Roque_Amagro",
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ciclo_Medio_de_Técnico",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En declaraciones a los medios tras visitar las obras de la carretera del norte de Gran Canaria, el jefe del Ejecutivo autonómico advirtió de que, sin embargo, la administración trabaja \"en la reformulación de la FP y tiene que ver con la oferta de los distintos cursos y ciclos con aquellas profesiones que en estos momentos tienen posibilidades de ofrecer puestos de trabajo el día de mañana\". \"En este caso les vamos a escuchar\", indicó Rivero, quien añadió que dichos ciclos son \"los que más se demandan en Canarias pero lamentablemente para los que hacen estos ciclos luego no tienen trabajo\". \"No hay oportunidades y hay que reconvertir y hay que adaptar los ciclos a las oportunidades del mercado\", remarcó.",
+        "lemmatized_text": "en declaración a el medio tras visitar el obra de el carretera de el norte de gran_canaria el jefe de el ejecutivo autonómico advertir de que sin embargo el administración trabajar en el reformulación de el fp y tener que ver con el oferta de el distinto curso y ciclo con aquel profesión que en este momento tener posibilidad de ofrecer puesto de trabajo el día de mañana en este caso le ir a escuchar indicar rivero quien añadir que decir ciclo ser el que más se demandar en canarias pero lamentablemente para el que hacer este ciclo luego no tener trabajo no haber oportunidad y haber que reconvertir y haber que adaptar el ciclo a el oportunidad de el mercado remarcar",
+        "lemmatized_text_reduced": "declaración medio visitar obra carretera norte gran_canaria jefe ejecutivo autonómico advertir embargo administración trabajar reformulación fp tener ver oferta distinto curso ciclo profesión momento tener posibilidad ofrecer puesto trabajo día mañana caso ir escuchar indicar rivero añadir decir ciclo ser demandar canarias lamentablemente hacer ciclo tener trabajo haber oportunidad haber reconvertir haber adaptar ciclo oportunidad mercado remarcar",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Canarias"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "FP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

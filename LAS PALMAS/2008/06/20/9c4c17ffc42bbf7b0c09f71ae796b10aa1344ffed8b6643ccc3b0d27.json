@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-06-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/391609/0/cayuco/inmigrantes/canarias/",
+    "title": {
+        "raw_text": "Arriba un cayuco con 70 inmigrantes a Gran Canaria y evacuan a uno al hospital",
+        "lemmatized_text": "arriba uno cayuco con 70 inmigrante a gran_canaria y evacuan a uno a el hospital",
+        "lemmatized_text_reduced": "cayuco inmigrante gran_canaria evacuan hospital",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70"
+        ]
+    },
+    "lead": {
+        "raw_text": "Presentaba un traumatismo en una mano. El resto tenían buen estado de salud. Fueron avistados cuando estaban a una milla de la costa. Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "presentar uno traumatismo en uno mano el resto tener bueno estado de salud ser avistar cuando estar a uno milla de el costa poder ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "presentar traumatismo mano resto tener bueno estado salud ser avistar estar milla costa poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un cayuco con 70 inmigrantes subsaharianos a bordo arribó esta tarde al sur de Gran Canaria, donde uno de sus ocupantes tuvo que ser evacuado al Hospital Insular para recibir atención médica al presentar un traumatismo en una mano . El muelle de Arguineguín, en el municipio turístico de Mogán, fue el lugar de desembarco de los ocupantes del cayuco, que fueron avistados cuando apenas se hallaban ya a una milla de distancia de la costa en torno a las seis de la tarde, informaron fuentes del Centro Coordinador de Emergencias y Seguridad regional 112. El resto de los inmigrantes, todos varones y adultos, según los primeros datos, presentaba buen estado de salud , por lo que quedó, en principio, bajo custodia de la Guardia Civil, que supervisó su bajada a tierra, agregaron las fuentes.",
+        "lemmatized_text": "uno cayuco con 70 inmigrante subsahariano a_bordo arribar este tarde a el sur de gran_canaria donde uno de su ocupante tener que ser evacuar a el hospital_insular para recibir atención médico a el presentar uno traumatismo en uno mano el muelle de arguineguín en el municipio turístico de mogán ser el lugar de desembarco de el ocupante de el cayuco que ser avistar cuando apenas se hallar ya a uno milla de distancia de el costa en_torno_a el [??:??/??/??:6.00:pm] informar fuente de el centro_coordinador_de_emergencias y seguridad regional 112 el resto de el inmigrante todo varón y adulto según el 1 dato presentar bueno estado de salud por el que quedar en principio bajo custodia de el guardia_civil que supervisar su bajada a tierra agregar el fuente",
+        "lemmatized_text_reduced": "cayuco inmigrante subsahariano arribar tarde sur gran_canaria ocupante tener ser evacuar hospital_insular recibir atención médico presentar traumatismo mano muelle arguineguín municipio turístico mogán ser lugar desembarco ocupante cayuco ser avistar hallar milla distancia costa informar fuente centro_coordinador_de_emergencias seguridad regional resto inmigrante varón adulto 1 dato presentar bueno estado salud quedar principio custodia guardia_civil supervisar bajada tierra agregar fuente",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "Hospital_Insular",
+            "Centro_Coordinador_de_Emergencias",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:6.00:pm]"
+        ],
+        "numbers": [
+            "70",
+            "112"
+        ]
+    }
+}

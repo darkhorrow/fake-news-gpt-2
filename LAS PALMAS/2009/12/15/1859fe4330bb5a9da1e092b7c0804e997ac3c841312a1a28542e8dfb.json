@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/588955/0/",
+    "title": {
+        "raw_text": "Un varón de 30 años resulta herido grave tras colisionar una moto y un coche en Mogán (Gran Canaria)",
+        "lemmatized_text": "uno varón de 30 año resultar herir grave tras colisionar uno moto y uno coche en mogán gran_canaria",
+        "lemmatized_text_reduced": "varón año resultar herir grave colisionar moto coche mogán gran_canaria",
+        "persons": [],
+        "locations": [
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 30 años de edad ha resultado herido con traumatismo abdominal y torácico de carácter grave tras colisionar una moto y un vehículo en la carretera GC-500, a la altura de la playa de Triana, en el barrio de El Pajar en Arguineguín, en el municipio grancanario de Mogán, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 30 año de edad haber resultar herir con traumatismo abdominal y torácico de carácter grave tras colisionar uno moto y uno vehículo en el carretera GC-500 a el altura de el playa de triana en el barrio de el_pajar en arguineguín en el municipio grancanario de mogán según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber resultar herir traumatismo abdominal torácico carácter grave colisionar moto vehículo carretera altura playa triana barrio el_pajar arguineguín municipio grancanario mogán informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Triana",
+            "El_Pajar",
+            "Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "30",
+            "GC-500",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 17.47 horas, cuando el Cecoes recibió varias llamadas que comunicaban que una moto y un vehículo habían sufrido una colisión y que, como consecuencia del accidente, el motorista precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. El personal del Servicio de Urgencias Canario asistió y estabilizó al accidentado para trasladarlo en una ambulancia medicalizada al Hospital Universitario Insular de Gran Canaria. En dicha actuación también intervino la Guardia Civil, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:17.47 cuando el cecoes recibir varios llamada que comunicar que uno moto y uno vehículo haber sufrir uno colisión y que como consecuencia de el accidente el motorista precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario el personal de el servicio_de_urgencias_canario asistir y estabilizar a el accidentado para trasladar lo en uno ambulancia medicalizada a el hospital_universitario_insular_de_gran_canaria en decir actuación también intervenir el guardia_civil que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir cecoes recibir llamada comunicar moto vehículo haber sufrir colisión consecuencia accidente motorista precisar asistencia sanitario modo activar inmediato recurso emergencia necesario personal servicio_de_urgencias_canario asistir estabilizar accidentado trasladar ambulancia medicalizada hospital_universitario_insular_de_gran_canaria decir actuación intervenir guardia_civil encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.47",
+            "112"
+        ]
+    }
+}

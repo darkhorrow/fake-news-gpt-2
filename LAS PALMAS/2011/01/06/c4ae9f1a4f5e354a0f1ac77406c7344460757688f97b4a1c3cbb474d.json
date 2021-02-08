@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/921501/0/",
+    "title": {
+        "raw_text": "El segundo premio de 'El Niño' se ha vendido en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el 2 premio de el niño se haber vender en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "2 premio niño haber vender las_palmas_de_gran_canaria",
+        "persons": [
+            "Niño"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El segundo premio de 'El Niño' ha caído de manera dispersa en varias administraciones, dejando sin embargo algunos de sus décimos en la capital de Gran Canaria.",
+        "lemmatized_text": "el 2 premio de el niño haber caer de manera disperso en varios administración dejar sin embargo alguno de su décimo en el capital de gran_canaria",
+        "lemmatized_text_reduced": "2 premio niño haber caer manera disperso administración dejar embargo décimo capital gran_canaria",
+        "persons": [
+            "Niño"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El segundo premio de 'El Niño' ha caído de manera dispersa en varias administraciones, dejando sin embargo algunos de sus décimos en la capital de Gran Canaria. Se trata del número 11.833, dotado con un millón de euros por serie, que ha sido vendido también en La Coruña, Pontevedra, Burgos, San Fernando (Cádiz), Las Palmas de Gran Canaria y Valencia. Por su parte, el primer premio ha esquivado Galicia, ya que el número 70.013, dotado con 2 millones de euros por serie, ha sido vendido íntegramente en Madrid. ( Habrá ampliación )",
+        "lemmatized_text": "el 2 premio de el niño haber caer de manera disperso en varios administración dejar sin embargo alguno de su décimo en el capital de gran_canaria se tratar de el número 11.833 dotar con $_ECU:1000000 por serie que haber ser vender también en la_coruña pontevedra burgos san_fernando cádiz las_palmas_de_gran_canaria y valencia por su parte el 1 premio haber esquivar galicia ya_que el número 70.013 dotar con $_ECU:2000000 por serie haber ser vender íntegramente en madrid haber ampliación",
+        "lemmatized_text_reduced": "2 premio niño haber caer manera disperso administración dejar embargo décimo capital gran_canaria tratar número dotar serie haber ser vender la_coruña pontevedra burgos san_fernando cádiz las_palmas_de_gran_canaria valencia parte 1 premio haber esquivar galicia número dotar serie haber ser vender íntegramente madrid haber ampliación",
+        "persons": [
+            "Niño",
+            "Burgos"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "La_Coruña",
+            "Pontevedra",
+            "San_Fernando",
+            "Cádiz",
+            "Valencia",
+            "Galicia",
+            "Madrid"
+        ],
+        "organizations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "11.833",
+            "$_ECU:1000000",
+            "70.013",
+            "$_ECU:2000000"
+        ]
+    }
+}

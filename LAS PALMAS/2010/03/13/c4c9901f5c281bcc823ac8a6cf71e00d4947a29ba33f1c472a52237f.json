@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/651078/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Agüimes (Gran Canaria) instala alumbrado fotovoltaico en un tramo del Barranco de Guayadeque",
+        "lemmatized_text": "el ayuntamiento_de_agüimes gran_canaria instalar alumbrado fotovoltaico en uno tramo de el barranco_de_guayadeque",
+        "lemmatized_text_reduced": "ayuntamiento_de_agüimes gran_canaria instalar alumbrado fotovoltaico tramo barranco_de_guayadeque",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Guayadeque"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Agüimes",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento grancanario de Agüimes ha ejecutado la obra denominada 'Alumbrado Fotovoltaico Camino El Molino', con la que se pretende iluminar, \"de una forma limpia y sin contaminación al medio ambiente\", una zona de uso transitado por las múltiples visitas en horario nocturno que recibe el Barranco de Guayadeque.",
+        "lemmatized_text": "el ayuntamiento grancanario de agüimes haber ejecutar el obra denominar alumbrado_fotovoltaico_camino_el_molino con el que se pretender iluminar de uno forma limpio y sin contaminación a el medio ambiente uno zona de uso transitar por el múltiple visita en horario nocturno que recibir el barranco_de_guayadeque",
+        "lemmatized_text_reduced": "ayuntamiento grancanario agüimes haber ejecutar obra denominar alumbrado_fotovoltaico_camino_el_molino pretender iluminar forma limpio contaminación medio ambiente zona uso transitar múltiple visita horario nocturno recibir barranco_de_guayadeque",
+        "persons": [],
+        "locations": [
+            "Agüimes",
+            "Barranco_de_Guayadeque"
+        ],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Alumbrado_Fotovoltaico_Camino_El_Molino"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Esta actuación se incluye en el programa de subvenciones para la mejora de la calidad de vida de las zonas rurales de medianías de Canarias y se ha realizado a través de la línea de subvenciones del Fondo de la Unión Europea Feader 2007-2013 (Fondo Europeo de Agricultura y Desarrollo Rural), informó la institución local en un comunicado. La obra consistió en la instalación de 27 puntos de luz formados por luminarias con sistema de iluminación tipo Led de 30 watios de potencia y placa fotovoltaica con doble batería tipo gel. A través de una energía alternativa como la luz solar se alumbra esta vía con un tipo de iluminación de nueva tecnología como el led, que asegura, por su bajo consumo, la durabilidad de las baterías en las que se acumula la energía eléctrica. El coste económico de la obra ascendió a la cantidad de 126.643 euros, de los cuales el 30 por ciento ha sido aportación municipal.",
+        "lemmatized_text": "este actuación se incluir en el programa de subvención para el mejora de el calidad de vida de el zona rural de medianía de canarias y se haber realizar a_través_de el línea de subvención de el fondo_de_la_unión_europea_feader 2007-2013 fondo_europeo_de_agricultura y desarrollo_rural informar el institución local en uno comunicado el obra consistir en el instalación de 27 punto de luz formar por luminaria con sistema de iluminación tipo led de EN_w:30 de potencia y placa fotovoltaico con doble batería tipo gel a_través_de uno energía alternativo como el luz solar se alumbrar este vía con uno tipo de iluminación de nuevo tecnología como el led que asegurar por su bajo consumo el durabilidad de el batería en el que se acumular el energía eléctrico el coste económico de el obra ascender a el cantidad de $_ECU:126.643 de el cual el 30 por 100 haber ser aportación municipal",
+        "lemmatized_text_reduced": "actuación incluir programa subvención mejora calidad vida zona rural medianía canarias haber realizar línea subvención fondo_de_la_unión_europea_feader fondo_europeo_de_agricultura desarrollo_rural informar institución local comunicado obra consistir instalación punto luz formar luminaria sistema iluminación tipo led potencia placa fotovoltaico doble batería tipo gel energía alternativo luz solar alumbrar vía tipo iluminación nuevo tecnología led asegurar bajo consumo durabilidad batería acumular energía eléctrico coste económico obra ascender cantidad haber ser aportación municipal",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Led"
+        ],
+        "organizations": [
+            "Fondo_de_la_Unión_Europea_Feader",
+            "Fondo_Europeo_de_Agricultura",
+            "Desarrollo_Rural"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2007-2013",
+            "27",
+            "EN_w:30",
+            "$_ECU:126.643",
+            "30",
+            "100"
+        ]
+    }
+}

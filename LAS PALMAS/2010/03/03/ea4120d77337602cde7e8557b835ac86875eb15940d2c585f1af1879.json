@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/642206/0/",
+    "title": {
+        "raw_text": "Los servicios de rescate buscan a un buceador que desapareció en Costa Teguise (Lanzarote)",
+        "lemmatized_text": "el servicio de rescate buscar a uno buceador que desaparecer en costa_teguise lanzarote",
+        "lemmatized_text_reduced": "servicio rescate buscar buceador desaparecer costa_teguise lanzarote",
+        "persons": [],
+        "locations": [
+            "Costa_Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de rescate están buscando a un buceador que desapareció en la tarde de ayer en Costa Teguise, en la isla de Lanzarote, según informaron fuentes de Salvamento Marítimo a Europa Press.",
+        "lemmatized_text": "el servicio de rescate estar buscar a uno buceador que desaparecer en el tarde de ayer en costa_teguise en el isla de lanzarote según informar fuente de salvamento_marítimo a europa_press",
+        "lemmatized_text_reduced": "servicio rescate estar buscar buceador desaparecer tarde costa_teguise isla lanzarote informar fuente salvamento_marítimo europa_press",
+        "persons": [],
+        "locations": [
+            "Costa_Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La búsqueda que comenzó ayer, después de que a las 18.40 horas se denunciara la ausencia del buceador, se ha retomado a primera hora de esta mañana. Los servicios de rescate están trabajando principalmente en la zona Norte de Costa Teguise. En las labores están participando Salvamento Marítimo con un helicóptero y una lancha, así como agentes de los GEAS de la Guardia Civil y personal del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el búsqueda que comenzar ayer después_de que a el TM_h:18.4 se denunciar el ausencia de el buceador se haber retomar a 1 hora de este mañana el servicio de rescate estar trabajar principalmente en el zona norte_de_costa_teguise en el labor estar participar salvamento_marítimo con uno helicóptero y uno lancha así_como agente de el geas_de_la_guardia_civil y personal de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "búsqueda comenzar denunciar ausencia buceador haber retomar 1 hora mañana servicio rescate estar trabajar principalmente zona norte_de_costa_teguise labor estar participar salvamento_marítimo helicóptero lancha agente geas_de_la_guardia_civil personal centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "GEAS_de_la_Guardia_Civil",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Norte_de_Costa_Teguise",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:18.4",
+            "112"
+        ]
+    }
+}

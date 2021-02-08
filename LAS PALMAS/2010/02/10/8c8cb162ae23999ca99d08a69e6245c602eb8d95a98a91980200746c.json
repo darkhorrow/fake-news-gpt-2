@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/626292/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria concede 100.000 euros a la Fundación Aeronáutica para destinarlos a formación",
+        "lemmatized_text": "el cabildo_de_gran_canaria conceder $_ECU:100 a el fundación_aeronáutica para destinar lo a formación",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria conceder fundación_aeronáutica destinar formación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Fundación_Aeronáutica"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria ha concedido 100.000 euros a la Fundación Aeronáutica para que esta los destine a formación, además de proponerse como patrono de la Fundación en los próximos meses.",
+        "lemmatized_text": "el cabildo_de_gran_canaria haber conceder $_ECU:100 a el fundación_aeronáutica para que este el destinar a formación además_de proponer se como patrono de el fundación en el próximo mes",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria haber conceder fundación_aeronáutica destinar formación proponer patrono fundación próximo mes",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Fundación_Aeronáutica",
+            "Fundación"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:100"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cabildo de Gran Canaria ha concedido 100.000 euros a la Fundación Aeronáutica para que esta los destine a formación, además de proponerse como patrono de la Fundación en los próximos meses. Respecto a la formación que se impartirá desde la Fundación se centrará en la realización de cursos de alto valor añadido, de investigación y desarrollo (I+D) en relación \"directa\" con el catálogo de nuevos puestos de trabajo que surgirán a raíz de la creación y desarrollo del futuro parque aeroportuario de Gran Canaria, según informó el Cabildo insular en nota de prensa. Para la consejera insular de Empleo, Isabel Guerra, Canarias \"es una plataforma atlántica intercontinental\", mientras que el parque aeroportuario \"es una apuesta estratégica para Gran Canaria\". Además, Guerra abogó por adelantarse y diseñar itinerarios formativos \"necesarios\" para que los ciudadanos opten a los puestos de trabajo que se generen en un futuro, por lo que \"es vital\" la formación de capital humano. \"Estamos en tiempo de formar a nuestra gente para no tener que importar recursos humanos, ya que creemos que el parque aeroportuario creará empleos de calidad. Es una apuesta estratégica y de futuro para nuestra isla\" apuntó. En este sentido, el Cabildo de Gran Canaria \"apoya las iniciativas del tejido empresarial canario en relación a otros países\", tales como Cabo Verde, creando \"canales de comunicación\" entre África y Europa.",
+        "lemmatized_text": "el cabildo_de_gran_canaria haber conceder $_ECU:100 a el fundación_aeronáutica para que este el destinar a formación además_de proponer se como patrono de el fundación en el próximo mes respecto_a el formación que se impartir desde el fundación se centrar en el realización de curso de alto valor añadir de investigación y desarrollo i+d en relación directo con el catálogo de nuevo puesto de trabajo que surgir a_raíz_de el creación y desarrollo de el futuro parque aeroportuario de gran_canaria según informar el cabildo insular en nota de prensa para el consejero insular de empleo isabel_guerra canarias ser uno plataforma atlántico intercontinental mientras_que el parque aeroportuario ser uno apuesta estratégico para gran_canaria además guerra abogar por adelantar se y diseñar itinerario formativo necesario para que el ciudadano optar a el puesto de trabajo que se generar en uno futuro por el que ser vital el formación de capital humano estar en_tiempo_de formar a nuestro gente para no tener que importar recurso humano ya_que creer que el parque aeroportuario crear empleo de calidad ser uno apuesta estratégico y de futuro para nuestro isla apuntar en este sentido el cabildo_de_gran_canaria apoyar el iniciativa de el tejido empresarial canario en relación a otro país tal como cabo_verde crear canal de comunicación entre áfrica y europa",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria haber conceder fundación_aeronáutica destinar formación proponer patrono fundación próximo mes formación impartir fundación centrar realización curso alto valor añadir investigación desarrollo i+d relación directo catálogo nuevo puesto trabajo surgir creación desarrollo futuro parque aeroportuario gran_canaria informar cabildo insular nota prensa consejero insular empleo isabel_guerra canarias ser plataforma atlántico intercontinental parque aeroportuario ser apuesta estratégico gran_canaria guerra abogar adelantar diseñar itinerario formativo necesario ciudadano optar puesto trabajo generar futuro ser vital formación capital humano estar formar gente tener importar recurso humano creer parque aeroportuario crear empleo calidad ser apuesta estratégico futuro isla apuntar sentido cabildo_de_gran_canaria apoyar iniciativa tejido empresarial canario relación país cabo_verde crear canal comunicación áfrica europa",
+        "persons": [
+            "Isabel_Guerra",
+            "Guerra",
+            "Cabo_Verde"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Canarias",
+            "África",
+            "Europa"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Fundación_Aeronáutica",
+            "Fundación",
+            "Fundación",
+            "Cabildo",
+            "Empleo",
+            "Gran_Canaria",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "I+D"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:100"
+        ]
+    }
+}

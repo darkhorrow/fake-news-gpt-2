@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596881/0/",
+    "title": {
+        "raw_text": "Santa Lucía (Gran Canaria) cede al Gobierno de Canarias un solar para construir un nuevo centro de adultos",
+        "lemmatized_text": "santa_lucía gran_canaria ceder a el gobierno_de_canarias uno solar para construir uno nuevo centro de adulto",
+        "lemmatized_text_reduced": "santa_lucía gran_canaria ceder gobierno_de_canarias solar construir nuevo centro adulto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Santa_Lucía",
+            "Gran_Canaria",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Santa Lucía de Tirajana (Gran Canaria) ha puesto a disposición de la Consejería de Educación del Gobierno de Canarias un solar de 2.000 metros cuadrados de propiedad municipal, valorado en más de 425.000 euros, para la construcción del nuevo Centro de Educación de Personas Adultas de Vecindario.",
+        "lemmatized_text": "el ayuntamiento_de_santa_lucía_de_tirajana gran_canaria haber poner a disposición de el consejería_de_educación_del_gobierno_de_canarias uno solar de AR_m2:2 de propiedad municipal valorar en más de $_ECU:425 para el construcción de el nuevo centro_de_educación_de_personas_adultas_de_vecindario",
+        "lemmatized_text_reduced": "ayuntamiento_de_santa_lucía_de_tirajana gran_canaria haber poner disposición consejería_de_educación_del_gobierno_de_canarias solar propiedad municipal valorar construcción nuevo centro_de_educación_de_personas_adultas_de_vecindario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Santa_Lucía_de_Tirajana",
+            "Gran_Canaria",
+            "Consejería_de_Educación_del_Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Centro_de_Educación_de_Personas_Adultas_de_Vecindario"
+        ],
+        "dates": [],
+        "numbers": [
+            "AR_m2:2",
+            "$_ECU:425"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el Consistorio en nota de prensa, la parcela está situada en la calle Trebolina y forma parte de los 15.000 metros cuadrados del patrimonio municipal denominado terreno en el Plan Parcial El Canario. Los 2.000 metros cuadrados que se ponen a disposición del Gobierno regional están calificados como de uso educativo en el Plan General de Ordenación de Santa Lucía, cuentan con acceso rodado, abastecimiento de agua y suministro de energía eléctrica. El centro de adultos de Vecindario es uno de los más importantes del archipiélago en cuanto a oferta formativa y al número de alumnos que acoge, como muestran las cifras. El pasado año registró un total de 1.925 alumnos, y el presente curso supera los 2.000, según los datos aportados por el propio centro educativo. Directivos, profesores y alumnos del centro de adultos han denunciado en reiteradas ocasiones la falta de espacio y de recursos, así como las malas condiciones en las que se desarrollan las tareas educativas en la antigua escuela unitaria de la calle Pío X de Vecindario.",
+        "lemmatized_text": "según informar el consistorio en nota de prensa el parcela estar situar en el calle trebolina y formar_parte de el AR_m2:15 de el patrimonio municipal denominar terreno en el plan_parcial_el_canario el AR_m2:2 que se poner a disposición de el gobierno regional estar calificar como de uso educativo en el plan_general_de_ordenación_de_santa_lucía contar con acceso rodar abastecimiento de agua y suministro de energía eléctrico el centro de adulto de vecindario ser uno de el más importante de el archipiélago en_cuanto_a oferta formativo y a el número de alumno que acoger como mostrar el cifra el pasar año registrar uno total de 1.925 alumno y el presente curso superar el 2 según el dato aportar por el propio centro educativo directivo profesor y alumno de el centro de adulto haber denunciar en reiterar ocasión el falta de espacio y de recurso así_como el malo condición en el que se desarrollar el tarea educativo en el antiguo escuela unitario de el calle pío_x_de_vecindario",
+        "lemmatized_text_reduced": "informar consistorio nota prensa parcela estar situar calle trebolina formar_parte patrimonio municipal denominar terreno plan_parcial_el_canario poner disposición gobierno regional estar calificar uso educativo plan_general_de_ordenación_de_santa_lucía contar acceso rodar abastecimiento agua suministro energía eléctrico centro adulto vecindario ser importante archipiélago oferta formativo número alumno acoger mostrar cifra pasar año registrar total alumno presente curso superar dato aportar propio centro educativo directivo profesor alumno centro adulto haber denunciar reiterar ocasión falta espacio recurso malo condición desarrollar tarea educativo antiguo escuela unitario calle pío_x_de_vecindario",
+        "persons": [],
+        "locations": [
+            "Trebolina",
+            "Vecindario"
+        ],
+        "organizations": [
+            "Consistorio",
+            "Gobierno"
+        ],
+        "others": [
+            "Plan_Parcial_El_Canario",
+            "Plan_General_de_Ordenación_de_Santa_Lucía",
+            "Pío_X_de_Vecindario"
+        ],
+        "dates": [],
+        "numbers": [
+            "AR_m2:15",
+            "AR_m2:2",
+            "1.925",
+            "2"
+        ]
+    }
+}

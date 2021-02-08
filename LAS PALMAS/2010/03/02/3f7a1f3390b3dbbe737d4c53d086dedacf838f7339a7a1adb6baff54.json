@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641655/0/",
+    "title": {
+        "raw_text": "Cabildo de Gran Canaria adjudica las obras de acondicionamiento de la GC-293 que unía Gáldar y Agaete por 828.555 euros",
+        "lemmatized_text": "cabildo_de_gran_canaria adjudicar el obra de acondicionamiento de el GC-293 que unir gáldar y agaete por $_ECU:828.555",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria adjudicar obra acondicionamiento unir gáldar agaete",
+        "persons": [
+            "Gáldar"
+        ],
+        "locations": [
+            "Agaete"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-293",
+            "$_ECU:828.555"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria ha adjudicado a la empresa Matías Marrero las obras de acondicionamiento y asfaltado de la carretera GC-293 que unía antiguamente los municipios de Gáldar y Agaete, por un importe de 828.555 euros. Actualmente, esta vía sirve de unión entre los vecinos de Piso Firme, Las Rosas, Cuevas de Juncal y Los Llanos.",
+        "lemmatized_text": "el cabildo_de_gran_canaria haber adjudicar a el empresa matías_marrero el obra de acondicionamiento y asfaltar de el carretera GC-293 que unir antiguamente el municipio de gáldar y agaete por uno importe de $_ECU:828.555 actualmente este vía servir de unión entre el vecino de piso_firme las_rosas cuevas_de_juncal y los_llanos",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria haber adjudicar empresa matías_marrero obra acondicionamiento asfaltar carretera unir antiguamente municipio gáldar agaete importe actualmente vía servir unión vecino piso_firme las_rosas cuevas_de_juncal los_llanos",
+        "persons": [
+            "Las_Rosas",
+            "Cuevas_de_Juncal"
+        ],
+        "locations": [
+            "Gáldar",
+            "Piso_Firme",
+            "Los_Llanos"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Matías_Marrero",
+            "Agaete"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-293",
+            "$_ECU:828.555"
+        ]
+    },
+    "body": {
+        "raw_text": "Estas obras, según informó el Ayuntamiento de Gáldar en nota de prensa, permitirá mejorar el asfaltado y la circulación de dicha carretera debido al \"mal estado\" en el que se encuentra y que ha provocado que los vecinos lleven años demandando el arreglo del firme. Ante esta adjudicación por parte del Cabildo insular, el Ayuntamiento de Gáldar ha mostrado \"su satisfacción\", ya que el Consistorio lo solicitó para \"mejorar la circulación de este importante\" tramo. En cuanto al plazo de ejecución, la empresa dispondrá de dos meses, según recoge el proyecto adjudicado por Obras Públicas del Cabildo de Gran Canaria. El trazado abarca desde el punto kilométrico 0 al 5 de la carretera GC-293.",
+        "lemmatized_text": "este obra según informar el ayuntamiento_de_gáldar en nota de prensa permitir mejorar el asfaltado y el circulación de decir carretera deber a el mal estar en el que se encontrar y que haber provocar que el vecino llevar año demandar el arreglo de el firme ante este adjudicación por parte de el cabildo insular el ayuntamiento_de_gáldar haber mostrar su satisfacción ya_que el consistorio lo solicitar para mejorar el circulación de este importante tramo en cuanto a el plazo de ejecución el empresa disponer de 2 mes según recoger el proyecto adjudicar por obras_públicas_del_cabildo_de_gran_canaria el trazado abarcar desde el punto kilométrico 0 a el 5 de el carretera GC-293",
+        "lemmatized_text_reduced": "obra informar ayuntamiento_de_gáldar nota prensa permitir mejorar asfaltado circulación decir carretera deber estar encontrar haber provocar vecino llevar año demandar arreglo firme adjudicación parte cabildo insular ayuntamiento_de_gáldar haber mostrar satisfacción consistorio solicitar mejorar circulación importante tramo plazo ejecución empresa disponer mes recoger proyecto adjudicar obras_públicas_del_cabildo_de_gran_canaria trazado abarcar punto kilométrico carretera",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Gáldar",
+            "Cabildo",
+            "Ayuntamiento_de_Gáldar",
+            "Consistorio",
+            "Obras_Públicas_del_Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "0",
+            "5",
+            "GC-293"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/948516/0/",
+    "title": {
+        "raw_text": "La juez imputa un delito de homicidio al detenido por la muerte de una mujer en Fuerteventura",
+        "lemmatized_text": "el juez imputar uno delito de homicidio a el detener por el muerte de uno mujer en fuerteventura",
+        "lemmatized_text_reduced": "juez imputar delito homicidio detener muerte mujer fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El caso continúa bajo secreto sumarial y se ha dictado el ingreso en prisión del arrestado",
+        "lemmatized_text": "el caso continuar bajo secreto sumarial y se haber dictar el ingreso en prisión de el arrestar",
+        "lemmatized_text_reduced": "caso continuar secreto sumarial haber dictar ingreso prisión arrestar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La juez del Juzgado de Primera Instancia e Instrucción Número 1 de Puerto del Rosario ha informado de que tras la declaración del detenido por la muerte de una mujer en Fuerteventura ha imputado el delito de homicidio al acusado. Según explica el Tribunal Superior de Justicia, este jueves ha pasado a disposición judicial R. D. Á., detenido por su posible relación con la muerte de una mujer en Playa Blanca. Asimismo se ha dictado su ingreso en prisión provisional, comunicada y sin fianza. Las actuaciones siguen bajo secreto de sumario. La mujer de 53 años apareció muerta este sábado en un chiringuito abandonado de la zona de Playa Blanca, en Fuerteventura, presentando numerosos golpes en la cabeza y con el rostro desfigurado.",
+        "lemmatized_text": "el juez de el juzgado_de_primera_instancia y instrucción_número 1 de puerto_del_rosario haber informar de que tras el declaración de el detener por el muerte de uno mujer en fuerteventura haber imputar el delito de homicidio a el acusado según explicar el tribunal_superior_de_justicia este [J:??/??/??:??.??:??] haber pasar a disposición judicial r._d._á detener por su posible relación con el muerte de uno mujer en playa_blanca asimismo se haber dictar su ingreso en prisión provisional comunicar y sin fianza el actuación seguir bajo secreto de sumario el mujer de 53 año aparecer morir este [S:??/??/??:??.??:??] en uno chiringuito abandonar de el zona de playa_blanca en fuerteventura presentar numeroso golpe en el cabeza y con el rostro desfigurar",
+        "lemmatized_text_reduced": "juez juzgado_de_primera_instancia instrucción_número puerto_del_rosario haber informar declaración detener muerte mujer fuerteventura haber imputar delito homicidio acusado explicar tribunal_superior_de_justicia haber pasar disposición judicial r._d._á detener posible relación muerte mujer playa_blanca haber dictar ingreso prisión provisional comunicar fianza actuación seguir secreto sumario mujer año aparecer morir chiringuito abandonar zona playa_blanca fuerteventura presentar numeroso golpe cabeza rostro desfigurar",
+        "persons": [
+            "R._D._Á"
+        ],
+        "locations": [
+            "Fuerteventura",
+            "Playa_Blanca",
+            "Playa_Blanca",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Juzgado_de_Primera_Instancia",
+            "Instrucción_Número",
+            "Puerto_del_Rosario",
+            "Tribunal_Superior_de_Justicia"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "1",
+            "53"
+        ]
+    }
+}

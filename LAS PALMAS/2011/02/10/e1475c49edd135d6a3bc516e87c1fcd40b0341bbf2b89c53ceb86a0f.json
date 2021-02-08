@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/955052/0/",
+    "title": {
+        "raw_text": "Aparece muerto un delfín en la arena de playa Quemada, en Yaiza (Lanzarote)",
+        "lemmatized_text": "aparecer morir uno delfín en el arena de playa quemada en yaiza lanzarote",
+        "lemmatized_text_reduced": "aparecer morir delfín arena playa quemada yaiza lanzarote",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Quemada"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los vecinos de playa Quemada, en Yaiza (Lanzarote), alertaron en la mañana de este jueves de la aparición de un ejemplar de delfín muerto y varado en dicha playa.",
+        "lemmatized_text": "el vecino de playa quemada en yaiza lanzarote alertar en el mañana de este [J:??/??/??:??.??:??] de el aparición de uno ejemplar de delfín morir y varar en decir playa",
+        "lemmatized_text_reduced": "vecino playa quemada yaiza lanzarote alertar mañana aparición ejemplar delfín morir varar decir playa",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Quemada"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los vecinos de playa Quemada, en Yaiza (Lanzarote), alertaron en la mañana de este jueves de la aparición de un ejemplar de delfín muerto y varado en dicha playa. Al delfín de unos dos metros y veinte centímetros de longitud, se le está practicando la necropsia para determinar las posibles causas de su muerte, según informó el Ayuntamiento de Yaiza en un comunicado. Hasta el lugar se trasladaron agentes de la Policía Local, así como técnicos de Protección Civil del municipio y biólogos del Museo de Cetáceos.",
+        "lemmatized_text": "el vecino de playa quemada en yaiza lanzarote alertar en el mañana de este [J:??/??/??:??.??:??] de el aparición de uno ejemplar de delfín morir y varar en decir playa a el delfín de uno LN_m:2 y LN_cm:20 de longitud se le estar practicar el necropsia para determinar el posible causa de su muerte según informar el ayuntamiento_de_yaiza en uno comunicado hasta el lugar se trasladar agente de el policía_local así_como técnico de protección_civil de el municipio y biólogo de el museo_de_cetáceos",
+        "lemmatized_text_reduced": "vecino playa quemada yaiza lanzarote alertar mañana aparición ejemplar delfín morir varar decir playa delfín longitud estar practicar necropsia determinar posible causa muerte informar ayuntamiento_de_yaiza comunicado lugar trasladar agente policía_local técnico protección_civil municipio biólogo museo_de_cetáceos",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Quemada",
+            "Ayuntamiento_de_Yaiza",
+            "Policía_Local",
+            "Protección_Civil",
+            "Museo_de_Cetáceos"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_m:2",
+            "LN_cm:20"
+        ]
+    }
+}

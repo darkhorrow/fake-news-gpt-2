@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/613247/0/",
+    "title": {
+        "raw_text": "Una mujer fallecida y dos heridos de carácter menos grave al colisionar dos vehículos en Lanzarote",
+        "lemmatized_text": "uno mujer fallecer y 2 herido de carácter menos grave a el colisionar 2 vehículo en lanzarote",
+        "lemmatized_text_reduced": "mujer fallecer herido carácter grave colisionar vehículo lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una mujer de 55 años de edad ha fallecido y otras dos personas han resultado heridas con policontusiones de carácter menos grave al colisionar dos vehículos en la carretera LZ-2 entre Playa Quemada y Puerto Calero, en el municipio de Yaiza (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno mujer de 55 año de edad haber fallecer y otro 2 persona haber resultar herida con policontusión de carácter menos grave a el colisionar 2 vehículo en el carretera LZ-2 entre playa_quemada y puerto_calero en el municipio de yaiza lanzarote según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "mujer año edad haber fallecer persona haber resultar herida policontusión carácter grave colisionar vehículo carretera playa_quemada puerto_calero municipio yaiza lanzarote informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Puerto_Calero"
+        ],
+        "locations": [
+            "Playa_Quemada",
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "55",
+            "2",
+            "2",
+            "LZ-2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 09.40 horas, cuando el Cecoes recibió una alerta que comunicaba que se había producido una colisión entre dos vehículos y que varios de sus integrantes precisaban asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencias necesarios. A su llegada al lugar el personal médico del Servicio de Urgencias Canario (SUC) confirmó el fallecimiento de una de las afectadas, una mujer de 55 años. Además, asistió a los dos heridos, una mujer de 54 años y un varón de 62, que sufrieron policontusiones de carácter menos grave, por lo que, una vez estabilizados, fueron evacuados en una ambulancia de soporte vital avanzado y otra de soporte vital básico del SUC, respectivamente, al Hospital José Molina Orosa. En dicha actuación también intervino la Guardia Civil, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:9.4 cuando el cecoes recibir uno alerta que comunicar que se haber producir uno colisión entre 2 vehículo y que varios de su integrante precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario a su llegada a el lugar el personal médico de el servicio_de_urgencias_canario suc confirmar el fallecimiento de uno de el afectar uno mujer de 55 año además asistir a el 2 herido uno mujer de 54 año y uno varón de 62 que sufrir policontusión de carácter menos grave por el que uno vez estabilizar ser evacuar en uno ambulancia de soporte vital avanzar y otro de soporte vital básico de el suc respectivamente a el hospital_josé_molina_orosa en decir actuación también intervenir el guardia_civil que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir cecoes recibir alerta comunicar haber producir colisión vehículo integrante precisar asistencia sanitario modo activar inmediato recurso emergencia necesario llegada lugar personal médico servicio_de_urgencias_canario suc confirmar fallecimiento afectar mujer año asistir herido mujer año varón sufrir policontusión carácter grave vez estabilizar ser evacuar ambulancia soporte vital avanzar soporte vital básico suc respectivamente hospital_josé_molina_orosa decir actuación intervenir guardia_civil encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_José_Molina_Orosa",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.4",
+            "2",
+            "112",
+            "55",
+            "2",
+            "54",
+            "62"
+        ]
+    }
+}

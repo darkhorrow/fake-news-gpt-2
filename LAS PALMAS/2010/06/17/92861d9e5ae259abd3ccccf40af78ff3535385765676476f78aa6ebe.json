@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/739931/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias crea dos colegios y suprime siete por pérdida de alumnos",
+        "lemmatized_text": "el gobierno_de_canarias creer 2 colegio y suprimir 7 por pérdida de alumno",
+        "lemmatized_text_reduced": "gobierno_de_canarias creer colegio suprimir pérdida alumno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "7"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno de Canarias aprobó hoy los decretos de creación de dos colegios, así como la supresión de siete centros como consecuencia de que \"vienen perdiendo paulatinamente grupos de alumnos desde el curso académico 2004/2005, haciendo inviable su mantenimiento por contar con ratios muy bajas\".",
+        "lemmatized_text": "el consejo_de_gobierno_de_canarias aprobar hoy el decreto de creación de 2 colegio así_como el supresión de 7 centro como consecuencia de que venir perder paulatinamente grupo de alumno desde el curso académico 2004/2005 hacer inviable su mantenimiento por contar con ratio muy bajo",
+        "lemmatized_text_reduced": "consejo_de_gobierno_de_canarias aprobar decreto creación colegio supresión centro consecuencia venir perder paulatinamente grupo alumno curso académico hacer inviable mantenimiento contar ratio bajo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejo_de_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "7",
+            "2004/2005"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo explicó el portavoz regional en rueda de prensa en la capital grancanaria, Martín Marrero, que argumentó que los centros que se cierran tienen instalaciones obsoletas y, en muchos casos, deterioradas por el paso del tiempo y nada acordes para llevar a cabo una enseñanza integral y de calidad, existiendo en el mismo término municipal otro centros que pueden albergar estos alumnos. Los centros que se suprimen son los siguientes: Escuela de Educación Infantil Régulo Arocena Díaz (Santa Cruz de La Palma), Escuela de Educación Infantil Las Palmeras (San Cristóbal de La Laguna), Colegio de Educación Infantil y Primaria Ojero (Teror), Colegio de Educación Infantil y Primaria El Palmital (Santa María de Guía), Colegio de Educación Infantil y Primaria Casablanca (Firgas), Colegio de Educación Infantil y Primaria Baranquillo de Andrés (Mogán) y Colegio de Educación Infantil y Primaria Esteban Silvera Fajardo (Betancuria). Asimismo, se aprobaron los decretos de creación de un Colegio de Educación Infantil y Primaria en la localidad de El Médano, en Granadilla de Abona, y de reconversión de la Escuela de Educación Infantil Boliche, en Las Palmas de Gran Canaria, en Colegio de Educación Infantil y Primaria Boliche, en el mismo municipio.",
+        "lemmatized_text": "así lo explicar el portavoz regional en rueda de prensa en el capital grancanaria martín_marrero que argumentar que el centro que se cerrar tener instalación obsoleto y en mucho caso deteriorar por el paso de el tiempo y nada acorde para llevar_a_cabo uno enseñanza integral y de calidad existir en el mismo término municipal otro centro que poder albergar este alumno el centro que se suprimir ser el siguiente escuela_de_educación_infantil_régulo_arocena_díaz santa_cruz_de_la_palma escuela_de_educación_infantil_las_palmeras san_cristóbal_de_la_laguna colegio_de_educación_infantil y primaria_ojero teror colegio_de_educación_infantil y primaria_el_palmital santa_maría_de_guía colegio_de_educación_infantil y primaria_casablanca firgas colegio_de_educación_infantil y primaria_baranquillo_de_andrés mogán y colegio_de_educación_infantil y primaria_esteban_silvera_fajardo betancuria asimismo se aprobar el decreto de creación de uno colegio_de_educación_infantil y primaria en el localidad de el_médano en granadilla_de_abona y de reconversión de el escuela_de_educación_infantil_boliche en las_palmas_de_gran_canaria en colegio_de_educación_infantil y primaria_boliche en el mismo municipio",
+        "lemmatized_text_reduced": "explicar portavoz regional rueda prensa capital grancanaria martín_marrero argumentar centro cerrar tener instalación obsoleto caso deteriorar paso tiempo acorde llevar_a_cabo enseñanza integral calidad existir mismo término municipal centro poder albergar alumno centro suprimir ser siguiente escuela_de_educación_infantil_régulo_arocena_díaz santa_cruz_de_la_palma escuela_de_educación_infantil_las_palmeras san_cristóbal_de_la_laguna colegio_de_educación_infantil primaria_ojero teror colegio_de_educación_infantil primaria_el_palmital santa_maría_de_guía colegio_de_educación_infantil primaria_casablanca firgas colegio_de_educación_infantil primaria_baranquillo_de_andrés mogán colegio_de_educación_infantil primaria_esteban_silvera_fajardo betancuria aprobar decreto creación colegio_de_educación_infantil primaria localidad el_médano granadilla_de_abona reconversión escuela_de_educación_infantil_boliche las_palmas_de_gran_canaria colegio_de_educación_infantil primaria_boliche mismo municipio",
+        "persons": [
+            "Martín_Marrero",
+            "Primaria_Ojero",
+            "Primaria_Casablanca"
+        ],
+        "locations": [
+            "El_Médano",
+            "Granadilla_de_Abona",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Escuela_de_Educación_Infantil_Régulo_Arocena_Díaz",
+            "Santa_Cruz_de_La_Palma",
+            "Escuela_de_Educación_Infantil_Las_Palmeras",
+            "San_Cristóbal_de_La_Laguna",
+            "Colegio_de_Educación_Infantil",
+            "Teror",
+            "Colegio_de_Educación_Infantil",
+            "Primaria_El_Palmital",
+            "Santa_María_de_Guía",
+            "Colegio_de_Educación_Infantil",
+            "Firgas",
+            "Colegio_de_Educación_Infantil",
+            "Mogán",
+            "Colegio_de_Educación_Infantil",
+            "Betancuria",
+            "Colegio_de_Educación_Infantil",
+            "Escuela_de_Educación_Infantil_Boliche",
+            "Colegio_de_Educación_Infantil"
+        ],
+        "others": [
+            "Primaria_Baranquillo_de_Andrés",
+            "Primaria_Esteban_Silvera_Fajardo",
+            "Primaria",
+            "Primaria_Boliche"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

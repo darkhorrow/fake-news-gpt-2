@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/423981/0/anticipo/indemnizacion/spanair/",
+    "title": {
+        "raw_text": "Spanair ha pagado ya el anticipo de indemnización a 135 familias",
+        "lemmatized_text": "spanair haber pagar ya el anticipo de indemnización a 135 familia",
+        "lemmatized_text_reduced": "spanair haber pagar anticipo indemnización familia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Spanair"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "135"
+        ]
+    },
+    "lead": {
+        "raw_text": "Se presentaron en total 150 solicitudes de anticipo. El anticipo consiste en 25.000 euros por perjudicado que paga la aseguradora. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "se presentar en total 150 solicitud de anticipo el anticipo consistir en $_ECU:25 por perjudicado que pagar el asegurador consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "presentar total solicitud anticipo anticipo consistir perjudicado pagar asegurador consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "150",
+            "$_ECU:25"
+        ]
+    },
+    "body": {
+        "raw_text": "Un total de 135 familiares de los 154 fallecidos por el accidente del 20 de agosto en Madrid-Barajas ha recibido ya el adelanto de la indemnización final por parte de la entidad aseguradora de la compañía, Mapfre, una vez que han acreditado ser beneficiarios, según informaron a Europa Press fuentes de la aerolínea. Las mismas fuentes señalaron que el importe adelantado a cuenta para \"cubrir las necesidades más urgentes\" es de 25.000 euros por perjudicado , lo que eleva a 3,3 millones de euros la cuantía desembolsada correspondiente al anticipo de dichas indemnizaciones dos meses después del accidente. \"De las 150 solicitudes presentadas hasta la fecha, un total de 15 expedientes están en vías de tramitación \", indicaron dichas fuentes, que apuntaron que en algunos casos la compañía está a la espera de recibir la información necesaria que acredite a los solicitantes su calidad de beneficiarios. Esto supondría que más de dos meses después del accidente se ha efectuado el pago del anticipo en el 90% de las solicitudes requeridas. Cubrir las necesidades inmediatas De acuerdo con la legislación vigente, en caso de muerte o lesión de un pasajero las compañías aéreas deben abonar un anticipo en el plazo de 15 días desde la identificación de la persona con derecho a indemnización para \"cubrir sus necesidades inmediatas\". En caso de fallecimiento, la legislación contempla que esta cantidad no podrá ser inferior a 16.000 derechos especiales de giro (dge), unidad en la que viene expresada la indemnización y que equivale a 1,26 euros aproximadamente, lo que supone unos 20.300 euros. No obstante, Spanair decidió incrementar en 5.000 euros el anticipo de indemnización obligatorio al que está obligado. En conjunto, la indemnización total, entre anticipos y fallecimientos o lesiones, a desembolsar por parte de la compañía podría alcanzar los 50 millones de euros.",
+        "lemmatized_text": "uno total de 135 familiar de el 154 fallecer por el accidente de el [??:20/8/??:??.??:??] en madrid-barajas haber recibir ya el adelanto de el indemnización final por parte de el entidad asegurador de el compañía mapfre una_vez_que haber acreditar ser beneficiario según informar a europa_press fuente de el aerolínea el mismo fuente señalar que el importe adelantar a cuenta para cubrir el necesidad más urgente ser de $_ECU:25 por perjudicado el que elevar a 3,3 millón de euro el cuantía desembolsar correspondiente a el anticipo de decir indemnización 2 mes después de el accidente de el 150 solicitud presentar hasta el fecha uno total de 15 expediente estar en_vías_de tramitación indicar decir fuente que apuntar que en alguno caso el compañía estar a_la_espera_de recibir el información necesario que acreditar a el solicitante su calidad de beneficiario este suponer que más de 2 mes después de el accidente se haber efectuar el pago de el anticipo en el 90/100 de el solicitud requerir cubrir el necesidad inmediato de_acuerdo_con el legislación vigente en_caso_de muerte o lesión de uno pasajero el compañía aéreo deber abonar uno anticipo en_el_plazo_de TM_d:15 desde el identificación de el persona con derecho a indemnización para cubrir su necesidad inmediato en_caso_de fallecimiento el legislación contemplar que este cantidad no poder ser inferior a 16 derecho especial de giro dge unidad en el que venir expresar el indemnización y que equivaler a $_ECU:1,26 aproximadamente el que suponer uno $_ECU:20.3 no_obstante spanair decidir incrementar en $_ECU:5 el anticipo de indemnización obligatorio a el que estar obligar en conjunto el indemnización total entre anticipo y fallecimiento o lesión a desembolsar por parte de el compañía poder alcanzar el $_ECU:50000000",
+        "lemmatized_text_reduced": "total familiar fallecer accidente madrid-barajas haber recibir adelanto indemnización final parte entidad asegurador compañía mapfre haber acreditar ser beneficiario informar europa_press fuente aerolínea mismo fuente señalar importe adelantar cuenta cubrir necesidad urgente ser perjudicado elevar millón euro cuantía desembolsar correspondiente anticipo decir indemnización mes accidente solicitud presentar fecha total expediente estar tramitación indicar decir fuente apuntar caso compañía estar recibir información necesario acreditar solicitante calidad beneficiario suponer mes accidente haber efectuar pago anticipo solicitud requerir cubrir necesidad inmediato de_acuerdo_con legislación vigente muerte lesión pasajero compañía aéreo deber abonar anticipo identificación persona derecho indemnización cubrir necesidad inmediato fallecimiento legislación contemplar cantidad poder ser inferior derecho especial giro dge unidad venir expresar indemnización equivaler aproximadamente suponer spanair decidir incrementar anticipo indemnización obligatorio estar obligar conjunto indemnización total anticipo fallecimiento lesión desembolsar parte compañía poder alcanzar",
+        "persons": [
+            "Europa_Press",
+            "De_acuerdo_con"
+        ],
+        "locations": [
+            "Madrid-Barajas"
+        ],
+        "organizations": [
+            "Mapfre",
+            "Spanair"
+        ],
+        "others": [],
+        "dates": [
+            "[??:20/8/??:??.??:??]"
+        ],
+        "numbers": [
+            "135",
+            "154",
+            "$_ECU:25",
+            "3,3",
+            "2",
+            "150",
+            "15",
+            "2",
+            "90/100",
+            "TM_d:15",
+            "16",
+            "$_ECU:1,26",
+            "$_ECU:20.3",
+            "$_ECU:5",
+            "$_ECU:50000000"
+        ]
+    }
+}

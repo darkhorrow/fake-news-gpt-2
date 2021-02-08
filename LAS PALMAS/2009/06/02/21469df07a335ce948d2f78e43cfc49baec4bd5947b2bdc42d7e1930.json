@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/471926/0/inmigrantes/patera/lanzarote/",
+    "title": {
+        "raw_text": "En la patera que llegó a Lanzarote había 22 personas, de las que 9 eran menores",
+        "lemmatized_text": "en el patera que llegar a lanzarote haber 22 persona de el que 9 ser menor",
+        "lemmatized_text_reduced": "patera llegar lanzarote haber persona ser menor",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "22",
+            "9"
+        ]
+    },
+    "lead": {
+        "raw_text": "Entre los inmigrantes se encontraban 3 mujeres. Es la primera embarcación con indocumentados que llega en 2 meses. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "entre el inmigrante se encontrar 3 mujer ser el 1 embarcación con indocumentado que llegar en 2 mes consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "inmigrante encontrar mujer ser 1 embarcación indocumentado llegar mes consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La patera que llegó en la noche del lunes a Lanzarote estaba ocupada por 22 personas, de las que 3 son mujeres, y, de los varones, 9 podrían ser menores de edad , informaron este martes fuentes del Centro Coordinador de Emergencias y Seguridad 112. La patera llegó al norte de Lanzarote y uno de sus ocupantes fue trasladado al Hospital General de la isla porque tenía problemas de hipotermia , mientras que el resto está en aparente buen estado de salud, indicaron las fuentes. Esta es la primera embarcación con inmigrantes indocumentados que llega a Canarias en los dos últimos meses , y en esta ocasión fue interceptada hacia las 22.00 h tras ser avistada a cinco millas del pueblo de Orzola . La patera fue interceptada y remolcada al puerto de Los Mármoles, en Arrecife, la capital lanzaroteña.",
+        "lemmatized_text": "el patera que llegar en el noche de el [L:??/??/??:??.??:??] a lanzarote estar ocupar por 22 persona de el que 3 ser mujer y de el varón 9 poder ser menor de edad informar este [M:??/??/??:??.??:??] fuente de el centro_coordinador_de_emergencias y seguridad 112 el patera llegar a el norte de lanzarote y uno de su ocupante ser trasladar a el hospital_general de el isla porque tener problema de hipotermia mientras_que el resto estar en aparente bueno estado de salud indicar el fuente este ser el 1 embarcación con inmigrante indocumentado que llegar a canarias en el 2 último mes y en este ocasión ser interceptar hacia el TM_h:22 tras ser avistar a LN_mi:5 de el pueblo de orzola el patera ser interceptar y remolcar a el puerto de los_mármoles en arrecife el capital lanzaroteña",
+        "lemmatized_text_reduced": "patera llegar noche lanzarote estar ocupar persona ser mujer varón poder ser menor edad informar fuente centro_coordinador_de_emergencias seguridad patera llegar norte lanzarote ocupante ser trasladar hospital_general isla tener problema hipotermia resto estar aparente bueno estado salud indicar fuente ser 1 embarcación inmigrante indocumentado llegar canarias último mes ocasión ser interceptar ser avistar pueblo orzola patera ser interceptar remolcar puerto los_mármoles arrecife capital lanzaroteña",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Lanzarote",
+            "Canarias",
+            "Orzola",
+            "Los_Mármoles",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Hospital_General"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "22",
+            "3",
+            "9",
+            "112",
+            "2",
+            "TM_h:22",
+            "LN_mi:5"
+        ]
+    }
+}

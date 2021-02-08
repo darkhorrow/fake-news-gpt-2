@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661080/0/",
+    "title": {
+        "raw_text": "El fondo del pozo de Jinámar(Gran Canaria) es \"más profundo de lo esperado\" pero la Policía ve \"el final\" de la búsqueda",
+        "lemmatized_text": "el fondo de el pozo de jinámar gran_canaria ser más profundo de el esperar pero el policía ver el final de el búsqueda",
+        "lemmatized_text_reduced": "fondo pozo jinámar gran_canaria ser profundo esperar policía ver final búsqueda",
+        "persons": [],
+        "locations": [
+            "Jinámar"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los agentes de la Policía Nacional que se encuentran realizando las labores de búsqueda en el pozo de Jinámar (Gran Canaria) donde una cámara subacuática detectó lo que podrían ser restos humanos se han encontrado pasadas las 12.00 horas con que el fondo en forma de cono es \"más profundo de lo esperado\".",
+        "lemmatized_text": "el agente de el policía_nacional que se encontrar realizar el labor de búsqueda en el pozo de jinámar gran_canaria donde uno cámara subacuático detectar el que poder ser resto humano se haber encontrar pasar el TM_h:12 con que el fondo en forma de cono ser más profundo de el esperar",
+        "lemmatized_text_reduced": "agente policía_nacional encontrar realizar labor búsqueda pozo jinámar gran_canaria cámara subacuático detectar poder ser resto humano haber encontrar pasar fondo forma cono ser profundo esperar",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:12"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Todavía no hay nada nuevo. Hay mucho fango y donde se pensaba que hubiera un metro de lodo había más, ya que el fondo en forma de cono es más profundo de lo esperado\", explicaron fuentes policiales de la investigación. Las mismas fuentes explicaron que han sacado un termo de agua \"como de dos metros\" y estimaron que \"habrá un metro más de profundidad de lo que se esperaba\", aunque recalcaron que \"estamos en el final\" de una búsqueda que se alarga desde este lunes. De momento, la delegada del Gobierno en Canarias, Carolina Darias, no ha está presente en los terrenos.",
+        "lemmatized_text": "todavía no haber nada nuevo haber mucho fango y donde se pensar que haber 1 metro de lodo haber más ya_que el fondo en forma de cono ser más profundo de el esperar explicar fuente policial de el investigación el mismo fuente explicar que haber sacar uno termo de agua como de 2 metro y estimar que haber uno metro más de profundidad de el que se esperar aunque recalcar que estar en el final de uno búsqueda que se alargar desde este [L:??/??/??:??.??:??] de momento el delegado de el gobierno en canarias carolina_darias no haber estar presente en el terreno",
+        "lemmatized_text_reduced": "haber nuevo haber fango pensar haber metro lodo haber fondo forma cono ser profundo esperar explicar fuente policial investigación mismo fuente explicar haber sacar termo agua metro estimar haber metro profundidad esperar recalcar estar final búsqueda alargar momento delegado gobierno canarias carolina_darias haber estar presente terreno",
+        "persons": [
+            "Carolina_Darias"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "1",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/953491/0/",
+    "title": {
+        "raw_text": "Gran Canaria registra un crecimiento del 12,7% en turistas extranjeros en enero",
+        "lemmatized_text": "gran_canaria registrar uno crecimiento de el 12,7/100 en turista extranjero en [??:??/1/??:??.??:??]",
+        "lemmatized_text_reduced": "gran_canaria registrar crecimiento turista extranjero",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "12,7/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "La isla de Gran Canaria ha registrado en enero un crecimiento del 12,7 por ciento en la llegada de pasajeros extranjeros, lo que ha supuesto las cifras \"más altas\" de los últimos seis años.",
+        "lemmatized_text": "el isla de gran_canaria haber registrar en [??:??/1/??:??.??:??] uno crecimiento de el 12,7 por 100 en el llegada de pasajero extranjero el que haber suponer el cifra más alto de el último 6 año",
+        "lemmatized_text_reduced": "isla gran_canaria haber registrar crecimiento llegada pasajero extranjero haber suponer cifra alto último año",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "12,7",
+            "100",
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "La isla de Gran Canaria ha registrado en enero un crecimiento del 12,7 por ciento en la llegada de pasajeros extranjeros, lo que ha supuesto las cifras \"más altas\" de los últimos seis años. Al respecto, el consejero de Turismo, Comercio Exterior e Innovación Tecnológica del Cabildo de Gran Canaria, Roberto Moreno, subrayó que este incremento de turistas sitúa a la isla en una \"cifra récord anterior incluso a la crisis\", ya que se ha alcanzado los 285.770 visitantes extranjeros, 32.230 más que el mismo mes del pasado año. Este avance, dijo en un comunicado, se ha producido fundamentalmente en los mercados tradicionales, tales como Alemania y Reino Unido, junto a Escandinavia, lo que \"pone de manifiesto que la senda de la mejora de la industria turística se consolida en la isla de forma significativa\". \"Los últimos datos estadísticos ponen de manifiesto que la recuperación turística es una realidad mucho antes de que los graves acontecimientos que vienen sucediendo en el vecino Magreb hayan provocado el desvió de turistas hacia Canarias en general, y Gran Canaria en particular\", apuntó. Finalmente, indicó que el sector \"debe ahora tener la suficiente\" capacidad de reacción para entender que los visitantes de más que se están recibiendo \"ya llegan a un destino no elegido inicialmente, y que deben regresar satisfechos a sus países de orígenes porque el boca a boca es sin duda la mejor acción promocional\".",
+        "lemmatized_text": "el isla de gran_canaria haber registrar en [??:??/1/??:??.??:??] uno crecimiento de el 12,7 por 100 en el llegada de pasajero extranjero el que haber suponer el cifra más alto de el último 6 año a el respecto el consejero de turismo comercio_exterior y innovación_tecnológica_del_cabildo_de_gran_canaria roberto_moreno subrayar que este incremento de turista situar a el isla en uno cifra récord anterior incluso a el crisis ya_que se haber alcanzar el 285.77 visitante extranjero 32.23 más que el mismo mes de el pasar año este avance decir en uno comunicado se haber producir fundamentalmente en el mercado tradicional tal como alemania y reino_unido junto_a escandinavia el que poner_de_manifiesto que el senda de el mejora de el industria turístico se consolidar en el isla de forma significativo el último dato estadístico poner_de_manifiesto que el recuperación turístico ser uno realidad mucho antes_de que el grave acontecimiento que venir suceder en el vecino magreb haber provocar el desviar de turista hacia canarias en general y gran_canaria en particular apuntar finalmente indicar que el sector deber ahora tener el suficiente capacidad de reacción para entender que el visitante de más que se estar recibir ya llegar a uno destino no elegir inicialmente y que deber regresar satisfacer a su país de origen porque el boca a boca ser sin duda el mejor acción promocional",
+        "lemmatized_text_reduced": "isla gran_canaria haber registrar crecimiento llegada pasajero extranjero haber suponer cifra alto último año respecto consejero turismo comercio_exterior innovación_tecnológica_del_cabildo_de_gran_canaria roberto_moreno subrayar incremento turista situar isla cifra récord anterior crisis haber alcanzar visitante extranjero mismo mes pasar año avance decir comunicado haber producir fundamentalmente mercado tradicional alemania reino_unido escandinavia poner_de_manifiesto senda mejora industria turístico consolidar isla forma significativo último dato estadístico poner_de_manifiesto recuperación turístico ser realidad grave acontecimiento venir suceder vecino magreb haber provocar desviar turista canarias general gran_canaria particular apuntar finalmente indicar sector deber tener suficiente capacidad reacción entender visitante estar recibir llegar destino elegir inicialmente deber regresar satisfacer país origen boca boca ser duda mejor acción promocional",
+        "persons": [
+            "Roberto_Moreno",
+            "Escandinavia"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Reino_Unido",
+            "Magreb",
+            "Canarias"
+        ],
+        "organizations": [
+            "Innovación_Tecnológica_del_Cabildo_de_Gran_Canaria",
+            "Alemania",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Turismo",
+            "Comercio_Exterior"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "12,7",
+            "100",
+            "6",
+            "285.77",
+            "32.23"
+        ]
+    }
+}

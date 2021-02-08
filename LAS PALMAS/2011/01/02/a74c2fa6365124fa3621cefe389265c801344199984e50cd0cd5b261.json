@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/918517/0/",
+    "title": {
+        "raw_text": "Cada canario gastará 15 euros en 'El Niño', casi seis euros por debajo de la media nacional",
+        "lemmatized_text": "cada canario gastar $_ECU:15 en el niño casi $_ECU:6 por debajo_de el media nacional",
+        "lemmatized_text_reduced": "canario gastar niño media nacional",
+        "persons": [
+            "Niño"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:15",
+            "$_ECU:6"
+        ]
+    },
+    "lead": {
+        "raw_text": "Cada canario gastará este año una media de 15,74 euros en el Sorteo Extraordinario de 'El Niño' que se celebra este próximo jueves, lo que sitúa a la comunidad por debajo de la media nacional, cifrada en 21,07 euros, según datos de consignación por habitante de Loterías y Apuestas del Estado (LAE) a fecha 23 de diciembre.",
+        "lemmatized_text": "cada canario gastar este año uno media de $_ECU:15,74 en el sorteo_extraordinario de el niño que se celebrar este [J:??/??/??:??.??:??] el que situar a el comunidad por debajo_de el media nacional cifrar en $_ECU:21,07 según dato de consignación por habitante de loterías y apuestas_del_estado lae a fecha [??:23/12/??:??.??:??]",
+        "lemmatized_text_reduced": "canario gastar año media sorteo_extraordinario niño celebrar situar comunidad media nacional cifrar dato consignación habitante loterías apuestas_del_estado lae fecha",
+        "persons": [
+            "Niño",
+            "Loterías"
+        ],
+        "locations": [
+            "Sorteo_Extraordinario"
+        ],
+        "organizations": [
+            "Apuestas_del_Estado",
+            "LAE"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[??:23/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15,74",
+            "$_ECU:21,07"
+        ]
+    },
+    "body": {
+        "raw_text": "Cada canario gastará este año una media de 15,74 euros en el Sorteo Extraordinario de 'El Niño' que se celebra este próximo jueves, lo que sitúa a la comunidad por debajo de la media nacional, cifrada en 21,07 euros, según datos de consignación por habitante de Loterías y Apuestas del Estado (LAE) a fecha 23 de diciembre. De esta forma, y según los datos consultados por Europa Press, en cifras nacionales y por comunidades, Asturias está a la cabeza con una consignación de 31,50 euros por habitante, seguida de Castilla y León, con 30,35 euros; la Comunidad Valenciana, con 28,69 euros, y País Vasco, con 27,88 euros por habitante. En el lado opuesto, las de menor consignación por habitante son Melilla, con 6,15 euros; Ceuta, con 6,94 euros; Baleares, con 12,77 euros; Extremadura, con 14,82 euros; Andalucía, con 15,14 euros, y Canarias, con 15,74 euros por habitante.",
+        "lemmatized_text": "cada canario gastar este año uno media de $_ECU:15,74 en el sorteo_extraordinario de el niño que se celebrar este [J:??/??/??:??.??:??] el que situar a el comunidad por debajo_de el media nacional cifrar en $_ECU:21,07 según dato de consignación por habitante de loterías y apuestas_del_estado lae a fecha [??:23/12/??:??.??:??] de este forma y según el dato consultar por europa_press en cifra nacional y por comunidad asturias estar a el cabeza con uno consignación de $_ECU:31,50 por habitante seguir de castilla y león con $_ECU:30,35 el comunidad_valenciana con $_ECU:28,69 y país_vasco con $_ECU:27,88 por habitante en el lado oponer el de menor consignación por habitante ser melilla con $_ECU:6,15 ceuta con $_ECU:6,94 baleares con $_ECU:12,77 extremadura con $_ECU:14,82 andalucía con $_ECU:15,14 y canarias con $_ECU:15,74 por habitante",
+        "lemmatized_text_reduced": "canario gastar año media sorteo_extraordinario niño celebrar situar comunidad media nacional cifrar dato consignación habitante loterías apuestas_del_estado lae fecha forma dato consultar europa_press cifra nacional comunidad asturias estar cabeza consignación habitante seguir castilla león comunidad_valenciana país_vasco habitante lado oponer menor consignación habitante ser melilla ceuta baleares extremadura andalucía canarias habitante",
+        "persons": [
+            "Niño",
+            "Loterías",
+            "Europa_Press",
+            "León"
+        ],
+        "locations": [
+            "Sorteo_Extraordinario",
+            "Asturias",
+            "Castilla",
+            "Comunidad_Valenciana",
+            "País_Vasco",
+            "Melilla",
+            "Ceuta",
+            "Baleares",
+            "Extremadura",
+            "Andalucía",
+            "Canarias"
+        ],
+        "organizations": [
+            "Apuestas_del_Estado",
+            "LAE"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[??:23/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15,74",
+            "$_ECU:21,07",
+            "$_ECU:31,50",
+            "$_ECU:30,35",
+            "$_ECU:28,69",
+            "$_ECU:27,88",
+            "$_ECU:6,15",
+            "$_ECU:6,94",
+            "$_ECU:12,77",
+            "$_ECU:14,82",
+            "$_ECU:15,14",
+            "$_ECU:15,74"
+        ]
+    }
+}

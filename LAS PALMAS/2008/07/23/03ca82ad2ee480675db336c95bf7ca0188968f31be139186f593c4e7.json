@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/401356/0/rescate/senegal/inmigrantes/",
+    "title": {
+        "raw_text": "El Esperanza del Mar rescata en aguas de Senegal a 64 inmigrantes rumbo a Canarias",
+        "lemmatized_text": "el esperanza_del_mar rescatar en agua de senegal a 64 inmigrante rumbo a canarias",
+        "lemmatized_text_reduced": "esperanza_del_mar rescatar agua senegal inmigrante rumbo canarias",
+        "persons": [
+            "Senegal"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Esperanza_del_Mar"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "64"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los inmigrantes pidieron ayuda cuando se dirigían a Canarias en un cayuco. Un pesquero español que faenaba en la zona recibió el mensaje de socorro. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el inmigrante pedir ayuda cuando se dirigir a canarias en uno cayuco uno pesquero español que faenar en el zona recibir el mensaje de socorro consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "inmigrante pedir ayuda dirigir canarias cayuco pesquero español faenar zona recibir mensaje socorro consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El buque hospital del Instituto social de la Marina Española \"Esperanza del Mar \" rescató hoy a 64 inmigrantes ilegales africanos que pidieron auxilio cuando iban a bordo de un cayuco con rumbo a Canarias. El buque llegó poco antes de mediodía al puerto de Dakar , después de que el cayuco fuera rescatado a medianoche tras lanzar un mensaje de socorro a un pesquero español que faenaba en la zona, a unas doce millas de la costa senegalesa , según un portavoz del \"Esperanza del Mar\" y radios locales. A su llegada al puerto de Dakar, las autoridades locales se hicieron cargo de los inmigrantes para su identificación en la comisaría del puerto, sin que ninguna de ellos necesitara asistencia hospitalaria. El responsable médico del buque hospital, Jaime Serna, en declaraciones a los periodistas, explicó que los rescatados se encontraban en \"buen estado\" , si bien algunos presentaban síntomas de deshidratación y heridas en la piel. Todos los inmigrantes eran varones de edades comprendidas entre los 18 y los 34 años, aunque no se descarta que cuatro de ellos puedan ser menores de edad , según relató Serna. El secretario de Estado español de Asuntos Exteriores , Ángel Lossada , quien hoy llegó a Dakar en el marco de una gira por varios países de África Occidental, se congratuló de la operación de salvamento a cargo del buque español. Lossada, en declaraciones a los periodistas, afirmó que este rescate \"demuestra la buena colaboración\" que España tiene con Senegal en materia migratoria.",
+        "lemmatized_text": "el buque hospital de el instituto social de el marina_española esperanza_del_mar rescatar hoy a 64 inmigrante ilegal africano que pedir auxilio cuando ir a_bordo de uno cayuco con rumbo a canarias el buque llegar poco antes_de [??:??/??/??:12.00:pm] a el puerto de dakar después_de que el cayuco ser rescatar a [??:??/??/??:00.00:am] tras lanzar uno mensaje de socorro a uno pesquero español que faenar en el zona a uno LN_mi:12 de el costa senegalés según uno portavoz de el esperanza_del_mar y radio local a su llegada a el puerto de dakar el autoridad local se hacer_cargo de el inmigrante para su identificación en el comisaría de el puerto sin que ninguno de ellos necesitar asistencia hospitalario el responsable médico de el buque hospital jaime_serna en declaración a el periodista explicar que el rescatar se encontrar en bueno estado si bien alguno presentar síntoma de deshidratación y herida en el piel todo el inmigrante ser varón de edad comprender entre el 18 y el 34 año aunque no se descartar que 4 de ellos poder ser menor de edad según relatar serna el secretario de estado español de asuntos_exteriores ángel_lossada quien hoy llegar a dakar en el marco de uno gira por varios país de áfrica_occidental se congratular de el operación de salvamento a cargo de el buque español lossada en declaración a el periodista afirmar que este rescate demostrar el bueno colaboración que españa tener con senegal en materia migratorio",
+        "lemmatized_text_reduced": "buque hospital instituto social marina_española esperanza_del_mar rescatar inmigrante ilegal africano pedir auxilio ir cayuco rumbo canarias buque llegar puerto dakar cayuco ser rescatar lanzar mensaje socorro pesquero español faenar zona costa senegalés portavoz esperanza_del_mar radio local llegada puerto dakar autoridad local hacer_cargo inmigrante identificación comisaría puerto necesitar asistencia hospitalario responsable médico buque hospital jaime_serna declaración periodista explicar rescatar encontrar bueno estado presentar síntoma deshidratación herida piel inmigrante ser varón edad comprender año descartar poder ser menor edad relatar serna secretario estado español asuntos_exteriores ángel_lossada llegar dakar marco gira país áfrica_occidental congratular operación salvamento cargo buque español lossada declaración periodista afirmar rescate demostrar bueno colaboración españa tener senegal materia migratorio",
+        "persons": [
+            "Esperanza_del_Mar",
+            "Jaime_Serna",
+            "Serna",
+            "Ángel_Lossada",
+            "Lossada",
+            "España",
+            "Senegal"
+        ],
+        "locations": [
+            "Canarias",
+            "Dakar",
+            "Dakar",
+            "Dakar",
+            "África_Occidental"
+        ],
+        "organizations": [
+            "Instituto",
+            "Marina_Española",
+            "Estado",
+            "Asuntos_Exteriores"
+        ],
+        "others": [
+            "Esperanza_del_Mar"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]",
+            "[??:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "64",
+            "LN_mi:12",
+            "18",
+            "34",
+            "4"
+        ]
+    }
+}

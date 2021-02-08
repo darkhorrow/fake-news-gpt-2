@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/642708/0/",
+    "title": {
+        "raw_text": "La Cámara de Las Palmas ve \"intolerable\" y \"un abuso\" que Iberia cobre 60 euros por la segunda maleta",
+        "lemmatized_text": "el cámara_de_las_palmas ver intolerable y uno abuso que iberia cobrar $_ECU:60 por el 2 maleta",
+        "lemmatized_text_reduced": "cámara_de_las_palmas ver intolerable abuso iberia cobrar 2 maleta",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Las_Palmas",
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:60"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente de la Cámara Oficial de Comercio, Industria y Navegación de Las Palmas, Ángel Luis Tadeo Tejera, consideró hoy \"intolerable\" y un \"auténtico abuso\" que la compañía Iberia cobre a los pasajeros de clase turista por facturar la segunda maleta de su equipaje.",
+        "lemmatized_text": "el presidente de el cámara_oficial_de_comercio industria y navegación_de_las_palmas ángel_luis_tadeo_tejera considerar hoy intolerable y uno auténtico abuso que el compañía iberia cobre a el pasajero de clase turista por facturar el 2 maleta de su equipaje",
+        "lemmatized_text_reduced": "presidente cámara_oficial_de_comercio industria navegación_de_las_palmas ángel_luis_tadeo_tejera considerar intolerable auténtico abuso compañía iberia cobre pasajero clase turista facturar 2 maleta equipaje",
+        "persons": [
+            "Ángel_Luis_Tadeo_Tejera"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cámara_Oficial_de_Comercio",
+            "Industria",
+            "Navegación_de_Las_Palmas",
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Cámara de Las Palmas se suma así a las quejas manifestadas por diversas instituciones ante la decisión de esta compañía aérea de cobrar el segundo equipaje de los pasajeros a 60 euros, medida que fue aprobada el pasado lunes, 1 de marzo. Ángel Luis Tadeo afirma, a través de un comunicado, que el archipiélago cuenta con la imposibilidad de optar por otros medios de transporte para viajar tanto a la Península, como al extranjero, y que esta medida \"no es más que un auténtico atropello por parte de Iberia hacia los pasajeros\". El presidente de la corporación lanza así un mensaje a las instituciones pertinentes y al Gobierno regional para que, en la medida de lo posible, \"utilicen todos los instrumentos que tengan a su alcance\", ya que estima que esta nueva normativa afecta en mayor medida a los pasajeros canarios.",
+        "lemmatized_text": "el cámara_de_las_palmas se sumar así a el queja manifestar por diverso institución ante el decisión de este compañía aéreo de cobrar el 2 equipaje de el pasajero a $_ECU:60 medida que ser aprobar el [L:1/3/??:??.??:??] ángel_luis_tadeo afirmar a_través_de uno comunicado que el archipiélago contar con el imposibilidad de optar por otro medio de transporte para viajar tanto a el península como a el extranjero y que este medida no ser más que uno auténtico atropello por parte de iberia hacia el pasajero el presidente de el corporación lanzar así uno mensaje a el institución pertinente y a el gobierno regional para que en el medida de el posible utilizar todo el instrumento que tener a su alcance ya_que estimar que este nuevo normativa afectar en mayor medida a el pasajero canario",
+        "lemmatized_text_reduced": "cámara_de_las_palmas sumar queja manifestar institución decisión compañía aéreo cobrar 2 equipaje pasajero medida ser aprobar ángel_luis_tadeo afirmar comunicado archipiélago contar imposibilidad optar medio transporte viajar península extranjero medida ser auténtico atropello parte iberia pasajero presidente corporación lanzar mensaje institución pertinente gobierno regional medida posible utilizar instrumento tener alcance estimar nuevo normativa afectar mayor medida pasajero canario",
+        "persons": [],
+        "locations": [
+            "Península"
+        ],
+        "organizations": [
+            "Cámara_de_Las_Palmas",
+            "Iberia",
+            "Gobierno"
+        ],
+        "others": [
+            "Ángel_Luis_Tadeo"
+        ],
+        "dates": [
+            "[L:1/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:60"
+        ]
+    }
+}

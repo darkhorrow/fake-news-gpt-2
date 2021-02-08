@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/712007/0/",
+    "title": {
+        "raw_text": "Dos agentes de la Policía Nacional heridos en una \"espectacular\" persecución en Gran Canaria",
+        "lemmatized_text": "2 agente de el policía_nacional herir en uno espectacular persecución en gran_canaria",
+        "lemmatized_text_reduced": "agente policía_nacional herir espectacular persecución gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos agentes del Cuerpo Nacional de Policía han resultado heridos de carácter leve en una \"espectacular\" persecución a un hombre que se dio a la fuga en su vehículo desde la localidad de Maspalomas, en San Bartolomé de Tirajana, al sur de Gran Canaria, hasta las inmediaciones del Centro Comercial Las Terrazas, en Telde, donde fue finalmente detenido.",
+        "lemmatized_text": "2 agente de el cuerpo_nacional_de_policía haber resultar herido de carácter leve en uno espectacular persecución a uno hombre que se dar a el fuga en su vehículo desde el localidad de maspalomas en san_bartolomé_de_tirajana a el sur de gran_canaria hasta el inmediación de el centro_comercial_las_terrazas en telde donde ser finalmente detener",
+        "lemmatized_text_reduced": "agente cuerpo_nacional_de_policía haber resultar herido carácter leve espectacular persecución hombre dar fuga vehículo localidad maspalomas san_bartolomé_de_tirajana sur gran_canaria inmediación centro_comercial_las_terrazas telde ser finalmente detener",
+        "persons": [],
+        "locations": [
+            "Maspalomas",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Telde"
+        ],
+        "organizations": [
+            "Cuerpo_Nacional_de_Policía",
+            "Centro_Comercial_Las_Terrazas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo informaron a Europa Press fuentes policiales, que explicaron que los hechos ocurrieron pasadas las 16.00 horas tras producirse un tirón a una persona en Maspalomas. Tras ser alertados, los agentes procedieron al seguimiento del vehículo implicado y solicitaron la colaboración de otros miembros de la Policía Nacional en el municipio de Telde, al sureste de la isla. De este modo, el suceso ha movilizado a varios vehículos del Cuerpo Nacional de Policía, que siguieron al coche fugado hasta que éste se desvió por la carretera en dirección al Centro Comercial Las Terrazas, en Jinámar, donde el vehículo embistió a un coche policial. Como consecuencia del impacto, resultaron afectados dos agentes, informaron las mismas fuentes.",
+        "lemmatized_text": "así lo informar a europa_press fuente policial que explicar que el hecho ocurrir pasar el TM_h:16 tras producir se uno tirón a uno persona en maspalomas tras ser alertar el agente proceder a el seguimiento de el vehículo implicar y solicitar el colaboración de otro miembro de el policía_nacional en el municipio de telde a el sureste de el isla de este modo el suceso haber movilizar a varios vehículo de el cuerpo_nacional_de_policía que seguir a el coche fugar hasta que este se desviar por el carretera en dirección a el centro_comercial_las_terrazas en jinámar donde el vehículo embestir a uno coche policial como consecuencia de el impacto resultar afectar 2 agente informar el mismo fuente",
+        "lemmatized_text_reduced": "informar europa_press fuente policial explicar hecho ocurrir pasar producir tirón persona maspalomas ser alertar agente proceder seguimiento vehículo implicar solicitar colaboración miembro policía_nacional municipio telde sureste isla modo suceso haber movilizar vehículo cuerpo_nacional_de_policía seguir coche fugar desviar carretera dirección centro_comercial_las_terrazas jinámar vehículo embestir coche policial consecuencia impacto resultar afectar agente informar mismo fuente",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Maspalomas",
+            "Telde",
+            "Jinámar"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Cuerpo_Nacional_de_Policía",
+            "Centro_Comercial_Las_Terrazas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16",
+            "2"
+        ]
+    }
+}

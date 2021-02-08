@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/658574/0/",
+    "title": {
+        "raw_text": "Una mujer de 27 años herida tras la salida de vía de su vehículo en Gran Canaria",
+        "lemmatized_text": "uno mujer de 27 año herir tras el salida de vía de su vehículo en gran_canaria",
+        "lemmatized_text_reduced": "mujer año herir salida vía vehículo gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "27"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una mujer de 27 años ha resultado herida con policontusiones de carácter leve tras la salida de vía del vehículo en el que circulaba en la carretera GC-3 en dirección Tafira a Las Palmas de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno mujer de 27 año haber resultar herida con policontusión de carácter leve tras el salida de vía de el vehículo en el que circular en el carretera GC-3 en dirección tafira a las_palmas_de_gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "mujer año haber resultar herida policontusión carácter leve salida vía vehículo circular carretera dirección tafira las_palmas_de_gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Tafira",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "27",
+            "GC-3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 07.30 horas, cuando varias llamadas alertaron al Cecoes del accidente a la altura de la potabilizadora, al sureste de la isla. De este modo, el 112 activó el dispositivo de emergencias necesario. Hasta el lugar se desplazó una ambulancia de soporte vital básico del Servicio de Urgencias Canario, que trasladó a la afectada hasta el Hospital Universitario Insular de Gran Canaria para su observación. En dicha actuación intervino la Guardia Civil que se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:7.3 cuando varios llamada alertar a el cecoes de el accidente a el altura de el potabilizadora a el sureste de el isla de este modo el 112 activar el dispositivo de emergencia necesario hasta el lugar se desplazar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario que trasladar a el afectado hasta el hospital_universitario_insular_de_gran_canaria para su observación en decir actuación intervenir el guardia_civil que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes accidente altura potabilizadora sureste isla modo activar dispositivo emergencia necesario lugar desplazar ambulancia soporte vital básico servicio_de_urgencias_canario trasladar afectado hospital_universitario_insular_de_gran_canaria observación decir actuación intervenir guardia_civil encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.3",
+            "112"
+        ]
+    }
+}

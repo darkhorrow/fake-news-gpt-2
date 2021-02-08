@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/308995/0/afectados/incendios/canarias/",
+    "title": {
+        "raw_text": "Hunde sus piernas en hormigón y lo deja fraguar para protestar ante las autoridades",
+        "lemmatized_text": "hundir su pierna en hormigón y lo dejar fraguar para protestar ante el autoridad",
+        "lemmatized_text_reduced": "hundir pierna hormigón dejar fraguar protestar autoridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Califica de lentas las acciones del gobierno para dar una solución a quienes perdieron sus casas en el incendio de agosto. Su centenaria vivienda fue una de las devoradas por las llamas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "calificar de lento el acción de el gobierno para dar uno solución a quien perder su casa en el incendio de [??:??/8/??:??.??:??] su centenario vivienda ser uno de el devorar por el llama consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "calificar lento acción gobierno dar solución perder casa incendio centenario vivienda ser devorar llama consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/8/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De nada le ha valido a Paloma Monte Mayor recorrer toda Gran Canaria caminando. De nada le han valido las protestas frente a los organismos regionales encargados de ver por su queja. Pero esto no ha doblegado su voluntad, ni ha logrado agotar su creatividad a la hora de idear sus protestas. La última idea que puso en práctica Paloma fue introducir en hormigón las piernas y dejar que éste fraguara, para llamar la atención de las autoridades y pedir la ayuda económica que precisa para reconstruir su casa, arrasada por el fuego durante los incendios del verano pasado . Luego de pasar todo el día con las piernas dentro del hormigón, a las 20:00 horas, los bomberos de la capital de Gran Canaria debieron intervenir y así impedir que sufriera un daño irreversible. Monte Mayor ha venido protestando ante diversas instancias gubernamentales, ha reunido y entregado todos los recaudos que le han exigido, y sólo ha encontrado \"lentitud burocrática y la incompetencia de las administraciones locales\". Paloma es una de las tantas víctimas de los incendios ocurridos en Gran Canaria en agosto de este año. Artesana de 45 años, casada y con dos hijos (de 4 y 9 años), vecina del barranco de Soria, el incendio arrasó por completo una casa centenaria que tenía en este sector. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "de nada le haber valer a paloma_monte_mayor recorrer todo gran_canaria caminar de nada le haber valer el protesta frente_a el organismo regional encargar de ver por su queja pero este no haber doblegar su voluntad ni haber lograr agotar su creatividad a el hora de idear su protesta el último idea que poner en práctica paloma ser introducir en hormigón el pierna y dejar que este fraguar para llamar el atención de el autoridad y pedir el ayuda económico que precisar para reconstruir su casa arrasar por el fuego durante el incendio de el verano pasar luego_de pasar todo el día con el pierna dentro de el hormigón a el TM_h:20:00 el bombero de el capital de gran_canaria deber intervenir y así impedir que sufrir uno daño irreversible monte_mayor haber venir protestar ante diverso instancia gubernamental haber reunir y entregar todo el recaudo que le haber exigir y sólo haber encontrar lentitud burocrático y el incompetencia de el administración local paloma ser uno de el tanto víctima de el incendio ocurrir en gran_canaria en [??:??/8/??:??.??:??] de este año artesano de 45 año casar y con 2 hijo de 4 y 9 año vecino de el barranco de soria el incendio arrasar por completo uno casa centenario que tener en este sector consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber valer paloma_monte_mayor recorrer gran_canaria caminar haber valer protesta organismo regional encargar ver queja haber doblegar voluntad haber lograr agotar creatividad hora idear protesta último idea poner práctica paloma ser introducir hormigón pierna dejar fraguar llamar atención autoridad pedir ayuda económico precisar reconstruir casa arrasar fuego incendio verano pasar pasar día pierna hormigón bombero capital gran_canaria deber intervenir impedir sufrir daño irreversible monte_mayor haber venir protestar instancia gubernamental haber reunir entregar recaudo haber exigir haber encontrar lentitud burocrático incompetencia administración local paloma ser víctima incendio ocurrir gran_canaria año artesano año casar hijo año vecino barranco soria incendio arrasar completo casa centenario tener sector consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Paloma_Monte_Mayor",
+            "Monte_Mayor"
+        ],
+        "locations": [
+            "Paloma",
+            "Gran_Canaria",
+            "Paloma",
+            "Gran_Canaria",
+            "Soria"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/8/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:20:00",
+            "45",
+            "2",
+            "4",
+            "9"
+        ]
+    }
+}

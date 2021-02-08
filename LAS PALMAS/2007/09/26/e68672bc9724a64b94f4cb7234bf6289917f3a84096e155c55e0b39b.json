@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-09-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/281639/0/guardia/inmigrantes/intercepta/",
+    "title": {
+        "raw_text": "La Guardia Civil intercepta una barca con cinco inmigrantes en aguas de Gran Canaria",
+        "lemmatized_text": "el guardia_civil interceptar uno barca con 5 inmigrante en agua de gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil interceptar barca inmigrante agua gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Uno de ellos se encuentra mal de salud. Estaban a cinco millas del sur grancanario. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno de ellos se encontrar mal de salud estar a LN_mi:5 de el sur grancanario consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "encontrar salud estar sur grancanario consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:5"
+        ]
+    },
+    "body": {
+        "raw_text": "La Guardia Civil interceptó la pasada medianoche una barquilla con cinco inmigrantes a bordo en aguas de Gran Canaria, informaron hoy fuentes de los servicios de emergencias. La embarcación fue alcanzada a cinco millas del sur grancanario y fue llevada hasta el muelle de Arguineguín . Uno de sus ocupantes, todos varones de origen magrebí, fue trasladado a un centro de salud aquejado de dolor abdominal . CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el guardia_civil interceptar el pasar [??:??/??/??:00.00:am] uno barquilla con 5 inmigrante a_bordo en agua de gran_canaria informar hoy fuente de el servicio de emergencia el embarcación ser alcanzar a LN_mi:5 de el sur grancanario y ser llevar hasta el muelle de arguineguín uno de su ocupante todo varón de origen magrebí ser trasladar a uno centro de salud aquejar de dolor abdominal consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil interceptar pasar barquilla inmigrante agua gran_canaria informar fuente servicio emergencia embarcación ser alcanzar sur grancanario ser llevar muelle arguineguín ocupante varón origen magrebí ser trasladar centro salud aquejar dolor abdominal consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "5",
+            "LN_mi:5"
+        ]
+    }
+}

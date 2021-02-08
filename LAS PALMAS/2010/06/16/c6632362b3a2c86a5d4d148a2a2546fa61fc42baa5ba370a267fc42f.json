@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/738896/0/",
+    "title": {
+        "raw_text": "Transmediterránea recibe un nuevo buque de carga para su línea Cádiz-Canarias",
+        "lemmatized_text": "transmediterránea recibir uno nuevo buque de carga para su línea cádiz-canarias",
+        "lemmatized_text_reduced": "transmediterránea recibir nuevo buque carga línea cádiz-canarias",
+        "persons": [
+            "Transmediterránea"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cádiz-Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Acciona Transmediterránea ha recibido el nuevo buque de carga 'Super-Fast Baleares', con el que incrementará en un 10 por ciento su oferta de carga en la línea que cubre el trayecto entre Cádiz y Canarias a partir del próximo 26 de junio.",
+        "lemmatized_text": "accionar transmediterránea haber recibir el nuevo buque de carga super-fast_baleares con el que incrementar en uno 10 por 100 su oferta de carga en el línea que cubrir el trayecto entre cádiz y canarias a partir de el [??:26/6/??:??.??:??]",
+        "lemmatized_text_reduced": "accionar transmediterránea haber recibir nuevo buque carga super-fast_baleares incrementar oferta carga línea cubrir trayecto cádiz canarias partir",
+        "persons": [
+            "Transmediterránea"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cádiz",
+            "Canarias"
+        ],
+        "others": [
+            "Super-Fast_Baleares"
+        ],
+        "dates": [
+            "[??:26/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "Según indicó hoy en un comunicado, este es el segundo de los buques gemelos 'Roll-on Roll-of' que la compañía encargó a Navantia, en una operación valorada en 200 millones de euros. Esta nueva embarcación, que puede alcanzar los 26 nudos de velocidad, conectará cada semana los puertos de Cádiz, Santa Cruz de Tenerife, Las Palmas de Gran Canaria y Arrecife, así como el sentido inverso de la ruta. El 'Super-Fast Baleares', al igual que su buque gemelo 'José María Entrecanales', está diseñado para hacer dos rotaciones semanales en rutas entre 700 y 800 millas náuticas o, alternativamente, una rotación semanal en rutas de 1500 millas. El barco presenta 209 metros de eslora y 26,5 metros de manga, con un calado de siete metros y una distancia de 9,6 metros del puntal a la cubierta. Dispone, además, de 210 plataformas de 31 toneladas de carga, así como medio centenar de contenedores de doble altura.",
+        "lemmatized_text": "según indicar hoy en uno comunicado este ser el 2 de el buque gemelo roll-on_roll-of que el compañía encargar a navantia en uno operación valorar en $_ECU:200000000 este nuevo embarcación que poder alcanzar el 26 nudo de velocidad conectar cada semana el puerto de cádiz santa_cruz_de_tenerife las_palmas_de_gran_canaria y arrecife así_como el sentido inverso de el ruta el super-fast_baleares al_igual_que su buque gemelo josé_maría_entrecanales estar diseñar para hacer 2 rotación semanal en ruta entre 700 y LN_mi:800 náutico o alternativamente uno rotación semanal en ruta de LN_mi:1500 el barco presentar LN_m:209 de eslora y LN_m:26,5 de manga con uno calado de LN_m:7 y uno distancia de LN_m:9,6 de el puntal a el cubierta disponer además de 210 plataforma de WG_tm:31 de carga así_como 50 de contenedor de doble altura",
+        "lemmatized_text_reduced": "indicar comunicado ser 2 buque gemelo roll-on_roll-of compañía encargar navantia operación valorar nuevo embarcación poder alcanzar nudo velocidad conectar semana puerto cádiz santa_cruz_de_tenerife las_palmas_de_gran_canaria arrecife sentido inverso ruta super-fast_baleares buque gemelo josé_maría_entrecanales estar diseñar hacer rotación semanal ruta náutico alternativamente rotación semanal ruta barco presentar eslora manga calado distancia puntal cubierta disponer plataforma carga contenedor doble altura",
+        "persons": [
+            "José_María_Entrecanales"
+        ],
+        "locations": [
+            "Cádiz",
+            "Las_Palmas_de_Gran_Canaria",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Roll-on_Roll-of",
+            "Navantia",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "others": [
+            "Super-Fast_Baleares"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:200000000",
+            "26",
+            "2",
+            "700",
+            "LN_mi:800",
+            "LN_mi:1500",
+            "LN_m:209",
+            "LN_m:26,5",
+            "LN_m:7",
+            "LN_m:9,6",
+            "210",
+            "WG_tm:31",
+            "50"
+        ]
+    }
+}

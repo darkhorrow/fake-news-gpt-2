@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-02-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/453568/0/cocaina/droga/tributaria/",
+    "title": {
+        "raw_text": "Apresado cerca de Canarias un pesquero que transportaba 5.000 kilos de cocaína",
+        "lemmatized_text": "apresar cerca de canarias uno pesquero que transportar 5 kilo de cocaína",
+        "lemmatized_text_reduced": "apresar canarias pesquero transportar kilo cocaína",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Fue localizado a unas 800 millas náuticas de Canarias. Han sido detenidos los cinco tripulantes venezolanos del barco. El valor de la droga podría superar los 250 millones de euros.",
+        "lemmatized_text": "ser localizar a uno LN_mi:800 náutico de canarias haber ser detener el 5 tripulante venezolano de el barco el valor de el droga poder superar el $_ECU:250000000",
+        "lemmatized_text_reduced": "ser localizar náutico canarias haber ser detener tripulante venezolano barco valor droga poder superar",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:800",
+            "5",
+            "$_ECU:250000000"
+        ]
+    },
+    "body": {
+        "raw_text": "La Agencia Estatal de la Administración Tributaria ha apresado en aguas del Atlántico, a unas 800 millas náuticas de Canarias, un pesquero que transportaba 5.000 kilos de cocaína , en una operación en la que han sido detenidos los cinco tripulantes venezolanos del barco. Según informa la Agencia Tributaria, el apresamiento del 'Doña Fortuna', una embarcación fluvial de unos 16 metros de eslora, tuvo lugar a las 5:57 horas de este jueves, cuando funcionarios de este organismo embarcados en el patrullero de la Armada 'Centinela' abordaron el buque . A bordo se hallaron más de 180 fardos de cocaína de entre 25 y 30 kilos de peso cada uno, por lo que el valor de la droga intervenida podría superar los 250 millones de euros .",
+        "lemmatized_text": "el agencia_estatal_de_la_administración_tributaria haber apresar en agua de el atlántico a uno LN_mi:800 náutico de canarias uno pesquero que transportar 5 kilo de cocaína en uno operación en el que haber ser detener el 5 tripulante venezolano de el barco según informar el agencia_tributaria el apresamiento de el doña_fortuna uno embarcación fluvial de uno LN_m:16 de eslora tener_lugar a el TM_h:5:57 de este [J:??/??/??:??.??:??] cuando funcionario de este organismo embarcar en el patrullero de el armada centinela abordar el buque a_bordo se hallar más de 180 fardo de cocaína de entre 25 y 30 kilo de peso cada uno por el que el valor de el droga intervenir poder superar el $_ECU:250000000",
+        "lemmatized_text_reduced": "agencia_estatal_de_la_administración_tributaria haber apresar agua atlántico náutico canarias pesquero transportar kilo cocaína operación haber ser detener tripulante venezolano barco informar agencia_tributaria apresamiento doña_fortuna embarcación fluvial eslora tener_lugar funcionario organismo embarcar patrullero armada centinela abordar buque hallar fardo cocaína kilo peso valor droga intervenir poder superar",
+        "persons": [
+            "Doña_Fortuna"
+        ],
+        "locations": [
+            "Canarias",
+            "Centinela"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_la_Administración_Tributaria",
+            "Agencia_Tributaria",
+            "Armada"
+        ],
+        "others": [
+            "Atlántico"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mi:800",
+            "5",
+            "5",
+            "LN_m:16",
+            "TM_h:5:57",
+            "180",
+            "25",
+            "30",
+            "$_ECU:250000000"
+        ]
+    }
+}

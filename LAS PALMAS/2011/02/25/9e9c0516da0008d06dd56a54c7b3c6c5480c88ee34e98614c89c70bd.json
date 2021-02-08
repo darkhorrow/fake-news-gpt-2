@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/971975/0/",
+    "title": {
+        "raw_text": "Una mujer grave al ser sacada de una playa de Gran Canaria con síntomas de ahogamiento",
+        "lemmatized_text": "uno mujer grave a el ser sacar de uno playa de gran_canaria con síntoma de ahogamiento",
+        "lemmatized_text_reduced": "mujer grave ser sacar playa gran_canaria síntoma ahogamiento",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer se encuentra en estado grave después de ser sacada de una playa de Gran Canaria con síntomas de ahogamiento, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno mujer se encontrar en estado grave después_de ser sacar de uno playa de gran_canaria con síntoma de ahogamiento según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "mujer encontrar estado grave ser sacar playa gran_canaria síntoma ahogamiento informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer se encuentra en estado grave después de ser sacada de una playa de Gran Canaria con síntomas de ahogamiento, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo en la tarde de este viernes en la playa de Anfi del Mar, en Mogán (Gran Canaria), y la afectada es una mujer de 40 años de edad, que tuvo que ser evacuada por el Servicio de Urgencias Canario (SUC) al Hospital Universitario Insular de Gran Canaria. En el lugar de los hechos además del personal del SUC, también acudieron agentes de la policía local, que se encargaron de instruir las diligencias correspondientes.",
+        "lemmatized_text": "uno mujer se encontrar en estado grave después_de ser sacar de uno playa de gran_canaria con síntoma de ahogamiento según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir en el tarde de este [V:??/??/??:??.??:??] en el playa de anfi_del_mar en mogán gran_canaria y el afectado ser uno mujer de 40 año de edad que tener que ser evacuar por el servicio_de_urgencias_canario suc a el hospital_universitario_insular_de_gran_canaria en el lugar de el hecho además de el personal de el suc también acudir agente de el policía local que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "mujer encontrar estado grave ser sacar playa gran_canaria síntoma ahogamiento informar centro_coordinador_de_emergencias seguridad incidente producir tarde playa anfi_del_mar mogán gran_canaria afectado ser mujer año edad tener ser evacuar servicio_de_urgencias_canario suc hospital_universitario_insular_de_gran_canaria lugar hecho personal suc acudir agente policía local encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Anfi_del_Mar",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "SUC"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "40"
+        ]
+    }
+}

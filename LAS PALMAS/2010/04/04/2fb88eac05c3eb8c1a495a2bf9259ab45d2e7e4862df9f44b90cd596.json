@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/668317/0/",
+    "title": {
+        "raw_text": "La ARC 2010 cuenta ya con 250 barcos registrados para cruzar el Atlántico desde Gran Canaria",
+        "lemmatized_text": "el arc 2010 cuenta ya con 250 barco registrar para cruzar el atlántico desde gran_canaria",
+        "lemmatized_text_reduced": "arc cuenta barco registrar cruzar atlántico gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "ARC"
+        ],
+        "others": [
+            "Atlántico"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "250"
+        ]
+    },
+    "lead": {
+        "raw_text": "La ARC 2010, la regata que cada año cruza el Atlántico desde Gran Canaria, cuenta ya con 250 barcos registrados para realizar esta travesía. Actualmente tiene \"overbooking\", ya que hay diez embarcaciones en listas de espera.",
+        "lemmatized_text": "el arc 2010 el regata que cada año cruzar el atlántico desde gran_canaria contar ya con 250 barco registrar para realizar este travesía actualmente tener overbooking ya_que haber 10 embarcación en lista de espera",
+        "lemmatized_text_reduced": "arc regata año cruzar atlántico gran_canaria contar barco registrar realizar travesía actualmente tener overbooking haber embarcación lista espera",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "ARC"
+        ],
+        "others": [
+            "Atlántico"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "250",
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "Este año, además, la ARC cumple su 25 aniversario para lo que prevé un programa de actos que incluye el reconocimiento a diversas personalidades y organizaciones que han contribuido a su consolidación, según informó el Cabildo de Gran Canaria en nota de prensa, ya que colabora en dicho evento. Así, de los barcos registrados los procedentes de Reino Unido y Alemania son los \"más numerosos\", si bien las nacionalidades cubren un \"amplio abanico\" de países hasta llegar a las 28 nacionalidades. Por su parte, el consejero de Turismo, Comercio Exterior e Innovación Tecnológica del Cabildo de Gran Canaria, Roberto Moreno, destacó que la ARC además de ser una actividad deportiva \"tiene un indudable interés turístico\" para la isla. Agregó, el también presidente del Patronato de Turismo de Gran Canaria, que el gasto medio por barco durante su estancia en la capital grancanaria \"asciende a una media de 6.000 euros, pues las tripulaciones aprovechan para hacer reparaciones, comprar avituallamiento, además de alquilar coches y otros servicios\". En este sentido, indicó que \"al menos un 35 por ciento\" de los participantes pernoctan en hoteles de Las Palmas de Gran Canaria antes de hacerse a la mar. Por ello, apuntó que el total estimado en \"repercusión mediática en Europa sobrepasó los 3 millones de euros en la edición de 2009\". Moreno recordó que el impacto mediático en el exterior \"es también considerable y no solamente durante la celebración de la regata, en medios de prensa escrita, televisión y radio alemanas, nórdicas, inglesas, etcétera\". Finalmente, indicó que la regata y Gran Canaria se promocionan en ferias navales y de turismo especializado en el sector náutico.",
+        "lemmatized_text": "este año además el arc cumplir su 25 aniversario para el que prever uno programa de acto que incluir el reconocimiento a diverso personalidad y organización que haber contribuir a su consolidación según informar el cabildo_de_gran_canaria en nota de prensa ya_que colaborar en decir evento así de el barco registrar el procedente de reino_unido y alemania ser el más numeroso si bien el nacionalidad cubrir uno amplio abanico de país hasta llegar a el 28 nacionalidad por su parte el consejero de turismo comercio_exterior y innovación_tecnológica_del_cabildo_de_gran_canaria roberto_moreno destacar que el arc además_de ser uno actividad deportivo tener uno indudable interés turístico para el isla agregar el también presidente de el patronato_de_turismo_de_gran_canaria que el gasto medio por barco durante su estancia en el capital grancanaria ascender a uno media de $_ECU:6 pues el tripulación aprovechar para hacer reparación comprar avituallamiento además_de alquilar coche y otro servicio en este sentido indicar que a el menos uno 35 por 100 de el participante pernoctar en hotel de las_palmas_de_gran_canaria antes_de hacer se a el marzo por ello apuntar que el total estimar en repercusión mediático en europa sobrepasar el $_ECU:3000000 en el edición de 2009 moreno recordar que el impacto mediático en el exterior ser también considerable y no solamente durante el celebración de el regata en medio de prensa escribir televisión y radio alemán nórdico inglés finalmente indicar que el regata y gran_canaria se promocionar en feria naval y de turismo especializar en el sector náutico",
+        "lemmatized_text_reduced": "año arc cumplir aniversario prever programa acto incluir reconocimiento personalidad organización haber contribuir consolidación informar cabildo_de_gran_canaria nota prensa colaborar decir evento barco registrar procedente reino_unido alemania ser numeroso nacionalidad cubrir amplio abanico país llegar nacionalidad parte consejero turismo comercio_exterior innovación_tecnológica_del_cabildo_de_gran_canaria roberto_moreno destacar arc ser actividad deportivo tener indudable interés turístico isla agregar presidente patronato_de_turismo_de_gran_canaria gasto medio barco estancia capital grancanaria ascender media tripulación aprovechar hacer reparación comprar avituallamiento alquilar coche servicio sentido indicar participante pernoctar hotel las_palmas_de_gran_canaria hacer marzo por apuntar total estimar repercusión mediático europa sobrepasar edición moreno recordar impacto mediático exterior ser considerable solamente celebración regata medio prensa escribir televisión radio alemán nórdico inglés finalmente indicar regata gran_canaria promocionar feria naval turismo especializar sector náutico",
+        "persons": [
+            "Roberto_Moreno"
+        ],
+        "locations": [
+            "Reino_Unido",
+            "Alemania",
+            "Las_Palmas_de_Gran_Canaria",
+            "Europa"
+        ],
+        "organizations": [
+            "ARC",
+            "Cabildo_de_Gran_Canaria",
+            "Innovación_Tecnológica_del_Cabildo_de_Gran_Canaria",
+            "ARC",
+            "Patronato_de_Turismo_de_Gran_Canaria",
+            "Por",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Turismo",
+            "Comercio_Exterior"
+        ],
+        "dates": [],
+        "numbers": [
+            "25",
+            "28",
+            "$_ECU:6",
+            "35",
+            "100",
+            "$_ECU:3000000",
+            "2009"
+        ]
+    }
+}

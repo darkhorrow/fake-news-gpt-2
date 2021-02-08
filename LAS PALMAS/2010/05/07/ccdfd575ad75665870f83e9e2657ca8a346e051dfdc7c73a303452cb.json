@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/700036/0/",
+    "title": {
+        "raw_text": "Detenido en el puerto de Agaete (Gran Canaria) cuando intentaba introducir 30 kilos de hachís",
+        "lemmatized_text": "detener en el puerto de agaete gran_canaria cuando intentar introducir 30 kilo de hachís",
+        "lemmatized_text_reduced": "detener puerto agaete gran_canaria intentar introducir kilo hachís",
+        "persons": [],
+        "locations": [
+            "Agaete"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30"
+        ]
+    },
+    "lead": {
+        "raw_text": "Agentes de la Guardia Civil han procedido a la detención de M.A.E.H, de 36 años de edad, de nacionalidad marroquí, como presunto autor de un delito contra la salud pública al intentar introducir un total de 30 kilogramos de hachís en Gran Canaria a través del puerto de Agaete, informó hoy la Benemérita en un comunicado.",
+        "lemmatized_text": "agentes_de_la_guardia_civil haber proceder a el detención de m.a.e._h de 36 año de edad de nacionalidad marroquí como presunto autor de uno delito contra el salud público a el intentar introducir uno total de WG_kg:30 de hachís en gran_canaria a través de el puerto de agaete informar hoy el benemérita en uno comunicado",
+        "lemmatized_text_reduced": "agentes_de_la_guardia_civil haber proceder detención m.a.e._h año edad nacionalidad marroquí presunto autor delito salud público intentar introducir total hachís gran_canaria través puerto agaete informar benemérita comunicado",
+        "persons": [
+            "M.A.E._H"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Agaete"
+        ],
+        "organizations": [
+            "Agentes_de_la_Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "36",
+            "WG_kg:30"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el pasado día 16 de abril , la Guardia Civil en Agaete, en el transcurso de uno de los operativos diarios de control de personas, vehículos y mercancías encaminado a la prevención de hechos delictivos así como el tráfico de sustancias estupefacientes y el refuerzo de la seguridad ciudadana, dio el alto a un vehículo que acababa de desembarcar el dicho muelle. Al inspeccionar el vehículo encuentran un fardo que contenía en su interior unos 30 kilogramos de sustancia vegetal prensada —hachís—. Por ello, se procedió a la detención del hombre, quedando intervenido vehículo en el que se localizó la droga y varios teléfonos móviles, así como dinero en efectivo. Por su parte, tanto el detenido como la droga, dinero y efectos intervenidos fueron puestos a disposición del juez del Juzgado de Instrucción Tres de los de Santa María de Guía, quien decretó el ingreso en prisión del detenido.",
+        "lemmatized_text": "de este manera el [??:16/4/??:??.??:??] el guardia_civil en agaete en el transcurso de uno de el operativo diario de control de persona vehículo y mercancía encaminar a el prevención de hecho delictivo así_como el tráfico de sustancia estupefaciente y el refuerzo de el seguridad ciudadano dar el alto a uno vehículo que acabar de desembarcar el decir muelle a el inspeccionar el vehículo encontrar uno fardo que contener en su interior uno WG_kg:30 de sustancia vegetal prensar hachís por ello se proceder a el detención de el hombre quedar intervenir vehículo en el que se localizar el droga y varios teléfono móvil así_como dinero en efectivo por su parte tanto el detener como el droga dinero y efecto intervenir ser poner a disposición de el juez de el juzgado_de_instrucción 3 de el de santa_maría_de_guía quien decretar el ingreso en prisión de el detener",
+        "lemmatized_text_reduced": "manera guardia_civil agaete transcurso operativo diario control persona vehículo mercancía encaminar prevención hecho delictivo tráfico sustancia estupefaciente refuerzo seguridad ciudadano dar alto vehículo acabar desembarcar decir muelle inspeccionar vehículo encontrar fardo contener interior sustancia vegetal prensar hachís proceder detención hombre quedar intervenir vehículo localizar droga teléfono móvil dinero efectivo parte detener droga dinero efecto intervenir ser poner disposición juez juzgado_de_instrucción santa_maría_de_guía decretar ingreso prisión detener",
+        "persons": [
+            "Santa_María_de_Guía"
+        ],
+        "locations": [
+            "Agaete"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Juzgado_de_Instrucción"
+        ],
+        "others": [],
+        "dates": [
+            "[??:16/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "WG_kg:30",
+            "3"
+        ]
+    }
+}

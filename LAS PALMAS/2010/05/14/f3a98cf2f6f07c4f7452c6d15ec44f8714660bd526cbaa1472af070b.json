@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/707577/0/",
+    "title": {
+        "raw_text": "La Cámara de Las Palmas muestra su preocupación por el impacto de la subida del petróleo en el transporte",
+        "lemmatized_text": "el cámara_de_las_palmas mostrar su preocupación por el impacto de el subida de el petróleo en el transporte",
+        "lemmatized_text_reduced": "cámara_de_las_palmas mostrar preocupación impacto subida petróleo transporte",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de la Cámara Oficial de Comercio, Industria y Navegación de Las Palmas, Ángel Luis Tadeo Tejera, expresó su temor a la repercusión del alza continuada de los precios del petróleo en el transporte, según informó hoy la Institución cameral en un comunicado.",
+        "lemmatized_text": "el presidente de el cámara_oficial_de_comercio industria y navegación_de_las_palmas ángel_luis_tadeo_tejera expresar su temor a el repercusión de el alza continuar de el precio de el petróleo en el transporte según informar hoy el institución cameral en uno comunicado",
+        "lemmatized_text_reduced": "presidente cámara_oficial_de_comercio industria navegación_de_las_palmas ángel_luis_tadeo_tejera expresar temor repercusión alza continuar precio petróleo transporte informar institución cameral comunicado",
+        "persons": [
+            "Ángel_Luis_Tadeo_Tejera"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cámara_Oficial_de_Comercio",
+            "Industria",
+            "Navegación_de_Las_Palmas",
+            "Institución"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"En nuestra economía lo podemos pagar muy caro, dada la alta dependencia energética que tenemos\", señaló mientras expresó su temor a la incidencia que esto pueda tener en el transporte. Asimismo, si bien el IPC parece afianzarse en la zona positiva, el presidente cameral advirtió de que \"lo hace arrastrado por el crudo y recordó la necesidad de aumentar urgentemente la competitividad, porque la dependencia del petróleo hará que se pierda espacio ante otros mercados\". Por su parte, el Índice de Precios de Consumo (IPC) creció el 0,9 por ciento durante el pasado mes de abril en Canarias, según los datos hechos públicos por el Instituto Nacional de Estadística (INE) este viernes. Con este incremento, la tasa interanual se sitúa en el 0,7 por ciento, lejos aún de la media estatal (1,5%), a la que el Archipiélago solo ha podido recortar una décima durante el último año. Este comportamiento alcista viene determinado, fundamentalmente, por la evolución de los precios de carburantes y combustibles, que acumulan ya un incremento del 25,8 por ciento en los últimos doce meses. También ayudó la subida en Vestido y Calzado (7,5%), que sigue recogiendo la entrada en el mercado de los productos de la temporada primavera-verano. Sin embargo, la inflación subyacente —sin alimentos no elaborados ni productos energéticos— vuelve a caer y se queda en el -0,8 por ciento, dato que define un panorama de fuerte contracción de la demanda canaria.",
+        "lemmatized_text": "en nuestro economía lo poder pagar muy caro dar el alto dependencia energético que tener señalar mientras expresar su temor a el incidencia que este poder tener en el transporte asimismo si bien el ipc parecer afianzar se en el zona positivo el presidente cameral advertir de que lo hacer arrastrar por el crudo y recordar el necesidad de aumentar urgentemente el competitividad porque el dependencia de el petróleo hacer que se perder espacio ante otro mercado por su parte el índice_de_precios_de_consumo ipc crecer el 0,9 por 100 durante el [??:??/4/??:??.??:??] en canarias según el dato hecho público por el instituto_nacional_de_estadística ine este [V:??/??/??:??.??:??] con este incremento el tasa interanual se situar en el 0,7 por 100 lejos aun de el media estatal 1,5/100 a el que el archipiélago solo haber poder recortar uno décima durante el último año este comportamiento alcista venir determinar fundamentalmente por el evolución de el precio de carburante y combustible que acumular ya uno incremento de el 25,8 por 100 en el último 12 mes también ayudar el subida en vestido y calzado 7,5/100 que seguir recoger el entrada en el mercado de el producto de el temporada primavera-verano sin embargo el inflación subyacente sin alimento no elaborar ni producto energético volver a caer y se quedar en el -0,8 por 100 dato que definir uno panorama de fuerte contracción de el demanda canario",
+        "lemmatized_text_reduced": "economía poder pagar caro dar alto dependencia energético tener señalar expresar temor incidencia poder tener transporte ipc parecer afianzar zona positivo presidente cameral advertir hacer arrastrar crudo recordar necesidad aumentar urgentemente competitividad dependencia petróleo hacer perder espacio mercado parte índice_de_precios_de_consumo ipc crecer canarias dato hecho público instituto_nacional_de_estadística ine incremento tasa interanual situar media estatal archipiélago solo haber poder recortar décima último año comportamiento alcista venir determinar fundamentalmente evolución precio carburante combustible acumular incremento último mes ayudar subida vestido calzado seguir recoger entrada mercado producto temporada primavera-verano embargo inflación subyacente alimento elaborar producto energético volver caer quedar dato definir panorama fuerte contracción demanda canario",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Vestido",
+            "Calzado"
+        ],
+        "organizations": [
+            "Índice_de_Precios_de_Consumo",
+            "Instituto_Nacional_de_Estadística",
+            "Archipiélago"
+        ],
+        "others": [
+            "IPC",
+            "IPC"
+        ],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "0,9",
+            "100",
+            "0,7",
+            "100",
+            "1,5/100",
+            "25,8",
+            "100",
+            "12",
+            "7,5/100",
+            "-0,8",
+            "100"
+        ]
+    }
+}

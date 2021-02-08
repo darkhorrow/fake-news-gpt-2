@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/651303/0/",
+    "title": {
+        "raw_text": "Tres jóvenes resultan heridos de distinta consideración tras volcar su vehículo en Fuerteventura",
+        "lemmatized_text": "3 joven resultar herir de distinto consideración tras volcar su vehículo en fuerteventura",
+        "lemmatized_text_reduced": "joven resultar herir distinto consideración volcar vehículo fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Tres jóvenes, de 15, 18 y 22 años de edad, han resultado heridos de distinta consideración tras volcar el vehículo en el que circulaban en la carretera FV-1, a la altura de la FV-3, zona de La Hondura, en el municipio de Puerto del Rosario, según informó el Centro Coordinador de Emergencias y Seguridad.",
+        "lemmatized_text": "3 joven de 15 18 y 22 año de edad haber resultar herido de distinto consideración tras volcar el vehículo en el que circular en el carretera FV-1 a el altura de el FV-3 zona de la_hondura en el municipio de puerto_del_rosario según informar el centro_coordinador_de_emergencias y seguridad",
+        "lemmatized_text_reduced": "joven año edad haber resultar herido distinto consideración volcar vehículo circular carretera altura zona la_hondura municipio puerto_del_rosario informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "La_Hondura",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "15",
+            "18",
+            "22",
+            "FV-1",
+            "FV-3"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 14.45 horas, cuando el Cecoes recibió información de que se había producido un vuelco en la dirección citada y de que sus ocupantes podrían precisar asistencia sanitaria. Así, el 112 activó de inmediato los recursos de emergencia necesarios. Hasta el lugar se desplazó personal sanitario del Servicio de Urgencias Canario (SUC), que tras asistir a los tres afectados en el lugar, evacuó a uno de los ocupantes, un menor de 15 años de edad, que presentaba lesiones de mayor consideración por haber sufrido traumatismo craneoencefálico de carácter menos grave, hasta el centro hospitalario anteriormente mencionado. El adolescente fue trasladado en ambulancia de soporte vital básico del SUC al Hospital General de Fuerteventura. Igualmente, otros dos afectados de 18 y 22 años fueron evacuados también al Hospital General de Fuerteventura en recursos sanitarios de los Bomberos de Tuineje y de Cruz Roja, respectivamente, con lesiones de carácter leve. En dicha actuación intervino la Guardia Civil, que instruyó las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:14.45 cuando el cecoes recibir información de que se haber producir uno vuelco en el dirección citar y de que su ocupante poder precisar asistencia sanitario así el 112 activar de inmediato el recurso de emergencia necesario hasta el lugar se desplazar personal sanitario de el servicio_de_urgencias_canario suc que tras asistir a el 3 afectado en el lugar evacuar a uno de el ocupante uno menor de 15 año de edad que presentar lesión de mayor consideración por haber sufrir traumatismo craneoencefálico de carácter menos grave hasta el centro hospitalario anteriormente mencionar el adolescente ser trasladar en ambulancia de soporte vital básico de el suc a el hospital_general_de_fuerteventura igualmente otro 2 afectado de 18 y 22 año ser evacuar también a el hospital_general_de_fuerteventura en recurso sanitario de el bomberos_de_tuineje y de cruz_roja respectivamente con lesión de carácter leve en decir actuación intervenir el guardia_civil que instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir cecoes recibir información haber producir vuelco dirección citar ocupante poder precisar asistencia sanitario activar inmediato recurso emergencia necesario lugar desplazar personal sanitario servicio_de_urgencias_canario suc asistir afectado lugar evacuar ocupante menor año edad presentar lesión mayor consideración haber sufrir traumatismo craneoencefálico carácter grave centro hospitalario anteriormente mencionar adolescente ser trasladar ambulancia soporte vital básico suc hospital_general_de_fuerteventura igualmente afectado año ser evacuar hospital_general_de_fuerteventura recurso sanitario bomberos_de_tuineje cruz_roja respectivamente lesión carácter leve decir actuación intervenir guardia_civil instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_General_de_Fuerteventura",
+            "Hospital_General_de_Fuerteventura",
+            "Bomberos_de_Tuineje",
+            "Cruz_Roja",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.45",
+            "112",
+            "3",
+            "15",
+            "2",
+            "18",
+            "22"
+        ]
+    }
+}

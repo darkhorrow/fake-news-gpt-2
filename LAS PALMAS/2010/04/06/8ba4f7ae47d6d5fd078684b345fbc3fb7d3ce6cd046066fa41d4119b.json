@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/669403/0/",
+    "title": {
+        "raw_text": "Canarias registra 3.595 parados más en marzo y llega a los 261.534 desempleados",
+        "lemmatized_text": "canario registrar 3.595 parado más en [??:??/3/??:??.??:??] y llegar a el 261.534 desempleado",
+        "lemmatized_text_reduced": "canario registrar parado llegar desempleado",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "3.595",
+            "261.534"
+        ]
+    },
+    "lead": {
+        "raw_text": "El desempleo creció en 3.595 personas en marzo en la Comunidad Autónoma de Canarias, un 1,39 por ciento más respecto al mes anterior, con lo que el número total de parados alcanzó las 261.534 personas, según datos hechos públicos hoy por el Ministerio de Trabajo e Inmigración.",
+        "lemmatized_text": "el desempleo crecer en 3.595 persona en [??:??/3/??:??.??:??] en el comunidad_autónoma_de_canarias uno 1,39 por 100 más respecto a el mes anterior con el que el número total de parado alcanzar el 261.534 persona según dato hecho público hoy por el ministerio_de_trabajo y inmigración",
+        "lemmatized_text_reduced": "desempleo crecer persona comunidad_autónoma_de_canarias respecto mes anterior número total parado alcanzar persona dato hecho público ministerio_de_trabajo inmigración",
+        "persons": [],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Ministerio_de_Trabajo",
+            "Inmigración"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "3.595",
+            "1,39",
+            "100",
+            "261.534"
+        ]
+    },
+    "body": {
+        "raw_text": "Por provincias, Santa Cruz de Tenerife fue la que registró el mayor incremento de parados con 2.149 personas —un 1,83% más que en febrero—, mientras que el aumento del número de desempleados en Las Palmas fue de 1.446 individuos, un 1,03 por ciento más que el mes anterior. La subida del paro en el archipiélago fue la quinta mas importante entre las regiones durante este periodo, por debajo de Cataluña, Valencia, Madrid y Castilla-La Mancha. En el conjunto de España, el desempleo creció en 35.988 personas, un 0,9 por ciento más, y el número total de parados se situó en 4.166.613 personas, su nivel más alto en toda la serie histórica comparable, que arranca en 1996. (Habrá ampliación)",
+        "lemmatized_text": "por provincia santa_cruz_de_tenerife ser el que registrar el mayor incremento de parado con 2.149 persona uno 1,83/100 más que en [??:??/2/??:??.??:??] mientras_que el aumento de el número de desempleado en las_palmas ser de 1.446 individuo uno 1,03 por 100 más que el mes anterior el subida de el paro en el archipiélago ser el 5 mas importante entre el región durante este periodo por debajo_de cataluña valencia madrid y castilla-la_mancha en el conjunto de españa el desempleo crecer en 35.988 persona uno 0,9 por 100 más y el número total de parado se situar en 4.166.613 persona su nivel más alto en todo el serie histórico comparable que arrancar en 1996 haber ampliación",
+        "lemmatized_text_reduced": "provincia santa_cruz_de_tenerife ser registrar mayor incremento parado persona aumento número desempleado las_palmas ser individuo mes anterior subida paro archipiélago ser 5 importante región periodo cataluña valencia madrid castilla-la_mancha conjunto españa desempleo crecer persona número total parado situar persona nivel alto serie histórico comparable arrancar haber ampliación",
+        "persons": [
+            "España"
+        ],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "Cataluña",
+            "Valencia",
+            "Madrid",
+            "Castilla-La_Mancha"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "2.149",
+            "1,83/100",
+            "1.446",
+            "1,03",
+            "100",
+            "35.988",
+            "0,9",
+            "100",
+            "4.166.613",
+            "1996"
+        ]
+    }
+}

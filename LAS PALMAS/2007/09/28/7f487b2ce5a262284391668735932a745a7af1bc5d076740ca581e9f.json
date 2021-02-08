@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-09-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/283041/0/aprehendidas/toneladas/cocaina/",
+    "title": {
+        "raw_text": "Aprehendidos 3.200 kilos de cocaína en un barco venezolano apresado en alta mar",
+        "lemmatized_text": "aprehender 3.2 kilo de cocaína en uno barco venezolano apresar en alto mar",
+        "lemmatized_text_reduced": "aprehender kilo cocaína barco venezolano apresar alto mar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3.2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los ocho tripulantes han sido detenidos. Es la cuarta incautación de más de 3 toneladas en lo que va de año. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el 8 tripulante haber ser detener ser el 4 incautación de más de WG_tm:3 en el que ir de año consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "tripulante haber ser detener ser 4 incautación ir año consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8",
+            "WG_tm:3"
+        ]
+    },
+    "body": {
+        "raw_text": "La Agencia Tributaria ha aprehendido un alijo de 3.200 kilos de cocaína en un barco pesquero venezolano apresado en alta mar cuyos ocho tripulantes han sido detenidos, en lo que supone la cuarta incautación de más de tres toneladas en lo que va de año. El 'Zeus X', que tiene pabellón venezolano y matrícula del puerto de Sucre (Venezuela), fue abordado el pasado martes a 1.050 millas de Canarias por el buque de operaciones especiales de la Agencia Tributaria 'Petrel I', cuyos efectivos hallaron 92 fardos de cocaína de aproximadamente 35 kilos cada uno y que podrían haber alcanzado un precio de venta superior a los 190 millones de euros. Los detenidos, siete de nacionalidad venezolana y un ecuatoriano, el barco y la droga han sido puestos a disposición del Juzgado Central número 4 de la Audiencia Nacional, que ha decretado la prisión provisional para los acusados y el traslado del 'Zeus X' al puerto de Las Palmas de Gran Canaria, donde llegará el próximo martes. La operación respondió a la solicitud de colaboración del Centro de Operaciones y Análisis Marítimos sobre Narcóticos de Lisboa una vez que este organismo tuvo conocimiento de un posible transbordo de cocaína en aguas del Atlántico. Con este alijo, la Agencia Tributaria ha intervenido en lo que va de año más de 115.000 kilos de hachís y 20.000 kilos de cocaína . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el agencia_tributaria haber aprehender uno alijo de 3.2 kilo de cocaína en uno barco pesquero venezolano apresar en alto mar cuyo 8 tripulante haber ser detener en el que suponer el 4 incautación de más de WG_tm:3 en el que ir de año el zeus_x que tener pabellón venezolano y matrícula de el puerto de sucre venezuela ser abordar el [M:??/??/??:??.??:??] a LN_mi:1.05 de canarias por el buque de operación especial de el agencia_tributaria petrel_i cuyo efectivo hallar 92 fardo de cocaína de aproximadamente 35 kilo cada uno y que poder haber alcanzar uno precio de venta superior a el $_ECU:190000000 el detenido 7 de nacionalidad venezolano y uno ecuatoriano el barco y el droga haber ser poner a disposición de el juzgado_central número 4 de el audiencia_nacional que haber decretar el prisión provisional para el acusado y el traslado de el zeus_x a el puerto de las_palmas_de_gran_canaria donde llegar el [M:??/??/??:??.??:??] el operación responder a el solicitud de colaboración de el centro_de_operaciones y análisis_marítimos sobre narcóticos_de_lisboa una_vez_que este organismo tener conocimiento de uno posible transbordo de cocaína en agua de el atlántico con este alijo el agencia_tributaria haber intervenir en el que ir de año más de 115 kilo de hachís y 20 kilo de cocaína consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "agencia_tributaria haber aprehender alijo kilo cocaína barco pesquero venezolano apresar alto mar tripulante haber ser detener suponer 4 incautación ir año zeus_x tener pabellón venezolano matrícula puerto sucre venezuela ser abordar canarias buque operación especial agencia_tributaria petrel_i efectivo hallar fardo cocaína aproximadamente kilo poder haber alcanzar precio venta superior detenido nacionalidad venezolano ecuatoriano barco droga haber ser poner disposición juzgado_central número audiencia_nacional haber decretar prisión provisional acusado traslado zeus_x puerto las_palmas_de_gran_canaria llegar operación responder solicitud colaboración centro_de_operaciones análisis_marítimos narcóticos_de_lisboa organismo tener conocimiento posible transbordo cocaína agua atlántico alijo agencia_tributaria haber intervenir ir año kilo hachís kilo cocaína consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Zeus_X"
+        ],
+        "locations": [
+            "Sucre",
+            "Venezuela",
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Agencia_Tributaria",
+            "Agencia_Tributaria",
+            "Petrel_I",
+            "Juzgado_Central",
+            "Audiencia_Nacional",
+            "Centro_de_Operaciones",
+            "Análisis_Marítimos",
+            "Narcóticos_de_Lisboa",
+            "Agencia_Tributaria",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Zeus_X",
+            "Atlántico"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3.2",
+            "8",
+            "WG_tm:3",
+            "LN_mi:1.05",
+            "92",
+            "35",
+            "$_ECU:190000000",
+            "7",
+            "4",
+            "115",
+            "20"
+        ]
+    }
+}

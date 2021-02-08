@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/345760/0/feto/abandonado/cementerio/",
+    "title": {
+        "raw_text": "Encuentran un feto de tres meses dentro de una caja junto a un cementerio",
+        "lemmatized_text": "encontrar uno feto de 3 mes dentro_de uno caja junto_a uno cementerio",
+        "lemmatized_text_reduced": "encontrar feto mes caja cementerio",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Lo ha encontrado un trabajador municipal. Estaba envuelto en una toalla y tenía una gran losa encima. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "lo haber encontrar uno trabajador municipal estar envolver en uno toalla y tener uno gran losa encima consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber encontrar trabajador municipal estar envolver toalla tener gran losa consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un feto humano de unos tres meses apareció hoy en el interior de una caja de cartón en las inmediaciones del cementerio de Sardina , en el municipio de Santa Lucía (Gran Canaria), informó la Guardia Civil. El cuerpo sin vida, de unos diez centímetros de largo , estaba envuelto en una toalla, tenía una gran losa encima y fue encontrado hacia las 13:00 horas por un trabajador municipal que hacía labores de limpieza de jardines. Según el examen forense, el feto de unos tres meses de gestación llevaba pocos días abandonado , ya que su estado de descomposición no era avanzado. La Guardia Civil trata de esclarecer las circunstancias del aborto y del abandono del cuerpo, así como la identidad de la madre. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno feto humano de uno 3 mes aparecer hoy en_el_interior_de uno caja de cartón en el inmediación de el cementerio de sardina en el municipio de santa_lucía gran_canaria informar el guardia_civil el cuerpo sin vida de uno LN_cm:10 de largo estar envolver en uno toalla tener uno gran losa encima y ser encontrar hacia el TM_h:13:00 por uno trabajador municipal que hacer labor de limpieza de jardín según el examen forense el feto de uno 3 mes de gestación llevar poco día abandonar ya_que su estado de descomposición no ser avanzar el guardia_civil tratar de esclarecer el circunstancia de el aborto y de el abandono de el cuerpo así_como el identidad de el madre consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "feto humano mes aparecer caja cartón inmediación cementerio sardina municipio santa_lucía gran_canaria informar guardia_civil cuerpo vida largo estar envolver toalla tener gran losa ser encontrar trabajador municipal hacer labor limpieza jardín examen forense feto mes gestación llevar día abandonar estado descomposición ser avanzar guardia_civil tratar esclarecer circunstancia aborto abandono cuerpo identidad madre consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Sardina"
+        ],
+        "organizations": [
+            "Santa_Lucía",
+            "Gran_Canaria",
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "LN_cm:10",
+            "TM_h:13:00",
+            "3"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/920337/0/",
+    "title": {
+        "raw_text": "Detenido en Gran Canaria un conocido empresario por un supuesto episodio de violencia de género",
+        "lemmatized_text": "detener en gran_canaria uno conocer empresario por uno suponer episodio de violencia de género",
+        "lemmatized_text_reduced": "detener gran_canaria conocer empresario suponer episodio violencia género",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un conocido empresario de Las Palmas de Gran Canaria, J.M.S.G., ha sido detenido durante la mañana de este martes por un supuesto episodio de violencia de género con su mujer, J.N., en el que estaría por medio un arma de fuego, según informaron a Europa Press fuentes de la Jefatura Superior de Policía de Canarias.",
+        "lemmatized_text": "uno conocer empresario de las_palmas_de_gran_canaria j.m.s.g. haber ser detener durante el mañana de este [M:??/??/??:??.??:??] por uno suponer episodio de violencia de género con su mujer j.n. en el que estar por medio uno arma de fuego según informar a europa_press fuente de el jefatura_superior_de_policía_de_canarias",
+        "lemmatized_text_reduced": "conocer empresario las_palmas_de_gran_canaria j.m.s.g. haber ser detener mañana suponer episodio violencia género mujer j.n. estar arma fuego informar europa_press fuente jefatura_superior_de_policía_de_canarias",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "J.M.S.G.",
+            "J.N.",
+            "Jefatura_Superior_de_Policía_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un conocido empresario de Las Palmas de Gran Canaria, J.M.S.G., ha sido detenido durante la mañana de este martes por un supuesto episodio de violencia de género con su mujer, J.N., en el que estaría por medio un arma de fuego, según informaron a Europa Press fuentes de la Jefatura Superior de Policía de Canarias. De esta manera, las mismas fuentes no confirmaron que el empresario amenazara a su esposa con el arma, aunque sí que señalaron que el detenido, que se encuentra en las dependencias de la Brigada Provincial de Policía Judicial, poseía licencia de armas. Una llamada alertó durante la mañana de hoy de que se estaba produciendo una disputa en un domicilio, por lo que efectivos de la Policía acudieron al lugar del incidente y procedieron a la detención del hombre, iniciando las investigaciones correspondientes. Finalmente, J.M.S.G. podría pasar a disposición judicial entre la tarde de este martes y las primeras horas de mañana miércoles.",
+        "lemmatized_text": "uno conocer empresario de las_palmas_de_gran_canaria j.m.s.g. haber ser detener durante el mañana de este [M:??/??/??:??.??:??] por uno suponer episodio de violencia de género con su mujer j.n. en el que estar por medio uno arma de fuego según informar a europa_press fuente de el jefatura_superior_de_policía_de_canarias de este manera el mismo fuente no confirmar que el empresario amenazar a su esposo con el arma aunque sí que señalar que el detenido que se encontrar en el dependencia de el brigada_provincial_de_policía_judicial poseer licencia de arma uno llamada alertar durante el mañana de hoy de que se estar producir uno disputa en uno domicilio por el que efectivo de el policía acudir a el lugar de el incidente y proceder a el detención de el hombre iniciar el investigación correspondiente finalmente j.m.s.g. poder pasar a disposición judicial entre el tarde de este [M:??/??/??:??.??:??] y el 1 hora de mañana [X:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "conocer empresario las_palmas_de_gran_canaria j.m.s.g. haber ser detener mañana suponer episodio violencia género mujer j.n. estar arma fuego informar europa_press fuente jefatura_superior_de_policía_de_canarias manera mismo fuente confirmar empresario amenazar esposo arma señalar detenido encontrar dependencia brigada_provincial_de_policía_judicial poseer licencia arma llamada alertar mañana estar producir disputa domicilio efectivo policía acudir lugar incidente proceder detención hombre iniciar investigación correspondiente finalmente j.m.s.g. poder pasar disposición judicial tarde 1 hora",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "J.M.S.G.",
+            "J.N.",
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Policía",
+            "J.M.S.G."
+        ],
+        "others": [
+            "Brigada_Provincial_de_Policía_Judicial"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

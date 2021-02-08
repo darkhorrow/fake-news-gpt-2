@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/967104/0/",
+    "title": {
+        "raw_text": "Una colisión entre dos turismos en Gran Canaria causa importantes retenciones",
+        "lemmatized_text": "uno colisión entre 2 turismo en gran_canaria causa importante retención",
+        "lemmatized_text_reduced": "colisión turismo gran_canaria causa importante retención",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una colisión entre dos turismos en Las Palmas de Gran Canaria ha causado importantes retenciones este martes en la ciudad, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno colisión entre 2 turismo en las_palmas_de_gran_canaria haber causar importante retención este [M:??/??/??:??.??:??] en el ciudad según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "colisión turismo las_palmas_de_gran_canaria haber causar importante retención ciudad informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una colisión entre dos turismos en Las Palmas de Gran Canaria ha causado importantes retenciones este martes en la ciudad, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo a las 07.45 horas, en la calle Munguía, colindante con la Avenida Marítima de la capital grancanaria, y se saldó con dos heridos de carácter leve. Hasta el lugar se trasladó personal del Servicio de Urgencias Canaria (SUC) que trasladó a los heridos hasta un centro hospitalario, así como bomberos y agentes de la Policía Local.",
+        "lemmatized_text": "uno colisión entre 2 turismo en las_palmas_de_gran_canaria haber causar importante retención este [M:??/??/??:??.??:??] en el ciudad según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir a el TM_h:7.45 en el calle munguía colindante con el avenida_marítima de el capital grancanaria y se saldar con 2 herido de carácter leve hasta el lugar se trasladar personal de el servicio_de_urgencias_canaria suc que trasladar a el herido hasta uno centro hospitalario así_como bombero y agente de el policía_local",
+        "lemmatized_text_reduced": "colisión turismo las_palmas_de_gran_canaria haber causar importante retención ciudad informar centro_coordinador_de_emergencias seguridad incidente producir calle munguía colindante avenida_marítima capital grancanaria saldar herido carácter leve lugar trasladar personal servicio_de_urgencias_canaria suc trasladar herido centro hospitalario bombero agente policía_local",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Avenida_Marítima"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canaria",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad",
+            "Munguía"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112",
+            "TM_h:7.45",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/704399/0/",
+    "title": {
+        "raw_text": "Soria apunta a que el recorte del 5% a los funcionarios supondría un ahorro de 140 millones de euros al Gobierno canario",
+        "lemmatized_text": "soria apuntar a que el recorte de el 5/100 a el funcionario suponer uno ahorro de $_ECU:140000000 a el gobierno canario",
+        "lemmatized_text_reduced": "soria apuntar recorte funcionario suponer ahorro gobierno canario",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5/100",
+            "$_ECU:140000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El vicepresidente y consejero de Economía del Gobierno de Canarias, José Manuel Soria (PP), ha apuntado a que la rebaja de un 5 por ciento de media de las retribuciones del personal del sector público supondría un ahorro de 140 millones de euros brutos al Ejecutivo Autonómico, según puso hoy de manifiesto durante una rueda de prensa.",
+        "lemmatized_text": "el vicepresidente y consejero de economía_del_gobierno_de_canarias josé_manuel_soria pp haber apuntar a que el rebaja de uno 5 por 100 de media de el retribución de el personal de el sector público suponer uno ahorro de $_ECU:140000000 bruto a el ejecutivo_autonómico según poner hoy de manifiesto durante uno rueda de prensa",
+        "lemmatized_text_reduced": "vicepresidente consejero economía_del_gobierno_de_canarias josé_manuel_soria pp haber apuntar rebaja media retribución personal sector público suponer ahorro bruto ejecutivo_autonómico poner manifiesto rueda prensa",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Ejecutivo_Autonómico"
+        ],
+        "others": [
+            "Economía_del_Gobierno_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "5",
+            "100",
+            "$_ECU:140000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Por su parte, el presidente del Gobierno, José Luis Rodríguez Zapatero, anunció hoy una serie de medidas para reducir el déficit que contemplan una reducción de las retribuciones del personal del sector público en un 5 por ciento de media en 2010, la eliminación de la prestación por nacimiento de 2.500 euros a partir de 2011 y la rebaja de los salarios de los miembros del Gobierno en un 15 por ciento. (Habrá ampliación)",
+        "lemmatized_text": "por su parte el presidente de el gobierno josé_luis_rodríguez_zapatero anunciar hoy uno serie de medida para reducir el déficit que contemplar uno reducción de el retribución de el personal de el sector público en uno 5 por 100 de medio en 2010 el eliminación de el prestación por nacimiento de $_ECU:2.5 a_partir_de 2011 y el rebaja de el salario de el miembro de el gobierno en uno 15 por 100 haber ampliación",
+        "lemmatized_text_reduced": "parte presidente gobierno josé_luis_rodríguez_zapatero anunciar serie medida reducir déficit contemplar reducción retribución personal sector público medio eliminación prestación nacimiento rebaja salario miembro gobierno haber ampliación",
+        "persons": [
+            "José_Luis_Rodríguez_Zapatero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "100",
+            "2010",
+            "$_ECU:2.5",
+            "2011",
+            "15",
+            "100"
+        ]
+    }
+}

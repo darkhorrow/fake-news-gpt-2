@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/701271/0/",
+    "title": {
+        "raw_text": "Arden cuatro establecimientos tras iniciarse un incendio en un bar de Puerto del Rosario (Fuerteventura)",
+        "lemmatized_text": "arder 4 establecimiento tras iniciar se uno incendio en uno bar de puerto_del_rosario fuerteventura",
+        "lemmatized_text_reduced": "arder establecimiento iniciar incendio bar puerto_del_rosario fuerteventura",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de cuatro establecimientos han ardido tras iniciarse un incendio en la campana extractora de un bar ubicado en la calle Presidente Salvador Allende, dentro del término municipal de Puerto del Rosario (Fuerteventura), un fuego que posteriormente se extendería a los otros tres locales afectados, informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno total de 4 establecimiento haber arder tras iniciar se uno incendio en el campana extractor de uno bar ubicar en el calle presidente_salvador_allende dentro de el término municipal de puerto_del_rosario fuerteventura uno fuego que posteriormente se extender a el otro 3 local afectar informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "total establecimiento haber arder iniciar incendio campana extractor bar ubicar calle presidente_salvador_allende término municipal puerto_del_rosario fuerteventura fuego posteriormente extender local afectar informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Presidente_Salvador_Allende"
+        ],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Sobre las 23.53 horas de ayer se recibió una llamada indicando que se había producido un incendio en la cocina de un bar. En ese momento, el 112 activó su dispositivo de urgencias y trasladó al lugar a bomberos, Policía Nacional y Policía Local. Por su parte, el fuego se extendió a los locales colindantes, viéndose afectados otros tres establecimientos, entre ellos una tienda de ropa, antes de que los bomberos pudieran sofocar el incendio. Finalmente, agentes de la Policía Local y Policía Nacional colaboraron con el dispositivo, mientras que el suceso no produjo daños personales.",
+        "lemmatized_text": "sobre el TM_h:23.53 de ayer se recibir uno llamada indicar que se haber producir uno incendio en el cocina de uno bar en ese momento el 112 activar su dispositivo de urgencia y trasladar a el lugar a bombero policía_nacional y policía_local por su parte el fuego se extender a el local colindante ver se afectado otro 3 establecimiento entre ellos uno tienda de ropa antes_de que el bombero poder sofocar el incendio finalmente agente de el policía_local y policía_nacional colaborar con el dispositivo mientras_que el suceso no producir daño personal",
+        "lemmatized_text_reduced": "recibir llamada indicar haber producir incendio cocina bar momento activar dispositivo urgencia trasladar lugar bombero policía_nacional policía_local parte fuego extender local colindante ver afectado establecimiento tienda ropa bombero poder sofocar incendio finalmente agente policía_local policía_nacional colaborar dispositivo suceso producir daño personal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "Policía_Local",
+            "Policía_Local",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:23.53",
+            "112",
+            "3"
+        ]
+    }
+}

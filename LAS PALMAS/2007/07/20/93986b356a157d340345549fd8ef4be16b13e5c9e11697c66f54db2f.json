@@ -1,0 +1,91 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-07-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/262630/0/mayor/premio/loteria/",
+    "title": {
+        "raw_text": "Entregan en Las Palmas el mayor premio ganado en España en la lotería",
+        "lemmatized_text": "entregar en las_palmas el mayor premio ganar en españa en el lotería",
+        "lemmatized_text_reduced": "entregar las_palmas mayor premio ganar españa lotería",
+        "persons": [],
+        "locations": [
+            "España"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El anónimo ganador del sorteo Euro Millones se ha llevado a casa 56.945.074 euros. Selló un boleto de dos apuestas automáticas en un centro comercial de Telde. Es el mayor premio entregado nunca en España y el séptimo de Europa.",
+        "lemmatized_text": "el anónimo ganador de el sorteo euro_millones se haber llevar a casa $_ECU:56.945.074 sellar uno boleto de 2 apuesta automático en uno centro comercial de telde ser el mayor premio entregar nunca en españa y el 7 de europa",
+        "lemmatized_text_reduced": "anónimo ganador sorteo euro_millones haber llevar casa sellar boleto apuesta automático centro comercial telde ser mayor premio entregar españa 7 europa",
+        "persons": [
+            "Euro_Millones"
+        ],
+        "locations": [
+            "Telde",
+            "España",
+            "Europa"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:56.945.074",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El mayor premio ganado en la lotería en España, 56.945.074 euros que logró el acertante del sorteo Euro Millones del pasado viernes, fue entregado el jueves de forma simbólica por el alcalde de Las Palmas de Gran Canaria, Jerónimo Saavedra , en nombre de Loterías y Apuestas del Estado. La propietaria de la Administración de Loterías Número 8 del vecino municipio de Telde, María del Carmen Garrido, que vendió el boleto agraciado, fue la encargada de recoger el cheque ficticio con el que se pagó en ese acto, celebrado en el Teatro Pérez Galdós , el premio, cuyo ganador, que ha preferido preservar su intimidad, ya lo cobró en realidad unos días antes. Así lo confirmó el delegado comercial en Las Palmas de Loterías y Apuestas del Estado, Juan Manuel Moragas, que destacó que el afortunado poseedor del boleto premiado \"se mostró bastante tranquilo\". Al acto también asistió el jefe de servicio de Desarrollo Comercial de Loterías y Apuestas del Estado, Juan Antonio López Martínez, quien recordó que el mayor premio de Euro Millones dado en España se encontraba hasta ahora en A Coruña, donde el 11 de noviembre de 2005 un boleto obtuvo un premio de 45.117.030 euros. El nuevo boleto ganador, de dos apuestas automáticas, fue adquirido en un centro comercial de Telde el jueves de la semana pasada y el premio obtenido por su dueño es el séptimo de mayor valor dado en Europa desde que el 13 de febrero de 2004 se creó el proyecto de Euro Millones, añadió. El hecho de que ese histórico premio haya caído en Gran Canaria no sólo alegró a la vendedora que expidió su boleto, que declaró sentirse \" muy contenta\" tras sólo quince meses al frente de su administración de lotería, sino también al alcalde Jerónimo Saavedra, quien se felicitó por esa circunstancia y por la publicidad que supone el acto de hoy. Algo que valoró porque -argumentó- \"si la ciudad coge fama de tener suerte, aumentará el número de turistas \".",
+        "lemmatized_text": "el mayor premio ganar en el lotería en españa $_ECU:56.945.074 que lograr el acertante de el sorteo euro_millones de el [V:??/??/??:??.??:??] ser entregar el [J:??/??/??:??.??:??] de forma simbólico por el alcalde de las_palmas_de_gran_canaria jerónimo_saavedra en nombre de loterías y apuestas_del_estado el propietario de el administración_de_loterías_número 8 de el vecino municipio de telde maría_del_carmen_garrido que vender el boleto agraciar ser el encargado de recoger el cheque ficticio con el que se pagar en ese acto celebrar en el teatro_pérez_galdós el premio cuyo ganador que haber preferir preservar su intimidad ya lo cobrar en realidad uno día antes así lo confirmar el delegado comercial en las_palmas_de_loterías y apuestas_del_estado juan_manuel_moragas que destacar que el afortunado poseedor de el boleto premiar se mostrar bastante tranquilo a el acto también asistir el jefe de servicio de desarrollo_comercial_de_loterías y apuestas_del_estado juan_antonio_lópez_martínez quien recordar que el mayor premio de euro_millones dar en españa se encontrar hasta ahora en a_coruña donde el [??:11/11/2005:??.??:??] uno boleto obtener uno premio de $_ECU:45.117.030 el nuevo boleto ganador de 2 apuesta automático ser adquirir en uno centro comercial de telde el [J:??/??/??:??.??:??] de el semana pasar y el premio obtener por su dueño ser el 7 de mayor valor dar en europa desde que el [??:13/2/2004:??.??:??] se crear el proyecto de euro_millones añadir el hecho de que ese histórico premio haber caer en gran_canaria no_sólo alegrar a el vendedor que expedir su boleto que declarar sentir se muy contento tras sólo 15 mes al_frente_de su administración de lotería sino también a el alcalde jerónimo_saavedra quien se felicitar por ese circunstancia y por el publicidad que suponer el acto de hoy algo que valorar porque argumentar si el ciudad coger fama de tener suerte aumentar el número de turista",
+        "lemmatized_text_reduced": "mayor premio ganar lotería españa lograr acertante sorteo euro_millones ser entregar forma simbólico alcalde las_palmas_de_gran_canaria jerónimo_saavedra nombre loterías apuestas_del_estado propietario administración_de_loterías_número vecino municipio telde maría_del_carmen_garrido vender boleto agraciar ser encargado recoger cheque ficticio pagar acto celebrar teatro_pérez_galdós premio ganador haber preferir preservar intimidad cobrar realidad día confirmar delegado comercial las_palmas_de_loterías apuestas_del_estado juan_manuel_moragas destacar afortunado poseedor boleto premiar mostrar tranquilo acto asistir jefe servicio desarrollo_comercial_de_loterías apuestas_del_estado juan_antonio_lópez_martínez recordar mayor premio euro_millones dar españa encontrar a_coruña boleto obtener premio nuevo boleto ganador apuesta automático ser adquirir centro comercial telde semana pasar premio obtener dueño ser 7 mayor valor dar europa crear proyecto euro_millones añadir hecho histórico premio haber caer gran_canaria alegrar vendedor expedir boleto declarar sentir contento mes administración lotería alcalde jerónimo_saavedra felicitar circunstancia publicidad suponer acto valorar argumentar ciudad coger fama tener suerte aumentar número turista",
+        "persons": [
+            "Jerónimo_Saavedra",
+            "María_del_Carmen_Garrido",
+            "Juan_Manuel_Moragas",
+            "Juan_Antonio_López_Martínez",
+            "Jerónimo_Saavedra"
+        ],
+        "locations": [
+            "España",
+            "Las_Palmas_de_Gran_Canaria",
+            "Loterías",
+            "Apuestas_del_Estado",
+            "Telde",
+            "Teatro_Pérez_Galdós",
+            "Las_Palmas_de_Loterías",
+            "Apuestas_del_Estado",
+            "Apuestas_del_Estado",
+            "España",
+            "A_Coruña",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Administración_de_Loterías_Número",
+            "Desarrollo_Comercial_de_Loterías",
+            "Europa"
+        ],
+        "others": [
+            "Euro_Millones",
+            "Euro_Millones",
+            "Euro_Millones"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:11/11/2005:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:13/2/2004:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:56.945.074",
+            "8",
+            "$_ECU:45.117.030",
+            "2",
+            "15"
+        ]
+    }
+}

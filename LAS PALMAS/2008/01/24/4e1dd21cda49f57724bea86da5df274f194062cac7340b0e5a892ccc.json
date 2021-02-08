@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/336758/0/juicio/acuchillar/esposa/",
+    "title": {
+        "raw_text": "Enjuician al hombre que acuchilló a su ex novia en las puertas de la Cruz Roja",
+        "lemmatized_text": "enjuiciar a el hombre que acuchillar a su ex novio en el puerta de el cruz_roja",
+        "lemmatized_text_reduced": "enjuiciar hombre acuchillar ex novio puerta cruz_roja",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cruz_Roja"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los hechos ocurrieron en mayo de 2006. El agresor, italiano, tiene 55 años. La víctima tenía 45 cuando murió. CONSULTA AQUÍ MÁS NOTICIAS DE SANTA CRUZ DE TENERIFE .",
+        "lemmatized_text": "el hecho ocurrir en [??:??/5/2006:??.??:??] el agresor italiano tener 55 año el víctima tener 45 cuando morir consulta_aquí_más_noticias_de_santa_cruz_de_tenerife",
+        "lemmatized_text_reduced": "hecho ocurrir agresor italiano tener año víctima tener morir consulta_aquí_más_noticias_de_santa_cruz_de_tenerife",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_SANTA_CRUZ_DE_TENERIFE"
+        ],
+        "dates": [
+            "[??:??/5/2006:??.??:??]"
+        ],
+        "numbers": [
+            "55",
+            "45"
+        ]
+    },
+    "body": {
+        "raw_text": "El acusado de acuchillar y matar a su ex novia de 45 años a las puertas del centro de Cruz Roja de la capital grancanaria en mayo de 2006, que fue detenido días después en La Gomera, será juzgado mañana por un jurado popular en la Audiencia de Las Palmas. El presunto agresor, Giuseppe Massimo Chindamo, de nacionalidad italiana y de 55 años, se enfrenta a una pena de 20 años y once meses de prisión por los delitos de asesinato y quebrantamiento de condena, respectivamente, según las conclusiones provisionales del fiscal. Ya tenía una condena por maltrato El acusado había sido condenado un mes antes a diez meses de prisión por los delitos de maltrato en el ámbito familiar y de amenazas leves a su ex novia, María Elena Pedraza Velázquez, natural de Colombia , a quien se le prohibió acercarse durante dos años y portar armas, después de que ella presentara una denuncia contra él. El fiscal, quien considera que concurre el agravante de parentesco, solicita también el pago de una indemnización de 100.000 euros al padre de la víctima , de 88 años, pues dependía económicamente de ella. Según el relato del fiscal, Massimo Chindamo había deambulado días antes del suceso por los alrededores del domicilio de su ex novia para conocer sus movimientos y el día 9 de mayo la vio entrar en las dependencias de Cruz Roja, donde había sido citada por motivos laborales. El homicidio El acusado, que llevaba escondido un cuchillo en un jersey, se acercó a su víctima con intención de acabar con su vida y tras intercambiar unas palabras con ella comenzó a gritar al tiempo que su ex novia avanzaba hacia el centro. El acusado corrió tras ella y la ex novia intentó zafarse sin éxito de su presunto agresor, que sacó el cuchillo y se lo clavó por detrás y sucesivas veces cuando ella subía las escaleras de acceso al centro. María Elena Pedraza murió media hora después en el Hospital Doctor Negrín de la capital grancanaria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el acusado de acuchillar y matar a su ex novio de 45 año a el puerta de el centro de cruz_roja de el capital grancanaria en [??:??/5/2006:??.??:??] que ser detener día después en la_gomera ser juzgar mañana por uno jurado popular en el audiencia_de_las_palmas el presunto agresor giuseppe_massimo_chindamo de nacionalidad italiano y de 55 año se enfrentar a uno pena de 20 año y 11 mes de prisión por el delito de asesinato y quebrantamiento de condena respectivamente según el conclusión provisional de el fiscal ya tener uno condena por maltrato el acusar haber ser condenar uno mes antes a 10 mes de prisión por el delito de maltrato en el ámbito familiar y de amenaza leve a su ex novio maría_elena_pedraza_velázquez natural de colombia a quien se le prohibir acercar se durante 2 año y portar arma después_de que él presentar uno denuncia contra él el fiscal quien considerar que concurrir el agravante de parentesco solicitar también el pago de uno indemnización de $_ECU:100 a el padre de el víctima de 88 año pues depender económicamente de él según el relato de el fiscal massimo_chindamo haber deambular día antes de el suceso por el alrededor de el domicilio de su ex novio para conocer su movimiento y el [??:9/5/??:??.??:??] lo ver entrar en el dependencia de cruz_roja donde haber ser citar por motivo laboral el homicidio el acusar que llevar esconder uno cuchillo en uno jersey se acercar a su víctima con intención de acabar con su vida y tras intercambiar uno palabra con él comenzar a gritar al_tiempo_que su ex novio avanzar hacia el centro el acusado correr tras él y el ex novio intentar zafar se sin éxito de su presunto agresor que sacar el cuchillo y se lo clavar por detrás y sucesivo vez cuando él subir el escalera de acceso a el centro maría_elena_pedraza morir medio hora después en el hospital_doctor_negrín de el capital grancanaria consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "acusado acuchillar matar ex novio año puerta centro cruz_roja capital grancanaria ser detener día la_gomera ser juzgar jurado popular audiencia_de_las_palmas presunto agresor giuseppe_massimo_chindamo nacionalidad italiano año enfrentar pena año mes prisión delito asesinato quebrantamiento condena respectivamente conclusión provisional fiscal tener condena maltrato el acusar haber ser condenar mes mes prisión delito maltrato ámbito familiar amenaza leve ex novio maría_elena_pedraza_velázquez natural colombia prohibir acercar año portar arma presentar denuncia fiscal considerar concurrir agravante parentesco solicitar pago indemnización padre víctima año depender económicamente relato fiscal massimo_chindamo haber deambular día suceso alrededor domicilio ex novio conocer movimiento ver entrar dependencia cruz_roja haber ser citar motivo laboral homicidio el acusar llevar esconder cuchillo jersey acercar víctima intención acabar vida intercambiar palabra comenzar gritar ex novio avanzar centro acusado correr ex novio intentar zafar éxito presunto agresor sacar cuchillo clavar sucesivo vez subir escalera acceso centro maría_elena_pedraza morir medio hora hospital_doctor_negrín capital grancanaria consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Giuseppe_Massimo_Chindamo",
+            "María_Elena_Pedraza_Velázquez",
+            "Massimo_Chindamo",
+            "María_Elena_Pedraza"
+        ],
+        "locations": [
+            "La_Gomera",
+            "Audiencia_de_Las_Palmas",
+            "Colombia",
+            "Cruz_Roja",
+            "Hospital_Doctor_Negrín"
+        ],
+        "organizations": [
+            "Cruz_Roja",
+            "El",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "El"
+        ],
+        "dates": [
+            "[??:??/5/2006:??.??:??]",
+            "[??:9/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "45",
+            "55",
+            "20",
+            "11",
+            "10",
+            "2",
+            "$_ECU:100",
+            "88"
+        ]
+    }
+}

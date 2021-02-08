@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/474656/0/vuelos/quantum/air/",
+    "title": {
+        "raw_text": "La aerolínea Quantum Air estrena vuelos desde Madrid, Barcelona y Bilbao a las islas",
+        "lemmatized_text": "el aerolínea quantum_air estrenar vuelo desde madrid barcelona y bilbao a el isla",
+        "lemmatized_text_reduced": "aerolínea quantum_air estrenar vuelo madrid barcelona bilbao isla",
+        "persons": [
+            "Quantum_Air"
+        ],
+        "locations": [
+            "Madrid",
+            "Barcelona",
+            "Bilbao"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los enlaces estarán operativos desde este viernes. La aerolínea actualmente opera vuelos chárter. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el enlace estar operativo desde este [V:??/??/??:??.??:??] el aerolínea actualmente operar vuelo chárter consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "enlace estar operativo aerolínea actualmente operar vuelo chárter consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La aerolínea Quantum Air estrenará este viernes sus vuelos desde Madrid, Barcelona y Bilbao con destino Palma de Mallorca, Tenerife Sur, La Palmas de Gran Canaria, Lanzarote y Fuerteventura, informó la compañía en un comunicado. Esta temporada de verano incluirá los enlaces Madrid-Mallorca; Madrid-Lanzarote; Madrid-Fuerteventura; Madrid-Gran Canaria y Madrid-Tenerife. Desde Barcelona Quantum Air operará vuelos a Mallorca, Fuerteventura, Gran Canaria, Tenerife y Lanzarote. Por último, la compañía, que ya ha puesto a la venta los billetes para estos enlaces, unirá Bilbao con Mallorca, Gran Canaria, Tenerife y Lanzarote. Quantum Air opera actualmente vuelos chárter, aunque tiene previsto convertirse en una compañía de vuelos regulares a partir de finales de este verano.",
+        "lemmatized_text": "el aerolínea quantum_air estrenar este [V:??/??/??:??.??:??] su vuelo desde madrid barcelona y bilbao con destino palma_de_mallorca tenerife_sur la_palmas_de_gran_canaria lanzarote y fuerteventura informar el compañía en uno comunicado este temporada de verano incluir el enlace madrid-mallorca madrid-lanzarote madrid-fuerteventura madrid-gran_canaria y madrid-tenerife desde barcelona_quantum_air operar vuelo a mallorca fuerteventura gran_canaria tenerife y lanzarote por último el compañía que ya haber poner a el venta el billete para este enlace unir bilbao con mallorca gran_canaria tenerife y lanzarote quantum_air operar actualmente vuelo chárter aunque tener prever convertir se en uno compañía de vuelo regular a_partir_de final de este verano",
+        "lemmatized_text_reduced": "aerolínea quantum_air estrenar vuelo madrid barcelona bilbao destino palma_de_mallorca tenerife_sur la_palmas_de_gran_canaria lanzarote fuerteventura informar compañía comunicado temporada verano incluir enlace madrid-mallorca madrid-lanzarote madrid-fuerteventura madrid-gran_canaria madrid-tenerife barcelona_quantum_air operar vuelo mallorca fuerteventura gran_canaria tenerife lanzarote último compañía haber poner venta billete enlace unir bilbao mallorca gran_canaria tenerife lanzarote quantum_air operar actualmente vuelo chárter tener prever convertir compañía vuelo regular final verano",
+        "persons": [
+            "Quantum_Air",
+            "Tenerife_Sur",
+            "Quantum_Air"
+        ],
+        "locations": [
+            "Madrid",
+            "Barcelona",
+            "Bilbao",
+            "Palma_de_Mallorca",
+            "Lanzarote",
+            "Mallorca",
+            "Lanzarote",
+            "Bilbao",
+            "Mallorca",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "La_Palmas_de_Gran_Canaria",
+            "Fuerteventura",
+            "Madrid-Gran_Canaria",
+            "Barcelona_Quantum_Air",
+            "Fuerteventura",
+            "Gran_Canaria",
+            "Tenerife",
+            "Gran_Canaria",
+            "Tenerife"
+        ],
+        "others": [
+            "Madrid-Mallorca",
+            "Madrid-Lanzarote",
+            "Madrid-Fuerteventura",
+            "Madrid-Tenerife"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598070/0/",
+    "title": {
+        "raw_text": "Canarias experimenta en 2009 un ligero descenso en los valores normales de precipitaciones",
+        "lemmatized_text": "canario experimentar en 2009 uno ligero descenso en el valor normal de precipitación",
+        "lemmatized_text_reduced": "canario experimentar ligero descenso valor normal precipitación",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias ha experimentado, junto a Baleares, un ligero descenso en los valores normales de precipitaciones a lo lardo del 2009, excepto la isla de La Palma que registró un \"cierto superávit\", según datos de la Agencia Estatal de Meteorología (Aemet).",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias haber experimentar junto_a baleares uno ligero descenso en el valor normal de precipitación a el lardo de el 2009 excepto el isla de la_palma que registrar uno cierto superávit según dato de el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias haber experimentar baleares ligero descenso valor normal precipitación lardo isla la_palma registrar cierto superávit dato agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [
+            "Baleares",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "A nivel nacional, el año 2009 concluirá con un 15 por ciento más de lluvias de lo normal, ya que a fecha de 29 de diciembre, el balance hídrico se situó en 255 litros por metro cuadrado de media, cuando lo habitual serían 221 litros por metro cuadrado. En este superávit influyeron las abundantes precipitaciones registradas durante la semana pasada. Según informó a Europa Press el portavoz de la AEMET, Ángel Rivera, las lluvias se han notado \"en muchas zonas de la vertiente atlántica\" pero \"aún buena parte del tercio oriental\" y concretamente áreas de Cataluña, de la Comunidad Valenciana, de la mitad norte de Castilla-La Mancha, la Comunidad de Madrid, Extremadura y algunas zonas del Cantábrico\" donde están por debajo de la precipitación media para estas fechas. Las áreas donde más ha llovido se encuentran, fundamentalmente, en Andalucía Occidental, norte de Extremadura y sur de Castilla-La Mancha. Especialmente, Granada y Almería registran un superávit del 150 por ciento, es decir que ha llovido un 50 por ciento más de lo habitual. En cuanto a las acumulaciones máximas de precipitaciones, la semana pasada en Grazalema (Cádiz) se recogieron 700 litros por metro cuadrado y ahora se acerca a los 900 litros por metro cuadrado. En zonas de Andalucía y sur de Castilla-La Mancha la acumulación de agua se sitúa entre los 300 y los 400 litros por metro cuadrado.",
+        "lemmatized_text": "a nivel nacional el [??:??/??/2009:??.??:??] concluir con uno 15 por 100 más de lluvia de el normal ya_que a fecha de [??:29/12/??:??.??:??] el balance hídrico se situar en CB_l/m2:255 de medio cuando el habitual ser CB_l/m2:221 en este superávit influir el abundante precipitación registrar durante el semana pasar según informar a europa_press el portavoz de el aemet ángel_rivera el lluvia se haber notar en mucho zona de el vertiente atlántico pero aun bueno parte de el tercio oriental y concretamente área de cataluña de el comunidad_valenciana de el mitad norte de castilla-la_mancha el comunidad_de_madrid extremadura y alguno zona de el cantábrico donde estar por debajo_de el precipitación medio para este fecha el área donde más haber llover se encontrar fundamentalmente en andalucía_occidental norte de extremadura y sur de castilla-la_mancha especialmente granada y almería registrar uno superávit de el 150 por 100 ser decir que haber llover uno 50 por 100 más de el habitual en_cuanto_a el acumulación máximo de precipitación el semana pasar en grazalema cádiz se recoger CB_l/m2:700 y ahora se acercar a el CB_l/m2:900 en zona de andalucía y sur de castilla-la_mancha el acumulación de agua se situar entre el 300 y el CB_l/m2:400",
+        "lemmatized_text_reduced": "nivel nacional concluir lluvia normal fecha balance hídrico situar medio habitual ser superávit influir abundante precipitación registrar semana pasar informar europa_press portavoz aemet ángel_rivera lluvia haber notar zona vertiente atlántico bueno parte tercio oriental concretamente área cataluña comunidad_valenciana mitad norte castilla-la_mancha comunidad_de_madrid extremadura zona cantábrico estar precipitación medio fecha área haber llover encontrar fundamentalmente andalucía_occidental norte extremadura sur castilla-la_mancha especialmente granada almería registrar superávit ser decir haber llover habitual acumulación máximo precipitación semana pasar grazalema cádiz recoger acercar zona andalucía sur castilla-la_mancha acumulación agua situar",
+        "persons": [
+            "Europa_Press",
+            "Ángel_Rivera"
+        ],
+        "locations": [
+            "Cataluña",
+            "Comunidad_Valenciana",
+            "Castilla-La_Mancha",
+            "Extremadura",
+            "Cantábrico",
+            "Andalucía_Occidental",
+            "Extremadura",
+            "Castilla-La_Mancha",
+            "Granada",
+            "Almería",
+            "Grazalema",
+            "Cádiz",
+            "Andalucía",
+            "Castilla-La_Mancha"
+        ],
+        "organizations": [
+            "AEMET",
+            "Comunidad_de_Madrid"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/2009:??.??:??]",
+            "[??:29/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "15",
+            "100",
+            "CB_l/m2:255",
+            "CB_l/m2:221",
+            "150",
+            "100",
+            "50",
+            "100",
+            "CB_l/m2:700",
+            "CB_l/m2:900",
+            "300",
+            "CB_l/m2:400"
+        ]
+    }
+}

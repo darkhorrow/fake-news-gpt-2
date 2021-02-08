@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/583635/0/muere/banista/lanzarote/",
+    "title": {
+        "raw_text": "Muere ahogado un bañista de 50 años en una playa de Lanzarote",
+        "lemmatized_text": "morir ahogar uno bañista de 50 año en uno playa de lanzarote",
+        "lemmatized_text_reduced": "morir ahogar bañista año playa lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50"
+        ]
+    },
+    "lead": {
+        "raw_text": "El suceso ocurrió a las 13.35 horas en la playa de Famara. Fue rescatado del agua pero no pudieron salvar su vida.",
+        "lemmatized_text": "el suceso ocurrir a el TM_h:13.35 en el playa de famara ser rescatar de el agua pero no poder salvar su vida",
+        "lemmatized_text_reduced": "suceso ocurrir playa famara ser rescatar agua poder salvar vida",
+        "persons": [],
+        "locations": [
+            "Famara"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:13.35"
+        ]
+    },
+    "body": {
+        "raw_text": "Un bañista de 50 años murió ahogado en la tarde del martes en una playa de Lanzarote, según informó el 112. El suceso ocurrió a las 13.35 horas en la playa de Famara, en el municipio lanzaroteño de Teguise . El Centro Coordinador de Emergencias y Seguridad (CECOES) 112 recibió el aviso de que una persona parecía mostrar síntomas de ahogamiento en el mar. Sacaron al afectado del agua Unos bañistas consiguieron sacar al afectado del agua y una vez en la arena, al comprobar que se encontraba en parada cardiorrespiratoria , comenzaron a practicarle maniobras de reanimación básicas. El personal médico del Servicio de Urgencias Canario retomó estas maniobras cuando llegó al lugar, para posteriormente confirmar el fallecimiento del bañista.",
+        "lemmatized_text": "uno bañista de 50 año morir ahogar en el tarde de el [M:??/??/??:??.??:??] en uno playa de lanzarote según informar el 112 el suceso ocurrir a el TM_h:13.35 en el playa de famara en el municipio lanzaroteño de teguise el centro_coordinador_de_emergencias y seguridad cecoes 112 recibir el aviso de que uno persona parecer mostrar síntoma de ahogamiento en el marzo sacaron a el afectar de el agua unos bañista conseguir sacar a el afectar de el agua y uno vez en el arena a el comprobar que se encontrar en parada cardiorrespiratoria comenzar a practicar le maniobra de reanimación básico el personal médico de el servicio_de_urgencias_canario retomar este maniobra cuando llegar a el lugar para posteriormente confirmar el fallecimiento de el bañista",
+        "lemmatized_text_reduced": "bañista año morir ahogar tarde playa lanzarote informar suceso ocurrir playa famara municipio lanzaroteño teguise centro_coordinador_de_emergencias seguridad cecoes recibir aviso persona parecer mostrar síntoma ahogamiento marzo sacaron afectar agua unos bañista conseguir sacar afectar agua vez arena comprobar encontrar parada cardiorrespiratoria comenzar practicar maniobra reanimación básico personal médico servicio_de_urgencias_canario retomar maniobra llegar lugar posteriormente confirmar fallecimiento bañista",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Famara",
+            "Teguise"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "CECOES",
+            "Servicio_de_Urgencias_Canario"
+        ],
+        "others": [
+            "Seguridad",
+            "Sacaron",
+            "Unos"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "112",
+            "TM_h:13.35",
+            "112"
+        ]
+    }
+}

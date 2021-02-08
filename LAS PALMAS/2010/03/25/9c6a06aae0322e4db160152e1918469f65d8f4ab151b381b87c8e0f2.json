@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661630/0/",
+    "title": {
+        "raw_text": "Tranquilidad y sin novedades en la zona del pozo de Jinamar (Gran Canaria) en el que la Policía busca los restos",
+        "lemmatized_text": "tranquilidad y sin novedad en el zona de el pozo de jinamar gran_canaria en el que el policía buscar el resto",
+        "lemmatized_text_reduced": "tranquilidad novedad zona pozo jinamar gran_canaria policía buscar resto",
+        "persons": [],
+        "locations": [
+            "Jinamar"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [
+            "Tranquilidad",
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La tranquilidad se mantiene en la zona en la que se encuentra el pozo de Jinamar, en Gran Canaria, donde la Policía Nacional busca una bolsa que podría contener huesos y que fue localizada por una cámara subacuática en el marco de la investigación del caso de Sara Morales, desaparecida el 30 de julio de 2006 en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el tranquilidad se mantener en el zona en el que se encontrar el pozo de jinamar en gran_canaria donde el policía_nacional buscar uno bolsa que poder contener hueso y que ser localizar por uno cámara subacuático en el marco de el investigación de el caso de sara_morales desaparecer el [??:30/7/2006:??.??:??] en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "tranquilidad mantener zona encontrar pozo jinamar gran_canaria policía_nacional buscar bolsa poder contener hueso ser localizar cámara subacuático marco investigación caso sara_morales desaparecer las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinamar",
+            "Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Sara_Morales"
+        ],
+        "dates": [
+            "[??:30/7/2006:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, desde las 15.00 horas no ha habido novedades, ni ningún movimiento en la zona donde los medios de comunicación asentados esperan información al respecto y donde lo que se puede visualizar es a tres agentes del Cuerpo Nacional de la Policía custodiando el lugar. Esta mañana, fuentes policiales, apuntaban a que hoy se podría tener lo que se busca pero durante el día han ido surgiendo problemas que retrasan el final de los trabajos. Así, aunque se mantiene el nivel del agua entre los 50 y los 80 centímetros, que permite a los agentes trabajar, extraer el lodo y el resto de materiales que hay en el pozo, estos trabajos se dificultan por la forma de cono que tiene el pozo en su parte final. Además, al hecho de que el pozo acaba en forma de cono se une que, durante el día de hoy, se ha comprobado que éste tiene más profundidad de lo esperado en un primer momento. Ante estas dificultades, todavía no está localizada la bolsa con los restos, entre otras cosas, porque con el lodo no se puede usar la cámara subacuática y saber dónde se hallan exactamente. En todo caso, la Policía se muestra segura de que están: \"Lo que vimos tiene que estar ahí\", apuntaron.",
+        "lemmatized_text": "así desde el TM_h:15 no haber haber novedad ni ninguno movimiento en el zona donde el medio de comunicación asentar esperar información a el respecto y donde el que se poder visualizar ser a 3 agente de el cuerpo_nacional_de_la_policía custodiar el lugar este mañana fuente policial apuntar a que hoy se poder tener el que se buscar pero durante el día haber ir surgir problema que retrasar el final de el trabajo así aunque se mantener el nivel de el agua entre el 50 y el LN_cm:80 que permitir a el agente trabajar extraer el lodo y el resto de material que haber en el pozo este trabajo se dificultar por el forma de cono que tener el pozo en su parte final además a el hecho de que el pozo acabar en forma de cono se unir que durante el día de hoy se haber comprobar que este tener más profundidad de el esperar en uno 1 momento ante este dificultad todavía no estar localizar el bolsa con el resto entre otro cosa porque con el lodo no se poder usar el cámara subacuático y saber dónde se hallar exactamente en_todo_caso el policía se mostrar seguro de que estar el que ver tener que estar ahí apuntar",
+        "lemmatized_text_reduced": "haber haber novedad movimiento zona medio comunicación asentar esperar información respecto poder visualizar ser agente cuerpo_nacional_de_la_policía custodiar lugar mañana fuente policial apuntar poder tener buscar día haber ir surgir problema retrasar final trabajo mantener nivel agua permitir agente trabajar extraer lodo resto material haber pozo trabajo dificultar forma cono tener pozo parte final hecho pozo acabar forma cono unir día haber comprobar tener profundidad esperar 1 momento dificultad estar localizar bolsa resto cosa lodo poder usar cámara subacuático saber hallar exactamente policía mostrar seguro estar ver tener estar apuntar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cuerpo_Nacional_de_la_Policía",
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:15",
+            "3",
+            "50",
+            "LN_cm:80"
+        ]
+    }
+}

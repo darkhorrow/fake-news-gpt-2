@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/383951/0/velero/hachis/canarias/",
+    "title": {
+        "raw_text": "Abordan a un velero con 1.546 kilos de hachís a 35 millas al norte Gran Canaria",
+        "lemmatized_text": "abordar a uno velero con 1.546 kilo de hachís a LN_mi:35 a el norte gran_canaria",
+        "lemmatized_text_reduced": "abordar velero kilo hachís norte gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1.546",
+            "LN_mi:35"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía arrestó a la tripulación y a varios contactos en tierra. También se ha detenido a otra lancha con una tonelada de hachís. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "el policía arrestar a el tripulación y a varios contacto en tierra también se haber detener a otro lancha con uno tonelada de hachís consulta_aquí_más_noticias_de_las_palmas_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "policía arrestar tripulación contacto tierra haber detener lancha tonelada hachís consulta_aquí_más_noticias_de_las_palmas_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un velero ha sido abordado a unas 35 millas al norte de Gran Canaria con 1.546 kilos de hachís , valorados en 2,2 millones de euros, en el marco de la , que ha concluido con ocho detenidos, informó hoy la Jefatura Superior de Policía de Canarias. La embarcación , de 10,3 metros de eslora y bandera alemana, fue abordada el pasado día 19 y conducida al Arsenal de la capital grancanaria, donde fueron desembarcados los 60 fardos de droga y detenidos los tripulantes Vanko T.I., de 32 años y nacido en Bulgaria, y Germanas Z., lituano de 22 años. Un amplio dispositivo policial desplegado en tierra permitió detener al resto de la organización en la capital grancanaria y Maspalomas. Se trata de Víctor V.B., ruso de 43 años, Óscar G.V., grancanario de 27, Hassan A.A., de nacionalidad española y 36 años, José Vicente G.L., también de Gran Canaria y con 58 años, y la rusa Tatiana M. Además fue detenido Mahy M.S., grancanario de casi 39 años en quien se centraron las pesquisas porque en 2004 intentó introducir en la isla 500 kilos de cocaína . La operación incluyó siete registros domiciliarios que dieron como resultado el hallazgo de 432.599 euros, cuatro vehículos, equipos informáticos, documentación sobre actividades económicas y financieras . Esta operación se suma a la lancha neumática abordada esta madrugada en las proximidades de telde con una tonelada de hachís y a la detención de sus dos tripulantes, informó la Guardia Civil. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno velero haber ser abordar a uno LN_mi:35 a el norte de gran_canaria con 1.546 kilo de hachís valorar en 2,2 millón de euro en el marco de el que haber concluir con 8 detenido informar hoy el jefatura_superior_de_policía_de_canarias el embarcación de LN_m:10,3 de eslora y bandera alemán ser abordar el [??:19/??/??:??.??:??] y conducir a el arsenal de el capital grancanaria donde ser desembarcar el 60 fardo de droga y detener el tripulante vanko_t.i. de 32 año y nacer en bulgaria y germanas_z. lituano de 22 año uno amplio dispositivo policial desplegar en tierra permitir detener a el resto de el organización en el capital grancanaria y maspalomas se tratar de víctor_v.b. ruso de 43 año óscar_g.v. grancanario de 27 hassan_a.a. de nacionalidad español y 36 año josé_vicente_g.l. también de gran_canaria y con 58 año y el ruso tatiana_m._además ser detener mahy_m.s. grancanario de casi 39 año en quien se centrar el pesquisa porque en 2004 intentar introducir en el isla 500 kilo de cocaína el operación incluir 7 registro domiciliario que dar como resultado el hallazgo de $_ECU:432.599 4 vehículo equipo informático documentación sobre actividad económico y financiero este operación se sumar a el lancha neumático abordar este madrugada en_las_proximidades_de telde con uno tonelada de hachís y a el detención de su 2 tripulante informar el guardia_civil consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "velero haber ser abordar norte gran_canaria kilo hachís valorar millón euro marco haber concluir detenido informar jefatura_superior_de_policía_de_canarias embarcación eslora bandera alemán ser abordar conducir arsenal capital grancanaria ser desembarcar fardo droga detener tripulante vanko_t.i. año nacer bulgaria germanas_z. lituano año amplio dispositivo policial desplegar tierra permitir detener resto organización capital grancanaria maspalomas tratar víctor_v.b. ruso año óscar_g.v. grancanario hassan_a.a. nacionalidad español año josé_vicente_g.l. gran_canaria año ruso tatiana_m._además ser detener mahy_m.s. grancanario año centrar pesquisa intentar introducir isla kilo cocaína operación incluir registro domiciliario dar resultado hallazgo vehículo equipo informático documentación actividad económico financiero operación sumar lancha neumático abordar madrugada telde tonelada hachís detención tripulante informar guardia_civil consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Vanko_T.I.",
+            "Germanas_Z.",
+            "Víctor_V.B.",
+            "Óscar_G.V.",
+            "Hassan_A.A.",
+            "José_Vicente_G.L.",
+            "Tatiana_M._Además",
+            "Mahy_M.S."
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Bulgaria",
+            "Maspalomas"
+        ],
+        "organizations": [
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Arsenal",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:19/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mi:35",
+            "1.546",
+            "2,2",
+            "8",
+            "LN_m:10,3",
+            "60",
+            "32",
+            "22",
+            "43",
+            "27",
+            "36",
+            "58",
+            "39",
+            "2004",
+            "500",
+            "7",
+            "$_ECU:432.599",
+            "4",
+            "2"
+        ]
+    }
+}

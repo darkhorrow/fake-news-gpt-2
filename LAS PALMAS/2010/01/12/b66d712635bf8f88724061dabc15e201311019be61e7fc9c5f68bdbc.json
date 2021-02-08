@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604877/0/",
+    "title": {
+        "raw_text": "Rivero dice que el conflicto de los controladores \"es un problema que tiene que resolver el Gobierno central\"",
+        "lemmatized_text": "rivero decir que el conflicto de el controlador ser uno problema que tener que resolver el gobierno central",
+        "lemmatized_text_reduced": "rivero decir conflicto controlador ser problema tener resolver gobierno central",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha afirmado que el conflicto de los controladores aéreos es un problema que tiene que resolver el Estado, mientras indicó que el problema de las islas es conseguir que el Ejecutivo central garantice las conexiones con el archipiélago, manifestó hoy tras el Consejo de Gobierno.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber afirmar que el conflicto de el controlador aéreo ser uno problema que tener que resolver el estado mientras indicar que el problema de el isla ser conseguir que el ejecutivo central garantizar el conexión con el archipiélago manifestar hoy tras el consejo_de_gobierno",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber afirmar conflicto controlador aéreo ser problema tener resolver estado indicar problema isla ser conseguir ejecutivo central garantizar conexión archipiélago manifestar consejo_de_gobierno",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Estado",
+            "Ejecutivo",
+            "Consejo_de_Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Espero que el ministro cumpla su palabra porque Canarias le exigió que se adopten medidas definitivas que impidan que nuestra economía esté al vaivén de conflictos que nada tienen que ver con las islas\", dijo. Aquí, apuntó que cómo se resolverá el problema de los controladores es una cuestión del Gobierno de Estado. \"Yo, desde luego —añadió— lo que no voy a aceptar es que esto es un problema de los controladores. No. El problema es del Gobierno, que tiene en sus manos el Boletín Oficial del Estado, los decretos Ley e impulsar medidas legislativas si fuera necesario para regularizar y garantizar un servicio público esencial\". Rivero entendió que el Estado tiene que utilizar las herramientas que tiene en la mano, ya que no se puede \"echar tierra\" y que cuando lleguen las fechas especiales \"se produzcan medidas de presión en los aeropuertos y que quien pague el pato sean los canarios\". \"Se presiona y se utilizan estas huelgas en Canarias y no en la península, porque donde pueden hacer daño era en Canarias. En la península no produce ningún daño, podían producir retrasos pero la gente buscaría otras vías para moverse\", indicó. Finalmente, el presidente canario indicó que no tiene nada en contra de los controladores. \"No es cuestión —añadió— del Gobierno canario si gana el responsable de los controladores 460.000 euros. Eso no es un problema nuestro, es un problema que tiene que resolver el Estado. Sí que es un problema nuestro que tengamos garantizado las conexiones con nuestros aeropuertos\".",
+        "lemmatized_text": "esperar que el ministro cumplir su palabra porque canarias le exigir que se adoptar medida definitivo que impedir que nuestro economía estar a el vaivén de conflicto que nada tener que ver con el isla decir aquí apuntar que cómo se resolver el problema de el controlador ser uno cuestión de el gobierno_de_estado yo desde_luego añadir el que no ir a aceptar ser que este ser uno problema de el controlador no el problema ser de el gobierno que tener en su mano el boletín_oficial_del_estado el decreto ley y impulsar medida legislativo si ser necesario para regularizar y garantizar uno servicio público esencial rivero entender que el estado tener que utilizar el herramienta que tener en el mano ya_que no se poder echar tierra y que cuando llegar el fecha especial se producir medida de presión en el aeropuerto y que quien pagar el pato ser el canario se presionar y se utilizar este huelga en canarias y no en el península porque donde poder hacer daño ser en canarias en el península no producir ninguno daño poder producir retraso pero el gente buscar otro vía para mover se indicar finalmente el presidente canario indicar que no tener nada en_contra_de el controlador no ser cuestión añadir de el gobierno canario si ganar el responsable de el controlador $_ECU:460 ese no ser uno problema nuestro ser uno problema que tener que resolver el estado sí que ser uno problema nuestro que tener garantizar el conexión con nuestro aeropuerto",
+        "lemmatized_text_reduced": "esperar ministro cumplir palabra canarias exigir adoptar medida definitivo impedir economía estar vaivén conflicto tener ver isla decir apuntar resolver problema controlador ser cuestión gobierno_de_estado añadir ir aceptar ser ser problema controlador problema ser gobierno tener mano boletín_oficial_del_estado decreto ley impulsar medida legislativo ser necesario regularizar garantizar servicio público esencial rivero entender estado tener utilizar herramienta tener mano poder echar tierra llegar fecha especial producir medida presión aeropuerto pagar pato ser canario presionar utilizar huelga canarias península poder hacer daño ser canarias península producir daño poder producir retraso gente buscar vía mover indicar finalmente presidente canario indicar tener controlador ser cuestión añadir gobierno canario ganar responsable controlador ser problema nuestro ser problema tener resolver estado ser problema nuestro tener garantizar conexión aeropuerto",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Estado",
+            "Gobierno",
+            "Boletín_Oficial_del_Estado",
+            "Estado",
+            "Gobierno",
+            "Estado"
+        ],
+        "others": [
+            "Ley"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:460"
+        ]
+    }
+}

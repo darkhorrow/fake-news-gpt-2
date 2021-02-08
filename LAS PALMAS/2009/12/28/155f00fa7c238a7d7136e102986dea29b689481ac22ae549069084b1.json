@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596871/0/",
+    "title": {
+        "raw_text": "Una familia de Tías (Lanzarote) recibe los últimos 20.000 euros del sorteo 'Danone Canarias está contigo'",
+        "lemmatized_text": "uno familia de tías lanzarote recibir el último $_ECU:20 de el sorteo danone_canarias estar contigo",
+        "lemmatized_text_reduced": "familia tías lanzarote recibir último sorteo danone_canarias estar",
+        "persons": [
+            "Danone_Canarias"
+        ],
+        "locations": [
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:20"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una familia del municipio de Tías, en Lanzarote, ha recibido hoy el último cheque regalo por valor de 20.000 euros correspondiente al sorteo 'Danone Canarias está contigo', medida puesta en marcha por la empresa para ayudar a los canarios en momentos de crisis económica.",
+        "lemmatized_text": "uno familia de el municipio de tías en lanzarote haber recibir hoy el último cheque regalo por valor de $_ECU:20 correspondiente a el sorteo danone_canarias estar contigo medida poner en marcha por el empresa para ayudar a el canario en momento de crisis económico",
+        "lemmatized_text_reduced": "familia municipio tías lanzarote haber recibir último cheque regalo valor correspondiente sorteo danone_canarias estar medida poner marcha empresa ayudar canario momento crisis económico",
+        "persons": [
+            "Danone_Canarias"
+        ],
+        "locations": [
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:20"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó Danone Canarias en nota de prensa, la afortunada en esta ocasión fue Montserrat Rodríguez Rodríguez, premiada entre las miles de personas participantes en la campaña puesta en marcha en 2009. Éste es el último premio de 20.000 euros que se entrega dentro de esta promoción, que está a punto de concluir, ya que el día 30 de diciembre se celebrará el último sorteo mensual en el que hay un premio de 5.000 euros. El programa 'Danone Canarias está contigo' ha repartido durante este año un total de 90.000 euros en premios en metálico, así como innumerables devoluciones de 20 euros para premiar la fidelidad de sus consumidores. En total, se estima que se han invertido en esta iniciativa cerca de 2 millones de euros. A partir de enero de 2010, Danone Canarias continuará con su política de apoyo a los consumidores canarios a través de nuevas promociones que, de nuevo, contribuirán a que las familias puedan afrontar de forma más sencilla la difícil situación económica que se vive en la actualidad.",
+        "lemmatized_text": "según informar danone_canarias en nota de prensa el afortunado en este ocasión ser montserrat_rodríguez_rodríguez premiar entre el mil de persona participante en el campaña poner en marcha en 2009 este ser el último premio de $_ECU:20 que se entregar dentro_de este promoción que estar a_punto_de concluir ya_que el [??:30/12/??:??.??:??] se celebrar el último sorteo mensual en el que haber uno premio de $_ECU:5 el programa danone_canarias estar contigo haber repartir durante este año uno total de $_ECU:90 en premio en metálico así_como innumerable devolución de $_ECU:20 para premiar el fidelidad de su consumidor en total se estimar que se haber invertir en este iniciativa cerca de $_ECU:2000000 a_partir_de [??:??/1/2010:??.??:??] danone_canarias continuar con su política de apoyo a el consumidor canario a_través_de nuevo promoción que de nuevo contribuir a que el familia poder afrontar de forma más sencillo el difícil situación económico que se vivir en el actualidad",
+        "lemmatized_text_reduced": "informar danone_canarias nota prensa afortunado ocasión ser montserrat_rodríguez_rodríguez premiar mil persona participante campaña poner marcha ser último premio entregar promoción estar concluir celebrar último sorteo mensual haber premio programa danone_canarias estar haber repartir año total premio metálico innumerable devolución premiar fidelidad consumidor total estimar haber invertir iniciativa danone_canarias continuar política apoyo consumidor canario nuevo promoción nuevo contribuir familia poder afrontar forma sencillo difícil situación económico vivir actualidad",
+        "persons": [
+            "Danone_Canarias",
+            "Montserrat_Rodríguez_Rodríguez",
+            "Danone_Canarias",
+            "Danone_Canarias"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:30/12/??:??.??:??]",
+            "[??:??/1/2010:??.??:??]"
+        ],
+        "numbers": [
+            "2009",
+            "$_ECU:20",
+            "$_ECU:5",
+            "$_ECU:90",
+            "$_ECU:20",
+            "$_ECU:2000000"
+        ]
+    }
+}

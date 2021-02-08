@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590888/0/",
+    "title": {
+        "raw_text": "Haidar llega a El Aaiún y pasa sin problemas el control policial marroquí",
+        "lemmatized_text": "haidar llegar a el_aaiún y pasar sin problema el control policial marroquí",
+        "lemmatized_text_reduced": "haidar llegar el_aaiún pasar problema control policial marroquí",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "El_Aaiún"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La activista saharaui Aminetu Haidar ha llegado pasadas las 23.00 horas (hora canaria) de hoy al aeropuerto de El Aaiún, en el Sáhara Occidental, y ha pasado sin ningún problema el control policíal de las autoridades marroquíes, según informaron a Europa Press fuentes de la Plataforma de Apoyo a Aminetu.",
+        "lemmatized_text": "el activista saharaui aminetu_haidar haber llegar pasar el TM_h:23 hora canario de hoy a el aeropuerto de el_aaiún en el sáhara_occidental y haber pasar sin ninguno problema el control policíal de el autoridad marroquí según informar a europa_press fuente de el plataforma_de_apoyo a aminetu",
+        "lemmatized_text_reduced": "activista saharaui aminetu_haidar haber llegar pasar hora canario aeropuerto el_aaiún sáhara_occidental haber pasar problema control policíal autoridad marroquí informar europa_press fuente plataforma_de_apoyo aminetu",
+        "persons": [
+            "Aminetu_Haidar",
+            "Europa_Press"
+        ],
+        "locations": [
+            "El_Aaiún",
+            "Sáhara_Occidental",
+            "Aminetu"
+        ],
+        "organizations": [
+            "Plataforma_de_Apoyo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:23"
+        ]
+    },
+    "body": {
+        "raw_text": "El avión de la activista saharaui Aminetu Haidar despegó finalmente del Aeropuerto de Lanzarote rumbo a El Aaiún a las 22.23 horas, tras 32 días de huelga de hambre en la isla y después de que hace 15 días se produjera un intento fallido de subirla en una aeronave con destino a su hogar en el Sáhara Occidental. Haidar salió destino a El Aaiún sin pasaporte español o marroquí, sino únicamente con un salvoconducto del Gobierno español y el visto bueno de Marruecos para su entrada al país, aunque el Ejecutivo francés encabezado por Nicolás Sarkozy explicó en un comunicado que Mohamed VI garantizó la entrega de su pasaporte a Haidar a su vuelta. La activista saharaui regresó a la capital del Sáhara Occidental acompañada por su hermana, Leila Haidar, y el doctor y director del Hospital de Lanzarote, Domingo de Guzmán, que ha seguido su caso desde el principio.",
+        "lemmatized_text": "el avión de el activista saharaui aminetu_haidar despegar finalmente de el aeropuerto_de_lanzarote rumbo a el_aaiún a el TM_h:22.23 tras TM_d:32 de huelga de hambre en el isla y después_de que hacer TM_d:15 se producir uno intento fallir de subir lo en uno aeronave con destino a su hogar en el sáhara_occidental haidar salir destino a el_aaiún sin pasaporte español o marroquí sino únicamente con uno salvoconducto de el gobierno español y el ver bueno de marruecos para su entrada a el país aunque el ejecutivo francés encabezar por nicolás_sarkozy explicar en uno comunicado que mohamed_vi garantizar el entrega de su pasaporte a haidar a su vuelta el activista saharaui regresar a el capital de el sáhara_occidental acompañar por su hermano leila_haidar y el doctor y director de el hospital_de_lanzarote [G:??/??/??:??.??:??] de guzmán que haber seguir su caso desde el principio",
+        "lemmatized_text_reduced": "avión activista saharaui aminetu_haidar despegar finalmente aeropuerto_de_lanzarote rumbo el_aaiún huelga hambre isla hacer producir intento fallir subir aeronave destino hogar sáhara_occidental haidar salir destino el_aaiún pasaporte español marroquí únicamente salvoconducto gobierno español ver bueno marruecos entrada país ejecutivo francés encabezar nicolás_sarkozy explicar comunicado mohamed_vi garantizar entrega pasaporte haidar vuelta activista saharaui regresar capital sáhara_occidental acompañar hermano leila_haidar doctor director hospital_de_lanzarote guzmán haber seguir caso principio",
+        "persons": [
+            "Aminetu_Haidar",
+            "Haidar",
+            "Nicolás_Sarkozy",
+            "Mohamed_VI",
+            "Haidar",
+            "Leila_Haidar",
+            "Guzmán"
+        ],
+        "locations": [
+            "Aeropuerto_de_Lanzarote",
+            "El_Aaiún",
+            "Sáhara_Occidental",
+            "Marruecos",
+            "Sáhara_Occidental"
+        ],
+        "organizations": [
+            "El_Aaiún",
+            "Gobierno",
+            "Ejecutivo",
+            "Hospital_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:22.23",
+            "TM_d:32",
+            "TM_d:15"
+        ]
+    }
+}

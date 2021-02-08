@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/377723/0/hombre/ahogado/fuerteventura/",
+    "title": {
+        "raw_text": "Un hombre de 31 años muere ahogado en una playa de Fuerteventura",
+        "lemmatized_text": "uno hombre de 31 año morir ahogar en uno playa de fuerteventura",
+        "lemmatized_text_reduced": "hombre año morir ahogar playa fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "31"
+        ]
+    },
+    "lead": {
+        "raw_text": "Sucedió ayer por la mañana, en la playa de Jandía Playa de Jandía, perteneciente al término municipal de Pájara. Todo apunta a que el hombre, de 31 años, pudo sufrir una parada cardiorrespiratoria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "suceder ayer por el mañana en el playa de jandía_playa_de_jandía perteneciente a el término municipal de pájara todo apuntar a que el hombre de 31 año poder sufrir uno parada cardiorrespiratoria consulta_aquí_más_noticias_de_las_palmas_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "suceder mañana playa jandía_playa_de_jandía perteneciente término municipal pájara apuntar hombre año poder sufrir parada cardiorrespiratoria consulta_aquí_más_noticias_de_las_palmas_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [
+            "Pájara"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Puedes"
+        ],
+        "others": [
+            "Jandía_Playa_de_Jandía"
+        ],
+        "dates": [],
+        "numbers": [
+            "31"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre de 31 años de edad murió ahogado ayer por la mañana en la Playa de Jandía , perteneciente al término municipal de Pájara (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad 112 de Canarias. Los hechos se produjeron sobre las 12.40 horas cuando unos bañistas vieron como el cuerpo del hombre flotaba en el agua, por lo que llamaron al 112 que se trasladó al lugar e intentó en todo momento reanimar al joven, tarea que se prolongó hasta aproximadamente las 16.00 horas cuando se certificó su muerte, según confirmaron a Europa Press fuentes de la Guardia Civil. En cuanto a las causas de este accidente se desconocen aunque todo apunta a que podría haber sido una parada cardiorrespiratoria . De todos modos, el cuerpo del fallecido se encuentra ahora en el tanatorio de Puerto del Rosario donde mañana el forense le practicará la autopsia. El dispositivo que acudió al lugar de los hechos estuvo compuesto por una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC), así como por médicos del centro de salud de Morro Jable, personal del servicio de salvamento y agentes tanto de la Policía Local como de la Guardia Civil también de Morro Jable. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno hombre de 31 año de edad morir ahogar ayer por el mañana en el playa_de_jandía perteneciente a el término municipal de pájara fuerteventura según informar el centro_coordinador_de_emergencias y seguridad 112 de canarias el hecho se producir sobre el TM_h:12.4 cuando uno bañista ver como el cuerpo de el hombre flotar en el agua por el que llamar a el 112 que se trasladar a el lugar y intentar en todo momento reanimar a el joven tarea que se prolongar hasta aproximadamente el TM_h:16 cuando se certificar su muerte según confirmar a europa_press fuente de el guardia_civil en_cuanto_a el causa de este accidente se desconocer aunque todo apuntar a que poder haber ser uno parada cardiorrespiratoria de_todos_modos el cuerpo de el fallecer se encontrar ahora en el tanatorio de puerto_del_rosario donde mañana el forense le practicar el autopsia el dispositivo que acudir a el lugar de el hecho estar componer por uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc así_como por médico de el centro de salud de morro_jable personal de el servicio de salvamento y agente tanto de el policía_local como de el guardia_civil también de morro_jable consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "hombre año edad morir ahogar mañana playa_de_jandía perteneciente término municipal pájara fuerteventura informar centro_coordinador_de_emergencias seguridad canarias hecho producir bañista ver cuerpo hombre flotar agua llamar trasladar lugar intentar momento reanimar joven tarea prolongar aproximadamente certificar muerte confirmar europa_press fuente guardia_civil causa accidente desconocer apuntar poder haber ser parada cardiorrespiratoria cuerpo fallecer encontrar tanatorio puerto_del_rosario forense practicar autopsia dispositivo acudir lugar hecho estar componer ambulancia soporte vital básico servicio_de_urgencias_canario suc médico centro salud morro_jable personal servicio salvamento agente policía_local guardia_civil morro_jable consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Europa_Press",
+            "Morro_Jable",
+            "Morro_Jable"
+        ],
+        "locations": [
+            "Playa_de_Jandía",
+            "Pájara",
+            "Canarias",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Guardia_Civil",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "31",
+            "112",
+            "TM_h:12.4",
+            "112",
+            "TM_h:16"
+        ]
+    }
+}

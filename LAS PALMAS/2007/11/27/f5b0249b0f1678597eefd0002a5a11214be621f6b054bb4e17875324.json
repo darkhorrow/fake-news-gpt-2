@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/313284/0/llegan/inmigrantes/laspalmas/",
+    "title": {
+        "raw_text": "Llegan a Gran Canaria 52 inmigrantes vistos frente a la costa de Maspalomas",
+        "lemmatized_text": "llegar a gran_canaria 52 inmigrante ver frente_a el costa de maspalomas",
+        "lemmatized_text_reduced": "llegar gran_canaria inmigrante ver costa maspalomas",
+        "persons": [
+            "Maspalomas"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "52"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los inmigrantes, mayores de edad, se encontraban en buen estado. Avistaron el cayuco cuando se encontraba a 300 metros de la orilla. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "el inmigrante mayor de edad se encontrar en bueno estado avistar el cayuco cuando se encontrar a LN_m:300 de el orilla consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "inmigrante mayor edad encontrar bueno estado avistar cayuco encontrar orilla consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:300"
+        ]
+    },
+    "body": {
+        "raw_text": "Un cayuco con 52 inmigrantes africanos a bordo que fue avistado esta tarde al sur de Gran Canaria, frente a la costa turística de Maspalomas, llegó al muelle grancanario de Arguineguín, hasta donde fue escoltado por Salvamento Marítimo, informaron fuentes del Centro Coordinador de Emergencias y Seguridad. Este centro fue alertado en torno a las 16.20 horas por el personal del puesto de la Cruz Roja de la Playa de Maspalomas, que indicó del avistamiento de un cayuco con inmigrantes a bordo a 300 metros de la orilla . Una embarcación de Salvamento Marítimo acudió a su encuentro y lo escoltó hasta Arguineguín, a donde llegó sobre las cinco de la tarde. El dispositivo de atención de inmigrantes a pie de costa comprobó que los inmigrantes, todos varones y mayores de edad , se encontraban en buen estado, así que fueron puestos a disposición de la Policía Nacional, que procederá a su identificación y remisión a un centro de internamiento en tanto se resuelve el expediente de expulsión. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno cayuco con 52 inmigrante africano a_bordo que ser avistar este tarde a el sur de gran_canaria frente_a el costa turístico de maspalomas llegar a el muelle grancanario de arguineguín hasta donde ser escoltar por salvamento_marítimo informar fuente de el centro_coordinador_de_emergencias y seguridad este centro ser alertar en_torno_a el TM_h:16.2 por el personal de el puesto de el cruz_roja_de_la_playa_de_maspalomas que indicar de el avistamiento de uno cayuco con inmigrante a_bordo a LN_m:300 de el orilla uno embarcación de salvamento_marítimo acudir a su encuentro y lo escoltar hasta arguineguín a_donde llegar sobre el [??:??/??/??:5.00:pm] el dispositivo de atención de inmigrante a pie de costa comprobar que el inmigrante todo varón y mayor de edad se encontrar en bueno estado así que ser poner a disposición de el policía_nacional que proceder a su identificación y remisión a uno centro de internamiento en tanto se resolver el expediente de expulsión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "cayuco inmigrante africano ser avistar tarde sur gran_canaria costa turístico maspalomas llegar muelle grancanario arguineguín ser escoltar salvamento_marítimo informar fuente centro_coordinador_de_emergencias seguridad centro ser alertar personal puesto cruz_roja_de_la_playa_de_maspalomas indicar avistamiento cayuco inmigrante orilla embarcación salvamento_marítimo acudir encuentro escoltar arguineguín llegar dispositivo atención inmigrante pie costa comprobar inmigrante varón mayor edad encontrar bueno estado ser poner disposición policía_nacional proceder identificación remisión centro internamiento resolver expediente expulsión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Maspalomas",
+            "Arguineguín",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Policía_Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Seguridad",
+            "Cruz_Roja_de_la_Playa_de_Maspalomas"
+        ],
+        "dates": [
+            "[??:??/??/??:5.00:pm]"
+        ],
+        "numbers": [
+            "52",
+            "TM_h:16.2",
+            "LN_m:300"
+        ]
+    }
+}

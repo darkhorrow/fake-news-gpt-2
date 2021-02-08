@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/689659/0/",
+    "title": {
+        "raw_text": "La secretaria general de Empleo dice que los datos de la EPA \"no existirán\" hasta el viernes",
+        "lemmatized_text": "el secretario general de empleo decir que el dato de el epa no existir hasta el [V:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "secretario general empleo decir dato epa existir",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Empleo",
+            "EPA"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "\"Los datos de la EPA los elabora el Instituto Nacional de Estadística (INE), no el Ministerio de Trabajo. Es muy importante volver a recordar que la EPA es la estadística que mediante la encuesta que se realiza trimestral nos indica cuales son los datos relativos al empleo y desempleo en este país. Los datos de darán el viernes\", explicó.",
+        "lemmatized_text": "el dato de el epa lo elaborar el instituto_nacional_de_estadística ine no el ministerio_de_trabajo ser muy importante volver a recordar que el epa ser el estadístico que mediante el encuesta que se realizar trimestral nos indicar cual ser el dato relativo a el empleo y desempleo en este país el dato de dar el [V:??/??/??:??.??:??] explicar",
+        "lemmatized_text_reduced": "dato epa elaborar instituto_nacional_de_estadística ine ministerio_de_trabajo ser importante volver recordar epa ser estadístico encuesta realizar trimestral indicar ser dato relativo empleo desempleo país dato dar explicar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "EPA",
+            "Instituto_Nacional_de_Estadística",
+            "Ministerio_de_Trabajo",
+            "EPA"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La secretaria general de Empleo del Ministerio de Trabajo, Maravillas Rojo, ha manifestado hoy que los datos de la Encuesta de Población Activa (EPA) \"no existirán\" hasta el próximo viernes, cuando salgan los datos oficiales, por lo que ni confirmó ni desmintió las cifras que apuntaban a un tasa de paro del 20 por ciento. De esta manera, apuntó que será este día cuando, oficialmente, el INE ratifique, o no, \"algunos datos que parece que de alguna manera no controlada se han filtrado\". \"Será el viernes —insistió— cuando se conozcan los datos de la EPA y se hará por parte de los responsables del INE\". Rojo ni desmintió ni confirmó así los datos aparecidos \"porque no existen\". \"Los datos todavía no existen, se conocerán el día 30 porque se entregan y se dan oficialmente. Les pido que esperen al día 30 para verificar todos los datos y comentarlos\", señaló. Así, expuso que en el Ministerio de Trabajo disponen de las cifras del paro, que es un indicador que expresa las personas que se inscriben y se registran, mientras dijo que la semana se tendrán los próximos datos. \"Estoy convencida —añadió— de que los datos del paro registrado van a confirmar que se está frenando la destrucción de empleo y que la tendencia que se inició hace un año de disminución de la intensidad del paro se va a confirmar. Los datos de la EPA expresan la estadística del empleo y del desempleo pero del trimestre ya vencido\".",
+        "lemmatized_text": "el secretario general de empleo_del_ministerio_de_trabajo maravillas_rojo haber manifestar hoy que el dato de el encuesta_de_población_activa epa no existir hasta el [V:??/??/??:??.??:??] cuando salgar el dato oficial por el que ni confirmar ni desmentir el cifra que apuntar a uno tasa de paro de el 20 por 100 de este manera apuntar que ser este día cuando oficialmente el ine ratificar o no alguno dato que parecer que de alguno manera no controlar se haber filtrar ser el [V:??/??/??:??.??:??] insistir cuando se conocer el dato de el epa y se hacer por parte de el responsable de el ine rojo ni desmentir ni confirmar así el dato aparecer porque no existir el dato todavía no existir se conocer el [??:30/??/??:??.??:??] porque se entregar y se dar oficialmente le pedir que esperar a el [??:30/??/??:??.??:??] para verificar todo el dato y comentar lo señalar así exponer que en el ministerio_de_trabajo disponer de el cifra de el paro que ser uno indicador que expresar el persona que se inscribir y se registrar mientras decir que el semana se tener el próximo dato estar convencer añadir de que el dato de el paro registrar ir a confirmar que se estar frenar el destrucción de empleo y que el tendencia que se iniciar hacer uno año de disminución de el intensidad de el paro se ir a confirmar el dato de el epa expresar el estadística de el empleo y de el desempleo pero de el trimestre ya vencer",
+        "lemmatized_text_reduced": "secretario general empleo_del_ministerio_de_trabajo maravillas_rojo haber manifestar dato encuesta_de_población_activa epa existir salgar dato oficial confirmar desmentir cifra apuntar tasa paro manera apuntar ser día oficialmente ine ratificar dato parecer manera controlar haber filtrar ser insistir conocer dato epa hacer parte responsable ine rojo desmentir confirmar dato aparecer existir dato existir conocer entregar dar oficialmente pedir esperar verificar dato comentar señalar exponer ministerio_de_trabajo disponer cifra paro ser indicador expresar persona inscribir registrar decir semana tener próximo dato estar convencer añadir dato paro registrar ir confirmar estar frenar destrucción empleo tendencia iniciar hacer año disminución intensidad paro ir confirmar dato epa expresar estadística empleo desempleo trimestre vencer",
+        "persons": [
+            "Maravillas_Rojo",
+            "Rojo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Empleo_del_Ministerio_de_Trabajo",
+            "EPA",
+            "INE",
+            "EPA",
+            "INE",
+            "Ministerio_de_Trabajo",
+            "EPA"
+        ],
+        "others": [
+            "Encuesta_de_Población_Activa"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[??:30/??/??:??.??:??]",
+            "[??:30/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "20",
+            "100"
+        ]
+    }
+}

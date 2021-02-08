@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/336057/0/intento/asesinato/laspalmas/",
+    "title": {
+        "raw_text": "Cinco detenidos por intentar asesinar a una persona a la que habían estafado",
+        "lemmatized_text": "5 detenido por intentar asesinar a uno persona a el que haber estafar",
+        "lemmatized_text_reduced": "detenido intentar asesinar persona haber estafar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una de ellas encargó el asesinato a cambio de 28.000 euros. Amenazaban a la víctima para que retirara la querella por estafa. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno de ellos encargar el asesinato a_cambio_de $_ECU:28 amenazar a el víctima para que retirar el querella por estafa consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "encargar asesinato amenazar víctima retirar querella estafa consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:28"
+        ]
+    },
+    "body": {
+        "raw_text": "Cinco personas han sido detenidas en Gran Canaria después de que una de ellas encargara a las otras cuatro matar a un hombre a cambio de 28.000 euros , según informó la Guardia Civil. Los detenidos son B.Q., de 49 años, J.O., de 55, y M.H., de 29, todos de nacionalidad irlandesa, así como la inglesa L.H., de 53, y el también británico M.S., de 49, quien fue detenido a bordo de un avión como supuesto instigador del intento de asesinato de un ciudadano noruego. La víctima había puesto una querella por estafa y apropiación indebida de 200.000 euros en unas inversiones, por lo que el supuesto estafador ofreció a uno de los detenidos matar al estafado, quien recibió una llamada telefónica amenazándole de muerte si no retiraba la querella. Antecedentes por robo y violación Tras ello, acordaron mantener una reunión en un lugar público para buscar la solución más adecuada, lo que aprovechó la Guardia Civil para establecer un dispositivo de vigilancia. La reunión se produjo en un local de ocio de Puerto Rico , en el sur de Gran Canaria. Ahí se dieron cita el denunciante, su abogado y otras cuatro personas que le instaron a firmar un documento que serviría de justificante para retirar la denuncia. Estas cuatro personas fueron detenidas y las pesquisas permitieron saber que el presunto estafador pretendía viajar desde Gran Canaria a Cuba , así que fue detenido en el avión cuando el aparato estaba ya a punto de despegar. Todos los detenidos tienen antecedentes policiales en su país de origen por robo e incluso por violación, así como por estafa en España. Estas personas y las diligencias instruidas en la operación, denominada Tamadaba , han sido puestas a disposición judicial. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "5 persona haber ser detener en gran_canaria después_de que uno de ellos encargar a el otro 4 matar a uno hombre a_cambio_de $_ECU:28 según informar el guardia_civil el detenido ser b.q. de 49 año j.o. de 55 y m.h. de 29 todo de nacionalidad irlandés así_como el inglés l.h. de 53 y el también británico m.s. de 49 quien ser detener a_bordo de uno avión como suponer instigador de el intento de asesinato de uno ciudadano noruego el víctima haber poner uno querella por estafa y apropiación indebido de $_ECU:200 en uno inversión por el que el suponer estafador ofrecer a uno de el detenido matar a el estafar quien recibir uno llamada telefónico amenazar le de muerte si no retirar el querella antecedente por robo y violación tras ello acordar mantener uno reunión en uno lugar público para buscar el solución más adecuar el que aprovechar el guardia_civil para establecer uno dispositivo de vigilancia el reunión se producir en uno local de ocio de puerto_rico en el sur de gran_canaria ahí se dar cita el denunciante su abogado y otro 4 persona que le instar a firmar uno documento que servir de justificante para retirar el denuncia este 4 persona ser detener y el pesquisa permitir saber que el presunto estafador pretender viajar desde gran_canaria a cuba así que ser detener en el avión cuando el aparato estar ya a_punto_de despegar todo el detenido tener antecedente policial en su país de origen por robo y incluso por violación así_como por estafa en españa este persona y el diligencia instruir en el operación denominar tamadaba haber ser poner a disposición judicial consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persona haber ser detener gran_canaria encargar matar hombre informar guardia_civil detenido ser b.q. año j.o. m.h. nacionalidad irlandés inglés l.h. británico m.s. ser detener avión suponer instigador intento asesinato ciudadano noruego víctima haber poner querella estafa apropiación indebido inversión suponer estafador ofrecer detenido matar estafar recibir llamada telefónico amenazar muerte retirar querella antecedente robo violación tras acordar mantener reunión lugar público buscar solución adecuar aprovechar guardia_civil establecer dispositivo vigilancia reunión producir local ocio puerto_rico sur gran_canaria dar cita denunciante abogado persona instar firmar documento servir justificante retirar denuncia persona ser detener pesquisa permitir saber presunto estafador pretender viajar gran_canaria cuba ser detener avión aparato estar despegar detenido tener antecedente policial país origen robo violación estafa españa persona diligencia instruir operación denominar tamadaba haber ser poner disposición judicial consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "J.O.",
+            "Tamadaba"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Puerto_Rico",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Cuba",
+            "España"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "B.Q.",
+            "M.H.",
+            "L.H.",
+            "M.S.",
+            "Tras",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "4",
+            "$_ECU:28",
+            "49",
+            "55",
+            "29",
+            "53",
+            "49",
+            "$_ECU:200",
+            "4",
+            "4"
+        ]
+    }
+}

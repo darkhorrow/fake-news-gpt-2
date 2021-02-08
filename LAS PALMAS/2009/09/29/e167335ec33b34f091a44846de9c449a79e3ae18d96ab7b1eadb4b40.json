@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/529164/0/patera/lanzarote/magrebies/",
+    "title": {
+        "raw_text": "Llega una patera a Lanzarote con 21 inmigrantes a bordo, entre ellos 10 menores",
+        "lemmatized_text": "llegar uno patera a lanzarote con 21 inmigrante a_bordo entre ellos 10 menor",
+        "lemmatized_text_reduced": "llegar patera lanzarote inmigrante menor",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "21",
+            "10"
+        ]
+    },
+    "lead": {
+        "raw_text": "Todos estaban \"en aparente buen estado de salud\". La embarcación fue remolcada hasta Puerto Naos, en Arrecife. Fue detectada por el Sistema de Vigilancia Exterior a las 06.50 h.",
+        "lemmatized_text": "todo estar en aparente bueno estado de salud el embarcación ser remolcar hasta puerto_naos en arrecife ser detectar por el sistema_de_vigilancia_exterior a el TM_h:6.5",
+        "lemmatized_text_reduced": "estar aparente bueno estado salud embarcación ser remolcar puerto_naos arrecife ser detectar sistema_de_vigilancia_exterior",
+        "persons": [],
+        "locations": [
+            "Puerto_Naos",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Sistema_de_Vigilancia_Exterior"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:6.5"
+        ]
+    },
+    "body": {
+        "raw_text": "Una patera con 21 inmigrantes de origen magrebí a bordo, entre ellos diez menores , fue remolcada este martes por el servicio marítimo de la Guardia Civil hasta Puerto Naos, en el municipio de Arrecife, en Lanzarote, según informaron fuentes de la Benemérita. Fue detectada a unas cuatro millas de la costa canaria El Sistema Integrado de Vigilancia Exterior detectó la embarcación a las 06.50 h a unas cuatro millas de la costa canaria, por lo que se activó el servicio marítimo de la Guardia Civil, que interceptó la patera al sureste de la isla en una zona conocida como Punta de Tope, en el municipio de Teguise. En el interior viajaban un total de 21 inmigrantes de origen magrebí , según las mismas fuentes, que indicaron que la patera fue remolcada hasta Puerto Naos, adonde llegó sobre las 9.00 h. Tras desembarcar, los recursos de emergencias atendieron a los ocupantes de la embarcación, quienes se encontraban \"todos en aparente buen estado de salud \", por lo que no hubo que trasladar a ninguna persona al hospital.",
+        "lemmatized_text": "uno patera con 21 inmigrante de origen magrebí a_bordo entre ellos 10 menor ser remolcar este [M:??/??/??:??.??:??] por el servicio marítimo de el guardia_civil hasta puerto_naos en el municipio de arrecife en lanzarote según informar fuente de el benemérita ser detectar a uno LN_mi:4 de el costa canario el_sistema_integrado_de_vigilancia_exterior detectar el embarcación a el TM_h:6.5 a uno LN_mi:4 de el costa canario por el que se activar el servicio marítimo de el guardia_civil que interceptar el patera a el sureste de el isla en uno zona conocer como punta_de_tope en el municipio de teguise en el interior viajar uno total de 21 inmigrante de origen magrebí según el mismo fuente que indicar que el patera ser remolcar hasta puerto_naos adonde llegar sobre el TM_h:9 tras desembarcar el recurso de emergencia atender a el ocupante de el embarcación quien se encontrar todo en aparente bueno estado de salud por el que no haber que trasladar a ninguno persona a el hospital",
+        "lemmatized_text_reduced": "patera inmigrante origen magrebí menor ser remolcar servicio marítimo guardia_civil puerto_naos municipio arrecife lanzarote informar fuente benemérita ser detectar costa canario el_sistema_integrado_de_vigilancia_exterior detectar embarcación costa canario activar servicio marítimo guardia_civil interceptar patera sureste isla zona conocer punta_de_tope municipio teguise interior viajar total inmigrante origen magrebí mismo fuente indicar patera ser remolcar puerto_naos llegar desembarcar recurso emergencia atender ocupante embarcación encontrar aparente bueno estado salud haber trasladar persona hospital",
+        "persons": [
+            "El_Sistema_Integrado_de_Vigilancia_Exterior"
+        ],
+        "locations": [
+            "Puerto_Naos",
+            "Arrecife",
+            "Lanzarote",
+            "Punta_de_Tope",
+            "Teguise",
+            "Puerto_Naos"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Benemérita",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "21",
+            "10",
+            "LN_mi:4",
+            "TM_h:6.5",
+            "LN_mi:4",
+            "21",
+            "TM_h:9"
+        ]
+    }
+}

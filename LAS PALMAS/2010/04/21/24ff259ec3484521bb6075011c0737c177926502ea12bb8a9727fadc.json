@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/684016/0/",
+    "title": {
+        "raw_text": "BBVA asegura que la economía española sin construcción crecería al nivel del resto de Europa",
+        "lemmatized_text": "bbva asegurar que el economía español sin construcción crecer a el nivel de el resto de europa",
+        "lemmatized_text_reduced": "bbva asegurar economía español construcción crecer nivel resto europa",
+        "persons": [],
+        "locations": [
+            "Europa"
+        ],
+        "organizations": [
+            "BBVA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El jefe en España del Servicio de Estudios de BBVA, Miguel Cardoso, aseguró hoy que la economía española crecería al mismo ritmo que el resto de Europa si se restara al sector de la construcción y la \"particular\" situación de España en este sentido.",
+        "lemmatized_text": "el jefe en españa_del_servicio_de_estudios_de_bbva miguel_cardoso asegurar hoy que el economía español crecer a el mismo ritmo que el resto de europa si se restar a el sector de el construcción y el particular situación de españa en este sentido",
+        "lemmatized_text_reduced": "jefe españa_del_servicio_de_estudios_de_bbva miguel_cardoso asegurar economía español crecer mismo ritmo resto europa restar sector construcción particular situación españa sentido",
+        "persons": [
+            "Miguel_Cardoso",
+            "España"
+        ],
+        "locations": [
+            "Europa"
+        ],
+        "organizations": [],
+        "others": [
+            "España_del_Servicio_de_Estudios_de_BBVA"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Además, el banco español ve una recuperación \"débil\" e \"incierta\" del PIB español este año, con un crecimiento del 0,1 por ciento en el primer trimestre del año 2010, \"algo superior en el segundo trimestre e inferior en el tercero\". Cardoso comentó que la recuperación española dependerá de los incentivos fiscales, y se verá ralentizada y condicionada por la retirada del PlanE, de los estímulos a la compra de coches y la subida del IVA. (Habrá ampliación)",
+        "lemmatized_text": "además el banco español ver uno recuperación débil y incierto de el pib español este año con uno crecimiento de el 0,1 por 100 en el 1 trimestre de el [??:??/??/2010:??.??:??] algo superior en el 2 trimestre y inferior en el 3 cardoso comentar que el recuperación español depender de el incentivo fiscal y se ver ralentizar y condicionar por el retirada de el plane de el estímulo a el compra de coche y el subida de el iva haber ampliación",
+        "lemmatized_text_reduced": "banco español ver recuperación débil incierto pib español año crecimiento 1 trimestre superior 2 trimestre inferior 3 cardoso comentar recuperación español depender incentivo fiscal ver ralentizar condicionar retirada plane estímulo compra coche subida iva haber ampliación",
+        "persons": [
+            "Cardoso"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "PIB",
+            "PlanE",
+            "IVA"
+        ],
+        "dates": [
+            "[??:??/??/2010:??.??:??]"
+        ],
+        "numbers": [
+            "0,1",
+            "100"
+        ]
+    }
+}

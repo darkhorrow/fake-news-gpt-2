@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/944249/0/",
+    "title": {
+        "raw_text": "Las lluvias provocan inundaciones, rebosamiento de alcantarillas y desprendimientos en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el lluvia provocar inundación rebosamiento de alcantarilla y desprendimiento en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "lluvia provocar inundación rebosamiento alcantarilla desprendimiento las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las fuertes lluvias caídas en Las Palmas de Gran Canaria desde primera hora de la mañana de este domingo han provocado diferentes inundaciones de garajes y bajos de viviendas, rebosamiento de alcantarillas y desprendimientos de piedras que dificultan la circulación en algunas carreteras.",
+        "lemmatized_text": "el fuerte lluvia caer en las_palmas_de_gran_canaria desde 1 hora de el mañana de este [G:??/??/??:??.??:??] haber provocar diferente inundación de garaje y bajo de vivienda rebosamiento de alcantarilla y desprendimiento de piedra que dificultar el circulación en alguno carretera",
+        "lemmatized_text_reduced": "fuerte lluvia caer las_palmas_de_gran_canaria 1 hora mañana haber provocar inundación garaje bajo vivienda rebosamiento alcantarilla desprendimiento piedra dificultar circulación carretera",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las fuertes lluvias caídas en Las Palmas de Gran Canaria desde primera hora de la mañana de este domingo han provocado diferentes inundaciones de garajes y bajos de viviendas, rebosamiento de alcantarillas y desprendimientos de piedras que dificultan la circulación en algunas carreteras. Según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 a Europa Press, desde las 07.30 horas se registró un aumento en el número de llamadas alertando de incidentes, siendo Gran Canaria la isla en la que se han dado mayor cantidad de avisos. Así, las zonas más afectadas se corresponden con las partes altas de la ciudad, tales como Tafira, Tamaraceite, Barranquillo de Don Zoilo, además de barrios como La Paterna, La Feria o Escaleritas. De esta manera, la mayor parte de las intervenciones han tenido que ver con inundaciones y achiques de agua en garajes y bajos de viviendas, mientras que también se ha producido el rebosamiento de algunas alcantarillas y desprendimientos de piedras de laderas sobre alguna carretera, aunque ninguna se ha tenido que cerrar. Pese a esto, han habido dificultades para circular por vías como el acceso a los túneles de Julio Luengo, que une la capital con la zona norte de la isla. Finalmente, en el resto de zonas de Gran Canaria también se han recibido, en menor medida, llamadas de problemas derivados de las fuertes lluvias, aunque desde las 11.30 horas se ha producido un aumento de los avisos de los municipios de Arucas, Santa María de Guía, Gáldar y Santa Brígida.",
+        "lemmatized_text": "el fuerte lluvia caer en las_palmas_de_gran_canaria desde 1 hora de el mañana de este [G:??/??/??:??.??:??] haber provocar diferente inundación de garaje y bajo de vivienda rebosamiento de alcantarilla y desprendimiento de piedra que dificultar el circulación en alguno carretera según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 a europa_press desde el TM_h:7.3 se registrar uno aumento en el número de llamada alertar de incidente ser gran_canaria el isla en el que se haber dar mayor cantidad de aviso así el zona más afectar se corresponder con el parte alto de el ciudad tal como tafira tamaraceite barranquillo_de_don_zoilo además_de barrio como la_paterna la_feria o escaleritas de este manera el mayor parte de el intervención haber tener que ver con inundación y achique de agua en garaje y bajo de vivienda mientras_que también se haber producir el rebosamiento de alguno alcantarilla y desprendimiento de piedra de ladera sobre alguno carretera aunque ninguno se haber tener que cerrar pese_a este haber haber dificultad para circular por vía como el acceso a el túnel de [??:??/7/??:??.??:??] luengo que unir el capital con el zona norte de el isla finalmente en el resto de zona de gran_canaria también se haber recibir en menor medida llamar de problema derivar de el fuerte lluvia aunque desde el TM_h:11.3 se haber producir uno aumento de el aviso de el municipio de arucas santa_maría_de_guía gáldar y santa_brígida",
+        "lemmatized_text_reduced": "fuerte lluvia caer las_palmas_de_gran_canaria 1 hora mañana haber provocar inundación garaje bajo vivienda rebosamiento alcantarilla desprendimiento piedra dificultar circulación carretera informar centro_coordinador_de_emergencias seguridad cecoes europa_press registrar aumento número llamada alertar incidente ser gran_canaria isla haber dar mayor cantidad aviso zona afectar corresponder parte alto ciudad tafira tamaraceite barranquillo_de_don_zoilo barrio la_paterna la_feria escaleritas manera mayor parte intervención haber tener ver inundación achique agua garaje bajo vivienda haber producir rebosamiento alcantarilla desprendimiento piedra ladera carretera haber tener cerrar haber haber dificultad circular vía acceso túnel luengo unir capital zona norte isla finalmente resto zona gran_canaria haber recibir menor medida llamar problema derivar fuerte lluvia haber producir aumento aviso municipio arucas santa_maría_de_guía gáldar santa_brígida",
+        "persons": [
+            "Europa_Press",
+            "Tamaraceite",
+            "Barranquillo_de_Don_Zoilo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Gran_Canaria",
+            "Tafira",
+            "La_Paterna",
+            "La_Feria",
+            "Escaleritas",
+            "Luengo",
+            "Gran_Canaria",
+            "Arucas",
+            "Santa_Brígida"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Santa_María_de_Guía",
+            "Gáldar"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:7.3",
+            "TM_h:11.3"
+        ]
+    }
+}

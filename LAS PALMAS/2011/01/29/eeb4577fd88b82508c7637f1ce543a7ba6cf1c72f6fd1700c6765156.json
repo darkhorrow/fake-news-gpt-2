@@ -1,0 +1,101 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/943810/0/",
+    "title": {
+        "raw_text": "Rajoy presentará este 25 de febrero en Gran Canaria a los candidatos del PP en la isla",
+        "lemmatized_text": "rajoy presentar este [??:25/2/??:??.??:??] en gran_canaria a el candidato de el pp en el isla",
+        "lemmatized_text_reduced": "rajoy presentar gran_canaria candidato pp isla",
+        "persons": [
+            "Rajoy"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "PP"
+        ],
+        "others": [],
+        "dates": [
+            "[??:25/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del PP, Mariano Rajoy, presentará este 25 de febrero a los candidatos populares a los diferentes ayuntamientos de Gran Canaria en las elecciones municipales que tendrán lugar el próximo mes de mayo, según informó la presidenta insular del partido, María Australia Navarro, durante una rueda de prensa.",
+        "lemmatized_text": "el presidente de el pp mariano_rajoy presentar este [??:25/2/??:??.??:??] a el candidato popular a el diferente ayuntamiento de gran_canaria en el elección municipal que tener_lugar el [??:??/5/??:??.??:??] según informar el presidente insular de el partido maría_australia_navarro durante uno rueda de prensa",
+        "lemmatized_text_reduced": "presidente pp mariano_rajoy presentar candidato popular diferente ayuntamiento gran_canaria elección municipal tener_lugar informar presidente insular partido maría_australia_navarro rueda prensa",
+        "persons": [
+            "Mariano_Rajoy",
+            "María_Australia_Navarro"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:25/2/??:??.??:??]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente del PP, Mariano Rajoy, presentará este 25 de febrero a los candidatos populares a los diferentes ayuntamientos de Gran Canaria en las elecciones municipales que tendrán lugar el próximo mes de mayo, según informó la presidenta insular del partido, María Australia Navarro, durante una rueda de prensa. De esta manera, el Comité Ejecutivo del PP insular anunció este sábado a algunos candidatos para los próximos comicios. Así, en Firgas el representante popular será Paola Hernández Marrero, concejal desde 2002 y primera teniente alcalde; en Santa Brígida será Lucas Bravo de Laguna, secretario insular del PP y actual alcalde del municipio; en San Mateo, el aspirante será José Luis Gil Jiménez, actual concejal en el Ayuntamiento. Además, en Santa María de Guía, el candidato del PP será Antonio Manuel Vera, concejal desde 2003 y ex director general de Patrimonio del Gobierno de Canarias; en Valleseco hará lo propio Dámaso Alexis Arencibia, concejal desde 2003 y actual alcalde. Por Valsequillo, María Nélida Hernández, concejal desde 2003 y primera teniente alcalde, aspirará a la Alcaldía; por Ingenio será Juan José Gil Méndez, que lleva como concejal también desde 2003; mientras que por Mogán será José Francisco González González, actual alcalde. \"Podemos decir con cierto orgullo, y sin que se malentienda, que a día de hoy contamos con los mejores candidatos\", dijo Navarro, quien hizo especial hincapié en que todavía queda mucho trabajo por hacer para mejorar la situación de los grancanarios. A todos estos aspirantes hay que añadir a José Luis Báez, presentado por el presidente del PP en Canarias, José Manuel Soria, como candidato en el municipio de Teror. Por último, la presidenta insular comentó que durante los próximos días se terminarán de anunciar a los cabezas de lista del PP en los municipios donde aún no se ha establecido un aspirante.",
+        "lemmatized_text": "el presidente de el pp mariano_rajoy presentar este [??:25/2/??:??.??:??] a el candidato popular a el diferente ayuntamiento de gran_canaria en el elección municipal que tener_lugar el [??:??/5/??:??.??:??] según informar el presidente insular de el partido maría_australia_navarro durante uno rueda de prensa de este manera el comité_ejecutivo_del_pp insular anunciar este [S:??/??/??:??.??:??] a alguno candidato para el próximo comicio así en firgas el representante popular ser paola_hernández_marrero concejal desde 2002 y 1 teniente alcalde en santa_brígida ser lucas_bravo_de_laguna secretario insular de el pp y actual alcalde de el municipio en san_mateo el aspirante ser josé_luis_gil_jiménez actual concejal en el ayuntamiento además en santa_maría_de_guía el candidato de el pp ser antonio_manuel_vera concejal desde 2003 y ex director general de patrimonio_del_gobierno_de_canarias en valleseco hacer el propio dámaso_alexis_arencibia concejal desde 2003 y actual alcalde por valsequillo maría_nélida_hernández concejal desde 2003 y 1 teniente alcalde aspirar a el alcaldía por ingenio ser juan_josé_gil_méndez que llevar como concejal también desde 2003 mientras_que por mogán ser josé_francisco_gonzález_gonzález actual alcalde poder decir con cierto orgullo y sin que se malentender que a día de hoy contar con el mejor candidato decir navarro quien hacer especial hincapié en que todavía quedar mucho trabajo por hacer para mejorar el situación de el grancanarios a todo este aspirante haber que añadir a josé_luis_báez presentar por el presidente de el pp en canarias josé_manuel_soria como candidato en el municipio de teror por último el presidente insular comentar que durante el próximo día se terminar de anunciar a el cabeza de lista de el pp en el municipio donde aun no se haber establecer uno aspirante",
+        "lemmatized_text_reduced": "presidente pp mariano_rajoy presentar candidato popular diferente ayuntamiento gran_canaria elección municipal tener_lugar informar presidente insular partido maría_australia_navarro rueda prensa manera comité_ejecutivo_del_pp insular anunciar candidato próximo comicio firgas representante popular ser paola_hernández_marrero concejal 1 teniente alcalde santa_brígida ser lucas_bravo_de_laguna secretario insular pp actual alcalde municipio san_mateo aspirante ser josé_luis_gil_jiménez actual concejal ayuntamiento santa_maría_de_guía candidato pp ser antonio_manuel_vera concejal ex director general patrimonio_del_gobierno_de_canarias valleseco hacer propio dámaso_alexis_arencibia concejal actual alcalde valsequillo maría_nélida_hernández concejal 1 teniente alcalde aspirar alcaldía ingenio ser juan_josé_gil_méndez llevar concejal mogán ser josé_francisco_gonzález_gonzález actual alcalde poder decir orgullo malentender día contar mejor candidato decir navarro hacer especial hincapié quedar trabajo hacer mejorar situación grancanarios aspirante haber añadir josé_luis_báez presentar presidente pp canarias josé_manuel_soria candidato municipio teror último presidente insular comentar próximo día terminar anunciar cabeza lista pp municipio haber establecer aspirante",
+        "persons": [
+            "Mariano_Rajoy",
+            "María_Australia_Navarro",
+            "Paola_Hernández_Marrero",
+            "Lucas_Bravo_de_Laguna",
+            "José_Luis_Gil_Jiménez",
+            "Antonio_Manuel_Vera",
+            "Dámaso_Alexis_Arencibia",
+            "Valsequillo",
+            "María_Nélida_Hernández",
+            "Juan_José_Gil_Méndez",
+            "Mogán",
+            "José_Francisco_González_González",
+            "Navarro",
+            "José_Luis_Báez",
+            "José_Manuel_Soria"
+        ],
+        "locations": [
+            "Firgas",
+            "Santa_Brígida",
+            "San_Mateo",
+            "Santa_María_de_Guía",
+            "Valleseco",
+            "Canarias",
+            "Teror"
+        ],
+        "organizations": [
+            "PP",
+            "Gran_Canaria",
+            "Comité_Ejecutivo_del_PP",
+            "PP",
+            "Ayuntamiento",
+            "PP",
+            "Patrimonio_del_Gobierno_de_Canarias",
+            "Alcaldía",
+            "Ingenio",
+            "PP",
+            "PP"
+        ],
+        "others": [],
+        "dates": [
+            "[??:25/2/??:??.??:??]",
+            "[??:??/5/??:??.??:??]",
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2002",
+            "2003",
+            "2003",
+            "2003",
+            "2003"
+        ]
+    }
+}

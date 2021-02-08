@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-08-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/499745/0/nino/gripe/canaria/",
+    "title": {
+        "raw_text": "Un niño de 11 años, duodécima víctima mortal de la gripe A en España",
+        "lemmatized_text": "uno niño de 11 año 12 víctima mortal de el gripe a en españa",
+        "lemmatized_text_reduced": "niño año 12 víctima mortal gripe a españa",
+        "persons": [],
+        "locations": [
+            "España"
+        ],
+        "organizations": [],
+        "others": [
+            "A"
+        ],
+        "dates": [],
+        "numbers": [
+            "11"
+        ]
+    },
+    "lead": {
+        "raw_text": "Estaba ingresado en Las Palmas de Gran Canaria. Es el primer menor que muere a causa del virus. CRONOLOGÍA: Las víctimas mortales de la gripe A en España. Diferencias entre gripe común y gripe A | 10 mitos sobre la gripe A .",
+        "lemmatized_text": "estar ingresar en las_palmas_de_gran_canaria ser el 1 menor que morir a causa de el virus cronología el víctima mortal de el gripe a en españa diferencia entre gripe común y gripe a 10 mito sobre el gripe a",
+        "lemmatized_text_reduced": "estar ingresar las_palmas_de_gran_canaria ser 1 menor morir causa virus cronología víctima mortal gripe a españa diferencia gripe común gripe a mito gripe a",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "España"
+        ],
+        "organizations": [],
+        "others": [
+            "A",
+            "A",
+            "A"
+        ],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "Un niño de 11 años ha fallecido este lunes en Las Palmas de Gran Canaria como consecuencia de la gripe A . Es la duodécima víctima mortal del virus en España y la primera de un menor de edad a causa de este virus. El menor tenía una \"enfermedad crónica de base\" El menor \"con enfermedad crónica de base\" ha muerto \"por complicaciones relacionadas con la gripe AH1N1\", según ha informado el Ministerio de Sanidad en un comunicado hecho público la noche del lunes. El niño, cuya identidad no ha sido facilitada, se encontraba ingresado en la Unidad de Medicina Intensiva del Hospital Materno Infantil de Gran Canaria. Este martes a las 11.00 horas, la consejera de Sanidad del Gobierno canario, Mercedes Roldós, tiene prevista una comparecencia ante los medios de comunicación para informar sobre las circunstancias de este fallecimiento.",
+        "lemmatized_text": "uno niño de 11 año haber fallecer este [L:??/??/??:??.??:??] en las_palmas_de_gran_canaria como consecuencia de el gripe a ser el 12 víctima mortal de el virus en españa y el 1 de uno menor de edad a_causa_de este virus el menor tener uno enfermedad crónico de base el menor con enfermedad crónico de base haber morir por complicación relacionar con el gripe AH1N1 según haber informar el ministerio_de_sanidad en uno comunicado hacer público el noche de el [L:??/??/??:??.??:??] el niño cuyo identidad no haber ser facilitar se encontrar ingresar en el unidad_de_medicina_intensiva_del_hospital_materno_infantil_de_gran_canaria este [M:??/??/??:11.00:??] el consejero de sanidad_del_gobierno canario mercedes_roldós tener prever uno comparecencia ante el medio de comunicación para informar sobre el circunstancia de este fallecimiento",
+        "lemmatized_text_reduced": "niño año haber fallecer las_palmas_de_gran_canaria consecuencia gripe a ser 12 víctima mortal virus españa 1 menor edad virus menor tener enfermedad crónico base menor enfermedad crónico base haber morir complicación relacionar gripe haber informar ministerio_de_sanidad comunicado hacer público noche niño identidad haber ser facilitar encontrar ingresar unidad_de_medicina_intensiva_del_hospital_materno_infantil_de_gran_canaria consejero sanidad_del_gobierno canario mercedes_roldós tener prever comparecencia medio comunicación informar circunstancia fallecimiento",
+        "persons": [
+            "Mercedes_Roldós"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "España"
+        ],
+        "organizations": [
+            "Ministerio_de_Sanidad",
+            "Unidad_de_Medicina_Intensiva_del_Hospital_Materno_Infantil_de_Gran_Canaria",
+            "Sanidad_del_Gobierno"
+        ],
+        "others": [
+            "A"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[M:??/??/??:11.00:??]"
+        ],
+        "numbers": [
+            "11",
+            "AH1N1"
+        ]
+    }
+}

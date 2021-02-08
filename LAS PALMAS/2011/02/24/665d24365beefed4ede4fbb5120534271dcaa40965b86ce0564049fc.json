@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/970161/0/",
+    "title": {
+        "raw_text": "La Policía canaria no realiza el traslado de un menor notificado por la Guardia Civil",
+        "lemmatized_text": "el policía canario no realizar el traslado de uno menor notificar por el guardia_civil",
+        "lemmatized_text_reduced": "policía canario realizar traslado menor notificar guardia_civil",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía autonómica canaria, que tiene transferida la competencia para el traslado de menores, no ha realizado una operación que le fue notificada por la Guardia Civil el pasado martes 22 de febrero, según explicaron a Europa Press fuentes de la Benemérita.",
+        "lemmatized_text": "el policía autonómico canario que tener transferir el competencia para el traslado de menor no haber realizar uno operación que le ser notificar por el guardia_civil el [M:22/2/??:??.??:??] según explicar a europa_press fuente de el benemérita",
+        "lemmatized_text_reduced": "policía autonómico canario tener transferir competencia traslado menor haber realizar operación ser notificar guardia_civil explicar europa_press fuente benemérita",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [
+            "[M:22/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Policía autonómica canaria, que tiene transferida la competencia para el traslado de menores, no ha realizado una operación que le fue notificada por la Guardia Civil el pasado martes 22 de febrero, según explicaron a Europa Press fuentes de la Benemérita. En concreto, la Guardia Civil remitió un fax a la Policía canaria el pasado martes para que efectuara el traslado, solicitado por la Fiscalía, de un menor inmigrante que se encontraba en Agüimes (Gran Canaria). La Policía autonómica canaria no realizó el desplazamiento, con lo que finalmente fue una pareja de guardias civiles los que llevaron al menor desde la localidad grancanaria al centro de menores de Tafira. El 7 de febrero de este año tuvo lugar en Santa Cruz de Tenerife la segunda Junta de Seguridad de Canarias celebrada, con la presencia del presidente canario, Paulino Rivero, y el ministro del Interior, Alfredo Pérez Rubalcaba, donde se acordó que la Policía autonómica asumiera las competencias del traslado de menores dentro de las islas y la vigilancia del entorno de los institutos.",
+        "lemmatized_text": "el policía autonómico canario que tener transferir el competencia para el traslado de menor no haber realizar uno operación que le ser notificar por el guardia_civil el [M:22/2/??:??.??:??] según explicar a europa_press fuente de el benemérita en concreto el guardia_civil remitir uno fax a el policía canario el [M:??/??/??:??.??:??] para que efectuar el traslado solicitar por el fiscalía de uno menor inmigrante que se encontrar en agüimes gran_canaria el policía autonómico canario no realizar el desplazamiento con el que finalmente ser uno pareja de guardia civil el que llevar a el menor desde el localidad grancanaria a el centro de menor de tafira el [??:7/2/??:??.??:??] de este año tener_lugar en santa_cruz_de_tenerife el 2 junta_de_seguridad_de_canarias celebrar con el presencia de el presidente canario paulino_rivero y el ministro de el interior alfredo_pérez_rubalcaba donde se acordar que el policía autonómico asumir el competencia de el traslado de menor dentro_de el isla y el vigilancia de el entorno de el instituto",
+        "lemmatized_text_reduced": "policía autonómico canario tener transferir competencia traslado menor haber realizar operación ser notificar guardia_civil explicar europa_press fuente benemérita concreto guardia_civil remitir fax policía canario efectuar traslado solicitar fiscalía menor inmigrante encontrar agüimes gran_canaria policía autonómico canario realizar desplazamiento finalmente ser pareja guardia civil llevar menor localidad grancanaria centro menor tafira año tener_lugar santa_cruz_de_tenerife 2 junta_de_seguridad_de_canarias celebrar presencia presidente canario paulino_rivero ministro interior alfredo_pérez_rubalcaba acordar policía autonómico asumir competencia traslado menor isla vigilancia entorno instituto",
+        "persons": [
+            "Europa_Press",
+            "Paulino_Rivero",
+            "Alfredo_Pérez_Rubalcaba"
+        ],
+        "locations": [
+            "Agüimes",
+            "Gran_Canaria",
+            "Tafira",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Policía",
+            "Guardia_Civil",
+            "Benemérita",
+            "Guardia_Civil",
+            "Policía",
+            "Fiscalía",
+            "Policía",
+            "Junta_de_Seguridad_de_Canarias",
+            "Policía"
+        ],
+        "others": [
+            "Interior"
+        ],
+        "dates": [
+            "[M:22/2/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[??:7/2/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

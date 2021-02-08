@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634095/0/",
+    "title": {
+        "raw_text": "Fiscalía pide 2 años y 9 meses de cárcel para un vigilante de seguridad por agredir a un hombre en Gran Canaria",
+        "lemmatized_text": "fiscalía pedir 2 año y 9 mes de cárcel para uno vigilante de seguridad por agredir a uno hombre en gran_canaria",
+        "lemmatized_text_reduced": "fiscalía pedir año mes cárcel vigilante seguridad agredir hombre gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "9"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Fiscalía ha solicitado imponer dos años y nueve meses de prisión a un vigilante de seguridad, así como una multa de 150 euros a otro hombre por agredirse mutuamente en el transcurso de una reyerta en unos apartamentos en el municipio turístico de San Bartolomé de Tirajana, al sur de Gran Canaria.",
+        "lemmatized_text": "el fiscalía haber solicitar imponer 2 año y 9 mes de prisión a uno vigilante de seguridad así_como uno multa de $_ECU:150 a otro hombre por agredir se mutuamente en el transcurso de uno reyerta en uno apartamento en el municipio turístico de san_bartolomé_de_tirajana a el sur de gran_canaria",
+        "lemmatized_text_reduced": "fiscalía haber solicitar imponer año mes prisión vigilante seguridad multa hombre agredir mutuamente transcurso reyerta apartamento municipio turístico san_bartolomé_de_tirajana sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "9",
+            "$_ECU:150"
+        ]
+    },
+    "body": {
+        "raw_text": "La Sección Primera de la Audiencia Provincial de Las Palmas acogerá el próximo miércoles (10.00 horas) el juicio contra D.E.M.M., acusado de un presunto delito de lesiones, y F.M.M., procesado por una falta de lesiones, según el escrito de conclusiones provisionales del Ministerio Público al que ha tenido acceso Europa Press. Según el texto del Ministerio Fiscal, el acusado D.E.M.M. —de 56 años de edad, y sin antecedentes penales— el día 16 de noviembre de 2005 mantuvo una discusión con el también acusado F.M.M. entre las dos y las tres de la madrugada en unos apartamentos de San Bartolomé de Tirajana en los que el primero prestaba sus servicios como vigilante de seguridad. Durante la pelea ambos se agredieron mutuamente, golpeando D.E.M.M. con su puño en la nuca y mandíbula del otro hombre, quien, a su vez, golpeó al otro en el cuello. Por todo ello, la Fiscalía considera que procede imponer a D.E.M.M. una pena de dos años y nueve meses de prisión, así como solicita para F.M.M. la pena de un mes de multa con una cuota diaria de cinco euros. Además de las penas privativas de libertad, reclama que el acusado D.E.M.M. indemnice a F.M.M. por las lesiones sufridas en la cuantía de 230 euros, mientras que también pide que éste indemnice al primero con 135 euros.",
+        "lemmatized_text": "el sección_primera_de_la_audiencia_provincial_de_las_palmas acoger el [X:??/??/??:??.??:??] TM_h:10 el juicio contra d.e.m.m. acusar de uno presunto delito de lesión y f.m.m. procesar por uno falta de lesión según el escrito de conclusión provisional de el ministerio_público a el que haber tener acceso europa_press según el texto de el ministerio_fiscal el acusado d.e.m.m. de 56 año de edad y sin antecedente penal el [??:16/11/2005:??.??:??] mantener uno discusión con el también acusar f.m.m. entre el 2 y el [??:??/??/??:3.00:am] en uno apartamento de san_bartolomé_de_tirajana en el que el 1 prestar su servicio como vigilante de seguridad durante el pelea ambos se agredir mutuamente golpear d.e.m.m. con su puño en el nuca y mandíbula de el otro hombre quien a su vez golpear a el otro en el cuello por todo ello el fiscalía considerar que proceder imponer a d.e.m.m. uno pena de 2 año y 9 mes de prisión así_como solicitar para f.m.m. el pena de uno mes de multa con uno cuota diario de $_ECU:5 además_de el pena privativo de libertad reclamar que el acusado d.e.m.m. indemnizar a f.m.m. por el lesión sufrir en el cuantía de $_ECU:230 mientras_que también pedir que este indemnizar a el primero con $_ECU:135",
+        "lemmatized_text_reduced": "sección_primera_de_la_audiencia_provincial_de_las_palmas acoger juicio d.e.m.m. acusar presunto delito lesión f.m.m. procesar falta lesión escrito conclusión provisional ministerio_público haber tener acceso europa_press texto ministerio_fiscal acusado d.e.m.m. año edad antecedente penal mantener discusión acusar f.m.m. apartamento san_bartolomé_de_tirajana 1 prestar servicio vigilante seguridad pelea agredir mutuamente golpear d.e.m.m. puño nuca mandíbula hombre vez golpear cuello fiscalía considerar proceder imponer d.e.m.m. pena año mes prisión solicitar f.m.m. pena mes multa cuota diario pena privativo libertad reclamar acusado d.e.m.m. indemnizar f.m.m. lesión sufrir cuantía pedir indemnizar",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Sección_Primera_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "D.E.M.M.",
+            "F.M.M.",
+            "Ministerio_Público",
+            "Ministerio_Fiscal",
+            "D.E.M.M.",
+            "F.M.M.",
+            "D.E.M.M.",
+            "Fiscalía",
+            "D.E.M.M.",
+            "F.M.M.",
+            "D.E.M.M.",
+            "F.M.M."
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:16/11/2005:??.??:??]",
+            "[??:??/??/??:3.00:am]"
+        ],
+        "numbers": [
+            "TM_h:10",
+            "56",
+            "2",
+            "2",
+            "9",
+            "$_ECU:5",
+            "$_ECU:230",
+            "$_ECU:135"
+        ]
+    }
+}

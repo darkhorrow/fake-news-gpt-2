@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/367566/0/cae/banda/ordenadores/",
+    "title": {
+        "raw_text": "Cae una banda jóvenes que se dedicaba a robar ordenadores en los institutos",
+        "lemmatized_text": "caer uno banda joven que se dedicar a robar ordenador en el instituto",
+        "lemmatized_text_reduced": "caer banda joven dedicar robar ordenador instituto",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las autoridades afirman que tienen un \"amplio historial delictivo\". Son cinco detenidos, de entre 17 y 25 años. Parte del 'botín' fue hallado en sus viviendas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el autoridad afirmar que tener uno amplio historial delictivo ser 5 detenido de entre 17 y 25 año parte de el botín ser hallar en su vivienda consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "autoridad afirmar tener amplio historial delictivo ser detenido año parte botín ser hallar vivienda consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "17",
+            "25"
+        ]
+    },
+    "body": {
+        "raw_text": "La Guardia Civil ha desarticulado una banda integrada por jóvenes con un amplio historial delictivo , de la que también formada parte un menor de 17 años, que se dedicaba a robar ordenadores en centros educativos y asociaciones de vecinos del municipio grancanario de Arucas. Los cinco detenidos, de 17, 18, 19, 21, 24 y 25 años están acusados de ser autores y receptores de cuatro robos cometidos en los últimos tres meses en el Instituto de Educación Secundaria Domingo Rivero, el colegio Juan Zamora y la asociación de vecinos del barrio de San Patricio, según informó hoy el instituto armado en un comunicado. Daños y destrozos La banda desarticulada se dedicaba a sustraer material informático usado por profesores y alumnos de los citados centros educativos, en los que causaron serios destrozos y daños en su mobiliario e instalaciones y otros actos vandálicos como pintadas en las paredes. El último de estos robos tuvo lugar el pasado 31 de marzo en el instituto Domingo Rivero, donde, tras haber actuado en ocasiones anteriores, sustrajeron esta vez 19 ordenadores y causaron daños materiales valorados en 20.000 euros. Los registros practicados en los domicilios de los detenidos han permitido recuperar doce ordenadores del citado instituto, además de otras trece torres, once pantallas planas, teclados y cableado. El amplio historial delictivo de los arrestados se inició cuando eran menores de edad, y la Guardia Civil sigue investigando para localizar el resto de los equipos informáticos sustraídos y detener a otros receptadores de este material. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el guardia_civil haber desarticular uno banda integrar por joven con uno amplio historial delictivo de el que también formar_parte uno menor de 17 año que se dedicar a robar ordenador en centro educativo y asociación de vecino de el municipio grancanario de arucas el 5 detenido de 17 18 19 21 24 y 25 año estar acusar de ser autor y receptor de 4 robo cometer en el último 3 mes en el instituto_de_educación_secundaria [G:??/??/??:??.??:??] rivero el colegio juan_zamora y el asociación de vecino de el barrio de san_patricio según informar hoy el instituto armar en uno comunicado daños y destrozo la banda desarticular se dedicar a sustraer material informático usar por profesor y alumno de el citar centro educativo en el que causar serio destrozo y daño en su mobiliario y instalación y otro acto vandálico como pintada en el pared el último de este robo tener_lugar el [??:31/3/??:??.??:??] en el instituto [G:??/??/??:??.??:??] rivero donde tras haber actuar en ocasión anterior sustraer este vez 19 ordenador y causar daño material valorar en $_ECU:20 el registro practicar en el domicilio de el detenido haber permitir recuperar 12 ordenador de el citar instituto además_de otro 13 torre 11 pantalla plano teclado y cableado el amplio historial delictivo de el arrestar se iniciar cuando ser menor de edad y el guardia_civil seguir investigar para localizar el resto de el equipo informático sustraer y detener a otro receptador de este material consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil haber desarticular banda integrar joven amplio historial delictivo formar_parte menor año dedicar robar ordenador centro educativo asociación vecino municipio grancanario arucas detenido año estar acusar ser autor receptor robo cometer último mes instituto_de_educación_secundaria rivero colegio juan_zamora asociación vecino barrio san_patricio informar instituto armar comunicado daños destrozo la banda desarticular dedicar sustraer material informático usar profesor alumno citar centro educativo causar serio destrozo daño mobiliario instalación acto vandálico pintada pared último robo tener_lugar instituto rivero haber actuar ocasión anterior sustraer vez ordenador causar daño material valorar registro practicar domicilio detenido haber permitir recuperar ordenador citar instituto torre pantalla plano teclado cableado amplio historial delictivo arrestar iniciar ser menor edad guardia_civil seguir investigar localizar resto equipo informático sustraer detener receptador material consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Rivero",
+            "Juan_Zamora",
+            "Daños",
+            "Rivero"
+        ],
+        "locations": [
+            "Arucas",
+            "San_Patricio"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Instituto_de_Educación_Secundaria",
+            "La",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[??:31/3/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "17",
+            "5",
+            "17",
+            "18",
+            "19",
+            "21",
+            "24",
+            "25",
+            "4",
+            "3",
+            "19",
+            "$_ECU:20",
+            "12",
+            "13",
+            "11"
+        ]
+    }
+}

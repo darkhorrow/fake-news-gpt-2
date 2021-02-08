@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595660/0/",
+    "title": {
+        "raw_text": "Los jugadores de la Unión Deportiva Las Palmas visitarán mañana la Feria de la Infancia y la Juventud de Gran Canaria",
+        "lemmatized_text": "el jugador de el unión_deportiva_las_palmas visitar mañana el feria_de_la_infancia y el juventud_de_gran_canaria",
+        "lemmatized_text_reduced": "jugador unión_deportiva_las_palmas visitar feria_de_la_infancia juventud_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Unión_Deportiva_Las_Palmas",
+            "Feria_de_la_Infancia",
+            "Juventud_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los jugadores de la Unión Deportiva Las Palmas Guayre Betancor, David García, Gregory Beranger, Siro Darino, Adrián Hernández (Pollo) y Pedro Vega visitarán mañana, a partir de las 11.30, la V edición de la Feria de la Infancia y la Juventud que se celebra en el Infecar de la capital grancanaria.",
+        "lemmatized_text": "el jugador de el unión_deportiva_las_palmas_guayre_betancor david_garcía gregory_beranger siro_darino adrián_hernández pollo y pedro_vega visitar mañana a_partir_de el 11.3 el v edición de el feria_de_la_infancia y el juventud que se celebrar en el infecar de el capital grancanaria",
+        "lemmatized_text_reduced": "jugador unión_deportiva_las_palmas_guayre_betancor david_garcía gregory_beranger siro_darino adrián_hernández pollo pedro_vega visitar v edición feria_de_la_infancia juventud celebrar infecar capital grancanaria",
+        "persons": [
+            "David_García",
+            "Gregory_Beranger",
+            "Siro_Darino",
+            "Adrián_Hernández",
+            "Pedro_Vega"
+        ],
+        "locations": [
+            "Infecar"
+        ],
+        "organizations": [
+            "Unión_Deportiva_Las_Palmas_Guayre_Betancor",
+            "Pollo",
+            "Juventud"
+        ],
+        "others": [
+            "V",
+            "Feria_de_la_Infancia"
+        ],
+        "dates": [],
+        "numbers": [
+            "11.3"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el Cabildo de Gran Canaria en nota de prensa, los deportistas acudirán al evento para presentar el 'Circuito Pesliga 2010 de Canarias'. Posteriormente, a las 11.30 horas, los jugadores de la UD firmarán autógrafos y retarán a los niños a una partida de 'Pro Evolution Soccer 2010'. 'Pesliga' es en la actualidad la mayor competición de fútbol virtual del mundo. Su videojuego 'Pro Evolution Soccer 2010' y sus torneos en trece países repartidos en tres continentes, hacen de esta nueva forma de ocio alternativo un gran aliciente tanto para aficionados, como para curiosos. El 'Circuito de Pesliga 2010' es un evento que da cabida a todas las comunidades españolas. Cada comunidad dispone de tres plazas para la Final Nacional. Los ganadores de este certamen a nivel nacional tendrán luego la oportunidad de medirse a los mejores del continente para hacerse con el título de Campeón de Europa.",
+        "lemmatized_text": "según informar el cabildo_de_gran_canaria en nota de prensa el deportista acudir a el evento para presentar el circuito_pesliga 2010 de canarias posteriormente a el TM_h:11.3 el jugador de el ud firmar autógrafo y retar a el niño a uno partida de pro evolution_soccer 2010 pesliga ser en el actualidad el mayor competición de fútbol virtual de el mundo su videojuego pro evolution_soccer 2010 y su torneo en 13 país repartir en 3 continente hacer de este nuevo forma de ocio alternativo uno gran aliciente tanto para aficionado como para curioso el circuito_de_pesliga 2010 ser uno evento que dar cabida a todo el comunidad español cada comunidad disponer de 3 plaza para el final_nacional el ganador de este certamen a nivel nacional tener luego el oportunidad de medir se a el mejor de el continente para hacer se con el título de campeón_de_europa",
+        "lemmatized_text_reduced": "informar cabildo_de_gran_canaria nota prensa deportista acudir evento presentar circuito_pesliga canarias posteriormente jugador ud firmar autógrafo retar niño partida pro evolution_soccer pesliga ser actualidad mayor competición fútbol virtual mundo videojuego evolution_soccer torneo país repartir continente hacer nuevo forma ocio alternativo gran aliciente aficionado curioso circuito_de_pesliga ser evento dar cabida comunidad español comunidad disponer plaza final_nacional ganador certamen nivel nacional tener oportunidad medir mejor continente hacer título campeón_de_europa",
+        "persons": [
+            "Circuito_Pesliga",
+            "Pesliga",
+            "Evolution_Soccer"
+        ],
+        "locations": [
+            "Canarias",
+            "Final_Nacional"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "UD"
+        ],
+        "others": [
+            "Evolution_Soccer",
+            "Circuito_de_Pesliga",
+            "Campeón_de_Europa"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "TM_h:11.3",
+            "2010",
+            "2010",
+            "13",
+            "3",
+            "2010",
+            "3"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/650465/0/",
+    "title": {
+        "raw_text": "Policía Nacional sigue rastreando Gran Canaria en busca de alguna pista de Sara Morales aunque no han encontrado \"nada\"",
+        "lemmatized_text": "policía_nacional seguir rastrear gran_canaria en_busca_de alguno pista de sara_morales aunque no haber encontrar nada",
+        "lemmatized_text_reduced": "policía_nacional seguir rastrear gran_canaria pista sara_morales haber encontrar",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional continúa hoy rastreando zonas de la isla de Gran Canaria en busca de alguna pista que les indique dónde podría estar Sara Morales, la joven que desapareció en la isla hace ya más de tres años.",
+        "lemmatized_text": "el policía_nacional continuar hoy rastrear zona de el isla de gran_canaria en_busca_de alguno pista que le indicar dónde poder estar sara_morales el joven que desaparecer en el isla hacer ya más de 3 año",
+        "lemmatized_text_reduced": "policía_nacional continuar rastrear zona isla gran_canaria pista indicar poder estar sara_morales joven desaparecer isla hacer año",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "De todos modos, los agentes que llevan a cabo la investigación continúan sin encontrar \"nada\" hasta el momento, según informaron a Europa Press fuentes del Cuerpo Nacional de Seguridad. En el día de ayer, una veintena de policías nacionales y efectivos del ejército, ayudados por máquinas, realizaron excavaciones en la zona de La Paterna, en los alrededores del centro comercial de La Ballena, en Las Palmas de Gran Canaria, decidiendo además ampliar el cordón de seguridad. La Policía Nacional respondía con esta excavación a la petición de la madre de la joven, Nieves Hernández, de buscar en dicho lugar, después de que Nieves recibiera una llamada que apuntaba a que Sara Morales podría estar en La Paterna.",
+        "lemmatized_text": "de_todos_modos el agente que llevar_a_cabo el investigación continuar sin encontrar nada hasta el momento según informar a europa_press fuente de el cuerpo_nacional_de_seguridad en el día de ayer uno veintena de policía nacional y efectivo de el ejército ayudar por máquina realizar excavación en_la_zona_de la_paterna en el alrededor de el centro comercial de la_ballena en las_palmas_de_gran_canaria decidir además ampliar el cordón de seguridad el policía_nacional responder con este excavación a el petición de el madre de el joven nieves_hernández de buscar en decir lugar después_de que nieves recibir uno llamada que apuntar a que sara_morales poder estar en la_paterna",
+        "lemmatized_text_reduced": "agente llevar_a_cabo investigación continuar encontrar momento informar europa_press fuente cuerpo_nacional_de_seguridad día veintena policía nacional efectivo ejército ayudar máquina realizar excavación la_paterna alrededor centro comercial la_ballena las_palmas_de_gran_canaria decidir ampliar cordón seguridad policía_nacional responder excavación petición madre joven nieves_hernández buscar decir lugar nieves recibir llamada apuntar sara_morales poder estar la_paterna",
+        "persons": [
+            "Europa_Press",
+            "Nieves_Hernández",
+            "Nieves",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "La_Paterna",
+            "La_Ballena",
+            "Las_Palmas_de_Gran_Canaria",
+            "La_Paterna"
+        ],
+        "organizations": [
+            "Cuerpo_Nacional_de_Seguridad",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

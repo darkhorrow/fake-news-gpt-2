@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/701527/0/",
+    "title": {
+        "raw_text": "Los aeropuertos canarios registran una jornada de normalidad al registrar sólo dos cancelaciones",
+        "lemmatized_text": "el aeropuerto canario registrar uno jornada de normalidad a el registrar sólo 2 cancelación",
+        "lemmatized_text_reduced": "aeropuerto canario registrar jornada normalidad registrar cancelación",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los aeropuertos de la Comunidad Autónoma de Canarias están registrando hoy una jornada de normalidad al contabilizar sólo dos cancelaciones --ambas con el norte de Europa-- hasta las 16.00 horas, según informaron a Europa Press fuentes de Aeropuertos Españoles y Navegación Aérea (Aena).",
+        "lemmatized_text": "el aeropuerto de el comunidad_autónoma_de_canarias estar registrar hoy uno jornada de normalidad a el contabilizar sólo 2 cancelación ambos con el norte de europa hasta el TM_h:16 según informar a europa_press fuente de aeropuertos_españoles y navegación_aérea aena",
+        "lemmatized_text_reduced": "aeropuerto comunidad_autónoma_de_canarias estar registrar jornada normalidad contabilizar cancelación norte europa informar europa_press fuente aeropuertos_españoles navegación_aérea aena",
+        "persons": [
+            "Europa_Press",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Europa"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_h:16"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, los tres recintos aeroportuarios de la provincia de Las Palmas no han registrado ninguna cancelación durante el día debido a los cierres en los aeropuertos del norte de España y Europa, mientras que los dos vuelos que no unirán Canarias con Europa —un Ryanair y un Easyjet— eran conexiones con Tenerife Sur. La nube de ceniza volcánica ha provocado el cierre de algunos aeropuertos del norte peninsular. Así, desde las 15.00 horas (hora canaria), Los aeropuertos de Bilbao, Asturias, Santander, Valladolid y León se han vuelto a cerrar ante los efectos de la nube. Por su parte, el aeropuerto de Salamanca continuará sin operar hasta nueva orden, mientras que los recintos aeroportuarios gallegos han comenzado a funcionar desde las 16.00 horas (hora insular). Aena recomienda a los pasajeros que se informen del estado de sus vuelos antes de acudir al aeropuerto, llamando a sus compañías aéreas o al teléfono de información de Aena 902 404 704 o (+34)91 321 10 00.",
+        "lemmatized_text": "de este manera el 3 recinto aeroportuario de el provincia de las_palmas no haber registrar ninguno cancelación durante el día debido_a el cierre en el aeropuerto de el norte de españa y europa mientras_que el 2 vuelo que no unir canarias con europa uno ryanair y uno easyjet ser conexión con tenerife_sur el nube de ceniza volcánico haber provocar el cierre de alguno aeropuerto de el norte peninsular así desde el TM_h:15 hora canario los aeropuerto de bilbao asturias santander valladolid y león se haber volver a cerrar ante el efecto de el nube por su parte el aeropuerto de salamanca continuar sin operar hasta nuevo orden mientras_que el recinto aeroportuario gallego haber comenzar a funcionar desde el TM_h:16 hora insular aena recomendar a el pasajero que se informar de el estado de su vuelo antes_de acudir a el aeropuerto llamar a su compañía aéreo o a el teléfono de información de aena 902 404 704 o +34 91 321 10 0",
+        "lemmatized_text_reduced": "manera recinto aeroportuario provincia las_palmas haber registrar cancelación día cierre aeropuerto norte españa europa vuelo unir canarias europa ryanair easyjet ser conexión tenerife_sur nube ceniza volcánico haber provocar cierre aeropuerto norte peninsular hora canario los aeropuerto bilbao asturias santander valladolid león haber volver cerrar efecto nube parte aeropuerto salamanca continuar operar nuevo orden recinto aeroportuario gallego haber comenzar funcionar hora insular aena recomendar pasajero informar estado vuelo acudir aeropuerto llamar compañía aéreo teléfono información aena",
+        "persons": [
+            "Ryanair",
+            "Tenerife_Sur",
+            "Los",
+            "León"
+        ],
+        "locations": [
+            "Las_Palmas",
+            "España",
+            "Europa",
+            "Canarias",
+            "Europa",
+            "Bilbao",
+            "Asturias",
+            "Santander",
+            "Valladolid",
+            "Salamanca"
+        ],
+        "organizations": [
+            "Easyjet",
+            "Aena",
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "2",
+            "TM_h:15",
+            "TM_h:16",
+            "902",
+            "404",
+            "704",
+            "+34",
+            "91",
+            "321",
+            "10",
+            "0"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/665014/0/",
+    "title": {
+        "raw_text": "Canarias debe casi un punto anual del crecimiento de su economía desde 1989 a los fondos de la UE",
+        "lemmatized_text": "canario deber casi uno punto anual de el crecimiento de su economía desde 1989 a el fondo de el ue",
+        "lemmatized_text_reduced": "canario deber punto anual crecimiento economía fondo ue",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1989"
+        ]
+    },
+    "lead": {
+        "raw_text": "El archipiélago canario debe una media de 0,78 puntos porcentuales de su crecimiento económico anual desde 1989 y hasta 2006 a los fondos comunitarios provenientes de la Unión Europea (UE), según el número 123 de 'Papeles de Economía Española' de la Fundación de Cajas de Ahorros (Funcas) recogido por Europa Press.",
+        "lemmatized_text": "el archipiélago canario deber uno medio de 0,78 punto porcentual de su crecimiento económico anual desde 1989 y hasta 2006 a el fondo comunitario proveniente de el unión_europea ue según el número 123 de papeles_de_economía_española de el fundación_de_cajas_de_ahorros funcas recoger por europa_press",
+        "lemmatized_text_reduced": "archipiélago canario deber medio punto porcentual crecimiento económico anual fondo comunitario proveniente unión_europea ue número papeles_de_economía_española fundación_de_cajas_de_ahorros funcas recoger europa_press",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Unión_Europea",
+            "UE",
+            "Fundación_de_Cajas_de_Ahorros",
+            "Funcas"
+        ],
+        "others": [
+            "Papeles_de_Economía_Española"
+        ],
+        "dates": [],
+        "numbers": [
+            "0,78",
+            "1989",
+            "2006",
+            "123"
+        ]
+    },
+    "body": {
+        "raw_text": "Este diferencial de crecimiento en la economía canaria ha dado lugar a un renta por habitante superior en 397 euros a la que se hubiese producido en ausencia de fondos estructurales europeos, según explica el estudio realizado por Simón Sosvilla-Rivero (Universidad Complutense), David Cova (CajaCanarias) y José Manuel González Pérez (Universidad de La Laguna). Otro de los efectos positivos producidos por los fondos de la UE en Canarias ha sido el aumento como media durante el periodo 1989-2006 de la demanda del 2,2 por ciento del PIB real canario respecto a la situación que se hubiese observado en ausencia de dichos fondos. Por su parte, los efectos totales han generado una producción real superior en un 3 por ciento a la que se habría registrado en Canarias de no haberse recibido dichos fondos, mientras que respecto al mercado de trabajo, las inversiones y ayudas estructurales han generado o mantenido, como media, durante el periodo 1989-2006, 7.587 empleos más que en un escenario alternativo sin fondos, lo que se habría traducido en una reducción media de la tasa de paro de 0,73 puntos porcentuales durante el mismo periodo.",
+        "lemmatized_text": "este diferencial de crecimiento en el economía canario haber dar lugar a uno renta por habitante superior en $_ECU:397 a el que se haber producir en ausencia de fondo estructural europeo según explicar el estudio realizar por simón_sosvilla-rivero universidad_complutense david_cova cajacanarias y josé_manuel_gonzález_pérez universidad_de_la_laguna otro de el efecto positivo producir por el fondo de el ue en canarias haber ser el aumento como media durante el periodo 1989-2006 de el demanda de el 2,2 por 100 de el pib real canario respecto_a el situación que se haber observar en ausencia de decir fondo por su parte el efecto total haber generar uno producción real superior en uno 3 por 100 a el que se haber registrar en canarias de no haber se recibir decir fondo mientras_que respecto a el mercado de trabajo el inversión y ayuda estructural haber generar o mantener como medio durante el periodo 1989-2006 7.587 empleo más que en uno escenario alternativo sin fondo el que se haber traducir en uno reducción medio de el tasa de paro de 0,73 punto porcentual durante el mismo periodo",
+        "lemmatized_text_reduced": "diferencial crecimiento economía canario haber dar lugar renta habitante superior haber producir ausencia fondo estructural europeo explicar estudio realizar simón_sosvilla-rivero universidad_complutense david_cova cajacanarias josé_manuel_gonzález_pérez universidad_de_la_laguna efecto positivo producir fondo ue canarias haber ser aumento media periodo demanda pib real canario situación haber observar ausencia decir fondo parte efecto total haber generar producción real superior haber registrar canarias haber recibir decir fondo respecto mercado trabajo inversión ayuda estructural haber generar mantener medio periodo empleo escenario alternativo fondo haber traducir reducción medio tasa paro punto porcentual mismo periodo",
+        "persons": [
+            "David_Cova",
+            "José_Manuel_González_Pérez"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Simón_Sosvilla-Rivero",
+            "Universidad_Complutense",
+            "CajaCanarias",
+            "Universidad_de_La_Laguna",
+            "UE"
+        ],
+        "others": [
+            "PIB"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:397",
+            "1989-2006",
+            "2,2",
+            "100",
+            "3",
+            "100",
+            "1989-2006",
+            "7.587",
+            "0,73"
+        ]
+    }
+}

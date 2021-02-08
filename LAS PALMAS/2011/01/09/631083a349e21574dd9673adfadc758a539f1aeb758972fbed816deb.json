@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/923037/0/",
+    "title": {
+        "raw_text": "La colisión entre una moto y un turismo se salda con una mujer grave en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el colisión entre uno moto y uno turismo se saldar con uno mujer grave en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "colisión moto turismo saldar mujer grave las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La colisión entre una moto y un turismo en Las Palmas de Gran Canaria se ha saldado con una mujer herida de carácter grave, según informó el Centro Coordinador de Emergencias y Seguridad del 112.",
+        "lemmatized_text": "el colisión entre uno moto y uno turismo en las_palmas_de_gran_canaria se haber saldar con uno mujer herir de carácter grave según informar el centro_coordinador_de_emergencias y seguridad de el 112",
+        "lemmatized_text_reduced": "colisión moto turismo las_palmas_de_gran_canaria haber saldar mujer herir carácter grave informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "La colisión entre una moto y un turismo en Las Palmas de Gran Canaria se ha saldado con una mujer herida de carácter grave, según informó el Centro Coordinador de Emergencias y Seguridad del 112. Los hechos se produjeron en la noche del sábado en la Avenida de Escaleritas de la capital grancanaria. En cuanto a la herida es la motorista, de 30 años de edad, que sufrió traumatismos de carácter grave, por lo que tuvo que ser evacuada por personal del Servicio de Urgencias Canario (SUC) al Hospital Universitario de Gran Canaria Doctor Negrín. Hasta el lugar del incidente se trasladó además de personal del SUC, agentes de la Policía Local que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el colisión entre uno moto y uno turismo en las_palmas_de_gran_canaria se haber saldar con uno mujer herir de carácter grave según informar el centro_coordinador_de_emergencias y seguridad de el 112 el hecho se producir en el noche de el [S:??/??/??:??.??:??] en el avenida_de_escaleritas de el capital grancanaria en_cuanto_a el herida ser el motorista de 30 año de edad que sufrir traumatismo de carácter grave por el que tener que ser evacuar por personal de el servicio_de_urgencias_canario suc a el hospital_universitario_de_gran_canaria_doctor_negrín hasta el lugar de el incidente se trasladar además_de personal de el suc agente de el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "colisión moto turismo las_palmas_de_gran_canaria haber saldar mujer herir carácter grave informar centro_coordinador_de_emergencias seguridad hecho producir noche avenida_de_escaleritas capital grancanaria herida ser motorista año edad sufrir traumatismo carácter grave tener ser evacuar personal servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín lugar incidente trasladar personal suc agente policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Avenida_de_Escaleritas"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "30"
+        ]
+    }
+}

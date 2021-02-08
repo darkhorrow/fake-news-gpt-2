@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625103/0/",
+    "title": {
+        "raw_text": "Acusado de disparar a una mujer en la cabeza en la capital grancanaria alega que el barrio le hizo \"brujería\"",
+        "lemmatized_text": "acusar de disparar a uno mujer en el cabeza en el capital grancanaria alegar que el barrio le hacer brujería",
+        "lemmatized_text_reduced": "acusar disparar mujer cabeza capital grancanaria alegar barrio hacer brujería",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El hombre acusado de asesinar a una mujer de 61 años de edad de un disparo en la cabeza, mientras ella caminaba por una calle de la zona de El Pilar, en Las Palmas de Gran Canaria, además de que intentó asesinar a otros dos hombres, confesó al policía nacional que le detuvo que el barrio le hizo \"brujería\".",
+        "lemmatized_text": "el hombre acusar de asesinar a uno mujer de 61 año de edad de uno disparo en el cabeza mientras él caminar por uno calle de el zona de el_pilar en las_palmas_de_gran_canaria además_de que intentar asesinar a otro 2 hombre confesar a el policía nacional que le detener que el barrio le hacer brujería",
+        "lemmatized_text_reduced": "hombre acusar asesinar mujer año edad disparo cabeza caminar calle zona el_pilar las_palmas_de_gran_canaria intentar asesinar hombre confesar policía nacional detener barrio hacer brujería",
+        "persons": [],
+        "locations": [
+            "El_Pilar",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "61",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Tras ser arrestado y trasladado a la Jefatura Superior de Policía de Canarias después de los hechos del día 5 de marzo de 2009, \"me dijo: \"El barrio del Pilar me ha hecho brujería, me ha hecho el mal, salí a la calle, la señora me miró mal y le disparé\"\", añadió el agente durante el juicio celebrado hoy en la Sección Sexta de la Audiencia Provincial de Las Palmas contra J.A.S.M., mayor de edad y sin antecedentes penales, que reconoció todos los hechos. De este modo, la Fiscalía rebajó de 30 a 29 años y cuatro meses la pena que solicitó para el acusado por un delito consumado de asesinato, dos presuntos delitos de asesinato en grado de tentativa, una falta de lesiones y otra de daños. Tanto la acusación particular que representó a la familia de la fallecida como la defensa del procesado se adhirieron a la petición de la representante del Ministerio Público. (Habrá ampliación)",
+        "lemmatized_text": "tras ser arrestar y trasladar a el jefatura_superior_de_policía_de_canarias después_de el hecho de el [??:5/3/2009:??.??:??] me decir el barrio de el pilar me haber hacer brujería me haber hacer el mal salir a el calle el señor me mirar mal y le disparar añadir el agente durante el juicio celebrar hoy en el sección_sexta_de_la_audiencia_provincial_de_las_palmas contra j.a.s.m. mayor de edad y sin antecedente penal que reconocer todo el hecho de este modo el fiscalía rebajar de 30 a 29 año y 4 mes el pena que solicitar para el acusado por uno delito consumar de asesinato 2 presunto delito de asesinato en grado de tentativa uno falta de lesión y otro de daño tanto el acusación particular que representar a el familia de el fallecer como el defensa de el procesado se adherir a el petición de el representante de el ministerio_público haber ampliación",
+        "lemmatized_text_reduced": "ser arrestar trasladar jefatura_superior_de_policía_de_canarias hecho decir barrio pilar haber hacer brujería haber hacer mal salir calle señor mirar disparar añadir agente juicio celebrar sección_sexta_de_la_audiencia_provincial_de_las_palmas j.a.s.m. mayor edad antecedente penal reconocer hecho modo fiscalía rebajar año mes pena solicitar acusado delito consumar asesinato presunto delito asesinato grado tentativa falta lesión daño acusación particular representar familia fallecer defensa procesado adherir petición representante ministerio_público haber ampliación",
+        "persons": [
+            "Pilar"
+        ],
+        "locations": [],
+        "organizations": [
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Sección_Sexta_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "J.A.S.M.",
+            "Fiscalía",
+            "Ministerio_Público"
+        ],
+        "others": [],
+        "dates": [
+            "[??:5/3/2009:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "29",
+            "4",
+            "2"
+        ]
+    }
+}

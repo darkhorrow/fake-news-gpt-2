@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/692814/0/",
+    "title": {
+        "raw_text": "Un vehículo averiado causa retenciones en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno vehículo averiar causa retención en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "vehículo averiar causa retención las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un vehículo averiado en la Avenida Marítima ha causado hoy importantes retenciones en Las Palmas de Gran Canaria, en sentido sur al Puerto de la Luz, según informaron a Europa Press fuentes de la Policía Local.",
+        "lemmatized_text": "uno vehículo averiar en el avenida_marítima haber causar hoy importante retención en las_palmas_de_gran_canaria en sentido sur a el puerto_de_la_luz según informar a europa_press fuente de el policía_local",
+        "lemmatized_text_reduced": "vehículo averiar avenida_marítima haber causar importante retención las_palmas_de_gran_canaria sentido sur puerto_de_la_luz informar europa_press fuente policía_local",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Avenida_Marítima",
+            "Las_Palmas_de_Gran_Canaria",
+            "Puerto_de_la_Luz"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron sobre las ocho de la mañana, cuando se alertó de la avería del coche a la altura del Tribunal Superior de Justicia de Canarias, por lo que provocó un atasco importante desde el sur hasta Hoya de la Plata. No obstante, las mismas fuentes precisaron que se ha ido normalizado el tráfico paulatinamente y no se han ocasionado accidentes.",
+        "lemmatized_text": "el hecho ocurrir sobre el [??:??/??/??:8.00:am] cuando se alertar de el avería de el coche a el altura de el tribunal_superior_de_justicia_de_canarias por el que provocar uno atasco importante desde el sur hasta hoya_de_la_plata no_obstante el mismo fuente precisar que se haber ir normalizar el tráfico paulatinamente y no se haber ocasionar accidente",
+        "lemmatized_text_reduced": "hecho ocurrir alertar avería coche altura tribunal_superior_de_justicia_de_canarias provocar atasco importante sur hoya_de_la_plata mismo fuente precisar haber ir normalizar tráfico paulatinamente haber ocasionar accidente",
+        "persons": [],
+        "locations": [
+            "Hoya_de_la_Plata"
+        ],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:8.00:am]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/682568/0/",
+    "title": {
+        "raw_text": "El arte reclama más de tres toneladas de ropa usada para un taller de performance en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el arte reclamar más de WG_tm:3 de ropa usar para uno taller de performance en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "arte reclamar ropa usar taller performance las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_tm:3"
+        ]
+    },
+    "lead": {
+        "raw_text": "El taller performance del colectivo Andrea Crews, 'La Ropa de Las Palmas', pide a la capital grancanaria tres toneladas de ropa usada para sus cuatro días de trabajo en el Edificio Miller, del 5 al 8 de mayo.",
+        "lemmatized_text": "el taller performance de el colectivo andrea_crews el ropa_de_las_palmas pedir a el capital grancanaria WG_tm:3 de ropa usar para su TM_d:4 de trabajo en el edificio_miller de el 5 a el [??:8/5/??:??.??:??]",
+        "lemmatized_text_reduced": "taller performance colectivo andrea_crews ropa_de_las_palmas pedir capital grancanaria ropa usar trabajo edificio_miller",
+        "persons": [],
+        "locations": [
+            "Edificio_Miller"
+        ],
+        "organizations": [
+            "Andrea_Crews",
+            "Ropa_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:8/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "WG_tm:3",
+            "TM_d:4",
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "Distrito Cultura no quiere que nadie deje en el cajón nada que no vaya a usar más porque Maroussia Rebecq y su equipo necesitan ropa de segunda mano para su proyecto, según informó la Sociedad de Promoción de la ciudad en un comunicado.. Y es que del 5 al 8 de mayo, el Edificio Miller acoge el taller de Andrea Crews, en el que este grupo francés creará una colección única, insólita, a partir de ropa de segunda mano. Será donada a una ong Todo el que quiera participar de antemano, puede llevar su ropa a partir de mañana al Edificio Miller, donde se recogerá entre las 10.00 y las 14.00 horas. Las prendas serán donadas posteriormente a una ONG para su recuperación y reutilización. Moda, arte y activismo son las tres premisas sobre las que trabaja Andrea Crews, colectivo integrado por estilistas, diseñadores, músicos, videoartistas y performers dirigidos por Maroussia Rebecq. Andrea Crews ha presentado su trabajo en otras ciudades españolas como Bilbao (Bilbao Solo, 2003), Valencia (Visiones del confín, IVAM, 2009) y Madrid (Madrid te la pone, La Casa Encendida, 2007).",
+        "lemmatized_text": "distrito_cultura no querer que nadie dejar en el cajón nada que no ir a usar más porque maroussia_rebecq y su equipo necesitar ropa de_segunda_mano para su proyecto según informar el sociedad_de_promoción de el ciudad en uno comunicado y ser que de el 5 a el [??:8/5/??:??.??:??] el edificio_miller acoger el taller de andrea_crews en el que este grupo francés crear uno colección único insólito a_partir_de ropa de_segunda_mano ser donar a uno ong todo el que querer participar de_antemano poder llevar su ropa a_partir_de mañana a el edificio_miller donde se recoger entre el 10 y el TM_h:14 el prenda ser donar posteriormente_a uno ong para su recuperación y reutilización moda arte y activismo ser el 3 premisa sobre el que trabajar andrea_crews colectivo integrar por estilista diseñador músico videoartista y performers dirigir por maroussia_rebecq andrea_crews haber presentar su trabajo en otro ciudad español como bilbao bilbao_solo 2003 valencia visión de el confín ivam 2009 y madrid madrid te lo poner la_casa_encendida 2007",
+        "lemmatized_text_reduced": "distrito_cultura querer dejar cajón ir usar maroussia_rebecq equipo necesitar ropa proyecto informar sociedad_de_promoción ciudad comunicado ser edificio_miller acoger taller andrea_crews grupo francés crear colección único insólito ropa ser donar ong todo querer participar poder llevar ropa mañana edificio_miller recoger prenda ser donar ong recuperación reutilización moda arte activismo ser premisa trabajar andrea_crews colectivo integrar estilista diseñador músico videoartista performers dirigir maroussia_rebecq andrea_crews haber presentar trabajo ciudad español bilbao bilbao_solo valencia visión confín ivam madrid madrid poner la_casa_encendida",
+        "persons": [
+            "Distrito_Cultura",
+            "Maroussia_Rebecq",
+            "Andrea_Crews",
+            "Todo",
+            "Moda",
+            "Andrea_Crews",
+            "Maroussia_Rebecq",
+            "Andrea_Crews"
+        ],
+        "locations": [
+            "Edificio_Miller",
+            "Edificio_Miller",
+            "Bilbao",
+            "Valencia",
+            "Madrid"
+        ],
+        "organizations": [
+            "Sociedad_de_Promoción",
+            "ONG",
+            "Bilbao_Solo",
+            "IVAM",
+            "Madrid",
+            "La_Casa_Encendida"
+        ],
+        "others": [],
+        "dates": [
+            "[??:8/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "10",
+            "TM_h:14",
+            "3",
+            "2003",
+            "2009",
+            "2007"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922950/0/",
+    "title": {
+        "raw_text": "Un hombre grave tras sufrir un atropello en Fuerteventura",
+        "lemmatized_text": "uno hombre grave tras sufrir uno atropello en fuerteventura",
+        "lemmatized_text_reduced": "hombre grave sufrir atropello fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido de carácter grave después de sufrir un atropello en la vía FV-4, a la altura de Gran Tarajal, en el municipio de Tuineje (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber resultar herir de carácter grave después_de sufrir uno atropello en el vía FV-4 a el altura de gran_tarajal en el municipio de tuineje fuerteventura según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir carácter grave sufrir atropello vía altura gran_tarajal municipio tuineje fuerteventura informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Tarajal",
+            "Tuineje"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "FV-4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre ha resultado herido de carácter grave después de sufrir un atropello en la vía FV-4, a la altura de Gran Tarajal, en el municipio de Tuineje (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos se produjeron en la tarde del sábado, y el herido es un hombre de 60 años de edad que sufrió politraumatismos de carácter grave, por lo que tuvo que ser evacuado por personal del Servicio de Urgencias Canario (SUC) al Hospital General de Fuerteventura. Hasta el lugar del incidente se trasladó personal del SUC, así como un médico del centro de salud del municipio, así como agentes de la Guardia Civil que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre haber resultar herir de carácter grave después_de sufrir uno atropello en el vía FV-4 a el altura de gran_tarajal en el municipio de tuineje fuerteventura según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho se producir en el tarde de el [S:??/??/??:??.??:??] y el herir ser uno hombre de 60 año de edad que sufrir politraumatismo de carácter grave por el que tener que ser evacuar por personal de el servicio_de_urgencias_canario suc a el hospital_general_de_fuerteventura hasta el lugar de el incidente se trasladar personal de el suc así_como uno médico de el centro de salud de el municipio así_como agente de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre haber resultar herir carácter grave sufrir atropello vía altura gran_tarajal municipio tuineje fuerteventura informar centro_coordinador_de_emergencias seguridad hecho producir tarde herir ser hombre año edad sufrir politraumatismo carácter grave tener ser evacuar personal servicio_de_urgencias_canario suc hospital_general_de_fuerteventura lugar incidente trasladar personal suc médico centro salud municipio agente guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Gran_Tarajal",
+            "Tuineje"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_General_de_Fuerteventura",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "FV-4",
+            "112",
+            "60"
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935203/0/",
+    "title": {
+        "raw_text": "El precio medio de los coches en Canarias se fija en 19.955 euros en 2010, según Faconauto",
+        "lemmatized_text": "el precio medio de el coche en canarias se fijar en $_ECU:19.955 en 2010 según faconauto",
+        "lemmatized_text_reduced": "precio medio coche canarias fijar faconauto",
+        "persons": [
+            "Faconauto"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:19.955",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio medio de los coches que se han vendido en Canarias durante el pasado año se fijó en 19.955 euros, lo que ha supuesto un crecimiento del 0,4 por ciento con respecto a 2009, según la Federación de Asociaciones de Concesionarios de la Automoción (Faconauto).",
+        "lemmatized_text": "el precio medio de el coche que se haber vender en canarias durante el pasar año se fijar en $_ECU:19.955 el que haber suponer uno crecimiento de el 0,4 por 100 con_respecto_a 2009 según el federación_de_asociaciones_de_concesionarios_de_la_automoción faconauto",
+        "lemmatized_text_reduced": "precio medio coche haber vender canarias pasar año fijar haber suponer crecimiento federación_de_asociaciones_de_concesionarios_de_la_automoción faconauto",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Federación_de_Asociaciones_de_Concesionarios_de_la_Automoción",
+            "Faconauto"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:19.955",
+            "0,4",
+            "100",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio medio de los coches que se han vendido en Canarias durante el pasado año se fijó en 19.955 euros, lo que ha supuesto un crecimiento del 0,4 por ciento con respecto a 2009, según la Federación de Asociaciones de Concesionarios de la Automoción (Faconauto). Esta subida de los precios se debe, según la patronal, al incremento del Impuesto sobre el Valor Añadido (IVA), así como al final del Plan 2000E. Respecto a la evolución de los precios de los automóviles durante 2010 tuvo dos partes \"muy diferenciadas\", ya que en el primer semestre los concesionarios \"intensificaron su esfuerzo\" promocional para intentar aprovechar el \"efecto positivo\" del Plan 2000E sobre las ventas, lo que implicó una caída \"muy significativa\" del precio efectivo. Por contra, la subida del IVA en dos puntos en julio, supuso el encarecimiento de los vehículos en el segundo semestre del pasado año. Por otro lado, tras la finalización del plan de ayudas oficiales, las promociones fueron a la baja, decantándose los compradores por modelos un \"poco superiores\", lo que también supuso una subida de los precios medios en el último tramo del año. Por provincias, en la de Santa Cruz de Tenerife el precio de los automóviles se incrementó un 0,8 por ciento, situándose de media en los 19.604 euros; mientras que en la de Las Palmas se situó en los 18.706 euros, con una subida de apenas de un 0,01 por ciento. Esfuerzo en promoción En cuanto a las promociones, los concesionarios de automoción españoles tuvieron que realizar en 2010 un esfuerzo por la situación, lo que les permitió situarse en los 2.405 millones de euros, implicando éste un crecimiento del 9,7 por ciento, respecto a los 2.191 de 2009. De esta forma, la promoción media hecha en cada coche vendido en 2010 fue de 2.827 euros, lo que supone un incremento del 17,5 por ciento respecto a 2009. En este sentido, la patronal subrayó que este aumento se ha realizado a pesar de que en 2010 la matriculación de vehículos por parte de particulares cayó un 11 por ciento en España. El presidente Faconauto, Antonio Romero-Haupold, señaló que el año pasado fue \"excepcional\" para adquirir un coche, ya que los concesionarios ofrecieron a los compradores unas condiciones \"nunca vistas\". Añadió que estas \"buenas condiciones todavía se mantienen\" y señaló que \"quien quiera cambiar de coche, encontrará en los puntos de venta promociones que rondan los 2.800 euros\".",
+        "lemmatized_text": "el precio medio de el coche que se haber vender en canarias durante el pasar año se fijar en $_ECU:19.955 el que haber suponer uno crecimiento de el 0,4 por 100 con_respecto_a 2009 según el federación_de_asociaciones_de_concesionarios_de_la_automoción faconauto este subida de el precio se deber según el patronal a el incremento de el impuesto sobre el valor_añadido iva así_como a el final de el plan 2000E respecto_a el evolución de el precio de el automóvil durante 2010 tener 2 parte muy diferenciar ya_que en el 1 semestre el concesionario intensificar su esfuerzo promocional para intentar aprovechar el efecto positivo de el plan 2000E sobre el venta el que implicar uno caída muy significativo de el precio efectivo por contra el subida de el iva en 2 punto en [??:??/7/??:??.??:??] suponer el encarecimiento de el vehículo en el 2 semestre de el pasar año por_otro_lado tras el finalización de el plan de ayuda oficial el promoción ser a el baja decantar se el comprador por modelo uno poco superior el que también suponer uno subida de el precio medio en el último tramo de el año por provincia en el de santa_cruz_de_tenerife el precio de el automóvil se incrementar uno 0,8 por 100 situar se de media en el $_ECU:19.604 mientras_que en el de las_palmas se situar en el $_ECU:18.706 con uno subida de apenas de uno 0,01 por 100 esfuerzo en promoción en_cuanto_a el promoción el concesionario de automoción español tener que realizar en 2010 uno esfuerzo por el situación el que le permitir situar se en el $_ECU:2405000 implicar este uno crecimiento de el 9,7 por 100 respecto_a el 2.191 de 2009 de este forma el promoción medio hacer en cada coche vender en 2010 ser de $_ECU:2.827 el que suponer uno incremento de el 17,5 por 100 respecto_a 2009 en este sentido el patronal subrayar que este aumento se haber realizar a_pesar_de que en 2010 el matriculación de vehículo por parte de particular caer uno 11 por 100 en españa el presidente faconauto antonio_romero-haupold señalar que el año pasar ser excepcional para adquirir uno coche ya_que el concesionario ofrecer a el comprador uno condición nunca ver añadir que este bueno condición todavía se mantener y señalar que quien querer cambiar de coche encontrar en el punto de venta promoción que rondar el $_ECU:2.8",
+        "lemmatized_text_reduced": "precio medio coche haber vender canarias pasar año fijar haber suponer crecimiento federación_de_asociaciones_de_concesionarios_de_la_automoción faconauto subida precio deber patronal incremento impuesto valor_añadido iva final plan evolución precio automóvil tener parte diferenciar 1 semestre concesionario intensificar esfuerzo promocional intentar aprovechar efecto positivo plan venta implicar caída significativo precio efectivo contra subida iva punto suponer encarecimiento vehículo 2 semestre pasar año finalización plan ayuda oficial promoción ser baja decantar comprador modelo superior suponer subida precio medio último tramo año provincia santa_cruz_de_tenerife precio automóvil incrementar situar media las_palmas situar subida esfuerzo promoción en_cuanto_a promoción concesionario automoción español tener realizar esfuerzo situación permitir situar implicar crecimiento forma promoción medio hacer coche vender ser suponer incremento sentido patronal subrayar aumento haber realizar matriculación vehículo parte particular caer españa presidente faconauto antonio_romero-haupold señalar año pasar ser excepcional adquirir coche concesionario ofrecer comprador condición ver añadir bueno condición mantener señalar querer cambiar coche encontrar punto venta promoción rondar",
+        "persons": [
+            "Faconauto",
+            "Antonio_Romero-Haupold"
+        ],
+        "locations": [
+            "Canarias",
+            "Santa_Cruz_de_Tenerife",
+            "España"
+        ],
+        "organizations": [
+            "Federación_de_Asociaciones_de_Concesionarios_de_la_Automoción",
+            "Faconauto",
+            "Las_Palmas"
+        ],
+        "others": [
+            "Impuesto",
+            "Valor_Añadido",
+            "IVA",
+            "Plan",
+            "Plan",
+            "IVA",
+            "En_cuanto_a"
+        ],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:19.955",
+            "0,4",
+            "100",
+            "2009",
+            "2000E",
+            "2010",
+            "2",
+            "2000E",
+            "2",
+            "0,8",
+            "100",
+            "$_ECU:19.604",
+            "$_ECU:18.706",
+            "0,01",
+            "100",
+            "2010",
+            "$_ECU:2405000",
+            "9,7",
+            "100",
+            "2.191",
+            "2009",
+            "2010",
+            "$_ECU:2.827",
+            "17,5",
+            "100",
+            "2009",
+            "2010",
+            "11",
+            "100",
+            "$_ECU:2.8"
+        ]
+    }
+}

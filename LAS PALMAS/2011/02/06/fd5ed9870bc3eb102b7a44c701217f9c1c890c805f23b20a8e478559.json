@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/951136/0/desalojan/avion/equipaje/",
+    "title": {
+        "raw_text": "Ryanair culpa del desalojo de un avión a unos estudiantes que no pagaron exceso de equipaje",
+        "lemmatized_text": "ryanair culpar de el desalojo de uno avión a uno estudiante que no pagar exceso de equipaje",
+        "lemmatized_text_reduced": "ryanair culpar desalojo avión estudiante pagar exceso equipaje",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El avión tenía que viajar desde el aeropuerto de Lanzarote hasta el de Bruselas. Efectivos de la Guardia Civil y del Cuerpo Nacional de Policía desalojaron el avión. La compañía pidió disculpas al resto de pasajeros que sufrieron 3 horas de retraso.",
+        "lemmatized_text": "el avión tener que viajar desde el aeropuerto de lanzarote hasta el de bruselas efectivos_de_la_guardia_civil y de el cuerpo_nacional_de_policía desalojar el avión el compañía pedir disculpa a el resto de pasajero que sufrir TM_h:3 de retraso",
+        "lemmatized_text_reduced": "avión tener viajar aeropuerto lanzarote bruselas efectivos_de_la_guardia_civil cuerpo_nacional_de_policía desalojar avión compañía pedir disculpa resto pasajero sufrir retraso",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Bruselas"
+        ],
+        "organizations": [
+            "Efectivos_de_la_Guardia_Civil",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:3"
+        ]
+    },
+    "body": {
+        "raw_text": "La negativa de algunos estudiantes a pagar ayer el exceso de equipaje en un avión que les tenía que trasladar desde el aeropuerto de Lanzarote hasta el de Bruselas llevó al desalojo de la aeronave , ha informado este domingo la compañía aérea Ryanair . En un comunicado hecho público en su página web, Ryanair indica que el incidente se produjo en el vuelo FR8175 que debía partir a las 10.30 horas de ayer del aeropuerto de Guacimeta , en Lanzarote, con destino el aeródromo de Charleroi, en Bruselas. Ryanair explica que el problema comenzó en el interior del aparato, cuando unos cien estudiantes comenzaron a tener un comportamiento nocivo , y agrega que esa situación obligó a efectivos de la Guardia Civil y del Cuerpo Nacional de Policía a desalojarlos del avión tras provocar un altercado en su interior. Se les ha prohibido viajar en vuelos de la compañía Una vez en tierra, los estudiantes fueron identificados por los miembros de las Fuerzas y Cuerpos de Seguridad del Estado, y se les impidió volar en ese avión por razones de seguridad, ante la mala conducta que habían tenido, señala Ryanair. La compañía aérea pide disculpas a los 66 pasajeros restantes que sufrieron tres horas de retraso por ese percance, que justifican por el hecho de que para la compañía la seguridad de los pasajeros, la tripulación y el aparato \"es la prioridad número uno\". Los estudiantes que tuvieron que ser desalojados del avión fueron reubicados en otros vuelos con destino a Charleroi, salvo aquellos que provocaron el incidente, puesto que a éstos se les ha prohibido volar en vuelos de la compañía de bajo coste, dice Ryanair.",
+        "lemmatized_text": "el negativa de alguno estudiante a pagar ayer el exceso de equipaje en uno avión que le tener que trasladar desde el aeropuerto de lanzarote hasta el de bruselas llevar a el desalojo de el aeronave haber informar este [G:??/??/??:??.??:??] el compañía aéreo ryanair en uno comunicado hacer público en su página web ryanair indicar que el incidente se producir en el vuelo FR8175 que deber partir a el TM_h:10.3 de ayer de el aeropuerto de guacimeta en lanzarote con destino el aeródromo de charleroi en bruselas ryanair explicar que el problema comenzar en el interior de el aparato cuando uno 100 estudiante comenzar a tener uno comportamiento nocivo y agregar que ese situación obligar a efectivo de el guardia_civil y de el cuerpo_nacional_de_policía a desalojar lo de el avión tras provocar uno altercado en su interior se le haber prohibir viajar en vuelo de el compañía uno vez en tierra el estudiante ser identificar por el miembro de el fuerzas y cuerpos_de_seguridad_del_estado y se le impedir volar en ese avión por razón de seguridad ante el malo conducta que haber tener señalar ryanair el compañía aéreo pedir disculpa a el 66 pasajero restante que sufrir TM_h:3 de retraso por ese percance que justificar por el hecho de que para el compañía el seguridad de el pasajero el tripulación y el aparato ser el prioridad número uno el estudiante que tener que ser desalojar de el avión ser reubicar en otro vuelo con destino a charleroi salvo aquel que provocar el incidente poner que a este se le haber prohibir volar en vuelo de el compañía de bajo coste decir ryanair",
+        "lemmatized_text_reduced": "negativa estudiante pagar exceso equipaje avión tener trasladar aeropuerto lanzarote bruselas llevar desalojo aeronave haber informar compañía aéreo ryanair comunicado hacer público página web ryanair indicar incidente producir vuelo deber partir aeropuerto guacimeta lanzarote destino aeródromo charleroi bruselas ryanair explicar problema comenzar interior aparato estudiante comenzar tener comportamiento nocivo agregar situación obligar efectivo guardia_civil cuerpo_nacional_de_policía desalojar avión provocar altercado interior haber prohibir viajar vuelo compañía vez tierra estudiante ser identificar miembro fuerzas cuerpos_de_seguridad_del_estado impedir volar avión razón seguridad malo conducta haber tener señalar ryanair compañía aéreo pedir disculpa pasajero restante sufrir retraso percance justificar hecho compañía seguridad pasajero tripulación aparato ser prioridad número estudiante tener ser desalojar avión ser reubicar vuelo destino charleroi provocar incidente poner haber prohibir volar vuelo compañía coste decir ryanair",
+        "persons": [
+            "Ryanair",
+            "Ryanair",
+            "Ryanair",
+            "Ryanair"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Bruselas",
+            "Guacimeta",
+            "Lanzarote",
+            "Charleroi",
+            "Bruselas",
+            "Charleroi"
+        ],
+        "organizations": [
+            "Ryanair",
+            "Guardia_Civil",
+            "Cuerpo_Nacional_de_Policía",
+            "Fuerzas",
+            "Cuerpos_de_Seguridad_del_Estado"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "FR8175",
+            "TM_h:10.3",
+            "100",
+            "66",
+            "TM_h:3"
+        ]
+    }
+}

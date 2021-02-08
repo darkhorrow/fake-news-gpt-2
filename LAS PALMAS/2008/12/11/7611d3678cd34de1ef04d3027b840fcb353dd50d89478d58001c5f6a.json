@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/435806/0/anciana/muerta/telde/",
+    "title": {
+        "raw_text": "Fallece una mujer de 80 años en Telde tras una pelea con su marido",
+        "lemmatized_text": "fallecer uno mujer de 80 año en telde tras uno pelea con su marido",
+        "lemmatized_text_reduced": "fallecer mujer año telde pelea marido",
+        "persons": [],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80"
+        ]
+    },
+    "lead": {
+        "raw_text": "El cadáver de la anciana presentaba un traumatismo craneoencefálico. El marido, de 87 años de edad, también está herido y ha sido trasladado al Hospital Insular de Gran Canaria. Teléfono gratis de ayuda sobre violencia doméstica: 016. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el cadáver de el anciano presentar uno traumatismo craneoencefálico el marido de 87 año de edad también estar herir y haber ser trasladar a el hospital_insular_de_gran_canaria teléfono gratis de ayuda sobre violencia doméstico 16 consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cadáver anciano presentar traumatismo craneoencefálico marido año edad estar herir haber ser trasladar hospital_insular_de_gran_canaria teléfono ayuda violencia doméstico consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Hospital_Insular_de_Gran_Canaria",
+            "Teléfono",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "87",
+            "16"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer de 80 años de edad fue hallada anoche muerta en su domicilio en Telde (Gran Canaria) con varios golpes en la cabeza presuntamente tras discutir con su marido, de unos 87 años de edad y que se encuentra herido, según confirmaron fuentes municipales. El cadáver de la anciana, conocida como Carmita , fue hallado en el interior de su vivienda ubicada en el número 43 de la carretera general de El Goro y, tras la orden de levantamiento del cuerpo por la juez de guardia, fue trasladado al Instituto de Medicina Legal para proceder a practicarle la autopsia. El hallazgo se produjo después de que varios vecinos alertaran sobre la falta de noticias del matrimonio desde el pasado lunes, según informan medios de comunicación del archipiélago, que indican que el marido, Gabriel Martín , fue trasladado en una ambulancia de soporte vital al Hospital Insular de Gran Canaria. Hasta el lugar se desplazaron anoche bomberos del Consorcio de Emergencias de Gran Canaria que hallaron el cuerpo de la víctima con múltiples contusiones y traumatismo craneal, además de agentes de la Policía Local y Policía Nacional, que investigan lo ocurrido e interrogan al varón para esclarecer los hechos. La pareja vivía en El Goro desde hace más de veinte años y apenas se relacionaban con los vecinos, según relatan los citados medios. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno mujer de 80 año de edad ser hallar anoche morir en su domicilio en telde gran_canaria con varios golpe en el cabeza presuntamente tras discutir con su marido de uno 87 año de edad y que se encontrar herir según confirmar fuente municipal el cadáver de el anciano conocer como carmita ser hallar en_el_interior_de su vivienda ubicar en el número 43 de el carretera general de el_goro y tras el orden de levantamiento de el cuerpo por el juez de guardia ser trasladar a el instituto_de_medicina_legal para proceder a practicar le el autopsia el hallazgo se producir después_de que varios vecino alertar sobre el falta de noticia de el matrimonio desde el [L:??/??/??:??.??:??] según informar medio de comunicación de el archipiélago que indicar que el marido gabriel_martín ser trasladar en uno ambulancia de soporte vital a el hospital_insular_de_gran_canaria hasta el lugar se desplazar anoche bombero de el consorcio_de_emergencias_de_gran_canaria que hallar el cuerpo de el víctima con múltiple contusión y traumatismo craneal además_de agente de el policía_local y policía_nacional que investigar el ocurrir y interrogar a el varón para esclarecer el hecho el pareja vivir en el_goro desde hacer más de 20 año y apenas se relacionar con el vecino según relatar el citar medio consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "mujer año edad ser hallar morir domicilio telde gran_canaria golpe cabeza presuntamente discutir marido año edad encontrar herir confirmar fuente municipal cadáver anciano conocer carmita ser hallar vivienda ubicar número carretera general el_goro orden levantamiento cuerpo juez guardia ser trasladar instituto_de_medicina_legal proceder practicar autopsia hallazgo producir vecino alertar falta noticia matrimonio informar medio comunicación archipiélago indicar marido gabriel_martín ser trasladar ambulancia soporte vital hospital_insular_de_gran_canaria lugar desplazar bombero consorcio_de_emergencias_de_gran_canaria hallar cuerpo víctima múltiple contusión traumatismo craneal agente policía_local policía_nacional investigar ocurrir interrogar varón esclarecer hecho pareja vivir el_goro hacer año relacionar vecino relatar citar medio consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Carmita",
+            "Gabriel_Martín"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria",
+            "El_Goro",
+            "El_Goro"
+        ],
+        "organizations": [
+            "Instituto_de_Medicina_Legal",
+            "Hospital_Insular_de_Gran_Canaria",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Policía_Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "80",
+            "87",
+            "43",
+            "20"
+        ]
+    }
+}

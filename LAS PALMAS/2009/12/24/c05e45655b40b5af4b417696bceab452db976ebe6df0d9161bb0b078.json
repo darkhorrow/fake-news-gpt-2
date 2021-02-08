@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595065/0/",
+    "title": {
+        "raw_text": "Veneguera (Gran Canaria) representa mañana su tradicional Belén Viviente Canario",
+        "lemmatized_text": "veneguera gran_canaria representar mañana su tradicional belén_viviente_canario",
+        "lemmatized_text_reduced": "veneguera gran_canaria representar tradicional belén_viviente_canario",
+        "persons": [
+            "Veneguera",
+            "Belén_Viviente_Canario"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El tradicional Belén Viviente Canario del pueblo moganero de Veneguera (Gran Canaria) se representará mañana, a partir de las 18.30 horas, en la zona de la Cardonera, según informó el Ayuntamiento en nota de prensa.",
+        "lemmatized_text": "el tradicional belén_viviente_canario de el pueblo moganero de veneguera gran_canaria se representar mañana a_partir_de el TM_h:18.3 en_la_zona_de el cardonera según informar el ayuntamiento en nota de prensa",
+        "lemmatized_text_reduced": "tradicional belén_viviente_canario pueblo moganero veneguera gran_canaria representar cardonera informar ayuntamiento nota prensa",
+        "persons": [
+            "Belén_Viviente_Canario"
+        ],
+        "locations": [
+            "Veneguera",
+            "Gran_Canaria",
+            "Cardonera"
+        ],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:18.3"
+        ]
+    },
+    "body": {
+        "raw_text": "El belén, que se encuentra dentro del programa de actividades navideñas del Consistorio de Mogán, está realizado por los vecinos de Venegera, quiénes escenifican el Nacimiento de Jesús en uno de los acontecimientos culturales más conocidos y destacados del municipio. Con anterioridad a la escenificación del belén, se oficiará la Misa de Navidad en la Iglesia Nuestra Señora de Fátima, desde donde se iniciará el recorrido desde la plaza hasta la Cardonera de Veneguera, donde se recrearán tradiciones folclóricas, artesanas y gastronómicas. El Belén Viviente de Veneguera se lleva representando desde el año 1983, con una continua evolución que ha hecho que actualmente reciba numerosos visitantes del municipio y del exterior.",
+        "lemmatized_text": "el belén que se encontrar dentro de el programa de actividad navideño de el consistorio_de_mogán estar realizar por el vecino de venegera quién escenificar el nacimiento_de_jesús en uno de el acontecimiento cultural más conocer y destacar de el municipio con anterioridad a el escenificación de el belén se oficiar el misa_de_navidad en el iglesia_nuestra_señora_de_fátima desde donde se iniciar el recorrido desde el plaza hasta el cardonera_de_veneguera donde se recrear tradición folclórico artesano y gastronómico el belén_viviente_de_veneguera se llevar representar desde el [??:??/??/1983:??.??:??] con uno continuo evolución que haber hacer que actualmente recibir numeroso visitante de el municipio y de el exterior",
+        "lemmatized_text_reduced": "belén encontrar programa actividad navideño consistorio_de_mogán estar realizar vecino venegera escenificar nacimiento_de_jesús acontecimiento cultural conocer destacar municipio anterioridad escenificación belén oficiar misa_de_navidad iglesia_nuestra_señora_de_fátima iniciar recorrido plaza cardonera_de_veneguera recrear tradición folclórico artesano gastronómico belén_viviente_de_veneguera llevar representar continuo evolución haber hacer actualmente recibir numeroso visitante municipio exterior",
+        "persons": [],
+        "locations": [
+            "Venegera",
+            "Iglesia_Nuestra_Señora_de_Fátima",
+            "Cardonera_de_Veneguera"
+        ],
+        "organizations": [
+            "Consistorio_de_Mogán",
+            "Nacimiento_de_Jesús",
+            "Belén_Viviente_de_Veneguera"
+        ],
+        "others": [
+            "Misa_de_Navidad"
+        ],
+        "dates": [
+            "[??:??/??/1983:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

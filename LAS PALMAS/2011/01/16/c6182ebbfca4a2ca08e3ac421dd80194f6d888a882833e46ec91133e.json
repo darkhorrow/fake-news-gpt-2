@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/929522/0/",
+    "title": {
+        "raw_text": "Canarias presentará este domingo cielos poco nubosos con posibilidad de calima",
+        "lemmatized_text": "canario presentar este [G:??/??/??:??.??:??] cielo poco nuboso con posibilidad de calima",
+        "lemmatized_text_reduced": "canario presentar cielo nuboso posibilidad calima",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias presenta este domingo, 16 de enero, cielos poco nubosos en general con posibilidad calima durante las horas centrales, según informó la Agencia Estatal de Meteorología (Aemet).",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias presentar este [G:16/1/??:??.??:??] cielo poco nuboso en general con posibilidad calima durante el hora central según informar el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias presentar cielo nuboso general posibilidad calima hora central informar agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[G:16/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Comunidad Autónoma de Canarias presenta este domingo, 16 de enero, cielos poco nubosos en general con posibilidad calima durante las horas centrales, según informó la Agencia Estatal de Meteorología (Aemet). De esta manera, la previsión meteorológica en la provincia de Las Palmas para hoy, domingo 16 de enero de 2011, indica que en Gran Canaria predominarán los cielos poco nubosos o despejados, aumentando a intervalos de nubes altas por la tarde y con probabilidad de calima a partir de últimas horas de las mañana, principalmente en la vertiente sur de la isla. En Fuerteventura y Lanzarote predominaran cielos poco nubosos o despejados, aumentando a intervalos de nubes altas al final del día. En cuanto al viento, soplará de componente este moderado, siendo variable flojo en costa oeste. Las temperaturas sin cambios, oscilando en Las Palmas de Gran Canaria entre los 26 y 18 grados centígrados. Por su parte, la previsión en Santa Cruz de Tenerife para este domingo indica que habrá predominio de cielos nubosos, aumentando a intervalos de nubes altas a partir del mediodía, mientras que habrá probabilidad de calima a partir de las últimas horas de la mañana, principalmente en la vertiente sur de la isla. Las temperaturas permanecen sin cambios y así los termómetros oscilarán entre los 17 grados de mínima y los 23 de máxima, mientras que el viento soplará de componente este flojo a moderado, siendo variable flojo en la costa oeste. Resto de españa En el resto de España, las precipitaciones persistentes regresan este domingo al oeste de Galicia, mientras que en el resto del país predominan cielos poco nubosos y temperaturas suaves, que se mantendrán hasta el lunes. Así, en el extremo noroeste peninsular aumentará la nubosidad a lo largo del día, por lo que se registrarán lluvias a partir de la tarde en Galicia, que serán localmente persistentes en el oeste de la comunidad. En concreto, A Coruña será la provincia más afectada por las precipitaciones, hecho por el cual se está activada la alerta amarilla. Además, existe riesgo de fuerte oleaje, al igual que en Pontevedra. Mientras, en el resto del país se espera poca nubosidad, salvo en el litoral mediterráneo, Baleares y Canarias, donde se esperan algunos intervalos nubosos. Asimismo, se producirán nieblas en el interior peninsular, Baleares y litoral levantino, que serán localmente persistentes en la Meseta Norte y posiblemente también en Extremadura y valles del nordeste. Además, serán probables las calimas en Canarias. En cuanto a las temperaturas, no se esperan cambios, por lo que seguirán siendo suaves como en días atrás. En cambio, los termómetros registrarán un notable descenso a partir del lunes, cuando las máximas caerán entre 4 y 5ºC desde el fin de semana hasta el miércoles y, en este mismo plazo de tiempo, las mínimas también descenderán entre 1 o 2ºC.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias presentar este [G:16/1/??:??.??:??] cielo poco nuboso en general con posibilidad calima durante el hora central según informar el agencia_estatal_de_meteorología aemet de este manera el previsión meteorológico en el provincia de las_palmas para hoy [G:16/1/2011:??.??:??] indicar que en gran_canaria predominar el cielo poco nuboso o despejar aumentar a intervalo de nube alto por el tarde y con probabilidad de calima a_partir_de último hora de el mañana principalmente en el vertiente sur de el isla en fuerteventura y lanzarote predominar cielo poco nuboso o despejar aumentar a intervalo de nube alto a el final de el día en cuanto a el viento soplar de componente este moderado ser variable flojo en costa oeste el temperatura sin cambio oscilar en las_palmas_de_gran_canaria entre el 26 y TP_C:18 por su parte el previsión en santa_cruz_de_tenerife para este [G:??/??/??:??.??:??] indicar que haber predominio de cielo nuboso aumentar a intervalo de nube alto a partir de el [??:??/??/??:12.00:pm] mientras_que haber probabilidad de calima a_partir_de el último hora de el mañana principalmente en el vertiente sur de el isla el temperatura permanecer sin cambio y así el termómetro oscilar entre el 17 grado de mínimo y el 23 de máximo mientras_que el viento soplar de componente este flojo a moderar ser variable flojo en el costa oeste resto de españa en el resto de españa el precipitación persistente regresar este [G:??/??/??:??.??:??] a el oeste de galicia mientras_que en el resto de el país predominar cielo poco nuboso y temperatura suave que se mantener hasta el [L:??/??/??:??.??:??] así en el extremo noroeste peninsular aumentar el nubosidad a el largo de el día por el que se registrar lluvia a_partir_de el tarde en galicia que ser localmente persistente en el oeste de el comunidad en concreto a_coruña ser el provincia más afectar por el precipitación hacer por el cual se estar activar el alerta amarillo además existir riesgo de fuerte oleaje al_igual_que en pontevedra mientras en el resto de el país se esperar poco nubosidad salvo en el litoral mediterráneo baleares y canarias donde se esperar alguno intervalo nuboso asimismo se producir niebla en el interior peninsular baleares y litoral levantino que ser localmente persistente en el meseta_norte y posiblemente también en extremadura y valle de el nordeste además ser probable el calima en canarias en_cuanto_a el temperatura no se esperar cambio por el que seguir ser suave como en día atrás en cambio el termómetro registrar uno notable descenso a partir de el [L:??/??/??:??.??:??] cuando el máxima caer entre 4 y 5ºC desde el fin de semana hasta el [X:??/??/??:??.??:??] y en este mismo plazo de tiempo el mínimo también descender entre 1 o 2ºC",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias presentar cielo nuboso general posibilidad calima hora central informar agencia_estatal_de_meteorología aemet manera previsión meteorológico provincia las_palmas indicar gran_canaria predominar cielo nuboso despejar aumentar intervalo nube alto tarde probabilidad calima último hora mañana principalmente vertiente sur isla fuerteventura lanzarote predominar cielo nuboso despejar aumentar intervalo nube alto final día viento soplar componente moderado ser variable flojo costa oeste temperatura cambio oscilar las_palmas_de_gran_canaria parte previsión santa_cruz_de_tenerife indicar haber predominio cielo nuboso aumentar intervalo nube alto partir haber probabilidad calima último hora mañana principalmente vertiente sur isla temperatura permanecer cambio termómetro oscilar grado mínimo máximo viento soplar componente flojo moderar ser variable flojo costa oeste resto españa en resto españa precipitación persistente regresar oeste galicia resto país predominar cielo nuboso temperatura suave mantener extremo noroeste peninsular aumentar nubosidad largo día registrar lluvia tarde galicia ser localmente persistente oeste comunidad concreto a_coruña ser provincia afectar precipitación hacer estar activar alerta amarillo existir riesgo fuerte oleaje pontevedra resto país esperar nubosidad litoral mediterráneo baleares canarias esperar intervalo nuboso producir niebla interior peninsular baleares litoral levantino ser localmente persistente meseta_norte posiblemente extremadura valle nordeste ser probable calima canarias temperatura esperar cambio seguir ser suave día cambio termómetro registrar notable descenso partir máxima caer fin semana mismo plazo tiempo mínimo descender",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Fuerteventura",
+            "Lanzarote",
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Cruz_de_Tenerife",
+            "España",
+            "Galicia",
+            "Galicia",
+            "A_Coruña",
+            "Pontevedra",
+            "Baleares",
+            "Canarias",
+            "Baleares",
+            "Meseta_Norte",
+            "Extremadura",
+            "Canarias"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Las_Palmas"
+        ],
+        "others": [
+            "En"
+        ],
+        "dates": [
+            "[G:16/1/??:??.??:??]",
+            "[G:16/1/2011:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]",
+            "[G:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "26",
+            "TP_C:18",
+            "17",
+            "23",
+            "4",
+            "5ºC",
+            "1",
+            "2ºC"
+        ]
+    }
+}

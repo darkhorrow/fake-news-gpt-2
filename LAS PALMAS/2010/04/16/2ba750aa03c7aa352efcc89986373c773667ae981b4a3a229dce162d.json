@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/679655/0/",
+    "title": {
+        "raw_text": "Soria dice que cuando se terminen de recortar los 126 millones se verá si hay \"más o menos dificultades\" para ejecutarlo",
+        "lemmatized_text": "soria decir que cuando se terminar de recortar el 126000000 se ver si haber más o menos dificultad para ejecutar lo",
+        "lemmatized_text_reduced": "soria decir terminar recortar ver haber dificultad ejecutar",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "126000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El consejero de Economía y Hacienda del Gobierno de Canarias, José Manuel Soria, ha afirmado hoy que cuando se terminen de ajustar los 126 millones de euros que exige el Ministerio de Hacienda se verá si hay \"más o menos dificultades\" en el seno del Ejecutivo regional para hacer efectivo dicho recorte.",
+        "lemmatized_text": "el consejero de economía y hacienda_del_gobierno_de_canarias josé_manuel_soria haber afirmar hoy que cuando se terminar de ajustar el $_ECU:126000000 que exigir el ministerio_de_hacienda se ver si haber más o menos dificultad en el seno de el ejecutivo regional para hacer efectivo decir recorte",
+        "lemmatized_text_reduced": "consejero economía hacienda_del_gobierno_de_canarias josé_manuel_soria haber afirmar terminar ajustar exigir ministerio_de_hacienda ver haber dificultad seno ejecutivo regional hacer efectivo decir recorte",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "Economía",
+            "Hacienda_del_Gobierno_de_Canarias",
+            "Ministerio_de_Hacienda",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:126000000"
+        ]
+    },
+    "body": {
+        "raw_text": "\"La dificultad que hay la estamos teniendo dentro de la Consejería, que es el órgano del Gobierno que hace y propone el recorte, pero difícilmente puede pronunciarse el Gobierno mientras el consejero de Hacienda no lleve esa propuesta de recortes al Ejecutivo\", manifestó hoy en declaraciones a los medios de comunicación. De esta manera, Soria explicó que iba a llevar la propuesta al Consejo de Gobierno de ayer, aunque matizó que no la pudo llevar porque los cálculos sobre los que se estaba haciendo el recorte era sobre una cifra de 112 millones de euros. \"Pero resulta —añadió— que el Ministerio no nos admite esa cifra, sino de 126 millones de euros\". El consejero apuntó que si ya era difícil ajustar 112 millones, más aún será hacerlo con 126, mientras dijo que en el momento en el que su departamento termine de hacer los ajustes de esta cantidad de dinero, se llevará al Consejo de Gobierno, \"y en ese momento será cuando se pueda informar sobre si hay en el seno del Gobierno más o menos dificultades\".",
+        "lemmatized_text": "el dificultad que haber el estar tener dentro_de el consejería que ser el órgano de el gobierno que hacer y proponer el recorte pero difícilmente poder pronunciar se el gobierno mientras el consejero de hacienda no llevar ese propuesta de recorte a el ejecutivo manifestar hoy en declaración a el medio de comunicación de este manera soria explicar que ir a llevar el propuesta a el consejo_de_gobierno de ayer aunque matizar que no lo poder llevar porque el cálculo sobre el que se estar hacendar el recorte ser sobre uno cifra de $_ECU:112000000 pero resultar añadir que el ministerio no nos admitir ese cifra sino de $_ECU:126000000 el consejero apuntar que si ya ser difícil ajustar 112000000 más aun ser hacer lo con 126 mientras decir que en el momento en el que su departamento terminar de hacer el ajuste de este cantidad de dinero se llevar a el consejo_de_gobierno y en ese momento ser cuando se poder informar sobre si haber en el seno de el gobierno más o menos dificultad",
+        "lemmatized_text_reduced": "dificultad haber estar tener consejería ser órgano gobierno hacer proponer recorte difícilmente poder pronunciar gobierno consejero hacienda llevar propuesta recorte ejecutivo manifestar declaración medio comunicación manera soria explicar ir llevar propuesta consejo_de_gobierno matizar poder llevar cálculo estar hacendar recorte ser cifra resultar añadir ministerio admitir cifra consejero apuntar ser difícil ajustar ser hacer decir momento departamento terminar hacer ajuste cantidad dinero llevar consejo_de_gobierno momento ser poder informar haber seno gobierno dificultad",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [
+            "Consejería",
+            "Gobierno",
+            "Gobierno",
+            "Hacienda",
+            "Ejecutivo",
+            "Consejo_de_Gobierno",
+            "Ministerio",
+            "Consejo_de_Gobierno",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:112000000",
+            "$_ECU:126000000",
+            "112000000",
+            "126"
+        ]
+    }
+}

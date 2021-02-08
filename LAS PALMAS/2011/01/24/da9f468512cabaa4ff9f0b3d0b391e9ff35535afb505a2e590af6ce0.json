@@ -1,0 +1,87 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/938146/0/",
+    "title": {
+        "raw_text": "Denunciados tres mariscadores furtivos en Costa Calma (Fuerteventura)",
+        "lemmatized_text": "denunciar 3 mariscador furtivo en costa_calma fuerteventura",
+        "lemmatized_text_reduced": "denunciar mariscador furtivo costa_calma fuerteventura",
+        "persons": [],
+        "locations": [
+            "Costa_Calma"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "El marisqueo en época de veda puede acarrear multas de 301 a 60.000 euros",
+        "lemmatized_text": "el marisqueo en época de veda poder acarrear multa de 301 a $_ECU:60",
+        "lemmatized_text_reduced": "marisqueo época veda poder acarrear multa",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "301",
+            "$_ECU:60"
+        ]
+    },
+    "body": {
+        "raw_text": "Los servicios de la Agencia de Medio Ambiente del Cabildo de Fuerteventura, con el apoyo de la Policía Local de Pájara, localizaron el pasado viernes a tres mariscadores furtivos que fueron sorprendidos en la zona de Agua Liques (Playa Agua Tres Piedras), en la de costa barlovento de Costa Calma, tras recolectar 100 kilogramos de mejillones ('Perna perna') y otros 5 kilogramos de lapa negra ('Patella candei crenata'). Las tres personas, J.M.H.S., residente en Puerto del Rosario, U.C., natural de República Dominicana, y M.S.S., natural de Hospitalet de Llobregat (Barcelona) han sido denunciados por la pareja de agentes responsable de la actuación por marisqueo ilegal en época de veda, al contravenir las órdenes regionales de 3 de junio de 2010, 27 de julio de 2004 y 16 de julio de 2006, según informa la corporación insular en un comunicado. La consejera de Medio Ambiente, Agricultura, Ganadería y Pesca del Cabildo de Fuerteventura, Natalia Évora, agradeció la participación en la actuación de la Policía Local de Pájara, \"que acudió rápidamente a apoyar a los agentes\" de la corporación insular \"nada más recibir el aviso\". Además, tuvo palabras de reconocimiento para los agentes de Medio Ambiente del Cabildo \"que han completado con éxito una nueva actuación contra el marisqueo ilegal\". El marisqueo en época de veda está tipificado en la Ley de Pesca de Canarias como sanción administrativa grave, que puede acarrear multas de entre 301 y 60.000 euros.",
+        "lemmatized_text": "el servicio de el agencia_de_medio_ambiente_del_cabildo_de_fuerteventura con el apoyo de el policía_local_de_pájara localizar el [V:??/??/??:??.??:??] a 3 mariscador furtivo que ser sorprender en_la_zona_de agua_liques playa_agua 3 piedras en el de costa barlovento de costa_calma tras recolectar WG_kg:100 de mejillón perna perna y otro WG_kg:5 de lapa negro patella candei crenata el 3 persona j.m.h.s. residente en puerto_del_rosario u.c. natural de república_dominicana y m.s.s. natural de hospitalet_de_llobregat barcelona haber ser denunciar por el pareja de agente responsable de el actuación por marisqueo ilegal en época de veda a el contravenir el orden regional de [??:3/6/2010:??.??:??] [??:27/7/2004:??.??:??] y [??:16/7/2006:??.??:??] según informar el corporación insular en uno comunicado el consejero de medio_ambiente agricultura ganadería y pesca_del_cabildo_de_fuerteventura natalia_évora agradecer el participación en el actuación de el policía_local_de_pájara que acudir rápidamente a apoyar a el agente de el corporación insular nada más recibir el aviso además tener palabra de reconocimiento para el agente de medio_ambiente_del_cabildo que haber completar con éxito uno nuevo actuación contra el marisqueo ilegal el marisqueo en época de veda estar tipificar en el ley_de_pesca_de_canarias como sanción administrativo grave que poder acarrear multa de entre 301 y $_ECU:60",
+        "lemmatized_text_reduced": "servicio agencia_de_medio_ambiente_del_cabildo_de_fuerteventura apoyo policía_local_de_pájara localizar mariscador furtivo ser sorprender agua_liques playa_agua piedras costa barlovento costa_calma recolectar mejillón perna perna lapa negro patella crenata persona j.m.h.s. residente puerto_del_rosario u.c. natural república_dominicana m.s.s. natural hospitalet_de_llobregat barcelona haber ser denunciar pareja agente responsable actuación marisqueo ilegal época veda contravenir orden regional informar corporación insular comunicado consejero medio_ambiente agricultura ganadería pesca_del_cabildo_de_fuerteventura natalia_évora agradecer participación actuación policía_local_de_pájara acudir rápidamente apoyar agente corporación insular recibir aviso tener palabra reconocimiento agente medio_ambiente_del_cabildo haber completar éxito nuevo actuación marisqueo ilegal marisqueo época veda estar tipificar ley_de_pesca_de_canarias sanción administrativo grave poder acarrear multa",
+        "persons": [
+            "Agua_Liques",
+            "Perna",
+            "Patella",
+            "Natalia_Évora"
+        ],
+        "locations": [
+            "Costa_Calma",
+            "Puerto_del_Rosario",
+            "República_Dominicana",
+            "Hospitalet_de_Llobregat",
+            "Barcelona"
+        ],
+        "organizations": [
+            "Policía_Local_de_Pájara",
+            "Playa_Agua",
+            "Piedras",
+            "J.M.H.S.",
+            "U.C.",
+            "M.S.S.",
+            "Medio_Ambiente",
+            "Agricultura",
+            "Ganadería",
+            "Policía_Local_de_Pájara",
+            "Medio_Ambiente_del_Cabildo"
+        ],
+        "others": [
+            "Agencia_de_Medio_Ambiente_del_Cabildo_de_Fuerteventura",
+            "Pesca_del_Cabildo_de_Fuerteventura",
+            "Ley_de_Pesca_de_Canarias"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:3/6/2010:??.??:??]",
+            "[??:27/7/2004:??.??:??]",
+            "[??:16/7/2006:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "3",
+            "WG_kg:100",
+            "WG_kg:5",
+            "3",
+            "301",
+            "$_ECU:60"
+        ]
+    }
+}

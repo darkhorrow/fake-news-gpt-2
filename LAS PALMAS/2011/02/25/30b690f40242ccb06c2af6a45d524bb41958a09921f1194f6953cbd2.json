@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/971572/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a un joven por extorsionar a un menor en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el policía_nacional detener a uno joven por extorsionar a uno menor en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional detener joven extorsionar menor las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional detuvo el pasado 14 de febrero a D.A.G., de 18 años de edad y natural de Las Palmas de Gran Canaria y sin antecedentes policiales, por ser el presunto autor de un delito de extorsión a un menor de 17 años de edad.",
+        "lemmatized_text": "el policía_nacional detener el [??:14/2/??:??.??:??] a d.a.g. de 18 año de edad y natural de las_palmas_de_gran_canaria y sin antecedente policial por ser el presunto autor de uno delito de extorsión a uno menor de 17 año de edad",
+        "lemmatized_text_reduced": "policía_nacional detener d.a.g. año edad natural las_palmas_de_gran_canaria antecedente policial ser presunto autor delito extorsión menor año edad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "D.A.G."
+        ],
+        "others": [],
+        "dates": [
+            "[??:14/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "18",
+            "17"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional detuvo el pasado 14 de febrero a D.A.G., de 18 años de edad y natural de Las Palmas de Gran Canaria y sin antecedentes policiales, por ser el presunto autor de un delito de extorsión a un menor de 17 años de edad. El arrestado enviaba mensajes intimidatorios al menor a través de la red social Tuenti y aunque la víctima lo rechazaba del círculo de sus contactos en la citada página, D.A.G. conseguía entrar y le hacía llegar sus amenazas, obteniendo con su actuación alrededor de 1.000 euros que el adolescente le fue entregando en diversas ocasiones por miedo a represalias, según informó la Policía Nacional en un comunicado. Sin embargo, los padres del menor empezaron a observar cierta falta de capital en su cuenta corriente y su hijo confesó que cuando se le acabaron sus ahorros y ante el miedo a ser agredido tuvo que emplear la tarjeta de su madre para sacar de su cuenta el dinero que le había solicitado el presunto autor del hecho. Posteriormente, y una vez formulada la correspondiente denuncia por parte de los padres de la víctima, agentes de la Comisaría de Distrito Centro de la capital grancanaria, practicaron las pesquisas oportunas tendentes a la plena identificación del presunto extorsionador y a su posterior detención. El menor ya fue agredido cuando compartía con D.A.G. centro de educación, hechos que también fueron denunciados en su momento, causando en la víctima una situación de acobardamiento con el resultado final de la extorsión. Por su parte, el detenido, en unión del atestado tramitado, ha pasado a disposición de la autoridad judicial competente.",
+        "lemmatized_text": "el policía_nacional detener el [??:14/2/??:??.??:??] a d.a.g. de 18 año de edad y natural de las_palmas_de_gran_canaria y sin antecedente policial por ser el presunto autor de uno delito de extorsión a uno menor de 17 año de edad el arrestar enviar mensaje intimidatorio a el menor a_través_de el red social tuenti y aunque el víctima lo rechazar de el círculo de su contacto en el citar página d.a.g. conseguir entrar y le hacer llegar su amenaza obtener con su actuación alrededor_de $_ECU:1 que el adolescente le ir entregar en diverso ocasión por miedo a represalia según informar el policía_nacional en uno comunicado sin embargo el padre de el menor empezar a observar cierto falta de capital en su cuenta corriente y su hijo confesar que cuando se le acabar su ahorro y ante el miedo a ser agredir tener que emplear el tarjeta de su madre para sacar de su cuenta el dinero que le haber solicitar el presunto autor de el hecho posteriormente y uno vez formular el correspondiente denuncia por parte de el padre de el víctima agente de el comisaría_de_distrito_centro de el capital grancanaria practicar el pesquisa oportuno tendente a el pleno identificación de el presunto extorsionador y a su posterior detención el menor ya ser agredir cuando compartir con d.a.g. centro de educación hecho que también ser denunciar en su momento causar en el víctima uno situación de acobardamiento con el resultado final de el extorsión por su parte el detener en unión de el atestado tramitar haber pasar a disposición de el autoridad judicial competente",
+        "lemmatized_text_reduced": "policía_nacional detener d.a.g. año edad natural las_palmas_de_gran_canaria antecedente policial ser presunto autor delito extorsión menor año edad arrestar enviar mensaje intimidatorio menor red social tuenti víctima rechazar círculo contacto citar página d.a.g. conseguir entrar hacer llegar amenaza obtener actuación adolescente ir entregar ocasión miedo represalia informar policía_nacional comunicado embargo padre menor empezar observar falta capital cuenta corriente hijo confesar acabar ahorro miedo ser agredir tener emplear tarjeta madre sacar cuenta dinero haber solicitar presunto autor hecho posteriormente vez formular correspondiente denuncia parte padre víctima agente comisaría_de_distrito_centro capital grancanaria practicar pesquisa oportuno tendente pleno identificación presunto extorsionador posterior detención menor ser agredir compartir d.a.g. centro educación hecho ser denunciar momento causar víctima situación acobardamiento resultado final extorsión parte detener unión atestado tramitar haber pasar disposición autoridad judicial competente",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "D.A.G.",
+            "Tuenti",
+            "D.A.G.",
+            "Policía_Nacional",
+            "Comisaría_de_Distrito_Centro",
+            "D.A.G."
+        ],
+        "others": [],
+        "dates": [
+            "[??:14/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "18",
+            "17",
+            "$_ECU:1"
+        ]
+    }
+}

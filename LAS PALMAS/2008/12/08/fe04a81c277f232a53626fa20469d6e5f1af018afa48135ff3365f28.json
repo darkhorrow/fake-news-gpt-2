@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/434892/0/muere/joven/discoteca/",
+    "title": {
+        "raw_text": "Fallece un joven tras ser agredido en una zona de copas de la capital grancanaria",
+        "lemmatized_text": "fallecer uno joven tras ser agredir en uno zona de copa de el capital grancanaria",
+        "lemmatized_text_reduced": "fallecer joven ser agredir zona copa capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El fallecido tenía 19 años y recibió una patada por la espalda. Los agresores le pidieron dinero y este les dio un euro. La Policía ha detenido a cuatro jóvenes con antecedentes. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el fallecer tener 19 año y recibir uno patada por el espalda el agresor le pedir dinero y este le dar uno euro el policía haber detener a 4 joven con antecedente consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "fallecer tener año recibir patada espalda agresor pedir dinero dar euro policía haber detener joven antecedente consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "19",
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Iván Robaina , un joven de 19 años, ha muerto esta madrugada en Las Palmas de Gran Canaria después de que sufriera una agresión que le provocó una parada cardiorrespiratoria de la que no se recuperó. Los hechos tuvieron lugar en la calle José Franchy y Roca, una zona de discotecas de la capital grancanaria, a las 04.05 horas. Al parecer, un grupo de jóvenes que normalmente se dedica a pedir dinero a otras personas que van a las discotecas de la zona se dirigió hacia Iván y su grupo de amigos. Éste les dio un euro y se quedó un poco rezagado de sus amigos. Fue aquí cuando los agresores comenzaron a increparle. Poco después recibió un patada por la espalda y fue pateado hasta quedar inconsciente. Loa amigos de Iván habían entrado en un pub y cuando vieron que este no estaba salieron a la calle, encontrándole en el suelo inconsciente . La Policía ha detenido a cuatro jóvenes como presuntos autores de la muerte de Iván, todos ellos del barrio de Lomo Los Frailes y con antecedentes policiales. Los vecinos del lugar aseguran que la zona donde ha ocurrió el suceso es conflictiva y que no es la primera vez que se producen peleas. Iván vivía en Vegueta y estudiaba en la Escuela de Traductores e Intérpretes de la Universidad de Las Palmas de Gran Canaria, era hijo único y quería ser policía nacional .",
+        "lemmatized_text": "iván_robaina uno joven de 19 año haber morir este madrugada en las_palmas_de_gran_canaria después_de que sufrir uno agresión que le provocar uno parada cardiorrespiratoria de el que no se recuperar el hecho tener_lugar en el calle josé_franchy y roca uno zona de discoteca de el capital grancanaria a el TM_h:4.05 a el parecer uno grupo de joven que normalmente se dedicar a pedir dinero a otro persona que ir a el discoteca de el zona se dirigir hacia iván y su grupo de amigo este le dar uno euro y se quedar uno poco rezagar de su amigo ser aquí cuando el agresor comenzar a increpar le poco después recibir uno patada por el espalda y ser patear hasta quedar inconsciente loar amigo de iván haber entrar en uno pub y cuando ver que este no estar salir a el calle encontrar le en el suelo inconsciente el policía haber detener a 4 joven como presunto autor de el muerte de iván todo ellos de el barrio de lomo_los_frailes y con antecedente policial el vecino de el lugar asegurar que el zona donde haber ocurrir el suceso ser conflictivo y que no ser el 1 vez que se producir pelea iván vivir en vegueta y estudiar en el escuela_de_traductores y intérpretes_de_la_universidad_de_las_palmas_de_gran_canaria ser hijo único y querer ser policía nacional",
+        "lemmatized_text_reduced": "iván_robaina joven año haber morir madrugada las_palmas_de_gran_canaria sufrir agresión provocar parada cardiorrespiratoria recuperar hecho tener_lugar calle josé_franchy roca zona discoteca capital grancanaria parecer grupo joven normalmente dedicar pedir dinero persona ir discoteca zona dirigir iván grupo amigo dar euro quedar rezagar amigo ser agresor comenzar increpar recibir patada espalda ser patear quedar inconsciente loar amigo iván haber entrar pub ver estar salir calle encontrar suelo inconsciente policía haber detener joven presunto autor muerte iván barrio lomo_los_frailes antecedente policial vecino lugar asegurar zona haber ocurrir suceso ser conflictivo ser 1 vez producir pelea iván vivir vegueta estudiar escuela_de_traductores intérpretes_de_la_universidad_de_las_palmas_de_gran_canaria ser hijo único querer ser policía nacional",
+        "persons": [
+            "Iván_Robaina",
+            "José_Franchy",
+            "Roca",
+            "Iván",
+            "Iván",
+            "Iván",
+            "Iván"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Lomo_Los_Frailes",
+            "Vegueta"
+        ],
+        "organizations": [
+            "Policía",
+            "Escuela_de_Traductores",
+            "Intérpretes_de_la_Universidad_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "19",
+            "TM_h:4.05",
+            "4"
+        ]
+    }
+}

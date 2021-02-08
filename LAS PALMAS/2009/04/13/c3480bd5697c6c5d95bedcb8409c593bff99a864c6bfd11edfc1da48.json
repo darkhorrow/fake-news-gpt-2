@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-04-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/462602/0/condenado/asesinato/caseros/",
+    "title": {
+        "raw_text": "Condenado a 39 años por matar a martillazos a sus caseros en Fuerteventura",
+        "lemmatized_text": "condenar a 39 año por matar a martillo a su casero en fuerteventura",
+        "lemmatized_text_reduced": "condenar año matar martillo casero fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "39"
+        ]
+    },
+    "lead": {
+        "raw_text": "Sus caseros eran un matrimonio británico de 58 y de 60 años. Escondió los cadáveres en casa y los enterró de madrugada. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "su casero ser uno matrimonio británico de 58 y de 60 año esconder el cadáver en casa y lo enterrar de_madrugada consulta_aquí_más_noticias_de_las_palmas_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "casero ser matrimonio británico año esconder cadáver casa enterrar consulta_aquí_más_noticias_de_las_palmas_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "58",
+            "60"
+        ]
+    },
+    "body": {
+        "raw_text": "La Audiencia Provincial de Las Palmas ha condenado a 39 años de prisión por dos delitos de asesinato a Juan Carmelo Santana, de 42 años, quien mató a martillazos a sus caseros británicos en julio de 2006 en la isla de Fuerteventura. Tras el veredicto del jurado popular, que consideró al reo culpable de los dos asesinatos , la magistrada presidente del tribunal impone al acusado una pena de 17 años por la muerte de Tina Jane Johnson, de 58, y otra de 22 años por la de su marido Brian Johnson, de 60 años, por apreciarse ensañamiento en esta muerte. La Audiencia Provincial de Las Palmas ha condenado también al acusado al pago de una indemnización de 300.000 euros al hijo de los fallecidos, Sam Keith Johnson. Debía tres mensualidades El crimen ocurrió el 11 de julio de 2006 en El Cotillo, en el municipio de La Oliva, después de que Tina Jane Jonhson y su marido acudieran al apartamento que tenía alquilado el acusado , y que pagaba a medias con su hijo Yeray Denis, a cobrarle las tres últimas mensualidades que adeudaba. Según declaró probado el jurado, Juan Carmelo Santana primero mató a la casera y luego a su marido cuando, poco después del primer crimen, llamó también a su puerta. Después de esconder los cadáveres en casa, los enterró de madrugada en un paraje inhóspito de la isla, donde fueron hallados cuatro días después, el 15 de julio. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el audiencia_provincial_de_las_palmas haber condenar a 39 año de prisión por 2 delito de asesinato a juan_carmelo_santana de 42 año quien matar a martillo a su casero británico en [??:??/7/2006:??.??:??] en el isla de fuerteventura tras el veredicto de el jurado popular que considerar a el reo culpable de el 2 asesinato el magistrado presidente de el tribunal imponer a el acusar uno pena de 17 año por el muerte de tina_jane_johnson de 58 y otro de 22 año por el de su marido brian_johnson de 60 año por apreciar se ensañamiento en este muerte el audiencia_provincial_de_las_palmas haber condenar también a el acusado a el pago de uno indemnización de $_ECU:300 a el hijo de el fallecer sam_keith_johnson deber 3 mensualidad el crimen ocurrir el [??:11/7/2006:??.??:??] en el_cotillo en el municipio de la_oliva después_de que tina_jane_jonhson y su marido acudir a el apartamento que tener alquilar el acusado y que pagar a media con su hijo yeray_denis a cobrar le el 3 último mensualidad que adeudar según declarar probar el jurado juan_carmelo_santana primero matar a el casero y luego a su marido cuando poco después de el 1 crimen llamar también a su puerta después_de esconder el cadáver en casa lo enterrar de_madrugada en uno paraje inhóspito de el isla donde ser hallar TM_d:4 después el [??:15/7/??:??.??:??] consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "audiencia_provincial_de_las_palmas haber condenar año prisión delito asesinato juan_carmelo_santana año matar martillo casero británico isla fuerteventura veredicto jurado popular considerar reo culpable asesinato magistrado presidente tribunal imponer acusar pena año muerte tina_jane_johnson año marido brian_johnson año apreciar ensañamiento muerte audiencia_provincial_de_las_palmas haber condenar acusado pago indemnización hijo fallecer sam_keith_johnson deber mensualidad el crimen ocurrir el_cotillo municipio la_oliva tina_jane_jonhson marido acudir apartamento tener alquilar acusado pagar media hijo yeray_denis cobrar último mensualidad adeudar declarar probar jurado juan_carmelo_santana matar casero marido 1 crimen llamar puerta esconder cadáver casa enterrar paraje inhóspito isla ser hallar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Juan_Carmelo_Santana",
+            "Tina_Jane_Johnson",
+            "Brian_Johnson",
+            "Sam_Keith_Johnson",
+            "El",
+            "Tina_Jane_Jonhson",
+            "Yeray_Denis",
+            "Juan_Carmelo_Santana"
+        ],
+        "locations": [
+            "El_Cotillo",
+            "La_Oliva"
+        ],
+        "organizations": [
+            "Audiencia_Provincial_de_Las_Palmas",
+            "Fuerteventura",
+            "Audiencia_Provincial_de_Las_Palmas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/2006:??.??:??]",
+            "[??:11/7/2006:??.??:??]",
+            "[??:15/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "39",
+            "2",
+            "42",
+            "2",
+            "17",
+            "58",
+            "22",
+            "60",
+            "$_ECU:300",
+            "3",
+            "3",
+            "TM_d:4"
+        ]
+    }
+}

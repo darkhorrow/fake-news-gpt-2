@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/612781/0/",
+    "title": {
+        "raw_text": "La zona de ocio del Carnaval 2010 de Las Palmas de Gran Canaria contará con 57 chiringuitos, 3 más que el año anterior",
+        "lemmatized_text": "el zona de ocio de el carnaval 2010 de las_palmas_de_gran_canaria contar con 57 chiringuito 3 más que el año anterior",
+        "lemmatized_text_reduced": "zona ocio carnaval las_palmas_de_gran_canaria contar chiringuito año anterior",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "57",
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La zona de ocio del Carnaval de Las Palmas de Gran Canaria, ubicada en la trasera de los edificios Elder y Miller, contará en esta edición con un total del 57 chiringuitos, tres más que el año pasado, según informó el Ayuntamiento capitalino en nota de prensa.",
+        "lemmatized_text": "el zona de ocio de el carnaval_de_las_palmas_de_gran_canaria ubicar en el trasero de el edificio elder y miller contar en este edición con uno total de el 57 chiringuito 3 más que el año pasar según informar el ayuntamiento capitalino en nota de prensa",
+        "lemmatized_text_reduced": "zona ocio carnaval_de_las_palmas_de_gran_canaria ubicar trasero edificio elder miller contar edición total chiringuito año pasar informar ayuntamiento capitalino nota prensa",
+        "persons": [
+            "Miller"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Carnaval_de_Las_Palmas_de_Gran_Canaria",
+            "Elder"
+        ],
+        "dates": [],
+        "numbers": [
+            "57",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "De los 57 puestos, 16 serán chiringays (nombre con el que se conoce popularmente a los puestos de ambiente), 15 chiringuitos (que desde hace dos ediciones son conocidos como chiringuays), 21 serán de estudiantes, cuatro de patrocinadores y uno de ellos representa un molino. Además, en la zona de ocio se instalarán 10 autobares y 10 puestos de comida rápida. En la parte más cercana al escenario del Parque Santa Catalina, se ubicará también un mesón y 11 puestos de golosinas, espacios que en ningún caso contarán con música propia. En la trasera del Edificio Elder, se situarán dos atracciones infantiles y dos casetas. La actividad del carnaval se mantendrá hasta las tres de la madrugada de domingo a jueves, tanto en el Parque de Santa Catalina como en la Plaza de Canarias. Los viernes, sábados y el lunes de Carnaval será hasta las 6 de la madrugada. Las instalaciones de casetas y atracciones infantiles permanecerán abiertas desde las 12.00 del mediodía hasta las 24.00 horas, a excepción de los domingos y festivos, días en los que la actividad comenzará a las 10.00 horas.",
+        "lemmatized_text": "de el 57 puesto 16 ser chiringays nombre con el que se conocer popularmente a el puesto de ambiente 15 chiringuito que desde hacer 2 edición ser conocer como chiringuays 21 ser de estudiante 4 de patrocinador y uno de ellos representar uno molino además en_la_zona_de ocio se instalar 10 autobar y 10 puesto de comida rápido en el parte más cercano a el escenario de el parque_santa_catalina se ubicar también uno mesón y 11 puesto de golosina espacio que en ninguno caso contar con música propio en el trasero de el edificio_elder se situar 2 atracción infantil y 2 caseta el actividad de el carnaval se mantener hasta el [G:??/??/??:3.00:am] a [J:??/??/??:??.??:??] tanto en el parque_de_santa_catalina como en el plaza_de_canarias el [V:??/??/??:??.??:??] sábado y el [L:??/??/??:??.??:??] de carnaval ser hasta el [??:??/??/??:6.00:am] el instalación de caseta y atracción infantil permanecer abrir desde el [??:??/??/??:12.00:pm] hasta el TM_h:24 a_excepción_de el domingo y festivo día en el que el actividad comenzar a el TM_h:10",
+        "lemmatized_text_reduced": "puesto ser chiringays nombre conocer popularmente puesto ambiente chiringuito hacer edición ser conocer chiringuays ser estudiante patrocinador representar molino ocio instalar autobar puesto comida rápido parte cercano escenario parque_santa_catalina ubicar mesón puesto golosina espacio caso contar música propio trasero edificio_elder situar atracción infantil caseta actividad carnaval mantener parque_de_santa_catalina plaza_de_canarias sábado carnaval ser instalación caseta atracción infantil permanecer abrir domingo festivo día actividad comenzar",
+        "persons": [],
+        "locations": [
+            "Edificio_Elder",
+            "Parque_de_Santa_Catalina",
+            "Plaza_de_Canarias"
+        ],
+        "organizations": [
+            "Parque_Santa_Catalina"
+        ],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [
+            "[G:??/??/??:3.00:am]",
+            "[J:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[??:??/??/??:6.00:am]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "57",
+            "16",
+            "15",
+            "2",
+            "21",
+            "4",
+            "10",
+            "10",
+            "11",
+            "2",
+            "2",
+            "TM_h:24",
+            "TM_h:10"
+        ]
+    }
+}

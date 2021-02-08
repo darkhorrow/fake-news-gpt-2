@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/690360/0/",
+    "title": {
+        "raw_text": "El juez imputa un delito de cohecho al empresario Eduardo Ferrer en el marco de la 'Operación Jable'",
+        "lemmatized_text": "el juez imputar uno delito de cohecho a el empresario eduardo_ferrer en el marco de el operación_jable",
+        "lemmatized_text_reduced": "juez imputar delito cohecho empresario eduardo_ferrer marco operación_jable",
+        "persons": [
+            "Eduardo_Ferrer",
+            "Operación_Jable"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El juez del Juzgado de Instrucción Número 5 de Arrecife (Lanzarote), César Romero Pamparacuatro, imputó este martes un delito de cohecho al empresario Eduardo Ferrer, de la empresa Tecnosound, en el marco de la 'Operación Jable'.",
+        "lemmatized_text": "el juez de el juzgado_de_instrucción_número 5 de arrecife lanzarote césar_romero_pamparacuatro imputar este [M:??/??/??:??.??:??] uno delito de cohecho a el empresario eduardo_ferrer de el empresa tecnosound en el marco de el operación_jable",
+        "lemmatized_text_reduced": "juez juzgado_de_instrucción_número arrecife lanzarote césar_romero_pamparacuatro imputar delito cohecho empresario eduardo_ferrer empresa tecnosound marco operación_jable",
+        "persons": [
+            "César_Romero_Pamparacuatro",
+            "Eduardo_Ferrer",
+            "Operación_Jable"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Juzgado_de_Instrucción_Número",
+            "Tecnosound"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "Tras tomarle declaración, el juez le dejó en libertad sin fianza y con la obligación de comparecer ante el juzgado los días 1 y 5 de cada mes, según informó el Tribunal Superior de Justicia de Canarias. La 'Operación Jable', sobre cobro de comisiones ilegales a empresarios de Lanzarote para conseguir la adjudicación de contratos para las obras y servicios que se realizaban en la isla, comenzó el lunes, 19 de abril, y la está desarrollando la Unidad Central Operativa de la Guardia Civil, permitiendo \"poner al descubierto un complejo e importante entramado\" de corrupción, asentado en \"varias\" instituciones de la isla de Lanzarote, según informó la Benemérita. En dicha Operación, este martes han continuado las detenciones y ya alcanzan hasta los 24 arrestados, entre los que se encuentran desde consejeros actuales del Cabildo de Lanzarote, como María José Docal, hasta empresarios. Las detenciones se han realizado tanto en Lanzarote, como en Gran Canaria, Madrid y Almería. Además, en el marco de la 'Operación Jable' también se encuentra implicado otro andaluz, el directivo del grupo Hoteles Playas, Gonzalo Gil Acosta. Tanto Rosell como Gil Acosta están siendo representados por el bufete de abogados Garrigues.",
+        "lemmatized_text": "tras tomar le declaración el juez le dejar en libertad sin fianza y con el obligación de comparecer ante el juzgado el día 1 y 5 de cada mes según informar el tribunal_superior_de_justicia_de_canarias el operación_jable sobre cobro de comisión ilegal a empresario de lanzarote para conseguir el adjudicación de contrato para el obra y servicio que se realizar en el isla comenzar el [L:19/4/??:??.??:??] y lo estar desarrollar el unidad_central_operativa_de_la_guardia_civil permitir poner a el descubrir uno complejo y importante entramado de corrupción asentar en varios institución de el isla de lanzarote según informar el benemérita en decir operación este [M:??/??/??:??.??:??] haber continuar el detención y ya alcanzar hasta el 24 arrestar entre el que se encontrar desde consejero actual de el cabildo_de_lanzarote como maría_josé_docal hasta empresario el detención se haber realizar tanto en lanzarote como en gran_canaria madrid y almería además en el marco de el operación_jable también se encontrar implicar otro andaluz el directivo de el grupo hoteles_playas gonzalo_gil_acosta tanto rosell como gil_acosta estar ser representar por el bufete de abogado garrigues",
+        "lemmatized_text_reduced": "tomar declaración juez dejar libertad fianza obligación comparecer juzgado día mes informar tribunal_superior_de_justicia_de_canarias operación_jable cobro comisión ilegal empresario lanzarote conseguir adjudicación contrato obra servicio realizar isla comenzar estar desarrollar unidad_central_operativa_de_la_guardia_civil permitir poner descubrir complejo importante entramado corrupción asentar institución isla lanzarote informar benemérita decir operación haber continuar detención alcanzar arrestar encontrar consejero actual cabildo_de_lanzarote maría_josé_docal empresario detención haber realizar lanzarote gran_canaria madrid almería marco operación_jable encontrar implicar andaluz directivo grupo hoteles_playas gonzalo_gil_acosta rosell gil_acosta estar ser representar bufete abogado garrigues",
+        "persons": [
+            "Operación_Jable",
+            "María_José_Docal",
+            "Operación_Jable",
+            "Gonzalo_Gil_Acosta",
+            "Rosell",
+            "Gil_Acosta"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Lanzarote",
+            "Lanzarote",
+            "Gran_Canaria",
+            "Madrid",
+            "Almería"
+        ],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "Unidad_Central_Operativa_de_la_Guardia_Civil",
+            "Benemérita",
+            "Cabildo_de_Lanzarote",
+            "Hoteles_Playas"
+        ],
+        "others": [
+            "Operación",
+            "Garrigues"
+        ],
+        "dates": [
+            "[L:19/4/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "1",
+            "5",
+            "24"
+        ]
+    }
+}

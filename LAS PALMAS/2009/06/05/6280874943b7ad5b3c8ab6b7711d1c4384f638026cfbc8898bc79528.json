@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/472525/0/evacuacion/edificio/explosion/",
+    "title": {
+        "raw_text": "Una \"pequeña\" explosión en Las Palmas obliga a evacuar un edificio",
+        "lemmatized_text": "uno pequeño explosión en las_palmas obligar a evacuar uno edificio",
+        "lemmatized_text_reduced": "pequeño explosión las_palmas obligar evacuar edificio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Cuatro personas fueron atendidas por crisis de ansiedad. Varios vehículos fueron incendiados en la noche del jueves. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "4 persona ser atender por crisis de ansiedad varios vehículo ser incendiar en el noche de el [J:??/??/??:??.??:??] consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "persona ser atender crisis ansiedad vehículo ser incendiar noche consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Una \"pequeña\" explosión registrada en la noche del jueves en una vivienda de un edificio de dos alturas en la Calle Manuel González Martín en Las Palmas de Gran Canaria obligó a evacuar el inmueble y cuatro personas tuvieron que ser atendidas por crisis de ansiedad de carácter leve, informaron fuentes del Centro Coordinador de Emergencias (Cecoes)112. Los hechos ocurrieron a las 23.40 horas, cuando se recibió una llamada en el Cecoes del fuego originado en dicho domicilio tras la explosión, por lo que el 112 activó el dispositivo de emergencias . Así, bomberos del Ayuntamiento sofocaron el \"pequeño\" conato de incendio , mientras que agentes de la Policía Local y Policía Nacional se encargaron de evacuar \"rápidamente\" el edificio. Igualmente, personal del Servicio de Urgencias Canario atendió en el lugar a cuatro personas por crisis de ansiedad de carácter leve. Finalmente, tras ser extinguido el fuego, los vecinos pudieron volver a sus viviendas. Por otra parte, sobre las 00.25 h se registró un incendio en un vehículo, en el que una persona resultó herida leve , y en una moto en la Calle Diego Betancor Suárez. Además, a las 00.40 h fue incendiado otro coche en la Calle Barbuzano. A las 01.27 h ardió también un vehículo en el pueblo de Ayacata sin causar heridos.",
+        "lemmatized_text": "uno pequeño explosión registrar en el noche de el [J:??/??/??:??.??:??] en uno vivienda de uno edificio de 2 altura en el calle_manuel_gonzález_martín en las_palmas_de_gran_canaria obligar a evacuar el inmueble y 4 persona tener que ser atender por crisis de ansiedad de carácter leve informar fuente de el centro_coordinador_de_emergencias cecoes 112 el hecho ocurrir a el TM_h:23.4 cuando se recibir uno llamada en el cecoes de el fuego originar en decir domicilio tras el explosión por el que el 112 activar el dispositivo de emergencia así bombero de el ayuntamiento sofocar el pequeño conato de incendio mientras_que agente de el policía_local y policía_nacional se encargar de evacuar rápidamente el edificio igualmente personal de el servicio_de_urgencias_canario atender en el lugar a 4 persona por crisis de ansiedad de carácter leve finalmente tras ser extinguir el fuego el vecino poder volver a su vivienda por otro parte sobre el TM_h:0.25 se registrar uno incendio en uno vehículo en el que uno persona resultar herida leve y en uno moto en el calle_diego_betancor_suárez además a el TM_h:0.4 ser incendiar otro coche en el calle_barbuzano a el TM_h:1.27 arder también uno vehículo en el pueblo de ayacata sin causar herido",
+        "lemmatized_text_reduced": "pequeño explosión registrar noche vivienda edificio altura calle_manuel_gonzález_martín las_palmas_de_gran_canaria obligar evacuar inmueble persona tener ser atender crisis ansiedad carácter leve informar fuente centro_coordinador_de_emergencias cecoes hecho ocurrir recibir llamada cecoes fuego originar decir domicilio explosión activar dispositivo emergencia bombero ayuntamiento sofocar pequeño conato incendio agente policía_local policía_nacional encargar evacuar rápidamente edificio igualmente personal servicio_de_urgencias_canario atender lugar persona crisis ansiedad carácter leve finalmente ser extinguir fuego vecino poder volver vivienda parte registrar incendio vehículo persona resultar herida leve moto calle_diego_betancor_suárez ser incendiar coche calle_barbuzano arder vehículo pueblo ayacata causar herido",
+        "persons": [],
+        "locations": [
+            "Calle_Manuel_González_Martín",
+            "Las_Palmas_de_Gran_Canaria",
+            "Cecoes",
+            "Calle_Diego_Betancor_Suárez",
+            "Calle_Barbuzano",
+            "Ayacata"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Ayuntamiento",
+            "Policía_Local",
+            "Policía_Nacional",
+            "Servicio_de_Urgencias_Canario"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "4",
+            "112",
+            "TM_h:23.4",
+            "112",
+            "4",
+            "TM_h:0.25",
+            "TM_h:0.4",
+            "TM_h:1.27"
+        ]
+    }
+}

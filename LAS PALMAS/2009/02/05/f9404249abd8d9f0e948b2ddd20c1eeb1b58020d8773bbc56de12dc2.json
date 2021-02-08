@@ -1,0 +1,102 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-02-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/448264/0/entradas/galas/laspalmas/",
+    "title": {
+        "raw_text": "Salen a la venta las entradas para las galas y preselección de Drag Queen en Las Palmas",
+        "lemmatized_text": "salir a el venta el entrada para el gala y preselección de drag_queen en las_palmas",
+        "lemmatized_text_reduced": "salir venta entrada gala preselección drag_queen las_palmas",
+        "persons": [
+            "Drag_Queen"
+        ],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las entradas para las galas salen mañana a la venta por diez euros, las de la preselección Drag Queen costarán uno. Nueve puntos de venta ofrecen un mayor acceso a la compra. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el entrada para el gala salir mañana a el venta por $_ECU:10 el de el preselección drag_queen costar uno 9 punto de venta ofrecer uno mayor acceso a el compra consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "entrada gala salir venta preselección drag_queen costar punto venta ofrecer mayor acceso compra consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Drag_Queen",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:10",
+            "9"
+        ]
+    },
+    "body": {
+        "raw_text": "Las entradas para asistir a la gala de la Reina del Carnaval de 'Los piratas' (13 de febrero), a la preselección Drag Queen (18 de febrero) y a la gala Drag Queen (23 de febrero) se pondrán a la venta mañana, a partir de las 10.00 horas . Las entradas podrán adquirirse en las sedes de los cinco distritos capitalinos (de lunes a viernes, de 10 a 14 horas), en el servicio telefónico de La Caja de Canarias (902 405 504), la página www.lacajadecanarias.es, los cajeros de venta de la red de La Caja de Canarias y en la taquilla ubicada junto al punto de información turística del Parque de Santa Catalina (de lunes a viernes, de 10 a 14 y de 16.30 a 20 horas; sábados, de 10 a 14 horas), según informa la Sociedad de Promoción de la capital grancanaria en un comunicado. Las entradas para las galas, que por primera vez están numeradas, tienen un precio único de 10 euros , mientras que las de la preselección Drag Queen tienen un precio simbólico de un euro. Sólo se podrán adquirir un máximo de cuatro entradas por persona. Los puntos de venta en los distritos son los siguientes: Vegueta, Cono Sur y Tafira (Alcalde Díaz Saavedra, 2), Centro (Alfonso XIII, 2, segundo), Puerto-Canteras (Tenerife, 17), Ciudad Alta (Agustina de Aragón, 215) y Tamaraceite-San Lorenzo (Doctor Juan Medina Nebot, 5, segundo). CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el entrada para asistir a el gala de el reina_del_carnaval de el pirata [??:13/2/??:??.??:??] a el preselección drag_queen [??:18/2/??:??.??:??] y a el gala drag_queen [??:23/2/??:??.??:??] se poner a el venta mañana a_partir_de el TM_h:10 el entrada poder adquirir se en el sede de el 5 distrito capitalino de [L:??/??/??:??.??:??] a [V:??/??/??:??.??:??] de 10 a TM_h:14 en el servicio telefónico de la_caja_de_canarias 902 405 504 el página www.lacajadecanarias.es el cajero de venta de el red de la_caja_de_canarias y en el taquilla ubicar junto a el punto de información turístico de el parque_de_santa_catalina de [L:??/??/??:??.??:??] a [V:??/??/??:??.??:??] de 10 a 14 y de 16.3 a TM_h:20 sábado de 10 a TM_h:14 según informar el sociedad_de_promoción de el capital grancanaria en uno comunicado el entrada para el gala que por 1 vez estar numerar tener uno precio único de $_ECU:10 mientras_que el de el preselección drag_queen tener uno precio simbólico de uno euro sólo se poder adquirir uno máximo de 4 entrada por persona el punto de venta en el distrito ser el siguiente vegueta cono_sur y tafira alcalde_díaz_saavedra 2 centro alfonso_xiii 2 2 puerto-canteras tenerife 17 ciudad_alta agustina_de_aragón 215 y tamaraceite-san_lorenzo doctor_juan_medina_nebot 5 2 consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "entrada asistir gala reina_del_carnaval pirata preselección drag_queen gala drag_queen poner venta entrada poder adquirir sede distrito capitalino servicio telefónico la_caja_de_canarias página www.lacajadecanarias.es cajero venta red la_caja_de_canarias taquilla ubicar junto punto información turístico parque_de_santa_catalina sábado informar sociedad_de_promoción capital grancanaria comunicado entrada gala 1 vez estar numerar tener precio único preselección drag_queen tener precio simbólico euro poder adquirir máximo entrada persona punto venta distrito ser siguiente vegueta cono_sur tafira alcalde_díaz_saavedra centro alfonso_xiii 2 puerto-canteras tenerife ciudad_alta agustina_de_aragón tamaraceite-san_lorenzo doctor_juan_medina_nebot 2 consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Drag_Queen",
+            "Drag_Queen",
+            "Drag_Queen",
+            "Vegueta",
+            "Cono_Sur",
+            "Tafira",
+            "Alfonso_XIII",
+            "Puerto-Canteras",
+            "Ciudad_Alta",
+            "Tamaraceite-San_Lorenzo",
+            "Doctor_Juan_Medina_Nebot"
+        ],
+        "locations": [
+            "Parque_de_Santa_Catalina"
+        ],
+        "organizations": [
+            "La_Caja_de_Canarias",
+            "La_Caja_de_Canarias",
+            "Sociedad_de_Promoción",
+            "Alcalde_Díaz_Saavedra",
+            "Centro",
+            "Tenerife",
+            "Agustina_de_Aragón",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Reina_del_Carnaval"
+        ],
+        "dates": [
+            "[??:13/2/??:??.??:??]",
+            "[??:18/2/??:??.??:??]",
+            "[??:23/2/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:10",
+            "5",
+            "10",
+            "TM_h:14",
+            "902",
+            "405",
+            "504",
+            "10",
+            "14",
+            "16.3",
+            "TM_h:20",
+            "10",
+            "TM_h:14",
+            "$_ECU:10",
+            "4",
+            "2",
+            "2",
+            "17",
+            "215",
+            "5"
+        ]
+    }
+}

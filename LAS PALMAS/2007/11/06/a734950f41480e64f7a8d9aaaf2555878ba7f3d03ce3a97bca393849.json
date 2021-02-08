@@ -1,0 +1,52 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/301734/0/buscan/ocupantes/patera/",
+    "title": {
+        "raw_text": "Buscan a los ocupantes de una patera que un vecino halló vacía en una playa de Telde",
+        "lemmatized_text": "buscar a el ocupante de uno patera que uno vecino hallar vacío en uno playa de telde",
+        "lemmatized_text_reduced": "buscar ocupante patera vecino hallar vacío playa telde",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Telde"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "En el interior sólo encontraron ropas mojadas. Se ha desplegado un dispositivo de búsqueda. CONSULTA MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "en el interior sólo encontrar ropa mojar se haber desplegar uno dispositivo de búsqueda consulta_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "interior encontrar ropa mojar haber desplegar dispositivo búsqueda consulta_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Efectivos de la Policía Nacional rastrean los alrededores de la playa de Bocabarranco , en el municipio grancanario de Telde, en busca de los ocupantes que viajaban en una patera que un vecino de la zona halló esta mañana vacía en la orilla. El hallazgo de la embarcación, de unos cinco metros de eslora y en cuyo interior sólo se encontraron ropas mojadas , se produjo sobre las 08.00 horas, informó un portavoz de la Jefatura Superior de Policía de Canarias. Hasta el lugar se personaron efectivos policiales, que constataron que los inmigrantes que viajaban en la barquilla pudieron huir sin ser vistos tras desembarcar en la playa del citado municipio, que linda con la capital de la isla. Por este motivo, en el lugar se ha desplegado un dispositivo de búsqueda que no ha dado resultados hasta el momento, ya que no se han producido detenciones, agregó el portavoz policial. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "efectivos_de_la_policía_nacional rastrear el alrededor de el playa de bocabarranco en el municipio grancanario de telde en_busca_de el ocupante que viajar en uno patera que uno vecino de el zona hallar este mañana vacío en el orilla el hallazgo de el embarcación de uno LN_m:5 de eslora y en cuyo interior sólo se encontrar ropa mojar se producir sobre el TM_h:8 informar uno portavoz de el jefatura_superior_de_policía_de_canarias hasta el lugar se personar efectivo policial que constatar que el inmigrante que viajar en el barquilla poder huir sin ser ver tras desembarcar en el playa de el citar municipio que lindar con el capital de el isla por este motivo en el lugar se haber desplegar uno dispositivo de búsqueda que no haber dar resultado hasta el momento ya_que no se haber producir detención agregar el portavoz policial consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "efectivos_de_la_policía_nacional rastrear alrededor playa bocabarranco municipio grancanario telde ocupante viajar patera vecino zona hallar mañana vacío orilla hallazgo embarcación eslora interior encontrar ropa mojar producir informar portavoz jefatura_superior_de_policía_de_canarias lugar personar efectivo policial constatar inmigrante viajar barquilla poder huir ser ver desembarcar playa citar municipio lindar capital isla motivo lugar haber desplegar dispositivo búsqueda haber dar resultado momento haber producir detención agregar portavoz policial consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Bocabarranco",
+            "Telde"
+        ],
+        "organizations": [
+            "Efectivos_de_la_Policía_Nacional",
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:5",
+            "TM_h:8"
+        ]
+    }
+}

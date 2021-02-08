@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/722343/0/",
+    "title": {
+        "raw_text": "El Cabildo de Fuerteventura destinará 677.000 euros al acceso del Parque Tecnológico de Los Estancos",
+        "lemmatized_text": "el cabildo_de_fuerteventura destinar $_ECU:677 a el acceso de el parque_tecnológico_de_los_estancos",
+        "lemmatized_text_reduced": "cabildo_de_fuerteventura destinar acceso parque_tecnológico_de_los_estancos",
+        "persons": [],
+        "locations": [
+            "Parque_Tecnológico_de_Los_Estancos"
+        ],
+        "organizations": [
+            "Cabildo_de_Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:677"
+        ]
+    },
+    "lead": {
+        "raw_text": "El pleno del Cabildo de Fuerteventura aprobó esta semana por unanimidad el proyecto de la glorieta de acceso al Parque Tecnológico de Los Estancos, para lo que contará con un presupuesto de 677.000 euros.",
+        "lemmatized_text": "el pleno de el cabildo_de_fuerteventura aprobar este semana por unanimidad el proyecto de el glorieta de acceso a el parque_tecnológico_de_los_estancos para el que contar con uno presupuesto de $_ECU:677",
+        "lemmatized_text_reduced": "pleno cabildo_de_fuerteventura aprobar semana unanimidad proyecto glorieta acceso parque_tecnológico_de_los_estancos contar presupuesto",
+        "persons": [],
+        "locations": [
+            "Parque_Tecnológico_de_Los_Estancos"
+        ],
+        "organizations": [
+            "Cabildo_de_Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:677"
+        ]
+    },
+    "body": {
+        "raw_text": "Además, la Comisión de Ordenación del Territorio (Cotmac) ya aprobó en abril la modificación puntual para que se pudiera tramitar la obra del futuro Parque Tecnológico de Fuerteventura, ubicado en Los Estancos, según informó el Cabildo insular en nota de prensa. Asimismo, para el desarrollo del citado Parque, y tras el acuerdo del Plan Canarias, \"se podrá acceder a un crédito de 50 millones de euros\". De todos modos, el gobierno insular está ultimando la nueva red eléctrica que abastecerá las instalaciones, incluyendo el Centro Coordinador de Emergencias para lo que dispone de una inversión de unos 100.000 euros y las obras las está ejecutando la empresa Cobra. En lo que respecta al Parque Tecnológico se desarrollará sobre una superficie aproximada de 800.000 metros cuadrados, que lo convertirán en el \"mayor de Canarias\" y el objetivo es que se convierta en un polo de atracción para empresas y actividades de I+D, proporcionando un desarrollo económico específico.",
+        "lemmatized_text": "además el comisión_de_ordenación_del_territorio cotmac ya aprobar en [??:??/4/??:??.??:??] el modificación puntual para que se poder tramitar el obra de el futuro parque_tecnológico_de_fuerteventura ubicar en los_estancos según informar el cabildo insular en nota de prensa asimismo para el desarrollo de el citar parque y tras el acuerdo de el plan_canarias se poder acceder a uno crédito de $_ECU:50000000 de_todos_modos el gobierno insular estar ultimar el nuevo red eléctrico que abastecer el instalación incluir el centro_coordinador_de_emergencias para el que disponer de uno inversión de uno $_ECU:100 y el obra lo estar ejecutar el empresa cobra en el que respectar a el parque_tecnológico se desarrollar sobre uno superficie aproximar de AR_m2:800 que lo convertir en el mayor de canarias y el objetivo ser que se convertir en uno polo de atracción para empresa y actividad de i+d proporcionar uno desarrollo económico específico",
+        "lemmatized_text_reduced": "comisión_de_ordenación_del_territorio cotmac aprobar modificación puntual poder tramitar obra futuro parque_tecnológico_de_fuerteventura ubicar los_estancos informar cabildo insular nota prensa desarrollo citar parque acuerdo plan_canarias poder acceder crédito gobierno insular estar ultimar nuevo red eléctrico abastecer instalación incluir centro_coordinador_de_emergencias disponer inversión obra estar ejecutar empresa cobra respectar parque_tecnológico desarrollar superficie aproximar convertir mayor canarias objetivo ser convertir polo atracción empresa actividad i+d proporcionar desarrollo económico específico",
+        "persons": [],
+        "locations": [
+            "Los_Estancos",
+            "Parque_Tecnológico",
+            "Canarias"
+        ],
+        "organizations": [
+            "Comisión_de_Ordenación_del_Territorio",
+            "Cotmac",
+            "Cabildo",
+            "Parque",
+            "Centro_Coordinador_de_Emergencias",
+            "Cobra"
+        ],
+        "others": [
+            "Parque_Tecnológico_de_Fuerteventura",
+            "Plan_Canarias",
+            "I+D"
+        ],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:50000000",
+            "$_ECU:100",
+            "AR_m2:800"
+        ]
+    }
+}

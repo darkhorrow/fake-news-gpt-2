@@ -1,0 +1,90 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/943665/0/",
+    "title": {
+        "raw_text": "Rivero inicia esta sábado una visita a Venezuela para reunirse con militantes de CC en Caracas y Valencia",
+        "lemmatized_text": "rivero iniciar este [S:??/??/??:??.??:??] uno visita a venezuela para reunir se con militante de cc en caracas y valencia",
+        "lemmatized_text_reduced": "rivero iniciar visita venezuela reunir militante cc caracas valencia",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Venezuela",
+            "Caracas",
+            "Valencia"
+        ],
+        "organizations": [
+            "CC"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El candidato de Coalición Canaria (CC) a la Presidencia del Gobierno de Canarias, Paulino Rivero, iniciará este sábado, 29 de enero, una visita de dos días a Venezuela en la que mantendrá distintas reuniones con los militantes de CC.",
+        "lemmatized_text": "el candidato de coalición_canaria cc a el presidencia_del_gobierno_de_canarias paulino_rivero iniciar este [S:29/1/??:??.??:??] uno visita de 2 día a venezuela en el que mantener distinto reunión con el militante de cc",
+        "lemmatized_text_reduced": "candidato coalición_canaria cc presidencia_del_gobierno_de_canarias paulino_rivero iniciar visita día venezuela mantener reunión militante cc",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Venezuela"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Presidencia_del_Gobierno_de_Canarias",
+            "CC"
+        ],
+        "others": [],
+        "dates": [
+            "[S:29/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El candidato de Coalición Canaria (CC) a la Presidencia del Gobierno de Canarias, Paulino Rivero, iniciará este sábado, 29 de enero, una visita de dos días a Venezuela en la que mantendrá distintas reuniones con los militantes de CC. De esta manera, la visita de Rivero obedece a una petición planteada por la organización nacionalista de Venezuela para plantearle distintas cuestiones que afectan a la comunidad de emigrantes canarios que residen en dicho país, informó la formación nacionalista en un comunicado. Rivero se reunirá hoy, en Caracas, con la Ejecutiva de Coalición Canaria de Venezuela, y mañana domingo celebrará, en Valencia, un acto con los afiliados de CC de los Estados de Aragua, Yaracuy, Cojedes, Lara y Vargas. Finalmente, estas reuniones se enmarcan en la ronda de contactos que el candidato de CC mantiene con los afiliados de todas las islas y de Venezuela de cara a las elecciones del próximo mes de mayo.",
+        "lemmatized_text": "el candidato de coalición_canaria cc a el presidencia_del_gobierno_de_canarias paulino_rivero iniciar este [S:29/1/??:??.??:??] uno visita de 2 día a venezuela en el que mantener distinto reunión con el militante de cc de este manera el visita de rivero obedecer a uno petición plantear por el organización nacionalista de venezuela para plantear le distinto cuestión que afectar a el comunidad de emigrante canario que residir en decir país informar el formación nacionalista en uno comunicado rivero se reunir hoy en caracas con el ejecutiva_de_coalición_canaria_de_venezuela y mañana [G:??/??/??:??.??:??] celebrar en valencia uno acto con el afiliado de cc_de_los_estados_de_aragua yaracuy cojedes lara y vargas finalmente este reunión se enmarcar en el ronda de contacto que el candidato de cc mantener con el afiliado de todo el isla y de venezuela de_cara_a el elección de el [??:??/5/??:??.??:??]",
+        "lemmatized_text_reduced": "candidato coalición_canaria cc presidencia_del_gobierno_de_canarias paulino_rivero iniciar visita día venezuela mantener reunión militante cc manera visita rivero obedecer petición plantear organización nacionalista venezuela plantear cuestión afectar comunidad emigrante canario residir decir país informar formación nacionalista comunicado rivero reunir caracas ejecutiva_de_coalición_canaria_de_venezuela celebrar valencia acto afiliado cc_de_los_estados_de_aragua yaracuy cojedes lara vargas finalmente reunión enmarcar ronda contacto candidato cc mantener afiliado isla venezuela elección",
+        "persons": [
+            "Paulino_Rivero",
+            "Rivero",
+            "Rivero",
+            "Yaracuy",
+            "Vargas"
+        ],
+        "locations": [
+            "Venezuela",
+            "Venezuela",
+            "Caracas",
+            "Valencia",
+            "Lara",
+            "Venezuela"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Presidencia_del_Gobierno_de_Canarias",
+            "CC",
+            "Ejecutiva_de_Coalición_Canaria_de_Venezuela",
+            "Cojedes",
+            "CC"
+        ],
+        "others": [
+            "CC_de_los_Estados_de_Aragua"
+        ],
+        "dates": [
+            "[S:29/1/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/687009/0/",
+    "title": {
+        "raw_text": "La madre de un militar grancanario fallecido en Afganistán jura bandera en homenaje a su hijo",
+        "lemmatized_text": "el madre de uno militar grancanario fallecer en afganistán jurar bandera en homenaje a su hijo",
+        "lemmatized_text_reduced": "madre militar grancanario fallecer afganistán jurar bandera homenaje hijo",
+        "persons": [],
+        "locations": [
+            "Afganistán"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Concepción Santana, la madre del soldado Cristo Ancor Cabello Santana, fallecido el pasado 7 de octubre de 2009 tras sufrir un atentado en Afganistán, jurará bandera mañana (11.30 horas) en el Regimiento de Infantería Ligera Canarias número 50 en La Isleta, en Las Palmas de Gran Canaria en homenaje a su hijo.",
+        "lemmatized_text": "concepción_santana el madre de el soldado cristo_ancor_cabello_santana fallecer el [??:7/10/2009:??.??:??] tras sufrir uno atentado en afganistán jurar bandera mañana TM_h:11.3 en el regimiento_de_infantería_ligera_canarias número 50 en la_isleta en las_palmas_de_gran_canaria en homenaje a su hijo",
+        "lemmatized_text_reduced": "concepción_santana madre soldado cristo_ancor_cabello_santana fallecer sufrir atentado afganistán jurar bandera regimiento_de_infantería_ligera_canarias número la_isleta las_palmas_de_gran_canaria homenaje hijo",
+        "persons": [
+            "Concepción_Santana",
+            "Cristo_Ancor_Cabello_Santana"
+        ],
+        "locations": [
+            "Afganistán",
+            "Regimiento_de_Infantería_Ligera_Canarias",
+            "La_Isleta",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:7/10/2009:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11.3",
+            "50"
+        ]
+    },
+    "body": {
+        "raw_text": "En el solemne acto de Juramento o Promesa a la Bandera por parte de personal civil participarán cerca de 280 personas, entre los 18 y los 85 años de edad, según informaron a Europa Press fuentes militares, que indicaron que coincide con el 437 aniversario de la creación del Regimiento. El evento, \"que suele ser muy emotivo\", tendrá lugar en el Acuartelamiento General Alemán Ramírez, y en él participarán sobre todo madres y parejas de solados. Las mismas fuentes explicaron que la madre del militar fallecido trasladó a los mandos militares su deseo de jurar bandera en honor a su hijo, iniciativa que ellos apoyaron y decidieron emprender el proyecto. El cabo Cristo Ancor Cabello Santana, natural de la capital grancanaria y perteneciente al Regimiento de Infantería Ligera Soria 9, falleció después de que su vehículo pisara un artefacto explosivo en las proximidades de Herat (Afganistán) el 7 de octubre de 2009.",
+        "lemmatized_text": "en el solemne acto de juramento o promesa a el bandera por parte de personal civil participar cerca de 280 persona entre el 18 y el 85 año de edad según informar a europa_press fuente militar que indicar que coincidir con el 437 aniversario de el creación de el regimiento el evento que soler ser muy emotivo tener_lugar en el acuartelamiento_general_alemán_ramírez y en él participar sobre todo madre y pareja de solado el mismo fuente explicar que el madre de el militar fallecer trasladar a el mando militar su deseo de jurar bandera en honor a su hijo iniciativa que ellos apoyar y decidir emprender el proyecto el cabo cristo_ancor_cabello_santana natural de el capital grancanaria y perteneciente a el regimiento_de_infantería_ligera_soria 9 fallecer después_de que su vehículo pisar uno artefacto explosivo en_las_proximidades_de herat afganistán el [??:7/10/2009:??.??:??]",
+        "lemmatized_text_reduced": "solemne acto juramento promesa bandera parte personal civil participar persona año edad informar europa_press fuente militar indicar coincidir aniversario creación regimiento evento soler ser emotivo tener_lugar acuartelamiento_general_alemán_ramírez participar madre pareja solado mismo fuente explicar madre militar fallecer trasladar mando militar deseo jurar bandera honor hijo iniciativa apoyar decidir emprender proyecto cabo cristo_ancor_cabello_santana natural capital grancanaria perteneciente regimiento_de_infantería_ligera_soria fallecer vehículo pisar artefacto explosivo herat afganistán",
+        "persons": [
+            "Juramento",
+            "Europa_Press",
+            "Cristo_Ancor_Cabello_Santana"
+        ],
+        "locations": [
+            "Acuartelamiento_General_Alemán_Ramírez",
+            "Herat",
+            "Afganistán"
+        ],
+        "organizations": [
+            "Promesa",
+            "Bandera"
+        ],
+        "others": [
+            "Regimiento",
+            "Regimiento_de_Infantería_Ligera_Soria"
+        ],
+        "dates": [
+            "[??:7/10/2009:??.??:??]"
+        ],
+        "numbers": [
+            "280",
+            "18",
+            "85",
+            "437",
+            "9"
+        ]
+    }
+}

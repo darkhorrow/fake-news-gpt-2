@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/648952/0/",
+    "title": {
+        "raw_text": "Una colisión entre tres vehículos en Gran Canaria provoca importantes retenciones y se salda sin heridos",
+        "lemmatized_text": "uno colisión entre 3 vehículo en gran_canaria provocar importante retención y se saldar sin herido",
+        "lemmatized_text_reduced": "colisión vehículo gran_canaria provocar importante retención saldar herido",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una colisión entre tres vehículos en la carretera GC-1, en el sureste de Gran Canaria, en dirección a la capital, ha provocado hoy importantes retenciones, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes), que precisaron que el accidente se ha saldado sin heridos.",
+        "lemmatized_text": "uno colisión entre 3 vehículo en el carretera GC-1 en el sureste de gran_canaria en_dirección_a el capital haber provocar hoy importante retención según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes que precisar que el accidente se haber saldar sin herido",
+        "lemmatized_text_reduced": "colisión vehículo carretera sureste gran_canaria capital haber provocar importante retención informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes precisar accidente haber saldar herido",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "GC-1"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron sobre las ocho de la mañana, cuando varias llamadas alertaron al Cecoes del choque en el que se vieron implicados tres coches a la altura de Marzagán, en el municipio de Telde, por lo que el 112 activó de inmediato los recursos de emergencias necesarios. En esta actuación, intervino la Guardia Civil, que se encargó de instruir las diligencias correspondientes. Por otro lado, durante la mañana se produjo también otro accidente de tráfico debido a la colisión entre dos vehículos en la carretera GC-300, a su paso por el municipio grancanario de Firgas. Este incidente aconteció a las 08.45 horas, cuando un alertante accidental avisó al Cecoes del impacto en la citada vía. De este modo, hasta el lugar se ha desplazado una ambulancia de soporte vital básico con personal del Servicio de Urgencias Canario a fin de atender a un único afectado del que se desconoce su estado, añadieron las mismas fuentes.",
+        "lemmatized_text": "el hecho ocurrir sobre el [??:??/??/??:8.00:am] cuando varios llamada alertar a el cecoes de el choque en el que se ver implicar 3 coche a el altura de marzagán en el municipio de telde por el que el 112 activar de inmediato el recurso de emergencia necesario en este actuación intervenir el guardia_civil que se encargar de instruir el diligencia correspondiente por_otro_lado durante el mañana se producir también otro accidente de tráfico debido_a el colisión entre 2 vehículo en el carretera GC-300 a su paso por el municipio grancanario de firgas este incidente acontecer a el TM_h:8.45 cuando uno alertante accidental avisar a el cecoes de el impacto en el citar vía de este modo hasta el lugar se haber desplazar uno ambulancia de soporte vital básico con personal de el servicio_de_urgencias_canario a_fin_de atender a uno único afectar de el que se desconocer su estado añadir el mismo fuente",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes choque ver implicar coche altura marzagán municipio telde activar inmediato recurso emergencia necesario actuación intervenir guardia_civil encargar instruir diligencia correspondiente mañana producir accidente tráfico colisión vehículo carretera paso municipio grancanario firgas incidente acontecer alertante accidental avisar cecoes impacto citar vía modo lugar haber desplazar ambulancia soporte vital básico personal servicio_de_urgencias_canario atender único afectar desconocer estado añadir mismo fuente",
+        "persons": [],
+        "locations": [
+            "Marzagán",
+            "Telde",
+            "Firgas"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Guardia_Civil",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:8.00:am]"
+        ],
+        "numbers": [
+            "3",
+            "112",
+            "2",
+            "GC-300",
+            "TM_h:8.45"
+        ]
+    }
+}

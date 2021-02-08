@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/408918/0/muertos/cayuco/canarias/",
+    "title": {
+        "raw_text": "Al menos catorce inmigrantes muertos cuando intentaban llegar a Gran Canaria",
+        "lemmatized_text": "a el menos 14 inmigrante morir cuando intentar llegar a gran_canaria",
+        "lemmatized_text_reduced": "inmigrante morir intentar llegar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "14"
+        ]
+    },
+    "lead": {
+        "raw_text": "Otras 46 personas han logrado sobrevivir. Trece han llegado muertos en la embarcación. Otro ha sido hallado en alta mar. Los 'sin papeles' han fallecido por hipotermia. Más vídeos de España en 20minutos.tv",
+        "lemmatized_text": "otro 46 persona haber lograr sobrevivir 13 haber llegar muerto en el embarcación otro haber ser hallar en alto marzo los sin papel haber fallecer por hipotermia más vídeo de españa en 20minutos.tv",
+        "lemmatized_text_reduced": "persona haber lograr sobrevivir haber llegar muerto embarcación haber ser hallar alto marzo los papel haber fallecer hipotermia vídeo españa",
+        "persons": [
+            "España"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Los"
+        ],
+        "dates": [],
+        "numbers": [
+            "46",
+            "13",
+            "20minutos.tv"
+        ]
+    },
+    "body": {
+        "raw_text": "La tragedia se repite entre los inmigrantes que intentan llegar a las costas españolas de manera ilegal. La Guardia Civil ha interceptado en aguas próximas a Canarias un cayuco con al menos trece personas muertas en su interior. En la embarcación viajaban otros 46 inmigrantes que han logrado sobrevivir. Los agentes han remolcado la embarcación hasta el Puerto de Arguineguín , en el municipio de Mogán, al sur de Gran Canaria. Posteriormente, otra persona ha sido hallada muerta en alta mar. Al parecer, los 'sin papeles' llevaban varios días en alta mar . Un responsable de Cruz Roja ha relatado que los inmigrantes llevaban \"entre ocho y doce días de navegación\", a la deriva, y que se habían perdido. Habrían muerto a causa de una hipotermia severa debido a la dura travesía. Los fallecidos yacían flotando en el fondo del cayuco , que estaba medio hundido. La embarcación fue avistada por la Benemérita y Salvamento Marítimo cerca de la costa en torno a las 08.30 horas .",
+        "lemmatized_text": "el tragedia se repetir entre el inmigrante que intentar llegar a el costa español de manera ilegal el guardia_civil haber interceptar en agua próximo a canarias uno cayuco con a el menos 13 persona morir en su interior en el embarcación viajar otro 46 inmigrante que haber lograr sobrevivir el agente haber remolcar el embarcación hasta el puerto_de_arguineguín en el municipio de mogán a el sur de gran_canaria posteriormente otro persona haber ser hallar morir en alto marzo al parecer el sin papel llevar varios día en alto mar uno responsable de cruz_roja haber relatar que el inmigrante llevar entre 8 y TM_d:12 de navegación a el deriva y que se haber perder haber morir a_causa_de uno hipotermia severo debido_a el duro travesía el fallecer yacer flotar en el fondo de el cayuco que estar medio hundir el embarcación ser avistar por el benemérita y salvamento_marítimo cerca de el costa en_torno_a el TM_h:8.3",
+        "lemmatized_text_reduced": "tragedia repetir inmigrante intentar llegar costa español manera ilegal guardia_civil haber interceptar agua próximo canarias cayuco persona morir interior embarcación viajar inmigrante haber lograr sobrevivir agente haber remolcar embarcación puerto_de_arguineguín municipio mogán sur gran_canaria posteriormente persona haber ser hallar morir alto marzo al parecer papel llevar día alto mar responsable cruz_roja haber relatar inmigrante llevar navegación deriva haber perder haber morir hipotermia severo duro travesía fallecer yacer flotar fondo cayuco estar hundir embarcación ser avistar benemérita salvamento_marítimo costa",
+        "persons": [
+            "Al",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Canarias",
+            "Puerto_de_Arguineguín",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Cruz_Roja",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "13",
+            "46",
+            "8",
+            "TM_d:12",
+            "TM_h:8.3"
+        ]
+    }
+}

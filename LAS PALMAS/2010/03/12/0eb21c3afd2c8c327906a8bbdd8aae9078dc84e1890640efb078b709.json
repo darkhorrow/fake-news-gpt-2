@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/650430/0/",
+    "title": {
+        "raw_text": "Los ganadores de 'Gran Canaria en Igualdad' se reparten 12.000 euros por contribuir en este proceso social",
+        "lemmatized_text": "el ganador de gran_canaria en igualdad se repartir $_ECU:12 por contribuir en este proceso social",
+        "lemmatized_text_reduced": "ganador gran_canaria igualdad repartir contribuir proceso social",
+        "persons": [],
+        "locations": [
+            "Igualdad"
+        ],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:12"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los ganadores de 'Gran Canaria en Igualdad' se repartirán 12.000 euros, concedidos por el Cabildo insular, con el que se les premia su contribución en este proceso que se lleva a cabo en la sociedad actual.",
+        "lemmatized_text": "el ganador de gran_canaria en igualdad se repartir $_ECU:12 conceder por el cabildo insular con el que se le premiar su contribución en este proceso que se llevar_a_cabo en el sociedad actual",
+        "lemmatized_text_reduced": "ganador gran_canaria igualdad repartir conceder cabildo insular premiar contribución proceso llevar_a_cabo sociedad actual",
+        "persons": [],
+        "locations": [
+            "Igualdad"
+        ],
+        "organizations": [
+            "Cabildo"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:12"
+        ]
+    },
+    "body": {
+        "raw_text": "En el acto de entrega de premios estuvieron los galardonados entre los que se encontraban los representantes del I.E.S. Villa de Firgas; el Colegio Orobal de Arucas; el Centro de Educación de Personas Adultas de la Comunidad Autónoma de Canarias 'Radio Ecca'; la Unión Deportiva Taburiente (equipo de jockey); y la premiada en la categoría de 'Mujer en Positivo' que este año recayó en la presidenta de AFESUR, Carmen Suárez. El presidente del Cabildo de Gran Canaria, José Miguel Pérez, que asistió a la entrega de los premios destacó, en rueda de prensa, la labor que desempeñan los galardonados durante todo el año en favor de este proceso aunque, apuntó, que aún \"queda mucho por hacer\" en la igualdad de género. Pérez subrayó que se trata de \"un sentir que hay que ir ganando día a día\", en relación a la igualdad donde, insistió, \"no hay que bajar la guardia\". Finalmente, la consejera insular de Empleo, Desarrollo Local e Igualdad, Isabel Guerra, resaltó que es en el ámbito de la educación donde \"hay que sembrar la semilla de la igualdad\".",
+        "lemmatized_text": "en el acto de entrega de premio estar el galardonado entre el que se encontrar el representante de el i.e.s._villa_de_firgas el colegio_orobal_de_arucas el centro_de_educación_de_personas_adultas_de_la_comunidad_autónoma_de_canarias radio_ecca el unión_deportiva_taburiente equipo de jockey y el premiar en el categoría de mujer en positivo que este año recaer en el presidente de afesur carmen_suárez el presidente de el cabildo_de_gran_canaria josé_miguel_pérez que asistir a el entrega de el premio destacar en rueda de prensa el labor que desempeñar el galardonado durante todo el año en_favor_de este proceso aunque apuntar que aun quedar mucho por hacer en el igualdad de género pérez subrayar que se tratar de uno sentir que haber que ir ganar día a día en relación a el igualdad donde insistir no haber que bajar el guardia finalmente el consejero insular de empleo desarrollo_local y igualdad isabel_guerra resaltar que ser en el ámbito de el educación donde haber que sembrar el semilla de el igualdad",
+        "lemmatized_text_reduced": "acto entrega premio estar galardonado encontrar representante i.e.s._villa_de_firgas colegio_orobal_de_arucas centro_de_educación_de_personas_adultas_de_la_comunidad_autónoma_de_canarias radio_ecca unión_deportiva_taburiente equipo jockey premiar categoría mujer positivo año recaer presidente afesur carmen_suárez presidente cabildo_de_gran_canaria josé_miguel_pérez asistir entrega premio destacar rueda prensa labor desempeñar galardonado año proceso apuntar quedar hacer igualdad género pérez subrayar tratar sentir haber ir ganar día día relación igualdad insistir haber bajar guardia finalmente consejero insular empleo desarrollo_local igualdad isabel_guerra resaltar ser ámbito educación haber sembrar semilla igualdad",
+        "persons": [
+            "Carmen_Suárez",
+            "José_Miguel_Pérez",
+            "Pérez",
+            "Desarrollo_Local",
+            "Igualdad",
+            "Isabel_Guerra"
+        ],
+        "locations": [],
+        "organizations": [
+            "I.E.S._Villa_de_Firgas",
+            "Colegio_Orobal_de_Arucas",
+            "Centro_de_Educación_de_Personas_Adultas_de_la_Comunidad_Autónoma_de_Canarias",
+            "Radio_Ecca",
+            "Unión_Deportiva_Taburiente",
+            "Positivo",
+            "AFESUR",
+            "Cabildo_de_Gran_Canaria",
+            "Empleo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

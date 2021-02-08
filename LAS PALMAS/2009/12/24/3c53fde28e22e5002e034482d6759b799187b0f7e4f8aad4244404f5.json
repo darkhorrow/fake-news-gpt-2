@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595095/0/",
+    "title": {
+        "raw_text": "La Palma, El Hierro, La Gomera, Tenerife y Gran Canaria continúan en alerta por fuertes vientos y lluvia",
+        "lemmatized_text": "el palma el_hierro la_gomera tenerife y gran_canaria continuar en alerta por fuerte viento y lluvia",
+        "lemmatized_text_reduced": "palma el_hierro la_gomera tenerife gran_canaria continuar alerta fuerte viento lluvia",
+        "persons": [
+            "Palma",
+            "El_Hierro"
+        ],
+        "locations": [
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El temporal de lluvia y viento que está sobrepasando el archipiélago canario mantendrá durante la jornada de hoy y hasta mañana la alerta naranja en algunas zonas de El Hierro, La Gomera, Tenerife y Gran Canaria, siendo alerta por riesgo en La Palma, según informó la Agencia Estatal de Meteorología.",
+        "lemmatized_text": "el temporal de lluvia y viento que estar sobrepasar el archipiélago canario mantener durante el jornada de hoy y hasta mañana el alerta naranja en alguno zona de el_hierro la_gomera tenerife y gran_canaria ser alerta por riesgo en la_palma según informar el agencia_estatal_de_meteorología",
+        "lemmatized_text_reduced": "temporal lluvia viento estar sobrepasar archipiélago canario mantener jornada alerta naranja zona el_hierro la_gomera tenerife gran_canaria ser alerta riesgo la_palma informar agencia_estatal_de_meteorología",
+        "persons": [],
+        "locations": [
+            "El_Hierro",
+            "La_Gomera",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Gran_Canaria",
+            "Agencia_Estatal_de_Meteorología"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, está previsto que la alerta finalice esta media noche, aunque en Gran Canaria se prolongará hasta mañana viernes día 25 de diciembre. En concreto en la isla redonda, se esperan lluvias y fuertes rachas de viento que podrían alcanzar los 75 kilómetros hora en las zonas de cumbre, este, sur, oeste y medianías norte de la isla. Asimismo, el centro de Tenerife y La Gomera permanecen en alerta naranja por fuertes vientos y precipitaciones, que podrían dejar hasta 30 litros por metro cuadrado, remitiendo a lo largo de la jornada de mañana. Por su parte, la isla de El Hierro también se encuentra en estado de alerta por lluvias y viento y se deberán tomar precauciones en el mar ya que se esperan fenómenos costeros adversos, principalmente en la zona oeste. En la isla de La Palma hay aviso de fuertes vientos que podrían alcanzar rachas de hasta 75 kilómetros por hora y mal estado de la mar en zonas del oeste y norte.",
+        "lemmatized_text": "así estar prever que el alerta finalizar este medio noche aunque en gran_canaria se prolongar hasta mañana [V:25/12/??:??.??:??] en concreto en el isla redondo se esperar lluvia y fuerte racha de viento que poder alcanzar el LN_km:75 hora en el zona de cumbre este sur oeste y medianía norte de el isla asimismo el centro de tenerife y la_gomera permanecer en alerta naranja por fuerte viento y precipitación que poder dejar hasta CB_l/m2:30 remitir a el largo de el jornada de mañana por su parte el isla de el_hierro también se encontrar en estado de alerta por lluvia y viento y se deber tomar precaución en el mar ya_que se esperar fenómeno costero adverso principalmente en el zona oeste en el isla de la_palma haber aviso de fuerte viento que poder alcanzar racha de hasta SP_km/h:75 y mal estar de el mar en zona de el oeste y norte",
+        "lemmatized_text_reduced": "estar prever alerta finalizar medio noche gran_canaria prolongar concreto isla redondo esperar lluvia fuerte racha viento poder alcanzar hora zona cumbre sur oeste medianía norte isla centro tenerife la_gomera permanecer alerta naranja fuerte viento precipitación poder dejar remitir largo jornada mañana parte isla el_hierro encontrar estado alerta lluvia viento deber tomar precaución mar esperar fenómeno costero adverso principalmente zona oeste isla la_palma haber aviso fuerte viento poder alcanzar racha estar mar zona oeste norte",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "El_Hierro",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Tenerife",
+            "La_Gomera"
+        ],
+        "others": [],
+        "dates": [
+            "[V:25/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_km:75",
+            "CB_l/m2:30",
+            "SP_km/h:75"
+        ]
+    }
+}

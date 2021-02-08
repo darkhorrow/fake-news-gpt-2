@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-08-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/404153/0/desaparecido/playa/palmas/",
+    "title": {
+        "raw_text": "Reanudan la búsqueda del bañista desaparecido en una playa de Lanzarote",
+        "lemmatized_text": "reanudar el búsqueda de el bañista desaparecer en uno playa de lanzarote",
+        "lemmatized_text_reduced": "reanudar búsqueda bañista desaparecer playa lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El bañista lleva desaparecido desde el pasado día 1. No conocía la playa de La Cantería. El fuerte oleaje ha dificultado su búsqueda. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el bañista llevar desaparecer desde el [??:1/??/??:??.??:??] no conocer el playa de la_cantería el fuerte oleaje haber dificultar su búsqueda consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "bañista llevar desaparecer conocer playa la_cantería fuerte oleaje haber dificultar búsqueda consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "La_Cantería"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo, los servicios de emergencia de Lanzarote y la Guardia Civil han reanudado la tercera jornada de búsqueda del joven barcelonés desaparecido el pasado viernes, día 1 , cuando se bañaba en la playa de La Cantería, en el municipio de Haría, al norte de Lanzarote. Según el jefe de centro de Salvamento Marítimo en Las Palmas, Aníbal Carrillo, el fuerte oleaje que ha habido en los últimos día s en la zona, junto a sus características, una orografía escarpada y muy rocosa, han dificultado las labores de búsqueda que, no obstante, han proseguido desde el amanecer. En este dispositivo participan tres helicópteros del Gobierno canario, la Guardia Civil y Salvamento Marítimo , que también aporta una embarcación, además de efectivos de emergencias de Lanzarote, Policía Local y Cruz Roja. Desde las 20:00 horas del viernes se busca en Lanzarote a Sergio López Astasio , de 31 años y natural de Barcelona. Todo hace pensar que el desaparecido, que desconocía la zona costera , pudo ser arrastrado por el fuerte oleaje que había en la zona. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "salvamento_marítimo el servicio de emergencia de lanzarote y el guardia_civil haber reanudar el 3 jornada de búsqueda de el joven barcelonés desaparecer el [V:1/??/??:??.??:??] cuando se bañar en el playa de la_cantería en el municipio de haría a el norte de lanzarote según el jefe de centro de salvamento_marítimo en las_palmas aníbal_carrillo el fuerte oleaje que haber haber en el último día segundo en el zona junto_a su característica uno orografía escarpar y muy rocoso haber dificultar el labor de búsqueda que no_obstante haber proseguir desde el amanecer en este dispositivo participar 3 helicóptero de el gobierno canario el guardia_civil y salvamento_marítimo que también aportar uno embarcación además_de efectivo de emergencia de lanzarote policía_local y cruz_roja desde el TM_h:20:00 de el [V:??/??/??:??.??:??] se buscar en lanzarote a sergio_lópez_astasio de 31 año y natural de barcelona todo hacer pensar que el desaparecer que desconocer el zona costero poder ser arrastrar por el fuerte oleaje que haber en el zona consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "salvamento_marítimo servicio emergencia lanzarote guardia_civil haber reanudar 3 jornada búsqueda joven barcelonés desaparecer bañar playa la_cantería municipio haría norte lanzarote jefe centro salvamento_marítimo las_palmas aníbal_carrillo fuerte oleaje haber haber último día segundo zona característica orografía escarpar rocoso haber dificultar labor búsqueda haber proseguir amanecer dispositivo participar helicóptero gobierno canario guardia_civil salvamento_marítimo aportar embarcación efectivo emergencia lanzarote policía_local cruz_roja buscar lanzarote sergio_lópez_astasio año natural barcelona hacer pensar desaparecer desconocer zona costero poder ser arrastrar fuerte oleaje haber zona consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Aníbal_Carrillo",
+            "Salvamento_Marítimo",
+            "Sergio_López_Astasio"
+        ],
+        "locations": [
+            "Lanzarote",
+            "La_Cantería",
+            "Haría",
+            "Lanzarote",
+            "Lanzarote",
+            "Lanzarote",
+            "Barcelona"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Salvamento_Marítimo",
+            "Las_Palmas",
+            "Gobierno",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Cruz_Roja",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[V:1/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "TM_h:20:00",
+            "31"
+        ]
+    }
+}

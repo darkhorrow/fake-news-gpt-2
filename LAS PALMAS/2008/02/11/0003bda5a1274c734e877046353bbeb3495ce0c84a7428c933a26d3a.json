@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/347015/0/fallecido/isleta/canaria/",
+    "title": {
+        "raw_text": "Aparece un hombre fallecido en la zona de La Isleta en Gran Canaria",
+        "lemmatized_text": "aparecer uno hombre fallecer en_la_zona_de la_isleta en gran_canaria",
+        "lemmatized_text_reduced": "aparecer hombre fallecer la_isleta gran_canaria",
+        "persons": [
+            "La_Isleta"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "No lo han podido indentificar. Se hallaba en avanzado estado de descomposición. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA. Puedes ampliar o reducir este mapa, o desplazarte por él.",
+        "lemmatized_text": "no lo haber poder indentificar se hallar en avanzar estado de descomposición consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar o reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "haber poder indentificar hallar avanzar estado descomposición consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Durante la mañana de hoy se ha encontrado el cuerpo de un hombre fallecido en la zona costera de La Isleta, en Las Palmas de Gran Canaria, concretamente en Roque Cenizo, en las inmediaciones de la Baja del Palo. El varón de mediana edad sigue sin identificar y que se encontraba en un avanzado estado de descomposición. El rescate fue llevado a cabo por efectivos del Grupo Especial de Actividades Subacuáticas de la Guardia Civil, así como miembros de la Policía Nacional y del Servicio de Urgencias Canario (SUC), que sólo pudo certificar la defunción. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA.",
+        "lemmatized_text": "durante el mañana de hoy se haber encontrar el cuerpo de uno hombre fallecer en el zona costero de la_isleta en las_palmas_de_gran_canaria concretamente en roque_cenizo en el inmediación de el baja_del_palo el varón de mediano edad seguir sin identificar y que se encontrar en uno avanzar estado de descomposición el rescate ser llevar_a_cabo por efectivo de el grupo_especial_de_actividades_subacuáticas_de_la_guardia_civil así_como miembro de el policía_nacional y de el servicio_de_urgencias_canario suc que sólo poder certificar el defunción consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "mañana haber encontrar cuerpo hombre fallecer zona costero la_isleta las_palmas_de_gran_canaria concretamente roque_cenizo inmediación baja_del_palo varón mediano edad seguir identificar encontrar avanzar estado descomposición rescate ser llevar_a_cabo efectivo grupo_especial_de_actividades_subacuáticas_de_la_guardia_civil miembro policía_nacional servicio_de_urgencias_canario suc poder certificar defunción consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Isleta",
+            "Las_Palmas_de_Gran_Canaria",
+            "Roque_Cenizo"
+        ],
+        "organizations": [
+            "Baja_del_Palo",
+            "Grupo_Especial_de_Actividades_Subacuáticas_de_la_Guardia_Civil",
+            "Policía_Nacional",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614193/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a dos jóvenes como presuntos autores de robos con violencia en Gran Canaria",
+        "lemmatized_text": "el policía_nacional detener a 2 joven como presunto autor de robo con violencia en gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional detener joven presunto autor robo violencia gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a dos jóvenes como presuntos autores de robos con violencia en Las Palmas de Gran Canaria, utilizando, al menos en uno de los incidentes, un arma blanca de grandes dimensiones.",
+        "lemmatized_text": "el policía_nacional haber detener a 2 joven como presunto autor de robo con violencia en las_palmas_de_gran_canaria utilizar a el menos en uno de el incidente uno arma blanco de grande dimensión",
+        "lemmatized_text_reduced": "policía_nacional haber detener joven presunto autor robo violencia las_palmas_de_gran_canaria utilizar incidente arma blanco grande dimensión",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los arrestos se efectuaron uno en la madrugada del pasado jueves, 21 de enero, y otro en la del viernes, sin relación entre ambos, según informó el Cuerpo Nacional de Policía en un comunicado. Respecto al primero de los casos, el detenido responde a las iniciales de F.D., de 18 años de edad, de origen marroquí y sin antecedentes, quien fue sorprendido por una patrulla de los Grupos de Atención al Ciudadano en las inmediaciones del Parque Santa Catalina, en la capital grancanaria, cuando presuntamente amenazaba con un cuchillo de grandes dimensiones a dos ciudadanos que transitaban por el mismo. El otro suceso, responde a una investigación llevada a cabo tras una denuncia de un atraco ocurrido días antes en el interior de un domicilio en la zona de Guanarteme, perpetrado por un individuo que, tras introducirse en la vivienda con la cabeza cubierta con un pasamontañas, amenazó con un arma a los inquilinos, apoderándose del dinero. Así, una vez iniciadas las pesquisas y establecido el oportuno dispositivo por efectivos de la Policía Judicial de Distrito Norte, en la madrugada del viernes, se produjo su arresto en la zona de Guanarteme, cuando trataba de cometer un nuevo asalto. Los agentes le intervinieron durante la detención el arma y el pasamontañas. Este detenido responde a las iniciales de Y.P.F., de 29 años de edad, natural de Las Palmas de Gran Canaria, y con dos antecedentes policiales. Ambos, junto con los atestados instruidos, han pasado a disposición judicial.",
+        "lemmatized_text": "el arresto se efectuar uno en el madrugada de el [J:21/1/??:??.??:??] y otro en el de el [V:??/??/??:??.??:??] sin relación entre ambos según informar el cuerpo_nacional_de_policía en uno comunicado respecto a el primero de el caso el detenido responder a el inicial de f.d. de 18 año de edad de origen marroquí y sin antecedente quien ser sorprender por uno patrulla de el grupos_de_atención a el ciudadano en el inmediación de el parque_santa_catalina en el capital grancanaria cuando presuntamente amenazar con uno cuchillo de grande dimensión a 2 ciudadano que transitar por el mismo el otro suceso responder a uno investigación llevar_a_cabo tras uno denuncia de uno atraco ocurrir día antes en_el_interior_de uno domicilio en_la_zona_de guanarteme perpetrar por uno individuo que tras introducir se en el vivienda con el cabeza cubrir con uno pasamontañas amenazar con uno arma a el inquilino apoderar se de el dinero así uno vez iniciar el pesquisa y establecer el oportuno dispositivo por efectivo de el policía_judicial_de_distrito_norte en el madrugada de el [V:??/??/??:??.??:??] se producir su arresto en_la_zona_de guanarteme cuando tratar de cometer uno nuevo asalto el agente le intervenir durante el detención el arma y el pasamontañas este detenido responder a el inicial de y.p.f. de 29 año de edad natural de las_palmas_de_gran_canaria y con 2 antecedente policial ambos junto_con el atestado instruir haber pasar a disposición judicial",
+        "lemmatized_text_reduced": "arresto efectuar madrugada relación informar cuerpo_nacional_de_policía comunicado respecto caso detenido responder inicial f.d. año edad origen marroquí antecedente ser sorprender patrulla grupos_de_atención ciudadano inmediación parque_santa_catalina capital grancanaria presuntamente amenazar cuchillo grande dimensión ciudadano transitar mismo suceso responder investigación llevar_a_cabo denuncia atraco ocurrir día domicilio guanarteme perpetrar individuo introducir vivienda cabeza cubrir pasamontañas amenazar arma inquilino apoderar dinero vez iniciar pesquisa establecer oportuno dispositivo efectivo policía_judicial_de_distrito_norte madrugada producir arresto guanarteme tratar cometer nuevo asalto agente intervenir detención arma pasamontañas detenido responder inicial y.p.f. año edad natural las_palmas_de_gran_canaria antecedente policial atestado instruir haber pasar disposición judicial",
+        "persons": [
+            "Ciudadano"
+        ],
+        "locations": [
+            "Parque_Santa_Catalina",
+            "Guanarteme",
+            "Guanarteme",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Cuerpo_Nacional_de_Policía",
+            "F.D.",
+            "Policía_Judicial_de_Distrito_Norte",
+            "Y.P.F."
+        ],
+        "others": [
+            "Grupos_de_Atención"
+        ],
+        "dates": [
+            "[J:21/1/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "18",
+            "2",
+            "29",
+            "2"
+        ]
+    }
+}

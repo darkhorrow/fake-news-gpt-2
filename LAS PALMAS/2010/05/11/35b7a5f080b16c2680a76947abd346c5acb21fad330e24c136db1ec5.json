@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703553/0/",
+    "title": {
+        "raw_text": "Aparece el cadáver de un cachalote de 12 metros en Las Salinas de la Isla de Lobos (Fuerteventura)",
+        "lemmatized_text": "aparecer el cadáver de uno cachalote de LN_m:12 en las_salinas_de_la_isla_de_lobos fuerteventura",
+        "lemmatized_text_reduced": "aparecer cadáver cachalote las_salinas_de_la_isla_de_lobos fuerteventura",
+        "persons": [],
+        "locations": [
+            "Las_Salinas_de_la_Isla_de_Lobos",
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:12"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un cachalote de unos 12 metros de longitud ha aparecido hoy varado --en un estado avanzado de descomposición-- en la zona de Las Salinas, en la Isla de Lobos, según informó el Cabildo de Fuerteventura en un comunicado.",
+        "lemmatized_text": "uno cachalote de uno LN_m:12 de longitud haber aparecer hoy varar en uno estado avanzar de descomposición en_la_zona_de las_salinas en el isla_de_lobos según informar el cabildo_de_fuerteventura en uno comunicado",
+        "lemmatized_text_reduced": "cachalote longitud haber aparecer varar estado avanzar descomposición las_salinas isla_de_lobos informar cabildo_de_fuerteventura comunicado",
+        "persons": [],
+        "locations": [
+            "Las_Salinas",
+            "Isla_de_Lobos"
+        ],
+        "organizations": [
+            "Cabildo_de_Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:12"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, debido a las dificultades que implicaría su traslado, un equipo de biólogos y veterinarios de las dos universidades canarias se trasladará mañana hasta a la zona del varamiento para realizar 'in situ' la necropsia y los análisis necesarios para determinar las causas de la muerte, estando prevista su llegada para alrededor del mediodía. No es el primer cetáceo que aparece en lo que va de año, puesto que ya el pasado 20 de abril apareció en la zona de la desaladora de 'Aguas de La Oliva', en la costa de Corralejo, un cetáceo de más de tres metros de longitud y 300 kilogramos de peso.",
+        "lemmatized_text": "de este manera debido_a el dificultad que implicar su traslado uno equipo de biólogo y veterinario de el 2 universidad canario se trasladar mañana hasta a el zona de el varamiento para realizar in_situ el necropsia y el análisis necesario para determinar el causa de el muerte estar prever su llegada para alrededor de el [??:??/??/??:12.00:pm] no ser el 1 cetáceo que aparecer en el que ir de año puesto que ya el [??:20/4/??:??.??:??] aparecer en_la_zona_de el desaladora de aguas_de_la_oliva en el costa de corralejo uno cetáceo de más de LN_m:3 de longitud y WG_kg:300 de peso",
+        "lemmatized_text_reduced": "manera dificultad implicar traslado equipo biólogo veterinario universidad canario trasladar zona varamiento realizar necropsia análisis necesario determinar causa muerte estar prever llegada ser 1 cetáceo aparecer ir año puesto aparecer desaladora aguas_de_la_oliva costa corralejo cetáceo longitud peso",
+        "persons": [],
+        "locations": [
+            "Corralejo"
+        ],
+        "organizations": [],
+        "others": [
+            "Aguas_de_La_Oliva"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]",
+            "[??:20/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "LN_m:3",
+            "WG_kg:300"
+        ]
+    }
+}

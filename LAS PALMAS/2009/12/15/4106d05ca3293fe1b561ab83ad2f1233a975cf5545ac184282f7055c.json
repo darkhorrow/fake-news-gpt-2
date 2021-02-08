@@ -1,0 +1,111 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/588320/0/",
+    "title": {
+        "raw_text": "Canarias es donde menos gastarán los consumidores en Navidad con 630 euros de media, según FUCI",
+        "lemmatized_text": "canario ser donde menos gastar el consumidor en navidad con $_ECU:630 de medio según fuci",
+        "lemmatized_text_reduced": "canario ser gastar consumidor navidad medio fuci",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "FUCI"
+        ],
+        "others": [
+            "Navidad"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:630"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias, junto con Galicia, serán las regiones donde menos dinero gastarán los consumidores en Navidad, con un total de 630 euros de media, mientras que a nivel nacional, el gasto medio continuará la tendencia decreciente iniciada el pasado año y se situará en 728 euros, lo que supone un retroceso del 10,5 pro ciento respecto al pasado año, en el que el descenso fue del 6 por ciento, según una encuesta de la Federación de Usuarios y Consumidores Independientes (FUCI).",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias junto_con galicia ser el región donde menos dinero gastar el consumidor en navidad con uno total de $_ECU:630 de medio mientras_que a nivel nacional el gasto medio continuar el tendencia decreciente iniciar el pasar año y se situar en $_ECU:728 el que suponer uno retroceso de el 10,5 pro 100 respecto a el pasar año en el que el descenso ser de el 6 por 100 según uno encuesta de el federación_de_usuarios y consumidores_independientes fuci",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias galicia ser región dinero gastar consumidor navidad total medio nivel nacional gasto medio continuar tendencia decreciente iniciar pasar año situar suponer retroceso respecto pasar año descenso ser encuesta federación_de_usuarios consumidores_independientes fuci",
+        "persons": [
+            "Consumidores_Independientes"
+        ],
+        "locations": [
+            "Galicia"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Federación_de_Usuarios",
+            "FUCI"
+        ],
+        "others": [
+            "Navidad"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:630",
+            "$_ECU:728",
+            "10,5",
+            "100",
+            "6",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta forma, la Navidad de este año será las más austera de la década, en la que se registrará un descenso importante del consumo en ocio y alimentación, con una caída del 21 por ciento y del 14,2 por ciento, respectivamente. En concreto, del total destinado al gasto navideño, la mayor parte irá a parar a regalos y juguetes, con 224 euros, seguido de alimentación (210 euros), ocio (165 euros) y lotería (129 euros). La presidenta de FUCI, Agustina Laguna, consideró que la crisis económica provoca por segundo año consecutivo que las familias deban reducir el gasto durante las navidades, debido a la difícil situación en la que se encuentran por la merma de sus recursos, lo que les lleva a modificar sus hábitos de compra \"reduciendo mucho el consumo en ocio y alimentación\". Los juguetes y regalos representarán el mayor desembolso de los españoles en Navidad (224 euros), liderado por Madrid, que superará la media, hasta los 250 euros, muy por encima de los 205 euros que tienen previsto gastar los canarios. En alimentos, la media nacional se situará en los 210 euros, con Cataluña a la cabeza (220 euros) y Extremadura donde menos (195 euros). A pesar de la disminución del 3 por ciento en la compra de lotería, los españoles siguen siendo fieles a esta tradición. Así, para el sorteo de Navidad y el Niño se comprarán unos seis décimos por persona, siendo Valencia la región en la que más se juega (155 euros), frente a los gallegos que parecen ser los que menos confían en la suerte, con un gasto de 112 euros. Los consumidores también reducirán el gasto en ocio y gastarán 44 euros menos respecto al pasado año, hasta los 165 euros. Los madrileños serán los españoles que más dinero gastarán en comidas fuera del hogar y escapadas (180 euros), mientras que los gallegos pasarán más tiempo dentro de casa (148 euros). Si se analiza el coste en Navidad por comunidades autónomas, Madrid y Valencia están a la cabeza del gasto, con unos 800 euros de media, mientras que Canarias y Galicia se encuentran en el otro extremo con unos 670 euros. En un punto medio se encuentran otras autonomías como Asturias, Cantabria, Castilla-La Mancha o Murcia, con un coste medio por habitante muy cercano a los 730 euros.",
+        "lemmatized_text": "de este forma el navidad de este año ser el más austero de el década en el que se registrar uno descenso importante de el consumo en ocio y alimentación con uno caída de el 21 por 100 y de el 14,2 por 100 respectivamente en concreto de el total destinar a el gasto navideño el mayor parte ir a parar a regalo y juguete con $_ECU:224 seguir de alimentación $_ECU:210 ocio $_ECU:165 y lotería $_ECU:129 el presidente de fuci agustina_laguna considerar que el crisis económico provocar por_segundo_año_consecutivo que el familia deber reducir el gasto durante el navidad debido_a el difícil situación en el que se encontrar por el merma de su recurso el que le llevar a modificar su hábito de compra reducir mucho el consumo en ocio y alimentación el juguete y regalo representar el mayor desembolso de el español en navidad $_ECU:224 liderar por madrid que superar el medio hasta el $_ECU:250 muy por encima_de el $_ECU:205 que tener prever gastar el canario en alimento el media nacional se situar en el $_ECU:210 con cataluña a el cabeza $_ECU:220 y extremadura donde menos $_ECU:195 a_pesar_de el disminución de el 3 por 100 en el compra de lotería el español seguir ser fiel a este tradición así para el sorteo de navidad y el niño se comprar uno 6/10 por persona ser valencia el región en el que más se jugar $_ECU:155 frente_a el gallego que parecer ser el que menos confiar en el suerte con uno gasto de $_ECU:112 el consumidor también reducir el gasto en ocio y gastar $_ECU:44 menos respecto a el pasar año hasta el $_ECU:165 el madrileño ser el español que más dinero gastar en comida ser de el hogar y escapada $_ECU:180 mientras_que el gallego pasar más tiempo dentro_de casa $_ECU:148 si se analizar el coste en navidad por comunidad autónomo madrid y valencia estar a el cabeza de el gasto con uno $_ECU:800 de medio mientras_que canarias y galicia se encontrar en el otro extremo con uno $_ECU:670 en uno punto medio se encontrar otro autonomía como asturias cantabria castilla-la_mancha o murcia con uno coste medio por habitante muy cercano a el $_ECU:730",
+        "lemmatized_text_reduced": "forma navidad año ser austero década registrar descenso importante consumo ocio alimentación caída respectivamente concreto total destinar gasto navideño mayor parte ir parar regalo juguete seguir alimentación ocio lotería presidente fuci agustina_laguna considerar crisis económico provocar familia deber reducir gasto navidad difícil situación encontrar merma recurso llevar modificar hábito compra reducir consumo ocio alimentación juguete regalo representar mayor desembolso español navidad liderar madrid superar medio tener prever gastar canario alimento media nacional situar cataluña cabeza extremadura disminución compra lotería español seguir ser fiel tradición sorteo navidad niño comprar persona ser valencia región jugar gallego parecer ser confiar suerte gasto consumidor reducir gasto ocio gastar respecto pasar año madrileño ser español dinero gastar comida ser hogar escapada gallego pasar tiempo casa analizar coste navidad comunidad autónomo madrid valencia estar cabeza gasto medio canarias galicia encontrar extremo punto medio encontrar autonomía asturias cantabria castilla-la_mancha murcia coste medio habitante cercano",
+        "persons": [
+            "Agustina_Laguna",
+            "Niño"
+        ],
+        "locations": [
+            "Madrid",
+            "Cataluña",
+            "Extremadura",
+            "Valencia",
+            "Madrid",
+            "Valencia",
+            "Canarias",
+            "Galicia",
+            "Asturias",
+            "Castilla-La_Mancha",
+            "Murcia"
+        ],
+        "organizations": [
+            "FUCI",
+            "Cantabria"
+        ],
+        "others": [
+            "Navidad",
+            "Navidad",
+            "Navidad",
+            "Navidad"
+        ],
+        "dates": [],
+        "numbers": [
+            "21",
+            "100",
+            "14,2",
+            "100",
+            "$_ECU:224",
+            "$_ECU:210",
+            "$_ECU:165",
+            "$_ECU:129",
+            "$_ECU:224",
+            "$_ECU:250",
+            "$_ECU:205",
+            "$_ECU:210",
+            "$_ECU:220",
+            "$_ECU:195",
+            "3",
+            "100",
+            "6/10",
+            "$_ECU:155",
+            "$_ECU:112",
+            "$_ECU:44",
+            "$_ECU:165",
+            "$_ECU:180",
+            "$_ECU:148",
+            "$_ECU:800",
+            "$_ECU:670",
+            "$_ECU:730"
+        ]
+    }
+}

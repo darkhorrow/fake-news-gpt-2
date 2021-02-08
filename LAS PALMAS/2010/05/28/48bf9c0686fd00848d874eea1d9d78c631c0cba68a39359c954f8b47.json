@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/720899/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a dos personas en el aeropuerto de Gran Canaria por transportar anabolizantes",
+        "lemmatized_text": "el policía_nacional detener a 2 persona en el aeropuerto de gran_canaria por transportar anabolizante",
+        "lemmatized_text_reduced": "policía_nacional detener persona aeropuerto gran_canaria transportar anabolizante",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a dos personas, de nacionalidad rumana, en el aeropuerto de Gran Canaria por transportar presuntamente anabolizantes.",
+        "lemmatized_text": "el policía_nacional haber detener a 2 persona de nacionalidad rumano en el aeropuerto de gran_canaria por transportar presuntamente anabolizante",
+        "lemmatized_text_reduced": "policía_nacional haber detener persona nacionalidad rumano aeropuerto gran_canaria transportar presuntamente anabolizante",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los arrestados responden a las iniciales de D.B., hombre de 27 años de edad, y D. D., mujer de 34 años de edad, y fueron detenidos tras aterrizar en el aeródromo de Gran Canaria en un vuelo de la compañía Ryanair procedente de Luton, Inglaterra, según informó el Cuerpo Nacional de Policía en un comunicado. Ambos está acusados como presuntos autores de un delito contra la salud pública, después de ser identificados por agentes a su llegada a la terminal. La Policía procedió al arresto de las dos personas mencionadas, tras las \"sospechas levantadas\" y se procedió a recoger el equipaje de ambos, hallando en su interior 985 cajas con tres viales cada una de ellas del anabolizante esteroide (WINSTROL), repartidas en dos maletas, procediendo los agentes \"de inmediato a la detención de los mismos\". Posteriormente, en las dependencias policiales se pudo comprobar que al varón le constaba una requisitoria emitida por el Juzgado de Instrucción Número Uno de Quintanar de la Orden (Toledo) por un delito contra la seguridad del tráfico. Los detenidos, junto con los efectos intervenidos, fueron puestos a disposición del Juzgado de Instrucción de Guardia Número Seis de Telde.",
+        "lemmatized_text": "el arrestar responder a el inicial de d.b. hombre de 27 año de edad y d._d. mujer de 34 año de edad y ser detener tras aterrizar en el aeródromo de gran_canaria en uno vuelo de el compañía ryanair procedente de luton inglaterra según informar el cuerpo_nacional_de_policía en uno comunicado ambos estar acusar como presunto autor de uno delito contra el salud público después_de ser identificar por agente a su llegada a el terminal el policía proceder a el arresto de el 2 persona mencionar tras el sospecha levantar y se proceder a recoger el equipaje de ambos hallar en su interior 985 caja con 3 vial cada uno de ellos de el anabolizante esteroide winstrol repartir en 2 maleta proceder el agente de inmediato a el detención de el mismo posteriormente en el dependencia policial se poder comprobar que a el varón le constar uno requisitoria emitir por el juzgado_de_instrucción_número uno de quintanar_de_la_orden toledo por uno delito contra el seguridad de el tráfico el detenido junto_con el efecto intervenir ser poner a disposición de el juzgado_de_instrucción_de_guardia_número 6 de telde",
+        "lemmatized_text_reduced": "arrestar responder inicial d.b. hombre año edad d._d. mujer año edad ser detener aterrizar aeródromo gran_canaria vuelo compañía ryanair procedente luton inglaterra informar cuerpo_nacional_de_policía comunicado estar acusar presunto autor delito salud público ser identificar agente llegada terminal policía proceder arresto persona mencionar sospecha levantar proceder recoger equipaje hallar interior caja vial anabolizante esteroide winstrol repartir maleta proceder agente inmediato detención posteriormente dependencia policial poder comprobar varón constar requisitoria emitir juzgado_de_instrucción_número quintanar_de_la_orden toledo delito seguridad tráfico detenido efecto intervenir ser poner disposición juzgado_de_instrucción_de_guardia_número telde",
+        "persons": [
+            "D._D."
+        ],
+        "locations": [
+            "Luton",
+            "Inglaterra",
+            "Quintanar_de_la_Orden",
+            "Toledo"
+        ],
+        "organizations": [
+            "D.B.",
+            "Ryanair",
+            "Cuerpo_Nacional_de_Policía",
+            "Policía",
+            "WINSTROL",
+            "Juzgado_de_Instrucción_Número",
+            "Juzgado_de_Instrucción_de_Guardia_Número",
+            "Telde"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "27",
+            "34",
+            "2",
+            "985",
+            "3",
+            "2",
+            "6"
+        ]
+    }
+}

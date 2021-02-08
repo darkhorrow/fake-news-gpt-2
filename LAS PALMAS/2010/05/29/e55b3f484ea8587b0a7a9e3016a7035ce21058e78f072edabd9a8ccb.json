@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/721848/0/",
+    "title": {
+        "raw_text": "Extraen 12.500 kilos de piedra quemada del Horno de Tefía, en Fuerteventura, para convertirlos en cal",
+        "lemmatized_text": "extraer 12.5 kilo de piedra quemar de el horno_de_tefía en fuerteventura para convertir lo en cal",
+        "lemmatized_text_reduced": "extraer kilo piedra quemar horno_de_tefía fuerteventura convertir cal",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Horno_de_Tefía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "12.5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Trabajadores del Cabildo de Fuerteventura extrajeron 12.500 kilos de piedra de cal viva que se han obtenido de la quema del Horno de cal de Tefía a través del sistema tradicional que se utilizaba en la isla cuando la cal era una de sus principales industrias, situación que se extendió hasta mediados del siglo pasado.",
+        "lemmatized_text": "trabajadores_del_cabildo_de_fuerteventura extraer 12.5 kilo de piedra de cal vivo que se haber obtener de el quema de el horno de cal de tefía a través de el sistema tradicional que se utilizar en el isla cuando el cal ser uno de su principal industria situación que se extender hasta mediar de el siglo pasar",
+        "lemmatized_text_reduced": "trabajadores_del_cabildo_de_fuerteventura extraer kilo piedra cal vivo haber obtener quema horno cal tefía través sistema tradicional utilizar isla cal ser principal industria situación extender mediar siglo pasar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Tefía"
+        ],
+        "others": [
+            "Trabajadores_del_Cabildo_de_Fuerteventura",
+            "Horno"
+        ],
+        "dates": [],
+        "numbers": [
+            "12.5"
+        ]
+    },
+    "body": {
+        "raw_text": "Este proceso se inició la semana pasada con la preparación o 'armado' del horno y el inicio de la quema de los cerca de 18.000 kilos de piedra de cal utilizados inicialmente aunque previamente se había alimentado el horno con aulagas secas durante 48 horas de combustión sin interrupción alguna. Posteriormente, según informó el Cabildo insular en nota de prensa, una vez finalizó el periodo de espera necesario para dejar enfriar la piedra, dos grupos de operarios del gobierno insular se turnaron para extraer todo el material y trasladarlo en cuatro camiones. En cuanto al proceso final de dicha extracción consistirá en añadir agua (H2O) a la cal viva, provocando la apertura de la piedra. Así, al hidratarse, la cal viva produce calor en la reacción química, absorbe el agua y vuelve a ganar volumen (1,46 m3 a partir de 1m3 de piedra) originándose lo que se conoce como cal o hidróxido de calcio (CA(HO)2). Los cálculos apuntan a que la piedra inicial pierde un 30 por ciento de la masa tras la combustión llevada a cabo, ya que se hace entre 900 y 1.000 grados.",
+        "lemmatized_text": "este proceso se iniciar el semana pasar con el preparación o armar de el horno y el inicio de el quema de el cerca de 18 kilo de piedra de cal utilizar inicialmente aunque previamente se haber alimentar el horno con aulaga seco durante TM_h:48 de combustión sin interrupción alguno posteriormente según informar el cabildo insular en nota de prensa uno vez finalizar el periodo de espera necesario para dejar enfriar el piedra 2 grupo de operario de el gobierno insular se turnar para extraer todo el material y trasladar lo en 4 camión en cuanto a el proceso final de decir extracción consistir en añadir agua H2O a el cal vivo provocar el apertura de el piedra así a el hidratar se el cal vivo producir calor en el reacción químico absorber el agua y volver a ganar volumen 1,46 m3 a_partir_de 1m3 de piedra originar se el que se conocer como cal o hidróxido de calcio ca ho 2 el cálculo apuntar a que el piedra inicial perder uno 30 por 100 de el masa tras el combustión llevar_a_cabo ya_que se hacer entre 900 y 1 grado",
+        "lemmatized_text_reduced": "proceso iniciar semana pasar preparación armar horno inicio quema kilo piedra cal utilizar inicialmente previamente haber alimentar horno aulaga seco combustión interrupción posteriormente informar cabildo insular nota prensa vez finalizar periodo espera necesario dejar enfriar piedra grupo operario gobierno insular turnar extraer material trasladar camión proceso final decir extracción consistir añadir agua cal vivo provocar apertura piedra hidratar cal vivo producir calor reacción químico absorber agua volver ganar volumen piedra originar conocer cal hidróxido calcio ca ho cálculo apuntar piedra inicial perder masa combustión llevar_a_cabo hacer grado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo",
+            "CA",
+            "HO"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "18",
+            "TM_h:48",
+            "2",
+            "4",
+            "H2O",
+            "1,46",
+            "m3",
+            "1m3",
+            "2",
+            "30",
+            "100",
+            "900",
+            "1"
+        ]
+    }
+}

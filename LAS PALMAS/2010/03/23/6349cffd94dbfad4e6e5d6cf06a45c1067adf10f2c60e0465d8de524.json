@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659405/0/",
+    "title": {
+        "raw_text": "Termina la instalación de la bomba de drenaje y comienza la extracción de agua del pozo de Jinámar (Gran Canaria)",
+        "lemmatized_text": "terminar el instalación de el bomba de drenaje y comenzar el extracción de agua de el pozo de jinámar gran_canaria",
+        "lemmatized_text_reduced": "terminar instalación bomba drenaje comenzar extracción agua pozo jinámar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La empresa encargada de la instalación de la bomba de drenaje para extraer el agua del interior del pozo de Jinámar, en Gran Canaria, ha concluido el montaje del nuevo sistema, después de que se solicitara ayuda a la compañía de sistemas de bombeo de José Falcón al no conseguir resultados con la bomba utilizada durante la jornada de ayer, mientras que la Policía Nacional ya ha comenzado a extraer el agua del interior del pozo.",
+        "lemmatized_text": "el empresa encargar de el instalación de el bomba de drenaje para extraer el agua de el interior de el pozo de jinámar en gran_canaria haber concluir el montaje de el nuevo sistema después_de que se solicitar ayuda a el compañía de sistema de bombeo de josé_falcón a el no conseguir resultado con el bomba utilizar durante el jornada de ayer mientras_que el policía_nacional ya haber comenzar a extraer el agua de el interior de el pozo",
+        "lemmatized_text_reduced": "empresa encargar instalación bomba drenaje extraer agua interior pozo jinámar gran_canaria haber concluir montaje nuevo sistema solicitar ayuda compañía sistema bombeo josé_falcón conseguir resultado bomba utilizar jornada policía_nacional haber comenzar extraer agua interior pozo",
+        "persons": [
+            "José_Falcón"
+        ],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, el camión que trasladó hasta la casona ubicada en Jinámar todas las piezas de este sistema ya se ha ido de la zona, comenzando así con el drenaje del agua, que se está vertiendo al barranco que se encuentra al lado de la zona. La nueva bomba de drenaje es de 40 litros por segundo, que podría sacar 2.400 litros de agua por minuto del pozo de Jinámar, donde se busca una bolsa que podría contener huesos captada por una cámara subacuática en el marco de la investigación de Sara Morales, desaparecida el 30 de julio de 2006 en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "de este manera el camión que trasladar hasta el casona ubicar en jinámar todo el pieza de este sistema ya se haber ir de el zona comenzar así con el drenaje de el agua que se estar verter a el barranco que se encontrar a el lado de el zona el nuevo bomba de drenaje ser de CB_l/s:40 que poder sacar VL_l:2.4 de agua por minuto de el pozo de jinámar donde se buscar uno bolsa que poder contener hueso captar por uno cámara subacuático en el marco de el investigación de sara_morales desaparecer el [??:30/7/2006:??.??:??] en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "manera camión trasladar casona ubicar jinámar pieza sistema haber ir zona comenzar drenaje agua estar verter barranco encontrar lado zona nuevo bomba drenaje ser poder sacar agua minuto pozo jinámar buscar bolsa poder contener hueso captar cámara subacuático marco investigación sara_morales desaparecer las_palmas_de_gran_canaria",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Jinámar",
+            "Jinámar",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:30/7/2006:??.??:??]"
+        ],
+        "numbers": [
+            "CB_l/s:40",
+            "VL_l:2.4"
+        ]
+    }
+}

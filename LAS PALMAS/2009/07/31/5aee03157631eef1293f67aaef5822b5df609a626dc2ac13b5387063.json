@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-07-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/490809/0/muere/golpe-calor/canarias/",
+    "title": {
+        "raw_text": "Un anciano de 74 años fallece a causa de un golpe de calor en Gran Canaria",
+        "lemmatized_text": "uno anciano de 74 año fallecer a_causa_de uno golpe de calor en gran_canaria",
+        "lemmatized_text_reduced": "anciano año fallecer golpe calor gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "74"
+        ]
+    },
+    "lead": {
+        "raw_text": "La isla registra estos días temperaturas de hasta 42 grados. Se agravaron patologías crónicas que padecía. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el isla registrar este día temperatura de hasta 42 grado se agravar patología crónico que padecer consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "isla registrar día temperatura grado agravar patología crónico padecer consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "42"
+        ]
+    },
+    "body": {
+        "raw_text": "Un anciano de 74 años ha muerto por un golpe de calor en Gran Canaria, isla en que estos días registra temperaturas máximas de 42 grados. El fallecimiento de este hombre se ha producido al verse agravadas las patologías crónicas que padecía , según informó este viernes la consejería de Sanidad del Gobierno de Canarias. A causa de las altas temperaturas que sufre Gran Canaria también un anciano de 97 años y una mujer de 73 han tenido que ser ingresados en centros sanitarios de Gran Canaria, aunque su evolución es favorable . También continúa estable el joven ingresado este jueves en un hospital de Tenerife por un golpe de calor que sufrió tras permanecer una jornada trabajando al aire libre en horas de máximo calor.",
+        "lemmatized_text": "uno anciano de 74 año haber morir por uno golpe de calor en gran_canaria isla en que este día registrar temperatura máximo de 42 grado el fallecimiento de este hombre se haber producir a el ver se agravar el patología crónico que padecer según informar este [V:??/??/??:??.??:??] el consejería de sanidad_del_gobierno_de_canarias a_causa_de el alto temperatura que sufrir gran_canaria también uno anciano de 97 año y uno mujer de 73 haber tener que ser ingresar en centro sanitario de gran_canaria aunque su evolución ser favorable también continuar estable el joven ingresar este [J:??/??/??:??.??:??] en uno hospital de tenerife por uno golpe de calor que sufrir tras permanecer uno jornada trabajar a el aire libre en hora de máximo calor",
+        "lemmatized_text_reduced": "anciano año haber morir golpe calor gran_canaria isla día registrar temperatura máximo grado fallecimiento hombre haber producir ver agravar patología crónico padecer informar consejería sanidad_del_gobierno_de_canarias alto temperatura sufrir gran_canaria anciano año mujer haber tener ser ingresar centro sanitario gran_canaria evolución ser favorable continuar estable joven ingresar hospital tenerife golpe calor sufrir permanecer jornada trabajar aire libre hora máximo calor",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Sanidad_del_Gobierno_de_Canarias",
+            "Gran_Canaria",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "74",
+            "42",
+            "97",
+            "73"
+        ]
+    }
+}

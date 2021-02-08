@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/965890/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo remolca a un barco con 16 tripulantes a bordo en aguas cercanas a Gran Canaria",
+        "lemmatized_text": "salvamento_marítimo remolcar a uno barco con 16 tripulante a_bordo en agua cercano a gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo remolcar barco tripulante agua cercano gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "16"
+        ]
+    },
+    "lead": {
+        "raw_text": "El buque Miguel de Cervantes de Salvamento Marítimo ha remolcado en la madrugada de este lunes a un barco con 16 tripulantes a bordo y que se encontraba a unas 2 millas al nordeste a Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el buque miguel_de_cervantes_de_salvamento_marítimo haber remolcar en el madrugada de este [L:??/??/??:??.??:??] a uno barco con 16 tripulante a_bordo y que se encontrar a uno LN_mi:2 a el nordeste a las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "buque miguel_de_cervantes_de_salvamento_marítimo haber remolcar madrugada barco tripulante encontrar nordeste las_palmas_de_gran_canaria",
+        "persons": [
+            "Miguel_de_Cervantes_de_Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "16",
+            "LN_mi:2"
+        ]
+    },
+    "body": {
+        "raw_text": "El buque Miguel de Cervantes de Salvamento Marítimo ha remolcado en la madrugada de este lunes a un barco con 16 tripulantes a bordo y que se encontraba a unas 2 millas al nordeste a Las Palmas de Gran Canaria. El motivo del remolque, que se realizó entre las 01.00 y las 04.00 horas, fueron problemas con el motor del barco, de bandera italiana, según informaron fuentes de Salvamento Marítimo. Por otro lado, en la tarde del domingo, 20 de febrero, el Salvamar Arnai de Arrecife (Lanzarote) tuvo que asistir, entre las 15.00 y 16.00 horas, a una zodiac con tres personas a bordo. En esta ocasión, según las mismas fuentes, la zodiac sufrió una fallo en la vía de agua y en el motor, por lo que tuvo que ser remolcado hasta el Puerto de Arrecife.",
+        "lemmatized_text": "el buque miguel_de_cervantes_de_salvamento_marítimo haber remolcar en el madrugada de este [L:??/??/??:??.??:??] a uno barco con 16 tripulante a_bordo y que se encontrar a uno LN_mi:2 a el nordeste a las_palmas_de_gran_canaria el motivo de el remolque que se realizar entre el 1 y el TM_h:4 ser problema con el motor de el barco de bandera italiano según informar fuente de salvamento_marítimo por_otro_lado en el tarde de el [G:20/2/??:??.??:??] el salvamar_arnai_de_arrecife lanzarote tener que asistir entre el 15 y TM_h:16 a uno zodiac con 3 persona a_bordo en este ocasión según el mismo fuente el zodiac sufrir uno fallo en el vía de agua y en el motor por el que tener que ser remolcar hasta el puerto_de_arrecife",
+        "lemmatized_text_reduced": "buque miguel_de_cervantes_de_salvamento_marítimo haber remolcar madrugada barco tripulante encontrar nordeste las_palmas_de_gran_canaria motivo remolque realizar ser problema motor barco bandera italiano informar fuente salvamento_marítimo tarde salvamar_arnai_de_arrecife lanzarote tener asistir zodiac persona ocasión mismo fuente zodiac sufrir fallo vía agua motor tener ser remolcar puerto_de_arrecife",
+        "persons": [
+            "Miguel_de_Cervantes_de_Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Salvamar_Arnai_de_Arrecife",
+            "Lanzarote",
+            "Puerto_de_Arrecife"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[G:20/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "16",
+            "LN_mi:2",
+            "1",
+            "TM_h:4",
+            "15",
+            "TM_h:16",
+            "3"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/936429/0/",
+    "title": {
+        "raw_text": "Rivero afirma que el Gobierno canario \"no pone límites\" a la gestión de los aeropuertos",
+        "lemmatized_text": "rivero afirmar que el gobierno canario no poner límite a el gestión de el aeropuerto",
+        "lemmatized_text_reduced": "rivero afirmar gobierno canario poner límite gestión aeropuerto",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha afirmado este sábado que su Ejecutivo \"no pone límites\" a la gestión de los aeropuertos.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber afirmar este [S:??/??/??:??.??:??] que su ejecutivo no poner límite a el gestión de el aeropuerto",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber afirmar ejecutivo poner límite gestión aeropuerto",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha afirmado este sábado que su Ejecutivo \"no pone límites\" a la gestión de los aeropuertos. De esta forma, el jefe del Ejecutivo canario hacía referencia al acuerdo que el viernes alcanzaron AENA y representantes sindicales del gestor aeroportuario sobre la privatización del 49 por ciento del capital de la institución, prevista por el Gobierno central aunque será el próximo lunes cuando ambas partes prevén suscribirlo. \"Lo que hagan en la Península no tiene que ver nada con Canarias. Canarias va a pelear para gestionar sus aeropuertos. Nuestra puesta va a ser la gestión de los aeropuertos. Está clarísimo que ahora con la bonificación de las tasas se ha puesto de manifiesto que los aeropuertos es el instrumento más potente que tiene la economía canaria para garantizar su desarrollo social y económico, y no ponemos límites hasta donde participa Canarias en la gestión de los aeropuertos. El objetivo es gestionarlo\", apostilló en declaraciones a los medios antes de asistir a un acto público.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber afirmar este [S:??/??/??:??.??:??] que su ejecutivo no poner límite a el gestión de el aeropuerto de este forma el jefe de el ejecutivo canario hacer_referencia a el acuerdo que el [V:??/??/??:??.??:??] alcanzar aena y representante sindical de el gestor aeroportuario sobre el privatización de el 49 por 100 de el capital de el institución prever por el gobierno central aunque ser el [L:??/??/??:??.??:??] cuando ambos parte prever suscribir lo el que hacer en el península no tener que ver nada con canarias canario ir a pelear para gestionar su aeropuerto nuestro puesta ir a ser el gestión de el aeropuerto estar claro que ahora con el bonificación de el tasa se haber poner_de_manifiesto que el aeropuerto ser el instrumento más potente que tener el economía canario para garantizar su desarrollo social y económico y no poner límite hasta donde participar canarias en el gestión de el aeropuerto el objetivo ser gestionar lo apostillar en declaración a el medio antes_de asistir a uno acto público",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber afirmar ejecutivo poner límite gestión aeropuerto forma jefe ejecutivo canario hacer_referencia acuerdo alcanzar aena representante sindical gestor aeroportuario privatización capital institución prever gobierno central ser parte prever suscribir hacer península tener ver canarias canario ir pelear gestionar aeropuerto puesta ir ser gestión aeropuerto estar claro bonificación tasa haber poner_de_manifiesto aeropuerto ser instrumento potente tener economía canario garantizar desarrollo social económico poner límite participar canarias gestión aeropuerto objetivo ser gestionar apostillar declaración medio asistir acto público",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Península",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Ejecutivo",
+            "AENA",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "49",
+            "100"
+        ]
+    }
+}

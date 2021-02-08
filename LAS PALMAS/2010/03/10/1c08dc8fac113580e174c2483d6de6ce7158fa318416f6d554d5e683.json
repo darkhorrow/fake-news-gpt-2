@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/648777/0/",
+    "title": {
+        "raw_text": "Rescatada una senderista extranjera tras sufrir una caída en el Barranco de Tauro (Gran Canaria)",
+        "lemmatized_text": "rescatar uno senderista extranjero tras sufrir uno caída en el barranco_de_tauro gran_canaria",
+        "lemmatized_text_reduced": "rescatar senderista extranjero sufrir caída barranco_de_tauro gran_canaria",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Tauro",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El helicóptero del Grupo de Emergencias y Salvamento (GES) ha rescatado a una mujer de nacionalidad extranjera que resultó herida con traumatismo en miembro inferior de carácter menos grave, tras sufrir una caída en el Barranco de Tauro, en el municipio grancanario de Mogán, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el helicóptero de el grupo_de_emergencias y salvamento ges haber rescatar a uno mujer de nacionalidad extranjero que resultar herida con traumatismo en miembro inferior de carácter menos grave tras sufrir uno caída en el barranco_de_tauro en el municipio grancanario de mogán según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "helicóptero grupo_de_emergencias salvamento ges haber rescatar mujer nacionalidad extranjero resultar herida traumatismo miembro inferior carácter grave sufrir caída barranco_de_tauro municipio grancanario mogán informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Barranco_de_Tauro",
+            "Mogán"
+        ],
+        "organizations": [
+            "Grupo_de_Emergencias",
+            "GES",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 16.36 horas, cuando una llamada alertó al Cecoes comunicando que una mujer había sufrido una caída mientras practicaba senderismo en una zona de difícil acceso y precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Así pues, debido a la especial orografía del terreno, el helicóptero del GES fue el que finalmente procedió al rescate y al traslado de la accidentada hasta la helisuperficie del Hospital Universitario de Gran Canaria Doctor Negrín y de ahí en ambulancia de soporte vital básico del Servicio de Urgencias Canario a su interior para que recibiera la correspondiente asistencia sanitaria. En dicha actuación también intervino una unidad de tierra del GES, el Consorcio de Emergencias de Gran Canaria, la Guardia Civil, Policía Local y Protección Civil, que colaboraron en la localización de la afectada.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:16.36 cuando uno llamada alertar a el cecoes comunicar que uno mujer haber sufrir uno caída mientras practicar senderismo en uno zona de difícil acceso y precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario así_pues debido_a el especial orografía de el terreno el helicóptero de el ges ser el que finalmente proceder a el rescate y a el traslado de el accidentado hasta el helisuperficie de el hospital_universitario_de_gran_canaria_doctor_negrín y de ahí en ambulancia de soporte vital básico de el servicio_de_urgencias_canario a su interior para que recibir el correspondiente asistencia sanitario en decir actuación también intervenir uno unidad de tierra de el ges el consorcio_de_emergencias_de_gran_canaria el guardia_civil policía_local y protección_civil que colaborar en el localización de el afectado",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes comunicar mujer haber sufrir caída practicar senderismo zona difícil acceso precisar asistencia sanitario modo activar inmediato recurso emergencia necesario especial orografía terreno helicóptero ges ser finalmente proceder rescate traslado accidentado helisuperficie hospital_universitario_de_gran_canaria_doctor_negrín ambulancia soporte vital básico servicio_de_urgencias_canario interior recibir correspondiente asistencia sanitario decir actuación intervenir unidad tierra ges consorcio_de_emergencias_de_gran_canaria guardia_civil policía_local protección_civil colaborar localización afectado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "GES",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "GES",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Protección_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.36",
+            "112"
+        ]
+    }
+}

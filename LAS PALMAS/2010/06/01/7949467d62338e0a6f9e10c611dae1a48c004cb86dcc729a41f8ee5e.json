@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/724682/0/",
+    "title": {
+        "raw_text": "Ryanair anuncia una nueva conexión Lanzarote-Cork (Irlanda) y lanza 500.000 vuelos a 8 euros",
+        "lemmatized_text": "ryanair anunciar uno nuevo conexión lanzarote-cork irlanda y lanzar 500 vuelo a $_ECU:8",
+        "lemmatized_text_reduced": "ryanair anunciar nuevo conexión lanzarote-cork irlanda lanzar vuelo",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [],
+        "organizations": [
+            "Lanzarote-Cork",
+            "Irlanda"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "500",
+            "$_ECU:8"
+        ]
+    },
+    "lead": {
+        "raw_text": "La aerolínea Ryanair ha anunciado hoy el inicio de la nueva ruta desde la ciudad irlandesa de Cork a Lanzarote, con un vuelo semanal los sábados, y para celebrarlo lanza una oferta de 500.000 vuelos a 8 euros (sólo ida y tasas incluidas).",
+        "lemmatized_text": "el aerolínea ryanair haber anunciar hoy el inicio de el nuevo ruta desde el ciudad irlandés de cork a lanzarote con uno vuelo semanal el sábado y para celebrar lo lanzar uno oferta de 500 vuelo a $_ECU:8 sólo ida y tasa incluir",
+        "lemmatized_text_reduced": "aerolínea ryanair haber anunciar inicio nuevo ruta ciudad irlandés cork lanzarote vuelo semanal sábado celebrar lanzar oferta vuelo ida tasa incluir",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Cork",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "500",
+            "$_ECU:8"
+        ]
+    },
+    "body": {
+        "raw_text": "El responsable de marketing y ventas para España, Luis Fernández-Mellado, subraya en un comunicado que \"una nueva conexión se une a la red de rutas del aeropuerto de Lanzarote de cara a la estación estiva\". Así, destaca que Ryanair \"está convencida que este nuevo vuelo hará aumentar el número de turistas irlandeses en la isla este verano\". El aumento de los vuelos de Ryanair desde Irlanda hacia Lanzarote es \"una clara muestra de apoyo para el desarrollo y la recuperación del sector turístico de la isla\". Recuperar el turismo \"En el verano que todos llaman de la recuperación, Ryanair aporta al turismo de Lanzarote algo más que un grano de arena. Dado que Ryanair ofrece las tarifas más bajas garantizadas sin recargo de combustible, el éxito de esta nueva ruta está garantizado y este verano habrá más irlandeses disfrutando de las paradisíacas playas de Lanzarote\", añadió. Para celebrar el comienzo de las nuevas rutas, Ryanair lanza una \"espectacular\" oferta de 500.000 asientos a 8 euros. La demanda \"promete ser enorme\", así que anima a todos los interesados en viajar que visiten 'www.ryanair.com' cuanto antes para asegurarse una plaza.",
+        "lemmatized_text": "el responsable de marketing y venta para españa luis_fernández-mellado subrayar en uno comunicado que uno nuevo conexión se unir a el red de ruta de el aeropuerto de lanzarote de_cara_a el estación estiva así destacar que ryanair estar convencer que este nuevo vuelo hacer aumentar el número de turista irlandés en el isla este verano el aumento de el vuelo de ryanair desde irlanda hacia lanzarote ser uno claro muestra de apoyo para el desarrollo y el recuperación de el sector turístico de el isla recuperar el turismo en el verano que todo llamar de el recuperación ryanair aportar a el turismo de lanzarote algo más que uno grano de arena dado_que ryanair ofrecer el tarifa más bajo garantizar sin recargo de combustible el éxito de este nuevo ruta estar garantizar y este verano haber más irlandés disfrutar de el paradisíaco playa de lanzarote añadir para celebrar el comienzo de el nuevo ruta ryanair lanzar uno espectacular oferta de 500 asiento a $_ECU:8 el demanda prometer ser enorme así que animar a todo el interesar en viajar que visitar www.ryanair.com cuanto_antes para asegurar se uno plaza",
+        "lemmatized_text_reduced": "responsable marketing venta españa luis_fernández-mellado subrayar comunicado nuevo conexión unir red ruta aeropuerto lanzarote estación estiva destacar ryanair estar convencer nuevo vuelo hacer aumentar número turista irlandés isla verano aumento vuelo ryanair irlanda lanzarote ser claro muestra apoyo desarrollo recuperación sector turístico isla recuperar turismo verano llamar recuperación ryanair aportar turismo lanzarote grano arena ryanair ofrecer tarifa bajo garantizar recargo combustible éxito nuevo ruta estar garantizar verano haber irlandés disfrutar paradisíaco playa lanzarote añadir celebrar comienzo nuevo ruta ryanair lanzar espectacular oferta asiento demanda prometer ser enorme animar interesar viajar visitar www.ryanair.com asegurar plaza",
+        "persons": [
+            "Luis_Fernández-Mellado",
+            "Ryanair",
+            "Ryanair",
+            "Ryanair",
+            "Ryanair"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Ryanair",
+            "Irlanda",
+            "Lanzarote",
+            "Lanzarote",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "España"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "500",
+            "$_ECU:8"
+        ]
+    }
+}

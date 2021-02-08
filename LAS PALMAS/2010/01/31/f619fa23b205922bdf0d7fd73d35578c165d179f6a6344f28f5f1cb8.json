@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618803/0/",
+    "title": {
+        "raw_text": "CC critica que Ayuntamiento de Santa Brígida (Gran Canaria) destine los fondos del Plan E a proyectos \"nada prioritario\"",
+        "lemmatized_text": "cc criticar que ayuntamiento_de_santa_brígida gran_canaria destinar el fondo de el plan_e a proyecto nada prioritario",
+        "lemmatized_text_reduced": "cc criticar ayuntamiento_de_santa_brígida gran_canaria destinar fondo plan_e proyecto prioritario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "Ayuntamiento_de_Santa_Brígida",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Plan_E"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Coalición Canaria ha criticado que el equipo de gobierno de Santa Brígida, en el que gobiernan en coalición PP y Los Verdes, destine la \"mayor parte\" de los fondos del Plan E 2009 y 2010 a proyectos \"nada prioritarios\" para el municipio.",
+        "lemmatized_text": "coalición_canaria haber criticar que el equipo de gobierno de santa_brígida en el que gobernar en coalición pp y los_verdes destinar el mayor parte de el fondo de el plan_e 2009 y 2010 a proyecto nada prioritario para el municipio",
+        "lemmatized_text_reduced": "coalición_canaria haber criticar equipo gobierno santa_brígida gobernar coalición pp los_verdes destinar mayor parte fondo plan_e proyecto prioritario municipio",
+        "persons": [],
+        "locations": [
+            "Santa_Brígida"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "PP",
+            "Los_Verdes"
+        ],
+        "others": [
+            "Plan_E"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, la asignación que por el Plan E tiene actualmente Santa Brígida asciende a seis millones de euros. CC insistió, en un comunicado, que además los proyectos que se están realizando han contado con informes \"desfavorables de la interventora e importantes matices de la arquitecta municipal\". Al respecto, apuntó que \"sólo\" en el campo de fútbol municipal se han invertido \"cerca de 3 millones de euros\". Para CC, \"la ambición y la cabezonería\" del equipo de gobierno de Santa Brígida \"les llevan a cometer errores de este tipo, aún cuando todo apunta\" a que el municipio \"tiene otras prioridades que a pesar de ser debatidas en la junta de portavoces finalmente fueron rechazadas por el grupo de gobierno\". Agregó que se destinarán \"todos\" los fondos del Plan E a un edificio, que \"denominan polifuncional para servicios sociales, a pesar de que el municipio cuenta ya con un edificio para mayores\". En este sentido, los nacionalistas criticaron que \"ni la biblioteca que está en una precaria situación; ni la guardería con listas de espera; ni la Casa de la Cultura con la falta de espacio que tiene la escuela de música\", entre otras, son proyectos \"prioritarios\" porque \"son propuestas realizadas por CC y, sólo por eso, merecen el desprecio y el rechazo automático por parte de la mayoría de gobierno\".",
+        "lemmatized_text": "en concreto el asignación que por el plan_e tener actualmente santa_brígida ascender a $_ECU:6000000 cc insistir en uno comunicado que además el proyecto que se estar realizar haber contar con informe desfavorable de el interventor y importante matiz de el arquitecto municipal a el respecto apuntar que sólo en el campo de fútbol municipal se haber invertir cerca de $_ECU:3000000 para cc el ambición y el cabezonería de el equipo de gobierno de santa_brígida le llevar a cometer error de este tipo aún_cuando todo apuntar a que el municipio tener otro prioridad que a_pesar_de ser debatir en el junta de portavoz finalmente ser rechazar por el grupo de gobierno agregar que se destinar todo el fondo de el plan_e a uno edificio que denominar polifuncional para servicio social a_pesar_de que el municipio contar ya con uno edificio para mayor en este sentido el nacionalista criticar que ni el biblioteca que estar en uno precario situación ni el guardería con lista de espera ni el casa_de_la_cultura con el falta de espacio que tener el escuela de música entre otro ser proyecto prioritario porque ser propuesta realizar por cc y sólo por ese merecer el desprecio y el rechazo automático por parte de el mayoría de gobierno",
+        "lemmatized_text_reduced": "concreto asignación plan_e tener actualmente santa_brígida ascender cc insistir comunicado proyecto estar realizar haber contar informe desfavorable interventor importante matiz arquitecto municipal respecto apuntar campo fútbol municipal haber invertir cc ambición cabezonería equipo gobierno santa_brígida llevar cometer error tipo apuntar municipio tener prioridad ser debatir junta portavoz finalmente ser rechazar grupo gobierno agregar destinar fondo plan_e edificio denominar polifuncional servicio social municipio contar edificio mayor sentido nacionalista criticar biblioteca estar precario situación guardería lista espera casa_de_la_cultura falta espacio tener escuela música ser proyecto prioritario ser propuesta realizar cc merecer desprecio rechazo automático parte mayoría gobierno",
+        "persons": [],
+        "locations": [
+            "Santa_Brígida"
+        ],
+        "organizations": [
+            "Plan_E",
+            "Santa_Brígida",
+            "CC",
+            "CC",
+            "Casa_de_la_Cultura",
+            "CC"
+        ],
+        "others": [
+            "Plan_E"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:6000000",
+            "$_ECU:3000000"
+        ]
+    }
+}

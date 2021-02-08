@@ -1,0 +1,107 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/925596/0/",
+    "title": {
+        "raw_text": "Detenidas 25 personas en Barcelona, Las Palmas y Madrid acusadas de tráfico de droga entre Perú y España",
+        "lemmatized_text": "detener 25 persona en barcelona las_palmas y madrid acusar de tráfico de droga entre perú y españa",
+        "lemmatized_text_reduced": "detener persona barcelona las_palmas madrid acusar tráfico droga perú españa",
+        "persons": [],
+        "locations": [
+            "Barcelona",
+            "Las_Palmas",
+            "Madrid"
+        ],
+        "organizations": [
+            "Perú",
+            "España"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25"
+        ]
+    },
+    "lead": {
+        "raw_text": "Agentes de la Guardia Civil y de la Policía Nacional de Perú han detenido a 25 personas acusadas de pertenecer a una red dedicada al tráfico de cocaína entre Perú y España. Los arrestos se han llevado a cabo en Barcelona, Las Palmas, Madrid y Perú y se han intervenido 65.000 euros, según ha informado el Ministerio del Interior.",
+        "lemmatized_text": "agentes_de_la_guardia_civil y de el policía_nacional_de_perú haber detener a 25 persona acusar de pertenecer a uno red dedicar a el tráfico de cocaína entre perú y españa el arresto se haber llevar_a_cabo en barcelona las_palmas madrid y perú y se haber intervenir $_ECU:65 según haber informar el ministerio_del_interior",
+        "lemmatized_text_reduced": "agentes_de_la_guardia_civil policía_nacional_de_perú haber detener persona acusar pertenecer red dedicar tráfico cocaína perú españa arresto haber llevar_a_cabo barcelona las_palmas madrid perú haber intervenir haber informar ministerio_del_interior",
+        "persons": [],
+        "locations": [
+            "España",
+            "Barcelona",
+            "Madrid",
+            "Perú"
+        ],
+        "organizations": [
+            "Agentes_de_la_Guardia_Civil",
+            "Policía_Nacional_de_Perú",
+            "Perú",
+            "Las_Palmas",
+            "Ministerio_del_Interior"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25",
+            "$_ECU:65"
+        ]
+    },
+    "body": {
+        "raw_text": "Agentes de la Guardia Civil y de la Policía Nacional de Perú han detenido a 25 personas acusadas de pertenecer a una red dedicada al tráfico de cocaína entre Perú y España. Los arrestos se han llevado a cabo en Barcelona, Las Palmas, Madrid y Perú y se han intervenido 65.000 euros, según ha informado el Ministerio del Interior. Concretamente, se han detenido en España a diecinueve personas, entre ellas doce españoles, cinco dominicanos y dos venezolanos, y en Perú a cuatro peruanos, un mexicano y un venezolano a los que se le han incautado más de cinco kilos de cocaína para su traslado a España. De este modo, en el marco de la operación denominada Palmero se han intervenido en España 20 kilos de cocaína, 65.000 euros, tres pistolas de munición, diverso material de laboratorio, documentos de identidad falsificados y documentación relacionada con la investigación. Asimismo, en Perú se han incautado 5,275 kilos de cocaína, dos pistolas así como papeles que hacían referencia a la investigación. Las investigaciones se iniciaron cuando el Equipo Contra el Crimen Organizado (ECO) de la Unidad Central Operativa de la Guardia Civil con sede en las Palmas tuvo conocimiento de la existencia de una organización de narcotraficantes que estaba introduciendo en las Islas Canarias partidas de cocaína que previamente había sido trasladada desde Perú a España utilizando los aeropuertos de Madrid-Barajas y Gran Canaria. Tras las primeras averiguaciones se pudo saber que dicha organización utilizaba dos maneras distintas para la instrucción de la droga en España. Una consistía en ocultar la droga en el interior del organismo (estómago o vagina) y transporte del estupefaciente, modalidad conocida como \"mula\". Otro de los procedimientos que utilizaban era embarcar en el país de origen la droga oculta en equipajes de mano, preparada en fajas elaboradas artesanalmente. Una vez que el avión aterrizaba en el aeropuerto de Madrid-Barajas, dos empleados de una empresa de servicios de atención a disminuidos físicos, pertenecientes a la organización, aprovechaban su acceso al avión para adosarse las fajas al cuerpo y sacarlas del recinto aeroportuario utilizando diversas puertas por las que tenían acceso libre. Tras sacar la droga fuera de recinto aeroportuario, la entregaban a otros miembros de la organización que se encargaban de hacerla llegar a los cabecillas de la red en Barcelona, que a su vez la trasladaban a un piso de la ciudad condal que utilizaban como laboratorio, donde se procedía a su corte y adulteración, multiplicando de esta manera considerablemente su cantidad. Este inmueble se utilizaba también como piso de seguridad, para custodia del dinero obtenido con el tráfico de drogas y de las armas de fuego de la red.",
+        "lemmatized_text": "agentes_de_la_guardia_civil y de el policía_nacional_de_perú haber detener a 25 persona acusar de pertenecer a uno red dedicar a el tráfico de cocaína entre perú y españa el arresto se haber llevar_a_cabo en barcelona las_palmas madrid y perú y se haber intervenir $_ECU:65 según haber informar el ministerio_del_interior concretamente se haber detener en españa a 19 persona entre ellos 12 español 5 dominicano y 2 venezolano y en perú a 4 peruano uno mexicano y uno venezolano a el que se le haber incautar más de 5 kilo de cocaína para su traslado a españa de este modo en el marco de el operación denominar palmero se haber intervenir en españa 20 kilo de cocaína $_ECU:65 3 pistola de munición diverso material de laboratorio documento de identidad falsificar y documentación relacionar con el investigación asimismo en perú se haber incautar 5275 kilo de cocaína 2 pistola así_como papel que hacer_referencia a el investigación el investigación se iniciar cuando el equipo_contra_el_crimen_organizado eco de el unidad_central_operativa_de_la_guardia_civil con sede en el palmas tener conocimiento de el existencia de uno organización de narcotraficante que estar introducir en el islas_canarias partida de cocaína que previamente haber ser trasladar desde perú a españa utilizar el aeropuerto de madrid-barajas y gran_canaria tras el 1 averiguación se poder saber que decir organización utilizar 2 manera distinto para el instrucción de el droga en españa uno consistir en ocultar el droga en el interior de el organismo estómago o vagina y transporte de el estupefaciente modalidad conocer como mulo otro de el procedimiento que utilizar ser embarcar en el país de origen el droga oculto en equipaje de mano preparar en faja elaborar artesanalmente una_vez_que el avión aterrizar en el aeropuerto de madrid-barajas 2 empleado de uno empresa de servicio de atención a disminuir físico perteneciente a el organización aprovechar su acceso a el avión para adosar se el faja a el cuerpo y sacar lo de el recinto aeroportuario utilizar diverso puerta por el que tener acceso libre tras sacar el droga fuera_de recinto aeroportuario el entregar a otro miembro de el organización que se encargar de hacer lo llegar a el cabecilla de el red en barcelona que a su vez lo trasladar a uno piso de el ciudad condal que utilizar como laboratorio donde se proceder a su corte y adulteración multiplicar de este manera considerablemente su cantidad este inmueble se utilizar también como piso de seguridad para custodia de el dinero obtener con el tráfico de droga y de el arma de fuego de el red",
+        "lemmatized_text_reduced": "agentes_de_la_guardia_civil policía_nacional_de_perú haber detener persona acusar pertenecer red dedicar tráfico cocaína perú españa arresto haber llevar_a_cabo barcelona las_palmas madrid perú haber intervenir haber informar ministerio_del_interior concretamente haber detener españa persona español dominicano venezolano perú peruano mexicano venezolano haber incautar kilo cocaína traslado españa modo marco operación denominar palmero haber intervenir españa kilo cocaína pistola munición material laboratorio documento identidad falsificar documentación relacionar investigación perú haber incautar kilo cocaína pistola papel hacer_referencia investigación investigación iniciar equipo_contra_el_crimen_organizado eco unidad_central_operativa_de_la_guardia_civil sede palmas tener conocimiento existencia organización narcotraficante estar introducir islas_canarias partida cocaína previamente haber ser trasladar perú españa utilizar aeropuerto madrid-barajas gran_canaria 1 averiguación poder saber decir organización utilizar manera distinto instrucción droga españa consistir ocultar droga interior organismo estómago vagina transporte estupefaciente modalidad conocer mulo procedimiento utilizar ser embarcar país origen droga oculto equipaje mano preparar faja elaborar artesanalmente avión aterrizar aeropuerto madrid-barajas empleado empresa servicio atención disminuir físico perteneciente organización aprovechar acceso avión adosar faja cuerpo sacar recinto aeroportuario utilizar puerta tener acceso libre sacar droga recinto aeroportuario entregar miembro organización encargar hacer llegar cabecilla red barcelona vez trasladar piso ciudad condal utilizar laboratorio proceder corte adulteración multiplicar manera considerablemente cantidad inmueble utilizar piso seguridad custodia dinero obtener tráfico droga arma fuego red",
+        "persons": [
+            "Palmero"
+        ],
+        "locations": [
+            "España",
+            "Barcelona",
+            "Madrid",
+            "Perú",
+            "España",
+            "Perú",
+            "España",
+            "España",
+            "Perú",
+            "Palmas",
+            "Islas_Canarias",
+            "España",
+            "Madrid-Barajas",
+            "Gran_Canaria",
+            "España",
+            "Madrid-Barajas",
+            "Barcelona"
+        ],
+        "organizations": [
+            "Agentes_de_la_Guardia_Civil",
+            "Policía_Nacional_de_Perú",
+            "Perú",
+            "Las_Palmas",
+            "Ministerio_del_Interior",
+            "Equipo_Contra_el_Crimen_Organizado",
+            "ECO",
+            "Unidad_Central_Operativa_de_la_Guardia_Civil",
+            "Perú"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25",
+            "$_ECU:65",
+            "19",
+            "12",
+            "5",
+            "2",
+            "4",
+            "5",
+            "20",
+            "$_ECU:65",
+            "3",
+            "5275",
+            "2",
+            "2",
+            "2"
+        ]
+    }
+}

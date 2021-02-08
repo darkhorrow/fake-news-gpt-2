@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595115/0/",
+    "title": {
+        "raw_text": "Un total de cuatro tramos de carretera de Gran Canaria continúan cortados al tráfico por desprendimientos",
+        "lemmatized_text": "uno total de 4 tramo de carretera de gran_canaria continuar cortar a el tráfico por desprendimiento",
+        "lemmatized_text_reduced": "total tramo carretera gran_canaria continuar cortar tráfico desprendimiento",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de cuatro tramos de carretera de la isla de Gran Canaria continúan en estos momentos cerrados al tráfico por los desprendimientos que ha causado la lluvia y el viento, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno total de 4 tramo de carretera de el isla de gran_canaria continuar en este momento cerrar a el tráfico por el desprendimiento que haber causar el lluvia y el viento según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "total tramo carretera isla gran_canaria continuar momento cerrar tráfico desprendimiento haber causar lluvia viento informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, la GC-330 que une Arucas con Bañaderos en el norte de la isla, sigue sin estar transitable por la caída de piedras y barro sobre el asfalto, al igual que la GC-600, a su paso por el municipio sureño de San Bartolomé de Tirajana, concretamente en el tramo entre Cueva Grande y Ayacata. En la zona de La Aldea, continúa cerrada al tránsito de vehículos la vía GC-200 que discurre entre Mogán y La Aldea y la GC-606 en el acceso a la presa del Paralillo. La consejera de Seguridad y Emergencias del Cabildo de Gran Canaria, Rosa Monzón, aseguró que en esta zona \"no ha habido grandes incidencias aunque la carretera sigue cerrada porque ha seguido lloviendo en esa zona de forma moderada y no se aconseja la circulación\". Asimismo, la responsable insular del área indicó que a pesar de que continúa lloviendo en la zona suroeste de la isla, \"se sigue trabajando desescombrando carreteras y quitando el barro para poder hacerlas transitables\".",
+        "lemmatized_text": "en concreto el GC-330 que unir arucas con bañaderos en el norte de el isla seguir sin estar transitable por el caída de piedra y barro sobre el asfalto al_igual_que el GC-600 a su paso por el municipio sureño de san_bartolomé_de_tirajana concretamente en el tramo entre cueva_grande y ayacata en_la_zona_de la_aldea continuar cerrar a el tránsito de vehículo el vía GC-200 que discurrir entre mogán y la_aldea y el GC-606 en el acceso a el presa de el paralillo el consejero de seguridad y emergencias_del_cabildo_de_gran_canaria rosa_monzón asegurar que en este zona no haber haber grande incidencia aunque el carretera seguir cerrar porque haber seguir llover en ese zona de forma moderar y no se aconsejar el circulación asimismo el responsable insular de el área indicar que a_pesar_de que continuar llover en el zona suroeste de el isla se seguir trabajar desescombrar carretera y quitar el barro para poder hacer lo transitable",
+        "lemmatized_text_reduced": "concreto unir arucas bañaderos norte isla seguir estar transitable caída piedra barro asfalto paso municipio sureño san_bartolomé_de_tirajana concretamente tramo cueva_grande ayacata la_aldea continuar cerrar tránsito vehículo vía discurrir mogán la_aldea acceso presa paralillo consejero seguridad emergencias_del_cabildo_de_gran_canaria rosa_monzón asegurar zona haber haber grande incidencia carretera seguir cerrar haber seguir llover zona forma moderar aconsejar circulación responsable insular área indicar continuar llover zona suroeste isla seguir trabajar desescombrar carretera quitar barro poder hacer transitable",
+        "persons": [
+            "Mogán",
+            "Rosa_Monzón"
+        ],
+        "locations": [
+            "Arucas",
+            "Bañaderos",
+            "San_Bartolomé_de_Tirajana",
+            "Cueva_Grande",
+            "Ayacata",
+            "La_Aldea",
+            "La_Aldea",
+            "Paralillo"
+        ],
+        "organizations": [
+            "Emergencias_del_Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-330",
+            "GC-600",
+            "GC-200",
+            "GC-606"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/656172/0/",
+    "title": {
+        "raw_text": "La Guardia Civil detiene a un joven tras robar en el interior de una vivienda en Tías (Lanzarote)",
+        "lemmatized_text": "el guardia_civil detener a uno joven tras robar en_el_interior_de uno vivienda en tías lanzarote",
+        "lemmatized_text_reduced": "guardia_civil detener joven robar vivienda tías lanzarote",
+        "persons": [],
+        "locations": [
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil del Puesto Principal de Tías, en Lanzarote, ha procedido a la detención de un individuo --J.R.C, natural Arrecife y de 22 años de edad--, por un delito de robo con fuerza, tras el robo de una vivienda unifamiliar, según informó hoy la Benemérita en un comunicado.",
+        "lemmatized_text": "el guardia_civil_del_puesto_principal_de_tías en lanzarote haber proceder a el detención de uno individuo j.r._c natural arrecife y de 22 año de edad por uno delito de robo con fuerza tras el robo de uno vivienda unifamiliar según informar hoy el benemérita en uno comunicado",
+        "lemmatized_text_reduced": "guardia_civil_del_puesto_principal_de_tías lanzarote haber proceder detención individuo j.r._c natural arrecife año edad delito robo fuerza robo vivienda unifamiliar informar benemérita comunicado",
+        "persons": [
+            "J.R._C",
+            "Arrecife"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Guardia_Civil_del_Puesto_Principal_de_Tías",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "22"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el pasado 15 de marzo, agentes del Área de Investigación, consiguieron detener al autor de un robo en el interior de una vivienda unifamiliar del término municipal de Tías, perpetrado a principios del mismo. Además, gracias a la colaboración de la ciudadanía se logró recuperar parte de los efectos sustraídos, valorados en unos 900 euros, objetos entre los que se encuentran un ordenador portátil y un teléfono móvil. Finalmente, las diligencias junto con el detenido, fueron entregadas en el Juzgado de Guardia e Instrucción número Uno de Arrecife.",
+        "lemmatized_text": "de este manera el [??:15/3/??:??.??:??] agente de el área_de_investigación conseguir detener a el autor de uno robo en_el_interior_de uno vivienda unifamiliar de el término municipal de tías perpetrar a principio de el mismo además gracias_a el colaboración de el ciudadanía se lograr recuperar parte de el efecto sustraer valorar en uno $_ECU:900 objeto entre el que se encontrar uno ordenador portátil y uno teléfono móvil finalmente el diligencia junto_con el detenido ser entregar en el juzgado_de_guardia y instrucción número uno de arrecife",
+        "lemmatized_text_reduced": "manera agente área_de_investigación conseguir detener autor robo vivienda unifamiliar término municipal tías perpetrar principio colaboración ciudadanía lograr recuperar parte efecto sustraer valorar objeto encontrar ordenador portátil teléfono móvil finalmente diligencia detenido ser entregar juzgado_de_guardia instrucción número arrecife",
+        "persons": [],
+        "locations": [
+            "Tías",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Área_de_Investigación",
+            "Juzgado_de_Guardia",
+            "Instrucción"
+        ],
+        "others": [],
+        "dates": [
+            "[??:15/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:900"
+        ]
+    }
+}

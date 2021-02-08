@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/653802/0/",
+    "title": {
+        "raw_text": "Una mujer resulta herida en el vuelco de un vehículo en Antigua (Fuerteventura)",
+        "lemmatized_text": "uno mujer resultar herir en el vuelco de uno vehículo en antigua fuerteventura",
+        "lemmatized_text_reduced": "mujer resultar herir vuelco vehículo antigua fuerteventura",
+        "persons": [],
+        "locations": [
+            "Antigua",
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un mujer de 25 años de edad ha resultado herida con policontusiones de carácter leve en la carretera de Los Alares en el municipio de Antigua (Fuerteventura), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno mujer de 25 año de edad haber resultar herida con policontusión de carácter leve en el carretera de los_alares en el municipio de antigua fuerteventura según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "mujer año edad haber resultar herida policontusión carácter leve carretera los_alares municipio antigua fuerteventura informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Los_Alares",
+            "Antigua"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "25",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo sobre las 07.30 horas, cuando se recibió una llamada en el Cecoes del incidente en el citado lugar. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se trasladó personal médico del Servicio de Urgencias Canario (SUC), que constató que la afectada tenía heridas leves, si bien procedió a su evacuación en ambulancia al Hospital General de Fuerteventura para su observación. En dicha actuación intervinieron bomberos y la Policía Local, que se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el accidente se producir sobre el TM_h:7.3 cuando se recibir uno llamada en el cecoes de el incidente en el citar lugar de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se trasladar personal médico de el servicio_de_urgencias_canario suc que constatar que el afectado tener herida leve si bien proceder a su evacuación en ambulancia a el hospital_general_de_fuerteventura para su observación en decir actuación intervenir bombero y el policía_local que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "accidente producir recibir llamada cecoes incidente citar lugar modo activar inmediato dispositivo emergencia necesario lugar trasladar personal médico servicio_de_urgencias_canario suc constatar afectado tener herida leve proceder evacuación ambulancia hospital_general_de_fuerteventura observación decir actuación intervenir bombero policía_local encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_General_de_Fuerteventura",
+            "Policía_Local"
+        ],
+        "others": [
+            "Cecoes"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.3",
+            "112"
+        ]
+    }
+}

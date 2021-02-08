@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-11-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/426438/0/cartel/festival/womad/",
+    "title": {
+        "raw_text": "Hoy comienza el Womad con 28 artistas de 16 países diferentes",
+        "lemmatized_text": "hoy comenzar el womad con 28 artista de 16 país diferente",
+        "lemmatized_text_reduced": "comenzar womad artista país diferente",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Womad"
+        ],
+        "dates": [],
+        "numbers": [
+            "28",
+            "16"
+        ]
+    },
+    "lead": {
+        "raw_text": "Destacan los artistas de música \"afrobeat\" y la música canaria más actual. El festival finaliza el próximo domingo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "destacar el artista de música afrobeat y el música canario más actual el festival finalizar el [G:??/??/??:??.??:??] consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "destacar artista música afrobeat música canario actual festival finalizar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El XIV Womad de Las Palmas de Gran Canaria que comenzará hoy se caracterizará este año por un cartel donde sobresale la presencia de artistas contemporáneos como El Guincho, Dj Yoda o Femi Kuti, según informó el Ayuntamiento de la capital grancanaria. En total serán 28 los artistas, procedentes de 16 países diferentes , los que se den cita en la capital grancanaria para poner en los escenarios instalados en el parque de Santa Catalina , música, arte y danza durante cuatro días, ya que comenzará hoy y finalizará el domingo, 9 de noviembre. Música africana y más cosas Femi Kuti será uno de los \"grandes representantes\" de la música actual africana , así como el batería de origen nigeriano Tony Allen, considerado \"co-fundador del afrobeat\". Asimismo a la cita acudirán otros representantes de África, tales como Ba Cissoko, que hará sonar la \"kora más actualizada\" o los marroquíes de Darga, entre otros. Además, Speed Caravan y Babylon Circus llegarán desde Francia, mientras que del Reino Unido estarán Dj WattsRiot, Dj Benn & MC Souls Libetarion y Dj Yoda, este último definido por la revista británica Q como \"uno de los 10 Djs que hay que ver antes de morir\". Por otro lado, el sonido afrobeat estará en el Womad representado por el neoyorkino Antibalas y la música kurda de la mano de Aynur. Asimismo se podrán escuchar sonidos asiáticos y de soul, así como música gitana, tropical y rock, entre otros.",
+        "lemmatized_text": "el xiv_womad_de_las_palmas_de_gran_canaria que comenzar hoy se caracterizar este año por uno cartel donde sobresalir el presencia de artista contemporáneo como el_guincho dj_yoda o femi_kuti según informar el ayuntamiento de el capital grancanaria en total ser 28 el artista procedente de 16 país diferente el que se dar cita en el capital grancanaria para poner en el escenario instalar en el parque de santa_catalina música arte y danza durante TM_d:4 ya_que comenzar hoy y finalizar el [G:9/11/??:??.??:??] música africano y más cosa femi_kuti ser uno de el grande representante de el música actual africano así_como el batería de origen nigeriano tony_allen considerar co-fundador de el afrobeat asimismo a el cita acudir otro representante de áfrica tal como ba_cissoko que hacer sonar el kora más actualizar o el marroquí de darga entre otro además speed_caravan y babylon_circus llegar desde francia mientras_que de el reino_unido estar dj_wattsriot dj_benn_&_mc_souls_libetarion y dj_yoda este último definir por el revista británico q como uno de el 10 djs que haber que ver antes_de morir por_otro_lado el sonido afrobeat estar en el womad representar por el neoyorkino antibalas y el música kurdo de_la_mano_de aynur asimismo se poder escuchar sonido asiático y de soul así_como música gitano tropical y rock entre otro",
+        "lemmatized_text_reduced": "xiv_womad_de_las_palmas_de_gran_canaria comenzar caracterizar año cartel sobresalir presencia artista contemporáneo el_guincho dj_yoda femi_kuti informar ayuntamiento capital grancanaria total ser artista procedente país diferente dar cita capital grancanaria poner escenario instalar parque santa_catalina música arte danza comenzar finalizar música africano cosa femi_kuti ser grande representante música actual africano batería origen nigeriano tony_allen considerar co-fundador afrobeat cita acudir representante áfrica ba_cissoko hacer sonar kora actualizar marroquí darga speed_caravan babylon_circus llegar francia reino_unido estar dj_wattsriot dj_benn_&_mc_souls_libetarion dj_yoda último definir revista británico q djs haber ver morir sonido afrobeat estar womad representar neoyorkino antibalas música kurdo aynur poder escuchar sonido asiático soul música gitano tropical rock",
+        "persons": [
+            "El_Guincho",
+            "Dj_Yoda",
+            "Femi_Kuti",
+            "Femi_Kuti",
+            "Tony_Allen",
+            "Ba_Cissoko",
+            "Speed_Caravan",
+            "Babylon_Circus",
+            "Dj_WattsRiot",
+            "Dj_Benn_&_MC_Souls_Libetarion",
+            "Dj_Yoda",
+            "Djs",
+            "Aynur"
+        ],
+        "locations": [
+            "Santa_Catalina",
+            "África",
+            "Darga",
+            "Francia"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Reino_Unido",
+            "Q",
+            "Antibalas"
+        ],
+        "others": [
+            "XIV_Womad_de_Las_Palmas_de_Gran_Canaria",
+            "Womad"
+        ],
+        "dates": [
+            "[G:9/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "28",
+            "16",
+            "TM_d:4",
+            "10"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/702921/0/",
+    "title": {
+        "raw_text": "Los aeropuertos canarios vuelven a operar a excepción de La Palma",
+        "lemmatized_text": "el aeropuerto canario volver a operar a_excepción_de la_palma",
+        "lemmatized_text_reduced": "aeropuerto canario volver operar la_palma",
+        "persons": [],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Todos los aeropuertos canarios han vuelto ya a operar su espacio aéreo a excepción del de La Palma, según informó hoy el organismo europeo que coordina el tráfico aéreo, Eurocontrol.",
+        "lemmatized_text": "todo el aeropuerto canario haber volver ya a operar su espacio aéreo a excepción de el de la_palma según informar hoy el organismo europeo que coordinar el tráfico aéreo eurocontrol",
+        "lemmatized_text_reduced": "aeropuerto canario haber volver operar espacio aéreo excepción la_palma informar organismo europeo coordinar tráfico aéreo eurocontrol",
+        "persons": [
+            "Eurocontrol"
+        ],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La última información de hoy de Aeropuertos Españoles y Navegación Aérea (Aena) apuntaba el cierre del aeropuerto de Lanzarote a partir de las 10.00 horas de hoy, que se sumaba a los cierres de Tenerife, La Palma y La Gomera desde las 05.00 horas de hoy, aunque según Eurocontrol ya sólo quedaría cerrado el aeropuerto palmero. Un total de 92 vuelos han sido cancelados en cuatro aeropuertos canarios por causa de la nube de ceniza volcánica que se encuentra sobre La Palma, Tenerife y La Gomera.",
+        "lemmatized_text": "el último información de hoy de aeropuertos_españoles y navegación_aérea aena apuntar el cierre de el aeropuerto de lanzarote a_partir_de el TM_h:10 de hoy que se sumar a el cierre de tenerife la_palma y la_gomera desde el TM_h:5 de hoy aunque según eurocontrol ya sólo quedar cerrar el aeropuerto palmero uno total de 92 vuelo haber ser cancelar en 4 aeropuerto canario por_causa_de el nube de ceniza volcánico que se encontrar sobre la_palma tenerife y la_gomera",
+        "lemmatized_text_reduced": "último información aeropuertos_españoles navegación_aérea aena apuntar cierre aeropuerto lanzarote sumar cierre tenerife la_palma la_gomera eurocontrol quedar cerrar aeropuerto palmero total vuelo haber ser cancelar aeropuerto canario nube ceniza volcánico encontrar la_palma tenerife la_gomera",
+        "persons": [
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea",
+            "Eurocontrol"
+        ],
+        "locations": [
+            "Lanzarote",
+            "La_Palma",
+            "La_Gomera",
+            "La_Palma",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Aena",
+            "Tenerife",
+            "La_Gomera"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10",
+            "TM_h:5",
+            "92",
+            "4"
+        ]
+    }
+}

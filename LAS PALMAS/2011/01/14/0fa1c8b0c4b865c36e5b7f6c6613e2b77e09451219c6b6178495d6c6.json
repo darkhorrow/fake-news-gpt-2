@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/927960/0/",
+    "title": {
+        "raw_text": "La Fiscalía solicita 16 años de prisión para el responsable del incendio que tuvo lugar en Gran Canaria en 2007",
+        "lemmatized_text": "el fiscalía solicitar 16 año de prisión para el responsable de el incendio que tener_lugar en gran_canaria en 2007",
+        "lemmatized_text_reduced": "fiscalía solicitar año prisión responsable incendio tener_lugar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "16",
+            "2007"
+        ]
+    },
+    "lead": {
+        "raw_text": "Aunque al no poderse cumplir los plazos máximos de prisión provisional, pide la libertad provisional hasta el juicio",
+        "lemmatized_text": "aunque a el no poder se cumplir el plazo máximo de prisión provisional pedir el libertad provisional hasta el juicio",
+        "lemmatized_text_reduced": "poder cumplir plazo máximo prisión provisional pedir libertad provisional juicio",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Fiscalía Provincial de Las Palmas ha solicitado un total de 16 años de prisión, inhabilitación absoluta por el tiempo de condena y una multa de 18 meses con cuota diaria de 10 euros para el imputado como presunto responsable de incendio que tuvo lugar en Gran Canaria en julio de 2007. Así, en fechas recientes se ha remitido al Juzgado de Instrucción nº 2 de los de Arucas, el escrito de acusación formulado por el Ministerio Fiscal en el procedimiento Tribunal del Jurado nº 1/2009, en el asunto conocido como incendio de Gran Canaria que tuvo lugar en el mes de julio del año 2007. En un comunicado, la Institución fiscal explicó que también se solicita una indemnización para más de 150 perjudicados —entre personas físicas y jurídicas, públicas y privadas—, que en total suman cantidades que superan los 17 millones de euros, según informe pericial obrante en autos. Asimismo, la Fiscalía solicita que estas cantidades sean satisfechas por el imputado, y subsidiariamente, por la entidad pública Gesplan y por el Cabildo de Gran Canaria, así como, en su caso, por sus respectivas aseguradoras. Finalmente, teniendo en cuenta que, a pesar de los esfuerzos realizados por el Juzgado de Instrucción, no parece previsible que el acto de juicio oral pueda celebrarse antes de que se cumplan los plazos máximos legales de prisión provisional, el Ministerio Fiscal, en cumplimiento del principio de legalidad que rige nuestra institución, ha solicitado la puesta en libertad provisional del imputado, con obligación de comparecencias semanales ante el Juzgado y con la prohibición de salida del territorio nacional mediante la retención del pasaporte.",
+        "lemmatized_text": "el fiscalía_provincial_de_las_palmas haber solicitar uno total de 16 año de prisión inhabilitación absoluto por el tiempo de condena y uno multa de 18 mes con cuota diario de $_ECU:10 para el imputar como presunto responsable de incendio que tener_lugar en gran_canaria en [??:??/7/2007:??.??:??] así en fecha reciente se haber remitir a el juzgado_de_instrucción número 2 de el de arucas el escrito de acusación formular por el ministerio_fiscal en el procedimiento tribunal_del_jurado número 1/2009 en el asunto conocer como incendio de gran_canaria que tener_lugar en el [??:??/7/2007:??.??:??] en uno comunicado el institución fiscal explicar que también se solicitar uno indemnización para más de 150 perjudicado entre persona físico y jurídico público y privar que en total sumar cantidad que superar el $_ECU:17000000 según informe pericial obrante en auto asimismo el fiscalía solicitar que este cantidad ser satisfacer por el imputar y subsidiariamente por el entidad público gesplan y por el cabildo_de_gran_canaria así_como en su caso por su respectivo asegurador finalmente tener_en_cuenta que a_pesar_de el esfuerzo realizar por el juzgado_de_instrucción no parecer previsible que el acto de juicio oral poder celebrar se antes_de que se cumplir el plazo máximo legal de prisión provisional el ministerio_fiscal en cumplimiento de el principio de legalidad que regir nuestro institución haber solicitar el puesta en libertad provisional de el imputar con obligación de comparecencia semanal ante el juzgado y con el prohibición de salida de el territorio nacional mediante el retención de el pasaporte",
+        "lemmatized_text_reduced": "fiscalía_provincial_de_las_palmas haber solicitar total año prisión inhabilitación absoluto tiempo condena multa mes cuota diario imputar presunto responsable incendio tener_lugar gran_canaria fecha reciente haber remitir juzgado_de_instrucción número arucas escrito acusación formular ministerio_fiscal procedimiento tribunal_del_jurado número asunto conocer incendio gran_canaria tener_lugar comunicado institución fiscal explicar solicitar indemnización perjudicado persona físico jurídico público privar total sumar cantidad superar informe pericial obrante auto fiscalía solicitar cantidad ser satisfacer imputar subsidiariamente entidad público gesplan cabildo_de_gran_canaria caso respectivo asegurador finalmente tener_en_cuenta esfuerzo realizar juzgado_de_instrucción parecer previsible acto juicio oral poder celebrar cumplir plazo máximo legal prisión provisional ministerio_fiscal cumplimiento principio legalidad regir institución haber solicitar puesta libertad provisional imputar obligación comparecencia semanal juzgado prohibición salida territorio nacional retención pasaporte",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Arucas"
+        ],
+        "organizations": [
+            "Fiscalía_Provincial_de_Las_Palmas",
+            "Juzgado_de_Instrucción",
+            "Ministerio_Fiscal",
+            "Tribunal_del_Jurado",
+            "Institución",
+            "Fiscalía",
+            "Gesplan",
+            "Cabildo_de_Gran_Canaria",
+            "Juzgado_de_Instrucción",
+            "Ministerio_Fiscal",
+            "Juzgado"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/7/2007:??.??:??]",
+            "[??:??/7/2007:??.??:??]"
+        ],
+        "numbers": [
+            "16",
+            "18",
+            "$_ECU:10",
+            "2",
+            "1/2009",
+            "150",
+            "$_ECU:17000000"
+        ]
+    }
+}

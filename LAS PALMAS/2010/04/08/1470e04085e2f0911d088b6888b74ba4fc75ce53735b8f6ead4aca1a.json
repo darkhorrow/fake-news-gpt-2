@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/671588/0/",
+    "title": {
+        "raw_text": "Estado destina 862.750 euros a 6 CCAA, entre ellas Canarias, para la apreciación del valor del agua en espacios rurales",
+        "lemmatized_text": "estado destinar $_ECU:862.75 a 6 ccaa entre ellos canarias para el apreciación de el valor de el agua en espacio rural",
+        "lemmatized_text_reduced": "estado destinar ccaa canarias apreciación valor agua espacio rural",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Estado",
+            "CCAA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:862.75",
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ministerio de Medio Ambiente y Medio rural y Marino aprobó hoy destinar 862.750 euros para la puesta en marcha del 'Proyecto Rural Aqua Hidroambiente 21', que se desarrollará en seis comunidades autónomas con el fin de incrementar mediante la sensibilización, la reflexión y el estudio, la apreciación del valor del agua en los espacios rurales.",
+        "lemmatized_text": "el ministerio_de_medio_ambiente y medio rural y marino aprobar hoy destinar $_ECU:862.75 para el puesta en marcha de el proyecto_rural_aqua_hidroambiente 21 que se desarrollar en 6 comunidad autónomo con el fin de incrementar mediante el sensibilización el reflexión y el estudio el apreciación de el valor de el agua en el espacio rural",
+        "lemmatized_text_reduced": "ministerio_de_medio_ambiente medio rural marino aprobar destinar puesta marcha proyecto_rural_aqua_hidroambiente desarrollar comunidad autónomo fin incrementar sensibilización reflexión estudio apreciación valor agua espacio rural",
+        "persons": [
+            "Marino"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ministerio_de_Medio_Ambiente",
+            "Medio"
+        ],
+        "others": [
+            "Proyecto_Rural_Aqua_Hidroambiente"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:862.75",
+            "21",
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "El proyecto, que se implantará en Castilla y león, Aragón, Madrid, Extremadura, Andalucía, y Canarias, busca crear una estructura de cooperación estable y solidaria, que esté formada por varios grupos de acción local europeos. Estos grupos podrán intervenir \"de forma efectiva\" sobre los problemas existentes en los espacios fluviales, canales de riego, cauces históricos y sistemas de aprovechamiento del agua en el medio rural. Además de su carácter interregional, este proyecto de cooperación es también transnacional, ya que de forma paralela se realizará en Portugal, Grecia e Italia y contempla el intercambio de experiencias entre los promotores de la iniciativa. En ese sentido, destaca por la promoción de la cooperación entre los diferentes territorios rurales, el intercambio y transferencia de experiencias, el desarrollo de iniciativas y estrategias eficaces para la valorización y la utilización sostenible de los espacios objetos del Proyecto de Cooperación. El 'Proyecto Rural Aqua Hidroambiente 21' se enmarca en la Red Rural Nacional cuyo objetivo es, mediante proyectos de cooperación, el medio rural, con sus instituciones y su población se organicen en grupos de acción local para relacionarse con otros territorio rurales y analizar de forma conjunta sus debilidades, amenazas, fortalezas y oportunidades, intercambiar puntos de vista, abordar objetivos comunes, evaluar su actuación y diseñar nuevos objetivos y nuevos planes de trabajo conjuntos, convencidos de que la cooperación es un paso adelante como instrumento de desarrollo.",
+        "lemmatized_text": "el proyecto que se implantar en castilla y león aragón madrid extremadura andalucía y canarias buscar crear uno estructura de cooperación estable y solidario que estar formar por varios grupo de acción local europeo este grupo poder intervenir de forma efectivo sobre el problema existente en el espacio fluvial canal de riego cauce histórico y sistema de aprovechamiento de el agua en el medio rural además_de su carácter interregional este proyecto de cooperación ser también transnacional ya_que de forma paralelo se realizar en portugal grecia y italia y contemplar el intercambio de experiencia entre el promotor de el iniciativa en ese sentido destacar por el promoción de el cooperación entre el diferente territorio rural el intercambio y transferencia de experiencia el desarrollo de iniciativa y estrategia eficaz para el valorización y el utilización sostenible de el espacio objeto de el proyecto_de_cooperación el proyecto_rural_aqua_hidroambiente 21 se enmarcar en el red_rural_nacional cuyo objetivo ser mediante proyecto de cooperación el medio rural con su institución y su población se organizar en grupo de acción local para relacionar se con otro territorio rural y analizar de forma conjunto su debilidad amenaza fortaleza y oportunidad intercambiar punto de vista abordar objetivo común evaluar su actuación y diseñar nuevo objetivo y nuevo plan de trabajo conjunto convencer de que el cooperación ser uno paso adelante como instrumento de desarrollo",
+        "lemmatized_text_reduced": "proyecto implantar castilla león aragón madrid extremadura andalucía canarias buscar crear estructura cooperación estable solidario estar formar grupo acción local europeo grupo poder intervenir forma efectivo problema existente espacio fluvial canal riego cauce histórico sistema aprovechamiento agua medio rural carácter interregional proyecto cooperación ser transnacional forma paralelo realizar portugal grecia italia contemplar intercambio experiencia promotor iniciativa sentido destacar promoción cooperación diferente territorio rural intercambio transferencia experiencia desarrollo iniciativa estrategia eficaz valorización utilización sostenible espacio objeto proyecto_de_cooperación proyecto_rural_aqua_hidroambiente enmarcar red_rural_nacional objetivo ser proyecto cooperación medio rural institución población organizar grupo acción local relacionar territorio rural analizar forma conjunto debilidad amenaza fortaleza oportunidad intercambiar punto vista abordar objetivo común evaluar actuación diseñar nuevo objetivo nuevo plan trabajo conjunto convencer cooperación ser paso instrumento desarrollo",
+        "persons": [],
+        "locations": [
+            "Castilla",
+            "Madrid",
+            "Extremadura",
+            "Andalucía",
+            "Canarias",
+            "Portugal",
+            "Italia"
+        ],
+        "organizations": [
+            "Aragón",
+            "Grecia",
+            "Red_Rural_Nacional"
+        ],
+        "others": [
+            "Proyecto_de_Cooperación",
+            "Proyecto_Rural_Aqua_Hidroambiente"
+        ],
+        "dates": [],
+        "numbers": [
+            "21"
+        ]
+    }
+}

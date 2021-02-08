@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-10-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/288858/0/condena/atentado/canarias/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias condena el atentado de ETA y llama a la unidad",
+        "lemmatized_text": "el gobierno_de_canarias condenar el atentado de eta y llamar a el unidad",
+        "lemmatized_text_reduced": "gobierno_de_canarias condenar atentado eta llamar unidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "ETA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Expresa la solidaridad de los canarios con la ciudadanía vasca. Espera que éste no sea el comienzo de una espiral de violencia. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "expresar el solidaridad de el canario con el ciudadanía vasco esperar que este no ser el comienzo de uno espiral de violencia consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "expresar solidaridad canario ciudadanía vasco esperar ser comienzo espiral violencia consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Gobierno de Canarias condena enérgicamente el atentado perpetrado por ETA contra Gabriel Ginés, escolta del concejal del PSE de la localidad vizcaína de Galdakao Juan Carlos Domingo Galíndez, al tiempo que expresa la solidaridad de todos los canarios con la familia del herido y con la ciudadanía vasca, que rechaza mayoritariamente el uso de la violencia. Asimismo, manifiesta su deseo sincero de que este atentado no implique una vuelta de tuerca en la espiral de violencia en la que habitualmente se ha movido ETA y confía en que los ciudadanos vascos puedan encarar su futuro en un clima de convivencia pacífica. En esta línea, el Gobierno canario hace un llamamiento a la unidad de todos los demócratas , en el convencimiento de que es la mejor manera de hacer frente a la lacra terrorista y de reivindicar los valores del Estado de Derecho ante la sinrazón de los violentos. Como se recordará, el escolta privado Gabriel Ginés, de 33 años, resultó herido por la explosión de una bomba tipo lapa adosada en los bajos del coche en el barrio bilbaíno de La Peña. El artefacto estaba compuesto por un kilo de amonal y había sido colocado junto al depósito de gasolina, en la parte posterior del vehículo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el gobierno_de_canarias condenar enérgicamente el atentado perpetrar por eta contra gabriel_ginés escolta de el concejal de el pse de el localidad vizcaíno de galdakao_juan_carlos [G:??/??/??:??.??:??] galíndez al_tiempo_que expresar el solidaridad de todo el canario con el familia de el herir y con el ciudadanía vasco que rechazar mayoritariamente el uso de el violencia asimismo manifestar su deseo sincero de que este atentado no implicar uno vuelta de tuerca en el espiral de violencia en el que habitualmente se haber mover eta y confiar en que el ciudadano vasco poder encarar su futuro en uno clima de convivencia pacífico en este línea el gobierno canario hacer uno llamamiento a el unidad de todo el demócrata en el convencimiento de que ser el mejor manera de hacer_frente a el lacra terrorista y de reivindicar el valor de el estado_de_derecho ante el sinrazón de el violento como se recordar el escolta privar gabriel_ginés de 33 año resultar herir por el explosión de uno bomba tipo lapa adosar en el bajo de el coche en el barrio bilbaíno de la_peña el artefacto estar componer por uno kilo de amonal y haber ser colocar junto a el depósito de gasolina en el parte posterior de el vehículo consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "gobierno_de_canarias condenar enérgicamente atentado perpetrar eta gabriel_ginés escolta concejal pse localidad vizcaíno galdakao_juan_carlos galíndez expresar solidaridad canario familia herir ciudadanía vasco rechazar mayoritariamente uso violencia manifestar deseo sincero atentado implicar vuelta tuerca espiral violencia habitualmente haber mover eta confiar ciudadano vasco poder encarar futuro clima convivencia pacífico línea gobierno canario hacer llamamiento unidad demócrata convencimiento ser mejor manera hacer_frente lacra terrorista reivindicar valor estado_de_derecho sinrazón violento recordar escolta privar gabriel_ginés año resultar herir explosión bomba tipo lapa adosar bajo coche barrio bilbaíno la_peña artefacto estar componer kilo amonal haber ser colocar depósito gasolina parte posterior vehículo consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Gabriel_Ginés",
+            "Galíndez",
+            "Gabriel_Ginés"
+        ],
+        "locations": [
+            "Galdakao_Juan_Carlos",
+            "La_Peña"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "ETA",
+            "PSE",
+            "ETA",
+            "Gobierno",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Estado_de_Derecho"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "33"
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594683/0/",
+    "title": {
+        "raw_text": "Lanzarote registra un gasto turístico de 101,88 euros por persona y día en el tercer trimestre de 2009",
+        "lemmatized_text": "lanzarote registrar uno gasto turístico de $_ECU:101,88 por persona y día en el 3 trimestre de 2009",
+        "lemmatized_text_reduced": "lanzarote registrar gasto turístico persona día 3 trimestre",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:101,88",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "La isla de Lanzarote ha registrado, durante el tercer trimestre de 2009, un gasto turístico de 101,88 euros por persona y día, de los que 69,79 se desembolsaron en origen y 32,08 en tierras conejeras, según se desprende la Encuesta por Gasto Turístico 2009.",
+        "lemmatized_text": "el isla de lanzarote haber registrar durante el 3 trimestre de 2009 uno gasto turístico de $_ECU:101,88 por persona y día de el que 69,79 se desembolsar en origen y 32,08 en tierra conejero según se desprender el encuesta_por_gasto_turístico 2009",
+        "lemmatized_text_reduced": "isla lanzarote haber registrar 3 trimestre gasto turístico persona día desembolsar origen tierra conejero desprender encuesta_por_gasto_turístico",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [
+            "Encuesta_por_Gasto_Turístico"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "$_ECU:101,88",
+            "69,79",
+            "32,08",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Comparado con el resto de las Islas Canarias, Lanzarote se situó en 5,19 euros por debajo de la media del gasto total turístico que se produjo en Canarias durante el tercer trimestre de 2009, informó el Cabildo a través de un comunicado. La encuesta, que incluye una nueva metodología, también destacó que el gasto por turista y día ha bajado en estos últimos cuatro años, tanto en origen como en destino. En concreto, el gasto en destino ha pasado de 38,2 euros en el tercer trimestre de 2006 a 32,08 en 2009. Otro aspecto a reseñar es el gasto por municipio donde se alojó el turista. Así, los visitantes hospedados en las zonas turísticas del municipio de Yaiza son los que mayor gasto total realizaron. Si bien los alojados en Tías fueron los que efectuaron el más consumo en la isla, los del municipio de Teguise fueron los de menor gasto total. Por otra parte, de los 32,08 euros por turista y día que se gastaron en Lanzarote, 2,43 se destinaron a alojamiento, 3,99 a transporte (1,27 a transporte público y 2,73 a alquiler de vehículos), 14,88 euros (el 46%) a alimentación (5,01 en supermercados y 9,86 en restaurantes), 3,58 a souvenirs, 5,31 a ocio y 1,89 euros en otros conceptos.",
+        "lemmatized_text": "comparar con el resto de el islas_canarias lanzarote se situar en $_ECU:5,19 por debajo_de el media de el gasto total turístico que se producir en canarias durante el 3 trimestre de 2009 informar el cabildo a_través_de uno comunicado el encuesta que incluir uno nuevo metodología también destacar que el gasto por turista y día haber bajar en este último 4 año tanto en origen como en destino en concreto el gasto en destino haber pasar de $_ECU:38,2 en el 3 trimestre de 2006 a 32,08 en 2009 otro aspecto a reseñar ser el gasto por municipio donde se alojar el turista así el visitante hospedar en el zona turístico de el municipio de yaiza ser el que mayor gasto total realizar si bien el alojar en tías ser el que efectuar el más consumo en el isla el de el municipio de teguise ser el de menor gasto total por otro parte de el $_ECU:32,08 por turista y día que se gastar en lanzarote 2,43 se destinar a alojamiento 3,99 a transporte 1,27 a transporte público y 2,73 a alquiler de vehículo $_ECU:14,88 el 46/100 a alimentación 5,01 en supermercado y 9,86 en restaurante 3,58 a souvenirs 5,31 a ocio y $_ECU:1,89 en otro concepto",
+        "lemmatized_text_reduced": "comparar resto islas_canarias lanzarote situar media gasto total turístico producir canarias 3 trimestre informar cabildo comunicado encuesta incluir nuevo metodología destacar gasto turista día haber bajar último año origen destino concreto gasto destino haber pasar 3 trimestre aspecto reseñar ser gasto municipio alojar turista visitante hospedar zona turístico municipio yaiza ser mayor gasto total realizar alojar tías ser efectuar consumo isla municipio teguise ser menor gasto total parte turista día gastar lanzarote destinar alojamiento transporte transporte público alquiler vehículo alimentación supermercado restaurante souvenirs ocio concepto",
+        "persons": [],
+        "locations": [
+            "Islas_Canarias",
+            "Lanzarote",
+            "Canarias",
+            "Yaiza",
+            "Tías",
+            "Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:5,19",
+            "2009",
+            "4",
+            "$_ECU:38,2",
+            "2006",
+            "32,08",
+            "2009",
+            "$_ECU:32,08",
+            "2,43",
+            "3,99",
+            "1,27",
+            "2,73",
+            "$_ECU:14,88",
+            "46/100",
+            "5,01",
+            "9,86",
+            "3,58",
+            "5,31",
+            "$_ECU:1,89"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/674581/0/",
+    "title": {
+        "raw_text": "Los senegaleses residentes en Canarias tramitarán sus gestiones esta semana con un equipo de funcionarios de su país",
+        "lemmatized_text": "el senegalés residente en canarias tramitar su gestión este semana con uno equipo de funcionario de su país",
+        "lemmatized_text_reduced": "senegalés residente canarias tramitar gestión semana equipo funcionario país",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los senegaleses que se encuentran en Canarias podrán tramitar sus gestiones del 12 al 16 de abril en Fuerteventura, donde estará un equipo de funcionarios de la Embajada de Senegal en España.",
+        "lemmatized_text": "el senegalés que se encontrar en canarias poder tramitar su gestión de el 12 a el [??:16/4/??:??.??:??] en fuerteventura donde estar uno equipo de funcionario de el embajada_de_senegal en españa",
+        "lemmatized_text_reduced": "senegalés encontrar canarias poder tramitar gestión fuerteventura estar equipo funcionario embajada_de_senegal españa",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Fuerteventura",
+            "España"
+        ],
+        "organizations": [
+            "Embajada_de_Senegal"
+        ],
+        "others": [],
+        "dates": [
+            "[??:16/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "12"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, los funcionarios senegaleses atenderán a sus compatriotas en una oficina cedida por el Cabildo de Fuerteventura, en la sede de dicha institución, de 9.00 a 19.00 horas. Este servicio, según informó el Cabildo de Fuerteventura en nota de prensa, permitirá que los senegaleses residentes en Canarias puedan tramitar sus gestiones ante la Embajada \"sin necesidad\" de viajar a Madrid. Además, se aprovechará el marco del programa de actividades que con motivo del 50 aniversario de la independencia de la República de Senegal se desarrolla estos días en la isla majorera.",
+        "lemmatized_text": "en concreto el funcionario senegalés atender a su compatriota en uno oficina ceder por el cabildo_de_fuerteventura en el sede de decir institución de 9 a TM_h:19 este servicio según informar el cabildo_de_fuerteventura en nota de prensa permitir que el senegalés residente en canarias poder tramitar su gestión ante el embajada sin necesidad de viajar a madrid además se aprovechar el marco de el programa de actividad que con motivo de el 50 aniversario de el independencia de el república_de_senegal se desarrollar este día en el isla majorera",
+        "lemmatized_text_reduced": "concreto funcionario senegalés atender compatriota oficina ceder cabildo_de_fuerteventura sede decir institución servicio informar cabildo_de_fuerteventura nota prensa permitir senegalés residente canarias poder tramitar gestión embajada necesidad viajar madrid aprovechar marco programa actividad motivo aniversario independencia república_de_senegal desarrollar día isla",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Madrid",
+            "República_de_Senegal"
+        ],
+        "organizations": [
+            "Cabildo_de_Fuerteventura",
+            "Cabildo_de_Fuerteventura",
+            "Embajada"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9",
+            "TM_h:19",
+            "50"
+        ]
+    }
+}

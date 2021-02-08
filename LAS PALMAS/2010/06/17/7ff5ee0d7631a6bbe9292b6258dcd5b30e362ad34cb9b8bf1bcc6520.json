@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/739969/0/",
+    "title": {
+        "raw_text": "El Gobierno canario incrementa la dotación del Plan Sectorial de Infraestructura y Calidad Turística",
+        "lemmatized_text": "el gobierno canario incrementar el dotación de el plan_sectorial_de_infraestructura y calidad_turística",
+        "lemmatized_text_reduced": "gobierno canario incrementar dotación plan_sectorial_de_infraestructura calidad_turística",
+        "persons": [],
+        "locations": [
+            "Calidad_Turística"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [
+            "Plan_Sectorial_de_Infraestructura"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno de Canarias acordó hoy autorizar una transferencia de crédito a la Consejería de Turismo para incrementar el crédito de varios proyectos de inversión del programa presupuestario Plan Sectorial de Infraestructura y Calidad Turística, por un importe de 4.336.920,96 euros.",
+        "lemmatized_text": "el consejo_de_gobierno_de_canarias acordar hoy autorizar uno transferencia de crédito a el consejería_de_turismo para incrementar el crédito de varios proyecto de inversión de el programa presupuestario plan_sectorial_de_infraestructura y calidad_turística por uno importe de $_ECU:4.336.920,96",
+        "lemmatized_text_reduced": "consejo_de_gobierno_de_canarias acordar autorizar transferencia crédito consejería_de_turismo incrementar crédito proyecto inversión programa presupuestario plan_sectorial_de_infraestructura calidad_turística importe",
+        "persons": [
+            "Calidad_Turística"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consejo_de_Gobierno_de_Canarias",
+            "Consejería_de_Turismo"
+        ],
+        "others": [
+            "Plan_Sectorial_de_Infraestructura"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:4.336.920,96"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta modificación presupuestaria tiene por objeto incrementar la dotación de proyectos de inversión para cumplir los compromisos adquiridos dentro Plan Sectorial de Infraestructura y Calidad Turísticas de Canarias en varias islas, que no fueron atendidos debido a la falta de incorporación de remanentes del ejercicio anterior, así como, para financiar las últimas actuaciones pendientes de ejecución en dicho Plan, informó en rueda de prensa el portavoz regional, Martín Marrero. Las actuaciones afectadas son la rehabilitación de aceras en Vegueta (Gran Canaria) por 1.292.816,60 euros; la rehabilitación Casa los SALT en Telde (Gran Canaria) por 1.363.635.46 euros; las obras de embellecimiento de accesos a playas y corredor viario del Centro en el tramo Gran Tarajal-Las Playitas (Fuerteventura) por 990.792,57 euros; un actuación en el conjunto histórico Los Realejos (Tenerife) por 689.676,33.",
+        "lemmatized_text": "este modificación presupuestario tener por objeto incrementar el dotación de proyecto de inversión para cumplir el compromiso adquirir dentro plan_sectorial_de_infraestructura y calidad_turísticas_de_canarias en varios isla que no ser atender debido_a el falta de incorporación de remanente de el ejercicio anterior así_como para financiar el último actuación pendiente de ejecución en decir plan informar en rueda de prensa el portavoz regional martín_marrero el actuación afectar ser el rehabilitación de acera en vegueta gran_canaria por $_ECU:1.292.816,60 el rehabilitación casa_los_salt en telde gran_canaria por $_ECU:1.363.635.46 el obra de embellecimiento de acceso a playa y corredor viario de el centro en el tramo gran_tarajal-las_playitas fuerteventura por $_ECU:990.792,57 uno actuación en el conjunto histórico los_realejos tenerife por 689.676,33",
+        "lemmatized_text_reduced": "modificación presupuestario tener objeto incrementar dotación proyecto inversión cumplir compromiso adquirir plan_sectorial_de_infraestructura calidad_turísticas_de_canarias isla ser atender falta incorporación remanente ejercicio anterior financiar último actuación pendiente ejecución decir plan informar rueda prensa portavoz regional martín_marrero actuación afectar ser rehabilitación acera vegueta gran_canaria rehabilitación casa_los_salt telde gran_canaria obra embellecimiento acceso playa corredor viario centro tramo gran_tarajal-las_playitas fuerteventura actuación conjunto histórico los_realejos tenerife",
+        "persons": [
+            "Martín_Marrero"
+        ],
+        "locations": [
+            "Calidad_Turísticas_de_Canarias",
+            "Vegueta",
+            "Gran_Canaria",
+            "Telde",
+            "Gran_Canaria",
+            "Gran_Tarajal-Las_Playitas"
+        ],
+        "organizations": [
+            "Casa_los_SALT",
+            "Centro",
+            "Fuerteventura",
+            "Los_Realejos",
+            "Tenerife"
+        ],
+        "others": [
+            "Plan_Sectorial_de_Infraestructura",
+            "Plan"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:1.292.816,60",
+            "$_ECU:1.363.635.46",
+            "$_ECU:990.792,57",
+            "689.676,33"
+        ]
+    }
+}

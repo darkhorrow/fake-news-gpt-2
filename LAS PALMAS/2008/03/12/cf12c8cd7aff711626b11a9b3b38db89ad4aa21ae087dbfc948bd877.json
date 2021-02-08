@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/359514/0/cayuco/canaria/inmigrantes/",
+    "title": {
+        "raw_text": "Arriba un cayuco que había sido avistado al sur de Gran Canaria con 40 inmigrantes",
+        "lemmatized_text": "arriba uno cayuco que haber ser avistar a el sur de gran_canaria con 40 inmigrante",
+        "lemmatized_text_reduced": "cayuco haber ser avistar sur gran_canaria inmigrante",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "40"
+        ]
+    },
+    "lead": {
+        "raw_text": "Llegaron en aparente buen estado de salud. Su viaje terminó en Arguineguín. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "llegar en aparente bueno estado de salud su viaje terminar en arguineguín consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "llegar aparente bueno estado salud viaje terminar arguineguín consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arguineguín"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El cayuco avistado ayer por la tarde al sur de Gran Canaria llegó en la madrugada del miércoles al puerto de Arguineguín con 40 inmigrantes a bordo en aparente buen estado, informaron hoy fuentes de Salvamento Marítimo. La embarcación fue vista a más de 70 millas al sur de la isla , hacia donde partió una embarcación del organismo estatal para su rescate. Los inmigrantes fueron conducidos a la localidad grancanaria de Arguineguín, adonde llegaron a las tres y cuarto de esta madrugada , concluyeron las fuentes. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el cayuco avistar ayer por el tarde a el sur de gran_canaria llegar en el madrugada de el [X:??/??/??:??.??:??] a el puerto de arguineguín con 40 inmigrante a_bordo en aparente bueno estado informar hoy fuente de salvamento_marítimo el embarcación ser ver a más de LN_mi:70 a el sur de el isla hacia donde partir uno embarcación de el organismo estatal para su rescate el inmigrante ser conducir a el localidad grancanaria de arguineguín adonde llegar a el [??:??/??/??:3.15:??] de este madrugada concluir el fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "cayuco avistar tarde sur gran_canaria llegar madrugada puerto arguineguín inmigrante aparente bueno estado informar fuente salvamento_marítimo embarcación ser ver sur isla partir embarcación organismo estatal rescate inmigrante ser conducir localidad grancanaria arguineguín llegar madrugada concluir fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Arguineguín",
+            "Salvamento_Marítimo",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:??/??/??:3.15:??]"
+        ],
+        "numbers": [
+            "40",
+            "LN_mi:70"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/694606/0/",
+    "title": {
+        "raw_text": "Un incendio en un edificio de Las Palmas de Gran Canaria se salda con un fallecido y tres bomberos heridos",
+        "lemmatized_text": "uno incendio en uno edificio de las_palmas_de_gran_canaria se saldar con uno fallecer y 3 bombero herir",
+        "lemmatized_text_reduced": "incendio edificio las_palmas_de_gran_canaria saldar fallecer bombero herir",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un incendio esta mañana en un edificio de Las Palmas de Gran Canaria se ha saldado con un fallecido y tres bomberos heridos, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno incendio este mañana en uno edificio de las_palmas_de_gran_canaria se haber saldar con uno fallecer y 3 bombero herir según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "incendio mañana edificio las_palmas_de_gran_canaria haber saldar fallecer bombero herir informar europa_press fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El 112 recibió la alerta, por parte de la Policía Local, a las 12.33 horas y momentos después se activó al cuerpo de bomberos de la capital grancanaria, así como al Servicio de Urgencias Canario (SUC) que se trasladó hasta la calle Viera y Clavijo donde se encontraba el edificio con fuego. Al llegar un hombre, de unos 50 años de edad, había fallecido. Asimismo, tres bomberos tuvieron que ser atendidos por personal del SUC tras intoxicarse por inhalación de humo. Hasta el lugar además de personal del SUC, bomberos y Policía Local, también se personaron agentes de la Policía Nacional.",
+        "lemmatized_text": "el 112 recibir el alerta por parte de el policía_local a el TM_h:12.33 y momento después se activar a el cuerpo de bombero de el capital grancanaria así_como a el servicio_de_urgencias_canario suc que se trasladar hasta el calle viera y clavijo donde se encontrar el edificio con fuego a el llegar uno hombre de uno 50 año de edad haber fallecer asimismo 3 bombero tener que ser atender por personal de el suc tras intoxicar se por inhalación de humo hasta el lugar además_de personal de el suc bombero y policía_local también se personar agente de el policía_nacional",
+        "lemmatized_text_reduced": "recibir alerta parte policía_local momento activar cuerpo bombero capital grancanaria servicio_de_urgencias_canario suc trasladar calle viera clavijo encontrar edificio fuego llegar hombre año edad haber fallecer bombero tener ser atender personal suc intoxicar inhalación humo lugar personal suc bombero policía_local personar agente policía_nacional",
+        "persons": [],
+        "locations": [
+            "Viera",
+            "Clavijo"
+        ],
+        "organizations": [
+            "Policía_Local",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "SUC",
+            "Policía_Local",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "TM_h:12.33",
+            "50",
+            "3"
+        ]
+    }
+}

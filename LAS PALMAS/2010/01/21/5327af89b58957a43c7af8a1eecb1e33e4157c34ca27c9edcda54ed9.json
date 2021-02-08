@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/611666/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria destina 20.000 euros en ayuda para los afectados por el terremoto",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria destinar $_ECU:20 en ayuda para el afectado por el terremoto",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria destinar ayuda afectado terremoto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:20"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria destinará 20.000 euros en ayuda para los afectados por el terremoto que arrasó gran parte de Haití el pasado 12 de enero.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria destinar $_ECU:20 en ayuda para el afectado por el terremoto que arrasar gran parte de haití el [??:12/1/??:??.??:??]",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria destinar ayuda afectado terremoto arrasar gran parte haití",
+        "persons": [],
+        "locations": [
+            "Haití"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:12/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:20"
+        ]
+    },
+    "body": {
+        "raw_text": "El portavoz del Ayuntamiento de la capital grancanaria, Sebastián Franquis, hizo este anuncio en rueda de prensa, tras aprobarse la acción en la junta de gobierno local celebrada hoy. Así, la donación del equipo de gobierno se realizará directamente a Cruz Roja Española por considerar el Consistorio que \"es la forma más eficaz de poder llevar esa ayuda a los que la necesitan\".",
+        "lemmatized_text": "el portavoz de el ayuntamiento de el capital grancanaria sebastián_franquis hacer este anuncio en rueda de prensa tras aprobar se el acción en el junta de gobierno local celebrar hoy así el donación de el equipo de gobierno se realizar directamente a cruz_roja_española por considerar el consistorio que ser el forma más eficaz de poder llevar ese ayuda a el que lo necesitar",
+        "lemmatized_text_reduced": "portavoz ayuntamiento capital grancanaria sebastián_franquis hacer anuncio rueda prensa aprobar acción junta gobierno local celebrar donación equipo gobierno realizar directamente cruz_roja_española considerar consistorio ser forma eficaz poder llevar ayuda necesitar",
+        "persons": [
+            "Sebastián_Franquis"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento",
+            "Cruz_Roja_Española",
+            "Consistorio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

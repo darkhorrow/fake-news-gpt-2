@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/508813/0/",
+    "title": {
+        "raw_text": "La Policía investiga una estafa millonaria a medio centenar de ahorradores canarios",
+        "lemmatized_text": "el policía investigar uno estafa millonario a 50 de ahorrador canario",
+        "lemmatized_text_reduced": "policía investigar estafa millonario ahorrador canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50"
+        ]
+    },
+    "lead": {
+        "raw_text": "La estafa ronda los dos millones de euros y que afecta a cerca de medio centenar de inversores privados sobre todo de Las Palmas. El presunto responsable, que fue detenido la pasada semana, captaba pasivo en nombre de una conocida entidad bancaria. Fue el mismo banco quien dio la voz de alarma al detectar \"movimientos extraños\" y \"actividades irregulares\".",
+        "lemmatized_text": "el estafa rondar el $_ECU:2000000 y que afectar a_cerca_de 50 de inversor privar sobre todo de las_palmas el presunto responsable que ser detener el pasar semana captar pasivo en nombre de uno conocer entidad bancario ser el mismo banco quien dar el voz de alarma a el detectar movimiento extraño y actividad irregular",
+        "lemmatized_text_reduced": "estafa rondar afectar inversor privar las_palmas presunto responsable ser detener pasar semana captar pasivo nombre conocer entidad bancario ser mismo banco dar voz alarma detectar movimiento extraño actividad irregular",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2000000",
+            "50"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional investiga una estafa que ronda los dos millones de euros y que afecta a cerca de medio centenar de inversores privados de Canarias, fundamentalmente de Las Palmas . Según han informado fuentes cercanas a la investigación, los inversores compraron productos financieros ficticios a un gestor, identificado como L.M.R., administrador de la empresa franquiciada Tax Finanzas y Mercados y acusado de presuntos delitos de estafa y falsificación. El hombre, detenido la pasada semana y posteriormente puesto en libertad, captaba pasivo en nombre de Bankinter , entidad que le denunció a mediados del pasado mes de agosto al detectar \"movimientos extraños\" y supuestas \"actividades irregularidades\" , según añadieron las mismas fuentes. La investigación en marcha ordenada por el juez del juzgado de Instrucción número 2 de Las Palmas de Gran Canaria determinó la detención de L.M.R ., que, posteriormente quedó en libertad . El magistrado ha decretado el secreto de sumario del caso mientras la Policía Nacional continúa investigando y concretando el número de personas perjudicadas y \"el montante total\" al que asciende la supuesta estafa. En su denuncia el citado banco pidió la detención de L.M.R. y que pare el aseguramiento de las responsabilidades se declarase el embargo de cuantos bienes puedan ser de titularidad del denunciado. Fuentes del caso manifestaron que aún se desconoce la cuantía a la que puede llegar esta supuesta estafa, aunque estiman que puede situarse en torno a los dos millones de euros. Varios de los inversores habían destinado entre 30.000 y 50.000 euros a comprar productos financieros.",
+        "lemmatized_text": "el policía_nacional investigar uno estafa que rondar el $_ECU:2000000 y que afectar a_cerca_de 50 de inversor privar de canarias fundamentalmente de las_palmas según haber informar fuente cercano a el investigación el inversor comprar producto financiero ficticio a uno gestor identificar como l.m.r. administrador de el empresa franquiciada tax_finanzas y mercados y acusar de presunto delito de estafa y falsificación el hombre detener el pasar semana y posteriormente poner en libertad captar pasivo en nombre de bankinter entidad que le denunciar a mediar de el [??:??/8/??:??.??:??] a el detectar movimiento extraño y suponer actividad irregularidad según añadir el mismo fuente el investigación en marcha ordenar por el juez de el juzgado de instrucción número 2 de las_palmas_de_gran_canaria determinar el detención de l.m._r que posteriormente quedar en libertad el magistrado haber decretar el secreto de sumario de el caso mientras el policía_nacional continuar investigar y concretar el número de persona perjudicar y el montante total a el que ascender el suponer estafa en su denuncia el citar banco pedir el detención de l.m.r. y que parir el aseguramiento de el responsabilidad se declarar el embargo de cuanto bien poder ser de titularidad de el denunciar fuente de el caso manifestar que aun se desconocer el cuantía a el que poder llegar este suponer estafa aunque estimar que poder situar se en_torno_a el $_ECU:2000000 varios de el inversor haber destinar entre 30 y $_ECU:50 a comprar producto financiero",
+        "lemmatized_text_reduced": "policía_nacional investigar estafa rondar afectar inversor privar canarias fundamentalmente las_palmas haber informar fuente cercano investigación inversor comprar producto financiero ficticio gestor identificar l.m.r. administrador empresa franquiciada tax_finanzas mercados acusar presunto delito estafa falsificación hombre detener pasar semana posteriormente poner libertad captar pasivo nombre bankinter entidad denunciar mediar detectar movimiento extraño suponer actividad irregularidad añadir mismo fuente investigación marcha ordenar juez juzgado instrucción número las_palmas_de_gran_canaria determinar detención l.m._r posteriormente quedar libertad magistrado haber decretar secreto sumario caso policía_nacional continuar investigar concretar número persona perjudicar montante total ascender suponer estafa denuncia citar banco pedir detención l.m.r. parir aseguramiento responsabilidad declarar embargo bien poder ser titularidad denunciar fuente caso manifestar desconocer cuantía poder llegar suponer estafa estimar poder situar inversor haber destinar comprar producto financiero",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Las_Palmas",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "L.M.R.",
+            "Tax_Finanzas",
+            "Mercados",
+            "Bankinter",
+            "Instrucción",
+            "Policía_Nacional",
+            "L.M.R."
+        ],
+        "others": [
+            "L.M._R"
+        ],
+        "dates": [
+            "[??:??/8/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:2000000",
+            "50",
+            "2",
+            "$_ECU:2000000",
+            "30",
+            "$_ECU:50"
+        ]
+    }
+}

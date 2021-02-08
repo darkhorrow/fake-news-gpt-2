@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/699205/0/",
+    "title": {
+        "raw_text": "Una mujer grave y tres heridos leves tras colisionar dos vehículos en Pájara (Fuerteventura)",
+        "lemmatized_text": "uno mujer grave y 3 herido leve tras colisionar 2 vehículo en pájara fuerteventura",
+        "lemmatized_text_reduced": "mujer grave herido leve colisionar vehículo pájara fuerteventura",
+        "persons": [],
+        "locations": [
+            "Pájara",
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una mujer de 66 años de edad ha resultado herida grave, mientras que otras tres personas --una de ellas una niña de 11 años-- han sufrido heridas de carácter leve tras colisionar dos vehículos en Pájara (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que indicaron que todos los perjudicados son de nacionalidad extranjera.",
+        "lemmatized_text": "uno mujer de 66 año de edad haber resultar herida grave mientras_que otro 3 persona uno de ellos uno niño de 11 año haber sufrir herida de carácter leve tras colisionar 2 vehículo en pájara fuerteventura según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 que indicar que todo el perjudicado ser de nacionalidad extranjero",
+        "lemmatized_text_reduced": "mujer año edad haber resultar herida grave persona niño año haber sufrir herida carácter leve colisionar vehículo pájara fuerteventura informar centro_coordinador_de_emergencias seguridad cecoes indicar perjudicado ser nacionalidad extranjero",
+        "persons": [],
+        "locations": [
+            "Pájara"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "66",
+            "3",
+            "11",
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 11.52 horas, cuando se recibió una llamada en el Cecoes que comunicaba que se había producido la colisión de dos coches y el posterior vuelco de uno de ellos en la carretera FV-2, en la segunda rotonda de la carretera que va de Costa Calma en dirección Morro Jable. Los ocupantes precisaban asistencia sanitaria, por lo que el 112 activó de inmediato los recursos de emergencia necesarios. Como consecuencia del impacto resultó afectada una anciana de 66 años de edad con traumatismo torácico de carácter grave, por lo que fue evacuada en ambulancia de soporte vital básico al centro de salud de Morro Jable y, posteriormente, en helicóptero medicalizado al Hospital General de Fuerteventura. Además, un varón de 49 años de edad, conductor del vehículo, sufrió una contusión en la espalda de carácter leve, y fue evacuado en ambulancia de soporte vital básico al centro de salud de Morro Jable Igualmente, una mujer de 44 años de edad resultó afectada con traumatismo facial de carácter leve y fue trasladada en ambulancia de soporte vital básico al citado centro de salud, lugar al que también fue evacuada una menor de 11 años de edad —también de nacionalidad extranjera al igual que los otros tres afectados— con cervicalgia de carácter leve. Efectivos del cuerpo de bomberos de Pájara ayudaron a rescatar a las víctimas del interior del vehículo y en asegurar la vía. Por su parte, la Policía Local colaboró con el resto de recursos intervinientes, mientras que la Guardia Civil se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:11.52 cuando se recibir uno llamada en el cecoes que comunicar que se haber producir el colisión de 2 coche y el posterior vuelco de uno de ellos en el carretera FV-2 en el 2 rotonda de el carretera que ir de costa_calma en dirección morro_jable el ocupante precisar asistencia sanitario por el que el 112 activar de inmediato el recurso de emergencia necesario como consecuencia de el impacto resultar afectar uno anciano de 66 año de edad con traumatismo torácico de carácter grave por el que ser evacuar en ambulancia de soporte vital básico a el centro de salud de morro_jable y posteriormente en helicóptero medicalizado a el hospital_general_de_fuerteventura además uno varón de 49 año de edad conductor de el vehículo sufrir uno contusión en el espalda de carácter leve y ser evacuar en ambulancia de soporte vital básico a el centro de salud de morro_jable_igualmente uno mujer de 44 año de edad resultar afectar con traumatismo facial de carácter leve y ser trasladar en ambulancia de soporte vital básico a el citar centro de salud lugar a el que también ser evacuar uno menor de 11 año de edad también de nacionalidad extranjero al_igual_que el otro 3 afectado con cervicalgia de carácter leve efectivo de el cuerpo de bombero de pájara ayudar a rescatar a el víctima de el interior de el vehículo y en asegurar el vía por su parte el policía_local colaborar con el resto de recurso interviniente mientras_que el guardia_civil se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir recibir llamada cecoes comunicar haber producir colisión coche posterior vuelco carretera 2 rotonda carretera ir costa_calma dirección morro_jable ocupante precisar asistencia sanitario activar inmediato recurso emergencia necesario consecuencia impacto resultar afectar anciano año edad traumatismo torácico carácter grave ser evacuar ambulancia soporte vital básico centro salud morro_jable posteriormente helicóptero medicalizado hospital_general_de_fuerteventura varón año edad conductor vehículo sufrir contusión espalda carácter leve ser evacuar ambulancia soporte vital básico centro salud morro_jable_igualmente mujer año edad resultar afectar traumatismo facial carácter leve ser trasladar ambulancia soporte vital básico citar centro salud lugar ser evacuar menor año edad nacionalidad extranjero afectado cervicalgia carácter leve efectivo cuerpo bombero pájara ayudar rescatar víctima interior vehículo asegurar vía parte policía_local colaborar resto recurso interviniente guardia_civil encargar instruir diligencia oportuno",
+        "persons": [
+            "Morro_Jable",
+            "Morro_Jable",
+            "Morro_Jable_Igualmente"
+        ],
+        "locations": [
+            "Cecoes",
+            "Costa_Calma",
+            "Pájara"
+        ],
+        "organizations": [
+            "Hospital_General_de_Fuerteventura",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:11.52",
+            "2",
+            "FV-2",
+            "112",
+            "66",
+            "49",
+            "44",
+            "11",
+            "3"
+        ]
+    }
+}

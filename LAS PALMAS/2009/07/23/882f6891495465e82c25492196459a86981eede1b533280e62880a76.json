@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-07-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/484633/0/herida/grave/fuerteventura/",
+    "title": {
+        "raw_text": "Una joven herida con arma blanca en Fuerteventura se encuentra grave",
+        "lemmatized_text": "uno joven herida con arma blanco en fuerteventura se encontrar grave",
+        "lemmatized_text_reduced": "joven herida arma blanco fuerteventura encontrar grave",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Tiene 29 años de edad y es de nacionalidad marroquí. Resultó herida esta madrugada en el torax en Morro Jable, Pájara. Fue agredida por un hombre de 38 años, también marroquí.",
+        "lemmatized_text": "tener 29 año de edad y ser de nacionalidad marroquí resultar herir este madrugada en el torax en morro_jable pájara ser agredir por uno hombre de 38 año también marroquí",
+        "lemmatized_text_reduced": "tener año edad ser nacionalidad marroquí resultar herir madrugada torax morro_jable pájara ser agredir hombre año marroquí",
+        "persons": [
+            "Pájara"
+        ],
+        "locations": [
+            "Morro_Jable"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "29",
+            "38"
+        ]
+    },
+    "body": {
+        "raw_text": "Una joven, de 29 años de edad y de nacionalidad marroquí, resultó herida la madrugada de este jueves con un arma blanca en el torax en Morro Jable, en el municipio de Pájara (Fuerteventura), encontrándose grave, según informó el Centro Coordinador de Emergencias y Seguridad (CECOES) 112. Los hechos ocurrieron a las 00.57 horas en el establecimiento de una hostelería situada en la calle El Carmen de Morro Jable, momento en el que el 112 recibió el aviso para asistir a una mujer por una herida de arma blanca y que precisaba atención sanitaria urgente. Posteriormente, el personal del Servicio de Urgencias Canario (SUC) se personó en el lugar del incidente donde, tras estabilizar a la víctima, ésta fue trasladada en un helicóptero medicalizado al Hospital Universitario Insular de Gran Canaria. Así, al lugar acudió, además del personal del SUC, bomberos y Policía Local de Pájara, así como agentes de la Guardia Civil, quien instruirá las diligencias correspondientes.AGRESOR DETENIDO La joven fue agredida por un hombre, de 38 años de edad y también de nacionalidad marroquí, que respondía a las iniciales de A.E.R., y que fue detenido posteriormente, según informaron fuentes de la Guardia Civil a Europa Press. Los agentes arrestaron al agresor, tras encontrarlo deambulando por una avenida del municipio citado. Los hechos, según las mismas fuentes, se produjeron después de que el agresor, que tenía problemas con el hermano de la víctima discutiera con él para, posteriormente, apuñalar a la joven. El detenido se encuentra en el cuartel de Morro Jable, donde ha pasado a disposición judicial.",
+        "lemmatized_text": "uno joven de 29 año de edad y de nacionalidad marroquí resultar herir el madrugada de este [J:??/??/??:??.??:??] con uno arma blanco en el torax en morro_jable en el municipio de pájara fuerteventura encontrar se grave según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 el hecho ocurrir a el TM_h:0.57 en el establecimiento de uno hostelería situar en el calle el_carmen_de_morro_jable momento en el que el 112 recibir el aviso para asistir a uno mujer por uno herida de arma blanco y que precisar atención sanitario urgente posteriormente el personal de el servicio_de_urgencias_canario suc se personar en el lugar de el incidente donde tras estabilizar a el víctima este ser trasladar en uno helicóptero medicalizado a el hospital_universitario_insular_de_gran_canaria así a el lugar acudir además de el personal de el suc bombero y policía_local_de_pájara así_como agente de el guardia_civil quien instruir el diligencia correspondiente agresor_detenido_la joven ser agredir por uno hombre de 38 año de edad y también de nacionalidad marroquí que responder a el inicial de a.e.r. y que ser detener posteriormente según informar fuente de el guardia_civil a europa_press el agente arrestar a el agresor tras encontrar lo deambular por uno avenida de el municipio citar el hecho según el mismo fuente se producir después_de que el agresor que tener problema con el hermano de el víctima discutir con él para posteriormente apuñalar a el joven el detenido se encontrar en el cuartel de morro_jable donde haber pasar a disposición judicial",
+        "lemmatized_text_reduced": "joven año edad nacionalidad marroquí resultar herir madrugada arma blanco torax morro_jable municipio pájara fuerteventura encontrar grave informar centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir establecimiento hostelería situar calle el_carmen_de_morro_jable momento recibir aviso asistir mujer herida arma blanco precisar atención sanitario urgente posteriormente personal servicio_de_urgencias_canario suc personar lugar incidente estabilizar víctima ser trasladar helicóptero medicalizado hospital_universitario_insular_de_gran_canaria lugar acudir personal suc bombero policía_local_de_pájara agente guardia_civil instruir diligencia correspondiente agresor_detenido_la joven ser agredir hombre año edad nacionalidad marroquí responder inicial a.e.r. ser detener posteriormente informar fuente guardia_civil europa_press agente arrestar agresor encontrar deambular avenida municipio citar hecho mismo fuente producir agresor tener problema hermano víctima discutir posteriormente apuñalar joven detenido encontrar cuartel morro_jable haber pasar disposición judicial",
+        "persons": [
+            "AGRESOR_DETENIDO_La",
+            "Europa_Press",
+            "Morro_Jable"
+        ],
+        "locations": [
+            "Morro_Jable",
+            "Pájara",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "CECOES",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "SUC",
+            "Policía_Local_de_Pájara",
+            "Guardia_Civil",
+            "A.E.R.",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad",
+            "El_Carmen_de_Morro_Jable"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "29",
+            "112",
+            "TM_h:0.57",
+            "112",
+            "38"
+        ]
+    }
+}

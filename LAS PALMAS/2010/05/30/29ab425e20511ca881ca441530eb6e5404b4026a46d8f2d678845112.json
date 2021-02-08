@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/722422/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria contratará a 78 desempleados para realizar cinco proyectos",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria contratar a 78 desempleado para realizar 5 proyecto",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria contratar desempleado realizar proyecto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "78",
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria contratará a 78 desempleados del municipio, en coordinación con el Instituto Municipal de Empleo y Formación (IMEF), para la consecución de cinco proyectos en diferentes puntos de la ciudad.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria contratar a 78 desempleado de el municipio en coordinación con el instituto_municipal_de_empleo y formación imef para el consecución de 5 proyecto en diferente punto de el ciudad",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria contratar desempleado municipio coordinación instituto_municipal_de_empleo formación imef consecución proyecto punto ciudad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Instituto_Municipal_de_Empleo",
+            "IMEF"
+        ],
+        "others": [
+            "Formación"
+        ],
+        "dates": [],
+        "numbers": [
+            "78",
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "Respecto a las actividades a realizar, una de ellas está relacionadas con la limpieza, el acondicionamiento y el embellecimiento del barrio de San Nicolás, según informó el Consistorio capitalino en nota de prensa. En cuanto a los cuatro proyectos restantes están relacionados con la rehabilitación y mejora de los colegios públicos municipales, la Plaza de la Música, el Intercambiador de Santa Catalina y dos plazas en Las Rehoyas. Las primeras actuaciones a realizar en el barrio de San Nicolás consisten en el acondicionamiento, repavimentación, pavimentación, construcción de nuevos muros, rehabilitación de los muros de piedra deteriorados, mediante su encalado y pintado, entre otros.",
+        "lemmatized_text": "respecto_a el actividad a realizar uno de ellos estar relacionar con el limpieza el acondicionamiento y el embellecimiento de el barrio de san_nicolás según informar el consistorio capitalino en nota de prensa en_cuanto_a el 4 proyecto restante estar relacionar con el rehabilitación y mejora de el colegio público municipal el plaza_de_la_música el intercambiador_de_santa_catalina y 2 plaza en las_rehoyas el 1 actuación a realizar en el barrio de san_nicolás consistir en el acondicionamiento repavimentación pavimentación construcción de nuevo muro rehabilitación de el muro de piedra deteriorar mediante su encalado y pintado entre otro",
+        "lemmatized_text_reduced": "actividad realizar estar relacionar limpieza acondicionamiento embellecimiento barrio san_nicolás informar consistorio capitalino nota prensa proyecto restante estar relacionar rehabilitación mejora colegio público municipal plaza_de_la_música intercambiador_de_santa_catalina plaza las_rehoyas 1 actuación realizar barrio san_nicolás consistir acondicionamiento repavimentación pavimentación construcción nuevo muro rehabilitación muro piedra deteriorar encalado pintado",
+        "persons": [],
+        "locations": [
+            "San_Nicolás",
+            "Las_Rehoyas",
+            "San_Nicolás"
+        ],
+        "organizations": [
+            "Consistorio",
+            "Plaza_de_la_Música",
+            "Intercambiador_de_Santa_Catalina"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "2"
+        ]
+    }
+}

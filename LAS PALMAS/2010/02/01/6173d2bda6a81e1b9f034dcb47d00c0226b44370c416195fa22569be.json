@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619038/0/",
+    "title": {
+        "raw_text": "La lluvia y los desprendimientos obligan al corte de seis carreteras en Gran Canaria",
+        "lemmatized_text": "el lluvia y el desprendimiento obligar a el corte de 6 carretera en gran_canaria",
+        "lemmatized_text_reduced": "lluvia desprendimiento obligar corte carretera gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El temporal de lluvia que está azotando el archipiélago canario ha obligado al cierre de seis carreteras del sur y sureste de la isla de Gran Canaria, según informó a Europa Press el Centro Coordinador de Emergencia y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el temporal de lluvia que estar azotar el archipiélago canario haber obligar a el cierre de 6 carretera de el sur y sureste de el isla de gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencia y seguridad cecoes 112",
+        "lemmatized_text_reduced": "temporal lluvia estar azotar archipiélago canario haber obligar cierre carretera sur sureste isla gran_canaria informar europa_press_el_centro_coordinador_de_emergencia seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencia",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "6",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, las fuertes lluvias y los desprendimientos de piedras han sido las principales causas del cierre de la carretera GC-500, que une Playa del Cura con Mogán, a la altura del barranco de Balito (Mogán). Además, la GC-505 entre Cercados de Espino y Soria, en San Bartolomé de Tirajana y Mogán respectivamente, también se encuentra cortada al tráfico. En el municipio de San Bartolomé de Tirajana también se encuentra restringido el acceso en la vía GC-60 entre Maspalomas y Tunte, a la altura de Arteara. En estos momentos, en el sureste de la isla también hay dos carreteras cortadas, la vía que une Agüimes con Santa Lucía (a la altura de Temisas) y la GC-191 que discurre entre Vecindario y el Carrizal, a la altura del Cruce de Vargas. La zona norte y oeste de Gran Canaria también presenta problemas de circulación en la vía GC-2010 que une Tejeda con Artenara y la carretera de Agaete y La Aldea de San Nicolás (GC-200), respectivamente. Asimismo, ha habido problemas de achique y alcantarillado en algunos barrios de los municipios de Santa Lucía, Mogán, La Aldea, Agüimes, Ingenio y Telde. No obstante, los aeropuertos y puertos de la provincia de Las Palmas están operando con total normalidad y por ahora no se han registrado incidencias de gran importancia.",
+        "lemmatized_text": "en concreto el fuerte lluvia y el desprendimiento de piedra haber ser el principal causa de el cierre de el carretera GC-500 que unir playa_del_cura con mogán a el altura de el barranco de balito mogán además el GC-505 entre cercados_de_espino y soria en san_bartolomé_de_tirajana y mogán respectivamente también se encontrar cortar a el tráfico en el municipio de san_bartolomé_de_tirajana también se encontrar restringir el acceso en el vía GC-60 entre maspalomas y tunte a el altura de arteara en este momento en el sureste de el isla también haber 2 carretera cortar el vía que unir agüimes con santa_lucía a el altura de temisas y el GC-191 que discurrir entre vecindario y el carrizal a el altura de el cruce_de_vargas el zona norte y oeste de gran_canaria también presentar problema de circulación en el vía GC-2010 que unir tejeda con artenara y el carretera de agaete y la_aldea_de_san_nicolás GC-200 respectivamente asimismo haber haber problema de achique y alcantarillado en alguno barrio de el municipio de santa_lucía mogán la_aldea agüimes ingenio y telde no_obstante el aeropuerto y puerto de el provincia de las_palmas estar operando con total normalidad y por ahora no se haber registrar incidencia de gran importancia",
+        "lemmatized_text_reduced": "concreto fuerte lluvia desprendimiento piedra haber ser principal causa cierre carretera unir playa_del_cura mogán altura barranco balito mogán cercados_de_espino soria san_bartolomé_de_tirajana mogán respectivamente encontrar cortar tráfico municipio san_bartolomé_de_tirajana encontrar restringir acceso vía maspalomas tunte altura arteara momento sureste isla haber carretera cortar vía unir agüimes santa_lucía altura temisas discurrir vecindario carrizal altura cruce_de_vargas zona norte oeste gran_canaria presentar problema circulación vía unir tejeda artenara carretera agaete la_aldea_de_san_nicolás respectivamente haber haber problema achique alcantarillado barrio municipio santa_lucía mogán la_aldea agüimes ingenio telde aeropuerto puerto provincia las_palmas estar operando total normalidad haber registrar incidencia gran importancia",
+        "persons": [
+            "Maspalomas",
+            "Tunte",
+            "Vecindario"
+        ],
+        "locations": [
+            "Playa_del_Cura",
+            "Mogán",
+            "Balito",
+            "Mogán",
+            "Soria",
+            "San_Bartolomé_de_Tirajana",
+            "Mogán",
+            "San_Bartolomé_de_Tirajana",
+            "Arteara",
+            "Agüimes",
+            "Temisas",
+            "Gran_Canaria",
+            "Tejeda",
+            "Artenara",
+            "Agaete",
+            "La_Aldea_de_San_Nicolás",
+            "Santa_Lucía",
+            "La_Aldea",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Cercados_de_Espino",
+            "Santa_Lucía",
+            "Carrizal",
+            "Cruce_de_Vargas",
+            "Mogán",
+            "Agüimes",
+            "Ingenio",
+            "Telde"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-500",
+            "GC-505",
+            "GC-60",
+            "2",
+            "GC-191",
+            "GC-2010",
+            "GC-200"
+        ]
+    }
+}

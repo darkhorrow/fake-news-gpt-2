@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660426/0/",
+    "title": {
+        "raw_text": "Hallado muerto un preso en una celda de la prisión de Salto del Negro en Las Palmas de Gran Canaria",
+        "lemmatized_text": "hallar morir uno preso en uno celda de el prisión de salto_del_negro en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hallar morir preso celda prisión salto_del_negro las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Salto_del_Negro"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un preso de 32 años de edad, natural de Las Palmas de Gran Canaria, y que responde a las iniciales de P.F.T.M. ha sido hallado hoy muerto en una celda de la prisión del Salto del Negro, en la capital grancanaria, según informaron a Europa Press fuentes de la Delegación del Gobierno en las islas e Instituciones Penitenciarias.",
+        "lemmatized_text": "uno preso de 32 año de edad natural de las_palmas_de_gran_canaria y que responder a el inicial de p.f.t.m. haber ser hallar hoy morir en uno celda de el prisión de el salto_del_negro en el capital grancanaria según informar a europa_press fuente de el delegación_del_gobierno en el isla y instituciones_penitenciarias",
+        "lemmatized_text_reduced": "preso año edad natural las_palmas_de_gran_canaria responder inicial p.f.t.m. haber ser hallar morir celda prisión salto_del_negro capital grancanaria informar europa_press fuente delegación_del_gobierno isla instituciones_penitenciarias",
+        "persons": [
+            "Europa_Press",
+            "Instituciones_Penitenciarias"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "P.F.T.M.",
+            "Delegación_del_Gobierno"
+        ],
+        "others": [
+            "Salto_del_Negro"
+        ],
+        "dates": [],
+        "numbers": [
+            "32"
+        ]
+    },
+    "body": {
+        "raw_text": "Hasta el momento se desconocen las causas de la muerte del reo, que fue encontrado a las 08.00 horas, en el recuento que realizan los funcionarios de celda a primera hora de la mañana, según indicaron fuentes de Instituciones Penitenciarias a Europa Press. Así, tras el hallazgo los funcionarios avisaron al médico que sólo pudo certificar el fallecimiento del preso, del que ahora habrá que esperar a su autopsia para conocer las causas de su muerte. También se informó al juez de guardia y a la Policía Judicial que se encargarán de esclarecer los hechos. De todos modos, según informaron a Europa Press fuentes penitenciarias, se baraja que el fallecimiento se produjera por una sobredosis o por la mala utilización de medicamentos. El preso se encontraba en el módulo seis, que acoge a 185 reclusos \"multireincidentes\". El centro penitenciario, creado para acoger a unos 700 presos, alberga en la actualidad a unos 1.400 reos.",
+        "lemmatized_text": "hasta el momento se desconocer el causa de el muerte de el reo que ser encontrar a el TM_h:8 en el recuento que realizar el funcionario de celda a 1 hora de el mañana según indicar fuente de instituciones_penitenciarias a europa_press así tras el hallazgo el funcionario avisar a el médico que sólo poder certificar el fallecimiento de el preso de el que ahora haber que esperar a su autopsia para conocer el causa de su muerte también se informar a el juez de guardia y a el policía_judicial que se encargar de esclarecer el hecho de_todos_modos según informar a europa_press fuente penitenciario se barajar que el fallecimiento se producir por uno sobredosis o por el malo utilización de medicamento el preso se encontrar en el módulo 6 que acoger a 185 recluso multireincidente el centro penitenciario crear para acoger a uno 700 preso albergar en el actualidad a uno 1.4 reo",
+        "lemmatized_text_reduced": "momento desconocer causa muerte reo ser encontrar recuento realizar funcionario celda 1 hora mañana indicar fuente instituciones_penitenciarias europa_press hallazgo funcionario avisar médico poder certificar fallecimiento preso haber esperar autopsia conocer causa muerte informar juez guardia policía_judicial encargar esclarecer hecho informar europa_press fuente penitenciario barajar fallecimiento producir sobredosis malo utilización medicamento preso encontrar módulo acoger recluso multireincidente centro penitenciario crear acoger preso albergar actualidad reo",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Instituciones_Penitenciarias",
+            "Europa_Press",
+            "Policía_Judicial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:8",
+            "6",
+            "185",
+            "700",
+            "1.4"
+        ]
+    }
+}

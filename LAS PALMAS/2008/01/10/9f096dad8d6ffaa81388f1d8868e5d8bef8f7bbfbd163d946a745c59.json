@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/332019/0/investigacion/canarias/menores/",
+    "title": {
+        "raw_text": "Un crematorio de animales, nueva pista en la desaparición de menores en Canarias",
+        "lemmatized_text": "uno crematorio de animal nuevo pista en el desaparición de menor en canarias",
+        "lemmatized_text_reduced": "crematorio animal nuevo pista desaparición menor canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El raptor frustrado de una niña canaria trabajó en un crematorio. No se descarta su relación con la desaparición de otros dos menores. La Policía se ha trasladado hasta la incineradora con el detenido. Las instalaciones funcionaron hace dos meses pese a llevar cerradas cuatro años, según teldeactualidad.com .",
+        "lemmatized_text": "el raptor frustrar de uno niño canario trabajar en uno crematorio no se descartar su relación con el desaparición de otro 2 menor el policía se haber trasladar hasta el incineradora con el detener el instalación funcionar hacer 2 mes pese_a llevar cerrar 4 año según teldeactualidad.com",
+        "lemmatized_text_reduced": "raptor frustrar niño canario trabajar crematorio descartar relación desaparición menor policía haber trasladar incineradora detener instalación funcionar hacer mes llevar cerrar año teldeactualidad.com",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2",
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional y el Juzgado están investigando si el detenido por el presunto intento de rapto de una niña el pasado viernes en Telde (Gran Canaria), cometió antes otros asaltos. Para ello, han ido a buscar pruebas junto al arrestado a un crematorio de animales abandonado en una zona industrial de la localidad, donde trabajó tiempo atrás. Por el momento las fuentes de la investigación no han querido confirmar si en el crematorio se están buscando restos humanos , pero no se puede descartar por ahora que el arrestado tenga alguna relación con otras desapariciones en la misma zona: el niño de 7 años Yeremi Vargas desapareció en marzo de 2007 ; Sara Morales , de 14, el 30 de julio de 2006 . Según informa teldeactualidad.com , las instalaciones están cerradas desde hace cuatro años , pero el horno crematorio que está en su interior, destinado a animales domésticos, funcionó por última vez hace unos dos meses. El detenido, Marcos J. R. C, de unos 30 años , tiene antecedentes policiales (que no penales) por abusos sexuales. El hombre pasará este viernes a disposición del Juzgado de Instrucción Número 2 de Telde.",
+        "lemmatized_text": "el policía_nacional y el juzgado estar investigar si el detener por el presunto intento de rapto de uno niño el [V:??/??/??:??.??:??] en telde gran_canaria cometer antes otro asalto para ello haber ir a buscar prueba junto a el arrestar a uno crematorio de animal abandonar en uno zona industrial de el localidad donde trabajar tiempo atrás por el momento el fuente de el investigación no haber querer confirmar si en el crematorio se estar buscar resto humano pero no se poder descartar por ahora que el arrestar tener alguno relación con otro desaparición en el mismo zona el niño de 7 año yeremi_vargas desaparecer en [??:??/3/2007:??.??:??] sara_morales de 14 el [??:30/7/2006:??.??:??] según informar teldeactualidad.com el instalación estar cerrar desde hacer 4 año pero el horno crematorio que estar en su interior destinar a animal doméstico funcionar por último vez hacer uno 2 mes el detenido marcos_j._r._c de uno 30 año tener antecedente policial que no penal por abuso sexual el hombre pasar este [V:??/??/??:??.??:??] a disposición de el juzgado_de_instrucción_número 2 de telde",
+        "lemmatized_text_reduced": "policía_nacional juzgado estar investigar detener presunto intento rapto niño telde gran_canaria cometer asalto haber ir buscar prueba junto arrestar crematorio animal abandonar zona industrial localidad trabajar tiempo momento fuente investigación haber querer confirmar crematorio estar buscar resto humano poder descartar arrestar tener relación desaparición mismo zona niño año yeremi_vargas desaparecer sara_morales informar teldeactualidad.com instalación estar cerrar hacer año horno crematorio estar interior destinar animal doméstico funcionar último vez hacer mes detenido marcos_j._r._c año tener antecedente policial penal abuso sexual hombre pasar disposición juzgado_de_instrucción_número telde",
+        "persons": [
+            "Yeremi_Vargas",
+            "Sara_Morales",
+            "Marcos_J._R._C"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Juzgado",
+            "Juzgado_de_Instrucción_Número",
+            "Telde"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[??:??/3/2007:??.??:??]",
+            "[??:30/7/2006:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "7",
+            "14",
+            "4",
+            "2",
+            "30",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641973/0/",
+    "title": {
+        "raw_text": "La Aemet levanta la alerta por viento en la mayoría de las islas Canarias pero mantiene el riesgo por oleaje",
+        "lemmatized_text": "el aemet levantar el alerta por viento en el mayoría de el isla canarias pero mantener el riesgo por oleaje",
+        "lemmatized_text_reduced": "aemet levantar alerta viento mayoría isla canarias mantener riesgo oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha levantado la alerta amarilla que decretó hoy en Canarias por viento, aunque se mantiene en la cumbre de La Palma y en la isla de Tenerife. Además, continúa el riesgo de olas de hasta cinco metros.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber levantar el alerta amarillo que decretar hoy en canarias por viento aunque se mantener en el cumbre de la_palma y en el isla de tenerife además continuar el riesgo de ola de hasta LN_m:5",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber levantar alerta amarillo decretar canarias viento mantener cumbre la_palma isla tenerife continuar riesgo ola",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "La_Palma",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:5"
+        ]
+    },
+    "body": {
+        "raw_text": "La alerta amarilla por viento concluirá finalmente este miércoles en la totalidad de las islas, aunque permanecerá el riesgo por oleaje. En concreto, en la provincia occidental, la Aemet vaticina en Tenerife rachas de 75 kilómetros por hora hasta esta noche en la costa norte, sur, este y oeste, así como viento de 85 kilómetros por hora en las localidades de La Orotava y Vilaflor hasta la medianoche del miércoles. Asimismo, esta ínsula se verá afectada por oleaje en su litoral del norte hasta el jueves. En la cumbre y este de La Palma se prevén rachas de viento de hasta 75 kilómetros por hora hasta esta noche, así como fenómeno costero adverso en la costa norte y oeste hasta la medianoche del jueves. El norte de La Gomera y la isla de El Hierro también se verán afectadas por grandes olas hasta este jueves. Por su parte, en el norte de Gran Canaria y en las costas de Lanzarote y Fuerteventura ya no existe riesgo de fuerte viento, pero se registrará fenómeno costero adverso hasta la medianoche del jueves. En cuanto a la estado del mar, la Aemet prevé que mañana en la provincia de Santa Cruz de Tenerife se registren aguas costeras en el litoral noroeste fuerza 5 disminuyendo a partir del mediodía a fuerza dos a tres, para seguir disminuyendo hasta quedarse variable fuerza dos a tres al final del día. No obstante, se prevé marejada disminuyendo a marejadilla; rizada en costas este y mar de fondo del noroeste de tres a cuatro metros, aumentando hasta ser de cinco metros al norte de La Palma a primeras horas. Del mismo modo en la provincia de Las Palmas se espera fuerte marejada disminuyendo a marejada a marejadilla, rizada en la costa este de Gran Canaria y con mar de fondo del noroeste de tres a cuatro metros.",
+        "lemmatized_text": "el alerta amarillo por viento concluir finalmente este [X:??/??/??:??.??:??] en el totalidad de el isla aunque permanecer el riesgo por oleaje en concreto en el provincia occidental el aemet vaticinar en tenerife racha de SP_km/h:75 hasta este noche en el costa norte sur este y oeste así_como viento de SP_km/h:85 en el localidad de la_orotava y vilaflor hasta el [X:??/??/??:00.00:am] asimismo este ínsula se ver afectar por oleaje en su litoral de el norte hasta el [J:??/??/??:??.??:??] en el cumbre y este de la_palma se prever racha de viento de hasta SP_km/h:75 hasta este noche así_como fenómeno costero adverso en el costa norte y oeste hasta el [J:??/??/??:00.00:am] el norte de la_gomera y el isla de el_hierro también se ver afectar por grande ola hasta este [J:??/??/??:??.??:??] por su parte en el norte de gran_canaria y en el costa de lanzarote y fuerteventura ya no existir riesgo de fuerte viento pero se registrar fenómeno costero adverso hasta el [J:??/??/??:00.00:am] en_cuanto_a el estado de el mar el aemet prever que mañana en el provincia de santa_cruz_de_tenerife se registrar agua costero en el litoral noroeste fuerza 5 disminuir a partir de el [??:??/??/??:12.00:pm] a fuerza 2 a 3 para seguir disminuir hasta quedar se variable fuerza 2 a 3 a el final de el día no_obstante se prever marejada disminuir a marejadilla rizar en costa este y mar de fondo de el noroeste de 3 a LN_m:4 aumentar hasta ser de LN_m:5 a el norte de la_palma a 1 hora de el mismo modo en el provincia de las_palmas se esperar fuerte marejada disminuir a marejada a marejadilla rizar en el costa este de gran_canaria y con mar de fondo de el noroeste de 3 a LN_m:4",
+        "lemmatized_text_reduced": "alerta amarillo viento concluir finalmente totalidad isla permanecer riesgo oleaje concreto provincia occidental aemet vaticinar tenerife racha noche costa norte sur este oeste viento localidad la_orotava vilaflor ínsula ver afectar oleaje litoral norte cumbre la_palma prever racha viento noche fenómeno costero adverso costa norte oeste norte la_gomera isla el_hierro ver afectar grande ola parte norte gran_canaria costa lanzarote fuerteventura existir riesgo fuerte viento registrar fenómeno costero adverso estado mar aemet prever provincia santa_cruz_de_tenerife registrar agua costero litoral noroeste fuerza disminuir partir fuerza seguir disminuir quedar variable fuerza final día prever marejada disminuir marejadilla rizar costa mar fondo noroeste aumentar ser norte la_palma 1 hora mismo modo provincia las_palmas esperar fuerte marejada disminuir marejada marejadilla rizar costa gran_canaria mar fondo noroeste",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro",
+            "Gran_Canaria",
+            "Lanzarote",
+            "Santa_Cruz_de_Tenerife",
+            "La_Palma",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Aemet",
+            "Fuerteventura",
+            "Aemet"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[X:??/??/??:00.00:am]",
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:00.00:am]",
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:00.00:am]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "SP_km/h:75",
+            "SP_km/h:85",
+            "SP_km/h:75",
+            "5",
+            "2",
+            "3",
+            "2",
+            "3",
+            "3",
+            "LN_m:4",
+            "LN_m:5",
+            "3",
+            "LN_m:4"
+        ]
+    }
+}

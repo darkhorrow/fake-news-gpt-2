@@ -1,0 +1,118 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/696499/0/",
+    "title": {
+        "raw_text": "Una vivienda de segunda mano en Canarias con 80 m2 cuesta 144.560 euros de media, según Fotocasa.es",
+        "lemmatized_text": "uno vivienda de_segunda_mano en canarias con AR_m2:80 costar $_ECU:144.56 de medio según fotocasa ser",
+        "lemmatized_text_reduced": "vivienda canarias costar medio fotocasa ser",
+        "persons": [
+            "Fotocasa"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_m2:80",
+            "$_ECU:144.56"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio de una vivienda de segunda mano en las islas Canarias con una dimensión de 80 metros cuadrados es de 144.560 euros de media, ya que en abril el precio medio del metro cuadrado se situó en los 1.807 euros, según el índice de vivienda realizado por Fotocasa.es.",
+        "lemmatized_text": "el precio de uno vivienda de_segunda_mano en el isla canarias con uno dimensión de AR_m2:80 ser de $_ECU:144.56 de medio ya_que en [??:??/4/??:??.??:??] el precio medio de el metro cuadrado se situar en el $_ECU:1.807 según el índice de vivienda realizar por fotocasa ser",
+        "lemmatized_text_reduced": "precio vivienda isla canarias dimensión ser medio precio medio metro cuadrado situar índice vivienda realizar fotocasa ser",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Fotocasa"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "AR_m2:80",
+            "$_ECU:144.56",
+            "$_ECU:1.807"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio medio de la vivienda en el archipiélago bajó en abril un 0,3 por ciento respecto al mes de marzo de este mismo año, mientras que en términos interanuales la reducción se eleva al 6,7 por ciento. De esta forma, Canarias cuenta con la menor caída de precios registrada en el último año, lo que según Fotocasa.es \"muestra una clara tendencia hacia la estabilización de los precios\". Las dos provincias canarias registran descensos en el precio de la vivienda en venta, con un recorte del 0,2 por ciento para Las Palmas y, un poco mayor, del 0,4 por ciento para la de Santa Cruz de Tenerife. Las Palmas es la provincia más cara para comprar una vivienda, con el precio por metro cuadrado de 1.833 euros, mientras que en la provincia más occidental el precio medio se sitúa en los 1.774 euros el metro cuadrado. Cuatro de las siete ciudades canarias analizadas revalorizan el precio en abril, tales como Ingenio (+2,7%), Las Palmas de Gran Canaria (+1,3%), Arucas (+0,9%) y Telde (+0,3%). Las tres ciudades restantes registran descensos en el precio de la vivienda, en concreto, un recorte del 0,2% en Santa Cruz de Tenerife, del 0,3% en San Cristóbal de la Laguna y del 1,7% en Santa Lucía de Tirajana. Las Palmas de Gran Canaria y Santa Lucía de Tirajana son, respectivamente, las ciudades más cara y más barata de Canarias. Si en Las Palmas de Gran Canaria el precio de la vivienda se sitúa en 2.056 euros el metro cuadrado, en Santa Lucía de Tirajana la vivienda cuesta de media 1.414 euros el metro cuadrado. En el resto de ciudades analizadas los precios registrados son 2.005 euros/m2 en Santa Cruz de Tenerife, 1.749 euros/m2 en Arucas, 1.680 euros/m2 en Telde, 1.673 euros/m2 en San Cristóbal de la Laguna y 1.532 euros/m2 en Ingenio.",
+        "lemmatized_text": "el precio medio de el vivienda en el archipiélago bajar en [??:??/4/??:??.??:??] uno 0,3 por 100 respecto a el [??:??/3/??:??.??:??] de este mismo año mientras_que en término interanual el reducción se elevar a el 6,7 por 100 de este forma canarias contar con el menor caída de precio registrar en el último año el que según fotocasa ser mostrar uno claro tendencia hacia el estabilización de el precio el 2 provincia canario registrar descenso en el precio de el vivienda en venta con uno recorte de el 0,2 por 100 para las_palmas y uno poco mayor de el 0,4 por 100 para el de santa_cruz_de_tenerife el palmas ser el provincia más caro para comprar uno vivienda con el precio por metro cuadrado de $_ECU:1.833 mientras_que en el provincia más occidental el precio medio se situar en el $_ECU:1.774 el metro cuadrado 4 de el 7 ciudad canario analizar revalorizar el precio en [??:??/4/??:??.??:??] tal como ingenio +2,7/100 las_palmas_de_gran_canaria +1,3/100 arucas +0,9/100 y telde +0,3/100 el 3 ciudad restante registrar descenso en el precio de el vivienda en concreto uno recorte de el 0,2/100 en santa_cruz_de_tenerife de el 0,3/100 en san_cristóbal_de_la_laguna y de el 1,7/100 en santa_lucía_de_tirajana el palmas_de_gran_canaria y santa_lucía_de_tirajana ser respectivamente el ciudad más caro y más barato de canarias si en las_palmas_de_gran_canaria el precio de el vivienda se situar en $_ECU:2.056 el metro cuadrado en santa_lucía_de_tirajana el vivienda costar de medio $_ECU:1.414 el metro cuadrado en el resto de ciudad analizar el precio registrar ser 2.005 euros/m2 en santa_cruz_de_tenerife 1.749 euros/m2 en arucas 1.68 euros/m2 en telde 1.673 euros/m2 en san_cristóbal_de_la_laguna y 1.532 euros/m2 en ingenio",
+        "lemmatized_text_reduced": "precio medio vivienda archipiélago bajar respecto mismo año término interanual reducción elevar forma canarias contar menor caída precio registrar último año fotocasa ser mostrar claro tendencia estabilización precio provincia canario registrar descenso precio vivienda venta recorte las_palmas mayor santa_cruz_de_tenerife palmas ser provincia caro comprar vivienda precio metro cuadrado provincia occidental precio medio situar metro cuadrado ciudad canario analizar revalorizar precio ingenio las_palmas_de_gran_canaria arucas telde ciudad restante registrar descenso precio vivienda concreto recorte santa_cruz_de_tenerife san_cristóbal_de_la_laguna santa_lucía_de_tirajana palmas_de_gran_canaria santa_lucía_de_tirajana ser respectivamente ciudad caro barato canarias las_palmas_de_gran_canaria precio vivienda situar metro cuadrado santa_lucía_de_tirajana vivienda costar medio metro cuadrado resto ciudad analizar precio registrar ser santa_cruz_de_tenerife arucas telde san_cristóbal_de_la_laguna ingenio",
+        "persons": [
+            "Fotocasa",
+            "Ingenio",
+            "Arucas"
+        ],
+        "locations": [
+            "Canarias",
+            "Santa_Cruz_de_Tenerife",
+            "Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "San_Cristóbal_de_la_Laguna",
+            "Santa_Lucía_de_Tirajana",
+            "Santa_Lucía_de_Tirajana",
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Lucía_de_Tirajana",
+            "Santa_Cruz_de_Tenerife",
+            "Arucas",
+            "San_Cristóbal_de_la_Laguna",
+            "Ingenio"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Las_Palmas_de_Gran_Canaria",
+            "Telde",
+            "Palmas_de_Gran_Canaria",
+            "Telde"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[??:??/3/??:??.??:??]",
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "0,3",
+            "100",
+            "6,7",
+            "100",
+            "2",
+            "0,2",
+            "100",
+            "0,4",
+            "100",
+            "$_ECU:1.833",
+            "$_ECU:1.774",
+            "4",
+            "7",
+            "+2,7/100",
+            "+1,3/100",
+            "+0,9/100",
+            "+0,3/100",
+            "3",
+            "0,2/100",
+            "0,3/100",
+            "1,7/100",
+            "$_ECU:2.056",
+            "$_ECU:1.414",
+            "2.005",
+            "euros/m2",
+            "1.749",
+            "euros/m2",
+            "1.68",
+            "euros/m2",
+            "1.673",
+            "euros/m2",
+            "1.532",
+            "euros/m2"
+        ]
+    }
+}

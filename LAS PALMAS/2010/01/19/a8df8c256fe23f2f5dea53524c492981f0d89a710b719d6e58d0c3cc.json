@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/610236/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria mantiene la partida de 2 millones para políticas sociales en los municipios",
+        "lemmatized_text": "el cabildo_de_gran_canaria mantener el partida de 2000000 para política social en el municipio",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria mantener partida política social municipio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria mantendrá la partida de 2 millones de euros para desarrollar programas de políticas sociales en los 21 municipios de la isla. Así, de esta cantidad, 800.000 euros se centrarán en actuaciones en el ámbito familiar y el 1,2 millones de euros para servicios sociales.",
+        "lemmatized_text": "el cabildo_de_gran_canaria mantener el partida de $_ECU:2000000 para desarrollar programa de política social en el 21 municipio de el isla así de este cantidad $_ECU:800 se centrar en actuación en el ámbito familiar y el 1,2 millón de euro para servicio social",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria mantener partida desarrollar programa política social municipio isla cantidad centrar actuación ámbito familiar millón euro servicio social",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2000000",
+            "21",
+            "$_ECU:800",
+            "1,2"
+        ]
+    },
+    "body": {
+        "raw_text": "Así se ha decidido en el encuentro que ha mantenido hoy el consejero insular de Política Social y Sociosanitaria, Pedro Quevedo, con los concejales de los 21 ayuntamientos de la isla y donde se abordó el plan de cooperación entre estas administraciones para prestar servicios sociales básicos, así como especializados en cada municipio. Respecto a los programas a desarrollar están dirigidos, por un lado, a ayudas a domicilio, programas de respiro familiar y a la atención a personas en situación o riesgo de exclusión social; mientras que el resto está centrado en la intervención con la población infantil y sus familias como objetivo para evitar que se produzcan situaciones de exclusión social, según informó el Cabildo insular en nota de prensa. Quevedo, que se mostró \"muy satisfecho\" por el consenso alcanzado en la reunión, subrayó que los fondos del Cabildo son distribuidos a través de los servicios sociales municipales porque \"son las instituciones más cercanas al ciudadano y las que mejor conocen sus necesidades\". Asimismo explicó que el reparto de estos fondos se hace bajo \"criterios objetivos\", 20.000 es la cantidad mínima que recibirá cada corporación local y el resto se distribuye siguiendo el criterio poblacional. También se habló en la reunión de las \"dificultades\" económicas en las que se encuentra el \"área de políticas sociales\". En este sentido, Quevedo explicó el \"retroceso sustancial\" que ha sufrido el presupuesto del Cabildo aunque subrayó que pese a ello se han mantenido \"en lo sustancial\" las cantidades previstas en el año anterior.",
+        "lemmatized_text": "así se haber decidir en el encuentro que haber mantener hoy el consejero insular de política_social y sociosanitaria pedro_quevedo con el concejal de el 21 ayuntamiento de el isla y donde se abordar el plan de cooperación entre este administración para prestar servicio social básico así_como especializar en cada municipio respecto_a el programa a desarrollar estar dirigir por uno lado a ayuda a domicilio programa de respiro familiar y a el atención a persona en situación o riesgo de exclusión social mientras_que el resto estar centrar en el intervención con el población infantil y su familia como objetivo para evitar que se producir situación de exclusión social según informar el cabildo insular en nota de prensa quevedo que se mostrar muy satisfacer por el consenso alcanzar en el reunión subrayar que el fondo de el cabildo ser distribuir a_través_de el servicio social municipal porque ser el institución más cercano a el ciudadano y el que mejor conocer su necesidad asimismo explicar que el reparto de este fondo se hacer bajo criterio objetivo 20 ser el cantidad mínimo que recibir cada corporación local y el resto se distribuir seguir el criterio poblacional también se hablar en el reunión de el dificultad económico en el que se encontrar el área de política social en este sentido quevedo explicar el retroceso sustancial que haber sufrir el presupuesto de el cabildo aunque subrayar que pese_a ello se haber mantener en el sustancial el cantidad prever en el año anterior",
+        "lemmatized_text_reduced": "haber decidir encuentro haber mantener consejero insular política_social sociosanitaria pedro_quevedo concejal ayuntamiento isla abordar plan cooperación administración prestar servicio social básico especializar municipio programa desarrollar estar dirigir lado ayuda domicilio programa respiro familiar atención persona situación riesgo exclusión social resto estar centrar intervención población infantil familia objetivo evitar producir situación exclusión social informar cabildo insular nota prensa quevedo mostrar satisfacer consenso alcanzar reunión subrayar fondo cabildo ser distribuir servicio social municipal ser institución cercano ciudadano conocer necesidad explicar reparto fondo hacer criterio objetivo ser cantidad mínimo recibir corporación local resto distribuir seguir criterio poblacional hablar reunión dificultad económico encontrar área política social sentido quevedo explicar retroceso sustancial haber sufrir presupuesto cabildo subrayar haber mantener sustancial cantidad prever año anterior",
+        "persons": [
+            "Pedro_Quevedo",
+            "Quevedo",
+            "Quevedo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Sociosanitaria",
+            "Cabildo"
+        ],
+        "others": [
+            "Política_Social",
+            "Cabildo",
+            "Cabildo"
+        ],
+        "dates": [],
+        "numbers": [
+            "21",
+            "20"
+        ]
+    }
+}

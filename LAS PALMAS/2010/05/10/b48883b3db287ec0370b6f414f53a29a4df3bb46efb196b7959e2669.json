@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/702731/0/",
+    "title": {
+        "raw_text": "Un varón resulta herido grave al ser atropellado en Antigua (Fuerteventura)",
+        "lemmatized_text": "uno varón resultar herir grave a el ser atropellar en antigua fuerteventura",
+        "lemmatized_text_reduced": "varón resultar herir grave ser atropellar antigua fuerteventura",
+        "persons": [],
+        "locations": [
+            "Antigua",
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de unos 35 años de edad ha resultado herido con un traumatismo en miembro inferior de carácter grave al ser atropellado por un turismo en la carretera general a su paso por el municipio de Antigua (Fuerteventura), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de uno 35 año de edad haber resultar herir con uno traumatismo en miembro inferior de carácter grave a el ser atropellar por uno turismo en el carretera general a su paso por el municipio de antigua fuerteventura según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber resultar herir traumatismo miembro inferior carácter grave ser atropellar turismo carretera general paso municipio antigua fuerteventura informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Antigua"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "35",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 16.55 horas, cuando una llamada alertó al Cecoes del atropello de un hombre en la citada vía. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazó una ambulancia medicalizada del Servicio de Urgencias Canario (SUC) que trasladó al afectado al Hospital General de Fuerteventura. En dicha actuación también intervino una ambulancia de soporte vital básico del SUC y la Guardia Civil, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:16.55 cuando uno llamada alertar a el cecoes de el atropello de uno hombre en el citar vía de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar uno ambulancia medicalizada de el servicio_de_urgencias_canario suc que trasladar a el afectar a el hospital_general_de_fuerteventura en decir actuación también intervenir uno ambulancia de soporte vital básico de el suc y el guardia_civil que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir llamada alertar cecoes atropello hombre citar vía modo activar inmediato dispositivo emergencia necesario lugar desplazar ambulancia medicalizada servicio_de_urgencias_canario suc trasladar afectar hospital_general_de_fuerteventura decir actuación intervenir ambulancia soporte vital básico suc guardia_civil encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_General_de_Fuerteventura",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.55",
+            "112"
+        ]
+    }
+}

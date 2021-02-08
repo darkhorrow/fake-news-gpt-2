@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/332718/0/menor/reconoce/secuestrador/",
+    "title": {
+        "raw_text": "Prisión incondicional para el detenido por el intento de secuestro de una niña",
+        "lemmatized_text": "prisión incondicional para el detener por el intento de secuestro de uno niño",
+        "lemmatized_text_reduced": "prisión incondicional detener intento secuestro niño",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La niña le reconoció. Su padre asegura que no le tembló la mano al señalar al acusado. El titular del Juzgado ordena prisión incondicional y sin fianza. CONSULTA MÁS NOTICIAS EN LAS PALMAS.",
+        "lemmatized_text": "el niño le reconocer su padre asegurar que no le temblar el mano a el señalar a el acusado el titular de el juzgado ordenar prisión incondicional y sin fianza consulta_más_noticias_en_las_palmas",
+        "lemmatized_text_reduced": "niño reconocer padre asegurar temblar mano señalar acusado titular juzgado ordenar prisión incondicional fianza consulta_más_noticias_en_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Juzgado",
+            "CONSULTA_MÁS_NOTICIAS_EN_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El juez del Juzgado de Primera Instancia e Instrucción número 2 de Telde (Gran Canaria) ordenó el ingreso en prisión incondicional de Marcos Javier Rodríguez Cabrera, imputado por un presunto delito de detención ilegal en grado de tentativa, tenencia ilícita de armas y robo de vehículo . Así lo informó el Tribunal Superior de Justicia de Canarias (TSJC), en un comunicado en el que señala que Marcos Javier Rodríguez pasó a disposición judicial tras prestar declaración ante el juez a última hora de la noche de este viernes. Rueda de reconocimiento Entre las diligencias se ha practicado una rueda de reconocimiento en la que han participado tres niñas , entre ellas, Sandra Domínguez, la pequeña que sufrió el pasado viernes el intento de detención ilegal en el barrio de La Garita, en el municipio de Telde (Gran Canaria). La brigada de policía judicial de Las Palmas investiga si hay relación entre este suceso y anteriores desapariciones ocurridas en Gran Canaria , como las del niño Yeremi Vargas y la adolescente Sara Morales. El TSJC recuerda que se ha decretado el secreto de las actuaciones. La menor S.R. aseguró que M.J.R.C. fue el hombre que intentó llevársela . Por su parte, R.D., padre de la menor, reconoció que la niña está estable y que no le ha temblado la mano a la hora de identificar al supuesto agresor como la persona que quiso raptarla. Hace un año hubo otro intento La menor asistió a la rueda de reconocimiento con sus padres y en ningún momento tuvo contacto con la otra niña de Vecindario que también participó en la identificación, ya que hace un año fue objeto de otro intento de secuestro , semanas antes de la desaparición de Yéremi Vargas, en febrero de 2007.",
+        "lemmatized_text": "el juez de el juzgado_de_primera_instancia y instrucción número 2 de telde gran_canaria ordenar el ingreso en prisión incondicional de marcos_javier_rodríguez_cabrera imputar por uno presunto delito de detención ilegal en grado de tentativa tenencia ilícito de arma y robo de vehículo así lo informar el tribunal_superior_de_justicia_de_canarias tsjc en uno comunicado en el que señalar que marcos_javier_rodríguez pasar a disposición judicial tras prestar declaración ante el juez a último hora de el noche de este [V:??/??/??:??.??:??] rueda de reconocimiento entre el diligencia se haber practicar uno rueda de reconocimiento en el que haber participar 3 niño entre ellos sandra_domínguez el pequeño que sufrir el [V:??/??/??:??.??:??] el intento de detención ilegal en el barrio de la_garita en el municipio de telde gran_canaria el brigada de policía judicial de las_palmas investigar si haber relación entre este suceso y anterior desaparición ocurrir en gran_canaria como el de el niño yeremi_vargas y el adolescente sara_morales el tsjc recordar que se haber decretar el secreto de el actuación el menor s.r. asegurar que m.j.r.c. ser el hombre que intentar llevar se lo por su parte r.d. padre de el menor reconocer que el niño estar estable y que no le haber temblar el mano a el hora de identificar a el suponer agresor como el persona que querer raptar lo hacer uno año haber otro intento la menor asistir a el rueda de reconocimiento con su padre y en ninguno momento tener contacto con el otro niño de vecindario que también participar en el identificación ya_que hacer uno año ser objeto de otro intento de secuestro semana antes_de el desaparición de yéremi_vargas en [??:??/2/2007:??.??:??]",
+        "lemmatized_text_reduced": "juez juzgado_de_primera_instancia instrucción número telde gran_canaria ordenar ingreso prisión incondicional marcos_javier_rodríguez_cabrera imputar presunto delito detención ilegal grado tentativa tenencia ilícito arma robo vehículo informar tribunal_superior_de_justicia_de_canarias tsjc comunicado señalar marcos_javier_rodríguez pasar disposición judicial prestar declaración juez último hora noche rueda reconocimiento entre diligencia haber practicar rueda reconocimiento haber participar niño sandra_domínguez pequeño sufrir intento detención ilegal barrio la_garita municipio telde gran_canaria brigada policía judicial las_palmas investigar haber relación suceso anterior desaparición ocurrir gran_canaria niño yeremi_vargas adolescente sara_morales tsjc recordar haber decretar secreto actuación menor s.r. asegurar m.j.r.c. ser hombre intentar llevar parte r.d. padre menor reconocer niño estar estable haber temblar mano hora identificar suponer agresor persona querer raptar hacer año haber intento la menor asistir rueda reconocimiento padre momento tener contacto niño vecindario participar identificación hacer año ser objeto intento secuestro semana desaparición yéremi_vargas",
+        "persons": [
+            "Marcos_Javier_Rodríguez_Cabrera",
+            "Marcos_Javier_Rodríguez",
+            "Sandra_Domínguez",
+            "Yeremi_Vargas",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "La_Garita",
+            "Telde",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Yéremi_Vargas"
+        ],
+        "organizations": [
+            "Juzgado_de_Primera_Instancia",
+            "Instrucción",
+            "Telde",
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "TSJC",
+            "Las_Palmas",
+            "TSJC",
+            "S.R.",
+            "M.J.R.C.",
+            "R.D.",
+            "Vecindario"
+        ],
+        "others": [
+            "Entre",
+            "La"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[??:??/2/2007:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "3"
+        ]
+    }
+}

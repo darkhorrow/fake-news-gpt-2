@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678921/0/",
+    "title": {
+        "raw_text": "El Gobierno canario declara de emergencia las obras de reconstrucción del puerto de Sardina en Gáldar por 400.000 euros",
+        "lemmatized_text": "el gobierno canario declarar de emergencia el obra de reconstrucción de el puerto de sardina en gáldar por $_ECU:400",
+        "lemmatized_text_reduced": "gobierno canario declarar emergencia obra reconstrucción puerto sardina gáldar",
+        "persons": [],
+        "locations": [
+            "Sardina",
+            "Gáldar"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:400"
+        ]
+    },
+    "lead": {
+        "raw_text": "El consejero de Obras Públicas y Transportes del Gobierno de Canarias, Juan Ramón Hernández, ha firmado la Orden por la que se declaran de emergencia las obras de reconstrucción del puerto de Sardina, en el municipio de Gáldar, al noroeste de Gran Canaria.",
+        "lemmatized_text": "el consejero de obras_públicas y transportes_del_gobierno_de_canarias juan_ramón_hernández haber firmar el orden por el que se declarar de emergencia el obra de reconstrucción de el puerto de sardina en el municipio de gáldar a el noroeste de gran_canaria",
+        "lemmatized_text_reduced": "consejero obras_públicas transportes_del_gobierno_de_canarias juan_ramón_hernández haber firmar orden declarar emergencia obra reconstrucción puerto sardina municipio gáldar noroeste gran_canaria",
+        "persons": [
+            "Juan_Ramón_Hernández"
+        ],
+        "locations": [
+            "Sardina",
+            "Gáldar"
+        ],
+        "organizations": [
+            "Obras_Públicas",
+            "Transportes_del_Gobierno_de_Canarias",
+            "Orden"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las obras, cuyo presupuesto asciende a 400.000 euros, serán ejecutadas por la empresa Dragados SA, por ser la única que, teniendo capacidad técnica para la ejecución de obras marítimas de especial complejidad, dispone en estos momentos de los equipos y maquinaria precisos para ejecutar una obra de tales características, informa el Ejecutivo regional en un comunicado. Las instalaciones portuarias de Sardina de Gáldar no alcanzan la categoría de puerto, dado que no garantizan la permanencia de las embarcaciones a flote en cualquier circunstancia, siendo de hecho muy pocos los días del año en los que las embarcaciones pueden permanecer en el agua. No obstante, esta infraestructura sirve adecuadamente a la flota allí existente, sobre todo en verano, ya que los pescadores de la zona suelen operar en invierno en el puerto de Agaete. El dique sufre un colapso parcial Como consecuencia de los fuertes temporales que azotaron las islas el pasado mes de febrero se produjo un descalce del apoyo que servía de sujeción a los bloques del manto de protección del dique del puerto de Sardina en su tercio final. Ello dio lugar a que los bloques que conformaban el cuerpo del mismo corrieran por el talud, dejando en voladizo el espaldón y destrozando la losa superior de la estructura, aunque el morro se ha mantenido estable. El estado actual del dique es de colapso parcial, pudiendo convertirse en total si se produjeran nuevos temporales, lo que pondría en peligro a los establecimientos de hostelería situados en las proximidades. Además, las instalaciones son visitadas por numerosas personas para pasear o efectuar actividades náuticas; y a pesar de que están valladas actualmente, existe el riesgo de que no se respeten las medidas de seguridad o se produzca un colapso adicional mientras haya gente en la parte del dique que aún se conserva, lo que podría dar lugar a graves accidentes. Cambio de tipología Para reparar los daños sufridos se ha previsto un cambio de tipología del dique en su parte final, de tal manera que el conjunto sea más flexible a los temporales y las averías no revistan tanta gravedad. Las obras a ejecutar entrañan una gran dificultad dado que será necesario colocar bloques de 48 toneladas a 30 metros de distancia, operando sobre una infraestructura inestable en voladizo y sin espacio para parque de bloques en las inmediaciones. Ello obliga a una compleja logística en la coordinación de fabricación de bloques y suministro en tiempo real para alimentar a la grúa. La compleja labor reconstructiva sobre un dique en colapso, con mar en constante agitación, requieran de una empresa de alta especialización en obras marítimas para garantizar el resultado y evitar riesgos de accidentes. Más flexible a los temporales Para reparar los daños sufridos se ha previsto un cambio de tipología del dique en su parte final, de tal manera que el conjunto sea más flexible a los temporales y las averías no revistan tanta gravedad, añade la nota. Para ello, la parte final del dique se convertirá en un gran \"morro\" de bloques de hormigón de 48 toneladas, que no será transitable. Este morro dará una protección a la rampa de varada superior a la estructura actual al ser más ancho y romper el oleaje, disminuyendo las reflexiones internas, y sería reparable con mayor facilidad en caso de avería. Adicionalmente se prevé colocar escollera en el paramento vertical que se encuentra junto a la rampa de varada para evitar las importantes reflexiones del oleaje en el mismo, que dificultan la varada e incrementan la agitación en la dársena. Un espigón de mampostería Inicialmente el puerto de Sardina estaba formado por un pequeño espigón de mampostería de unos veinte metros, construido en el primer cuarto de siglo y que contaba con la protección de unas bajas que rompían la energía de la ola antes de llegar a él. A partir de este espigón se ejecutaron dos nuevas alineaciones. Actualmente la infraestructura cuenta con un dique convencional en talud, de unos 75 metros de longitud en dos alineaciones, con un manto de protección exterior constituido por bloques de 25 toneladas en cuerpo de dique y 30 toneladas en morro. Además de escollera de filtro de 2 toneladas, muelle interior adosado a la cota +4,0 metros, y espaldón coronado a la cota 5,50, que abriga una pequeña dársena provista de una rampa de varada. Un corto contradique le sirve de abrigo adicional, completándose el conjunto con una exigüa explanada para situar a las embarcaciones en seco.",
+        "lemmatized_text": "el obra cuyo presupuesto ascender a $_ECU:400 ser ejecutar por el empresa dragados_sa por ser el único que tener capacidad técnico para el ejecución de obra marítimo de especial complejidad disponer en este momento de el equipo y maquinaria preciso para ejecutar uno obra de tal característica informar el ejecutivo regional en uno comunicado el instalación portuario de sardina_de_gáldar no alcanzar el categoría de puerto dado_que no garantizar el permanencia de el embarcación a_flote en cualquiera circunstancia ser de hacer muy poco el día de el año en el que el embarcación poder permanecer en el agua no_obstante este infraestructura servir adecuadamente a el flota allí existente sobre todo en verano ya_que el pescador de el zona soler operar en invierno en el puerto de agaete el dique sufrir uno colapso parcial como consecuencia de el fuerte temporal que azotar el isla el [??:??/2/??:??.??:??] se producir uno descalce de el apoyo que servir de sujeción a el bloque de el manto de protección de el dique de el puerto de sardina en su tercio final ello dar lugar a que el bloque que conformar el cuerpo de el mismo correr por el talud dejar en voladizo el espaldón y destrozar el losa superior de el estructura aunque el morro se haber mantener estable el estado actual de el dique ser de colapso parcial poder convertir se en total si se producir nuevo temporal el que poner en peligro a el establecimiento de hostelería situar en el proximidad además el instalación ser visitar por numeroso persona para pasear o efectuar actividad náutico y a_pesar_de que estar vallar actualmente existir el riesgo de que no se respetar el medida de seguridad o se producir uno colapso adicional mientras haber gente en el parte de el dique que aun se conservar el que poder dar lugar a grave accidente cambio de tipología para reparar el daño sufrir se haber prever uno cambio de tipología de el dique en su parte final de_tal_manera_que el conjunto ser más flexible a el temporal y el avería no revistar tanto gravedad el obra a ejecutar entrañar uno gran dificultad dado_que ser necesario colocar bloque de WG_tm:48 a LN_m:30 de distancia operar sobre uno infraestructura inestable en voladizo y sin espacio para parque de bloque en el inmediación ello obligar a uno complejo logística en el coordinación de fabricación de bloque y suministro en_tiempo_real para alimentar a el grúa el complejo labor reconstructivo sobre uno dique en colapso con mar en constante agitación requerir de uno empresa de alto especialización en obra marítimo para garantizar el resultado y evitar riesgo de accidente más flexible a el temporal para reparar el daño sufrir se haber prever uno cambio de tipología de el dique en su parte final de_tal_manera_que el conjunto ser más flexible a el temporal y el avería no revistar tanto gravedad añadir el nota para ello el parte final de el dique se convertir en uno gran morro de bloque de hormigón de WG_tm:48 que no ser transitable este morro dar uno protección a el rampa de varada superior a el estructura actual a el ser más ancho y romper el oleaje disminuir el reflexión interno y ser reparable con mayor facilidad en_caso_de avería adicionalmente se prever colocar escollera en el paramento vertical que se encontrar junto_a el rampa de varada para evitar el importante reflexión de el oleaje en el mismo que dificultar el varada y incrementar el agitación en el dársena uno espigón de mampostería inicialmente el puerto de sardina estar formar por uno pequeño espigón de mampostería de uno LN_m:20 construir en el 1 cuarto de siglo y que contar con el protección de uno baja que romper el energía de el ola antes_de llegar a él a_partir_de este espigón se ejecutar 2 nuevo alineación actualmente el infraestructura contar con uno dique convencional en talud de uno LN_m:75 de longitud en 2 alineación con uno manto de protección exterior constituir por bloque de WG_tm:25 en cuerpo de dique y WG_tm:30 en morro además_de escollera de filtro de WG_tm:2 muelle interior adosar a el cota LN_m:+4,0 y espaldón coronar a el cota 5,50 que abrigar uno pequeño dársena proveer de uno rampa de varada uno corto contradique le servir de abrigo adicional completar se el conjunto con uno exigüa explanar para situar a el embarcación en seco",
+        "lemmatized_text_reduced": "obra presupuesto ascender ser ejecutar empresa dragados_sa ser único tener capacidad técnico ejecución obra marítimo especial complejidad disponer momento equipo maquinaria preciso ejecutar obra característica informar ejecutivo regional comunicado instalación portuario sardina_de_gáldar alcanzar categoría puerto garantizar permanencia embarcación circunstancia ser hacer día año embarcación poder permanecer agua infraestructura servir adecuadamente flota existente verano pescador zona soler operar invierno puerto agaete dique sufrir colapso parcial como consecuencia fuerte temporal azotar isla producir descalce apoyo servir sujeción bloque manto protección dique puerto sardina tercio final dar lugar bloque conformar cuerpo correr talud dejar voladizo espaldón destrozar losa superior estructura morro haber mantener estable estado actual dique ser colapso parcial poder convertir total producir nuevo temporal poner peligro establecimiento hostelería situar proximidad instalación ser visitar numeroso persona pasear efectuar actividad náutico estar vallar actualmente existir riesgo respetar medida seguridad producir colapso adicional haber gente parte dique conservar poder dar lugar grave accidente cambio tipología para reparar daño sufrir haber prever cambio tipología dique parte final conjunto ser flexible temporal avería revistar gravedad obra ejecutar entrañar gran dificultad ser necesario colocar bloque distancia operar infraestructura inestable voladizo espacio parque bloque inmediación obligar complejo logística coordinación fabricación bloque suministro alimentar grúa complejo labor reconstructivo dique colapso mar constante agitación requerir empresa alto especialización obra marítimo garantizar resultado evitar riesgo accidente flexible temporal para reparar daño sufrir haber prever cambio tipología dique parte final conjunto ser flexible temporal avería revistar gravedad añadir nota parte final dique convertir gran morro bloque hormigón ser transitable morro dar protección rampa varada superior estructura actual ser ancho romper oleaje disminuir reflexión interno ser reparable mayor facilidad avería adicionalmente prever colocar escollera paramento vertical encontrar rampa varada evitar importante reflexión oleaje mismo dificultar varada incrementar agitación dársena espigón mampostería inicialmente puerto sardina estar formar pequeño espigón mampostería construir 1 cuarto siglo contar protección baja romper energía ola llegar espigón ejecutar nuevo alineación actualmente infraestructura contar dique convencional talud longitud alineación manto protección exterior constituir bloque cuerpo dique morro escollera filtro muelle interior adosar cota espaldón coronar cota abrigar pequeño dársena proveer rampa varada corto contradique servir abrigo adicional completar conjunto exigüa explanar situar embarcación seco",
+        "persons": [],
+        "locations": [
+            "Agaete",
+            "Sardina",
+            "Para",
+            "Sardina"
+        ],
+        "organizations": [
+            "Dragados_SA",
+            "Ejecutivo",
+            "Sardina_de_Gáldar",
+            "Como",
+            "Para"
+        ],
+        "others": [
+            "Inicialmente"
+        ],
+        "dates": [
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:400",
+            "WG_tm:48",
+            "LN_m:30",
+            "WG_tm:48",
+            "LN_m:20",
+            "2",
+            "LN_m:75",
+            "2",
+            "WG_tm:25",
+            "WG_tm:30",
+            "WG_tm:2",
+            "LN_m:+4,0",
+            "5,50"
+        ]
+    }
+}

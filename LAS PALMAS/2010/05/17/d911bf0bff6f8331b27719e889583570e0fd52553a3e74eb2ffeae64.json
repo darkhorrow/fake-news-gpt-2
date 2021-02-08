@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/709254/0/",
+    "title": {
+        "raw_text": "Corbacho se reunirá mañana con el presidente canario y firmará un protocolo sobre incentivos a la contratación",
+        "lemmatized_text": "corbacho se reunir mañana con el presidente canario y firmar uno protocolo sobre incentivo a el contratación",
+        "lemmatized_text_reduced": "corbacho reunir presidente canario firmar protocolo incentivo contratación",
+        "persons": [
+            "Corbacho"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El ministro de Trabajo e Inmigración, Celestino Corbacho, se desplazará mañana a Las Palmas de Gran Canaria para reunirse con el presidente del Gobierno de Canarias, Paulino Rivero, y firmar un protocolo de colaboración.",
+        "lemmatized_text": "el ministro de trabajo y inmigración celestino_corbacho se desplazar mañana a las_palmas_de_gran_canaria para reunir se con el presidente de el gobierno_de_canarias paulino_rivero y firmar uno protocolo de colaboración",
+        "lemmatized_text_reduced": "ministro trabajo inmigración celestino_corbacho desplazar las_palmas_de_gran_canaria reunir presidente gobierno_de_canarias paulino_rivero firmar protocolo colaboración",
+        "persons": [
+            "Celestino_Corbacho",
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Trabajo",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Inmigración"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En virtud de dicho acuerdo el Ministerio y el Gobierno autonómico compartirán información con la finalidad de facilitar la gestión del Programa Extraordinario de Incentivos a la Contratación Laboral. A las 9.30 horas, el ministro y el presidente del archipiélago se reunirán en la sede de Presidencia del Gobierno de la comunidad, según informó el citado Ministerio en un comunicado. Posteriormente, a las 13.00 horas, Celestino Corbacho se trasladará a la sede de la empresa Vidrieras Canarias SA, en el Polígono Industrial de Salinetas, en Telde, donde entregará la Medalla de Oro al Mérito en el Trabajo a Lizardo Martell, que participó en la puesta en marcha de esta industria, a finales de los años 70.",
+        "lemmatized_text": "en_virtud_de decir acuerdo el ministerio y el gobierno autonómico compartir información con el finalidad de facilitar el gestión de el programa_extraordinario_de_incentivos a el contratación_laboral a el TM_h:9.3 el ministro y el presidente de el archipiélago se reunir en el sede de presidencia_del_gobierno de el comunidad según informar el citar ministerio en uno comunicado posteriormente a el TM_h:13 celestino_corbacho se trasladar a el sede de el empresa vidrieras_canarias_sa en el polígono_industrial_de_salinetas en telde donde entregar el medalla_de_oro a el mérito en el trabajo a lizardo_martell que participar en el puesta en marcha de este industria a final de el año 70",
+        "lemmatized_text_reduced": "decir acuerdo ministerio gobierno autonómico compartir información finalidad facilitar gestión programa_extraordinario_de_incentivos contratación_laboral ministro presidente archipiélago reunir sede presidencia_del_gobierno comunidad informar citar ministerio comunicado posteriormente celestino_corbacho trasladar sede empresa vidrieras_canarias_sa polígono_industrial_de_salinetas telde entregar medalla_de_oro mérito trabajo lizardo_martell participar puesta marcha industria final año",
+        "persons": [
+            "Celestino_Corbacho",
+            "Lizardo_Martell"
+        ],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [
+            "Ministerio",
+            "Gobierno",
+            "Contratación_Laboral",
+            "Presidencia_del_Gobierno",
+            "Ministerio",
+            "Vidrieras_Canarias_SA",
+            "Polígono_Industrial_de_Salinetas",
+            "Mérito",
+            "Trabajo"
+        ],
+        "others": [
+            "Programa_Extraordinario_de_Incentivos",
+            "Medalla_de_Oro"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.3",
+            "TM_h:13",
+            "70"
+        ]
+    }
+}

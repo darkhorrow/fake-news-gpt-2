@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714937/0/",
+    "title": {
+        "raw_text": "Las carreteras de Gran Canaria registran dos accidentes con heridos de carácter menos grave",
+        "lemmatized_text": "el carretera de gran_canaria registrar 2 accidente con herido de carácter menos grave",
+        "lemmatized_text_reduced": "carretera gran_canaria registrar accidente herido carácter grave",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Las carreteras de Gran Canaria registraron hoy dos accidentes que se saldaron ambos con heridos de carácter menos grave.",
+        "lemmatized_text": "el carretera de gran_canaria registrar hoy 2 accidente que se saldar ambos con herido de carácter menos grave",
+        "lemmatized_text_reduced": "carretera gran_canaria registrar accidente saldar herido carácter grave",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El primero de estos incidentes fue una colisión entre una moto y un coche en la GC-65, en el cruce de Sorbetes dentro del término municipal de Santa Lucía de Tirajana (Gran Canaria), y ocurrió sobre las 11.49 horas, según informó el Centro Coordinador de Emergencias y Seguridad 112. En esta ocasión, hubo un herido con traumatismo en miembro inferior de carácter menos grave que tuvo que ser trasladado por el personal del Servicio de Urgencias Canario (SUC) al Centro de Salud El Doctoral. Respecto al segundo de los sucesos, ocurrió pasadas las 12.30 horas en el cruce de Las Mesas, cercano a San Bartolomé de Tirajana (Gran Canaria), donde un hombre cayó de una moto en la GC-60 y como resultado sufrió un traumatismo en el tórax de carácter menos grave. Posteriormente, personal del SUC lo trasladó a un centro de salud. En ambos accidentes se personaron además de los médicos, agentes de la Guardia Civil, que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "el 1 de este incidente ser uno colisión entre uno moto y uno coche en el GC-65 en el cruce de sorbetes dentro de el término municipal de santa_lucía_de_tirajana gran_canaria y ocurrir sobre el TM_h:11.49 según informar el centro_coordinador_de_emergencias y seguridad 112 en este ocasión haber uno herir con traumatismo en miembro inferior de carácter menos grave que tener que ser trasladar por el personal de el servicio_de_urgencias_canario suc a el centro_de_salud_el_doctoral respecto a el segundo de el suceso ocurrir pasar el TM_h:12.3 en el cruce de las_mesas cercano a san_bartolomé_de_tirajana gran_canaria donde uno hombre caer de uno moto en el GC-60 y como resultado sufrir uno traumatismo en el tórax de carácter menos grave posteriormente personal de el suc lo trasladar a uno centro de salud en ambos accidente se personar además_de el médico agente de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "1 incidente ser colisión moto coche cruce sorbetes término municipal santa_lucía_de_tirajana gran_canaria ocurrir informar centro_coordinador_de_emergencias seguridad ocasión haber herir traumatismo miembro inferior carácter grave tener ser trasladar personal servicio_de_urgencias_canario suc centro_de_salud_el_doctoral respecto segundo suceso ocurrir pasar cruce las_mesas cercano san_bartolomé_de_tirajana gran_canaria hombre caer moto resultado sufrir traumatismo tórax carácter grave posteriormente personal suc trasladar centro salud accidente personar médico agente guardia_civil instruir diligencia correspondiente",
+        "persons": [
+            "Sorbetes"
+        ],
+        "locations": [
+            "Las_Mesas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Santa_Lucía_de_Tirajana",
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Centro_de_Salud_El_Doctoral",
+            "San_Bartolomé_de_Tirajana",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-65",
+            "TM_h:11.49",
+            "112",
+            "TM_h:12.3",
+            "GC-60"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/944101/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria y el Gobierno firman el convenio que recoge los 20 millones para el Pabellón de Deportes",
+        "lemmatized_text": "el cabildo_de_gran_canaria y el gobierno firmar el convenio que recoger el 20000000 para el pabellón_de_deportes",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria gobierno firmar convenio recoger pabellón_de_deportes",
+        "persons": [],
+        "locations": [
+            "Pabellón_de_Deportes"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente del Cabildo de Gran Canaria, José Miguel Pérez, y el secretario de Estado de Cooperación Territorial, Gaspar Zarrías, suscribieron ayer sábado, 29 de enero, el convenio por el cual el Gobierno de España aporta veinte millones de euros para el futuro Pabellón de Deportes de Gran Canaria, que albergará la celebración del Mundial de Baloncesto del 2014.",
+        "lemmatized_text": "el presidente de el cabildo_de_gran_canaria josé_miguel_pérez y el secretario de estado_de_cooperación_territorial gaspar_zarrías suscribir ayer [S:29/1/??:??.??:??] el convenio por el cual el gobierno_de_españa aportar $_ECU:20000000 para el futuro pabellón_de_deportes_de_gran_canaria que albergar el celebración de el mundial_de_baloncesto de el 2014",
+        "lemmatized_text_reduced": "presidente cabildo_de_gran_canaria josé_miguel_pérez secretario estado_de_cooperación_territorial gaspar_zarrías suscribir convenio gobierno_de_españa aportar futuro pabellón_de_deportes_de_gran_canaria albergar celebración mundial_de_baloncesto",
+        "persons": [
+            "José_Miguel_Pérez",
+            "Gaspar_Zarrías"
+        ],
+        "locations": [
+            "Pabellón_de_Deportes_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Estado_de_Cooperación_Territorial",
+            "Gobierno_de_España"
+        ],
+        "others": [
+            "Mundial_de_Baloncesto"
+        ],
+        "dates": [
+            "[S:29/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:20000000",
+            "2014"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, la Corporación insular explicó que el presidente mostró su satisfacción afirmando que \"son veinte millones de euros que se obtienen tras un largo camino, en el que nos encontramos con el escepticismo de algunos que dudaban de que Gran Canaria lograse la financiación precisa para contar con el Pabellón del Mundial\". Al tiempo, recordó que \"si bien ahora es el Gobierno de España a través de su Ministerio de Administraciones Públicas el que garantiza su financiación, en las próximas semanas celebraremos un acto similar con el Gobierno de Canarias\".",
+        "lemmatized_text": "en uno comunicado el corporación insular explicar que el presidente mostrar su satisfacción afirmar que ser $_ECU:20000000 que se obtener tras uno largo camino en el que nos encontrar con el escepticismo de alguno que dudar de que gran_canaria lograr el financiación precisar para contar con el pabellón_del_mundial a el tiempo recordar que si bien ahora ser el gobierno_de_españa a_través_de su ministerio_de_administraciones_públicas el que garantizar su financiación en el próximo semana celebrar uno acto similar con el gobierno_de_canarias",
+        "lemmatized_text_reduced": "comunicado corporación insular explicar presidente mostrar satisfacción afirmar ser obtener largo camino encontrar escepticismo dudar gran_canaria lograr financiación precisar contar pabellón_del_mundial tiempo recordar ser gobierno_de_españa ministerio_de_administraciones_públicas garantizar financiación próximo semana celebrar acto similar gobierno_de_canarias",
+        "persons": [],
+        "locations": [
+            "Pabellón_del_Mundial"
+        ],
+        "organizations": [
+            "Corporación",
+            "Gran_Canaria",
+            "Gobierno_de_España",
+            "Ministerio_de_Administraciones_Públicas",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:20000000"
+        ]
+    }
+}

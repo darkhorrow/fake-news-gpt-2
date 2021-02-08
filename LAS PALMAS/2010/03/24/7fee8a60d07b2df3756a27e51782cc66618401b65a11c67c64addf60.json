@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659655/0/",
+    "title": {
+        "raw_text": "Los bomberos Gran Canaria sofocan las llamas de un camión que se incendió mientras circulaba en Gran Canaria",
+        "lemmatized_text": "el bombero gran_canaria sofocar el llama de uno camión que se incendiar mientras circular en gran_canaria",
+        "lemmatized_text_reduced": "bombero gran_canaria sofocar llama camión incendiar circular gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos han sofocado esta mañana las llamas de un camión de mercancías que se incendió mientras circulaba por una vía de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el bombero haber sofocar este mañana el llama de uno camión de mercancía que se incendiar mientras circular por uno vía de gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "bombero haber sofocar mañana llama camión mercancía incendiar circular vía gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 06.00 horas de hoy en la vía GC-2, a la altura del cementerio de San Isidro de Gáldar, y no hubo que lamentar daños personales. Hasta el lugar en el que se encontraba el camión incendiado acudieron, además de los bomberos, agentes de la Policía Local y Guardia Civil.",
+        "lemmatized_text": "el incidente se producir a el TM_h:6 de hoy en el vía GC-2 a el altura de el cementerio de san_isidro_de_gáldar y no haber que lamentar daño personal hasta el lugar en el que se encontrar el camión incendiar acudir además_de el bombero agente de el policía_local y guardia_civil",
+        "lemmatized_text_reduced": "incidente producir vía altura cementerio san_isidro_de_gáldar haber lamentar daño personal lugar encontrar camión incendiar acudir bombero agente policía_local guardia_civil",
+        "persons": [],
+        "locations": [
+            "San_Isidro_de_Gáldar"
+        ],
+        "organizations": [
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:6",
+            "GC-2"
+        ]
+    }
+}

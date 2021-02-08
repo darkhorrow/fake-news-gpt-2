@@ -1,0 +1,96 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678694/0/",
+    "title": {
+        "raw_text": "Aumenta un 23,81% el número de pasajeros de Italia con destino a Canarias en marzo",
+        "lemmatized_text": "aumentar uno 23,81/100 el número de pasajero de italia con destino a canarias en [??:??/3/??:??.??:??]",
+        "lemmatized_text_reduced": "aumentar número pasajero italia destino canarias",
+        "persons": [],
+        "locations": [
+            "Italia",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "23,81/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "La consejera de Turismo del Ejecutivo canario recibe en Lanzarote a 120 profesionales de Alpitour",
+        "lemmatized_text": "el consejero de turismo_del_ejecutivo canario recibir en lanzarote a 120 profesional de alpitour",
+        "lemmatized_text_reduced": "consejero turismo_del_ejecutivo canario recibir lanzarote profesional alpitour",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Alpitour"
+        ],
+        "organizations": [
+            "Turismo_del_Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "120"
+        ]
+    },
+    "body": {
+        "raw_text": "El número de pasajeros procedentes de Italia ha aumentado un 23,81 por ciento en Canarias en el mes de marzo respecto al pasado año, dato que, según la consejera de Turismo del Gobierno regional, Rita Martín, \"confirma el gran potencial de este mercado\". La consejera ha recibido en Lanzarote a 120 agentes de viajes italianos, de los 240 que visitarán la isla hasta el próximo 19 de abril. Los profesionales turísticos provienen de diferentes ciudades italianas y trabajan para el consorcio vacacional Alpitour, uno de los touroperadores más importantes de Italia, que es el organizador de la convención que se celebra en las islas, informa el Ejecutivo regional en un comunicado. Martín destacó la importancia de este mercado turístico italiano, que está experimentando un significativo ascenso en los últimos meses, propiciado por el éxito de las campañas desarrolladas desde la Consejería de Turismo regional. Durante la estancia en las islas de los agentes de viajes italianos, se combinarán jornadas de trabajo con visitas a diferentes centros y puntos turísticos y viajarán en dos grupos de 120 miembros cada uno. Jornadas de trabajo Se celebran diferentes jornadas de trabajo con cada uno de los grupos. Dos de las jornadas de trabajo programadas consisten en un workshop en el que representantes de todos los patronatos de turismo de las diferentes islas tienen la oportunidad de presentar sus atractivos y productos turísticos específicos. El departamento que dirige Rita Martín organiza, además, otras actividades en las que se expondrán los nuevos sellos de promoción turística de la oferta conjunta del archipiélago, englobada en los sellos Water Sport Experience, Family Welcome, Volcanic Experience y Wellness Delight. Los grupos de agentes de viajes de abril se encuentran visitando Gran Canaria y Lanzarote y se prevé que visiten otras islas durante este año. Ya en el mes de febrero pasado unos 250 profesionales turísticos de Alpitour visitaron Tenerife, La Gomera, Fuerteventura. En la organización del viaje participan la Consejería de Turismo del Gobierno de Canarias, los patronatos de turismo de todas las islas, Turespaña y el propio consorcio de turismo italiano Alpitour, según señala el Ejecutivo autonómico en su nota.",
+        "lemmatized_text": "el número de pasajero procedente de italia haber aumentar uno 23,81 por 100 en canarias en el [??:??/3/??:??.??:??] respecto a el pasar año dato que según el consejero de turismo_del_gobierno regional rita_martín confirmar el gran potencial de este mercado el consejero haber recibir en lanzarote a 120 agente de viaje italiano de el 240 que visitar el isla hasta el [??:19/4/??:??.??:??] el profesional turístico provenir de diferente ciudad italiano y trabajar para el consorcio vacacional alpitour uno de el touroperadores más importante de italia que ser el organizador de el convención que se celebrar en el isla informar el ejecutivo regional en uno comunicado martín destacar el importancia de este mercado turístico italiano que estar experimentar uno significativo ascenso en el último mes propiciar por el éxito de el campaña desarrollar desde el consejería_de_turismo regional durante el estancia en el isla de el agente de viaje italiano se combinar jornada de trabajo con visita a diferente centro y punto turístico y viajar en 2 grupo de 120 miembro cada uno jornada de trabajo se celebrar diferente jornada de trabajo con cada uno de el grupo 2 de el jornada de trabajo programar consistir en uno workshop en el que representante de todo el patronato de turismo de el diferente isla tener el oportunidad de presentar su atractivo y producto turístico específico el departamento que dirigir rita_martín organizar además otro actividad en el que se exponer el nuevo sello de promoción turístico de el oferta conjunto de el archipiélago englobar en el sello water_sport_experience family_welcome volcanic_experience y wellness_delight el grupo de agente de viaje de [??:??/4/??:??.??:??] se encontrar visitar gran_canaria y lanzarote y se prever que visitar otro isla durante este año ya en el [??:??/2/??:??.??:??] pasar uno 250 profesional turístico de alpitour visitar tenerife la_gomera fuerteventura en el organización de el viaje participar el consejería_de_turismo_del_gobierno_de_canarias el patronato de turismo de todo el isla turespaña y el propio consorcio de turismo italiano alpitour según señalar el ejecutivo autonómico en su nota",
+        "lemmatized_text_reduced": "número pasajero procedente italia haber aumentar canarias respecto pasar año dato consejero turismo_del_gobierno regional rita_martín confirmar gran potencial mercado consejero haber recibir lanzarote agente viaje italiano visitar isla profesional turístico provenir ciudad italiano trabajar consorcio vacacional alpitour touroperadores importante italia ser organizador convención celebrar isla informar ejecutivo regional comunicado martín destacar importancia mercado turístico italiano estar experimentar significativo ascenso último mes propiciar éxito campaña desarrollar consejería_de_turismo regional estancia isla agente viaje italiano combinar jornada trabajo visita centro punto turístico viajar grupo miembro jornada trabajo se celebrar jornada trabajo grupo jornada trabajo programar consistir workshop representante patronato turismo diferente isla tener oportunidad presentar atractivo producto turístico específico departamento dirigir rita_martín organizar actividad exponer nuevo sello promoción turístico oferta conjunto archipiélago englobar sello water_sport_experience family_welcome volcanic_experience wellness_delight grupo agente viaje encontrar visitar gran_canaria lanzarote prever visitar isla año pasar profesional turístico alpitour visitar tenerife la_gomera fuerteventura organización viaje participar consejería_de_turismo_del_gobierno_de_canarias patronato turismo isla turespaña propio consorcio turismo italiano alpitour señalar ejecutivo autonómico nota",
+        "persons": [
+            "Rita_Martín",
+            "Martín",
+            "Rita_Martín",
+            "Water_Sport_Experience",
+            "Family_Welcome",
+            "Volcanic_Experience",
+            "Wellness_Delight",
+            "Turespaña"
+        ],
+        "locations": [
+            "Italia",
+            "Canarias",
+            "Lanzarote",
+            "Italia",
+            "Gran_Canaria",
+            "Lanzarote",
+            "Alpitour",
+            "Tenerife",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Turismo_del_Gobierno",
+            "Alpitour",
+            "Ejecutivo",
+            "Consejería_de_Turismo",
+            "Fuerteventura",
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Alpitour",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Se"
+        ],
+        "dates": [
+            "[??:??/3/??:??.??:??]",
+            "[??:19/4/??:??.??:??]",
+            "[??:??/4/??:??.??:??]",
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "23,81",
+            "100",
+            "120",
+            "240",
+            "2",
+            "120",
+            "2",
+            "250"
+        ]
+    }
+}

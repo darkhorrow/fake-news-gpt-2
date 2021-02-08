@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618828/0/",
+    "title": {
+        "raw_text": "Un total de 41 jóvenes se dan cita en el Certamen Maxoarte de Fuerteventura",
+        "lemmatized_text": "uno total de 41 joven se dar cita en el certamen_maxoarte_de_fuerteventura",
+        "lemmatized_text_reduced": "total joven dar cita certamen_maxoarte_de_fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Certamen_Maxoarte_de_Fuerteventura"
+        ],
+        "dates": [],
+        "numbers": [
+            "41"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un tota de 41 jóvenes se dieron cita la pasada noche en la gala del Certamen Maxoarte 2009 de Fuerteventura, en la que se entregaron los premios y diplomas a todos los galardonados en esta edición del concurso.",
+        "lemmatized_text": "uno tota de 41 joven se dar cita el pasar noche en el gala de el certamen_maxoarte 2009 de fuerteventura en el que se entregar el premio y diploma a todo el galardonado en este edición de el concurso",
+        "lemmatized_text_reduced": "tota joven dar cita pasar noche gala certamen_maxoarte fuerteventura entregar premio diploma galardonado edición concurso",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [
+            "Certamen_Maxoarte"
+        ],
+        "dates": [],
+        "numbers": [
+            "41",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, para amenizar la fiesta, la música la pusieron los ganadores en esta categoría, y también se pudo ver la proyección de montajes premiados en las categorías audiovisuales. Además, actuaron como las grupos invitados, Overbooking y el dúo tinerfeño-andaluz 'Almas Gemelas'. En esta edición, según informó el Cabildo de Fuerteventura en nota de prensa, Maxoarte Joven 2009 premió a 41 creadores de la isla que obtuvieron premio en alguna de las 17 categorías a concurso. La institución insular destina 20.000 euros para repartir entre los ganadores.",
+        "lemmatized_text": "así para amenizar el fiesta el música lo poner el ganador en este categoría y también se poder ver el proyección de montaje premiar en el categoría audiovisual además actuar como el grupo invitado overbooking y el dúo tinerfeño-andaluz almas_gemelas en este edición según informar el cabildo_de_fuerteventura en nota de prensa maxoarte_joven 2009 premiar a 41 creador de el isla que obtener premio en alguno de el 17 categoría a concurso el institución insular destinar $_ECU:20 para repartir entre el ganador",
+        "lemmatized_text_reduced": "amenizar fiesta música poner ganador categoría poder ver proyección montaje premiar categoría audiovisual actuar grupo invitado overbooking dúo tinerfeño-andaluz almas_gemelas edición informar cabildo_de_fuerteventura nota prensa maxoarte_joven premiar creador isla obtener premio categoría concurso institución insular destinar repartir ganador",
+        "persons": [
+            "Almas_Gemelas",
+            "Maxoarte_Joven"
+        ],
+        "locations": [],
+        "organizations": [
+            "Overbooking"
+        ],
+        "others": [
+            "Cabildo_de_Fuerteventura"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "41",
+            "17",
+            "$_ECU:20"
+        ]
+    }
+}

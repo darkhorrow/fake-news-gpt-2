@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/665384/0/",
+    "title": {
+        "raw_text": "Gran Canaria prevé recibir casi 500.000 turistas más esta Semana Santa",
+        "lemmatized_text": "gran_canaria prever recibir casi 500 turista más este semana_santa",
+        "lemmatized_text_reduced": "gran_canaria prever recibir turista semana_santa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Semana_Santa"
+        ],
+        "dates": [],
+        "numbers": [
+            "500"
+        ]
+    },
+    "lead": {
+        "raw_text": "El consejero de Turismo del Cabildo de Gran Canaria, Roberto Moreno, señaló hoy que la isla prevé recibir casi 500.000 turistas más en los diez días de esta Semana Santa con respecto al mismo periodo de 2009.",
+        "lemmatized_text": "el consejero de turismo_del_cabildo_de_gran_canaria roberto_moreno señalar hoy que el isla prever recibir casi 500 turista más en el TM_d:10 de este semana_santa con respecto a el mismo periodo de 2009",
+        "lemmatized_text_reduced": "consejero turismo_del_cabildo_de_gran_canaria roberto_moreno señalar isla prever recibir turista semana_santa respecto mismo periodo",
+        "persons": [
+            "Roberto_Moreno"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Turismo_del_Cabildo_de_Gran_Canaria",
+            "Semana_Santa"
+        ],
+        "dates": [],
+        "numbers": [
+            "500",
+            "TM_d:10",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Vamos a tener casi medio millón de entrada y salida en el aeropuerto de Gran Canaria, sólo en diez días. Creo que es notable y que posiblemente habrá que ver cómo se comporta pero creo que vamos a tener un pico de actividad en comparación con años anteriores\", subrayó Moreno en declaraciones a Europa Press y tras destacar el aumento en estas fiestas de un 4,5 por ciento de plazas de llegada a Gran Canaria con respecto a Semana Santa de 2009. Agregó que la ocupación hotelera prevista en \"todo\" el archipiélago \"va a superar el 80 por ciento\" y en Gran Canaria, que se ha mantenido \"siempre por encima de la media\", también se espera que, \"como poco, se llegue a esa ocupación, por encima 85 por ciento en Gran Canaria\". La isla tiene actualmente 53.000 plazas hoteleras en explotación y 73.000 plazas extrahoteleras. Moreno indicó que en los primeros meses de este 2010 \"ya se ha notado que Gran Canaria ha ido a la cabeza del Estado en ocupación hotelera\" y mostró su esperanza en que en esta Semana Santa también lo sea. \"Hay que recordar que en la Semana Santa del año pasado, Gran Canaria fue la única isla que tuvo ese efecto Semana Santa\", sentenció.",
+        "lemmatized_text": "ir a tener casi 500000 de entrada y salida en el aeropuerto de gran_canaria sólo en TM_d:10 creer que ser notable y que posiblemente haber que ver cómo se comportar pero creer que ir a tener uno pico de actividad en comparación con año anterior subrayar moreno en declaración a europa_press y tras destacar el aumento en este fiesta de uno 4,5 por 100 de plaza de llegada a gran_canaria con_respecto_a semana_santa de 2009 agregar que el ocupación hotelero prever en todo el archipiélago ir a superar el 80 por 100 y en gran_canaria que se haber mantener siempre por encima_de el medio también se esperar que como poco se llegar a ese ocupación por encima 85 por 100 en gran_canaria el isla tener actualmente 53 plaza hotelero en explotación y 73 plaza extrahoteleras moreno indicar que en el 1 mes de este 2010 ya se haber notar que gran_canaria haber ir a el cabeza de el estado en ocupación hotelero y mostrar su esperanza en que en este semana_santa también lo ser haber que recordar que en el semana_santa de el año pasar gran_canaria ser el único isla que tener ese efecto semana_santa sentenciar",
+        "lemmatized_text_reduced": "ir tener entrada salida aeropuerto gran_canaria creer ser notable posiblemente haber ver comportar creer ir tener pico actividad comparación año anterior subrayar moreno declaración europa_press destacar aumento fiesta plaza llegada gran_canaria semana_santa agregar ocupación hotelero prever archipiélago ir superar gran_canaria haber mantener medio esperar llegar ocupación gran_canaria isla tener actualmente plaza hotelero explotación plaza extrahoteleras moreno indicar 1 mes haber notar gran_canaria haber ir cabeza estado ocupación hotelero mostrar esperanza semana_santa ser haber recordar semana_santa año pasar gran_canaria ser único isla tener efecto semana_santa sentenciar",
+        "persons": [
+            "Moreno",
+            "Semana_Santa"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Semana_Santa",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Estado"
+        ],
+        "others": [
+            "Semana_Santa",
+            "Semana_Santa",
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "500000",
+            "TM_d:10",
+            "4,5",
+            "100",
+            "2009",
+            "80",
+            "100",
+            "85",
+            "100",
+            "53",
+            "73",
+            "2010"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597157/0/",
+    "title": {
+        "raw_text": "Auditorio Alfredo Kraus de Las Palmas de Gran Canaria se iluminará de azul en Nochevieja por presidencia española de UE",
+        "lemmatized_text": "auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria se iluminar de azul en nochevieja por presidencia español de ue",
+        "lemmatized_text_reduced": "auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria iluminar azul nochevieja presidencia español ue",
+        "persons": [],
+        "locations": [
+            "Nochevieja"
+        ],
+        "organizations": [
+            "Auditorio_Alfredo_Kraus_de_Las_Palmas_de_Gran_Canaria",
+            "UE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Auditorio Alfredo Kraus de Las Palmas de Gran Canaria se iluminará de azul en Nochevieja como apoyo a la presidencia española de la Unión Europea, mientras que el Ayuntamiento capitalino ha invitado un año más a todos los ciudadanos \"a vivir en directo la despedida del año y a recibir 2010 con una gran fiesta en la plaza de los Jardines del Atlántico\".",
+        "lemmatized_text": "el auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria se iluminar de azul en nochevieja como apoyo a el presidencia español de el unión_europea mientras_que el ayuntamiento capitalino haber invitar uno año más a todo el ciudadano a vivir en directo el despedida de el año y a recibir 2010 con uno gran fiesta en el plaza de el jardines_del_atlántico",
+        "lemmatized_text_reduced": "auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria iluminar azul nochevieja apoyo presidencia español unión_europea ayuntamiento capitalino haber invitar año ciudadano vivir directo despedida año recibir gran fiesta plaza jardines_del_atlántico",
+        "persons": [],
+        "locations": [
+            "Nochevieja"
+        ],
+        "organizations": [
+            "Auditorio_Alfredo_Kraus_de_Las_Palmas_de_Gran_Canaria",
+            "Unión_Europea",
+            "Ayuntamiento",
+            "Jardines_del_Atlántico"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, el Consistorio explicó que en esta ocasión, a la música y los fuegos artificiales se sumará una celebración que servirá como excusa para vestir el auditorio de una iluminación especial, el inicio de la presidencia española de la Unión Europea. El Ayuntamiento capitalino se adhiere de esta manera a la propuesta del Gobierno de España de iluminar de azul los edificios emblemáticos de todo el país. Durante Nochevieja, tres grupos canarios animarán en directo la noche a partir de las 23.00 horas y hasta las 04.00 horas. Una franja horaria en la que habrá para todos los gustos; las versiones de soul y rhythm&blues de la Sugar Hill Band; la música salsera y latina de la Orquesta Deliciosa y el grupo Plan B y sus versiones de la época dorada del pop rock español. \"Para todos aquellos que deseen vivir la fiesta en directo, el Ayuntamiento capitalino ha previsto así mismo un refuerzo del servicio de Guaguas Municipales con un incremento de servicios en las líneas 1, 12, 13, 17, 21, 22, 30, 45, 47 y 91\", indicaron.",
+        "lemmatized_text": "en uno comunicado el consistorio explicar que en este ocasión a el música y el fuego artificial se sumar uno celebración que servir como excusa para vestir el auditorio de uno iluminación especial el inicio de el presidencia español de el unión_europea el ayuntamiento capitalino se adherir de este manera a el propuesta de el gobierno_de_españa de iluminar de azul el edificio emblemático de todo el país durante nochevieja 3 grupo canario animar en directo el noche a_partir_de el TM_h:23 y hasta el TM_h:4 uno franja horario en el que haber para todo el gusto el versión de soul y rhythm blues de el sugar_hill_band el música salsera y latino de el orquesta_deliciosa y el grupo plan_b y su versión de el época dorar de el pop rock español para todo aquel que desear vivir el fiesta en directo el ayuntamiento capitalino haber prever así mismo uno refuerzo de el servicio de guaguas_municipales con uno incremento de servicio en el línea 1 12 13 17 21 22 30 45 47 y 91 indicar",
+        "lemmatized_text_reduced": "comunicado consistorio explicar ocasión música fuego artificial sumar celebración servir excusa vestir auditorio iluminación especial inicio presidencia español unión_europea ayuntamiento capitalino adherir manera propuesta gobierno_de_españa iluminar azul edificio emblemático país nochevieja grupo canario animar directo noche franja horario haber gusto versión soul rhythm blues sugar_hill_band música salsera latino orquesta_deliciosa grupo plan_b versión época dorar pop rock español desear vivir fiesta directo ayuntamiento capitalino haber prever mismo refuerzo servicio guaguas_municipales incremento servicio línea indicar",
+        "persons": [
+            "Nochevieja"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consistorio",
+            "Unión_Europea",
+            "Ayuntamiento",
+            "Gobierno_de_España",
+            "Orquesta_Deliciosa",
+            "Plan_B",
+            "Ayuntamiento",
+            "Guaguas_Municipales"
+        ],
+        "others": [
+            "Sugar_Hill_Band"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "TM_h:23",
+            "TM_h:4",
+            "1",
+            "12",
+            "13",
+            "17",
+            "21",
+            "22",
+            "30",
+            "45",
+            "47",
+            "91"
+        ]
+    }
+}

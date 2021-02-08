@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/338790/0/presupuesto/cabildo/las/palmas/",
+    "title": {
+        "raw_text": "El Cabildo pagará 482.000 euros más en alquiler de oficinas este año",
+        "lemmatized_text": "el cabildo pagar $_ECU:482 más en alquiler de oficina este año",
+        "lemmatized_text_reduced": "cabildo pagar alquiler oficina año",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:482"
+        ]
+    },
+    "lead": {
+        "raw_text": "La ampliación de la Casa Palacio no está lista aún. Hace 10 meses debió ser concluida la obra. CONSULTA AQUÍ MAS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el ampliación de el casa_palacio no estar lista aun hacer 10 mes deber ser concluir el obra consulta_aquí_mas_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ampliación casa_palacio estar lista hacer mes deber ser concluir obra consulta_aquí_mas_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Casa_Palacio",
+            "CONSULTA_AQUÍ_MAS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cabildo ha previsto gastar este año 482.000 euros más que en 2007 en alquiler de oficinas debido al retraso de las obras de ampliación de la Casa Palacio, que debían estar acabadas el año pasado y que, en el mejor supuesto, podrían estar listas en el 2009. Se trata dos nuevos edificios adosados , uno de actividades culturales y exposiciones y otro administrativo y con 14.000 metros cuadrados destinados a oficinas, y un aparcamiento subterráneo de tres plantas para 300 plazas. El proyecto original fue obra de De la Sota, considerado uno de los mejores arquitectos racionalistas del siglo XX. De los 287.000 euros del pasado 2007 se pasa a 769.000 euros en el presente año , según las cuentas del Cabildo. Ese es el incremento que va a tener este año la partida destinada a pagar el alquiler de inmuebles para alojar a los distintos servicios de la Corporación insular que se han tenido que mudar debido a las obras de ampliación de la Casa Palacio. Los 482.000 euros más en alquileres son una consecuencia del retraso de una obra que debía estar terminada desde hace diez meses, ya que tenía un plazo de ejecución de dos años una vez puesta la primera piedra, en marzo de 2005. El incremento de la partida para alquileres no obedece sólo al retraso en la entrega de las nuevas instalaciones, sino también a la necesidad de reubicar en inmuebles cercanos a varios servicios que provocó el desalojo por completo de la manzana de la antigua Casa Palacio. Se estima que el incremento que provoca el retraso en la ampliación se mantendrá a lo largo de 2008 y una parte del año 2009 , ya que los trabajos pendientes no estarían terminados hasta el próximo ejercicio. CONSULTA AQUÍ MAS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el cabildo haber prever gastar este [??:??/??/482:??.??:??] euro más que en 2007 en alquiler de oficina deber a el retraso de el obra de ampliación de el casa_palacio que deber estar acabar el año pasar y que en el mejor suponer poder estar lista en el 2009 se tratar 2 nuevo edificio adosar uno de actividad cultural y exposición y otro administrativo y con AR_m2:14 destinar a oficina y uno aparcamiento subterráneo de 3 planta para 300 plaza el proyecto original ser obra de de_la_sota considerar uno de el mejor arquitecto racionalista de el [s:xx] de el $_ECU:287 de el pasar 2007 se pasar a $_ECU:769 en el presente año según el cuenta de el cabildo ese ser el incremento que ir a tener este año el partida destinar a pagar el alquiler de inmueble para alojar a el distinto servicio de el corporación insular que se haber tener que mudar debido_a el obra de ampliación de el casa_palacio el $_ECU:482 más en alquiler ser uno consecuencia de el retraso de uno obra que deber estar terminar desde hacer 10 mes ya_que tener uno plazo de ejecución de 2 año uno vez poner el 1 piedra en [??:??/3/2005:??.??:??] el incremento de el partida para alquiler no obedecer sólo a el retraso en el entrega de el nuevo instalación sino también a el necesidad de reubicar en inmueble cercano a varios servicio que provocar el desalojo por completo de el manzana de el antiguo casa_palacio se estimar que el incremento que provocar el retraso en el ampliación se mantener a el largo de 2008 y uno parte de el [??:??/??/2009:??.??:??] ya_que el trabajo pendiente no estar terminar hasta el próximo ejercicio consulta_aquí_mas_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cabildo haber prever gastar euro alquiler oficina deber retraso obra ampliación casa_palacio deber estar acabar año pasar suponer poder estar lista tratar nuevo edificio adosar actividad cultural exposición administrativo destinar oficina aparcamiento subterráneo planta plaza proyecto original ser obra de_la_sota considerar mejor arquitecto racionalista pasar pasar presente año cuenta cabildo ser incremento ir tener año partida destinar pagar alquiler inmueble alojar distinto servicio corporación insular haber tener mudar obra ampliación casa_palacio alquiler ser consecuencia retraso obra deber estar terminar hacer mes tener plazo ejecución año vez poner 1 piedra incremento partida alquiler obedecer retraso entrega nuevo instalación necesidad reubicar inmueble cercano servicio provocar desalojo completo manzana antiguo casa_palacio estimar incremento provocar retraso ampliación mantener largo parte trabajo pendiente estar terminar próximo ejercicio consulta_aquí_mas_noticias_de_las_palmas",
+        "persons": [
+            "De_la_Sota"
+        ],
+        "locations": [
+            "Cabildo",
+            "Casa_Palacio"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Casa_Palacio",
+            "Corporación",
+            "Casa_Palacio",
+            "CONSULTA_AQUÍ_MAS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/482:??.??:??]",
+            "[s:xx]",
+            "[??:??/3/2005:??.??:??]",
+            "[??:??/??/2009:??.??:??]"
+        ],
+        "numbers": [
+            "2007",
+            "2009",
+            "2",
+            "AR_m2:14",
+            "3",
+            "300",
+            "$_ECU:287",
+            "2007",
+            "$_ECU:769",
+            "$_ECU:482",
+            "10",
+            "2",
+            "2008"
+        ]
+    }
+}

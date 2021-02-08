@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/923212/0/",
+    "title": {
+        "raw_text": "Desaparece un anciano en Fuerteventura donde pasaba sus vacaciones",
+        "lemmatized_text": "desaparecer uno anciano en fuerteventura donde pasar su vacaciones",
+        "lemmatized_text_reduced": "desaparecer anciano fuerteventura pasar vacaciones",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre, de 75 años de edad, ha desaparecido en El Cotillo, en la isla de Fuerteventura, donde pasaba cuatro meses de vacaciones en un apartamento.",
+        "lemmatized_text": "uno hombre de 75 año de edad haber desaparecer en el_cotillo en el isla de fuerteventura donde pasar 4 mes de vacaciones en uno apartamento",
+        "lemmatized_text_reduced": "hombre año edad haber desaparecer el_cotillo isla fuerteventura pasar mes vacaciones apartamento",
+        "persons": [],
+        "locations": [
+            "El_Cotillo",
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "75",
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre, de 75 años de edad, ha desaparecido en El Cotillo, en la isla de Fuerteventura, donde pasaba cuatro meses de vacaciones en un apartamento. El desaparecido de nombre Karl Heinz Wulf, mide 170 centímetros de estatura, y el último contacto que tuvo con su familia fue por teléfono el pasado 31 de diciembre de 2010, según han informado a Europa Press fuentes cercanas al hombre. Sin embargo, ha sido la propietaria del apartamento en el que Karl se alojaba la que ha interpuesto, el pasado 6 de enero, la denuncia de su desaparición ante la Guardia Civil. Ante esta situación el hijo de Karl se ha trasladado hasta Fuerteventura. Actualmente, amigos y familiares del desaparecido salen diariamente en su búsqueda por las playas de la zona, ya que a Karl le gusta caminar a la orilla de la playa, en concreto, apuntan por la zona de La concha en dirección el Faro. Las mismas fuentes indicaron que, en su desaparición, Karl que estaba en condiciones plenas, llevaría un bastón y una mochila de colores pero desgastada. Además, no llevaría su cartera, ni su documentación. Amigos y familiares piden a los ciudadanos que si lo ven, avisen a la Guardia Civil.",
+        "lemmatized_text": "uno hombre de 75 año de edad haber desaparecer en el_cotillo en el isla de fuerteventura donde pasar 4 mes de vacaciones en uno apartamento el desaparecer de nombre karl_heinz_wulf medir LN_cm:170 de estatura y el último contacto que tener con su familia ser por teléfono el [??:31/12/2010:??.??:??] según haber informar a europa_press fuente cercano a el hombre sin embargo haber ser el propietario de el apartamento en el que karl se alojar el que haber interponer el [??:6/1/??:??.??:??] el denuncia de su desaparición ante el guardia_civil ante este situación el hijo de karl se haber trasladar hasta fuerteventura actualmente amigo y familiar de el desaparecer salir diariamente en su búsqueda por el playa de el zona ya_que a karl le gustar caminar a el orilla de el playa en concreto apuntar por el zona de la concha en dirección el faro el mismo fuente indicar que en su desaparición karl que estar en condición pleno llevar uno bastón y uno mochila de color pero desgastar además no llevar su cartera ni su documentación amigo y familiar pedir a el ciudadano que si lo ver avisar a el guardia_civil",
+        "lemmatized_text_reduced": "hombre año edad haber desaparecer el_cotillo isla fuerteventura pasar mes vacaciones apartamento desaparecer nombre karl_heinz_wulf medir estatura último contacto tener familia ser teléfono haber informar europa_press fuente cercano hombre embargo haber ser propietario apartamento karl alojar haber interponer denuncia desaparición guardia_civil situación hijo karl haber trasladar fuerteventura actualmente amigo familiar desaparecer salir diariamente búsqueda playa zona karl gustar caminar orilla playa concreto apuntar zona la concha dirección faro mismo fuente indicar desaparición karl estar condición pleno llevar bastón mochila color desgastar llevar cartera documentación amigo familiar pedir ciudadano ver avisar guardia_civil",
+        "persons": [
+            "Karl_Heinz_Wulf",
+            "Europa_Press",
+            "Karl",
+            "Karl",
+            "Karl",
+            "Karl"
+        ],
+        "locations": [
+            "El_Cotillo",
+            "Fuerteventura",
+            "La"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Fuerteventura",
+            "Faro",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[??:31/12/2010:??.??:??]",
+            "[??:6/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "75",
+            "4",
+            "LN_cm:170"
+        ]
+    }
+}

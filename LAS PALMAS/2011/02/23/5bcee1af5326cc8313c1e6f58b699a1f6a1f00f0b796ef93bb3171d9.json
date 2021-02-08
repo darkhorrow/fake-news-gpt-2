@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/969244/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias niega que haya roto su compromiso con la población saharaui",
+        "lemmatized_text": "el gobierno_de_canarias negar que haber romper su compromiso con el población saharaui",
+        "lemmatized_text_reduced": "gobierno_de_canarias negar haber romper compromiso población saharaui",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El director general de Relaciones con África del Gobierno de Canarias, Pablo Martín Carbajal, ha negado rotundamente que el Ejecutivo autonómico haya roto el compromiso adquirido de atender las necesidades básicas de la población saharaui, aclarando que en 2011 se va a destinar una partida 400.000 euros a prestar ayuda humanitaria a este colectivo, \"tal y como ha venido realizando en los últimos años\".",
+        "lemmatized_text": "el director general de relaciones con áfrica_del_gobierno_de_canarias pablo_martín_carbajal haber negar rotundamente que el ejecutivo autonómico haber romper el compromiso adquirir de atender el necesidad básico de el población saharaui aclarar que en 2011 se ir a destinar uno partida $_ECU:400 a prestar ayuda humanitario a este colectivo tal_y_como haber venir realizar en el último año",
+        "lemmatized_text_reduced": "director general relaciones áfrica_del_gobierno_de_canarias pablo_martín_carbajal haber negar rotundamente ejecutivo autonómico haber romper compromiso adquirir atender necesidad básico población saharaui aclarar ir destinar partida prestar ayuda humanitario colectivo haber venir realizar último año",
+        "persons": [
+            "Pablo_Martín_Carbajal"
+        ],
+        "locations": [],
+        "organizations": [
+            "Relaciones",
+            "África_del_Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2011",
+            "$_ECU:400"
+        ]
+    },
+    "body": {
+        "raw_text": "El director general de Relaciones con África del Gobierno de Canarias, Pablo Martín Carbajal, ha negado rotundamente que el Ejecutivo autonómico haya roto el compromiso adquirido de atender las necesidades básicas de la población saharaui, aclarando que en 2011 se va a destinar una partida 400.000 euros a prestar ayuda humanitaria a este colectivo, \"tal y como ha venido realizando en los últimos años\". En un comunicado, Martín Carbajal recordó que el Gobierno de Canarias \"lleva más de una década prestando ayuda humanitaria al pueblo saharaui, mediante subvenciones directas destinadas a abastecer a las más de 156.000 personas que residen en los campamentos de refugiados de Tinduf de algunos servicios básicos como el agua potable o el gas, con el que se facilita la preparación de alimentos y el tratamiento de agua para consumo\". \"En total —añadió—, y desde el año 1995, la Comunidad Autónoma de Canarias ha destinado más de 7 millones de euros a financiar proyectos de ayuda humanitaria que tenían como objeto atender las necesidades básicas de esta población\".",
+        "lemmatized_text": "el director general de relaciones con áfrica_del_gobierno_de_canarias pablo_martín_carbajal haber negar rotundamente que el ejecutivo autonómico haber romper el compromiso adquirir de atender el necesidad básico de el población saharaui aclarar que en 2011 se ir a destinar uno partida $_ECU:400 a prestar ayuda humanitario a este colectivo tal_y_como haber venir realizar en el último año en uno comunicado martín_carbajal recordar que el gobierno_de_canarias llevar más de uno década prestar ayuda humanitario a el pueblo saharaui mediante subvención directo destinar a abastecer a el más de 156 persona que residir en el campamento de refugiado de tinduf de alguno servicio básico como el agua potable o el gas con el que se facilitar el preparación de alimento y el tratamiento de agua para consumo en total añadir y desde el [??:??/??/1995:??.??:??] el comunidad_autónoma_de_canarias haber destinar más de $_ECU:7000000 a financiar proyecto de ayuda humanitario que tener como objeto atender el necesidad básico de este población",
+        "lemmatized_text_reduced": "director general relaciones áfrica_del_gobierno_de_canarias pablo_martín_carbajal haber negar rotundamente ejecutivo autonómico haber romper compromiso adquirir atender necesidad básico población saharaui aclarar ir destinar partida prestar ayuda humanitario colectivo haber venir realizar último año comunicado martín_carbajal recordar gobierno_de_canarias llevar década prestar ayuda humanitario pueblo saharaui subvención directo destinar abastecer persona residir campamento refugiado tinduf servicio básico agua potable gas facilitar preparación alimento tratamiento agua consumo total añadir comunidad_autónoma_de_canarias haber destinar financiar proyecto ayuda humanitario tener objeto atender necesidad básico población",
+        "persons": [
+            "Pablo_Martín_Carbajal",
+            "Martín_Carbajal"
+        ],
+        "locations": [
+            "Tinduf"
+        ],
+        "organizations": [
+            "Relaciones",
+            "África_del_Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Gobierno_de_Canarias",
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/1995:??.??:??]"
+        ],
+        "numbers": [
+            "2011",
+            "$_ECU:400",
+            "156",
+            "$_ECU:7000000"
+        ]
+    }
+}

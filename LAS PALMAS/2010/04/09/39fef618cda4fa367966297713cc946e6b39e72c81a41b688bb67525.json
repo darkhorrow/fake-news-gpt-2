@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/672743/0/",
+    "title": {
+        "raw_text": "Detenido tras robar joyas y dinero en una vivienda de San Fernando de Maspalomas (Gran Canaria)",
+        "lemmatized_text": "detener tras robar joya y dinero en uno vivienda de san_fernando_de_maspalomas gran_canaria",
+        "lemmatized_text_reduced": "detener robar joya dinero vivienda san_fernando_de_maspalomas gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "San_Fernando_de_Maspalomas",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Local de San Bartolomé de Tirajana (Gran Canaria) han procedido a la detención de un hombre que acababa de robar joyas y dinero en una vivienda de la localidad de San Fernando de Maspalomas, según informo hoy el Ayuntamiento del sur de la isla en un comunicado.",
+        "lemmatized_text": "el policía_local_de_san_bartolomé_de_tirajana gran_canaria haber proceder a el detención de uno hombre que acabar de robar joya y dinero en uno vivienda de el localidad de san_fernando_de_maspalomas según informar hoy el ayuntamiento de el sur de el isla en uno comunicado",
+        "lemmatized_text_reduced": "policía_local_de_san_bartolomé_de_tirajana gran_canaria haber proceder detención hombre acabar robar joya dinero vivienda localidad san_fernando_de_maspalomas informar ayuntamiento sur isla comunicado",
+        "persons": [],
+        "locations": [
+            "San_Fernando_de_Maspalomas"
+        ],
+        "organizations": [
+            "Policía_Local_de_San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Ayuntamiento"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los hechos tuvieron lugar el pasado lunes sobre 20.00 horas, cuando en la Jefatura de la Policía Local se recibió una llamada de un ciudadano que había visto a un hombre salir precipitadamente de una casa situada en la calle Fuerteventura, en dirección al Campo Internacional. En ese instante, una unidad policial destinada al servicio de Seguridad Ciudadana localizaron al individuo, identificado como M.C.S. —de nacionalidad española y natural de Telde—, en la avenida Touroperador Tuir, a la altura de la Estación de guaguas del Faro de Maspalomas. Tras protagonizar una persecución por el palmeral, los agentes detuvieron al hombre, quien llevaba en los bolsillos varios anillos, gargantillas, brazaletes, pendientes, además de una cámara fotográfica digital, un reloj y 1.640 euros en efectivo.",
+        "lemmatized_text": "el hecho tener_lugar el [L:??/??/??:??.??:??] sobre TM_h:20 cuando en el jefatura_de_la_policía_local se recibir uno llamada de uno ciudadano que haber ver a uno hombre salir precipitadamente de uno casa situar en el calle fuerteventura en dirección a el campo_internacional en ese instante uno unidad policial destinar a el servicio de seguridad_ciudadana localizar a el individuo identificar como m.c.s. de nacionalidad español y natural de telde en el avenida touroperador_tuir a el altura de el estación de guagua de el faro_de_maspalomas tras protagonizar uno persecución por el palmeral el agente detener a el hombre quien llevar en el bolsillo varios anillo gargantilla brazalete pendiente además_de uno cámara fotográfico digital uno reloj y $_ECU:1.64 en efectivo",
+        "lemmatized_text_reduced": "hecho tener_lugar jefatura_de_la_policía_local recibir llamada ciudadano haber ver hombre salir precipitadamente casa situar calle fuerteventura dirección campo_internacional instante unidad policial destinar servicio seguridad_ciudadana localizar individuo identificar m.c.s. nacionalidad español natural telde avenida touroperador_tuir altura estación guagua faro_de_maspalomas protagonizar persecución palmeral agente detener hombre llevar bolsillo anillo gargantilla brazalete pendiente cámara fotográfico digital reloj efectivo",
+        "persons": [],
+        "locations": [
+            "Touroperador_Tuir"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Campo_Internacional",
+            "M.C.S.",
+            "Telde",
+            "Faro_de_Maspalomas"
+        ],
+        "others": [
+            "Jefatura_de_la_Policía_Local",
+            "Seguridad_Ciudadana",
+            "Estación"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:20",
+            "$_ECU:1.64"
+        ]
+    }
+}

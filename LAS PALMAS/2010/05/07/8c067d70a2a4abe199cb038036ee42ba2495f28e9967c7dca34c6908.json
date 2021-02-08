@@ -1,0 +1,101 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/700049/0/",
+    "title": {
+        "raw_text": "La demanda eléctrica disminuye un 1,9% en Canarias durante el primer trimestre de 2010",
+        "lemmatized_text": "el demanda eléctrico disminuir uno 1,9/100 en canarias durante el 1 trimestre de 2010",
+        "lemmatized_text_reduced": "demanda eléctrico disminuir canarias 1 trimestre",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,9/100",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "La demanda eléctrica ha disminuido un 1,9 por ciento en la Comunidad Autónoma de Canarias durante los tres primeros meses de 2010 respecto al mismo período del año anterior, un trimestre en el que se ha registrado una demanda de 2.172.421 megawatios hora (MWh), mientras que este descenso se ha producido en todas las islas menos en La Gomera, según informó hoy Endesa en un comunicado.",
+        "lemmatized_text": "el demanda eléctrico haber disminuir uno 1,9 por 100 en el comunidad_autónoma_de_canarias durante el 3 1 mes de 2010 respecto a el mismo período de el año anterior uno trimestre en el que se haber registrar uno demanda de 2.172.421 megawatio hora mwh mientras_que este descenso se haber producir en todo el isla menos en la_gomera según informar hoy endesa en uno comunicado",
+        "lemmatized_text_reduced": "demanda eléctrico haber disminuir comunidad_autónoma_de_canarias 1 mes respecto mismo período año anterior trimestre haber registrar demanda megawatio hora mwh descenso haber producir isla la_gomera informar endesa comunicado",
+        "persons": [],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Endesa"
+        ],
+        "others": [
+            "MWh"
+        ],
+        "dates": [],
+        "numbers": [
+            "1,9",
+            "100",
+            "3",
+            "2010",
+            "2.172.421"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, por islas, El Hierro fue donde más decreció la demanda eléctrica en los tres primeros meses de 2010, con un descenso del 5 por ciento; seguido de La Palma (-3,8%); Lanzarote (-3,3%); Fuerteventura (-2,2%); Gran Canaria (-1,9%); y Tenerife (-1,5%). En La Gomera, única isla en que la demanda aumentó, lo hizo un 1,4 por ciento más respecto al mismo período del año anterior. Por otro lado, a 31 de marzo de 2010 las centrales de Endesa en el archipiélago sumaban una potencia instalada de 2.554,9 megawatios (MW), el mismo valor que en 2009. La provincia de Las Palmas cuenta con un total de 1.511,7 MW mientras que la provincia de Santa Cruz de Tenerife suma 1043,2 MW. Asimismo, la producción bruta total de las centrales ascendió durante el primer trimestre del año a 2.152.256 MWh. Esto supone un decrecimiento del 1,2 por ciento con respecto al mismo período de 2009. El decrecimiento en la provincia de Las Palmas fue del 0,6 por ciento, mientras que en Santa Cruz de Tenerife fue un 2 por ciento.",
+        "lemmatized_text": "de este manera por isla el_hierro ser donde más decrecer el demanda eléctrico en el 3 1 mes de 2010 con uno descenso de el 5 por 100 seguir de la_palma -3,8/100 lanzarote -3,3/100 fuerteventura -2,2/100 gran_canaria -1,9/100 y tenerife -1,5/100 en la_gomera único isla en que el demanda aumentar lo hacer uno 1,4 por 100 más respecto a el mismo período de el año anterior por_otro_lado a [??:31/3/2010:??.??:??] el central de endesa en el archipiélago sumar uno potencia instalar de 2.554,9 megawatio mw el mismo valor que en 2009 el provincia de las_palmas contar con uno total de 1.511,7 mw mientras_que el provincia de santa_cruz_de_tenerife sumar 1043,2 mw asimismo el producción bruto total de el central ascender durante el 1 trimestre de el año a 2.152.256 mwh este suponer uno decrecimiento de el 1,2 por 100 con respecto a el mismo período de 2009 el decrecimiento en el provincia de las_palmas ser de el 0,6 por 100 mientras_que en santa_cruz_de_tenerife ser uno 2 por 100",
+        "lemmatized_text_reduced": "manera isla el_hierro ser decrecer demanda eléctrico 1 mes descenso seguir la_palma lanzarote fuerteventura gran_canaria tenerife la_gomera único isla demanda aumentar hacer respecto mismo período año anterior central endesa archipiélago sumar potencia instalar megawatio mw mismo valor provincia las_palmas contar total mw provincia santa_cruz_de_tenerife sumar mw producción bruto total central ascender 1 trimestre año mwh suponer decrecimiento respecto mismo período decrecimiento provincia las_palmas ser santa_cruz_de_tenerife ser",
+        "persons": [],
+        "locations": [
+            "El_Hierro",
+            "La_Palma",
+            "Lanzarote",
+            "La_Gomera",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Gran_Canaria",
+            "Tenerife",
+            "Endesa",
+            "MW"
+        ],
+        "others": [
+            "MW",
+            "MW",
+            "MWh"
+        ],
+        "dates": [
+            "[??:31/3/2010:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "2010",
+            "5",
+            "100",
+            "-3,8/100",
+            "-3,3/100",
+            "-2,2/100",
+            "-1,9/100",
+            "-1,5/100",
+            "1,4",
+            "100",
+            "2.554,9",
+            "2009",
+            "1.511,7",
+            "1043,2",
+            "2.152.256",
+            "1,2",
+            "100",
+            "2009",
+            "0,6",
+            "100",
+            "2",
+            "100"
+        ]
+    }
+}

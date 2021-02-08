@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/739431/0/",
+    "title": {
+        "raw_text": "ONG de Lanzarote acusa a PP, PIL y PNL de \"burla\" a los pobres al gastar 275.000 euros en un concierto de Alejandro Sanz",
+        "lemmatized_text": "ong_de_lanzarote acusar a pp pil y pnl de burla a el pobre a el gastar $_ECU:275 en uno concierto de alejandro_sanz",
+        "lemmatized_text_reduced": "ong_de_lanzarote acusar pp pil pnl burla pobre gastar concierto alejandro_sanz",
+        "persons": [
+            "ONG_de_Lanzarote",
+            "Alejandro_Sanz"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "PIL",
+            "PNL"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:275"
+        ]
+    },
+    "lead": {
+        "raw_text": "La ONG Alternativa Ciudadana 25 de Mayo ha acusado hoy al grupo de gobierno de Arrecife (Lanzarote), formado por PP, PIL y PNL, de \"burla\" a los miles de personas que en la ciudad pasan situaciones de dificultad y pobreza, al gastarse 275.000 euros en un concierto de Alejandro Sanz, del que el alcalde de la ciudad, Cándido Reguera, ha asegurado que destinará los beneficios a organizaciones humanitarias.",
+        "lemmatized_text": "el ong_alternativa_ciudadana [??:25/5/??:??.??:??] haber acusar hoy a el grupo de gobierno de arrecife lanzarote formar por pp pil y pnl de burla a el mil de persona que en el ciudad pasar situación de dificultad y pobreza a el gastar se $_ECU:275 en uno concierto de alejandro_sanz de el que el alcalde de el ciudad cándido_reguera haber asegurar que destinar el beneficio a organización humanitario",
+        "lemmatized_text_reduced": "ong_alternativa_ciudadana haber acusar grupo gobierno arrecife lanzarote formar pp pil pnl burla mil persona ciudad pasar situación dificultad pobreza gastar concierto alejandro_sanz alcalde ciudad cándido_reguera haber asegurar destinar beneficio organización humanitario",
+        "persons": [
+            "Alejandro_Sanz",
+            "Cándido_Reguera"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "PP",
+            "PIL",
+            "PNL"
+        ],
+        "others": [
+            "ONG_Alternativa_Ciudadana"
+        ],
+        "dates": [
+            "[??:25/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:275"
+        ]
+    },
+    "body": {
+        "raw_text": "\"El partido asambleario considera una burla, a las muchas familias que peor lo están pasando, lo que pretende gastar el PP, Pil y pnl en este evento\", aseguró la organización en un comunicado, a la que el concierto le parece una \"forma demagógica\" de usar a las ONG como \"pretexto para justificar el gasto\" en un concierto. \"Nuestra organización política considera que es prioritaria la entrega directa, ya mismo de esa partida de dinero a las ONG y a los Servicios Sociales, a través de una modificación presupuestaria, que especular con el dinero de todos los contribuyente en la producción de eventos artísticos de dudoso fin social\", aseveró. Alternativa Ciudadana considera que de la \"aguda crisis económica\" española son \"en gran medida responsables la derecha estatal en convivencia con la derecha nacionalista, sin olvidar la responsabilidad que le cabe al neoliberalismo del PSOE\". La organización \"no encuentra los supuestos beneficios que pregona el grupo privatizador y liquidacionista en el Ayuntamiento de Arrecife\" y hace \"un llamado a las ONG capitalinas para que no se presten a esta farsa\".",
+        "lemmatized_text": "el partido asambleario considerar uno burla a el mucho familia que peor lo estar pasar el que pretender gastar el pp pil y pnl en este evento asegurar el organización en uno comunicado a el que el concierto le parecer uno forma demagógico de usar a el ong como pretexto para justificar el gasto en uno concierto nuestro organización político considerar que ser prioritario el entrega directo ya mismo de ese partida de dinero a el ong y a el servicios_sociales a_través_de uno modificación presupuestario que especular con el dinero de todo el contribuyente en el producción de evento artístico de dudoso fin social aseverar alternativa_ciudadana considerar que de el agudo crisis económico español ser en_gran_medida responsable el derecha estatal en convivencia con el derecha nacionalista sin olvidar el responsabilidad que le caber a el neoliberalismo de el psoe el organización no encontrar el suponer beneficio que pregonar el grupo privatizador y liquidacionista en el ayuntamiento_de_arrecife y hacer uno llamar a el ong capitalino para que no se prestar a este farsa",
+        "lemmatized_text_reduced": "partido asambleario considerar burla familia estar pasar pretender gastar pp pil pnl evento asegurar organización comunicado concierto parecer forma demagógico usar ong pretexto justificar gasto concierto organización político considerar ser prioritario entrega directo mismo partida dinero ong servicios_sociales modificación presupuestario especular dinero contribuyente producción evento artístico dudoso fin social aseverar alternativa_ciudadana considerar agudo crisis económico español ser responsable derecha estatal convivencia derecha nacionalista olvidar responsabilidad caber neoliberalismo psoe organización encontrar suponer beneficio pregonar grupo privatizador liquidacionista ayuntamiento_de_arrecife hacer llamar ong capitalino prestar farsa",
+        "persons": [
+            "Alternativa_Ciudadana"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Pil",
+            "ONG",
+            "ONG",
+            "Servicios_Sociales",
+            "PSOE",
+            "Ayuntamiento_de_Arrecife",
+            "ONG"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

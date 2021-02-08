@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/633108/0/",
+    "title": {
+        "raw_text": "Fred.Olsen Express reanuda la línea marítima interior gomera",
+        "lemmatized_text": "fred olsen_express reanudar el línea marítimo interior gomero",
+        "lemmatized_text_reduced": "fred olsen_express reanudar línea marítimo interior gomero",
+        "persons": [
+            "Fred",
+            "Olsen_Express"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La naviera Fred.Olsen Express ha reanudado la línea interior gomera que estaba cancelada debido al cierre del puerto de Valle Gran Rey por el fuerte oleaje.",
+        "lemmatized_text": "el naviero fred olsen_express haber reanudar el línea interior gomero que estar cancelar deber a el cierre de el puerto de valle_gran_rey por el fuerte oleaje",
+        "lemmatized_text_reduced": "naviero fred olsen_express haber reanudar línea interior gomero estar cancelar deber cierre puerto valle_gran_rey fuerte oleaje",
+        "persons": [
+            "Fred",
+            "Olsen_Express",
+            "Valle_Gran_Rey"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Además, también la compañía ha retomado la línea marítima que une Santa Cruz de Tenerife con Agaete, al noroeste de Gran Canaria, que se había suspendido el pasado miércoles debido a las condiciones meteorológicas adversas que afectan al archipiélago que obligaron a cerrar el Puerto de Agaete. Dicha línea se ha reanudado hoy con salida a las 05.30 horas con pasaje y carga desde Santa Cruz de Tenerife con el Bentago Express. Igualmente, las salidas desde ambos puertos de las 07.00 horas se realizarán reiniciándose así los horarios de esta conexión marítima. Así pues, todas las líneas marítimas de Fred.Olsen Express en Canarias están operativas, es decir las ya citadas junto con las de Lanzarote (Playa Blanca)-Fuerteventura (Corralejo); Los Cristianos-La Gomera y Los Cristianos-La Palma y Los Cristianos - El Hierro.",
+        "lemmatized_text": "además también el compañía haber retomar el línea marítimo que unir santa_cruz_de_tenerife con agaete a el noroeste de gran_canaria que se haber suspender el [X:??/??/??:??.??:??] debido_a el condición meteorológico adverso que afectar a el archipiélago que obligar a cerrar el puerto_de_agaete decir línea se haber reanudar hoy con salida a el TM_h:5.3 con pasaje y carga desde santa_cruz_de_tenerife con el bentago_express igualmente el salida desde ambos puerto de el TM_h:7 se realizar reiniciar se así el horario de este conexión marítimo así_pues todo el línea marítimo de fred olsen_express en canarias estar operativo ser decir el ya citar junto_con el de lanzarote playa_blanca fuerteventura corralejo los_cristianos-la_gomera y los_cristianos-la_palma y los_cristianos el hierro",
+        "lemmatized_text_reduced": "compañía haber retomar línea marítimo unir santa_cruz_de_tenerife agaete noroeste gran_canaria haber suspender condición meteorológico adverso afectar archipiélago obligar cerrar puerto_de_agaete decir línea haber reanudar salida pasaje carga santa_cruz_de_tenerife bentago_express igualmente salida puerto realizar reiniciar horario conexión marítimo línea marítimo fred olsen_express canarias estar operativo ser decir citar lanzarote playa_blanca fuerteventura corralejo los_cristianos-la_gomera los_cristianos-la_palma los_cristianos hierro",
+        "persons": [
+            "Olsen_Express",
+            "Hierro"
+        ],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "Agaete",
+            "Puerto_de_Agaete",
+            "Santa_Cruz_de_Tenerife",
+            "Fred",
+            "Canarias",
+            "Lanzarote",
+            "Playa_Blanca",
+            "Los_Cristianos"
+        ],
+        "organizations": [
+            "Bentago_Express",
+            "Fuerteventura",
+            "Corralejo",
+            "Los_Cristianos-La_Palma"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Los_Cristianos-La_Gomera"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:5.3",
+            "TM_h:7"
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703383/0/",
+    "title": {
+        "raw_text": "Los trabajadores de Correos en Las Palmas cifran el seguimiento de la huelga entre el 80 y el 90%",
+        "lemmatized_text": "el trabajador de correos en las_palmas cifrar el seguimiento de el huelga entre el 80 y el 90/100",
+        "lemmatized_text_reduced": "trabajador correos las_palmas cifrar seguimiento huelga",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Correos",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80",
+            "90/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los trabajadores de Correos en la provincia de Las Palmas han cifrado el seguimiento de la huelga entre el 80 y el 90 por ciento de la plantilla, según indicaron a Europa Press las portavoces de los sindicatos CCOO y CSIC durante la manifestación que recorrió la capital grancanaria.",
+        "lemmatized_text": "el trabajador de correos en el provincia de las_palmas haber cifrar el seguimiento de el huelga entre el 80 y el 90 por 100 de el plantilla según indicar a europa_press el portavoz de el sindicato ccoo y csic durante el manifestación que recorrer el capital grancanaria",
+        "lemmatized_text_reduced": "trabajador correos provincia las_palmas haber cifrar seguimiento huelga plantilla indicar europa_press portavoz sindicato ccoo csic manifestación recorrer capital grancanaria",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Correos",
+            "CCOO",
+            "CSIC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80",
+            "90",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "La CGT, por su parte, informó en un comunicado del seguimiento del paro en algunas poblaciones, dejando un seguimiento del 90 por ciento en Las Palmas de Gran Canaria y Gáldar, un 80 en Jinámar y un 50 por ciento en Agaete. La portavoz de CCOO, Laura González, comentó que habían traído \"cuatro guaguas de distintos puntos de la isla con de 500 a 700 carteros\" y aunque dijo que algunos no han venido a la manifestación el paro roza el 90 por ciento. \"Se han cerrado oficinas en su totalidad y otras con servicios entre el 60 y el 80 por ciento, con lo que ha habido un buen seguimiento\", dijo. Además, aseguró que \"el cartero está en huelga porque teme por el futuro de su empresa y de su comida\". \"No estamos pidiendo más dinero, sino que Correos tenga futuro. El servicio postal debe estar subvencionado, igual que la sanidad, y ahora están matándolo más. También queremos que el ciudadano pida sus derechos porque esto también va por ellos\", aseveró. La responsable de CSIC, Amada Gil, dijo estar \"contenta con la unidad sindical\" y porque la huelga la han \"seguido muchos trabajadores\", y avanzó que se preparan manifestaciones el día 14 en Lanzarote, el 18 en Fuerteventura y, posiblemente, un paro general nacional el 10 de junio.",
+        "lemmatized_text": "el cgt por su parte informar en uno comunicado de el seguimiento de el paro en alguno población dejar uno seguimiento de el 90 por 100 en las_palmas_de_gran_canaria y gáldar uno 80 en jinámar y uno 50 por 100 en agaete el portavoz de ccoo laura_gonzález comentar que haber traer 4 guagua de distinto punto de el isla con de 500 a 700 cartero y aunque decir que alguno no haber venir a el manifestación el paro rozar el 90 por 100 se haber cerrar oficina en su totalidad y otro con servicio entre el 60 y el 80 por 100 con el que haber haber uno bueno seguimiento decir además asegurar que el cartero estar en huelga porque temer por el futuro de su empresa y de su comida no estar pedir más dinero sino_que correos tener futuro el servicio postal deber estar subvencionar igual que el sanidad y ahora estar matar lo más también querer que el ciudadano pedir su derecho porque este también ir por ellos aseverar el responsable de csic amada_gil decir estar contentar con el unidad sindical y porque el huelga lo haber seguir mucho trabajador y avanzar que se preparar manifestación el [??:14/??/??:??.??:??] en lanzarote el 18 en fuerteventura y posiblemente uno paro general nacional el [??:10/6/??:??.??:??]",
+        "lemmatized_text_reduced": "cgt parte informar comunicado seguimiento paro población dejar seguimiento las_palmas_de_gran_canaria gáldar jinámar agaete portavoz ccoo laura_gonzález comentar haber traer guagua punto isla cartero decir haber venir manifestación paro rozar haber cerrar oficina totalidad servicio haber haber bueno seguimiento decir asegurar cartero estar huelga temer futuro empresa comida estar pedir dinero correos tener futuro servicio postal deber estar subvencionar sanidad estar matar querer ciudadano pedir derecho ir aseverar responsable csic amada_gil decir estar contentar unidad sindical huelga haber seguir trabajador avanzar preparar manifestación lanzarote fuerteventura posiblemente paro general nacional",
+        "persons": [
+            "Laura_González",
+            "Amada_Gil"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Gáldar",
+            "Jinámar",
+            "Agaete",
+            "Lanzarote",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "CGT",
+            "CCOO",
+            "Correos",
+            "CSIC"
+        ],
+        "others": [],
+        "dates": [
+            "[??:14/??/??:??.??:??]",
+            "[??:10/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "90",
+            "100",
+            "80",
+            "50",
+            "100",
+            "4",
+            "500",
+            "700",
+            "90",
+            "100",
+            "60",
+            "80",
+            "100",
+            "18"
+        ]
+    }
+}

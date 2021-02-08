@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/654403/0/",
+    "title": {
+        "raw_text": "El presidente canario insiste en poner en marcha \"ya\" el \"contrato alemán\" para \"apostar por el empleo\"",
+        "lemmatized_text": "el presidente canario insistir en poner en marcha ya el contrato alemán para apostar por el empleo",
+        "lemmatized_text_reduced": "presidente canario insistir poner marcha contrato alemán apostar empleo",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, insistió hoy en la puesta en marcha \"ya\" de la aprobación de un protocolo de intervención en los acuerdos empresariales para la reducción de la jornada laboral con el compromiso de no despedir a los trabajadores, el \"famoso contrato alemán\", en el marco de la \"apuesta por el empleo\" del Ejecutivo regional.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero insistir hoy en el puesta en marcha ya de el aprobación de uno protocolo de intervención en el acuerdo empresarial para el reducción de el jornada laboral con el compromiso de no despedir a el trabajador el famoso contrato alemán en el marco de el apuesta por el empleo de el ejecutivo regional",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero insistir puesta marcha aprobación protocolo intervención acuerdo empresarial reducción jornada laboral compromiso despedir trabajador famoso contrato alemán marco apuesta empleo ejecutivo regional",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En declaraciones a los medios de comunicación tras una reunión con empresarios en Las Palmas de Gran Canaria, Rivero destacó que este tipo de contratos \"está funcionando en Europa\". \"El Gobierno de Canarias tiene un objetivo fundamental, por encima de cualquier cosa, que es que la gente que está trabajando en estos momentos no pierda el trabajo y los que no están trabajando tengan una oportunidad para acceder al trabajo. Para conseguir esos objetivos no vamos a desfallecer nunca\", resaltó. En este sentido, aseguró que la medida del Gobierno de destinar cinco millones a dicho protocolo se \"pondrá en marcha ya\", después de que ayer contara con el apoyo de todos los sindicatos y empresarios en el Consejo General de Empleo en Santa Cruz de Tenerife. Asimismo, reiteró otra medida de aportar 60 millones de euros dedicados a financiar la cuota de la Seguridad Social a aquellas empresas que contraten nuevos trabajadores.",
+        "lemmatized_text": "en declaración a el medio de comunicación tras uno reunión con empresario en las_palmas_de_gran_canaria rivero destacar que este tipo de contrato estar funcionar en europa el gobierno_de_canarias tener uno objetivo fundamental por encima_de cualquiera cosa que ser que el gente que estar trabajar en este momento no perder el trabajo y el que no estar trabajar tener uno oportunidad para acceder a el trabajo para conseguir ese objetivo no ir a desfallecer nunca resaltar en este sentido asegurar que el medida de el gobierno de destinar 5000000 a decir protocolo se poner en marcha ya después_de que ayer contar con el apoyo de todo el sindicato y empresario en el consejo_general_de_empleo en santa_cruz_de_tenerife asimismo reiterar otro medida de aportar $_ECU:60000000 dedicar a financiar el cuota de el seguridad_social a aquel empresa que contratar nuevo trabajador",
+        "lemmatized_text_reduced": "declaración medio comunicación reunión empresario las_palmas_de_gran_canaria rivero destacar tipo contrato estar funcionar europa gobierno_de_canarias tener objetivo fundamental cosa ser gente estar trabajar momento perder trabajo estar trabajar tener oportunidad acceder trabajo conseguir objetivo ir desfallecer resaltar sentido asegurar medida gobierno destinar decir protocolo poner marcha contar apoyo sindicato empresario consejo_general_de_empleo santa_cruz_de_tenerife reiterar medida aportar dedicar financiar cuota seguridad_social empresa contratar nuevo trabajador",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Europa",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Gobierno",
+            "Consejo_General_de_Empleo"
+        ],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [],
+        "numbers": [
+            "5000000",
+            "$_ECU:60000000"
+        ]
+    }
+}

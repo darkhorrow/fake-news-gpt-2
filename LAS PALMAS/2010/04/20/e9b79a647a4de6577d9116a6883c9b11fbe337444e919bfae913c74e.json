@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/682795/0/",
+    "title": {
+        "raw_text": "Estudiantes de derecho o economía entre los mejores expedientes de la Universidad de Las Palmas de Gran Canaria",
+        "lemmatized_text": "estudiante de derecho o economía entre el mejor expediente de el universidad_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "estudiante derecho economía mejor expediente universidad_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Estudiantes de derecho, economía, administración y dirección de empresas e ingeniería industrial de la Universidad de Las Palmas de Gran Canaria (ULPGC) han sido los elegidos para obtener los premios a los mejores expedientes académicos que concede la Fundación Canaria Mapfre Guanarteme.",
+        "lemmatized_text": "estudiante de derecho economía administración y dirección de empresa y ingeniería industrial de el universidad_de_las_palmas_de_gran_canaria ulpgc haber ser el elegido para obtener el premio a el mejor expediente académico que conceder el fundación_canaria_mapfre_guanarteme",
+        "lemmatized_text_reduced": "estudiante derecho economía administración dirección empresa ingeniería industrial universidad_de_las_palmas_de_gran_canaria ulpgc haber ser elegido obtener premio mejor expediente académico conceder fundación_canaria_mapfre_guanarteme",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC",
+            "Fundación_Canaria_Mapfre_Guanarteme"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Estos alumnos pertenecen al curso académico 2008-2009, según informó la ULPGC en nota de prensa. Así, en la licenciatura de derecho el galardonado ha sido Luis Manuel Marco; en Economía Elena Rodríguez; en administración y dirección de empresas Zai Jian Jia Li; y en Ingeniería Superior Industrial Carmelo Javier Muñoz. Así, con este premio cada uno de los elegidos recibirá 3.000 euros. A estas convocatorias pueden concurrir los alumnos que hayan concluido sus estudios en la ULPGC en el curso académico del año en cuestión, en virtud de un acuerdo suscrito entre ambas instituciones en el año 2002. La entrega de los galardones se celebrará el 3 de mayo en la Fundación Mapfre Guanarteme.",
+        "lemmatized_text": "este alumno pertenecer a el curso académico 2008-2009 según informar el ulpgc en nota de prensa así en el licenciatura de derecho el galardonado haber ser luis_manuel_marco en economía_elena_rodríguez en administración y dirección de empresa zai_jian_jia_li y en ingeniería_superior_industrial_carmelo_javier_muñoz así con este premio cada uno de el elegido recibir $_ECU:3 a este convocatoria poder concurrir el alumno que haber concluir su estudio en el ulpgc en el curso académico de el año en cuestión en_virtud_de uno acuerdo suscribir entre ambos institución en el [??:??/??/2002:??.??:??] el entrega de el galardón se celebrar el [??:3/5/??:??.??:??] en el fundación_mapfre_guanarteme",
+        "lemmatized_text_reduced": "alumno pertenecer curso académico informar ulpgc nota prensa licenciatura derecho galardonado haber ser luis_manuel_marco economía_elena_rodríguez administración dirección empresa zai_jian_jia_li ingeniería_superior_industrial_carmelo_javier_muñoz premio elegido recibir convocatoria poder concurrir alumno haber concluir estudio ulpgc curso académico año cuestión acuerdo suscribir institución entrega galardón celebrar fundación_mapfre_guanarteme",
+        "persons": [
+            "Luis_Manuel_Marco",
+            "Economía_Elena_Rodríguez"
+        ],
+        "locations": [
+            "Ingeniería_Superior_Industrial_Carmelo_Javier_Muñoz"
+        ],
+        "organizations": [
+            "ULPGC",
+            "Zai_Jian_Jia_Li",
+            "ULPGC",
+            "Fundación_Mapfre_Guanarteme"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/2002:??.??:??]",
+            "[??:3/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "2008-2009",
+            "$_ECU:3"
+        ]
+    }
+}

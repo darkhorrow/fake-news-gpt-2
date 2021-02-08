@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-10-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/546025/0/carriles/entrada/capital/",
+    "title": {
+        "raw_text": "El jueves se abrirán al tráfico los dos carriles en sentido Norte a la capital",
+        "lemmatized_text": "el [J:??/??/??:??.??:??] se abrir a el tráfico el 2 carril en sentido norte a el capital",
+        "lemmatized_text_reduced": "abrir tráfico carril sentido norte capital",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Norte"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los abrirán entre las 06.30 y las 09.30 h para paliar los atascos diarios. El carril en sentido Las Palmas de Gran Canaria-Norte no sufrirá ninguna modificación. Quieren poner en servicio el 'cuarto carril' a principios de diciembre.",
+        "lemmatized_text": "el abrir entre el 6.3 y el TM_h:9.3 para paliar el atasco diario el carril en sentido las_palmas_de_gran_canaria-norte no sufrir ninguno modificación querer poner en servicio el 4 carril a_principios_de [??:??/12/??:??.??:??]",
+        "lemmatized_text_reduced": "abrir paliar atasco diario carril sentido las_palmas_de_gran_canaria-norte sufrir modificación querer poner servicio 4 carril",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas_de_Gran_Canaria-Norte"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "6.3",
+            "TM_h:9.3"
+        ]
+    },
+    "body": {
+        "raw_text": "El Gobierno canario decidió este martes abrir al tráfico a partir del próximo jueves los dos carriles en sentido Norte-Las Palmas de Gran Canaria entre las 06.30 y las 09.30 h, periodo en el que se produce la mayor afluencia de tráfico hacia la capital, para paliar los atascos diarios sufridos por los conductores en las últimas semanas. El carril en sentido Las Palmas de Gran Canaria-Norte no sufrirá ninguna modificación. Los alcaldes del norte de la isla se manifestaron satisfechos con la decisión Así lo anunció en un comunicado el consejero de Obras Públicas y Transportes del Ejecutivo regional, Juan Ramón Hernández, tras mantener una reunión con los alcaldes de la Mancomunidad del Norte para consensuar esta medida ante los problemas de tráfico generados por la realización de las obras de acondicionamiento de la carretera GC-2 entre el enlace de Arucas y El Pagador. El Ejecutivo regional señala que los alcaldes del norte de la isla se manifestaron satisfechos con la decisión, mientras que el consejero lamenta los problemas que la realización de las obras están generando en el tráfico, pero explicó que \"se está haciendo todo lo posible tanto para terminar las obras en el menor plazo posible como para reducir su incidencia sobre el tráfico\". Sin apenas alternativas \"Hay que tener en cuenta que se trata de una obra en la que se trabaja junto a la plataforma en servicio y sin apenas alternativas para los desvíos\", añadió. En las últimas semanas la Consejería ha decidido intensificar los trabajos con el objetivo de poner en servicio el 'cuarto carril' a principios de diciembre dada su necesidad. En estos momentos se está procediendo al asfaltado de la vía, tarea que está previsto que concluya el día 8 del próximo mes de noviembre.",
+        "lemmatized_text": "el gobierno canario decidir este [M:??/??/??:??.??:??] abrir a el tráfico a partir de el [J:??/??/??:??.??:??] el 2 carril en sentido norte-las_palmas_de_gran_canaria entre el 6.3 y el TM_h:9.3 periodo en el que se producir el mayor afluencia de tráfico hacia el capital para paliar el atasco diario sufrir por el conductor en el último semana el carril en sentido las_palmas_de_gran_canaria-norte no sufrir ninguno modificación el alcalde de el norte de el isla se manifestar satisfacer con el decisión así lo anunciar en uno comunicado el consejero de obras_públicas y transportes_del_ejecutivo regional juan_ramón_hernández tras mantener uno reunión con el alcalde de el mancomunidad_del_norte para consensuar este medida ante el problema de tráfico generar por el realización de el obra de acondicionamiento de el carretera GC-2 entre el enlace de arucas y el_pagador el ejecutivo regional señalar que el alcalde de el norte de el isla se manifestar satisfacer con el decisión mientras_que el consejero lamentar el problema que el realización de el obra estar generar en el tráfico pero explicar que se estar hacendar todo el posible tanto para terminar el obra en el menor plazo posible como para reducir su incidencia sobre el tráfico sin apenas alternativo haber que tener_en_cuenta que se tratar de uno obra en el que se trabajar junto_a el plataforma en servicio y sin apenas alternativa para el desvío añadir en el último semana el consejería haber decidir intensificar el trabajo con el objetivo de poner en servicio el 4 carril a_principios_de [??:??/12/??:??.??:??] dar su necesidad en este momento se estar proceder a el asfaltado de el vía tarea que estar prever que concluir el [??:8/11/??:??.??:??]",
+        "lemmatized_text_reduced": "gobierno canario decidir abrir tráfico partir carril sentido norte-las_palmas_de_gran_canaria periodo producir mayor afluencia tráfico capital paliar atasco diario sufrir conductor último semana carril sentido las_palmas_de_gran_canaria-norte sufrir modificación alcalde norte isla manifestar satisfacer decisión así anunciar comunicado consejero obras_públicas transportes_del_ejecutivo regional juan_ramón_hernández mantener reunión alcalde mancomunidad_del_norte consensuar medida problema tráfico generar realización obra acondicionamiento carretera enlace arucas el_pagador ejecutivo regional señalar alcalde norte isla manifestar satisfacer decisión consejero lamentar problema realización obra estar generar tráfico explicar estar hacendar posible tanto terminar obra menor plazo posible reducir incidencia tráfico alternativo haber tener_en_cuenta tratar obra trabajar plataforma servicio alternativa desvío añadir último semana consejería haber decidir intensificar trabajo objetivo poner servicio 4 carril dar necesidad momento estar proceder asfaltado vía tarea estar prever concluir",
+        "persons": [
+            "Así",
+            "Juan_Ramón_Hernández"
+        ],
+        "locations": [
+            "Arucas",
+            "El_Pagador"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Las_Palmas_de_Gran_Canaria-Norte",
+            "Transportes_del_Ejecutivo",
+            "Mancomunidad_del_Norte",
+            "Ejecutivo",
+            "Consejería"
+        ],
+        "others": [
+            "Norte-Las_Palmas_de_Gran_Canaria",
+            "Obras_Públicas"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:8/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "6.3",
+            "TM_h:9.3",
+            "GC-2"
+        ]
+    }
+}

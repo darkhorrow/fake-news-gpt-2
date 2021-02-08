@@ -1,0 +1,100 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/715322/0/",
+    "title": {
+        "raw_text": "Un jugador de golf se gasta de media en Canarias 138,54 euros al día",
+        "lemmatized_text": "uno jugador de golf se gastar de medio en canarias $_ECU:138,54 a el día",
+        "lemmatized_text_reduced": "jugador golf gastar medio canarias día",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:138,54"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los jugadores de golf se gastaron de media en Canarias 138,54 euros al día en el primer trimestre de 2010. En concreto, esta cifra es la que destinaron los deportistas procedentes de la península, ya que son los que lideran el ranking en cuanto a gasto medio en las islas.",
+        "lemmatized_text": "el jugador de golf se gastar de medio en canarias $_ECU:138,54 a el día en el 1 trimestre de 2010 en concreto este cifra ser el que destinar el deportista procedente de el península ya_que ser el que liderar el ranking en_cuanto_a gasto medio en el isla",
+        "lemmatized_text_reduced": "jugador golf gastar medio canarias día 1 trimestre concreto cifra ser destinar deportista procedente península ser liderar ranking gasto medio isla",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:138,54",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, tras los jugadores de golf de la península que visitan los campos canarios, se sitúan los alemanes que consumen al día una media de 135,63 euros, seguidos de los procedentes de los Países Nórdicos con un gasto de 121,04 euros. Sin embargo, los que menos gastos hacen en el archipiélago son los británicos que eligen Canarias para jugar al golf, ya que éstos consumen una media de 87,92 euros al día, lo que supone 50,62 euros menos que los peninsulares, según datos recogidos por Europa Press del Instituto Canario de Estadística (ISTAC). Asimismo, el consumo medio de deportistas englobados en la categoría de otros países se fijó en el primer trimestre de 2010 en 134,30 euros. En este sentido, habría que tener en cuenta que los jugadores de golf que eligen el archipiélago para practicar este deporte tienen una estancia media de once noches y cuatro días de juego. Por islas, cabe destacar que la estancia es mayor en las islas de Tenerife y La Gomera donde la media es la misma que a nivel regional, once noches y cuatro días para practicar golf. En el caso de estas islas, los jugadores de golf que realizan un mayor gasto medio son también, como en el conjunto de la Comunidad Autónoma de Canarias, los peninsulares, con un consumo de 152,34 euros al día, seguidos de los alemanes (146,57 euros/día), los procedentes de Países Nórdicos (105,94 euros), los británicos (88,69 euros), mientras que los de Otros Países gastan 139,48 euros. Menos noches pero más días para practicar golf Respecto a la provincia de Las Palmas, tanto en los campos de golf de Lanzarote y Fuerteventura como en los de Gran Canaria la estancia media es de diez noches aunque los días para practicar golf aumentan, ya que se sitúan en cinco. En cuanto al gasto medio en los campos de golf de Lanzarote y Fuerteventura, los deportistas que más consume diariamente son los procedentes de Países Nórdicos, ya que se sitúa en 127,81 euros, seguido de los alemanes (116,25 euros/día) y en tercera posición los procedentes de la península (90,69 euros). Finalmente, los que menos consumo hacen son los británicos con 84,21 euros, mientras que los de Otros Países realizan un gasto medio de 115,91 euros. En relación con los campos de golf de Gran Canaria, el turista que más gasto hace es el alemán con 126,90 euros al día de media, seguido muy de cerca de los procedentes de Países Nórdicos con 126,28 euros. Por último, estarían los peninsulares (110,87 euros/día) y los británicos (88,35 euros), y los de Otros Países consumen una media de 133,32 euros.",
+        "lemmatized_text": "así tras el jugador de golf de el península que visitar el campo canario se situar el alemán que consumir a el día uno media de $_ECU:135,63 seguir de el procedente de el países_nórdicos con uno gasto de $_ECU:121,04 sin embargo el que menos gasto hacer en el archipiélago ser el británico que elegir canarias para jugar a el golf ya_que este consumir uno medio de $_ECU:87,92 a el día el que suponer $_ECU:50,62 menos que el peninsular según dato recoger por europa_press_del_instituto_canario_de_estadística istac asimismo el consumo medio de deportista englobar en el categoría de otro país se fijar en el 1 trimestre de 2010 en $_ECU:134,30 en este sentido haber que tener_en_cuenta que el jugador de golf que elegir el archipiélago para practicar este deporte tener uno estancia medio de 11 noche y TM_d:4 de juego por isla caber destacar que el estancia ser mayor en el isla de tenerife y la_gomera donde el medio ser el mismo que a nivel regional 11 noche y TM_d:4 para practicar golf en el caso de este isla el jugador de golf que realizar uno mayor gasto medio ser también como en el conjunto de el comunidad_autónoma_de_canarias el peninsular con uno consumo de $_ECU:152,34 a el día seguir de el alemán $_ECU:146,57 día el procedente de países_nórdicos $_ECU:105,94 el británico $_ECU:88,69 mientras_que el de otros_países gastar $_ECU:139,48 menos noche pero más día para practicar golf respecto_a el provincia de las_palmas tanto en el campo de golf de lanzarote y fuerteventura como en el de gran_canaria el estancia medio ser de 10 noche aunque el día para practicar golf aumentar ya_que se situar en 5 en cuanto a el gasto medio en el campo de golf de lanzarote y fuerteventura el deportista que más consumir diariamente ser el procedente de países_nórdicos ya_que se situar en $_ECU:127,81 seguir de el alemán $_ECU:116,25 día y en 3 posición el procedente de el península $_ECU:90,69 finalmente el que menos consumo hacer ser el británico con $_ECU:84,21 mientras_que el de otros_países realizar uno gasto medio de $_ECU:115,91 en relación con el campo de golf de gran_canaria el turista que más gasto hacer ser el alemán con $_ECU:126,90 a el día de medio seguir muy de cerca de el procedente de países_nórdicos con $_ECU:126,28 por último estar el peninsular $_ECU:110,87 día y el británico $_ECU:88,35 y el de otros_países consumir uno medio de $_ECU:133,32",
+        "lemmatized_text_reduced": "jugador golf península visitar campo canario situar alemán consumir día media seguir procedente países_nórdicos gasto embargo gasto hacer archipiélago ser británico elegir canarias jugar golf consumir medio día suponer peninsular dato recoger europa_press_del_instituto_canario_de_estadística istac consumo medio deportista englobar categoría país fijar 1 trimestre sentido haber tener_en_cuenta jugador golf elegir archipiélago practicar deporte tener estancia medio noche juego isla caber destacar estancia ser mayor isla tenerife la_gomera medio ser mismo nivel regional noche practicar golf caso isla jugador golf realizar mayor gasto medio ser conjunto comunidad_autónoma_de_canarias peninsular consumo día seguir alemán día procedente países_nórdicos británico otros_países gastar noche día practicar golf respecto_a provincia las_palmas campo golf lanzarote fuerteventura gran_canaria estancia medio ser noche día practicar golf aumentar situar gasto medio campo golf lanzarote fuerteventura deportista consumir diariamente ser procedente países_nórdicos situar seguir alemán día 3 posición procedente península finalmente consumo hacer ser británico otros_países realizar gasto medio relación campo golf gran_canaria turista gasto hacer ser alemán día medio seguir procedente países_nórdicos último estar peninsular día británico otros_países consumir medio",
+        "persons": [
+            "Respecto_a"
+        ],
+        "locations": [
+            "Canarias",
+            "Tenerife",
+            "Países_Nórdicos",
+            "Otros_Países",
+            "Las_Palmas",
+            "Lanzarote",
+            "Lanzarote",
+            "Países_Nórdicos",
+            "Países_Nórdicos"
+        ],
+        "organizations": [
+            "Países_Nórdicos",
+            "Europa_Press_del_Instituto_Canario_de_Estadística",
+            "ISTAC",
+            "La_Gomera",
+            "Comunidad_Autónoma_de_Canarias",
+            "Fuerteventura",
+            "Fuerteventura",
+            "Otros_Países",
+            "Otros_Países"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:135,63",
+            "$_ECU:121,04",
+            "$_ECU:87,92",
+            "$_ECU:50,62",
+            "2010",
+            "$_ECU:134,30",
+            "11",
+            "TM_d:4",
+            "11",
+            "TM_d:4",
+            "$_ECU:152,34",
+            "$_ECU:146,57",
+            "$_ECU:105,94",
+            "$_ECU:88,69",
+            "$_ECU:139,48",
+            "10",
+            "5",
+            "$_ECU:127,81",
+            "$_ECU:116,25",
+            "$_ECU:90,69",
+            "$_ECU:84,21",
+            "$_ECU:115,91",
+            "$_ECU:126,90",
+            "$_ECU:126,28",
+            "$_ECU:110,87",
+            "$_ECU:88,35",
+            "$_ECU:133,32"
+        ]
+    }
+}

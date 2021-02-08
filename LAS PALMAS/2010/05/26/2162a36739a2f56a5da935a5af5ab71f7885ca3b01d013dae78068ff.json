@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/718023/0/",
+    "title": {
+        "raw_text": "La Guardia Civil interviene 500 kilos de hachís en aguas de Gran Canaria y arresta a 2 personas",
+        "lemmatized_text": "el guardia_civil intervenir 500 kilo de hachís en agua de gran_canaria y arrestar a 2 persona",
+        "lemmatized_text_reduced": "guardia_civil intervenir kilo hachís agua gran_canaria arrestar persona",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "500",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha intervenido esta madrugada 500 kilos de hachís en aguas de Gran Canaria y esta actuación se ha saldado con la detención de dos personas.",
+        "lemmatized_text": "el guardia_civil haber intervenir este madrugada 500 kilo de hachís en agua de gran_canaria y este actuación se haber saldar con el detención de 2 persona",
+        "lemmatized_text_reduced": "guardia_civil haber intervenir madrugada kilo hachís agua gran_canaria actuación haber saldar detención persona",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "500",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron esta madrugada cuando la tripulación de la patrullera del Servicio Marítimo de la Guardia Civil tuvo conocimiento a través del C.O.C. de la Comandancia de la Las Palmas de Gran Canaria de la existencia de un eco sospechoso en las pantallas del radar del sistema SIVE, localizado a unas 11 millas de la costa Sur de la isla grancanaria, según informó la Benemérita en nota de prensa. Posteriormente, una vez se trasladaron las coordenadas y se localizó, los agentes vieron que se trataba de una embarcación tipo neumática ocupada por dos personas y que transportaban varios bultos. Seguidamente, la Guardia Civil procedió a la detención de los dos ocupantes de origen Magrebí y aprehensión total de 20 fardos que contenían presuntamente hachís. Así, una vez se remolcó la embarcación neumática a tierra, las unidades especializadas de la Guardia Civil se hicieron cargo de las investigaciones, así como de los detenidos y la droga aprehendida que tenía un peso aproximado de 500 kilos. Los agentes de la Benemérita también se han intervenido la embarcación usada y todos los efectos que portaban. Finalmente, los dos arrestados junto a la droga, la embarcación y efectos intervenidos, han quedado a disposición judicial de los Juzgados de San Bartolomé de Tirajana.",
+        "lemmatized_text": "el hecho ocurrir este madrugada cuando el tripulación de el patrullera de el servicio_marítimo_de_la_guardia_civil tener conocimiento a través de el c.o.c._de_la_comandancia_de_la_las_palmas_de_gran_canaria de el existencia de uno eco sospechoso en el pantalla de el radar de el sistema sive localizar a uno LN_mi:11 de el costa sur de el isla grancanaria según informar el benemérita en nota de prensa posteriormente uno vez se trasladar el coordenada y se localizar el agente ver que se tratar de uno embarcación tipo neumático ocupar por 2 persona y que transportar varios bulto seguidamente el guardia_civil proceder a el detención de el 2 ocupante de origen magrebí y aprehensión total de 20 fardo que contener presuntamente hachís así uno vez se remolcar el embarcación neumático a tierra el unidad especializar de el guardia_civil se hacer_cargo de el investigación así_como de el detenido y el droga aprehender que tener uno peso aproximar de 500 kilo el agente de el benemérita también se haber intervenir el embarcación usar y todo el efecto que portar finalmente el 2 arrestar junto_a el droga el embarcación y efecto intervenir haber quedar a disposición judicial de el juzgados_de_san_bartolomé_de_tirajana",
+        "lemmatized_text_reduced": "hecho ocurrir madrugada tripulación patrullera servicio_marítimo_de_la_guardia_civil tener conocimiento través c.o.c._de_la_comandancia_de_la_las_palmas_de_gran_canaria existencia eco sospechoso pantalla radar sistema sive localizar costa sur isla grancanaria informar benemérita nota prensa posteriormente vez trasladar coordenada localizar agente ver tratar embarcación tipo neumático ocupar persona transportar bulto seguidamente guardia_civil proceder detención ocupante origen magrebí aprehensión total fardo contener presuntamente hachís vez remolcar embarcación neumático tierra unidad especializar guardia_civil hacer_cargo investigación detenido droga aprehender tener peso aproximar kilo agente benemérita haber intervenir embarcación usar efecto portar finalmente arrestar droga embarcación efecto intervenir haber quedar disposición judicial juzgados_de_san_bartolomé_de_tirajana",
+        "persons": [],
+        "locations": [
+            "Juzgados_de_San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Servicio_Marítimo_de_la_Guardia_Civil",
+            "SIVE",
+            "Sur",
+            "Benemérita",
+            "Guardia_Civil",
+            "Magrebí",
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [
+            "C.O.C._de_la_Comandancia_de_la_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_mi:11",
+            "2",
+            "2",
+            "20",
+            "500",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620989/0/",
+    "title": {
+        "raw_text": "La Fundación Universitaria de Las Palmas renueva el convenio con el Museo Canario y el entrega 6.000 euros",
+        "lemmatized_text": "el fundación_universitaria_de_las_palmas renovar el convenio con el museo_canario y el entrega $_ECU:6",
+        "lemmatized_text_reduced": "fundación_universitaria_de_las_palmas renovar convenio museo_canario entrega",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fundación_Universitaria_de_Las_Palmas",
+            "Museo_Canario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente de la Fundación Universitaria de Las Palmas (FULP), Manuel Campos, y el presidente de El Museo Canario, Víctor Montelongo, renovaron ayer el convenio de colaboración que mantienen desde hace años ambas instituciones y a través del cual se le hizo entrega al recinto museístico de 6.000 euros correspondientes a ayudas artístico culturales.",
+        "lemmatized_text": "el presidente de el fundación_universitaria_de_las_palmas fulp manuel_campos y el presidente de el_museo_canario víctor_montelongo renovar ayer el convenio de colaboración que mantener desde hacer año ambos institución y a través de el cual se le hacer entrega a el recinto museístico de $_ECU:6 correspondiente a ayuda artístico cultural",
+        "lemmatized_text_reduced": "presidente fundación_universitaria_de_las_palmas fulp manuel_campos presidente el_museo_canario víctor_montelongo renovar convenio colaboración mantener hacer año institución través hacer entrega recinto museístico correspondiente ayuda artístico cultural",
+        "persons": [
+            "Manuel_Campos",
+            "Víctor_Montelongo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Fundación_Universitaria_de_Las_Palmas",
+            "FULP",
+            "El_Museo_Canario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:6"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo hicieron efectivo ayer los representantes de ambas instituciones durante un acto en el que se procedió a firmar el convenio de renovación donde Montelongo agradeció la subvención de la FULP. \"Renovar este convenio con la Fundación Universitaria es muy importante para El Museo Canario ya que nos anima a seguir luchando por la continuidad de el Museo que cuenta con más de 130 años de historia\", explicó el presidente del Museo Canario. Por su parte, y según informó la FULP en nota de prensa, Campos hizo especial hincapié en la necesidad de renovar este acuerdo \"con una entidad tan sumamente importante tanto para la investigación, como para el patrimonio cultural, ya que los pueblos que no cuidan su historia pierden su identidad\".",
+        "lemmatized_text": "así lo hacer efectivo ayer el representante de ambos institución durante uno acto en el que se proceder a firmar el convenio de renovación donde montelongo agradecer el subvención de el fulp renovar este convenio con el fundación_universitaria ser muy importante para el_museo_canario ya_que nos animar a seguir luchar por el continuidad de el museo que contar con más de 130 año de historia explicar el presidente de el museo_canario por su parte y según informar el fulp en nota de prensa campos hacer especial hincapié en_la_necesidad_de renovar este acuerdo con uno entidad tan sumamente importante tanto para el investigación como para el patrimonio cultural ya_que el pueblo que no cuidar su historia perder su identidad",
+        "lemmatized_text_reduced": "hacer efectivo representante institución acto proceder firmar convenio renovación montelongo agradecer subvención fulp renovar convenio fundación_universitaria ser importante el_museo_canario animar seguir luchar continuidad museo contar año historia explicar presidente museo_canario parte informar fulp nota prensa campos hacer especial hincapié renovar acuerdo entidad sumamente importante investigación patrimonio cultural pueblo cuidar historia perder identidad",
+        "persons": [
+            "Montelongo",
+            "Campos"
+        ],
+        "locations": [],
+        "organizations": [
+            "FULP",
+            "Fundación_Universitaria",
+            "Museo_Canario",
+            "FULP"
+        ],
+        "others": [
+            "El_Museo_Canario",
+            "Museo"
+        ],
+        "dates": [],
+        "numbers": [
+            "130"
+        ]
+    }
+}

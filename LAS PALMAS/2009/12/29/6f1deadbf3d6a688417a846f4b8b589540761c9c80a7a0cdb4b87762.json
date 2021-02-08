@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597100/0/",
+    "title": {
+        "raw_text": "El aeropuerto de Gran Canaria sufre retrasos en dos llegadas de vuelos nacionales y dos internacionales",
+        "lemmatized_text": "el aeropuerto de gran_canaria sufrir retraso en 2 llegada de vuelo nacional y 2 internacional",
+        "lemmatized_text_reduced": "aeropuerto gran_canaria sufrir retraso llegada vuelo nacional internacional",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "El aeropuerto de la isla de Gran Canaria ha sufrido esta mañana un total de tres retrasos en vuelos de llegada y uno en un vuelo de salida con destino París, aunque las conexiones insulares no se van visto afectadas por demoras, informó a Europa Press el organismo de Aeropuertos Españoles y Navegación Aérea (Aena).",
+        "lemmatized_text": "el aeropuerto de el isla de gran_canaria haber sufrir este mañana uno total de 3 retraso en vuelo de llegada y uno en uno vuelo de salida con destino parís aunque el conexión insular no se ir ver afectar por demora informar a europa_press el organismo de aeropuertos_españoles y navegación_aérea aena",
+        "lemmatized_text_reduced": "aeropuerto isla gran_canaria haber sufrir mañana total retraso vuelo llegada vuelo salida destino parís conexión insular ir ver afectar demora informar europa_press organismo aeropuertos_españoles navegación_aérea aena",
+        "persons": [
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "París"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, dos vuelos procedentes de Madrid han experimentado un retraso de una hora y media cada uno, aunque según las mismas fuentes ningún otro vuelo nacional se ha visto afectado por la 'huelga encubierta' de controladores aéreos. Con respecto a los viajes internacionales, también se ha retrasado un vuelo procedente de Glasgow (Escocia) que tenía que haber aterrizado 30 minutos antes de lo previsto. Finalmente, un avión que debía salir del aeródromo grancanario con destino a París está sufriendo un retraso. Por su parte, Aena aseguró que en los dos aeropuertos de Tenerife no se han registrado retrasos en ningún vuelo en lo que va de mañana.",
+        "lemmatized_text": "así 2 vuelo procedente de madrid haber experimentar uno retraso de uno hora y media cada uno aunque según el mismo fuente ninguno otro vuelo nacional se haber ver afectar por el huelga encubrir de controlador aéreo con_respecto_a el viaje internacional también se haber retrasar uno vuelo procedente de glasgow escocia que tener que haber aterrizar TM_min:30 antes_de el prever finalmente uno avión que deber salir de el aeródromo grancanario con destino a parís estar sufrir uno retraso por su parte aena asegurar que en el 2 aeropuerto de tenerife no se haber registrar retraso en ninguno vuelo en el que ir de mañana",
+        "lemmatized_text_reduced": "vuelo procedente madrid haber experimentar retraso hora media mismo fuente vuelo nacional haber ver afectar huelga encubrir controlador aéreo viaje internacional haber retrasar vuelo procedente glasgow escocia tener haber aterrizar prever finalmente avión deber salir aeródromo grancanario destino parís estar sufrir retraso parte aena asegurar aeropuerto tenerife haber registrar retraso vuelo ir mañana",
+        "persons": [],
+        "locations": [
+            "Madrid",
+            "Glasgow",
+            "Escocia",
+            "París",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_min:30",
+            "2"
+        ]
+    }
+}

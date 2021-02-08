@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/520359/0/inmigrantes/cayuco/canarias/",
+    "title": {
+        "raw_text": "Llegan 90 inmigrantes en un cayuco interceptado al sur de Gran Canaria",
+        "lemmatized_text": "llegar 90 inmigrante en uno cayuco interceptar a el sur de gran_canaria",
+        "lemmatized_text_reduced": "llegar inmigrante cayuco interceptar sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "90"
+        ]
+    },
+    "lead": {
+        "raw_text": "Todos son varones y en buen estado de salud. Han sido llevados al puerto de Arguineguín. CONSULTA MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "todo ser varón y en bueno estado de salud haber ser llevar a el puerto de arguineguín consulta_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ser varón bueno estado salud haber ser llevar puerto arguineguín consulta_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Arguineguín"
+        ],
+        "organizations": [
+            "CONSULTA_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Noventa inmigrantes varones, todos ellos en aparente buen estado de salud, llegaron la noche de este jueves al puerto grancanario de Arguineguín tras ser interceptado el cayuco en el que navegaban a 35 millas al sur de Gran Canaria, informaron fuentes de Salvamento Marítimo. Es la primera embarcación de estas características que llega a Gran Canaria en 2 meses Tras su llegada a tierra, los inmigrantes fueron atendidos por efectivos de la Cruz Roja y Protección Civil que establecieron un dispositivo especial de atención tras recibir el aviso de la llegada del cayuco. Esta es la primera embarcación de estas características que llega a la isla de Gran Canaria desde hace dos meses, en concreto, desde el pasado 13 de julio. El cayuco fue avistado al sur de Gran Canaria por un barco, que avisó a su vez a Salvamento Marítimo. Un helicóptero de los servicios estatales de emergencias en el mar confirmó su existencia, a cuyo encuentro fue una Salvamar.",
+        "lemmatized_text": "90 inmigrante varón todo ellos en aparente bueno estado de salud llegar el noche de este [J:??/??/??:??.??:??] a el puerto grancanario de arguineguín tras ser interceptar el cayuco en el que navegar a LN_mi:35 a el sur de gran_canaria informar fuente de salvamento_marítimo ser el 1 embarcación de este característica que llegar a gran_canaria en 2 mes tras su llegada a tierra el inmigrante ser atender por efectivo de el cruz_roja y protección_civil que establecer uno dispositivo especial de atención tras recibir el aviso de el llegada de el cayuco este ser el 1 embarcación de este característica que llegar a el isla de gran_canaria desde hacer 2 mes en concreto desde el [??:13/7/??:??.??:??] el cayuco ser avistar a el sur de gran_canaria por uno barco que avisar a su vez a salvamento_marítimo uno helicóptero de el servicio estatal de emergencia en el mar confirmar su existencia a cuyo encuentro ser uno salvamar",
+        "lemmatized_text_reduced": "inmigrante varón aparente bueno estado salud llegar noche puerto grancanario arguineguín ser interceptar cayuco navegar sur gran_canaria informar fuente salvamento_marítimo ser 1 embarcación característica llegar gran_canaria mes tras llegada tierra inmigrante ser atender efectivo cruz_roja protección_civil establecer dispositivo especial atención recibir aviso llegada cayuco ser 1 embarcación característica llegar isla gran_canaria hacer mes concreto cayuco ser avistar sur gran_canaria barco avisar vez salvamento_marítimo helicóptero servicio estatal emergencia mar confirmar existencia encuentro ser salvamar",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Arguineguín",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo",
+            "Tras",
+            "Cruz_Roja",
+            "Protección_Civil",
+            "Salvamar"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[??:13/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "90",
+            "LN_mi:35",
+            "2",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/945793/0/",
+    "title": {
+        "raw_text": "El metro cuadrado de vivienda usada en Canarias sube un 1,2% en enero, según idealista.com",
+        "lemmatized_text": "el metro cuadrado de vivienda usar en canarias subir uno 1,2/100 en [??:??/1/??:??.??:??] según idealista com",
+        "lemmatized_text_reduced": "metro cuadrado vivienda usar canarias subir idealista com",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,2/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio del metro cuadrado de la vivienda usada en Canarias ha subido un 1,12 por ciento en enero respecto al último mes del pasado 2010, hasta alcanzar los 1.595 euros, según los últimos datos del portal inmobiliario idealista.com.",
+        "lemmatized_text": "el precio de el metro cuadrado de el vivienda usar en canarias haber subir uno 1,12 por 100 en [??:??/1/??:??.??:??] respecto a el último mes de el pasar 2010 hasta alcanzar el $_ECU:1.595 según el último dato de el portal inmobiliario idealista com",
+        "lemmatized_text_reduced": "precio metro cuadrado vivienda usar canarias haber subir respecto último mes pasar alcanzar último dato portal inmobiliario idealista com",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,12",
+            "100",
+            "2010",
+            "$_ECU:1.595"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio del metro cuadrado de la vivienda usada en Canarias ha subido un 1,12 por ciento en enero respecto al último mes del pasado 2010, hasta alcanzar los 1.595 euros, según los últimos datos del portal inmobiliario idealista.com. De esta forma, el archipiélago canario contradice, junto a otras 6 comunidades autónomas, a la media del conjunto de España, donde el precio del metro cuadrado descendió un 0,6 por ciento. Los mayores incrementos se han producido en Murcia, donde han crecido un 1,8 por ciento, Canarias (+1,2%) y Galicia (+1%). La subida en las islas Canarias se centra porcentualmente en la provincia de Las Palmas, con un incremento del 1,5 por ciento, mientras que en la provincia occidental la subida es del 0,5 por ciento. En todo caso, el retroceso desde máximos del precio del metro cuadrado es del 15 por ciento en Las Palmas y del 17,4 por ciento en la provincia de capitalidad tinerfeña.",
+        "lemmatized_text": "el precio de el metro cuadrado de el vivienda usar en canarias haber subir uno 1,12 por 100 en [??:??/1/??:??.??:??] respecto a el último mes de el pasar 2010 hasta alcanzar el $_ECU:1.595 según el último dato de el portal inmobiliario idealista com de este forma el archipiélago canario contradecir junto_a otro 6 comunidad autónomo a el media de el conjunto de españa donde el precio de el metro cuadrado descender uno 0,6 por 100 el mayor incremento se haber producir en murcia donde haber crecer uno 1,8 por 100 canarias +1,2/100 y galicia +1/100 el subida en el isla canarias se centrar porcentualmente en el provincia de las_palmas con uno incremento de el 1,5 por 100 mientras_que en el provincia occidental el subida ser de el 0,5 por 100 en_todo_caso el retroceso desde máximo de el precio de el metro cuadrado ser de el 15 por 100 en las_palmas y de el 17,4 por 100 en el provincia de capitalidad tinerfeño",
+        "lemmatized_text_reduced": "precio metro cuadrado vivienda usar canarias haber subir respecto último mes pasar alcanzar último dato portal inmobiliario idealista com forma archipiélago canario contradecir comunidad autónomo media conjunto españa precio metro cuadrado descender mayor incremento haber producir murcia haber crecer canarias galicia subida isla canarias centrar porcentualmente provincia las_palmas incremento provincia occidental subida ser retroceso máximo precio metro cuadrado ser las_palmas provincia capitalidad tinerfeño",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "España",
+            "Murcia",
+            "Canarias",
+            "Galicia",
+            "Canarias",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,12",
+            "100",
+            "2010",
+            "$_ECU:1.595",
+            "6",
+            "0,6",
+            "100",
+            "1,8",
+            "100",
+            "+1,2/100",
+            "+1/100",
+            "1,5",
+            "100",
+            "0,5",
+            "100",
+            "15",
+            "100",
+            "17,4",
+            "100"
+        ]
+    }
+}

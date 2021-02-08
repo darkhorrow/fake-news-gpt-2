@@ -1,0 +1,99 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/323173/0/viento/lluvia/canaria/",
+    "title": {
+        "raw_text": "Declaran la alerta en Canarias: se esperan fuertes vientos y rachas de lluvia",
+        "lemmatized_text": "declarar el alerta en canarias se esperar fuerte viento y racha de lluvia",
+        "lemmatized_text_reduced": "declarar alerta canarias esperar fuerte viento racha lluvia",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Vientos de hasta 90 km/h para hoy. La alerta es desde las 00:00 hasta las 23:00. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "vientos de hasta SP_km/h:90 para hoy el alerta ser desde el 00:00 hasta el 23:00 consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "vientos alerta ser consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Vientos"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:90",
+            "00:00",
+            "23:00"
+        ]
+    },
+    "body": {
+        "raw_text": "Fuertes lluvias y rachas de vientos se esperan para este martes en el Archipiélago. El Instituto Nacional de Meteorología (INM) ha puesto en alerta naranja a la provincia de Santa Cruz de Tenerife y en alerta amarilla la provincia de Las Palmas. Las precipitaciones en las islas orientales alcanzarán hasta los 80 mm en 12 horas y vientos con rachas de 70 km/h mientras que en la provincia tinerfeña serán de hasta 90 km/h. El nivel naranja dispuesto para las islas más occidentales dará comienzo desde las 00.00 horas de este martes y finalizará a las 23.00 horas. Los vientos con rachas de 90 Km/h se harán sentir principalmente en los municipios tinerfeños de La Orotava y Vilaflor. Chubascos moderados localmente fuertes que afectarán al Archipiélago de oeste a este a lo largo de esta jornada de martes, comenzando por las islas occidentales desde primeras horas de la mañana y a las islas orientales durante la segunda mitad del día. Vientos del oeste a suroeste fuerte con intervalos de muy fuerte, principalmente, en medianías y zonas altas de las islas , así como Lanzarote y Fuerteventura y costas sur y oeste de las Islas. Oeste a este La inestabilidad comenzará a primeras horas de este martes en La Palma, hasta llegar a Tenerife durante la primera mitad del día que, junto a Lanzarote y Fuerteventura, serán las islas donde más lluvia se espera durante esa jornada, con 80 litros por metro cuadrado tras 12 horas. Según el INM, el viento irá subiendo en intensidad a lo largo del martes con una estimación de entre 40 y 70 kilómetros por hora de forma generalizada, 70 kilómetros por hora en medianías y hasta 90 kilómetros por hora en el norte de Tenerife, en la zona del Teide, donde está decretada la alerta naranja por vientos fuertes. Además de estos fenómenos significativos, el día será inestable con intervalos nubosos con nubosidad media y alta aumentando gradualmente a muy nuboso desde primeras horas. Las temperaturas por su parte permanecerán sin cambios o en ligero descenso. En la mar se espera oleaje de hasta 3 metros. La inestabilidad comenzará a remitir el día 19 de diciembre , salvo en Lanzarote y Fuerteventura, donde se espera el día de mayores lluvias, y ya el 20 se espera que, si bien continuarán vientos intensos, los chubascos abandonen el Archipiélago. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "fuerte lluvia y racha de viento se esperar para este [M:??/??/??:??.??:??] en el archipiélago el instituto_nacional_de_meteorología inm haber poner en alerta naranja a el provincia de santa_cruz_de_tenerife y en alerta amarillo el provincia de las_palmas el precipitación en el isla oriental alcanzar hasta el LN_mm:80 en TM_h:12 y viento con racha de SP_km/h:70 mientras_que en el provincia tinerfeño ser de hasta SP_km/h:90 el nivel naranja disponer para el isla más occidental dar comienzo desde el TM_h:0 de este [M:??/??/??:??.??:??] y finalizar a el TM_h:23 el viento con racha de SP_km/h:90 se hacer sentir principalmente en el municipio tinerfeño de la_orotava y vilaflor chubascos moderado localmente fuerte que afectar a el archipiélago de oeste a este a el largo de este jornada de [M:??/??/??:??.??:??] comenzar por el isla occidental desde 1 hora de el mañana y a el isla oriental durante el 2 mitad de el día viento de el oeste a suroeste fuerte con intervalo de muy fuerte principalmente en medianía y zona alto de el isla así_como lanzarote y fuerteventura y costa sur y oeste de el islas oeste a este la inestabilidad comenzar a 1 hora de este [M:??/??/??:??.??:??] en la_palma hasta llegar a tenerife durante el 1 mitad de el día que junto_a lanzarote y fuerteventura ser el isla donde más lluvia se esperar durante ese jornada con CB_l/m2:80 tras TM_h:12 según el inm el viento ir subir en intensidad a el largo de el [M:??/??/??:??.??:??] con uno estimación de entre 40 y SP_km/h:70 de forma generalizar SP_km/h:70 en medianía y hasta SP_km/h:90 en el norte de tenerife en el zona de el teide donde estar decretar el alerta naranja por viento fuerte además_de este fenómeno significativo el día ser inestable con intervalo nuboso con nubosidad medio y alto aumentar gradualmente a muy nuboso desde 1 hora el temperatura por su parte permanecer sin cambio o en ligero descenso en el mar se esperar oleaje de hasta LN_m:3 el inestabilidad comenzar a remitir el [??:19/12/??:??.??:??] salvo en lanzarote y fuerteventura donde se esperar el día de mayor lluvia y ya el 20 se esperar que si bien continuar viento intenso el chubasco abandonar el archipiélago consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "fuerte lluvia racha viento esperar archipiélago instituto_nacional_de_meteorología inm haber poner alerta naranja provincia santa_cruz_de_tenerife alerta amarillo provincia las_palmas precipitación isla oriental alcanzar viento racha provincia tinerfeño ser nivel naranja disponer isla occidental dar comienzo finalizar viento racha hacer sentir principalmente municipio tinerfeño la_orotava vilaflor chubascos moderado localmente fuerte afectar archipiélago oeste largo jornada comenzar isla occidental 1 hora mañana isla oriental 2 mitad día viento oeste suroeste fuerte intervalo fuerte principalmente medianía zona alto isla lanzarote fuerteventura costa sur oeste islas oeste la inestabilidad comenzar 1 hora la_palma llegar tenerife 1 mitad día lanzarote fuerteventura ser isla lluvia esperar jornada inm viento ir subir intensidad largo estimación forma generalizar medianía norte tenerife zona teide estar decretar alerta naranja viento fuerte fenómeno significativo día ser inestable intervalo nuboso nubosidad medio alto aumentar gradualmente nuboso 1 hora temperatura parte permanecer cambio ligero descenso mar esperar oleaje inestabilidad comenzar remitir lanzarote fuerteventura esperar día mayor lluvia esperar continuar viento intenso chubasco abandonar archipiélago consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Chubascos"
+        ],
+        "locations": [
+            "Archipiélago",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "La_Orotava",
+            "Vilaflor",
+            "Archipiélago",
+            "Lanzarote",
+            "Fuerteventura",
+            "Islas",
+            "Oeste",
+            "La_Palma",
+            "Tenerife",
+            "Lanzarote",
+            "Tenerife",
+            "Teide",
+            "Lanzarote",
+            "Fuerteventura",
+            "Archipiélago"
+        ],
+        "organizations": [
+            "Instituto_Nacional_de_Meteorología",
+            "Fuerteventura",
+            "INM",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "La"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[??:19/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mm:80",
+            "TM_h:12",
+            "SP_km/h:70",
+            "SP_km/h:90",
+            "TM_h:0",
+            "TM_h:23",
+            "SP_km/h:90",
+            "CB_l/m2:80",
+            "TM_h:12",
+            "40",
+            "SP_km/h:70",
+            "SP_km/h:70",
+            "SP_km/h:90",
+            "LN_m:3",
+            "20"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/686191/0/",
+    "title": {
+        "raw_text": "Dimas Martín niega haber declarado ante el juez del 'Caso Unión' durante cuatro horas, ya que no llegó a \"30 minutos\"",
+        "lemmatized_text": "dimas_martín negar haber declarar ante el juez de el caso_unión durante TM_h:4 ya_que no llegar a TM_min:30",
+        "lemmatized_text_reduced": "dimas_martín negar haber declarar juez caso_unión llegar",
+        "persons": [
+            "Dimas_Martín"
+        ],
+        "locations": [],
+        "organizations": [
+            "Caso_Unión"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:4",
+            "TM_min:30"
+        ]
+    },
+    "lead": {
+        "raw_text": "El ex líder del Partido Independiente de Lanzarote (PIL) Dimas Martín ha negado hoy haber declarado ante el juez del Juzgado de Primera Instancia e Instrucción número 5 de Arrecife, César Romero Pamparacuatro, --que tuvo lugar el pasado viernes, 16 de abril-- durante cuatro horas, ya que aseguró que su comparecencia \"no llegó a los 30 minutos y, en ningún caso, su señoría hizo mención alguna a una modificación\" sobre su situación procesal.",
+        "lemmatized_text": "el ex líder de el partido_independiente_de_lanzarote pil dimas_martín haber negar hoy haber declarar ante el juez de el juzgado_de_primera_instancia y instrucción número 5 de arrecife césar_romero_pamparacuatro que tener_lugar el [V:16/4/??:??.??:??] durante TM_h:4 ya_que asegurar que su comparecencia no llegar a el TM_min:30 y en ninguno caso su señoría hacer mención alguno a uno modificación sobre su situación procesal",
+        "lemmatized_text_reduced": "ex líder partido_independiente_de_lanzarote pil dimas_martín haber negar haber declarar juez juzgado_de_primera_instancia instrucción número arrecife césar_romero_pamparacuatro tener_lugar asegurar comparecencia llegar caso señoría hacer mención modificación situación procesal",
+        "persons": [
+            "Dimas_Martín",
+            "César_Romero_Pamparacuatro"
+        ],
+        "locations": [],
+        "organizations": [
+            "Partido_Independiente_de_Lanzarote",
+            "PIL",
+            "Juzgado_de_Primera_Instancia",
+            "Instrucción",
+            "Arrecife"
+        ],
+        "others": [],
+        "dates": [
+            "[V:16/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "TM_h:4",
+            "TM_min:30"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta forma, Martín sale al paso de las informaciones de algunos medios de comunicación regionales a los que ha criticado, en un comunicado, el tratamiento \"amarillista\" que se le está dando a sus comparecencias ante el juez. Asimismo, el ex líder del PIL se mostró sorprendido de que algunos medios de comunicación se hayan \"convertido en correa transmisora de intereses políticos, mintiendo descaradamente en sus informaciones con el único fin de hacer el mayor daño posible y sembrar la duda entre todos los ciudadanos\". Martín afirma mostrarse impotente ante las informaciones que sobre su persona están apareciendo en los medios públicos y al \"estar privado de libertad y no poder defenderse en igualdad de condiciones, ante las infamias vertidas por algunos medios de comunicación\" en lo que respecta al 'Caso Unión' y la 'Operación Jable'. En cuanto a su comparecencia del 16 de abril, insistió en que \"es rotundamente incierto\" que en la misma él desvelara \"absolutamente nada\" sobre lo que se investiga en la 'Operación Jable', ya que aseguró que él \"tenía un completo desconocimiento de la misma\". Al respecto, hizo hincapié en que, \"aún guardando el secreto de sumario y del interrogatorio\", puede \"afirmar con toda energía que jamás se le preguntó nada que tuviera que ver con ella\" (Operación Jable). Dimas Martín también desmintió que en sus comparecencias se le haya interrogado sobre temas relacionados con Inalsa. Además, retó a que se publiquen en los medios de comunicación sus declaraciones ante el Magistrado para que \"los ciudadanos de Canarias puedan comprobar la veracidad de lo publicado\". \"Como principal víctima en Lanzarote de los juicios mediáticos paralelos, en los que se prejuzga, juzga, condena y ejecuta la sentencia a los imputados, antes de que se puedan defender en los tribunales de justicia y se manifiesten, pido para todos los imputados el mismo respeto y presunción de inocencia que me hubiera gustado tener para mí\", sentenció.",
+        "lemmatized_text": "de este forma martín salir a el paso de el información de alguno medio de comunicación regional a el que haber criticar en uno comunicado el tratamiento amarillista que se le estar dar a su comparecencia ante el juez asimismo el ex líder de el pil se mostrar sorprender de que alguno medio de comunicación se haber convertir en correa transmisor de interés político mentir descaradamente en su información con el único fin de hacer el mayor daño posible y sembrar el duda entre todo el ciudadano martín afirmar mostrar se impotente ante el información que sobre su persona estar aparecer en el medio público y a el estar privar de libertad y no poder defender se en igualdad de condición ante el infamia verter por alguno medio de comunicación en el que respectar a el caso_unión y el operación_jable en_cuanto_a su comparecencia de el [??:16/4/??:??.??:??] insistir en que ser rotundamente incierto que en el mismo él desvelar absolutamente nada sobre el que se investigar en el operación_jable ya_que asegurar que él tener uno completo desconocimiento de el mismo a el respecto hacer hincapié en que aun guardar el secreto de sumario y de el interrogatorio poder afirmar con todo energía que jamás se le preguntar nada que tener que ver con él operación_jable dimas_martín también desmentir que en su comparecencia se le haber interrogar sobre tema relacionar con inalsa además retar a que se publicar en el medio de comunicación su declaración ante el magistrado para que el ciudadano de canarias poder comprobar el veracidad de el publicar como principal víctima en lanzarote de el juicio mediático paralelo en el que se prejuzgar juzgar condenar y ejecutar el sentencia a el imputar antes_de que se poder defender en el tribunal de justicia y se manifestar pedir para todo el imputar el mismo respeto y presunción de inocencia que me haber gustar tener para mí sentenciar",
+        "lemmatized_text_reduced": "forma martín salir paso información medio comunicación regional haber criticar comunicado tratamiento amarillista estar dar comparecencia juez ex líder pil mostrar sorprender medio comunicación haber convertir correa transmisor interés político mentir descaradamente información único fin hacer mayor daño posible sembrar duda ciudadano martín afirmar mostrar impotente información persona estar aparecer medio público estar privar libertad poder defender igualdad condición infamia verter medio comunicación respectar caso_unión operación_jable comparecencia insistir ser rotundamente incierto desvelar absolutamente investigar operación_jable asegurar tener completo desconocimiento mismo respecto hacer hincapié guardar secreto sumario interrogatorio poder afirmar energía preguntar tener ver operación_jable dimas_martín desmentir comparecencia haber interrogar tema relacionar inalsa retar publicar medio comunicación declaración magistrado ciudadano canarias poder comprobar veracidad publicar principal víctima lanzarote juicio mediático paralelo prejuzgar juzgar condenar ejecutar sentencia imputar poder defender tribunal justicia manifestar pedir imputar mismo respeto presunción inocencia haber gustar tener sentenciar",
+        "persons": [
+            "Martín",
+            "Martín",
+            "Operación_Jable",
+            "Operación_Jable",
+            "Operación_Jable",
+            "Dimas_Martín",
+            "Magistrado"
+        ],
+        "locations": [
+            "Canarias",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "PIL",
+            "Caso_Unión",
+            "Inalsa"
+        ],
+        "others": [],
+        "dates": [
+            "[??:16/4/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

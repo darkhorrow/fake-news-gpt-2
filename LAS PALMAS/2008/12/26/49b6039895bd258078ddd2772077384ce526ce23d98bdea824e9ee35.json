@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/439223/0/detenido/apunalamiento/navidad/",
+    "title": {
+        "raw_text": "",
+        "lemmatized_text": "",
+        "lemmatized_text_reduced": "",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La víctima fue apuñalada en el polígono de San Cristobal de la capital grancanaria. El detenido es un chico de unos 20 años residente en el barrio. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el víctima ser apuñalar en el polígono de san_cristobal de el capital grancanaria el detenido ser uno chico de uno 20 año residente en el barrio consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "víctima ser apuñalar polígono san_cristobal capital grancanaria detenido ser chico año residente barrio consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "San_Cristobal"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20"
+        ]
+    },
+    "body": {
+        "raw_text": "El detenido como presunto autor del asesinato del joven de 22 años Octavio S.V ., --que falleció durante la madrugada del 24 al 25 tras sufrir una agresión con un arma blanca en el polígono de San Cristóbal de Las Palmas de Gran Canaria--, pasará mañana a disposición judicial, según informaron fuentes del Cuerpo Nacional de Policía. En este sentido, las mismas fuentes explicaron que las autoridades se encuentran en estos momentos investigando los hechos y que durante la jornada de mañana pasará a los juzgados de la capital grancanaria. El joven de unos 22 años de edad falleció durante la madrugada del 25 al sufrir una agresión con un arma blanca de la que no se recuperó en las inmediaciones de la calle Córdoba , situada en el polígono de San Cristóbal de Las Palmas de Gran Canaria. Los hechos se produjeron sobre las 05.13 horas, momento en el que el Centro de Coordinación de Emergencias recibió una llamada indicando que se había producido una agresión por arma blanca y que la víctima se encontraba inconsciente como consecuencia de la misma. En ese momento, se trasladó al lugar una ambulancia de soporte vital avanzado y una ambulancia de soporte vital básico, mientras que al llegar, el personal del Servicio de Urgencias Canario (SUC) comprobó que el afectado se encontraba en parada cardiorrespiratoria , por lo que realizaron maniobras de recuperación y trasladaron al afectado en estado crítico al Hospital General de Gran Canaria Doctor Negrín, donde finalmente falleció. Por su parte, una patrulla del Cuerpo Nacional de Policía también se desplazó hasta el lugar de los hechos y se encargó de las diligencias oportunas.",
+        "lemmatized_text": "el detener como presunto autor de el asesinato de el joven de 22 año octavio [s:v] que fallecer durante el madrugada de el 24 a el 25 tras sufrir uno agresión con uno arma blanco en el polígono de san_cristóbal_de_las_palmas_de_gran_canaria pasar mañana a disposición judicial según informar fuente de el cuerpo_nacional_de_policía en este sentido el mismo fuente explicar que el autoridad se encontrar en este momento investigar el hecho y que durante el jornada de mañana pasar a el juzgado de el capital grancanaria el joven de uno 22 año de edad fallecer durante el madrugada de el 25 a el sufrir uno agresión con uno arma blanco de el que no se recuperar en el inmediación de el calle córdoba situar en el polígono de san_cristóbal_de_las_palmas_de_gran_canaria el hecho se producir sobre el TM_h:5.13 momento en el que el centro_de_coordinación_de_emergencias recibir uno llamada indicar que se haber producir uno agresión por arma blanco y que el víctima se encontrar inconsciente como consecuencia de el mismo en ese momento se trasladar a el lugar uno ambulancia de soporte vital avanzar y uno ambulancia de soporte vital básico mientras_que a el llegar el personal de el servicio_de_urgencias_canario suc comprobar que el afectar se encontrar en parada cardiorrespiratoria por el que realizar maniobra de recuperación y trasladar a el afectar en estado crítico a el hospital_general_de_gran_canaria_doctor_negrín donde finalmente fallecer por su parte uno patrulla de el cuerpo_nacional_de_policía también se desplazar hasta el lugar de el hecho y se encargar de el diligencia oportuno",
+        "lemmatized_text_reduced": "detener presunto autor asesinato joven año octavio fallecer madrugada sufrir agresión arma blanco polígono san_cristóbal_de_las_palmas_de_gran_canaria pasar disposición judicial informar fuente cuerpo_nacional_de_policía sentido mismo fuente explicar autoridad encontrar momento investigar hecho jornada mañana pasar juzgado capital grancanaria joven año edad fallecer madrugada sufrir agresión arma blanco recuperar inmediación calle córdoba situar polígono san_cristóbal_de_las_palmas_de_gran_canaria hecho producir momento centro_de_coordinación_de_emergencias recibir llamada indicar haber producir agresión arma blanco víctima encontrar inconsciente consecuencia mismo momento trasladar lugar ambulancia soporte vital avanzar ambulancia soporte vital básico llegar personal servicio_de_urgencias_canario suc comprobar afectar encontrar parada cardiorrespiratoria realizar maniobra recuperación trasladar afectar estado crítico hospital_general_de_gran_canaria_doctor_negrín finalmente fallecer parte patrulla cuerpo_nacional_de_policía desplazar lugar hecho encargar diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "San_Cristóbal_de_Las_Palmas_de_Gran_Canaria",
+            "Córdoba",
+            "San_Cristóbal_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Octavio",
+            "Cuerpo_Nacional_de_Policía",
+            "Centro_de_Coordinación_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_General_de_Gran_Canaria_Doctor_Negrín",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [
+            "[s:v]"
+        ],
+        "numbers": [
+            "22",
+            "24",
+            "25",
+            "22",
+            "25",
+            "TM_h:5.13"
+        ]
+    }
+}

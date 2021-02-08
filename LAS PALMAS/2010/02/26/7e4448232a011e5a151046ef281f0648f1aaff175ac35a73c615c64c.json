@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639281/0/",
+    "title": {
+        "raw_text": "El hundimiento de la calzada de carretera que une Ayacata y Pie de la Cuesta (Gran Canaria) obliga al cierre de la vía",
+        "lemmatized_text": "el hundimiento de el calzada de carretera que unir ayacata y pie_de_la_cuesta gran_canaria obligar a el cierre de el vía",
+        "lemmatized_text_reduced": "hundimiento calzada carretera unir ayacata pie_de_la_cuesta gran_canaria obligar cierre vía",
+        "persons": [
+            "Ayacata"
+        ],
+        "locations": [
+            "Pie_de_la_Cuesta"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes del Cabildo de Gran Canaria ha informado del cierre a la circulación de la carretera Gran Canaria 605 (GC-605) que une Ayacata con Pie de la Cuesta, entre los puntos kilométricos 0 y 1, informó hoy la Corporación insular en un comunicado.",
+        "lemmatized_text": "el consejería_de_desarrollo_económico obras_públicas y infraestructuras y transportes_del_cabildo_de_gran_canaria haber informar de el cierre a el circulación de el carretera gran_canaria 605 GC-605 que unir ayacata con pie_de_la_cuesta entre el punto kilométrico 0 y 1 informar hoy el corporación insular en uno comunicado",
+        "lemmatized_text_reduced": "consejería_de_desarrollo_económico obras_públicas infraestructuras transportes_del_cabildo_de_gran_canaria haber informar cierre circulación carretera gran_canaria unir ayacata pie_de_la_cuesta punto kilométrico informar corporación insular comunicado",
+        "persons": [
+            "Ayacata"
+        ],
+        "locations": [
+            "Pie_de_la_Cuesta"
+        ],
+        "organizations": [
+            "Consejería_de_Desarrollo_Económico",
+            "Obras_Públicas",
+            "Transportes_del_Cabildo_de_Gran_Canaria",
+            "Corporación"
+        ],
+        "others": [
+            "Infraestructuras",
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "605",
+            "GC-605",
+            "0",
+            "1"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el tramo ha tenido que cortarse al tráfico ante el hundimiento de parte de la calzada provocado por el agrietamiento de un muro. \"El corte impide que se pueda acceder a la Presa de Las Niñas desde Ayacata por lo que la alternativa que tienen los ciudadanos para visitar el embalse es la misma GC-605 pero accediendo por Pie de la Cuesta en el municipio de Mogán\", explicaron. Por su parte, los técnicos de la Consejería Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes están valorando la situación para abordar la rehabilitación del muro y de la calzada, mientras que el corte ya está señalizado.",
+        "lemmatized_text": "de este manera el tramo haber tener que cortar se a el tráfico ante el hundimiento de parte de el calzada provocar por el agrietamiento de uno muro el corte impedir que se poder acceder a el presa_de_las_niñas desde ayacata por el que el alternativa que tener el ciudadano para visitar el embalse ser el mismo GC-605 pero acceder por pie_de_la_cuesta en el municipio de mogán explicar por su parte el técnico de el consejería_desarrollo_económico obras_públicas y infraestructuras y transportes estar valorar el situación para abordar el rehabilitación de el muro y de el calzada mientras_que el corte ya estar señalizar",
+        "lemmatized_text_reduced": "manera tramo haber tener cortar tráfico hundimiento parte calzada provocar agrietamiento muro corte impedir poder acceder presa_de_las_niñas ayacata alternativa tener ciudadano visitar embalse ser mismo acceder pie_de_la_cuesta municipio mogán explicar parte técnico consejería_desarrollo_económico obras_públicas infraestructuras transportes estar valorar situación abordar rehabilitación muro calzada corte estar señalizar",
+        "persons": [],
+        "locations": [
+            "Ayacata",
+            "Pie_de_la_Cuesta",
+            "Mogán"
+        ],
+        "organizations": [
+            "Presa_de_Las_Niñas",
+            "Consejería_Desarrollo_Económico",
+            "Obras_Públicas",
+            "Transportes"
+        ],
+        "others": [
+            "Infraestructuras"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-605"
+        ]
+    }
+}

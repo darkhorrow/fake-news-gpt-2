@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590071/0/",
+    "title": {
+        "raw_text": "Haidar comienza en el hospital su 32 día de huelga de hambre, igualando su anterior protesta",
+        "lemmatized_text": "haidar comenzar en el hospital su TM_d:32 de huelga de hambre igualar su anterior protesta",
+        "lemmatized_text_reduced": "haidar comenzar hospital huelga hambre igualar anterior protesta",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:32"
+        ]
+    },
+    "lead": {
+        "raw_text": "La activista saharaui Aminetu Haidar ha comenzado hoy en la Unidad de Cuidados Intensivos del Hospital General Doctor José Molina Orosa de Arrecife (Lanzarote) su trigésimo segundo día de huelga de hambre, igualando así su anterior protesta que realizó en Marruecos.",
+        "lemmatized_text": "el activista saharaui aminetu_haidar haber comenzar hoy en el unidad_de_cuidados_intensivos_del_hospital_general_doctor_josé_molina_orosa_de_arrecife lanzarote su 30 2 día de huelga de hambre igualar así su anterior protesta que realizar en marruecos",
+        "lemmatized_text_reduced": "activista saharaui aminetu_haidar haber comenzar unidad_de_cuidados_intensivos_del_hospital_general_doctor_josé_molina_orosa_de_arrecife lanzarote 30 2 día huelga hambre igualar anterior protesta realizar marruecos",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Unidad_de_Cuidados_Intensivos_del_Hospital_General_Doctor_José_Molina_Orosa_de_Arrecife",
+            "Lanzarote",
+            "Marruecos"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Por su parte, la abogada de Haidar, Inés Miranda, entró sobre las 09.30 horas al centro hospitalario acompañada por el médico que la atendió cuando comenzó su huelga de hambre hasta que la saharaui renunció a la atención médica. Así, ninguno de los dos quiso hacer ningún tipo de declaración a los medios de comunicación, mientras que durante el día de hoy se han programado dos horas para visitas —12.00 y 18.00 horas— y se espera que sean sus familiares los que acudan a verla. De esta manera, a las 00.15 horas Aminetu Haidar fue trasladada al Hospital General Doctor José Molina Orosa de Arrecife de Lanzarote tras sufrir náuseas, vómitos e intensos dolores abdominales. \"Después de un día de gran sufrimiento para Haidar y tras recibir asesoramiento del doctor Domingo de Guzmán Pérez Hernández y de su abogada, Inés Miranda, decidió pedir su traslado voluntario al Hospital para recibir tratamiento paliativo\", señalaron desde la Plataforma de Apoyo. Actualmente se encuentra ingresada en la Unidad de Cuidados Intensivos, donde se le están administrando calmantes y antieméticos. Su estado de salud es en estos momentos estable. Haidar continúa así la huelga de hambre que inició hace 32 días, y que sólo interrumpirá cuando llegue a su casa de El Aaiún y se reúna con sus hijos.",
+        "lemmatized_text": "por su parte el abogado de haidar inés_miranda entrar sobre el TM_h:9.3 a el centro hospitalario acompañar por el médico que lo atender cuando comenzar su huelga de hambre hasta que el saharaui renunciar a el atención médico así ninguno de el 2 querer hacer ninguno tipo de declaración a el medio de comunicación mientras_que durante el día de hoy se haber programar TM_h:2 para visita 12 y TM_h:18 y se esperar que ser su familiar el que acudir a ver lo de este manera a el TM_h:0.15 aminetu_haidar ser trasladar a el hospital_general_doctor_josé_molina_orosa_de_arrecife_de_lanzarote tras sufrir náusea vómito y intenso dolor abdominal después_de uno día de gran sufrimiento para haidar y tras recibir asesoramiento de el doctor [G:??/??/??:??.??:??] de guzmán_pérez_hernández y de su abogado inés_miranda decidir pedir su traslado voluntario a el hospital para recibir tratamiento paliativo señalar desde el plataforma_de_apoyo actualmente se encontrar ingresar en el unidad_de_cuidados_intensivos donde se le estar administrar calmante y antiemético su estado de salud ser en este momento estable haidar continuar así el huelga de hambre que iniciar hacer TM_d:32 y que sólo interrumpir cuando llegar a su casa de el_aaiún y se reunir con su hijo",
+        "lemmatized_text_reduced": "parte abogado haidar inés_miranda entrar centro hospitalario acompañar médico atender comenzar huelga hambre saharaui renunciar atención médico querer hacer tipo declaración medio comunicación día haber programar visita esperar ser familiar acudir ver manera aminetu_haidar ser trasladar hospital_general_doctor_josé_molina_orosa_de_arrecife_de_lanzarote sufrir náusea vómito intenso dolor abdominal día gran sufrimiento haidar recibir asesoramiento doctor guzmán_pérez_hernández abogado inés_miranda decidir pedir traslado voluntario hospital recibir tratamiento paliativo señalar plataforma_de_apoyo actualmente encontrar ingresar unidad_de_cuidados_intensivos estar administrar calmante antiemético estado salud ser momento estable haidar continuar huelga hambre iniciar hacer interrumpir llegar casa el_aaiún reunir hijo",
+        "persons": [
+            "Inés_Miranda",
+            "Aminetu_Haidar",
+            "Haidar",
+            "Guzmán_Pérez_Hernández",
+            "Inés_Miranda",
+            "Haidar"
+        ],
+        "locations": [
+            "Haidar",
+            "Unidad_de_Cuidados_Intensivos",
+            "El_Aaiún"
+        ],
+        "organizations": [
+            "Hospital_General_Doctor_José_Molina_Orosa_de_Arrecife_de_Lanzarote",
+            "Hospital",
+            "Plataforma_de_Apoyo"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:9.3",
+            "2",
+            "TM_h:2",
+            "12",
+            "TM_h:18",
+            "TM_h:0.15",
+            "TM_d:32"
+        ]
+    }
+}

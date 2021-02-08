@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619164/0/",
+    "title": {
+        "raw_text": "Encuentran en cadáver del pescador que desapareció tras volcar su barca en Arinaga (Gran Canaria)",
+        "lemmatized_text": "encontrar en cadáver de el pescador que desaparecer tras volcar su barca en arinaga gran_canaria",
+        "lemmatized_text_reduced": "encontrar cadáver pescador desaparecer volcar barca arinaga gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arinaga",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de emergencia han encontrado el cuerpo sin vida del pescador que desapareció en aguas de Arinaga (Gran Canaria) durante la tarde del sábado tras volcar la embarcación de recreo en la que se encontraba junto a otra persona. En concreto, el cadáver fue localizando en la Punta de Arinaga, según informaron a Europa Press fuentes de Salvamento Marítimo.",
+        "lemmatized_text": "el servicio de emergencia haber encontrar el cuerpo sin vida de el pescador que desaparecer en agua de arinaga gran_canaria durante el tarde de el [S:??/??/??:??.??:??] tras volcar el embarcación de recreo en el que se encontrar junto_a otro persona en concreto el cadáver ser localizar en el punta_de_arinaga según informar a europa_press fuente de salvamento_marítimo",
+        "lemmatized_text_reduced": "servicio emergencia haber encontrar cuerpo vida pescador desaparecer agua arinaga gran_canaria tarde volcar embarcación recreo encontrar persona concreto cadáver ser localizar punta_de_arinaga informar europa_press fuente salvamento_marítimo",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Arinaga",
+            "Gran_Canaria",
+            "Punta_de_Arinaga"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Además, en el incidente resultó herido otro hombre, que también viajaba en la barca, y que fue salvado con vida aunque de carácter grave, por lo que tuvo que ser trasladado al Hospital Insular de Gran Canaria donde finalmente falleció. Por su parte, el suceso se produjo a las 14.18 horas del sábado, 30 de enero, y entre los servicios que rastrearon la zona se encontraban un helicóptero del Grupo de Emergencias y Salvamento (GES), así como agentes de la Guardia Civil, personal de Salvamento Marítimo y Servicio de Urgencias Canario (SUC) 112.",
+        "lemmatized_text": "además en el incidente resultar herir otro hombre que también viajar en el barca y que ser salvar con vida aunque de carácter grave por el que tener que ser trasladar a el hospital_insular_de_gran_canaria donde finalmente fallecer por su parte el suceso se producir a el [S:30/1/??:2.00:pm] y entre el servicio que rastrear el zona se encontrar uno helicóptero de el grupo_de_emergencias y salvamento ges así_como agente de el guardia_civil personal de salvamento_marítimo y servicio_de_urgencias_canario suc 112",
+        "lemmatized_text_reduced": "incidente resultar herir hombre viajar barca ser salvar vida carácter grave tener ser trasladar hospital_insular_de_gran_canaria finalmente fallecer parte suceso producir servicio rastrear zona encontrar helicóptero grupo_de_emergencias salvamento ges agente guardia_civil personal salvamento_marítimo servicio_de_urgencias_canario suc",
+        "persons": [
+            "Salvamento",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Hospital_Insular_de_Gran_Canaria",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Guardia_Civil",
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [],
+        "dates": [
+            "[S:30/1/??:2.00:pm]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    }
+}

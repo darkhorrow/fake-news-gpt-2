@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/324044/0/suspendidas/clases/colegios/",
+    "title": {
+        "raw_text": "El clima obliga a suspender las actividades en los centros educativos de Canarias",
+        "lemmatized_text": "el clima obligar a suspender el actividad en el centro educativo de canarias",
+        "lemmatized_text_reduced": "clima obligar suspender actividad centro educativo canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Por vientos que podrán superar los 70 kilómetros por hora. En La Palma podrían alcanzar los 120. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "por viento que poder superar el SP_km/h:70 en la_palma poder alcanzar el 120 consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "viento poder superar la_palma poder alcanzar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:70",
+            "120"
+        ]
+    },
+    "body": {
+        "raw_text": "El Gobierno canario ha suspendido desde ayer las actividades de tarde en los centros educativos no universitarios de las Islas ante la alerta decretada por vientos que podrán superar los 70 kilómetros y llegar a los 120 en La Palma y Tenerife y lluvias de hasta 60 litros por metro cuadrado. Esta suspensión de las clases, acordada por la Consejería de Educación del Ejecutivo regional, se efectúa en virtud de las recomendaciones de la Dirección General de Seguridad y Emergencias y en función del horario establecido por cada centro para la finalización de las actividades de la mañana, ha informado este departamento en un comunicado. La Consejería recomienda a toda la comunidad educativa seguir a través de los medios de comunicación las novedades que se puedan producir a lo largo del día de hoy. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el gobierno canario haber suspender desde ayer el actividad de tarde en el centro educativo no universitario de el islas ante el alerta decretar por viento que poder superar el LN_km:70 y llegar a el 120 en la_palma y tenerife y lluvia de hasta CB_l/m2:60 este suspensión de el clase acordar por el consejería_de_educación_del_ejecutivo regional se efectuar en_virtud_de el recomendación de el dirección_general_de_seguridad y emergencias y en función de el horario establecer por cada centro para el finalización de el actividad de el mañana haber informar este departamento en uno comunicado el consejería recomendar a todo el comunidad educativo seguir a_través_de el medio de comunicación el novedad que se poder producir a el largo de el día de hoy consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "gobierno canario haber suspender actividad tarde centro educativo universitario islas alerta decretar viento poder superar llegar la_palma tenerife lluvia suspensión clase acordar consejería_de_educación_del_ejecutivo regional efectuar recomendación dirección_general_de_seguridad emergencias función horario establecer centro finalización actividad mañana haber informar departamento comunicado consejería recomendar comunidad educativo seguir medio comunicación novedad poder producir largo día consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Islas",
+            "Consejería_de_Educación_del_Ejecutivo",
+            "Dirección_General_de_Seguridad",
+            "Emergencias",
+            "Consejería",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:70",
+            "120",
+            "CB_l/m2:60"
+        ]
+    }
+}

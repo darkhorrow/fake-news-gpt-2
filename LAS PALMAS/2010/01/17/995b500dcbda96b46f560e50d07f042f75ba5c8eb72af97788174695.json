@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/608438/0/",
+    "title": {
+        "raw_text": "Originado un incendio sin afectados en una casa terrera de La Aldea (Gran Canaria)",
+        "lemmatized_text": "originar uno incendio sin afectado en uno casa terrero de la_aldea gran_canaria",
+        "lemmatized_text_reduced": "originar incendio afectado casa terrero la_aldea gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Aldea",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Centro Coordinador de Emergencias y Seguridad (Cecoes), 112, recibió hoy a las 12.41 horas una llamada de los ocupantes de una vivienda unifamiliar alertando de que se había originado un incendio en su casa terrera ubicada en el municipio grancanario de La Aldea de San Nicolás, según informó a Europa Press el dispositivo dependiente del Gobierno de Canarias.",
+        "lemmatized_text": "el centro_coordinador_de_emergencias y seguridad cecoes 112 recibir hoy a el TM_h:12.41 uno llamada de el ocupante de uno vivienda unifamiliar alertar de que se haber originar uno incendio en su casa terrero ubicar en el municipio grancanario de la_aldea_de_san_nicolás según informar a europa_press el dispositivo dependiente de el gobierno_de_canarias",
+        "lemmatized_text_reduced": "centro_coordinador_de_emergencias seguridad cecoes recibir llamada ocupante vivienda unifamiliar alertar haber originar incendio casa terrero ubicar municipio grancanario la_aldea_de_san_nicolás informar europa_press dispositivo dependiente gobierno_de_canarias",
+        "persons": [],
+        "locations": [
+            "La_Aldea_de_San_Nicolás"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Europa_Press",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "TM_h:12.41"
+        ]
+    },
+    "body": {
+        "raw_text": "Por ello, el Cecoes activó al Consorcio de Bomberos de Gran Canaria, que en estos momentos está sofocando las llamas de la vivienda de la avenida Los Cardones, y a una ambulancia del Servicio de Urgencias Canario (SUC), aunque no ha sido necesaria su intervención ya que los habitantes del inmueble fueron evacuados del edificio con antelación. Asimismo, en el suceso están participando varios agentes de la Guardia Civil, que se encargan de instruir las diligencias oportunas, y voluntarios de Protección Civil del propio municipio del suroeste de Gran Canaria.",
+        "lemmatized_text": "por ello el cecoes activar a el consorcio_de_bomberos_de_gran_canaria que en este momento estar sofocar el llama de el vivienda de el avenida los_cardones y a uno ambulancia de el servicio_de_urgencias_canario suc aunque no haber ser necesario su intervención ya_que el habitante de el inmueble ser evacuar de el edificio con antelación asimismo en el suceso estar participar varios agente de el guardia_civil que se encargar de instruir el diligencia oportuno y voluntario de protección_civil de el propio municipio de el suroeste de gran_canaria",
+        "lemmatized_text_reduced": "cecoes activar consorcio_de_bomberos_de_gran_canaria momento estar sofocar llama vivienda avenida los_cardones ambulancia servicio_de_urgencias_canario suc haber ser necesario intervención habitante inmueble ser evacuar edificio antelación suceso estar participar agente guardia_civil encargar instruir diligencia oportuno voluntario protección_civil propio municipio suroeste gran_canaria",
+        "persons": [],
+        "locations": [
+            "Los_Cardones"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Consorcio_de_Bomberos_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil",
+            "Protección_Civil"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

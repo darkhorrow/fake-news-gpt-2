@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/698907/0/",
+    "title": {
+        "raw_text": "Marrero dice que las visitas de ministros a Canarias muestra que se \"está trabajando en múltiples\" direcciones",
+        "lemmatized_text": "marrero decir que el visita de ministro a canarias mostrar que se estar trabajar en múltiple dirección",
+        "lemmatized_text_reduced": "marrero decir visita ministro canarias mostrar estar trabajar múltiple dirección",
+        "persons": [
+            "Marrero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El portavoz del Gobierno de Canarias, Martín Marrero, afirmó hoy que las visitas de ministros del Ejecutivo central a Canarias muestra que se \"está trabajando en múltiples\" direcciones.",
+        "lemmatized_text": "el portavoz de el gobierno_de_canarias martín_marrero afirmar hoy que el visita de ministro de el ejecutivo central a canarias mostrar que se estar trabajar en múltiple dirección",
+        "lemmatized_text_reduced": "portavoz gobierno_de_canarias martín_marrero afirmar visita ministro ejecutivo central canarias mostrar estar trabajar múltiple dirección",
+        "persons": [
+            "Martín_Marrero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Es la constatación de que se está trabajando en múltiples direcciones y entre los departamentos de un Gobierno y otro\", resaltó el portavoz en la rueda de prensa posterior al Consejo de Gobierno y en relación a las visitas esta semana de la vicepresidenta Primera del Ejecutivo central, María Teresa Fernández de la Vega, y de la ministra de Sanidad, Trinidad Jiménez. Además, este mes se espera que viajen hasta el archipiélago el ministro de Trabajo e Inmigración, Celestino Corbacho, el próximo 18 de mayo; y dos días más tarde, el 20 de mayo, el vicepresidente Tercero y ministro de Política Territorial, Manuel Chaves, acudirá a un encuentro para evaluar el Plan Canarias. De todos modos, Marrero insistió en que estas reuniones \"entran dentro de la normalidad que entiende el Gobierno de Canarias que debe haber en las relaciones con la Administración del Estado\", normalidad \"traducida en lealtad institucional que a día de hoy está más que consolidada de forma bilateral, por parte de los dos gobiernos\". Finalmente, apuntó que con la situación de crisis en España incluso esos encuentros se podría decir que tienen \"un matiz de obligada relación\" entre las administraciones. \"Obligada relación porque si ya es difícil salir de la crisis, desde luego si no hay coordinación de las distintas administraciones la salida, o por lo menos la atenuación de los efectos de la crisis, se prolongará en el tiempo\", sentenció.",
+        "lemmatized_text": "ser el constatación de que se estar trabajar en múltiple dirección y entre el departamento de uno gobierno y otro resaltar el portavoz en el rueda de prensa posterior a el consejo_de_gobierno y en relación a el visita este semana de el vicepresidente primera_del_ejecutivo central maría_teresa_fernández_de_la_vega y de el ministro de sanidad trinidad_jiménez además este mes se esperar que viajar hasta el archipiélago el ministro de trabajo y inmigración celestino_corbacho el [??:18/5/??:??.??:??] y TM_d:2 más tarde el [??:20/5/??:??.??:??] el vicepresidente tercero y ministro de política_territorial manuel_chaves acudir a uno encuentro para evaluar el plan_canarias de_todos_modos marrero insistir en que este reunión entrar dentro_de el normalidad que entender el gobierno_de_canarias que deber haber en el relación con el administración_del_estado normalidad traducir en lealtad institucional que a día de hoy estar más que consolidar de forma bilateral por parte de el 2 gobierno finalmente apuntar que con el situación de crisis en españa incluso ese encuentro se poder decir que tener uno matiz de obligar relación entre el administración obligar relación porque si ya ser difícil salir de el crisis desde_luego si no haber coordinación de el distinto administración el salida o por_lo_menos el atenuación de el efecto de el crisis se prolongar en el tiempo sentenciar",
+        "lemmatized_text_reduced": "ser constatación estar trabajar múltiple dirección departamento gobierno resaltar portavoz rueda prensa posterior consejo_de_gobierno relación visita semana vicepresidente primera_del_ejecutivo central maría_teresa_fernández_de_la_vega ministro sanidad trinidad_jiménez mes esperar viajar archipiélago ministro trabajo inmigración celestino_corbacho vicepresidente tercero ministro política_territorial manuel_chaves acudir encuentro evaluar plan_canarias marrero insistir reunión entrar normalidad entender gobierno_de_canarias deber haber relación administración_del_estado normalidad traducir lealtad institucional día estar consolidar forma bilateral parte gobierno finalmente apuntar situación crisis españa encuentro poder decir tener matiz obligar relación administración obligar relación ser difícil salir crisis haber coordinación distinto administración salida atenuación efecto crisis prolongar tiempo sentenciar",
+        "persons": [
+            "María_Teresa_Fernández_de_la_Vega",
+            "Trinidad_Jiménez",
+            "Celestino_Corbacho",
+            "Tercero",
+            "Manuel_Chaves",
+            "Marrero"
+        ],
+        "locations": [
+            "España"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Consejo_de_Gobierno",
+            "Primera_del_Ejecutivo",
+            "Trabajo",
+            "Política_Territorial",
+            "Gobierno_de_Canarias",
+            "Administración_del_Estado"
+        ],
+        "others": [
+            "Sanidad",
+            "Inmigración",
+            "Plan_Canarias"
+        ],
+        "dates": [
+            "[??:18/5/??:??.??:??]",
+            "[??:20/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_d:2",
+            "2"
+        ]
+    }
+}

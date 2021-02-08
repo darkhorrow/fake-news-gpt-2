@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/961989/0/",
+    "title": {
+        "raw_text": "El gallego Arturo Reverter presenta en Santiago y A Coruña su libro 'Alfredo Kraus. Una concepción del canto'",
+        "lemmatized_text": "el gallego arturo_reverter presentar en santiago y a_coruña su libro alfredo_kraus uno concepción de el canto",
+        "lemmatized_text_reduced": "gallego arturo_reverter presentar santiago a_coruña libro alfredo_kraus concepción canto",
+        "persons": [
+            "Arturo_Reverter",
+            "Alfredo_Kraus"
+        ],
+        "locations": [
+            "Santiago",
+            "A_Coruña"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El crítico de música clásica gallego 'Arturo Reverter' presentará la próxima semana en Santiago y A Coruña su libro 'Alfredo Kraus. Una concepción del canto' (Alianza Editorial), sobre la vida del artista.",
+        "lemmatized_text": "el crítico de música clásico gallego arturo_reverter presentar el próximo semana en santiago y a_coruña su libro alfredo_kraus uno concepción de el canto alianza_editorial sobre el vida de el artista",
+        "lemmatized_text_reduced": "crítico música clásico gallego arturo_reverter presentar próximo semana santiago a_coruña libro alfredo_kraus concepción canto alianza_editorial vida artista",
+        "persons": [
+            "Arturo_Reverter",
+            "Alfredo_Kraus"
+        ],
+        "locations": [
+            "Santiago",
+            "A_Coruña"
+        ],
+        "organizations": [
+            "Alianza_Editorial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El crítico de música clásica gallego 'Arturo Reverter' presentará la próxima semana en Santiago y A Coruña su libro 'Alfredo Kraus. Una concepción del canto' (Alianza Editorial), sobre la vida del artista. En concreto, la presentación tendrá lugar en Santiago el próximo día 23 en el Hotel Araguaney, mientras que en A Coruña se dará a conocer al día siguiente, día 24, en la Librería Arenas. En el libro, nacido con el apoyo de la Asociación Lírica Asturiana Alfredo Kraus, Arturo Reverter examina, partiendo de conversaciones mantenidas a lo largo de más de veinte años, la carrera del tenor canario, cuyo \"credo artístico\", basado en \"inviolables principios estéticos\" y en una \"muy elaborada y bien estudiada técnica\", queda \"al descubierto\".",
+        "lemmatized_text": "el crítico de música clásico gallego arturo_reverter presentar el próximo semana en santiago y a_coruña su libro alfredo_kraus uno concepción de el canto alianza_editorial sobre el vida de el artista en concreto el presentación tener_lugar en santiago el [??:23/??/??:??.??:??] en el hotel_araguaney mientras_que en a_coruña se dar_a_conocer a el día siguiente [??:24/??/??:??.??:??] en el librería_arenas en el libro nacer con el apoyo de el asociación_lírica_asturiana_alfredo_kraus arturo_reverter examinar partir de conversación mantener a el largo de más de 20 año el carrera de el tenor canario cuyo credo artístico basar en inviolable principio estético y en uno muy elaborar y bien estudiar técnica quedar a el descubierto",
+        "lemmatized_text_reduced": "crítico música clásico gallego arturo_reverter presentar próximo semana santiago a_coruña libro alfredo_kraus concepción canto alianza_editorial vida artista concreto presentación tener_lugar santiago hotel_araguaney a_coruña dar_a_conocer día siguiente librería_arenas libro nacer apoyo asociación_lírica_asturiana_alfredo_kraus arturo_reverter examinar partir conversación mantener largo año carrera tenor canario credo artístico basar inviolable principio estético elaborar estudiar técnica quedar descubierto",
+        "persons": [
+            "Arturo_Reverter",
+            "Alfredo_Kraus",
+            "Arturo_Reverter"
+        ],
+        "locations": [
+            "Santiago",
+            "A_Coruña",
+            "Santiago",
+            "Hotel_Araguaney",
+            "A_Coruña",
+            "Librería_Arenas"
+        ],
+        "organizations": [
+            "Alianza_Editorial",
+            "Asociación_Lírica_Asturiana_Alfredo_Kraus"
+        ],
+        "others": [],
+        "dates": [
+            "[??:23/??/??:??.??:??]",
+            "[??:24/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "20"
+        ]
+    }
+}

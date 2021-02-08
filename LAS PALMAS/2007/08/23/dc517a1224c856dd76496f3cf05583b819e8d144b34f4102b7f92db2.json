@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-08-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/268853/0/patera/traslado/inmigrantes/",
+    "title": {
+        "raw_text": "Trasladan a los 125 ocupantes de un cayuco al puerto de Arguineguín en Gran Canaria",
+        "lemmatized_text": "trasladar a el 125 ocupante de uno cayuco a el puerto de arguineguín en gran_canaria",
+        "lemmatized_text_reduced": "trasladar ocupante cayuco puerto arguineguín gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arguineguín",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "125"
+        ]
+    },
+    "lead": {
+        "raw_text": "Todos los inmigrantes son varones adultos en buen estado de salud. Fueron rescatados en alta mar al sur de la isla. CONSULTA AQUÍ TODAS LAS NOTICIAS DE lAS PALMAS",
+        "lemmatized_text": "todo el inmigrante ser varón adulto en bueno estado de salud ser rescatar en alto mar a el sur de el isla consulta_aquí_todas_las_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "inmigrante ser varón adulto bueno estado salud ser rescatar alto mar sur isla consulta_aquí_todas_las_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_lAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo ha trasladado hasta el muelle de Arguineguín , al suroeste de Gran Canaria , a los 125 inmigrantes que viajaban en un cayuco que fue avistado en la tarde de ayer por un mercante cuando navegaba al sur de esta isla. Según confirmó un portavoz de Salvamento Marítimo, todos los inmigrantes son varones adultos y su estado de salud es aparentemente bueno. Los 125 inmigrantes fueron rescatados sin problemas en alta mar por efectivos de la embarcación \"Conde de Gondomar\" de Salvamento Marítimo, que partió en su busca y los conduce ahora hasta la isla de Gran Canaria , donde se prevé que lleguen sobre las 15.00 horas (hora local). El cayuco navegaba a 115 millas al sur de Maspalomas cuando fue avistado, sobre las 18.30 horas de ayer, por el mercante \"Castillo de Arévalo\". La embarcación de Salvamento Marítimo \"Conde de Gondomar\" partió al rescate de los inmigrantes, cuyo cayuco interceptó cinco horas y media después de que fuera localizado por el mercante. CONSULTA AQUÍ TODAS LAS NOTICIAS DE lAS PALMAS",
+        "lemmatized_text": "salvamento_marítimo haber trasladar hasta el muelle de arguineguín a el suroeste de gran_canaria a el 125 inmigrante que viajar en uno cayuco que ser avistar en el tarde de ayer por uno mercante cuando navegar a el sur de este isla según confirmar uno portavoz de salvamento_marítimo todo el inmigrante ser varón adulto y su estado de salud ser aparentemente bueno el 125 inmigrante ser rescatar sin problema en alto mar por efectivo de el embarcación conde_de_gondomar de salvamento_marítimo que partir en su busca y lo conducir ahora hasta el isla de gran_canaria donde se prever que llegar sobre el TM_h:15 hora local el cayuco navegar a LN_mi:115 a el sur de maspalomas cuando ser avistar sobre el TM_h:18.3 de ayer por el mercante castillo_de_arévalo el embarcación de salvamento_marítimo conde_de_gondomar partir a el rescate de el inmigrante cuyo cayuco interceptar [??:??/??/??:5.30:??] después_de que ser localizar por el mercante consulta_aquí_todas_las_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "salvamento_marítimo haber trasladar muelle arguineguín suroeste gran_canaria inmigrante viajar cayuco ser avistar tarde mercante navegar sur isla confirmar portavoz salvamento_marítimo inmigrante ser varón adulto estado salud ser aparentemente bueno inmigrante ser rescatar problema alto mar efectivo embarcación conde_de_gondomar salvamento_marítimo partir busca conducir isla gran_canaria prever llegar hora local cayuco navegar sur maspalomas ser avistar mercante castillo_de_arévalo embarcación salvamento_marítimo conde_de_gondomar partir rescate inmigrante interceptar ser localizar mercante consulta_aquí_todas_las_noticias_de_las_palmas",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Arguineguín",
+            "Gran_Canaria",
+            "Maspalomas"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_lAS_PALMAS"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Conde_de_Gondomar",
+            "Castillo_de_Arévalo",
+            "Conde_de_Gondomar"
+        ],
+        "dates": [
+            "[??:??/??/??:5.30:??]"
+        ],
+        "numbers": [
+            "125",
+            "125",
+            "TM_h:15",
+            "LN_mi:115",
+            "TM_h:18.3"
+        ]
+    }
+}

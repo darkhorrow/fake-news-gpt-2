@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/700139/0/",
+    "title": {
+        "raw_text": "El tráfico de la GC-2 en sentido Guía a capital grancanaria será desviado el martes y el jueves por vía del Hormiguero",
+        "lemmatized_text": "el tráfico de el GC-2 en sentido guía a capital grancanaria ser desviar el [M:??/??/??:??.??:??] y el [J:??/??/??:??.??:??] por vía de el hormiguero",
+        "lemmatized_text_reduced": "tráfico sentido guía capital grancanaria ser desviar vía hormiguero",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Guía",
+            "Hormiguero"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-2"
+        ]
+    },
+    "lead": {
+        "raw_text": "El martes y el jueves de la próxima semana (días 11 y 13 de mayo, respectivamente) se desviará el tráfico de la carretera GC-2 en sentido Santa María de Guía-Las Palmas de Gran Canaria, por la antigua carretera del Hormiguero.",
+        "lemmatized_text": "el [M:??/??/??:??.??:??] y el [J:??/??/??:??.??:??] de el próximo semana día 11 y [??:13/5/??:??.??:??] respectivamente se desviar el tráfico de el carretera GC-2 en sentido santa_maría_de_guía-las_palmas_de_gran_canaria por el antiguo carretera de el hormiguero",
+        "lemmatized_text_reduced": "próximo semana día respectivamente desviar tráfico carretera sentido santa_maría_de_guía-las_palmas_de_gran_canaria antiguo carretera hormiguero",
+        "persons": [],
+        "locations": [
+            "Hormiguero"
+        ],
+        "organizations": [
+            "Santa_María_de_Guía-Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:13/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "11",
+            "GC-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Este desvío, que viene motivado por las obras de duplicación del tramo de la GC-2 comprendido entre Santa María de Guía y El Pagador, se efectuará entre las 09.00 y las 16.00 horas a la altura de Llano Alegre, pudiendo incorporarse de nuevo los vehículos a la GC-2 en la intersección del Hormiguero, según informa en un comunicado la Consejería de Obras Públicas y Transportes del Gobierno de Canarias. El tráfico con sentido Las Palmas de Gran Canaria-Santa María de Guía continuará por el tronco de la GC-2, aunque por un solo carril, ya que será necesario ocupar el otro para ejecutar con seguridad los trabajos de hormigonado del tablero del nuevo viaducto de Silva. La Consejería de Obras Públicas expresa en la misma nota que lamenta las molestias que estos desvíos de tráfico están ocasionando a los usuarios de la vía, pero considera que \"son necesarios para poder realizar las obras con las debidas garantías de seguridad\".",
+        "lemmatized_text": "este desvío que venir motivar por el obra de duplicación de el tramo de el GC-2 comprender entre santa_maría_de_guía y el_pagador se efectuar entre el 9 y el TM_h:16 a el altura de llano_alegre poder incorporar se de nuevo el vehículo a el GC-2 en el intersección de el hormiguero según informar en uno comunicado el consejería_de_obras_públicas y transportes_del_gobierno_de_canarias el tráfico con sentido las_palmas_de_gran_canaria-santa_maría_de_guía continuar por el tronco de el GC-2 aunque por uno solo carril ya_que ser necesario ocupar el otro para ejecutar con seguridad el trabajo de hormigonado de el tablero de el nuevo viaducto de silva el consejería_de_obras_públicas expresar en el mismo nota que lamentar el molestia que este desvío de tráfico estar ocasionar a el usuario de el vía pero considerar que ser necesario para poder realizar el obra con el deber garantía de seguridad",
+        "lemmatized_text_reduced": "desvío venir motivar obra duplicación tramo comprender santa_maría_de_guía el_pagador efectuar altura llano_alegre poder incorporar nuevo vehículo intersección hormiguero informar comunicado consejería_de_obras_públicas transportes_del_gobierno_de_canarias tráfico sentido las_palmas_de_gran_canaria-santa_maría_de_guía continuar tronco solo carril ser necesario ocupar ejecutar seguridad trabajo hormigonado tablero nuevo viaducto silva consejería_de_obras_públicas expresar mismo nota lamentar molestia desvío tráfico estar ocasionar usuario vía considerar ser necesario poder realizar obra deber garantía seguridad",
+        "persons": [],
+        "locations": [
+            "El_Pagador",
+            "Llano_Alegre",
+            "Silva"
+        ],
+        "organizations": [
+            "Santa_María_de_Guía",
+            "Consejería_de_Obras_Públicas",
+            "Transportes_del_Gobierno_de_Canarias",
+            "Las_Palmas_de_Gran_Canaria-Santa_María_de_Guía",
+            "Consejería_de_Obras_Públicas"
+        ],
+        "others": [
+            "Hormiguero"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-2",
+            "9",
+            "TM_h:16",
+            "GC-2",
+            "GC-2"
+        ]
+    }
+}

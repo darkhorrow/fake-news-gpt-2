@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/420750/0/cayuco/interceptado/canarias/",
+    "title": {
+        "raw_text": "Un muerto y cinco heridos en un cayuco con 93 inmigrantes al sur de Gran Canaria",
+        "lemmatized_text": "uno muerto y 5 herido en uno cayuco con 93 inmigrante a el sur de gran_canaria",
+        "lemmatized_text_reduced": "muerto herido cayuco inmigrante sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "93"
+        ]
+    },
+    "lead": {
+        "raw_text": "Todos eran varones. Fue avistada hacia las 15.30 horas (local) por una patrullera. Varios sufrían diversas fracturas y otros síntomas de hipotermia.",
+        "lemmatized_text": "todo ser varón ser avistar hacia el TM_h:15.3 local por uno patrullera varios sufrir diverso fractura y otro síntoma de hipotermia",
+        "lemmatized_text_reduced": "ser varón ser avistar local patrullera sufrir fractura síntoma hipotermia",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:15.3"
+        ]
+    },
+    "body": {
+        "raw_text": "Un cayuco con 93 inmigrantes a bordo, entre los que hay un muerto y cinco heridos , fue interceptado en la tarde del sábado en alta mar al sur de la isla de Gran Canaria, según informó un portavoz de Salvamento Marítimo. La embarcación con los inmigrantes, todos ellos varones, fue avistada hacia las 15.30 horas (local) por la patrullera Centinela de la Armada, a unas ocho millas al sur del puerto de Arguineguín, en el municipio grancanario de Mogán. Tras conocer la presencia de los inmigrantes, la embarcación Menkalinan de Salvamento Marítimo salió en su auxilio y los condujo hasta el puerto de Arguineguín, adonde llegaron hacia las 16.30 horas . Fracturas e hipotermias Cinco de los inmigrantes necesitaron asistencia sanitaria al llegar a tierra, ya que tres de ellos sufrían diversas fracturas y otros dos síntomas de hipotermia. Uno de los heridos fue trasladado al Hospital Insular de Gran Canaria y los otros atendidos en el Centro de Salud de Arguineguín.",
+        "lemmatized_text": "uno cayuco con 93 inmigrante a_bordo entre el que haber uno muerto y 5 herido ser interceptar en el tarde de el [S:??/??/??:??.??:??] en alto mar a el sur de el isla de gran_canaria según informar uno portavoz de salvamento_marítimo el embarcación con el inmigrante todo ellos varón ser avistar hacia el TM_h:15.3 local por el patrullera centinela_de_la_armada a uno LN_mi:8 a el sur de el puerto de arguineguín en el municipio grancanario de mogán tras conocer el presencia de el inmigrante el embarcación menkalinan_de_salvamento_marítimo salir en su auxilio y el conducir hasta el puerto de arguineguín adonde llegar hacia el TM_h:16.3 fractura y hipotermia 5 de el inmigrante necesitar asistencia sanitario a el llegar a tierra ya_que 3 de ellos sufrir diverso fractura y otro 2 síntoma de hipotermia uno de el herido ser trasladar a el hospital_insular_de_gran_canaria y el otro atender en el centro_de_salud_de_arguineguín",
+        "lemmatized_text_reduced": "cayuco inmigrante haber muerto herido ser interceptar tarde alto mar sur isla gran_canaria informar portavoz salvamento_marítimo embarcación inmigrante varón ser avistar local patrullera centinela_de_la_armada sur puerto arguineguín municipio grancanario mogán conocer presencia inmigrante embarcación menkalinan_de_salvamento_marítimo salir auxilio conducir puerto arguineguín llegar fractura hipotermia inmigrante necesitar asistencia sanitario llegar tierra sufrir fractura síntoma hipotermia herido ser trasladar hospital_insular_de_gran_canaria atender centro_de_salud_de_arguineguín",
+        "persons": [
+            "Menkalinan_de_Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Arguineguín",
+            "Mogán",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo",
+            "Centinela_de_la_Armada",
+            "Hospital_Insular_de_Gran_Canaria",
+            "Centro_de_Salud_de_Arguineguín"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "93",
+            "5",
+            "TM_h:15.3",
+            "LN_mi:8",
+            "TM_h:16.3",
+            "5",
+            "3",
+            "2"
+        ]
+    }
+}

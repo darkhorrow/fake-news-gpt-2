@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620684/0/",
+    "title": {
+        "raw_text": "Continúa la alerta naranja en la provincia de Las Palmas y en la de Santa Cruz de Tenerife el riesgo baja",
+        "lemmatized_text": "continuar el alerta naranja en el provincia de las_palmas y en el de santa_cruz_de_tenerife el riesgo bajo",
+        "lemmatized_text_reduced": "continuar alerta naranja provincia las_palmas santa_cruz_de_tenerife riesgo bajo",
+        "persons": [],
+        "locations": [
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El archipiélago canario continúa hoy en alerta naranja aunque, principalmente, en la provincia de Las Palmas por lluvia, viento y tormentas; mientras que en la de Santa Cruz de Tenerife el riesgo ha comenzado a bajar, según la predicción de la Agencia Estatal de Meteorología (AEMET), que indica que la situación irá remitiendo durante la tarde.",
+        "lemmatized_text": "el archipiélago canario continuar hoy en alerta naranja aunque principalmente en el provincia de las_palmas por lluvia viento y tormenta mientras_que en el de santa_cruz_de_tenerife el riesgo haber comenzar a bajar según el predicción de el agencia_estatal_de_meteorología aemet que indicar que el situación ir remitir durante el tarde",
+        "lemmatized_text_reduced": "archipiélago canario continuar alerta naranja principalmente provincia las_palmas lluvia viento tormenta santa_cruz_de_tenerife riesgo haber comenzar bajar predicción agencia_estatal_de_meteorología aemet indicar situación ir remitir tarde",
+        "persons": [],
+        "locations": [
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, en la isla de Gran Canaria se prevé riesgo importante por viento, ya que podría soplar con máximas de 90 kilómetros por hora hasta la medianoche del miércoles. Lanzarote y Fuerteventura, ambas islas también en alerta naranja pero, en su caso, por lluvias que podrían acumular en una hora 30 litros por metro cuadrado e ir acompañadas de tormentas, riesgo que se prevé que finalice a las 00.00 horas. En lo que se refiere a la provincia occidental, la isla de La Palma ha dejado la alerta, por lo que no se encuentra bajo ningún efecto de riesgo; mientras que El Hierro permanecerá con riesgo por viento, ya que podrían soplar rachas de hasta 70 kilómetros por hora hasta entrada la medianoche. Por contra, Tenerife continuará en alerta amarilla (riesgo) por lluvias que pueden alcanzar los 20 litros por metro cuadrado en una hora, e igualmente, el norte, este, sur y oeste, y los municipios de La Orotava y Vilaflor en este territorio insular se verán afectados por vientos que podrían llegar hasta los 70 kilómetros por hora. Asimismo, en La Gomera también sigue la alerta pero amarilla por riesgo de lluvias que podrían dejar 20 litros por metro cuadrado por hora, así como por vientos ya que puede soplar hasta los 70 kilómetros por hora.",
+        "lemmatized_text": "en concreto en el isla de gran_canaria se prever riesgo importante por viento ya_que poder soplar con máxima de SP_km/h:90 hasta el [X:??/??/??:00.00:am] lanzarote y fuerteventura ambos isla también en alerta naranja pero en su caso por lluvia que poder acumular en uno hora CB_l/m2:30 y ir acompañar de tormenta riesgo que se prever que finalizar a el TM_h:0 en el que se referir a el provincia occidental el isla de la_palma haber dejar el alerta por el que no se encontrar bajo ninguno efecto de riesgo mientras_que el_hierro permanecer con riesgo por viento ya_que poder soplar racha de hasta SP_km/h:70 hasta entrada el [??:??/??/??:00.00:am] por contra tenerife continuar en alerta amarillo riesgo por lluvia que poder alcanzar el CB_l/m2:20 en uno hora y igualmente el norte este sur y oeste y el municipio de la_orotava y vilaflor en este territorio insular se ver afectar por viento que poder llegar hasta el SP_km/h:70 asimismo en la_gomera también seguir el alerta pero amarillo por riesgo de lluvia que poder dejar CB_l/m2:20 por hora así_como por viento ya_que poder soplar hasta el SP_km/h:70",
+        "lemmatized_text_reduced": "concreto isla gran_canaria prever riesgo importante viento poder soplar máxima lanzarote fuerteventura isla alerta naranja caso lluvia poder acumular hora ir acompañar tormenta riesgo prever finalizar referir provincia occidental isla la_palma haber dejar alerta encontrar efecto riesgo el_hierro permanecer riesgo viento poder soplar racha entrada tenerife continuar alerta amarillo riesgo lluvia poder alcanzar hora igualmente norte sur oeste municipio la_orotava vilaflor territorio insular ver afectar viento poder llegar la_gomera seguir alerta amarillo riesgo lluvia poder dejar hora viento poder soplar",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote",
+            "La_Palma",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "El_Hierro",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:00.00:am]",
+            "[??:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "SP_km/h:90",
+            "CB_l/m2:30",
+            "TM_h:0",
+            "SP_km/h:70",
+            "CB_l/m2:20",
+            "SP_km/h:70",
+            "CB_l/m2:20",
+            "SP_km/h:70"
+        ]
+    }
+}

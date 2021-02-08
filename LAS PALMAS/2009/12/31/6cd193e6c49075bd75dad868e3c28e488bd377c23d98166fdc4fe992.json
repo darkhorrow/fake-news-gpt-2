@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598447/0/",
+    "title": {
+        "raw_text": "RTVE despedirá el año desde el Faro de Maspalomas de Gran Canaria para toda España y por el Canal Internacional",
+        "lemmatized_text": "rtve despedir el año desde el faro_de_maspalomas_de_gran_canaria para todo españa y por el canal_internacional",
+        "lemmatized_text_reduced": "rtve despedir año faro_de_maspalomas_de_gran_canaria españa canal_internacional",
+        "persons": [
+            "España"
+        ],
+        "locations": [],
+        "organizations": [
+            "RTVE",
+            "Faro_de_Maspalomas_de_Gran_Canaria",
+            "Canal_Internacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Gran Canaria despedirá el año desde el Faro de Maspalomas en TVE en Canarias, según el acuerdo alcanzado por la cadena pública de televisión y el Patronato de Turismo de Gran Canaria, según informó la Corporación insular en un comunicado.",
+        "lemmatized_text": "gran_canaria despedir el año desde el faro_de_maspalomas en tve en canarias según el acuerdo alcanzar por el cadena público de televisión y el patronato_de_turismo_de_gran_canaria según informar el corporación insular en uno comunicado",
+        "lemmatized_text_reduced": "gran_canaria despedir año faro_de_maspalomas tve canarias acuerdo alcanzar cadena público televisión patronato_de_turismo_de_gran_canaria informar corporación insular comunicado",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "TVE",
+            "Patronato_de_Turismo_de_Gran_Canaria",
+            "Corporación"
+        ],
+        "others": [
+            "Faro_de_Maspalomas"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Quienes quieran pasar el cambio de año 2009 al 2010 asistiendo al evento, que estará dirigido por Israel Reyes, podrán acudir a las inmediaciones del Faro de Maspalomas para formar parte de la retransmisión de las campanadas que realizará Televisión Española para toda España y en su canal Internacional para el resto del mundo. La empresa Global contribuirá prestando un servicio de traslado gratuito cada quince minutos desde las 22.00 horas hasta la 01.00 hora, que partirá de la Iglesia de San Fernando\", señaló el Cabildo. Por su parte, el presidente del Patronato, Roberto Moreno, recordó que \"Gran Canaria es la isla que mejor ha aguantado los efectos de la crisis en el sector turístico\", y confió en que el año que entra supondrá el inicio de la recuperación. En este sentido, se mostró satisfecho con los últimos datos estadísticos del pasado mes de noviembre, y consideró que son un buen augurio para el próximo año.",
+        "lemmatized_text": "quien querer pasar el cambio de [??:??/??/2009:??.??:??] a el 2010 asistir a el evento que estar dirigir por israel_reyes poder acudir a el inmediación de el faro_de_maspalomas para formar_parte de el retransmisión de el campanada que realizar televisión_española para todo españa y en su canal internacional para el resto de el mundo el empresa global contribuir prestar uno servicio de traslado gratuito cada TM_min:15 desde el TM_h:22 hasta el TM_h:1 que partir de el iglesia_de_san_fernando señalar el cabildo por su parte el presidente de el patronato roberto_moreno recordar que gran_canaria ser el isla que mejor haber aguantar el efecto de el crisis en el sector turístico y confiar en que el año que entrar suponer el inicio de el recuperación en este sentido se mostrar satisfacer con el último dato estadístico de el [??:??/11/??:??.??:??] y considerar que ser uno bueno augurio para el próximo año",
+        "lemmatized_text_reduced": "querer pasar cambio asistir evento estar dirigir israel_reyes poder acudir inmediación faro_de_maspalomas formar_parte retransmisión campanada realizar televisión_española españa canal internacional resto mundo empresa global contribuir prestar servicio traslado gratuito partir iglesia_de_san_fernando señalar cabildo parte presidente patronato roberto_moreno recordar gran_canaria ser isla haber aguantar efecto crisis sector turístico confiar año entrar suponer inicio recuperación sentido mostrar satisfacer último dato estadístico considerar ser bueno augurio próximo año",
+        "persons": [
+            "Israel_Reyes",
+            "España",
+            "Roberto_Moreno"
+        ],
+        "locations": [],
+        "organizations": [
+            "Faro_de_Maspalomas",
+            "Televisión_Española",
+            "Global",
+            "Iglesia_de_San_Fernando",
+            "Cabildo",
+            "Patronato"
+        ],
+        "others": [
+            "Internacional",
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/??/2009:??.??:??]",
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "2010",
+            "TM_min:15",
+            "TM_h:22",
+            "TM_h:1"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/953128/0/",
+    "title": {
+        "raw_text": "Saavedra esperará a la asamblea socialista del jueves para dar la lista electoral completa a la capital grancanaria",
+        "lemmatized_text": "saavedra esperar a el asamblea socialista de el [J:??/??/??:??.??:??] para dar el lista electoral completo a el capital grancanaria",
+        "lemmatized_text_reduced": "saavedra esperar asamblea socialista dar lista electoral completo capital grancanaria",
+        "persons": [
+            "Saavedra"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El alcalde de Las Palmas de Gran Canaria y candidato socialista para las elecciones de mayo, Jerónimo Saavedra, esperará a que el jueves se reuna la asamblea local del PSOE antes de dar la lista electoral completa a la capital grancanaria.",
+        "lemmatized_text": "el alcalde de las_palmas_de_gran_canaria y candidato socialista para el elección de [??:??/5/??:??.??:??] jerónimo_saavedra esperar a que el [J:??/??/??:??.??:??] se reunir el asamblea local de el psoe antes_de dar el lista electoral completo a el capital grancanaria",
+        "lemmatized_text_reduced": "alcalde las_palmas_de_gran_canaria candidato socialista elección jerónimo_saavedra esperar reunir asamblea local psoe dar lista electoral completo capital grancanaria",
+        "persons": [
+            "Jerónimo_Saavedra"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "PSOE"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/5/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El alcalde de Las Palmas de Gran Canaria y candidato socialista para las elecciones de mayo, Jerónimo Saavedra, esperará a que el jueves se reuna la asamblea local del PSOE antes de dar la lista electoral completa a la capital grancanaria. \"El jueves tengo la asamblea. Y es la asamblea la que dice si o no a los nombres. Yo no voy a darles nombres de nadie para que luego la asamblea me diga que no\", aseveró. En todo caso, Saavedra espetó un \"qué mas dá\". \"Si vamos a ser los primeros en dar la lista completa, de 29, y los suplentes\", terminó, en declaraciones a los medios tras un acto de presentación del Carnaval de la ciudad.",
+        "lemmatized_text": "el alcalde de las_palmas_de_gran_canaria y candidato socialista para el elección de [??:??/5/??:??.??:??] jerónimo_saavedra esperar a que el [J:??/??/??:??.??:??] se reunir el asamblea local de el psoe antes_de dar el lista electoral completo a el capital grancanaria el [J:??/??/??:??.??:??] tener el asamblea y ser el asamblea el que decir si o no a el nombre yo no ir a dar le nombre de nadie para que luego el asamblea me decir que no aseverar en_todo_caso saavedra espetar uno qué mas dá si ir a ser el 1 en dar el lista completo de 29 y el suplente terminar en declaración a el medio tras uno acto de presentación de el carnaval de el ciudad",
+        "lemmatized_text_reduced": "alcalde las_palmas_de_gran_canaria candidato socialista elección jerónimo_saavedra esperar reunir asamblea local psoe dar lista electoral completo capital grancanaria tener asamblea ser asamblea decir nombre ir dar nombre asamblea decir aseverar saavedra espetar dá ir ser 1 dar lista completo suplente terminar declaración medio acto presentación carnaval ciudad",
+        "persons": [
+            "Jerónimo_Saavedra",
+            "Saavedra"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "PSOE"
+        ],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [
+            "[??:??/5/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "29"
+        ]
+    }
+}

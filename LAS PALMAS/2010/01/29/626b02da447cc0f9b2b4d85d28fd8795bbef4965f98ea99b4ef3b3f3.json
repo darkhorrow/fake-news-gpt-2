@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/617976/0/",
+    "title": {
+        "raw_text": "El presidente del Cabildo de Gran Canaria asegura que en 2010 mantendrá la partida de 500.000 del Museo Canario",
+        "lemmatized_text": "el presidente de el cabildo_de_gran_canaria asegurar que en 2010 mantener el partida de 500 de el museo_canario",
+        "lemmatized_text_reduced": "presidente cabildo_de_gran_canaria asegurar mantener partida museo_canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Museo_Canario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "500"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente del Cabildo de Gran Canaria, José Miguel Pérez, ha asegurado hoy que para el presente año la Corporación insular mantendrá la partida de 500.000 euros que destinó en 2009 al Museo Canario de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el presidente de el cabildo_de_gran_canaria josé_miguel_pérez haber asegurar hoy que para el presente año el corporación insular mantener el partida de $_ECU:500 que destinar en 2009 a el museo_canario_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "presidente cabildo_de_gran_canaria josé_miguel_pérez haber asegurar presente año corporación insular mantener partida destinar museo_canario_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "José_Miguel_Pérez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Corporación",
+            "Museo_Canario_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:500",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo garantizó esta mañana el dirigente socialista en respuesta a una pregunta formulada por el portavoz insular de Coalición Canaria, Manuel Lobo, haciendo referencia al mantenimiento de las partidas que las administraciones otorgan al museo y así garantizar su supervivencia. \"En 2010 el Cabildo no bajará la aportación al Museo Canario\", incidió el presidente grancanario quien reiteró que \"no será por el Cabildo que el museo tenga que cambiar su situación respecto a 2009\". Lobo realizó la pregunta a Pérez porque consideró que \"salvar, mantener y asegurar el Museo Canario puede ser más importante que la política\". \"Agradezco su disposición, pero en estos momentos el presupuesto del museo está rebajado en el Cabildo, espero que a lo largo de la tramitación de los remanentes del ejercicio anterior se compense ese 10 por ciento que se le quitó de asuntos generales y se le incorpore 500.000 que el Cabildo comprometió para la ampliación del museo\", confió el nacionalista. Finalmente, hizo especial hincapié en que \"el Gobierno de Canarias ya ha puesto la partida, faltan 500.000 euros del Cabildo y la aportación del Ayuntamiento de Las Palmas de Gran Canaria\" y con esa reducción \"peligra en ese sentido la culminación de la primera fase de ampliación del museo\".",
+        "lemmatized_text": "así lo garantizar este mañana el dirigente socialista en respuesta a uno pregunta formular por el portavoz insular de coalición_canaria manuel_lobo hacer_referencia a el mantenimiento de el partida que el administración otorgar a el museo y así garantizar su supervivencia en 2010 el cabildo no bajar el aportación a el museo_canario incidir el presidente grancanario quien reiterar que no ser por el cabildo que el museo tener que cambiar su situación respecto_a 2009 lobo realizar el pregunta a pérez porque considerar que salvar mantener y asegurar el museo_canario poder ser más importante que el política agradecer su disposición pero en este momento el presupuesto de el museo estar rebajar en el cabildo esperar que a el largo de el tramitación de el remanente de el ejercicio anterior se compensar ese 10 por 100 que se le quitar de asunto general y se le incorporar 500 que el cabildo comprometer para el ampliación de el museo confiar el nacionalista finalmente hacer especial hincapié en que el gobierno_de_canarias ya haber poner el partida faltar $_ECU:500 de el cabildo y el aportación de el ayuntamiento_de_las_palmas_de_gran_canaria y con ese reducción peligrar en ese sentido el culminación de el 1 fase de ampliación de el museo",
+        "lemmatized_text_reduced": "garantizar mañana dirigente socialista respuesta pregunta formular portavoz insular coalición_canaria manuel_lobo hacer_referencia mantenimiento partida administración otorgar museo garantizar supervivencia cabildo bajar aportación museo_canario incidir presidente grancanario reiterar ser cabildo museo tener cambiar situación lobo realizar pregunta pérez considerar salvar mantener asegurar museo_canario poder ser importante política agradecer disposición momento presupuesto museo estar rebajar cabildo esperar largo tramitación remanente ejercicio anterior compensar quitar asunto general incorporar cabildo comprometer ampliación museo confiar nacionalista finalmente hacer especial hincapié gobierno_de_canarias haber poner partida faltar cabildo aportación ayuntamiento_de_las_palmas_de_gran_canaria reducción peligrar sentido culminación 1 fase ampliación museo",
+        "persons": [
+            "Manuel_Lobo",
+            "Lobo",
+            "Pérez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo",
+            "Museo_Canario",
+            "Cabildo",
+            "Museo_Canario",
+            "Cabildo",
+            "Cabildo",
+            "Gobierno_de_Canarias",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Coalición_Canaria",
+            "Cabildo"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "2009",
+            "10",
+            "100",
+            "500",
+            "$_ECU:500"
+        ]
+    }
+}

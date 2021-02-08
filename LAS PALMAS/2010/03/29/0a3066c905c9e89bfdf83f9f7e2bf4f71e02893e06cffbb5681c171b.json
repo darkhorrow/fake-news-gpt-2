@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664515/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria contrata a 246 nuevos trabajadores para el proyecto 'Pueblos Limpios'",
+        "lemmatized_text": "el cabildo_de_gran_canaria contratar a 246 nuevo trabajador para el proyecto pueblos_limpios",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria contratar nuevo trabajador proyecto pueblos_limpios",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Pueblos_Limpios"
+        ],
+        "dates": [],
+        "numbers": [
+            "246"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria ha contratado esta semana a 246 nuevos trabajadores para el proyecto denominado 'Pueblos Limpios', cofinanciado por el gobierno insular y el Servicio Canario de Empleo (SCE).",
+        "lemmatized_text": "el cabildo_de_gran_canaria haber contratar este semana a 246 nuevo trabajador para el proyecto denominar pueblos_limpios cofinanciar por el gobierno insular y el servicio_canario_de_empleo sce",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria haber contratar semana nuevo trabajador proyecto denominar pueblos_limpios cofinanciar gobierno insular servicio_canario_de_empleo sce",
+        "persons": [
+            "Pueblos_Limpios"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Servicio_Canario_de_Empleo",
+            "SCE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "246"
+        ]
+    },
+    "body": {
+        "raw_text": "Este proyecto tiene una duración de seis meses y cuenta con un presupuesto total de 1.973.055,28 euros, según informó el Cabildo de Gran Canaria en nota de prensa. Respecto al objetivo de la acción está centrado en los tratamientos selvícolas en áreas rurales, caminos y carreteras, además de obras de mejora en albergues, aulas de la naturaleza, recreativas, acampadas, fincas públicas, mejora paisajística de la isla, así como de la oferta turística interior y exterior de cada uno de los pueblos de Gran Canaria, aplicando técnicas de limpieza y adecentamiento. En cuanto a los trabajadores contratados, los puestos a los que accederán son ingeniero técnico agrícola; técnico en seguridad y salud; profesores para educación adultos; licenciado en Económicas; auxiliares administrativos; subalterno; capataces; encargados agrícolas; conductores de camión; y peones agrícolas. Así, en lo referente a las áreas de actuación serán los municipios de San Bartolomé de Tirajana, Mogán, Tejeda, Artenara, Arucas, Moya, Santa María de Guía, Firgas, Gáldar, Agaete, La Aldea, San Mateo, Santa Brígida, Valsequillo, Teror, Valleseco, Ingenio, Agüimes y Santa Lucía de Tirajana.",
+        "lemmatized_text": "este proyecto tener uno duración de 6 mes y contar con uno presupuesto total de $_ECU:1.973.055,28 según informar el cabildo_de_gran_canaria en nota de prensa respecto a el objetivo de el acción estar centrar en el tratamiento selvícolas en área rural camino y carretera además_de obra de mejora en albergue aula de el naturaleza recreativo acampar finca público mejora paisajístico de el isla así_como de el oferta turístico interior y exterior de cada uno de el pueblo de gran_canaria aplicar técnica de limpieza y adecentamiento en_cuanto_a el trabajador contratar el puesto a el que acceder ser ingeniero técnico agrícola técnico en seguridad y salud profesor para educación adulto licenciar en económicas auxiliar administrativo subalterno capataz encargar agrícola conductor de camión y peón agrícola así en el referente a el área de actuación ser el municipio de san_bartolomé_de_tirajana mogán tejeda artenara arucas moya santa_maría_de_guía firgas gáldar agaete la_aldea san_mateo santa_brígida valsequillo teror valleseco ingenio agüimes y santa_lucía_de_tirajana",
+        "lemmatized_text_reduced": "proyecto tener duración mes contar presupuesto total informar cabildo_de_gran_canaria nota prensa respecto objetivo acción estar centrar tratamiento selvícolas área rural camino carretera obra mejora albergue aula naturaleza recreativo acampar finca público mejora paisajístico isla oferta turístico interior exterior pueblo gran_canaria aplicar técnica limpieza adecentamiento trabajador contratar puesto acceder ser ingeniero técnico agrícola técnico seguridad salud profesor educación adulto licenciar económicas auxiliar administrativo subalterno capataz encargar agrícola conductor camión peón agrícola referente área actuación ser municipio san_bartolomé_de_tirajana mogán tejeda artenara arucas moya santa_maría_de_guía firgas gáldar agaete la_aldea san_mateo santa_brígida valsequillo teror valleseco ingenio agüimes santa_lucía_de_tirajana",
+        "persons": [
+            "Moya",
+            "Valleseco"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Económicas",
+            "San_Bartolomé_de_Tirajana",
+            "Mogán",
+            "La_Aldea",
+            "San_Mateo",
+            "Agüimes",
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Tejeda",
+            "Artenara",
+            "Arucas",
+            "Santa_María_de_Guía",
+            "Firgas",
+            "Gáldar",
+            "Agaete",
+            "Santa_Brígida",
+            "Valsequillo",
+            "Teror",
+            "Ingenio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6",
+            "$_ECU:1.973.055,28"
+        ]
+    }
+}

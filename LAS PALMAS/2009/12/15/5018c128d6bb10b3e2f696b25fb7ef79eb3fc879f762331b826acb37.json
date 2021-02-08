@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/588755/0/",
+    "title": {
+        "raw_text": "Ryanair transporta 44.232 viajeros a Lanzarote en noviembre y lidera el rankin de pasajeros de la isla",
+        "lemmatized_text": "ryanair transportar 44.232 viajero a lanzarote en [??:??/11/??:??.??:??] y liderar el rankin de pasajero de el isla",
+        "lemmatized_text_reduced": "ryanair transportar viajero lanzarote liderar rankin pasajero isla",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "44.232"
+        ]
+    },
+    "lead": {
+        "raw_text": "La compañía aérea Ryanair se convirtió en la aerolínea extranjera que transportó el mayor número de pasajeros a Lanzarote durante el pasado mes de noviembre, ya que trasladó 44.232 viajeros, según las estadísticas oficiales de AENA analizadas por Asolan.",
+        "lemmatized_text": "el compañía aéreo ryanair se convertir en el aerolínea extranjero que transportar el mayor número de pasajero a lanzarote durante el [??:??/11/??:??.??:??] ya_que trasladar 44.232 viajero según el estadística oficial de aena analizar por asolan",
+        "lemmatized_text_reduced": "compañía aéreo ryanair convertir aerolínea extranjero transportar mayor número pasajero lanzarote trasladar viajero estadística oficial aena analizar asolan",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Ryanair",
+            "AENA",
+            "Asolan"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "44.232"
+        ]
+    },
+    "body": {
+        "raw_text": "A Ryanair le sigue la compañía del consorcio turístico Thomas Cook, con 35.988 pasajeros. Air Europa se situó en tercera posición, con un volumen de 34.696 pasajeros. mientras que Thomson Airways logró la cuarta posición con 31.403 pasajeros. Por su parte, Air Berlín trasladó en este mismo periodo, según los datos analizados por la Asociación Insular de Empresarios de Hoteles y Apartamentos de Lanzarote, un total de 22.865 pasajeros. Durante el primer mes de la temporada turística de invierno el aeropuerto de Lanzarote registró un volumen de 402.320 pasajeros, cifra similar al mismo periodo del pasado año convirtiendo a noviembre en el cuarto mejor mes por volumen de pasajeros en Guacimeta después de agosto, julio y marzo, por este orden. La compañía aérea Naysa, que realiza los vuelos para Binter en el interior del archipiélago canario, transportó en noviembre pasado un total de 46.477 pasajeros.",
+        "lemmatized_text": "a ryanair le seguir el compañía de el consorcio turístico thomas_cook con 35.988 pasajero air europa se situar en 3 posición con uno volumen de 34.696 pasajero mientras_que thomson_airways lograr el 4 posición con 31.403 pasajero por su parte air_berlín trasladar en este mismo periodo según el dato analizar por el asociación_insular_de_empresarios_de_hoteles y apartamentos_de_lanzarote uno total de 22.865 pasajero durante el 1 mes de el temporada turístico de invierno el aeropuerto de lanzarote registrar uno volumen de 402.32 pasajero cifra similar a el mismo periodo de el pasar año convertir a [??:??/11/??:??.??:??] en el 4 mejor mes por volumen de pasajero en guacimeta después_de [??:??/8/??:??.??:??] [??:??/7/??:??.??:??] y [??:??/3/??:??.??:??] por este orden el compañía aéreo naysa que realizar el vuelo para binter en el interior de el archipiélago canario transportar en [??:??/11/??:??.??:??] pasar uno total de 46.477 pasajero",
+        "lemmatized_text_reduced": "ryanair seguir compañía consorcio turístico thomas_cook pasajero air europa situar 3 posición volumen pasajero thomson_airways lograr 4 posición pasajero parte air_berlín trasladar mismo periodo dato analizar asociación_insular_de_empresarios_de_hoteles apartamentos_de_lanzarote total pasajero 1 mes temporada turístico invierno aeropuerto lanzarote registrar volumen pasajero cifra similar mismo periodo pasar año convertir 4 mejor mes volumen pasajero guacimeta orden compañía aéreo naysa realizar vuelo binter interior archipiélago canario transportar pasar total pasajero",
+        "persons": [
+            "Ryanair",
+            "Thomson_Airways",
+            "Air_Berlín"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Guacimeta"
+        ],
+        "organizations": [
+            "Thomas_Cook",
+            "Europa",
+            "Asociación_Insular_de_Empresarios_de_Hoteles",
+            "Apartamentos_de_Lanzarote",
+            "Naysa",
+            "Binter"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/11/??:??.??:??]",
+            "[??:??/8/??:??.??:??]",
+            "[??:??/7/??:??.??:??]",
+            "[??:??/3/??:??.??:??]",
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "35.988",
+            "34.696",
+            "31.403",
+            "22.865",
+            "402.32",
+            "46.477"
+        ]
+    }
+}

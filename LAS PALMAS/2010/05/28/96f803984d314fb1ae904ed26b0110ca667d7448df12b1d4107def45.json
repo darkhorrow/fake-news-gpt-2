@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/721148/0/",
+    "title": {
+        "raw_text": "La Caja de Canarias confirma conversaciones con Caja Madrid, Laietana y las entidades de Ávila, Segovia y Rioja para SIP",
+        "lemmatized_text": "el caja_de_canarias confirmar conversación con caja_madrid laietana y el entidad de ávila segovia y rioja_para_sip",
+        "lemmatized_text_reduced": "caja_de_canarias confirmar conversación caja_madrid laietana entidad ávila segovia rioja_para_sip",
+        "persons": [
+            "Rioja_para_SIP"
+        ],
+        "locations": [
+            "Laietana",
+            "Ávila",
+            "Segovia"
+        ],
+        "organizations": [
+            "Caja_de_Canarias",
+            "Caja_Madrid"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Caja Insular de Ahorros de Canarias ha informado hoy a la Comisión Nacional del Mercado de Valores (CNMV) que ha iniciado las conversaciones con Caja Madrid, Caixa Laietana, Caja de Avila, Caja Segovia y Caja Rioja, para la \"posible\" formación de un Sistema Institucional de Protección (SIP).",
+        "lemmatized_text": "el caja_insular_de_ahorros_de_canarias haber informar hoy a el comisión_nacional_del_mercado_de_valores cnmv que haber iniciar el conversación con caja_madrid caixa_laietana caja_de_avila caja_segovia y caja_rioja para el posible formación de uno sistema_institucional_de_protección sip",
+        "lemmatized_text_reduced": "caja_insular_de_ahorros_de_canarias haber informar comisión_nacional_del_mercado_de_valores cnmv haber iniciar conversación caja_madrid caixa_laietana caja_de_avila caja_segovia caja_rioja posible formación sistema_institucional_de_protección sip",
+        "persons": [
+            "Caixa_Laietana",
+            "Caja_Rioja"
+        ],
+        "locations": [],
+        "organizations": [
+            "Caja_Insular_de_Ahorros_de_Canarias",
+            "Comisión_Nacional_del_Mercado_de_Valores",
+            "CNMV",
+            "Caja_Madrid",
+            "Caja_de_Avila",
+            "Caja_Segovia",
+            "SIP"
+        ],
+        "others": [
+            "Sistema_Institucional_de_Protección"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así lo ha confirmado la entidad financiera, en un comunicado, donde admite conversaciones con las citadas cajas para la formación de un SIP. De todos modos, puntualizó que se trata de un proceso que está en \"fase preliminar\" y adicionalmente, en su caso, sujeto a la aprobación de los órganos de gobierno de las entidades y de las autoridades administrativas competentes.",
+        "lemmatized_text": "así lo haber confirmar el entidad financiero en uno comunicado donde admitir conversación con el citar caja para el formación de uno sip de_todos_modos puntualizar que se tratar de uno proceso que estar en fase preliminar y adicionalmente en su caso sujeto a el aprobación de el órgano de gobierno de el entidad y de el autoridad administrativo competente",
+        "lemmatized_text_reduced": "haber confirmar entidad financiero comunicado admitir conversación citar caja formación sip puntualizar tratar proceso estar fase preliminar adicionalmente caso sujeto aprobación órgano gobierno entidad autoridad administrativo competente",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "SIP"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

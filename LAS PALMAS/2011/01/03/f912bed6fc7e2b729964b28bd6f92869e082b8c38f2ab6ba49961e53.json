@@ -1,0 +1,109 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/919053/0/",
+    "title": {
+        "raw_text": "El precio de la vivienda de segunda mano en Canarias disminuye un 2,5% durante 2010",
+        "lemmatized_text": "el precio de el vivienda de_segunda_mano en canarias disminuir uno 2,5/100 durante 2010",
+        "lemmatized_text_reduced": "precio vivienda canarias disminuir",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2,5/100",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio de la vivienda de segunda mano en Canarias se situó al cierre de 2010 en 1.778 euros por metro cuadrado (?/m2), lo que supone un descenso del 2,5 por ciento respecto al precio de hace un año, según el Informe Anual de 2010 que elabora el portal inmobiliario fotocasa.es.",
+        "lemmatized_text": "el precio de el vivienda de_segunda_mano en canarias se situar a el cierre de 2010 en $_ECU:1.778 por metro cuadrado /m2 el que suponer uno descenso de el 2,5 por 100 respecto a el precio de hacer uno año según el informe_anual de 2010 que elaborar el portal inmobiliario fotocasa ser",
+        "lemmatized_text_reduced": "precio vivienda canarias situar cierre metro cuadrado suponer descenso respecto precio hacer año informe_anual elaborar portal inmobiliario fotocasa ser",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [
+            "Informe_Anual"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "$_ECU:1.778",
+            "/m2",
+            "2,5",
+            "100",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio de la vivienda de segunda mano en Canarias se situó al cierre de 2010 en 1.778 euros por metro cuadrado (?/m2), lo que supone un descenso del 2,5 por ciento respecto al precio de hace un año, según el Informe Anual de 2010 que elabora el portal inmobiliario fotocasa.es. De esta manera, el precio máximo histórico de la vivienda en Canarias se alcanzó en mayo de 2007 (2.155 ?/m2). Desde ese momento el precio de la vivienda en Canarias ha caído un 17,5 por ciento, es decir, 377 euros por metro cuadrado. La adquisición de una vivienda de 80 m2 en esta comunidad autónoma en diciembre de 2010 supondría pagar 30.160 euros menos que al inicio de la crisis. Según el Informe Anual de 2010 de fotocasa.es, tanto Tenerife como Las Palmas sufren una bajada en el precio de la vivienda en el último año del -3,4 por ciento y del -2,1 por ciento, respectivamente. Así, el precio medio de la vivienda en Las Palmas se sitúa en 1.809 ?/m2, mientras que el precio en Tenerife es de 1.739 ?/m2, mientras Ingenio y Las Palmas de Gran Canaria son los dos únicos municipios canarios donde aumenta el precio de la vivienda respecto al año anterior y lo hacen con subidas del 1,8% y del 0,3%, respectivamente. En el lado opuesto, como municipio donde más han caído los precios en 2010, encontramos Santa Lucía de Tirajana que registra una caída anual del -4,6%. Así, el precio medio en este municipio se sitúa en 1.385 ?/m2, lo que lo sitúa también como la ciudad más económica de Canarias para comprar vivienda. Por lo contrario, la ciudad con el precio medio más alto sigue siendo Las Palmas de Gran Canaria, con 2.044 ?/m2, tras haber registrado un leve incremento del 0,3% respecto a los precios de diciembre de 2009.",
+        "lemmatized_text": "el precio de el vivienda de_segunda_mano en canarias se situar a el cierre de 2010 en $_ECU:1.778 por metro cuadrado /m2 el que suponer uno descenso de el 2,5 por 100 respecto a el precio de hacer uno año según el informe_anual de 2010 que elaborar el portal inmobiliario fotocasa ser de este manera el precio máximo histórico de el vivienda en canarias se alcanzar en [??:??/5/2007:??.??:??] 2.155 /m2 desde ese momento el precio de el vivienda en canarias haber caer uno 17,5 por 100 ser decir $_ECU:377 por metro cuadrado el adquisición de uno vivienda de AR_m2:80 en este comunidad autónomo en [??:??/12/2010:??.??:??] suponer pagar $_ECU:30.16 menos que a el inicio de el crisis según el informe_anual de 2010 de fotocasa ser tanto tenerife como las_palmas sufrir uno bajada en el precio de el vivienda en el último año de el -3,4 por 100 y de el -2,1 por 100 respectivamente así el precio medio de el vivienda en las_palmas se situar en 1.809 /m2 mientras_que el precio en tenerife ser de 1.739 /m2 mientras ingenio y las_palmas_de_gran_canaria ser el 2 único municipio canario donde aumentar el precio de el vivienda respecto a el año anterior y lo hacer con subida de el 1,8/100 y de el 0,3/100 respectivamente en el lado oponer como municipio donde más haber caer el precio en 2010 encontrar santa_lucía_de_tirajana que registrar uno caída anual de el -4,6/100 así el precio medio en este municipio se situar en 1.385 /m2 el que lo situar también como el ciudad más económico de canarias para comprar vivienda por el contrario el ciudad con el precio medio más alto seguir ser las_palmas_de_gran_canaria con 2.044 /m2 tras haber registrar uno leve incremento de el 0,3/100 respecto_a el precio de [??:??/12/2009:??.??:??]",
+        "lemmatized_text_reduced": "precio vivienda canarias situar cierre metro cuadrado suponer descenso respecto precio hacer año informe_anual elaborar portal inmobiliario fotocasa ser manera precio máximo histórico vivienda canarias alcanzar momento precio vivienda canarias haber caer ser decir metro cuadrado adquisición vivienda comunidad autónomo suponer pagar inicio crisis informe_anual fotocasa ser tenerife las_palmas sufrir bajada precio vivienda último año respectivamente precio medio vivienda las_palmas situar precio tenerife ser ingenio las_palmas_de_gran_canaria ser único municipio canario aumentar precio vivienda respecto año anterior hacer subida respectivamente lado oponer municipio haber caer precio encontrar santa_lucía_de_tirajana registrar caída anual precio medio municipio situar situar ciudad económico canarias comprar vivienda contrario ciudad precio medio alto seguir ser las_palmas_de_gran_canaria haber registrar leve incremento precio",
+        "persons": [
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Canarias",
+            "Tenerife",
+            "Ingenio",
+            "Las_Palmas_de_Gran_Canaria",
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Las_Palmas",
+            "Las_Palmas"
+        ],
+        "others": [
+            "Informe_Anual",
+            "Informe_Anual"
+        ],
+        "dates": [
+            "[??:??/5/2007:??.??:??]",
+            "[??:??/12/2010:??.??:??]",
+            "[??:??/12/2009:??.??:??]"
+        ],
+        "numbers": [
+            "2010",
+            "$_ECU:1.778",
+            "/m2",
+            "2,5",
+            "100",
+            "2010",
+            "2.155",
+            "/m2",
+            "17,5",
+            "100",
+            "$_ECU:377",
+            "AR_m2:80",
+            "$_ECU:30.16",
+            "2010",
+            "-3,4",
+            "100",
+            "-2,1",
+            "100",
+            "1.809",
+            "/m2",
+            "1.739",
+            "/m2",
+            "2",
+            "1,8/100",
+            "0,3/100",
+            "2010",
+            "-4,6/100",
+            "1.385",
+            "/m2",
+            "2.044",
+            "/m2",
+            "0,3/100"
+        ]
+    }
+}

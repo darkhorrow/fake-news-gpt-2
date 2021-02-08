@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634766/0/",
+    "title": {
+        "raw_text": "Varios heridos en la colisión de tres vehículos en Las Palmas de Gran Canaria",
+        "lemmatized_text": "varios herido en el colisión de 3 vehículo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "herido colisión vehículo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Varias personas han resultado heridas de carácter leve debido a la colisión de tres vehículos en la carretera GC-3 a la altura del barrio de Siete Palmas, en la capital grancanaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que no pudieron precisar el número de afectados ni su identidad.",
+        "lemmatized_text": "varios persona haber resultar herida de carácter leve debido_a el colisión de 3 vehículo en el carretera GC-3 a el altura de el barrio de 7 palmas en el capital grancanaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que no poder precisar el número de afectado ni su identidad",
+        "lemmatized_text_reduced": "persona haber resultar herida carácter leve colisión vehículo carretera altura barrio palmas capital grancanaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes poder precisar número afectado identidad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Palmas"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "GC-3",
+            "7",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 08.35 horas, cuando varias llamadas alertaron al Cecoes del choque en el citado lugar. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Así pues, hasta el siniestro se ha desplazado una ambulancia de soporte vital básico del Servicio de Urgencias Canario, según las mismas fuentes, que incidieron en que hay varias personas heridas leves. La colisión ha provocado retenciones en la circunvalación que han sido canalizadas por la Guardia Civil, que se encarga de instruir las correspondientes diligencias.",
+        "lemmatized_text": "el accidente se producir a el TM_h:8.35 cuando varios llamada alertar a el cecoes de el choque en el citar lugar de este modo el 112 activar de inmediato el dispositivo de emergencia necesario así_pues hasta el siniestro se haber desplazar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario según el mismo fuente que incidir en que haber varios persona herida leve el colisión haber provocar retención en el circunvalación que haber ser canalizar por el guardia_civil que se encargar de instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "accidente producir llamada alertar cecoes choque citar lugar modo activar inmediato dispositivo emergencia necesario siniestro haber desplazar ambulancia soporte vital básico servicio_de_urgencias_canario mismo fuente incidir haber persona herida leve colisión haber provocar retención circunvalación haber ser canalizar guardia_civil encargar instruir correspondiente diligencia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:8.35",
+            "112"
+        ]
+    }
+}

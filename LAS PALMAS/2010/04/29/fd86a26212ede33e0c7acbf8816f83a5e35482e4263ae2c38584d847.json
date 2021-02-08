@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/691814/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a dos personas con droga a su llegada al aeropuerto de Fuerteventura",
+        "lemmatized_text": "el policía_nacional detener a 2 persona con droga a su llegada a el aeropuerto de fuerteventura",
+        "lemmatized_text_reduced": "policía_nacional detener persona droga llegada aeropuerto fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a dos personas con droga a su llegada al aeropuerto de Fuerteventura, procedente de un vuelo de los denominados 'calientes' de Madrid-Barajas.",
+        "lemmatized_text": "el policía_nacional haber detener a 2 persona con droga a su llegada a el aeropuerto de fuerteventura procedente de uno vuelo de el denominar caliente de madrid-barajas",
+        "lemmatized_text_reduced": "policía_nacional haber detener persona droga llegada aeropuerto fuerteventura procedente vuelo denominar caliente madrid-barajas",
+        "persons": [],
+        "locations": [
+            "Madrid-Barajas"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, los hechos se llevaron a cabo cuando agentes de la Brigada Local de Policía Judicial de la Comisaría del Cuerpo Nacional de Policía de Puerto del Rosario montaron el pasado 25 de abril un dispositivo de control preventivo de tráfico de drogas en el Aeropuerto de Fuerteventura. Este control, dio como resultado la identificación de dos pasajeros nacionales de Guinea Bissau que responden a las iniciales de J.A.C., de 44 años de edad, y B. D., de 18 años de edad, sin antecedentes policiales. Ambos, mostraron \"evidentes\" síntomas de nerviosismo ante la presencia policial, siendo trasladados al Hospital General de Fuerteventura, donde tras las oportunas pruebas médicas se pudo comprobar que los mismos portaban droga en el interior de su organismo, procediéndose a su detención e incautándose los agentes de un total de 1.396 gramos de cocaína y 258 gramos de heroína. Finalmente, los detenidos fueron puestos a disposición judicial junto con el atestado policial tramitado y decretando su ingreso en prisión.",
+        "lemmatized_text": "en concreto el hecho se llevar_a_cabo cuando agente de el brigada_local_de_policía_judicial_de_la_comisaría_del_cuerpo_nacional_de_policía_de_puerto_del_rosario montar el [??:25/4/??:??.??:??] uno dispositivo de control preventivo de tráfico de droga en el aeropuerto_de_fuerteventura este control dar como resultado el identificación de 2 pasajero nacional de guinea_bissau que responder a el inicial de j.a.c. de 44 año de edad y b._d. de 18 año de edad sin antecedente policial ambos mostrar evidente síntoma de nerviosismo ante el presencia policial ser trasladar a el hospital_general_de_fuerteventura donde tras el oportuno prueba médico se poder comprobar que el mismo portar droga en_el_interior_de su organismo proceder se a su detención y incautar se el agente de uno total de WG_g:1.396 de cocaína y WG_g:258 de heroína finalmente el detenido ser poner a disposición judicial junto_con el atestado policial tramitar y decretar su ingreso en prisión",
+        "lemmatized_text_reduced": "concreto hecho llevar_a_cabo agente brigada_local_de_policía_judicial_de_la_comisaría_del_cuerpo_nacional_de_policía_de_puerto_del_rosario montar dispositivo control preventivo tráfico droga aeropuerto_de_fuerteventura control dar resultado identificación pasajero nacional guinea_bissau responder inicial j.a.c. año edad b._d. año edad antecedente policial mostrar evidente síntoma nerviosismo presencia policial ser trasladar hospital_general_de_fuerteventura oportuno prueba médico poder comprobar portar droga organismo proceder detención incautar agente total cocaína heroína finalmente detenido ser poner disposición judicial atestado policial tramitar decretar ingreso prisión",
+        "persons": [
+            "Guinea_Bissau",
+            "B._D."
+        ],
+        "locations": [
+            "Aeropuerto_de_Fuerteventura"
+        ],
+        "organizations": [
+            "Brigada_Local_de_Policía_Judicial_de_la_Comisaría_del_Cuerpo_Nacional_de_Policía_de_Puerto_del_Rosario",
+            "J.A.C."
+        ],
+        "others": [
+            "Hospital_General_de_Fuerteventura"
+        ],
+        "dates": [
+            "[??:25/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "44",
+            "18",
+            "WG_g:1.396",
+            "WG_g:258"
+        ]
+    }
+}

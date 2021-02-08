@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-08-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/267720/0/aviso/malos/tratos/",
+    "title": {
+        "raw_text": "Llama a la policía para presumir de que está pegando a su mujer",
+        "lemmatized_text": "llamar a el policía para presumir de que estar pegar a su mujer",
+        "lemmatized_text_reduced": "llamar policía presumir estar pegar mujer",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Había rociado la vivienda con disolvente para prenderle fuego. Uno de los hijos de la pareja presenció la agresión. Ha ocurrido en Gran Canaria.",
+        "lemmatized_text": "haber rociar el vivienda con disolvente para prender le fuego uno de el hijo de el pareja presenciar el agresión haber ocurrir en gran_canaria",
+        "lemmatized_text_reduced": "haber rociar vivienda disolvente prender fuego hijo pareja presenciar agresión haber ocurrir gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre de 43 años, José Luis B.M., que carecía de antecedentes policiales, ha sido detenido en la capital grancanaria después de que llamara a la policía para jactarse de que estaba pegando a su muje r, informaron hoy fuentes policiales. El presunto agresor, natural de Las Palmas, había rociado , además, el interior de la vivienda familiar con un disolvente a fin de prenderla fuego . Tras la detención de su esposo, la víctima aseguró que desde hacía 13 años era objeto de malos tratos físicos y psicológicos , aunque nunca había denunciado los hechos por temor a las represalias. El pasado fin de semana, la sala del 091 recibió una llamada, desde el barrio Lomo Los Frailes, de un individuo que se jactaba de que estaba pegando a su mujer. Medidas de protección Los agentes acudieron al lugar de los hechos y comprobaron que se había producido una agresión y además había ocurrido delante de un hijo de 14 años del matrimonio. La mujer se ha acogido a las medidas de protección contra la violencia de género, mientras que el presunto agresor ha sido puesto a disposición judicial ante el Juzgado de Violencia sobre la Mujer, informó la Jefatura Superior de Policía de Canarias.",
+        "lemmatized_text": "uno hombre de 43 año josé_luis_b.m. que carecer de antecedente policial haber ser detener en el capital grancanaria después_de que llamar a el policía para jactar se de que estar pegar a su muje r informar hoy fuente policial el presunto agresor natural de las_palmas haber rociar además el interior de el vivienda familiar con uno disolvente a_fin_de prender lo fuego tras el detención de su esposo el víctima asegurar que desde hacer 13 año ser objeto de malo trato físico y psicológico aunque nunca haber denunciar el hecho por temor a el represalia el pasar fin de semana el sala de el 91 recibir uno llamada desde el barrio lomo_los_frailes de uno individuo que se jactar de que estar pegar a su mujer medida de protección los agente acudir a el lugar de el hecho y comprobar que se haber producir uno agresión y además haber ocurrir delante_de uno hijo de 14 año de el matrimonio el mujer se haber acoger a el medida de protección contra el violencia de género mientras_que el presunto agresor haber ser poner a disposición judicial ante el juzgado_de_violencia sobre el mujer informar el jefatura_superior_de_policía_de_canarias",
+        "lemmatized_text_reduced": "hombre año josé_luis_b.m. carecer antecedente policial haber ser detener capital grancanaria llamar policía jactar estar pegar muje r informar fuente policial presunto agresor natural las_palmas haber rociar interior vivienda familiar disolvente prender fuego detención esposo víctima asegurar hacer año ser objeto malo trato físico psicológico haber denunciar hecho temor represalia pasar fin semana sala recibir llamada barrio lomo_los_frailes individuo jactar estar pegar mujer medida protección los agente acudir lugar hecho comprobar haber producir agresión haber ocurrir hijo año matrimonio mujer haber acoger medida protección violencia género presunto agresor haber ser poner disposición judicial juzgado_de_violencia mujer informar jefatura_superior_de_policía_de_canarias",
+        "persons": [
+            "José_Luis_B.M."
+        ],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas",
+            "Juzgado_de_Violencia",
+            "Mujer",
+            "Jefatura_Superior_de_Policía_de_Canarias"
+        ],
+        "others": [
+            "Lomo_Los_Frailes",
+            "Los"
+        ],
+        "dates": [],
+        "numbers": [
+            "43",
+            "13",
+            "91",
+            "14"
+        ]
+    }
+}

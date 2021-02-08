@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/692316/0/",
+    "title": {
+        "raw_text": "Gobierno canario dice que si no se instalan las regasificadoras habrá un sobrecoste de 150 millones en 2015",
+        "lemmatized_text": "gobierno canario decir que si no se instalar el regasificadoras haber uno sobrecoste de 150000000 en 2015",
+        "lemmatized_text_reduced": "gobierno canario decir instalar regasificadoras haber sobrecoste",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "150000000",
+            "2015"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha asegurado que el archipiélago tendría un sobrecoste de energía eléctrica de 150 millones de euros en 2015 si no se instalan las plantas regasificadoras que prevé el Plan Energético de Canarias (Pecan), según puso hoy de manifiesto el portavoz del Ejecutivo regional, Martín Marrero, tras el Consejo de Gobierno.",
+        "lemmatized_text": "el gobierno_de_canarias haber asegurar que el archipiélago tener uno sobrecoste de energía eléctrico de $_ECU:150000000 en 2015 si no se instalar el planta regasificadoras que prever el plan_energético_de_canarias pecar según poner hoy de manifiesto el portavoz de el ejecutivo regional martín_marrero tras el consejo_de_gobierno",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber asegurar archipiélago tener sobrecoste energía eléctrico instalar planta regasificadoras prever plan_energético_de_canarias pecar poner manifiesto portavoz ejecutivo regional martín_marrero consejo_de_gobierno",
+        "persons": [
+            "Martín_Marrero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Consejo_de_Gobierno"
+        ],
+        "others": [
+            "Plan_Energético_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:150000000",
+            "2015"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Hay que tener en cuenta algunas cuestiones fundamentales. La primera es que las centrales hidroeléctricas son reversibles, como las que se va a poder hacer entre las presas de Soria, Las Niñas y Chira, para las que precisamente la semana pasada se aprobó medidas de carácter de ordenación del territorio\", dijo. Aquí, apuntó que estas centrales son de almacenamiento de energías renovables, no de generación, una idea que Marrero consideró básica. Estas centrales hidroeléctricas consumen el 30 por ciento de la energía que la almacenan. Por su parte, el Plan Energético de Canarias tiene previsto que a fecha de 2015, que el 30 por ciento de la producción de energía de las islas se hagan mediante energías renovables, lo que significa que el 70 por ciento restante tendrá que producirse mediante las fuentes convencionales de producción de energía eléctrica, que son el petróleo y el gas. \"Si de ese 70 por ciento —añadió—, descartamos el gas, el sobrecoste de energía eléctrica en Canarias será de 150 millones de euros al año. Si no se aplican las previsiones sobre plantas regasificadoras, el sobrecoste será de 150 millones en 2015\". Asimismo, entendió que la postura expresada por el Cabildo de Gran Canaria —en el sentido de que no era necesaria la regasificadora en la isla— \"no deja de causar perplejidad\", matizando que oficialmente el Gobierno de Canarias no tiene constancia de esta postura.",
+        "lemmatized_text": "haber que tener_en_cuenta alguno cuestión fundamental el 1 ser que el central hidroeléctrico ser reversible como el que se ir a poder hacer entre el presa de soria las_niñas y chira para el que precisamente el semana pasar se aprobar medida de carácter de ordenación de el territorio decir aquí apuntar que este central ser de almacenamiento de energía renovable no de generación uno idea que marrero considerar básico este central hidroeléctrico consumir el 30 por 100 de el energía que lo almacenar por su parte el plan_energético_de_canarias tener prever que a fecha de 2015 que el 30 por 100 de el producción de energía de el isla se hacer mediante energía renovable el que significar que el 70 por 100 restante tener que producir se mediante el fuente convencional de producción de energía eléctrico que ser el petróleo y el gas si de ese 70 por ciento añadir descartar el gas el sobrecoste de energía eléctrico en canarias ser de $_ECU:150000000 a el año si no se aplicar el previsión sobre planta regasificadoras el sobrecoste ser de 150000000 en 2015 asimismo entender que el postura expresar por el cabildo_de_gran_canaria en el sentido de que no ser necesario el regasificadora en el isla no dejar de causar perplejidad matizar que oficialmente el gobierno_de_canarias no tener constancia de este postura",
+        "lemmatized_text_reduced": "haber tener_en_cuenta cuestión fundamental 1 ser central hidroeléctrico ser reversible ir poder hacer presa soria las_niñas chira precisamente semana pasar aprobar medida carácter ordenación territorio decir apuntar central ser almacenamiento energía renovable generación idea marrero considerar básico central hidroeléctrico consumir energía almacenar parte plan_energético_de_canarias tener prever fecha producción energía isla hacer energía renovable significar restante tener producir fuente convencional producción energía eléctrico ser petróleo gas ciento añadir descartar gas sobrecoste energía eléctrico canarias ser año aplicar previsión planta regasificadoras sobrecoste ser entender postura expresar cabildo_de_gran_canaria sentido ser necesario regasificadora isla dejar causar perplejidad matizar oficialmente gobierno_de_canarias tener constancia postura",
+        "persons": [
+            "Chira",
+            "Marrero"
+        ],
+        "locations": [
+            "Soria",
+            "Las_Niñas",
+            "Canarias"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Plan_Energético_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "30",
+            "100",
+            "2015",
+            "30",
+            "100",
+            "70",
+            "100",
+            "70",
+            "$_ECU:150000000",
+            "150000000",
+            "2015"
+        ]
+    }
+}

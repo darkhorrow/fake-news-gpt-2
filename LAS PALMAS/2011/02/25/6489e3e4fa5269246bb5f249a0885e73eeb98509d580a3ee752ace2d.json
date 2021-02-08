@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/971285/0/",
+    "title": {
+        "raw_text": "Rajoy reprocha a Zapatero que gobernar \"no es instalarse en un tiovivo\"",
+        "lemmatized_text": "rajoy reprochar a zapatero que gobernar no ser instalar se en uno tiovivo",
+        "lemmatized_text_reduced": "rajoy reprochar zapatero gobernar ser instalar tiovivo",
+        "persons": [
+            "Rajoy",
+            "Zapatero"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del PP, Mariano Rajoy, ha reprochado este viernes al presidente del Ejecutivo, José Luis Rodríguez Zapatero, que gobernar \"no es instalarse en un tiovivo\", subrayando la necesidad que exista un programa de gobierno.",
+        "lemmatized_text": "el presidente de el pp mariano_rajoy haber reprochar este [V:??/??/??:??.??:??] a el presidente de el ejecutivo josé_luis_rodríguez_zapatero que gobernar no ser instalar se en uno tiovivo subrayar el necesidad que existir uno programa de gobierno",
+        "lemmatized_text_reduced": "presidente pp mariano_rajoy haber reprochar presidente ejecutivo josé_luis_rodríguez_zapatero gobernar ser instalar tiovivo subrayar necesidad existir programa gobierno",
+        "persons": [
+            "Mariano_Rajoy",
+            "José_Luis_Rodríguez_Zapatero"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente del PP, Mariano Rajoy, ha reprochado este viernes al presidente del Ejecutivo, José Luis Rodríguez Zapatero, que gobernar \"no es instalarse en un tiovivo\", subrayando la necesidad que exista un programa de gobierno. \"No se puede cambiar de opinión todos los días; gobernar no es instalarse en un tiovivo\", manifestó el popular durante su intervención con motivo de la presentación de los candidatos municipales del partido en la isla de Gran Canaria. Rajoy entendió así que España necesita reformas en diferentes campos, como en el ámbito fiscal, destacando la necesidad de que haya emprendedores, ya que los autónomos y las pymes dan trabajo al 80 por ciento de las personas. (Habrá ampliación)",
+        "lemmatized_text": "el presidente de el pp mariano_rajoy haber reprochar este [V:??/??/??:??.??:??] a el presidente de el ejecutivo josé_luis_rodríguez_zapatero que gobernar no ser instalar se en uno tiovivo subrayar el necesidad que existir uno programa de gobierno no se poder cambiar de opinión todo el día gobernar no ser instalar se en uno tiovivo manifestar el popular durante su intervención con motivo de el presentación de el candidato municipal de el partido en el isla de gran_canaria rajoy entender así que españa necesitar reforma en diferente campo como en el ámbito fiscal destacar el necesidad de que haber emprendedor ya_que el autónomo y el pyme dar trabajo a el 80 por 100 de el persona haber ampliación",
+        "lemmatized_text_reduced": "presidente pp mariano_rajoy haber reprochar presidente ejecutivo josé_luis_rodríguez_zapatero gobernar ser instalar tiovivo subrayar necesidad existir programa gobierno poder cambiar opinión día gobernar ser instalar tiovivo manifestar popular intervención motivo presentación candidato municipal partido isla gran_canaria rajoy entender españa necesitar reforma campo ámbito fiscal destacar necesidad haber emprendedor autónomo pyme dar trabajo persona haber ampliación",
+        "persons": [
+            "Mariano_Rajoy",
+            "José_Luis_Rodríguez_Zapatero",
+            "Rajoy",
+            "España"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "PP",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "80",
+            "100"
+        ]
+    }
+}

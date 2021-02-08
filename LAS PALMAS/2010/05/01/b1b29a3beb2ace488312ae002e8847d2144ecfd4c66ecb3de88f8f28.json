@@ -1,0 +1,48 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/693931/0/",
+    "title": {
+        "raw_text": "Finaliza la alerta amarilla por fuertes vientos y oleaje en Canarias",
+        "lemmatized_text": "finalizar el alerta amarillo por fuerte viento y oleaje en canarias",
+        "lemmatized_text_reduced": "finalizar alerta amarillo fuerte viento oleaje canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La alerta amarilla por riesgo a que se produjeran fuertes vientos y oleaje en Canarias, activada en el día de ayer por la Agencia Estatal de Meteorología (Aemet), ya ha finalizado.",
+        "lemmatized_text": "el alerta amarillo por riesgo a que se producir fuerte viento y oleaje en canarias activar en el día de ayer por el agencia_estatal_de_meteorología aemet ya haber finalizar",
+        "lemmatized_text_reduced": "alerta amarillo riesgo producir fuerte viento oleaje canarias activar día agencia_estatal_de_meteorología aemet haber finalizar",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Para el día de hoy, en la islas de la provincia de Las Palmas se prevé que predominen los intervalos nubosos o los cielos poco nubosos; y el viento soplará en la provincia de componente nordeste moderado a fuerte, siendo más intenso en costas del sureste y noroeste; será variable flojo en el sur y oeste, mientras que en cumbres soplará de componente norte moderando, girando a nordeste flojo. En lo que respecta a la provincia de Santa Cruz de Tenerife, en el norte de las islas predominarán los cielos nubosos, mientras que en el resto de zonas predominará el cielo poco nubosos o despejado. El viento, en dicha zona del archipiélago, soplará del nordeste moderado con intervalos de fuerte en costas sureste y noroeste, siendo variable flojo en el suroeste y de componente oeste flojo a moderado en cumbres centrales.",
+        "lemmatized_text": "para el día de hoy en el isla de el provincia de las_palmas se prever que predominar el intervalo nuboso o el cielo poco nuboso y el viento soplar en el provincia de componente nordeste moderar a fuerte ser más intenso en costa de el sureste y noroeste ser variable flojo en el sur y oeste mientras_que en cumbre soplar de componente norte moderar girar a nordeste flojo en el que respectar a el provincia de santa_cruz_de_tenerife en el norte de el isla predominar el cielo nuboso mientras_que en el resto de zona predominar el cielo poco nuboso o despejar el viento en decir zona de el archipiélago soplar de el nordeste moderar con intervalo de fuerte en costa sureste y noroeste ser variable flojo en el suroeste y de componente oeste flojo a moderar en cumbre central",
+        "lemmatized_text_reduced": "día isla provincia las_palmas prever predominar intervalo nuboso cielo nuboso viento soplar provincia componente nordeste moderar fuerte ser intenso costa sureste noroeste ser variable flojo sur oeste cumbre soplar componente norte moderar girar nordeste flojo respectar provincia santa_cruz_de_tenerife norte isla predominar cielo nuboso resto zona predominar cielo nuboso despejar viento decir zona archipiélago soplar nordeste moderar intervalo fuerte costa sureste noroeste ser variable flojo suroeste componente oeste flojo moderar cumbre central",
+        "persons": [],
+        "locations": [
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

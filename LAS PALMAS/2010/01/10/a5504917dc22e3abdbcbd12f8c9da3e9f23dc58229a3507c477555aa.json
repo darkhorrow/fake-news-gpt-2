@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/603365/0/",
+    "title": {
+        "raw_text": "Más de 200 personas participan en 4 cursos del Instituto Municipal de Empleo y Formación de Las Palmas de Gran Canaria",
+        "lemmatized_text": "más de 200 persona participar en 4 curso de el instituto_municipal_de_empleo y formación_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persona participar curso instituto_municipal_de_empleo formación_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Instituto_Municipal_de_Empleo",
+            "Formación_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "200",
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Más de 200 personas han participado en un total de cuatro cursos desarrollados por el Instituto Municipal de Empleo y Formación (IMEF), dependiente del Ayuntamiento de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "más de 200 persona haber participar en uno total de 4 curso desarrollar por el instituto_municipal_de_empleo y formación imef dependiente de el ayuntamiento_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persona haber participar total curso desarrollar instituto_municipal_de_empleo formación imef dependiente ayuntamiento_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Instituto_Municipal_de_Empleo",
+            "IMEF",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Formación"
+        ],
+        "dates": [],
+        "numbers": [
+            "200",
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Los talleres llegarán mañana a su fin y la clausura correrá a cargo del concejal de Empleo e IMEF del Consistorio capitalino, Augusto Hidalgo, según informó el Ayuntamiento de Las Palmas de Gran Canaria en nota de prensa. En cuanto a los cursos que se han desarrollado se denominaban 'La Casa de Oficios, Las Palmas de Gran Canaria en Red'; 'Cívita: Plan de obras y servicios de interés social y general'; 'A plena luz: Plan de recuperación y mantenimiento del patrimonio monumental de Las Palmas'; y 'Cualifica: programa municipal de empleo para mayores de 21 años'.",
+        "lemmatized_text": "el taller llegar mañana a su fin y el clausura correr a cargo de el concejal de empleo y imef_del_consistorio capitalino augusto_hidalgo según informar el ayuntamiento_de_las_palmas_de_gran_canaria en nota de prensa en_cuanto_a el curso que se haber desarrollar se denominar el casa_de_oficios las_palmas_de_gran_canaria en red cívita plan de obra y servicio de interés social y general a pleno luz plan de recuperación y mantenimiento de el patrimonio monumental de las_palmas y cualificar programa municipal de empleo para mayor de 21 año",
+        "lemmatized_text_reduced": "taller llegar fin clausura correr cargo concejal empleo imef_del_consistorio capitalino augusto_hidalgo informar ayuntamiento_de_las_palmas_de_gran_canaria nota prensa curso haber desarrollar denominar casa_de_oficios las_palmas_de_gran_canaria red cívita plan obra servicio interés social general pleno luz plan recuperación mantenimiento patrimonio monumental las_palmas cualificar programa municipal empleo mayor año",
+        "persons": [
+            "Augusto_Hidalgo",
+            "Cívita"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Red"
+        ],
+        "organizations": [
+            "Empleo",
+            "IMEF_del_Consistorio",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Casa_de_Oficios",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "21"
+        ]
+    }
+}

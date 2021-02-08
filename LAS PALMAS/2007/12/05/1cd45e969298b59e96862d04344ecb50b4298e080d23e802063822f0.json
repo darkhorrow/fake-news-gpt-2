@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/317563/0/incendios/afectados/millones/",
+    "title": {
+        "raw_text": "Los afectados por los incendios han recibido ya 2,4 millones de euros en ayudas",
+        "lemmatized_text": "el afectado por el incendio haber recibir ya 2,4 millón de euro en ayuda",
+        "lemmatized_text_reduced": "afectado incendio haber recibir millón euro ayuda",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2,4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Estas ayudas tendrán carácter subsidiario respecto a cualquier otro sistema de cobertura de daños. Cada familia afectada recibirá un importe máximo de 8.500 euros. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "este ayuda tener carácter subsidiario respecto_a cualquiera otro sistema de cobertura de daño cada familia afectar recibir uno importe máximo de $_ECU:8.5 consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ayuda tener carácter subsidiario sistema cobertura daño familia afectar recibir importe máximo consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:8.5"
+        ]
+    },
+    "body": {
+        "raw_text": "El Gobierno de Canarias ha efectuado hasta el momento el pago de 2,4 millones de euros en concepto de ayudas extraordinarias concedidas a los afectados por lo incendios ocurridos el pasado verano en Canarias . La Consejería de Economía y Hacienda ha sumado esta semana, a las cuantías ya abonadas con anterioridad, la cantidad de 299.167 euros correspondientes a ayudas tramitadas por la Consejería de Agricultura, Ganadería, Pesca y Alimentación. Ayudas subsidiarias Estas ayudas tendrán carácter subsidiario respecto a cualquier otro sistema de cobertura de daños, público o privado, del que puedan ser beneficiarios los afectados . El vicepresidente y consejero de Economía y Hacienda, José Manuel Soria, ya dio instrucciones a la Dirección General del Tesoro para acelerar el pago de estas ayudas una vez aprobado, el pasado 7 de agosto, el decreto de ayudas y medidas urgentes , y de carácter excepcional, para reparar los daños generados por los incendios producidos en Gran Canaria, Tenerife, La Gomera y La Palma durante los meses de julio y agosto de 2007. Este decreto establece que las ayudas se deberán destinar a la reparación de viviendas, enseres, vehículos, infraestructuras agrícolas y ganaderas, así como a paliar los daños sufridos por empresarios y profesionales en infraestructuras, maquinarias o mercancías. Necesidades básica s Así, la ayuda extraordinaria prevista para paliar las necesidades más básicas y perentorias de las familias que vieron dañada seriamente su vivienda y perdieron sus enseres básicos podrá ser hasta un importe máximo de 8.500 euros , y están siendo tramitadas por la Consejería de Bienestar Social, Juventud y Vivienda. Asimismo, el Gobierno regional financia ayudas complementarias a las ya establecidas en el decreto. Estas ayudas están destinadas tanto al alquiler como a la reparación, rehabilitación o reconstrucción de las viviendas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el gobierno_de_canarias haber efectuar hasta el momento el pago de 2,4 millón de euro en_concepto_de ayuda extraordinario conceder a el afectado por el incendio ocurrir el pasar verano en canarias el consejería_de_economía y hacienda haber sumar este semana a el cuantía ya abonar con anterioridad el cantidad de $_ECU:299.167 correspondiente a ayuda tramitar por el consejería_de_agricultura ganadería pesca y alimentación ayuda subsidiario estas ayuda tener carácter subsidiario respecto_a cualquiera otro sistema de cobertura de daño público o privar de el que poder ser beneficiario el afectado el vicepresidente y consejero de economía y hacienda josé_manuel_soria ya dar instrucción a el dirección_general_del_tesoro para acelerar el pago de este ayuda uno vez aprobar el [??:7/8/??:??.??:??] el decreto de ayuda y medida urgente y de carácter excepcional para reparar el daño generar por el incendio producir en gran_canaria tenerife la_gomera y la_palma durante el mes de [??:??/7/??:??.??:??] y [??:??/8/2007:??.??:??] este decreto establecer que el ayuda se deber destinar a el reparación de vivienda enseres vehículo infraestructura agrícola y ganadero así_como a paliar el daño sufrir por empresario y profesional en infraestructura maquinaria o mercancía necesidad básico segundo así el ayuda extraordinario prever para paliar el necesidad más básico y perentorio de el familia que ver dañar seriamente su vivienda y perder su enseres básico poder ser hasta uno importe máximo de $_ECU:8.5 y estar ser tramitar por el consejería_de_bienestar_social juventud y vivienda asimismo el gobierno regional financiar ayuda complementario a el ya establecer en el decreto este ayuda estar destinar tanto a el alquiler como a el reparación rehabilitación o reconstrucción de el vivienda consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber efectuar momento pago millón euro ayuda extraordinario conceder afectado incendio ocurrir pasar verano canarias consejería_de_economía hacienda haber sumar semana cuantía abonar anterioridad cantidad correspondiente ayuda tramitar consejería_de_agricultura ganadería pesca alimentación ayuda subsidiario estas ayuda tener carácter subsidiario sistema cobertura daño público privar poder ser beneficiario afectado vicepresidente consejero economía hacienda josé_manuel_soria dar instrucción dirección_general_del_tesoro acelerar pago ayuda vez aprobar decreto ayuda medida urgente carácter excepcional reparar daño generar incendio producir gran_canaria tenerife la_gomera la_palma mes decreto establecer ayuda deber destinar reparación vivienda enseres vehículo infraestructura agrícola ganadero paliar daño sufrir empresario profesional infraestructura maquinaria mercancía necesidad básico segundo así ayuda extraordinario prever paliar necesidad básico perentorio familia ver dañar seriamente vivienda perder enseres básico poder ser importe máximo estar ser tramitar consejería_de_bienestar_social juventud vivienda gobierno regional financiar ayuda complementario establecer decreto ayuda estar destinar alquiler reparación rehabilitación reconstrucción vivienda consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "José_Manuel_Soria",
+            "Así"
+        ],
+        "locations": [
+            "Canarias",
+            "Gran_Canaria",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Consejería_de_Economía",
+            "Hacienda",
+            "Consejería_de_Agricultura",
+            "Ganadería",
+            "Pesca",
+            "Alimentación",
+            "Estas",
+            "Economía",
+            "Dirección_General_del_Tesoro",
+            "Tenerife",
+            "La_Gomera",
+            "Consejería_de_Bienestar_Social",
+            "Juventud",
+            "Vivienda",
+            "Gobierno",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Hacienda"
+        ],
+        "dates": [
+            "[??:7/8/??:??.??:??]",
+            "[??:??/7/??:??.??:??]",
+            "[??:??/8/2007:??.??:??]"
+        ],
+        "numbers": [
+            "2,4",
+            "$_ECU:299.167",
+            "$_ECU:8.5"
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/686861/0/",
+    "title": {
+        "raw_text": "El roce entre un camión y un turismo en la autovía de Las Palmas de Gran Canaria causa retenciones",
+        "lemmatized_text": "el roce entre uno camión y uno turismo en el autovía de las_palmas_de_gran_canaria causar retención",
+        "lemmatized_text_reduced": "roce camión turismo autovía las_palmas_de_gran_canaria causar retención",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El roce entre un camión y un turismo en la autovía de Las Palmas de Gran Canaria ha causado este mediodía retenciones, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el roce entre uno camión y uno turismo en el autovía de las_palmas_de_gran_canaria haber causar este [??:??/??/??:12.00:pm] retención según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "roce camión turismo autovía las_palmas_de_gran_canaria haber causar retención informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 15.30 horas, en dirección sur, y a la altura de los juzgados de la capital granacanaria. Asimismo, en el suceso en el que se vieron implicado un camión y un turismo no hubo que lamentar heridos.",
+        "lemmatized_text": "el incidente se producir a el TM_h:15.3 en dirección sur y a el altura de el juzgado de el capital granacanaria asimismo en el suceso en el que se ver implicar uno camión y uno turismo no haber que lamentar herido",
+        "lemmatized_text_reduced": "incidente producir dirección sur altura juzgado capital granacanaria suceso ver implicar camión turismo haber lamentar herido",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:15.3"
+        ]
+    }
+}

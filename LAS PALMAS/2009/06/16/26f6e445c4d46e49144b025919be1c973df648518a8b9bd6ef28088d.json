@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/474315/0/aviones/mar/pilotos/",
+    "title": {
+        "raw_text": "Dos aviones F-18 españoles se estrellan en el mar en Canarias y se salvan sus pilotos",
+        "lemmatized_text": "2 avión F-18 español se estrellar en el mar en canarias y se salvar su piloto",
+        "lemmatized_text_reduced": "avión español estrellar mar canarias salvar piloto",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "F-18"
+        ]
+    },
+    "lead": {
+        "raw_text": "Ha ocurrido a 60 millas al sureste de Gran Canaria. Los dos pilotos han sido trasladados a un hospital. Ambos lograron saltar antes del impacto. Los aparatos cayeron al mar tras chocar en pleno ejercicio.",
+        "lemmatized_text": "haber ocurrir a LN_mi:60 a el sureste de gran_canaria el 2 piloto haber ser trasladar a uno hospital ambos lograr saltar antes de el impacto el aparato caer a el mar tras chocar en pleno ejercicio",
+        "lemmatized_text_reduced": "haber ocurrir sureste gran_canaria piloto haber ser trasladar hospital lograr saltar impacto aparato caer mar chocar pleno ejercicio",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_mi:60",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Dos aviones F-18 del escuadrón de cazas de la base área de Gando, en Gran Canaria, se han estrellado este martes en el mar y sus dos pilotos se han salvado, informaron fuentes del Servicio Aéreo de Rescate (SAR). Los dos pilotos, que saltaron de los aparatos antes de que se estrellaran en el océano, han sido ya evacuados por el SAR a la base aérea grancanaria y desde allí se ha procedido a su traslado a un hospital de la isla para someterles a una revisión. El accidente tuvo lugar a primera hora de la tarde a 60 millas al sureste de Gran Canaria , según las fuentes. Al parecer, los aparatos chocaron en pleno vuelo mientras hacían unos ejercicios en una zona de prácticas aéreas, informaron fuentes de la Delegación del Gobierno en Canarias. A las 13.45 horas GMT (14.45 hora insular), el SAR recibió el aviso de los pilotos y envió al lugar un helicóptero Superpuma, cuya tripulación localizó a los pilotos a las 15:25 horas (local), y procedió a su rescate. Aunque en principio los dos pilotos se encuentran en buen estado , no se descarta que sufran secuelas del impacto en el mar y de la propia eyección de sus puestos de cabina. El Servicio Aéreo de Rescate ha movilizado una patrullera de la Armada y una embarcación de Salvamento Marítimo para intentar recuperar los restos de los aviones F-18, que operaban bajo los indicativos de \"halcón\".",
+        "lemmatized_text": "2 avión F-18 de el escuadrón de caza de el base área de gando en gran_canaria se haber estrellar este [M:??/??/??:??.??:??] en el mar y su 2 piloto se haber salvar informar fuente de el servicio_aéreo_de_rescate sar el 2 piloto que saltar de el aparato antes_de que se estrellar en el océano haber ser ya evacuar por el sar a el base aéreo grancanaria y desde allí se haber proceder a su traslado a uno hospital de el isla para someter le a uno revisión el accidente tener_lugar a 1 hora de el tarde a LN_mi:60 a el sureste de gran_canaria según el fuente a el parecer el aparato chocar en pleno vuelo mientras hacer uno ejercicio en uno zona de práctica aéreo informar fuente de el delegación_del_gobierno en canarias a el TM_h:13.45 gmt TM_h:14.45 insular el sar recibir el aviso de el piloto y enviar a el lugar uno helicóptero superpuma cuyo tripulación localizar a el piloto a el TM_h:15:25 local y proceder a su rescate aunque en principio el 2 piloto se encontrar en bueno estado no se descartar que sufrir secuela de el impacto en el mar y de el propio eyección de su puesto de cabina el servicio_aéreo_de_rescate haber movilizar uno patrullera de el armada y uno embarcación de salvamento_marítimo para intentar recuperar el resto de el avión F-18 que operar bajo el indicativo de halcón",
+        "lemmatized_text_reduced": "avión escuadrón caza base área gando gran_canaria haber estrellar mar piloto haber salvar informar fuente servicio_aéreo_de_rescate sar piloto saltar aparato estrellar océano haber ser evacuar sar base aéreo grancanaria haber proceder traslado hospital isla someter revisión accidente tener_lugar 1 hora tarde sureste gran_canaria fuente parecer aparato chocar pleno vuelo hacer ejercicio zona práctica aéreo informar fuente delegación_del_gobierno canarias gmt insular sar recibir aviso piloto enviar lugar helicóptero superpuma tripulación localizar piloto local proceder rescate principio piloto encontrar bueno estado descartar sufrir secuela impacto mar propio eyección puesto cabina servicio_aéreo_de_rescate haber movilizar patrullera armada embarcación salvamento_marítimo intentar recuperar resto avión operar indicativo halcón",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gando",
+            "Gran_Canaria",
+            "Canarias"
+        ],
+        "organizations": [
+            "Servicio_Aéreo_de_Rescate",
+            "SAR",
+            "SAR",
+            "Delegación_del_Gobierno",
+            "SAR",
+            "Servicio_Aéreo_de_Rescate",
+            "Armada"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "GMT",
+            "Superpuma"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "F-18",
+            "2",
+            "2",
+            "LN_mi:60",
+            "TM_h:13.45",
+            "TM_h:14.45",
+            "TM_h:15:25",
+            "2",
+            "F-18"
+        ]
+    }
+}

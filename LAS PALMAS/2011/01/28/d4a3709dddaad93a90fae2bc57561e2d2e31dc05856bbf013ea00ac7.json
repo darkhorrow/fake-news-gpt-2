@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/942765/0/",
+    "title": {
+        "raw_text": "Policía Nacional detiene a 2 personas por presunto delito de robo con violencia en Las Palmas de Gran Canaria",
+        "lemmatized_text": "policía_nacional detener a 2 persona por presunto delito de robo con violencia en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional detener persona presunto delito robo violencia las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido a dos personas como presuntos autores de un delito de robo con violencia e intimidación en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el policía_nacional haber detener a 2 persona como presunto autor de uno delito de robo con violencia y intimidación en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional haber detener persona presunto autor delito robo violencia intimidación las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional ha detenido a dos personas como presuntos autores de un delito de robo con violencia e intimidación en Las Palmas de Gran Canaria. Los hechos se produjeron el 1 de enero y la detención de C.L.F., de 38 años de edad, y de H.M.G.R, de 41 años de edad, ambos de Las Palmas de Gran Canaria, se realizó el pasado 20 de enero, según informó el Cuerpo Nacional de Policía en nota de prensa. En cuanto al robo se produjo en la calle Mayor de Triana cuando presuntamente los dos detenidos se acercaron a la víctima amenazándole con una navaja en el cuello y le exigieron sus pertenencias, propinándole además una patada en el abdomen. De todos modos, en un descuido de los autores, la víctima logró escapar y se dirigió a la comisaría, donde formuló la correspondiente denuncia, aportando las características físicas de los autores, datos que fueron transmitidos al Grupo Operativo de Respuesta (G.O.R.), que por tratarse de unos conocidos habituales de la zona, fueron \"rápidamente\" identificados y tras las gestiones y comprobaciones pertinentes realizadas por Policía Judicial, se logró su localización y detención. A los dos arrestados les constan varios antecedentes policiales por diversos delitos. Ambos han pasado a disposición judicial, junto con el arma intervenida y el correspondiente atestado policial.",
+        "lemmatized_text": "el policía_nacional haber detener a 2 persona como presunto autor de uno delito de robo con violencia y intimidación en las_palmas_de_gran_canaria el hecho se producir el [??:1/1/??:??.??:??] y el detención de c.l.f. de 38 año de edad y de h.m.g._r de 41 año de edad ambos de las_palmas_de_gran_canaria se realizar el [??:20/1/??:??.??:??] según informar el cuerpo_nacional_de_policía en nota de prensa en cuanto a el robo se producir en el calle mayor_de_triana cuando presuntamente el 2 detenido se acercar a el víctima amenazar le con uno navaja en el cuello y le exigir su pertenencia propinar le además uno patada en el abdomen de_todos_modos en uno descuido de el autor el víctima lograr escapar y se dirigir a el comisaría donde formular el correspondiente denuncia aportar el característica físico de el autor dato que ser transmitir a el grupo_operativo_de_respuesta g.o.r. que por tratar se de uno conocido habitual de el zona ser rápidamente identificar y tras el gestión y comprobación pertinente realizar por policía_judicial se lograr su localización y detención a el 2 arrestar le constar varios antecedente policial por diverso delito ambos haber pasar a disposición judicial junto_con el arma intervenir y el correspondiente atestado policial",
+        "lemmatized_text_reduced": "policía_nacional haber detener persona presunto autor delito robo violencia intimidación las_palmas_de_gran_canaria hecho producir detención c.l.f. año edad h.m.g._r año edad las_palmas_de_gran_canaria realizar informar cuerpo_nacional_de_policía nota prensa robo producir calle mayor_de_triana presuntamente detenido acercar víctima amenazar navaja cuello exigir pertenencia propinar patada abdomen descuido autor víctima lograr escapar dirigir comisaría formular correspondiente denuncia aportar característica físico autor dato ser transmitir grupo_operativo_de_respuesta g.o.r. tratar conocido habitual zona ser rápidamente identificar gestión comprobación pertinente realizar policía_judicial lograr localización detención arrestar constar antecedente policial delito haber pasar disposición judicial arma intervenir correspondiente atestado policial",
+        "persons": [
+            "H.M.G._R"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Mayor_de_Triana"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "C.L.F.",
+            "Cuerpo_Nacional_de_Policía",
+            "Grupo_Operativo_de_Respuesta",
+            "G.O.R.",
+            "Policía_Judicial"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/1/??:??.??:??]",
+            "[??:20/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "38",
+            "41",
+            "2",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604745/0/",
+    "title": {
+        "raw_text": "La Guardia Civil interviene en Gran Canaria más de 80.000 artículos falsificados valorados en 3,5 millones",
+        "lemmatized_text": "el guardia_civil intervenir en gran_canaria más de 80 artículo falsificar valorar en 3,5 millón",
+        "lemmatized_text_reduced": "guardia_civil intervenir gran_canaria artículo falsificar valorar millón",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80",
+            "3,5"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha llevado a cabo una actuación contra la piratería industrial en varias calles de Las Palmas de Gran Canaria en la que han conseguido intervenir más de 80.000 artículos falsificados, valorados en 3,5 millones de euros, según informó la Benemérita en nota de prensa.",
+        "lemmatized_text": "el guardia_civil haber llevar_a_cabo uno actuación contra el piratería industrial en varios calle de las_palmas_de_gran_canaria en el que haber conseguir intervenir más de 80 artículo falsificar valorar en 3,5 millón de euro según informar el benemérita en nota de prensa",
+        "lemmatized_text_reduced": "guardia_civil haber llevar_a_cabo actuación piratería industrial calle las_palmas_de_gran_canaria haber conseguir intervenir artículo falsificar valorar millón euro informar benemérita nota prensa",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80",
+            "3,5"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, el pasado 29 de diciembre tuvo lugar la primera actuación policial en la calle la Naval donde se detuvo a una persona de nacionalidad china, S.F., a la que se le intervinieron más de 61.000 efectos posiblemente falsificados por valor de más de 3 millones de euros. Asimismo y tras analizar la documentación encontrada en el anterior establecimiento, el pasado 4 de enero la Guardia Civil localizó otro establecimiento en la calle Princesa Guayarmina y un almacén en la calle Juan de Garay, también en la capital grancanaria, donde se incautaron más de 21.000 artículos supuestamente falsos de reconocidas marcas tanto nacionales como internacionales, con una valoración económica que supera los 500.000 euros. En esta actuación, los agentes detuvieron a una súbdita china cuyas iniciales corresponden a C.C. Ambos dispositivos fueron puestos en marcha conjuntamente con un perito adscrito al Ministerio de Cultura y experto en Antipiratería. Las diligencias instruidas y mercancía intervenida pasaron a disposición del Juzgado de Instrucción de Guardia de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "en concreto el [??:29/12/??:??.??:??] tener_lugar el 1 actuación policial en el calle el naval donde se detener a uno persona de nacionalidad chino s.f. a el que se le intervenir más de 61 efecto posiblemente falsificar por valor de más de $_ECU:3000000 asimismo y tras analizar el documentación encontrar en el anterior establecimiento el [??:4/1/??:??.??:??] el guardia_civil localizar otro establecimiento en el calle princesa_guayarmina y uno almacén en el calle juan_de_garay también en el capital grancanaria donde se incautar más de 21 artículo supuestamente falso de reconocer marca tanto nacional como internacional con uno valoración económico que superar el $_ECU:500 en este actuación el agente detener a uno súbdito chino cuyo inicial corresponder a c.c._ambos dispositivo ser poner en marcha conjuntamente con uno perito adscribir a el ministerio_de_cultura y experto en antipiratería el diligencia instruir y mercancía intervenir pasar a disposición de el juzgado_de_instrucción_de_guardia_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "concreto tener_lugar 1 actuación policial calle naval detener persona nacionalidad chino s.f. intervenir efecto posiblemente falsificar valor analizar documentación encontrar anterior establecimiento guardia_civil localizar establecimiento calle princesa_guayarmina almacén calle juan_de_garay capital grancanaria incautar artículo supuestamente falso reconocer marca nacional internacional valoración económico superar actuación agente detener súbdito chino inicial corresponder c.c._ambos dispositivo ser poner marcha conjuntamente perito adscribir ministerio_de_cultura experto antipiratería diligencia instruir mercancía intervenir pasar disposición juzgado_de_instrucción_de_guardia_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Juan_de_Garay",
+            "C.C._Ambos"
+        ],
+        "locations": [
+            "Naval",
+            "Princesa_Guayarmina",
+            "Antipiratería"
+        ],
+        "organizations": [
+            "S.F.",
+            "Guardia_Civil",
+            "Ministerio_de_Cultura",
+            "Juzgado_de_Instrucción_de_Guardia_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:29/12/??:??.??:??]",
+            "[??:4/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "61",
+            "$_ECU:3000000",
+            "21",
+            "$_ECU:500"
+        ]
+    }
+}

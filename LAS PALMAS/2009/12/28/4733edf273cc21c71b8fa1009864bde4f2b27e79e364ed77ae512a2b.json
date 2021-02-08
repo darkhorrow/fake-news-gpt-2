@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596453/0/",
+    "title": {
+        "raw_text": "Guardia Civil dice que un buque de bandera liberiana provocó el vertido de fuel de octubre en capital grancanaria",
+        "lemmatized_text": "guardia_civil decir que uno buque de bandera liberiano provocar el vertido de fuel de [??:??/10/??:??.??:??] en capital grancanaria",
+        "lemmatized_text_reduced": "guardia_civil decir buque bandera liberiano provocar vertido fuel capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha determinado que fue un buque de bandera libanesa el que provocó el vertido de fuel que afectó a la costa este de Las Palmas de Gran Canaria el pasado mes de octubre, según informó la Benemérita en nota de prensa.",
+        "lemmatized_text": "el guardia_civil haber determinar que ser uno buque de bandera libanés el que provocar el vertido de fuel que afectar a el costa este de las_palmas_de_gran_canaria el [??:??/10/??:??.??:??] según informar el benemérita en nota de prensa",
+        "lemmatized_text_reduced": "guardia_civil haber determinar ser buque bandera libanés provocar vertido fuel afectar costa las_palmas_de_gran_canaria informar benemérita nota prensa",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las investigaciones se iniciaron hace dos meses, sobre el día 5 de octubre del presente año, al recibir noticias a través de los pescadores de San Cristóbal, de un vertido de fuel que estaba afectando la costa de la ciudad. Fruto de la investigación de los agentes del Seprona, se lograron recopilar pruebas, tanto gráficas como documentales, que acreditaron que el vertido fue realizado por un buque de bandera liberiana que tuvo un problema en el repostaje de fuel (concretamente denominado IFO 380) sobre el día 3 de octubre. Asimismo, la policía constató que dicho buque suele realizar reportajes de combustible en el Puerto de la Luz y de Las Palmas varias veces al año y garantizó que los responsables del buque serán denunciados ante el Capitán Marítimo de Las Palmas, por una presunta infracción muy grave a la Ley 27/92 de Puertos del Estado y Marina Mercante.",
+        "lemmatized_text": "el investigación se iniciar hacer 2 mes sobre el [??:5/10/??:??.??:??] de el presente año a el recibir noticia a_través_de el pescador de san_cristóbal de uno vertido de fuel que estar afectar el costa de el ciudad fruto de el investigación de el agente de el seprona se lograr recopilar prueba tanto gráfico como documental que acreditar que el vertido ser realizar por uno buque de bandera liberiano que tener uno problema en el repostaje de fuel concretamente denominar ifo 380 sobre el [??:3/10/??:??.??:??] asimismo el policía constatar que decir buque soler realizar reportaje de combustible en el puerto_de_la_luz y de las_palmas varios vez a el año y garantizar que el responsable de el buque ser denunciar ante el capitán_marítimo_de_las_palmas por uno presunto infracción muy grave a el ley 27/92 de puertos_del_estado y marina_mercante",
+        "lemmatized_text_reduced": "investigación iniciar hacer mes presente año recibir noticia pescador san_cristóbal vertido fuel estar afectar costa ciudad fruto investigación agente seprona lograr recopilar prueba gráfico documental acreditar vertido ser realizar buque bandera liberiano tener problema repostaje fuel concretamente denominar ifo policía constatar decir buque soler realizar reportaje combustible puerto_de_la_luz las_palmas vez año garantizar responsable buque ser denunciar capitán_marítimo_de_las_palmas presunto infracción grave ley puertos_del_estado marina_mercante",
+        "persons": [
+            "Fruto",
+            "Marina_Mercante"
+        ],
+        "locations": [
+            "San_Cristóbal",
+            "Puerto_de_la_Luz"
+        ],
+        "organizations": [
+            "Seprona",
+            "Las_Palmas",
+            "Capitán_Marítimo_de_Las_Palmas",
+            "Puertos_del_Estado"
+        ],
+        "others": [
+            "IFO",
+            "Ley"
+        ],
+        "dates": [
+            "[??:5/10/??:??.??:??]",
+            "[??:3/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "380",
+            "27/92"
+        ]
+    }
+}

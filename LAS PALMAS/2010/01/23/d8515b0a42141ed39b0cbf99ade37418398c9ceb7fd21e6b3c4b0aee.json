@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/613056/0/",
+    "title": {
+        "raw_text": "Los bomberos extinguen un incendio en invernaderos en Guía (Gran Canaria) sin afectados",
+        "lemmatized_text": "el bombero extinguir uno incendio en invernadero en guía gran_canaria sin afectado",
+        "lemmatized_text_reduced": "bombero extinguir incendio invernadero guía gran_canaria afectado",
+        "persons": [],
+        "locations": [
+            "Guía",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Bomberos del Consorcio de Emergencias de Gran Canaria han extinguido un incendio de matorrales que afectó a varios invernaderos en la calle Sancho de Vargas en un barranco del municipio grancanario de Santa María de Guía, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que precisaron que el fuego no ha ocasionado heridos.",
+        "lemmatized_text": "bomberos_del_consorcio_de_emergencias_de_gran_canaria haber extinguir uno incendio de matorral que afectar a varios invernadero en el calle sancho_de_vargas en uno barranco de el municipio grancanario de santa_maría_de_guía según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que precisar que el fuego no haber ocasionar herido",
+        "lemmatized_text_reduced": "bomberos_del_consorcio_de_emergencias_de_gran_canaria haber extinguir incendio matorral afectar invernadero calle sancho_de_vargas barranco municipio grancanario santa_maría_de_guía informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes precisar fuego haber ocasionar herido",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Sancho_de_Vargas",
+            "Santa_María_de_Guía"
+        ],
+        "organizations": [
+            "Bomberos_del_Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron anoche a las 23.37 horas, cuando una llamada alertó al Cecoes del incidente, por lo que el 112 activó de inmediato el dispositivo de emergencias necesario. Así, hasta el lugar se desplazaron bomberos del Consorcio que lograron extinguir el fuego aproximadamente dos horas después. En dicha actuación también intervinieron Guardia Civil, Policía Local, Protección Civil y la empresa eléctrica Unelco, añadieron las mismas fuentes.",
+        "lemmatized_text": "el hecho se producir anoche a el TM_h:23.37 cuando uno llamada alertar a el cecoes de el incidente por el que el 112 activar de inmediato el dispositivo de emergencia necesario así hasta el lugar se desplazar bombero de el consorcio que lograr extinguir el fuego aproximadamente TM_h:2 después en decir actuación también intervenir guardia_civil policía_local protección_civil y el empresa eléctrico unelco añadir el mismo fuente",
+        "lemmatized_text_reduced": "hecho producir llamada alertar cecoes incidente activar inmediato dispositivo emergencia necesario lugar desplazar bombero consorcio lograr extinguir fuego aproximadamente decir actuación intervenir guardia_civil policía_local protección_civil empresa eléctrico unelco añadir mismo fuente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Consorcio",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Protección_Civil",
+            "Unelco"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:23.37",
+            "112",
+            "TM_h:2"
+        ]
+    }
+}

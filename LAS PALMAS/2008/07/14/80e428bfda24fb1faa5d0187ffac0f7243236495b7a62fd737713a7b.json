@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/398624/0/",
+    "title": {
+        "raw_text": "Asaltan una vivienda de Lanzarote y acuchillan a un hombre",
+        "lemmatized_text": "asaltar uno vivienda de lanzarote y acuchillar a uno hombre",
+        "lemmatized_text_reduced": "asaltar vivienda lanzarote acuchillar hombre",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los 3 encapuchados sólo se llevaron una pequeña cantidad de dinero. Es el segundo asalto de este tipo que sufre la isla en unas semanas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el 3 encapuchado sólo se llevar uno pequeño cantidad de dinero ser el 2 asalto de este tipo que sufrir el isla en uno semana consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "encapuchado llevar pequeño cantidad dinero ser 2 asalto tipo sufrir isla semana consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Tres personas encapuchadas asaltaron este fin de semana una vivienda del pueblo de Los Valles , en el municipio lanzaroteño de Teguise , donde amordazaron a un matrimonio y acuchillaron al hombre , informaron hoy fuentes policiales. El asalto se produjo el domingo de madrugada , después de que los tres individuos, con los rostros cubiertos con pasamontañas y con barras de hierro, accedieran a la vivienda, en cuyo interior se encontraba un matrimonio de mediana edad, ya que sus hijos no estaban en ese momento en el domicilio. Una vez dentro de la casa, situada en una segunda planta, los asaltantes se dirigieron al dormitorio, donde maniataron al matrimonio. Tras exigirles el dinero que hubiera en la vivienda, golpearon al hombre varias veces y le acuchillaron en diversas partes del cuerpo. Fuentes próximas al caso señalaron que los asaltantes desvalijaron la vivienda y registraron todo, pero sólo consiguieron llevarse una pequeña cantidad de dinero. El director insular de la administración general del Estado en Lanzarote, Carmelo García Déniz, indicó que la Guardia Civil ha montado un dispositivo especial para tratar de esclarecer el caso. Con éste ya son dos los asaltos a viviendas ocupadas que se registran en localidades del interior de Lanzarote en las últimas semanas. El primero de los asaltos se produjo en un chalet de la zona turística de Playa Blanca , en el municipio de Yaiza, al sur de la isla, donde cuatro encapuchados maniataron a una mujer y a sus hijos de corta edad tras acceder el domicilio durante la madrugada.",
+        "lemmatized_text": "3 persona encapuchar asaltar este fin de semana uno vivienda de el pueblo de los_valles en el municipio lanzaroteño de teguise donde amordazar a uno matrimonio y acuchillar a el hombre informar hoy fuente policial el asalto se producir el [G:??/??/??:??.??:??] de_madrugada después_de que el 3 individuo con el rostro cubrir con pasamontañas y con barra de hierro acceder a el vivienda en cuyo interior se encontrar uno matrimonio de mediano edad ya_que su hijo no estar en ese momento en el domicilio uno vez dentro_de el casa situar en uno 2 planta el asaltante se dirigir a el dormitorio donde maniatar a el matrimonio tras exigir le el dinero que haber en el vivienda golpear a el hombre varios vez y le acuchillar en diverso parte de el cuerpo fuente próximo a el caso señalar que el asaltante desvalijar el vivienda y registrar todo pero sólo conseguir llevar se uno pequeño cantidad de dinero el director insular de el administración general de el estado en lanzarote carmelo_garcía_déniz indicar que el guardia_civil haber montar uno dispositivo especial para tratar de esclarecer el caso con este ya ser 2 el asalto a vivienda ocupar que se registrar en localidad de el interior de lanzarote en el último semana el 1 de el asalto se producir en uno chalet de el zona turístico de playa_blanca en el municipio de yaiza a el sur de el isla donde 4 encapuchado maniatar a uno mujer y a su hijo de corto edad tras acceder el domicilio durante el madrugada",
+        "lemmatized_text_reduced": "persona encapuchar asaltar fin semana vivienda pueblo los_valles municipio lanzaroteño teguise amordazar matrimonio acuchillar hombre informar fuente policial asalto producir individuo rostro cubrir pasamontañas barra hierro acceder vivienda interior encontrar matrimonio mediano edad hijo estar momento domicilio vez casa situar 2 planta asaltante dirigir dormitorio maniatar matrimonio exigir dinero haber vivienda golpear hombre vez acuchillar parte cuerpo fuente próximo caso señalar asaltante desvalijar vivienda registrar conseguir llevar pequeño cantidad dinero director insular administración general estado lanzarote carmelo_garcía_déniz indicar guardia_civil haber montar dispositivo especial tratar esclarecer caso ser asalto vivienda ocupar registrar localidad interior lanzarote último semana 1 asalto producir chalet zona turístico playa_blanca municipio yaiza sur isla encapuchado maniatar mujer hijo corto edad acceder domicilio madrugada",
+        "persons": [
+            "Carmelo_García_Déniz"
+        ],
+        "locations": [
+            "Los_Valles",
+            "Teguise",
+            "Lanzarote",
+            "Lanzarote",
+            "Playa_Blanca",
+            "Yaiza"
+        ],
+        "organizations": [
+            "Estado",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "3",
+            "2",
+            "4"
+        ]
+    }
+}

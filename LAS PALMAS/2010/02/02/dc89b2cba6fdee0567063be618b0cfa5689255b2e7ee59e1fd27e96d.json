@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619940/0/",
+    "title": {
+        "raw_text": "Paro.- El número de parados en Canarias crece 5.147 personas en enero y supera los 253.000 desempleados",
+        "lemmatized_text": "paro el número de parado en canarias crecer 5.147 persona en [??:??/1/??:??.??:??] y superar el 253 desempleado",
+        "lemmatized_text_reduced": "paro número parado canarias crecer persona superar desempleado",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "5.147",
+            "253"
+        ]
+    },
+    "lead": {
+        "raw_text": "El número de parados registrados en las oficinas del Instituto Nacional de Empleo (INEM) en Canarias en el mes de enero aumentó en 5.147 personas, lo que supone un incremento del 2,07 por ciento respecto al mes anterior, según los datos facilitados hoy por el Ministerio de Trabajo y Asuntos Sociales.",
+        "lemmatized_text": "el número de parado registrar en el oficina de el instituto_nacional_de_empleo inem en canarias en el [??:??/1/??:??.??:??] aumentar en 5.147 persona el que suponer uno incremento de el 2,07 por 100 respecto a el mes anterior según el dato facilitar hoy por el ministerio_de_trabajo y asuntos_sociales",
+        "lemmatized_text_reduced": "número parado registrar oficina instituto_nacional_de_empleo inem canarias aumentar persona suponer incremento respecto mes anterior dato facilitar ministerio_de_trabajo asuntos_sociales",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Instituto_Nacional_de_Empleo",
+            "INEM",
+            "Ministerio_de_Trabajo",
+            "Asuntos_Sociales"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "5.147",
+            "2,07",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "Con esta cifra, el número total de desempleados en la Comunidad se sitúa en 253.930 trabajadores. Asimismo, en términos interanuales, el paro aumentó en 37.954 personas, lo que representa un incremento de un 17,57 por ciento respecto al mismo mes del año anterior. En el conjunto nacional, el número de parados subió en 124.890 personas en enero, un 3,1 por ciento más respecto a diciembre, con lo que la cifra total de desempleados se situó en 4.048.493 personas. (Habrá ampliación)",
+        "lemmatized_text": "con este cifra el número total de desempleado en el comunidad se situar en 253.93 trabajador asimismo en término interanual el paro aumentar en 37.954 persona el que representar uno incremento de uno 17,57 por 100 respecto a el mismo mes de el año anterior en el conjunto nacional el número de parado subir en 124.89 persona en [??:??/1/??:??.??:??] uno 3,1 por 100 más respecto_a [??:??/12/??:??.??:??] con el que el cifra total de desempleado se situar en 4.048.493 persona haber ampliación",
+        "lemmatized_text_reduced": "cifra número total desempleado comunidad situar trabajador término interanual paro aumentar persona representar incremento respecto mismo mes año anterior conjunto nacional número parado subir persona cifra total desempleado situar persona haber ampliación",
+        "persons": [],
+        "locations": [
+            "Comunidad"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "253.93",
+            "37.954",
+            "17,57",
+            "100",
+            "124.89",
+            "3,1",
+            "100",
+            "4.048.493"
+        ]
+    }
+}

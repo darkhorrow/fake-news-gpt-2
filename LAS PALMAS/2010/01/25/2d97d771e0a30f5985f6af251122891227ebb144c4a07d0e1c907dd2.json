@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614245/0/",
+    "title": {
+        "raw_text": "El Ayuntamiento de Santa Lucía (Gran Canaria) donará 10.000 euros para los afectados por el terremoto de Haití",
+        "lemmatized_text": "el ayuntamiento_de_santa_lucía gran_canaria donar $_ECU:10 para el afectado por el terremoto de haití",
+        "lemmatized_text_reduced": "ayuntamiento_de_santa_lucía gran_canaria donar afectado terremoto haití",
+        "persons": [],
+        "locations": [
+            "Haití"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Santa_Lucía",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:10"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Santa Lucía (Gran Canaria) ha acordado hoy solidarizarse con el pueblo de Haití, y ha aprobado una donación de 10.000 euros con cargo a las partidas de la Concejalía de Solidaridad destinadas a emergencias, a fin de que esta cantidad ayude a los afectados por el terremoto en el país haitiano.",
+        "lemmatized_text": "el ayuntamiento_de_santa_lucía gran_canaria haber acordar hoy solidarizar se con el pueblo de haití y haber aprobar uno donación de $_ECU:10 con cargo a el partida de el concejalía_de_solidaridad destinar a emergencia a_fin_de que este cantidad ayudar a el afectado por el terremoto en el país haitiano",
+        "lemmatized_text_reduced": "ayuntamiento_de_santa_lucía gran_canaria haber acordar solidarizar pueblo haití haber aprobar donación cargo partida concejalía_de_solidaridad destinar emergencia cantidad ayudar afectado terremoto país haitiano",
+        "persons": [],
+        "locations": [
+            "Haití"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Santa_Lucía",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Concejalía_de_Solidaridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:10"
+        ]
+    },
+    "body": {
+        "raw_text": "La concejal de Solidaridad de Santa Lucía, Pino Sánchez, explicó que esta aportación \"supone un tercio del dinero con el que cuenta el Ayuntamiento para ayudas de emergencia internacional\". Asimismo, indicó en un comunicado que los 10.000 euros serán donados a la Cruz Roja. De todos modos, la junta de gobierno de dicho municipio además de expresar su solidaridad con los afectados por el terremoto de Haití, también criticó \"la grave situación que padece este pequeño país caribeño prácticamente desde su creación, sometido y explotado por los países ricos y por sus testaferros locales hasta la extenuación, dejándolo en una situación estructural de pobreza extrema\". Agregó que ha tenido que ocurrir una \"catástrofe de enormes dimensiones\" para que la comunidad internacional mire \"hacia el sufrimiento del pueblo haitiano\".",
+        "lemmatized_text": "el concejal de solidaridad_de_santa_lucía pino_sánchez explicar que este aportación suponer uno tercio de el dinero con el que contar el ayuntamiento para ayuda de emergencia internacional asimismo indicar en uno comunicado que el $_ECU:10 ser donar a el cruz_roja de_todos_modos el junta de gobierno de decir municipio además_de expresar su solidaridad con el afectado por el terremoto de haití también criticar el grave situación que padecer este pequeño país caribeño prácticamente desde su creación someter y explotar por el país rico y por su testaferro local hasta el extenuación dejar lo en uno situación estructural de pobreza extremo agregar que haber tener que ocurrir uno catástrofe de enorme dimensión para que el comunidad internacional mirar hacia el sufrimiento de el pueblo haitiano",
+        "lemmatized_text_reduced": "concejal solidaridad_de_santa_lucía pino_sánchez explicar aportación suponer tercio dinero contar ayuntamiento ayuda emergencia internacional indicar comunicado ser donar cruz_roja junta gobierno decir municipio expresar solidaridad afectado terremoto haití criticar grave situación padecer pequeño país caribeño prácticamente creación someter explotar país rico testaferro local extenuación dejar situación estructural pobreza extremo agregar haber tener ocurrir catástrofe enorme dimensión comunidad internacional mirar sufrimiento pueblo haitiano",
+        "persons": [
+            "Pino_Sánchez"
+        ],
+        "locations": [
+            "Haití"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Cruz_Roja"
+        ],
+        "others": [
+            "Solidaridad_de_Santa_Lucía"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:10"
+        ]
+    }
+}

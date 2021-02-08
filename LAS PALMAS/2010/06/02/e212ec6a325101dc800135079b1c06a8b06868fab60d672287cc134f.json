@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/725339/0/",
+    "title": {
+        "raw_text": "Gran Canaria contará desde este mes con una conexión con Boston",
+        "lemmatized_text": "gran_canaria contar desde este mes con uno conexión con boston",
+        "lemmatized_text_reduced": "gran_canaria contar mes conexión boston",
+        "persons": [],
+        "locations": [
+            "Boston"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La isla de Gran Canaria contará desde este mes con una conexión con la ciudad de Boston (EEUU) con escala en Ponta Delgada, en el archipiélago de las Azores, según informó hoy el Patronato de Turismo insular en un comunicado, quien matizó que la línea la operará la compañía aérea SATA y que habrá vuelos de ida los martes y de vuelta los jueves.",
+        "lemmatized_text": "el isla de gran_canaria contar desde este mes con uno conexión con el ciudad de boston eeuu con escala en ponta_delgada en el archipiélago de el azores según informar hoy el patronato_de_turismo insular en uno comunicado quien matizar que el línea lo operar el compañía aéreo sata y que haber vuelo de ida el [M:??/??/??:??.??:??] y de vuelta el [J:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "isla gran_canaria contar mes conexión ciudad boston eeuu escala ponta_delgada archipiélago azores informar patronato_de_turismo insular comunicado matizar línea operar compañía aéreo sata haber vuelo ida vuelta",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Boston",
+            "EEUU",
+            "Ponta_Delgada",
+            "Azores"
+        ],
+        "organizations": [
+            "Patronato_de_Turismo",
+            "SATA"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, el consejero de Turismo, Comercio Exterior e Innovación Tecnológica, Roberto Moreno, explicó que se trata de \"una iniciativa muy interesante\". \"Vamos a seguir explorando no sólo hacia y desde América sino también con ciudades africanas, a través de conexiones que nos permitan unir ambos continentes de la forma más cercana posible\", dijo. Estos acuerdos de colaboración se están plasmando también en otros aspectos, de tal forma que el Patronato de Turismo de Gran Canaria participará en un encuentro que se celebrará en Azores con touroperadores y agentes de viajes norteamericanos (estadounidenses y canadienses) en este mismo mes de junio. Además, la institución grancanaria ha puesto en marcha varias acciones promocionales con la compañía aérea SATA, entre las que destaca la proyección que realiza en la actualidad de los nuevos videos promocionales de la isla en todos sus vuelos.",
+        "lemmatized_text": "de este manera el consejero de turismo comercio_exterior y innovación_tecnológica roberto_moreno explicar que se tratar de uno iniciativa muy interesante ir a seguir explorar no_sólo hacia y desde américa sino también con ciudad africano a_través_de conexión que nos permitir unir ambos continente de el forma más cercano posible decir este acuerdo de colaboración se estar plasmar también en otro aspecto de tal forma que el patronato_de_turismo_de_gran_canaria participar en uno encuentro que se celebrar en azores con touroperadores y agente de viaje norteamericano estadounidense y canadiense en este mismo [??:??/6/??:??.??:??] además el institución grancanaria haber poner en marcha varios acción promocional con el compañía aéreo sata entre el que destacar el proyección que realizar en el actualidad de el nuevo video promocional de el isla en todo su vuelo",
+        "lemmatized_text_reduced": "manera consejero turismo comercio_exterior innovación_tecnológica roberto_moreno explicar tratar iniciativa interesante ir seguir explorar américa ciudad africano conexión permitir unir continente forma cercano posible decir acuerdo colaboración estar plasmar aspecto forma patronato_de_turismo_de_gran_canaria participar encuentro celebrar azores touroperadores agente viaje norteamericano estadounidense canadiense mismo institución grancanaria haber poner marcha acción promocional compañía aéreo sata destacar proyección realizar actualidad nuevo video promocional isla vuelo",
+        "persons": [
+            "Comercio_Exterior",
+            "Innovación_Tecnológica",
+            "Roberto_Moreno"
+        ],
+        "locations": [
+            "América",
+            "Azores"
+        ],
+        "organizations": [
+            "Patronato_de_Turismo_de_Gran_Canaria",
+            "SATA"
+        ],
+        "others": [
+            "Turismo"
+        ],
+        "dates": [
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

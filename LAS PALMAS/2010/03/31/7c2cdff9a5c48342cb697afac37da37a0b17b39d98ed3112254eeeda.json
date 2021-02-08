@@ -1,0 +1,132 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/666385/0/",
+    "title": {
+        "raw_text": "El precio de la vivienda en Canarias cae un 0,35% en el primer trimestre de 2010, según pisos.com",
+        "lemmatized_text": "el precio de el vivienda en canarias caer uno 0,35/100 en el 1 trimestre de 2010 según piso com",
+        "lemmatized_text_reduced": "precio vivienda canarias caer 1 trimestre piso com",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "0,35/100",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "La vivienda de los municipios turísticos de Adeje (Tenerife) y Mogán (Gran Canaria) son los más caros",
+        "lemmatized_text": "el vivienda de el municipio turístico de adeje tenerife y mogán gran_canaria ser el más caro",
+        "lemmatized_text_reduced": "vivienda municipio turístico adeje tenerife mogán gran_canaria ser caro",
+        "persons": [
+            "Mogán"
+        ],
+        "locations": [
+            "Adeje"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El precio de la vivienda en Canarias ha caído un 0,35 por ciento en el primer trimestre de 2010, lo que refleja un esfuerzo de los propietarios para acercarse a los precios que exigen los compradores, según el Índice del Mercado Inmobiliario de pisos.com. \"La bajada acumulada del precio de la vivienda durante los tres primeros meses del año nos indica que los vendedores continúan esforzándose por acercarse a la demanda\", aseguró el director general de pisos.com, Miguel Ángel Alemany. Según el informe mensual de precios de venta elaborado por pisos.com, la vivienda en España en marzo de 2010 tiene un precio medio de 2.426 euros por metro cuadrado, con un descenso mensual del 0,75 por ciento, mientras que en Canarias el descenso mensual es menos significativo (-0,80%). Las regiones más caras son País Vasco (3.941 euros/metro cuadrado), Madrid (3.010 euros/metro cuadrado), Cataluña (2.871 euros/metro cuadrado), Cantabria (2.598 euros/metro cuadrado) y Baleares (2.578 euros/metro cuadrado) mientras que las más baratas son Extremadura (1.462 euros/metro cuadrado), Castilla-La Mancha (1.650 euros/metro cuadrado), Castilla y León (1.821 euros/metro cuadrado), Murcia (1.897 euros/metro cuadrado), Comunidad Valenciana (1.924 euros/metro cuadrado) y Canarias (2.006 euros/metro cuadrado). Las casas en la provincia de Las Palmas han bajado considerablemente (-1,27%), mientras que Santa Cruz ha subido de forma poco significativa (0,09%). Las provincias españolas que han registrado un aumento mayor han sido Palencia (3,45%), Zamora (3,41%), Huesca (2,21%), Guipúzcoa (2,11%) y Cuenca (2,05%). En cuanto a los descensos, los más llamativos durante el periodo estudiado se han registrado en Toledo (-3,04%), Castellón (-2,50%), La Rioja (-2,44%) y Salamanca (-2,43%). Adeje y mogán los más caros El municipio más caro en Canarias es Adeje, en Tenerife, con un precio medio por metro cuadrado de 2.542 euros. Le siguen Mogán (2.505 euros/metro cuadrado) y Puerto de la Cruz (2.299 euros/metro cuadrado). Por el contrario, los tres municipios de Canarias que han registrado los precios más económicos durante el mes de marzo son: Ingenio (1.401 euros/metro cuadrado), Arrecife (1.504 euros/metro cuadrado) y San Miguel de Abona (1.522 euros/metro cuadrado).",
+        "lemmatized_text": "el precio de el vivienda en canarias haber caer uno 0,35 por 100 en el 1 trimestre de 2010 el que reflejar uno esfuerzo de el propietario para acercar se a el precio que exigir el comprador según el índice_del_mercado_inmobiliario de piso com el bajada acumular de el precio de el vivienda durante el 3 1 mes de el año nos indicar que el vendedor continuar esforzar se por acercar se a el demanda asegurar el director general de piso com miguel_ángel_alemany según el informe mensual de precio de venta elaborar por piso com el vivienda en españa en [??:??/3/2010:??.??:??] tener uno precio medio de $_ECU:2.426 por metro cuadrado con uno descenso mensual de el 0,75 por 100 mientras_que en canarias el descenso mensual ser menos significativo -0,80/100 el región más caro ser país_vasco $_ECU:3.941 metro cuadrado madrid $_ECU:3.01 metro cuadrado cataluña $_ECU:2.871 metro cuadrado cantabria $_ECU:2.598 metro cuadrado y baleares $_ECU:2.578 metro cuadrar mientras_que el más barato ser extremadura $_ECU:1.462 metro cuadrado castilla-la_mancha $_ECU:1.65 metro cuadrado castilla y león $_ECU:1.821 metro cuadrado murcia $_ECU:1.897 metro cuadrado comunidad_valenciana $_ECU:1.924 metro cuadrado y canarias $_ECU:2.006 metro cuadrado el casa en el provincia de las_palmas haber bajar considerablemente -1,27/100 mientras_que santa_cruz haber subir de forma poco significativo 0,09/100 el provincia español que haber registrar uno aumento mayor haber ser palencia 3,45/100 zamora 3,41/100 huesca 2,21/100 guipúzcoa 2,11/100 y cuenca 2,05/100 en_cuanto_a el descenso el más llamativo durante el periodo estudiar se haber registrar en toledo -3,04/100 castellón -2,50/100 la_rioja -2,44/100 y salamanca -2,43/100 adeje y mogán el más caro el municipio más caro en canarias ser adeje en tenerife con uno precio medio por metro cuadrado de $_ECU:2.542 le seguir mogán $_ECU:2.505 metro cuadrado y puerto_de_la_cruz $_ECU:2.299 metro cuadrado por_el_contrario el 3 municipio de canarias que haber registrar el precio más económico durante el [??:??/3/??:??.??:??] ser ingenio $_ECU:1.401 metro cuadrado arrecife $_ECU:1.504 metro cuadrado y san_miguel_de_abona $_ECU:1.522 metro cuadrado",
+        "lemmatized_text_reduced": "precio vivienda canarias haber caer 1 trimestre reflejar esfuerzo propietario acercar precio exigir comprador índice_del_mercado_inmobiliario piso com bajada acumular precio vivienda 1 mes año indicar vendedor continuar esforzar acercar demanda asegurar director general piso com miguel_ángel_alemany informe mensual precio venta elaborar piso com vivienda españa tener precio medio metro cuadrado descenso mensual canarias descenso mensual ser significativo región caro ser país_vasco metro cuadrado madrid metro cuadrado cataluña metro cuadrado cantabria metro cuadrado baleares metro cuadrar barato ser extremadura metro cuadrado castilla-la_mancha metro cuadrado castilla león metro cuadrado murcia metro cuadrado comunidad_valenciana metro cuadrado canarias metro cuadrado casa provincia las_palmas haber bajar considerablemente santa_cruz haber subir forma significativo provincia español haber registrar aumento mayor haber ser palencia zamora huesca guipúzcoa cuenca descenso llamativo periodo estudiar haber registrar toledo castellón la_rioja salamanca adeje mogán caro el municipio caro canarias ser adeje tenerife precio medio metro cuadrado seguir mogán metro cuadrado puerto_de_la_cruz metro cuadrado municipio canarias haber registrar precio económico ser ingenio metro cuadrado arrecife metro cuadrado san_miguel_de_abona metro cuadrado",
+        "persons": [
+            "Miguel_Ángel_Alemany",
+            "León",
+            "Zamora",
+            "El",
+            "Mogán"
+        ],
+        "locations": [
+            "Canarias",
+            "España",
+            "Canarias",
+            "País_Vasco",
+            "Madrid",
+            "Cataluña",
+            "Cantabria",
+            "Baleares",
+            "Extremadura",
+            "Castilla-La_Mancha",
+            "Castilla",
+            "Murcia",
+            "Comunidad_Valenciana",
+            "Canarias",
+            "Santa_Cruz",
+            "Palencia",
+            "Huesca",
+            "Guipúzcoa",
+            "Cuenca",
+            "Toledo",
+            "Castellón",
+            "La_Rioja",
+            "Salamanca",
+            "Canarias",
+            "Tenerife",
+            "Puerto_de_la_Cruz",
+            "Canarias",
+            "Arrecife",
+            "San_Miguel_de_Abona"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Adeje"
+        ],
+        "others": [
+            "Índice_del_Mercado_Inmobiliario"
+        ],
+        "dates": [
+            "[??:??/3/2010:??.??:??]",
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "0,35",
+            "100",
+            "2010",
+            "3",
+            "$_ECU:2.426",
+            "0,75",
+            "100",
+            "-0,80/100",
+            "$_ECU:3.941",
+            "$_ECU:3.01",
+            "$_ECU:2.871",
+            "$_ECU:2.598",
+            "$_ECU:2.578",
+            "$_ECU:1.462",
+            "$_ECU:1.65",
+            "$_ECU:1.821",
+            "$_ECU:1.897",
+            "$_ECU:1.924",
+            "$_ECU:2.006",
+            "-1,27/100",
+            "0,09/100",
+            "3,45/100",
+            "3,41/100",
+            "2,21/100",
+            "2,11/100",
+            "2,05/100",
+            "-3,04/100",
+            "-2,50/100",
+            "-2,44/100",
+            "-2,43/100",
+            "$_ECU:2.542",
+            "$_ECU:2.505",
+            "$_ECU:2.299",
+            "3",
+            "$_ECU:1.401",
+            "$_ECU:1.504",
+            "$_ECU:1.522"
+        ]
+    }
+}

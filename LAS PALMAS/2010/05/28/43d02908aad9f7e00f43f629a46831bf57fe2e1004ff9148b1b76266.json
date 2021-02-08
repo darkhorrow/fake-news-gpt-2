@@ -1,0 +1,101 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/721109/0/",
+    "title": {
+        "raw_text": "Caja Madrid, Laietana y las cajas de Ávila, Canarias, Segovia y Rioja inician conversaciones para un SIP",
+        "lemmatized_text": "caja_madrid laietana y el caja de ávila canarias segovia y rioja iniciar conversación para uno sip",
+        "lemmatized_text_reduced": "caja_madrid laietana caja ávila canarias segovia rioja iniciar conversación sip",
+        "persons": [
+            "Laietana"
+        ],
+        "locations": [
+            "Ávila",
+            "Canarias",
+            "Segovia",
+            "Rioja"
+        ],
+        "organizations": [
+            "Caja_Madrid"
+        ],
+        "others": [
+            "SIP"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Caja Madrid, Caja Avila, La Caja Insular de Ahorros de Canarias, Caixa Laietana, Caja Segovia y Caja Rioja confirmaron hoy a la Comisión Nacional del Mercado de Valores (CNMV) que han iniciado \"conversaciones para la posible formación de un Sistema Institucional de Protección (SIP)\".",
+        "lemmatized_text": "caja_madrid caja_avila la_caja_insular_de_ahorros_de_canarias caixa_laietana caja_segovia y caja_rioja confirmar hoy a el comisión_nacional_del_mercado_de_valores cnmv que haber iniciar conversación para el posible formación de uno sistema_institucional_de_protección sip",
+        "lemmatized_text_reduced": "caja_madrid caja_avila la_caja_insular_de_ahorros_de_canarias caixa_laietana caja_segovia caja_rioja confirmar comisión_nacional_del_mercado_de_valores cnmv haber iniciar conversación posible formación sistema_institucional_de_protección sip",
+        "persons": [
+            "Caixa_Laietana",
+            "Caja_Segovia"
+        ],
+        "locations": [],
+        "organizations": [
+            "Caja_Madrid",
+            "Caja_Avila",
+            "La_Caja_Insular_de_Ahorros_de_Canarias",
+            "Caja_Rioja",
+            "Comisión_Nacional_del_Mercado_de_Valores",
+            "CNMV",
+            "SIP"
+        ],
+        "others": [
+            "Sistema_Institucional_de_Protección"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El proceso está en \"fase preliminar\" y sujeto a la aprobación de los órganos de gobierno de las cajas, así como de las autoridades administrativas competentes, según indicaron las seis entidades, aunque el vicepresidente y consejero de Economía y Hacienda del Gobierno de Canarias, José Manuel Soria, reveló hoy que si la operación \"sale bien\" podría confirmarse en los próximos días. Este anuncio se produce el mismo día en el que 'La Caixa' confirmó que mantiene \"conversaciones\" con Caixa Girona para \"un posible proceso de fusión\", después de que esta entidad se descolgase de la fusión de 'Unnim'. Las cajas de ahorros han acelerado sus conversaciones en las últimas semanas para cerrar los procesos de integración cuanto antes y culminar la reestructuración del sector financiero. En este sentido, la vicepresidenta segunda del Gobierno y ministra de Economía y Hacienda, Elena Salgado, aseguró hoy que el Gobierno y el Banco de España tienen la \"determinación\" de que la reordenación concluya antes del 30 de junio, por lo que con toda probabilidad no será necesaria una prórroga para solicitar la ayuda del FROB (Fondo de Reestructuración Ordenada Bancaria). Las dos principales cajas de ahorro españolas tomaron hoy la iniciativa para ser parte activa del proceso de reordenación, que dará lugar a los dos grupos más importantes del sector por volumen de activos y con un gran presencia en toda la geografía española. Por su parte, Sa Nostra también confirmó hoy que aprobará en diez días un protocolo de actuación para fusionarse con otras cajas de ahorros en un SIP), en el que podrían estar CajaMurcia, CajaGranada y Caixa Penedés. El pasado lunes, Caja de Ahorros del Mediterráneo (CAM), Cajastur, Caja Extremadura y Caja Cantabria también anunciaron su integrarán en una 'fusión fría' para reforzar la solvencia y patrimonio de cada una de ellas, con lo que más de quince entidades anunciaron esta semana un posible proceso de integración. El presidente de Caja Madrid, Rodrigo Rato, manifestó recientemente que el número de cajas se reducirá a menos de la mitad al final del proceso de reestructuración del sistema financiero, y que podría situase en torno a 20 entidades.",
+        "lemmatized_text": "el proceso estar en fase preliminar y sujeto a el aprobación de el órgano de gobierno de el caja así_como de el autoridad administrativo competente según indicar el 6 entidad aunque el vicepresidente y consejero de economía y hacienda_del_gobierno_de_canarias josé_manuel_soria revelar hoy que si el operación salir bien poder confirmar se en el próximo día este anuncio se producir el mismo día en el que el caixa confirmar que mantener conversación con caixa_girona para uno posible proceso de fusión después_de que este entidad se descolgar de el fusión de unnim el caja de ahorro haber acelerar su conversación en el último semana para cerrar el proceso de integración cuanto_antes y culminar el reestructuración de el sector financiero en este sentido el vicepresidente 2 de el gobierno y ministro de economía y hacienda elena_salgado asegurar hoy que el gobierno y el banco_de_españa tener el determinación de que el reordenación concluir antes de el [??:30/6/??:??.??:??] por el que con todo probabilidad no ser necesario uno prórroga para solicitar el ayuda de el frob fondo_de_reestructuración_ordenada_bancaria el 2 principal caja de ahorro español tomar hoy el iniciativa para ser parte activo de el proceso de reordenación que dar lugar a el 2 grupo más importante de el sector por volumen de activo y con uno gran presencia en todo el geografía español por su parte sa_nostra también confirmar hoy que aprobar en TM_d:10 uno protocolo de actuación para fusionar se con otro caja de ahorro en uno sip en el que poder estar cajamurcia cajagranada y caixa_penedés el [L:??/??/??:??.??:??] caja_de_ahorros_del_mediterráneo cam cajastur caja_extremadura y caja_cantabria también anunciar su integrar en uno fusión frío para reforzar el solvencia y patrimonio de cada uno de ellos con el que más de 15 entidad anunciar este semana uno posible proceso de integración el presidente de caja_madrid rodrigo_rato manifestar recientemente que el número de caja se reducir a menos de el mitad a el final de el proceso de reestructuración de el sistema financiero y que poder situar en_torno_a 20 entidad",
+        "lemmatized_text_reduced": "proceso estar fase preliminar sujeto aprobación órgano gobierno caja autoridad administrativo competente indicar entidad vicepresidente consejero economía hacienda_del_gobierno_de_canarias josé_manuel_soria revelar operación salir poder confirmar próximo día anuncio producir mismo día caixa confirmar mantener conversación caixa_girona posible proceso fusión entidad descolgar fusión unnim caja ahorro haber acelerar conversación último semana cerrar proceso integración culminar reestructuración sector financiero sentido vicepresidente 2 gobierno ministro economía hacienda elena_salgado asegurar gobierno banco_de_españa tener determinación reordenación concluir probabilidad ser necesario prórroga solicitar ayuda frob fondo_de_reestructuración_ordenada_bancaria principal caja ahorro español tomar iniciativa ser parte activo proceso reordenación dar lugar grupo importante sector volumen activo gran presencia geografía español parte sa_nostra confirmar aprobar protocolo actuación fusionar caja ahorro sip poder estar cajamurcia cajagranada caixa_penedés caja_de_ahorros_del_mediterráneo cam cajastur caja_extremadura caja_cantabria anunciar integrar fusión frío reforzar solvencia patrimonio entidad anunciar semana posible proceso integración presidente caja_madrid rodrigo_rato manifestar recientemente número caja reducir mitad final proceso reestructuración sistema financiero poder situar entidad",
+        "persons": [
+            "José_Manuel_Soria",
+            "Elena_Salgado",
+            "Rodrigo_Rato"
+        ],
+        "locations": [],
+        "organizations": [
+            "Economía",
+            "Hacienda_del_Gobierno_de_Canarias",
+            "Caixa",
+            "Caixa_Girona",
+            "Unnim",
+            "Gobierno",
+            "Economía",
+            "Hacienda",
+            "Gobierno",
+            "Banco_de_España",
+            "FROB",
+            "Fondo_de_Reestructuración_Ordenada_Bancaria",
+            "Sa_Nostra",
+            "CajaMurcia",
+            "CajaGranada",
+            "Caixa_Penedés",
+            "Caja_de_Ahorros_del_Mediterráneo",
+            "CAM",
+            "Cajastur",
+            "Caja_Extremadura",
+            "Caja_Cantabria",
+            "Caja_Madrid"
+        ],
+        "others": [
+            "SIP"
+        ],
+        "dates": [
+            "[??:30/6/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "6",
+            "2",
+            "2",
+            "TM_d:10",
+            "15",
+            "20"
+        ]
+    }
+}

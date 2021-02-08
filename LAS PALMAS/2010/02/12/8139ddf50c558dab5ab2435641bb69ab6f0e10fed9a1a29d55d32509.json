@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/628445/0/",
+    "title": {
+        "raw_text": "Policía Local de Telde (Gran Canaria) sorprende a dos vehículos que realizaban una competición de velocidad ilegal",
+        "lemmatized_text": "policía_local_de_telde gran_canaria sorprender a 2 vehículo que realizar uno competición de velocidad ilegal",
+        "lemmatized_text_reduced": "policía_local_de_telde gran_canaria sorprender vehículo realizar competición velocidad ilegal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local_de_Telde",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Agentes de Unidad Nocturna de la Policía Local del municipio de Telde, en Gran Canaria, sorprendieron durante la madrugada de hoy, 12 de febrero, --00.45 horas-- a dos vehículos que realizaban una competición de velocidad ilegal en la avenida del Cabildo, en dirección Telde-Valsequillo, informó hoy el Ayuntamiento en un comunicado.",
+        "lemmatized_text": "agentes_de_unidad_nocturna_de_la_policía_local de el municipio de telde en gran_canaria sorprender durante el madrugada de hoy [??:12/2/??:??.??:??] TM_h:0.45 a 2 vehículo que realizar uno competición de velocidad ilegal en el avenida de el cabildo en dirección telde-valsequillo informar hoy el ayuntamiento en uno comunicado",
+        "lemmatized_text_reduced": "agentes_de_unidad_nocturna_de_la_policía_local municipio telde gran_canaria sorprender madrugada vehículo realizar competición velocidad ilegal avenida cabildo dirección telde-valsequillo informar ayuntamiento comunicado",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria",
+            "Cabildo"
+        ],
+        "organizations": [
+            "Telde-Valsequillo",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Agentes_de_Unidad_Nocturna_de_la_Policía_Local"
+        ],
+        "dates": [
+            "[??:12/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:0.45",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, los vehículos, de la marca Citroen y de color blanco, suponían un \"evidente\" riesgo para la seguridad del resto de usuarios de la vía. Así, los agentes actuantes consiguieron que los vehículos se detuvieran. Después de comprobar que efectivamente estaban realizando competiciones de velocidad, procedieron a la identificación de sus conductores, A.A.C., vecino de Ingenio y J.R.R., vecino de Las Palmas de Gran Canaria. Finalmente, los agentes procedieron a denunciar a los conductores por infracción al reglamento general de circulación.",
+        "lemmatized_text": "de este manera el vehículo de el marca citroen y de color blanco suponer uno evidente riesgo para el seguridad de el resto de usuario de el vía así el agente actuante conseguir que el vehículo se detener después_de comprobar que efectivamente estar realizar competición de velocidad proceder a el identificación de su conductor a.a.c. vecino de ingenio y j.r.r. vecino de las_palmas_de_gran_canaria finalmente el agente proceder a denunciar a el conductor por infracción a el reglamento general de circulación",
+        "lemmatized_text_reduced": "manera vehículo marca citroen color blanco suponer evidente riesgo seguridad resto usuario vía agente actuante conseguir vehículo detener comprobar efectivamente estar realizar competición velocidad proceder identificación conductor a.a.c. vecino ingenio j.r.r. vecino las_palmas_de_gran_canaria finalmente agente proceder denunciar conductor infracción reglamento general circulación",
+        "persons": [],
+        "locations": [
+            "Ingenio",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "A.A.C.",
+            "J.R.R."
+        ],
+        "others": [
+            "Citroen"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

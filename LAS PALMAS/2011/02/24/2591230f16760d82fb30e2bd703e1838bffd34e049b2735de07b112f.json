@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/970729/0/",
+    "title": {
+        "raw_text": "Dos heridos en un atropello en Las Palmas de Gran Canaria",
+        "lemmatized_text": "2 herido en uno atropello en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "herido atropello las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos personas han resultado heridas este jueves en un atropello en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "2 persona haber resultar herida este [J:??/??/??:??.??:??] en uno atropello en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "persona haber resultar herida atropello las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Dos personas han resultado heridas este jueves en un atropello en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos se produjeron sobre las 19.30 horas de este jueves en la Avenida Marítima de la capital grancanaria, a la altura del edificio Woerman, donde un motorista atropelló a un peatón. Ambos fueron trasladados hasta el Hospital Dr. Negrín, en la capital grancanaria, el motorista, de 44 años de edad, con policontusiones de carácter leve, y el peatón, de 54 años de edad, sufrió traumatismo en miembro inferior de carácter grave. En el lugar se personaron además de personal del Servicio de Urgencias Canario (SUC), agentes de la Policía Local.",
+        "lemmatized_text": "2 persona haber resultar herida este [J:??/??/??:??.??:??] en uno atropello en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho se producir sobre el TM_h:19.3 de este [J:??/??/??:??.??:??] en el avenida_marítima de el capital grancanaria a el altura de el edificio woerman donde uno motorista atropellar a uno peatón ambos ser trasladar hasta el hospital_dr._negrín en el capital grancanaria el motorista de 44 año de edad con policontusión de carácter leve y el peatón de 54 año de edad sufrir traumatismo en miembro inferior de carácter grave en el lugar se personar además_de personal de el servicio_de_urgencias_canario suc agente de el policía_local",
+        "lemmatized_text_reduced": "persona haber resultar herida atropello las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad hecho producir avenida_marítima capital grancanaria altura edificio woerman motorista atropellar peatón ser trasladar hospital_dr._negrín capital grancanaria motorista año edad policontusión carácter leve peatón año edad sufrir traumatismo miembro inferior carácter grave lugar personar personal servicio_de_urgencias_canario suc agente policía_local",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Avenida_Marítima",
+            "Woerman"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Hospital_Dr._Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112",
+            "TM_h:19.3",
+            "44",
+            "54"
+        ]
+    }
+}

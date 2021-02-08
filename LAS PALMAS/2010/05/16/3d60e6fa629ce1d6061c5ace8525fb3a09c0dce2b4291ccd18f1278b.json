@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/708529/0/",
+    "title": {
+        "raw_text": "Investigadores de la ULPGC desarrollan uno de los silabeadores de palabras y conjugador verbal más completos de Internet",
+        "lemmatized_text": "investigadores_de_la_ulpgc desarrollar uno de el silabeadores de palabra y conjugador verbal más completo de internet",
+        "lemmatized_text_reduced": "investigadores_de_la_ulpgc desarrollar silabeadores palabra conjugador verbal completo internet",
+        "persons": [
+            "Investigadores_de_la_ULPGC"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Internet"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El grupo de investigación Text & Information Processing (TIP) del Departamento de Informática y Sistemas de la Universidad de Las Palmas de Gran Canaria (ULPGC) --compuesto por los investigadores Francisco Carreras, Zenón Hernández y Gustavo Rodríguez-- ha desarrollado dos recursos lingüísticos gratuitos en Internet con características novedosas para los aprendices y usuarios de la lengua española: un silabeador de palabras y un conjugador verbal que \"aunque existen otras herramientas similares disponibles en Internet, ninguna es tan completa y con un detalle tan preciso\" como la desarrollada por este grupo.",
+        "lemmatized_text": "el grupo de investigación text_&_information_processing tip de el departamento_de_informática y sistemas_de_la_universidad_de_las_palmas_de_gran_canaria ulpgc componer por el investigador francisco_carreras zenón_hernández y gustavo_rodríguez haber desarrollar 2 recurso lingüístico gratuito en internet con característica novedoso para el aprendiz y usuario de el lengua español uno silabeador de palabra y uno conjugador verbal que aunque existir otro herramienta similar disponible en internet ninguno ser tan completo y con uno detalle tan preciso como el desarrollar por este grupo",
+        "lemmatized_text_reduced": "grupo investigación text_&_information_processing tip departamento_de_informática sistemas_de_la_universidad_de_las_palmas_de_gran_canaria ulpgc componer investigador francisco_carreras zenón_hernández gustavo_rodríguez haber desarrollar recurso lingüístico gratuito internet característica novedoso aprendiz usuario lengua español silabeador palabra conjugador verbal existir herramienta similar disponible internet ser completo detalle preciso desarrollar grupo",
+        "persons": [
+            "TIP",
+            "Francisco_Carreras",
+            "Zenón_Hernández",
+            "Gustavo_Rodríguez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Text_&_Information_Processing",
+            "Departamento_de_Informática",
+            "Sistemas_de_la_Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC"
+        ],
+        "others": [
+            "Internet",
+            "Internet"
+        ],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, la Institución educativa explicó que el Silabeador-TIP es una aplicación en línea, que realiza la división silábica de cualquier palabra de la lengua española. Usa un sistema de división en sílabas, el cual está basado en criterios ortográficos. Estos criterios se complementan con una herramienta de análisis morfológico, que tiene capacidad para cuatro millones de palabras, lo cual permite identificar, entre otras cosas, los adverbios terminados en -mente, que según la Real Academia Española llevan doble acentuación; y con una base de datos, que tiene más de 80.000 relaciones semántico-léxicas, para realizar divisiones silábicas de forma inteligente por componentes, averiguando, primero, si la palabra existe, para posteriormente identificar la posible existencia de afijos que condicionen la división silábica. El código fuente en C++ del silabeador básico se puede descargar gratuitamente bajo licencia GNU (General Public License). Silabeador-TIP tiene en cuenta las normas generales de separación de sílabas y formación de grupos consonánticos, diptongos, triptongos e hiatos. Por su parte, el Conjugador TIP está actualizado con la Nueva gramática de la lengua española (2009), el Diccionario de la lengua española de la Real Academia Española (2006), el Diccionario panhispánico de dudas de la Real Academia Española (2005) y la Base de datos del Instituto de Verbología Hispánica (2006). No usa reglas para conjugar, sino una base de datos de más de 14000 verbos conjugados. Incorpora la conjugación según las costumbres Canarias. Las características más novedosas de este sistema son la conjugación por zonas geográficas (voseo, Canaria, respeto), pronominal, negada y sujeto femenino; conjugación por significados (poner, llover, apostar,...); muestra la frecuencia de aparición de las formas conjugadas en el CREA (Corpus de Referencia del Español Actual); muestra las formas con pronombres enclíticos que aparecen en el CREA; información detallada de las irregularidades de cada verbo (morfológica y ortográfica); y muestra una clasificación detallada para las irregularidades de los participios. Además, se pueden resaltar las formas que cumplen una irregularidad concreta; cuenta con listados de verbos que cumplen una irregularidad concreta y listados de verbos con el mismo modelo de conjugación.",
+        "lemmatized_text": "en uno comunicado el institución educativo explicar que el silabeador-tip ser uno aplicación en_línea que realizar el división silábico de cualquiera palabra de el lengua español usar uno sistema de división en sílaba el cual estar basar en criterio ortográfico este criterio se complementar con uno herramienta de análisis morfológico que tener capacidad para 4000000 de palabra el cual permitir identificar entre otro cosa el adverbio terminar en mente que según el real_academia_española llevar doble acentuación y con uno base de dato que tener más de 80 relación semántico-léxicas para realizar división silábico de forma inteligente por componente averiguar primero si el palabra existir para posteriormente identificar el posible existencia de afijo que condicionar el división silábico el código fuente en c++ de el silabeador básico se poder descargar gratuitamente bajo licencia gnu general_public_license silabeador-tip tener_en_cuenta el norma general de separación de sílaba y formación de grupo consonántico diptongo triptongo y hiato por su parte el conjugador_tip estar actualizar con el nueva gramático de el lengua español 2009 el diccionario de el lengua español de el real_academia_española 2006 el diccionario panhispánico de duda de el real_academia_española 2005 y el base de dato de el instituto_de_verbología_hispánica 2006 no usar regla para conjugar sino uno base de dato de más de 14000 verbo conjugar incorporar el conjugación según el costumbre canarias el característica más novedoso de este sistema ser el conjugación por zona geográfico voseo canaria respeto pronominal negado y sujeto femenino conjugación por significado poner llover apostar mostrar el frecuencia de aparición de el forma conjugar en el crea corpus_de_referencia_del_español_actual mostrar el forma con pronombre enclítico que aparecer en el crea información detallar de el irregularidad de cada verbo morfológico y ortográfico y mostrar uno clasificación detallar para el irregularidad de el participio además se poder resaltar el forma que cumplir uno irregularidad concreto contar con listado de verbo que cumplir uno irregularidad concreto y listar de verbo con el mismo modelo de conjugación",
+        "lemmatized_text_reduced": "comunicado institución educativo explicar silabeador-tip ser aplicación realizar división silábico palabra lengua español usar sistema división sílaba estar basar criterio ortográfico criterio complementar herramienta análisis morfológico tener capacidad palabra permitir identificar cosa adverbio terminar mente real_academia_española llevar doble acentuación base dato tener relación semántico-léxicas realizar división silábico forma inteligente componente averiguar palabra existir posteriormente identificar posible existencia afijo condicionar división silábico código fuente c++ silabeador básico poder descargar gratuitamente licencia gnu general_public_license silabeador-tip tener_en_cuenta norma general separación sílaba formación grupo consonántico diptongo triptongo hiato parte conjugador_tip estar actualizar nueva gramático lengua español diccionario lengua español real_academia_española diccionario panhispánico duda real_academia_española base dato instituto_de_verbología_hispánica usar regla conjugar base dato verbo conjugar incorporar conjugación costumbre canarias característica novedoso sistema ser conjugación zona geográfico voseo canaria respeto pronominal negado sujeto femenino conjugación significado poner llover apostar mostrar frecuencia aparición forma conjugar crea corpus_de_referencia_del_español_actual mostrar forma pronombre enclítico aparecer crea información detallar irregularidad verbo morfológico ortográfico mostrar clasificación detallar irregularidad participio poder resaltar forma cumplir irregularidad concreto contar listado verbo cumplir irregularidad concreto listar verbo mismo modelo conjugación",
+        "persons": [],
+        "locations": [
+            "C++",
+            "Canarias",
+            "Canaria"
+        ],
+        "organizations": [
+            "Institución",
+            "Silabeador-TIP",
+            "Real_Academia_Española",
+            "GNU",
+            "General_Public_License",
+            "Silabeador-TIP",
+            "Conjugador_TIP",
+            "Nueva",
+            "Diccionario",
+            "Real_Academia_Española",
+            "Diccionario",
+            "Real_Academia_Española",
+            "Instituto_de_Verbología_Hispánica",
+            "CREA",
+            "Corpus_de_Referencia_del_Español_Actual",
+            "CREA"
+        ],
+        "others": [
+            "Base"
+        ],
+        "dates": [],
+        "numbers": [
+            "4000000",
+            "80",
+            "2009",
+            "2006",
+            "2005",
+            "2006",
+            "14000"
+        ]
+    }
+}

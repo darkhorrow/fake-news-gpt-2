@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922934/0/",
+    "title": {
+        "raw_text": "El presidente de la Cámara de Comercio de Gran Canaria muere tras varios días ingresado al sufrir un infarto",
+        "lemmatized_text": "el presidente de el cámara_de_comercio_de_gran_canaria morir tras varios día ingresar a el sufrir uno infarto",
+        "lemmatized_text_reduced": "presidente cámara_de_comercio_de_gran_canaria morir día ingresar sufrir infarto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Comercio_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de la Cámara de Comercio, Industria y Navegación de Gran Canaria y propietario del Grupo Duna, Ángel Luis Tadeo, ha fallecido tras varios días ingresado después de sufrir un infarto.",
+        "lemmatized_text": "el presidente de el cámara_de_comercio industria y navegación_de_gran_canaria y propietario de el grupo_duna ángel_luis_tadeo haber fallecer tras varios día ingresar después_de sufrir uno infarto",
+        "lemmatized_text_reduced": "presidente cámara_de_comercio industria navegación_de_gran_canaria propietario grupo_duna ángel_luis_tadeo haber fallecer día ingresar sufrir infarto",
+        "persons": [
+            "Ángel_Luis_Tadeo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Comercio",
+            "Industria",
+            "Navegación_de_Gran_Canaria",
+            "Grupo_Duna"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente de la Cámara de Comercio, Industria y Navegación de Gran Canaria y propietario del Grupo Duna, Ángel Luis Tadeo, ha fallecido tras varios días ingresado después de sufrir un infarto. Tadeo tuvo en la noche de Reyes una parada cardiorrespiratoria, por lo que fue ingresado en el Hospital Dr. Negrín de Gran Canaria, en Las Palmas de Gran Canaria, donde falleció en la tarde del sábado, 8 de enero, según informó la Cámara de Comercio en un comunicado. La capilla ardiente de Tadeo está instalada en el Tanatorio San Miguel, en la zona de Las Torres de la capital grancanaria.",
+        "lemmatized_text": "el presidente de el cámara_de_comercio industria y navegación_de_gran_canaria y propietario de el grupo_duna ángel_luis_tadeo haber fallecer tras varios día ingresar después_de sufrir uno infarto tadeo tener en el noche de reyes uno parada cardiorrespiratoria por el que ser ingresar en el hospital_dr._negrín_de_gran_canaria en las_palmas_de_gran_canaria donde fallecer en el tarde de el [S:8/1/??:??.??:??] según informar el cámara_de_comercio en uno comunicado el capilla ardiente de tadeo estar instalar en el tanatorio_san_miguel en_la_zona_de las_torres de el capital grancanaria",
+        "lemmatized_text_reduced": "presidente cámara_de_comercio industria navegación_de_gran_canaria propietario grupo_duna ángel_luis_tadeo haber fallecer día ingresar sufrir infarto tadeo tener noche reyes parada cardiorrespiratoria ser ingresar hospital_dr._negrín_de_gran_canaria las_palmas_de_gran_canaria fallecer tarde informar cámara_de_comercio comunicado capilla ardiente tadeo estar instalar tanatorio_san_miguel las_torres capital grancanaria",
+        "persons": [
+            "Ángel_Luis_Tadeo",
+            "Tadeo",
+            "Reyes"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Tadeo",
+            "Tanatorio_San_Miguel",
+            "Las_Torres"
+        ],
+        "organizations": [
+            "Cámara_de_Comercio",
+            "Industria",
+            "Navegación_de_Gran_Canaria",
+            "Grupo_Duna",
+            "Hospital_Dr._Negrín_de_Gran_Canaria",
+            "Cámara_de_Comercio"
+        ],
+        "others": [],
+        "dates": [
+            "[S:8/1/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

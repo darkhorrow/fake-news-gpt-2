@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/601189/0/",
+    "title": {
+        "raw_text": "Canarias registrará mañana cielos nubosos y alguna precipitación débil",
+        "lemmatized_text": "canario registrar mañana cielo nuboso y alguno precipitación débil",
+        "lemmatized_text_reduced": "canario registrar cielo nuboso precipitación débil",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Once comunidades autónomas estarán mañana en alerta por nevadas y bajan las temperaturas en toda España",
+        "lemmatized_text": "11 comunidad autónomo estar mañana en alerta por nevada y bajar el temperatura en todo españa",
+        "lemmatized_text_reduced": "comunidad autónomo estar alerta nevada bajar temperatura españa",
+        "persons": [],
+        "locations": [
+            "España"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "11"
+        ]
+    },
+    "body": {
+        "raw_text": "Canarias registrará mañana cielos nubosos y alguna precipitación débil en las islas de mayor relieve, según la predicción de la Agencia Estatal de Meteorología (AEMET), que ha declarado la alerta naranja (riesgo importante) en un total de once comunidades autónomas por nevadas y bajan las temperaturas en toda España. En concreto, se trata de Aragón, Cantabria, Castilla-La Mancha, Cataluña, Madrid, Navarra, Comunidad Valenciana, Galicia, País Vasco, Asturias y Murcia. Las precipitaciones serán débiles o localmente moderadas en Extremadura y la mitad este peninsular, y más intensas en Andalucía, el tercio sureste y el área mediterránea. También, en la vertiente cantábrica y Baleares habrá chubascos débiles, ocasionalmente acompañados de tormenta, pudiendo ser fuertes en el archipiélago balear. En el resto de la Península, habrá alguna precipitación débil, al igual que en las islas de mayor relieve de Canarias. Asimismo, se producirán heladas débiles o moderadas, sobre todo en la mitad norte y centro peninsulares. La cota de nieve baja en el Cantábrico a menos de 200 metros; en el resto de la mitad norte peninsular a 200/500 metros; en la mitad sur a 500/900 metros; y en Baleares a unos 800 metros. El viento de componente oeste será moderado en el Estrecho y alborán, con intervalos de fuerte en Melilla. En el resto de las comunidades, habrá predominio de componente norte, de flojo a moderado, y llegando a fuerte en Galicia, puntos del litoral mediterráneo y Canarias.",
+        "lemmatized_text": "canario registrar mañana cielo nuboso y alguno precipitación débil en el isla de mayor relieve según el predicción de el agencia_estatal_de_meteorología aemet que haber declarar el alerta naranja riesgo importante en uno total de 11 comunidad autónomo por nevada y bajar el temperatura en todo españa en concreto se tratar de aragón cantabria castilla-la_mancha cataluña madrid navarra comunidad_valenciana galicia país_vasco asturias y murcia el precipitación ser débil o localmente moderar en extremadura y el mitad este peninsular y más intenso en andalucía el tercio sureste y el área mediterráneo también en el vertiente cantábrico y baleares haber chubasco débil ocasionalmente acompañar de tormenta poder ser fuerte en el archipiélago balear en el resto de el península haber alguno precipitación débil al_igual_que en el isla de mayor relieve de canarias asimismo se producir helada débil o moderar sobre todo en el mitad norte y centro peninsular el cota de nieve bajo en el cantábrico a menos de LN_m:200 en el resto de el mitad norte peninsular a LN_m:200/500 en el mitad sur a LN_m:500/900 y en baleares a uno LN_m:800 el viento de componente oeste ser moderar en el estrecho y alborán con intervalo de fuerte en melilla en el resto de el comunidad haber predominio de componente norte de flojo a moderar y llegar a fuerte en galicia punto de el litoral mediterráneo y canarias",
+        "lemmatized_text_reduced": "canario registrar cielo nuboso precipitación débil isla mayor relieve predicción agencia_estatal_de_meteorología aemet haber declarar alerta naranja riesgo importante total comunidad autónomo nevada bajar temperatura españa concreto tratar aragón cantabria castilla-la_mancha cataluña madrid navarra comunidad_valenciana galicia país_vasco asturias murcia precipitación ser débil localmente moderar extremadura mitad peninsular intenso andalucía tercio sureste área mediterráneo vertiente cantábrico baleares haber chubasco débil ocasionalmente acompañar tormenta poder ser fuerte archipiélago balear resto península haber precipitación débil isla mayor relieve canarias producir helada débil moderar mitad norte centro peninsular cota nieve bajo cantábrico resto mitad norte peninsular mitad sur baleares viento componente oeste ser moderar estrecho alborán intervalo fuerte melilla resto comunidad haber predominio componente norte flojo moderar llegar fuerte galicia punto litoral mediterráneo canarias",
+        "persons": [],
+        "locations": [
+            "España",
+            "Aragón",
+            "Cantabria",
+            "Castilla-La_Mancha",
+            "Cataluña",
+            "Madrid",
+            "Navarra",
+            "Comunidad_Valenciana",
+            "Galicia",
+            "País_Vasco",
+            "Asturias",
+            "Murcia",
+            "Extremadura",
+            "Andalucía",
+            "Baleares",
+            "Península",
+            "Canarias",
+            "Baleares",
+            "Estrecho",
+            "Melilla",
+            "Galicia",
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [
+            "Cantábrico"
+        ],
+        "dates": [],
+        "numbers": [
+            "11",
+            "LN_m:200",
+            "LN_m:200/500",
+            "LN_m:500/900",
+            "LN_m:800"
+        ]
+    }
+}

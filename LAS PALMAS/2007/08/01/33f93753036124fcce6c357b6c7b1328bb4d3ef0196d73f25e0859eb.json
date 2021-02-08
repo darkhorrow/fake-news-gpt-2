@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-08-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/266204/0/visita/zapatero/canarias/",
+    "title": {
+        "raw_text": "Zapatero visita el centro coordinador contra el fuego en Gran Canaria",
+        "lemmatized_text": "zapatero visita el centro coordinador contra el fuego en gran_canaria",
+        "lemmatized_text_reduced": "zapatero visita centro coordinador fuego gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Tras esta visita Zapatero visitará la localidad de Tunte. Mañana visitará al Rey en el Palacio de Marivent. Ya han ardido 35.000 hectáreas en Canarias.",
+        "lemmatized_text": "tras este visita zapatero visitar el localidad de tunte mañana visitar a el rey en el palacio_de_marivent ya haber arder AR_hA:35 en canarias",
+        "lemmatized_text_reduced": "visita zapatero visitar localidad tunte visitar rey palacio_de_marivent haber arder canarias",
+        "persons": [
+            "Zapatero",
+            "Rey"
+        ],
+        "locations": [
+            "Tunte",
+            "Palacio_de_Marivent",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_hA:35"
+        ]
+    },
+    "body": {
+        "raw_text": "El presidente del Gobierno, José Luis Rodríguez Zapatero, llegó a las 13:45 horas (local) al centro coordinador de emergencias y seguridad del Gobierno de Canarias, situado en la capital grancanaria, para conocer de primera mano las labores de extinción del fuego que afecta a la isla. Zapatero llegó a Gran Canaria procedente de Tenerife, donde llevó a cabo un visita similar y anunció la celebración el próximo viernes de un Consejo de Ministros extraordinario y monográfico para aprobar un decreto ley con ayudas para los afectados por los incendios de Canarias. Tras esta visita al centro coordinador de extinción de incendios de Las Palmas de Gran Canaria, Zapatero se desplazará a la localidad de Tunte , en el municipio de San Bartolomé de Tirajana, para visitar parte de la zona afectada por el fuego y donde tiene previsto hablar a los medios de comunicación. Despacho con el Rey Por otra parte, el Rey recibirá mañana en el Palacio de Marivent al presidente del Gobierno, José Rodríguez Zapatero, en el que será el primero de los dos despachos que celebran tradicionalmente en Palma de Mallorca durante el verano. En esta reunión, los jefes del Estado y del Ejecutivo tratarán los principales asuntos de la situación española e internacional, especialmente la evolución de los incendios que se registran en Canarias. Los incendios más graves Los incendios, que se declararon hace casi una semana y son los más graves registrados en la historia del archipiélago, han quemado más de 35.000 hectáreas . Más de trece mil personas han tenido que ser evacuadas de las zonas afectadas por los incendios de Tenerife, Gran Canaria y la Gomera.",
+        "lemmatized_text": "el presidente de el gobierno josé_luis_rodríguez_zapatero llegar a el TM_h:13:45 local a el centro coordinador de emergencia y seguridad de el gobierno_de_canarias situar en el capital grancanaria para conocer de 1 mano el labor de extinción de el fuego que afectar a el isla zapatero llegar a gran_canaria procedente de tenerife donde llevar_a_cabo uno visita similar y anunciar el celebración el [V:??/??/??:??.??:??] de uno consejo_de_ministros extraordinario y monográfico para aprobar uno decreto ley con ayuda para el afectado por el incendio de canarias tras este visita a el centro coordinador de extinción de incendio de las_palmas_de_gran_canaria zapatero se desplazar a el localidad de tunte en el municipio de san_bartolomé_de_tirajana para visitar parte de el zona afectar por el fuego y donde tener prever hablar a el medio de comunicación despacho con el rey_por otro parte el rey recibir mañana en el palacio_de_marivent a el presidente de el gobierno josé_rodríguez_zapatero en el que ser el 1 de el 2 despacho que celebrar tradicionalmente en palma_de_mallorca durante el verano en este reunión el jefe de el estado y de el ejecutivo tratar el principal asunto de el situación español y internacional especialmente el evolución de el incendio que se registrar en canarias el incendio más grave los incendio que se declarar hacer casi uno semana y ser el más grave registrar en el historia de el archipiélago haber quemar más de AR_hA:35 más de 13000 persona haber tener que ser evacuar de el zona afectar por el incendio de tenerife gran_canaria y el gomera",
+        "lemmatized_text_reduced": "presidente gobierno josé_luis_rodríguez_zapatero llegar local centro coordinador emergencia seguridad gobierno_de_canarias situar capital grancanaria conocer 1 mano labor extinción fuego afectar isla zapatero llegar gran_canaria procedente tenerife llevar_a_cabo visita similar anunciar celebración consejo_de_ministros extraordinario monográfico aprobar decreto ley ayuda afectado incendio canarias visita centro coordinador extinción incendio las_palmas_de_gran_canaria zapatero desplazar localidad tunte municipio san_bartolomé_de_tirajana visitar parte zona afectar fuego tener prever hablar medio comunicación despacho rey_por parte rey recibir palacio_de_marivent presidente gobierno josé_rodríguez_zapatero ser 1 despacho celebrar tradicionalmente palma_de_mallorca verano reunión jefe estado ejecutivo tratar principal asunto situación español internacional especialmente evolución incendio registrar canarias incendio grave los incendio declarar hacer semana ser grave registrar historia archipiélago haber quemar persona haber tener ser evacuar zona afectar incendio tenerife gran_canaria gomera",
+        "persons": [
+            "José_Luis_Rodríguez_Zapatero",
+            "Zapatero",
+            "Rey_Por",
+            "Rey",
+            "José_Rodríguez_Zapatero"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Tenerife",
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria",
+            "Tunte",
+            "San_Bartolomé_de_Tirajana",
+            "Palacio_de_Marivent",
+            "Palma_de_Mallorca",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Gobierno_de_Canarias",
+            "Consejo_de_Ministros",
+            "Gobierno",
+            "Estado",
+            "Ejecutivo",
+            "Tenerife",
+            "Gran_Canaria",
+            "Gomera"
+        ],
+        "others": [
+            "Los"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:13:45",
+            "2",
+            "AR_hA:35",
+            "13000"
+        ]
+    }
+}

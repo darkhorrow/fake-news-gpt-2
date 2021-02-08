@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/699919/0/",
+    "title": {
+        "raw_text": "Gran Canaria disfruta la cesta de la compra más barata de 2010 en Canarias",
+        "lemmatized_text": "gran_canaria disfrutar el cesta de el compra más barato de 2010 en canarias",
+        "lemmatized_text_reduced": "gran_canaria disfrutar cesta compra barato canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "Gran Canaria ha disfrutado a lo largo de 2010 la cesta básica de la compra más barata de todo el archipiélago mientras que, por contrario, Lanzarote sufre con los productos más caros de toda Canarias, según datos publicados hoy por el Instituto canario de Estadística (Istac) y recogidos por Europa Press.",
+        "lemmatized_text": "gran_canaria haber disfrutar a el largo de 2010 el cesta básico de el compra más barato de todo el archipiélago mientras_que por contrario lanzarote sufrir con el producto más caro de todo canarias según dato publicar hoy por el instituto canario de estadística istac y recoger por europa_press",
+        "lemmatized_text_reduced": "gran_canaria haber disfrutar largo cesta básico compra barato archipiélago contrario lanzarote sufrir producto caro canarias dato publicar instituto canario estadística istac recoger europa_press",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Estadística",
+            "Istac"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Lanzarote",
+            "Instituto",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, la isla redonda ha tenido la cesta de la compra más barata tomando como referencia los principales 51 productos todos y cada uno de los meses de 2010 hasta abril, seguida por Tenerife, que es segunda en la clasificación también en todo el periodo. La Palma y Fuerteventura mantienen su históricos tercer y cuarto puesto, mientra que El Hierro ha sido quinta en abril y marzo, aunque ha visto mejorar su posición ya que en enero y febrero sólo estuvo a un puesto de la isla más cara, Lanzarote. En abril y tomando el total de la cesta de la compra, con 249 productos, la isla más cara ha sido La Gomera, casi un 5 por ciento más que la media, seguida de El Hierro (+4,43%). Gran Canaria es la más barata con un diferencial de 5,14 puntos a su favor respecto a la media del arhipiélago.",
+        "lemmatized_text": "en concreto el isla redondo haber tener el cesta de el compra más barato tomar como referencia el principal 51 producto todo y cada uno de el mes de 2010 hasta [??:??/4/??:??.??:??] seguir por tenerife que ser 2 en el clasificación también en todo el periodo el palma y fuerteventura mantener su histórico 3 y 4 puesto mientra que el_hierro haber ser quinta en [??:??/4/??:??.??:??] y [??:??/3/??:??.??:??] aunque haber ver mejorar su posición ya_que en [??:??/1/??:??.??:??] y [??:??/2/??:??.??:??] sólo estar a uno puesto de el isla más caro lanzarote en [??:??/4/??:??.??:??] y tomar el total de el cesta de el compra con 249 producto el isla más cara haber ser la_gomera casi uno 5 por 100 más que el medio seguir de el_hierro +4,43/100 gran_canaria ser el más barato con uno diferencial de 5,14 punto a su favor respecto_a el media de el arhipiélago",
+        "lemmatized_text_reduced": "concreto isla redondo haber tener cesta compra barato tomar referencia principal producto mes seguir tenerife ser 2 clasificación periodo palma fuerteventura mantener histórico 3 4 puesto mientra el_hierro haber ser quinta haber ver mejorar posición estar puesto isla caro lanzarote tomar total cesta compra producto isla cara haber ser la_gomera medio seguir el_hierro gran_canaria ser barato diferencial punto favor media arhipiélago",
+        "persons": [
+            "Palma",
+            "La_Gomera"
+        ],
+        "locations": [
+            "Lanzarote",
+            "El_Hierro",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Fuerteventura",
+            "El_Hierro"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[??:??/4/??:??.??:??]",
+            "[??:??/3/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/2/??:??.??:??]",
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "51",
+            "2010",
+            "249",
+            "5",
+            "100",
+            "+4,43/100",
+            "5,14"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703267/0/",
+    "title": {
+        "raw_text": "La delegada del Gobierno en Canarias condena la muerte de una mujer en Tenerife y no sabe nada del detenido",
+        "lemmatized_text": "el delegado de el gobierno en canarias condenar el muerte de uno mujer en tenerife y no saber nada de el detener",
+        "lemmatized_text_reduced": "delegado gobierno canarias condenar muerte mujer tenerife saber detener",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La delegada del Gobierno en Canarias ha condenado hoy con su \"rechazo más profundo\" la muerte de una mujer en Granadilla de Abona (Tenerife) y explicó que desconoce si el detenido, un hombre de 33 años que responde a las iniciales P.C.Q.Q., ha pasado ya a disposición judicial o si existen pruebas e indicios del suceso.",
+        "lemmatized_text": "el delegado de el gobierno en canarias haber condenar hoy con su rechazo más profundo el muerte de uno mujer en granadilla_de_abona tenerife y explicar que desconocer si el detener uno hombre de 33 año que responder a el inicial p.c.q.q. haber pasar ya a disposición judicial o si existir prueba y indicio de el suceso",
+        "lemmatized_text_reduced": "delegado gobierno canarias haber condenar rechazo profundo muerte mujer granadilla_de_abona tenerife explicar desconocer detener hombre año responder inicial p.c.q.q. haber pasar disposición judicial existir prueba indicio suceso",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Granadilla_de_Abona",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Gobierno",
+            "P.C.Q.Q."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "33"
+        ]
+    },
+    "body": {
+        "raw_text": "Darias recordó que se trata de la \"segunda muerte machista este año, la otra también en Granadilla\" y aseguró que este tipo de sucesos \"nos empequeñecen como sociedad\". Además, trasladó públicamente sus \"condolencias a los familiares por esta pérdida\". La mujer fallecida ayer tenía entre 33 y 40 años y nacionalidad ecuatoriana. A las 16.50 horas el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 recibió una llamada alertando de que dos personas se encontraban heridas en su domicilio de San Isidro. Al llegar al lugar del suceso, los servicios médicos sólo pudieron confirmar la muerte de la mujer, que presentaba una herida en el cuello. La víctima responde a las iniciales de A.L.L. y, según indicaron a Europa Press fuentes de la Subdelegación del Gobierno en Santa Cruz de Tenerife, no había presentado ninguna denuncia contra su pareja, aunque, según la Guardia Civil, \"todos los indicios determinan que el autor de la muerte fue el compañero sentimental de la víctima\".",
+        "lemmatized_text": "darias recordar que se tratar de el 2 muerte machista este año el otro también en granadilla y asegurar que este tipo de suceso nos empequeñecer como sociedad además trasladar públicamente su condolencia a el familiar por este pérdida el mujer fallecer ayer tener entre 33 y 40 año y nacionalidad ecuatoriano a el TM_h:16.5 el centro_coordinador_de_emergencias y seguridad cecoes 112 recibir uno llamada alertar de que 2 persona se encontrar herir en su domicilio de san_isidro a el llegar a el lugar de el suceso el servicio médico sólo poder confirmar el muerte de el mujer que presentar uno herida en el cuello el víctima responder a el inicial de a.l.l. y según indicar a europa_press fuente de el subdelegación_del_gobierno en santa_cruz_de_tenerife no haber presentar ninguno denuncia contra su pareja aunque según el guardia_civil todo el indicio determinar que el autor de el muerte ser el compañero sentimental de el víctima",
+        "lemmatized_text_reduced": "darias recordar tratar 2 muerte machista año granadilla asegurar tipo suceso empequeñecer sociedad trasladar públicamente condolencia familiar pérdida mujer fallecer tener año nacionalidad ecuatoriano centro_coordinador_de_emergencias seguridad cecoes recibir llamada alertar persona encontrar herir domicilio san_isidro llegar lugar suceso servicio médico poder confirmar muerte mujer presentar herida cuello víctima responder inicial a.l.l. indicar europa_press fuente subdelegación_del_gobierno santa_cruz_de_tenerife haber presentar denuncia pareja guardia_civil indicio determinar autor muerte ser compañero sentimental víctima",
+        "persons": [
+            "Darias",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Granadilla",
+            "San_Isidro",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "A.L.L.",
+            "Subdelegación_del_Gobierno",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "33",
+            "40",
+            "TM_h:16.5",
+            "112",
+            "2"
+        ]
+    }
+}

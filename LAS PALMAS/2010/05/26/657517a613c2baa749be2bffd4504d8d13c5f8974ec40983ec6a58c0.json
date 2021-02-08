@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/718148/0/",
+    "title": {
+        "raw_text": "El precio medio de los coches en Canarias sube un 7% en abril, hasta los 19.471 euros",
+        "lemmatized_text": "el precio medio de el coche en canarias subir uno 7/100 en [??:??/4/??:??.??:??] hasta el $_ECU:19.471",
+        "lemmatized_text_reduced": "precio medio coche canarias subir",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "7/100",
+            "$_ECU:19.471"
+        ]
+    },
+    "lead": {
+        "raw_text": "La promoción media total volvió a superar los 3.000 euros por coche en abril",
+        "lemmatized_text": "el promoción medio total volver a superar el $_ECU:3 por coche en [??:??/4/??:??.??:??]",
+        "lemmatized_text_reduced": "promoción medio total volver superar coche",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:3"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio medio de los vehículos vendidos en el archipiélago canario aumentó un 7 por ciento en abril, hasta los 19.471 euros por unidad de media, contraviniendo la tendencia del resto del país, según datos de la consultora MSI para la Federación de Asociaciones de Concesionarios de la Automoción (Faconauto). En el conjunto de España el precio medio efectivo que los compradores acaban abonando se situó en abril en los 19.200 euros por unidad, con una caída del 6,8 por ciento, mientras que el precio de venta al público se quedó en los 22.220 euros, un 3,3% menos que el año pasado. Faconauto destacó que \"los últimos coletazos del Plan 2000E siguen trayendo consigo un fuerte repunte del esfuerzo promocional que están haciendo los concesionarios de automoción\" en España, \"que tratan de vender la mayor cantidad posible de unidades ligadas a los incentivos oficiales\". 250 Millones de ahorro Así, en abril, el montante total de las promociones hechas en los puntos de venta alcanzó los 250 millones de euros, lo que supone un 73 por ciento más que hace un año. La promoción media por coche volvió a alcanzar una cifra récord, al situarse en los 3.071 euros, un 26 por ciento más en el mismo periodo del ejercicio anterior, una tendencia de aumento que \"tiene los días contados, ya que se espera un encarecimiento de los precios de los coches a partir del mes de julio en unos 450 euros de media, coincidiendo con la subida del IVA del 16% al 18%\". \"Esta subida no va a favorecer en nada la confianza de los compradores y repercutirá negativamente sobre las ventas. Además, los concesionarios no están en condiciones de asumirla, por lo que el encarecimiento parece seguro\", comentó el presidente de Faconauto, Antonio Romero-Haupold.",
+        "lemmatized_text": "el precio medio de el vehículo vender en el archipiélago canario aumentar uno 7 por 100 en [??:??/4/??:??.??:??] hasta el $_ECU:19.471 por unidad de medio contravenir el tendencia de el resto de el país según dato de el consultor msi_para_la_federación_de_asociaciones_de_concesionarios_de_la_automoción faconauto en el conjunto de españa el precio medio efectivo que el comprador acabar abonar se situar en [??:??/4/??:??.??:??] en el $_ECU:19.2 por unidad con uno caída de el 6,8 por 100 mientras_que el precio de venta a el público se quedar en el $_ECU:22.22 uno 3,3/100 menos que el año pasar faconauto destacar que el último coletazo de el plan 2000E seguir traer conseguir uno fuerte repunte de el esfuerzo promocional que estar hacendar el concesionario de automoción en españa que tratar de vender el mayor cantidad posible de unidad ligar a el incentivo oficial 250000000 de ahorro así en [??:??/4/??:??.??:??] el montante total de el promoción hacer en el punto de venta alcanzar el $_ECU:250000000 el que suponer uno 73 por 100 más que hacer uno año el promoción medio por coche volver a alcanzar uno cifra récord a el situar se en el $_ECU:3.071 uno 26 por 100 más en el mismo periodo de el ejercicio anterior uno tendencia de aumento que tener el día contar ya_que se esperar uno encarecimiento de el precio de el coche a partir de el [??:??/7/??:??.??:??] en uno $_ECU:450 de medio coincidir con el subida de el iva de el 16/100 a el 18/100 este subida no ir a favorecer en nada el confianza de el comprador y repercutir negativamente sobre el venta además el concesionario no estar en condición de asumir lo por el que el encarecimiento parecer seguro comentar el presidente de faconauto antonio_romero-haupold",
+        "lemmatized_text_reduced": "precio medio vehículo vender archipiélago canario aumentar unidad medio contravenir tendencia resto país dato consultor msi_para_la_federación_de_asociaciones_de_concesionarios_de_la_automoción faconauto conjunto españa precio medio efectivo comprador acabar abonar situar unidad caída precio venta público quedar año pasar faconauto destacar último coletazo plan seguir traer conseguir fuerte repunte esfuerzo promocional estar hacendar concesionario automoción españa tratar vender mayor cantidad posible unidad ligar incentivo oficial ahorro así montante total promoción hacer punto venta alcanzar suponer hacer año promoción medio coche volver alcanzar cifra récord situar mismo periodo ejercicio anterior tendencia aumento tener día contar esperar encarecimiento precio coche partir medio coincidir subida iva subida ir favorecer confianza comprador repercutir negativamente venta concesionario estar condición asumir encarecimiento parecer seguro comentar presidente faconauto antonio_romero-haupold",
+        "persons": [
+            "Faconauto",
+            "Antonio_Romero-Haupold"
+        ],
+        "locations": [
+            "España",
+            "España",
+            "Así"
+        ],
+        "organizations": [
+            "MSI_para_la_Federación_de_Asociaciones_de_Concesionarios_de_la_Automoción",
+            "Faconauto",
+            "Faconauto"
+        ],
+        "others": [
+            "Plan",
+            "IVA"
+        ],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[??:??/4/??:??.??:??]",
+            "[??:??/4/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "7",
+            "100",
+            "$_ECU:19.471",
+            "$_ECU:19.2",
+            "6,8",
+            "100",
+            "$_ECU:22.22",
+            "3,3/100",
+            "2000E",
+            "250000000",
+            "$_ECU:250000000",
+            "73",
+            "100",
+            "$_ECU:3.071",
+            "26",
+            "100",
+            "$_ECU:450",
+            "16/100",
+            "18/100"
+        ]
+    }
+}

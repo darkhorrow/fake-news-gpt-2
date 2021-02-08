@@ -1,0 +1,100 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/712769/0/",
+    "title": {
+        "raw_text": "El Gobierno canario desembolsa 50,7 millones en recetas durante abril",
+        "lemmatized_text": "el gobierno canario desembolsar 50,7 millón en receta durante [??:??/4/??:??.??:??]",
+        "lemmatized_text_reduced": "gobierno canario desembolsar millón receta",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "50,7"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los pensionistas canarios aumentaron un 4,54 por ciento en abril y Gran Canaria sigue sin receta electrónica",
+        "lemmatized_text": "el pensionista canario aumentar uno 4,54 por 100 en [??:??/4/??:??.??:??] y gran_canaria seguir sin receta electrónico",
+        "lemmatized_text_reduced": "pensionista canario aumentar gran_canaria seguir receta electrónico",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "4,54",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "El Gobierno canario ha desembolsado en abril un total de 50,7 millones de euros en recetas del Servicio Canario de Salud, con un total de 3.606.043 de recetas y un coste medio de 14,06 euros cada una, según cálculos de Europa Press en base a datos facilitados por el Ejecutivo autonómico. El Servicio Canario de la Salud facturó en el mes de abril un promedio de 1,84 recetas por usuario, a razón de 0,76 recetas por usuario activo y 6,21 recetas por usuario pensionista, grupo este último que se incrementó en un 4,54 por ciento y quedó constituido por 389.117 personas. Asimismo, el gasto medio por usuario activo se situó en abril en 25,89 euros, importe que alcanzó un promedio de 8,38 euros en el caso de los usuarios activos y de 96,51 euros, en el de los pensionistas. Como en meses anteriores, la dispensación de medicamentos por Receta Electrónica \"continuó su tendencia ascendente\", hasta situarse en 1.503.916 recetas emitidas, un 41,02% del total de recetas facturadas. Gran canaria , Sin receta electrónica El proceso de implantación de la receta electrónica ha llegado ya a todas las islas, menos el caso de Gran Canaria donde, según dio cuenta hoy la consejera de Sanidad canaria, Mercedes Roldós, en Consejo de Gobierno, \"continúa el proceso de implantación de este sistema informático\". Los porcentajes de dispensación electrónica por islas llegaron al 66,07 por ciento en el Área de Salud de El Hierro, 80,30% en La Gomera, 81,11% en La Palma, 72,10% en Fuerteventura, 66,75 % en Lanzarote y 74,06% en Tenerife.",
+        "lemmatized_text": "el gobierno canario haber desembolsar en [??:??/4/??:??.??:??] uno total de 50,7 millón de euro en receta de el servicio_canario_de_salud con uno total de 3.606.043 de receta y uno coste medio de $_ECU:14,06 cada uno según cálculo de europa_press en base a dato facilitar por el ejecutivo autonómico el servicio_canario_de_la_salud facturar en el [??:??/4/??:??.??:??] uno promedio de 1,84 receta por usuario a_razón_de 0,76 receta por usuario activo y 6,21 receta por usuario pensionista grupo este último que se incrementar en uno 4,54 por 100 y quedar constituir por 389.117 persona asimismo el gasto medio por usuario activo se situar en [??:??/4/??:??.??:??] en $_ECU:25,89 importe que alcanzar uno promedio de $_ECU:8,38 en el caso de el usuario activo y de $_ECU:96,51 en el de el pensionista como en mes anterior el dispensación de medicamento por receta_electrónica continuar su tendencia ascendente hasta situar se en 1.503.916 receta emitir uno 41,02/100 de el total de receta facturar gran canario sin receta electrónico el proceso de implantación de el receta electrónico haber llegar ya a todo el isla menos el caso de gran_canaria donde según dar_cuenta hoy el consejero de sanidad canario mercedes_roldós en consejo_de_gobierno continuar el proceso de implantación de este sistema informático el porcentaje de dispensación electrónico por isla llegar a el 66,07 por 100 en el área_de_salud_de_el_hierro 80,30/100 en la_gomera 81,11/100 en la_palma 72,10/100 en fuerteventura 66,75/100 en lanzarote y 74,06/100 en tenerife",
+        "lemmatized_text_reduced": "gobierno canario haber desembolsar total millón euro receta servicio_canario_de_salud total receta coste medio cálculo europa_press base dato facilitar ejecutivo autonómico servicio_canario_de_la_salud facturar promedio receta usuario receta usuario activo receta usuario pensionista grupo último incrementar quedar constituir persona gasto medio usuario activo situar importe alcanzar promedio caso usuario activo pensionista mes anterior dispensación medicamento receta_electrónica continuar tendencia ascendente situar receta emitir total receta facturar gran canario sin receta electrónico el proceso implantación receta electrónico haber llegar isla caso gran_canaria dar_cuenta consejero sanidad canario mercedes_roldós consejo_de_gobierno continuar proceso implantación sistema informático porcentaje dispensación electrónico isla llegar área_de_salud_de_el_hierro la_gomera la_palma fuerteventura lanzarote tenerife",
+        "persons": [
+            "Europa_Press",
+            "Mercedes_Roldós"
+        ],
+        "locations": [
+            "Área_de_Salud_de_El_Hierro",
+            "La_Gomera",
+            "La_Palma",
+            "Fuerteventura",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Servicio_Canario_de_Salud",
+            "Ejecutivo",
+            "Servicio_Canario_de_la_Salud",
+            "Receta_Electrónica",
+            "Gran",
+            "Sin",
+            "El",
+            "Consejo_de_Gobierno",
+            "Tenerife"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Sanidad"
+        ],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[??:??/4/??:??.??:??]",
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "50,7",
+            "3.606.043",
+            "$_ECU:14,06",
+            "1,84",
+            "0,76",
+            "6,21",
+            "4,54",
+            "100",
+            "389.117",
+            "$_ECU:25,89",
+            "$_ECU:8,38",
+            "$_ECU:96,51",
+            "1.503.916",
+            "41,02/100",
+            "66,07",
+            "100",
+            "80,30/100",
+            "81,11/100",
+            "72,10/100",
+            "66,75/100",
+            "74,06/100"
+        ]
+    }
+}

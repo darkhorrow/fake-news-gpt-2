@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/731064/0/",
+    "title": {
+        "raw_text": "Imponen una multa de cerca de 70.000 euros por obras ilegales en San Bartolomé (Lanzarote)",
+        "lemmatized_text": "imponer uno multa de cerca de $_ECU:70 por obra ilegal en san_bartolomé lanzarote",
+        "lemmatized_text_reduced": "imponer multa obra ilegal san_bartolomé lanzarote",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:70"
+        ]
+    },
+    "lead": {
+        "raw_text": "Concretamente, la APMUN impone esta multa por la construcción, sin la preceptiva calificación territorial y licencia urbanística, de una estructura, solera y escaleras de hormigón, fosa séptica, porche, muros de contención y de mamposterías, así como ampliación de vivienda en suelo rústico de protección paisajística, según anuncio publicado hoy, 8 de junio de 2010, en el Boletín Oficial de Canarias (BOC).",
+        "lemmatized_text": "concretamente el apmun imponer este multa por el construcción sin el preceptivo calificación territorial y licencia urbanístico de uno estructura solera y escalera de hormigón fosa séptico porche muro de contención y de mampostería así_como ampliación de vivienda en suelo rústico de protección paisajístico según anuncio publicar hoy [??:8/6/2010:??.??:??] en el boletín_oficial_de_canarias boc",
+        "lemmatized_text_reduced": "concretamente apmun imponer multa construcción preceptivo calificación territorial licencia urbanístico estructura solera escalera hormigón fosa séptico porche muro contención mampostería ampliación vivienda suelo rústico protección paisajístico anuncio publicar boletín_oficial_de_canarias boc",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "APMUN",
+            "Boletín_Oficial_de_Canarias"
+        ],
+        "others": [
+            "BOC"
+        ],
+        "dates": [
+            "[??:8/6/2010:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Agencia de Protección del Medio Urbano y Natural (APMUN) ha notificado a un ciudadano una resolución por la que impone una multa de 69.743,90 euros por la ejecución de obras en el lugar denominado Montaña de Guaticea-Montaña Blanca, en San Bartolomé de Lanzarote. La Agencia igualmente ordena el restablecimiento del orden jurídico infringido y requiere al interesado para que en el plazo de un mes presente ante la Agencia el correspondiente proyecto de restauración / demolición como primer trámite de la ejecución voluntaria de lo ordenado, advirtiéndole de que de no cumplimentar el requerimiento, se procederá a la ejecución subsidiaria de la orden de reposición. También comunica al interesado que si repone los terrenos al estado anterior a la comisión de la infracción, tendrá derecho a una reducción de la multa en un 90 por ciento. El organismo de naturaleza consorcial publica en el BOC esta resolución al no haber podido notificar la misma al interesado en su domicilio de conformidad con la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.",
+        "lemmatized_text": "el agencia_de_protección_del_medio_urbano y natural apmun haber notificar a uno ciudadano uno resolución por el que imponer uno multa de $_ECU:69.743,90 por el ejecución de obra en el lugar denominar montaña_de_guaticea-montaña_blanca en san_bartolomé_de_lanzarote el agencia igualmente ordenar el restablecimiento de el orden jurídico infringir y requerir a el interesar para que en_el_plazo_de uno mes presente ante el agencia el correspondiente proyecto de restauración demolición como 1 trámite de el ejecución voluntario de el ordenar advertir le de que de no cumplimentar el requerimiento se proceder a el ejecución subsidiario de el orden de reposición también comunicar a el interesar que si reponer el terreno a el estado anterior a el comisión de el infracción tener derecho a uno reducción de el multa en uno 90 por 100 el organismo de naturaleza consorcial publicar en el boc este resolución a el no haber poder notificar el mismo a el interesar en su domicilio de conformidad con el ley_de_régimen_jurídico_de_las_administraciones_públicas y de el procedimiento_administrativo_común",
+        "lemmatized_text_reduced": "agencia_de_protección_del_medio_urbano natural apmun haber notificar ciudadano resolución imponer multa ejecución obra lugar denominar montaña_de_guaticea-montaña_blanca san_bartolomé_de_lanzarote agencia igualmente ordenar restablecimiento orden jurídico infringir requerir interesar mes presente agencia correspondiente proyecto restauración demolición 1 trámite ejecución voluntario ordenar advertir cumplimentar requerimiento proceder ejecución subsidiario orden reposición comunicar interesar reponer terreno estado anterior comisión infracción tener derecho reducción multa organismo naturaleza consorcial publicar boc resolución haber poder notificar mismo interesar domicilio conformidad ley_de_régimen_jurídico_de_las_administraciones_públicas procedimiento_administrativo_común",
+        "persons": [],
+        "locations": [
+            "Montaña_de_Guaticea-Montaña_Blanca",
+            "San_Bartolomé_de_Lanzarote"
+        ],
+        "organizations": [
+            "Agencia_de_Protección_del_Medio_Urbano",
+            "Natural",
+            "APMUN",
+            "Agencia",
+            "Agencia",
+            "Procedimiento_Administrativo_Común"
+        ],
+        "others": [
+            "BOC",
+            "Ley_de_Régimen_Jurídico_de_las_Administraciones_Públicas"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:69.743,90",
+            "90",
+            "100"
+        ]
+    }
+}

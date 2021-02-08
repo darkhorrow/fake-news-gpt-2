@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/730203/0/",
+    "title": {
+        "raw_text": "Detenidos en Madrid dos empresarios por presunto cohecho dentro de la 'Operación Unión'",
+        "lemmatized_text": "detener en madrid 2 empresario por presunto cohecho dentro_de el operación_unión",
+        "lemmatized_text_reduced": "detener madrid empresario presunto cohecho operación_unión",
+        "persons": [],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [],
+        "others": [
+            "Operación_Unión"
+        ],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Unidad Central Operativa (UCO) de la Guardia Civil detuvo durante la jornada de ayer en Madrid a dos altos cargos de la empresa Urbaser por su supuesta relación con la trama de corrupción urbanística llamada 'Operación Unión' y el presunto pago de comisiones ilegales a miembros del Ayuntamiento de Arrecife (Lanzarote).",
+        "lemmatized_text": "el unidad_central_operativa uco de el guardia_civil detener durante el jornada de ayer en madrid a 2 alto cargo de el empresa urbaser por su suponer relación con el trama de corrupción urbanístico llamada operación_unión y el presunto pago de comisión ilegal a miembro de el ayuntamiento_de_arrecife lanzarote",
+        "lemmatized_text_reduced": "unidad_central_operativa uco guardia_civil detener jornada madrid alto cargo empresa urbaser suponer relación trama corrupción urbanístico llamada operación_unión presunto pago comisión ilegal miembro ayuntamiento_de_arrecife lanzarote",
+        "persons": [],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Unidad_Central_Operativa",
+            "UCO",
+            "Guardia_Civil",
+            "Urbaser",
+            "Operación_Unión",
+            "Ayuntamiento_de_Arrecife",
+            "Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, según informan hoy varios medios locales, el juez instructor del caso, César Romero Pamparacuatro, les imputa un presunto delito de cohecho, mientras que los detenidos deberán tomar declaración ante el magistrado entre hoy y mañana. La 'Operación Unión' investiga un supuesto caso de corrupción urbanística en Arrecife, con posibles ramificaciones en otros municipios de la isla como Yaiza. Este caso lo siguen realizando miembros de un operativo de la Guardia Civil, bajo la dirección del Juzgado de Instrucción número 5 de Arrecife y de la Fiscalía de Medio Ambiente y Urbanismo de Las Palmas. Dicha operación, en la que han sido detenidos cargos públicos, funcionarios, empresarios e intermediarios de Lanzarote implicados en una trama para el cobro de comisiones ilegales, se desencadenó a raíz del pago de una de las supuestas comisiones cobradas, de 100.000 euros, que fue interceptada por la Guardia Civil a uno de los intermediarios de la red en el momento de su entrega.",
+        "lemmatized_text": "de este manera según informar hoy varios medio local el juez instructor de el caso césar_romero_pamparacuatro le imputar uno presunto delito de cohecho mientras_que el detenido deber tomar declaración ante el magistrado entre hoy y mañana el operación_unión investigar uno suponer caso de corrupción urbanístico en arrecife con posible ramificación en otro municipio de el isla como yaiza este caso lo seguir realizar miembro de uno operativo de el guardia_civil bajo el dirección de el juzgado_de_instrucción número 5 de arrecife y de el fiscalía_de_medio_ambiente y urbanismo_de_las_palmas decir operación en el que haber ser detener cargo público funcionario empresario y intermediario de lanzarote implicar en uno trama para el cobro de comisión ilegal se desencadenar a raíz de el pago de uno de el suponer comisión cobrar de $_ECU:100 que ser interceptar por el guardia_civil a uno de el intermediario de el red en el momento de su entrega",
+        "lemmatized_text_reduced": "manera informar medio local juez instructor caso césar_romero_pamparacuatro imputar presunto delito cohecho detenido deber tomar declaración magistrado operación_unión investigar suponer caso corrupción urbanístico arrecife posible ramificación municipio isla yaiza caso seguir realizar miembro operativo guardia_civil dirección juzgado_de_instrucción número arrecife fiscalía_de_medio_ambiente urbanismo_de_las_palmas decir operación haber ser detener cargo público funcionario empresario intermediario lanzarote implicar trama cobro comisión ilegal desencadenar raíz pago suponer comisión cobrar ser interceptar guardia_civil intermediario red momento entrega",
+        "persons": [
+            "César_Romero_Pamparacuatro"
+        ],
+        "locations": [
+            "Arrecife",
+            "Yaiza",
+            "Arrecife",
+            "Urbanismo_de_Las_Palmas",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Juzgado_de_Instrucción",
+            "Fiscalía_de_Medio_Ambiente",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Operación_Unión"
+        ],
+        "dates": [],
+        "numbers": [
+            "5",
+            "$_ECU:100"
+        ]
+    }
+}

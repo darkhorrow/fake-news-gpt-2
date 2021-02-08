@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619972/0/",
+    "title": {
+        "raw_text": "Las Palmas de Gran Canaria pone mañana a la venta las entradas para la preselección y la gala Drag Queen",
+        "lemmatized_text": "el palmas_de_gran_canaria poner mañana a el venta el entrada para el preselección y el gala drag_queen",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria poner venta entrada preselección gala drag_queen",
+        "persons": [
+            "Drag_Queen"
+        ],
+        "locations": [],
+        "organizations": [
+            "Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La organización del Carnaval de Las Palmas de Gran Canaria pondrá mañana miércoles, 3 de febrero, a la venta las entradas para la preselección y la gala Drag Queen, según informó hoy el Ayuntamiento capitalino en un comunicado.",
+        "lemmatized_text": "el organización de el carnaval_de_las_palmas_de_gran_canaria poner mañana [X:3/2/??:??.??:??] a el venta el entrada para el preselección y el gala drag_queen según informar hoy el ayuntamiento capitalino en uno comunicado",
+        "lemmatized_text_reduced": "organización carnaval_de_las_palmas_de_gran_canaria poner venta entrada preselección gala drag_queen informar ayuntamiento capitalino comunicado",
+        "persons": [
+            "Drag_Queen"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[X:3/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, las entradas que den acceso a la preselección Drag Queen (miércoles 10 de febrero) y a la gala Drag Queen (viernes 12 de febrero) podrán adquirirse desde mañana a partir de las 10.00 horas, a través del servicio telefónico de La Caja de Canarias (902 405 504), la página www.cajatique.com, los cajeros de venta de la red de La Caja de Canarias y en la taquilla ubicada junto al punto de información turística del Parque de Santa Catalina (de lunes a viernes, de 10 a 14 horas y de 16.30 a 20 horas; y sábados y domingos, de 10 a 14 horas). Las primeras —preselección—, tendrán un precio único de 5 euros, mientras que las de la gala cuestan, como en el caso de la Reina, 10 euros. En todos los casos, sólo se podrán adquirir un máximo de cuatro entradas por persona. Además, desde la organización indicaron que aquellos que lo deseen todavía pueden adquirir entradas para asistir a la gala de la Reina del Carnaval de la televisión (viernes 5 de febrero) al precio único de 10 euros y en los mismos puntos de venta.",
+        "lemmatized_text": "de este manera el entrada que dar acceso a el preselección drag_queen [X:10/2/??:??.??:??] y a el gala drag_queen [V:12/2/??:??.??:??] poder adquirir se desde mañana a_partir_de el TM_h:10 a través de el servicio telefónico de la_caja_de_canarias 902 405 504 el página www.cajatique.com el cajero de venta de el red de la_caja_de_canarias y en el taquilla ubicar junto a el punto de información turístico de el parque_de_santa_catalina de [L:??/??/??:??.??:??] a [V:??/??/??:??.??:??] de 10 a TM_h:14 y de 16.3 a TM_h:20 y sábado y domingo de 10 a TM_h:14 el 1 preselección tener uno precio único de $_ECU:5 mientras_que el de el gala costar como en el caso de el reina $_ECU:10 en todo el caso sólo se poder adquirir uno máximo de 4 entrada por persona además desde el organización indicar que aquel que lo desear todavía poder adquirir entrada para asistir a el gala de el reina_del_carnaval de el televisión [V:5/2/??:??.??:??] a el precio único de $_ECU:10 y en el mismo punto de venta",
+        "lemmatized_text_reduced": "manera entrada dar acceso preselección drag_queen gala drag_queen poder adquirir mañana través servicio telefónico la_caja_de_canarias página www.cajatique.com cajero venta red la_caja_de_canarias taquilla ubicar junto punto información turístico parque_de_santa_catalina sábado domingo 1 preselección tener precio único gala costar caso reina caso poder adquirir máximo entrada persona organización indicar desear poder adquirir entrada asistir gala reina_del_carnaval televisión precio único mismo punto venta",
+        "persons": [
+            "Drag_Queen",
+            "Drag_Queen",
+            "Reina"
+        ],
+        "locations": [
+            "Parque_de_Santa_Catalina"
+        ],
+        "organizations": [
+            "La_Caja_de_Canarias",
+            "La_Caja_de_Canarias"
+        ],
+        "others": [
+            "Reina_del_Carnaval"
+        ],
+        "dates": [
+            "[X:10/2/??:??.??:??]",
+            "[V:12/2/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[V:5/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:10",
+            "902",
+            "405",
+            "504",
+            "10",
+            "TM_h:14",
+            "16.3",
+            "TM_h:20",
+            "10",
+            "TM_h:14",
+            "$_ECU:5",
+            "$_ECU:10",
+            "4",
+            "$_ECU:10"
+        ]
+    }
+}

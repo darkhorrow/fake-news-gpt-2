@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/526564/0/lanzarote/patera/inmigrantes/",
+    "title": {
+        "raw_text": "Llegan a Lanzarote 31 inmigrantes en una patera interceptada por Salvamento",
+        "lemmatized_text": "llegar a lanzarote 31 inmigrante en uno patera interceptar por salvamento",
+        "lemmatized_text_reduced": "llegar lanzarote inmigrante patera interceptar salvamento",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "31"
+        ]
+    },
+    "lead": {
+        "raw_text": "Se trata de 23 adultos y ocho menores de edad. Son subsaharianos y su estado de salud es bueno. Fueron avistados en las costas de Arrieta.",
+        "lemmatized_text": "se tratar de 23 adulto y 8 menor de edad ser subsahariano y su estado de salud ser bueno ser avistar en el costa de arrieta",
+        "lemmatized_text_reduced": "tratar adulto menor edad ser subsahariano estado salud ser bueno ser avistar costa arrieta",
+        "persons": [
+            "Arrieta"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "23",
+            "8"
+        ]
+    },
+    "body": {
+        "raw_text": "La embarcación de Salvamento Marítimo Salvamar Atlántico ha trasladado esta madrugada hasta el puerto de Los Mármoles, en Lanzarote, a los 31 ocupantes de una patera que fue interceptada cuando se encontraba en las costas de la isla. En la patera viajaban 23 adultos y ocho menores, entre ellos dos niñas, y, según el servicio de urgencias 112, todos los inmigrantes se encontraban en buen estado de salud. La embarcación había sido avistada sobre las 21.30 horas del jueves en las costas de Arrieta, en el municipio de Haría, y hasta la zona se trasladó la Salvamar Atlántico y una embarcación de la Guardia Civil. Todos los inmigrantes son de origen subsahariano.",
+        "lemmatized_text": "el embarcación de salvamento_marítimo_salvamar_atlántico haber trasladar este madrugada hasta el puerto de los_mármoles en lanzarote a el 31 ocupante de uno patera que ser interceptar cuando se encontrar en el costa de el isla en el patera viajar 23 adulto y 8 menor entre ellos 2 niño y según el servicio de urgencia 112 todo el inmigrante se encontrar en bueno estado de salud el embarcación haber ser avistar sobre el [J:??/??/??:9.00:pm] en el costa de arrieta en el municipio de haría y hasta el zona se trasladar el salvamar_atlántico y uno embarcación de el guardia_civil todo el inmigrante ser de origen subsahariano",
+        "lemmatized_text_reduced": "embarcación salvamento_marítimo_salvamar_atlántico haber trasladar madrugada puerto los_mármoles lanzarote ocupante patera ser interceptar encontrar costa isla patera viajar adulto menor niño servicio urgencia inmigrante encontrar bueno estado salud embarcación haber ser avistar costa arrieta municipio haría zona trasladar salvamar_atlántico embarcación guardia_civil inmigrante ser origen subsahariano",
+        "persons": [
+            "Arrieta"
+        ],
+        "locations": [
+            "Los_Mármoles",
+            "Lanzarote",
+            "Haría"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Salvamento_Marítimo_Salvamar_Atlántico",
+            "Salvamar_Atlántico"
+        ],
+        "dates": [
+            "[J:??/??/??:9.00:pm]"
+        ],
+        "numbers": [
+            "31",
+            "23",
+            "8",
+            "2",
+            "112"
+        ]
+    }
+}

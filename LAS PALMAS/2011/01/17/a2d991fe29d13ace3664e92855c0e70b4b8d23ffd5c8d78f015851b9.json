@@ -1,0 +1,112 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/930372/0/",
+    "title": {
+        "raw_text": "El precio de la vivienda en Canarias sufre una caída interanual del 3% en el cuarto trimestre de 2010",
+        "lemmatized_text": "el precio de el vivienda en canarias sufrir uno caída interanual de el 3/100 en el 4 trimestre de 2010",
+        "lemmatized_text_reduced": "precio vivienda canarias sufrir caída interanual 4 trimestre",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3/100",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "El índice de precios de la vivienda en Canarias ha registrado un descenso del 3 por ciento en el cuarto trimestre de 2010 con respecto al mismo periodo de 2009, por debajo de la media nacional, que registró una bajada del 3,5 por ciento, según datos ofrecidos por el Ministerio de Fomento.",
+        "lemmatized_text": "el índice de precio de el vivienda en canarias haber registrar uno descenso de el 3 por 100 en el 4 trimestre de 2010 con respecto a el mismo periodo de 2009 por debajo_de el media nacional que registrar uno bajada de el 3,5 por 100 según dato ofrecer por el ministerio_de_fomento",
+        "lemmatized_text_reduced": "índice precio vivienda canarias haber registrar descenso 4 trimestre respecto mismo periodo media nacional registrar bajada dato ofrecer ministerio_de_fomento",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Ministerio_de_Fomento"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "100",
+            "2010",
+            "2009",
+            "3,5",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "El índice de precios de la vivienda en Canarias ha registrado un descenso del 3 por ciento en el cuarto trimestre de 2010 con respecto al mismo periodo de 2009, por debajo de la media nacional, que registró una bajada del 3,5 por ciento, según datos ofrecidos por el Ministerio de Fomento. El archipiélago se engloba en el grupo de las autonomías en las que se produjeron descensos por encima de la media nacional. Este grupo lo componen Cataluña y Euskadi (-3,3%), Canarias (-3%), Andalucía (-2,8%), Región de Murcia (-1,5%), Illes Balears (-1,4%), Castilla y León (-0,6%) y Extremadura (-0,5%). En el cuarto trimestre de 2010, el precio medio del metro cuadrado de la vivienda libre en España fue de 1.825,5 euros, lo que representa una variación trimestral del -0,4 por ciento e interanual del -3,5 por ciento. En cuanto a la vivienda libre de segunda mano (viviendas con más de dos años de antigüedad), el precio es de 1.819,5 euros, con una caída del 3,2 por ciento en tasa interanual. En relación a los municipios mayores de 25.000 habitantes, los precios más elevados se presentan en San Sebastián (3.766,8 euros/m2), Barcelona (3.332,7 euros/m2), Getxo (3.289,6 euros/m2), Sant Cugat del Vallés (3.177 euros/m2), Pozuelo de Alarcón (3.083 euros/m2) y Madrid (3.067,9 euros/m2).",
+        "lemmatized_text": "el índice de precio de el vivienda en canarias haber registrar uno descenso de el 3 por 100 en el 4 trimestre de 2010 con respecto a el mismo periodo de 2009 por debajo_de el media nacional que registrar uno bajada de el 3,5 por 100 según dato ofrecer por el ministerio_de_fomento el archipiélago se englobar en el grupo de el autonomía en el que se producir descenso por encima_de el media nacional este grupo lo componer cataluña y euskadi -3,3/100 canarias -3/100 andalucía -2,8/100 región_de_murcia -1,5/100 illes_balears -1,4/100 castilla y león -0,6/100 y extremadura -0,5/100 en el 4 trimestre de 2010 el precio medio de el metro cuadrado de el vivienda libre en españa ser de $_ECU:1.825,5 el que representar uno variación trimestral de el -0,4 por 100 y interanual de el -3,5 por 100 en_cuanto_a el vivienda libre de_segunda_mano vivienda con más de 2 año de antigüedad el precio ser de $_ECU:1.819,5 con uno caída de el 3,2 por 100 en tasa interanual en relación a el municipio mayor de 25 habitante el precio más elevar se presentar en san_sebastián 3.766,8 euros/m2 barcelona 3.332,7 euros/m2 getxo 3.289,6 euros/m2 sant_cugat_del_vallés 3.177 euros/m2 pozuelo_de_alarcón 3.083 euros/m2 y madrid 3.067,9 euros/m2",
+        "lemmatized_text_reduced": "índice precio vivienda canarias haber registrar descenso 4 trimestre respecto mismo periodo media nacional registrar bajada dato ofrecer ministerio_de_fomento archipiélago englobar grupo autonomía producir descenso media nacional grupo componer cataluña euskadi canarias andalucía región_de_murcia illes_balears castilla león extremadura 4 trimestre precio medio metro cuadrado vivienda libre españa ser representar variación trimestral interanual vivienda libre vivienda año antigüedad precio ser caída tasa interanual relación municipio mayor habitante precio elevar presentar san_sebastián barcelona getxo sant_cugat_del_vallés pozuelo_de_alarcón madrid",
+        "persons": [
+            "Illes_Balears",
+            "León",
+            "Getxo",
+            "Pozuelo_de_Alarcón"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Andalucía",
+            "Región_de_Murcia",
+            "Castilla",
+            "Extremadura",
+            "España",
+            "San_Sebastián",
+            "Madrid"
+        ],
+        "organizations": [
+            "Ministerio_de_Fomento",
+            "Cataluña",
+            "Euskadi",
+            "Barcelona",
+            "Sant_Cugat_del_Vallés"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "100",
+            "2010",
+            "2009",
+            "3,5",
+            "100",
+            "-3,3/100",
+            "-3/100",
+            "-2,8/100",
+            "-1,5/100",
+            "-1,4/100",
+            "-0,6/100",
+            "-0,5/100",
+            "2010",
+            "$_ECU:1.825,5",
+            "-0,4",
+            "100",
+            "-3,5",
+            "100",
+            "2",
+            "$_ECU:1.819,5",
+            "3,2",
+            "100",
+            "25",
+            "3.766,8",
+            "euros/m2",
+            "3.332,7",
+            "euros/m2",
+            "3.289,6",
+            "euros/m2",
+            "3.177",
+            "euros/m2",
+            "3.083",
+            "euros/m2",
+            "3.067,9",
+            "euros/m2"
+        ]
+    }
+}

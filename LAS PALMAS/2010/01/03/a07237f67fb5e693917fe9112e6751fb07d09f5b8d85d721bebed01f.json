@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599598/0/",
+    "title": {
+        "raw_text": "Yolanda Perdomo, nueva viceconsejera de Turismo del Gobierno de Canarias, tomará mañana posesión de su cargo",
+        "lemmatized_text": "yolanda_perdomo nuevo viceconsejero de turismo_del_gobierno_de_canarias tomar mañana posesión de su cargo",
+        "lemmatized_text_reduced": "yolanda_perdomo nuevo viceconsejero turismo_del_gobierno_de_canarias tomar posesión cargo",
+        "persons": [
+            "Yolanda_Perdomo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Turismo_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La nueva viceconsejera de Turismo del Gobierno de Canarias, Yolanda Perdomo, tomará mañana lunes, 4 de enero, posesión de su cargo durante un acto que tendrá lugar a las 11.45 horas en la sede de Presidencia del Ejecutivo regional en Las Palmas de Gran Canaria, según informó la Administración Autonómica en un comunicado.",
+        "lemmatized_text": "el nuevo viceconsejero de turismo_del_gobierno_de_canarias yolanda_perdomo tomar mañana [L:4/1/??:??.??:??] posesión de su cargo durante uno acto que tener_lugar a el TM_h:11.45 en el sede de presidencia_del_ejecutivo regional en las_palmas_de_gran_canaria según informar el administración_autonómica en uno comunicado",
+        "lemmatized_text_reduced": "nuevo viceconsejero turismo_del_gobierno_de_canarias yolanda_perdomo tomar posesión cargo acto tener_lugar sede presidencia_del_ejecutivo regional las_palmas_de_gran_canaria informar administración_autonómica comunicado",
+        "persons": [
+            "Yolanda_Perdomo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Turismo_del_Gobierno_de_Canarias",
+            "Presidencia_del_Ejecutivo",
+            "Administración_Autonómica"
+        ],
+        "others": [],
+        "dates": [
+            "[L:4/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11.45"
+        ]
+    },
+    "body": {
+        "raw_text": "Perdomo, hasta ahora gerente de Promotur sustituirá a María del Carmen Hernández, que ha pasado a formar parte del Gabinete de Estudios Socioeconómicos de la Vicepresidencia del Gobierno autonómico. Por su parte, el portavoz del Ejecutivo canario y viceconsejero de Comunicación, Martín Marrero, explicó el pasado martes, tras el Consejo de Gobierno, que la consejera de Turismo, Rita Martín, dio cuenta del cese como viceconsejera de Turismo de María del Carmen Hernández y del nombramiento para este cargo a Yolanda Perdomo. Asimismo, aseguró que este cese no es \"forzoso\" ya que a la vez que se produce un cese se produce también un nombramiento. En concreto, Marrero destacó que este cambio en la Viceconsejería de Turismo responde a motivos de \"reorganización\".",
+        "lemmatized_text": "perdomar hasta ahora gerente de promotur sustituir a maría_del_carmen_hernández que haber pasar a formar_parte de el gabinete_de_estudios_socioeconómicos_de_la_vicepresidencia_del_gobierno autonómico por su parte el portavoz de el ejecutivo canario y viceconsejero de comunicación martín_marrero explicar el [M:??/??/??:??.??:??] tras el consejo_de_gobierno que el consejero de turismo rita_martín dar_cuenta de el cese como viceconsejero de turismo_de_maría_del_carmen_hernández y de el nombramiento para este cargo a yolanda_perdomo asimismo asegurar que este cese no ser forzoso ya_que a_la_vez_que se producir uno cese se producir también uno nombramiento en concreto marrero destacar que este cambio en el viceconsejería_de_turismo responder a motivo de reorganización",
+        "lemmatized_text_reduced": "perdomar gerente promotur sustituir maría_del_carmen_hernández haber pasar formar_parte gabinete_de_estudios_socioeconómicos_de_la_vicepresidencia_del_gobierno autonómico parte portavoz ejecutivo canario viceconsejero comunicación martín_marrero explicar consejo_de_gobierno consejero turismo rita_martín dar_cuenta cese viceconsejero turismo_de_maría_del_carmen_hernández nombramiento cargo yolanda_perdomo asegurar cese ser forzoso producir cese producir nombramiento concreto marrero destacar cambio viceconsejería_de_turismo responder motivo reorganización",
+        "persons": [
+            "María_del_Carmen_Hernández",
+            "Martín_Marrero",
+            "Rita_Martín",
+            "Turismo_de_María_del_Carmen_Hernández",
+            "Yolanda_Perdomo",
+            "Marrero",
+            "Viceconsejería_de_Turismo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gabinete_de_Estudios_Socioeconómicos_de_la_Vicepresidencia_del_Gobierno",
+            "Ejecutivo",
+            "Consejo_de_Gobierno"
+        ],
+        "others": [
+            "Promotur",
+            "Comunicación",
+            "Turismo"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922752/0/",
+    "title": {
+        "raw_text": "Iberia ofrece un millón de plazas desde 29 euros para vuelos hasta el 17 de junio",
+        "lemmatized_text": "iberia ofrecer 1000000 de plaza desde $_ECU:29 para vuelo hasta el [??:17/6/??:??.??:??]",
+        "lemmatized_text_reduced": "iberia ofrecer plaza vuelo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [
+            "[??:17/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "1000000",
+            "$_ECU:29"
+        ]
+    },
+    "lead": {
+        "raw_text": "Iberia ha lanzado al mercado un millón de plazas desde 29 euros a destinos de todo el mundo para vuelos que se realicen entre el 15 de enero y el 17 de junio.",
+        "lemmatized_text": "iberia haber lanzar a el mercado 1000000 de plaza desde $_ECU:29 a destino de todo el mundo para vuelo que se realizar entre el [??:15/1/??:??.??:??] y el [??:17/6/??:??.??:??]",
+        "lemmatized_text_reduced": "iberia haber lanzar mercado plaza destino mundo vuelo realizar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [
+            "[??:15/1/??:??.??:??]",
+            "[??:17/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "1000000",
+            "$_ECU:29"
+        ]
+    },
+    "body": {
+        "raw_text": "Iberia ha lanzado al mercado un millón de plazas desde 29 euros a destinos de todo el mundo para vuelos que se realicen entre el 15 de enero y el 17 de junio. La compra, que se puede realizar hasta el 16 de enero, requiere en todos los casos la adquisición del billete de ida y vuelta. Con esta oferta se podrán comprar billetes de avión para volar a destinos nacionales a precios que oscilan entre los 29 y 39 euros por trayecto. En cuanto a los vuelos con Europa, Iberia ofrece billetes a Alemania, Bélgica, Francia, Holanda, Irlanda, Italia y Portugal desde 39 euros; y a otros destinos europeos como Austria, Dinamarca, Grecia, Polonia, Reino Unido, República Checa, Rumanía, Rusia, Suecia, Suiza o Turquía desde 59 euros por trayecto. Además, para sus vuelos de largo radio, la compañía ofrece billetes a Estados Unidos (Boston, Chicago, Miami y Nueva York) desde tan sólo 199 euros el trayecto; Bogotá, Caracas, La Habana, México, Orlando, San Francisco, Santo Domingo, Johannesburgo y los nuevos destinos de Fortaleza, Recife, Córdoba y Los Ángeles por 279 euros y Buenos Aires, Guatemala, Guayaquil, Las Vegas, Lima, Montevideo, Panamá, Quito, Río de Janeiro, San Diego, San José de Costa Rica, San Juan de Puerto Rico, San Salvador, Santiago de Chile, Sao Paulo desde 339 euros el trayecto. Además, con motivo de la fusión de Iberia y British Airways esta promoción incluye cuatro rutas en código compartido con British Airways; Dubai y Nairobi a donde se puede viajar desde 279 euros el trayecto y Bangkok y Singapur para volar desde 339 euros el trayecto.",
+        "lemmatized_text": "iberia haber lanzar a el mercado 1000000 de plaza desde $_ECU:29 a destino de todo el mundo para vuelo que se realizar entre el [??:15/1/??:??.??:??] y el [??:17/6/??:??.??:??] el compra que se poder realizar hasta el [??:16/1/??:??.??:??] requerir en todo el caso el adquisición de el billete de_ida_y_vuelta con este oferta se poder comprar billete de avión para volar a destino nacional a precio que oscilar entre el 29 y $_ECU:39 por trayecto en_cuanto_a el vuelo con europa iberia ofrecer billete a alemania bélgica francia holanda irlanda italia y portugal desde $_ECU:39 y a otro destino europeo como austria dinamarca grecia polonia reino_unido república_checa rumanía rusia suecia suiza o turquía desde $_ECU:59 por trayecto además para su vuelo de largo radio el compañía ofrecer billete a estados_unidos boston chicago miami y nueva_york desde tan sólo $_ECU:199 el trayecto bogotá caracas la_habana méxico orlando san_francisco santo [G:??/??/??:??.??:??] johannesburgo y el nuevo destino de fortaleza recife córdoba y los_ángeles por $_ECU:279 y buenos_aires guatemala guayaquil las_vegas lima montevideo panamá quito río_de_janeiro san_diego san_josé_de_costa_rica san_juan_de_puerto_rico san_salvador santiago_de_chile sao_paulo desde $_ECU:339 el trayecto además con motivo de el fusión de iberia y british_airways este promoción incluir 4 ruta en código compartir con british_airways dubai y nairobi a_donde se poder viajar desde $_ECU:279 el trayecto y bangkok y singapur para volar desde $_ECU:339 el trayecto",
+        "lemmatized_text_reduced": "iberia haber lanzar mercado plaza destino mundo vuelo realizar compra poder realizar requerir caso adquisición billete oferta poder comprar billete avión volar destino nacional precio oscilar trayecto vuelo europa iberia ofrecer billete alemania bélgica francia holanda irlanda italia portugal destino europeo austria dinamarca grecia polonia reino_unido república_checa rumanía rusia suecia suiza turquía trayecto vuelo largo radio compañía ofrecer billete estados_unidos boston chicago miami nueva_york trayecto bogotá caracas la_habana méxico orlando san_francisco santo johannesburgo nuevo destino fortaleza recife córdoba los_ángeles buenos_aires guatemala guayaquil las_vegas lima montevideo panamá quito río_de_janeiro san_diego san_josé_de_costa_rica san_juan_de_puerto_rico san_salvador santiago_de_chile sao_paulo trayecto motivo fusión iberia british_airways promoción incluir ruta código compartir british_airways dubai nairobi poder viajar trayecto bangkok singapur volar trayecto",
+        "persons": [],
+        "locations": [
+            "Holanda",
+            "Italia",
+            "Portugal",
+            "Dinamarca",
+            "Grecia",
+            "Reino_Unido",
+            "Turquía",
+            "Estados_Unidos",
+            "Boston",
+            "Miami",
+            "Nueva_York",
+            "Bogotá",
+            "Caracas",
+            "La_Habana",
+            "México",
+            "Orlando",
+            "San_Francisco",
+            "Santo",
+            "Johannesburgo",
+            "Fortaleza",
+            "Recife",
+            "Los_Ángeles",
+            "Buenos_Aires",
+            "Guayaquil",
+            "Las_Vegas",
+            "Lima",
+            "Montevideo",
+            "Panamá",
+            "Río_de_Janeiro",
+            "San_Diego",
+            "San_Juan_de_Puerto_Rico",
+            "San_Salvador",
+            "Santiago_de_Chile",
+            "Sao_Paulo",
+            "Dubai",
+            "Nairobi"
+        ],
+        "organizations": [
+            "Iberia",
+            "Europa",
+            "Iberia",
+            "Alemania",
+            "Bélgica",
+            "Francia",
+            "Irlanda",
+            "Austria",
+            "Polonia",
+            "República_Checa",
+            "Rumanía",
+            "Rusia",
+            "Suecia",
+            "Suiza",
+            "Chicago",
+            "Córdoba",
+            "Guatemala",
+            "Quito",
+            "San_José_de_Costa_Rica",
+            "Iberia",
+            "British_Airways",
+            "British_Airways",
+            "Bangkok",
+            "Singapur"
+        ],
+        "others": [],
+        "dates": [
+            "[??:15/1/??:??.??:??]",
+            "[??:17/6/??:??.??:??]",
+            "[??:16/1/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "1000000",
+            "$_ECU:29",
+            "29",
+            "$_ECU:39",
+            "$_ECU:39",
+            "$_ECU:59",
+            "$_ECU:199",
+            "$_ECU:279",
+            "$_ECU:339",
+            "4",
+            "$_ECU:279",
+            "$_ECU:339"
+        ]
+    }
+}

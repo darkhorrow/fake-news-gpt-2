@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/689730/0/",
+    "title": {
+        "raw_text": "Rivero y Corbacho formalizarán el 18 de mayo un acuerdo sobre la ayuda del Gobierno canario al pago de Seguridad Social",
+        "lemmatized_text": "rivero y corbacho formalizar el [??:18/5/??:??.??:??] uno acuerdo sobre el ayuda de el gobierno canario a el pago de seguridad_social",
+        "lemmatized_text_reduced": "rivero corbacho formalizar acuerdo ayuda gobierno canario pago seguridad_social",
+        "persons": [
+            "Rivero",
+            "Corbacho"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:18/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se pagará el 100% de la Seguridad Social para las empresas que contraten nuevos trabajadores",
+        "lemmatized_text": "se pagar el 100/100 de el seguridad_social para el empresa que contratar nuevo trabajador",
+        "lemmatized_text_reduced": "pagar seguridad_social empresa contratar nuevo trabajador",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [],
+        "numbers": [
+            "100/100"
+        ]
+    },
+    "body": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, y el ministro de Trabajo, Celestino Corbacho, formalizarán el próximo 18 de mayo en Las Palmas de Gran Canaria un acuerdo que propicie al Ejecutivo regional la ayuda del pago del 100 por ciento de la Seguridad Social para aquellas empresas que contraten nuevos trabajadores. \"Una de las medidas en las que el Gobierno de Canarias tiene mucha confianza es en la que tiene que ver con la ayuda del pago de la cuota de la Seguridad Social a aquellas empresas que contraten nuevos trabajadores. En concreto, para aquellas empresas que contraten nuevos trabajadores por un tiempo de un año, el Ejecutivo canario le financia el 100 por cien durante seis meses la cuota de la Seguridad Social\", dijo hoy el presidente regional durante unas declaraciones a los medios de comunicación. Rivero entendió que esta medida es \"muy importante\", por lo que el Gobierno autonómico pondrá 60 millones de euros —30 de ellos hasta final de año y otros 30 millones en el primer semestre de 2011—, que se podrá ampliar en la medida en que la demanda lo exija. \"Si el compromiso empresarial funciona servirá para contratar, por lo menos, 20.000 trabajadores con esta medida. Para el pago de la cuota de la Seguridad Social hemos llegado a un acuerdo con la Tesorería General de la Seguridad Social para que quien nos aporte los datos de las cantidades necesarias sea la propia Tesorería\", apuntó. Finalmente, declaró que este compromiso se formalizará en un acuerdo que se firmará el día 18 de mayo en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero y el ministro de trabajo celestino_corbacho formalizar el [??:18/5/??:??.??:??] en las_palmas_de_gran_canaria uno acuerdo que propiciar a el ejecutivo regional el ayuda de el pago de el 100 por 100 de el seguridad_social para aquel empresa que contratar nuevo trabajador uno de el medida en el que el gobierno_de_canarias tener mucho confianza ser en el que tener que ver con el ayuda de el pago de el cuota de el seguridad_social a aquel empresa que contratar nuevo trabajador en concreto para aquel empresa que contratar nuevo trabajador por uno tiempo de uno año el ejecutivo canario le financiar el 100/100 durante 6 mes el cuota de el seguridad_social decir hoy el presidente regional durante uno declaración a el medio de comunicación rivero entender que este medida ser muy importante por el que el gobierno autonómico poner $_ECU:60000000 30 de ellos hasta final de año y otro 30000000 en el 1 semestre de 2011 que se poder ampliar en el medida en que el demanda lo exigir si el compromiso empresarial funcionar servir para contratar por_lo_menos 20 trabajador con este medida para el pago de el cuota de el seguridad_social haber llegar a uno acuerdo con el tesorería_general_de_la_seguridad_social para que quien nos aportar el dato de el cantidad necesario ser el propio tesorería apuntar finalmente declarar que este compromiso se formalizar en uno acuerdo que se firmar el [??:18/5/??:??.??:??] en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero ministro trabajo celestino_corbacho formalizar las_palmas_de_gran_canaria acuerdo propiciar ejecutivo regional ayuda pago seguridad_social empresa contratar nuevo trabajador medida gobierno_de_canarias tener confianza ser tener ver ayuda pago cuota seguridad_social empresa contratar nuevo trabajador concreto empresa contratar nuevo trabajador tiempo año ejecutivo canario financiar mes cuota seguridad_social decir presidente regional declaración medio comunicación rivero entender medida ser importante gobierno autonómico poner final año 1 semestre poder ampliar medida demanda exigir compromiso empresarial funcionar servir contratar trabajador medida pago cuota seguridad_social haber llegar acuerdo tesorería_general_de_la_seguridad_social aportar dato cantidad necesario ser propio tesorería apuntar finalmente declarar compromiso formalizar acuerdo firmar las_palmas_de_gran_canaria",
+        "persons": [
+            "Paulino_Rivero",
+            "Celestino_Corbacho",
+            "Rivero",
+            "Tesorería"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Gobierno",
+            "Tesorería_General_de_la_Seguridad_Social"
+        ],
+        "others": [
+            "Trabajo",
+            "Seguridad_Social",
+            "Seguridad_Social",
+            "Seguridad_Social",
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:18/5/??:??.??:??]",
+            "[??:18/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "100",
+            "100",
+            "100/100",
+            "6",
+            "$_ECU:60000000",
+            "30",
+            "30000000",
+            "2011",
+            "20"
+        ]
+    }
+}

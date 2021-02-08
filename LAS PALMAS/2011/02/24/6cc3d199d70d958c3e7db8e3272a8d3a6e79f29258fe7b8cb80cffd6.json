@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/970327/0/",
+    "title": {
+        "raw_text": "Canarias estará presente en la Feria de Munich donde destacará la \"riqueza natural\" de las islas",
+        "lemmatized_text": "canario estar presente en el feria_de_munich donde destacar el riqueza natural de el isla",
+        "lemmatized_text_reduced": "canario estar presente feria_de_munich destacar riqueza natural isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Feria_de_Munich"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Viceconsejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, estará presente en la Feria FREE de Munich que se desarrollará del 23 al 27 de febrero.",
+        "lemmatized_text": "el viceconsejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur estar presente en el feria_free_de_munich que se desarrollar de el 23 a el [??:27/2/??:??.??:??]",
+        "lemmatized_text_reduced": "viceconsejería_de_turismo_del_gobierno_de_canarias empresa público promotur estar presente feria_free_de_munich desarrollar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Viceconsejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur"
+        ],
+        "others": [
+            "Feria_FREE_de_Munich"
+        ],
+        "dates": [
+            "[??:27/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "23"
+        ]
+    },
+    "body": {
+        "raw_text": "La Viceconsejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, estará presente en la Feria FREE de Munich que se desarrollará del 23 al 27 de febrero. En dicho evento, Canarias se promocionará como destino turístico y destacará la \"riqueza natural\" de las islas, así como la oferta de productos, según informó el Ejecutivo regional en nota de prensa. La promoción del archipiélago se hará a través del stand de Turespaña y en el espacio asignado a Canarias se distribuyen varios mostradores para facilitar información de los diferentes aspectos turísticos del archipiélago. El turista alemán visita las Islas Canarias durante todo el año \"aunque prefiere el invierno\" y normalmente se alojan en hoteles. Además se caracteriza por ser un turista que busca hoteles de cuatro estrellas con media pensión o todo incluido. Asimismo, visitan el archipiélago motivados por el clima, las playas, la tranquilidad, la posibilidad de descanso o relax, y por la oferta de turismo activo. En enero llegaron a Canarias 245.304 turistas de esta nacionalidad. La Feria FREE ofrece propuestas relacionadas con el turismo de belleza y salud, actividades náuticas o deportes para practicar al aire libre. Esta actividad es el resultado de la fusión de los eventos Reisepavillion y CBR Freizeit und Reisen que antes se celebraban por separado y ahora se hacen de forma conjunta. En su última edición, en 2010, recibieron 100.000 visitantes, participaron 1.470 expositores procedentes de 54 países, y la superficie de la exposición se extendió sobre 70.000 metros cuadrados.",
+        "lemmatized_text": "el viceconsejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur estar presente en el feria_free_de_munich que se desarrollar de el 23 a el [??:27/2/??:??.??:??] en decir evento canarias se promocionar como destino turístico y destacar el riqueza natural de el isla así_como el oferta de producto según informar el ejecutivo regional en nota de prensa el promoción de el archipiélago se hacer a través de el stand de turespaña y en el espacio asignar a canarias se distribuir varios mostrador para facilitar información de el diferente aspecto turístico de el archipiélago el turista alemán visita el islas_canarias durante todo el año aunque preferir el invierno y normalmente se alojar en hotel además se caracterizar por ser uno turista que buscar hotel de 4 estrella con medio pensión o todo incluir asimismo visitar el archipiélago motivar por el clima el playa el tranquilidad el posibilidad de descanso o relax y por el oferta de turismo activo en [??:??/1/??:??.??:??] llegar a canarias 245.304 turista de este nacionalidad el feria_free ofrecer propuesta relacionar con el turismo de belleza y salud actividad náutico o deporte para practicar a el aire libre este actividad ser el resultado de el fusión de el evento reisepavillion y cbr_freizeit und reisen que antes se celebrar por_separado y ahora se hacer de forma conjunto en su último edición en 2010 recibir 100 visitante participar 1.47 expositor procedente de 54 país y el superficie de el exposición se extender sobre AR_m2:70",
+        "lemmatized_text_reduced": "viceconsejería_de_turismo_del_gobierno_de_canarias empresa público promotur estar presente feria_free_de_munich desarrollar decir evento canarias promocionar destino turístico destacar riqueza natural isla oferta producto informar ejecutivo regional nota prensa promoción archipiélago hacer través stand turespaña espacio asignar canarias distribuir mostrador facilitar información diferente aspecto turístico archipiélago turista alemán visita islas_canarias año preferir invierno normalmente alojar hotel caracterizar ser turista buscar hotel estrella medio pensión incluir visitar archipiélago motivar clima playa tranquilidad posibilidad descanso relax oferta turismo activo llegar canarias turista nacionalidad feria_free ofrecer propuesta relacionar turismo belleza salud actividad náutico deporte practicar aire libre actividad ser resultado fusión evento reisepavillion cbr_freizeit und reisen celebrar hacer forma conjunto último edición recibir visitante participar expositor procedente país superficie exposición extender",
+        "persons": [
+            "Turespaña",
+            "Reisen"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Islas_Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Viceconsejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur",
+            "Ejecutivo",
+            "Reisepavillion",
+            "CBR_Freizeit"
+        ],
+        "others": [
+            "Feria_FREE_de_Munich",
+            "Feria_FREE"
+        ],
+        "dates": [
+            "[??:27/2/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "23",
+            "4",
+            "245.304",
+            "2010",
+            "100",
+            "1.47",
+            "54",
+            "AR_m2:70"
+        ]
+    }
+}

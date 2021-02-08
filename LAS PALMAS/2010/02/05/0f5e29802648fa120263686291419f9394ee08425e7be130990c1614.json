@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/623083/0/",
+    "title": {
+        "raw_text": "La costa oeste de Gran Canaria percibe de manera leve el seísmo de cuatro grados aunque no registra daños",
+        "lemmatized_text": "el costa oeste de gran_canaria percibir de manera leve el seísmo de 4 grado aunque no registrar daño",
+        "lemmatized_text_reduced": "costa oeste gran_canaria percibir manera leve seísmo grado registrar daño",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los ciudadanos de los municipios de la costa oeste de Gran Canaria --Gáldar, Agaete y La Aldea-- percibieron de manera leve el seísmo de cuatro grados en la escala Richter que se produjo hoy a las 15.10 horas a una distancia de 10 kilómetros de la costa suroeste de Tenerife, mientras que autoridades locales indicaron a Europa Press que el movimiento no produjo ningún tipo de daños.",
+        "lemmatized_text": "el ciudadano de el municipio de el costa oeste de gran_canaria gáldar agaete y la_aldea percibir de manera leve el seísmo de 4 grado en el escala richter que se producir hoy a el TM_h:15.1 a uno distancia de LN_km:10 de el costa suroeste de tenerife mientras_que autoridad local indicar a europa_press que el movimiento no producir ninguno tipo de daño",
+        "lemmatized_text_reduced": "ciudadano municipio costa oeste gran_canaria gáldar agaete la_aldea percibir manera leve seísmo grado escala richter producir distancia costa suroeste tenerife autoridad local indicar europa_press movimiento producir tipo daño",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Gáldar",
+            "Agaete",
+            "La_Aldea"
+        ],
+        "organizations": [
+            "Tenerife"
+        ],
+        "others": [
+            "Richter"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "TM_h:15.1",
+            "LN_km:10"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, fuentes municipales de Gáldar aseguraron no tener constancia de que se hubiera producido ningún temblor que afectara a vecinos o residentes en la localidad. Por su parte, la Policía Local afirmó que hasta las 16.20 horas no había recibido ninguna llamada como consecuencia del terremoto. Asimismo, en Agaete \"sí se ha sentido en todo el municipio; en el valle y en las nieves\", explicaron fuentes del Consistorio que indicaron que la Policía Local recibió algunas llamadas al respecto \"para saber lo que había ocurrido\". Por último, el alcalde de La Aldea, Tomás Pérez, declaró a Europa Press que el terremoto \"se había notado en la zona sin consecuencias\" y que por ahora los agentes locales no han registrado \"ninguna comunicación\" en referencia al movimiento.",
+        "lemmatized_text": "de este manera fuente municipal de gáldar asegurar no tener constancia de que se haber producir ninguno temblor que afectar a vecino o residente en el localidad por su parte el policía_local afirmar que hasta el TM_h:16.2 no haber recibir ninguno llamada como consecuencia de el terremoto asimismo en agaete sí se haber sentir en todo el municipio en el valle y en el nieve explicar fuente de el consistorio que indicar que el policía_local recibir alguno llamada a el respecto para saber el que haber ocurrir por último el alcalde de la_aldea tomás_pérez declarar a europa_press que el terremoto se haber notar en el zona sin consecuencia y que por ahora el agente local no haber registrar ninguno comunicación en referencia a el movimiento",
+        "lemmatized_text_reduced": "manera fuente municipal gáldar asegurar tener constancia haber producir temblor afectar vecino residente localidad parte policía_local afirmar haber recibir llamada consecuencia terremoto agaete haber sentir municipio valle nieve explicar fuente consistorio indicar policía_local recibir llamada respecto saber haber ocurrir último alcalde la_aldea tomás_pérez declarar europa_press terremoto haber notar zona consecuencia agente local haber registrar comunicación referencia movimiento",
+        "persons": [
+            "Tomás_Pérez",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gáldar",
+            "Agaete",
+            "La_Aldea"
+        ],
+        "organizations": [
+            "Policía_Local",
+            "Consistorio",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.2"
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/702247/0/",
+    "title": {
+        "raw_text": "Desarticulado en Gran Canaria un grupo dedicado a la introducción y distribución de drogas en Las Palmas",
+        "lemmatized_text": "desarticular en gran_canaria uno grupo dedicar a el introducción y distribución de droga en las_palmas",
+        "lemmatized_text_reduced": "desarticular gran_canaria grupo dedicar introducción distribución droga las_palmas",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Entre el material incautado hay 7.796 gramos de cocaína y 64.000 gramos de hachís",
+        "lemmatized_text": "entre el material incautar haber WG_g:7.796 de cocaína y WG_g:64 de hachís",
+        "lemmatized_text_reduced": "material incautar haber cocaína hachís",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:7.796",
+            "WG_g:64"
+        ]
+    },
+    "body": {
+        "raw_text": "Agentes del Cuerpo Nacional de Policía, en el marco de la operación 'Himar', iniciada en abril de 2009, han procedido a la desarticulación de un grupo organizado compuesto por miembros de nacionalidad española, dedicados a la introducción y distribución de cocaína y de cannabis en la provincia de Las Palmas, así como en Las Palmas de Gran Canaria y el sur de la isla, informó hoy la Jefatura Superior de Policía en un comunicado. La actuación, llevada a cabo por la UDYCO de la Brigada Provincial de Policía Judicial de Las Palmas, se ha realizado en tres partes, dando como resultado la detención de seis personas: L.A.C.F., de 46 años; P.A.S., de 38; D.R.V., de 30; F.L.O., de 31; S.M.J.S., de 39; y J.J.G.H., de 37, todos ellos de nacionalidad española y con varios antecedentes por diversos delitos. Por su parte, en los cinco registros domiciliarios efectuados, fueron intervenidos los siguientes efectos 7.796 gramos de cocaína; 64.000 gramos de hachís; 3.909 gramos de polen de hachís; 950 gramos de sustancia de corte; además de dos vehículos; un aparato de imagen; 17.035 euros; un ordenador portátil; seis teléfonos móviles; dos básculas de precisión; y un laboratorio totalmente equipado para la manipulación de la cocaína. Finalmente, los detenidos, junto con los atestados policiales, fueron puestos a disposición de la Autoridad Judicial, que decretó el ingreso en prisión de los mismos.",
+        "lemmatized_text": "agentes_del_cuerpo_nacional_de_policía en el marco de el operación himar iniciar en [??:??/4/2009:??.??:??] haber proceder a el desarticulación de uno grupo organizar componer por miembro de nacionalidad español dedicar a el introducción y distribución de cocaína y de cannabis en el provincia de las_palmas así_como en las_palmas_de_gran_canaria y el sur de el isla informar hoy el jefatura_superior_de_policía en uno comunicado el actuación llevar_a_cabo por el udyco_de_la_brigada_provincial_de_policía_judicial_de_las_palmas se haber realizar en 3 parte dar como resultado el detención de 6 persona l.a.c.f. de 46 año p.a.s. de 38 d.r.v. de 30 f.l.o. de 31 s.m.j.s. de 39 y j.j.g.h. de 37 todo ellos de nacionalidad español y con varios antecedente por diverso delito por su parte en el 5 registro domiciliario efectuar ser intervenir el siguiente efecto WG_g:7.796 de cocaína WG_g:64 de hachís WG_g:3.909 de polen de hachís WG_g:950 de sustancia de corte además_de 2 vehículo uno aparato de imagen $_ECU:17.035 uno ordenador portátil 6 teléfono móvil 2 báscula de precisión y uno laboratorio totalmente equipar para el manipulación de el cocaína finalmente el detenido junto_con el atestado policial ser poner a disposición de el autoridad_judicial que decretar el ingreso en prisión de el mismo",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_nacional_de_policía marco operación himar iniciar haber proceder desarticulación grupo organizar componer miembro nacionalidad español dedicar introducción distribución cocaína cannabis provincia las_palmas las_palmas_de_gran_canaria sur isla informar jefatura_superior_de_policía comunicado actuación llevar_a_cabo udyco_de_la_brigada_provincial_de_policía_judicial_de_las_palmas haber realizar parte dar resultado detención persona l.a.c.f. año p.a.s. d.r.v. f.l.o. s.m.j.s. j.j.g.h. nacionalidad español antecedente delito parte registro domiciliario efectuar ser intervenir siguiente efecto cocaína hachís polen hachís sustancia corte vehículo aparato imagen ordenador portátil teléfono móvil báscula precisión laboratorio totalmente equipar manipulación cocaína finalmente detenido atestado policial ser poner disposición autoridad_judicial decretar ingreso prisión",
+        "persons": [
+            "Himar",
+            "L.A.C.F."
+        ],
+        "locations": [
+            "Las_Palmas",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Agentes_del_Cuerpo_Nacional_de_Policía",
+            "Jefatura_Superior_de_Policía",
+            "UDYCO_de_la_Brigada_Provincial_de_Policía_Judicial_de_Las_Palmas",
+            "P.A.S.",
+            "D.R.V.",
+            "F.L.O.",
+            "S.M.J.S.",
+            "J.J.G.H.",
+            "Autoridad_Judicial"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/2009:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "6",
+            "46",
+            "38",
+            "30",
+            "31",
+            "39",
+            "37",
+            "5",
+            "WG_g:7.796",
+            "WG_g:64",
+            "WG_g:3.909",
+            "WG_g:950",
+            "2",
+            "$_ECU:17.035",
+            "6",
+            "2"
+        ]
+    }
+}

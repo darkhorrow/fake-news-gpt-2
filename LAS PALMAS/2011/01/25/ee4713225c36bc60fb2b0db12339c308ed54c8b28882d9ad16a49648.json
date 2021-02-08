@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/938986/0/",
+    "title": {
+        "raw_text": "Gran Canaria recoge 318 litros de agua con las últimas lluvias",
+        "lemmatized_text": "gran_canaria recoger VL_l:318 de agua con el último lluvia",
+        "lemmatized_text_reduced": "gran_canaria recoger agua último lluvia",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "VL_l:318"
+        ]
+    },
+    "lead": {
+        "raw_text": "La isla de Gran Canaria ha recogido en 24 horas 318 litros por metro cúbicos con las últimas lluvias que han caído, debido al temporal que está atravesando el archipiélago.",
+        "lemmatized_text": "el isla de gran_canaria haber recoger en TM_h:24 VL_l:318 por metro cúbico con el último lluvia que haber caer deber a el temporal que estar atravesar el archipiélago",
+        "lemmatized_text_reduced": "isla gran_canaria haber recoger metro cúbico último lluvia haber caer deber temporal estar atravesar archipiélago",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:24",
+            "VL_l:318"
+        ]
+    },
+    "body": {
+        "raw_text": "La isla de Gran Canaria ha recogido en 24 horas 318 litros por metro cúbicos con las últimas lluvias que han caído, debido al temporal que está atravesando el archipiélago. En concreto, y según informó el Cabildo insular, entre las 08.00 horas del pasado lunes y la misma hora de este martes, se ha acumulado más de 300 litros por metro cúbico en la isla. Por zonas, en el Sur de la isla ha sido San Bartolomé de Tirajana donde mayor cantidad de agua ha caído, ya que los pluviómetros repartidos por este municipio han recogido hasta 83,2 litros por metro cúbicos.",
+        "lemmatized_text": "el isla de gran_canaria haber recoger en TM_h:24 VL_l:318 por metro cúbico con el último lluvia que haber caer deber a el temporal que estar atravesar el archipiélago en concreto y según informar el cabildo insular entre el [L:??/??/??:8.00:??] y el mismo hora de este [M:??/??/??:??.??:??] se haber acumular más de VL_l:300 por metro cúbico en el isla por zona en el sur de el isla haber ser san_bartolomé_de_tirajana donde mayor cantidad de agua haber caer ya_que el pluviómetro repartir por este municipio haber recoger hasta VL_l:83,2 por metro cúbico",
+        "lemmatized_text_reduced": "isla gran_canaria haber recoger metro cúbico último lluvia haber caer deber temporal estar atravesar archipiélago concreto informar cabildo insular mismo hora haber acumular metro cúbico isla zona sur isla haber ser san_bartolomé_de_tirajana mayor cantidad agua haber caer pluviómetro repartir municipio haber recoger metro cúbico",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Sur"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:8.00:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:24",
+            "VL_l:318",
+            "VL_l:300",
+            "VL_l:83,2"
+        ]
+    }
+}

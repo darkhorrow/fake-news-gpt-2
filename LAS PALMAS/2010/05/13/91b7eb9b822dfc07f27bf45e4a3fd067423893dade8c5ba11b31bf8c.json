@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/705890/0/",
+    "title": {
+        "raw_text": "La Policía Nacional desarticula un servicio de 'telecoca' en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el policía_nacional desarticular uno servicio de telecoca en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional desarticular servicio telecoca las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha desarticulado un servicio de 'telecoca' en Las Palmas de Gran Canaria con la detención de un hombre que repartía cocaína a domicilio según le era solicitada por teléfono.",
+        "lemmatized_text": "el policía_nacional haber desarticular uno servicio de telecoca en las_palmas_de_gran_canaria con el detención de uno hombre que repartir cocaína a domicilio según le ser solicitar por teléfono",
+        "lemmatized_text_reduced": "policía_nacional haber desarticular servicio telecoca las_palmas_de_gran_canaria detención hombre repartir cocaína domicilio ser solicitar teléfono",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La operación llevada a cabo por funcionarios de la Unidad contra la Delincuencia y el Crimen Organizado (Udyco) de la Brigada Provincial de Policía Judicial de Las Palmas comenzó hace varios meses mediante la investigación de un varón dedicado a la venta de sustancias estupefacientes, en concreto cocaína, que llegaba a realizar más de treinta transacciones de droga diarias, según informó el Cuerpo Nacional de Policía en un comunicado. El modus operandi llevado a cabo por esta persona consistía en el llamado 'telecoca'. Concretamente, el ahora detenido se dedicaba a recibir multitud de llamadas telefónicas procedentes de consumidores que le solicitaban importantes cantidades de cocaína. Tras la llamada se dirigía a bordo de su vehículo a los domicilios que le indicaban, haciendo entrega al comprador de la cantidad de droga que previamente le habían solicitado. Ingresa en prisión La operación policial permitió su detención en el momento en el que se dirigía a realizar uno de sus repartos diarios. Así pues, le fueron intervenidos un total de 30 gramos de cocaína divididos en bolsitas de diferentes tamaños. Asimismo, se llevó a cabo un registro domiciliario, en el que fueron intervenidos 900 monodosis de cocaína, 605 euros en metálico, una pistola marca 'Podium' de aire comprimido y dos vehículos. El detenido, F.S.C.C., de 47 años y natural de Las Palmas de Gran Canaria, a quien le consta un antecedente, fue puesto a disposición de la autoridad judicial, que decretó su ingreso en prisión.",
+        "lemmatized_text": "el operación llevar_a_cabo por funcionario de el unidad contra el delincuencia y el crimen_organizado udyco de el brigada_provincial_de_policía_judicial_de_las_palmas comenzar hacer varios mes mediante el investigación de uno varón dedicar a el venta de sustancia estupefaciente en concreto cocaína que llegar a realizar más de 30 transacción de droga diario según informar el cuerpo_nacional_de_policía en uno comunicado el modus operandi llevar_a_cabo por este persona consistir en el llamar telecoca concretamente el ahora detener se dedicar a recibir multitud de llamada telefónico procedente de consumidor que le solicitar importante cantidad de cocaína tras el llamada se dirigir a_bordo de su vehículo a el domicilio que le indicar hacer entrega a el comprador de el cantidad de droga que previamente le haber solicitar ingresar en prisión la operación policial permitir su detención en el momento en el que se dirigir a realizar uno de su reparto diario así_pues le ser intervenir uno total de WG_g:30 de cocaína dividir en bolsa de diferente tamaño asimismo se llevar_a_cabo uno registro domiciliario en el que ser intervenir 900 monodosis de cocaína $_ECU:605 en metálico uno pistola marca podium de aire comprimir y 2 vehículo el detenido f.s.c.c. de 47 año y natural de las_palmas_de_gran_canaria a quien le constar uno antecedente ser poner a disposición de el autoridad judicial que decretar su ingreso en prisión",
+        "lemmatized_text_reduced": "operación llevar_a_cabo funcionario unidad delincuencia crimen_organizado udyco brigada_provincial_de_policía_judicial_de_las_palmas comenzar hacer mes investigación varón dedicar venta sustancia estupefaciente concreto cocaína llegar realizar transacción droga diario informar cuerpo_nacional_de_policía comunicado modus operandi llevar_a_cabo persona consistir llamar telecoca concretamente detener dedicar recibir multitud llamada telefónico procedente consumidor solicitar importante cantidad cocaína llamada dirigir vehículo domicilio indicar hacer entrega comprador cantidad droga previamente haber solicitar ingresar prisión la operación policial permitir detención momento dirigir realizar reparto diario ser intervenir total cocaína dividir bolsa tamaño llevar_a_cabo registro domiciliario ser intervenir monodosis cocaína metálico pistola marca podium aire comprimir vehículo detenido f.s.c.c. año natural las_palmas_de_gran_canaria constar antecedente ser poner disposición autoridad judicial decretar ingreso prisión",
+        "persons": [
+            "Podium",
+            "F.S.C.C."
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Unidad",
+            "Delincuencia",
+            "Crimen_Organizado",
+            "Udyco",
+            "Brigada_Provincial_de_Policía_Judicial_de_Las_Palmas",
+            "Cuerpo_Nacional_de_Policía",
+            "La"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30",
+            "WG_g:30",
+            "900",
+            "$_ECU:605",
+            "2",
+            "47"
+        ]
+    }
+}

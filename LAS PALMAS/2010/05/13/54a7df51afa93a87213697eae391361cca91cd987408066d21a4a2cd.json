@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/705798/0/",
+    "title": {
+        "raw_text": "El crucero MSC Opera hará escala mañana por primera vez en el Puerto de La Luz y de Las Palmas",
+        "lemmatized_text": "el crucero msc_opera hacer escala mañana por 1 vez en el puerto_de_la_luz y de las_palmas",
+        "lemmatized_text_reduced": "crucero msc_opera hacer escala 1 vez puerto_de_la_luz las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "MSC_Opera",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El crucero MSC Opera hará escala mañana por primera vez a las 11.00 horas en el Puerto de La Luz y de Las Palmas, hora en que la Autoridad Portuaria de Las Palmas realizará la entrega de metopas al capitán en el Muelle de Santa Catalina, según informó hoy el Organismo en un comunicado.",
+        "lemmatized_text": "el crucero msc_opera hacer escala mañana por 1 vez a el TM_h:11 en el puerto_de_la_luz y de las_palmas hora en que el autoridad_portuaria_de_las_palmas realizar el entrega de metopa a el capitán en el muelle_de_santa_catalina según informar hoy el organismo en uno comunicado",
+        "lemmatized_text_reduced": "crucero msc_opera hacer escala 1 vez puerto_de_la_luz las_palmas hora autoridad_portuaria_de_las_palmas realizar entrega metopa capitán muelle_de_santa_catalina informar organismo comunicado",
+        "persons": [],
+        "locations": [
+            "Puerto_de_La_Luz",
+            "Muelle_de_Santa_Catalina"
+        ],
+        "organizations": [
+            "MSC_Opera",
+            "Las_Palmas",
+            "Autoridad_Portuaria_de_Las_Palmas",
+            "Organismo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:11"
+        ]
+    },
+    "body": {
+        "raw_text": "Según la naviera, el buque es \"una gran obra de arte, inspirado en el Art Déco, esperando a ser descubierto: los elementos de decoración geométrica, los suelos de mármol y los grandes ventanales, el punto ideal entre el diseño y el confort\". Por su parte, en el MSC Opera los camarotes son espaciosos y se encuentran equipados con todas las comodidades. Se puede disfrutar desde un íntimo desayuno en el balcón privado a una romántica cena en el restaurante a bordo. En cuanto a servicios, cabe destacar la característica y \"refinada\" gastronomía con un punto italiano de MSC Cruceros, servicio de SPA, salón de belleza, gimnasio, cabinas de masaje, sauna, solarium y tratamiento exclusivos para cada tipo de necesidad. \"No falta el entretenimiento ni la diversión de la mano de la discoteca, el minigolf, el casino, la sala de videojuegos, entre otros\", indicó la naviera.",
+        "lemmatized_text": "según el naviero el buque ser uno gran obra de arte inspirar en el art_déco esperar a ser descubrir el elemento de decoración geométrico el suelo de mármol y el grande ventanal el punto ideal entre el diseño y el confort por su parte en el msc_opera el camarote ser espacioso y se encontrar equipar con todo el comodidad se poder disfrutar desde uno íntimo desayuno en el balcón privar a uno romántico cena en el restaurante a_bordo en_cuanto_a servicio caber destacar el característica y refinar gastronomía con uno punto italiano de msc_cruceros servicio de spa salón de belleza gimnasio cabina de masaje sauna solarium y tratamiento exclusivo para cada tipo de necesidad no faltar el entretenimiento ni el diversión de_la_mano_de el discoteca el minigolf el casino el sala de videojuego entre otro indicar el naviero",
+        "lemmatized_text_reduced": "naviero buque ser gran obra arte inspirar art_déco esperar ser descubrir elemento decoración geométrico suelo mármol grande ventanal punto ideal diseño confort parte msc_opera camarote ser espacioso encontrar equipar comodidad poder disfrutar íntimo desayuno balcón privar romántico cena restaurante servicio caber destacar característica refinar gastronomía punto italiano msc_cruceros servicio spa salón belleza gimnasio cabina masaje sauna solarium tratamiento exclusivo tipo necesidad faltar entretenimiento diversión discoteca minigolf casino sala videojuego indicar naviero",
+        "persons": [],
+        "locations": [
+            "Art_Déco"
+        ],
+        "organizations": [
+            "MSC_Opera",
+            "SPA"
+        ],
+        "others": [
+            "MSC_Cruceros"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

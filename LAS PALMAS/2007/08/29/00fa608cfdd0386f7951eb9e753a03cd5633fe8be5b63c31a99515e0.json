@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-08-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/269594/0/expropiacion/islote/lanzarote/",
+    "title": {
+        "raw_text": "Venden un islote en Lanzarote por 9 millones pero Costas quiere expropiarlo",
+        "lemmatized_text": "vender uno islote en lanzarote por 9000000 pero costas querer expropiar lo",
+        "lemmatized_text_reduced": "vender islote lanzarote costas querer expropiar",
+        "persons": [
+            "Costas"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El islote pertenece a una familia, que lo vende por 9 millones de euros. El director general de Costas dice que habrá una expropiación forzosa. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el islote pertenecer a uno familia que lo vender por $_ECU:9000000 el director general de costas decir que haber uno expropiación forzoso consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "islote pertenecer familia vender director general costas decir haber expropiación forzoso consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Costas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:9000000"
+        ]
+    },
+    "body": {
+        "raw_text": "El director general de Costas, José Fernández, afirmó en una visita a Lanzarote que en septiembre llevarán al Consejo de Ministros la declaración de utilidad pública de los islotes de Alegranza y Montaña Clara para su posterior compra y será en ese mismo mes cuando se reanuden los contactos para adquirir el Islote de la Santa, informa Crónicas de Lanzarote . Islote a la venta El islote de Montaña Clara, que es la isla más pequeña de Canarias, pertenece a la familia López Sorcas. Esta familia puso a la venta el islote por nueve millones de euros, sin embargo, el director general de Costas afirmó en la Cadena Ser que \"esperamos alcanzar un acuerdo amistoso con la propiedad, pero lo que tenemos previsto es iniciar un procedimiento de expropiación forzosa \". El islote Montaña Clara forma parte del Parque Natural del archipiélago Chinijo y de la Reserva Natural de los Islotes, tiene 2,7 millones de metros cuadrados y está situado al norte de Lanzarote. Los dueños pusieron a la venta el islote en la inmobiliaria Look & Find con la única condición de que los nuevos dueños respeten el paraje natural . Ahora sólo queda esperar para saber qué ocurrirá finalmente con Montaña Clara, si lo compra un particular aunque no pueda edificar en él o si el director general de Costas tiene razón y se lleva a cabo una expropiación forzosa. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el director general de costas josé_fernández afirmar en uno visita a lanzarote que en [??:??/9/??:??.??:??] llevar a el consejo_de_ministros el declaración de utilidad público de el islote de alegranza y montaña_clara para su posterior compra y ser en ese mismo mes cuando se reanudar el contacto para adquirir el islote_de_la_santa informar crónicas_de_lanzarote islote a el venta el islote de montaña_clara que ser el isla más pequeño de canarias pertenecer a el familia lópez_sorcas este familia poner a el venta el islote por $_ECU:9000000 sin embargo el director general de costas afirmar en el cadena_ser que esperar alcanzar uno acuerdo amistoso con el propiedad pero el que tener prever ser iniciar uno procedimiento de expropiación forzoso el islote montaña_clara formar_parte de el parque_natural de el archipiélago chinijo y de el reserva_natural_de_los_islotes tener 2,7 millón de metro cuadrado y estar situar a el norte de lanzarote el dueño poner a el venta el islote en el inmobiliaria look_&_find con el único condición de que el nuevo dueño respetar el paraje natural ahora sólo quedar esperar para saber qué ocurrir finalmente con montaña_clara si lo comprar uno particular aunque no poder edificar en él o si el director general de costas tener razón y se llevar_a_cabo uno expropiación forzoso consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "director general costas josé_fernández afirmar visita lanzarote llevar consejo_de_ministros declaración utilidad público islote alegranza montaña_clara posterior compra ser mismo mes reanudar contacto adquirir islote_de_la_santa informar crónicas_de_lanzarote islote venta el islote montaña_clara ser isla pequeño canarias pertenecer familia lópez_sorcas familia poner venta islote embargo director general costas afirmar cadena_ser esperar alcanzar acuerdo amistoso propiedad tener prever ser iniciar procedimiento expropiación forzoso islote montaña_clara formar_parte parque_natural archipiélago chinijo reserva_natural_de_los_islotes tener millón metro cuadrado estar situar norte lanzarote dueño poner venta islote inmobiliaria look_&_find único condición nuevo dueño respetar paraje natural quedar esperar saber ocurrir finalmente montaña_clara comprar particular poder edificar director general costas tener razón llevar_a_cabo expropiación forzoso consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "José_Fernández",
+            "Crónicas_de_Lanzarote",
+            "Islote",
+            "López_Sorcas",
+            "Montaña_Clara",
+            "Montaña_Clara"
+        ],
+        "locations": [
+            "Costas",
+            "Lanzarote",
+            "Alegranza",
+            "Montaña_Clara",
+            "Montaña_Clara",
+            "Canarias",
+            "Costas",
+            "Parque_Natural",
+            "Lanzarote",
+            "Look_&_Find",
+            "Costas"
+        ],
+        "organizations": [
+            "Consejo_de_Ministros",
+            "Cadena_Ser",
+            "Reserva_Natural_de_los_Islotes",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Islote_de_la_Santa",
+            "El",
+            "Chinijo"
+        ],
+        "dates": [
+            "[??:??/9/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:9000000",
+            "2,7"
+        ]
+    }
+}

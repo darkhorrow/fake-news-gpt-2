@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-10-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/295669/0/hallan/cuerpos/pescadores/",
+    "title": {
+        "raw_text": "Hallan los cuerpos de dos pescadores desaparecidos a 73 metros de profundidad",
+        "lemmatized_text": "hallar el cuerpo de 2 pescador desaparecer a LN_m:73 de profundidad",
+        "lemmatized_text_reduced": "hallar cuerpo pescador desaparecer profundidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "LN_m:73"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los pescadores desaparecieron el domingo en Lanzarote. Los cuerpos han sido localizados por un robot submarino. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el pescador desaparecer el [G:??/??/??:??.??:??] en lanzarote el cuerpo haber ser localizar por uno robot submarino consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "pescador desaparecer lanzarote cuerpo haber ser localizar robot submarino consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un robot de la Guardia Civil ha localizado hoy a 73 metros de profundidad los cuerpos de los dos pescadores desaparecidos el domingo en Lanzarote , ha informado el instituto armado. Ayer por la tarde fue trasladado desde Madrid hasta Lanzarote un robot submarino de la Unidad Central de los GEAS, con sede en Valdemoro, utilizado para rastrear fondos marinos a bajas profundidades. Traslado de los cuerpos El sofisticado aparato se puso en funcionamiento a primera hora y a las 10 y media de la mañana localizó los cuerpos de los dos pescadores, identificados como José Mario G.S., de 35 años y Francisco G.S., de 18, en la zona de Los Ancones. El robot sujetará los cuerpos y los izará hasta pocos metros de la superficie, donde los submarinistas de la Guardia Civil se encargarán de recogerlos y sacarlos del agua para trasladarlos a tierra. Una vez en Puerto Naos, en Arrecife, se procederá al levantamiento de los cuerpos con la correspondiente orden judicial. Fuentes de la Guardia Civil agregaron que los cuerpos fueron encontrados en una zona próxima al lugar de la desaparición y destacaron la importancia de haber contado con este robot, pues los submarinistas no pueden rastrear más allá de 30 metros de profundidad. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno robot de el guardia_civil haber localizar hoy a LN_m:73 de profundidad el cuerpo de el 2 pescador desaparecer el [G:??/??/??:??.??:??] en lanzarote haber informar el instituto armar ayer por el tarde ser trasladar desde madrid hasta lanzarote uno robot submarino de el unidad_central_de_los_geas con sede en valdemoro utilizar para rastrear fondo marino a bajo profundidad traslado de el cuerpo el sofisticar aparato se poner_en_funcionamiento a 1 hora y a el [??:??/??/??:10.30:am] localizar el cuerpo de el 2 pescador identificar como josé_mario_g.s. de 35 año y francisco_g.s. de 18 en_la_zona_de los_ancones el robot sujetar el cuerpo y el izar hasta poco metro de el superficie donde el submarinista de el guardia_civil se encargar de recoger lo y sacar lo de el agua para trasladar lo a tierra uno vez en puerto_naos en arrecife se proceder a el levantamiento de el cuerpo con el correspondiente orden judicial fuentes_de_la_guardia_civil agregar que el cuerpo ser encontrar en uno zona próximo a el lugar de el desaparición y destacar el importancia de haber contar con este robot pues el submarinista no poder rastrear más_allá_de LN_m:30 de profundidad consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "robot guardia_civil haber localizar profundidad cuerpo pescador desaparecer lanzarote haber informar instituto armar tarde ser trasladar madrid lanzarote robot submarino unidad_central_de_los_geas sede valdemoro utilizar rastrear fondo marino bajo profundidad traslado cuerpo el sofisticar aparato poner_en_funcionamiento 1 hora localizar cuerpo pescador identificar josé_mario_g.s. año francisco_g.s. los_ancones robot sujetar cuerpo izar metro superficie submarinista guardia_civil encargar recoger sacar agua trasladar tierra vez puerto_naos arrecife proceder levantamiento cuerpo correspondiente orden judicial fuentes_de_la_guardia_civil agregar cuerpo ser encontrar zona próximo lugar desaparición destacar importancia haber contar robot submarinista poder rastrear profundidad consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "José_Mario_G.S.",
+            "Francisco_G.S.",
+            "Fuentes_de_la_Guardia_Civil"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Madrid",
+            "Lanzarote",
+            "Valdemoro",
+            "Los_Ancones",
+            "Puerto_Naos",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Unidad_Central_de_los_GEAS",
+            "El",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[??:??/??/??:10.30:am]"
+        ],
+        "numbers": [
+            "LN_m:73",
+            "2",
+            "2",
+            "35",
+            "18",
+            "LN_m:30"
+        ]
+    }
+}

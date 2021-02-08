@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/668343/0/",
+    "title": {
+        "raw_text": "Agaete (Gran Canaria) recibirá 13.100 euros del SCE para atender a enfermos crónicos",
+        "lemmatized_text": "agaete gran_canaria recibir $_ECU:13.1 de el sce para atender a enfermo crónico",
+        "lemmatized_text_reduced": "agaete gran_canaria recibir sce atender enfermo crónico",
+        "persons": [
+            "Agaete"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria",
+            "SCE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:13.1"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Servicio Canario de Empleo (SCE) ha concedido al Ayuntamiento de Agaete una subvención de 13.100 euros para llevar a cabo un proyecto de atención domiciliaria a personas con discapacidad, mayores y enfermos crónicos.",
+        "lemmatized_text": "el servicio_canario_de_empleo sce haber conceder a el ayuntamiento_de_agaete uno subvención de $_ECU:13.1 para llevar_a_cabo uno proyecto de atención domiciliario a persona con discapacidad mayor y enfermo crónico",
+        "lemmatized_text_reduced": "servicio_canario_de_empleo sce haber conceder ayuntamiento_de_agaete subvención llevar_a_cabo proyecto atención domiciliario persona discapacidad mayor enfermo crónico",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_Canario_de_Empleo",
+            "SCE",
+            "Ayuntamiento_de_Agaete"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:13.1"
+        ]
+    },
+    "body": {
+        "raw_text": "Además, el Ayuntamiento de dicho municipio se ha comprometido a contratar a tres personas desempleadas que realizarán labores de auxiliar de ayuda a domicilio durante seis meses, según informó el Gobierno canario en nota de prensa. El proyecto que se quiere llevar a cabo pretende evitar el internamiento de ancianos con pérdida de autonomía y prevenir crisis familiares por enfermedad o ausencia. En definitiva, mediante actuaciones preventivas, rehabilitadoras y asistenciales se quiere conseguir la mayor autonomía personal \"posible y una mejor\" integración familiar, así como social. Las políticas de empleo y formación financiadas por el SCE están adaptadas a cada ámbito insular y dentro de éste a cada zona concreta para atender las características de los distintos territorios. En esta línea se encuentran las ayudas del SCE a las corporaciones locales, a través de las que las personas desempleadas pueden acceder a un contrato de trabajo y obtener una mayor experiencia profesional para aumentar sus posibilidades de inserción laboral.",
+        "lemmatized_text": "además el ayuntamiento de decir municipio se haber comprometer a contratar a 3 persona desempleado que realizar labor de auxiliar de ayuda a domicilio durante 6 mes según informar el gobierno canario en nota de prensa el proyecto que se querer llevar_a_cabo pretender evitar el internamiento de anciano con pérdida de autonomía y prevenir crisis familiar por enfermedad o ausencia en definitivo mediante actuación preventivo rehabilitador y asistencial se querer conseguir el mayor autonomía personal posible y uno mejor integración familiar así_como social el política de empleo y formación financiar por el sce estar adaptar a cada ámbito insular y dentro_de este a cada zona concreto para atender el característica de el distinto territorio en este línea se encontrar el ayuda de el sce a el corporación local a_través_de el que el persona desempleado poder acceder a uno contrato de trabajo y obtener uno mayor experiencia profesional para aumentar su posibilidad de inserción laboral",
+        "lemmatized_text_reduced": "ayuntamiento decir municipio haber comprometer contratar persona desempleado realizar labor auxiliar ayuda domicilio mes informar gobierno canario nota prensa proyecto querer llevar_a_cabo pretender evitar internamiento anciano pérdida autonomía prevenir crisis familiar enfermedad ausencia definitivo actuación preventivo rehabilitador asistencial querer conseguir mayor autonomía personal posible mejor integración familiar social política empleo formación financiar sce estar adaptar ámbito insular zona concreto atender característica distinto territorio línea encontrar ayuda sce corporación local persona desempleado poder acceder contrato trabajo obtener mayor experiencia profesional aumentar posibilidad inserción laboral",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento",
+            "Gobierno",
+            "SCE",
+            "SCE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "6"
+        ]
+    }
+}

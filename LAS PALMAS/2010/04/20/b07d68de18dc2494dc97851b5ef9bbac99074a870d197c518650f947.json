@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/682879/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias presenta la campaña 'Yo me quedo' a las aerolíneas y navieras de las islas",
+        "lemmatized_text": "el gobierno_de_canarias presentar el campaña yo me quedar a el aerolínea y naviero de el isla",
+        "lemmatized_text_reduced": "gobierno_de_canarias presentar campaña quedar aerolínea naviero isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La consejera de Turismo del Gobierno de Canarias, Rita Martín, acompañada de la viceconsejera de Turismo regional, Yolanda Perdomo, mantuvieron ayer lunes un encuentro con representantes de las aerolíneas y compañías marítimas que operan en Canarias para presentarles la nueva campaña 'Yo me quedo'.",
+        "lemmatized_text": "el consejero de turismo_del_gobierno_de_canarias rita_martín acompañar de el viceconsejero de turismo regional yolanda_perdomo mantener ayer [L:??/??/??:??.??:??] uno encuentro con representante de el aerolínea y compañía marítimo que operar en canarias para presentar le el nuevo campaña yo me quedar",
+        "lemmatized_text_reduced": "consejero turismo_del_gobierno_de_canarias rita_martín acompañar viceconsejero turismo regional yolanda_perdomo mantener encuentro representante aerolínea compañía marítimo operar canarias presentar nuevo campaña quedar",
+        "persons": [
+            "Rita_Martín",
+            "Yolanda_Perdomo"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Turismo_del_Gobierno_de_Canarias",
+            "Turismo"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En un comunicado, el Ejecutivo regional explicó que el objetivo de la reunión, a la que asistieron representantes de Binter, Islas Airways, Fred Olsen y Naviera Armas, fue exponer las características de esta acción promocional destinada al fomento del turismo interinsular durante la temporada estival. El encuentro, que se celebró en el Hotel Gran Meliá Salinas Costa Teguise, ha servido para analizar las aportaciones de las compañías de transporte marítimo y aéreo del Archipiélago a esta iniciativa y emprender acciones conjuntas. Por su parte, la campaña 'Yo me quedo', que será paralela a la que se desarrolla en la Península 'Encuentros afortunados', trata de mostrar un lado más humano y emocional para ofrecer al turista una experiencia personalizada. A través de diversos formatos publicitarios, varios voluntarios canarios invitarán al resto de habitantes de las islas a pasar sus vacaciones en el archipiélago.",
+        "lemmatized_text": "en uno comunicado el ejecutivo regional explicar que el objetivo de el reunión a el que asistir representante de binter islas_airways fred_olsen y naviera_armas ser exponer el característica de este acción promocional destinar a el fomento de el turismo interinsular durante el temporada estival el encuentro que se celebrar en el hotel_gran_meliá_salinas_costa_teguise haber servir para analizar el aportación de el compañía de transporte marítimo y aéreo de el archipiélago a este iniciativa y emprender acción conjunto por su parte el campaña yo me quedar que ser paralelo a el que se desarrollar en el península encuentro afortunado tratar de mostrar uno lado más humano y emocional para ofrecer a el turista uno experiencia personalizar a_través_de diverso formato publicitario varios voluntario canario invitar a el resto de habitante de el isla a pasar su vacaciones en el archipiélago",
+        "lemmatized_text_reduced": "comunicado ejecutivo regional explicar objetivo reunión asistir representante binter islas_airways fred_olsen naviera_armas ser exponer característica acción promocional destinar fomento turismo interinsular temporada estival encuentro celebrar hotel_gran_meliá_salinas_costa_teguise haber servir analizar aportación compañía transporte marítimo aéreo archipiélago iniciativa emprender acción conjunto parte campaña quedar ser paralelo desarrollar península encuentro afortunado tratar mostrar lado humano emocional ofrecer turista experiencia personalizar formato publicitario voluntario canario invitar resto habitante isla pasar vacaciones archipiélago",
+        "persons": [
+            "Islas_Airways",
+            "Fred_Olsen",
+            "Naviera_Armas"
+        ],
+        "locations": [
+            "Binter",
+            "Península"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Hotel_Gran_Meliá_Salinas_Costa_Teguise",
+            "Archipiélago"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

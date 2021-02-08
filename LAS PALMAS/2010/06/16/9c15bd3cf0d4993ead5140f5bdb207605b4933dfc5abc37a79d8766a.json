@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/738539/0/",
+    "title": {
+        "raw_text": "Darias asegura que el Gobierno central \"va cumpliendo en un porcentaje altísimo\" el Plan Canaria",
+        "lemmatized_text": "darias asegurar que el gobierno central ir cumplir en uno porcentaje alto el plan_canaria",
+        "lemmatized_text_reduced": "darias asegurar gobierno central ir cumplir porcentaje alto plan_canaria",
+        "persons": [
+            "Darias"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [
+            "Plan_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La delegada del Gobierno en Canarias, Carolina Darias, aseguró hoy que el Ejecutivo central \"va cumpliendo en un porcentaje altísimo\" el denominado Plan Canaria, aprobado en el Consejo extraordinario de Ministros celebrado en las islas en octubre de 2009 y que mañana tendrá su primer análisis.",
+        "lemmatized_text": "el delegado de el gobierno en canarias carolina_darias asegurar hoy que el ejecutivo central ir cumplir en uno porcentaje alto el denominar plan_canaria aprobar en el consejo extraordinario de ministros celebrar en el isla en [??:??/10/2009:??.??:??] y que mañana tener su 1 análisis",
+        "lemmatized_text_reduced": "delegado gobierno canarias carolina_darias asegurar ejecutivo central ir cumplir porcentaje alto denominar plan_canaria aprobar consejo extraordinario ministros celebrar isla tener 1 análisis",
+        "persons": [
+            "Carolina_Darias",
+            "Plan_Canaria"
+        ],
+        "locations": [
+            "Canarias",
+            "Ministros"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Ejecutivo",
+            "Consejo"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/10/2009:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Darias, en declaraciones a los medios, señaló que las declaraciones del vicepresidente del Gobierno de Canarias, José Manuel Soria (PP), criticando el citado Plan \"son solamente palabras frente a las realidades y los hechos que viene el Gobierno de España cumpliendo con Canarias\". Además, la representante del Estado en las islas se refirió al convenio que el presidente canario, Paulino Rivero, firmó esta semana con el ministro de Industria, Turismo y Comercio, Miguel Sebastián, destinado a la mejora del turismo en el archipiélago y con un importe de 122 millones de euros, de los que 30 millones de euros corresponden a 2010 porque, dijo, está dividido en \"tres anualidades\". Por otro lado, cuestionada si Canarias se verá afectada por el recorte que el Ministerio de Fomento tendrá que afrontar, de 3.000 millones de euros, indicó que habrá que \"ver cómo es esa concreción de ese recorte\". De todos modos, subrayó que las obras públicas previstas en las islas \"se están realizando; las inversiones se están materializando\".",
+        "lemmatized_text": "darias en declaración a el medio señalar que el declaración de el vicepresidente de el gobierno_de_canarias josé_manuel_soria pp criticar el citar plan ser solamente palabra frente_a el realidad y el hecho que venir el gobierno_de_españa cumplir con canarias además el representante de el estado en el isla se referir a el convenio que el presidente canario paulino_rivero firmar este semana con el ministro de industria turismo y comercio miguel_sebastián destinar a el mejora de el turismo en el archipiélago y con uno importe de $_ECU:122000000 de el que $_ECU:30000000 corresponder a 2010 porque decir estar dividir en 3 anualidad por_otro_lado cuestionar si canarias se ver afectar por el recorte que el ministerio_de_fomento tener que afrontar de $_ECU:3000000 indicar que haber que ver cómo ser ese concreción de ese recorte de_todos_modos subrayar que el obra público prever en el isla se estar realizar el inversión se estar materializar",
+        "lemmatized_text_reduced": "darias declaración medio señalar declaración vicepresidente gobierno_de_canarias josé_manuel_soria pp criticar citar plan ser solamente palabra realidad hecho venir gobierno_de_españa cumplir canarias representante estado isla referir convenio presidente canario paulino_rivero firmar semana ministro industria turismo comercio miguel_sebastián destinar mejora turismo archipiélago importe corresponder decir estar dividir anualidad cuestionar canarias ver afectar recorte ministerio_de_fomento tener afrontar indicar haber ver ser concreción recorte subrayar obra público prever isla estar realizar inversión estar materializar",
+        "persons": [
+            "Darias",
+            "José_Manuel_Soria",
+            "Paulino_Rivero",
+            "Miguel_Sebastián"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "PP",
+            "Gobierno_de_España",
+            "Estado",
+            "Industria",
+            "Comercio",
+            "Ministerio_de_Fomento"
+        ],
+        "others": [
+            "Plan",
+            "Turismo"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:122000000",
+            "$_ECU:30000000",
+            "2010",
+            "3",
+            "$_ECU:3000000"
+        ]
+    }
+}

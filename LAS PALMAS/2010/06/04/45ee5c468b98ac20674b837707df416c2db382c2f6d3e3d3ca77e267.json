@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/727271/0/",
+    "title": {
+        "raw_text": "Acc.Los pilotos desconvocan el paro del próximo 7 de junio",
+        "lemmatized_text": "acc el piloto desconvocar el paro de el [??:7/6/??:??.??:??]",
+        "lemmatized_text_reduced": "acc piloto desconvocar paro",
+        "persons": [
+            "Acc"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:7/6/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Sindicato Español de Pilotos de Líneas Aéreas (Sepla) ha desconvocado el paro de 30 minutos previsto para el próximo lunes, 7 de junio, tras recibir el compromiso de las asociaciones de aerolíneas para exigir a las autoridades \"una efectiva protección de los datos de vuelo registrados en los aviones\".",
+        "lemmatized_text": "el sindicato_español_de_pilotos_de_líneas_aéreas sepla haber desconvocar el paro de TM_min:30 prever para el [L:7/6/??:??.??:??] tras recibir el compromiso de el asociación de aerolínea para exigir a el autoridad uno efectivo protección de el dato de vuelo registrar en el avión",
+        "lemmatized_text_reduced": "sindicato_español_de_pilotos_de_líneas_aéreas sepla haber desconvocar paro prever recibir compromiso asociación aerolínea exigir autoridad efectivo protección dato vuelo registrar avión",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Sindicato_Español_de_Pilotos_de_Líneas_Aéreas",
+            "Sepla"
+        ],
+        "others": [],
+        "dates": [
+            "[L:7/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_min:30"
+        ]
+    },
+    "body": {
+        "raw_text": "El acuerdo con la Asociación de Compañías Españolas de Transporte Aéreo (Aceta) y la Asociación Española de Compañías Aéreas (AECA) enfatizará la protección en casos de accidentes aéreos, dado que \"la confidencialidad es vital para garantizar la independencia de la investigación\". Según explicaron fuentes del sindicato a Europa Press, la desconvocatoria se produce tras el \"compromiso firme\" mostrado por parte de las aerolíneas, quienes instarán a sus miembros a establecer protocolos de protección de los datos que se registren en el avión durante los vuelos, lo que a su vez \"contribuirá a blindar este tipo de información confidencial de cara a un hipotético accidente\". Tanto las compañías aéreas como los pilotos exigirán a las autoridades \"el estricto cumplimiento de la ley\" y su compromiso a usar los datos de vuelo con el único propósito de mejorar la seguridad operacional, dado que a su juicio la difusión de este tipo de datos es un hecho que \"se repite con demasiada frecuencia y de manera impune\", informó Sepla en un comunicado. El sindicato convocó el paro entre las 9.00 y las 9.30 horas del próximo lunes como protesta a las filtraciones del contenido de las conversaciones registradas en la cabina en el vuelo JK5022 de Spanair, que se accidentó en Barajas el 20 de agosto de 2008 y en el que murieron 154 personas. La compañía Iberia, que lidera la asociación Aceta, calificó el pasado miércoles de \"incomprensible\" el paro convocado por los pilotos, pues aún siendo \"limitado\" generaría \"distorsiones\" en los vuelos a primera hora del día, máxime cuando la solución que perseguía la propuesta \"no estaba en manos de la aerolínea\". Por su parte, el Colegio Oficial de Pilotos de la Aviación Comercial (Copac) presentó el pasado mes de mayo una denuncia ante los Juzgados de Plaza Castilla por un supuesto delito de revelación de secretos en tales filtraciones, solicitando la apertura de una investigación judicial para dirimir las responsabilidades.",
+        "lemmatized_text": "el acuerdo con el asociación_de_compañías_españolas_de_transporte_aéreo aceta y el asociación_española_de_compañías_aéreas aeca enfatizar el protección en caso de accidente aéreo dado_que el confidencialidad ser vital para garantizar el independencia de el investigación según explicar fuente de el sindicato a europa_press el desconvocatoria se producir tras el compromiso firme mostrar por parte de el aerolínea quien instar a su miembro a establecer protocolo de protección de el dato que se registrar en el avión durante el vuelo el que a su vez contribuir a blindar este tipo de información confidencial de_cara_a uno hipotético accidente tanto el compañía aéreo como el piloto exigir a el autoridad el estricto cumplimiento de el ley y su compromiso a usar el dato de vuelo con el único propósito de mejorar el seguridad operacional dado_que a su juicio el difusión de este tipo de dato ser uno hecho que se repetir con demasiado frecuencia y de manera impune informar sepla en uno comunicado el sindicato convocar el paro entre el 9 y el [L:??/??/??:9.00:??] como protesta a el filtración de el contenido de el conversación registrar en el cabina en el vuelo JK5022 de spanair que se accidentar en barajas el [??:20/8/2008:??.??:??] y en el que morir 154 persona el compañía iberia que liderar el asociación aceta calificar el [X:??/??/??:??.??:??] de incomprensible el paro convocar por el piloto pues aun ser limitar generar distorsión en el vuelo a 1 hora de el día máxime cuando el solución que perseguir el propuesta no estar en_manos_de el aerolínea por su parte el colegio_oficial_de_pilotos_de_la_aviación_comercial copac presentar el [??:??/5/??:??.??:??] uno denuncia ante el juzgados_de_plaza_castilla por uno suponer delito de revelación de secreto en tal filtración solicitar el apertura de uno investigación judicial para dirimir el responsabilidad",
+        "lemmatized_text_reduced": "acuerdo asociación_de_compañías_españolas_de_transporte_aéreo aceta asociación_española_de_compañías_aéreas aeca enfatizar protección caso accidente aéreo confidencialidad ser vital garantizar independencia investigación explicar fuente sindicato europa_press desconvocatoria producir compromiso firme mostrar parte aerolínea instar miembro establecer protocolo protección dato registrar avión vuelo vez contribuir blindar tipo información confidencial hipotético accidente compañía aéreo piloto exigir autoridad estricto cumplimiento ley compromiso usar dato vuelo único propósito mejorar seguridad operacional juicio difusión tipo dato ser hecho repetir frecuencia manera impune informar sepla comunicado sindicato convocar paro protesta filtración contenido conversación registrar cabina vuelo spanair accidentar barajas morir persona compañía iberia liderar asociación aceta calificar incomprensible paro convocar piloto ser limitar generar distorsión vuelo 1 hora día solución perseguir propuesta estar aerolínea parte colegio_oficial_de_pilotos_de_la_aviación_comercial copac presentar denuncia juzgados_de_plaza_castilla suponer delito revelación secreto filtración solicitar apertura investigación judicial dirimir responsabilidad",
+        "persons": [
+            "Europa_Press",
+            "Sepla"
+        ],
+        "locations": [
+            "Barajas",
+            "Juzgados_de_Plaza_Castilla"
+        ],
+        "organizations": [
+            "Asociación_de_Compañías_Españolas_de_Transporte_Aéreo",
+            "Aceta",
+            "Asociación_Española_de_Compañías_Aéreas",
+            "AECA",
+            "Spanair",
+            "Iberia",
+            "Aceta",
+            "Colegio_Oficial_de_Pilotos_de_la_Aviación_Comercial",
+            "Copac"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:9.00:??]",
+            "[??:20/8/2008:??.??:??]",
+            "[X:??/??/??:??.??:??]",
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "9",
+            "JK5022",
+            "154"
+        ]
+    }
+}

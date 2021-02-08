@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/647537/0/",
+    "title": {
+        "raw_text": "NC asegura que el acuerdo de Rivero con Iberia \"sigue perjudicando a los canarios\"",
+        "lemmatized_text": "nc asegurar que el acuerdo de rivero con iberia seguir perjudicar a el canario",
+        "lemmatized_text_reduced": "nc asegurar acuerdo rivero iberia seguir perjudicar canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "NC",
+            "Rivero",
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Nueva Canarias (NC) ha asegurado que el acuerdo que el presidente del Gobierno canario, Paulino Rivero, aceptó con Iberia para que la compañía aérea rebaje a los residentes canarios el importe del cobro por exceso de peso en la primera maleta de 60 a 15 euros, pero manteniendo la sanción de 60 euros sobre la segunda maleta, \"sigue perjudicando a los canarios\".",
+        "lemmatized_text": "nueva_canarias nc haber asegurar que el acuerdo que el presidente de el gobierno canario paulino_rivero aceptar con iberia para que el compañía aéreo rebaje a el residente canario el importe de el cobro por exceso de peso en el 1 maleta de 60 a $_ECU:15 pero mantener el sanción de $_ECU:60 sobre el 2 maleta seguir perjudicar a el canario",
+        "lemmatized_text_reduced": "nueva_canarias nc haber asegurar acuerdo presidente gobierno canario paulino_rivero aceptar iberia compañía aéreo rebaje residente canario importe cobro exceso peso 1 maleta mantener sanción 2 maleta seguir perjudicar canario",
+        "persons": [
+            "Nueva_Canarias",
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "NC",
+            "Gobierno",
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "60",
+            "$_ECU:15",
+            "$_ECU:60"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, explicaron que después de llamar \"irresponsablemente\" a la rebelión a los ciudadanos contra Iberia ante el anuncio del cobro de 60 euros por la segunda maleta facturada, \"Rivero ha quedado en evidencia y ha fracasado estrepitosamente en la defensa de los intereses canarios\". \"El presidente autonómico ha aceptado la misma solución que Iberia va a aplicar en el caso de Baleares por lo que no hay excepcionalidad para Canarias a pesar de que éste archipiélago se encuentra mucho más alejado. Rivero debió hacer entender a la dirección de Iberia que los canarios no tenemos más alternativas para viajar fuera de las islas que el avión y que sólo disponemos de las líneas y frecuencias que están reguladas, por lo que el cobro por la segunda maleta es una penalización y limitación más a nuestra situación\", apuntaron. Desde el partido que lidera Román Rodríguez explicaron que, además de insuficiente, el acuerdo alcanzado con Rivero no tiene ninguna aplicación en personas que no residan en Canarias por lo que afectará a la principal industria económica de las islas, que es el turismo. En definitiva, NC consideró que al presidente canario \"se le fue la fuerza por la boca puesto que a la hora de la verdad no ha logrado ninguna medida que realmente refleje la singularidad del Archipiélago, su condición de lejanía e insularidad\". \"Rivero hizo el más absoluto ridículo\", concluyó la formación.",
+        "lemmatized_text": "en uno comunicado explicar que después_de llamar irresponsablemente a el rebelión a el ciudadano contra iberia ante el anuncio de el cobro de $_ECU:60 por el 2 maleta facturar rivero haber quedar en evidencia y haber fracasar estrepitosamente en el defensa de el interés canario el presidente autonómico haber aceptar el mismo solución que iberia ir a aplicar en el caso de baleares por el que no haber excepcionalidad para canarias a_pesar_de que este archipiélago se encontrar mucho más alejar rivero deber hacer entender a el dirección de iberia que el canario no tener más alternativo para viajar fuera_de el isla que el avión y que sólo disponer de el línea y frecuencia que estar regular por el que el cobro por el 2 maleta ser uno penalización y limitación más a nuestro situación apuntar desde el partido que liderar román_rodríguez explicar que además_de insuficiente el acuerdo alcanzar con rivero no tener ninguno aplicación en persona que no residir en canarias por el que afectar a el principal industria económico de el isla que ser el turismo en definitivo nc considerar que a el presidente canario se le ser el fuerza por el boca poner que a el hora de el verdad no haber lograr ninguno medida que realmente reflejar el singularidad de el archipiélago su condición de lejanía y insularidad rivero hacer el más absoluto ridículo concluir el formación",
+        "lemmatized_text_reduced": "comunicado explicar llamar irresponsablemente rebelión ciudadano iberia anuncio cobro 2 maleta facturar rivero haber quedar evidencia haber fracasar estrepitosamente defensa interés canario presidente autonómico haber aceptar mismo solución iberia ir aplicar caso baleares haber excepcionalidad canarias archipiélago encontrar alejar rivero deber hacer entender dirección iberia canario tener alternativo viajar isla avión disponer línea frecuencia estar regular cobro 2 maleta ser penalización limitación situación apuntar partido liderar román_rodríguez explicar insuficiente acuerdo alcanzar rivero tener aplicación persona residir canarias afectar principal industria económico isla ser turismo definitivo nc considerar presidente canario ser fuerza boca poner hora verdad haber lograr medida realmente reflejar singularidad archipiélago condición lejanía insularidad rivero hacer absoluto ridículo concluir formación",
+        "persons": [
+            "Rivero",
+            "Rivero",
+            "Román_Rodríguez",
+            "Rivero",
+            "Rivero"
+        ],
+        "locations": [
+            "Baleares",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Iberia",
+            "Iberia",
+            "Iberia",
+            "NC",
+            "Archipiélago"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:60"
+        ]
+    }
+}

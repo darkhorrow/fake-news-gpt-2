@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/730722/0/",
+    "title": {
+        "raw_text": "Funcionaria del TSJC admite guardar caso 'Las Teresitas' en el horno de su vivienda para justificar horas extras",
+        "lemmatized_text": "funcionaria_del_tsjc admitir guardar caso el teresitas en el horno de su vivienda para justificar hora extra",
+        "lemmatized_text_reduced": "funcionaria_del_tsjc admitir guardar caso teresitas horno vivienda justificar hora extra",
+        "persons": [
+            "Funcionaria_del_TSJC"
+        ],
+        "locations": [],
+        "organizations": [
+            "Teresitas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una funcionaria de la Sala Civil y Penal del Tribunal Superior de Justicia de Canarias (TSJC) admitió hoy que guardó \"en el horno\" de su vivienda dos DVDs del caso de presunta corrupción urbanística 'Las Teresitas' --relacionado con la playa del mismo nombre en Santa Cruz de Tenerife--, a fin de poder demostrar las horas extras realizadas y pedir una compensación económica.",
+        "lemmatized_text": "uno funcionario de el sala_civil y penal_del_tribunal_superior_de_justicia_de_canarias tsjc admitir hoy que guardar en el horno de su vivienda 2 dvds de el caso de presunto corrupción urbanístico el teresitas relacionar con el playa de el mismo nombre en santa_cruz_de_tenerife a_fin_de poder demostrar el hora extra realizar y pedir uno compensación económico",
+        "lemmatized_text_reduced": "funcionario sala_civil penal_del_tribunal_superior_de_justicia_de_canarias tsjc admitir guardar horno vivienda dvds caso presunto corrupción urbanístico teresitas relacionar playa mismo nombre santa_cruz_de_tenerife poder demostrar hora extra realizar pedir compensación económico",
+        "persons": [],
+        "locations": [
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Sala_Civil",
+            "Penal_del_Tribunal_Superior_de_Justicia_de_Canarias",
+            "TSJC",
+            "Teresitas"
+        ],
+        "others": [
+            "DVDs"
+        ],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Dicha causa tiene al menos 25 imputados, entre los que figuran el alcalde de la capital tinerfeña, Miguel Zerolo (CC), Manuel Parejo (ex concejal de Urbanismo y actual primer teniente de alcalde), Antonio Messia (ex tesorero municipal), Juan Reyes Delgado (secretario delegado de la Gerencia de Urbanismo), José Luis Roca (interventor delegado de Urbanismo), José Eugenio de Zárate (secretario general de la corporación), José Tomás Martín (gerente de Urbanismo) y los empresarios Antonio Plasencia e Ignacio González. La Sección Sexta de la Audiencia Provincial de Las Palmas celebró hoy la primera jornada del juicio por sistema de jurado popular contra M.J.G., acusada de un presunto delito de infidelidad en la custodia de documentos, por el que la Fiscalía pide las penas de diez meses de multa con una cuota diaria de diez euros e inhabilitación especial para empleo o cargo público por tiempo de dos años. Por su parte, la defensa solicita la libre absolución o, subsidiariamente, que concurra la atenuante analógica de dilaciones indebidas y de arrebato u obcecación. (Habrá ampliación)",
+        "lemmatized_text": "decir causa tener a el menos 25 imputar entre el que figurar el alcalde de el capital tinerfeño miguel_zerolo cc manuel_parejo ex concejal de urbanismo y actual 1 teniente de alcalde antonio_messia ex tesorero municipal juan_reyes_delgado secretario delegado de el gerencia_de_urbanismo josé_luis_roca interventor delegado de urbanismo josé_eugenio_de_zárate secretario general de el corporación josé_tomás_martín gerente de urbanismo y el empresario antonio_plasencia y ignacio_gonzález el sección_sexta_de_la_audiencia_provincial_de_las_palmas celebrar hoy el 1 jornada de el juicio por sistema de jurado popular contra m.j.g. acusar de uno presunto delito de infidelidad en el custodia de documento por el que el fiscalía pedir el pena de 10 mes de multa con uno cuota diario de $_ECU:10 y inhabilitación especial para empleo o cargo público por tiempo de 2 año por su parte el defensa solicitar el libre absolución o subsidiariamente que concurrir el atenuante analógico de dilación indebido y de arrebato o obcecación haber ampliación",
+        "lemmatized_text_reduced": "decir causa tener imputar figurar alcalde capital tinerfeño miguel_zerolo cc manuel_parejo ex concejal urbanismo actual 1 teniente alcalde antonio_messia ex tesorero municipal juan_reyes_delgado secretario delegado gerencia_de_urbanismo josé_luis_roca interventor delegado urbanismo josé_eugenio_de_zárate secretario general corporación josé_tomás_martín gerente urbanismo empresario antonio_plasencia ignacio_gonzález sección_sexta_de_la_audiencia_provincial_de_las_palmas celebrar 1 jornada juicio sistema jurado popular m.j.g. acusar presunto delito infidelidad custodia documento fiscalía pedir pena mes multa cuota diario inhabilitación especial empleo cargo público tiempo año parte defensa solicitar libre absolución subsidiariamente concurrir atenuante analógico dilación indebido arrebato obcecación haber ampliación",
+        "persons": [
+            "Miguel_Zerolo",
+            "Manuel_Parejo",
+            "Antonio_Messia",
+            "Juan_Reyes_Delgado",
+            "José_Luis_Roca",
+            "José_Eugenio_de_Zárate",
+            "José_Tomás_Martín",
+            "Antonio_Plasencia",
+            "Ignacio_González"
+        ],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "Sección_Sexta_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "M.J.G.",
+            "Fiscalía"
+        ],
+        "others": [
+            "Urbanismo",
+            "Gerencia_de_Urbanismo",
+            "Urbanismo",
+            "Urbanismo"
+        ],
+        "dates": [],
+        "numbers": [
+            "25",
+            "10",
+            "$_ECU:10",
+            "2"
+        ]
+    }
+}

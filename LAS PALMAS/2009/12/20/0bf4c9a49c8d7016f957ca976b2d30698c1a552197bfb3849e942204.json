@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/592342/0/",
+    "title": {
+        "raw_text": "Las obras artificiales invaden 78,88 kilómetros del litoral canario",
+        "lemmatized_text": "el obra artificial invadir LN_km:78,88 de el litoral canario",
+        "lemmatized_text_reduced": "obra artificial invadir litoral canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:78,88"
+        ]
+    },
+    "lead": {
+        "raw_text": "De los 1.553,89 kilómetros que conforman el litoral de las Islas Canarias, 78,88 kilómetros presentan alguna obra artificial llevada a cabo por la mano del hombre, según datos del Instituto Canario de Estadística (ISTAC) recogidos por Europa Press.",
+        "lemmatized_text": "de el LN_km:1.553,89 que conformar el litoral de el islas_canarias LN_km:78,88 presentar alguno obra artificial llevar_a_cabo por el mano de el hombre según dato de el instituto_canario_de_estadística istac recoger por europa_press",
+        "lemmatized_text_reduced": "conformar litoral islas_canarias presentar obra artificial llevar_a_cabo mano hombre dato instituto_canario_de_estadística istac recoger europa_press",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Islas_Canarias"
+        ],
+        "organizations": [
+            "Instituto_Canario_de_Estadística",
+            "ISTAC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:1.553,89",
+            "LN_km:78,88"
+        ]
+    },
+    "body": {
+        "raw_text": "En este dato, la isla de Tenerife presenta el mayor número de obras artificiales ya que de los 398,18 kilómetros de costa tinerfeños, 25,60 ha sufrido alguna ejecución del ser humano. También recoge la mayor cantidad de acantilados del archipiélago con 137,8 kilómetros de costa escarpada. La segunda más afectada por las obras artificiales es la costa de Gran Canaria con 24,46 kilómetros de litoral modificado. La isla redonda posee 236,64 kilómetros de costa en la que abundan las playas de cantos y arena (13,37 kilómetros) y de arena fina y gruesa (18,94 kilómetros). En tercer lugar se encuentra Lanzarote ya que de los 213,26 kilómetros de costa que posee 19,46 kilómetros se han enfrentado a obras artificiales del hombre. Ya en menor medida le siguen La Palma con 5,05 kilómetros de sus costas modificadas y Fuerteventura con un 2,54 kilómetros. La acción del hombre ha llegado de forma escasa a las islas de La Gomera y El Hierro, donde 1,25 y el 0,35 kilómetros de sus costas, respectivamente, ha experimentado algún tipo de obra artificial. En su mayoría el litoral de Canarias presenta 720,04 kilómetros de grandes acantilados y 319.36 kilómetros de pequeños acantilados de entre dos y 20 metros de altura, mientras que las costas bajas ocupan 170,22 kilómetros de su superficie archipielágica. Las playas de arena fina y gruesa se extienden a lo largo de 106,77 kilómetros y los litorales con cantos y arena ocupan 93,03 kilómetros mientras que los cantos rodados se registran en 65,59 kilómetros de las costas canarias.",
+        "lemmatized_text": "en este dato el isla de tenerife presentar el mayor número de obra artificial ya_que de el LN_km:398,18 de costa tinerfeño 25,60 haber sufrir alguno ejecución de el ser humano también recoger el mayor cantidad de acantilado de el archipiélago con LN_km:137,8 de costa escarpar el 2 más afectar por el obra artificial ser el costa de gran_canaria con LN_km:24,46 de litoral modificar el isla redondo poseer LN_km:236,64 de costa en el que abundar el playa de canto y arena LN_km:13,37 y de arena fino y grueso LN_km:18,94 en 3 lugar se encontrar lanzarote ya_que de el LN_km:213,26 de costa que poseer LN_km:19,46 se haber enfrentar a obra artificial de el hombre ya en menor medida le seguir la_palma con LN_km:5,05 de su costa modificar y fuerteventura con uno LN_km:2,54 el acción de el hombre haber llegar de forma escaso a el isla de la_gomera y el_hierro donde 1,25 y el LN_km:0,35 de su costa respectivamente haber experimentar alguno tipo de obra artificial en su mayoría el litoral de canarias presentar LN_km:720,04 de grande acantilado y LN_km:319.36 de pequeño acantilado de entre 2 y LN_m:20 de altura mientras_que el costa bajo ocupar LN_km:170,22 de su superficie archipielágica el playa de arena fino y grueso se extender a el largo de LN_km:106,77 y el litoral con canto y arena ocupar LN_km:93,03 mientras_que el canto rodar se registrar en LN_km:65,59 de el costa canario",
+        "lemmatized_text_reduced": "dato isla tenerife presentar mayor número obra artificial costa tinerfeño haber sufrir ejecución ser humano recoger mayor cantidad acantilado archipiélago costa escarpar 2 afectar obra artificial ser costa gran_canaria litoral modificar isla redondo poseer costa abundar playa canto arena arena fino grueso 3 lugar encontrar lanzarote costa poseer haber enfrentar obra artificial hombre menor medida seguir la_palma costa modificar fuerteventura acción hombre haber llegar forma escaso isla la_gomera el_hierro costa respectivamente haber experimentar tipo obra artificial mayoría litoral canarias presentar grande acantilado pequeño acantilado altura costa bajo ocupar superficie archipielágica playa arena fino grueso extender largo litoral canto arena ocupar canto rodar registrar costa canario",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "Gran_Canaria",
+            "Lanzarote",
+            "La_Palma",
+            "La_Gomera",
+            "El_Hierro",
+            "Canarias"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:398,18",
+            "25,60",
+            "LN_km:137,8",
+            "LN_km:24,46",
+            "LN_km:236,64",
+            "LN_km:13,37",
+            "LN_km:18,94",
+            "LN_km:213,26",
+            "LN_km:19,46",
+            "LN_km:5,05",
+            "LN_km:2,54",
+            "1,25",
+            "LN_km:0,35",
+            "LN_km:720,04",
+            "LN_km:319.36",
+            "2",
+            "LN_m:20",
+            "LN_km:170,22",
+            "LN_km:106,77",
+            "LN_km:93,03",
+            "LN_km:65,59"
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/721872/0/",
+    "title": {
+        "raw_text": "El Cabildo de Lanzarote adquiere 84 toneladas de sal para las tradicionales alfombras del Corpus Christi",
+        "lemmatized_text": "el cabildo_de_lanzarote adquirir WG_tm:84 de sal para el tradicional alfombra de el corpus_christi",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote adquirir sal tradicional alfombra corpus_christi",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [
+            "Corpus_Christi"
+        ],
+        "dates": [],
+        "numbers": [
+            "WG_tm:84"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Lanzarote, a través de la Consejería de Economía y Hacienda que dirige Luis Arraez, ha adquirido 84 toneladas de sal común que serán distribuidos entre los ayuntamientos de Tías, Tinajo, Haría, San Bartolomé, Arrecife y Teguise, para la elaboración de las tradicionales alfombras de sal del Corpus Christi, a celebrar el próximo día 5 de junio.",
+        "lemmatized_text": "el cabildo_de_lanzarote a_través_de el consejería_de_economía y hacienda que dirigir luis_arraez haber adquirir WG_tm:84 de sal común que ser distribuir entre el ayuntamiento de tías tinajo haría san_bartolomé arrecife y teguise para el elaboración de el tradicional alfombra de sal de el corpus_christi a celebrar el [??:5/6/??:??.??:??]",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote consejería_de_economía hacienda dirigir luis_arraez haber adquirir sal común ser distribuir ayuntamiento tías tinajo haría san_bartolomé arrecife teguise elaboración tradicional alfombra sal corpus_christi celebrar",
+        "persons": [
+            "Luis_Arraez",
+            "Teguise"
+        ],
+        "locations": [
+            "Tías",
+            "Tinajo"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Consejería_de_Economía",
+            "Hacienda",
+            "Haría",
+            "San_Bartolomé",
+            "Arrecife"
+        ],
+        "others": [
+            "Corpus_Christi"
+        ],
+        "dates": [
+            "[??:5/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "WG_tm:84"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, la Corporación insular explicó que la conocida como sal gorda ha sido adquirida a las salinas La Gaviota, de Guatiza, con un coste de 10.000 euros. De esta manera, las 84 toneladas de sal común, destinadas a la confección de las alfombras, serán distribuidas entre los Ayuntamientos en la siguiente proporción: Tías 14 toneladas; Haría, 12; Teguise, 7; Arrecife, 25; Tinajo, 12 y; San Bartolomé, 14. Serán los consistorios los encargados de entregarla a los colectivos, asociaciones y a todos aquellos que hayan cursado la solicitud en su correspondiente Ayuntamiento.",
+        "lemmatized_text": "en uno comunicado el corporación insular explicar que el conocer como sal gordo haber ser adquirir a el salina la_gaviota de guatiza con uno coste de $_ECU:10 de este manera el WG_tm:84 de sal común destinar a el confección de el alfombra ser distribuir entre el ayuntamientos en el siguiente proporción tías WG_tm:14 haría 12 teguise 7 arrecife 25 tinajo 12 y san_bartolomé 14 ser el consistorio el encargar de entregar lo a el colectivo asociación y a todo aquel que haber cursar el solicitud en su correspondiente ayuntamiento",
+        "lemmatized_text_reduced": "comunicado corporación insular explicar conocer sal gordo haber ser adquirir salina la_gaviota guatiza coste manera sal común destinar confección alfombra ser distribuir ayuntamientos siguiente proporción tías haría teguise arrecife tinajo san_bartolomé ser consistorio encargar entregar colectivo asociación haber cursar solicitud correspondiente ayuntamiento",
+        "persons": [
+            "Tías"
+        ],
+        "locations": [
+            "La_Gaviota",
+            "Guatiza",
+            "Haría",
+            "San_Bartolomé"
+        ],
+        "organizations": [
+            "Corporación",
+            "Ayuntamientos",
+            "Teguise",
+            "Arrecife",
+            "Tinajo",
+            "Ayuntamiento"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:10",
+            "WG_tm:84",
+            "WG_tm:14",
+            "12",
+            "7",
+            "25",
+            "12",
+            "14"
+        ]
+    }
+}

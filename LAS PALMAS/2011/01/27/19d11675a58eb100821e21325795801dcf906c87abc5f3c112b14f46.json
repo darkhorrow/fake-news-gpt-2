@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/941843/0/",
+    "title": {
+        "raw_text": "El aparcamiento del Palacio de Justicia en la capital grancanaria estará operativo tras el verano de 2012",
+        "lemmatized_text": "el aparcamiento de el palacio_de_justicia en el capital grancanaria estar operativo tras el verano de 2012",
+        "lemmatized_text_reduced": "aparcamiento palacio_de_justicia capital grancanaria estar operativo verano",
+        "persons": [],
+        "locations": [
+            "Palacio_de_Justicia"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2012"
+        ]
+    },
+    "lead": {
+        "raw_text": "La empresa municipal Sagulpa adjudicará este lunes la obra del aparcamiento del nuevo Palacio de Justicia de Las Palmas de Gran Canaria, que tiene un periodo de ejecución de 18 meses, por lo que estará operativo tras el verano de 2012, coincidiendo con la puesta en marcha de la sede judicial.",
+        "lemmatized_text": "el empresa municipal sagulpa adjudicar este [L:??/??/??:??.??:??] el obra de el aparcamiento de el nuevo palacio_de_justicia_de_las_palmas_de_gran_canaria que tener uno periodo de ejecución de 18 mes por el que estar operativo tras el verano de 2012 coincidir con el puesta en marcha de el sede judicial",
+        "lemmatized_text_reduced": "empresa municipal sagulpa adjudicar obra aparcamiento nuevo palacio_de_justicia_de_las_palmas_de_gran_canaria tener periodo ejecución mes estar operativo verano coincidir puesta marcha sede judicial",
+        "persons": [],
+        "locations": [
+            "Palacio_de_Justicia_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Sagulpa"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "18",
+            "2012"
+        ]
+    },
+    "body": {
+        "raw_text": "La empresa municipal Sagulpa adjudicará este lunes la obra del aparcamiento del nuevo Palacio de Justicia de Las Palmas de Gran Canaria, que tiene un periodo de ejecución de 18 meses, por lo que estará operativo tras el verano de 2012, coincidiendo con la puesta en marcha de la sede judicial. El portavoz del gobierno municipal, Sebastián Franquis, informó del proyecto tras la junta de gobierno celebrada este jueves. \"Dadas las fechas y que tras la finalización de la obra del Palacio de Justicia también hay que equiparlo para su uso, confiamos en que la apertura de ambas infraestructuras coincida\", señaló. El aparcamiento tendrá 486 plazas dispuestas en dos plantas subterráneas. El coste de la obra es de 6,4 millones de euros, según informó la institución local en un comunicado. Este concurso quedó desierto en la primera convocatoria. Tras la revisión del pliego de condiciones, la segunda convocatoria recibió una única oferta que ha superado los requisitos y obtendrá la adjudicación este lunes. La empresa concursante construirá el aparcamiento y lo explotará durante 39 años. Precio del agua de abasto Por otra parte, Franquis también informó de que el precio del agua de abasto en la capital grancanaria permanecerá estable a pesar del incremento en el precio del combustible. El Gobierno de España ha garantizado un año más la partida de ayuda a la desalación del agua de mar, lo que evitará que la subida del petróleo repercuta sobre la factura del usuario final.",
+        "lemmatized_text": "el empresa municipal sagulpa adjudicar este [L:??/??/??:??.??:??] el obra de el aparcamiento de el nuevo palacio_de_justicia_de_las_palmas_de_gran_canaria que tener uno periodo de ejecución de 18 mes por el que estar operativo tras el verano de 2012 coincidir con el puesta en marcha de el sede judicial el portavoz de el gobierno municipal sebastián_franquis informar de el proyecto tras el junta de gobierno celebrar este [J:??/??/??:??.??:??] dar el fecha y que tras el finalización de el obra de el palacio_de_justicia también haber que equipar lo para su uso confiar en que el apertura de ambos infraestructura coincidir señalar el aparcamiento tener 486 plaza disponer en 2 planta subterráneo el coste de el obra ser de 6,4 millón de euro según informar el institución local en uno comunicado este concurso quedar desierto en el 1 convocatoria tras el revisión de el pliego de condición el 2 convocatoria recibir uno único oferta que haber superar el requisito y obtener el adjudicación este [L:??/??/??:??.??:??] el empresa concursante construir el aparcamiento y lo explotar durante 39 año precio de el agua de abasto por otro parte franquis también informar de que el precio de el agua de abasto en el capital grancanaria permanecer estable a pesar de el incremento en el precio de el combustible el gobierno_de_españa haber garantizar uno año más el partida de ayuda a el desalación de el agua de mar el que evitar que el subida de el petróleo repercutir sobre el factura de el usuario final",
+        "lemmatized_text_reduced": "empresa municipal sagulpa adjudicar obra aparcamiento nuevo palacio_de_justicia_de_las_palmas_de_gran_canaria tener periodo ejecución mes estar operativo verano coincidir puesta marcha sede judicial portavoz gobierno municipal sebastián_franquis informar proyecto junta gobierno celebrar dar fecha finalización obra palacio_de_justicia haber equipar uso confiar apertura infraestructura coincidir señalar aparcamiento tener plaza disponer planta subterráneo coste obra ser millón euro informar institución local comunicado concurso quedar desierto 1 convocatoria revisión pliego condición 2 convocatoria recibir único oferta haber superar requisito obtener adjudicación empresa concursante construir aparcamiento explotar año precio agua abasto por parte franquis informar precio agua abasto capital grancanaria permanecer estable pesar incremento precio combustible gobierno_de_españa haber garantizar año partida ayuda desalación agua mar evitar subida petróleo repercutir factura usuario final",
+        "persons": [
+            "Sebastián_Franquis",
+            "Franquis"
+        ],
+        "locations": [
+            "Palacio_de_Justicia_de_Las_Palmas_de_Gran_Canaria",
+            "Palacio_de_Justicia"
+        ],
+        "organizations": [
+            "Sagulpa",
+            "Por",
+            "Gobierno_de_España"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "18",
+            "2012",
+            "486",
+            "2",
+            "6,4",
+            "39"
+        ]
+    }
+}

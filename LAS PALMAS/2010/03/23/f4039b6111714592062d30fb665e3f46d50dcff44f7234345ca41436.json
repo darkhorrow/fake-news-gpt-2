@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/658579/0/",
+    "title": {
+        "raw_text": "Arden dos contenedores en Telde (Gran Canaria) y otro en Puerto del Rosario (Fuerteventura) sin causar heridos",
+        "lemmatized_text": "arder 2 contenedor en telde gran_canaria y otro en puerto_del_rosario fuerteventura sin causar herido",
+        "lemmatized_text_reduced": "arder contenedor telde gran_canaria puerto_del_rosario fuerteventura causar herido",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos contenedores de basura han sido incendiados durante la madrugada en Telde (Gran Canaria) y otro ha ardido en Puerto del Rosario (Fuerteventura) sin causar heridos ni daños materiales, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "2 contenedor de basura haber ser incendiar durante el madrugada en telde gran_canaria y otro haber arder en puerto_del_rosario fuerteventura sin causar herido ni daño material según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "contenedor basura haber ser incendiar madrugada telde gran_canaria haber arder puerto_del_rosario fuerteventura causar herido daño material informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, el primer incidente se produjo durante la medianoche, cuando vecinos alertaron al Cecoes del incendio en dos contenedores ubicados en la calle Licenciado Gilberto Martín Mayor, en la localidad teldense. Hasta el lugar se desplazaron bomberos del Consorcio de Emergencias de Gran Canaria que extinguieron el fuego. Por su parte, la Policía Local instruyó las diligencias oportunas. Asimismo, sobre las 00.26 horas ardió también otro contenedor en la calle Viriato, en Puerto del Rosario, donde actuaron bomberos del municipio, así como la Policía Local. En ambos sucesos el fuego no afectó a vehículos ni fachadas ni produjo daños personales, según precisaron las mismas fuentes.",
+        "lemmatized_text": "en concreto el 1 incidente se producir durante el [??:??/??/??:00.00:am] cuando vecino alertar a el cecoes de el incendio en 2 contenedor ubicar en el calle licenciado_gilberto_martín_mayor en el localidad teldense hasta el lugar se desplazar bombero de el consorcio_de_emergencias_de_gran_canaria que extinguir el fuego por su parte el policía_local instruir el diligencia oportuno asimismo sobre el TM_h:0.26 arder también otro contenedor en el calle viriato en puerto_del_rosario donde actuar bombero de el municipio así_como el policía_local en ambos suceso el fuego no afectar a vehículo ni fachada ni producir daño personal según precisar el mismo fuente",
+        "lemmatized_text_reduced": "concreto 1 incidente producir vecino alertar cecoes incendio contenedor ubicar calle licenciado_gilberto_martín_mayor localidad teldense lugar desplazar bombero consorcio_de_emergencias_de_gran_canaria extinguir fuego parte policía_local instruir diligencia oportuno arder contenedor calle viriato puerto_del_rosario actuar bombero municipio policía_local suceso fuego afectar vehículo fachada producir daño personal precisar mismo fuente",
+        "persons": [],
+        "locations": [
+            "Licenciado_Gilberto_Martín_Mayor",
+            "Viriato",
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "2",
+            "TM_h:0.26"
+        ]
+    }
+}

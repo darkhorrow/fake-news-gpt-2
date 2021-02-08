@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/692033/0/",
+    "title": {
+        "raw_text": "La Agencia Tributaria prevé devolver en Canarias 485 millones a unos 665.000 contribuyentes",
+        "lemmatized_text": "el agencia_tributaria prever devolver en canarias 485000000 a uno 665 contribuyente",
+        "lemmatized_text_reduced": "agencia_tributaria prever devolver canarias contribuyente",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Tributaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "485000000",
+            "665"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Agencia Tributaria prevé devolver en Canarias aproximadamente 485 millones de euros a unos 665.000 contribuyentes en el marco de la campaña de la Renta 2009, e ingresar unos 180 millones de euros.",
+        "lemmatized_text": "el agencia_tributaria prever devolver en canarias aproximadamente $_ECU:485000000 a uno 665 contribuyente en el marco de el campaña de el renta 2009 y ingresar uno $_ECU:180000000",
+        "lemmatized_text_reduced": "agencia_tributaria prever devolver canarias aproximadamente contribuyente marco campaña renta ingresar",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Tributaria",
+            "Renta"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:485000000",
+            "665",
+            "2009",
+            "$_ECU:180000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Hacienda ha devuelto en las islas, a fecha de hoy, 23.401.000 euros a 37.401 contribuyentes, lo que supone una disminución del 7 por ciento en el importe respecto al pasado año y un incremento del 3 por ciento en el número de contribuyentes, según informó hoy en rueda de prensa en la capital grancanaria el delegado especial de la Agencia Tributaria en el archipiélago, José Luis Rodríguez, acompañado por la viceconsejera de Economía y Asuntos Económicos con la UE del Gobierno regional, Matilde Asián, y el jefe de la campaña y responsable del Departamento Regional de Gestión Tributaria en Canarias, Enrique Perrote. En las islas hay aproximadamente 791.000 contribuyentes —cifra similar a la de la anterior campaña— y \"más del 80 por ciento de las declaraciones serán a devolver\", es decir, unas 665.000 declaraciones. Los borradores confirmados hasta hoy en Canarias son 73.244, lo que representa una disminución del 12 por ciento sobre los confirmados en la misma fecha del año pasado. El total de borradores confirmados en toda España asciende a 1.723.657 y se han devuelto 648.029.000 euros a 965.665 contribuyentes. Pro tanto, Canarias supone el 4,25 por ciento de los borradores confirmados y el 4 por ciento de los importes devueltos al 4 por ciento de contribuyentes. (Habrá ampliación)",
+        "lemmatized_text": "hacienda haber devolver en el isla a fecha de hoy $_ECU:23.401.000 a 37.401 contribuyente el que suponer uno disminución de el 7 por 100 en el importe respecto a el pasar año y uno incremento de el 3 por 100 en el número de contribuyente según informar hoy en rueda de prensa en el capital grancanaria el delegado especial de el agencia_tributaria en el archipiélago josé_luis_rodríguez acompañar por el viceconsejero de economía y asuntos_económicos con el ue_del_gobierno regional matilde_asián y el jefe de el campaña y responsable de el departamento_regional_de_gestión_tributaria en canarias enrique_perrote en el isla haber aproximadamente 791 contribuyente cifra similar a el de el anterior campaña y más de el 80 por 100 de el declaración ser a devolver ser decir uno 665 declaración el borrador confirmar hasta hoy en canarias ser 73.244 el que representar uno disminución de el 12 por 100 sobre el confirmar en el mismo fecha de el año pasar el total de borrador confirmar en todo españa ascender a 1.723.657 y se haber devolver $_ECU:648.029.000 a 965.665 contribuyente pro tanto canarias suponer el 4,25 por 100 de el borrador confirmar y el 4 por 100 de el importe devolver a el 4 por 100 de contribuyente haber ampliación",
+        "lemmatized_text_reduced": "hacienda haber devolver isla fecha contribuyente suponer disminución importe respecto pasar año incremento número contribuyente informar rueda prensa capital grancanaria delegado especial agencia_tributaria archipiélago josé_luis_rodríguez acompañar viceconsejero economía asuntos_económicos ue_del_gobierno regional matilde_asián jefe campaña responsable departamento_regional_de_gestión_tributaria canarias enrique_perrote isla haber aproximadamente contribuyente cifra similar anterior campaña declaración ser devolver ser decir declaración borrador confirmar canarias ser representar disminución confirmar mismo fecha año pasar total borrador confirmar españa ascender haber devolver contribuyente canarias suponer borrador confirmar importe devolver contribuyente haber ampliación",
+        "persons": [
+            "José_Luis_Rodríguez",
+            "Matilde_Asián",
+            "Enrique_Perrote",
+            "España"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Tributaria",
+            "Economía",
+            "Asuntos_Económicos",
+            "UE_del_Gobierno",
+            "Departamento_Regional_de_Gestión_Tributaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:23.401.000",
+            "37.401",
+            "7",
+            "100",
+            "3",
+            "100",
+            "791",
+            "80",
+            "100",
+            "665",
+            "73.244",
+            "12",
+            "100",
+            "1.723.657",
+            "$_ECU:648.029.000",
+            "965.665",
+            "4,25",
+            "100",
+            "4",
+            "100",
+            "4",
+            "100"
+        ]
+    }
+}

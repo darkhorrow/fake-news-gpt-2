@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-09-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/409594/0/herido/incendio/palmas/",
+    "title": {
+        "raw_text": "Un herido grave en el incendio de una vivienda en Gran Canaria",
+        "lemmatized_text": "uno herir grave en el incendio de uno vivienda en gran_canaria",
+        "lemmatized_text_reduced": "herir grave incendio vivienda gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El incendio se produjo por causas que se desconocen. El herido tuvo que ser trasladado al Hospital Insular. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el incendio se producir por causa que se desconocer el herir tener que ser trasladar a el hospital_insular consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "incendio producir causa desconocer herir tener ser trasladar hospital_insular consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Hospital_Insular",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre de unos 33 años resultó ayer herido de gravedad como consecuencia del incendio declarado en una vivienda de Sardina del Sur , en el municipio de Santa Lucía de Tirajana, al sureste de Gran Canaria, según informó hoy a Efe un portavoz del 112. El fuego se originó por causas que se desconocen sobre las 21 horas en una vivienda unifamiliar del citado término municipal. Las llamas que afectaron a la vivienda causaron heridas de gravedad a un hombre de unos 33 años, que tuvo que ser evacuado al Hospital Insular de Gran Canaria por efectivos del SUC, ya que presentaba quemaduras en numerosas zonas de su cuerpo.",
+        "lemmatized_text": "uno hombre de uno 33 año resultar ayer herir de gravedad como consecuencia de el incendio declarar en uno vivienda de sardina_del_sur en el municipio de santa_lucía_de_tirajana a el sureste de gran_canaria según informar hoy a efe uno portavoz de el 112 el fuego se originar por causa que se desconocer sobre el TM_h:21 en uno vivienda unifamiliar de el citar término municipal el llama que afectar a el vivienda causar herir de gravedad a uno hombre de uno 33 año que tener que ser evacuar a el hospital_insular_de_gran_canaria por efectivo de el suc ya_que presentar quemadura en numeroso zona de su cuerpo",
+        "lemmatized_text_reduced": "hombre año resultar herir gravedad consecuencia incendio declarar vivienda sardina_del_sur municipio santa_lucía_de_tirajana sureste gran_canaria informar efe portavoz fuego originar causa desconocer vivienda unifamiliar citar término municipal llama afectar vivienda causar herir gravedad hombre año tener ser evacuar hospital_insular_de_gran_canaria efectivo suc presentar quemadura numeroso zona cuerpo",
+        "persons": [],
+        "locations": [
+            "Sardina_del_Sur",
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Efe",
+            "Hospital_Insular_de_Gran_Canaria",
+            "SUC"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "33",
+            "112",
+            "TM_h:21",
+            "33"
+        ]
+    }
+}

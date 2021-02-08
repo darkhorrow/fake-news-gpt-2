@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/923038/0/",
+    "title": {
+        "raw_text": "Una pelea en Las Palmas de Gran Canaria termina con un menor herido menos grave",
+        "lemmatized_text": "uno pelea en las_palmas_de_gran_canaria terminar con uno menor herir menos grave",
+        "lemmatized_text_reduced": "pelea las_palmas_de_gran_canaria terminar menor herir grave",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una pelea en Las Palmas de Gran Canaria terminó con un menor herido de carácter menos grave, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno pelea en las_palmas_de_gran_canaria terminar con uno menor herir de carácter menos grave según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "pelea las_palmas_de_gran_canaria terminar menor herir carácter grave informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una pelea en Las Palmas de Gran Canaria terminó con un menor herido de carácter menos grave, según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos ocurrieron en la noche del sábado, en la calle Secretario Artiles, esquina con Nicolás Estévanez de la capital grancanaria. En cuanto al herido, es un joven de 15 años de edad que sufrió traumatismo craneal de carácter menos grave, por lo que tuvo que ser trasladado por personal del Servicio de Urgencias Canario (SUC) al Hospital Universitario de Gran Canaria Doctor Negrín. Asimismo, en el lugar del incidente se personó además del SUC, agentes del Cuerpo Nacional de Policía que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno pelea en las_palmas_de_gran_canaria terminar con uno menor herir de carácter menos grave según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho ocurrir en el noche de el [S:??/??/??:??.??:??] en el calle secretario_artiles esquina con nicolás_estévanez de el capital grancanaria en cuanto a el herir ser uno joven de 15 año de edad que sufrir traumatismo craneal de carácter menos grave por el que tener que ser trasladar por personal de el servicio_de_urgencias_canario suc a el hospital_universitario_de_gran_canaria_doctor_negrín asimismo en el lugar de el incidente se personar además de el suc agente de el cuerpo_nacional_de_policía que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "pelea las_palmas_de_gran_canaria terminar menor herir carácter grave informar centro_coordinador_de_emergencias seguridad hecho ocurrir noche calle secretario_artiles esquina nicolás_estévanez capital grancanaria herir ser joven año edad sufrir traumatismo craneal carácter grave tener ser trasladar personal servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín lugar incidente personar suc agente cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [
+            "Nicolás_Estévanez"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Secretario_Artiles"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "15"
+        ]
+    }
+}

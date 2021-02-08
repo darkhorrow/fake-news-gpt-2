@@ -1,0 +1,87 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/312978/0/belen/arena/navidad/",
+    "title": {
+        "raw_text": "Harán un belén de arena de 600 metros cuadrados en playa Las Canteras",
+        "lemmatized_text": "hacer uno belén de arena de AR_m2:600 en playa las_canteras",
+        "lemmatized_text_reduced": "hacer belén arena playa las_canteras",
+        "persons": [],
+        "locations": [
+            "Las_Canteras"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "AR_m2:600"
+        ]
+    },
+    "lead": {
+        "raw_text": "Nueve artistas trabajarán en el proyecto. El costo de 80.000 € será compartido con el sector privado. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "9 artista trabajar en el proyecto el costo de $_ECU:80 ser compartir con el sector privar consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "artista trabajar proyecto costo ser compartir sector privar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9",
+            "$_ECU:80"
+        ]
+    },
+    "body": {
+        "raw_text": "Un belén de arena de 600 metros cuadrados se instalará un año más en la zona de la Plaza Saulo Torón de Las Canteras, una instalación que permanecerá abierta al público entre el 5 de diciembre y el 7 de enero y con la que la ciudad ambientará su particular Navidad de sol y playa. Los nueve escultores de Holanda, Irlanda, Portugal y España que elaborarán este belén comenzaron este lunes a remover, con ayuda de tractores, las 250 toneladas de arena que se emplearán en su confección, aunque no quisieron desvelar el motivo que lo inspirará. Lo que sí se sabe de antemano es que la instalación, que el año pasado fue visitada por más de 200.000 personas, contará este año con siete grandes esculturas de arena que escenificarán diferentes pasajes bíblicos del nacimiento. Mitad y mitad El concejal de Turismo del Ayuntamiento de Las Palmas de Gran Canaria, Aday Ruiz, informó de que el presupuesto del belén de arena de Las Canteras es de 80.000 euros , una partida que financiará en un cincuenta por ciento la sociedad de promoción de la ciudad y que también contará con financiación privada y del Patronato de Turismo de Gran Canaria. Ruiz afirmó que mientras Europa está cubierta de nieve, Las Palmas de Gran Canaria proyecta una imagen de sol y buen clima en Navidad con proyectos como éste, que son importantes para posicionar a la ciudad en los mercados internacionales. Por su parte, el concejal de Playas de la ciudad, Héctor Núñez, aludió a la deuda de 150.000 euros que este departamento del Ayuntamiento tiene contraída, desde diciembre de 2005, con la empresa FCC, lo que le impide participar en la financiación de este proyecto, que liderará, por este motivo, la sociedad municipal de promoción durante toda la legislatura. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "uno belén de arena de AR_m2:600 se instalar uno año más en_la_zona_de el plaza_saulo_torón_de_las_canteras uno instalación que permanecer abrir a el público entre el [??:5/12/??:??.??:??] y el [??:7/1/??:??.??:??] y con el que el ciudad ambientar su particular navidad de sol y playa el 9 escultor de holanda irlanda portugal y españa que elaborar este belén comenzar este [L:??/??/??:??.??:??] a remover con ayuda de tractor el WG_tm:250 de arena que se emplear en su confección aunque no querer desvelar el motivo que lo inspirar el que sí se saber de_antemano ser que el instalación que el año pasar ser visitar por más de 200 persona contar este año con 7 grande escultura de arena que escenificar diferente pasaje bíblico de el nacimiento mitad y mitad el concejal de turismo_del_ayuntamiento_de_las_palmas_de_gran_canaria aday_ruiz informar de que el presupuesto de el belén de arena de las_canteras ser de $_ECU:80 uno partida que financiar en uno 50 por 100 el sociedad de promoción de el ciudad y que también contar con financiación privar y de el patronato_de_turismo_de_gran_canaria ruiz afirmar que mientras europa estar cubrir de nieve las_palmas_de_gran_canaria proyectar uno imagen de sol y bueno clima en navidad con proyecto como este que ser importante para posicionar a el ciudad en el mercado internacional por su parte el concejal de playas de el ciudad héctor_núñez aludir a el deuda de $_ECU:150 que este departamento de el ayuntamiento tener contraer desde [??:??/12/2005:??.??:??] con el empresa fcc el que le impedir participar en el financiación de este proyecto que liderar por este motivo el sociedad municipal de promoción durante todo el legislatura consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "belén arena instalar año plaza_saulo_torón_de_las_canteras instalación permanecer abrir público ciudad ambientar particular navidad sol playa escultor holanda irlanda portugal españa elaborar belén comenzar remover ayuda tractor arena emplear confección querer desvelar motivo inspirar saber ser instalación año pasar ser visitar persona contar año grande escultura arena escenificar pasaje bíblico nacimiento mitad mitad el concejal turismo_del_ayuntamiento_de_las_palmas_de_gran_canaria aday_ruiz informar presupuesto belén arena las_canteras ser partida financiar sociedad promoción ciudad contar financiación privar patronato_de_turismo_de_gran_canaria ruiz afirmar europa estar cubrir nieve las_palmas_de_gran_canaria proyectar imagen sol bueno clima navidad proyecto ser importante posicionar ciudad mercado internacional parte concejal playas ciudad héctor_núñez aludir deuda departamento ayuntamiento tener contraer empresa fcc impedir participar financiación proyecto liderar motivo sociedad municipal promoción legislatura consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Mitad",
+            "Aday_Ruiz",
+            "Ruiz",
+            "Héctor_Núñez"
+        ],
+        "locations": [
+            "Plaza_Saulo_Torón_de_Las_Canteras",
+            "Holanda",
+            "Irlanda",
+            "Portugal",
+            "España",
+            "Las_Canteras",
+            "Playas"
+        ],
+        "organizations": [
+            "El",
+            "Patronato_de_Turismo_de_Gran_Canaria",
+            "Europa",
+            "Las_Palmas_de_Gran_Canaria",
+            "Ayuntamiento",
+            "FCC",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Navidad",
+            "Turismo_del_Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Navidad"
+        ],
+        "dates": [
+            "[??:5/12/??:??.??:??]",
+            "[??:7/1/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[??:??/12/2005:??.??:??]"
+        ],
+        "numbers": [
+            "AR_m2:600",
+            "9",
+            "WG_tm:250",
+            "200",
+            "7",
+            "$_ECU:80",
+            "50",
+            "100",
+            "$_ECU:150"
+        ]
+    }
+}

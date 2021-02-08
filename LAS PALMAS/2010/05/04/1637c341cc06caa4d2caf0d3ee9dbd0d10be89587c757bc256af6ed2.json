@@ -1,0 +1,90 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/696742/0/",
+    "title": {
+        "raw_text": "Ryanair operará dos nuevas rutas para conectar Fuerteventura y Reino Unido",
+        "lemmatized_text": "ryanair operar 2 nuevo ruta para conectar fuerteventura y reino_unido",
+        "lemmatized_text_reduced": "ryanair operar nuevo ruta conectar fuerteventura reino_unido",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Reino_Unido"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La aerolínea de bajo coste Ryanair comenzará esta semana a operar dos nuevas conexiones con Fuerteventura desde East Midlands y Londres Stansted.",
+        "lemmatized_text": "el aerolínea de bajo coste ryanair comenzar este semana a operar 2 nuevo conexión con fuerteventura desde east_midlands y londres_stansted",
+        "lemmatized_text_reduced": "aerolínea coste ryanair comenzar semana operar nuevo conexión fuerteventura east_midlands londres_stansted",
+        "persons": [
+            "Londres_Stansted"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ryanair",
+            "Fuerteventura",
+            "East_Midlands"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, la ruta entre Fuerteventura y East Midlands será lunes y jueves, mientras que la que unirá la isla canaria con Londres Stansted se realizará miércoles y domingos, según informó el Cabildo de Fuerteventura en nota de prensa. Actualmente, la compañía tiene 25 vuelos semanales que unen a Fuerteventura con 12 ciudades europeas (Bournemouth, Dublin, East Midlands, Liverpool, Milan, Pisa, Bruselas, Dusseldorf, Francfort, Glasgow, Londres Stansted y Madrid), lo que supone una oferta cercana a las 5.000 plazas a la semana para la isla canaria. Al respecto, la consejera insular de Turismo, Águeda Montelongo, señaló que con la puesta en marcha, por parte de Ryanair, de las citadas rutas del Reino Unido, la aerolínea de bajo coste \"está cumpliendo con su compromiso adquirido con la isla desde que empezara a operar con Fuerteventura el pasado mes de marzo, lo que demuestra su firme apuesta por el destino\". Asimismo, indicó que \"no sólo ha alcanzado sus previsiones en número de rutas y conexiones, sino que actualmente están estudiando la posibilidad\" de implantar nuevas operaciones con Fuerteventura.",
+        "lemmatized_text": "en concreto el ruta entre fuerteventura y east_midlands ser [L:??/??/??:??.??:??] y [J:??/??/??:??.??:??] mientras_que el que unir el isla canario con londres_stansted se realizar [X:??/??/??:??.??:??] y domingo según informar el cabildo_de_fuerteventura en nota de prensa actualmente el compañía tener 25 vuelo semanal que unir a fuerteventura con 12 ciudad europeo bournemouth dublin east_midlands liverpool milan pisa bruselas dusseldorf francfort glasgow londres_stansted y madrid el que suponer uno oferta cercano a el 5 plaza a el semana para el isla canario a el respecto el consejero insular de turismo águeda_montelongo señalar que con el puesta en marcha por parte de ryanair de el citar ruta de el reino_unido el aerolínea de bajo coste estar cumplir con su compromiso adquirir con el isla desde que empezar a operar con fuerteventura el [??:??/3/??:??.??:??] el que demostrar su firme apuesta por el destino asimismo indicar que no_sólo haber alcanzar su previsión en número de ruta y conexión sino_que actualmente estar estudiar el posibilidad de implantar nuevo operación con fuerteventura",
+        "lemmatized_text_reduced": "concreto ruta fuerteventura east_midlands ser unir isla canario londres_stansted realizar domingo informar cabildo_de_fuerteventura nota prensa actualmente compañía tener vuelo semanal unir fuerteventura ciudad europeo bournemouth dublin east_midlands liverpool milan pisa bruselas dusseldorf francfort glasgow londres_stansted madrid suponer oferta cercano plaza semana isla canario respecto consejero insular turismo águeda_montelongo señalar puesta marcha parte ryanair citar ruta reino_unido aerolínea coste estar cumplir compromiso adquirir isla empezar operar fuerteventura demostrar firme apuesta destino indicar haber alcanzar previsión número ruta conexión actualmente estar estudiar posibilidad implantar nuevo operación fuerteventura",
+        "persons": [
+            "East_Midlands",
+            "East_Midlands",
+            "Águeda_Montelongo"
+        ],
+        "locations": [
+            "Londres_Stansted",
+            "Fuerteventura",
+            "Bournemouth",
+            "Bruselas",
+            "Francfort",
+            "Madrid",
+            "Ryanair",
+            "Reino_Unido"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Cabildo_de_Fuerteventura",
+            "Dublin",
+            "Liverpool",
+            "Milan",
+            "Pisa",
+            "Dusseldorf",
+            "Glasgow",
+            "Londres_Stansted",
+            "Fuerteventura",
+            "Fuerteventura"
+        ],
+        "others": [
+            "Turismo"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]",
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "25",
+            "12",
+            "5"
+        ]
+    }
+}

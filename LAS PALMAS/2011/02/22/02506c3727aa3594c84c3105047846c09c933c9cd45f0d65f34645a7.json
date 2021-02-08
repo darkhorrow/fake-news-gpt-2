@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/967131/0/",
+    "title": {
+        "raw_text": "Sebastián confirma que la crisis en Egipto y Túnez ha desviado turistas hacia Canarias",
+        "lemmatized_text": "sebastián confirmar que el crisis en egipto y túnez haber desviar turista hacia canarias",
+        "lemmatized_text_reduced": "sebastián confirmar crisis egipto túnez haber desviar turista canarias",
+        "persons": [
+            "Sebastián"
+        ],
+        "locations": [
+            "Egipto",
+            "Túnez",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El ministro de Industria, Turismo y Comercio, Miguel Sebastián, confirmó este martes que la crisis en Egipto y Túnez ha beneficiado de alguna forma al turismo en España al desviar turistas fundamentalmente hacia Canarias.",
+        "lemmatized_text": "el ministro de industria turismo y comercio miguel_sebastián confirmar este [M:??/??/??:??.??:??] que el crisis en egipto y túnez haber beneficiar de alguno forma a el turismo en españa a el desviar turista fundamentalmente hacia canarias",
+        "lemmatized_text_reduced": "ministro industria turismo comercio miguel_sebastián confirmar crisis egipto túnez haber beneficiar forma turismo españa desviar turista fundamentalmente canarias",
+        "persons": [
+            "Miguel_Sebastián"
+        ],
+        "locations": [
+            "Egipto",
+            "Túnez",
+            "España",
+            "Canarias"
+        ],
+        "organizations": [
+            "Industria",
+            "Comercio"
+        ],
+        "others": [
+            "Turismo"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El ministro de Industria, Turismo y Comercio, Miguel Sebastián, confirmó este martes que la crisis en Egipto y Túnez ha beneficiado de alguna forma al turismo en España al desviar turistas fundamentalmente hacia Canarias. En declaraciones a los 'Desayunos de TVE', recogidas por Europa Press, Sebastián explicó que estos dos países han sufrido cancelaciones de las que se ha beneficiado Canarias, si bien apuntó que el objetivo de la política turística debe situarse más a largo plazo para favorecer la competitividad y, sobre todo, mejorar la promoción de España en el exterior. En esta línea, destacó que la promoción debe centrarse en los países emisores de turistas en el futuro como Rusia, China y la India de los que España recibe todavía pocos visitantes. Por otro lado, subrayó que el aumento del 4,7% de turistas extranjeros registrado en enero es un dato positivo, con casi 120.000 turistas más. Sebastián recordó que la Organización Mundial del Turismo (OMT) auguraba para España un buen comienzo para el sector, con un crecimiento de entre el 2% y el 4%, por lo que ha empezado \"casi mejor\". \"Supone casi un 5% más sobre el mes anterior que ya fue bueno\", concluyó.",
+        "lemmatized_text": "el ministro de industria turismo y comercio miguel_sebastián confirmar este [M:??/??/??:??.??:??] que el crisis en egipto y túnez haber beneficiar de alguno forma a el turismo en españa a el desviar turista fundamentalmente hacia canarias en declaración a el desayunos_de_tve recoger por europa_press sebastián explicar que este 2 país haber sufrir cancelación de el que se haber beneficiar canarias si bien apuntar que el objetivo de el política turístico deber situar se más a largo plazo para favorecer el competitividad y sobre todo mejorar el promoción de españa en el exterior en este línea destacar que el promoción deber centrar se en el país emisor de turista en el futuro como rusia china y el india de el que españa recibir todavía poco visitante por_otro_lado subrayar que el aumento de el 4,7/100 de turista extranjero registrar en [??:??/1/??:??.??:??] ser uno dato positivo con casi 120 turista más sebastián recordar que el organización_mundial_del_turismo omt augurar para españa uno bueno comienzo para el sector con uno crecimiento de entre el 2/100 y el 4/100 por el que haber empezar casi mejor suponer casi uno 5/100 más sobre el mes anterior que ya ser bueno concluir",
+        "lemmatized_text_reduced": "ministro industria turismo comercio miguel_sebastián confirmar crisis egipto túnez haber beneficiar forma turismo españa desviar turista fundamentalmente canarias declaración desayunos_de_tve recoger europa_press sebastián explicar país haber sufrir cancelación haber beneficiar canarias apuntar objetivo política turístico deber situar largo plazo favorecer competitividad mejorar promoción españa exterior línea destacar promoción deber centrar país emisor turista futuro rusia china india españa recibir visitante subrayar aumento turista extranjero registrar ser dato positivo turista sebastián recordar organización_mundial_del_turismo omt augurar españa bueno comienzo sector crecimiento haber empezar mejor suponer mes anterior ser bueno concluir",
+        "persons": [
+            "Miguel_Sebastián",
+            "Sebastián",
+            "España",
+            "España",
+            "Sebastián",
+            "España"
+        ],
+        "locations": [
+            "Egipto",
+            "Túnez",
+            "España",
+            "Canarias",
+            "Canarias",
+            "Rusia"
+        ],
+        "organizations": [
+            "Industria",
+            "Comercio",
+            "Europa_Press",
+            "China",
+            "India",
+            "Organización_Mundial_del_Turismo",
+            "OMT"
+        ],
+        "others": [
+            "Turismo",
+            "Desayunos_de_TVE"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "4,7/100",
+            "120",
+            "2/100",
+            "4/100",
+            "5/100"
+        ]
+    }
+}

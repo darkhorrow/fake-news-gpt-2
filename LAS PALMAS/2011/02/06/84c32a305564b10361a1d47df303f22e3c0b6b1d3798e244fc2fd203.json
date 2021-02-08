@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950856/0/",
+    "title": {
+        "raw_text": "Un menor de 9 años cae desde un quinto piso en Gran Canaria",
+        "lemmatized_text": "uno menor de 9 año caer desde uno 5 piso en gran_canaria",
+        "lemmatized_text_reduced": "menor año caer 5 piso gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un niño de 9 años de edad ha sufrido heridas de carácter menos grave tras precipitarse desde un quinto piso en el municipio de Telde, en Gran Canaria, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes 1-1-2).",
+        "lemmatized_text": "uno niño de 9 año de edad haber sufrir herida de carácter menos grave tras precipitar se desde uno 5 piso en el municipio de telde en gran_canaria según haber informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "niño año edad haber sufrir herida carácter grave precipitar 5 piso municipio telde gran_canaria haber informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "9",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Un niño de 9 años de edad ha sufrido heridas de carácter menos grave tras precipitarse desde un quinto piso en el municipio de Telde, en Gran Canaria, según ha informado el Centro Coordinador de Emergencias y Seguridad (Cecoes 1-1-2). El suceso ocurrió este sábado por la tarde en la calle Lagunetas, en la zona de San Gregorio. Alrededor de las 18.10 horas el Cecoes registró una alerta comunicando que un menor de edad se había precipitado desde un quinto piso y había rebotado en unas planchas de uralita, cayendo a la vía pública, de manera que el 1-1-2 activó de inmediato los recursos de emergencias necesarios para intervenir en la zona. Hasta el lugar se desplazaron agentes de la Policía Local y del Cuerpo Nacional de Policía, y una ambulancia de soporte vital avanzado del Servicio de Urgencias Canario (SUC), cuyo personal médico asistió al niño y, una vez estabilizado, lo evacuó al Hospital Universitario Materno Infantil de Canarias al sufrir un traumatismo en el brazo de carácter menos grave. Entretanto, el Cuerpo Nacional de Policía instruyó las diligencias correspondientes y la Policía Local canalizó el tráfico y colaboró con el resto de los recursos.",
+        "lemmatized_text": "uno niño de 9 año de edad haber sufrir herida de carácter menos grave tras precipitar se desde uno 5 piso en el municipio de telde en gran_canaria según haber informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 el suceso ocurrir este [S:??/??/??:??.??:pm] en el calle lagunetas en_la_zona_de san_gregorio alrededor_de el TM_h:18.1 el cecoes registrar uno alerta comunicar que uno menor de edad se haber precipitar desde uno 5 piso y haber rebotar en uno plancha de uralita caer a el vía público de manera que el 1-1-2 activar de inmediato el recurso de emergencia necesario para intervenir en el zona hasta el lugar se desplazar agente de el policía_local y de el cuerpo_nacional_de_policía y uno ambulancia de soporte vital avanzar de el servicio_de_urgencias_canario suc cuyo personal médico asistir a el niño y uno vez estabilizar lo evacuar a el hospital_universitario_materno_infantil_de_canarias a el sufrir uno traumatismo en el brazo de carácter menos grave entretanto el cuerpo_nacional_de_policía instruir el diligencia correspondiente y el policía_local canalizar el tráfico y colaborar con el resto de el recurso",
+        "lemmatized_text_reduced": "niño año edad haber sufrir herida carácter grave precipitar 5 piso municipio telde gran_canaria haber informar centro_coordinador_de_emergencias seguridad cecoes suceso ocurrir calle lagunetas san_gregorio cecoes registrar alerta comunicar menor edad haber precipitar 5 piso haber rebotar plancha uralita caer vía público manera activar inmediato recurso emergencia necesario intervenir zona lugar desplazar agente policía_local cuerpo_nacional_de_policía ambulancia soporte vital avanzar servicio_de_urgencias_canario suc personal médico asistir niño vez estabilizar evacuar hospital_universitario_materno_infantil_de_canarias sufrir traumatismo brazo carácter grave cuerpo_nacional_de_policía instruir diligencia correspondiente policía_local canalizar tráfico colaborar resto recurso",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria",
+            "Lagunetas",
+            "San_Gregorio"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cecoes",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Materno_Infantil_de_Canarias",
+            "Cuerpo_Nacional_de_Policía",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:pm]"
+        ],
+        "numbers": [
+            "9",
+            "1-1-2",
+            "TM_h:18.1",
+            "1-1-2"
+        ]
+    }
+}

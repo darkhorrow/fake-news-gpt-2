@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/691031/0/",
+    "title": {
+        "raw_text": "El juez imputa un delito de homicidio al presunto autor de la muerte de la joven de Fuerteventura",
+        "lemmatized_text": "el juez imputar uno delito de homicidio a el presunto autor de el muerte de el joven de fuerteventura",
+        "lemmatized_text_reduced": "juez imputar delito homicidio presunto autor muerte joven fuerteventura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El titular del Juzgado de Instrucción Número 3 de Puerto del Rosario (Fuerteventura) ha imputado un delito de homicidio al presunto autor de la muerte de la joven fallecida el pasado lunes en La Lajita.",
+        "lemmatized_text": "el titular de el juzgado_de_instrucción_número 3 de puerto_del_rosario fuerteventura haber imputar uno delito de homicidio a el presunto autor de el muerte de el joven fallecer el [L:??/??/??:??.??:??] en la_lajita",
+        "lemmatized_text_reduced": "titular juzgado_de_instrucción_número puerto_del_rosario fuerteventura haber imputar delito homicidio presunto autor muerte joven fallecer la_lajita",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Rosario",
+            "La_Lajita"
+        ],
+        "organizations": [
+            "Juzgado_de_Instrucción_Número",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "El presunto autor de los hechos es un ciudadano marroquí, según informó el Tribunal Superior de Justicia de Canarias (TSJC) en un comunicado, y tras prestar en la tarde de ayer declaración, después de que fuera detenido por su posible relación con la muerte de una mujer en Fuerteventura, ha sido imputado por un delito de homicidio. Asimismo, el juez ha decretado las actuaciones bajo secreto de sumario. La muerte de la joven el pasado lunes, 26 de abril, en La Lajita, en el municipio de Pájara (Fuerteventura), podría ser otro caso de violencia de género, según indicaron a Europa Press fuentes de los servicios de seguridad que se trasladaron hasta la zona. La mujer, de nacionalidad brasileña, fue encontrada por agentes de la Guarida Civil y de la Policía Local en el interior de su vivienda, donde ya perecía, y tenía signos de violencia.",
+        "lemmatized_text": "el presunto autor de el hecho ser uno ciudadano marroquí según informar el tribunal_superior_de_justicia_de_canarias tsjc en uno comunicado y tras prestar en el tarde de ayer declaración después_de que ser detener por su posible relación con el muerte de uno mujer en fuerteventura haber ser imputar por uno delito de homicidio asimismo el juez haber decretar el actuación bajo secreto de sumario el muerte de el joven el [L:26/4/??:??.??:??] en la_lajita en el municipio de pájara fuerteventura poder ser otro caso de violencia de género según indicar a europa_press fuente de el servicio de seguridad que se trasladar hasta el zona el mujer de nacionalidad brasileño ser encontrar por agente de el guarida_civil y de el policía_local en_el_interior_de su vivienda donde ya perecer y tener signo de violencia",
+        "lemmatized_text_reduced": "presunto autor hecho ser ciudadano marroquí informar tribunal_superior_de_justicia_de_canarias tsjc comunicado prestar tarde declaración ser detener posible relación muerte mujer fuerteventura haber ser imputar delito homicidio juez haber decretar actuación secreto sumario muerte joven la_lajita municipio pájara fuerteventura poder ser caso violencia género indicar europa_press fuente servicio seguridad trasladar zona mujer nacionalidad brasileño ser encontrar agente guarida_civil policía_local vivienda perecer tener signo violencia",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "La_Lajita",
+            "Pájara"
+        ],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "TSJC",
+            "Fuerteventura",
+            "Fuerteventura",
+            "Guarida_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[L:26/4/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

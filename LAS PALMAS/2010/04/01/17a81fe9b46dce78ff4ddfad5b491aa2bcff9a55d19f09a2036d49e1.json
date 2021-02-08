@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/666965/0/",
+    "title": {
+        "raw_text": "PP de Las Palmas de Gran Canaria denuncia que el Ayuntamiento \"deja tirados\" a los vecinos con los cambios en el Plan E",
+        "lemmatized_text": "pp_de_las_palmas_de_gran_canaria denunciar que el ayuntamiento dejar tirar a el vecino con el cambio en el plan_e",
+        "lemmatized_text_reduced": "pp_de_las_palmas_de_gran_canaria denunciar ayuntamiento dejar tirar vecino cambio plan_e",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PP_de_Las_Palmas_de_Gran_Canaria",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Plan_E"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Grupo Municipal Popular, por medio de su concejal Ángel Sabroso, ha acusado al gobierno local de \"dejar literalmente tirados a multitud de vecinos\" tras las modificaciones realizadas en el listado de proyectos a financiar con cargo al nuevo Fondo Estatal, el denominado Fondo Estatal para el Empleo y la Sostenibilidad Local (FEESL).",
+        "lemmatized_text": "el grupo_municipal_popular por_medio_de su concejal ángel_sabroso haber acusar a el gobierno local de dejar literalmente tirar a multitud de vecino tras el modificación realizar en el listado de proyecto a financiar con cargo a el nuevo fondo_estatal el denominar fondo_estatal_para_el_empleo y el sostenibilidad_local feesl",
+        "lemmatized_text_reduced": "grupo_municipal_popular concejal ángel_sabroso haber acusar gobierno local dejar literalmente tirar multitud vecino modificación realizar listado proyecto financiar cargo nuevo fondo_estatal denominar fondo_estatal_para_el_empleo sostenibilidad_local feesl",
+        "persons": [
+            "Ángel_Sabroso",
+            "Fondo_Estatal"
+        ],
+        "locations": [],
+        "organizations": [
+            "Grupo_Municipal_Popular",
+            "Fondo_Estatal_para_el_Empleo",
+            "Sostenibilidad_Local",
+            "FEESL"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Tras haber presentado hace unos meses un listado de proyectos, ahora presentan otro con varias modificaciones y obras suprimidas, ello sin que nadie explique los motivos y, sobre todo, lo que sucederá con las actuaciones eliminadas\", indicó hoy el edil popular en un comunicado. De esta manera, señaló que entre las modificaciones realizadas destaca la eliminación de actuaciones en barrios muy populosos y necesitados de mejoras. \"Se cargan de un plumazo —explicó— la actuación paisajística en el barrio de Schamann, al que habían asignado inicialmente 382.000 euros, la rehabilitación, limpieza y conservación de Las Chumberas, de 193.000 euros de presupuesto, la actuación paisajística en La Isleta alta, con 500.000 euros asignados o las mejoras en alumbrado general de la ciudad, con 72.731,72 euros\". \"Además eliminan la adquisición de vehículos para la Policía Local, de dos compactadoras para el Servicio de Limpieza y nuevos chasis y recarrozados para recolectores de basura y 16 guaguas municipales\", agregó. Para el PP, otra de las peores características del listado final de proyectos es \"el olvido absoluto del tejido productivo y comercial de la ciudad\". El representante popular afirmó que \"se desperdicia una lluvia de millones sin que las zonas turísticas, áreas comerciales, polígonos industriales o nuestro sector servicios, noten ni un mínimo apoyo\". \"Y es que no hay ni una sola actuación en el listado final de sustento a los sectores que generan puestos de trabajo estables, las Pymes de la capital; de hecho, se han cargado del listado inicial la mejora del paisaje urbano en la calle La Naval, dotado inicialmente de 500.000 euros, o el proyecto de dotación de equipamientos innovadores para apoyo de los empresarios en áreas comerciales abiertas de la ciudad, con 200.000 euros de presupuesto\", se lamentó Sabroso mientras apuntó que \"las continuas promesas de actuar en la zona comercial Puerto-Santa Catalina se vuelven a convertir en papel mojado y los distritos Isleta-Puerto-Canteras y Tamaraceite-San Lorenzo Tenoya, vuelven a ser los más castigados por Saavedra y su equipo\". \"oscurantismo patológico\" Sabroso denunció, igualmente, que las modificaciones realizadas en el listado final de proyectos \"se han hecho por la puerta de atrás, escondiendo la cabeza bajo el ala y haciendo gala del oscurantismo patológico que caracteriza a Saavedra y su equipo\". El edil recordó que \"el listado inicial de proyectos no pasó por ningún órgano del Ayuntamiento, ni las Juntas de Distrito, ni los consejos de participación, ni el consejo social de la ciudad, ni tan siquiera por la Corporación en Pleno, y ahora, la modificación del listado se presenta de tapadillo, sin informar a los vecinos de los proyectos suprimidos, ni prever su ejecución con cargo a otro plan\". Asimismo destacó la \"torpeza supina\" de un gobierno que les entrega a los medios de comunicación un listado hace unos meses y otro distinto hace dos días, creyendo que nadie notaría la diferencia. \"La fiebre por las ruedas de prensa juega estas malas pasadas, ¿para qué dar a conocer un listado de actuaciones si aún no lo tienen claro y generar así expectativas que se tornan ahora en la frustración general de muchos vecinos?\", se preguntó el edil.",
+        "lemmatized_text": "tras haber presentar hacer uno mes uno listado de proyecto ahora presentar otro con varios modificación y obra suprimir ello sin que nadie explicar el motivo y sobre todo el que suceder con el actuación eliminar indicar hoy el edil popular en uno comunicado de este manera señalar que entre el modificación realizar destacar el eliminación de actuación en barrio muy populoso y necesitar de mejora se cargar de_un_plumazo explicar el actuación paisajístico en el barrio de schamann a el que haber asignar inicialmente $_ECU:382 el rehabilitación limpieza y conservación de las_chumberas de $_ECU:193 de presupuesto el actuación paisajístico en la_isleta alto con $_ECU:500 asignado o el mejora en alumbrado general de el ciudad con $_ECU:72.731,72 además eliminar el adquisición de vehículo para el policía_local de 2 compactador para el servicio_de_limpieza y nuevo chasis y recarrozados para recolector de basura y 16 guagua municipal agregar para el pp otro de el peor característica de el listado final de proyecto ser el olvido absoluto de el tejido productivo y comercial de el ciudad el representante popular afirmar que se desperdiciar uno lluvia de millón sin que el zona turístico área comercial polígono industrial o nuestro sector servicio notar ni uno mínimo apoyo y ser que no haber ni uno solo actuación en el listado final de sustento a el sector que generar puesto de trabajo estable el pymes de el capital de hecho se haber cargar de el listado inicial el mejora de el paisaje urbano en el calle la_naval dotar inicialmente de $_ECU:500 o el proyecto de dotación de equipamiento innovador para apoyo de el empresario en área comercial abrir de el ciudad con $_ECU:200 de presupuesto se lamentar sabroso mientras apuntar que el continuo promesa de actuar en el zona comercial puerto-santa_catalina se volver a convertir en papel mojar y el distrito isleta-puerto-canteras y tamaraceite-san_lorenzo_tenoya volver a ser el más castigar por saavedra y su equipo oscurantismo patológico sabroso denunciar igualmente que el modificación realizar en el listado final de proyecto se haber hacer por el puerta de atrás esconder el cabeza bajo el ala y hacer gala de el oscurantismo patológico que caracterizar a saavedra y su equipo el edil recordar que el listado inicial de proyecto no pasar por ninguno órgano de el ayuntamiento ni el juntas_de_distrito ni el consejo de participación ni el consejo social de el ciudad ni tan_siquiera por el corporación en pleno y ahora el modificación de el listado se presentar de_tapadillo sin informar a el vecino de el proyecto suprimir ni prever su ejecución con cargo a otro plan asimismo destacar el torpeza supino de uno gobierno que le entregar a el medio de comunicación uno listado hacer uno mes y otro distinto hacer TM_d:2 creer que nadie notar el diferencia el fiebre por el rueda de prensa jugar este malo pasada para qué dar_a_conocer uno listado de actuación si aun no lo tener claro y generar así expectativa que se tornar ahora en el frustración general de mucho vecino se preguntar el edil",
+        "lemmatized_text_reduced": "haber presentar hacer mes listado proyecto presentar modificación obra suprimir explicar motivo suceder actuación eliminar indicar edil popular comunicado manera señalar modificación realizar destacar eliminación actuación barrio populoso necesitar mejora cargar explicar actuación paisajístico barrio schamann haber asignar inicialmente rehabilitación limpieza conservación las_chumberas presupuesto actuación paisajístico la_isleta alto asignado mejora alumbrado general ciudad eliminar adquisición vehículo policía_local compactador servicio_de_limpieza nuevo chasis recarrozados recolector basura guagua municipal agregar pp peor característica listado final proyecto ser olvido absoluto tejido productivo comercial ciudad representante popular afirmar desperdiciar lluvia millón zona turístico área comercial polígono industrial sector servicio notar mínimo apoyo ser haber solo actuación listado final sustento sector generar puesto trabajo estable pymes capital hecho haber cargar listado inicial mejora paisaje urbano calle la_naval dotar inicialmente proyecto dotación equipamiento innovador apoyo empresario área comercial abrir ciudad presupuesto lamentar sabroso apuntar continuo promesa actuar zona comercial puerto-santa_catalina volver convertir papel mojar distrito isleta-puerto-canteras tamaraceite-san_lorenzo_tenoya volver ser castigar saavedra equipo oscurantismo patológico sabroso denunciar igualmente modificación realizar listado final proyecto haber hacer puerta esconder cabeza ala hacer gala oscurantismo patológico caracterizar saavedra equipo edil recordar listado inicial proyecto pasar órgano ayuntamiento juntas_de_distrito consejo participación consejo social ciudad corporación pleno modificación listado presentar informar vecino proyecto suprimir prever ejecución cargo plan destacar torpeza supino gobierno entregar medio comunicación listado hacer mes distinto hacer creer notar diferencia fiebre rueda prensa jugar malo pasada dar_a_conocer listado actuación tener generar expectativa tornar frustración general vecino preguntar edil",
+        "persons": [
+            "Sabroso",
+            "Puerto-Santa_Catalina",
+            "Saavedra",
+            "Sabroso",
+            "Saavedra"
+        ],
+        "locations": [
+            "Schamann",
+            "La_Isleta",
+            "La_Naval",
+            "Pleno"
+        ],
+        "organizations": [
+            "Las_Chumberas",
+            "Policía_Local",
+            "Servicio_de_Limpieza",
+            "PP",
+            "Isleta-Puerto-Canteras",
+            "Tamaraceite-San_Lorenzo_Tenoya",
+            "Ayuntamiento",
+            "Juntas_de_Distrito",
+            "Corporación"
+        ],
+        "others": [
+            "Pymes"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:382",
+            "$_ECU:193",
+            "$_ECU:500",
+            "$_ECU:72.731,72",
+            "2",
+            "16",
+            "$_ECU:500",
+            "$_ECU:200",
+            "TM_d:2"
+        ]
+    }
+}

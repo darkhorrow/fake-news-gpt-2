@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714928/0/",
+    "title": {
+        "raw_text": "Una colisión entre dos motos en Gran Canaria se salda con un fallecido y un herido grave",
+        "lemmatized_text": "uno colisión entre 2 moto en gran_canaria se saldar con uno fallecer y uno herir grave",
+        "lemmatized_text_reduced": "colisión moto gran_canaria saldar fallecer herir grave",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una colisión entre dos motos en Arteara, en el municipio de San Bartolomé de Tirajana (Gran Canaria), se saldó con un fallecido y un herido grave, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno colisión entre 2 moto en arteara en el municipio de san_bartolomé_de_tirajana gran_canaria se saldar con uno fallecer y uno herir grave según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "colisión moto arteara municipio san_bartolomé_de_tirajana gran_canaria saldar fallecer herir grave informar europa_press fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Arteara",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron pasadas las 11.00 horas y la colisión provocó el fallecimiento de un hombre, de 35 años de edad, que sufrió una parada cardiorrespiratoria y por el que el personal del Servicio de Urgencias Canario (SUC) no pudo hacer nada al llegar al lugar. Asimismo, hubo un herido de carácter grave, al sufrir un traumatismo en un miembro superior, por lo que tuvo que ser trasladado a un centro de salud cercano. Hasta el lugar del incidente se trasladó además de personal del SUC, bomberos y agentes de la Guardia Civil.",
+        "lemmatized_text": "el hecho se producir pasar el TM_h:11 y el colisión provocar el fallecimiento de uno hombre de 35 año de edad que sufrir uno parada cardiorrespiratoria y por el que el personal de el servicio_de_urgencias_canario suc no poder hacer nada a el llegar a el lugar asimismo haber uno herir de carácter grave a el sufrir uno traumatismo en uno miembro superior por el que tener que ser trasladar a uno centro de salud cercano hasta el lugar de el incidente se trasladar además_de personal de el suc bombero y agente de el guardia_civil",
+        "lemmatized_text_reduced": "hecho producir pasar colisión provocar fallecimiento hombre año edad sufrir parada cardiorrespiratoria personal servicio_de_urgencias_canario suc poder hacer llegar lugar haber herir carácter grave sufrir traumatismo miembro superior tener ser trasladar centro salud cercano lugar incidente trasladar personal suc bombero agente guardia_civil",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:11",
+            "35"
+        ]
+    }
+}

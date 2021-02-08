@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/624535/0/",
+    "title": {
+        "raw_text": "Las dos cajas canarias piden a Corredor campaña informativa sobre las ayudas para acceder a la vivienda",
+        "lemmatized_text": "el 2 caja canario pedir a corredor campaña informativo sobre el ayuda para acceder a el vivienda",
+        "lemmatized_text_reduced": "caja canario pedir corredor campaña informativo ayuda acceder vivienda",
+        "persons": [
+            "Corredor"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los presidentes de las dos cajas canarias han solicitado hoy a la ministra de Vivienda, Beatriz Corredor, la necesidad de impulsar una campaña informativa sobre las ayudas que hay actualmente para acceder a una inmueble.",
+        "lemmatized_text": "el presidente de el 2 caja canario haber solicitar hoy a el ministro de vivienda beatriz_corredor el necesidad de impulsar uno campaña informativo sobre el ayuda que haber actualmente para acceder a uno inmueble",
+        "lemmatized_text_reduced": "presidente caja canario haber solicitar ministro vivienda beatriz_corredor necesidad impulsar campaña informativo ayuda haber actualmente acceder inmueble",
+        "persons": [
+            "Beatriz_Corredor"
+        ],
+        "locations": [],
+        "organizations": [
+            "Vivienda"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El presidente de La Caja de Canarias, Juan Manuel Suárez del Toro, y su homólogo de CajaCanarias, Álvaro Arvelo, así se lo han hecho saber a la responsable de la cartera de Vivienda que hoy se encontraba en Las Palmas de Gran Canaria. Actualmente, en Canarias existe un stock de 30.000 viviendas. Por provincias, Arvelo indicó, en declaraciones a los medios, que son \"similares\" el stock de inmuebles. Cuestionado Arvelo por la morosidad, apuntó que \"negociar con los promotores para que las entidades financieras, en algunos casos, lleguen a adjudicar las viviendas para evitar las morosidades, si eso se llama ocultar morosidad, yo creo que no\". Agregó, en referencia a esto último, que \"eso es convertir inversión crediticia en inversión inmobiliaria, darle respiro a las empresas y a los promotores, y después con toda tranquilidad, facilitando el acceso a la vivienda a los ciudadano\" para acabar con los inventarios \"importantes\" de promociones de vivienda que se \"quedan estancado después de haber convertido crédito en inmueble\". Por su parte, Corredor recordó que para facilitar el crédito a 100.000 familias el Ministerio puso en marcha una línea de cobertura por la que asume el 50 por ciento del riesgo de cada nueva hipoteca concedida para vivienda protegida hasta un volumen global de crédito de 12.000 millones de euros.",
+        "lemmatized_text": "el presidente de la_caja_de_canarias juan_manuel_suárez_del_toro y su homólogo de cajacanarias álvaro_arvelo así se lo haber hacer saber a el responsable de el cartera de vivienda que hoy se encontrar en las_palmas_de_gran_canaria actualmente en canarias existir uno stock de 30 vivienda por provincia arvelo indicar en declaración a el medio que ser similar el stock de inmueble cuestionar arvelo por el morosidad apuntar que negociar con el promotor para que el entidad financiero en alguno caso llegar a adjudicar el vivienda para evitar el morosidad si ese se llamar ocultar morosidad yo creer que no agregar en referencia a este último que ese ser convertir inversión crediticio en inversión inmobiliario dar le respiro a el empresa y a el promotor y después con todo tranquilidad facilitar el acceso a el vivienda a el ciudadano para acabar con el inventario importante de promoción de vivienda que se quedar estancar después_de haber convertir crédito en inmueble por su parte corredor recordar que para facilitar el crédito a 100 familia el ministerio poner en marcha uno línea de cobertura por el que asumir el 50 por 100 de el riesgo de cada nuevo hipoteca conceder para vivienda proteger hasta uno volumen global de crédito de $_ECU:12000000",
+        "lemmatized_text_reduced": "presidente la_caja_de_canarias juan_manuel_suárez_del_toro homólogo cajacanarias álvaro_arvelo haber hacer saber responsable cartera vivienda encontrar las_palmas_de_gran_canaria actualmente canarias existir stock vivienda provincia arvelo indicar declaración medio ser similar stock inmueble cuestionar arvelo morosidad apuntar negociar promotor entidad financiero caso llegar adjudicar vivienda evitar morosidad llamar ocultar morosidad creer agregar referencia último ser convertir inversión crediticio inversión inmobiliario dar respiro empresa promotor tranquilidad facilitar acceso vivienda ciudadano acabar inventario importante promoción vivienda quedar estancar haber convertir crédito inmueble parte corredor recordar facilitar crédito familia ministerio poner marcha línea cobertura asumir riesgo nuevo hipoteca conceder vivienda proteger volumen global crédito",
+        "persons": [
+            "Juan_Manuel_Suárez_del_Toro",
+            "Álvaro_Arvelo",
+            "Arvelo",
+            "Arvelo",
+            "Corredor"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Canarias"
+        ],
+        "organizations": [
+            "La_Caja_de_Canarias",
+            "CajaCanarias",
+            "Vivienda",
+            "Ministerio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30",
+            "100",
+            "50",
+            "100",
+            "$_ECU:12000000"
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/945776/0/",
+    "title": {
+        "raw_text": "Canarias, en alerta amarilla por oleaje hasta el miércoles",
+        "lemmatized_text": "canario en alerta amarillo por oleaje hasta el [X:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "canario alerta amarillo oleaje",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las islas Canarias estarán en su práctica totalidad en alerta amarilla por fuertes olas tanto este martes como el miércoles, a excepción de las costas del Sur de La Palma y La Gomera, según datos de la Agencia estatal de meteorología (Aemet).",
+        "lemmatized_text": "el isla canarias estar en su práctico totalidad en alerta amarillo por fuerte ola tanto este [M:??/??/??:??.??:??] como el [X:??/??/??:??.??:??] a_excepción_de el costa de el sur_de_la_palma y la_gomera según dato de el agencia estatal de meteorología aemet",
+        "lemmatized_text_reduced": "isla canarias estar práctico totalidad alerta amarillo fuerte ola costa sur_de_la_palma la_gomera dato agencia estatal meteorología aemet",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Sur_de_La_Palma",
+            "La_Gomera",
+            "Aemet"
+        ],
+        "organizations": [
+            "Agencia"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las islas Canarias estarán en su práctica totalidad en alerta amarilla por fuertes olas tanto este martes como el miércoles, a excepción de las costas del Sur de La Palma y La Gomera, según datos de la Agencia estatal de meteorología (Aemet). Además, están previstas lluvias debiles ocasionales y dispersas en el Norte y Nordeste de las islas de mayor relieve, afectando principalmente a medianías y zonas altas. en el resto del archipiélago habrá intervalos nubosos con probabilidad de lluvias debiles ocasionales y dispersas en Lanzarote y Fuerteventura. El viento, mientras tanto, soplará de Nordeste moderado a fuerte, al tiempo que las temperaturas permanecerán sin cambios con entre 21 y 16 grados en la provincia de Las Palmas y entre 20 y 15 en Santa Cruz de Tenerife.",
+        "lemmatized_text": "el isla canarias estar en su práctico totalidad en alerta amarillo por fuerte ola tanto este [M:??/??/??:??.??:??] como el [X:??/??/??:??.??:??] a_excepción_de el costa de el sur_de_la_palma y la_gomera según dato de el agencia estatal de meteorología aemet además estar prever lluvia debiles ocasional y disperso en el norte y nordeste de el isla de mayor relieve afectar principalmente a medianía y zona alto en el resto de el archipiélago haber intervalo nuboso con probabilidad de lluvia debiles ocasional y disperso en lanzarote y fuerteventura el viento mientras tanto soplar de nordeste moderar a fuerte al_tiempo_que el temperatura permanecer sin cambio con entre 21 y 16 grado en el provincia de las_palmas y entre 20 y 15 en santa_cruz_de_tenerife",
+        "lemmatized_text_reduced": "isla canarias estar práctico totalidad alerta amarillo fuerte ola costa sur_de_la_palma la_gomera dato agencia estatal meteorología aemet estar prever lluvia debiles ocasional disperso norte nordeste isla mayor relieve afectar principalmente medianía zona alto resto archipiélago haber intervalo nuboso probabilidad lluvia debiles ocasional disperso lanzarote fuerteventura viento soplar nordeste moderar fuerte temperatura permanecer cambio grado provincia las_palmas santa_cruz_de_tenerife",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Sur_de_La_Palma",
+            "La_Gomera",
+            "Aemet",
+            "Norte",
+            "Nordeste",
+            "Lanzarote",
+            "Nordeste",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Agencia",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "21",
+            "16",
+            "20",
+            "15"
+        ]
+    }
+}

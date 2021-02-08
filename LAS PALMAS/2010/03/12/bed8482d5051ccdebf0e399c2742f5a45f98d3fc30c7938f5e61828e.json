@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/649978/0/",
+    "title": {
+        "raw_text": "Un accidente en Gran Canaria se salda con un herido leve y causa retenciones",
+        "lemmatized_text": "uno accidente en gran_canaria se saldar con uno herir leve y causa retención",
+        "lemmatized_text_reduced": "accidente gran_canaria saldar herir leve causa retención",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un accidente entre dos vehículos en una carretera de la isla de Gran Canaria se saldó con un herido leve y causó a primera hora de esta mañana retenciones, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno accidente entre 2 vehículo en uno carretera de el isla de gran_canaria se saldar con uno herir leve y causar a 1 hora de este mañana retención según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "accidente vehículo carretera isla gran_canaria saldar herir leve causar 1 hora mañana retención informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 06.55 horas, en el kilómetro 7 de la GC-3, a la altura de Lomo Blanco en dirección Las Palmas de Gran Canaria. El herido sufrió cervicalgia de carácter leve, por lo que tuvo que ser atendido por el personal del Servicio de Urgencias Canario (SUC). Asimismo, hasta el lugar del incidente además de personal del SUC, también se personaron agentes de la Guardia Civil, que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el incidente se producir a el TM_h:6.55 en el kilómetro 7 de el GC-3 a el altura de lomo_blanco en dirección las_palmas_de_gran_canaria el herir sufrir cervicalgia de carácter leve por el que tener que ser atender por el personal de el servicio_de_urgencias_canario suc asimismo hasta el lugar de el incidente además_de personal de el suc también se personar agente de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "incidente producir kilómetro altura lomo_blanco dirección las_palmas_de_gran_canaria herir sufrir cervicalgia carácter leve tener ser atender personal servicio_de_urgencias_canario suc lugar incidente personal suc personar agente guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Lomo_Blanco",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:6.55",
+            "7",
+            "GC-3"
+        ]
+    }
+}

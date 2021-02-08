@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/657733/0/",
+    "title": {
+        "raw_text": "Casa África presentará mañana la publicación sobre la exposición 'Museo de Arte Contemporáneo Africano y más'",
+        "lemmatized_text": "casa_áfrica presentar mañana el publicación sobre el exposición museo_de_arte_contemporáneo_africano y más",
+        "lemmatized_text_reduced": "casa_áfrica presentar publicación exposición museo_de_arte_contemporáneo_africano",
+        "persons": [],
+        "locations": [
+            "Casa_África"
+        ],
+        "organizations": [],
+        "others": [
+            "Museo_de_Arte_Contemporáneo_Africano"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El auditorio de Casa África acogerá mañana, martes, la presentación oficial de la publicación en torno a la exposición 'Museo de Arte Contemporáneo Africano y más' que se puede visitar en el Centro Atlántico de Arte Moderno (CAAM) hasta el 28 de marzo, según informó la Institución en un comunicado.",
+        "lemmatized_text": "el auditorio de casa_áfrica acoger mañana [M:??/??/??:??.??:??] el presentación oficial de el publicación en_torno_a el exposición museo_de_arte_contemporáneo_africano y más que se poder visitar en el centro_atlántico_de_arte_moderno caam hasta el [??:28/3/??:??.??:??] según informar el institución en uno comunicado",
+        "lemmatized_text_reduced": "auditorio casa_áfrica acoger presentación oficial publicación exposición museo_de_arte_contemporáneo_africano poder visitar centro_atlántico_de_arte_moderno caam informar institución comunicado",
+        "persons": [],
+        "locations": [
+            "Casa_África"
+        ],
+        "organizations": [
+            "Centro_Atlántico_de_Arte_Moderno",
+            "CAAM",
+            "Institución"
+        ],
+        "others": [
+            "Museo_de_Arte_Contemporáneo_Africano"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[??:28/3/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La presentación comenzará a las 20.00 horas y participarán Bianca Visser, crítica de arte y comisaria de la muestra; Federico Castro, consejero Delegado del CAAM, y Ricardo Martínez, director general de Casa África. De esta manera, la monografía surge como fruto de la colaboración entre el CAAM, el Museo Los Pabellones de Almere y la Kunsthalle Fridericianum, instituciones que han mostrado en sus salas el museo nómada de Meschac Gaba. La publicación, escrita en tres idiomas —español, inglés y alemán— recoge un texto introductorio de cada centro productor junto con los de los críticos Simon Njiami y Marco Scotini. Además de su biografía, bibliografía y el listado de obras mostradas en la exposición, el libro incluye una selección de los trabajos del artista realizados entre 1990 y 2009. Por su parte, la exposición 'Museo de Arte Contemporáneo Africano y más' permite contemplar en un mismo sitio ese museo sin sede fija y nómada que Gaba ideó en 1997, con 12 salas representadas en un boceto inicial, y que año a año ha ido construyendo a través de exposiciones por todo el mundo en museos, instituciones y muestras de renombre. La última aportación a ese museo, llamada Espacio Humanista, fue presentada durante la Documenta de Kassel en 2002.",
+        "lemmatized_text": "el presentación comenzar a el TM_h:20 y participar bianca_visser crítica de arte y comisaria de el muestra federico_castro consejero delegado_del_caam y ricardo_martínez director general de casa_áfrica de este manera el monografía surgir como fruto de el colaboración entre el caam el museo_los_pabellones_de_almere y el kunsthalle_fridericianum institución que haber mostrar en su sala el museo nómada de meschac_gaba el publicación escribir en 3 idioma español inglés y alemán recoger uno texto introductorio de cada centro productor junto_con el de el crítico simon_njiami y marco_scotini además_de su biografía bibliografía y el listado de obra mostrar en el exposición el libro incluir uno selección de el trabajo de el artista realizar entre 1990 y 2009 por su parte el exposición museo_de_arte_contemporáneo_africano y más permitir contemplar en uno mismo sitio ese museo sin sede fijo y nómada que gaba idear en 1997 con 12 sala representar en uno boceto inicial y que año a año haber ir construir a_través_de exposición por todo el mundo en museo institución y muestra de renombre el último aportación a ese museo llamar espacio_humanista ser presentar durante el documenta_de_kassel en 2002",
+        "lemmatized_text_reduced": "presentación comenzar participar bianca_visser crítica arte comisaria muestra federico_castro consejero delegado_del_caam ricardo_martínez director general casa_áfrica manera monografía surgir fruto colaboración caam museo_los_pabellones_de_almere kunsthalle_fridericianum institución haber mostrar sala museo nómada meschac_gaba publicación escribir idioma español inglés alemán recoger texto introductorio centro productor crítico simon_njiami marco_scotini biografía bibliografía listado obra mostrar exposición libro incluir selección trabajo artista realizar parte exposición museo_de_arte_contemporáneo_africano permitir contemplar mismo sitio museo sede fijo nómada gaba idear sala representar boceto inicial año año haber ir construir exposición mundo museo institución muestra renombre último aportación museo llamar espacio_humanista ser presentar documenta_de_kassel",
+        "persons": [
+            "Bianca_Visser",
+            "Federico_Castro",
+            "Delegado_del_CAAM",
+            "Ricardo_Martínez",
+            "Meschac_Gaba",
+            "Simon_Njiami",
+            "Marco_Scotini",
+            "Espacio_Humanista"
+        ],
+        "locations": [
+            "Casa_África"
+        ],
+        "organizations": [
+            "CAAM",
+            "Museo_Los_Pabellones_de_Almere",
+            "Kunsthalle_Fridericianum",
+            "Gaba",
+            "Documenta_de_Kassel"
+        ],
+        "others": [
+            "Museo_de_Arte_Contemporáneo_Africano"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:20",
+            "3",
+            "1990",
+            "2009",
+            "1997",
+            "12",
+            "2002"
+        ]
+    }
+}

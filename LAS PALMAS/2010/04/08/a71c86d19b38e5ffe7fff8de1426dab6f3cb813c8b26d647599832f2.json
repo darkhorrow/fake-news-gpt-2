@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/671509/0/",
+    "title": {
+        "raw_text": "Se incendia un garaje en una casa en Las Palmas de Gran Canaria sin causar afectados",
+        "lemmatized_text": "se incendiar uno garaje en uno casa en las_palmas_de_gran_canaria sin causar afectado",
+        "lemmatized_text_reduced": "incendiar garaje casa las_palmas_de_gran_canaria causar afectado",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 informó hoy a Europa Press del incendio registrado en el garaje de una vivienda en la calle José y María en el barrio de Tamaraceite, en Las Palmas de Gran Canaria. No obstante, el fuego no causó afectados.",
+        "lemmatized_text": "el centro_coordinador_de_emergencias y seguridad cecoes 112 informar hoy a europa_press de el incendio registrar en el garaje de uno vivienda en el calle josé y maría en el barrio de tamaraceite en las_palmas_de_gran_canaria no_obstante el fuego no causar afectar",
+        "lemmatized_text_reduced": "centro_coordinador_de_emergencias seguridad cecoes informar europa_press incendio registrar garaje vivienda calle josé maría barrio tamaraceite las_palmas_de_gran_canaria fuego causar afectar",
+        "persons": [
+            "José"
+        ],
+        "locations": [
+            "María",
+            "Tamaraceite",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Europa_Press"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron sobre las 07.30 horas, cuando una llamada alertó al Cecoes de las llamas en el citado domicilio, por lo que el 112 activó de inmediato el dispositivo de emergencias necesario. Así, en dicho suceso intervinieron bomberos de la capital a fin de extinguir el fuego, así como se desplazó personal del Servicio de Urgencias Canario (SUC), pero no fue necesaria su intervención. En dicha actuación participó la Policía Local, que colaboró con los recursos de emergencias, así como el Cuerpo Nacional de Policía, que se encargó de instruir las correspondientes diligencias. Arden rastrojos en los corralillos Por otro lado, durante la noche, a las 23.10 horas, se produjo un incendio de rastrojos en el caserío de Los Corralillos en la localidad de Agüimes (Gran Canaria), informaron a Europa Press fuentes del Cecoes. Las llamas fueron extinguidas por efectivos del Consorcio de Emergencias de Gran Canaria. Asimismo, hasta el lugar se desplazó personal del SUC, aunque no se registraron afectados. En este suceso participaron Policía Local, Protección Civil y Guardia Civil, que instruyeron las diligencias oportunas.",
+        "lemmatized_text": "el hecho ocurrir sobre el TM_h:7.3 cuando uno llamada alertar a el cecoes de el llama en el citar domicilio por el que el 112 activar de inmediato el dispositivo de emergencia necesario así en decir suceso intervenir bombero de el capital a_fin_de extinguir el fuego así_como se desplazar personal de el servicio_de_urgencias_canario suc pero no ser necesario su intervención en decir actuación participar el policía_local que colaborar con el recurso de emergencia así_como el cuerpo_nacional_de_policía que se encargar de instruir el correspondiente diligencia arder rastrojo en el corral por_otro_lado durante el noche a el TM_h:23.1 se producir uno incendio de rastrojo en el caserío de los_corralillos en el localidad de agüimes gran_canaria informar a europa_press fuente de el cecoes el llama ser extinguir por efectivo de el consorcio_de_emergencias_de_gran_canaria asimismo hasta el lugar se desplazar personal de el suc aunque no se registrar afectar en este suceso participar policía_local protección_civil y guardia_civil que instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes llama citar domicilio activar inmediato dispositivo emergencia necesario decir suceso intervenir bombero capital extinguir fuego desplazar personal servicio_de_urgencias_canario suc ser necesario intervención decir actuación participar policía_local colaborar recurso emergencia cuerpo_nacional_de_policía encargar instruir correspondiente diligencia arder rastrojo corral por_otro_lado noche producir incendio rastrojo caserío los_corralillos localidad agüimes gran_canaria informar europa_press fuente cecoes llama ser extinguir efectivo consorcio_de_emergencias_de_gran_canaria lugar desplazar personal suc registrar afectar suceso participar policía_local protección_civil guardia_civil instruir diligencia oportuno",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Por_otro_lado",
+            "Los_Corralillos",
+            "Agüimes",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía",
+            "Cecoes",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "SUC",
+            "Policía_Local",
+            "Protección_Civil",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.3",
+            "112",
+            "TM_h:23.1"
+        ]
+    }
+}

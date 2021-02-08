@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594722/0/",
+    "title": {
+        "raw_text": "Detenido un empresario por tráfico de drogas en Las Palmas de Gran Canaria en la operación 'Anastasia'",
+        "lemmatized_text": "detener uno empresario por tráfico de droga en las_palmas_de_gran_canaria en el operación anastasia",
+        "lemmatized_text_reduced": "detener empresario tráfico droga las_palmas_de_gran_canaria operación anastasia",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Anastasia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha detenido a un empresario, identificado como F.J.R.A, de 47 años de edad y vecino de Las Palmas de Gran Canaria, como presunto autor de un delito de tráfico de drogas en el marco de la operación 'Anastasia'.",
+        "lemmatized_text": "el guardia_civil haber detener a uno empresario identificar como f.j.r._a de 47 año de edad y vecino de las_palmas_de_gran_canaria como presunto autor de uno delito de tráfico de droga en el marco de el operación anastasia",
+        "lemmatized_text_reduced": "guardia_civil haber detener empresario identificar f.j.r._a año edad vecino las_palmas_de_gran_canaria presunto autor delito tráfico droga marco operación anastasia",
+        "persons": [
+            "F.J.R._A"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Anastasia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "47"
+        ]
+    },
+    "body": {
+        "raw_text": "Bajo el amparo del Juzgado de Instrucción número Cinco de Las Palmas de Gran Canaria, la Guardia Civil de la Comandancia de Las Palmas procedió a la desarticulación de un punto de almacenamiento y distribución de cocaína, según informó hoy la Benemérita en un comunicado. Ante las investigaciones y pesquisas relacionadas con un presunto delito contra la salud pública, los agentes detectaron que el empresario realizaba su actividad delictiva bajo la cobertura empresarial que desarrollaba. Sustancia oculta entre catálogos En el momento en el que el autor de los hechos se disponía a transportar varias dosis de la citada sustancia preparadas para su distribución, oculta entre catálogos de los productos que representaba, procedieron a su detención. El resultado fue el hallazgo e incautación en el domicilio fiscal de la empresa, situado en el extrarradio de la capital grancanaria, de 50 gramos de cocaína de gran pureza, utensilios varios para el corte y elaboración de las dosis, una cantidad similar de hachís, 41.290 euros en efectivo y una motocicleta de cilindrada media, fruto de la actividad ilícita. Diligencias, detenido y objetos intervenidos han sido puestos a disposición judicial de los Juzgados de Instrucción de Las Palmas.",
+        "lemmatized_text": "bajo el amparo de el juzgado_de_instrucción número 5 de las_palmas_de_gran_canaria el guardia_civil_de_la_comandancia_de_las_palmas proceder a el desarticulación de uno punto de almacenamiento y distribución de cocaína según informar hoy el benemérita en uno comunicado ante el investigación y pesquisa relacionar con uno presunto delito contra el salud público el agente detectar que el empresario realizar su actividad delictivo bajo el cobertura empresarial que desarrollar sustancia oculto entre catálogo en el momento en el que el autor de el hecho se disponer a transportar varios dosis de el citar sustancia preparar para su distribución ocultar entre catálogo de el producto que representar proceder a su detención el resultado ser el hallazgo y incautación en el domicilio fiscal de el empresa situar en el extrarradio de el capital grancanaria de WG_g:50 de cocaína de gran pureza utensilio varios para el corte y elaboración de el dosis uno cantidad similar de hachís $_ECU:41.29 en efectivo y uno motocicleta de cilindrada medio fruto de el actividad ilícito diligencia detener y objeto intervenir haber ser poner a disposición judicial de el juzgados_de_instrucción_de_las_palmas",
+        "lemmatized_text_reduced": "amparo juzgado_de_instrucción número las_palmas_de_gran_canaria guardia_civil_de_la_comandancia_de_las_palmas proceder desarticulación punto almacenamiento distribución cocaína informar benemérita comunicado investigación pesquisa relacionar presunto delito salud público agente detectar empresario realizar actividad delictivo cobertura empresarial desarrollar sustancia oculto catálogo en momento autor hecho disponer transportar dosis citar sustancia preparar distribución ocultar catálogo producto representar proceder detención resultado ser hallazgo incautación domicilio fiscal empresa situar extrarradio capital grancanaria cocaína gran pureza utensilio corte elaboración dosis cantidad similar hachís efectivo motocicleta cilindrada medio fruto actividad ilícito diligencia detener objeto intervenir haber ser poner disposición judicial juzgados_de_instrucción_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Juzgado_de_Instrucción",
+            "Guardia_Civil_de_la_Comandancia_de_Las_Palmas",
+            "Benemérita",
+            "Juzgados_de_Instrucción_de_Las_Palmas"
+        ],
+        "others": [
+            "En"
+        ],
+        "dates": [],
+        "numbers": [
+            "5",
+            "WG_g:50",
+            "$_ECU:41.29"
+        ]
+    }
+}

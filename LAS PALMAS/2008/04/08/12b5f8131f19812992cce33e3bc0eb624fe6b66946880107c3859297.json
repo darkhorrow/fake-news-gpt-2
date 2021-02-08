@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/367223/0/atropellado/herido/tirajana/",
+    "title": {
+        "raw_text": "Un joven es herido en un atropello en la localidad de Santa Lucía de Tirajana",
+        "lemmatized_text": "uno joven ser herir en uno atropello en el localidad de santa_lucía_de_tirajana",
+        "lemmatized_text_reduced": "joven ser herir atropello localidad santa_lucía_de_tirajana",
+        "persons": [],
+        "locations": [
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ocurrió en el cruce de Sardinas. Sufrió un traumatismo craneal. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "ocurrir en el cruce de sardinas sufrir uno traumatismo craneal consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ocurrir cruce sardinas sufrir traumatismo craneal consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Sardinas"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un joven, de 25 años de edad, resultó herido grav e en un atropello que sufrió en el cruce de Sardinas , dentro del término municipal grancanario de Santa Lucía de Tirajana, según informaron fuentes del 112. El varón ha sufrido, fruto del atropello de un vehículo, un traumatismo craneal de carácter menos grave y tras ser atendido por los servicios de emergencias, fue trasladado al centro de salud de la localidad grancanaria de Vecindario. El 112 recibió una llamada a las 8.15 horas de esta mañana y se activaron los dispositivos de emergencia , trasladando hasta el lugar de los hechos a una ambulancia de soporte básico y otra hospitalizada donde atendieron al herido para, posteriormente, llevarlo al citado centro de salud. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno joven de 25 año de edad resultar herir grav y en uno atropello que sufrir en el cruce de sardinas dentro de el término municipal grancanario de santa_lucía_de_tirajana según informar fuente de el 112 el varón haber sufrir fruto de el atropello de uno vehículo uno traumatismo craneal de carácter menos grave y tras ser atender por el servicio de emergencia ser trasladar a el centro de salud de el localidad grancanaria de vecindario el 112 recibir uno llamada a el TM_h:8.15 de este mañana y se activar el dispositivo de emergencia trasladar hasta el lugar de el hecho a uno ambulancia de soporte básico y otro hospitalizar donde atender a el herir para posteriormente llevar lo a el citar centro de salud consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "joven año edad resultar herir grav atropello sufrir cruce sardinas término municipal grancanario santa_lucía_de_tirajana informar fuente varón haber sufrir fruto atropello vehículo traumatismo craneal carácter grave ser atender servicio emergencia ser trasladar centro salud localidad grancanaria vecindario recibir llamada mañana activar dispositivo emergencia trasladar lugar hecho ambulancia soporte básico hospitalizar atender herir posteriormente llevar citar centro salud consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Sardinas",
+            "Vecindario"
+        ],
+        "organizations": [
+            "Santa_Lucía_de_Tirajana",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25",
+            "112",
+            "112",
+            "TM_h:8.15"
+        ]
+    }
+}

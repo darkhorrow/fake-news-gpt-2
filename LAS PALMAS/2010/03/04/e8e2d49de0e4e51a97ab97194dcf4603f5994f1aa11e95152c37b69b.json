@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/643185/0/",
+    "title": {
+        "raw_text": "Un motorista resulta herido grave en un accidente de tráfico en Yaiza (Lanzarote)",
+        "lemmatized_text": "uno motorista resultar herir grave en uno accidente de tráfico en yaiza lanzarote",
+        "lemmatized_text_reduced": "motorista resultar herir grave accidente tráfico yaiza lanzarote",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un motorista de 31 años de edad ha resultado herido con traumatismo en tórax y traumatismo en miembro superior de carácter grave en un accidente de tráfico en la Calle Palmeras, zona de Las Coloradas, en el municipio lanzaroteño de Yaiza, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno motorista de 31 año de edad haber resultar herir con traumatismo en tórax y traumatismo en miembro superior de carácter grave en uno accidente de tráfico en el calle_palmeras zona de las_coloradas en el municipio lanzaroteño de yaiza según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "motorista año edad haber resultar herir traumatismo tórax traumatismo miembro superior carácter grave accidente tráfico calle_palmeras zona las_coloradas municipio lanzaroteño yaiza informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Calle_Palmeras",
+            "Las_Coloradas",
+            "Yaiza"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "31",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 18.33 horas, cuando una llamada alertó al Cecoes de que una moto y un coche habían colisionado en la dirección mencionada y, que tras el accidente, el motorista precisaba atención sanitaria. Así pues, el 112 activó de inmediato los servicios de emergencias correspondientes. Una vez en el lugar el personal sanitario del Servicio de Urgencias Canario (SUC) atendió y estabilizó al varón afectado cuyas heridas hacían recomendable su traslado en una ambulancia de soporte vital básico que hizo transferencia en ruta a una ambulancia de soporte vital avanzado hasta el Hospital Doctor José Molina Orosa. En dicha actuación también intervino la Policía Local, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el incidente se producir a el TM_h:18.33 cuando uno llamada alertar a el cecoes de que uno moto y uno coche haber colisionar en el dirección mencionar y que tras el accidente el motorista precisar atención sanitario así_pues el 112 activar de inmediato el servicio de emergencia correspondiente uno vez en el lugar el personal sanitario de el servicio_de_urgencias_canario suc atender y estabilizar a el varón afectar cuyo herida hacer recomendable su traslado en uno ambulancia de soporte vital básico que hacer transferencia en ruta a uno ambulancia de soporte vital avanzar hasta el hospital_doctor_josé_molina_orosa en decir actuación también intervenir el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "incidente producir llamada alertar cecoes moto coche haber colisionar dirección mencionar accidente motorista precisar atención sanitario activar inmediato servicio emergencia correspondiente vez lugar personal sanitario servicio_de_urgencias_canario suc atender estabilizar varón afectar herida hacer recomendable traslado ambulancia soporte vital básico hacer transferencia ruta ambulancia soporte vital avanzar hospital_doctor_josé_molina_orosa decir actuación intervenir policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Doctor_José_Molina_Orosa",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:18.33",
+            "112"
+        ]
+    }
+}

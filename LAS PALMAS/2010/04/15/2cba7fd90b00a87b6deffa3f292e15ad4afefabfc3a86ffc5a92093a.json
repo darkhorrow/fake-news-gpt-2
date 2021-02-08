@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678974/0/",
+    "title": {
+        "raw_text": "El Gobierno canario destina 991.367 euros para rehabilitar infraestructuras de Mogán (Gran Canaria)",
+        "lemmatized_text": "el gobierno canario destinar $_ECU:991.367 para rehabilitar infraestructura de mogán gran_canaria",
+        "lemmatized_text_reduced": "gobierno canario destinar rehabilitar infraestructura mogán gran_canaria",
+        "persons": [],
+        "locations": [
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:991.367"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Consejería de Turismo del Gobierno de Canarias ha destinado 991.367 euros para la obras de rehabilitación de infraestructura urbana y alumbrado público en calles de la Urbanización Puerto Rico (Avenida de Mogán y Avenida Doreste y Molina) de Mogán (Gran Canaria).",
+        "lemmatized_text": "el consejería_de_turismo_del_gobierno_de_canarias haber destinar $_ECU:991.367 para el obra de rehabilitación de infraestructura urbano y alumbrar público en calle de el urbanización_puerto_rico avenida_de_mogán y avenida_doreste y molina de mogán gran_canaria",
+        "lemmatized_text_reduced": "consejería_de_turismo_del_gobierno_de_canarias haber destinar obra rehabilitación infraestructura urbano alumbrar público calle urbanización_puerto_rico avenida_de_mogán avenida_doreste molina mogán gran_canaria",
+        "persons": [
+            "Molina"
+        ],
+        "locations": [
+            "Urbanización_Puerto_Rico",
+            "Avenida_de_Mogán",
+            "Avenida_Doreste",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:991.367"
+        ]
+    },
+    "body": {
+        "raw_text": "Este compromiso ha quedado suscrito hoy, tras la firma del director general de Infraestructuras Turísticas del Gobierno de Canarias, Sebastián Ledesma, del acta de replanteo para el inicio de las obras de rehabilitación de infraestructura urbana y alumbrado público en calles de Puerto Rico, según informó el Ejecutivo regional en nota de prensa. En cuanto al objetivo del proyecto, se centra en rehabilitar una de las avenidas en la citada Urbanización con asfaltado del vial, pavimentación de las aceras, estado de los bordillos, red de abastecimiento, red de telefonía y red de alumbrado público en las calles Avenida de Mogán y Avenida Doreste y Molina. Ledesma insistió en la \"necesidad de mejorar\" los espacios turísticos y rehabilitar las zonas deterioradas para ofrecer una imagen \"renovada y moderna\" a las personas que visitan la isla, así como para que los ciudadanos del municipio disfruten de sus infraestructuras. Asimismo, indicó que estas obras de rehabilitación tendrán un plazo de ejecución de 12 meses a partir del inicio de las mismas. Las obras se enmarcan en el Plan de Choque de la Consejería de Turismo del Gobierno de Canarias en zonas turísticas de la isla de Gran Canaria.",
+        "lemmatized_text": "este compromiso haber quedar suscribir hoy tras el firma de el director general de infraestructuras_turísticas_del_gobierno_de_canarias sebastián_ledesma de el acta de replanteo para el inicio de el obra de rehabilitación de infraestructura urbano y alumbrar público en calle de puerto_rico según informar el ejecutivo regional en nota de prensa en cuanto a el objetivo de el proyecto se centrar en rehabilitar uno de el avenida en el citar urbanización con asfaltado de el vial pavimentación de el acera estar de el bordillo red de abastecimiento red de telefonía y red de alumbrado público en el calle avenida_de_mogán y avenida_doreste y molina ledesma insistir en el necesidad de mejorar el espacio turístico y rehabilitar el zona deteriorar para ofrecer uno imagen renovar y moderno a el persona que visitar el isla así_como para que el ciudadano de el municipio disfrutar de su infraestructura asimismo indicar que este obra de rehabilitación tener uno plazo de ejecución de 12 mes a partir de el inicio de el mismo el obra se enmarcar en el plan_de_choque_de_la_consejería_de_turismo_del_gobierno_de_canarias en zona turístico de el isla de gran_canaria",
+        "lemmatized_text_reduced": "compromiso haber quedar suscribir firma director general infraestructuras_turísticas_del_gobierno_de_canarias sebastián_ledesma acta replanteo inicio obra rehabilitación infraestructura urbano alumbrar público calle puerto_rico informar ejecutivo regional nota prensa objetivo proyecto centrar rehabilitar avenida citar urbanización asfaltado vial pavimentación acera estar bordillo red abastecimiento red telefonía red alumbrado público calle avenida_de_mogán avenida_doreste molina ledesma insistir necesidad mejorar espacio turístico rehabilitar zona deteriorar ofrecer imagen renovar moderno persona visitar isla ciudadano municipio disfrutar infraestructura indicar obra rehabilitación tener plazo ejecución mes partir inicio mismo obra enmarcar plan_de_choque_de_la_consejería_de_turismo_del_gobierno_de_canarias zona turístico isla gran_canaria",
+        "persons": [
+            "Sebastián_Ledesma",
+            "Molina",
+            "Ledesma"
+        ],
+        "locations": [
+            "Puerto_Rico",
+            "Avenida_de_Mogán",
+            "Avenida_Doreste",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Infraestructuras_Turísticas_del_Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Urbanización",
+            "Plan_de_Choque_de_la_Consejería_de_Turismo_del_Gobierno_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "12"
+        ]
+    }
+}

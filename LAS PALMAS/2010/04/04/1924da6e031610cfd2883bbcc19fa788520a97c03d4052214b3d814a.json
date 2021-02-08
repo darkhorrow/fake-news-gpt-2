@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/668162/0/",
+    "title": {
+        "raw_text": "Canarias en alerta amarilla por vientos que podrían alcanzar los 75 kilómetros hora y por fenómenos costeros",
+        "lemmatized_text": "canario en alerta amarillo por viento que poder alcanzar el LN_km:75 hora y por fenómeno costero",
+        "lemmatized_text_reduced": "canario alerta amarillo viento poder alcanzar hora fenómeno costero",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:75"
+        ]
+    },
+    "lead": {
+        "raw_text": "El archipiélago canario se encuentra en alerta amarilla (riesgo) desde la pasada medianoche por vientos que podrían alcanzar los 75 kilómetros por hora en la mayoría de las siete islas, así como por fenómenos costeros.",
+        "lemmatized_text": "el archipiélago canario se encontrar en alerta amarillo riesgo desde el pasar [??:??/??/??:00.00:am] por viento que poder alcanzar el SP_km/h:75 en el mayoría de el 7 isla así_como por fenómeno costero",
+        "lemmatized_text_reduced": "archipiélago canario encontrar alerta amarillo riesgo pasar viento poder alcanzar mayoría isla fenómeno costero",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "SP_km/h:75",
+            "7"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, en la isla de La Palma estarán en riesgo zonas de las cumbres, Este y Norte donde los vientos podrían llegar a soplar hasta 75 kilómetros por hora, según la Agencia Estatal de Meteorología. Respecto a las islas de El Hierro y La Gomera, en ambas el viento podría alcanzar los 75 kilómetros por hora. En cuanto a La Gomera los fuertes vientos afectarán principalmente al Norte del territorio. En cuanto a la isla de Tenerife, las rachas de vientos también podrán llegar a 75 kilómetros por hora, principalmente, en la costa Norte, Este, Sur y Oeste, zonas que también estarán en alerta amarilla por fenómenos costeros. Por otro lado, en lo que se refiere a la provincia de Las Palmas, la alerta en las tres islas también es amarilla por vientos que podrían alcanzar los 75 kilómetros por hora aunque en Fuerteventura no se espera que las rachas superen los 70 kilómetros horas. Asimismo, el riesgo por fenómenos costeros es las siete islas del archipiélago y la alerta amarilla se prevé que finalice en Canarias en su conjunto a las 00.00 horas de mañana lunes, 5 de abril.",
+        "lemmatized_text": "en concreto en el isla de la_palma estar en riesgo zona de el cumbre este y norte donde el viento poder llegar a soplar hasta SP_km/h:75 según el agencia_estatal_de_meteorología respecto_a el isla de el_hierro y la_gomera en ambos el viento poder alcanzar el SP_km/h:75 en_cuanto_a la_gomera el fuerte viento afectar principalmente a el norte de el territorio en_cuanto_a el isla de tenerife el racha de viento también poder llegar a SP_km/h:75 principalmente en el costa norte este sur y oeste zona que también estar en alerta amarillo por fenómeno costero por_otro_lado en el que se referir a el provincia de las_palmas el alerta en el 3 isla también ser amarillo por viento que poder alcanzar el SP_km/h:75 aunque en fuerteventura no se esperar que el racha superar el LN_km:70 hora asimismo el riesgo por fenómeno costero ser el 7 isla de el archipiélago y el alerta amarillo se prever que finalizar en canarias en su conjunto a el TM_h:0 de mañana [L:5/4/??:??.??:??]",
+        "lemmatized_text_reduced": "concreto isla la_palma estar riesgo zona cumbre este norte viento poder llegar soplar agencia_estatal_de_meteorología isla el_hierro la_gomera viento poder alcanzar la_gomera fuerte viento afectar principalmente norte territorio isla tenerife racha viento poder llegar principalmente costa norte este sur oeste zona estar alerta amarillo fenómeno costero referir provincia las_palmas alerta isla ser amarillo viento poder alcanzar fuerteventura esperar racha superar hora riesgo fenómeno costero ser isla archipiélago alerta amarillo prever finalizar canarias conjunto",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Este",
+            "Norte",
+            "El_Hierro",
+            "La_Gomera",
+            "La_Gomera",
+            "Tenerife",
+            "Norte",
+            "Este",
+            "Sur",
+            "Oeste",
+            "Las_Palmas",
+            "Fuerteventura",
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Norte"
+        ],
+        "others": [],
+        "dates": [
+            "[L:5/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:75",
+            "SP_km/h:75",
+            "SP_km/h:75",
+            "3",
+            "SP_km/h:75",
+            "LN_km:70",
+            "7",
+            "TM_h:0"
+        ]
+    }
+}

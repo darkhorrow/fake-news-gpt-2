@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620688/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias reanudará mañana las clases en todas las islas excepto en algunos centros de Tenerife",
+        "lemmatized_text": "el gobierno_de_canarias reanudar mañana el clase en todo el isla excepto en alguno centro de tenerife",
+        "lemmatized_text_reduced": "gobierno_de_canarias reanudar clase isla centro tenerife",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias reanudará mañana las clases en todas las islas excepto en algunos centros educativos de la isla de Tenerife por presentar problemas \"puntuales\" en sus infraestructuras a consecuencia del temporal que aún está azotando al archipiélago.",
+        "lemmatized_text": "el gobierno_de_canarias reanudar mañana el clase en todo el isla excepto en alguno centro educativo de el isla de tenerife por presentar problema puntual en su infraestructura a consecuencia de el temporal que aun estar azotar a el archipiélago",
+        "lemmatized_text_reduced": "gobierno_de_canarias reanudar clase isla centro educativo isla tenerife presentar problema puntual infraestructura consecuencia temporal estar azotar archipiélago",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, lo ha decidido la Consejería de Educación del Gobierno de Canarias, después de que a las 18.15 horas se haya dado por finalizada la situación de emergencia nivel II en la comunidad autónoma por Fenómeno Meteorológico Adverso (FMA), según informó el Ejecutivo regional en un comunicado. En cuanto a los centros donde no se reanudarán las clases mañana serán el Centro de Infantil y Primaria (CEIP) Ofra-Chimisay; el CEIP Los Menceyes (Añaza) y las tres escuelas unitarias de Anaga, situadas en Taganana, Almáciga y Roque Negro, todos ellos en Santa Cruz de Tenerife. Además, el CEIP Clorinda Salazar, en La Laguna (Tenerife) tampoco podrá reanudar las clases, al igual que el CEIP Froilán Hernández y el CEIP Granadilla de Abona, ambos en Granadilla de Abona. Respecto a los centros educativos ubicados en el resto de las islas \"estarán operativos\" aunque Educación ha recomendado precaución ante posibles problemas en la red viaria en el acceso a los mismos.",
+        "lemmatized_text": "así lo haber decidir el consejería_de_educación_del_gobierno_de_canarias después_de que a el TM_h:18.15 se haber dar por finalizar el situación de emergencia nivel ii en el comunidad autónomo por fenómeno_meteorológico_adverso fma según informar el ejecutivo regional en uno comunicado en_cuanto_a el centro donde no se reanudar el clase mañana ser el centro_de_infantil y primaria ceip ofra-chimisay el ceip_los_menceyes añaza y el 3 escuela unitario de anaga situar en taganana almáciga y roque_negro todo ellos en santa_cruz_de_tenerife además el ceip_clorinda_salazar en la_laguna tenerife tampoco poder reanudar el clase al_igual_que el ceip_froilán_hernández y el ceip_granadilla_de_abona ambos en granadilla_de_abona respecto_a el centro educativo ubicar en el resto de el isla estar operativo aunque educación haber recomendar precaución ante posible problema en el red viario en el acceso a el mismo",
+        "lemmatized_text_reduced": "haber decidir consejería_de_educación_del_gobierno_de_canarias haber dar finalizar situación emergencia nivel ii comunidad autónomo fenómeno_meteorológico_adverso fma informar ejecutivo regional comunicado centro reanudar clase ser centro_de_infantil primaria ceip ofra-chimisay ceip_los_menceyes añaza escuela unitario anaga situar taganana almáciga roque_negro santa_cruz_de_tenerife ceip_clorinda_salazar la_laguna tenerife poder reanudar clase ceip_froilán_hernández ceip_granadilla_de_abona granadilla_de_abona centro educativo ubicar resto isla estar operativo educación haber recomendar precaución posible problema red viario acceso",
+        "persons": [
+            "Fenómeno_Meteorológico_Adverso",
+            "Roque_Negro",
+            "CEIP_Froilán_Hernández"
+        ],
+        "locations": [
+            "Anaga",
+            "Taganana",
+            "Almáciga",
+            "Santa_Cruz_de_Tenerife",
+            "La_Laguna",
+            "Tenerife",
+            "Granadilla_de_Abona"
+        ],
+        "organizations": [
+            "Consejería_de_Educación_del_Gobierno_de_Canarias",
+            "FMA",
+            "Ejecutivo",
+            "Centro_de_Infantil",
+            "CEIP",
+            "Ofra-Chimisay",
+            "CEIP_Los_Menceyes",
+            "Añaza",
+            "CEIP_Granadilla_de_Abona"
+        ],
+        "others": [
+            "II",
+            "Primaria",
+            "CEIP_Clorinda_Salazar",
+            "Educación"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:18.15",
+            "3"
+        ]
+    }
+}

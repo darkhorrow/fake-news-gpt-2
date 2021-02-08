@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/681286/0/",
+    "title": {
+        "raw_text": "El helicóptero del GES rescata a una persona herida en la playa de Güi-Güi (Gran Canaria)",
+        "lemmatized_text": "el helicóptero de el ges rescatar a uno persona herir en el playa de güi-güi gran_canaria",
+        "lemmatized_text_reduced": "helicóptero ges rescatar persona herir playa güi-güi gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "GES",
+            "Güi-Güi"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El helicóptero del Grupo de Emergencias y Salvamento (GES) ha procedido en la mañana de hoy al rescate de un varón de 52 años que había sufrido un traumatismo de carácter menos grave en la pierna tras ser golpeado por una embarcación mientras se bañaba en la playa de Güi-Güi, zona de difícil acceso dentro del término municipal de La Aldea, en Gran Canaria.",
+        "lemmatized_text": "el helicóptero de el grupo_de_emergencias y salvamento ges haber proceder en el mañana de hoy a el rescate de uno varón de 52 año que haber sufrir uno traumatismo de carácter menos grave en el pierna tras ser golpear por uno embarcación mientras se bañar en el playa de güi-güi zona de difícil acceso dentro de el término municipal de la_aldea en gran_canaria",
+        "lemmatized_text_reduced": "helicóptero grupo_de_emergencias salvamento ges haber proceder mañana rescate varón año haber sufrir traumatismo carácter grave pierna ser golpear embarcación bañar playa güi-güi zona difícil acceso término municipal la_aldea gran_canaria",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Güi-Güi",
+            "La_Aldea",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Grupo_de_Emergencias",
+            "GES"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "52"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112, a Europa Press, se recibió una llamada poco antes de las 10.00 horas indicando que una persona estaba herida en Güi-Güi. En ese momento, se activó el dispositivo de urgencias, por lo que debido a la dificultad para acceder al lugar de las ambulancias, se activó el helicóptero del GES. El aparato localizó al herido y lo izó hasta el interior del mismo para su posterior traslado a la helisuperficie del Hospital Universitario de Gran Canaria Doctor Negrín. Allí lo esperaba una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC), que lo llevó al interior de las instalaciones. De esta manera, el herido es un varón de 52 años que sufre un traumatismo en miembro inferior de carácter menos grave. Al parecer, el suceso se produjo cuando el hombre, que se encontraba en bañándose en el agua, fue golpeado por una embarcación de recreo.",
+        "lemmatized_text": "según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 a europa_press se recibir uno llamada poco antes_de el TM_h:10 indicar que uno persona estar herir en güi-güi en ese momento se activar el dispositivo de urgencia por el que debido_a el dificultad para acceder a el lugar de el ambulancia se activar el helicóptero de el ges el aparato localizar a el herir y lo izar hasta el interior de el mismo para su posterior traslado a el helisuperficie de el hospital_universitario_de_gran_canaria_doctor_negrín allí lo esperar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc que lo llevar al_interior_de el instalación de este manera el herir ser uno varón de 52 año que sufrir uno traumatismo en miembro inferior de carácter menos grave a el parecer el suceso se producir cuando el hombre que se encontrar en bañar se en el agua ser golpear por uno embarcación de recreo",
+        "lemmatized_text_reduced": "informar centro_coordinador_de_emergencias seguridad cecoes europa_press recibir llamada indicar persona estar herir güi-güi momento activar dispositivo urgencia dificultad acceder lugar ambulancia activar helicóptero ges aparato localizar herir izar interior posterior traslado helisuperficie hospital_universitario_de_gran_canaria_doctor_negrín esperar ambulancia soporte vital básico servicio_de_urgencias_canario suc llevar instalación manera herir ser varón año sufrir traumatismo miembro inferior carácter grave parecer suceso producir hombre encontrar bañar agua ser golpear embarcación recreo",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Güi-Güi"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "GES",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "TM_h:10",
+            "52"
+        ]
+    }
+}

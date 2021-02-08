@@ -1,0 +1,97 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/669060/0/",
+    "title": {
+        "raw_text": "El '59 Segundos' canario analiza una semana marcada por el 'caso Gürtel' y entrevista al alcalde de Telde",
+        "lemmatized_text": "el 59 segundos canario analizar uno semana marcar por el caso gürtel y entrevista a el alcalde de telde",
+        "lemmatized_text_reduced": "segundos canario analizar semana marcar caso gürtel entrevista alcalde telde",
+        "persons": [
+            "Gürtel"
+        ],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [],
+        "others": [
+            "Segundos"
+        ],
+        "dates": [],
+        "numbers": [
+            "59"
+        ]
+    },
+    "lead": {
+        "raw_text": "La edición canaria de '59 Segundos', que se emitirá mañana, a las 23.30 horas, en la 1 de TVE, analizará una semana política marcada por el 'caso Gürtel' y entrevistará al alcalde de Telde (Gran Canaria), Francisco Santiago.",
+        "lemmatized_text": "el edición canario de 59 segundos que se emitir mañana a el TM_h:23.3 en el 1 de tve analizar uno semana político marcar por el caso gürtel y entrevistar a el alcalde de telde gran_canaria francisco_santiago",
+        "lemmatized_text_reduced": "edición canario segundos emitir tve analizar semana político marcar caso gürtel entrevistar alcalde telde gran_canaria francisco_santiago",
+        "persons": [
+            "Gürtel",
+            "Francisco_Santiago"
+        ],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [
+            "TVE",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Segundos"
+        ],
+        "dates": [],
+        "numbers": [
+            "59",
+            "TM_h:23.3",
+            "1"
+        ]
+    },
+    "body": {
+        "raw_text": "Así pues, el invitado de esta semana será el dirigente de Nueva Canarias y regidor de Telde, Francisco Santiago Castellano, con quien se abordará, entre otros asuntos, la admisión a trámite de la querella presentada por el grupo de gobierno del Ayuntamiento de Telde (NC, PSC-PSOE y CCN) contra los miembros del anterior grupo de gobierno local, formado por PP y Agrupación Federal del Valle de Jinámar-Ciudadanos por el Cambio (AFV-Ciuca). Dicha querella está relacionada con la polémica permuta de la finca de San Rafael aprobada en agosto de 2004 por solares municipales, así como las consecuencias que ha tenido para este municipio la trama de corrupción conocida como 'Caso Faycán', según informa TVE en un comunicado. Además, la decisión del Gobierno de Canarias de retirar el decreto que regulará el acceso a la función pública para frenar la huelga anunciada por los docentes interinos y las últimas novedades del los casos de Gürtel, a nivel nacional, y Unión, en Lanzarote, serán algunos de los asuntos que se abordarán en el programa. Para analizar estos asuntos, '59 Segundos' contará con la participación del ex director de Diario de Avisos, Leopoldo Fernández Cabeza de Vaca, el director de Informativos de la Cadena Cope, Santiago Morollón, Soraya Morales, de la Voz de Lanzarote, el director de Canariasahora, Carlos Sosa, Daniel Millet de La Opinión de Tenerife y Pedro Guerra, jefe de sección de La Provincia.",
+        "lemmatized_text": "así_pues el invitado de este semana ser el dirigente de nueva_canarias y regidor de telde francisco_santiago_castellano con quien se abordar entre otro asunto el admisión a trámite de el querella presentar por el grupo de gobierno de el ayuntamiento_de_telde nc psc-psoe y ccn contra el miembro de el anterior grupo de gobierno local formar por pp y agrupación_federal_del_valle_de_jinámar-ciudadanos_por_el_cambio afv-ciuca decir querella estar relacionar con el polémico permuta de el finca de san_rafael aprobar en [??:??/8/2004:??.??:??] por solar municipal así_como el consecuencia que haber tener para este municipio el trama de corrupción conocer como caso_faycán según informar tve en uno comunicado además el decisión de el gobierno_de_canarias de retirar el decreto que regular el acceso a el función público para frenar el huelga anunciar por el docente interino y el último novedad de el el caso de gürtel a nivel nacional y unión en lanzarote ser alguno de el asunto que se abordar en el programa para analizar este asunto 59 segundos contar con el participación de el ex director de diario_de_avisos leopoldo_fernández_cabeza_de_vaca el director de informativos_de_la_cadena_cope santiago_morollón soraya_morales de el voz_de_lanzarote el director de canariasahora carlos_sosa daniel_millet_de_la_opinión_de_tenerife y pedro_guerra jefe de sección de la_provincia",
+        "lemmatized_text_reduced": "invitado semana ser dirigente nueva_canarias regidor telde francisco_santiago_castellano abordar asunto admisión trámite querella presentar grupo gobierno ayuntamiento_de_telde nc psc-psoe ccn miembro anterior grupo gobierno local formar pp agrupación_federal_del_valle_de_jinámar-ciudadanos_por_el_cambio afv-ciuca decir querella estar relacionar polémico permuta finca san_rafael aprobar solar municipal consecuencia haber tener municipio trama corrupción conocer caso_faycán informar tve comunicado decisión gobierno_de_canarias retirar decreto regular acceso función público frenar huelga anunciar docente interino último novedad caso gürtel nivel nacional unión lanzarote ser asunto abordar programa analizar asunto segundos contar participación ex director diario_de_avisos leopoldo_fernández_cabeza_de_vaca director informativos_de_la_cadena_cope santiago_morollón soraya_morales voz_de_lanzarote director canariasahora carlos_sosa daniel_millet_de_la_opinión_de_tenerife pedro_guerra jefe sección la_provincia",
+        "persons": [
+            "Francisco_Santiago_Castellano",
+            "Caso_Faycán",
+            "Leopoldo_Fernández_Cabeza_de_Vaca",
+            "Santiago_Morollón",
+            "Soraya_Morales",
+            "Carlos_Sosa",
+            "Daniel_Millet_de_La_Opinión_de_Tenerife",
+            "Pedro_Guerra"
+        ],
+        "locations": [
+            "Nueva_Canarias",
+            "San_Rafael",
+            "Gürtel",
+            "Lanzarote",
+            "Canariasahora",
+            "La_Provincia"
+        ],
+        "organizations": [
+            "Telde",
+            "Ayuntamiento_de_Telde",
+            "NC",
+            "PSC-PSOE",
+            "CCN",
+            "PP",
+            "Agrupación_Federal_del_Valle_de_Jinámar-Ciudadanos_por_el_Cambio",
+            "AFV-Ciuca",
+            "TVE",
+            "Gobierno_de_Canarias",
+            "Unión",
+            "Diario_de_Avisos",
+            "Informativos_de_la_Cadena_Cope",
+            "Voz_de_Lanzarote"
+        ],
+        "others": [
+            "Segundos"
+        ],
+        "dates": [
+            "[??:??/8/2004:??.??:??]"
+        ],
+        "numbers": [
+            "59"
+        ]
+    }
+}

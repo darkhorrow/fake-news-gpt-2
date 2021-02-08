@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-08-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/269825/0/detenido/rapto/yeremi/",
+    "title": {
+        "raw_text": "El detenido en Vecindario por intento de rapto no tiene relación con el caso de Yeremi",
+        "lemmatized_text": "el detener en vecindario por intento de rapto no tener relación con el caso de yeremi",
+        "lemmatized_text_reduced": "detener vecindario intento rapto tener relación caso yeremi",
+        "persons": [],
+        "locations": [
+            "Vecindario",
+            "Yeremi"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Trató de raptar a una niña de 11 años en la misma localidad. La Policía descarta vínculos con la desaparición de Yeremi. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "tratar de raptar a uno niño de 11 año en el mismo localidad el policía descartar vínculo con el desaparición de yeremi consulta_aquí_todas_las_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "tratar raptar niño año mismo localidad policía descartar vínculo desaparición yeremi consulta_aquí_todas_las_noticias_de_las_palmas",
+        "persons": [
+            "Yeremi"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "11"
+        ]
+    },
+    "body": {
+        "raw_text": "La Guardia Civil ha detenido en Vecindario (Gran Canaria) a un hombre acusado de tratar de raptar a una niña de 11 años cuando se encontraba cerca de su casa. Aunque al principio se aseguró que se investiga basi está relacionado con el caso de Yeremi Vargas , desaparecido en la misma localidad hace ocho meses , la Policía ha comunicado a la madre de Yeremi que en principio no hay relación con el caso de su hijo. El detenido, de 39 años, abordó a la menor el pasado lunes por la noche en Vecindario cuando ésta caminaba por la calle hacia su casa e intentó que subiera a su vehículo, pero la niña desatendió sus requerimientos y llegó hasta su domicilio, donde alertó a su madre, informó la Guardia Civil. El hombre fue detenido el martes de madrugada después de que la madre de la niña denunciase lo sucedido a las fuerzas de seguridad. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el guardia_civil haber detener en vecindario gran_canaria a uno hombre acusar de tratar de raptar a uno niño de 11 año cuando se encontrar cerca de su casa aunque a el principio se asegurar que se investigar basi estar relacionar con el caso de yeremi_vargas desaparecer en el mismo localidad hacer 8 mes el policía haber comunicar a el madre de yeremi que en principio no haber relación con el caso de su hijo el detener de 39 año abordar a el menor el [L:??/??/??:??.??:pm] en vecindario cuando este caminar por el calle hacia su casa y intentar que subir a su vehículo pero el niño desatender su requerimiento y llegar hasta su domicilio donde alertar a su madre informar el guardia_civil el hombre ser detener el [M:??/??/??:??.??:??] de_madrugada después_de que el madre de el niño denunciar el suceder a el fuerza de seguridad consulta_aquí_todas_las_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "guardia_civil haber detener vecindario gran_canaria hombre acusar tratar raptar niño año encontrar casa principio asegurar investigar estar relacionar caso yeremi_vargas desaparecer mismo localidad hacer mes policía haber comunicar madre yeremi principio haber relación caso hijo detener año abordar menor vecindario caminar calle casa intentar subir vehículo niño desatender requerimiento llegar domicilio alertar madre informar guardia_civil hombre ser detener madre niño denunciar suceder fuerza seguridad consulta_aquí_todas_las_noticias_de_las_palmas",
+        "persons": [
+            "Yeremi_Vargas"
+        ],
+        "locations": [
+            "Vecindario",
+            "Gran_Canaria",
+            "Yeremi",
+            "Vecindario"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Policía",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:pm]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "11",
+            "8",
+            "39"
+        ]
+    }
+}

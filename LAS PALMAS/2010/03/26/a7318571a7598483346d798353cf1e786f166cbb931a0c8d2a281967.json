@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/662511/0/",
+    "title": {
+        "raw_text": "Los restos óseos hallados en Jinámar (Gran Canaria) no son humanos",
+        "lemmatized_text": "el resto óseo hallar en jinámar gran_canaria no ser humano",
+        "lemmatized_text_reduced": "resto óseo hallar jinámar gran_canaria ser humano",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los restos óseos hallados en el pozo de Jinámar (Gran Canaria) dentro de la investigación por la desaparición de Sara Morales no son humanos, tal y como han descartado en primer término los agentes presentes en el lugar, según confirmaron a Europa Press fuentes de la investigación.",
+        "lemmatized_text": "el resto óseo hallar en el pozo de jinámar gran_canaria dentro_de el investigación por el desaparición de sara_morales no ser humano tal_y_como haber descartar en 1 término el agente presente en el lugar según confirmar a europa_press fuente de el investigación",
+        "lemmatized_text_reduced": "resto óseo hallar pozo jinámar gran_canaria investigación desaparición sara_morales ser humano haber descartar 1 término agente presente lugar confirmar europa_press fuente investigación",
+        "persons": [
+            "Sara_Morales",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, las dimensiones y carácterísticas de los huesos encontrados hacen descartar que correspondan a personas, a la espera de la definitiva prueba forense, y por tanto tampoco a los dos niños desaparecido en la isla, Sara Morales y Yeremi Vargas. La jefa superior de la Policía en Canarias, Concepción de Vega, explicó esta mañana cuando se dieron por finalizados los trabajos que lo único que han encontrado son \"algunos restos y algún hueso de menor tamaño\" que se han remitido para su análisis, y aunque dijo que \"no se puede decir sin son humanos o no\" sí reconoció que eran de \"menor tamaño de lo esperado\". En todo caso, de momento el Instituto de Medicina Legal de Las Palmas ha asegurado hoy a Europa Press no haber recibido ninguna prueba para analizar de los trabajos que durante los últimos cinco días ha llevado a cabo la Policía Nacional en el pozo de la localidad grancanaria.",
+        "lemmatized_text": "en concreto el dimensión y carácterísticas de el hueso encontrar hacer descartar que corresponder a persona a_la_espera_de el definitivo prueba forense y por tanto tampoco a el 2 niño desaparecer en el isla sara_morales y yeremi_vargas el jefe superior de el policía en canarias concepción_de_vega explicar este mañana cuando se dar por finalizar el trabajo que lo único que haber encontrar ser alguno resto y alguno hueso de menor tamaño que se haber remitir para su análisis y aunque decir que no se poder decir sin ser humano o no sí reconocer que ser de menor tamaño de el esperar en_todo_caso de momento el instituto_de_medicina_legal_de_las_palmas haber asegurar hoy a europa_press no haber recibir ninguno prueba para analizar de el trabajo que durante el último TM_d:5 haber llevar_a_cabo el policía_nacional en el pozo de el localidad grancanaria",
+        "lemmatized_text_reduced": "concreto dimensión carácterísticas hueso encontrar hacer descartar corresponder persona definitivo prueba forense niño desaparecer isla sara_morales yeremi_vargas jefe superior policía canarias concepción_de_vega explicar mañana dar finalizar trabajo único haber encontrar ser resto hueso menor tamaño haber remitir análisis decir poder decir ser humano reconocer ser menor tamaño esperar momento instituto_de_medicina_legal_de_las_palmas haber asegurar europa_press haber recibir prueba analizar trabajo último haber llevar_a_cabo policía_nacional pozo localidad grancanaria",
+        "persons": [
+            "Sara_Morales",
+            "Yeremi_Vargas",
+            "Concepción_de_Vega",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Policía",
+            "Instituto_de_Medicina_Legal_de_Las_Palmas",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_d:5"
+        ]
+    }
+}

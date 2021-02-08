@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/727498/0/",
+    "title": {
+        "raw_text": "PP Gran Canaria dice que la economía de la isla \"está huérfana\" y acusa al PSOE de \"mirar para otro lado\"",
+        "lemmatized_text": "pp_gran_canaria decir que el economía de el isla estar huérfano y acusar a el psoe de mirar para otro lado",
+        "lemmatized_text_reduced": "pp_gran_canaria decir economía isla estar huérfano acusar psoe mirar lado",
+        "persons": [
+            "PP_Gran_Canaria"
+        ],
+        "locations": [],
+        "organizations": [
+            "PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El portavoz del PP de Gran Canaria, Carlos Rodríguez, ha asegurado hoy que la actividad económica de la isla \"está huérfana\" de una inyección financiera \"decisiva\" para impulsarla debido al desempleo que tiene.",
+        "lemmatized_text": "el portavoz de el pp_de_gran_canaria carlos_rodríguez haber asegurar hoy que el actividad económico de el isla estar huérfano de uno inyección financiero decisivo para impulsar lo deber a el desempleo que tener",
+        "lemmatized_text_reduced": "portavoz pp_de_gran_canaria carlos_rodríguez haber asegurar actividad económico isla estar huérfano inyección financiero decisivo impulsar deber desempleo tener",
+        "persons": [
+            "Carlos_Rodríguez"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Además, Rodríguez acusó al presidente insular José Miguel Pérez de \"mirar para otra lado como si no tuviera la máxima responsabilidad de la absoluta parálisis económica\" de la isla. \"El desempleo galopa a sus anchas en Gran Canaria y la inversión se resiente por la incapacidad del presidente del Cabildo, José Miguel Pérez, para ejecutar el presupuesto de la corporación\", apuntilló el portavoz de los populares en la corporación insular en declaraciones a los medios. Asimismo, afirmó que el equipo de gobierno del Cabildo tiene \"más de 350 millones de euros en las entidades financieras\". \"Grandes, medianos, pequeños empresarios, autónomos, todos sufrimos en Gran Canaria la dejación de este grupo de gobierno\", sentenció.",
+        "lemmatized_text": "además rodríguez acusar a el presidente insular josé_miguel_pérez de mirar para otro lado como si no tener el máximo responsabilidad de el absoluto parálisis económico de el isla el desempleo galopar a_sus_anchas en gran_canaria y el inversión se resentir por el incapacidad de el presidente de el cabildo josé_miguel_pérez para ejecutar el presupuesto de el corporación apuntillar el portavoz de el popular en el corporación insular en declaración a el medio asimismo afirmar que el equipo de gobierno de el cabildo tener más de $_ECU:350000000 en el entidad financiero grande mediano pequeño empresario autónomo todo sufrir en gran_canaria el dejación de este grupo de gobierno sentenciar",
+        "lemmatized_text_reduced": "rodríguez acusar presidente insular josé_miguel_pérez mirar lado tener máximo responsabilidad absoluto parálisis económico isla desempleo galopar gran_canaria inversión resentir incapacidad presidente cabildo josé_miguel_pérez ejecutar presupuesto corporación apuntillar portavoz popular corporación insular declaración medio afirmar equipo gobierno cabildo tener entidad financiero grande mediano pequeño empresario autónomo sufrir gran_canaria dejación grupo gobierno sentenciar",
+        "persons": [
+            "Rodríguez",
+            "José_Miguel_Pérez",
+            "José_Miguel_Pérez"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:350000000"
+        ]
+    }
+}

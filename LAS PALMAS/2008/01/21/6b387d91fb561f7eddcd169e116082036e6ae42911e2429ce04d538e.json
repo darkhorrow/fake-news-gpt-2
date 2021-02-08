@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/336899/0/cadaver/flotando/mar/",
+    "title": {
+        "raw_text": "Avistan un cadáver flotando en aguas del litoral de Gran Canaria",
+        "lemmatized_text": "avistar uno cadáver flotar en agua de el litoral de gran_canaria",
+        "lemmatized_text_reduced": "avistar cadáver flotar agua litoral gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Bomberos y Policía Nacional trabajan en su recuperación . De momento no hay datos sobre el mismo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "bomberos y policía_nacional trabajar en su recuperación de momento no haber dato sobre el mismo consulta_aquí_más_noticias_de_las_palmas_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "bomberos policía_nacional trabajar recuperación momento haber dato mismo consulta_aquí_más_noticias_de_las_palmas_puedes ampliar reducir mapa desplazar",
+        "persons": [
+            "Bomberos"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un cadáver ha sido avistado flotando esta tarde en aguas del litoral del municipio grancanario de Telde, donde efectivos de los bomberos y la Policía Nacional trabajan en estos momentos en la recuperación del cuerpo y su posterior identificación , confirmó la Policía Local. Las aguas próximas a la playa llamada de \"Tufio\" de dicha localidad fueron el escenario del avistamiento, ocurrido en torno a las tres de la tarde, explicaron fuentes de dicho cuerpo de seguridad. En cuanto a las características del cadáver, su sexo o raza o el estado del cuerpo, dijeron no disponer de datos de momento, debido a que aún se trabaja en su recuperación y posterior traslado a dependencias forenses donde será estudiado en detalle. Ese análisis permitirá previsiblemente obtener más datos de la persona a la que corresponde el cuerpo, así como sobre las causas de su muerte o cómo llegó a la referida playa. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno cadáver haber ser avistar flotar este tarde en agua de el litoral de el municipio grancanario de telde donde efectivo de el bombero y el policía_nacional trabajar en este momento en el recuperación de el cuerpo y su posterior identificación confirmar el policía_local el agua próximo a el playa llamar de tufio de decir localidad ser el escenario de el avistamiento ocurrir en_torno_a el [??:??/??/??:3.00:pm] explicar fuente de decir cuerpo de seguridad en_cuanto_a el característica de el cadáver su sexo o raza o el estado de el cuerpo decir no disponer de dato de momento debido_a que aun se trabajar en su recuperación y posterior traslado a dependencia forense donde ser estudiar en_detalle ese análisis permitir previsiblemente obtener más dato de el persona a el que corresponder el cuerpo así_como sobre el causa de su muerte o cómo llegar a el referir playa consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cadáver haber ser avistar flotar tarde agua litoral municipio grancanario telde efectivo bombero policía_nacional trabajar momento recuperación cuerpo posterior identificación confirmar policía_local agua próximo playa llamar tufio decir localidad ser escenario avistamiento ocurrir explicar fuente decir cuerpo seguridad característica cadáver sexo raza estado cuerpo decir disponer dato momento trabajar recuperación posterior traslado dependencia forense ser estudiar análisis permitir previsiblemente obtener dato persona corresponder cuerpo causa muerte llegar referir playa consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Tufio"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Policía_Local",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:3.00:pm]"
+        ],
+        "numbers": []
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/932560/0/",
+    "title": {
+        "raw_text": "CC recomienda a Gallardón que \"se preocupe por el incremento del 112% del paro en Madrid en 5 años\"",
+        "lemmatized_text": "cc recomendar a gallardón que se preocupar por el incremento de el 112/100 de el paro en madrid en 5 año",
+        "lemmatized_text_reduced": "cc recomendar gallardón preocupar incremento paro madrid año",
+        "persons": [
+            "Gallardón"
+        ],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "CC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112/100",
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Acusa al alcalde de Madrid de \"irresponsable por opinar sobre una realidad [en Canarias] que desconoce\"",
+        "lemmatized_text": "acusar a el alcalde de madrid de irresponsable por opinar sobre uno realidad en canarias que desconocer",
+        "lemmatized_text_reduced": "acusar alcalde madrid irresponsable opinar realidad canarias desconocer",
+        "persons": [],
+        "locations": [
+            "Madrid",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La presidenta de Coalición Canaria (CC), Claudina Morales, ha recomendado este miércoles al alcalde de Madrid, Alberto Ruiz Gallardón, que \"se preocupe por la evolución del paro en su Comunidad Autónoma, en la que la tasa de desempleo se ha duplicado en los últimos cinco años, con un incremento del 112 por ciento\". Morales subraya que \"es paradójico que el alcalde de Madrid actúe de una manera tan irresponsable en su viaje de 24 horas a Canarias e imparta lecciones en las islas sobre un problema, el desempleo, que afecta a casi medio millón de madrileños y que el PP ha sido incapaz de frenar ni desde el Ayuntamiento de Madrid ni desde la Comunidad Autónoma\". La presidenta de CC lamenta que \"Gallardón hable de una realidad que desconoce y se haya ajustado al guión propuesto por el Partido Popular de Canarias, que siempre recurre en vísperas electorales a sus compañeros de otras Comunidades Autónomas para contrarrestar la ausencia de líderes políticos del PP en las islas\". \"cruzado de brazos\" Igualmente, Morales afirma que \"el caso de Madrid demuestra que con el PP la situación sería igual o peor\" y que \"quienes se han cruzado de brazos desde que se inició la crisis no están para dar lecciones\". Añade, a este respecto, que \"el PP ha agravado la situación que se vive en España como consecuencia de su irresponsabilidad y su negativa a contribuir, entre todos, a salir cuanto antes de la crisis\".",
+        "lemmatized_text": "el presidente de coalición_canaria cc claudina_morales haber recomendar este [X:??/??/??:??.??:??] a el alcalde de madrid alberto_ruiz_gallardón que se preocupar por el evolución de el paro en su comunidad_autónoma en el que el tasa de desempleo se haber duplicar en el último 5 año con uno incremento de el 112 por 100 moral subrayar que ser paradójico que el alcalde de madrid actuar de uno manera tan irresponsable en su viaje de TM_h:24 a canarias y impartir lección en el isla sobre uno problema el desempleo que afectar a casi 500000 de madrileño y que el pp haber ser incapaz de frenar ni desde el ayuntamiento_de_madrid ni desde el comunidad_autónoma el presidente de cc lamentar que gallardo hablar de uno realidad que desconocer y se haber ajustar a el guión proponer por el partido_popular_de_canarias que siempre recurrir en víspera electoral a su compañero de otro comunidades_autónomas para contrarrestar el ausencia de líder político de el pp en el isla cruzar de brazo igualmente morales afirmar que el caso de madrid demostrar que con el pp el situación ser igual o peor y que quien se haber cruzar de brazo desde que se iniciar el crisis no estar para dar lección añadir a este respecto que el pp haber agravar el situación que se vivir en españa como consecuencia de su irresponsabilidad y su negativa a contribuir entre todo a salir cuanto_antes de el crisis",
+        "lemmatized_text_reduced": "presidente coalición_canaria cc claudina_morales haber recomendar alcalde madrid alberto_ruiz_gallardón preocupar evolución paro comunidad_autónoma tasa desempleo haber duplicar último año incremento moral subrayar ser paradójico alcalde madrid actuar manera irresponsable viaje canarias impartir lección isla problema desempleo afectar madrileño pp haber ser incapaz frenar ayuntamiento_de_madrid comunidad_autónoma presidente cc lamentar gallardo hablar realidad desconocer haber ajustar guión proponer partido_popular_de_canarias recurrir víspera electoral compañero comunidades_autónomas contrarrestar ausencia líder político pp isla cruzar brazo igualmente morales afirmar caso madrid demostrar pp situación ser igual peor haber cruzar brazo iniciar crisis estar dar lección añadir respecto pp haber agravar situación vivir españa consecuencia irresponsabilidad negativa contribuir salir crisis",
+        "persons": [
+            "Claudina_Morales",
+            "Alberto_Ruiz_Gallardón",
+            "Morales"
+        ],
+        "locations": [
+            "Madrid",
+            "Comunidad_Autónoma",
+            "Madrid",
+            "Canarias",
+            "Madrid",
+            "España"
+        ],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "PP",
+            "Ayuntamiento_de_Madrid",
+            "Comunidad_Autónoma",
+            "CC",
+            "Partido_Popular_de_Canarias",
+            "Comunidades_Autónomas",
+            "PP",
+            "PP",
+            "PP"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "112",
+            "100",
+            "TM_h:24",
+            "500000"
+        ]
+    }
+}

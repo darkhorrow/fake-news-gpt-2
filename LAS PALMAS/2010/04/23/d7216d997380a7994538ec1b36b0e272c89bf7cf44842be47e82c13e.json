@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/686854/0/",
+    "title": {
+        "raw_text": "La Comisión del Programa de Fomento de Empleo Agrario destina 1,5 millones para los municipios de Gran Canaria",
+        "lemmatized_text": "el comisión_del_programa_de_fomento_de_empleo_agrario destinar 1,5 millón para el municipio de gran_canaria",
+        "lemmatized_text_reduced": "comisión_del_programa_de_fomento_de_empleo_agrario destinar millón municipio gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Comisión_del_Programa_de_Fomento_de_Empleo_Agrario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,5"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Comisión del Programa de Fomento de Empleo Agrario, presidida por el subdelegado del Gobierno en la provincia de Las Palmas, Vicente Oliva, ha ratificado el reparto de 1,5 millones de euros entre diez municipios de Gran Canaria.",
+        "lemmatized_text": "el comisión_del_programa_de_fomento_de_empleo_agrario presidir por el subdelegado de el gobierno en el provincia de las_palmas vicente_oliva haber ratificar el reparto de 1,5 millón de euro entre 10 municipio de gran_canaria",
+        "lemmatized_text_reduced": "comisión_del_programa_de_fomento_de_empleo_agrario presidir subdelegado gobierno provincia las_palmas vicente_oliva haber ratificar reparto millón euro municipio gran_canaria",
+        "persons": [
+            "Vicente_Oliva"
+        ],
+        "locations": [
+            "Las_Palmas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Comisión_del_Programa_de_Fomento_de_Empleo_Agrario",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,5",
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta decisión supondrán dar trabajo a más de 400 desempleados, según informó la Delegación del Gobierno en Canarias en nota de prensa. En cuanto al reparto, se decidió que los municipios de Agüimes, Ingenio, Santa Lucía de Tirajana, San Bartolomé de Tirajana, Telde y Valsequillo, que conforman el Consejo Comarcal de Santa Lucía de Tirajana, recibirán algo más de un millón de euros; mientras que los municipios de La Aldea, Santa María de Guia, Gáldar y Arucas, que componen el Consejo Comarcal de Gáldar, tendrán un total de 528.284,74 euros. Estas cantidades fueron asignadas en función del desempleo agrícola en cada uno de los municipios y del número de trabajadores afiliados al Régimen Especial Agrario.",
+        "lemmatized_text": "este decisión suponer dar trabajo a más de 400 desempleado según informar el delegación_del_gobierno en canarias en nota de prensa en cuanto a el reparto se decidir que el municipio de agüimes ingenio santa_lucía_de_tirajana san_bartolomé_de_tirajana telde y valsequillo que conformar el consejo_comarcal_de_santa_lucía_de_tirajana recibir algo más de $_ECU:1000000 mientras_que el municipio de la_aldea santa_maría_de_guia gáldar y arucas que componer el consejo_comarcal_de_gáldar tener uno total de $_ECU:528.284,74 este cantidad ser asignar en función de el desempleo agrícola en cada uno de el municipio y de el número de trabajador afiliar a el régimen_especial_agrario",
+        "lemmatized_text_reduced": "decisión suponer dar trabajo desempleado informar delegación_del_gobierno canarias nota prensa reparto decidir municipio agüimes ingenio santa_lucía_de_tirajana san_bartolomé_de_tirajana telde valsequillo conformar consejo_comarcal_de_santa_lucía_de_tirajana recibir municipio la_aldea santa_maría_de_guia gáldar arucas componer consejo_comarcal_de_gáldar tener total cantidad ser asignar función desempleo agrícola municipio número trabajador afiliar régimen_especial_agrario",
+        "persons": [
+            "Valsequillo",
+            "Arucas"
+        ],
+        "locations": [
+            "Canarias",
+            "Agüimes",
+            "Ingenio",
+            "San_Bartolomé_de_Tirajana",
+            "La_Aldea",
+            "Santa_María_de_Guia"
+        ],
+        "organizations": [
+            "Delegación_del_Gobierno",
+            "Santa_Lucía_de_Tirajana",
+            "Telde",
+            "Consejo_Comarcal_de_Santa_Lucía_de_Tirajana",
+            "Gáldar",
+            "Consejo_Comarcal_de_Gáldar",
+            "Régimen_Especial_Agrario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "400",
+            "$_ECU:1000000",
+            "$_ECU:528.284,74"
+        ]
+    }
+}

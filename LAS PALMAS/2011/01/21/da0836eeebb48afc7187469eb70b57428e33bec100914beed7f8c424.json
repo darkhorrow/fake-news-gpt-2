@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935490/0/",
+    "title": {
+        "raw_text": "El director de RTVC afirma que salvo \"cambios de última hora\" el derbi canario lo retransmitirá Canal Plus",
+        "lemmatized_text": "el director de rtvc afirmar que salvo cambio de último hora el derbi canario lo retransmitir canal_plus",
+        "lemmatized_text_reduced": "director rtvc afirmar cambio último hora derbi canario retransmitir canal_plus",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "RTVC"
+        ],
+        "others": [
+            "Canal_Plus"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El director de Radiotelevisión Canaria, Guillermo García-Machiñiena, afirmó este viernes que salvo \"cambios de última hora\" el derbi del próximo domingo entre el Club Deportivo Tenerife y la Unión Deportiva Las Palmas, que se disputará en la capital tinerfeña, será retransmitido por Canal Plus.",
+        "lemmatized_text": "el director de radiotelevisión_canaria guillermo_garcía-machiñiena afirmar este [V:??/??/??:??.??:??] que salvo cambio de último hora el derbi de el [G:??/??/??:??.??:??] entre el club_deportivo_tenerife y el unión_deportiva_las_palmas que se disputar en el capital tinerfeño ser retransmitir por canal_plus",
+        "lemmatized_text_reduced": "director radiotelevisión_canaria guillermo_garcía-machiñiena afirmar cambio último hora derbi club_deportivo_tenerife unión_deportiva_las_palmas disputar capital tinerfeño ser retransmitir canal_plus",
+        "persons": [
+            "Guillermo_García-Machiñiena"
+        ],
+        "locations": [],
+        "organizations": [
+            "Radiotelevisión_Canaria",
+            "Club_Deportivo_Tenerife",
+            "Unión_Deportiva_Las_Palmas"
+        ],
+        "others": [
+            "Canal_Plus"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El director de Radiotelevisión Canaria, Guillermo García-Machiñiena, afirmó este viernes que salvo \"cambios de última hora\" el derbi del próximo domingo entre el Club Deportivo Tenerife y la Unión Deportiva Las Palmas, que se disputará en la capital tinerfeña, será retransmitido por Canal Plus. En rueda de prensa en Las Palmas de Gran Canaria tras firmar con la Sociedad de Promoción el convenio de retransmisión del Carnaval 2011, García-Machiñiena recordó que \"el contrato pone a la televisión pública en disposición de ser la segunda opción como el resto de las televisiones de Forta\". \"a la expectativa\" Recordó que \"la primera opción la tiene Canal Plus, que ha dicho que quiere dar el partido el domingo y, en principio, lo va a dar\". No obstante, el director del ente dijo estar \"a la expectativa\" tras la declaración del Gobierno regional de mantener su \"firme convicción\" de dar en abierto el derbi canario de fútbol. \"El anuncio hecho por el Gobierno nos obliga a esperar por si pudiera haber algún tipo de cambio a última hora, pero en este momento la retransmisión del principio será por Canal Plus el domingo por la mañana\", concluyó.",
+        "lemmatized_text": "el director de radiotelevisión_canaria guillermo_garcía-machiñiena afirmar este [V:??/??/??:??.??:??] que salvo cambio de último hora el derbi de el [G:??/??/??:??.??:??] entre el club_deportivo_tenerife y el unión_deportiva_las_palmas que se disputar en el capital tinerfeño ser retransmitir por canal_plus en rueda de prensa en las_palmas_de_gran_canaria tras firmar con el sociedad_de_promoción el convenio de retransmisión de el carnaval 2011 garcía-machiñiena recordar que el contrato poner a el televisión público en disposición de ser el 2 opción como el resto de el televisión de forta a el expectativa recordar que el 1 opción lo tener canal_plus que haber decir que querer dar el partido el [G:??/??/??:??.??:??] y en principio lo ir a dar no_obstante el director de el ente decir estar a el expectativa tras el declaración de el gobierno regional de mantener su firme convicción de dar en abrir el derbi canario de fútbol el anuncio hacer por el gobierno nos obligar a esperar por si poder haber alguno tipo de cambio a último hora pero en este momento el retransmisión de el principio ser por canal_plus el [G:??/??/??:??.??:am] concluir",
+        "lemmatized_text_reduced": "director radiotelevisión_canaria guillermo_garcía-machiñiena afirmar cambio último hora derbi club_deportivo_tenerife unión_deportiva_las_palmas disputar capital tinerfeño ser retransmitir canal_plus rueda prensa las_palmas_de_gran_canaria firmar sociedad_de_promoción convenio retransmisión carnaval garcía-machiñiena recordar contrato poner televisión público disposición ser 2 opción resto televisión forta expectativa recordar 1 opción tener canal_plus haber decir querer dar partido principio ir dar director ente decir estar expectativa declaración gobierno regional mantener firme convicción dar abrir derbi canario fútbol anuncio hacer gobierno obligar esperar poder haber tipo cambio último hora momento retransmisión principio ser canal_plus concluir",
+        "persons": [
+            "Guillermo_García-Machiñiena",
+            "García-Machiñiena"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Forta"
+        ],
+        "organizations": [
+            "Radiotelevisión_Canaria",
+            "Club_Deportivo_Tenerife",
+            "Unión_Deportiva_Las_Palmas",
+            "Sociedad_de_Promoción",
+            "Canal_Plus",
+            "Gobierno",
+            "Gobierno"
+        ],
+        "others": [
+            "Canal_Plus",
+            "Carnaval",
+            "Canal_Plus"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:am]"
+        ],
+        "numbers": [
+            "2011"
+        ]
+    }
+}

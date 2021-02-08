@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/434781/0/erscatan/inmigrantes/patera/",
+    "title": {
+        "raw_text": "Rescatan a 66 inmigrantes, uno de ellos muerto, a 150 millas de Gran Canaria",
+        "lemmatized_text": "rescatar a 66 inmigrante uno de ellos morir a LN_mi:150 de gran_canaria",
+        "lemmatized_text_reduced": "rescatar inmigrante morir gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "66",
+            "LN_mi:150"
+        ]
+    },
+    "lead": {
+        "raw_text": "Está previsto que llegue sobre las dos de la madrugada. En el rescate ha colaborado un pesquero que había en la zona.",
+        "lemmatized_text": "estar prever que llegar sobre el [??:??/??/??:2.00:am] en el rescate haber colaborar uno pesquero que haber en el zona",
+        "lemmatized_text_reduced": "estar prever llegar rescate haber colaborar pesquero haber zona",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:2.00:am]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un grupo de 66 inmigrantes, uno de ellos muerto, ha sido rescatado este sábado por una embarcación de Salvamento Marítimo a 150 millas al sur de Gran Canaria según han informado fuentes del citado cuerpo. Las fuentes señalaron que está previsto que el remolcador de Salvamento Marítimo llegue al puerto grancanario de Arguineguín con los inmigrantes sobre las dos de la madruga, si bien esta hora podría variar en función de las condiciones del mar. En la operación de rescate de los inmigrantes, que se ha llevado a cabo sobre las 13.00 horas, ha colaborado un pesquero que había en la zona , han indicado las fuentes que no han facilitado más datos por el momento.",
+        "lemmatized_text": "uno grupo de 66 inmigrante uno de ellos morir haber ser rescatar este [S:??/??/??:??.??:??] por uno embarcación de salvamento_marítimo a LN_mi:150 a el sur de gran_canaria según haber informar fuente de el citar cuerpo el fuente señalar que estar prever que el remolcador de salvamento_marítimo llegar a el puerto grancanario de arguineguín con el inmigrante sobre el 2 de el madrugar si bien este hora poder variar en función de el condición de el marzo en el operación de rescate de el inmigrante que se haber llevar_a_cabo sobre el TM_h:13 haber colaborar uno pesquero que haber en el zona haber indicar el fuente que no haber facilitar más dato por el momento",
+        "lemmatized_text_reduced": "grupo inmigrante morir haber ser rescatar embarcación salvamento_marítimo sur gran_canaria haber informar fuente citar cuerpo fuente señalar estar prever remolcador salvamento_marítimo llegar puerto grancanario arguineguín inmigrante madrugar hora poder variar función condición marzo en operación rescate inmigrante haber llevar_a_cabo haber colaborar pesquero haber zona haber indicar fuente haber facilitar dato momento",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Salvamento_Marítimo",
+            "Gran_Canaria",
+            "Arguineguín"
+        ],
+        "organizations": [],
+        "others": [
+            "En"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "66",
+            "LN_mi:150",
+            "2",
+            "TM_h:13"
+        ]
+    }
+}

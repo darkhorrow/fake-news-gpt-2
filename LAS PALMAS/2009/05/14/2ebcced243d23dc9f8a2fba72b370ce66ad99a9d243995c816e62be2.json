@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-05-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/468576/0/pisos/familias/lanzarote/",
+    "title": {
+        "raw_text": "Un hombre cede dos pisos vacíos de su propiedad a dos familias necesitadas",
+        "lemmatized_text": "uno hombre ceder 2 piso vacío de su propiedad a 2 familia necesitar",
+        "lemmatized_text_reduced": "hombre ceder piso vacío propiedad familia necesitar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "En la isla de Lanzarote. Sólo pide como condición que su ayuntamiento que corra con los gastos de luz y agua. En el municipio de Arrecife, más de cuatro mil personas han solicitado algún tipo de ayuda a los servicios sociales.",
+        "lemmatized_text": "en el isla de lanzarote sólo pedir como condición que su ayuntamiento que correr con el gasto de luz y agua en el municipio de arrecife más de 4000 persona haber solicitar alguno tipo de ayuda a el servicio social",
+        "lemmatized_text_reduced": "isla lanzarote pedir condición ayuntamiento correr gasto luz agua municipio arrecife persona haber solicitar tipo ayuda servicio social",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Arrecife"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4000"
+        ]
+    },
+    "body": {
+        "raw_text": "En estos tiempos de crisis todavía hay personas que intentan echar una mano a quienes lo tienen peor. Como un hombre de Lanzarote , un mecánico de 56 años que tiene dos pisos vacíos y los ha ofrecido para que sean ocupados de forma gratuita por dos familias necesitadas . Sólo pide que el ayuntamiento corra con los gastos de luz y agua. Así, desde primeros de mes, este es el nuevo hogar de una familia y una joven , Raquel que está emocionada con su nueva casa, un piso de 60 metros cuadrados y dos habitaciones que podrá ocupar hasta final de año sin coste alguno. Manuel, viudo y mecánico de profesión, tenía dos pisos vacíos, decidió cederlos al ayuntamiento para que fueran ocupados por gente necesitada . A cambio solo ha pedido a los ocupantes, que le cuiden los pisos. La pareja no tiene palabras para agradecerle a Manuel lo que está haciendo por ellos. Se dedican a la venta ambulante, pero apenas tienen ingresos. La vida de Raquel también ha mejorado radicalmente, después de cambiar de piso, que compartía con doce familiares . Saben que han tenido suerte y que gestos como el de Manuel se ven poco. Sólo en el municipio de arrecife, más de cuatro mil familias han solicitado algún tipo de ayuda a los servicios sociales.",
+        "lemmatized_text": "en este tiempo de crisis todavía haber persona que intentar echar uno mano a quien lo tener peor como uno hombre de lanzarote uno mecánico de 56 año que tener 2 piso vacío y lo haber ofrecer para que ser ocupar de forma gratuito por 2 familia necesitar sólo pedir que el ayuntamiento correr con el gasto de luz y agua así desde 1 de mes este ser el nuevo hogar de uno familia y uno joven raquel que estar emocionar con su nuevo casa uno piso de AR_m2:60 y 2 habitación que poder ocupar hasta final de año sin coste alguno manuel viudo y mecánico de profesión tener 2 piso vacío decidir ceder lo a el ayuntamiento para que ser ocupar por gente necesitar a_cambio solo haber pedir a el ocupante que le cuidar el piso el pareja no tener palabra para agradecer le a manuel el que estar hacendar por ellos se dedicar a el venta ambulante pero apenas tener ingreso el vida de raquel también haber mejorar radicalmente después_de cambiar de piso que compartir con 12 familiar saber que haber tener suerte y que gesto como el de manuel se ver poco sólo en el municipio de arrecife más de 4000 familia haber solicitar alguno tipo de ayuda a el servicio social",
+        "lemmatized_text_reduced": "tiempo crisis haber persona intentar echar mano tener peor hombre lanzarote mecánico año tener piso vacío haber ofrecer ser ocupar forma gratuito familia necesitar pedir ayuntamiento correr gasto luz agua 1 mes ser nuevo hogar familia joven raquel estar emocionar nuevo casa piso habitación poder ocupar final año coste manuel viudo mecánico profesión tener piso vacío decidir ceder ayuntamiento ser ocupar gente necesitar haber pedir ocupante cuidar piso pareja tener palabra agradecer manuel estar hacendar dedicar venta ambulante tener ingreso vida raquel haber mejorar radicalmente cambiar piso compartir familiar saber haber tener suerte gesto manuel ver municipio arrecife familia haber solicitar tipo ayuda servicio social",
+        "persons": [
+            "Raquel",
+            "Manuel",
+            "Manuel",
+            "Raquel",
+            "Manuel"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "56",
+            "2",
+            "2",
+            "AR_m2:60",
+            "2",
+            "2",
+            "12",
+            "4000"
+        ]
+    }
+}

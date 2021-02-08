@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/643209/0/",
+    "title": {
+        "raw_text": "Tres jóvenes y un adulto resultan heridos en la colisión de un turismo y un camión en la capital grancanaria",
+        "lemmatized_text": "3 joven y uno adulto resultar herir en el colisión de uno turismo y uno camión en el capital grancanaria",
+        "lemmatized_text_reduced": "joven adulto resultar herir colisión turismo camión capital grancanaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Tres jóvenes y un adulto han resultado heridos de consideración leve en la colisión de un turismo y un camión en la esquina de Juan XXIII con la calle Pérez del Toro, en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "3 joven y uno adulto haber resultar herido de consideración leve en el colisión de uno turismo y uno camión en el esquina de juan_xxiii con el calle pérez_del_toro en las_palmas_de_gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "joven adulto haber resultar herido consideración leve colisión turismo camión esquina juan_xxiii calle pérez_del_toro las_palmas_de_gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Juan_XXIII",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Pérez_del_Toro",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente de tráfico ocurrió esta madrugada, a las 00.40 horas, cuando varias llamadas alertaron al Cecoes del incidente en el citado lugar. Así, el 112 activó el dispositivo de emergencias necesario. Si bien el choque fue muy aparatoso, se saldó con heridos leves. No obstante, resultaron afectados cuatro varones, de 19, 20, 21 y 43 años de edad, algunos de los cuales tuvieron que ser rescatados por los bomberos de la capital al quedar atrapados dentro de los vehículos, según las mismas fuentes. En concreto, los perjudicados de 21 y 43 años de edad fueron evacuados en sendas ambulancias de soporte vital básico del Servicio de Urgencias Canario (SUC) al Hospital Universitario de Gran Canaria Doctor Negrín para su observación, así como el joven de 20 años que fue trasladado al mismo centro hospitalario en ambulancia medicalizada. Por su parte, el cuarto afectado, de 19 años, fue atendido in situ por personal médico del SUC. En dicho suceso actuó la Policía Local, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el accidente de tráfico ocurrir este madrugada a el TM_h:0.4 cuando varios llamada alertar a el cecoes de el incidente en el citar lugar así el 112 activar el dispositivo de emergencia necesario si bien el choque ser muy aparatoso se saldar con herido leve no_obstante resultar afectar 4 varón de 19 20 21 y 43 año de edad alguno de el cual tener que ser rescatar por el bombero de el capital a el quedar atrapar dentro_de el vehículo según el mismo fuente en concreto el perjudicado de 21 y 43 año de edad ser evacuar en sendos ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc a el hospital_universitario_de_gran_canaria_doctor_negrín para su observación así_como el joven de 20 año que ser trasladar a el mismo centro hospitalario en ambulancia medicalizada por su parte el cuarto afectar de 19 año ser atender in_situ por personal médico de el suc en decir suceso actuar el policía_local que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente tráfico ocurrir madrugada llamada alertar cecoes incidente citar lugar activar dispositivo emergencia necesario choque ser aparatoso saldar herido leve resultar afectar varón año edad tener ser rescatar bombero capital quedar atrapar vehículo mismo fuente concreto perjudicado año edad ser evacuar ambulancia soporte vital básico servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín observación joven año ser trasladar mismo centro hospitalario ambulancia medicalizada parte cuarto afectar año ser atender personal médico suc decir suceso actuar policía_local encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:0.4",
+            "112",
+            "4",
+            "19",
+            "20",
+            "21",
+            "43",
+            "21",
+            "43",
+            "20",
+            "19"
+        ]
+    }
+}

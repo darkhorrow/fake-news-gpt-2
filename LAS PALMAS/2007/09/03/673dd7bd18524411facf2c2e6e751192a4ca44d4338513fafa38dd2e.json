@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-09-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/270509/0/pAtera/inmigrantes/menores/",
+    "title": {
+        "raw_text": "Llega una patera con 16 inmigrantes, tres de ellos menores, a las costas de Lanzarote",
+        "lemmatized_text": "llegar uno patera con 16 inmigrante 3 de ellos menor a el costa de lanzarote",
+        "lemmatized_text_reduced": "llegar patera inmigrante menor costa lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "16",
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La embarcación fue conducida a Puerto Naos. Los inmigrantes se hallaban en buen estado de salud. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA.",
+        "lemmatized_text": "el embarcación ser conducir a puerto_naos el inmigrante se hallar en bueno estado de salud consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "embarcación ser conducir puerto_naos inmigrante hallar bueno estado salud consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Puerto_Naos"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una patera con 16 inmigrantes a bordo, entre ellos tres menores , arribó esta madrugada a Lanzarote, informaron fuentes de los servicios de emergencias. La embarcación fue detectada cerca de la una de la madrugada y fue alcanzada por Salvamento Marítimo y la Guardia Civil poco después a 500 metros de Playa Bastian , en Teguise. La embarcación fue llevada a Puerto Naos en Arrecife , a donde llegaron los inmigrantes en buen estado. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno patera con 16 inmigrante a_bordo entre ellos 3 menor arribar este madrugada a lanzarote informar fuente de el servicio de emergencia el embarcación ser detectar cerca de el uno de el madrugada y ser alcanzar por salvamento_marítimo y el guardia_civil poco después a LN_m:500 de playa_bastian en teguise el embarcación ser llevar a puerto_naos en arrecife a_donde llegar el inmigrante en bueno estado consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "patera inmigrante menor arribar madrugada lanzarote informar fuente servicio emergencia embarcación ser detectar madrugada ser alcanzar salvamento_marítimo guardia_civil playa_bastian teguise embarcación ser llevar puerto_naos arrecife llegar inmigrante bueno estado consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Playa_Bastian",
+            "Teguise",
+            "Puerto_Naos",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "16",
+            "3",
+            "LN_m:500"
+        ]
+    }
+}

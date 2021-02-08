@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/608111/0/",
+    "title": {
+        "raw_text": "PSOE critica a Gobierno canario por usar dinero del contribuyente para \"subvencionar la seguridad social de empresarios\"",
+        "lemmatized_text": "psoe criticar a gobierno canario por usar dinero de el contribuyente para subvencionar el seguridad social de empresario",
+        "lemmatized_text_reduced": "psoe criticar gobierno canario usar dinero contribuyente subvencionar seguridad social empresario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PSOE",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El secretario general del PSOE en Canarias, Juan Fernando López Aguilar, ha criticado la medida propuesta por el presidente regional, Paulino Rivero, de utilizar los 70 millones de euros del antiguo ITE para crear empleo al considerar que de esta manera el Ejecutivo utilizaría el dinero del contribuyente para \"subvencionar la seguridad social de los empresarios\".",
+        "lemmatized_text": "el secretario general de el psoe en canarias juan_fernando_lópez_aguilar haber criticar el medida propuesta por el presidente regional paulino_rivero de utilizar el $_ECU:70000000 de el antiguo ite para crear empleo a el considerar que de este manera el ejecutivo utilizar el dinero de el contribuyente para subvencionar el seguridad social de el empresario",
+        "lemmatized_text_reduced": "secretario general psoe canarias juan_fernando_lópez_aguilar haber criticar medida propuesta presidente regional paulino_rivero utilizar antiguo ite crear empleo considerar manera ejecutivo utilizar dinero contribuyente subvencionar seguridad social empresario",
+        "persons": [
+            "Juan_Fernando_López_Aguilar",
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "PSOE",
+            "ITE",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:70000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo manifestó el también ex ministro de Justicia en una rueda de prensa celebrada hoy en Las Palmas de Gran Canaria con motivo de la Ejecutiva regional del PSOE en la que tachó de \"absurda\" la propuesta de empleo creada por el Gobierno de Canarias. \"Estamos ante un Gobierno mentiroso y profundamente artificial que con la solidaridad fiscal de los contribuyentes subvencionará las cuotas de la seguridad social a los empresarios\", dijo López Aguilar quien destacó que \"las cuentas no salen\" ya que con esos 70 millones de euros solamente \"le daría para subvencionar 750 euros de un mileurista en la seguridad social durante 3 meses\". Asimismo, recordó que el Ejecutivo canario anunció que con ese dinero procedente del Estado \"pondrían en marcha un plan de inversión y de generación directa de empleo administrada por cabildos y ayuntamientos\". Por tanto, \"ha vuelto a mentir a los ciudadanos porque lo que pretende hacer con ese dinero es subvencionar las deudas con la seguridad social de aquellos empresarios gratos al gobierno de Canarias\", garantizó el socialista. Por todo ello, López Aguilar reiteró que Canarias padece \"el peor Gobierno de la historia\" y que viene \"en el peor momento posible\" porque \"ha destruido la inversión productiva y el gasto social en Canarias pero ha mantenido todas las líneas de gasto clientelar que garantizan el populismo clientelista que es la razón de ser de la continuidad del pacto entre CC y PP\".",
+        "lemmatized_text": "así lo manifestar el también ex ministro de justicia en uno rueda de prensa celebrar hoy en las_palmas_de_gran_canaria con motivo de el ejecutiva regional de el psoe en el que tachar de absurdo el propuesta de empleo crear por el gobierno_de_canarias estar ante uno gobierno mentiroso y profundamente artificial que con el solidaridad fiscal de el contribuyente subvencionar el cuota de el seguridad social a el empresario decir lópez_aguilar quien destacar que el cuenta no salir ya_que con ese $_ECU:70000000 solamente le dar para subvencionar $_ECU:750 de uno mileurista en el seguridad social durante 3 mes asimismo recordar que el ejecutivo canario anunciar que con ese dinero procedente de el estado poner en marcha uno plan de inversión y de generación directo de empleo administrar por cabildo y ayuntamiento por tanto haber volver a mentir a el ciudadano porque el que pretender hacer con ese dinero ser subvencionar el deuda con el seguridad social de aquel empresario grato a el gobierno de canarias garantizar el socialista por todo ello lópez_aguilar reiterar que canarias padecer el peor gobierno de el historia y que venir en el peor momento posible porque haber destruir el inversión productivo y el gasto social en canarias pero haber mantener todo el línea de gasto clientelar que garantizar el populismo clientelista que ser el razón de ser de el continuidad de el pacto entre cc y pp",
+        "lemmatized_text_reduced": "manifestar ex ministro justicia rueda prensa celebrar las_palmas_de_gran_canaria motivo ejecutiva regional psoe tachar absurdo propuesta empleo crear gobierno_de_canarias estar gobierno mentiroso profundamente artificial solidaridad fiscal contribuyente subvencionar cuota seguridad social empresario decir lópez_aguilar destacar cuenta salir solamente dar subvencionar mileurista seguridad social mes recordar ejecutivo canario anunciar dinero procedente estado poner marcha plan inversión generación directo empleo administrar cabildo ayuntamiento haber volver mentir ciudadano pretender hacer dinero ser subvencionar deuda seguridad social empresario grato gobierno canarias garantizar socialista lópez_aguilar reiterar canarias padecer peor gobierno historia venir peor momento posible haber destruir inversión productivo gasto social canarias haber mantener línea gasto clientelar garantizar populismo clientelista ser razón ser continuidad pacto cc pp",
+        "persons": [
+            "López_Aguilar",
+            "López_Aguilar"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Canarias",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Ejecutiva",
+            "PSOE",
+            "Gobierno_de_Canarias",
+            "Gobierno",
+            "Ejecutivo",
+            "Estado",
+            "Gobierno",
+            "CC",
+            "PP"
+        ],
+        "others": [
+            "Justicia"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:70000000",
+            "$_ECU:750",
+            "3"
+        ]
+    }
+}

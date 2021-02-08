@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/606264/0/",
+    "title": {
+        "raw_text": "Declarado culpable el que mató a su novia en un hotel en Gran Canaria y la fiscal aumenta a 25 años su petición",
+        "lemmatized_text": "declarar culpable el que matar a su novio en uno hotel en gran_canaria y el fiscal aumentar a 25 año su petición",
+        "lemmatized_text_reduced": "declarar culpable matar novio hotel gran_canaria fiscal aumentar año petición",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25"
+        ]
+    },
+    "lead": {
+        "raw_text": "El jurado popular del juicio contra Y.A.M., acusado de matar \"con alevosía\" a su novia en el hotel Valencia de la capital grancanaria, ha declarado culpable de asesinato al acusado a la vez que la fiscal del caso ha aumentado su petición a la pena máxima de prisión, consistente en 25 años. No obstante, la sala emitirá la sentencia mañana.",
+        "lemmatized_text": "el jurado popular de el juicio contra y.a.m. acusar de matar con alevosía a su novio en el hotel valencia de el capital grancanaria haber declarar culpable de asesinato a el acusado a_la_vez_que el fiscal de el caso haber aumentar su petición a el pena máximo de prisión consistente en 25 año no_obstante el sala emitir el sentencia mañana",
+        "lemmatized_text_reduced": "jurado popular juicio y.a.m. acusar matar alevosía novio hotel valencia capital grancanaria haber declarar culpable asesinato acusado fiscal caso haber aumentar petición pena máximo prisión consistente año sala emitir sentencia",
+        "persons": [],
+        "locations": [
+            "Valencia"
+        ],
+        "organizations": [
+            "Y.A.M."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo determinó hoy el jurado del caso durante el fallo de su veredicto sobre el juicio que desde el lunes está acogiendo la Sección Primera de la Audiencia Provincial de Las Palmas. En concreto, los miembros del jurado aprobaron por unanimidad que el acusado \"es culpable de la muerte, ocasionada de forma voluntaria\" de J.R.D. a la que le propinó \"voluntariamente repetidos golpes\". La fiscal del caso, con la aprobación de la acusación particular, la abogacía del Estado, el Ayuntamiento de Las Palmas de Gran Canaria y el Instituto Canario de la Mujer (ICM), aumentó hasta los 25 años de prisión su petición de la pena para el acusado. Además, el Ministerio Fiscal pidió a Y.A.M. una indemnización de 120.000 euros para los herederos de la fallecida, que se vio incrementada hasta los 200.000 por la representante del organismo regional de la mujer. El abogado de la acusación, Javier de la Llave, valoró \"muy positivamente\" el veredicto del jurado porque demuestra que se ha conseguido \"probar que se dan las circunstancias, por un lado la mista de parentesco del artículo 23 y luego el jurado ha declarado probado que existe también además de alevosía ensañamiento\". \"En consecuencia podemos solicitar y así será que se le imponga la pena máxima de 25 años, que es en definitiva lo que perseguíamos además de la indemnización\", manifestó el letrado. (Habrá ampliación)",
+        "lemmatized_text": "así lo determinar hoy el jurado de el caso durante el fallo de su veredicto sobre el juicio que desde el [L:??/??/??:??.??:??] estar acoger el sección_primera_de_la_audiencia_provincial_de_las_palmas en concreto el miembro de el jurado aprobar por unanimidad que el acusado ser culpable de el muerte ocasionar de forma voluntario de j.r.d. a el que le propinar voluntariamente repetir golpe el fiscal de el caso con el aprobación de el acusación particular el abogacía de el estado el ayuntamiento_de_las_palmas_de_gran_canaria y el instituto_canario_de_la_mujer icm aumentar hasta el 25 año de prisión su petición de el pena para el acusado además el ministerio_fiscal pedir a y.a.m. uno indemnización de $_ECU:120 para el heredero de el fallecer que se ver incrementar hasta el 200 por el representante de el organismo regional de el mujer el abogado de el acusación javier_de_la_llave valorar muy positivamente el veredicto de el jurado porque demostrar que se haber conseguir probar que se dar el circunstancia por uno lado lo mistar de parentesco de el artículo 23 y luego el jurado haber declarar probar que existir también además_de alevosía ensañamiento en_consecuencia poder solicitar y así ser que se le imponer el pena máximo de 25 año que ser en definitivo el que perseguir además_de el indemnización manifestar el letrado haber ampliación",
+        "lemmatized_text_reduced": "determinar jurado caso fallo veredicto juicio estar acoger sección_primera_de_la_audiencia_provincial_de_las_palmas concreto miembro jurado aprobar unanimidad acusado ser culpable muerte ocasionar forma voluntario j.r.d. propinar voluntariamente repetir golpe fiscal caso aprobación acusación particular abogacía estado ayuntamiento_de_las_palmas_de_gran_canaria instituto_canario_de_la_mujer icm aumentar año prisión petición pena acusado ministerio_fiscal pedir y.a.m. indemnización heredero fallecer ver incrementar representante organismo regional mujer abogado acusación javier_de_la_llave valorar positivamente veredicto jurado demostrar haber conseguir probar dar circunstancia lado mistar parentesco artículo jurado haber declarar probar existir alevosía ensañamiento poder solicitar ser imponer pena máximo año ser definitivo perseguir indemnización manifestar letrado haber ampliación",
+        "persons": [
+            "Javier_de_la_Llave"
+        ],
+        "locations": [],
+        "organizations": [
+            "Sección_Primera_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "J.R.D.",
+            "Estado",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Instituto_Canario_de_la_Mujer",
+            "ICM",
+            "Ministerio_Fiscal",
+            "Y.A.M."
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "25",
+            "$_ECU:120",
+            "200",
+            "23",
+            "25"
+        ]
+    }
+}

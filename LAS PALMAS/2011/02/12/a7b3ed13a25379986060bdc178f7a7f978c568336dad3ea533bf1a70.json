@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/957394/0/",
+    "title": {
+        "raw_text": "Canarias está este fin de semana en riesgo amarillo por fuerte oleaje",
+        "lemmatized_text": "canario estar este fin de semana en riesgo amarillo por fuerte oleaje",
+        "lemmatized_text_reduced": "canario estar fin semana riesgo amarillo fuerte oleaje",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Comunidad Autónoma de Canarias está este fin de semana riesgo amarillo por fenómenos costeros --fuerte oleaje--, aunque en zonas como el sur de Gran Canaria, Tenerife y La Gomera o el este de El Hierro y La Palma no estarán en alerta, según informa la Agencia Estatal de Meteorología (AEMET).",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias estar este fin de semana riesgo amarillo por fenómeno costero fuerte oleaje aunque en zona como el sur de gran_canaria tenerife y la_gomera o el este de el_hierro y la_palma no estar en alerta según informar el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias estar fin semana riesgo amarillo fenómeno costero fuerte oleaje zona sur gran_canaria tenerife la_gomera este el_hierro la_palma estar alerta informar agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Tenerife",
+            "El_Hierro",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "La_Gomera",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Comunidad Autónoma de Canarias está este fin de semana riesgo amarillo por fenómenos costeros —fuerte oleaje—, aunque en zonas como el sur de Gran Canaria, Tenerife y La Gomera o el este de El Hierro y La Palma no estarán en alerta, según informa la Agencia Estatal de Meteorología (AEMET). De esta manera, el riesgo se activó a las 00.00 horas de este sábado, 12 de febrero, y se mantendrá durante todo el día y la mañana del domingo 13, puesto que se prevé finalice la situación de alerta a las 10.00 horas. Por su parte, la dirección general de Protección Civil y Emergencias del Ministerio del Interior ha activado los avisos por nieve en el centro y mitad norte peninsular y por vientos costeros en Galicia, cornisa cantábrica y el archipiélago canario para este fin de semana, ante las predicciones de la AEMET. En concreto, se esperan precipitaciones en forma de nieve en la sierra de Madrid, Asturias, Cantabria, Castilla y León, Navarra, Aragón, Castilla-La Mancha y Extremadura. En algunas zonas, se podrán acumular hasta cinco centímetros de espesor. Además, avisa por vientos costeros a Galicia, la cornisa cantábrica y al archipiélago canario ya que se prevén vientos en tierra que podrán alcanzar los 80 kilómetros por hora en el caso de Galicia. Por ello, Protección Civil recomienda a los ciudadanos que extremen las precauciones y adopten las oportunas medidas de autoprotección que favorecen su seguridad y la de los demás. Así, en el caso de la nieve, aconseja utilizar el transporte público, preferentemente, en las ciudades y sus accesos. Si es imprescindible viajar por carretera, se pide tener especial cuidado con las placas de hielo, informarse de la situación meteorológica y el estado de las carreteras, extremar las precauciones, revisar el vehículo y atender a las recomendaciones de Tráfico, entre otros consejos. Ante vientos costeros, en las zonas marítimas es recomendable alejarse de la playa y de otros lugares bajos que puedan ser afectados por las elevadas mareas y oleajes que suelen generarse ante la intensidad de vientos fuertes. En tierra, Protección Civil recuerda que conviene asegurar puertas, ventanas y todos aquellos objetos que puedan caer a la vía pública y alejarse de cornisas, árboles, muros o edificaciones en construcción o grúas que puedan desprenderse. En carretera, extremar las precauciones, especialmente en la salida de túneles, adelantamientos y cruce con vehículos pesados en carreteras de doble sentido, entre otras recomendaciones.",
+        "lemmatized_text": "el comunidad_autónoma_de_canarias estar este fin de semana riesgo amarillo por fenómeno costero fuerte oleaje aunque en zona como el sur de gran_canaria tenerife y la_gomera o el este de el_hierro y la_palma no estar en alerta según informar el agencia_estatal_de_meteorología aemet de este manera el riesgo se activar a el TM_h:0 de este [S:12/2/??:??.??:??] y se mantener durante todo el día y el mañana de el [G:13/??/??:??.??:??] puesto que se prever finalizar el situación de alerta a el TM_h:10 por su parte el dirección general de protección_civil y emergencias_del_ministerio_del_interior haber activar el aviso por nieve en el centro y mitad norte peninsular y por viento costero en galicia cornisa cantábrico y el archipiélago canario para este fin de semana ante el predicción de el aemet en concreto se esperar precipitación en forma de nieve en el sierra de madrid asturias cantabria castilla y león navarra aragón castilla-la_mancha y extremadura en alguno zona se poder acumular hasta LN_cm:5 de espesor además avisar por viento costero a galicia el cornisa cantábrico y a el archipiélago canario ya_que se prever viento en tierra que poder alcanzar el SP_km/h:80 en el caso de galicia por ello protección_civil recomendar a el ciudadano que extremar el precaución y adoptar el oportuno medida de autoprotección que favorecer su seguridad y el de el demás así en el caso de el nieve aconsejar utilizar el transporte público preferentemente en el ciudad y su acceso si ser imprescindible viajar por carretera se pedir tener especial cuidado con el placa de hielo informar se de el situación meteorológico y el estado de el carretera extremar el precaución revisar el vehículo y atender a el recomendación de tráfico entre otro consejo ante viento costero en el zona marítimo ser recomendable alejar se de el playa y de otro lugar bajo que poder ser afectar por el elevar marea y oleaje que soler generar se ante el intensidad de viento fuerte en tierra protección_civil recordar que convenir asegurar puerta ventana y todo aquel objeto que poder caer a el vía público y alejar se de cornisa árbol muro o edificación en construcción o grúa que poder desprender se en carretera extremar el precaución especialmente en el salida de túnel adelantamiento y cruce con vehículo pesar en carretera de doble sentido entre otro recomendación",
+        "lemmatized_text_reduced": "comunidad_autónoma_de_canarias estar fin semana riesgo amarillo fenómeno costero fuerte oleaje zona sur gran_canaria tenerife la_gomera este el_hierro la_palma estar alerta informar agencia_estatal_de_meteorología aemet manera riesgo activar mantener día mañana puesto prever finalizar situación alerta parte dirección general protección_civil emergencias_del_ministerio_del_interior haber activar aviso nieve centro mitad norte peninsular viento costero galicia cornisa cantábrico archipiélago canario fin semana predicción aemet concreto esperar precipitación forma nieve sierra madrid asturias cantabria castilla león navarra aragón castilla-la_mancha extremadura zona poder acumular espesor avisar viento costero galicia cornisa cantábrico archipiélago canario prever viento tierra poder alcanzar caso galicia protección_civil recomendar ciudadano extremar precaución adoptar oportuno medida autoprotección favorecer seguridad caso nieve aconsejar utilizar transporte público preferentemente ciudad acceso ser imprescindible viajar carretera pedir tener especial cuidado placa hielo informar situación meteorológico estado carretera extremar precaución revisar vehículo atender recomendación tráfico consejo viento costero zona marítimo ser recomendable alejar playa lugar bajo poder ser afectar elevar marea oleaje soler generar intensidad viento fuerte tierra protección_civil recordar convenir asegurar puerta ventana objeto poder caer vía público alejar cornisa árbol muro edificación construcción grúa poder desprender carretera extremar precaución especialmente salida túnel adelantamiento cruce vehículo pesar carretera doble sentido recomendación",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Tenerife",
+            "El_Hierro",
+            "La_Palma",
+            "Galicia",
+            "Madrid",
+            "Asturias",
+            "Cantabria",
+            "Castilla",
+            "León",
+            "Navarra",
+            "Aragón",
+            "Castilla-La_Mancha",
+            "Extremadura",
+            "Galicia",
+            "Galicia"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "La_Gomera",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "Protección_Civil",
+            "Emergencias_del_Ministerio_del_Interior",
+            "AEMET",
+            "Protección_Civil",
+            "Tráfico",
+            "Protección_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[S:12/2/??:??.??:??]",
+            "[G:13/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:0",
+            "TM_h:10",
+            "LN_cm:5",
+            "SP_km/h:80"
+        ]
+    }
+}

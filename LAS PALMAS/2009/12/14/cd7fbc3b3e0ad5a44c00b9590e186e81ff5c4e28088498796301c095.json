@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/587743/0/",
+    "title": {
+        "raw_text": "Más de 20.000 personas acuden a la Feria del Vehículo de Ocasión 'Expo Avivo 2009' en Las Palmas de Gran Canaria",
+        "lemmatized_text": "más de 20 persona acudir a el feria_del_vehículo_de_ocasión expo_avivo 2009 en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persona acudir feria_del_vehículo_de_ocasión expo_avivo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [
+            "Feria_del_Vehículo_de_Ocasión",
+            "Expo_Avivo"
+        ],
+        "dates": [],
+        "numbers": [
+            "20",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "Expo Avivo 2009, la feria del vehículo de ocasión, recibió más 20.000 visitantes el pasado fin de semana en Las Palmas de Gran Canaria, con una ventas estimadas --a la falta de los datos oficiales-- en torno al 50 por ciento, según informó hoy la Federación Provincial de Pequeña y Mediana Empresa del Metal y Nuevas Tecnologías de Las Palmas (Femepa) en un comunicado.",
+        "lemmatized_text": "expo_avivo 2009 el feria de el vehículo de ocasión recibir más 20 visitante el pasar fin de semana en las_palmas_de_gran_canaria con uno venta estimar a el falta de el dato oficial en torno a el 50 por 100 según informar hoy el federación_provincial_de_pequeña y mediana_empresa_del_metal y nuevas_tecnologías_de_las_palmas femepa en uno comunicado",
+        "lemmatized_text_reduced": "expo_avivo feria vehículo ocasión recibir visitante pasar fin semana las_palmas_de_gran_canaria venta estimar falta dato oficial torno informar federación_provincial_de_pequeña mediana_empresa_del_metal nuevas_tecnologías_de_las_palmas femepa comunicado",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Federación_Provincial_de_Pequeña",
+            "Mediana_Empresa_del_Metal",
+            "Nuevas_Tecnologías_de_Las_Palmas",
+            "Femepa"
+        ],
+        "others": [
+            "Expo_Avivo"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "20",
+            "50",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Hay una gran satisfacción por parte de los vendedores y de los visitantes, ya que se lograron las expectativas de buenos precios, calidad y afluencia de público. La media de ventas fue de tres a cuatro vehículos por expositor y alguno llegó a vender diez coches\", señalaron. De esta manera, explicaron que ay que tener en cuenta que la Expo Avivo ofreció \"auténticas oportunidades que los visitantes no dejaron escapar\", como vehículos de alta gama casi nuevos que se vendieron al 50 por ciento menos del precio de primera mano. La Feria del vehículo de ocasión se celebró en el Intercambiador del Parque Santa Catalina los días 10, 11, 12 y 13 de diciembre y contó con la exposición de unos 150 vehículos y diez empresas expositoras. \"Expo AVIVO 2009 ha sido un exponente para la reactivación del mercado del vehículo de ocasión\", indicaron.",
+        "lemmatized_text": "haber uno gran satisfacción por parte de el vendedor y de el visitante ya_que se lograr el expectativa de bueno precio calidad y afluencia de público el media de venta ser de 3 a 4 vehículo por expositor y alguno llegar a vender 10 coche señalar de este manera explicar que ay que tener_en_cuenta que el expo_avivo ofrecer auténtico oportunidad que el visitante no dejar escapar como vehículo de alto gama casi nuevo que se vender a el 50 por 100 menos de el precio de 1 mano el feria de el vehículo de ocasión se celebrar en el intercambiador_del_parque_santa_catalina el día 10 11 12 y [??:13/12/??:??.??:??] y contar con el exposición de uno 150 vehículo y 10 empresa expositor expo_avivo 2009 haber ser uno exponente para el reactivación de el mercado de el vehículo de ocasión indicar",
+        "lemmatized_text_reduced": "haber gran satisfacción parte vendedor visitante lograr expectativa bueno precio calidad afluencia público media venta ser vehículo expositor llegar vender coche señalar manera explicar tener_en_cuenta expo_avivo ofrecer auténtico oportunidad visitante dejar escapar vehículo alto gama nuevo vender precio 1 mano feria vehículo ocasión celebrar intercambiador_del_parque_santa_catalina día contar exposición vehículo empresa expositor expo_avivo haber ser exponente reactivación mercado vehículo ocasión indicar",
+        "persons": [],
+        "locations": [
+            "Intercambiador_del_Parque_Santa_Catalina"
+        ],
+        "organizations": [],
+        "others": [
+            "Expo_Avivo",
+            "Feria",
+            "Expo_AVIVO"
+        ],
+        "dates": [
+            "[??:13/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "4",
+            "10",
+            "50",
+            "100",
+            "10",
+            "11",
+            "12",
+            "150",
+            "10",
+            "2009"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/719161/0/",
+    "title": {
+        "raw_text": "La colisión entre dos vehículos en Gran Canaria se salda con dos heridos de carácter menos grave",
+        "lemmatized_text": "el colisión entre 2 vehículo en gran_canaria se saldar con 2 herido de carácter menos grave",
+        "lemmatized_text_reduced": "colisión vehículo gran_canaria saldar herido carácter grave",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La colisión entre dos vehículos la pasada madrugada en Gran Canaria se saldó con dos heridos de carácter menos grave, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el colisión entre 2 vehículo el pasar madrugada en gran_canaria se saldar con 2 herido de carácter menos grave según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "colisión vehículo pasar madrugada gran_canaria saldar herido carácter grave informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 03.00 horas en la GC-500 a la altura de Amadores, dentro del término municipal de Mogán, y los heridos fueron dos jóvenes de 18 y 22 años que sufrieron diversos traumatismos de carácter menos grave. Hasta el lugar del incidente se trasladó personal del Servicio de Urgencias Canario (SUC) que llevó a los heridos a diferentes de centros sanitarios. Asimismo, en el lugar se personaron agentes de la Policía Local.",
+        "lemmatized_text": "el incidente se producir a el TM_h:3 en el GC-500 a el altura de amadores dentro de el término municipal de mogán y el herido ser 2 joven de 18 y 22 año que sufrir diverso traumatismo de carácter menos grave hasta el lugar de el incidente se trasladar personal de el servicio_de_urgencias_canario suc que llevar a el herido a diferente de centro sanitario asimismo en el lugar se personar agente de el policía_local",
+        "lemmatized_text_reduced": "incidente producir altura amadores término municipal mogán herido ser joven año sufrir traumatismo carácter grave lugar incidente trasladar personal servicio_de_urgencias_canario suc llevar herido diferente centro sanitario lugar personar agente policía_local",
+        "persons": [],
+        "locations": [
+            "Amadores",
+            "Mogán"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:3",
+            "GC-500",
+            "2",
+            "18",
+            "22"
+        ]
+    }
+}

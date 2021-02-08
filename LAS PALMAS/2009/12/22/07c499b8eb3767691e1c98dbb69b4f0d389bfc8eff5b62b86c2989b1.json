@@ -1,0 +1,87 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594076/0/",
+    "title": {
+        "raw_text": "Una alumna del Colegio Heidelberg (Gran Canaria) gana el concurso fotográfico escolar 'Ciencia, Día a Día'",
+        "lemmatized_text": "uno alumno de el colegio_heidelberg gran_canaria ganar el concurso fotográfico escolar ciencia día a día",
+        "lemmatized_text_reduced": "alumno colegio_heidelberg gran_canaria ganar concurso fotográfico escolar ciencia día día",
+        "persons": [
+            "Día"
+        ],
+        "locations": [
+            "Día"
+        ],
+        "organizations": [
+            "Colegio_Heidelberg",
+            "Gran_Canaria",
+            "Ciencia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una alumna del Colegio Heidelberg, ubicado en Las Palmas de Gran Canaria, Jocelyne Suárez, ha resultado ganadora del Concurso Fotográfico Escolar 'Ciencia Día a Día', durante la pasada celebración de 'Las Semanas de la Ciencia y la Innovación en Canarias 2009', que organizó el Gobierno de Canarias, a través de la Agencia Canaria de Investigación, Innovación y Sociedad de la Información (ACIISI), en colaboración con la Fundación Española para la Ciencia y Tecnología (FECYT).",
+        "lemmatized_text": "uno alumno de el colegio_heidelberg ubicar en las_palmas_de_gran_canaria jocelyne_suárez haber resultar ganador de el concurso_fotográfico_escolar ciencia_día a día durante el pasar celebración de el semanas_de_la_ciencia y el innovación en canarias 2009 que organizar el gobierno_de_canarias a_través_de el agencia_canaria_de_investigación innovación y sociedad_de_la_información aciisi en colaboración con el fundación_española_para_la_ciencia y tecnología fecyt",
+        "lemmatized_text_reduced": "alumno colegio_heidelberg ubicar las_palmas_de_gran_canaria jocelyne_suárez haber resultar ganador concurso_fotográfico_escolar ciencia_día día pasar celebración semanas_de_la_ciencia innovación canarias organizar gobierno_de_canarias agencia_canaria_de_investigación innovación sociedad_de_la_información aciisi colaboración fundación_española_para_la_ciencia tecnología fecyt",
+        "persons": [
+            "Jocelyne_Suárez",
+            "Ciencia_Día",
+            "Innovación"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Día",
+            "Canarias"
+        ],
+        "organizations": [
+            "Colegio_Heidelberg",
+            "Concurso_Fotográfico_Escolar",
+            "Semanas_de_la_Ciencia",
+            "Innovación",
+            "Gobierno_de_Canarias",
+            "Agencia_Canaria_de_Investigación",
+            "Sociedad_de_la_Información",
+            "ACIISI",
+            "Fundación_Española_para_la_Ciencia",
+            "Tecnología",
+            "FECYT"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Con su foto titulada 'Descubrimientos', esta joven de 17 años y aficionada a la fotografía obtuvo el primer premio de entre 26 fotografías presentadas de nueve centros de Canarias, que se pueden ver en la página web: www.cienciacanaria.es. Jocelyne Suárez recibió un cheque regalo de 125 euros, del que hizo entrega el director de Innovación del Instituto Tecnológico de Canarias (ITC), Antonio López, en representación de la ACIISI, quien también otorgó al profesor de la alumna, que a su vez es director del centro escolar, Miguel Ángel Montenegro, un cheque regalo de 300 euros por promover la participación de sus alumnos, y otro premio de 1.000 euros más en material científico educativo para el colegio, que recibió el propio director en representación del centro escolar.",
+        "lemmatized_text": "con su foto titular descubrimientos este joven de 17 año y aficionar a el fotografía obtener el 1 premio de entre 26 fotografía presentar de 9 centro de canarias que se poder ver en el página web www.cienciacanaria.es jocelyne_suárez recibir uno cheque regalo de $_ECU:125 de el que hacer entrega el director de innovación_del_instituto_tecnológico_de_canarias itc antonio_lópez en_representación_de el aciisi quien también otorgar a el profesor de el alumno que a su vez ser director de el centro escolar miguel_ángel_montenegro uno cheque regalo de $_ECU:300 por promover el participación de su alumno y otro premio de $_ECU:1 más en material científico educativo para el colegio que recibir el propio director en representación de el centro escolar",
+        "lemmatized_text_reduced": "foto titular descubrimientos joven año aficionar fotografía obtener 1 premio fotografía presentar centro canarias poder ver página web www.cienciacanaria.es jocelyne_suárez recibir cheque regalo hacer entrega director innovación_del_instituto_tecnológico_de_canarias itc antonio_lópez aciisi otorgar profesor alumno vez ser director centro escolar miguel_ángel_montenegro cheque regalo promover participación alumno premio material científico educativo colegio recibir propio director representación centro escolar",
+        "persons": [
+            "Jocelyne_Suárez",
+            "Antonio_López",
+            "Miguel_Ángel_Montenegro"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Innovación_del_Instituto_Tecnológico_de_Canarias",
+            "ITC",
+            "ACIISI"
+        ],
+        "others": [
+            "Descubrimientos"
+        ],
+        "dates": [],
+        "numbers": [
+            "17",
+            "26",
+            "9",
+            "$_ECU:125",
+            "$_ECU:300",
+            "$_ECU:1"
+        ]
+    }
+}

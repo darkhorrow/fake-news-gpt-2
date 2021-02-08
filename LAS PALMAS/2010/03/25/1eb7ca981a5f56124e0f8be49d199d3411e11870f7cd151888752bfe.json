@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661382/0/",
+    "title": {
+        "raw_text": "Darias resalta la lucha de la Policía Nacional contra el fango en el pozo de Jinámar (Gran Canaria)",
+        "lemmatized_text": "darias resaltar el lucha de el policía_nacional contra el fango en el pozo de jinámar gran_canaria",
+        "lemmatized_text_reduced": "darias resaltar lucha policía_nacional fango pozo jinámar gran_canaria",
+        "persons": [
+            "Darias"
+        ],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La delegada del Gobierno de España en Canarias, Carolina Darias, ha resaltado la lucha que los efectivos de la Policía Nacional mantienen en estos momentos contra el fango que se acumula en el interior del pozo de Jinámar, en Gran Canaria, donde se busca una bolsa que podría contener huesos y que fue localizada por una cámara subacuática en el marco de la investigación del caso de Sara Morales, desaparecida el 30 de julio de 2006 en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el delegado de el gobierno_de_españa en canarias carolina_darias haber resaltar el lucha que el efectivo de el policía_nacional mantener en este momento contra el fango que se acumular en el interior de el pozo de jinámar en gran_canaria donde se buscar uno bolsa que poder contener hueso y que ser localizar por uno cámara subacuático en el marco de el investigación de el caso de sara_morales desaparecer el [??:30/7/2006:??.??:??] en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "delegado gobierno_de_españa canarias carolina_darias haber resaltar lucha efectivo policía_nacional mantener momento fango acumular interior pozo jinámar gran_canaria buscar bolsa poder contener hueso ser localizar cámara subacuático marco investigación caso sara_morales desaparecer las_palmas_de_gran_canaria",
+        "persons": [
+            "Carolina_Darias"
+        ],
+        "locations": [
+            "Canarias",
+            "Jinámar",
+            "Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno_de_España",
+            "Policía_Nacional"
+        ],
+        "others": [
+            "Sara_Morales"
+        ],
+        "dates": [
+            "[??:30/7/2006:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En declaraciones a los medios de comunicación, Darias puso en valor el trabajo de los agentes aunque reconoció que no hay mucha novedad respecto a las últimas horas pese a que se ha conseguido controlar el agua de las galerías subterráneas. Asimismo, apuntó que el pozo tiene unos 35 metros de profundidad y que se encuentran trabajando en él miembros del Grupo Operativo Especiales de Seguridad (GOES) y del área de Subsuelos, reiterando que es \"incansable\" el trabajo que realiza la Policía Nacional. (Habrá ampliación)",
+        "lemmatized_text": "en declaración a el medio de comunicación darias poner en valor el trabajo de el agente aunque reconocer que no haber mucho novedad respecto_a el último hora pese_a que se haber conseguir controlar el agua de el galería subterráneo asimismo apuntar que el pozo tener uno LN_m:35 de profundidad y que se encontrar trabajar en él miembro de el grupo_operativo_especiales_de_seguridad goes y de el área de subsuelos reiterar que ser incansable el trabajo que realizar el policía_nacional haber ampliación",
+        "lemmatized_text_reduced": "declaración medio comunicación darias poner valor trabajo agente reconocer haber novedad último hora haber conseguir controlar agua galería subterráneo apuntar pozo tener profundidad encontrar trabajar miembro grupo_operativo_especiales_de_seguridad goes área subsuelos reiterar ser incansable trabajo realizar policía_nacional haber ampliación",
+        "persons": [
+            "Darias"
+        ],
+        "locations": [
+            "Subsuelos"
+        ],
+        "organizations": [
+            "Grupo_Operativo_Especiales_de_Seguridad",
+            "GOES",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:35"
+        ]
+    }
+}

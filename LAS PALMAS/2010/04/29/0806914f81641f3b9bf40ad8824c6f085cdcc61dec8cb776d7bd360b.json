@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/692168/0/",
+    "title": {
+        "raw_text": "El Gobierno canario concede 370.00 euros a la Fundación El Patio para realizar acciones socioeducativas",
+        "lemmatized_text": "el gobierno canario conceder $_ECU:370 a el fundación_el_patio para realizar acción socioeducativas",
+        "lemmatized_text_reduced": "gobierno canario conceder fundación_el_patio realizar acción socioeducativas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Fundación_El_Patio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:370"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha autorizado la concesión, de forma directa, de una subvención de 370.000 euros a la Fundación Canaria El Patio, cuyo objetivo está centrado en sufragar parte de los gastos derivados del programa 'El Patio. Proyecto para el desarrollo de dos procesos socioeducativos y comunitarios 2010'.",
+        "lemmatized_text": "el gobierno_de_canarias haber autorizar el concesión de forma directo de uno subvención de $_ECU:370 a el fundación_canaria_el_patio cuyo objetivo estar centrar en sufragar parte de el gasto derivar de el programa el patio proyecto para el desarrollo de 2 proceso socioeducativos y comunitario 2010",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber autorizar concesión forma directo subvención fundación_canaria_el_patio objetivo estar centrar sufragar parte gasto derivar programa patio proyecto desarrollo proceso socioeducativos comunitario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Fundación_Canaria_El_Patio"
+        ],
+        "others": [
+            "Patio"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:370",
+            "2",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "Este proyecto, según informó el Gobierno canario en nota de prensa, está dirigido a un sector de la población que se encuentra en situación de riesgo de exclusión social, debido a la aparición de situaciones relacionadas con la juventud y la violencia, vivida en algunos centros educativos y que cobran su \"máxima expresión en los núcleos urbanos habitados, así con en las zonas que circundan las ciudades de las islas y las zonas de mayor actividad turística, denominadas 'corredores del litoral'\". También, pretende generar procesos socioeducativos, integrales y abiertos, con carácter preventivo y promocional desde la relación y el encuentro, así como en los centros educativos y la calle, orientados a facilitar dinámicas de transformación comunitaria para la mejora de la calidad de vida y profundizar en procesos de trabajo con niños y jóvenes en el ámbito de la comunidad. En concreto, estas acciones se desarrollan en los centros educativos de los barrios de La Remudas-La Pardilla, en Telde (Gran Canaria); así como en Playa Honda y San Bartolomé, en el municipio de San Bartolomé (Lanzarote). El Patio inició sus acciones en 1998 y desde entonces ha ido programando y planificando la intervención durante casi doce años. En la actualidad, El Patio se ha convertido en un proceso \"innovador que da respuesta de forma muy eficaz\" a las nuevas situaciones sociales, constituyendo una \"alternativa preventiva y promocional\" en las zonas de intervención. Además, se trata de un proyecto considerado como un modelo de intervención de referencia en Canarias, el resto del Estado y distintos países del entorno europeo. También ha sido reconocida en distintos foros académicos y sociales, siendo premiada en varias ocasiones, entre otros, tiene el Premio Reina Sofía a la Prevención en Drogodependencias desde la Educación 2008.",
+        "lemmatized_text": "este proyecto según informar el gobierno canario en nota de prensa estar dirigir a uno sector de el población que se encontrar en situación de riesgo de exclusión social debido_a el aparición de situación relacionar con el juventud y el violencia vivir en alguno centro educativo y que cobrar su máximo expresión en el núcleo urbano habitar así con en el zona que circundar el ciudad de el isla y el zona de mayor actividad turístico denominar corredor de el litoral también pretender generar proceso socioeducativos integral y abrir con carácter preventivo y promocional desde el relación y el encuentro así_como en el centro educativo y el calle orientar a facilitar dinámica de transformación comunitario para el mejora de el calidad de vida y profundizar en proceso de trabajo con niño y joven en el ámbito de el comunidad en concreto este acción se desarrollar en el centro educativo de el barrio de la_remudas-la_pardilla en telde gran_canaria así_como en playa_honda y san_bartolomé en el municipio de san_bartolomé lanzarote el patio iniciar su acción en 1998 y desde entonces haber ir programar y planificar el intervención durante casi 12 año en el actualidad el_patio se haber convertir en uno proceso innovador que dar respuesta de forma muy eficaz a el nuevo situación social constituir uno alternativa preventivo y promocional en el zona de intervención además se tratar de uno proyecto considerar como uno modelo de intervención de referencia en canarias el resto de el estado y distinto país de el entorno europeo también haber ser reconocer en distinto foro académico y social ser premiar en varios ocasión entre otro tener el premio_reina_sofía a el prevención en drogodependencias desde el educación 2008",
+        "lemmatized_text_reduced": "proyecto informar gobierno canario nota prensa estar dirigir sector población encontrar situación riesgo exclusión social aparición situación relacionar juventud violencia vivir centro educativo cobrar máximo expresión núcleo urbano habitar zona circundar ciudad isla zona mayor actividad turístico denominar corredor litoral pretender generar proceso socioeducativos integral abrir carácter preventivo promocional relación encuentro centro educativo calle orientar facilitar dinámica transformación comunitario mejora calidad vida profundizar proceso trabajo niño joven ámbito comunidad concreto acción desarrollar centro educativo barrio la_remudas-la_pardilla telde gran_canaria playa_honda san_bartolomé municipio san_bartolomé lanzarote patio iniciar acción haber ir programar planificar intervención año actualidad el_patio haber convertir proceso innovador dar respuesta forma eficaz nuevo situación social constituir alternativa preventivo promocional zona intervención tratar proyecto considerar modelo intervención referencia canarias resto estado país entorno europeo haber ser reconocer foro académico social ser premiar ocasión tener premio_reina_sofía prevención drogodependencias educación",
+        "persons": [
+            "El_Patio"
+        ],
+        "locations": [
+            "La_Remudas-La_Pardilla",
+            "Telde",
+            "Gran_Canaria",
+            "Playa_Honda",
+            "San_Bartolomé",
+            "San_Bartolomé",
+            "Lanzarote",
+            "Canarias",
+            "Drogodependencias"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Patio",
+            "Estado"
+        ],
+        "others": [
+            "Premio_Reina_Sofía",
+            "Prevención",
+            "Educación"
+        ],
+        "dates": [],
+        "numbers": [
+            "1998",
+            "12",
+            "2008"
+        ]
+    }
+}

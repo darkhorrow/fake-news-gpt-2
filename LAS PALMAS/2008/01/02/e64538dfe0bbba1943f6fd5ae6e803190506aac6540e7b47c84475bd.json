@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/328422/0/cristianos/inmigrantes/cayuco/",
+    "title": {
+        "raw_text": "Llevan a Los Cristianos a 58 inmigrantes de un cayuco avistado por el SAR",
+        "lemmatized_text": "llevar a los_cristianos a 58 inmigrante de uno cayuco avistar por el sar",
+        "lemmatized_text_reduced": "llevar los_cristianos inmigrante cayuco avistar sar",
+        "persons": [],
+        "locations": [
+            "Los_Cristianos"
+        ],
+        "organizations": [
+            "SAR"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "58"
+        ]
+    },
+    "lead": {
+        "raw_text": "Entre ellos dos mujeres y tres posibles menores de edad. El remolcador \"Luz de Mar\" de Salvamento Marítimo fue a su encuentro. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "entre ellos 2 mujer y 3 posible menor de edad el remolcador luz_de_mar de salvamento_marítimo ser a su encuentro consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "mujer posible menor edad remolcador luz_de_mar salvamento_marítimo ser encuentro consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Luz_de_Mar"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo traslada hasta Los Cristianos, al sur de Tenerife, a 58 inmigrantes, entre ellos dos mujeres y tres posibles menores de edad , que viajaban en un cayuco que avistó un avión del SAR cuando navegaba a 76 millas al suroeste de Maspalomas, al sur de Gran Canaria. Los 58 inmigrantes fueron transbordados sin problemas a la embarcación de Salvamento Marítimo La barca con inmigrantes fue localizada por una aeronave del SAR sobre las 17.00 horas de hoy y, media hora después, el remolcador \"Luz de Mar\" de Salvamento Marítimo llegó a su encuentro, según informó un portavoz de la sociedad estatal. Los 58 inmigrantes fueron transbordados sin problemas a la embarcación de Salvamento Marítimo, que les condujo hasta Los Cristianos, adonde llegaron a las 21.45 horas, agregaron las fuentes. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "salvamento_marítimo trasladar hasta los_cristianos a el sur de tenerife a 58 inmigrante entre ellos 2 mujer y 3 posible menor de edad que viajar en uno cayuco que avistar uno avión de el sar cuando navegar a LN_mi:76 a el suroeste de maspalomas a el sur de gran_canaria el 58 inmigrante ser transbordar sin problema a el embarcación de salvamento_marítimo_la barca con inmigrante ser localizar por uno aeronave de el sar sobre el TM_h:17 de hoy y medio hora después el remolcador luz_de_mar de salvamento_marítimo llegar a su encuentro según informar uno portavoz de el sociedad estatal el 58 inmigrante ser transbordar sin problema a el embarcación de salvamento_marítimo que le conducir hasta los_cristianos adonde llegar a el TM_h:21.45 agregar el fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo trasladar los_cristianos sur tenerife inmigrante mujer posible menor edad viajar cayuco avistar avión sar navegar suroeste maspalomas sur gran_canaria inmigrante ser transbordar problema embarcación salvamento_marítimo_la barca inmigrante ser localizar aeronave sar medio hora remolcador luz_de_mar salvamento_marítimo llegar encuentro informar portavoz sociedad estatal inmigrante ser transbordar problema embarcación salvamento_marítimo conducir los_cristianos llegar agregar fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo_La",
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Los_Cristianos",
+            "Tenerife",
+            "Maspalomas",
+            "Gran_Canaria",
+            "Los_Cristianos"
+        ],
+        "organizations": [
+            "SAR",
+            "SAR",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Luz_de_Mar"
+        ],
+        "dates": [],
+        "numbers": [
+            "58",
+            "2",
+            "3",
+            "LN_mi:76",
+            "58",
+            "TM_h:17",
+            "58",
+            "TM_h:21.45"
+        ]
+    }
+}

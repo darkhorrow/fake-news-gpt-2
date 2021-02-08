@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/708064/0/",
+    "title": {
+        "raw_text": "Gobierno de Canarias abre el plazo para solicitar ayudas por los daños sufridos durante las inundaciones del último año",
+        "lemmatized_text": "gobierno_de_canarias abrir el plazo para solicitar ayuda por el daño sufrir durante el inundación de el último año",
+        "lemmatized_text_reduced": "gobierno_de_canarias abrir plazo solicitar ayuda daño sufrir inundación último año",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Dirección General de Comercio del Gobierno de Canarias es el departamento encargado de tramitar las solicitudes de ayudas que se presenten a la convocatoria publicada en el Boletín Oficial de Canarias (BOC) número 93, para auxiliar, en todas las islas, a aquellos particulares que sufrieron pérdidas en sus vehículos o a los empresarios y profesionales --no agrícolas, ni turísticos-- que sufrieron pérdidas en sus negocios a causa de las lluvias registradas los días 16 y 17 de noviembre de 2009; el temporal de lluvia y viento los días 22 y 23 de diciembre de 2009; las lluvias de los días 31 de enero y 1 y 2 de febrero de 2010 y el temporal sufrido entre los días 15 y 18 de febrero de 2010.",
+        "lemmatized_text": "el dirección_general_de_comercio_del_gobierno_de_canarias ser el departamento encargar de tramitar el solicitud de ayuda que se presentar a el convocatoria publicar en el boletín_oficial_de_canarias boc número 93 para auxiliar en todo el isla a aquel particular que sufrir pérdida en su vehículo o a el empresario y profesional no agrícola ni turístico que sufrir pérdida en su negocio a_causa_de el lluvia registrar el día 16 y [??:17/11/2009:??.??:??] el temporal de lluvia y viento el día 22 y [??:23/12/2009:??.??:??] el lluvia de el día [??:31/1/??:??.??:??] y 1 y [??:2/2/2010:??.??:??] y el temporal sufrir entre el día 15 y [??:18/2/2010:??.??:??]",
+        "lemmatized_text_reduced": "dirección_general_de_comercio_del_gobierno_de_canarias ser departamento encargar tramitar solicitud ayuda presentar convocatoria publicar boletín_oficial_de_canarias boc número auxiliar isla particular sufrir pérdida vehículo empresario profesional agrícola turístico sufrir pérdida negocio lluvia registrar día temporal lluvia viento día lluvia día temporal sufrir día",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Dirección_General_de_Comercio_del_Gobierno_de_Canarias",
+            "Boletín_Oficial_de_Canarias"
+        ],
+        "others": [
+            "BOC"
+        ],
+        "dates": [
+            "[??:17/11/2009:??.??:??]",
+            "[??:23/12/2009:??.??:??]",
+            "[??:31/1/??:??.??:??]",
+            "[??:2/2/2010:??.??:??]",
+            "[??:18/2/2010:??.??:??]"
+        ],
+        "numbers": [
+            "93",
+            "16",
+            "22",
+            "1",
+            "15"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, el Ejecutivo regional explicó que las bases de la convocatoria establecen que podrán recibir ayudas de hasta 6.000 euros todos aquellos propietarios de los vehículos que sufrieron daños directos como consecuencia de los sucesos de referencia. Además, los solicitantes deberán demostrar que su vehículo disponía de seguro obligatorio vigente en el momento en el que se produjeron los incendios. La convocatoria que publica el BOC establece también las bases para las ayudas a los empresarios y profesionales —excluidos los agrarios y turísticos— cuyos negocios o instalaciones sufriesen daños directos durante los temporales. En este caso, los solicitantes deberán ser pymes con menos de 50 empleados a jornada completa, o su equivalente en contratos a tiempo parcial. Además, el empresario o profesional que ejerza la actividad debe acreditar la condición de propietario, arrendatario u ocupante por cualquier otro título legalmente admisible del establecimiento o local dañado por el siniestro. En el caso de maquinaria, mobiliario, vehículos, instalaciones o mercancías afectas a la actividad empresarial, debe tener la condición de propietario o depositario de los mismos o tener formalizado contrato de arrendamiento. En este caso, las ayudas están acotadas por tramos, en función de los daños sufridos. Podrán alcanzar un máximo de 3.000 euros, para los casos en los que los daños superen los 12.000. En el caso de daños por menos de 12.000 euros y hasta 3.000, la ayuda será de 2.000 euros, y de 1.000 en el caso de que los desperfectos se valoren entre 1.000 y 3.000 euros. Para daños menores a esos importes, se pagará la cifra íntegra justificada. Por su parte, los impresos de solicitud de ayuda se podrán retirar en las dependencias de la Dirección General de Comercio, sitas en las sedes de la Consejería de Empleo, Industria y Comercio de las islas capitalinas y podrán presentarse en los ayuntamientos a los que pertenezcan los damnificados. Los documentos también se pueden obtener por vía telemática, en la dirección web http://www.siecan.org. Para cualquier información relacionada con las bases, los empresarios y profesionales se podrán dirigir también al Sistema de Información Empresarial de Canarias (SIECAN), llamando al teléfono 900 100 250 o en el correo electrónico siecan.ciec@gobiernodecanarias.org. El plazo de presentación de solicitudes, tanto para los propietarios de vehículos como para los empresarios o profesionales, es de un mes a partir de la publicación de la orden de ayudas en el BOC, aunque no deberán ser presentadas de nuevo todas las reclamaciones presentadas con anterioridad a la publicación, salvo que la administración competente pida algún tipo de documentación adicional.",
+        "lemmatized_text": "en uno comunicado el ejecutivo regional explicar que el base de el convocatoria establecer que poder recibir ayuda de hasta $_ECU:6 todo aquel propietario de el vehículo que sufrir daño directo como consecuencia de el suceso de referencia además el solicitante deber demostrar que su vehículo disponer de seguro obligatorio vigente en el momento en el que se producir el incendio el convocatoria que publicar el boc establecer también el base para el ayuda a el empresario y profesional excluir el agrario y turístico cuyo negocio o instalación sufrir daño directo durante el temporal en este caso el solicitante deber ser pyme con menos de 50 empleado a jornada completo o su equivalente en contrato a tiempo parcial además el empresario o profesional que ejercer el actividad deber acreditar el condición de propietario arrendatario o ocupante por cualquiera otro título legalmente admisible de el establecimiento o local dañar por el siniestro en el caso de maquinaria mobiliario vehículo instalación o mercancía afecto a el actividad empresarial deber tener el condición de propietario o depositario de el mismo o tener formalizar contrato de arrendamiento en este caso el ayuda estar acotar por tramo en función de el daño sufrir poder alcanzar uno máximo de $_ECU:3 para el caso en el que el daño superar el 12 en el caso de daño por menos de $_ECU:12 y hasta 3 el ayuda ser de $_ECU:2 y de 1 en el caso de que el desperfecto se valorar entre 1 y $_ECU:3 para daño menor a ese importe se pagar el cifra íntegro justificar por su parte el impreso de solicitud de ayuda se poder retirar en el dependencia de el dirección_general_de_comercio sito en el sede de el consejería_de_empleo industria y comercio de el isla capitalino y poder presentar se en el ayuntamiento a el que pertenecer el damnificado el documento también se poder obtener por vía telemático en el dirección web http://www.siecan.org. para cualquiera información relacionar con el base el empresario y profesional se poder dirigir también a el sistema_de_información_empresarial_de_canarias siecan llamar a el teléfono 900 100 250 o en el correo electrónico siecan.ciec@gobiernodecanarias.org el plazo de presentación de solicitud tanto para el propietario de vehículo como para el empresario o profesional ser de uno mes a_partir_de el publicación de el orden de ayuda en el boc aunque no deber ser presentar de nuevo todo el reclamación presentar con anterioridad a el publicación salvo que el administración competente pedir alguno tipo de documentación adicional",
+        "lemmatized_text_reduced": "comunicado ejecutivo regional explicar base convocatoria establecer poder recibir ayuda propietario vehículo sufrir daño directo consecuencia suceso referencia solicitante deber demostrar vehículo disponer seguro obligatorio vigente momento producir incendio convocatoria publicar boc establecer base ayuda empresario profesional excluir agrario turístico negocio instalación sufrir daño directo temporal caso solicitante deber ser pyme empleado jornada completo equivalente contrato tiempo parcial empresario profesional ejercer actividad deber acreditar condición propietario arrendatario ocupante título legalmente admisible establecimiento local dañar siniestro caso maquinaria mobiliario vehículo instalación mercancía afecto actividad empresarial deber tener condición propietario depositario tener formalizar contrato arrendamiento caso ayuda estar acotar tramo función daño sufrir poder alcanzar máximo caso daño superar caso daño ayuda ser caso desperfecto valorar daño menor importe pagar cifra íntegro justificar parte impreso solicitud ayuda poder retirar dependencia dirección_general_de_comercio sito sede consejería_de_empleo industria comercio isla capitalino poder presentar ayuntamiento pertenecer damnificado documento poder obtener vía telemático dirección web http://www.siecan.org. para información relacionar base empresario profesional poder dirigir sistema_de_información_empresarial_de_canarias siecan llamar teléfono correo electrónico siecan.ciec@gobiernodecanarias.org plazo presentación solicitud propietario vehículo empresario profesional ser mes publicación orden ayuda boc deber ser presentar nuevo reclamación presentar anterioridad publicación administración competente pedir tipo documentación adicional",
+        "persons": [],
+        "locations": [
+            "Para"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Dirección_General_de_Comercio",
+            "Consejería_de_Empleo",
+            "Industria",
+            "Comercio",
+            "Sistema_de_Información_Empresarial_de_Canarias"
+        ],
+        "others": [
+            "BOC",
+            "SIECAN",
+            "BOC"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:6",
+            "50",
+            "$_ECU:3",
+            "12",
+            "$_ECU:12",
+            "3",
+            "$_ECU:2",
+            "1",
+            "1",
+            "$_ECU:3",
+            "900",
+            "100",
+            "250"
+        ]
+    }
+}

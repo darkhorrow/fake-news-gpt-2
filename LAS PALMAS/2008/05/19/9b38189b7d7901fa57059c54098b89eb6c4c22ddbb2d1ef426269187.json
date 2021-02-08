@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/380049/0/incendio/vivienda/palmas/",
+    "title": {
+        "raw_text": "Un incendio en una vivienda de Las Palmas se salda con nueve heridos leves",
+        "lemmatized_text": "uno incendio en uno vivienda de las_palmas se saldar con 9 herido leve",
+        "lemmatized_text_reduced": "incendio vivienda las_palmas saldar herido leve",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9"
+        ]
+    },
+    "lead": {
+        "raw_text": "Cinco de las nueve personas afectadas sobrepasan los 80 años. El incendio tuvo lugar la tarde ayer, en una vivienda de la avenida Mesa y López de Las Palmas de Gran Canaria. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "5 de el 9 persona afectar sobrepasar el 80 año el incendio tener_lugar el tarde ayer en uno vivienda de el avenida mesa y lópez_de_las_palmas_de_gran_canaria consulta_aquí_más_noticias_de_las_palmas_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "persona afectar sobrepasar año incendio tener_lugar tarde vivienda avenida mesa lópez_de_las_palmas_de_gran_canaria consulta_aquí_más_noticias_de_las_palmas_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Mesa",
+            "López_de_Las_Palmas_de_Gran_Canaria",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "9",
+            "80"
+        ]
+    },
+    "body": {
+        "raw_text": "Un incendio en una vivienda de la avenida Mesa y López de Las Palmas de Gran Canaria se saldó en la tarde de ayer, a las 20.02 horas, con 9 heridos de carácter leve, según fuentes del Centro Coordinador de Emergencias y Seguridad 112 de Canarias. El fuego se produjo en una vivienda de un edificio de ocho plantas de la capital grancanaria. Las nueve personas, de las que cinco sobrepasaban los 80 años , fueron atendidas por médicos del Servicio de Urgencias de Canarias por intoxicación por humo y se les trasladó a diversos centros sanitarios de Las Palmas de Gran Canaria. En concreto, una mujer de 80 años y un hombre de 87 años de edad lo trasladaron al Centro de Salud de Guanarteme. El resto, cuatro mujeres de 38, 55, 56 y 83 años , así como tres varones uno de 65 y dos de 82 años, se llevaron al centro sanitario de Puerto. Al lugar de los hechos acudió personal del servicio de extinción de incendios y salvamento de Las Palmas de Gran Canaria, tres ambulancias de soporte vital básico y una avanzada, así como agentes de la Policía Local y Nacional, además de bomberos que procedieron a la extinción del incendio y evacuación del inmueble. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno incendio en uno vivienda de el avenida mesa y lópez_de_las_palmas_de_gran_canaria se saldar en el tarde de ayer a el TM_h:20.02 con 9 herido de carácter leve según fuente de el centro_coordinador_de_emergencias y seguridad 112 de canarias el fuego se producir en uno vivienda de uno edificio de 8 planta de el capital grancanaria el 9 persona de el que 5 sobrepasar el 80 año ser atender por médico de el servicio_de_urgencias_de_canarias por intoxicación por humo y se le trasladar a diverso centro sanitario de las_palmas_de_gran_canaria en concreto uno mujer de 80 año y uno hombre de 87 año de edad lo trasladar a el centro_de_salud_de_guanarteme el resto 4 mujer de 38 55 56 y 83 año así_como 3 varón uno de 65 y 2 de 82 año se llevar a el centro sanitario de puerto a el lugar de el hecho acudir personal de el servicio de extinción de incendio y salvamento de las_palmas_de_gran_canaria 3 ambulancia de soporte vital básico y uno avanzar así_como agente de el policía_local y nacional además_de bombero que proceder a el extinción de el incendio y evacuación de el inmueble consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "incendio vivienda avenida mesa lópez_de_las_palmas_de_gran_canaria saldar tarde herido carácter leve fuente centro_coordinador_de_emergencias seguridad canarias fuego producir vivienda edificio planta capital grancanaria persona sobrepasar año ser atender médico servicio_de_urgencias_de_canarias intoxicación humo trasladar centro sanitario las_palmas_de_gran_canaria concreto mujer año hombre año edad trasladar centro_de_salud_de_guanarteme resto mujer año varón año llevar centro sanitario puerto lugar hecho acudir personal servicio extinción incendio salvamento las_palmas_de_gran_canaria ambulancia soporte vital básico avanzar agente policía_local nacional bombero proceder extinción incendio evacuación inmueble consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria",
+            "Puerto",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Mesa",
+            "López_de_Las_Palmas_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_de_Canarias",
+            "Centro_de_Salud_de_Guanarteme",
+            "Policía_Local",
+            "Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:20.02",
+            "9",
+            "112",
+            "8",
+            "9",
+            "5",
+            "80",
+            "80",
+            "87",
+            "4",
+            "38",
+            "55",
+            "56",
+            "83",
+            "3",
+            "65",
+            "2",
+            "82",
+            "3"
+        ]
+    }
+}

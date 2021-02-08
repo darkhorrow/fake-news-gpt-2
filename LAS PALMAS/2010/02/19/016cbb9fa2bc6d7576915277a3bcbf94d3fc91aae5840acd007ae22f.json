@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/633405/0/",
+    "title": {
+        "raw_text": "El arte y la literatura unirán a islas de todo el mundo en la iniciativa 'Horizontes insulares'",
+        "lemmatized_text": "el arte y el literatura unir a isla de todo el mundo en el iniciativa horizonte insular",
+        "lemmatized_text_reduced": "arte literatura unir isla mundo iniciativa horizonte insular",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La muestra se inaugurará en mayo en Canarias e itinerará por varios archipiélagos",
+        "lemmatized_text": "el muestra se inaugurar en [??:??/5/??:??.??:??] en canarias y itinerará por varios archipiélago",
+        "lemmatized_text_reduced": "muestra inaugurar canarias itinerará archipiélago",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Gobierno de Canarias, a través de su empresa pública Canarias Cultura en Red, y la Sociedad Estatal para la Acción Cultural Exterior (SEACEX) coproducirán el proyecto 'Horizontes Insulares', que unirá la obra artística y literaria de creadores procedentes de once territorios insulares: Canarias, Azores, Madeira, Cabo Verde, Cuba, República Dominicana, Guayana, Puerto Rico, Guadalupe, La Reunión y Martinica. Enmarcado en el programa Septenio, esta iniciativa será realizable tras la firma hoy, 19 de febrero, de un convenio por parte del viceconsejero de Cultura del Gobierno Autónomo, Alberto Delgado, y de la presidenta de SEACEX, Charo Otegui, en la sede de esta sociedad en Madrid, según informó el Ejecutivo regional en un comunicado. 'Horizontes Insulares' se desarrolla a partir de una idea de Orlando Britto, curador internacional, y de Nilo Palenzuela, catedrático de la Universidad de La Laguna. Este programa de relaciones artísticas y literarias se materializará en dos grandes acciones: de una parte, la producción y exhibición de una muestra plástica que se inaugurará en mayo en Gran Canaria y en septiembre en Tenerife, para posteriormente itinerar por Cuba, República Dominicana, Madeira y Martinica; y, por otro lado, la producción y edición de una colección de doce libros con obra de autores e ilustradores de los mismos espacios insulares. Todo ello viene precedido por un intenso proceso de investigación en el que los comisarios del proyecto, Britto y Palenzuela, han determinado los territorios insulares a abordar y sus respectivos mapas culturales, han visitado dichos espacios y han podido conocer a fondo los posibles creadores artísticos y literarios que finalmente podrían tomar parte en el proyecto.",
+        "lemmatized_text": "el gobierno_de_canarias a_través_de su empresa público canarias_cultura en red y el sociedad_estatal_para_la_acción_cultural_exterior seacex coproducir el proyecto horizontes_insulares que unir el obra artístico y literario de creador procedente de 11 territorio insular canario azores madeira cabo_verde cuba república_dominicana guayana puerto_rico guadalupe la_reunión y martinica enmarcar en el programa septenio este iniciativa ser realizable tras el firma hoy [??:19/2/??:??.??:??] de uno convenio por parte de el viceconsejero de cultura_del_gobierno_autónomo alberto_delgado y de el presidente de seacex charo_otegui en el sede de este sociedad en madrid según informar el ejecutivo regional en uno comunicado horizontes_insulares se desarrollar a_partir_de uno idea de orlando_britto curador internacional y de nilo_palenzuela catedrático de el universidad_de_la_laguna este programa de relación artístico y literario se materializar en 2 grande acción de uno parte el producción y exhibición de uno muestra plástico que se inaugurar en [??:??/5/??:??.??:??] en gran_canaria y en [??:??/9/??:??.??:??] en tenerife para posteriormente itinerar por cuba república_dominicana madeira y martinica y por_otro_lado el producción y edición de uno colección de 12 libro con obra de autor y ilustrador de el mismo espacio insular todo ello venir preceder por uno intenso proceso de investigación en el que el comisario de el proyecto britto y palenzuela haber determinar el territorio insular a abordar y su respectivo mapa cultural haber visitar decir espacio y haber poder conocer a fondo el posible creador artístico y literario que finalmente poder tomar_parte en el proyecto",
+        "lemmatized_text_reduced": "gobierno_de_canarias empresa público canarias_cultura red sociedad_estatal_para_la_acción_cultural_exterior seacex coproducir proyecto horizontes_insulares unir obra artístico literario creador procedente territorio insular canario azores madeira cabo_verde cuba república_dominicana guayana puerto_rico guadalupe la_reunión martinica enmarcar programa septenio iniciativa ser realizable firma convenio parte viceconsejero cultura_del_gobierno_autónomo alberto_delgado presidente seacex charo_otegui sede sociedad madrid informar ejecutivo regional comunicado horizontes_insulares desarrollar idea orlando_britto curador internacional nilo_palenzuela catedrático universidad_de_la_laguna programa relación artístico literario materializar grande acción parte producción exhibición muestra plástico inaugurar gran_canaria tenerife posteriormente itinerar cuba república_dominicana madeira martinica producción edición colección libro obra autor ilustrador mismo espacio insular venir preceder intenso proceso investigación comisario proyecto britto palenzuela haber determinar territorio insular abordar respectivo mapa cultural haber visitar decir espacio haber poder conocer fondo posible creador artístico literario finalmente poder tomar_parte proyecto",
+        "persons": [
+            "Alberto_Delgado",
+            "Charo_Otegui",
+            "Horizontes_Insulares",
+            "Orlando_Britto",
+            "Nilo_Palenzuela"
+        ],
+        "locations": [
+            "Red",
+            "Azores",
+            "Cuba",
+            "República_Dominicana",
+            "Guayana",
+            "Puerto_Rico",
+            "Guadalupe",
+            "La_Reunión",
+            "Madrid",
+            "Gran_Canaria",
+            "Tenerife",
+            "Cuba",
+            "Palenzuela"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Canarias_Cultura",
+            "Sociedad_Estatal_para_la_Acción_Cultural_Exterior",
+            "SEACEX",
+            "Madeira",
+            "Cabo_Verde",
+            "Martinica",
+            "Cultura_del_Gobierno_Autónomo",
+            "SEACEX",
+            "Ejecutivo",
+            "Universidad_de_La_Laguna",
+            "República_Dominicana",
+            "Madeira",
+            "Martinica",
+            "Britto"
+        ],
+        "others": [
+            "Horizontes_Insulares",
+            "Septenio"
+        ],
+        "dates": [
+            "[??:19/2/??:??.??:??]",
+            "[??:??/5/??:??.??:??]",
+            "[??:??/9/??:??.??:??]"
+        ],
+        "numbers": [
+            "11",
+            "2",
+            "12"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/441765/0/caer/bicicleta/muere/",
+    "title": {
+        "raw_text": "Muere un menor de 16 años y otro resulta herido al caer de una bicicleta en Las Palmas",
+        "lemmatized_text": "morir uno menor de 16 año y otro resultar herir a el caer de uno bicicleta en las_palmas",
+        "lemmatized_text_reduced": "morir menor año resultar herir caer bicicleta las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "16"
+        ]
+    },
+    "lead": {
+        "raw_text": "Ambos viajaban en la misma bicicleta. El accidente tuvo lugar en la Urbanización Ciudad del Campo. El joven herido presenta un traumatismo en el cuello. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "ambos viajar en el mismo bicicleta el accidente tener_lugar en el urbanización_ciudad_del_campo el joven herir presentar uno traumatismo en el cuello consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "viajar mismo bicicleta accidente tener_lugar urbanización_ciudad_del_campo joven herir presentar traumatismo cuello consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Urbanización_Ciudad_del_Campo"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un menor de 16 años ha fallecido en la capital grancanaria tras caer de una bicicleta , accidente en el que también resultó herido otro menor, informó este viernes el servicio de urgencias 112. El accidente tuvo lugar en las inmediaciones de la Urbanización Ciudad del Campo pasadas las 23,00 horas de este jueves y ocurrió cuando los dos menores viajaban en la misma bicicleta . En estado crítico al hospital Como consecuencia de la caída uno de los menores sufrió un traumatismo craneoencefálico de carácter grave y fue trasladado en estado crítico al Hospital Universitario Doctor Negrín de Gran Canaria, donde finalmente falleció. El otro menor, de 17 años, sufrió un traumatismo en el cuello de carácter menos grave y fue trasladado en ambulancia de soporte vital básico al mismo hospital. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno menor de 16 año haber fallecer en el capital grancanaria tras caer de uno bicicleta accidente en el que también resultar herir otro menor informar este [V:??/??/??:??.??:??] el servicio de urgencia 112 el accidente tener_lugar en el inmediación de el urbanización_ciudad_del_campo pasar el TM_h:23,00 de este [J:??/??/??:??.??:??] y ocurrir cuando el 2 menor viajar en el mismo bicicleta en estado crítico a el hospital como consecuencia de el caída uno de el menor sufrir uno traumatismo craneoencefálico de carácter grave y ser trasladar en estado crítico a el hospital_universitario_doctor_negrín_de_gran_canaria donde finalmente fallecer el otro menor de 17 año sufrir uno traumatismo en el cuello de carácter menos grave y ser trasladar en ambulancia de soporte vital básico a el mismo hospital consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "menor año haber fallecer capital grancanaria caer bicicleta accidente resultar herir menor informar servicio urgencia accidente tener_lugar inmediación urbanización_ciudad_del_campo pasar ocurrir menor viajar mismo bicicleta estado crítico hospital como consecuencia caída menor sufrir traumatismo craneoencefálico carácter grave ser trasladar estado crítico hospital_universitario_doctor_negrín_de_gran_canaria finalmente fallecer menor año sufrir traumatismo cuello carácter grave ser trasladar ambulancia soporte vital básico mismo hospital consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Como"
+        ],
+        "locations": [
+            "Urbanización_Ciudad_del_Campo"
+        ],
+        "organizations": [
+            "Hospital_Universitario_Doctor_Negrín_de_Gran_Canaria",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "16",
+            "112",
+            "TM_h:23,00",
+            "2",
+            "17"
+        ]
+    }
+}

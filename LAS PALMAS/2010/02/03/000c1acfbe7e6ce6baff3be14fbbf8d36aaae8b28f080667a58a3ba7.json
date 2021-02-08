@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621265/0/",
+    "title": {
+        "raw_text": "Las entradas para la Gala Drag Queen en Las Palmas de Gran Canaria se agotan en casi tres horas",
+        "lemmatized_text": "el entrada para el gala_drag_queen en las_palmas_de_gran_canaria se agotar en casi TM_h:3",
+        "lemmatized_text_reduced": "entrada gala_drag_queen las_palmas_de_gran_canaria agotar",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Gala_Drag_Queen"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Las entradas para la Gala Drag Queen del Carnaval de Las Palmas de Gran Canaria se agotaron hoy en casi tres horas, lo que ha puesto de manifiesto la \"gran expectación\" que levanta dicho evento, según informó el Ayuntamiento capitalino en nota de prensa.",
+        "lemmatized_text": "el entrada para el gala_drag_queen_del_carnaval_de_las_palmas_de_gran_canaria se agotar hoy en casi TM_h:3 el que haber poner_de_manifiesto el gran expectación que levantar decir evento según informar el ayuntamiento capitalino en nota de prensa",
+        "lemmatized_text_reduced": "entrada gala_drag_queen_del_carnaval_de_las_palmas_de_gran_canaria agotar haber poner_de_manifiesto gran expectación levantar decir evento informar ayuntamiento capitalino nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [
+            "Gala_Drag_Queen_del_Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:3"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, las entradas salieron a la venta a las 10.00 horas de esta mañana en el punto de información del parque Santa Catalina de la capital grancanaria, donde la última se vendió a las 12.40 horas; mientras que a través de la red de La Caja de Canarias los tickets se terminaron en apenas 20 minutos. Así, un 80 por ciento del total del aforo se puso a la venta en los puntos indicados, mientras que el 20 por ciento restante se ha distribuido entre patrocinadores, diseñadores, drags y protocolo oficial. En cuanto a la Gala de la Reina, cuyas entradas tienen un coste de 10 euros y la preselección Drag (5 euros por ticket), a mediodía de hoy todavía quedaban tickets a la venta. En todos los casos, sólo se podrán adquirir un máximo de cuatro entradas por persona.",
+        "lemmatized_text": "en concreto el entrada salir a el venta a el TM_h:10 de este mañana en el punto de información de el parque santa_catalina de el capital grancanaria donde el último se vender a el TM_h:12.4 mientras_que a_través_de el red de la_caja_de_canarias el ticket se terminar en apenas TM_min:20 así uno 80 por 100 de el total de el aforo se poner a el venta en el punto indicar mientras_que el 20 por 100 restante se haber distribuir entre patrocinador diseñador drags y protocolo oficial en_cuanto_a el gala_de_la_reina cuyo entrada tener uno coste de $_ECU:10 y el preselección drag $_ECU:5 por ticket a_mediodía de hoy todavía quedar ticket a el venta en todo el caso sólo se poder adquirir uno máximo de 4 entrada por persona",
+        "lemmatized_text_reduced": "concreto entrada salir venta mañana punto información parque santa_catalina capital grancanaria último vender red la_caja_de_canarias ticket terminar total aforo poner venta punto indicar restante haber distribuir patrocinador diseñador drags protocolo oficial gala_de_la_reina entrada tener coste preselección drag ticket quedar ticket venta caso poder adquirir máximo entrada persona",
+        "persons": [
+            "Drag"
+        ],
+        "locations": [
+            "Santa_Catalina",
+            "La_Caja_de_Canarias",
+            "Gala_de_la_Reina"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10",
+            "TM_h:12.4",
+            "TM_min:20",
+            "80",
+            "100",
+            "20",
+            "100",
+            "$_ECU:10",
+            "$_ECU:5",
+            "4"
+        ]
+    }
+}

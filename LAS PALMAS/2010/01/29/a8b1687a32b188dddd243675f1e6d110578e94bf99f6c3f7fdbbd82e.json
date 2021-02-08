@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/617960/0/",
+    "title": {
+        "raw_text": "Canarias sufrirá este fin de semana una borrasca que dejará lluvias fuertes y persistentes en las islas",
+        "lemmatized_text": "canario sufrir este fin de semana uno borrasca que dejar lluvia fuerte y persistente en el isla",
+        "lemmatized_text_reduced": "canario sufrir fin semana borrasca dejar lluvia fuerte persistente isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Canarias sufrirá este fin de semana una borrasca que se aproxima por el oeste del archipiélago y dejará lluvias fuertes y persistentes en las islas, además de fuertes vientos y temporal en la mar, según informó la Delegación del Gobierno en nota de prensa.",
+        "lemmatized_text": "canario sufrir este fin de semana uno borrasca que se aproximar por el oeste de el archipiélago y dejar lluvia fuerte y persistente en el isla además_de fuerte viento y temporal en el mar según informar el delegación_del_gobierno en nota de prensa",
+        "lemmatized_text_reduced": "canario sufrir fin semana borrasca aproximar oeste archipiélago dejar lluvia fuerte persistente isla fuerte viento temporal mar informar delegación_del_gobierno nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Delegación_del_Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, la Agencia Estatal de Meteorología (Aemet) prevé que las precipitaciones comiencen en las islas más orientales al final de la jornada de mañana, intensificándose durante los días siguientes y extendiéndose de oeste a este al resto del archipiélago. Asimismo, para el domingo se prevén chubascos moderados a fuertes, ocasionalmente muy fuertes, persistentes y con tormenta, en la mitad occidental de Canarias, sobre todo en las vertientes sur de las islas de mayor relieve. Es probable que las precipitaciones ocasionalmente moderadas también afecten durante este día a las islas orientales que se sumarán a los vientos de componente sur moderados a fuertes y temporal en la mar. Ya el lunes se esperan chubascos localmente muy fuertes y con tormenta en las islas occidentales y Gran Canaria, con mayor probabilidad en las vertientes sur y oeste, manteniéndose los vientos fuertes y el mal estado de la mar. Esta situación de tiempo adverso en el archipiélago canario es probable que persista hasta el próximo miércoles.",
+        "lemmatized_text": "en concreto el agencia_estatal_de_meteorología aemet prever que el precipitación comenzar en el isla más oriental a el final de el jornada de mañana intensificar se durante el día siguiente y extender se de oeste a este a el resto de el archipiélago asimismo para el [G:??/??/??:??.??:??] se prever chubasco moderar a fuerte ocasionalmente muy fuerte persistente y con tormenta en el mitad occidental de canarias sobre todo en el vertiente sur de el isla de mayor relieve ser probable que el precipitación ocasionalmente moderar también afectar durante este día a el isla oriental que se sumar a el viento de componente sur moderar a fuerte y temporal en el marzo ya el [L:??/??/??:??.??:??] se esperar chubasco localmente muy fuerte y con tormenta en el isla occidental y gran_canaria con mayor probabilidad en el vertiente sur y oeste mantener se el viento fuerte y el mal estado de el marzo esta situación de tiempo adverso en el archipiélago canario ser probable que persistir hasta el [X:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "concreto agencia_estatal_de_meteorología aemet prever precipitación comenzar isla oriental final jornada mañana intensificar día siguiente extender oeste resto archipiélago prever chubasco moderar fuerte ocasionalmente fuerte persistente tormenta mitad occidental canarias vertiente sur isla mayor relieve ser probable precipitación ocasionalmente moderar afectar día isla oriental sumar viento componente sur moderar fuerte temporal marzo ya esperar chubasco localmente fuerte tormenta isla occidental gran_canaria mayor probabilidad vertiente sur oeste mantener viento fuerte mal estado marzo esta situación tiempo adverso archipiélago canario ser probable persistir",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Ya",
+            "Esta"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

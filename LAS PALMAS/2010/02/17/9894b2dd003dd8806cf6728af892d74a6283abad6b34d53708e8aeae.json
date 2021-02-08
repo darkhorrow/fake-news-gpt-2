@@ -1,0 +1,105 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/631569/0/",
+    "title": {
+        "raw_text": "Cerradas todas las instituciones universitarias en Las Palmas de Gran Canaria por la alerta naranja",
+        "lemmatized_text": "cerrar todo el institución universitario en las_palmas_de_gran_canaria por el alerta naranja",
+        "lemmatized_text_reduced": "cerrar institución universitario las_palmas_de_gran_canaria alerta naranja",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Universidad de Las Palmas de Gran Canaria (ULPGC) ha acordado cerrar todas las instituciones universitarias a partir de las 15.00 horas de hoy hasta el día de mañana debido al previsto empeoramiento de la situación meteorológica a partir de esta tarde en Gran Canaria.",
+        "lemmatized_text": "el universidad_de_las_palmas_de_gran_canaria ulpgc haber acordar cerrar todo el institución universitario a_partir_de el TM_h:15 de hoy hasta el día de mañana deber a el prever empeoramiento de el situación meteorológico a_partir_de este tarde en gran_canaria",
+        "lemmatized_text_reduced": "universidad_de_las_palmas_de_gran_canaria ulpgc haber acordar cerrar institución universitario día mañana deber prever empeoramiento situación meteorológico tarde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:15"
+        ]
+    },
+    "body": {
+        "raw_text": "Siguiendo instrucciones del rector, José Regidor, se comunica por tanto a todos los miembros de la comunidad universitaria el cierre de los inmuebles y la suspensión de actividades, según informó la ULPGC en un comunicado. La decisión se ha tomado ante la última información facilitada por la Agencia Estatal de Meteorología (Aemet), y siguiendo las recomendaciones de la Dirección General de Seguridad y Emergencias del Gobierno de Canarias, que ha declarado la situación de alerta naranja (riesgo importante) por vientos y lluvias. De hecho, la Aemet mantendrá activado para mañana la alerta naranja (riesgo importante) ante la previsión de que se registren vientos de hasta 120 kilómetros por hora, sobre todo en las cumbres centrales de Tenerife, así como por fuertes lluvias que podrían dejar hasta 120 litros por metro cuadrado en doce horas. La alerta afectará a todo el archipiélago y permanecerá activa hasta la medianoche del viernes, 18 de febrero. Así, en El Hierro y La Gomera se ha decretado la alerta naranja por lluvias que dejarán en torno a 100 litros por metro cuadrado en doce horas; en La Palma y Tenerife se prevé llegar a los 120 litros; y en Gran Canaria, Fuerteventura y Lanzarote, a los 30 litros. Además, se ha activado la alerta amarilla (riesgo) por probabilidad de tormentas en todas las islas, y permanecerá así hasta las 18.00 horas de mañana. La Aemet también ha decretado la alerta naranja (riesgo importante) ante la previsión de que se registren rachas de viento de hasta 95 kilómetros por hora en El Hierro, La Gomera, y Norte y Este de La Palma, pudiendo alcanzar los 120 kilómetros en zonas altas de Tenerife, afectando sobre todo a los municipios de La Orotava y Vilaflor. Mientras, habrá alerta amarilla (riesgo) por vientos de hasta 75 kilómetros por hora en Gran Canaria, Fuerteventura y Lanzarote. Entretanto, también se ha declarado la alerta naranja por fenómenos costeros adversos, que afectarán a El Hierro, La Gomera, Norte y Oeste de La Palma, Lanzarote, Fuerteventura y costa Norte de Tenerife y Gran Canaria. Asimismo, la alerta será amarilla (riesgo) en el Este de La Palma; y en el Este, Sur y Oeste de Tenerife y Gran Canaria. La alerta estará vigente hasta las 00.00 horas del viernes.",
+        "lemmatized_text": "seguir instrucción de el rector josé_regidor se comunicar por tanto a todo el miembro de el comunidad universitario el cierre de el inmueble y el suspensión de actividad según informar el ulpgc en uno comunicado el decisión se haber tomar ante el último información facilitar por el agencia_estatal_de_meteorología aemet y seguir el recomendación de el dirección_general_de_seguridad y emergencias_del_gobierno_de_canarias que haber declarar el situación de alerta naranja riesgo importante por viento y lluvia de hecho el aemet mantener activar para mañana el alerta naranja riesgo importante ante el previsión de que se registrar viento de hasta SP_km/h:120 sobre todo en el cumbre central de tenerife así_como por fuerte lluvia que poder dejar hasta CB_l/m2:120 en TM_h:12 el alerta afectar a todo el archipiélago y permanecer activo hasta el [V:18/2/??:00.00:am] así en el_hierro y la_gomera se haber decretar el alerta naranja por lluvia que dejar en_torno_a CB_l/m2:100 en TM_h:12 en la_palma y tenerife se prever llegar a el VL_l:120 y en gran_canaria fuerteventura y lanzarote a el VL_l:30 además se haber activar el alerta amarillo riesgo por probabilidad de tormenta en todo el isla y permanecer así hasta el [??:??/??/??:6.00:am] el aemet también haber decretar el alerta naranja riesgo importante ante el previsión de que se registrar racha de viento de hasta SP_km/h:95 en el_hierro la_gomera y norte y este_de_la_palma poder alcanzar el LN_km:120 en zona alto de tenerife afectar sobre todo a el municipio de la_orotava y vilaflor mientras haber alerta amarillo riesgo por viento de hasta SP_km/h:75 en gran_canaria fuerteventura y lanzarote entretanto también se haber declarar el alerta naranja por fenómeno costero adverso que afectar a el_hierro la_gomera norte y oeste_de_la_palma lanzarote fuerteventura y costa norte_de_tenerife y gran_canaria asimismo el alerta ser amarillo riesgo en el este_de_la_palma y en el este sur y oeste_de_tenerife y gran_canaria el alerta estar vigente hasta el TM_h:0 de el [V:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "seguir instrucción rector josé_regidor comunicar miembro comunidad universitario cierre inmueble suspensión actividad informar ulpgc comunicado decisión haber tomar último información facilitar agencia_estatal_de_meteorología aemet seguir recomendación dirección_general_de_seguridad emergencias_del_gobierno_de_canarias haber declarar situación alerta naranja riesgo importante viento lluvia hecho aemet mantener activar alerta naranja riesgo importante previsión registrar viento cumbre central tenerife fuerte lluvia poder dejar alerta afectar archipiélago permanecer activo el_hierro la_gomera haber decretar alerta naranja lluvia dejar la_palma tenerife prever llegar gran_canaria fuerteventura lanzarote haber activar alerta amarillo riesgo probabilidad tormenta isla permanecer aemet haber decretar alerta naranja riesgo importante previsión registrar racha viento el_hierro la_gomera norte este_de_la_palma poder alcanzar zona alto tenerife afectar municipio la_orotava vilaflor haber alerta amarillo riesgo viento gran_canaria fuerteventura lanzarote haber declarar alerta naranja fenómeno costero adverso afectar el_hierro la_gomera norte oeste_de_la_palma lanzarote fuerteventura costa norte_de_tenerife gran_canaria alerta ser amarillo riesgo este_de_la_palma este sur oeste_de_tenerife gran_canaria alerta estar vigente",
+        "persons": [
+            "José_Regidor",
+            "Norte",
+            "Norte_de_Tenerife"
+        ],
+        "locations": [
+            "Tenerife",
+            "El_Hierro",
+            "La_Gomera",
+            "La_Palma",
+            "Gran_Canaria",
+            "El_Hierro",
+            "La_Gomera",
+            "Este_de_La_Palma",
+            "Tenerife",
+            "La_Orotava",
+            "Vilaflor",
+            "Gran_Canaria",
+            "Lanzarote",
+            "El_Hierro",
+            "La_Gomera",
+            "Oeste_de_La_Palma",
+            "Lanzarote",
+            "Este_de_La_Palma",
+            "Este",
+            "Oeste_de_Tenerife",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "ULPGC",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Dirección_General_de_Seguridad",
+            "Emergencias_del_Gobierno_de_Canarias",
+            "Aemet",
+            "Tenerife",
+            "Fuerteventura",
+            "Lanzarote",
+            "Aemet",
+            "Fuerteventura",
+            "Norte",
+            "Fuerteventura",
+            "Gran_Canaria",
+            "Sur"
+        ],
+        "others": [],
+        "dates": [
+            "[V:18/2/??:00.00:am]",
+            "[??:??/??/??:6.00:am]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:120",
+            "CB_l/m2:120",
+            "TM_h:12",
+            "CB_l/m2:100",
+            "TM_h:12",
+            "VL_l:120",
+            "VL_l:30",
+            "SP_km/h:95",
+            "LN_km:120",
+            "SP_km/h:75",
+            "TM_h:0"
+        ]
+    }
+}

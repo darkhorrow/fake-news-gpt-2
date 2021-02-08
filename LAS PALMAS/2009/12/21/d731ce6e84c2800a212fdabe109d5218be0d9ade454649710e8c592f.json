@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/592603/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo suspende la búsqueda del marinero filipino que cayó al agua en la madrugada del viernes",
+        "lemmatized_text": "salvamento_marítimo suspender el búsqueda de el marinero filipino que caer a el agua en el madrugada de el [V:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "salvamento_marítimo suspender búsqueda marinero filipino caer agua madrugada",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Salvamento Marítimo ha suspendido la búsqueda del marinero de nacionalidad filipina desaparecido al norte de la isla de La Graciosa tras caer al agua desde una embarcación en la madrugada del pasado viernes, según informaron a Europa Press fuentes del organismo de rescate.",
+        "lemmatized_text": "salvamento_marítimo haber suspender el búsqueda de el marinero de nacionalidad filipino desaparecer a el norte de el isla de la_graciosa tras caer a el agua desde uno embarcación en el madrugada de el [V:??/??/??:??.??:??] según informar a europa_press fuente de el organismo de rescate",
+        "lemmatized_text_reduced": "salvamento_marítimo haber suspender búsqueda marinero nacionalidad filipino desaparecer norte isla la_graciosa caer agua embarcación madrugada informar europa_press fuente organismo rescate",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Europa_Press"
+        ],
+        "locations": [
+            "La_Graciosa"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las mismas fuentes del organismo encargado de los servicios de búsqueda y rescate de la provincia de Las Palmas recordaron que el hombre se precipitó por la borda del buque mercante, también originario de Filipinas, a 30 millas del norte de Lanzarote. Asimismo, Salvamento Marítimo indicó que no se tiene rastro del desaparecido, por lo que se ha acordado suspender las labores de búsqueda en la zona tras tres días de búsqueda. En dicha actuación han intervenido durante el fin de semana un avión del organismo, el Helimer 208, y la embarcación Salvamar Atlántico. Por otro lado, el organismo también intervino anoche en el rescate de un pescador en la costa de Arucas, al norte de Gran Canaria, tras caer al mar sobre las 23.00 horas.",
+        "lemmatized_text": "el mismo fuente de el organismo encargar de el servicio de búsqueda y rescate de el provincia de las_palmas recordar que el hombre se precipitar por el borda de el buque mercante también originario de filipinas a LN_mi:30 de el norte de lanzarote asimismo salvamento_marítimo indicar que no se tener rastro de el desaparecer por el que se haber acordar suspender el labor de búsqueda en el zona tras TM_d:3 de búsqueda en decir actuación haber intervenir durante el fin de semana uno avión de el organismo el helimer 208 y el embarcación salvamar_atlántico por_otro_lado el organismo también intervenir anoche en el rescate de uno pescador en el costa de arucas a el norte de gran_canaria tras caer a el mar sobre el TM_h:23",
+        "lemmatized_text_reduced": "mismo fuente organismo encargar servicio búsqueda rescate provincia las_palmas recordar hombre precipitar borda buque mercante originario filipinas norte lanzarote salvamento_marítimo indicar tener rastro desaparecer haber acordar suspender labor búsqueda zona búsqueda decir actuación haber intervenir fin semana avión organismo helimer embarcación salvamar_atlántico organismo intervenir rescate pescador costa arucas norte gran_canaria caer mar",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamar_Atlántico"
+        ],
+        "locations": [
+            "Filipinas",
+            "Lanzarote",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Helimer"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:30",
+            "TM_d:3",
+            "208",
+            "TM_h:23"
+        ]
+    }
+}

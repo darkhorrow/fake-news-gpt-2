@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/726178/0/",
+    "title": {
+        "raw_text": "Los canarios pagan casi 4 veces más de lo que reciben agricultores y ganaderos por sus productos",
+        "lemmatized_text": "el canario pagar casi 4 vez más de el que recibir agricultor y ganadero por su producto",
+        "lemmatized_text_reduced": "canario pagar vez recibir agricultor ganadero producto",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los consumidores canarios pagan 3,64 veces más de media por los productos agrarios de lo que reciben agricultores y ganaderos, según el último dato de mayo del Índice de precios en origen y destino de los alimentos (IPOD) en el archipiélago canario facilitado por COAG Canarias.",
+        "lemmatized_text": "el consumidor canario pagar 3,64 vez más de medio por el producto agrario de el que recibir agricultor y ganadero según el último dato de [??:??/5/??:??.??:??] de el índice de precio en origen y destino de el alimento ipod en el archipiélago canario facilitar por coag_canarias",
+        "lemmatized_text_reduced": "consumidor canario pagar vez medio producto agrario recibir agricultor ganadero último dato índice precio origen destino alimento ipod archipiélago canario facilitar coag_canarias",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "IPOD",
+            "COAG_Canarias"
+        ],
+        "others": [
+            "Índice"
+        ],
+        "dates": [
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "3,64"
+        ]
+    },
+    "body": {
+        "raw_text": "El productor, por lo tanto, ha recibido durante este pasado mes el 27,47 por ciento de la cantidad abonada por su producto por parte del consumidor. Por productos destaca el caso de la acelga, por el que el agricultor esta recibiendo 0,50 euros el kilogramo, mientras que el consumidor paga 3,21 euros, 7,88 veces mas. Otros productos con un margen amplio son el repollo (por el que el productor recibe 0,18 ?/kg, y el consumidor paga 0,99 ?/kg, 5,66 más), la lechuga (la cual se vende al publico a 0,98 ?/kg, recibiendo el agricultor 0,18 ?/kg.) y la berenjena (cuyo precio pagado por el consumidor, 1,73 ?/kg es 5,31 veces superior al recibido por el productor, de 0,33 ?/kg). Además, COAG Canarias ha denunciado que en estos tres productos (repollo, lechuga y berenjena) el ingreso recibido por el agricultor no le permite cubrir sus costes de producción. En lo que respecta a los productos ganaderos destaca el caso del cerdo, por el cual los consumidores han pagado el kilo en mayo a 8,68 euros, mientras que el ganadero ha recibido 1,57 euros por cada kilogramo.",
+        "lemmatized_text": "el productor por_lo_tanto haber recibir durante este pasar mes el 27,47 por 100 de el cantidad abonar por su producto por parte de el consumidor por producto destacar el caso de el acelga por el que el agricultor este recibir $_ECU:0,50 el kilogramo mientras_que el consumidor pagar $_ECU:3,21 7,88 vez mas otro producto con uno margen amplio ser el repollo por el que el productor recibir 0,18 kilogramo y el consumidor pagar 0,99 kilogramo 5,66 más el lechuga el cual se vender a el publicar a 0,98 kilogramo recibir el agricultor 0,18 kilogramo y el berenjena cuyo precio pagar por el consumidor 1,73 kilogramo ser 5,31 vez superior a el recibir por el productor de 0,33 kilogramo además coag_canarias haber denunciar que en este 3 producto repollo lechuga y berenjena el ingreso recibir por el agricultor no le permitir cubrir su coste de producción en el que respectar a el producto ganadero destacar el caso de el cerdo por el cual el consumidor haber pagar el kilo en [??:??/5/??:??.??:??] a $_ECU:8,68 mientras_que el ganadero haber recibir $_ECU:1,57 por cada kilogramo",
+        "lemmatized_text_reduced": "productor haber recibir pasar mes cantidad abonar producto parte consumidor producto destacar caso acelga agricultor recibir kilogramo consumidor pagar vez producto margen amplio ser repollo productor recibir kilogramo consumidor pagar kilogramo lechuga vender publicar kilogramo recibir agricultor kilogramo berenjena precio pagar consumidor kilogramo ser vez superior recibir productor kilogramo coag_canarias haber denunciar producto repollo lechuga berenjena ingreso recibir agricultor permitir cubrir coste producción respectar producto ganadero destacar caso cerdo consumidor haber pagar kilo ganadero haber recibir kilogramo",
+        "persons": [
+            "COAG_Canarias"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "27,47",
+            "100",
+            "$_ECU:0,50",
+            "$_ECU:3,21",
+            "7,88",
+            "0,18",
+            "0,99",
+            "5,66",
+            "0,98",
+            "0,18",
+            "1,73",
+            "5,31",
+            "0,33",
+            "3",
+            "$_ECU:8,68",
+            "$_ECU:1,57"
+        ]
+    }
+}

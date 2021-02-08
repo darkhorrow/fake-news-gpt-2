@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/604324/0/",
+    "title": {
+        "raw_text": "Fecao insta a fumadores canarios a una \"gran manifestación\" para que no se publiquen más leyes \"de cara a la galería\"",
+        "lemmatized_text": "fecao instar a fumador canario a uno gran manifestación para que no se publicar más ley de_cara_a el galería",
+        "lemmatized_text_reduced": "fecao instar fumador canario gran manifestación publicar ley galería",
+        "persons": [
+            "Fecao"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Federación Canaria de Ocio y Restauración (Fecao) ha pedido hoy a todos los fumadores canarios que participen en una \"gran manifestación\" con el objetivo de evitar que el Gobierno del Estado publique más leyes antitabaco \"que sólo sirven de cara a la galería\", según informó la patronal en nota de prensa.",
+        "lemmatized_text": "el federación_canaria_de_ocio y restauración fecao haber pedir hoy a todo el fumador canario que participar en uno gran manifestación con el objetivo de evitar que el gobierno_del_estado publicar más ley antitabaco que sólo servir de_cara_a el galería según informar el patronal en nota de prensa",
+        "lemmatized_text_reduced": "federación_canaria_de_ocio restauración fecao haber pedir fumador canario participar gran manifestación objetivo evitar gobierno_del_estado publicar ley antitabaco servir galería informar patronal nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Federación_Canaria_de_Ocio",
+            "Restauración",
+            "Fecao",
+            "Gobierno_del_Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Fecao se preguntó \"para que más leyes, si lo que necesita España es un respeto y cumplimiento a las ya existentes y general confianza, en la administración y ciudadanos, para un estricto cumplimiento de las mencionadas\". \"Pensamos que la ministra, Trinidad Jiménez, no ha tenido en cuenta que en España tenemos 10.000.000 fumadores que estos, con esta nueva Ley, no dejaran de fumar, que tendremos un nuevo añadido en las puertas de los establecimientos públicos, con un problema de ruido (acústico), a cambio de solucionar a media el de Salud\", dijo. Por ello, instó a todos los fumadores a hacer una \"gran movilización al objeto de no publicar mas Leyes en España, que solo sirven de cara a la galería\". \"Si existen fumadores, debemos cubrir la demanda, de lo contrario se prohíba su venta total, pero no podemos permitir las imposiciones en un estado democrático en pleno siglo XXI, donde el fumar es tan perjudicial, como consumir alcohol\", explicó la Fecao. Asimismo, la Fecao recordó que la prohibición total de fumar en locales de ocio en España \"penalizará especialmente a los cerca de 70.000 establecimientos que realizaron reformas por valor de unos 1.500 millones de euros para adaptarse a la normativa que entró en vigor en 2006\" y a \"un 80 por ciento de establecimientos\" canarios.",
+        "lemmatized_text": "el fecao se preguntar para que más ley si el que necesitar españa ser uno respeto y cumplimiento a el ya existente y general confianza en el administración y ciudadano para uno estricto cumplimiento de el mencionar pensar que el ministro trinidad_jiménez no haber tener_en_cuenta que en españa tener 10.000.000 fumador que este con este nuevo ley no dejar de fumar que tener uno nuevo añadir en el puerta de el establecimiento público con uno problema de ruido acústico a_cambio_de solucionar a medio el de salud decir por ello instar a todo el fumador a hacer uno gran movilización al_objeto_de no publicar mas leyes en españa que solo servir de_cara_a el galería si existir fumador deber cubrir el demanda de_lo_contrario se prohibir su venta total pero no poder permitir el imposición en uno estado democrático en pleno [s:xxi] donde el fumar ser tan perjudicial como consumir alcohol explicar el fecao asimismo el fecao recordar que el prohibición total de fumar en local de ocio en españa penalizar especialmente a el cerca de 70 establecimiento que realizar reforma por valor de uno $_ECU:1500000 para adaptar se a el normativa que entrar en vigor en 2006 y a uno 80 por 100 de establecimiento canario",
+        "lemmatized_text_reduced": "fecao preguntar ley necesitar españa ser respeto cumplimiento existente general confianza administración ciudadano estricto cumplimiento mencionar pensar ministro trinidad_jiménez haber tener_en_cuenta españa tener fumador nuevo ley dejar fumar tener nuevo añadir puerta establecimiento público problema ruido acústico solucionar medio salud decir instar fumador hacer gran movilización publicar leyes españa servir galería existir fumador deber cubrir demanda prohibir venta total poder permitir imposición estado democrático pleno fumar ser perjudicial consumir alcohol explicar fecao fecao recordar prohibición total fumar local ocio españa penalizar especialmente establecimiento realizar reforma valor adaptar normativa entrar vigor establecimiento canario",
+        "persons": [
+            "España",
+            "Trinidad_Jiménez"
+        ],
+        "locations": [
+            "España",
+            "España",
+            "España"
+        ],
+        "organizations": [
+            "Fecao",
+            "Fecao",
+            "Fecao"
+        ],
+        "others": [
+            "Ley",
+            "Salud",
+            "Leyes"
+        ],
+        "dates": [
+            "[s:xxi]"
+        ],
+        "numbers": [
+            "10.000.000",
+            "70",
+            "$_ECU:1500000",
+            "2006",
+            "80",
+            "100"
+        ]
+    }
+}

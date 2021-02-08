@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/952447/0/",
+    "title": {
+        "raw_text": "Comisión Mixta Gobierno canario y secretarios judiciales se reúne para abordar temas como el plan de formación",
+        "lemmatized_text": "comisión_mixta_gobierno canario y secretario judicial se reunir para abordar tema como el plan de formación",
+        "lemmatized_text_reduced": "comisión_mixta_gobierno canario secretario judicial reunir abordar tema plan formación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comisión_Mixta_Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La viceconsejera de Justicia y Seguridad del Gobierno de Canarias, Carolina Déniz, presidirá este martes en Las Palmas de Gran Canaria, la Comisión Mixta entre el Gobierno regional y los secretarios judiciales en materia de medios materiales y humanos al servicio de la Administración de Justicia en la Comunidad Autónoma.",
+        "lemmatized_text": "el viceconsejero de justicia y seguridad_del_gobierno_de_canarias carolina_déniz presidir este [M:??/??/??:??.??:??] en las_palmas_de_gran_canaria el comisión_mixta entre el gobierno regional y el secretario judicial en_materia_de medio material y humano a el servicio de el administración_de_justicia en el comunidad_autónoma",
+        "lemmatized_text_reduced": "viceconsejero justicia seguridad_del_gobierno_de_canarias carolina_déniz presidir las_palmas_de_gran_canaria comisión_mixta gobierno regional secretario judicial medio material humano servicio administración_de_justicia comunidad_autónoma",
+        "persons": [
+            "Carolina_Déniz"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Justicia",
+            "Comisión_Mixta",
+            "Gobierno",
+            "Administración_de_Justicia",
+            "Comunidad_Autónoma"
+        ],
+        "others": [
+            "Seguridad_del_Gobierno_de_Canarias"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La viceconsejera de Justicia y Seguridad del Gobierno de Canarias, Carolina Déniz, presidirá este martes en Las Palmas de Gran Canaria, la Comisión Mixta entre el Gobierno regional y los secretarios judiciales en materia de medios materiales y humanos al servicio de la Administración de Justicia en la Comunidad Autónoma. El encuentro comenzará a las 10.00 horas y en él se pretende abordar la implantación de la nueva oficina judicial en la Comunidad Autónoma, los proyectos tecnológicos en la Administración de Justicia, o el plan de formación continua de los funcionarios, según informó el Ejecutivo regional en nota de prensa. Asimismo, se conocerán los acuerdos tomados, en enero en Cantabria, por las comunidades con competencias en materia de justicia.",
+        "lemmatized_text": "el viceconsejero de justicia y seguridad_del_gobierno_de_canarias carolina_déniz presidir este [M:??/??/??:??.??:??] en las_palmas_de_gran_canaria el comisión_mixta entre el gobierno regional y el secretario judicial en_materia_de medio material y humano a el servicio de el administración_de_justicia en el comunidad_autónoma el encuentro comenzar a el TM_h:10 y en él se pretender abordar el implantación de el nuevo oficina judicial en el comunidad_autónoma el proyecto tecnológico en el administración_de_justicia o el plan de formación continuo de el funcionario según informar el ejecutivo regional en nota de prensa asimismo se conocer el acuerdo tomar en [??:??/1/??:??.??:??] en cantabria por el comunidad con competencia en_materia_de justicia",
+        "lemmatized_text_reduced": "viceconsejero justicia seguridad_del_gobierno_de_canarias carolina_déniz presidir las_palmas_de_gran_canaria comisión_mixta gobierno regional secretario judicial medio material humano servicio administración_de_justicia comunidad_autónoma encuentro comenzar pretender abordar implantación nuevo oficina judicial comunidad_autónoma proyecto tecnológico administración_de_justicia plan formación continuo funcionario informar ejecutivo regional nota prensa conocer acuerdo tomar cantabria comunidad competencia justicia",
+        "persons": [
+            "Carolina_Déniz"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Cantabria"
+        ],
+        "organizations": [
+            "Justicia",
+            "Comisión_Mixta",
+            "Gobierno",
+            "Administración_de_Justicia",
+            "Comunidad_Autónoma",
+            "Comunidad_Autónoma",
+            "Administración_de_Justicia",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Seguridad_del_Gobierno_de_Canarias"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:10"
+        ]
+    }
+}

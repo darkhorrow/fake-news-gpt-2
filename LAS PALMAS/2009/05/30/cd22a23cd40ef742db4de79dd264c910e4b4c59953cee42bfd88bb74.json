@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-05-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/471433/0/gatos/maltrato/multa/",
+    "title": {
+        "raw_text": "Un hombre, detenido por arrojar gatos vivos desde un coche en marcha en una autopista",
+        "lemmatized_text": "uno hombre detener por arrojar gato vivo desde uno coche en marcha en uno autopista",
+        "lemmatized_text_reduced": "hombre detener arrojar gato vivo coche marcha autopista",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ha sido acusado de un delito de malos tratos. El acusado es un portugués de 35 años. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "haber ser acusar de uno delito de malo trato el acusado ser uno portugués de 35 año consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber ser acusar delito malo trato acusado ser portugués año consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "35"
+        ]
+    },
+    "body": {
+        "raw_text": "Un ciudadano portugués de 35 años ha sido detenido en Tenerife como presunto autor de un delito de malos tratos de animales domésticos porque, al parecer, arrojó vivos varios gatos desde un turismo cuando circulaba por la autopista del norte de Tenerife. La Guardia Civil informó este sábado de que la intervención de los agentes se produjo ayer, después de recibir la llamada de un joven que llamó al 112 para advertir de que un conductor arrojaba gatos domésticos vivos desde un coche cuando transitaba por las inmediaciones del municipio de Fasnia. Una patrulla de la Guardia Civil interceptó el vehículo en el que viajaba este individuo y personal del servicio de mantenimiento de carreteras retiró uno de los gatos, que había sido atropellado por otro turismo. El Seprona de la Guardia Civil imputa al detenido un delito de malos tratos de animales domésticos y en un comunicado se señala que se desconoce el número exacto de animales que fueron arrojados a la autopista.",
+        "lemmatized_text": "uno ciudadano portugués de 35 año haber ser detener en tenerife como presunto autor de uno delito de malo trato de animal doméstico porque a el parecer arrojar vivo varios gato desde uno turismo cuando circular por el autopista de el norte de tenerife el guardia_civil informar este [S:??/??/??:??.??:??] de que el intervención de el agente se producir ayer después_de recibir el llamada de uno joven que llamar a el 112 para advertir de que uno conductor arrojar gato doméstico vivo desde uno coche cuando transitar por el inmediación de el municipio de fasnia uno patrulla de el guardia_civil interceptar el vehículo en el que viajar este individuo y personal de el servicio de mantenimiento de carretera retirar uno de el gato que haber ser atropellar por otro turismo el seprona_de_la_guardia_civil imputar a el detener uno delito de malo trato de animal doméstico y en uno comunicado se señalar que se desconocer el número exacto de animal que ser arrojar a el autopista",
+        "lemmatized_text_reduced": "ciudadano portugués año haber ser detener tenerife presunto autor delito malo trato animal doméstico parecer arrojar vivo gato turismo circular autopista norte tenerife guardia_civil informar intervención agente producir recibir llamada joven llamar advertir conductor arrojar gato doméstico vivo coche transitar inmediación municipio fasnia patrulla guardia_civil interceptar vehículo viajar individuo personal servicio mantenimiento carretera retirar gato haber ser atropellar turismo seprona_de_la_guardia_civil imputar detener delito malo trato animal doméstico comunicado señalar desconocer número exacto animal ser arrojar autopista",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "Tenerife",
+            "Fasnia"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "Seprona_de_la_Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "35",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/665399/0/",
+    "title": {
+        "raw_text": "Un colisión entre varios vehículos en la zona del Puerto en Las Palmas de Gran Canaria causa retenciones",
+        "lemmatized_text": "uno colisión entre varios vehículo en el zona de el puerto en las_palmas_de_gran_canaria causar retención",
+        "lemmatized_text_reduced": "colisión vehículo zona puerto las_palmas_de_gran_canaria causar retención",
+        "persons": [],
+        "locations": [
+            "Puerto",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una colisión entre varios vehículos en la zona del Puerto de la Luz, en Las Palmas de Gran Canaria, ha causado retenciones, según informaron fuentes de la Policía Local a Europa Press.",
+        "lemmatized_text": "uno colisión entre varios vehículo en el zona de el puerto_de_la_luz en las_palmas_de_gran_canaria haber causar retención según informar fuente de el policía_local a europa_press",
+        "lemmatized_text_reduced": "colisión vehículo zona puerto_de_la_luz las_palmas_de_gran_canaria haber causar retención informar fuente policía_local europa_press",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Puerto_de_la_Luz",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, el incidente se ha producido en la autovía de la capital grancanaria, a la altura del parque Santa Catalina, en dirección Sur. Así, por la hora a la que se ha producido ha causado retenciones de consideración en la zona.",
+        "lemmatized_text": "en concreto el incidente se haber producir en el autovía de el capital grancanaria a el altura de el parque santa_catalina en dirección sur así por el hora a el que se haber producir haber causar retención de consideración en el zona",
+        "lemmatized_text_reduced": "concreto incidente haber producir autovía capital grancanaria altura parque santa_catalina dirección sur hora haber producir haber causar retención consideración zona",
+        "persons": [],
+        "locations": [
+            "Santa_Catalina",
+            "Sur"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

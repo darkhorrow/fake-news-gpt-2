@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/713001/0/",
+    "title": {
+        "raw_text": "Gobierno canario confía en que será posible pero \"no sencillo\" reducir 24,6 millones de gasto farmacéutico",
+        "lemmatized_text": "gobierno canario confiar en que ser posible pero no sencillo reducir 24,6 millón de gasto farmacéutico",
+        "lemmatized_text_reduced": "gobierno canario confiar ser posible sencillo reducir millón gasto farmacéutico",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "24,6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El portavoz del Gobierno de Canarias, Martín Marrero, se mostró hoy confiado en que se pueda reducir los 24,6 millones de euros, que el Ministerio de Sanidad obliga al archipiélago, aunque dijo que no será sencillo.",
+        "lemmatized_text": "el portavoz de el gobierno_de_canarias martín_marrero se mostrar hoy confiar en que se poder reducir el 24,6 millón de euro que el ministerio_de_sanidad obligar a el archipiélago aunque decir que no ser sencillo",
+        "lemmatized_text_reduced": "portavoz gobierno_de_canarias martín_marrero mostrar confiar poder reducir millón euro ministerio_de_sanidad obligar archipiélago decir ser sencillo",
+        "persons": [
+            "Martín_Marrero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ministerio_de_Sanidad"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "24,6"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Seguimos confiando en que será posible pero no sencillo porque hay una tendencia al alza en las condiciones actuales en las que se produce el gasto farmacéutico\", apuntó Marrero en la rueda de prensa posterior al Consejo de Gobierno. De todos modos, indicó que están \"a la espera de conocer ese detalle\" de cómo se distribuiría el recorte de 24,6 millones, ya que \"habrá que aclarar si esa cifra es por todo el año, con lo que habría que hacer una modulación\". Asimismo, señaló que ya en Canarias se está haciendo \"todo lo posible en el ámbito de sus competencias\" para reducir el gasto farmacéutico y en este sentido se refirió a la implantación de la receta electrónica donde se están realizando alrededor de un \"41 por ciento\" de total. El recorte del gasto farmacéutico fue anunciado la pasada semana por el presidente del Gobierno, José Luis Rodríguez Zapatero, y tiene como objetivo paliar el déficit público, implicando un ahorro anual para el Sistema Nacional de Salud (SNS) de unos 1.050 millones de euros, gracias a la rebaja de los precios de los medicamentos no sujetos al sistema de precios de referencia.",
+        "lemmatized_text": "seguir confiar en que ser posible pero no sencillo porque haber uno tendencia a el alza en el condición actual en el que se producir el gasto farmacéutico apuntar marrero en el rueda de prensa posterior a el consejo_de_gobierno de_todos_modos indicar que estar a_la_espera_de conocer ese detalle de cómo se distribuir el recorte de 24,6 millón ya_que haber que aclarar si ese cifra ser por todo el año con el que haber que hacer uno modulación asimismo señalar que ya en canarias se estar hacendar todo el posible en el ámbito de su competencia para reducir el gasto farmacéutico y en este sentido se referir a el implantación de el receta electrónico donde se estar realizar alrededor_de uno 41 por 100 de total el recorte de el gasto farmacéutico ser anunciar el pasar semana por el presidente de el gobierno josé_luis_rodríguez_zapatero y tener como objetivo paliar el déficit público implicar uno ahorro anual para el sistema_nacional_de_salud sns de uno $_ECU:1050000 gracias_a el rebaja de el precio de el medicamento no sujeto a el sistema de precio de referencia",
+        "lemmatized_text_reduced": "seguir confiar ser posible sencillo haber tendencia alza condición actual producir gasto farmacéutico apuntar marrero rueda prensa posterior consejo_de_gobierno indicar estar conocer detalle distribuir recorte millón haber aclarar cifra ser año haber hacer modulación señalar canarias estar hacendar posible ámbito competencia reducir gasto farmacéutico sentido referir implantación receta electrónico estar realizar total recorte gasto farmacéutico ser anunciar pasar semana presidente gobierno josé_luis_rodríguez_zapatero tener objetivo paliar déficit público implicar ahorro anual sistema_nacional_de_salud sns rebaja precio medicamento sujeto sistema precio referencia",
+        "persons": [
+            "Marrero",
+            "José_Luis_Rodríguez_Zapatero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno",
+            "Gobierno"
+        ],
+        "others": [
+            "Sistema_Nacional_de_Salud",
+            "SNS"
+        ],
+        "dates": [],
+        "numbers": [
+            "24,6",
+            "41",
+            "100",
+            "$_ECU:1050000"
+        ]
+    }
+}

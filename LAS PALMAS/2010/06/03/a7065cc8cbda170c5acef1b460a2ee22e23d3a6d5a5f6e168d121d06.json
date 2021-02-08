@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/726621/0/",
+    "title": {
+        "raw_text": "Sinéad O'Connor suspende su concierto en el Auditorio Alfredo Kraus en Las Palmas de Gran Canaria por motivos de salud",
+        "lemmatized_text": "sinéad_o'connor suspender su concierto en el auditorio_alfredo_kraus en las_palmas_de_gran_canaria por motivo de salud",
+        "lemmatized_text_reduced": "sinéad_o'connor suspender concierto auditorio_alfredo_kraus las_palmas_de_gran_canaria motivo salud",
+        "persons": [
+            "Sinéad_O'Connor"
+        ],
+        "locations": [
+            "Auditorio_Alfredo_Kraus",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Problemas de salud impiden a la cantante y compositora irlandesa Sinéad O'Connor acudir a su cita con Arrecife de las Músicas, mañana viernes, a las 21.00 horas, en la Sala San Borondón del Auditorio Alfredo Kraus de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "problema de salud impedir a el cantante y compositor irlandés sinéad_o'connor acudir a su cita con arrecife_de_las_músicas mañana [V:??/??/??:??.??:??] a el TM_h:21 en el sala_san_borondón_del_auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "problema salud impedir cantante compositor irlandés sinéad_o'connor acudir cita arrecife_de_las_músicas sala_san_borondón_del_auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Sinéad_O'Connor"
+        ],
+        "locations": [
+            "Arrecife_de_las_Músicas",
+            "Sala_San_Borondón_del_Auditorio_Alfredo_Kraus_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "La organización informa en un comunicado de que está intentando cerrar una próxima fecha, por lo que el concierto de Sinéad O'Connor queda aplazado así hasta nuevo aviso. Las personas que hayan adquirido sus entradas para asistir al mismo recibirán el importe de las entradas por el mismo medio que las adquirieron. El horario de taquilla será de 15.00 a 21.00 horas, de lunes a viernes. La Fundación Auditorio lamenta \"profundamente\" las molestias y agradece \"la comprensión de todos aquellos que se han visto afectados\".",
+        "lemmatized_text": "el organización informar en uno comunicado de que estar intentar cerrar uno próximo fecha por el que el concierto de sinéad_o'connor quedar aplazar así hasta nuevo aviso el persona que haber adquirir su entrada para asistir a el mismo recibir el importe de el entrada por el mismo medio que lo adquirir el horario de taquilla ser de 15 a TM_h:21 de [L:??/??/??:??.??:??] a [V:??/??/??:??.??:??] el fundación_auditorio lamentar profundamente el molestia y agradecer el comprensión de todo aquel que se haber ver afectado",
+        "lemmatized_text_reduced": "organización informar comunicado estar intentar cerrar próximo fecha concierto sinéad_o'connor quedar aplazar nuevo aviso persona haber adquirir entrada asistir recibir importe entrada mismo medio adquirir horario taquilla ser fundación_auditorio lamentar profundamente molestia agradecer comprensión haber ver afectado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fundación_Auditorio"
+        ],
+        "others": [
+            "Sinéad_O'Connor"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "15",
+            "TM_h:21"
+        ]
+    }
+}

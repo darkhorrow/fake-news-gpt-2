@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/732271/0/",
+    "title": {
+        "raw_text": "Un varón grave tras ser recuperado de una parada cardiorrespiratoria en la calle en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno varón grave tras ser recuperar de uno parada cardiorrespiratoria en el calle en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "varón grave ser recuperar parada cardiorrespiratoria calle las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre de 40 años de edad se encuentra grave tras ser recuperado de una parada cardiorrespiratoria en los jardines del hotel Santa Catalina en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre de 40 año de edad se encontrar grave tras ser recuperar de uno parada cardiorrespiratoria en el jardín de el hotel santa_catalina en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre año edad encontrar grave ser recuperar parada cardiorrespiratoria jardín hotel santa_catalina las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Santa_Catalina",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "40",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 16.15 horas, cuando se recibieron varias llamadas en el Cecoes que informaba de que un hombre permanecía tirado en el suelo sin responder a estímulos en la dirección señalada. De este modo, el 112 activó de inmediato los recursos de emergencias oportunos. Una vez en el lugar, el personal médico del Servicio de Urgencias Canario (SUC) constató que el afectado se encontraba en situación de parada cardiorrespiratoria, por lo que procedió a practicarle maniobras de reanimación cardiopulmonar básicas y avanzadas, recuperándolo y, tras estabilizarlo, lo trasladó al Hospital Universitario de Gran Canaria Doctor Negrín en ambulancia de soporte vital avanzado del SUC en estado grave. En dicha actuación participó la Policía Local, que colaboró en las tareas propias del incidente.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:16.15 cuando se recibir varios llamada en el cecoes que informar de que uno hombre permanecer tirar en el suelo sin responder a estímulo en el dirección señalar de este modo el 112 activar de inmediato el recurso de emergencia oportuno uno vez en el lugar el personal médico de el servicio_de_urgencias_canario suc constatar que el afectar se encontrar en situación de parada cardiorrespiratoria por el que proceder a practicar le maniobra de reanimación cardiopulmonar básico y avanzar recuperar lo y tras estabilizar lo lo trasladar a el hospital_universitario_de_gran_canaria_doctor_negrín en ambulancia de soporte vital avanzar de el suc en estado grave en decir actuación participar el policía_local que colaborar en el tarea propio de el incidente",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes informar hombre permanecer tirar suelo responder estímulo dirección señalar modo activar inmediato recurso emergencia oportuno vez lugar personal médico servicio_de_urgencias_canario suc constatar afectar encontrar situación parada cardiorrespiratoria proceder practicar maniobra reanimación cardiopulmonar básico avanzar recuperar estabilizar trasladar hospital_universitario_de_gran_canaria_doctor_negrín ambulancia soporte vital avanzar suc estado grave decir actuación participar policía_local colaborar tarea propio incidente",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:16.15",
+            "112"
+        ]
+    }
+}

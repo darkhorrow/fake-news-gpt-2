@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/732243/0/",
+    "title": {
+        "raw_text": "Las obras en la circunvalación de Arucas-Firgas a La Goleta, en Gran Canaria, desviará mañana el tráfico",
+        "lemmatized_text": "el obra en el circunvalación de arucas-firgas a la_goleta en gran_canaria desviar mañana el tráfico",
+        "lemmatized_text_reduced": "obra circunvalación arucas-firgas la_goleta gran_canaria desviar tráfico",
+        "persons": [],
+        "locations": [
+            "La_Goleta",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Arucas-Firgas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las obras que se están ejecutando en la circunvalación de Arucas-Firgas a La Goleta, en la isla de Gran Canaria, provocará mañana el desvío del tráfico en la bajada que transcurre desde la iglesia de La Goleta a la circunvalación (Pasaje Río Oro).",
+        "lemmatized_text": "el obra que se estar ejecutar en el circunvalación de arucas-firgas a la_goleta en el isla de gran_canaria provocar mañana el desvío de el tráfico en el bajada que transcurrir desde el iglesia de la_goleta a el circunvalación pasaje_río_oro",
+        "lemmatized_text_reduced": "obra estar ejecutar circunvalación arucas-firgas la_goleta isla gran_canaria provocar desvío tráfico bajada transcurrir iglesia la_goleta circunvalación pasaje_río_oro",
+        "persons": [],
+        "locations": [
+            "La_Goleta",
+            "Gran_Canaria",
+            "La_Goleta"
+        ],
+        "organizations": [
+            "Arucas-Firgas"
+        ],
+        "others": [
+            "Pasaje_Río_Oro"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Este desvío se realizará sobre tierra apisonada que se ha tratado \"especialmente para la ocasión\" por lo que se ha recomendado \"mucha prudencia\", según informó el Ayuntamiento de Arucas en nota de prensa. Respecto al cambio en la circulación, se debe a que la empresa constructora tiene que desplazar las vías de hormigón que se instalarán para el acceso a Vasco López. Finalmente, el Consistorio ha solicitado a los ciudadanos que estén atentos a los carteles informativos e indicaciones del personal responsable de las obras, así como de la Policía Local, y pidió disculpas por los inconvenientes que puedan producir estos cambios en la circulación.",
+        "lemmatized_text": "este desvío se realizar sobre tierra apisonar que se haber tratar especialmente para el ocasión por el que se haber recomendar mucho prudencia según informar el ayuntamiento_de_arucas en nota de prensa respecto a el cambio en el circulación se deber a que el empresa constructor tener que desplazar el vía de hormigón que se instalar para el acceso a vasco_lópez finalmente el consistorio haber solicitar a el ciudadano que estar atento a el cartel informativo y indicación de el personal responsable de el obra así_como de el policía_local y pedir disculpa por el inconveniente que poder producir este cambio en el circulación",
+        "lemmatized_text_reduced": "desvío realizar tierra apisonar haber tratar especialmente ocasión haber recomendar prudencia informar ayuntamiento_de_arucas nota prensa respecto cambio circulación deber empresa constructor tener desplazar vía hormigón instalar acceso vasco_lópez finalmente consistorio haber solicitar ciudadano estar atento cartel informativo indicación personal responsable obra policía_local pedir disculpa inconveniente poder producir cambio circulación",
+        "persons": [
+            "Vasco_López"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Arucas",
+            "Consistorio",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

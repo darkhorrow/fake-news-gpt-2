@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/446823/0/cadaver/mariscadora/lanzarote/",
+    "title": {
+        "raw_text": "Hallan el cadáver de una mariscadora, arrastrada hace 3 días por un golpe de mar",
+        "lemmatized_text": "hallar el cadáver de uno mariscador arrastrar hacer TM_d:3 por uno golpe de mar",
+        "lemmatized_text_reduced": "hallar cadáver mariscador arrastrar hacer golpe mar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Su marido se tiró al agua para salvarla, sin éxito. Él sí pudo ser rescatado en el momento por Salvamento Marítimo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "su marido se tirar a el agua para salvar lo sin éxito él sí poder ser rescatar en el momento por salvamento_marítimo consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "marido tirar agua salvar éxito poder ser rescatar momento salvamento_marítimo consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un helicóptero de Salvamento Marítimo de Las Palmas halló hoy a 300 metros de la costa norte de Fuerteventura a la mujer desaparecida hace tres días en el sur de Lanzarote después de que fuera arrastrada por un golpe de mar cuando mariscaba . Según informó un portavoz de la sociedad estatal, el hallazgo del cuerpo sin vida de la mujer se produjo a las 16.15 horas a 300 metros de la costa y a cinco millas al sur del faro de Punta Tostón, al norte de Fuerteventura. Aunque la mujer había caído al agua en el sur de Lanzarote, la deriva la llevó hasta el norte de Fuerteventura, donde la tripulación de la embarcación Salvamar Atlántico se encargó hoy de rescatar su cadáver y trasladarlo hasta el puerto deportivo Marina Rubicón, en el municipio lanzaroteño de Yaiza, donde la Guardia Civil se hizo cargo de él. El marido de la fallecida Hasta ese mismo puerto fue conducido hace tres días, horas después de ser arrastrado, junto a su mujer, por un golpe de mar, el marido de la fallecida , que mariscaba junto a ella cuando sorprendió a ambos la fuerza de las olas. Tras ser rescatado relató que cuando su mujer fue arrastrada por un golpe de mar, él se tiró al agua para salvarla, sin éxito. El dispositivo de búsqueda iniciado entonces por efectivos de Salvamento Marítimo, Guardia Civil, Policía Local, Protección Civil y Grupo de Emergencias del Gobierno de Canarias, en el que se emplearon varias embarcaciones y un helicóptero, permitieron encontrar al hombre , aunque no se logró dar con la mujer, a la que se ha seguido buscando hasta hoy, cuando se ha encontrado muerta en aguas cercanas a la costa norte de Fuerteventura. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno helicóptero de salvamento_marítimo_de_las_palmas hallar hoy a LN_m:300 de el costa norte de fuerteventura a el mujer desaparecer hacer TM_d:3 en el sur de lanzarote después_de que ser arrastrar por uno golpe de mar cuando mariscar según informar uno portavoz de el sociedad estatal el hallazgo de el cuerpo sin vida de el mujer se producir a el TM_h:16.15 a LN_m:300 de el costa y a LN_mi:5 a el sur de el faro de punta_tostón a el norte de fuerteventura aunque el mujer haber caer a el agua en el sur de lanzarote el deriva lo llevar hasta el norte de fuerteventura donde el tripulación de el embarcación salvamar_atlántico se encargar hoy de rescatar su cadáver y trasladar lo hasta el puerto deportivo marina_rubicón en el municipio lanzaroteño de yaiza donde el guardia_civil se hacer_cargo de él el marido de el fallecer hasta ese mismo puerto ser conducir hacer TM_d:3 hora después_de ser arrastrar junto_a su mujer por uno golpe de mar el marido de el fallecer que mariscar junto_a él cuando sorprender a ambos el fuerza de el ola tras ser rescatar relatar que cuando su mujer ser arrastrar por uno golpe de mar él se tirar a el agua para salvar lo sin éxito el dispositivo de búsqueda iniciar entonces por efectivo de salvamento_marítimo guardia_civil policía_local protección_civil y grupo_de_emergencias_del_gobierno_de_canarias en el que se emplear varios embarcación y uno helicóptero permitir encontrar a el hombre aunque no se lograr dar con el mujer a el que se haber seguir buscar hasta hoy cuando se haber encontrar morir en agua cercano a el costa norte de fuerteventura consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "helicóptero salvamento_marítimo_de_las_palmas hallar costa norte fuerteventura mujer desaparecer hacer sur lanzarote ser arrastrar golpe mar mariscar informar portavoz sociedad estatal hallazgo cuerpo vida mujer producir costa sur faro punta_tostón norte fuerteventura mujer haber caer agua sur lanzarote deriva llevar norte fuerteventura tripulación embarcación salvamar_atlántico encargar rescatar cadáver trasladar puerto deportivo marina_rubicón municipio lanzaroteño yaiza guardia_civil hacer_cargo marido fallecer hasta mismo puerto ser conducir hacer hora ser arrastrar mujer golpe mar marido fallecer mariscar sorprender fuerza ola ser rescatar relatar mujer ser arrastrar golpe mar tirar agua salvar éxito dispositivo búsqueda iniciar efectivo salvamento_marítimo guardia_civil policía_local protección_civil grupo_de_emergencias_del_gobierno_de_canarias emplear embarcación helicóptero permitir encontrar hombre lograr dar mujer haber seguir buscar haber encontrar morir agua cercano costa norte fuerteventura consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Marina_Rubicón",
+            "Hasta",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Punta_Tostón",
+            "Lanzarote",
+            "Fuerteventura",
+            "Yaiza"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Fuerteventura",
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Protección_Civil",
+            "Grupo_de_Emergencias_del_Gobierno_de_Canarias",
+            "Fuerteventura",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Salvamento_Marítimo_de_Las_Palmas",
+            "Salvamar_Atlántico"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_m:300",
+            "TM_d:3",
+            "TM_h:16.15",
+            "LN_m:300",
+            "LN_mi:5",
+            "TM_d:3"
+        ]
+    }
+}

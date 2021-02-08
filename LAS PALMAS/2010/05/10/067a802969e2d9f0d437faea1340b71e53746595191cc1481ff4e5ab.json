@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/702608/0/",
+    "title": {
+        "raw_text": "Canceladas seis operaciones en aeropuertos canarios por la nube de cenizas",
+        "lemmatized_text": "cancelar 6 operación en aeropuerto canario por el nube de ceniza",
+        "lemmatized_text_reduced": "cancelar operación aeropuerto canario nube ceniza",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de seis operaciones han sido canceladas hoy en los aeropuertos canarios como consecuencia de la nube de cenizas producida por la erupción volcánica de Islandia, según informaron a Europa Press fuentes de Aeropuertos Españoles y Navegación Aérea (Aena).",
+        "lemmatized_text": "uno total de 6 operación haber ser cancelar hoy en el aeropuerto canario como consecuencia de el nube de ceniza producir por el erupción volcánico de islandia según informar a europa_press fuente de aeropuertos_españoles y navegación_aérea aena",
+        "lemmatized_text_reduced": "total operación haber ser cancelar aeropuerto canario consecuencia nube ceniza producir erupción volcánico islandia informar europa_press fuente aeropuertos_españoles navegación_aérea aena",
+        "persons": [
+            "Europa_Press",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Islandia"
+        ],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, han sido anulados los dos vuelos de llegada y salida de la compañía easyJet que conectan Madrid y el aeropuerto de Puerto del Rosario, en Fuerteventura. A ellos se suman dos operaciones canceladas de los vuelos de la compañía aérea Monarch Airlines que conectan Manchester (Reino Unido) y Gran Canaria. Por su parte, en la provincia occidental han sido suspendidos dos operaciones de easyJet de Manchester-Tenerife Sur. Asimismo, se registran \"algunos retrasos\" en los aeropuertos de las islas en relación a vuelos de la Península, añadieron las mismas fuentes.",
+        "lemmatized_text": "en concreto haber ser anular el 2 vuelo de llegada y salida de el compañía easyjet que conectar madrid y el aeropuerto de puerto_del_rosario en fuerteventura a ellos se sumar 2 operación cancelar de el vuelo de el compañía aéreo monarch_airlines que conectar manchester reino_unido y gran_canaria por su parte en el provincia occidental haber ser suspender 2 operación de easyjet de manchester-tenerife_sur asimismo se registrar alguno retraso en el aeropuerto de el isla en relación a vuelo de el península añadir el mismo fuente",
+        "lemmatized_text_reduced": "concreto haber ser anular vuelo llegada salida compañía easyjet conectar madrid aeropuerto puerto_del_rosario fuerteventura sumar operación cancelar vuelo compañía aéreo monarch_airlines conectar manchester reino_unido gran_canaria parte provincia occidental haber ser suspender operación easyjet manchester-tenerife_sur registrar retraso aeropuerto isla relación vuelo península añadir mismo fuente",
+        "persons": [],
+        "locations": [
+            "Madrid",
+            "Puerto_del_Rosario",
+            "Fuerteventura",
+            "Manchester",
+            "Reino_Unido"
+        ],
+        "organizations": [
+            "Monarch_Airlines",
+            "Gran_Canaria",
+            "Manchester-Tenerife_Sur",
+            "Península"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/696226/0/",
+    "title": {
+        "raw_text": "Rivero se reunirá con los presidente de los cabildos canarios el próximo 17 de mayo en Tenerife",
+        "lemmatized_text": "rivero se reunir con el presidente de el cabildo canario el [??:17/5/??:??.??:??] en tenerife",
+        "lemmatized_text_reduced": "rivero reunir presidente cabildo canario tenerife",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Tenerife"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:17/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ya ha puesto fecha para reunirse con los presidentes de los cabildos y será el próximo 17 de mayo.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero ya haber poner fecha para reunir se con el presidente de el cabildo y ser el [??:17/5/??:??.??:??]",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber poner fecha reunir presidente cabildo ser",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:17/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, lo ha publicado hoy en su canal de información a través de Twitter, donde indicó además que en dicho encuentro también estarán presentes los miembros de la Ejecutiva de la Federación Canaria de Municipios (FECAM). En cuanto al lugar en el que se desarrollará la reunión, será en la sede de la Presidencia del Gobierno regional en Santa Cruz de Tenerife. Este encuentro responde así a la petición de la Federación Canaria de Islas (FECAI), quien solicitó mantener una reunión con el presidente Rivero a fin de exponerle sus peticiones sobre la devolución del impuesto del Régimen Económico y Fiscal (REF), entre otros aspectos.",
+        "lemmatized_text": "así lo haber publicar hoy en su canal de información a_través_de twitter donde indicar además que en decir encuentro también estar presente el miembro de el ejecutiva_de_la_federación_canaria_de_municipios fecam en cuanto a el lugar en el que se desarrollar el reunión ser en el sede de el presidencia_del_gobierno regional en santa_cruz_de_tenerife este encuentro responder así a el petición de el federación_canaria_de_islas fecai quien solicitar mantener uno reunión con el presidente rivero a_fin_de exponer le su petición sobre el devolución de el impuesto de el régimen_económico y fiscal ref entre otro aspecto",
+        "lemmatized_text_reduced": "haber publicar canal información twitter indicar decir encuentro estar presente miembro ejecutiva_de_la_federación_canaria_de_municipios fecam lugar desarrollar reunión ser sede presidencia_del_gobierno regional santa_cruz_de_tenerife encuentro responder petición federación_canaria_de_islas fecai solicitar mantener reunión presidente rivero exponer petición devolución impuesto régimen_económico fiscal ref aspecto",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Twitter",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Ejecutiva_de_la_Federación_Canaria_de_Municipios",
+            "FECAM",
+            "Presidencia_del_Gobierno",
+            "Federación_Canaria_de_Islas",
+            "FECAI",
+            "Régimen_Económico",
+            "Fiscal",
+            "REF"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

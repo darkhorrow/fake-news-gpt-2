@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618216/0/",
+    "title": {
+        "raw_text": "La Guardia Civil busca a una mujer desaparecida en Arucas (Gran Canaria)",
+        "lemmatized_text": "el guardia_civil buscar a uno mujer desaparecer en arucas gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil buscar mujer desaparecer arucas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil busca a una mujer, identificada como Gloria Santana Pérez, que desapareció ayer jueves en el municipio de Arucas, al norte de Gran Canaria, según informaron a Europa Press fuentes municipales.",
+        "lemmatized_text": "el guardia_civil buscar a uno mujer identificar como gloria_santana_pérez que desaparecer ayer [J:??/??/??:??.??:??] en el municipio de arucas a el norte de gran_canaria según informar a europa_press fuente municipal",
+        "lemmatized_text_reduced": "guardia_civil buscar mujer identificar gloria_santana_pérez desaparecer municipio arucas norte gran_canaria informar europa_press fuente municipal",
+        "persons": [
+            "Gloria_Santana_Pérez",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La mujer, de unos 47 años de edad, tiene tres hijos, padece una depresión y es natural del barrio de Cardones. Su familia denunció ante la Benemérita y alertó de su desaparición al ver que no llegaba a su domicilio en horas de la mañana. Han repartido por Arucas folletos con el rostro de esta mujer y solicitan la colaboración ciudadana para quien pueda aportar algún dato sobre su paradero. Respecto a sus datos físicos, se trata de una persona de estatura baja, delgada y de pelo rubio. En el momento de su desaparición vestía pantalón vaquero, botas marrones y chaqueta negra. Tras iniciar la investigación de los hechos, la Guardia Civil comprobó que Gloria Santana se desplazó en taxi hasta una parada en Tinoca, donde cogió una guagua hasta la localidad de Gáldar. La última vez que fue vista fue en las inmediaciones del Barranco de Gáldar, zona que se está rastreando sin éxito hasta el momento, concluyeron las mismas fuentes.",
+        "lemmatized_text": "el mujer de uno 47 año de edad tener 3 hijo padecer uno depresión y ser natural de el barrio de cardones su familia denunciar ante el benemérita y alertar de su desaparición a el ver que no llegar a su domicilio en hora de el mañana haber repartir por arucas folleto con el rostro de este mujer y solicitar el colaboración ciudadano para quien poder aportar alguno dato sobre su paradero respecto_a su dato físico se tratar de uno persona de estatura bajo delgado y de pelo rubio en el momento de su desaparición vestir pantalón vaquero bota marrón y chaqueta negro tras iniciar el investigación de el hecho el guardia_civil comprobar que gloria_santana se desplazar en taxi hasta uno parada en tinoca donde coger uno guagua hasta el localidad de gáldar el último vez que ser ver ser en el inmediación de el barranco_de_gáldar zona que se estar rastrear sin éxito hasta el momento concluir el mismo fuente",
+        "lemmatized_text_reduced": "mujer año edad tener hijo padecer depresión ser natural barrio cardones familia denunciar benemérita alertar desaparición ver llegar domicilio hora mañana haber repartir arucas folleto rostro mujer solicitar colaboración ciudadano poder aportar dato paradero dato físico tratar persona estatura bajo delgado pelo rubio momento desaparición vestir pantalón vaquero bota marrón chaqueta negro iniciar investigación hecho guardia_civil comprobar gloria_santana desplazar taxi parada tinoca coger guagua localidad gáldar último vez ser ver ser inmediación barranco_de_gáldar zona estar rastrear éxito momento concluir mismo fuente",
+        "persons": [
+            "Arucas",
+            "Gloria_Santana"
+        ],
+        "locations": [
+            "Cardones",
+            "Tinoca",
+            "Gáldar",
+            "Barranco_de_Gáldar"
+        ],
+        "organizations": [
+            "Benemérita",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "47",
+            "3"
+        ]
+    }
+}

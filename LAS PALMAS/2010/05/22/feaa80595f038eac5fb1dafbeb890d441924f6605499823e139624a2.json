@@ -1,0 +1,95 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/714616/0/",
+    "title": {
+        "raw_text": "El británico Robin Colvill ofrece un concierto de piano hoy en la Cueva de los Verdes, en Lanzarote",
+        "lemmatized_text": "el británico robin_colvill ofrecer uno concierto de piano hoy en el cueva_de_los_verdes en lanzarote",
+        "lemmatized_text_reduced": "británico robin_colvill ofrecer concierto piano cueva_de_los_verdes lanzarote",
+        "persons": [
+            "Robin_Colvill"
+        ],
+        "locations": [
+            "Cueva_de_los_Verdes",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El pianista británico Robin Colvill actuará hoy en concierto en la Cueva de los Verdes, en el marco del Ciclo de Conciertos de Primavera que llevan a cabo los Centros de Arte, Cultura y Turismo (CACT,s) del Cabildo de Lanzarote.",
+        "lemmatized_text": "el pianista británico robin_colvill actuar hoy en concierto en el cueva_de_los_verdes en el marco de el ciclo_de_conciertos_de_primavera que llevar_a_cabo el centros_de_arte cultura y turismo cact segundo de el cabildo_de_lanzarote",
+        "lemmatized_text_reduced": "pianista británico robin_colvill actuar concierto cueva_de_los_verdes marco ciclo_de_conciertos_de_primavera llevar_a_cabo centros_de_arte cultura turismo cact segundo cabildo_de_lanzarote",
+        "persons": [
+            "Robin_Colvill"
+        ],
+        "locations": [
+            "Cueva_de_los_Verdes"
+        ],
+        "organizations": [
+            "Ciclo_de_Conciertos_de_Primavera",
+            "Centros_de_Arte",
+            "CACT",
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [
+            "Cultura",
+            "Turismo"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Robin Colvill está considerado como uno de los pianistas \"más activos y más populares\" del espectáculo en Gran Bretaña y en Europa. El concierto comenzará a las 20.30 horas y las entradas para asistir al mismo ya están a la venta en la red de los Centros Turísticos de Lanzarote al precio de 15 euros. Además, aquellos que lo deseen pueden disfrutar de una cena opcional en Los Jameos del Agua por 45 euros más. Este artista ya ha pasado por escenarios como la Ópera de La Habana (Cuba), el Festival de Heraklion (Creta), Tenerife y los festivales de Corfú, Residenz y Festung Castillo (Salzburgo), Valldemosa (Mallorca), el Teatro Manoel Malta, la Residencia del Gobernador en Gibraltar o en las salas de conciertos de Antigua, Santa Lucía, Barbados, entre otros, según informó el Cabildo de Lanzarote en nota de prensa. Respecto a sus estudios, Colvill comenzó en la Real Academia Escocesa de Música y continuó en Italia en el Accademica Chigiana, Siena. Posteriormente, ganó una beca de tres años para el Mozarteum de Salzburgo para estudiar con el profesor Hans Leygraf y allí se convirtió en uno de los primeros músicos británicos en ganar el codiciado título Konzert.",
+        "lemmatized_text": "robin_colvill estar considerar como uno de el pianista más activo y más popular de el espectáculo en gran_bretaña y en europa el concierto comenzar a el TM_h:20.3 y el entrada para asistir a el mismo ya estar a el venta en el red de el centros_turísticos_de_lanzarote a el precio de $_ECU:15 además aquel que lo desear poder disfrutar de uno cena opcional en los_jameos_del_agua por $_ECU:45 más este artista ya haber pasar por escenario como el ópera_de_la_habana cuba el festival_de_heraklion creta tenerife y el festival de corfú residenz y festung_castillo salzburgo valldemosa mallorca el teatro_manoel_malta el residencia_del_gobernador en gibraltar o en el sala de concierto de antigua santa_lucía barbados entre otro según informar el cabildo_de_lanzarote en nota de prensa respecto_a su estudio colvill comenzar en el real_academia_escocesa_de_música y continuar en italia en el accademica_chigiana siena posteriormente ganar uno beca de 3 año para el mozarteum_de_salzburgo para estudiar con el profesor hans_leygraf y allí se convertir en uno de el 1 músico británico en ganar el codiciar título konzert",
+        "lemmatized_text_reduced": "robin_colvill estar considerar pianista activo popular espectáculo gran_bretaña europa concierto comenzar entrada asistir estar venta red centros_turísticos_de_lanzarote precio desear poder disfrutar cena opcional los_jameos_del_agua artista haber pasar escenario ópera_de_la_habana cuba festival_de_heraklion creta tenerife festival corfú residenz festung_castillo salzburgo valldemosa mallorca teatro_manoel_malta residencia_del_gobernador gibraltar sala concierto antigua santa_lucía barbados informar cabildo_de_lanzarote nota prensa estudio colvill comenzar real_academia_escocesa_de_música continuar italia accademica_chigiana siena posteriormente ganar beca año mozarteum_de_salzburgo estudiar profesor hans_leygraf convertir 1 músico británico ganar codiciar título konzert",
+        "persons": [
+            "Robin_Colvill",
+            "Corfú",
+            "Residenz",
+            "Festung_Castillo",
+            "Colvill",
+            "Hans_Leygraf"
+        ],
+        "locations": [
+            "Gran_Bretaña",
+            "Europa",
+            "Los_Jameos_del_Agua",
+            "Ópera_de_La_Habana",
+            "Cuba",
+            "Valldemosa",
+            "Mallorca",
+            "Gibraltar",
+            "Antigua",
+            "Santa_Lucía",
+            "Italia",
+            "Accademica_Chigiana",
+            "Siena"
+        ],
+        "organizations": [
+            "Centros_Turísticos_de_Lanzarote",
+            "Festival_de_Heraklion",
+            "Creta",
+            "Tenerife",
+            "Salzburgo",
+            "Teatro_Manoel_Malta",
+            "Residencia_del_Gobernador",
+            "Barbados",
+            "Cabildo_de_Lanzarote",
+            "Real_Academia_Escocesa_de_Música",
+            "Mozarteum_de_Salzburgo"
+        ],
+        "others": [
+            "Konzert"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:20.3",
+            "$_ECU:15",
+            "$_ECU:45",
+            "3"
+        ]
+    }
+}

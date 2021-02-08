@@ -1,0 +1,143 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598053/0/",
+    "title": {
+        "raw_text": "Los canarios vieron este año una media de 221 minutos de televisión al día, cinco minutos menos que la media nacional",
+        "lemmatized_text": "el canario ver este año uno media de TM_min:221 de televisión a el día TM_min:5 menos que el media nacional",
+        "lemmatized_text_reduced": "canario ver año media televisión día media nacional",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_min:221",
+            "TM_min:5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los canarios vieron un total de 221 minutos de televisión de media al día durante el año 2009, cinco minutos menos que la media nacional que se situó en 226 minutos al día, según se desprende del informe 'Análisis Televisivo 2009' realizado por la consultora Barlovento Comunicación.",
+        "lemmatized_text": "el canario ver uno total de TM_min:221 de televisión de media a el día durante el [??:??/??/2009:??.??:??] TM_min:5 menos que el media nacional que se situar en TM_min:226 a el día según se desprender de el informe análisis_televisivo 2009 realizar por el consultor barlovento_comunicación",
+        "lemmatized_text_reduced": "canario ver total televisión media día media nacional situar día desprender informe análisis_televisivo realizar consultor barlovento_comunicación",
+        "persons": [
+            "Barlovento_Comunicación"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Análisis_Televisivo"
+        ],
+        "dates": [
+            "[??:??/??/2009:??.??:??]"
+        ],
+        "numbers": [
+            "TM_min:221",
+            "TM_min:5",
+            "TM_min:226",
+            "2009"
+        ]
+    },
+    "body": {
+        "raw_text": "Por delante de Canarias se colocaron Aragón y Andalucía que con 241 y 240 minutos fueron las dos regiones en las que más se vio la televisión al día, mientras que Madrid (207) y Galicia (198) fueron las que menos consumo registraron. Además, de estas destacan por orden de mayor a menor: Cataluña (236), Comunidad Valenciana (235), Baleares (229), País Vasco (225), Asturias (225), Murcia (224) y Castilla-La Mancha (220). El resto de comunidades tiene una media de 223 minutos Aunque a nivel nacional desciende ligeramente el consumo medio, sí que se han producido máximos históricos mensuales, como el alcanzado el pasado enero, mes durante el que se consumió una media diaria de 254 minutos. Asimismo, el informe revela que el consumo individual de televisión, el 44 por ciento, sigue siendo el mayoritario. Le sigue el consumo en pareja (38 por ciento) y en grupo (18 por ciento), que sube ligeramente en detrimento de las dos opciones anteriores. Por otra parte, la emisión más vista del 2009 corresponde a la final de la Liga de Campeones que enfrentó a Barcelona y Manchester United, y que congregó frente a los televisores a 11,3 millones de personas con un 61,7 por ciento de 'share'. De hecho, 41 de las 50 emisiones más seguidas este año son restransmisiones deportivas. Así, el primer programa no deportivo de la lista, una ficción nacional sobre el 23-F, aparece en el puesto 16. Además, de los nueve espacios no deportivos, cinco son de ámbito informativo. Por grupos cualitativos, La 1 es la cadena más vista por hombres y comparte el liderazgo con Telecinco entre mujeres. Además, la cadena pública es la primera opción entre los mayores de 45 años y en las regiones de Aragón, Asturias, Baleares, Castilla-La Mancha, Galicia, Madrid, Murcia, Valencia y Resto. Por su parte, Antena 3 lidera en Andalucía, así como en los jóvenes de 13 a 24 años y comparte el liderazgo con Telecinco en los adultos de entre 25 y 44 años. Los niños de 4 a 12 años se decantan mayoritariamente por el conjunto de cadenas temáticas de la TDT dedicadas a ellos. Precisamente, el estudio destaca que la implantación de la TDT muestra una evolución creciente este año. Así, recoge que este mes firmó su récord con 52,6 por ciento del tiempo que se ve televisión, en detrimento del sistema analógico, que en los últimos 30 días firma su mínimo histórico con un 25, 7 por ciento de cuota. Por comunidades autónomas, la TDT tiene su máxima implantación en Navarra, mientras que registra su mínimo en Cantabria. También en Navarra el satélite encuentra su mayor difusión y el cable es en el País Vasco y Asturias donde obtiene sus mayores datos.",
+        "lemmatized_text": "por delante_de canarias se colocar aragón y andalucía que con 241 y TM_min:240 ser el 2 región en el que más se ver el televisión a el día mientras_que madrid 207 y galicia 198 ser el que menos consumo registrar además de este destacar por orden de mayor a menor cataluña 236 comunidad_valenciana 235 baleares 229 país_vasco 225 asturias 225 murcia 224 y castilla-la_mancha 220 el resto de comunidad tener uno medio de TM_min:223 aunque a nivel nacional descender ligeramente el consumo medio sí que se haber producir máximo histórico mensual como el alcanzar el [??:??/1/??:??.??:??] mes durante el que se consumir uno media diario de TM_min:254 asimismo el informe revelar que el consumo individual de televisión el 44 por 100 seguir ser el mayoritario le seguir el consumo en pareja 38 por 100 y en grupo 18 por 100 que subir ligeramente en detrimento de el 2 opción anterior por otro parte el emisión más ver de el 2009 corresponder a el final de el liga_de_campeones que enfrentar a barcelona y manchester_united y que congregar frente_a el televisor a 11,3 millón de persona con uno 61,7 por 100 de share de hecho 41 de el 50 emisión más seguir este año ser restransmisiones deportivo así el 1 programa no deportivo de el lista uno ficción nacional sobre el 23-F aparecer en el puesto 16 además de el 9 espacio no deportivo 5 ser de ámbito informativo por grupo cualitativo la 1 ser el cadena más ver por hombre y compartir el liderazgo con telecinco entre mujer además el cadena público ser el 1 opción entre el mayor de 45 año y en el región de aragón asturias baleares castilla-la_mancha galicia madrid murcia valencia y resto por su parte antena 3 liderar en andalucía así_como en el joven de 13 a 24 año y compartir el liderazgo con telecinco en el adulto de entre 25 y 44 año el niño de 4 a 12 año se decantar mayoritariamente por el conjunto de cadena temático de el tdt dedicar a ellos precisamente el estudio destacar que el implantación de el tdt mostrar uno evolución creciente este año así recoger que este mes firmar su récord con 52,6 por 100 de el tiempo que se ver televisión en detrimento de el sistema analógico que en el último TM_d:30 firma su mínimo histórico con uno 25 7 por 100 de cuota por comunidad autónomo el tdt tener su máximo implantación en navarra mientras_que registrar su mínimo en cantabria también en navarra el satélite encontrar su mayor difusión y el cable ser en el país_vasco y asturias donde obtener su mayor dato",
+        "lemmatized_text_reduced": "canarias colocar aragón andalucía ser región ver televisión día madrid galicia ser consumo registrar destacar orden mayor menor cataluña comunidad_valenciana baleares país_vasco asturias murcia castilla-la_mancha resto comunidad tener medio aunque nivel nacional descender ligeramente consumo medio haber producir máximo histórico mensual alcanzar mes consumir media diario informe revelar consumo individual televisión seguir ser mayoritario seguir consumo pareja grupo subir ligeramente detrimento opción anterior parte emisión ver corresponder final liga_de_campeones enfrentar barcelona manchester_united congregar televisor millón persona share hecho emisión seguir año ser restransmisiones deportivo 1 programa deportivo lista ficción nacional aparecer puesto espacio deportivo ser ámbito informativo grupo cualitativo la ser cadena ver hombre compartir liderazgo telecinco mujer cadena público ser 1 opción mayor año región aragón asturias baleares castilla-la_mancha galicia madrid murcia valencia resto parte antena liderar andalucía joven año compartir liderazgo telecinco adulto año niño año decantar mayoritariamente conjunto cadena temático tdt dedicar precisamente estudio destacar implantación tdt mostrar evolución creciente año recoger mes firmar récord tiempo ver televisión detrimento sistema analógico último firma mínimo histórico cuota comunidad autónomo tdt tener máximo implantación navarra registrar mínimo cantabria navarra satélite encontrar mayor difusión cable ser país_vasco asturias obtener mayor dato",
+        "persons": [
+            "País_Vasco",
+            "Aunque"
+        ],
+        "locations": [
+            "Canarias",
+            "Aragón",
+            "Andalucía",
+            "Madrid",
+            "Galicia",
+            "Cataluña",
+            "Baleares",
+            "Asturias",
+            "Murcia",
+            "Castilla-La_Mancha",
+            "Barcelona",
+            "Aragón",
+            "Asturias",
+            "Baleares",
+            "Castilla-La_Mancha",
+            "Galicia",
+            "Madrid",
+            "Murcia",
+            "Valencia",
+            "Andalucía",
+            "Navarra",
+            "Cantabria",
+            "Navarra",
+            "País_Vasco",
+            "Asturias"
+        ],
+        "organizations": [
+            "Comunidad_Valenciana",
+            "Manchester_United",
+            "La",
+            "Telecinco",
+            "Resto",
+            "Antena",
+            "Telecinco",
+            "TDT",
+            "TDT",
+            "TDT"
+        ],
+        "others": [
+            "Liga_de_Campeones"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "241",
+            "TM_min:240",
+            "2",
+            "207",
+            "198",
+            "236",
+            "235",
+            "229",
+            "225",
+            "225",
+            "224",
+            "220",
+            "TM_min:223",
+            "TM_min:254",
+            "44",
+            "100",
+            "38",
+            "100",
+            "18",
+            "100",
+            "2",
+            "2009",
+            "11,3",
+            "61,7",
+            "100",
+            "41",
+            "50",
+            "23-F",
+            "16",
+            "9",
+            "5",
+            "1",
+            "45",
+            "3",
+            "13",
+            "24",
+            "25",
+            "44",
+            "4",
+            "12",
+            "52,6",
+            "100",
+            "TM_d:30",
+            "25",
+            "7",
+            "100"
+        ]
+    }
+}

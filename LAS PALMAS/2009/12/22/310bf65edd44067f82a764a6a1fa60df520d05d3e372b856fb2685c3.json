@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593957/0/",
+    "title": {
+        "raw_text": "El Cabildo de Lanzarote contratará a 103 desempleados para la realización de obras y servicios de interés público",
+        "lemmatized_text": "el cabildo_de_lanzarote contratar a 103 desempleado para el realización de obra y servicio de interés público",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote contratar desempleado realización obra servicio interés público",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "103"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Lanzarote contratará a un mínimo de 103 personas desempleadas, a tiempo completo o parcial, para que lleven a cabo obras y servicios de interés público durante un periodo de seis meses, según informó la Corporación insular en nota de prensa.",
+        "lemmatized_text": "el cabildo_de_lanzarote contratar a uno mínimo de 103 persona desempleado a tiempo completo o parcial para que llevar_a_cabo obra y servicio de interés público durante uno periodo de 6 mes según informar el corporación insular en nota de prensa",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote contratar mínimo persona desempleado tiempo completo parcial llevar_a_cabo obra servicio interés público periodo mes informar corporación insular nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Corporación"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "103",
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo aseguró hoy el presidente conejero, Pedro San Ginés, durante el acto de la firma de un convenio de colaboración acordado con el máximo responsable del Servicio Canario de Empleo (SCE), Jorge Marín. En virtud de dicho acuerdo, por el cual el SCE aporta a la primera Institución de la isla una financiación de 862.749,30 euros, se podrá contribuir a la inserción laboral contratando a personas desempleadas. El número mínimo de desempleados a contratar será de 103, con un coste medio mensual de 1.400 euros brutos por puesto de trabajo a jornada completa, siendo la Corporación insular la encargada de llevar a cabo las contrataciones laborales. El plazo máximo de vigencia del convenio será hasta el 30 de septiembre de 2010, pudiendo ser prorrogado.",
+        "lemmatized_text": "así lo asegurar hoy el presidente conejero pedro_san_ginés durante el acto de el firma de uno convenio de colaboración acordar con el máximo responsable de el servicio_canario_de_empleo sce jorge_marín en_virtud_de decir acuerdo por el cual el sce aportar a el 1 institución de el isla uno financiación de $_ECU:862.749,30 se poder contribuir a el inserción laboral contratar a persona desempleado el número mínimo de desempleado a contratar ser de 103 con uno coste medio mensual de $_ECU:1.4 bruto por puesto de trabajo a jornada completo ser el corporación insular el encargado de llevar_a_cabo el contratación laboral el plazo máximo de vigencia de el convenio ser hasta el [??:30/9/2010:??.??:??] poder ser prorrogar",
+        "lemmatized_text_reduced": "asegurar presidente conejero pedro_san_ginés acto firma convenio colaboración acordar máximo responsable servicio_canario_de_empleo sce jorge_marín decir acuerdo sce aportar 1 institución isla financiación poder contribuir inserción laboral contratar persona desempleado número mínimo desempleado contratar ser coste medio mensual bruto puesto trabajo jornada completo ser corporación insular encargado llevar_a_cabo contratación laboral plazo máximo vigencia convenio ser poder ser prorrogar",
+        "persons": [
+            "Pedro_San_Ginés",
+            "Jorge_Marín"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_Canario_de_Empleo",
+            "SCE",
+            "SCE",
+            "Institución",
+            "Corporación"
+        ],
+        "others": [],
+        "dates": [
+            "[??:30/9/2010:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:862.749,30",
+            "103",
+            "$_ECU:1.4"
+        ]
+    }
+}

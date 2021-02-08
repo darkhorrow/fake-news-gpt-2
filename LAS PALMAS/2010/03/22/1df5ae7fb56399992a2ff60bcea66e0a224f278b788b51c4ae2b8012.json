@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/657689/0/",
+    "title": {
+        "raw_text": "GOES trabajan en el pozo de Jinámar, en Gran Canaria, intentando coger la bolsa que podría contener huesos humanos",
+        "lemmatized_text": "goes trabajar en el pozo de jinámar en gran_canaria intentar coger el bolsa que poder contener hueso humano",
+        "lemmatized_text_reduced": "goes trabajar pozo jinámar gran_canaria intentar coger bolsa poder contener hueso humano",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "GOES"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes del Grupo Operativo Especiales de Seguridad (GOES) de la Policía Nacional junto a otros efectivos trabajan desde primera hora de esta mañana en el pozo del valle de Jinámar intentando coger la bolsa que podría contener huesos humanos, que fue hallada durante las tareas de rastreo en días atrás de la menor Sara Morales, desaparecida en julio de 2006.",
+        "lemmatized_text": "agentes_del_grupo_operativo_especiales_de_seguridad goes de el policía_nacional junto_a otro efectivo trabajar desde 1 hora de este mañana en el pozo de el valle de jinámar intentar coger el bolsa que poder contener hueso humano que ser hallar durante el tarea de rastreo en día atrás de el menor sara_morales desaparecer en [??:??/7/2006:??.??:??]",
+        "lemmatized_text_reduced": "agentes_del_grupo_operativo_especiales_de_seguridad goes policía_nacional efectivo trabajar 1 hora mañana pozo valle jinámar intentar coger bolsa poder contener hueso humano ser hallar tarea rastreo día menor sara_morales desaparecer",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Jinámar"
+        ],
+        "organizations": [
+            "Agentes_del_Grupo_Operativo_Especiales_de_Seguridad",
+            "GOES",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/2006:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, lo apuntó la jefa Superior de la Policía Nacional en Canarias, Concepción de Vega Caamaño, que se encuentra en la zona del rastreo. \"Las medidas de seguridad son muy complicadas para que los dos policías y el de subsuelo que están abajo descolgados —en el pozo— no se caigan porque ellos están descolgados, sacando cosas\", explicó De Vega en declaraciones a la Cadena Ser y recogidas por Europa Press. Agregó que \"hay muchos escombros\" y los trabajos están siendo \"complicado\", ya que dentro del pozo no puede haber más de dos o tres agentes. Este descenso al pozo se hace después de que, en los rastreos de días atrás en busca de una pista de Sara Morales, desaparecida ya hace casi cuatro años, una cámara subacuática en un pozo abandonado en el valle de Jinámar, en las proximidades de la vía GC-100, sacara una foto en la que aparecía una bolsa que podría contener huesos de un esqueleto humano.",
+        "lemmatized_text": "así lo apuntar el jefe superior_de_la_policía_nacional en canarias concepción_de_vega_caamaño que se encontrar en el zona de el rastreo el medida de seguridad ser muy complicar para que el 2 policía y el de subsuelo que estar abajo descolgar en el pozo no se caer porque ellos estar descolgar sacar cosa explicar de_vega en declaración a el cadena_ser y recoger por europa_press agregar que haber mucho escombro y el trabajo estar ser complicar ya_que dentro de el pozo no poder haber más de 2 o 3 agente este descenso a el pozo se hacer después_de que en el rastreo de día atrás en_busca_de uno pista de sara_morales desaparecer ya hacer casi 4 año uno cámara subacuático en uno pozo abandonar en el valle de jinámar en_las_proximidades_de el vía GC-100 sacar uno foto en el que aparecer uno bolsa que poder contener hueso de uno esqueleto humano",
+        "lemmatized_text_reduced": "apuntar jefe superior_de_la_policía_nacional canarias concepción_de_vega_caamaño encontrar zona rastreo medida seguridad ser complicar policía subsuelo estar descolgar pozo caer estar descolgar sacar cosa explicar de_vega declaración cadena_ser recoger europa_press agregar haber escombro trabajo estar ser complicar pozo poder haber agente descenso pozo hacer rastreo día pista sara_morales desaparecer hacer año cámara subacuático pozo abandonar valle jinámar vía sacar foto aparecer bolsa poder contener hueso esqueleto humano",
+        "persons": [
+            "Concepción_de_Vega_Caamaño",
+            "De_Vega",
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Canarias",
+            "Jinámar"
+        ],
+        "organizations": [
+            "Cadena_Ser",
+            "Europa_Press"
+        ],
+        "others": [
+            "Superior_de_la_Policía_Nacional"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2",
+            "3",
+            "4",
+            "GC-100"
+        ]
+    }
+}

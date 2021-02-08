@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/600059/0/",
+    "title": {
+        "raw_text": "Los aeropuertos canarios registran un total de 22 retrasos de 60 minutos de media por problemas meteorológicos",
+        "lemmatized_text": "el aeropuerto canario registrar uno total de 22 retraso de TM_min:60 de media por problema meteorológico",
+        "lemmatized_text_reduced": "aeropuerto canario registrar total retraso media problema meteorológico",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "22",
+            "TM_min:60"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los aeropuertos canarios, principalmente los de Tenerife, han registrado un total de 22 retrasos con una espera media de casi 60 minutos cada uno debido a los problemas meteorológicos de viento que se están produciendo en los dos aeródromos tinerfeños.",
+        "lemmatized_text": "el aeropuerto canario principalmente el de tenerife haber registrar uno total de 22 retraso con uno espera medio de casi TM_min:60 cada uno debido_a el problema meteorológico de viento que se estar producir en el 2 aeródromo tinerfeño",
+        "lemmatized_text_reduced": "aeropuerto canario principalmente tenerife haber registrar total retraso espera medio problema meteorológico viento estar producir aeródromo tinerfeño",
+        "persons": [],
+        "locations": [
+            "Tenerife"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "22",
+            "TM_min:60",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, los dos aeropuertos de Tenerife han experimentado nueve retrasos de 60 minutos cada uno en los vuelos de llegada procedentes de Madrid porque en la capital se están generando problemas por la meteorología y restricción del tráfico aéreo. Según informaron a Europa Press fuentes del organismo estatal de Aeropuertos Españoles y Navegación Aérea (Aena), los vuelos de salida de los aeródromos tinerfeños han protagonizado 13 retrasos con una media de 51 minutos cada uno por fenómenos meteorológicos adversos. Por su parte, en el aeropuerto de Gran Canaria durante toda la mañana se ha operado con normalidad, tanto en los vuelos de llegada como en los de salida.",
+        "lemmatized_text": "en concreto el 2 aeropuerto de tenerife haber experimentar 9 retraso de TM_min:60 cada uno en el vuelo de llegada procedente de madrid porque en el capital se estar generar problema por el meteorología y restricción de el tráfico aéreo según informar a europa_press fuente de el organismo estatal de aeropuertos_españoles y navegación_aérea aena el vuelo de salida de el aeródromo tinerfeño haber protagonizar 13 retraso con uno media de TM_min:51 cada uno por fenómeno meteorológico adverso por su parte en el aeropuerto de gran_canaria durante todo el mañana se haber operar con normalidad tanto en el vuelo de llegada como en el de salida",
+        "lemmatized_text_reduced": "concreto aeropuerto tenerife haber experimentar retraso vuelo llegada procedente madrid capital estar generar problema meteorología restricción tráfico aéreo informar europa_press fuente organismo estatal aeropuertos_españoles navegación_aérea aena vuelo salida aeródromo tinerfeño haber protagonizar retraso media fenómeno meteorológico adverso parte aeropuerto gran_canaria mañana haber operar normalidad vuelo llegada salida",
+        "persons": [
+            "Europa_Press",
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Tenerife",
+            "Madrid",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "9",
+            "TM_min:60",
+            "13",
+            "TM_min:51"
+        ]
+    }
+}

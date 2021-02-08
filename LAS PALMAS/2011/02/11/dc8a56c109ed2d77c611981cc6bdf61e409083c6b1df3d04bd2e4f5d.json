@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/956258/0/",
+    "title": {
+        "raw_text": "Cuatro vehículos colisionan en Gran Canaria pero no hay que lamentar heridos",
+        "lemmatized_text": "4 vehículo colisionar en gran_canaria pero no haber que lamentar herido",
+        "lemmatized_text_reduced": "vehículo colisionar gran_canaria haber lamentar herido",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de cuatro vehículos colisionaron este viernes en Gran Canaria pero no hubo que lamentar heridos, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno total de 4 vehículo colisionar este [V:??/??/??:??.??:??] en gran_canaria pero no haber que lamentar herido según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "total vehículo colisionar gran_canaria haber lamentar herido informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un total de cuatro vehículos colisionaron este viernes en Gran Canaria pero no hubo que lamentar heridos, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo a las 07.30 horas en la GC-1, a la altura del cruce de Melenara, en el municipio de Telde, y en dirección Las Palmas de Gran Canaria. Hasta el lugar, además del personal del Servicio de Urgencias Canario (SUC), también asistieron los bomberos, ya que hubo derrame de combustible, por lo que tuvieron que proceder a su limpieza en la vía.",
+        "lemmatized_text": "uno total de 4 vehículo colisionar este [V:??/??/??:??.??:??] en gran_canaria pero no haber que lamentar herido según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir a el TM_h:7.3 en el GC-1 a el altura de el cruce de melenara en el municipio de telde y en dirección las_palmas_de_gran_canaria hasta el lugar además de el personal de el servicio_de_urgencias_canario suc también asistir el bombero ya_que haber derrame de combustible por el que tener que proceder a su limpieza en el vía",
+        "lemmatized_text_reduced": "total vehículo colisionar gran_canaria haber lamentar herido informar centro_coordinador_de_emergencias seguridad incidente producir altura cruce melenara municipio telde dirección las_palmas_de_gran_canaria lugar personal servicio_de_urgencias_canario suc asistir bombero haber derrame combustible tener proceder limpieza vía",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Melenara",
+            "Telde",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "4",
+            "112",
+            "TM_h:7.3",
+            "GC-1"
+        ]
+    }
+}

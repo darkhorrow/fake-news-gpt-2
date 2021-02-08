@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/600001/0/",
+    "title": {
+        "raw_text": "CC pide a Blanco que explique en Congreso de los Diputados la supuesta avería en el Centro de Control Aéreo de Canarias",
+        "lemmatized_text": "cc pedir a blanco que explicar en congreso_de_los_diputados el suponer avería en el centro_de_control_aéreo_de_canarias",
+        "lemmatized_text_reduced": "cc pedir blanco explicar congreso_de_los_diputados suponer avería centro_de_control_aéreo_de_canarias",
+        "persons": [
+            "Blanco"
+        ],
+        "locations": [
+            "Centro_de_Control_Aéreo_de_Canarias"
+        ],
+        "organizations": [
+            "CC",
+            "Congreso_de_los_Diputados"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La presidenta de Coalición Canaria (CC), Claudina Morales, ha pedido hoy al ministro de Fomento, José Blanco, que comparezca con carácter urgente ante la Diputación Permanente del Congreso de los Diputados para que explique a los ciudadanos la supuesta avería que se produjo ayer en el Centro de Control Aéreo de Canarias provocando \"un nuevo episodio de caos\".",
+        "lemmatized_text": "el presidente de coalición_canaria cc claudina_morales haber pedir hoy a el ministro de fomento josé_blanco que comparecer con carácter urgente ante el diputación_permanente_del_congreso_de_los_diputados para que explicar a el ciudadano el suponer avería que se producir ayer en el centro_de_control_aéreo_de_canarias provocar uno nuevo episodio de caos",
+        "lemmatized_text_reduced": "presidente coalición_canaria cc claudina_morales haber pedir ministro fomento josé_blanco comparecer carácter urgente diputación_permanente_del_congreso_de_los_diputados explicar ciudadano suponer avería producir centro_de_control_aéreo_de_canarias provocar nuevo episodio caos",
+        "persons": [
+            "Claudina_Morales",
+            "José_Blanco"
+        ],
+        "locations": [],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Diputación_Permanente_del_Congreso_de_los_Diputados",
+            "Centro_de_Control_Aéreo_de_Canarias"
+        ],
+        "others": [
+            "Fomento"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Según informó el partido nacionalista en nota de prensa, para Morales \"los retrasos registrados ayer, en algunos casos de más de 6 horas, exigen que el titular de Fomento dé la cara en la Cámara Baja y aporte luz sobre una avería sin precedentes en el mencionado centro\". Asimismo, subrayó que \"esta avería se suma a la huelga encubierta que mantienen los controladores aéreos y que ayer contribuyó de manera importante a que sumásemos una jornada más de demoras en todas las terminales aeroportuarias\". \"El caos que se vive desde hace varias semanas demuestra que este contencioso, que mantienen los controladores con el Gobierno del Estado, se le escapa de las manos al Ministerio de Fomento que es incapaz de poner orden en un sector estratégico que afecta de manera inminente a comunidades que dependen del transporte aéreo como Canarias\", concluyó la presidenta de CC.",
+        "lemmatized_text": "según informar el partido nacionalista en nota de prensa para morales el retraso registrar ayer en alguno caso de más de TM_h:6 exigir que el titular de fomento dar el cara en el cámara_baja y aporte luz sobre uno avería sin precedente en el mencionar centro asimismo subrayar que este avería se sumar a el huelga encubrir que mantener el controlador aéreo y que ayer contribuir de manera importante a que sumar uno jornada más de demora en todo el terminal aeroportuario el caos que se vivir desde hacer varios semana demostrar que este contencioso que mantener el controlador con el gobierno_del_estado se le escapar de el mano a el ministerio_de_fomento que ser incapaz de poner orden en uno sector estratégico que afectar de manera inminente a comunidad que depender de el transporte aéreo como canarias concluir el presidente de cc",
+        "lemmatized_text_reduced": "informar partido nacionalista nota prensa morales retraso registrar caso exigir titular fomento dar cara cámara_baja aporte luz avería precedente mencionar centro subrayar avería sumar huelga encubrir mantener controlador aéreo contribuir manera importante sumar jornada demora terminal aeroportuario caos vivir hacer semana demostrar contencioso mantener controlador gobierno_del_estado escapar mano ministerio_de_fomento ser incapaz poner orden sector estratégico afectar manera inminente comunidad depender transporte aéreo canarias concluir presidente cc",
+        "persons": [
+            "Morales"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Fomento",
+            "Cámara_Baja",
+            "Gobierno_del_Estado",
+            "Ministerio_de_Fomento",
+            "CC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:6"
+        ]
+    }
+}

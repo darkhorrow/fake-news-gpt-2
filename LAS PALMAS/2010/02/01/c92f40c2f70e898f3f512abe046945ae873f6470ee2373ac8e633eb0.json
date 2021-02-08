@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619101/0/",
+    "title": {
+        "raw_text": "La actividad agrícola se paraliza en Gran Canaria por las lluvias caídas en las últimas horas",
+        "lemmatized_text": "el actividad agrícola se paralizar en gran_canaria por el lluvia caer en el último hora",
+        "lemmatized_text_reduced": "actividad agrícola paralizar gran_canaria lluvia caer último hora",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La actividad agrícola en Gran Canaria se ha visto paralizada por las lluvias caídas durante la noche de ayer y las primeras horas de hoy, que han producido \"grandes problemas\", sobre todo en el sur de la isla, según informó hoy el portavoz de la Federación de Asociaciones de Exportadores de Productos Hortofrutícolas de Las Palmas (Fedex), Roberto Goiriz, en un comunicado.",
+        "lemmatized_text": "el actividad agrícola en gran_canaria se haber ver paralizar por el lluvia caer durante el noche de ayer y el 1 hora de hoy que haber producir grande problema sobre todo en el sur de el isla según informar hoy el portavoz de el federación_de_asociaciones_de_exportadores_de_productos_hortofrutícolas_de_las_palmas fedex roberto_goiriz en uno comunicado",
+        "lemmatized_text_reduced": "actividad agrícola gran_canaria haber ver paralizar lluvia caer noche 1 hora haber producir grande problema sur isla informar portavoz federación_de_asociaciones_de_exportadores_de_productos_hortofrutícolas_de_las_palmas fedex roberto_goiriz comunicado",
+        "persons": [
+            "Roberto_Goiriz"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Federación_de_Asociaciones_de_Exportadores_de_Productos_Hortofrutícolas_de_Las_Palmas",
+            "Fedex"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"La actividad laboral está casi en su totalidad paralizada al no poder acudir miles de trabajadores a sus puestos de trabajo por las lluvias al estar los terrenos intransitables. Maspalomas es la zona más afectada por la imposibilidad de transitar al tener que abrirse la presa de Ayaguares corriendo los barrancos\", explicó. Así, matizó que aunque las lluvias son siempre \"bienvenidas\" en Canarias, \"al sector de exportación le causa graves problemas al estar en estos momentos la zafra en su momento mas álgido de su producción por lo que este temporal retrasará la recogida de tomates, pepinos y otros productos para su envió a Europa\". Finalmente, indicó que los daños, de continuar las lluvias, pueden ser cuantiosos desde el punto de vista económico, mientras que los agricultores esperaron que esta situación climatológica pase lo antes posible para evitar más daños en el campo.",
+        "lemmatized_text": "el actividad laboral estar casi en su totalidad paralizar a el no poder acudir mil de trabajador a su puesto de trabajo por el lluvia a el estar el terreno intransitable maspalomas ser el zona más afectar por el imposibilidad de transitar a el tener que abrir se el presa de ayaguares correr el barranco explicar así matizar que aunque el lluvia ser siempre bienvenido en canarias a el sector de exportación le causar grave problema a el estar en este momento el zafra en su momento mas álgido de su producción por el que este temporal retrasar el recogida de tomate pepino y otro producto para su enviar a europa finalmente indicar que el daño de continuar el lluvia poder ser cuantioso desde el punto de vista económico mientras_que el agricultor esperar que este situación climatológico pasar el antes posible para evitar más daño en el campo",
+        "lemmatized_text_reduced": "actividad laboral estar totalidad paralizar poder acudir mil trabajador puesto trabajo lluvia estar terreno intransitable maspalomas ser zona afectar imposibilidad transitar tener abrir presa ayaguares correr barranco explicar matizar lluvia ser bienvenido canarias sector exportación causar grave problema estar momento zafra momento álgido producción temporal retrasar recogida tomate pepino producto enviar europa finalmente indicar daño continuar lluvia poder ser cuantioso punto vista económico agricultor esperar situación climatológico pasar posible evitar daño campo",
+        "persons": [
+            "Maspalomas"
+        ],
+        "locations": [
+            "Ayaguares",
+            "Canarias",
+            "Europa"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

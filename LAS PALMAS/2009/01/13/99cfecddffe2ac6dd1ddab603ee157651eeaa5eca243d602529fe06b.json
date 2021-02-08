@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-01-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/442758/0/salario/riojanos/hipoteca/",
+    "title": {
+        "raw_text": "Los jóvenes riojanos destinan el 70% de su salario mensual al pago de la hipoteca",
+        "lemmatized_text": "el joven riojano destinar el 70/100 de su salario mensual a el pago de el hipoteca",
+        "lemmatized_text_reduced": "joven riojano destinar salario mensual pago hipoteca",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "Así lo refleja el boletín del Observatorio Joven de Vivienda. El salario medio de un joven riojano es de 946 euros. CONSULTA AQUÍ MÁS NOTICIAS DE LOGROÑO",
+        "lemmatized_text": "así lo reflejar el boletín de el observatorio_joven_de_vivienda el salario medio de uno joven riojano ser de $_ECU:946 consulta_aquí_más_noticias_de_logroño",
+        "lemmatized_text_reduced": "reflejar boletín observatorio_joven_de_vivienda salario medio joven riojano ser consulta_aquí_más_noticias_de_logroño",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Observatorio_Joven_de_Vivienda",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LOGROÑO"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:946"
+        ]
+    },
+    "body": {
+        "raw_text": "Los jóvenes de La Rioja tienen que destinar el 70,3 por ciento de su salario mensual a la compra de una vivienda, tal y como refleja el último boletín del Observatorio Joven de Vivienda del Consejo de la Juventud de España, correspondiente al segundo trimestre de 2008. De esta forma, la región se sitúa casi 10 puntos por debajo de la media estatal, un quedando. Asimismo, el boletín refleja que el salario medio de un joven riojano, menor de 35 años , queda en 946 euros, 80 menos que la media estatal. Las mujeres...\"discriminadas\" Además, la mujer sigue estando \"discriminada\" en este sentido, ya que cobra de media 132 euros menos que un hombre haciendo el mismo trabajo. En este sentido, el estudio advierte que los ingresos mínimos necesarios para adquirir una vivienda libre se alejan cada vez más del poder adquisitivo real de los jóvenes riojanos, teniendo que ingresar 31.032 euros al año , es decir, un 134,30 por ciento más del salario medio que percibe una persona joven. A esto hay que añadir que con 5.713 jóvenes en paro , la tasa en la región es del 9,3 por ciento, cuatro puntos y medios por debajo de la media estatal. La Rioja es la comunidad autónoma en la que más ha aumentado el volumen de personas jóvenes emancipadas en un año, un 9,49 por ciento. CONSULTA AQUÍ MÁS NOTICIAS DE LOGROÑO",
+        "lemmatized_text": "el joven de la_rioja tener que destinar el 70,3 por 100 de su salario mensual a el compra de uno vivienda tal_y_como reflejar el último boletín de el observatorio_joven_de_vivienda_del_consejo_de_la_juventud_de_españa correspondiente a el 2 trimestre de 2008 de este forma el región se situar casi 10 punto por debajo_de el media estatal uno quedar asimismo el boletín reflejar que el salario medio de uno joven riojano menor de 35 año quedar en $_ECU:946 80 menos que el media estatal el mujer discriminar además el mujer seguir estar discriminar en este sentido ya_que cobrar de medio $_ECU:132 menos que uno hombre hacer el mismo trabajo en este sentido el estudio advertir que el ingreso mínimo necesario para adquirir uno vivienda libre se alejar cada vez más de el poder adquisitivo real de el joven riojano tener que ingresar $_ECU:31.032 a el año ser decir uno 134,30 por 100 más de el salario medio que percibir uno persona joven a este haber que añadir que con 5.713 joven en paro el tasa en el región ser de el 9,3 por 100 4 punto y medio por debajo_de el media estatal el rioja ser el comunidad autónomo en el que más haber aumentar el volumen de persona joven emancipar en uno año uno 9,49 por 100 consulta_aquí_más_noticias_de_logroño",
+        "lemmatized_text_reduced": "joven la_rioja tener destinar salario mensual compra vivienda reflejar último boletín observatorio_joven_de_vivienda_del_consejo_de_la_juventud_de_españa correspondiente 2 trimestre forma región situar punto media estatal quedar boletín reflejar salario medio joven riojano menor año quedar media estatal mujer discriminar mujer seguir estar discriminar sentido cobrar medio hombre hacer mismo trabajo sentido estudio advertir ingreso mínimo necesario adquirir vivienda libre alejar vez poder adquisitivo real joven riojano tener ingresar año ser decir salario medio percibir persona joven haber añadir joven paro tasa región ser punto medio media estatal rioja ser comunidad autónomo haber aumentar volumen persona joven emancipar año consulta_aquí_más_noticias_de_logroño",
+        "persons": [],
+        "locations": [
+            "Rioja"
+        ],
+        "organizations": [
+            "La_Rioja",
+            "Observatorio_Joven_de_Vivienda_del_Consejo_de_la_Juventud_de_España",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LOGROÑO"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70,3",
+            "100",
+            "2008",
+            "10",
+            "35",
+            "$_ECU:946",
+            "80",
+            "$_ECU:132",
+            "$_ECU:31.032",
+            "134,30",
+            "100",
+            "5.713",
+            "9,3",
+            "100",
+            "4",
+            "9,49",
+            "100"
+        ]
+    }
+}

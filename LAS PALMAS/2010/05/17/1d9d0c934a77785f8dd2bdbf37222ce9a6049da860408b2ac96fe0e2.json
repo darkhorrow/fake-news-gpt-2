@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/709491/0/",
+    "title": {
+        "raw_text": "El Cabildo de Lanzarote destina 4 millones a obras hidráulicas",
+        "lemmatized_text": "el cabildo_de_lanzarote destinar 4000000 a obra hidráulico",
+        "lemmatized_text_reduced": "cabildo_de_lanzarote destinar obra hidráulico",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Junta General del Consejo Insular de Aguas de Lanzarote, reunida este mediodía en el Cabildo de Lanzarote, ha aprobado el Plan de Obras para este ejercicio de 2010 presupuestado en unos 600.000 euros y ha dado el visto bueno a la propuesta de modificación de créditos con cargo a remanentes que supone situar la inversión en torno a los 4 millones de euros.",
+        "lemmatized_text": "el junta_general_del_consejo_insular_de_aguas_de_lanzarote reunir este [??:??/??/??:12.00:pm] en el cabildo_de_lanzarote haber aprobar el plan_de_obras para este ejercicio de 2010 presupuestar en uno $_ECU:600 y haber dar el ver bueno a el propuesta de modificación de crédito con cargo a remanente que suponer situar el inversión en_torno_a el $_ECU:4000000",
+        "lemmatized_text_reduced": "junta_general_del_consejo_insular_de_aguas_de_lanzarote reunir cabildo_de_lanzarote haber aprobar plan_de_obras ejercicio presupuestar haber dar ver bueno propuesta modificación crédito cargo remanente suponer situar inversión",
+        "persons": [],
+        "locations": [
+            "Cabildo_de_Lanzarote"
+        ],
+        "organizations": [
+            "Junta_General_del_Consejo_Insular_de_Aguas_de_Lanzarote"
+        ],
+        "others": [
+            "Plan_de_Obras"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "2010",
+            "$_ECU:600",
+            "$_ECU:4000000"
+        ]
+    },
+    "body": {
+        "raw_text": "El Plan de Obras 2010 incluye actuaciones en todos los municipios insulares como las acometidas a la red de saneamiento en Órzola con una inversión de 60.000 euros; la primera fase de la red de pluviales en San Bartolomé para los que prevé 120.000 euros; la adecuación y mejora de las distintas EBARs en Teguise que supondrá 121.000 euros; entre otras. Las actuaciones previstas en el Plan específico para este ejercicio suman casi 900.000 euros. La modificación de crédito servirá para ejecutar otras obras de interés hidráulico que no pudieron ser ejecutadas en su momento o que resultan de necesidad reciente. Algunas de las obras son el vallado de pozos y galerías inactivos en la isla, la canalización del Barranco de Mala, la conexión del colector de aguas residuales den San Bartolomé con la EDAR de Arrecife, la adecuación y mejora del funcionamiento y aspecto exterior de las EBARs de Costa Teguise, y la sustitución de la tubería de abastecimiento de agua entre Uga y Las Breñas (Yaiza).",
+        "lemmatized_text": "el plan_de_obras 2010 incluir actuación en todo el municipio insular como el acometida a el red de saneamiento en órzola con uno inversión de $_ECU:60 el 1 fase de el red de pluvial en san_bartolomé para el que prever $_ECU:120 el adecuación y mejora de el distinto ebars en teguise que suponer $_ECU:121 entre otro el actuación prever en el plan específico para este ejercicio sumar casi $_ECU:900 el modificación de crédito servir para ejecutar otro obra de interés hidráulico que no poder ser ejecutar en su momento o que resultar de necesidad reciente alguno de el obra ser el vallado de pozo y galería inactivo en el isla el canalización de el barranco_de_mala el conexión de el colector de agua residual dar san_bartolomé con el edar_de_arrecife el adecuación y mejora de el funcionamiento y aspecto exterior de el ebars_de_costa_teguise y el sustitución de el tubería de abastecimiento de agua entre uga y las_breñas yaiza",
+        "lemmatized_text_reduced": "plan_de_obras incluir actuación municipio insular acometida red saneamiento órzola inversión 1 fase red pluvial san_bartolomé prever adecuación mejora distinto ebars teguise suponer actuación prever plan específico ejercicio sumar modificación crédito servir ejecutar obra interés hidráulico poder ser ejecutar momento resultar necesidad reciente obra ser vallado pozo galería inactivo isla canalización barranco_de_mala conexión colector agua residual dar san_bartolomé edar_de_arrecife adecuación mejora funcionamiento aspecto exterior ebars_de_costa_teguise sustitución tubería abastecimiento agua uga las_breñas yaiza",
+        "persons": [
+            "Uga"
+        ],
+        "locations": [
+            "Órzola",
+            "San_Bartolomé",
+            "Teguise",
+            "Barranco_de_Mala",
+            "San_Bartolomé",
+            "Las_Breñas"
+        ],
+        "organizations": [
+            "EBARs_de_Costa_Teguise",
+            "Yaiza"
+        ],
+        "others": [
+            "Plan_de_Obras",
+            "EBARs",
+            "Plan",
+            "EDAR_de_Arrecife"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "$_ECU:60",
+            "$_ECU:120",
+            "$_ECU:121",
+            "$_ECU:900"
+        ]
+    }
+}

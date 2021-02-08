@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/719282/0/",
+    "title": {
+        "raw_text": "El PP acusa a CC de \"cooperación\" con Zapatero para \"hundir más a España\" y \"atacar a los que menos tienen\"",
+        "lemmatized_text": "el pp acusar a cc de cooperación con zapatero para hundir más a españa y atacar a el que menos tener",
+        "lemmatized_text_reduced": "pp acusar cc cooperación zapatero hundir españa atacar tener",
+        "persons": [
+            "Zapatero",
+            "España"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "CC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El diputado del PP en el Congreso, Guillermo Mariscal, ha acusado hoy a Coalición Canaria (CC) de \"cooperación\" con el presidente del Gobierno, José Luis Rodríguez Zapatero, a la hora de sacar adelante el recorte de salario de los funcionarios y la congelación de las pensiones y, de ese modo, \"hundir más a España\" y \"atacar a los que menos tienen\".",
+        "lemmatized_text": "el diputado de el pp en el congreso guillermo_mariscal haber acusar hoy a coalición_canaria cc de cooperación con el presidente de el gobierno josé_luis_rodríguez_zapatero a el hora de sacar adelante el recorte de salario de el funcionario y el congelación de el pensión y de ese modo hundir más a españa y atacar a el que menos tener",
+        "lemmatized_text_reduced": "diputado pp congreso guillermo_mariscal haber acusar coalición_canaria cc cooperación presidente gobierno josé_luis_rodríguez_zapatero hora sacar recorte salario funcionario congelación pensión modo hundir españa atacar tener",
+        "persons": [
+            "Guillermo_Mariscal",
+            "José_Luis_Rodríguez_Zapatero",
+            "España"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "Congreso",
+            "Coalición_Canaria",
+            "CC",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"CC con sus dos votos de hoy va a permitir que las políticas de Zapatero hundan más a España, porque van a habilitar que las pensiones no suban y que, por tanto, las expectativas de los más débiles sufran, rompiendo además el Pacto de Toledo\", aseveró Mariscal en declaraciones a Europa Press. El diputado popular aseguró que ahora \"los canarios deben saber\" que tienen en las islas a \"algunos de los responsables\" de lo que está ocurriendo en el conjunto de España. En todo caso, comentó que esta decisión de CC simplemente es \"coherente con la actitud en política económica\" que ha mostrado hasta el momento, después de apoyar los presupuestos \"de cartón piedra\" de 2010 \"que son en parte responsables de la deriva económica\" en la que ha acabado España. Mariscal añadió que CC apoya medidas que \"penalizan a los que menos tienen sin distinguir\" nada y a nadie y recalcó que ni siquiera pueden argumentar ya los nacionalistas que sus decisiones son buenas para Canarias ya que \"lo único que ha recibido las islas este año son visitas de ministros y nada de dinero, apenas 100 de los 2.500 millones prometidos a Canarias en 2010\". \"De 2011, 2012 y 2013 ya mejor ni hablamos\", concluyó.",
+        "lemmatized_text": "cc con su 2 voto de hoy ir a permitir que el política de zapatero hundir más a españa porque ir a habilitar que el pensión no subir y que por tanto el expectativa de el más débil sufrir romper además el pacto_de_toledo aseverar mariscal en declaración a europa_press el diputado popular asegurar que ahora el canario deber saber que tener en el isla a alguno de el responsable de el que estar ocurrir en el conjunto de españa en_todo_caso comentar que este decisión de cc simplemente ser coherente con el actitud en política económico que haber mostrar hasta el momento después_de apoyar el presupuesto de cartón piedra de 2010 que ser en parte responsable de el deriva económico en el que haber acabar españa mariscal añadir que cc apoyar medida que penalizar a el que menos tener sin distinguir nada y a nadie y recalcar que ni siquiera poder argumentar ya el nacionalista que su decisión ser bueno para canarias ya_que el único que haber recibir el isla este año ser visita de ministro y nada de dinero apenas 100 de el 2500000 prometer a canarias en 2010 de 2011 2012 y 2013 ya mejor ni hablar concluir",
+        "lemmatized_text_reduced": "cc voto ir permitir política zapatero hundir españa ir habilitar pensión subir expectativa débil sufrir romper pacto_de_toledo aseverar mariscal declaración europa_press diputado popular asegurar canario deber saber tener isla responsable estar ocurrir conjunto españa comentar decisión cc simplemente ser coherente actitud política económico haber mostrar momento apoyar presupuesto cartón piedra ser parte responsable deriva económico haber acabar españa mariscal añadir cc apoyar medida penalizar tener distinguir recalcar poder argumentar nacionalista decisión ser bueno canarias único haber recibir isla año ser visita ministro dinero prometer canarias mejor hablar concluir",
+        "persons": [
+            "Zapatero",
+            "Mariscal",
+            "España",
+            "Mariscal"
+        ],
+        "locations": [
+            "España",
+            "España",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "CC",
+            "Europa_Press",
+            "CC",
+            "CC"
+        ],
+        "others": [
+            "Pacto_de_Toledo"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2010",
+            "100",
+            "2500000",
+            "2010",
+            "2011",
+            "2012",
+            "2013"
+        ]
+    }
+}

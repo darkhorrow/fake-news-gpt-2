@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597894/0/",
+    "title": {
+        "raw_text": "Ayuntamiento de Las Palmas de Gran Canaria aprueba inicialmente el presupuesto de 304 millones de euros para 2010",
+        "lemmatized_text": "ayuntamiento_de_las_palmas_de_gran_canaria aprobar inicialmente el presupuesto de $_ECU:304000000 para 2010",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria aprobar inicialmente presupuesto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:304000000",
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria ha sacado adelante hoy la aprobación inicial, con 15 votos a favor del grupo de gobierno y 11 en contra de la oposición, del presupuesto municipal consistente en 304 millones de euros para ejecutar a lo largo del próximo año.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria haber sacar adelante hoy el aprobación inicial con 15 voto a favor de el grupo de gobierno y 11 en_contra_de el oposición de el presupuesto municipal consistente en $_ECU:304000000 para ejecutar a el largo de el próximo año",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria haber sacar aprobación inicial voto favor grupo gobierno oposición presupuesto municipal consistente ejecutar largo próximo año",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "15",
+            "11",
+            "$_ECU:304000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Así se ratificó esta mañana en una sesión extraordinaria del pleno insular que tuvo lugar en el Auditorio Alfredo Kraus en la que el equipo de gobierno local, formado por PSOE y Compromiso por Gran Canaria, insistió en que se trata de un presupuesto \"responsable\" para 2010. En concreto, el director de gobierno del área de Economía, Benito Cabrera, aseguró que las partidas consignadas para el próximo año descienden en 50 millones de euros con respecto a 2009. No obstante, consideró que el presupuesto cumple con el objetivo de \"mantener empleo\" y \"garantizar el funcionamiento de los servicios públicos esenciales\". En este sentido, garantizó que en el documento \"descienden los gastos corrientes con escaso valor añadido para el buen servicio a la ciudadanía (por ejemplo, material de oficina) y se congelan los sueldos del gobierno y los altos cargos\". Además, el Ayuntamiento mantiene (y en ocasiones aumenta) los contratos con empresas por servicios como obras, limpieza, etcétera. Gracias a esta política intensiva en empleo, el Ayuntamiento mantiene 5.000 puestos de trabajo y generará otros 1.000 a través del Instituto Municipal para el Empleo y la Formación (Imef). Mantener este nivel de empleo incide muy positivamente sobre la economía local. (Habrá ampliación)",
+        "lemmatized_text": "así se ratificar este mañana en uno sesión extraordinario de el pleno insular que tener_lugar en el auditorio_alfredo_kraus en el que el equipo de gobierno local formar por psoe y compromiso_por_gran_canaria insistir en que se tratar de uno presupuesto responsable para 2010 en concreto el director de gobierno de el área de economía benito_cabrera asegurar que el partida consignar para el próximo año descender en $_ECU:50000000 con_respecto_a 2009 no_obstante considerar que el presupuesto cumplir con el objetivo de mantener empleo y garantizar el funcionamiento de el servicio público esencial en este sentido garantizar que en el documento descender el gasto corriente con escaso valor añadir para el bueno servicio a el ciudadanía por_ejemplo material de oficina y se congelar el sueldo de el gobierno y el alto cargo además el ayuntamiento mantener y en ocasión aumentar el contrato con empresa por servicio como obra limpieza gracias_a este política intensivo en empleo el ayuntamiento mantener 5 puesto de trabajo y generar otro 1 a través de el instituto_municipal_para_el_empleo y el formación imef mantener este nivel de empleo incidir muy positivamente sobre el economía local haber ampliación",
+        "lemmatized_text_reduced": "ratificar mañana sesión extraordinario pleno insular tener_lugar auditorio_alfredo_kraus equipo gobierno local formar psoe compromiso_por_gran_canaria insistir tratar presupuesto responsable concreto director gobierno área economía benito_cabrera asegurar partida consignar próximo año descender considerar presupuesto cumplir objetivo mantener empleo garantizar funcionamiento servicio público esencial sentido garantizar documento descender gasto corriente escaso valor añadir bueno servicio ciudadanía material oficina congelar sueldo gobierno alto cargo ayuntamiento mantener ocasión aumentar contrato empresa servicio obra limpieza política intensivo empleo ayuntamiento mantener puesto trabajo generar través instituto_municipal_para_el_empleo formación imef mantener nivel empleo incidir positivamente economía local haber ampliación",
+        "persons": [
+            "Benito_Cabrera"
+        ],
+        "locations": [
+            "Auditorio_Alfredo_Kraus"
+        ],
+        "organizations": [
+            "PSOE",
+            "Compromiso_por_Gran_Canaria",
+            "Economía",
+            "Ayuntamiento",
+            "Ayuntamiento",
+            "Instituto_Municipal_para_el_Empleo",
+            "Formación",
+            "Imef"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "$_ECU:50000000",
+            "2009",
+            "5",
+            "1"
+        ]
+    }
+}

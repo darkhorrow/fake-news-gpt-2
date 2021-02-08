@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/608656/0/",
+    "title": {
+        "raw_text": "Rhenus Logistics opera con línea directa entre Galicia y Canarias para transportar mercancías de grupaje",
+        "lemmatized_text": "rhenus_logistics operar con línea directo entre galicia y canarias para transportar mercancía de grupaje",
+        "lemmatized_text_reduced": "rhenus_logistics operar línea directo galicia canarias transportar mercancía grupaje",
+        "persons": [
+            "Rhenus_Logistics"
+        ],
+        "locations": [
+            "Galicia",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La compañía española Rhenus Logistics ya ha comenzado a operar con una línea directa entre Galicia y Canarias, de ahí que con salidas semanales transportará mercancías de grupaje y de carga completa vía marítima Vigo con Gran Canaria y Tenerife.",
+        "lemmatized_text": "el compañía español rhenus_logistics ya haber comenzar a operar con uno línea directo entre galicia y canarias de ahí que con salida semanal transportar mercancía de grupaje y de carga completo vía marítimo vigo con gran_canaria y tenerife",
+        "lemmatized_text_reduced": "compañía español rhenus_logistics haber comenzar operar línea directo galicia canarias salida semanal transportar mercancía grupaje carga completo vía marítimo vigo gran_canaria tenerife",
+        "persons": [],
+        "locations": [
+            "Galicia",
+            "Canarias",
+            "Vigo"
+        ],
+        "organizations": [
+            "Rhenus_Logistics",
+            "Gran_Canaria",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Nuestra intención es seguir con la política de atención a las necesidades de nuestros clientes y ser más competitivos desde la zona noreste de la península\", afirmó el representante de la empresa Javier Revilla. Este año, además de las capacidades de Rhenus Logistics en Canarias y la península, la compañía gallega Atlantic International Forwarding,S.A. (del grupo ALTRANS) colaborará, según informó Rhenus Logistics en un comunicado. \"Con este nuevo servicio acortamos nuestro tiempo de tránsito y facilitamos las recogidas y entregas desde cualquier punto de la zona norte peninsular por medio de nuestros propios centros logísticos\", aseguró. Además, junto al grupaje marítimo y los contenedores completos, la nueva línea de Rhenus Logistics entre Galicia y Canarias ofrece también servicio aéreo gestionado a través de las instalaciones en Madrid. Los puertos que se operan con esta nueva línea en Galicia son los de Vigo y Marín, desde los que tres navieras \"de reconocido prestigio\" trabajan con destino Canarias con salidas viernes, sábado o domingo, según origen y naviera. Esta nueva ruta se une así a la inversión y esfuerzo realizado en los últimos años por Rhenus Logistics en Canarias, en donde desde el pasado verano se realizaron unas nuevas instalaciones logísticas de 10.000 metros cuadrados en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "nuestro intención ser seguir con el política de atención a el necesidad de nuestro cliente y ser más competitivo desde el zona noreste de el península afirmar el representante de el empresa javier_revilla este año además_de el capacidad de rhenus_logistics en canarias y el península el compañía gallego atlantic_international_forwarding s.a. de el grupo altrans colaborar según informar rhenus_logistics en uno comunicado con este nuevo servicio acortar nuestro tiempo de tránsito y facilitar el recogida y entrega desde cualquiera punto de el zona norte peninsular por_medio_de nuestro propio centro logístico asegurar además junto a el grupaje marítimo y el contenedor completo el nuevo línea de rhenus_logistics entre galicia y canarias ofrecer también servicio aéreo gestionar a_través_de el instalación en madrid el puerto que se operar con este nuevo línea en galicia ser el de vigo y marín desde el que 3 naviero de reconocer prestigio trabajar con destino canarias con salida [V:??/??/??:??.??:??] [S:??/??/??:??.??:??] o [G:??/??/??:??.??:??] según origen y naviero este nuevo ruta se unir así a el inversión y esfuerzo realizar en el último año por rhenus_logistics en canarias en donde desde el pasar verano se realizar uno nuevo instalación logístico de AR_m2:10 en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "intención ser seguir política atención necesidad cliente ser competitivo zona noreste península afirmar representante empresa javier_revilla año capacidad rhenus_logistics canarias península compañía gallego atlantic_international_forwarding s.a. grupo altrans colaborar informar rhenus_logistics comunicado nuevo servicio acortar tiempo tránsito facilitar recogida entrega punto zona norte peninsular propio centro logístico asegurar junto grupaje marítimo contenedor completo nuevo línea rhenus_logistics galicia canarias ofrecer servicio aéreo gestionar instalación madrid puerto operar nuevo línea galicia ser vigo marín naviero reconocer prestigio trabajar destino canarias salida origen naviero nuevo ruta unir inversión esfuerzo realizar último año rhenus_logistics canarias pasar verano realizar nuevo instalación logístico las_palmas_de_gran_canaria",
+        "persons": [
+            "Rhenus_Logistics",
+            "Rhenus_Logistics"
+        ],
+        "locations": [
+            "Canarias",
+            "Galicia",
+            "Canarias",
+            "Madrid",
+            "Galicia",
+            "Vigo",
+            "Marín",
+            "Canarias",
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Javier_Revilla",
+            "Rhenus_Logistics",
+            "Atlantic_International_Forwarding",
+            "S.A.",
+            "ALTRANS",
+            "Rhenus_Logistics"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "AR_m2:10"
+        ]
+    }
+}

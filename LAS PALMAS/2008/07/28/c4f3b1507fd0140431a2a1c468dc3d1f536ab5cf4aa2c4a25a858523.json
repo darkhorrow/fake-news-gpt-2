@@ -1,0 +1,49 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/402681/0/enfrentamiento/construccion/carcel/",
+    "title": {
+        "raw_text": "La construcción de una macrocárcel provoca una batalla campal entre policías y vecinos",
+        "lemmatized_text": "el construcción de uno macrocárcel provocar uno batalla campal entre policía y vecino",
+        "lemmatized_text_reduced": "construcción macrocárcel provocar batalla campal policía vecino",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La concentración estaba prohibida. La Policía Nacional se ha enfrentado a una veintena de vecinos. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA >",
+        "lemmatized_text": "el concentración estar prohibir el policía_nacional se haber enfrentar a uno veintena de vecino consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "concentración estar prohibir policía_nacional haber enfrentar veintena vecino consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La policía nacional se ha enfrentado a una veintena de vecinos de la localidad de Castillo del Romeral, en Gran Canaria, que intentaban obstaculizar las obras de una macrocárcel . Los vecinos bloquearon el paso de las excavadoras hasta que los agentes comenzaron a disolverlos, entre los llantos y gritos de algunos de los asistentes. Forcejeos y enfrentamientos entre ambos grupos provocaron la ira de los vecinos quienes rechazan el proyecto de la macrocárcel en la zona. La concentración estaba prohibida por lo que la Policía tuvo que intervenir para disolver a los congregados . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el policía nacional se haber enfrentar a uno veintena de vecino de el localidad de castillo_del_romeral en gran_canaria que intentar obstaculizar el obra de uno macrocárcel el vecino bloquear el paso de el excavador hasta que el agente comenzar a disolver lo entre el llanto y grito de alguno de el asistente forcejeos y enfrentamiento entre ambos grupo provocar el ira de el vecino quien rechazar el proyecto de el macrocárcel en el zona el concentración estar prohibir por el que el policía tener que intervenir para disolver a el congregar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía nacional haber enfrentar veintena vecino localidad castillo_del_romeral gran_canaria intentar obstaculizar obra macrocárcel vecino bloquear paso excavador agente comenzar disolver llanto grito asistente forcejeos enfrentamiento grupo provocar ira vecino rechazar proyecto macrocárcel zona concentración estar prohibir policía tener intervenir disolver congregar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Forcejeos"
+        ],
+        "locations": [
+            "Castillo_del_Romeral",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

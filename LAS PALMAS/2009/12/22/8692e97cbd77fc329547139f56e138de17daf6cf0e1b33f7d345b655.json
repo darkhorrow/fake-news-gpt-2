@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593922/0/",
+    "title": {
+        "raw_text": "El PSC-PSOE celebra el acuerdo de financiación Estado-Canarias",
+        "lemmatized_text": "el psc-psoe celebrar el acuerdo de financiación estado-canarias",
+        "lemmatized_text_reduced": "psc-psoe celebrar acuerdo financiación estado-canarias",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PSC-PSOE"
+        ],
+        "others": [
+            "Estado-Canarias"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El diputado del Partido Socialista Canario Sergio Roque se congratuló hoy de que el Gobierno de Canarias haya acordado con el Ejecutivo central el nuevo modelo de financiación, que supone un incremento de 303 millones de euros.",
+        "lemmatized_text": "el diputado de el partido_socialista_canario_sergio_roque se congratular hoy de que el gobierno_de_canarias haber acordar con el ejecutivo central el nuevo modelo de financiación que suponer uno incremento de $_ECU:303000000",
+        "lemmatized_text_reduced": "diputado partido_socialista_canario_sergio_roque congratular gobierno_de_canarias haber acordar ejecutivo central nuevo modelo financiación suponer incremento",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Partido_Socialista_Canario_Sergio_Roque",
+            "Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:303000000"
+        ]
+    },
+    "body": {
+        "raw_text": "A su juicio, \"es hora de dejar de 'echarle la culpa a Madrid' por la falta de recursos y centrarse más en la gestión de los mismos, ya que hasta ahora se les han ido entre las manos por las sentencias judiciales debido a su incapacidad de gestión administrativa y política\". El diputado considera en un comunicado \"inadmisible que CC y PP critiquen al Gobierno de España por sus políticas de endeudamiento y de subida de impuestos mientras luego están prestos y raudos a poner la mano para recibir los fondos que generan ambas medidas\". Para Sergio Roque, \"carece de sentido bajar impuestos en Canarias, como se ha hecho con el de Sucesiones y Donaciones, entre otros, y luego exigir más fondos del Gobierno central\". Por último, el diputado del PSC-PSOE ve necesaria una mayor responsabilidad fiscal.",
+        "lemmatized_text": "a su juicio ser hora de dejar de echar le el culpa a madrid por el falta de recurso y centrar se más en el gestión de el mismo ya_que hasta ahora se le haber ir entre el mano por el sentencia judicial debido_a su incapacidad de gestión administrativo y político el diputado considerar en uno comunicado inadmisible que cc y pp criticar a el gobierno_de_españa por su política de endeudamiento y de subida de impuesto mientras luego estar presto y raudo a poner el mano para recibir el fondo que generar ambos medida para sergio_roque carecer de sentido bajar impuesto en canarias como se haber hacer con el de sucesiones y donaciones entre otro y luego exigir más fondo de el gobierno central por último el diputado de el psc-psoe ver necesario uno mayor responsabilidad fiscal",
+        "lemmatized_text_reduced": "juicio ser hora dejar echar culpa madrid falta recurso centrar gestión haber ir mano sentencia judicial incapacidad gestión administrativo político diputado considerar comunicado inadmisible cc pp criticar gobierno_de_españa política endeudamiento subida impuesto estar presto raudo poner mano recibir fondo generar medida sergio_roque carecer sentido bajar impuesto canarias haber hacer sucesiones donaciones exigir fondo gobierno central último diputado psc-psoe ver necesario mayor responsabilidad fiscal",
+        "persons": [
+            "Sergio_Roque"
+        ],
+        "locations": [
+            "Madrid",
+            "Canarias",
+            "Sucesiones"
+        ],
+        "organizations": [
+            "CC",
+            "PP",
+            "Gobierno_de_España",
+            "Donaciones",
+            "Gobierno",
+            "PSC-PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

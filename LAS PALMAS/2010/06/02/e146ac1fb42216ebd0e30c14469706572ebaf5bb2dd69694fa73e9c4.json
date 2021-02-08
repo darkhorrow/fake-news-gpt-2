@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/725207/0/",
+    "title": {
+        "raw_text": "Acc.Iberia califica de \"incomprensible\" el paro de los pilotos por las filtraciones",
+        "lemmatized_text": "acc iberia calificar de incomprensible el paro de el piloto por el filtración",
+        "lemmatized_text_reduced": "acc iberia calificar incomprensible paro piloto filtración",
+        "persons": [
+            "Acc"
+        ],
+        "locations": [],
+        "organizations": [
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El consejero delegado de Iberia, Rafael Sánchez Lozano, calificó hoy de \"incomprensible\" el paro de media hora que llevaran a cabo los pilotos el próximo lunes, 7 de junio, convocados por el sindicato Sepla, que siendo \"limitado\" generará \"distorsiones\" en los vuelos a primera hora del día, máxime cuando la solución que persigue la propuesta no está en manos de la aerolínea.",
+        "lemmatized_text": "el consejero delegar de iberia rafael_sánchez_lozano calificar hoy de incomprensible el paro de medio hora que llevar_a_cabo el piloto el [L:7/6/??:??.??:??] convocar por el sindicato sepla que ser limitar generar distorsión en el vuelo a 1 hora de el día máxime cuando el solución que perseguir el propuesta no estar en_manos_de el aerolínea",
+        "lemmatized_text_reduced": "consejero delegar iberia rafael_sánchez_lozano calificar incomprensible paro medio hora llevar_a_cabo piloto convocar sindicato sepla ser limitar generar distorsión vuelo 1 hora día solución perseguir propuesta estar aerolínea",
+        "persons": [
+            "Rafael_Sánchez_Lozano"
+        ],
+        "locations": [],
+        "organizations": [
+            "Iberia",
+            "Sepla"
+        ],
+        "others": [],
+        "dates": [
+            "[L:7/6/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los pilotos españoles pararán media hora el lunes, entre las 9.00 y las 9.30 horas, en protesta por las filtraciones de las conversaciones en cabina en el vuelo JK5022 de Spanair con destino a Gran Canaria, que se accidentó en el aeropuerto de Madrid-Barajas el 20 de agosto de 2008, en el que murieron 154 personas. La protesta busca \"llamar la atención\" para que las autoridades pongan medidas para proteger la protección de datos y se eviten este tipo de filtraciones que vulneran la Constitución al difundir material de uso exclusivo en el ámbito de la investigación de accidentes aéreos.",
+        "lemmatized_text": "el piloto español parar medio hora el [L:??/??/??:??.??:??] entre el 9 y el TM_h:9.3 en protesta por el filtración de el conversación en cabina en el vuelo JK5022 de spanair con destino a gran_canaria que se accidentar en el aeropuerto de madrid-barajas el [??:20/8/2008:??.??:??] en el que morir 154 persona el protesta buscar llamar el atención para que el autoridad poner medida para proteger el protección de dato y se evitar este tipo de filtración que vulnerar el constitución a el difundir material de uso exclusivo en el ámbito de el investigación de accidente aéreo",
+        "lemmatized_text_reduced": "piloto español parar medio hora protesta filtración conversación cabina vuelo spanair destino gran_canaria accidentar aeropuerto madrid-barajas morir persona protesta buscar llamar atención autoridad poner medida proteger protección dato evitar tipo filtración vulnerar constitución difundir material uso exclusivo ámbito investigación accidente aéreo",
+        "persons": [],
+        "locations": [
+            "Madrid-Barajas"
+        ],
+        "organizations": [
+            "Spanair",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Constitución"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:20/8/2008:??.??:??]"
+        ],
+        "numbers": [
+            "9",
+            "TM_h:9.3",
+            "JK5022",
+            "154"
+        ]
+    }
+}

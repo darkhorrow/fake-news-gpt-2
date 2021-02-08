@@ -1,0 +1,98 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/960475/0/",
+    "title": {
+        "raw_text": "Tejeda (Gran Canaria) recibe más de 600.000 euros del Gobierno central para ejecutar cuatro proyectos",
+        "lemmatized_text": "tejeda gran_canaria recibir más de $_ECU:600 de el gobierno central para ejecutar 4 proyecto",
+        "lemmatized_text_reduced": "tejeda gran_canaria recibir gobierno central ejecutar proyecto",
+        "persons": [
+            "Tejeda"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:600",
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ministerio de Política Territorial ha transferido 640.000 euros al Ayuntamiento de Tejeda (Gran Canaria) para ejecutar cuatro proyectos entre 2009 y 2010.",
+        "lemmatized_text": "el ministerio_de_política_territorial haber transferir $_ECU:640 a el ayuntamiento_de_tejeda gran_canaria para ejecutar 4 proyecto entre 2009 y 2010",
+        "lemmatized_text_reduced": "ministerio_de_política_territorial haber transferir ayuntamiento_de_tejeda gran_canaria ejecutar proyecto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ministerio_de_Política_Territorial",
+            "Ayuntamiento_de_Tejeda",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:640",
+            "4",
+            "2009",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "El Ministerio de Política Territorial ha transferido 640.000 euros al Ayuntamiento de Tejeda (Gran Canaria) para ejecutar cuatro proyectos entre 2009 y 2010. Al respecto, la delegada del Gobierno en Canarias, Carolina Darias, puntualizó en una visita realizada este martes al municipio que de los cuatro proyectos, dos se ejecutaron con cargo al Fondo Estatal de Inversión Local (FEIL) y otros tantos con cargo al Fondo Estatal para el Empleo y la Sostenibilidad Local. Darias se trasladó hasta Tejeda para visitar las obras de ensanche y dotación del paseo peatonal de la calle Ezequiel Sánchez, en el centro urbano del municipio. En concreto, esta obras se ejecutaron con cargo al Fondo Estatal de Inversión Local y han tenido un coste de 160.000 euros. En cuanto a las acciones ejecutadas en 2009 y con cargo al FEIL, también se financió la estación de bombeo de aguas residuales de los barrios de La Degollada y El Majuelo por un coste de 240.000 euros. Para la delegada estas inversiones \"cumplen los objetivos planteados en el citado Plan\", ya que \"ha permitido la contratación y el mantenimiento de empleos, generando actividad económica que ha beneficiado directamente a las empresas del ramo, ha posibilitado una importante actuación impulsada por el Ayuntamiento pero financiada íntegramente por el Gobierno estatal\". Asimismo, dijo que también \"ha repercutido positivamente\" en la calidad de vida de los ciudadanos del municipio, principalmente los que viven donde se han ejecutado dichos proyectos. \"Las actuaciones realizadas con cargo al Fondo Estatal para el Empleo y la Sostenibilidad Local han permitido incidir en la salubridad de las zonas del Toscón y del Carrizal al mejorar el transporte y el tratamiento de las aguas residuales. Como ya se ha hecho en los barrios de La Degollada y El Majuelo con el Fondo anterior\", señaló.",
+        "lemmatized_text": "el ministerio_de_política_territorial haber transferir $_ECU:640 a el ayuntamiento_de_tejeda gran_canaria para ejecutar 4 proyecto entre 2009 y 2010 a el respecto el delegado de el gobierno en canarias carolina_darias puntualizar en uno visita realizar este [M:??/??/??:??.??:??] a el municipio que de el 4 proyecto 2 se ejecutar con cargo a el fondo_estatal_de_inversión_local feil y otro tanto con cargo a el fondo_estatal_para_el_empleo y el sostenibilidad_local darias se trasladar hasta tejeda para visitar el obra de ensanche y dotación de el paseo peatonal de el calle ezequiel_sánchez en el centro urbano de el municipio en concreto este obra se ejecutar con cargo a el fondo_estatal_de_inversión_local y haber tener uno coste de $_ECU:160 en_cuanto_a el acción ejecutar en 2009 y con cargo a el feil también se financiar el estación de bombeo de agua residual de el barrio de la_degollada y el_majuelo por uno coste de $_ECU:240 para el delegado este inversión cumplir el objetivo plantear en el citar plan ya_que haber permitir el contratación y el mantenimiento de empleo generar actividad económico que haber beneficiar directamente a el empresa de el ramo haber posibilitar uno importante actuación impulsar por el ayuntamiento pero financiar íntegramente por el gobierno estatal asimismo decir que también haber repercutir positivamente en el calidad de vida de el ciudadano de el municipio principalmente el que vivir donde se haber ejecutar decir proyecto el actuación realizar con cargo a el fondo_estatal_para_el_empleo y el sostenibilidad_local haber permitir incidir en el salubridad de el zona de el toscón y de el carrizal a el mejorar el transporte y el tratamiento de el agua residual como ya se haber hacer en el barrio de la_degollada y el_majuelo con el fondo anterior señalar",
+        "lemmatized_text_reduced": "ministerio_de_política_territorial haber transferir ayuntamiento_de_tejeda gran_canaria ejecutar proyecto respecto delegado gobierno canarias carolina_darias puntualizar visita realizar municipio proyecto ejecutar cargo fondo_estatal_de_inversión_local feil tanto cargo fondo_estatal_para_el_empleo sostenibilidad_local darias trasladar tejeda visitar obra ensanche dotación paseo peatonal calle ezequiel_sánchez centro urbano municipio concreto obra ejecutar cargo fondo_estatal_de_inversión_local haber tener coste acción ejecutar cargo feil financiar estación bombeo agua residual barrio la_degollada el_majuelo coste delegado inversión cumplir objetivo plantear citar plan haber permitir contratación mantenimiento empleo generar actividad económico haber beneficiar directamente empresa ramo haber posibilitar importante actuación impulsar ayuntamiento financiar íntegramente gobierno estatal decir haber repercutir positivamente calidad vida ciudadano municipio principalmente vivir haber ejecutar decir proyecto actuación realizar cargo fondo_estatal_para_el_empleo sostenibilidad_local haber permitir incidir salubridad zona toscón carrizal mejorar transporte tratamiento agua residual haber hacer barrio la_degollada el_majuelo fondo anterior señalar",
+        "persons": [
+            "Carolina_Darias",
+            "Darias"
+        ],
+        "locations": [
+            "Canarias",
+            "Tejeda",
+            "Ezequiel_Sánchez",
+            "La_Degollada",
+            "El_Majuelo",
+            "La_Degollada",
+            "El_Majuelo"
+        ],
+        "organizations": [
+            "Ministerio_de_Política_Territorial",
+            "Ayuntamiento_de_Tejeda",
+            "Gran_Canaria",
+            "Gobierno",
+            "Fondo_Estatal_de_Inversión_Local",
+            "FEIL",
+            "Fondo_Estatal_para_el_Empleo",
+            "Sostenibilidad_Local",
+            "Fondo_Estatal_de_Inversión_Local",
+            "FEIL",
+            "Ayuntamiento",
+            "Gobierno",
+            "Fondo_Estatal_para_el_Empleo",
+            "Sostenibilidad_Local",
+            "Toscón",
+            "Fondo"
+        ],
+        "others": [
+            "Plan",
+            "Carrizal"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:640",
+            "4",
+            "2009",
+            "2010",
+            "4",
+            "2",
+            "$_ECU:160",
+            "2009",
+            "$_ECU:240"
+        ]
+    }
+}

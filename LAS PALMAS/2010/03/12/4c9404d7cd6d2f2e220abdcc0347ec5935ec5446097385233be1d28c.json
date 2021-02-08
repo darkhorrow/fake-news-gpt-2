@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/650836/0/",
+    "title": {
+        "raw_text": "Un niño de 7 años y un varón de 38 resultan heridos tras volcar su vehículo en Pájara (Fuerteventura)",
+        "lemmatized_text": "uno niño de 7 año y uno varón de 38 resultar herir tras volcar su vehículo en pájara fuerteventura",
+        "lemmatized_text_reduced": "niño año varón resultar herir volcar vehículo pájara fuerteventura",
+        "persons": [],
+        "locations": [
+            "Pájara",
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "38"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un menor de 7 años de edad y un varón de 38 años han resultado hoy heridos con politraumatismos de carácter menos grave tras volcar el vehículo en el que circulaban en la carretera FV-2, que enlaza Puerto del Rosario con Morro Jable, a la altura del Pesenescal, en Pájara (Fuerteventura), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno menor de 7 año de edad y uno varón de 38 año haber resultar hoy herido con politraumatismo de carácter menos grave tras volcar el vehículo en el que circular en el carretera FV-2 que enlazar puerto_del_rosario con morro_jable a el altura de el pesenescal en pájara fuerteventura según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "menor año edad varón año haber resultar herido politraumatismo carácter grave volcar vehículo circular carretera enlazar puerto_del_rosario morro_jable altura pesenescal pájara fuerteventura informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Morro_Jable"
+        ],
+        "locations": [
+            "Puerto_del_Rosario",
+            "Pájara"
+        ],
+        "organizations": [
+            "Pesenescal",
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "7",
+            "38",
+            "FV-2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 14.59 horas, cuando se recibió una llamada en el Cecoes que comunicaba que se había producido el vuelco de un vehículo y que sus ocupantes precisaban asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Hasta el lugar se desplazó personal médico del Servicio de Urgencias Canario que, tras estabilizar a los afectados, evacuó al niño en ambulancia de soporte vital básico al Hospital General de Fuerteventura, y al adulto lo trasladó en una ambulancia de soporte vital avanzado al mismo centro hospitalario. En dicha actuación intervinieron efectivos del cuerpo de bomberos de Pájara, que establecieron la normalidad de la vía y colaboraron con el resto de recursos de emergencia. Por su parte, la Guardia Civil instruyó las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:14.59 cuando se recibir uno llamada en el cecoes que comunicar que se haber producir el vuelco de uno vehículo y que su ocupante precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencias_canario que tras estabilizar a el afectado evacuar a el niño en ambulancia de soporte vital básico a el hospital_general_de_fuerteventura y a el adulto lo trasladar en uno ambulancia de soporte vital avanzar a el mismo centro hospitalario en decir actuación intervenir efectivo de el cuerpo de bombero de pájara que establecer el normalidad de el vía y colaborar con el resto de recurso de emergencia por su parte el guardia_civil instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir recibir llamada cecoes comunicar haber producir vuelco vehículo ocupante precisar asistencia sanitario modo activar inmediato recurso emergencia necesario lugar desplazar personal médico servicio_de_urgencias_canario estabilizar afectado evacuar niño ambulancia soporte vital básico hospital_general_de_fuerteventura adulto trasladar ambulancia soporte vital avanzar mismo centro hospitalario decir actuación intervenir efectivo cuerpo bombero pájara establecer normalidad vía colaborar resto recurso emergencia parte guardia_civil instruir diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Cecoes",
+            "Pájara"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Hospital_General_de_Fuerteventura"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.59",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/654447/0/",
+    "title": {
+        "raw_text": "Comienza hoy de forma urgente la reconstrucción de la vía de Ayacata a Mogán en Gran Canaria",
+        "lemmatized_text": "comenzar hoy de forma urgente el reconstrucción de el vía de ayacata a mogán en gran_canaria",
+        "lemmatized_text_reduced": "comenzar forma urgente reconstrucción vía ayacata mogán gran_canaria",
+        "persons": [
+            "Ayacata"
+        ],
+        "locations": [
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Hoy han comenzado los trabajos de reconstrucción de la carretera GC-605 que une las localidades de Ayacata y Mogán, en Gran Canaria, por un importe de 319.641 euros, tras el decreto firmado por el vicepresidente y consejero de Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes del Cabildo, Román Rodríguez, que establece la obra de emergencia.",
+        "lemmatized_text": "hoy haber comenzar el trabajo de reconstrucción de el carretera GC-605 que unir el localidad de ayacata y mogán en gran_canaria por uno importe de $_ECU:319.641 tras el decreto firmar por el vicepresidente y consejero de desarrollo_económico obras_públicas y infraestructuras y transportes_del_cabildo román_rodríguez que establecer el obra de emergencia",
+        "lemmatized_text_reduced": "haber comenzar trabajo reconstrucción carretera unir localidad ayacata mogán gran_canaria importe decreto firmar vicepresidente consejero desarrollo_económico obras_públicas infraestructuras transportes_del_cabildo román_rodríguez establecer obra emergencia",
+        "persons": [
+            "Transportes_del_Cabildo",
+            "Román_Rodríguez"
+        ],
+        "locations": [
+            "Ayacata",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Obras_Públicas"
+        ],
+        "others": [
+            "Desarrollo_Económico",
+            "Infraestructuras"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-605",
+            "$_ECU:319.641"
+        ]
+    },
+    "body": {
+        "raw_text": "Ésta vía quedó cerrada al tráfico el 26 de febrero del presente año tras desplomarse uno de los muros que sustentan su plataforma a consecuencia de los temporales de lluvia que azotaron la isla el pasado mes, recuerda la corporación insular en un comunicado. Con una inversión de 319.641 euros, se han iniciado hoy los trabajos que repondrán la vía y que se centran en la demolición total del muro afectado, su reconstrucción y el reasfaltado de la vía. El vicepresidente destacó la \"rápida respuesta\" que se ha dado por parte de la Consejería para rehabilitar esta infraestructura de comunicación que ha impedido la comunicación entre los citados barrios y que ha obligado a muchos grancanarios a tener que acceder a enclaves como la Presa de Las Niñas por el Pie de la Cuesta, en Mogán, alargando considerablemente el trayecto. Durante dos meses En este sentido, destacó la diligencia de los técnicos de la Consejería de Obras Públicas para redactar el proyecto de rehabilitación que ha sido adjudicado a la empresa Surhisa. Los trabajos por un periodo aproximado de dos meses. Respecto a la rehabilitación de la GC-60, que conecta Ayacata con Tejeda, en la que también se desplomó la vía a causa de los temporales, Rogelio Frade, coordinador general de Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes del Cabildo de Gran Canaria, informó de que hoy se termina el plazo para la presentación de ofertas por parte de las empresas por lo que la semana que viene será adjudicada la obra.",
+        "lemmatized_text": "este vía quedar cerrar a el tráfico el [??:26/2/??:??.??:??] de el presente año tras desplomar se uno de el muro que sustentar su plataforma a_consecuencia_de el temporal de lluvia que azotar el isla el pasar mes recordar el corporación insular en uno comunicado con uno inversión de $_ECU:319.641 se haber iniciar hoy el trabajo que reponer el vía y que se centrar en el demolición total de el muro afectar su reconstrucción y el reasfaltado de el vía el vicepresidente destacar el rápido respuesta que se haber dar por parte de el consejería para rehabilitar este infraestructura de comunicación que haber impedir el comunicación entre el citar barrio y que haber obligar a mucho grancanarios a tener que acceder a enclave como el presa_de_las_niñas_por_el_pie_de_la_cuesta en mogán alargar considerablemente el trayecto durante 2 mes en este sentido destacar el diligencia de el técnico de el consejería_de_obras_públicas para redactar el proyecto de rehabilitación que haber ser adjudicar a el empresa surhisa el trabajo por uno periodo aproximar de 2 mes respecto_a el rehabilitación de el GC-60 que conectar ayacata con tejeda en el que también se desplomar el vía a_causa_de el temporal rogelio_frade coordinador general de desarrollo_económico obras_públicas y infraestructuras y transportes_del_cabildo_de_gran_canaria informar de que hoy se terminar el plazo para el presentación de oferta por parte de el empresa por el que el semana que venir ser adjudicar el obra",
+        "lemmatized_text_reduced": "vía quedar cerrar tráfico presente año desplomar muro sustentar plataforma temporal lluvia azotar isla pasar mes recordar corporación insular comunicado inversión haber iniciar trabajo reponer vía centrar demolición total muro afectar reconstrucción reasfaltado vía vicepresidente destacar rápido respuesta haber dar parte consejería rehabilitar infraestructura comunicación haber impedir comunicación citar barrio haber obligar grancanarios tener acceder enclave presa_de_las_niñas_por_el_pie_de_la_cuesta mogán alargar considerablemente trayecto mes en sentido destacar diligencia técnico consejería_de_obras_públicas redactar proyecto rehabilitación haber ser adjudicar empresa surhisa trabajo periodo aproximar mes rehabilitación conectar ayacata tejeda desplomar vía temporal rogelio_frade coordinador general desarrollo_económico obras_públicas infraestructuras transportes_del_cabildo_de_gran_canaria informar terminar plazo presentación oferta parte empresa semana venir ser adjudicar obra",
+        "persons": [
+            "En",
+            "Ayacata",
+            "Rogelio_Frade"
+        ],
+        "locations": [
+            "Mogán",
+            "Tejeda"
+        ],
+        "organizations": [
+            "Consejería",
+            "Presa_de_Las_Niñas_por_el_Pie_de_la_Cuesta",
+            "Consejería_de_Obras_Públicas",
+            "Surhisa",
+            "Obras_Públicas",
+            "Transportes_del_Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Desarrollo_Económico",
+            "Infraestructuras"
+        ],
+        "dates": [
+            "[??:26/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:319.641",
+            "2",
+            "2",
+            "GC-60"
+        ]
+    }
+}

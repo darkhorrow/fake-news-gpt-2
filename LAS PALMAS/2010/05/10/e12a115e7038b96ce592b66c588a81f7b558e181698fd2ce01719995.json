@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/701778/0/",
+    "title": {
+        "raw_text": "Soria ve \"preocupante y alarmante\" que la ministra de sanidad \"quiera esconder\" la deuda del Estado con Canarias",
+        "lemmatized_text": "soria ver preocupante y alarmante que el ministro de sanidad querer esconder el deuda de el estado con canarias",
+        "lemmatized_text_reduced": "soria ver preocupante alarmante ministro sanidad querer esconder deuda estado canarias",
+        "persons": [],
+        "locations": [
+            "Soria",
+            "Canarias"
+        ],
+        "organizations": [
+            "Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El vicepresidente y consejero de Economía y Hacienda del Gobierno de Canarias, José Manuel Soria, ha visto de manera \"preocupante y alarmante\" que la ministra de Sanidad, Trinidad Jiménez, \"quiera esconder\" la deuda que mantiene el Estado con la comunidad autónoma en materia sanitaria.",
+        "lemmatized_text": "el vicepresidente y consejero de economía y hacienda_del_gobierno_de_canarias josé_manuel_soria haber ver de manera preocupante y alarmante que el ministro de sanidad trinidad_jiménez querer esconder el deuda que mantener el estado con el comunidad autónomo en materia sanitario",
+        "lemmatized_text_reduced": "vicepresidente consejero economía hacienda_del_gobierno_de_canarias josé_manuel_soria haber ver manera preocupante alarmante ministro sanidad trinidad_jiménez querer esconder deuda mantener estado comunidad autónomo materia sanitario",
+        "persons": [
+            "José_Manuel_Soria",
+            "Trinidad_Jiménez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Economía",
+            "Hacienda_del_Gobierno_de_Canarias",
+            "Estado"
+        ],
+        "others": [
+            "Sanidad"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Resulta preocupante y alarmante a la vez que la responsable de la sanidad de toda España y la que es responsable de velar porque todas las comunidades autónomas tengamos el mismo volumen de dinero y recursos para hacer frente a lo que son los problemas y las necesidades de la sanidad, no sepa, no tenga claro o, lo que es peor, que quiera esconder la deuda que el Estado tiene con Canarias\", dijo en declaraciones difundidas a los medios de comunicación. En este sentido, opinó desde el Gobierno de Canarias se viene reiterando durante los últimos años que se pague la deuda. \"Es una deuda —añadió— que asciende a más de 1.400 millones\". Soria dijo así que en Canarias se destina una media de 1.000 de euros per cápita en Sanidad, mientras que hay otras regiones que destinan 1.300 euros. \"No se puede tener el mismo tipo de servicio cuando se da más dinero que cuando se da menos. No queremos criticar a nadie, sólo decirle al Estado que a las islas le corresponde lo mismo que lo que se da a otros territorios, no queremos privilegios ni beneficios\", concluyó.",
+        "lemmatized_text": "resultar preocupante y alarmante a_la_vez_que el responsable de el sanidad de todo españa y el que ser responsable de velar porque todo el comunidad autónomo tener el mismo volumen de dinero y recurso para hacer_frente a el que ser el problema y el necesidad de el sanidad no saber no tener claro o el que ser peor que querer esconder el deuda que el estado tener con canarias decir en declaración difundir a el medio de comunicación en este sentido opinar desde el gobierno_de_canarias se venir reiterar durante el último año que se pagar el deuda ser uno deuda añadir que ascender a más de 1400000 soria decir así que en canarias se destinar uno medio de $_ECU:1 per_cápita en sanidad mientras_que haber otro región que destinar $_ECU:1.3 no se poder tener el mismo tipo de servicio cuando se dar más dinero que cuando se dar menos no querer criticar a nadie sólo decir le a el estado que a el isla le corresponder el mismo que el que se dar a otro territorio no querer privilegio ni beneficio concluir",
+        "lemmatized_text_reduced": "resultar preocupante alarmante responsable sanidad españa ser responsable velar comunidad autónomo tener mismo volumen dinero recurso hacer_frente ser problema necesidad sanidad saber tener ser peor querer esconder deuda estado tener canarias decir declaración difundir medio comunicación sentido opinar gobierno_de_canarias venir reiterar último año pagar deuda ser deuda añadir ascender soria decir canarias destinar medio per_cápita sanidad haber región destinar poder tener mismo tipo servicio dar dinero dar querer criticar decir estado isla corresponder mismo dar territorio querer privilegio beneficio concluir",
+        "persons": [
+            "España"
+        ],
+        "locations": [
+            "Canarias",
+            "Soria",
+            "Canarias"
+        ],
+        "organizations": [
+            "Estado",
+            "Gobierno_de_Canarias",
+            "Estado"
+        ],
+        "others": [
+            "Sanidad"
+        ],
+        "dates": [],
+        "numbers": [
+            "1400000",
+            "$_ECU:1",
+            "$_ECU:1.3"
+        ]
+    }
+}

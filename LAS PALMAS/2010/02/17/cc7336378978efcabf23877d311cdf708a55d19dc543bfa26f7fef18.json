@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/631367/0/",
+    "title": {
+        "raw_text": "Un hombre herido menos grave tras salirse con su turismo de una carretera en Gran Canaria",
+        "lemmatized_text": "uno hombre herir menos grave tras salir se con su turismo de uno carretera en gran_canaria",
+        "lemmatized_text_reduced": "hombre herir grave salir turismo carretera gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido de carácter menos grave tras salirse de la vía con su vehículo en Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber resultar herir de carácter menos grave tras salir se de el vía con su vehículo en gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir carácter grave salir vía vehículo gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 08.42 horas en la carretera GC-300, a la salida de Tenoya, en Las Palmas de Gran Canaria. En cuanto al herido sufrió policontusiones de carácter menos grave, por lo que tuvo que ser trasladado en ambulancia de soporte vital básico al Hospital Universitario de Gran Canaria Doctor Negrín. Asimismo, hasta el lugar del incidente se trasladó personal del Servicio de Urgencias Canario (SUC), así como bomberos y agentes de la Policía Local de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el hecho se producir a el TM_h:8.42 en el carretera GC-300 a el salida de tenoya en las_palmas_de_gran_canaria en cuanto a el herir sufrir policontusión de carácter menos grave por el que tener que ser trasladar en ambulancia de soporte vital básico a el hospital_universitario_de_gran_canaria_doctor_negrín asimismo hasta el lugar de el incidente se trasladar personal de el servicio_de_urgencias_canario suc así_como bombero y agente de el policía_local_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hecho producir carretera salida tenoya las_palmas_de_gran_canaria herir sufrir policontusión carácter grave tener ser trasladar ambulancia soporte vital básico hospital_universitario_de_gran_canaria_doctor_negrín lugar incidente trasladar personal servicio_de_urgencias_canario suc bombero agente policía_local_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Tenoya",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:8.42",
+            "GC-300"
+        ]
+    }
+}

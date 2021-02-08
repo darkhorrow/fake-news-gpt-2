@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/933775/0/",
+    "title": {
+        "raw_text": "La Aemet prevé posibles lluvias débiles en Canarias este jueves",
+        "lemmatized_text": "el aemet prever posible lluvia débil en canarias este [J:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "aemet prever posible lluvia débil canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (AEMET) prevé que este jueves en Canarias la nubosidad irá aumentando en la zona oeste y podría llover de forma débil o localmente moderada a última hora de la jornada, especialmente en las islas más occidentales.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet prever que este [J:??/??/??:??.??:??] en canarias el nubosidad ir aumentar en el zona oeste y poder llover de forma débil o localmente moderar a último hora de el jornada especialmente en el isla más occidental",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet prever canarias nubosidad ir aumentar zona oeste poder llover forma débil localmente moderar último hora jornada especialmente isla occidental",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Agencia Estatal de Meteorología (AEMET) prevé que este jueves en Canarias la nubosidad irá aumentando en la zona oeste y podría llover de forma débil o localmente moderada a última hora de la jornada, especialmente en las islas más occidentales. La nubosidad generalizada y la bajada de temperaturas en toda España protagonizarán esta jornada durante la que la entrada de aire frío por el nordeste peninsular dará paso a un invierno térmico que agudizará la sensación de frío. Aunque a lo largo de la jornada las nubes irán levantando, en el Área Mediterránea y el Estrecho dejarán algunas precipitaciones débiles, especialmente en los litorales de Cataluña, la Comunidad Valenciana, Murcia, Melilla y Baleares. En esta región, además, la cota de nieve descenderá hasta los 600 metros al final del día. Las temperaturas descenderán ligera o moderadamente en el País Vasco, la zona del Alto Ebro, el Pirineo y Baleares y se mantendrán sin cambios o en ligero descenso en el resto de España. Por la noche, bajarán en la mitad norte peninsular de forma moderada, según la AEMET. Asimismo, a lo largo de este jueves se producirán intervalos de viento fuerte de Este en el litoral gallego y soplará del Norte en la costa de Girona y en el Noreste de Baleares. También se registrará viento de Levante moderado en el Estrecho mientras en el resto de España, irá de flojo a moderado y será de componente Este.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet prever que este [J:??/??/??:??.??:??] en canarias el nubosidad ir aumentar en el zona oeste y poder llover de forma débil o localmente moderar a último hora de el jornada especialmente en el isla más occidental el nubosidad generalizar y el bajada de temperatura en todo españa protagonizar este jornada durante el que el entrada de aire frío por el nordeste peninsular dar_paso a uno invierno térmico que agudizar el sensación de frío aunque a el largo de el jornada el nube ir levantar en el área_mediterránea y el estrecho dejar alguno precipitación débil especialmente en el litoral de cataluña el comunidad_valenciana murcia melilla y baleares en este región además el cota de nieve descender hasta el LN_m:600 a el final de el día el temperatura descender ligero o moderadamente en el país_vasco el zona de el alto_ebro el pirineo y baleares y se mantener sin cambio o en ligero descenso en el resto de españa por el noche bajar en el mitad norte peninsular de forma moderar según el aemet asimismo a el largo de este [J:??/??/??:??.??:??] se producir intervalo de viento fuerte de este en el litoral gallego y soplar de el norte en el costa de girona y en el noreste_de_baleares también se registrar viento de levante moderar en el estrecho mientras en el resto de españa ir de flojo a moderar y ser de componente este",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet prever canarias nubosidad ir aumentar zona oeste poder llover forma débil localmente moderar último hora jornada especialmente isla occidental nubosidad generalizar bajada temperatura españa protagonizar jornada entrada aire frío nordeste peninsular dar_paso invierno térmico agudizar sensación frío largo jornada nube ir levantar área_mediterránea estrecho dejar precipitación débil especialmente litoral cataluña comunidad_valenciana murcia melilla baleares región cota nieve descender final día temperatura descender ligero moderadamente país_vasco zona alto_ebro pirineo baleares mantener cambio ligero descenso resto españa noche bajar mitad norte peninsular forma moderar aemet largo producir intervalo viento fuerte este litoral gallego soplar norte costa girona noreste_de_baleares registrar viento levante moderar estrecho resto españa ir flojo moderar ser componente este",
+        "persons": [
+            "España",
+            "España"
+        ],
+        "locations": [
+            "Canarias",
+            "Área_Mediterránea",
+            "Estrecho",
+            "Cataluña",
+            "Comunidad_Valenciana",
+            "Murcia",
+            "Melilla",
+            "Baleares",
+            "País_Vasco",
+            "Alto_Ebro",
+            "Pirineo",
+            "Baleares",
+            "España",
+            "Este",
+            "Norte",
+            "Girona",
+            "Levante",
+            "Estrecho",
+            "Este"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "AEMET",
+            "Noreste_de_Baleares"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_m:600"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/376600/0/bebe/tirado/acantilado/",
+    "title": {
+        "raw_text": "Hallan grave a un bebé en un acantilado en Fuerteventura y detienen a sus padres",
+        "lemmatized_text": "hallar grave a uno bebé en uno acantilado en fuerteventura y detener a su padre",
+        "lemmatized_text_reduced": "hallar grave bebé acantilado fuerteventura detener padre",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El bebé tiene seis meses. Los primeros indicios apuntan a que la madre pudo lanzar al pequeño. El suceso ha tenido lugar a las 17.30 horas. Otra mujer mata en Canarias a su hija de cinco meses . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el bebé tener 6 mes el 1 indicio apuntar a que el madre poder lanzar a el pequeño el suceso haber tener_lugar a el TM_h:17.3 otro mujer matar en canarias a su hijo de 5 mes consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "bebé tener mes 1 indicio apuntar madre poder lanzar pequeño suceso haber tener_lugar mujer matar canarias hijo mes consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6",
+            "TM_h:17.3",
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "Un niño de seis meses se encuentra en estado crítico después de que, según los primeros indicios, su madre lo lanzara por una ladera de la costa de Fuerteventura, informaron fuentes de los servicios de emergencias de Canarias. El suceso se produjo en la zona de Costa Calma, en el municipio de Pájara, a las 17.30 horas, momento en el que se personaron diversos cuerpos de seguridad y el personal sanitario atendió al bebé, que fue inmovilizado porque sufrió politraumatismos severos y llevado por la ambulancia de los bomberos hasta la helisuperficie del Hotel Los Gorriones. Un helicóptero del Gobierno canario lo trasladó hasta el Hospital Doctor Negrín de Gran Canaria, desde donde fue llevado al Hospital Materno Infantil. Los padres, arrestados Fuentes del cuerpo de bomberos explicaron que la Guardia Civil se llevó esposada a la madre del bebé y el padre, que también se encontraba en el lugar , quiso ir en la ambulancia pero no pudo y tampoco en el helicóptero, por lo que previsiblemente se trasladará a Gran Canaria en un vuelo regular. Se trata de la segunda tragedia de esta índole que se produce este miércoles en Canarias después de que de madrugada una madre asfixiara a su hija de pocos meses en la isla de La Palma.",
+        "lemmatized_text": "uno niño de 6 mes se encontrar en estado crítico después_de que según el 1 indicio su madre lo lanzar por uno ladera de el costa de fuerteventura informar fuente de el servicio de emergencia de canarias el suceso se producir en_la_zona_de costa_calma en el municipio de pájara a el TM_h:17.3 momento en el que se personar diverso cuerpo de seguridad y el personal sanitario atender a el bebé que ser inmovilizar porque sufrir politraumatismo severo y llevar por el ambulancia de el bombero hasta el helisuperficie de el hotel_los_gorriones uno helicóptero de el gobierno canario lo trasladar hasta el hospital_doctor_negrín_de_gran_canaria desde donde ser llevar a el hospital_materno_infantil el padre arrestar fuentes de el cuerpo de bombero explicar que el guardia_civil se llevar esposar a el madre de el bebé y el padre que también se encontrar en el lugar querer ir en el ambulancia pero no poder y tampoco en el helicóptero por el que previsiblemente se trasladar a gran_canaria en uno vuelo regular se tratar de el 2 tragedia de este índole que se producir este [X:??/??/??:??.??:??] en canarias después_de que de_madrugada uno madre asfixiar a su hijo de poco mes en el isla de la_palma",
+        "lemmatized_text_reduced": "niño mes encontrar estado crítico 1 indicio madre lanzar ladera costa fuerteventura informar fuente servicio emergencia canarias suceso producir costa_calma municipio pájara momento personar cuerpo seguridad personal sanitario atender bebé ser inmovilizar sufrir politraumatismo severo llevar ambulancia bombero helisuperficie hotel_los_gorriones helicóptero gobierno canario trasladar hospital_doctor_negrín_de_gran_canaria ser llevar hospital_materno_infantil padre arrestar fuentes cuerpo bombero explicar guardia_civil llevar esposar madre bebé padre encontrar lugar querer ir ambulancia poder helicóptero previsiblemente trasladar gran_canaria vuelo regular tratar 2 tragedia índole producir canarias madre asfixiar hijo mes isla la_palma",
+        "persons": [
+            "Fuentes"
+        ],
+        "locations": [
+            "Canarias",
+            "Costa_Calma",
+            "Pájara",
+            "Canarias",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Gobierno",
+            "Hospital_Doctor_Negrín_de_Gran_Canaria",
+            "Hospital_Materno_Infantil",
+            "Guardia_Civil",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Hotel_Los_Gorriones"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "6",
+            "TM_h:17.3"
+        ]
+    }
+}

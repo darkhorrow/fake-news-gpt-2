@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/723658/0/",
+    "title": {
+        "raw_text": "La Aemet establece el riesgo amarillo en Canarias por altas temperaturas que llegarán a los 34 grados",
+        "lemmatized_text": "el aemet establecer el riesgo amarillo en canarias por alto temperatura que llegar a el 34 grado",
+        "lemmatized_text_reduced": "aemet establecer riesgo amarillo canarias alto temperatura llegar grado",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "34"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha establecido el riesgo amarillo por calor y altas temperaturas que llegarán incluso a los 34 grados centígrados, según informa el propio organismo en su página web.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber establecer el riesgo amarillo por calor y alto temperatura que llegar incluso a el TP_C:34 según informar el propio organismo en su página web",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber establecer riesgo amarillo calor alto temperatura llegar informar propio organismo página web",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TP_C:34"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el riesgo ha comenzado sobre las 09.00 horas de hoy en las islas de Gran Canaria, Lanzarote y Fuerteventura, mientras que en la provincia de Santa Cruz de Tenerife, la alerta comenzará a partir de las 11.00 horas. Asimismo, se ha estimado que el riesgo desaparezca a las 20.00 horas. Por su parte, las altas temperaturas acompañarán al archipiélago durante los próximos días, por lo que durante la jornada de mañana también se decretará el riesgo amarillo por calor. En cuanto a la predicción meteorológica, el cielo estará poco nuboso con algún intervalo nuboso en el norte de las islas, contando además con la presencia de la calima. En el resto de España, hoy predominarán los cielos nubosos o muy nubosos en todo el extremo norte peninsular, con posibilidad de alguna lluvia débil. En el resto de la Península y Baleares, poco nuboso con intervalos de nubes medias y altas, más abundantes en la mitad norte y menos en el sur y en el área mediterránea. Las temperaturas se mantendrán sin cambios o descenderán ligeramente en el cuadrante nordeste peninsular; en el cuadrante noroeste, resto de Levante y extremo sureste las máximas sin cambios o en descenso ligero y las mínimas ligeramente más altas; en el resto, ambas en ligero ascenso, más acusado en las mínimas. En Baleares, sin cambios o ligeramente más bajas. En Canarias, ascenderán ligera a moderadamente, siendo localmente notable. Se alcanzarán máximas con valores significativamente altos en puntos de Andalucía, de Murcia y en Canarias. Los vientos soplarán flojos en la Península y Baleares, predominando la componente Norte, con intervalos moderados en el litoral de Galicia, valle del Ebro, extremo noreste de Cataluña y Menorca. En canarias, moderados de componente Este, con intervalos fuertes en medianías y zonas altas.",
+        "lemmatized_text": "de este manera el riesgo haber comenzar sobre el TM_h:9 de hoy en el isla de gran_canaria lanzarote y fuerteventura mientras_que en el provincia de santa_cruz_de_tenerife el alerta comenzar a_partir_de el TM_h:11 asimismo se haber estimar que el riesgo desaparecer a el TM_h:20 por su parte el alto temperatura acompañar a el archipiélago durante el próximo día por el que durante el jornada de mañana también se decretar el riesgo amarillo por calor en_cuanto_a el predicción meteorológico el cielo estar poco nuboso con alguno intervalo nuboso en el norte de el isla contar además con el presencia de el calima en el resto de españa hoy predominar el cielo nuboso o muy nuboso en todo el extremo norte peninsular con posibilidad de alguno lluvia débil en el resto de el península y baleares poco nuboso con intervalo de nube medio y alto más abundante en el mitad norte y menos en el sur y en el área mediterráneo el temperatura se mantener sin cambio o descender ligeramente en el cuadrante nordeste peninsular en el cuadrante noroeste resto de levante y extremo sureste el máxima sin cambio o en descenso ligero y el mínimo ligeramente más alto en el resto ambos en ligero ascenso más acusar en el mínimo en baleares sin cambio o ligeramente más bajo en canarias ascender ligero a moderadamente ser localmente notable se alcanzar máximo con valor significativamente alto en punto de andalucía de murcia y en canarias el viento soplar flojo en el península y baleares predominar el componente norte con intervalo moderar en el litoral de galicia valle de el ebro extremo noreste de cataluña y menorca en canario moderar de componente este con intervalo fuerte en medianía y zona alto",
+        "lemmatized_text_reduced": "manera riesgo haber comenzar isla gran_canaria lanzarote fuerteventura provincia santa_cruz_de_tenerife alerta comenzar haber estimar riesgo desaparecer parte alto temperatura acompañar archipiélago próximo día jornada mañana decretar riesgo amarillo calor predicción meteorológico cielo estar nuboso intervalo nuboso norte isla contar presencia calima resto españa predominar cielo nuboso nuboso extremo norte peninsular posibilidad lluvia débil resto península baleares nuboso intervalo nube medio alto abundante mitad norte sur área mediterráneo temperatura mantener cambio descender ligeramente cuadrante nordeste peninsular cuadrante noroeste resto levante extremo sureste máxima cambio descenso ligero mínimo ligeramente alto resto ligero ascenso acusar mínimo baleares cambio ligeramente bajo canarias ascender ligero moderadamente ser localmente notable alcanzar máximo valor significativamente alto punto andalucía murcia canarias viento soplar flojo península baleares predominar componente norte intervalo moderar litoral galicia valle ebro extremo noreste cataluña menorca canario moderar componente este intervalo fuerte medianía zona alto",
+        "persons": [
+            "España",
+            "Norte"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote",
+            "Santa_Cruz_de_Tenerife",
+            "Península",
+            "Baleares",
+            "Levante",
+            "Baleares",
+            "Canarias",
+            "Andalucía",
+            "Murcia",
+            "Canarias",
+            "Península",
+            "Baleares",
+            "Galicia",
+            "Ebro",
+            "Cataluña",
+            "Menorca",
+            "Este"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9",
+            "TM_h:11",
+            "TM_h:20"
+        ]
+    }
+}

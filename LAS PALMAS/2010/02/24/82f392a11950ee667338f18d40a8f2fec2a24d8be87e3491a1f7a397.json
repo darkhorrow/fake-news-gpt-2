@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/637148/0/",
+    "title": {
+        "raw_text": "Endesa finaliza el soterramiento de la línea eléctrica en la montaña de Arinaga (Gran Canaria)",
+        "lemmatized_text": "endesa finalizar el soterramiento de el línea eléctrico en el montaña de arinaga gran_canaria",
+        "lemmatized_text_reduced": "endesa finalizar soterramiento línea eléctrico montaña arinaga gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arinaga",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Endesa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La compañía Endesa ha concluido el soterramiento de la línea eléctrica en la zona de la Montaña de Arinaga, en el sureste de Gran Canaria, mejorando con ello el entorno medioambiental, desde el punto de vista paisajístico, de este paraje, retirando más de 2 kilómetros de una línea eléctrica aérea de media tensión y 11 apoyos, informó hoy la empresa en un comunicado.",
+        "lemmatized_text": "el compañía endesa haber concluir el soterramiento de el línea eléctrico en_la_zona_de el montaña_de_arinaga en el sureste de gran_canaria mejorar con ello el entorno medioambiental desde el punto de vista paisajístico de este paraje retirar más de LN_km:2 de uno línea eléctrico aéreo de medio tensión y 11 apoyo informar hoy el empresa en uno comunicado",
+        "lemmatized_text_reduced": "compañía endesa haber concluir soterramiento línea eléctrico montaña_de_arinaga sureste gran_canaria mejorar entorno medioambiental punto vista paisajístico paraje retirar línea eléctrico aéreo medio tensión apoyo informar empresa comunicado",
+        "persons": [],
+        "locations": [
+            "Montaña_de_Arinaga"
+        ],
+        "organizations": [
+            "Endesa"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_km:2",
+            "11"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, la obra, incluida en el Plan de Electrificación de Canarias, que desarrollan conjuntamente el Gobierno de Canarias y Endesa, ha supuesto la construcción de una línea subterránea de casi 3,5 kilómetros de longitud, que ha permitido, tras su finalización, la retirada de las torretas y del tramo de línea aérea citado. Asimismo, la nueva línea ha permitido cerrar un anillo eléctrico para mejorar la calidad del suministro en la zona, al dotarla de una mayor maniobrabilidad en caso de una posible avería en la red. Finalmente, la obra ha supuesto una inversión superior a los 240.000 euros, que han aportado el Gobierno de Canarias y Endesa.",
+        "lemmatized_text": "de este manera el obra incluir en el plan_de_electrificación_de_canarias que desarrollar conjuntamente el gobierno_de_canarias y endesa haber suponer el construcción de uno línea subterráneo de casi LN_km:3,5 de longitud que haber permitir tras su finalización el retirada de el torreta y de el tramo de línea aéreo citar asimismo el nuevo línea haber permitir cerrar uno anillo eléctrico para mejorar el calidad de el suministro en el zona a el dotar lo de uno mayor maniobrabilidad en_caso_de uno posible avería en el red finalmente el obra haber suponer uno inversión superior a el $_ECU:240 que haber aportar el gobierno_de_canarias y endesa",
+        "lemmatized_text_reduced": "manera obra incluir plan_de_electrificación_de_canarias desarrollar conjuntamente gobierno_de_canarias endesa haber suponer construcción línea subterráneo longitud haber permitir finalización retirada torreta tramo línea aéreo citar nuevo línea haber permitir cerrar anillo eléctrico mejorar calidad suministro zona dotar mayor maniobrabilidad posible avería red finalmente obra haber suponer inversión superior haber aportar gobierno_de_canarias endesa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Endesa",
+            "Gobierno_de_Canarias",
+            "Endesa"
+        ],
+        "others": [
+            "Plan_de_Electrificación_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_km:3,5",
+            "$_ECU:240"
+        ]
+    }
+}

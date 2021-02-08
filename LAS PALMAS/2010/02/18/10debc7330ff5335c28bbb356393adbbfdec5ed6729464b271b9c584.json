@@ -1,0 +1,55 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632719/0/",
+    "title": {
+        "raw_text": "Suspendido el concierto de Miguel Poveda en Gran Canaria por rotura de cristalera en Auditorio Alfredo Kraus",
+        "lemmatized_text": "suspender el concierto de miguel_poveda en gran_canaria por rotura de cristalera en auditorio_alfredo_kraus",
+        "lemmatized_text_reduced": "suspender concierto miguel_poveda gran_canaria rotura cristalera auditorio_alfredo_kraus",
+        "persons": [
+            "Miguel_Poveda"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Auditorio_Alfredo_Kraus"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El concierto del cantaor catalán Miguel Poveda, programado para esta noche a las 21.00 horas en el Auditorio Alfredo Kraus de Las Palmas de Gran Canaria, ha tenido que ser suspendido debido a las consecuencias del temporal de viento que ha afectado a Canarias durante la jornada de hoy, puesto que el aire ha producido la rotura de una cristalera en el inmueble, según informó hoy la organización en un comunicado.",
+        "lemmatized_text": "el concierto de el cantaor catalán miguel_poveda programar para este noche a el TM_h:21 en el auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria haber tener que ser suspender debido_a el consecuencia de el temporal de viento que haber afectar a canarias durante el jornada de hoy poner que el aire haber producir el rotura de uno cristalera en el inmueble según informar hoy el organización en uno comunicado",
+        "lemmatized_text_reduced": "concierto cantaor catalán miguel_poveda programar noche auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria haber tener ser suspender consecuencia temporal viento haber afectar canarias jornada poner aire haber producir rotura cristalera inmueble informar organización comunicado",
+        "persons": [
+            "Miguel_Poveda"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Auditorio_Alfredo_Kraus_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, como consecuencia de esta situación, el Auditorio Alfredo Kraus ha sufrido desperfectos en una cristalera y en el techo del hall de entrada, que si bien en un principio se estimó que no afectaban a la seguridad del edificio, la evolución de las condiciones meteorológicas durante la mañana han llevado a una nueva valoración que ha determinado, por precaución, el cese de actividades en el día de hoy en el recinto. El concierto de Miguel Poveda quedará así aplazado hasta nuevo aviso. Las personas que hayan adquirido sus entradas para asistir al mismo tendrán derecho a canjearlas para la nueva fecha a programar y a la devolución del importe abonado si así lo desean.",
+        "lemmatized_text": "de este manera como consecuencia de este situación el auditorio_alfredo_kraus haber sufrir desperfecto en uno cristalera y en el techo de el hall de entrada que si bien en uno principio se estimar que no afectar a el seguridad de el edificio el evolución de el condición meteorológico durante el mañana haber llevar a uno nuevo valoración que haber determinar por precaución el cese de actividad en el día de hoy en el recinto el concierto de miguel_poveda quedar así aplazar hasta nuevo aviso el persona que haber adquirir su entrada para asistir a el mismo tener derecho a canjear lo para el nuevo fecha a programar y a el devolución de el importe abonar si así lo desear",
+        "lemmatized_text_reduced": "manera consecuencia situación auditorio_alfredo_kraus haber sufrir desperfecto cristalera techo hall entrada principio estimar afectar seguridad edificio evolución condición meteorológico mañana haber llevar nuevo valoración haber determinar precaución cese actividad día recinto concierto miguel_poveda quedar aplazar nuevo aviso persona haber adquirir entrada asistir tener derecho canjear nuevo fecha programar devolución importe abonar desear",
+        "persons": [
+            "Miguel_Poveda"
+        ],
+        "locations": [],
+        "organizations": [
+            "Auditorio_Alfredo_Kraus"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

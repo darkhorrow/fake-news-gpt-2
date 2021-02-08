@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/423989/0/fondos/investigacion/violador/",
+    "title": {
+        "raw_text": "",
+        "lemmatized_text": "",
+        "lemmatized_text_reduced": "",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Instituto de medicina legal necesita 56.000 euros que no tiene. Esperan conseguir los fondos lo antes posible de la administración de justicia. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el instituto de medicina legal necesitar $_ECU:56 que no tener esperar conseguir el fondo el antes posible de el administración de justicia consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "instituto medicina legal necesitar tener esperar conseguir fondo posible administración justicia consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Instituto",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:56"
+        ]
+    },
+    "body": {
+        "raw_text": "El responsable del Servicio de Genética de la Universidad de Las Palmas de Gran Canaria y responsable del Laboratorio de Genética del Instituto de Medicina Legal de Las Palmas , José Pestano, que lleva el caso del violador de Gran Canaria, ha dicho hoy que la investigación requerirá de 56.000 euros que aún no tiene , aunque explicó que espera contar con ese dinero porque nunca ha tenido \"ningún problema\" en este sentido. Sobre una posible falta de presupuesto para llevar a cabo la investigación, indicó que \"tal vez se ha confundido la noticia\". \"Ante tantas muestras y en la época del año en la que estamos, el presupuesto que tengo es para todos los juzgados de la isla. Sólo hay que hablar con la Dirección General para decirle cuánto es el presupuesto. Nunca hemos tenido ningún problema\", dijo en declaraciones a la Cadena Ser. Así, explicó que la Autoridad Judicial ha solicitado que se analicen las más de 250 muestras acumuladas desde 1999 hasta 2003. \"Se ha pedido que se analicen todas y eso supone casi el trabajo de unos cuantos años, algo que hay que realizar en un periodo de 3 meses\" afirmó. \"Estamos en ello. Es mucho trabajo, hay que hacerlo el que el juez ha ordenado y vamos a analizarlo\". Además, Pestano aseguró que lo primero que se hace cuando el juez ordena una investigación es hacer un presupuesto, algo que conllevará un gasto de 56.000 euros.",
+        "lemmatized_text": "el responsable de el servicio_de_genética_de_la_universidad_de_las_palmas_de_gran_canaria y responsable de el laboratorio_de_genética_del_instituto_de_medicina_legal_de_las_palmas josé_pestano que llevar el caso de el violador de gran_canaria haber decir hoy que el investigación requerir de $_ECU:56 que aun no tener aunque explicar que esperar contar con ese dinero porque nunca haber tener ninguno problema en este sentido sobre uno posible falta de presupuesto para llevar_a_cabo el investigación indicar que tal_vez se haber confundir el noticia ante tanto muestra y en el época de el año en el que estar el presupuesto que tener ser para todo el juzgado de el isla sólo haber que hablar con el dirección_general para decir le cuánto ser el presupuesto nunca haber tener ninguno problema decir en declaración a el cadena_ser así explicar que el autoridad_judicial haber solicitar que se analizar el más de 250 muestra acumular desde 1999 hasta 2003 se haber pedir que se analizar todo y ese suponer casi el trabajo de uno cuanto año algo que haber que realizar en uno periodo de 3 mes afirmar estar en ello ser mucho trabajo haber que hacer lo el que el juez haber ordenar y ir a analizar lo además pestano asegurar que el 1 que se hacer cuando el juez ordenar uno investigación ser hacer uno presupuesto algo que conllevar uno gasto de $_ECU:56",
+        "lemmatized_text_reduced": "responsable servicio_de_genética_de_la_universidad_de_las_palmas_de_gran_canaria responsable laboratorio_de_genética_del_instituto_de_medicina_legal_de_las_palmas josé_pestano llevar caso violador gran_canaria haber decir investigación requerir tener explicar esperar contar dinero haber tener problema sentido posible falta presupuesto llevar_a_cabo investigación indicar haber confundir noticia muestra época año estar presupuesto tener ser juzgado isla haber hablar dirección_general decir ser presupuesto haber tener problema decir declaración cadena_ser explicar autoridad_judicial haber solicitar analizar muestra acumular haber pedir analizar suponer trabajo año haber realizar periodo mes afirmar estar ser trabajo haber hacer juez haber ordenar ir analizar pestano asegurar 1 hacer juez ordenar investigación ser hacer presupuesto conllevar gasto",
+        "persons": [
+            "José_Pestano",
+            "Pestano"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Genética_de_la_Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "Laboratorio_de_Genética_del_Instituto_de_Medicina_Legal_de_Las_Palmas",
+            "Dirección_General",
+            "Cadena_Ser",
+            "Autoridad_Judicial"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:56",
+            "250",
+            "1999",
+            "2003",
+            "3",
+            "$_ECU:56"
+        ]
+    }
+}

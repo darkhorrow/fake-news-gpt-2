@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/630423/0/",
+    "title": {
+        "raw_text": "Aeropuertos de La Palma, La Gomera y El Hierro continúan inoperativos y ya se han producido 19 cancelaciones",
+        "lemmatized_text": "aeropuertos_de_la_palma la_gomera y el_hierro continuar inoperativo y ya se haber producir 19 cancelación",
+        "lemmatized_text_reduced": "aeropuertos_de_la_palma la_gomera el_hierro continuar inoperativo haber producir cancelación",
+        "persons": [
+            "Aeropuertos_de_La_Palma"
+        ],
+        "locations": [
+            "La_Gomera"
+        ],
+        "organizations": [
+            "El_Hierro"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "19"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los aeropuertos de la isla de La Palma, La Gomera y El Hierro continúan sin operar debido al fuerte viento que está soplando en estos territorios insulares, lo que ha provocado que se hayan producido ya 19 cancelaciones.",
+        "lemmatized_text": "el aeropuerto de el isla de la_palma la_gomera y el_hierro continuar sin operar deber a el fuerte viento que estar soplar en este territorio insular el que haber provocar que se haber producir ya 19 cancelación",
+        "lemmatized_text_reduced": "aeropuerto isla la_palma la_gomera el_hierro continuar operar deber fuerte viento estar soplar territorio insular haber provocar haber producir cancelación",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "El_Hierro"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "19"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, desde Aeropuertos Españoles y Navegación Aérea (AENA) indicaron a Europa Press, que la situación de los aeródromos de la provincia de Santa Cruz de Tenerife está \"mal\". Respecto a las cancelaciones que se han producido, en La Palma son ya 15 los vuelos cancelados, la \"mayoría\" con Tenerife Norte (12), uno con Gran Canaria y dos con Alemania (Munich y Stuttgart). La isla de La Gomera y El Hierro tienen dos vuelos cancelados cada una, todos ellos con Tenerife Norte. En cambio en la isla de Tenerife los dos aeropuertos sí operan con normalidad, tanto el del Norte como el del Sur. Respecto a la provincia de Las Palmas, los aeropuertos de Gran Canaria, Fuerteventura y Lanzarote operan con \"normalidad absoluta\".",
+        "lemmatized_text": "así desde aeropuertos_españoles y navegación_aérea aena indicar a europa_press que el situación de el aeródromo de el provincia de santa_cruz_de_tenerife estar mal respecto_a el cancelación que se haber producir en la_palma ser ya 15 el vuelo cancelar el mayoría con tenerife_norte 12 uno con gran_canaria y 2 con alemania munich y stuttgart el isla de la_gomera y el_hierro tener 2 vuelo cancelar cada uno todo ellos con tenerife_norte en cambio en el isla de tenerife el 2 aeropuerto sí operar con normalidad tanto el de el norte como el de el sur respecto_a el provincia de las_palmas el aeropuerto de gran_canaria fuerteventura y lanzarote operar con normalidad absoluto",
+        "lemmatized_text_reduced": "aeropuertos_españoles navegación_aérea aena indicar europa_press situación aeródromo provincia santa_cruz_de_tenerife estar mal cancelación haber producir la_palma ser vuelo cancelar mayoría tenerife_norte gran_canaria alemania munich stuttgart isla la_gomera el_hierro tener vuelo cancelar tenerife_norte cambio isla tenerife aeropuerto operar normalidad norte sur provincia las_palmas aeropuerto gran_canaria fuerteventura lanzarote operar normalidad absoluto",
+        "persons": [
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea",
+            "Europa_Press",
+            "Tenerife_Norte",
+            "Tenerife_Norte"
+        ],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "La_Palma",
+            "Munich",
+            "La_Gomera",
+            "El_Hierro",
+            "Tenerife",
+            "Norte",
+            "Las_Palmas",
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "AENA",
+            "Gran_Canaria",
+            "Alemania",
+            "Stuttgart",
+            "Sur",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "15",
+            "12",
+            "2",
+            "2",
+            "2"
+        ]
+    }
+}

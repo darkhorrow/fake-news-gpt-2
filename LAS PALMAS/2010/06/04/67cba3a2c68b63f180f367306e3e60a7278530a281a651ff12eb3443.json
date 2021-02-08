@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/728034/0/",
+    "title": {
+        "raw_text": "Fallece un anciano de 70 años mientras caminaba en la Punta de Gáldar, al norte de Gran Canaria",
+        "lemmatized_text": "fallecer uno anciano de 70 año mientras caminar en el punta_de_gáldar a el norte de gran_canaria",
+        "lemmatized_text_reduced": "fallecer anciano año caminar punta_de_gáldar norte gran_canaria",
+        "persons": [],
+        "locations": [
+            "Punta_de_Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un anciano de 70 años de edad ha fallecido hoy tras sufrir una parada cardiorrespiratoria mientras caminaba por la vía pública en la Punta de Gáldar, en el municipio galdense, al norte de Gran Canaria, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno anciano de 70 año de edad haber fallecer hoy tras sufrir uno parada cardiorrespiratoria mientras caminar por el vía público en el punta_de_gáldar en el municipio galdense a el norte de gran_canaria según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "anciano año edad haber fallecer sufrir parada cardiorrespiratoria caminar vía público punta_de_gáldar municipio galdense norte gran_canaria informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Punta_de_Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "70",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 18.13 horas, cuando un alertante avisó al Cecoes del incidente a la altura del circuito de motocross, por lo que el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazaron una ambulancia sanitarizada y otra avanzada del Servicio de Urgencias Canario (SUC), así como médicos y enfermeros del centro de salud local en ambulancia básica del SUC. El personal médico practicó maniobras de reanimación cardiopulmonar al afectado, aunque finalmente sólo pudo comprobar su fallecimiento. En dicha actuación intervino la Guardia Civil, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:18.13 cuando uno alertante avisar a el cecoes de el incidente a el altura de el circuito de motocross por el que el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar uno ambulancia sanitarizada y otro avanzar de el servicio_de_urgencias_canario suc así_como médico y enfermero de el centro de salud local en ambulancia básico de el suc el personal médico practicar maniobra de reanimación cardiopulmonar a el afectar aunque finalmente sólo poder comprobar su fallecimiento en decir actuación intervenir el guardia_civil que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir alertante avisar cecoes incidente altura circuito motocross activar inmediato dispositivo emergencia necesario lugar desplazar ambulancia sanitarizada avanzar servicio_de_urgencias_canario suc médico enfermero centro salud local ambulancia básico suc personal médico practicar maniobra reanimación cardiopulmonar afectar finalmente poder comprobar fallecimiento decir actuación intervenir guardia_civil encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:18.13",
+            "112"
+        ]
+    }
+}

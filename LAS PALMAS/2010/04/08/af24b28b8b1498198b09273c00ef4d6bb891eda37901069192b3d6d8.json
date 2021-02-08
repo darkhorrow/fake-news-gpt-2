@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/672004/0/",
+    "title": {
+        "raw_text": "El consumidor canario paga por los productos agrícolas y ganaderos casi 3 veces más de lo que recibe el agricultor",
+        "lemmatized_text": "el consumidor canario pagar por el producto agrícola y ganadero casi 3 vez más de el que recibir el agricultor",
+        "lemmatized_text_reduced": "consumidor canario pagar producto agrícola ganadero vez recibir agricultor",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Índice de Precios Origen-Destino (IPOD) --que mide el diferencial entre lo que pagan los consumidores y lo que reciben los agricultores y ganaderos por sus productos-- ha aumentado en la Comunidad Autónoma de Canarias 10 céntimos el kilogramo en el último mes, pasado de los 2,79 euros/kilogramo en febrero a los 2,89 del mes de marzo, casi tres veces más, según datos facilitados por COAG-Canarias, recogidos por Europa Press.",
+        "lemmatized_text": "el índice_de_precios_origen-destino ipod que medir el diferencial entre el que pagar el consumidor y el que recibir el agricultor y ganadero por su producto haber aumentar en el comunidad_autónoma_de_canarias 10 céntimo el kilogramo en el último mes pasar de el $_ECU:2,79 kilogramo en [??:??/2/??:??.??:??] a el 2,89 de el [??:??/3/??:??.??:??] casi 3 vez más según dato facilitar por coag-canarias recoger por europa_press",
+        "lemmatized_text_reduced": "índice_de_precios_origen-destino ipod medir diferencial pagar consumidor recibir agricultor ganadero producto haber aumentar comunidad_autónoma_de_canarias céntimo kilogramo último mes pasar kilogramo vez dato facilitar coag-canarias recoger europa_press",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Índice_de_Precios_Origen-Destino",
+            "IPOD",
+            "COAG-Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/2/??:??.??:??]",
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "$_ECU:2,79",
+            "2,89",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Por tipo de productos, en los agrícolas, el consumidor paga 3,14 veces más de lo que recibe el agricultor, mientras que en los ganaderos el precio de origen se multiplica por 2,26 en los supermercados. En cuanto a productos, el diferencial más abultado corresponde al repollo, por el que los agricultores reciben 0,13 euros/kg., mientras que los consumidores pagan una media de 1,22 euros/kg. (9,38 de diferencial). Para COAG, otro desequilibrio \"evidente\" se produce en el caso de la berenjena (para la que el precio en destino es 6,88 veces es de origen, con un pago al productor de 0,51 euros/kg. y un precio final de 3,51 euros/Kg). \"Este mes supone un claro empeoramiento de la situación con respecto a febrero (en ese mes, el productor recibió 0,64 euros/kg. por su producto, y el consumidor pagó 1,90 euros/kg.)\", señaló la Coordinadora. Finalmente, reseñaron que en el ámbito de la ganadería, el diferencial más destacable corresponde a la carne de cerdo, en la que el productor ha recibido de media 1,98 euros/kg., pagando el consumidor por ella 4,09 euros/kg. \"Esto —añadieron— supone que el precio al consumidor multiplica por 4,09 el precio recibido por el ganadero\".",
+        "lemmatized_text": "por tipo de producto en el agrícola el consumidor pagar 3,14 vez más de el que recibir el agricultor mientras_que en el ganadero el precio de origen se multiplicar por 2,26 en el supermercado en_cuanto_a producto el diferencial más abultar corresponder a el repollo por el que el agricultor recibir $_ECU:0,13 kilogramo mientras_que el consumidor pagar uno medio de $_ECU:1,22 kilogramo 9,38 de diferencial para coag otro desequilibrio evidente se producir en el caso de el berenjena para el que el precio en destino ser 6,88 vez ser de origen con uno pago a el productor de $_ECU:0,51 kilogramo y uno precio final de $_ECU:3,51 kg este mes suponer uno claro empeoramiento de el situación con_respecto_a [??:??/2/??:??.??:??] en ese mes el productor recibir $_ECU:0,64 kilogramo por su producto y el consumidor pagar $_ECU:1,90 kilogramo señalar el coordinadora finalmente reseñar que en el ámbito de el ganadería el diferencial más destacable corresponder a el carne de cerdo en el que el productor haber recibir de medio $_ECU:1,98 kilogramo pagar el consumidor por él $_ECU:4,09 kilogramo este añadir suponer que el precio a el consumidor multiplicar por 4,09 el precio recibir por el ganadero",
+        "lemmatized_text_reduced": "tipo producto agrícola consumidor pagar vez recibir agricultor ganadero precio origen multiplicar supermercado producto diferencial abultar corresponder repollo agricultor recibir kilogramo consumidor pagar medio kilogramo diferencial coag desequilibrio evidente producir caso berenjena precio destino ser vez ser origen pago productor kilogramo precio final kg mes suponer claro empeoramiento situación mes productor recibir kilogramo producto consumidor pagar kilogramo señalar coordinadora finalmente reseñar ámbito ganadería diferencial destacable corresponder carne cerdo productor haber recibir medio kilogramo pagar consumidor kilogramo añadir suponer precio consumidor multiplicar precio recibir ganadero",
+        "persons": [],
+        "locations": [
+            "Kg"
+        ],
+        "organizations": [
+            "COAG",
+            "Coordinadora"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "3,14",
+            "2,26",
+            "$_ECU:0,13",
+            "$_ECU:1,22",
+            "9,38",
+            "6,88",
+            "$_ECU:0,51",
+            "$_ECU:3,51",
+            "$_ECU:0,64",
+            "$_ECU:1,90",
+            "$_ECU:1,98",
+            "$_ECU:4,09",
+            "4,09"
+        ]
+    }
+}

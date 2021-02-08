@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/338779/0/danos/temporal/el/",
+    "title": {
+        "raw_text": "Se estima que el temporal dejó pérdidas por 5 millones de euros en El Hierro",
+        "lemmatized_text": "se estimar que el temporal dejar pérdida por $_ECU:5000000 en el_hierro",
+        "lemmatized_text_reduced": "estimar temporal dejar pérdida el_hierro",
+        "persons": [],
+        "locations": [
+            "El_Hierro"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:5000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El sector agrícola es el más afectado. Ya finalizó el estado de emergencia. CONSULTA AQUÍ MAS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el sector agrícola ser el más afectar ya finalizar el estado de emergencia consulta_aquí_mas_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "sector agrícola ser afectar finalizar estado emergencia consulta_aquí_mas_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MAS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Tomás Padrón, presidente del Cabildo de El Hierro, ha estimado que los daños económicos en el sector agrícola de la isla tras el paso del fuerte temporal de viento y calima que ha afectado a la isla desde el pasado domingo, puede estar por los 5 millones de euros . Aunque matizó que se trata de una estimación que necesita precisarse con los informes definitivos que aporten los técnicos de su departamento de Agricultura, Ganadería y Pesca. Pérdidas sin cuantificar Así se lo dio a conocer Padrón al presidente del Gobierno de Canarias, Paulino Rivero durante el transcurso de la visita que este realizó a las zonas más dañadas por el temporal. El presidente herreño informó que la superficie cultivada afectada en el Valle del Golfo es de 170 hectáreas que en su mayoría produce piña tropical, plátano y frutales como mango, papaya y cítricos. La institución aún no ha podido valorar el resto de los daños que han afectado al mobiliario urbano, al Hotel Balneario Pozo de la Salud, el Ecomuseo de Guinea, a la Residencia de Ancianos de Frontera, entre otros. Anunció también que ya están abiertas al tráfico las vías que se habían cerrado a causa de los desprendimientos de piedras y que los datos meteorológicos indican una bajada continua de la intensidad del viento en la isla. Peticiones razonables El Cabildo también ha solicitado al Gobierno que la isla cuente con un grupo electrógeno móvil, valorado en 3 millones de euros y con una potencia 3MW, para que El Hierro pueda afrontar situaciones de emergencia y averías como las producidas a causa de este temporal sin depender de medios externos, una petición que Paulino Rivero consideró razonable y que se comprometió a resolver. El dispositivo de Emergencias del Cabildo de El Hierro ya ha decretado la finalización del estado de emergencia en la isla . CONSULTA AQUÍ MAS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "tomás_padrón presidente de el cabildo_de_el_hierro haber estimar que el daño económico en el sector agrícola de el isla tras el paso de el fuerte temporal de viento y calima que haber afectar a el isla desde el [G:??/??/??:??.??:??] poder estar por el $_ECU:5000000 aunque matizar que se tratar de uno estimación que necesitar precisar se con el informe definitivo que aportar el técnico de su departamento de agricultura ganadería y pesca pérdidas sin cuantificar así se lo dar_a_conocer padrón a el presidente de el gobierno_de_canarias paulino_rivero durante el transcurso de el visita que este realizar a el zona más dañar por el temporal el presidente herreño informar que el superficie cultivar afectar en el valle_del_golfo ser de AR_hA:170 que en su mayoría producir piña tropical plátano y frutal como mango papaya y cítrico el institución aun no haber poder valorar el resto de el daño que haber afectar a el mobiliario urbano a el hotel_balneario_pozo_de_la_salud el ecomuseo_de_guinea a el residencia_de_ancianos_de_frontera entre otro anunciar también que ya estar abrir a el tráfico el vía que se haber cerrar a_causa_de el desprendimiento de piedra y que el dato meteorológico indicar uno bajada continuo de el intensidad de el viento en el isla petición razonable el_cabildo también haber solicitar a el gobierno que el isla contar con uno grupo electrógeno móvil valorar en $_ECU:3000000 y con uno potencia 3MW para que el_hierro poder afrontar situación de emergencia y avería como el producir a_causa_de este temporal sin depender de medio externo uno petición que paulino_rivero considerar razonable y que se comprometer a resolver el dispositivo de emergencias_del_cabildo_de_el_hierro ya haber decretar el finalización de el estado de emergencia en el isla consulta_aquí_mas_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "tomás_padrón presidente cabildo_de_el_hierro haber estimar daño económico sector agrícola isla paso fuerte temporal viento calima haber afectar isla poder estar matizar tratar estimación necesitar precisar informe definitivo aportar técnico departamento agricultura ganadería pesca pérdidas cuantificar así dar_a_conocer padrón presidente gobierno_de_canarias paulino_rivero transcurso visita realizar zona dañar temporal presidente herreño informar superficie cultivar afectar valle_del_golfo ser mayoría producir piña tropical plátano frutal mango papaya cítrico institución haber poder valorar resto daño haber afectar mobiliario urbano hotel_balneario_pozo_de_la_salud ecomuseo_de_guinea residencia_de_ancianos_de_frontera anunciar estar abrir tráfico vía haber cerrar desprendimiento piedra dato meteorológico indicar bajada continuo intensidad viento isla petición razonable el_cabildo haber solicitar gobierno isla contar grupo electrógeno móvil valorar potencia el_hierro poder afrontar situación emergencia avería producir temporal depender medio externo petición paulino_rivero considerar razonable comprometer resolver dispositivo emergencias_del_cabildo_de_el_hierro haber decretar finalización estado emergencia isla consulta_aquí_mas_noticias_de_las_palmas",
+        "persons": [
+            "Tomás_Padrón",
+            "Pesca",
+            "Pérdidas",
+            "Paulino_Rivero",
+            "Paulino_Rivero",
+            "Emergencias_del_Cabildo_de_El_Hierro"
+        ],
+        "locations": [
+            "Ganadería",
+            "Padrón",
+            "Valle_del_Golfo",
+            "Residencia_de_Ancianos_de_Frontera"
+        ],
+        "organizations": [
+            "Cabildo_de_El_Hierro",
+            "Así",
+            "Gobierno_de_Canarias",
+            "Hotel_Balneario_Pozo_de_la_Salud",
+            "Ecomuseo_de_Guinea",
+            "El_Cabildo",
+            "Gobierno",
+            "El_Hierro",
+            "CONSULTA_AQUÍ_MAS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Agricultura"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:5000000",
+            "AR_hA:170",
+            "$_ECU:3000000",
+            "3MW"
+        ]
+    }
+}

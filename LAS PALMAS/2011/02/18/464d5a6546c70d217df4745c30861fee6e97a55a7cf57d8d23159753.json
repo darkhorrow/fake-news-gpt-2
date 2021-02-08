@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/963656/0/",
+    "title": {
+        "raw_text": "Una colisión entre dos turismos en Gran Canaria se salda con un herido leve y causa retenciones",
+        "lemmatized_text": "uno colisión entre 2 turismo en gran_canaria se saldar con uno herir leve y causa retención",
+        "lemmatized_text_reduced": "colisión turismo gran_canaria saldar herir leve causa retención",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una colisión entre dos turismos en la isla de Gran Canaria se ha saldado este viernes con un herido leve que sufrió cervicalgia, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno colisión entre 2 turismo en el isla de gran_canaria se haber saldar este [V:??/??/??:??.??:??] con uno herido leve que sufrir cervicalgia según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "colisión turismo isla gran_canaria haber saldar herido leve sufrir cervicalgia informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una colisión entre dos turismos en la isla de Gran Canaria se ha saldado este viernes con un herido leve que sufrió cervicalgia, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo a las 07.55 horas en la vía GC-1, en dirección Sur, a la altura de Jinamar, en Las Palmas de Gran Canaria. La colisión provocó algunas retenciones en la zona. Por otra parte, a primera hora de este viernes, a las 07.37 horas, en la isla de Lanzarote, se produjo un vuelco de un turismo y en el mismo resultó herido de levedad un hombre que sufrió traumatismos en hombro y cabeza. El vuelco se produjo a las 07.37 horas, en la vía LZ-313 que une Playa Honda con San Bartolomé. El herido se trasladó al Hospital Dr. José Molina Orosa.",
+        "lemmatized_text": "uno colisión entre 2 turismo en el isla de gran_canaria se haber saldar este [V:??/??/??:??.??:??] con uno herido leve que sufrir cervicalgia según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir a el TM_h:7.55 en el vía GC-1 en dirección sur a el altura de jinamar en las_palmas_de_gran_canaria el colisión provocar alguno retención en el zona por otro parte a 1 hora de este [V:??/??/??:??.??:??] a el TM_h:7.37 en el isla de lanzarote se producir uno vuelco de uno turismo y en el mismo resultar herir de levedad uno hombre que sufrir traumatismo en hombro y cabeza el vuelco se producir a el TM_h:7.37 en el vía LZ-313 que unir playa_honda con san_bartolomé el herir se trasladar a el hospital_dr._josé_molina_orosa",
+        "lemmatized_text_reduced": "colisión turismo isla gran_canaria haber saldar herido leve sufrir cervicalgia informar centro_coordinador_de_emergencias seguridad incidente producir vía dirección sur altura jinamar las_palmas_de_gran_canaria colisión provocar retención zona parte 1 hora isla lanzarote producir vuelco turismo mismo resultar herir levedad hombre sufrir traumatismo hombro cabeza vuelco producir vía unir playa_honda san_bartolomé herir trasladar hospital_dr._josé_molina_orosa",
+        "persons": [
+            "Playa_Honda"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Jinamar",
+            "Las_Palmas_de_Gran_Canaria",
+            "Lanzarote",
+            "San_Bartolomé"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Sur"
+        ],
+        "others": [
+            "Seguridad",
+            "Hospital_Dr._José_Molina_Orosa"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112",
+            "TM_h:7.55",
+            "GC-1",
+            "TM_h:7.37",
+            "TM_h:7.37",
+            "LZ-313"
+        ]
+    }
+}

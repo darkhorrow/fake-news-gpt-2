@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/370618/0/corrupcion/mogan/",
+    "title": {
+        "raw_text": "Investigan a cargos del PP por delitos urbanísticos, electorales y mediambientales",
+        "lemmatized_text": "investigar a cargo de el pp por delito urbanístico electoral y mediambientales",
+        "lemmatized_text_reduced": "investigar cargo pp delito urbanístico electoral mediambientales",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "En Mogán, municipio canario de 18.000 habitantes. El ayuntamiento está gobernado por el PP. Pinchazos telefónicos destapan el caso.",
+        "lemmatized_text": "en mogán municipio canario de 18 habitante el ayuntamiento estar gobernar por el pp._pinchazos telefónico destapar el caso",
+        "lemmatized_text_reduced": "mogán municipio canario habitante ayuntamiento estar gobernar pp._pinchazos telefónico destapar caso",
+        "persons": [],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [
+            "PP._Pinchazos"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "18"
+        ]
+    },
+    "body": {
+        "raw_text": "\"¿A cuánto está el voto?\". \"A 20 ó 30 euros\". Ésta es una de las conversaciones grabadas que evidenciarían un caso de corrupción en el ayuntamiento de Mogán (municipio canario de 18.000 habitantes) gobernado por el PP, según publica hoy el diario El País . El contenido de las grabaciones aparece en el sumario de la investigación contra cargos del PP de esta localidad. Su alcalde, Francisco González , sigue en su cargo pese a estar imputado y tener en contra pruebas de varios delitos. En unas de las grabaciones, que recoge el diario antes mencionado, aparecen el alcalde y su concejal Onalia Nieto. En una de ellas el alcalde acuerda con ella crear una sociedad a nombre del padre de Onalia . Del trato de favor a los vertidos ilegales El rotativo divide las grabaciones por temas; corrupción económica, trato de favor, sanciones paralizadas, multas de tráfico quitadas con sólo una llamada, fraude electoral y vertidos ilegales. En cuanto al fraude electoral, Onalia insta a una funcionaria a un empadronamiento masivo para ganar votos . El fraude consiste en alojar y empadronar a gente de fuera durante un fin de semana para votar al PP, y pagarles. El perfil del votante: personas necesitadas e inmigrantes.",
+        "lemmatized_text": "a cuánto estar el voto a 20 ó $_ECU:30 este ser uno de el conversación grabar que evidenciar uno caso de corrupción en el ayuntamiento de mogán municipio canario de 18 habitante gobernar por el pp según publicar hoy el diario el_país el contenido de el grabación aparecer en el sumario de el investigación contra cargo de el pp de este localidad su alcalde francisco_gonzález seguir en su cargo pese_a estar imputar y tener en contra prueba de varios delito en uno de el grabación que recoger el diario antes mencionar aparecer el alcalde y su concejal onalia_nieto en uno de ellos el alcalde acordar con él crear uno sociedad a nombre de el padre de onalia de el trato de favor a el vertido ilegal el rotativo dividir el grabación por tema corrupción económico trato de favor sanción paralizar multa de tráfico quitar con sólo uno llamada fraude electoral y vertido ilegal en cuanto a el fraude electoral onalia instar a uno funcionario a uno empadronamiento masivo para ganar voto el fraude consistir en alojar y empadronar a gente de fuera durante uno fin de semana para votar a el pp y pagar le el perfil de el votante persona necesitar y inmigrante",
+        "lemmatized_text_reduced": "estar voto ser conversación grabar evidenciar caso corrupción ayuntamiento mogán municipio canario habitante gobernar pp publicar diario el_país contenido grabación aparecer sumario investigación cargo pp localidad alcalde francisco_gonzález seguir cargo estar imputar tener prueba delito grabación recoger diario mencionar aparecer alcalde concejal onalia_nieto alcalde acordar crear sociedad nombre padre onalia trato favor vertido ilegal el rotativo dividir grabación tema corrupción económico trato favor sanción paralizar multa tráfico quitar llamada fraude electoral vertido ilegal fraude electoral onalia instar funcionario empadronamiento masivo ganar voto fraude consistir alojar empadronar gente fin semana votar pp pagar perfil votante persona necesitar inmigrante",
+        "persons": [
+            "Francisco_González",
+            "Onalia_Nieto",
+            "El",
+            "Onalia"
+        ],
+        "locations": [
+            "Mogán",
+            "Onalia"
+        ],
+        "organizations": [
+            "PP",
+            "El_País",
+            "PP",
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20",
+            "$_ECU:30",
+            "18"
+        ]
+    }
+}

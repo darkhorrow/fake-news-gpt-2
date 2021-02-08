@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593967/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria destina 120.000 euros a mejorar las infraestructuras y servicios del taxi en la isla",
+        "lemmatized_text": "el cabildo_de_gran_canaria destinar $_ECU:120 a mejorar el infraestructura y servicio de el taxi en el isla",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria destinar mejorar infraestructura servicio taxi isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:120"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Dirección de Transportes de la Consejería de Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes del Cabildo de Gran Canaria ha aprobado una partida de 120.000 euros para mejorar las infraestructuras y servicios del transporte discrecional del taxi en la isla.",
+        "lemmatized_text": "el dirección_de_transportes_de_la_consejería_de_desarrollo_económico obras_públicas y infraestructuras y transportes_del_cabildo_de_gran_canaria haber aprobar uno partida de $_ECU:120 para mejorar el infraestructura y servicio de el transporte discrecional de el taxi en el isla",
+        "lemmatized_text_reduced": "dirección_de_transportes_de_la_consejería_de_desarrollo_económico obras_públicas infraestructuras transportes_del_cabildo_de_gran_canaria haber aprobar partida mejorar infraestructura servicio transporte discrecional taxi isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Dirección_de_Transportes_de_la_Consejería_de_Desarrollo_Económico",
+            "Obras_Públicas",
+            "Transportes_del_Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Infraestructuras"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:120"
+        ]
+    },
+    "body": {
+        "raw_text": "El objetivo de esta subvención, que está destinada a los ayuntamientos de la isla, es que las paradas de taxis de los municipios cuenten con la imagen y el servicio más adecuado para los ciudadanos y visitantes de Gran Canaria, según informó el Cabildo en nota de prensa. Asimismo, con esta medida se pretende dotar a los municipios de paradas de taxi más apropiadas para prestar un servicio de mayor calidad y homogeneidad, procurando una visión insular en algunos aspectos del servicio para fomentar su uso como un mecanismo eficaz, seguro y rápido de transporte público. La subvención puede solicitarse desde hoy y en un periodo de 15 días en las dependencias de la Dirección de Transportes, en Tomás Morales, 3, tercera planta. Pueden alcanzar hasta el 100 por ciento del proyecto presentado sin que pueda superarse el número de tres proyectos por municipio en el caso de los que tengan una subvención superior a 50.000 habitantes o con de elevado interés turístico (Mogán, San Bartolomé de Tirajana, Las Palmas de Gran Canaria y Telde). Y la cuantía máxima de subvención por cada una de las actuaciones, no podrá superar la cantidad de 6.000 euros.",
+        "lemmatized_text": "el objetivo de este subvención que estar destinar a el ayuntamiento de el isla ser que el parada de taxi de el municipio contar con el imagen y el servicio más adecuar para el ciudadano y visitante de gran_canaria según informar el cabildo en nota de prensa asimismo con este medida se pretender dotar a el municipio de parada de taxi más apropiar para prestar uno servicio de mayor calidad y homogeneidad procurar uno visión insular en alguno aspecto de el servicio para fomentar su uso como uno mecanismo eficaz seguro y rápido de transporte público el subvención poder solicitar se desde hoy y en uno periodo de TM_d:15 en el dependencia de el dirección_de_transportes en tomás_morales 3 3 planta poder alcanzar hasta el 100 por 100 de el proyecto presentar sin que poder superar se el número de 3 proyecto por municipio en el caso de el que tener uno subvención superior a 50 habitante o con de elevar interés turístico mogán san_bartolomé_de_tirajana las_palmas_de_gran_canaria y telde y el cuantía máximo de subvención por cada uno de el actuación no poder superar el cantidad de $_ECU:6",
+        "lemmatized_text_reduced": "objetivo subvención estar destinar ayuntamiento isla ser parada taxi municipio contar imagen servicio adecuar ciudadano visitante gran_canaria informar cabildo nota prensa medida pretender dotar municipio parada taxi apropiar prestar servicio mayor calidad homogeneidad procurar visión insular aspecto servicio fomentar uso mecanismo eficaz seguro rápido transporte público subvención poder solicitar periodo dependencia dirección_de_transportes tomás_morales 3 planta poder alcanzar proyecto presentar poder superar número proyecto municipio caso tener subvención superior habitante elevar interés turístico mogán san_bartolomé_de_tirajana las_palmas_de_gran_canaria telde cuantía máximo subvención actuación poder superar cantidad",
+        "persons": [],
+        "locations": [
+            "Tomás_Morales"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Dirección_de_Transportes",
+            "Mogán",
+            "San_Bartolomé_de_Tirajana",
+            "Las_Palmas_de_Gran_Canaria",
+            "Telde"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_d:15",
+            "3",
+            "100",
+            "100",
+            "3",
+            "50",
+            "$_ECU:6"
+        ]
+    }
+}

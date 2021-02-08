@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/611073/0/",
+    "title": {
+        "raw_text": "La activista saharaui Aminetu Haidar volará hacia Madrid a las 19.25 horas",
+        "lemmatized_text": "el activista saharaui aminetu_haidar volar hacia madrid a el TM_h:19.25",
+        "lemmatized_text_reduced": "activista saharaui aminetu_haidar volar madrid",
+        "persons": [],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Aminetu_Haidar"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:19.25"
+        ]
+    },
+    "lead": {
+        "raw_text": "La activista Aminetu Haidar, que estuvo más de 30 días en huelga de hambre en el aeropuerto de Lanzarote para exigir su regreso al Sáhara Occidental, viajará en un vuelo que saldrá desde el aeródromo de Gran Canaria a las 19.25 horas hacia Madrid para asistir a una revisión médica en los próximos días.",
+        "lemmatized_text": "el activista aminetu_haidar que estar más de TM_d:30 en huelga de hambre en el aeropuerto de lanzarote para exigir su regreso a el sáhara_occidental viajar en uno vuelo que salir desde el aeródromo de gran_canaria a el TM_h:19.25 hacia madrid para asistir a uno revisión médico en el próximo día",
+        "lemmatized_text_reduced": "activista aminetu_haidar estar huelga hambre aeropuerto lanzarote exigir regreso sáhara_occidental viajar vuelo salir aeródromo gran_canaria madrid asistir revisión médico próximo día",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Sáhara_Occidental",
+            "Madrid"
+        ],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_d:30",
+            "TM_h:19.25"
+        ]
+    },
+    "body": {
+        "raw_text": "Haidar llegó ayer a Gran Canaria donde se ha alojado en casa de unos amigos, y esta tarde partirá desde el aeropuerto de esta isla a Madrid, según informaron a Europa Press fuentes cercanas a la activista. La conocida como 'Ghandi saharaui' no tuvo problemas para salir del país y viajar ayer hasta Gran Canaria. En Madrid, la activista se someterá a una revisión médica rutinaria con el objetivo de evaluar su recuperación tras la huelga de hambre de 32 días que realizó en Lanzarote. Esta revisión, según fuentes consultadas por Europa Press, se prevé que tenga lugar en el Hospital de La Paz, en Madrid. Asimismo, Haidar se alojará mientras esté en la capital española en casa de un amigo. Haidar ya presentaba problemas de salud antes de esta última huelga de hambre, por lo que sus médicos le recomendaron un chequeo rutinario para revisar su evolución. Además, la activista saharaui aprovechará su estancia en España para renovar su tarjeta de residencia, que caduca este mes.",
+        "lemmatized_text": "haidar llegar ayer a gran_canaria donde se haber alojar en casa de uno amigo y este tarde partir desde el aeropuerto de este isla a madrid según informar a europa_press fuente cercano a el activista el conocer como ghandi saharaui no tener problema para salir de el país y viajar ayer hasta gran_canaria en madrid el activista se someter a uno revisión médico rutinario con el objetivo de evaluar su recuperación tras el huelga de hambre de TM_d:32 que realizar en lanzarote este revisión según fuente consultar por europa_press se prever que tener_lugar en el hospital_de_la_paz en madrid asimismo haidar se alojar mientras estar en el capital español en casa de uno amigo haidar ya presentar problema de salud antes_de este último huelga de hambre por el que su médico le recomendar uno chequeo rutinario para revisar su evolución además el activista saharaui aprovechar su estancia en españa para renovar su tarjeta de residencia que caducar este mes",
+        "lemmatized_text_reduced": "haidar llegar gran_canaria haber alojar casa amigo tarde partir aeropuerto isla madrid informar europa_press fuente cercano activista conocer ghandi saharaui tener problema salir país viajar gran_canaria madrid activista someter revisión médico rutinario objetivo evaluar recuperación huelga hambre realizar lanzarote revisión fuente consultar europa_press prever tener_lugar hospital_de_la_paz madrid haidar alojar estar capital español casa amigo haidar presentar problema salud último huelga hambre médico recomendar chequeo rutinario revisar evolución activista saharaui aprovechar estancia españa renovar tarjeta residencia caducar mes",
+        "persons": [
+            "Haidar",
+            "Europa_Press",
+            "Ghandi",
+            "Haidar",
+            "Haidar"
+        ],
+        "locations": [
+            "Madrid",
+            "Madrid",
+            "Lanzarote",
+            "Hospital_de_La_Paz",
+            "Madrid",
+            "España"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:32"
+        ]
+    }
+}

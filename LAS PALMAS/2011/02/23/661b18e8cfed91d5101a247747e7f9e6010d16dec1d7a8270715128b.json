@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/969005/0/",
+    "title": {
+        "raw_text": "Detenido en Fuerteventura cuando transportaba una planta de marihuana de 1 metro de altura en su vehículo",
+        "lemmatized_text": "detener en fuerteventura cuando transportar uno planta de marihuana de LN_m:1 de altura en su vehículo",
+        "lemmatized_text_reduced": "detener fuerteventura transportar planta marihuana altura vehículo",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:1"
+        ]
+    },
+    "lead": {
+        "raw_text": "Guardias Civiles pertenecientes a la Patrulla Fiscal Territorial de Puerto del Rosario (Fuertevnetura) procedieron a la detención de un hombre tras percatarse durante un punto de verificación de vehículos y personas de que transportaba en su coche un planta de marihuana de aproximadamente un metro de altura.",
+        "lemmatized_text": "guardias_civiles perteneciente a el patrulla_fiscal_territorial_de_puerto_del_rosario fuertevnetura proceder a el detención de uno hombre tras percatar se durante uno punto de verificación de vehículo y persona de que transportar en su coche uno planta de marihuana de aproximadamente uno metro de altura",
+        "lemmatized_text_reduced": "guardias_civiles perteneciente patrulla_fiscal_territorial_de_puerto_del_rosario fuertevnetura proceder detención hombre percatar punto verificación vehículo persona transportar coche planta marihuana aproximadamente metro altura",
+        "persons": [
+            "Guardias_Civiles"
+        ],
+        "locations": [
+            "Patrulla_Fiscal_Territorial_de_Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuertevnetura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Guardias Civiles pertenecientes a la Patrulla Fiscal Territorial de Puerto del Rosario (Fuertevnetura) procedieron a la detención de un hombre tras percatarse durante un punto de verificación de vehículos y personas de que transportaba en su coche un planta de marihuana de aproximadamente un metro de altura. Según informó la Benemérita en un comunicado, a raíz de este servicio se inició una investigación para localizar la procedencia de dicha planta, dando como resultado que la misma procedía de una plantación existente en el domicilio de la persona identificada en el referido punto de verificación. Así, los agentes se trasladaron a dicho domicilio de la localidad de La Oliva y observaron siete plantas más de marihuana con sistemas de riego y luz propia. Acto seguido se procedió a la aprehensión de estas plantas con un peso total aproximado de 710 gramos. Por tales hechos fue detenido F.F. por un supuesto delito de contra la salud pública. Finalmente, el detenido, junto a las diligencias realizadas por la Guardia Civil, pasó a disposición de los Juzgados de Puerto del Rosario.",
+        "lemmatized_text": "guardias_civiles perteneciente a el patrulla_fiscal_territorial_de_puerto_del_rosario fuertevnetura proceder a el detención de uno hombre tras percatar se durante uno punto de verificación de vehículo y persona de que transportar en su coche uno planta de marihuana de aproximadamente uno metro de altura según informar el benemérita en uno comunicado a_raíz_de este servicio se iniciar uno investigación para localizar el procedencia de decir planta dar como resultado que el mismo proceder de uno plantación existente en el domicilio de el persona identificar en el referir punto de verificación así el agente se trasladar a decir domicilio de el localidad de la_oliva y observar 7 planta más de marihuana con sistema de riego y luz propio acto seguir se proceder a el aprehensión de este planta con uno peso total aproximar de WG_g:710 por tal hecho ser detener f.f. por uno suponer delito de contra el salud público finalmente el detener junto_a el diligencia realizar por el guardia_civil pasar a disposición de el juzgados_de_puerto_del_rosario",
+        "lemmatized_text_reduced": "guardias_civiles perteneciente patrulla_fiscal_territorial_de_puerto_del_rosario fuertevnetura proceder detención hombre percatar punto verificación vehículo persona transportar coche planta marihuana aproximadamente metro altura informar benemérita comunicado servicio iniciar investigación localizar procedencia decir planta dar resultado mismo proceder plantación existente domicilio persona identificar referir punto verificación agente trasladar decir domicilio localidad la_oliva observar planta marihuana sistema riego luz propio acto seguir proceder aprehensión planta peso total aproximar hecho ser detener f.f. suponer delito salud público finalmente detener diligencia realizar guardia_civil pasar disposición juzgados_de_puerto_del_rosario",
+        "persons": [
+            "Guardias_Civiles"
+        ],
+        "locations": [
+            "Patrulla_Fiscal_Territorial_de_Puerto_del_Rosario",
+            "La_Oliva",
+            "Juzgados_de_Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuertevnetura",
+            "Benemérita",
+            "F.F.",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "WG_g:710"
+        ]
+    }
+}

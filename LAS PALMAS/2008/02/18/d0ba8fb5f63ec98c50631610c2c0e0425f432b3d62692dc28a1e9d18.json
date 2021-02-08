@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/350574/0/accidente/trafico/muertes/",
+    "title": {
+        "raw_text": "Muere un matrimonio y resultan heridos 5 miembros de una familia en un accidente",
+        "lemmatized_text": "morir uno matrimonio y resultar herir 5 miembro de uno familia en uno accidente",
+        "lemmatized_text_reduced": "morir matrimonio resultar herir miembro familia accidente",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los vehículos colisionaron frontalmente. Resultaron heridos tres niños de 3, 6 y 9 años, y sus padres. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el vehículo colisionar frontalmente resultar herir 3 niño de 3 6 y 9 año y su padre consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "vehículo colisionar frontalmente resultar herir niño año padre consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "3",
+            "6",
+            "9"
+        ]
+    },
+    "body": {
+        "raw_text": "Un matrimonio alemán , ambos de unos 80 años, falleció hoy en Lanzarote al colisionar frontalmente el vehículo en el que viajaban contra otro ocupado por una familia finlandesa , cuyos cinco miembros resultaron heridos de diversa consideración, informaron fuentes policiales. El suceso ocurrió poco antes del mediodía en la carretera que une Tegollo con La Geria, en el municipio de Tías, y, según una primera valoración del siniestro, el vehículo ocupado por el matrimonio fallecido se salió de la vía en una curva y al tratar de incorporarse al carril colisionó frontalmente con el otro turismo. Los tres menores, de 3, 6 y 9 años , sufrieron heridas de carácter menos grave, si bien el de en medio presenta el pronóstico más complicado con un traumatismo abdominal, al igual que la madre, quien está en estado grave, señalaron fuentes del Centro Coordinador de Emergencias y Seguridad del Gobierno canario. El padre de los niños y conductor del vehículo presentaba heridas de carácter leve y fue trasladado por miembros de Protección Civil al Hospital General de Lanzarote, donde quedó ingresada su familia. Los dos vehículos implicados en el accidente son dos turismos de alquiler, indicaron las fuentes policiales. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno matrimonio alemán ambos de uno 80 año fallecer hoy en lanzarote a el colisionar frontalmente el vehículo en el que viajar contra otro ocupar por uno familia finlandés cuyo 5 miembro resultar herir de diverso consideración informar fuente policial el suceso ocurrir poco antes de el [??:??/??/??:12.00:pm] en el carretera que unir tegollo con la_geria en el municipio de tías y según uno 1 valoración de el siniestro el vehículo ocupar por el matrimonio fallecer se salir de el vía en uno curva y a el tratar de incorporar se a el carril colisionar frontalmente con el otro turismo el 3 menor de 3 6 y 9 año sufrir herida de carácter menos grave si bien el de en medio presentar el pronóstico más complicar con uno traumatismo abdominal al_igual_que el madre quien estar en estado grave señalar fuente de el centro_coordinador_de_emergencias y seguridad_del_gobierno canario el padre de el niño y conductor de el vehículo presentar herir de carácter leve y ser trasladar por miembro de protección_civil a el hospital_general_de_lanzarote donde quedar ingresar su familia el 2 vehículo implicar en el accidente ser 2 turismo de alquiler indicar el fuente policial consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "matrimonio alemán año fallecer lanzarote colisionar frontalmente vehículo viajar ocupar familia finlandés miembro resultar herir consideración informar fuente policial suceso ocurrir carretera unir tegollo la_geria municipio tías 1 valoración siniestro vehículo ocupar matrimonio fallecer salir vía curva tratar incorporar carril colisionar frontalmente turismo menor año sufrir herida carácter grave medio presentar pronóstico complicar traumatismo abdominal madre estar estado grave señalar fuente centro_coordinador_de_emergencias seguridad_del_gobierno canario padre niño conductor vehículo presentar herir carácter leve ser trasladar miembro protección_civil hospital_general_de_lanzarote quedar ingresar familia vehículo implicar accidente ser turismo alquiler indicar fuente policial consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Tegollo",
+            "La_Geria",
+            "Tías"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Seguridad_del_Gobierno",
+            "Protección_Civil",
+            "Hospital_General_de_Lanzarote",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "80",
+            "5",
+            "3",
+            "3",
+            "6",
+            "9",
+            "2",
+            "2"
+        ]
+    }
+}

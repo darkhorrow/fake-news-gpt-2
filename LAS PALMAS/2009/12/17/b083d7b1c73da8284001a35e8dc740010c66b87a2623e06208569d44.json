@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590447/0/",
+    "title": {
+        "raw_text": "Los bomberos extinguen un incendio en un parking privado de Las Palmas de Gran Canaria",
+        "lemmatized_text": "el bombero extinguir uno incendio en uno parking privar de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "bombero extinguir incendio parking privar las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los Bomberos de Las Palmas de Gran Canaria han conseguido extinguir un incendio que se originó en un vehículo estacionado en un parking privado subterráneo ubicado en la Plaza doctor Rafael O'Shanahan de la capital grancanaria.",
+        "lemmatized_text": "el bomberos_de_las_palmas_de_gran_canaria haber conseguir extinguir uno incendio que se originar en uno vehículo estacionar en uno parking privar subterráneo ubicar en el plaza doctor rafael_o'shanahan de el capital grancanaria",
+        "lemmatized_text_reduced": "bomberos_de_las_palmas_de_gran_canaria haber conseguir extinguir incendio originar vehículo estacionar parking privar subterráneo ubicar plaza doctor rafael_o'shanahan capital grancanaria",
+        "persons": [
+            "Plaza",
+            "Rafael_O'Shanahan"
+        ],
+        "locations": [],
+        "organizations": [
+            "Bomberos_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El cuerpo de seguridad recibió la alerta del Centro Coordinador de Emergencias y Seguridad (Cecoes), 112, a las 10.25 horas indicando que se había generado un incendio en un mercedes situado en el citado aparcamiento, por lo que los efectivos se trasladaron al lugar de los hechos para comprobar los daños originados por el fuego. Dado que el incendio sólo afectó a un coche, los bomberos únicamente tuvieron que hacer uso del extintor de polvo propiedad del propio garaje, por lo que las llamas fueron sofocadas en poco más de una hora. Asimismo, los miembros del servicio de extinción de incendios aseguraron que no fue necesaria la evacuación del edificio, aunque sí tuvieron que impedir el acceso de los usuarios al interior del garaje por medidas de seguridad.",
+        "lemmatized_text": "el cuerpo de seguridad recibir el alerta de el centro_coordinador_de_emergencias y seguridad cecoes 112 a el TM_h:10.25 indicar que se haber generar uno incendio en uno merced situar en el citar aparcamiento por el que el efectivo se trasladar a el lugar de el hecho para comprobar el daño originar por el fuego dado_que el incendio sólo afectar a uno coche el bombero únicamente tener que hacer_uso de el extintor de polvo propiedad de el propio garaje por el que el llama ser sofocar en poco más de uno hora asimismo el miembro de el servicio de extinción de incendio asegurar que no ser necesario el evacuación de el edificio aunque sí tener que impedir el acceso de el usuario a el interior de el garaje por medida de seguridad",
+        "lemmatized_text_reduced": "cuerpo seguridad recibir alerta centro_coordinador_de_emergencias seguridad cecoes indicar haber generar incendio merced situar citar aparcamiento efectivo trasladar lugar hecho comprobar daño originar fuego incendio afectar coche bombero únicamente tener hacer_uso extintor polvo propiedad propio garaje llama ser sofocar hora miembro servicio extinción incendio asegurar ser necesario evacuación edificio tener impedir acceso usuario interior garaje medida seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "TM_h:10.25"
+        ]
+    }
+}

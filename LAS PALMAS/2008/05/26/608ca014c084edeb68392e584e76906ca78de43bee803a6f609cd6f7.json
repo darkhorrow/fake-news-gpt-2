@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/382461/0/ahogado/hotel/lanzarote/",
+    "title": {
+        "raw_text": "Un joven extranjero muere ahogado en la piscina de un hotel de Lanzarote",
+        "lemmatized_text": "uno joven extranjero morir ahogar en el piscina de uno hotel de lanzarote",
+        "lemmatized_text_reduced": "joven extranjero morir ahogar piscina hotel lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El fallecido es un joven extranjero de 19 años. El accidente ha ocurrido esta madrugada, en un complejo extrahotelero de Puerto del Carmen, en Tías. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el fallecer ser uno joven extranjero de 19 año el accidente haber ocurrir este madrugada en uno complejo extrahotelero de puerto_del_carmen en tías consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "fallecer ser joven extranjero año accidente haber ocurrir madrugada complejo extrahotelero puerto_del_carmen tías consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Carmen",
+            "Tías"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "19"
+        ]
+    },
+    "body": {
+        "raw_text": "Un joven extranjero de 19 años ha fallecido esta madrugada, a las 4.48 horas, en un complejo extrahotelero de Puerto del Carmen, en Tías (Lanzarote), tras ahogarse en una piscina, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. El 112 recibió una llamada a las 4.48 horas en la que se informaba de que se había rescatado del interior de una piscina a una persona con signos de ahogamiento y, en esos momentos, activó todas las alarmas. A la llegada de las ambulancias, el personal sanitario constata que el afectado se encuentra en situación de parada cardiorrespiratoria e inician de inmediato las maniobras de reanimación avanzada a las que no responde el afectado por lo que se determina su fallecimiento en el lugar. Al lugar del incidente se acercó una ambulancia de soporte vital avanzado y una de soporte vital básico del Servicio de Urgencias Canario (SUC), así como agentes de la Policía Local y de la Guardia Civil, quien instruirá las diligencias oportunas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno joven extranjero de 19 año haber fallecer este madrugada a el TM_h:4.48 en uno complejo extrahotelero de puerto_del_carmen en tías lanzarote tras ahogar se en uno piscina según informar fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 el 112 recibir uno llamada a el TM_h:4.48 en el que se informar de que se haber rescatar de el interior de uno piscina a uno persona con signo de ahogamiento y en ese momento activar todo el alarma a el llegada de el ambulancia el personal sanitario constatar que el afectar se encontrar en situación de parada cardiorrespiratoria y iniciar de inmediato el maniobra de reanimación avanzar a el que no responder el afectar por el que se determinar su fallecimiento en el lugar a el lugar de el incidente se acercar uno ambulancia de soporte vital avanzar y uno de soporte vital básico de el servicio_de_urgencias_canario suc así_como agente de el policía_local y de el guardia_civil quien instruir el diligencia oportuno consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "joven extranjero año haber fallecer madrugada complejo extrahotelero puerto_del_carmen tías lanzarote ahogar piscina informar fuente centro_coordinador_de_emergencias seguridad cecoes recibir llamada informar haber rescatar interior piscina persona signo ahogamiento momento activar alarma llegada ambulancia personal sanitario constatar afectar encontrar situación parada cardiorrespiratoria iniciar inmediato maniobra reanimación avanzar responder afectar determinar fallecimiento lugar lugar incidente acercar ambulancia soporte vital avanzar soporte vital básico servicio_de_urgencias_canario suc agente policía_local guardia_civil instruir diligencia oportuno consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Carmen",
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "19",
+            "TM_h:4.48",
+            "112",
+            "112",
+            "TM_h:4.48"
+        ]
+    }
+}

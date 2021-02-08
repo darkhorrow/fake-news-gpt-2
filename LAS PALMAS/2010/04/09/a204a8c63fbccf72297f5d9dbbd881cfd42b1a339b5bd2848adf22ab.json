@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/672568/0/",
+    "title": {
+        "raw_text": "Un herido grave durante una reyerta en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno herir grave durante uno reyerta en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "herir grave reyerta las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de 24 años ha resultado herido con un traumatismo craneal de carácter grave durante una reyerta que tuyo lugar sobre las 03.43 horas en la calle Secretario Artiles, dentro del término municipal de Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno varón de 24 año haber resultar herir con uno traumatismo craneal de carácter grave durante uno reyerta que tuyo lugar sobre el TM_h:3.43 en el calle secretario_artiles dentro de el término municipal de las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año haber resultar herir traumatismo craneal carácter grave reyerta tuyo lugar calle secretario_artiles término municipal las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Secretario_Artiles",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "24",
+            "TM_h:3.43",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, se recibió una llamada a la hora indicada informando de que se había producido una pelea entre varias personas y que una de ellas podría precisar de atención médica. En ese momento, el 112 activó su dispositivo de urgencias habitual y trasladó al lugar una ambulancia de soporte vital básico y otra de soporte vital avanzado del Servicio de Urgencias Canario. Al llegar, los médicos asistieron y estabilizaron a un joven de 24 años que presentó un traumatismo craneal de carácter grave, por lo que tuvo que ser trasladado en la ambulancia de soporte vital avanzado del SUC al Hospital Universitario de Gran Canaria Doctor Negrín de la capital grancanaria. Por su parte, agentes del Cuerpo Nacional de Policía, que también acudieron al lugar de la reyerta, instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "de este manera se recibir uno llamada a el hora indicar informar de que se haber producir uno pelea entre varios persona y que uno de ellos poder precisar de atención médico en ese momento el 112 activar su dispositivo de urgencia habitual y trasladar a el lugar uno ambulancia de soporte vital básico y otro de soporte vital avanzar de el servicio_de_urgencias_canario a el llegar el médico asistir y estabilizar a uno joven de 24 año que presentar uno traumatismo craneal de carácter grave por el que tener que ser trasladar en el ambulancia de soporte vital avanzar de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín de el capital grancanaria por su parte agente de el cuerpo_nacional_de_policía que también acudir a el lugar de el reyerta instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "manera recibir llamada hora indicar informar haber producir pelea persona poder precisar atención médico momento activar dispositivo urgencia habitual trasladar lugar ambulancia soporte vital básico soporte vital avanzar servicio_de_urgencias_canario llegar médico asistir estabilizar joven año presentar traumatismo craneal carácter grave tener ser trasladar ambulancia soporte vital avanzar suc hospital_universitario_de_gran_canaria_doctor_negrín capital grancanaria parte agente cuerpo_nacional_de_policía acudir lugar reyerta instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "24"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/672056/0/",
+    "title": {
+        "raw_text": "Comienzan las obras de reconstrucción de la carretera de Tejeda (Gran Canaria), hundida durante las últimas lluvias",
+        "lemmatized_text": "comenzar el obra de reconstrucción de el carretera de tejeda gran_canaria hundir durante el último lluvia",
+        "lemmatized_text_reduced": "comenzar obra reconstrucción carretera tejeda gran_canaria hundir último lluvia",
+        "persons": [],
+        "locations": [
+            "Tejeda",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Desarrollo Económico, Obras Públicas e Infraestructuras y Transportes del Cabildo de Gran Canaria ha iniciado hoy las obras de reconstrucción de la carretera Gran Canaria 60 (GC-60), que une San Fernando de Maspalomas con Tejeda, según informó hoy la Corporación insular en un comunicado.",
+        "lemmatized_text": "el consejería_de_desarrollo_económico obras_públicas y infraestructuras y transportes_del_cabildo_de_gran_canaria haber iniciar hoy el obra de reconstrucción de el carretera gran_canaria 60 GC-60 que unir san_fernando_de_maspalomas con tejeda según informar hoy el corporación insular en uno comunicado",
+        "lemmatized_text_reduced": "consejería_de_desarrollo_económico obras_públicas infraestructuras transportes_del_cabildo_de_gran_canaria haber iniciar obra reconstrucción carretera gran_canaria unir san_fernando_de_maspalomas tejeda informar corporación insular comunicado",
+        "persons": [],
+        "locations": [
+            "San_Fernando_de_Maspalomas",
+            "Tejeda"
+        ],
+        "organizations": [
+            "Consejería_de_Desarrollo_Económico",
+            "Obras_Públicas",
+            "Transportes_del_Cabildo_de_Gran_Canaria",
+            "Corporación"
+        ],
+        "others": [
+            "Infraestructuras",
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "60",
+            "GC-60"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, dos meses después de que se hundiera la plataforma de esta vía a su paso por el pueblo de Tejeda, la Consejería de Obras Públicas del Cabildo, tras superar el procedimiento administrativo legal para la contratación, ha adjudicado por 1.903.911,87 euros las obras que restablecerán la vía de comunicación entre esta localidad y el sur de la isla. La duración de los trabajos, que serán realizados por la empresa Hermanos Santana Cazorla, será de dos meses y medio, que se cumplirá incluso con la posibilidad de trabajar en turnos de 24 horas, tal como ofertó la empresa adjudicataria.",
+        "lemmatized_text": "de este manera 2 mes después_de que se hundir el plataforma de este vía a su paso por el pueblo de tejeda el consejería_de_obras_públicas_del_cabildo tras superar el procedimiento administrativo legal para el contratación haber adjudicar por $_ECU:1.903.911,87 el obra que restablecer el vía de comunicación entre este localidad y el sur de el isla el duración de el trabajo que ser realizar por el empresa hermanos_santana_cazorla ser de 2 mes y medio que se cumplir incluso con el posibilidad de trabajar en turno de TM_h:24 tal_y_como ofertar el empresa adjudicatario",
+        "lemmatized_text_reduced": "manera mes hundir plataforma vía paso pueblo tejeda consejería_de_obras_públicas_del_cabildo superar procedimiento administrativo legal contratación haber adjudicar obra restablecer vía comunicación localidad sur isla duración trabajo ser realizar empresa hermanos_santana_cazorla ser mes medio cumplir posibilidad trabajar turno ofertar empresa adjudicatario",
+        "persons": [],
+        "locations": [
+            "Tejeda"
+        ],
+        "organizations": [
+            "Consejería_de_Obras_Públicas_del_Cabildo",
+            "Hermanos_Santana_Cazorla"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "$_ECU:1.903.911,87",
+            "2",
+            "TM_h:24"
+        ]
+    }
+}

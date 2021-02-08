@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/707398/0/",
+    "title": {
+        "raw_text": "La Asociación de Amigos de la Catedral de Canarias (Gran Canaria) celebrará el domingo la tradicional 'Lluvia de flores'",
+        "lemmatized_text": "el asociación_de_amigos_de_la_catedral_de_canarias gran_canaria celebrar el [G:??/??/??:??.??:??] el tradicional lluvia de flor",
+        "lemmatized_text_reduced": "asociación_de_amigos_de_la_catedral_de_canarias gran_canaria celebrar tradicional lluvia flor",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Asociación_de_Amigos_de_la_Catedral_de_Canarias",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Asociación de Amigos de la Catedral de Canarias, en Las Palmas de Gran Canaria, celebrará el próximo domingo, 16 de mayo, la tradicional 'Lluvia de flores', según informó la agrupación en un comunicado.",
+        "lemmatized_text": "el asociación_de_amigos_de_la_catedral_de_canarias en las_palmas_de_gran_canaria celebrar el [G:16/5/??:??.??:??] el tradicional lluvia de flor según informar el agrupación en uno comunicado",
+        "lemmatized_text_reduced": "asociación_de_amigos_de_la_catedral_de_canarias las_palmas_de_gran_canaria celebrar tradicional lluvia flor informar agrupación comunicado",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Asociación_de_Amigos_de_la_Catedral_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[G:16/5/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, el domingo a las 10.00 horas, el obispo don Francisco Cases presidirá la misa y, a su final (aproximadamente sobre las 10.40 horas), tendrá lugar el canto de sexta y la tradicional lluvia de pétalos de flores sobre el altar y presbiterio del templo. Por su parte, según indicó la organización, esta es una ceremonia única en España que se viene celebrando en la Catedral desde el siglo XVII.",
+        "lemmatized_text": "de este manera el [G:??/??/??:10.00:??] el obispo don_francisco_cases presidir el misa y a su final aproximadamente sobre el TM_h:10.4 tener_lugar el canto de 6 y el tradicional lluvia de pétalo de flor sobre el altar y presbiterio de el templo por su parte según indicar el organización este ser uno ceremonia único en españa que se venir celebrar en el catedral desde el [s:xvii]",
+        "lemmatized_text_reduced": "manera obispo don_francisco_cases presidir misa final aproximadamente tener_lugar canto 6 tradicional lluvia pétalo flor altar presbiterio templo parte indicar organización ser ceremonia único españa venir celebrar catedral",
+        "persons": [
+            "don_Francisco_Cases"
+        ],
+        "locations": [
+            "España",
+            "Catedral"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:10.00:??]",
+            "[s:xvii]"
+        ],
+        "numbers": [
+            "TM_h:10.4"
+        ]
+    }
+}

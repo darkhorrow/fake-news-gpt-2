@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/963856/0/",
+    "title": {
+        "raw_text": "Gobierno canario recurrirá ante TS el fallo que desestima el recurso contra la sentencia a favor de las UTE de Tindaya",
+        "lemmatized_text": "gobierno canario recurrir ante ts el fallo que desestimar el recurso contra el sentencia a_favor_de el ute_de_tindaya",
+        "lemmatized_text_reduced": "gobierno canario recurrir ts fallo desestimar recurso sentencia ute_de_tindaya",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "TS"
+        ],
+        "others": [
+            "UTE_de_Tindaya"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha anunciado este viernes que recurrirá ante el Tribunal Supremo (TS) el fallo de la Audiencia Provincial de Las Palmas que desestimó el recurso de apelación que presentó el Ejecutivo contra la sentencia favorable a la unión temporal de empresas encargada de ejecutar el proyecto de Tindaya (Fuerteventura).",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber anunciar este [V:??/??/??:??.??:??] que recurrir ante el tribunal_supremo ts el fallo de el audiencia_provincial_de_las_palmas que desestimar el recurso de apelación que presentar el ejecutivo contra el sentencia favorable a el unión temporal de empresa encargar de ejecutar el proyecto de tindaya fuerteventura",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber anunciar recurrir tribunal_supremo ts fallo audiencia_provincial_de_las_palmas desestimar recurso apelación presentar ejecutivo sentencia favorable unión temporal empresa encargar ejecutar proyecto tindaya fuerteventura",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Tindaya"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Tribunal_Supremo",
+            "TS",
+            "Audiencia_Provincial_de_Las_Palmas",
+            "Ejecutivo",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha anunciado este viernes que recurrirá ante el Tribunal Supremo (TS) el fallo de la Audiencia Provincial de Las Palmas que desestimó el recurso de apelación que presentó el Ejecutivo contra la sentencia favorable a la unión temporal de empresas encargada de ejecutar el proyecto de Tindaya (Fuerteventura). \"Vamos a pelear hasta el último segundo cualquier cuestión que tenga que ver con la defensa de los recursos público. Y así lo estamos haciendo. Estamos ganando todas las sentencias\", dijo en declaraciones a los medios de comunicación. Así, explicó que se queda con la sentencia que ya han ganado —de 174 millones de euros—. \"Por lo tanto, —añadió— la de Tindaya la seguiremos peleando. Todavía queda el Supremo\". Por su parte, la Sección Tercera de la Audiencia Provincial de Las Palmas desestimó el recurso de apelación presentado por el Gobierno canario contra la sentencia favorable a la UTE encargada del proyecto en Tindaya.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber anunciar este [V:??/??/??:??.??:??] que recurrir ante el tribunal_supremo ts el fallo de el audiencia_provincial_de_las_palmas que desestimar el recurso de apelación que presentar el ejecutivo contra el sentencia favorable a el unión temporal de empresa encargar de ejecutar el proyecto de tindaya fuerteventura ir a pelear hasta el último segundo cualquiera cuestión que tener que ver con el defensa de el recurso público y así lo estar hacendar estar ganar todo el sentencia decir en declaración a el medio de comunicación así explicar que se quedar con el sentencia que ya haber ganar de $_ECU:174000000 por_lo_tanto añadir el de tindaya lo seguir pelear todavía quedar el supremo por su parte el sección_tercera_de_la_audiencia_provincial_de_las_palmas desestimar el recurso de apelación presentar por el gobierno canario contra el sentencia favorable a el ute encargar de el proyecto en tindaya",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber anunciar recurrir tribunal_supremo ts fallo audiencia_provincial_de_las_palmas desestimar recurso apelación presentar ejecutivo sentencia favorable unión temporal empresa encargar ejecutar proyecto tindaya fuerteventura ir pelear último segundo cuestión tener ver defensa recurso público estar hacendar estar ganar sentencia decir declaración medio comunicación explicar quedar sentencia haber ganar añadir tindaya seguir pelear quedar supremo parte sección_tercera_de_la_audiencia_provincial_de_las_palmas desestimar recurso apelación presentar gobierno canario sentencia favorable ute encargar proyecto tindaya",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Tindaya",
+            "Tindaya",
+            "Tindaya"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Tribunal_Supremo",
+            "TS",
+            "Audiencia_Provincial_de_Las_Palmas",
+            "Ejecutivo",
+            "Fuerteventura",
+            "Supremo",
+            "Sección_Tercera_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "Gobierno",
+            "UTE"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:174000000"
+        ]
+    }
+}

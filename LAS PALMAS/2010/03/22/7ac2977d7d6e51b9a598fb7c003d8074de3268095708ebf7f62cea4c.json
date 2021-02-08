@@ -1,0 +1,101 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/657555/0/restos/oseos/pozo/",
+    "title": {
+        "raw_text": "Se inician las tareas para extraer los restos óseos del pozo donde buscan a Sara",
+        "lemmatized_text": "se iniciar el tarea para extraer el resto óseo de el pozo donde buscar a sara",
+        "lemmatized_text_reduced": "iniciar tarea extraer resto óseo pozo buscar sara",
+        "persons": [
+            "Sara"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los restos están a 30 metros de profundidad, en el interior de un pozo junto a una casona abandonada cerca de Telde. Están dentro de un saco o una bolsa de plástico. Sara Morales desapareció en Gran Canaria en julio de 2006. La delegación de Gobierno pide \"prudencia y tranquilidad\".",
+        "lemmatized_text": "el resto estar a LN_m:30 de profundidad en_el_interior_de uno pozo junto_a uno casona abandonar cerca de telde estar dentro_de uno saco o uno bolsa de plástico sara_morales desaparecer en gran_canaria en [??:??/7/2006:??.??:??] el delegación de gobierno pedir prudencia y tranquilidad",
+        "lemmatized_text_reduced": "resto estar profundidad pozo casona abandonar telde estar saco bolsa plástico sara_morales desaparecer gran_canaria delegación gobierno pedir prudencia tranquilidad",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/2006:??.??:??]"
+        ],
+        "numbers": [
+            "LN_m:30"
+        ]
+    },
+    "body": {
+        "raw_text": "Efectivos del Grupo de Operaciones Especiales de la Policía Nacional han iniciado sobre las 08.30 horas de este lunes las tareas para tratar de extraer los restos óseos hallados en un pozo de Gran Canaria donde buscaban el cuerpo de la joven Sara Morales , desaparecida en julio de 2006. Vecinos de la zona de Jinámar , cuyo territorio se reparte entre Las Palmas de Gran Canaria y el municipio de Telde , que limita con la capital de la isla, se han acercado a observar los trabajos, en los que participan, entre otros efectivos, submarinistas de la unidad subacuática del Cuerpo Nacional de Policía. Éstos serán los encargados últimos de extraer los restos , que se encuentran a gran profundidad en el fondo de un pozo situado en el interior de una casa abandonada en las inmediaciones de la carretera GC-100 , que une el Valle de Jinámar con Las Palmas de Gran Canaria, anticiparon fuentes policiales. La Policía Nacional mantiene alrededor de la casona abandonada un cordón de seguridad que estableció desde el viernes y cuyo perímetro se amplió el domingo. En esa jornada el comisario provincial de Las Palmas, Fidel González, se desplazó a la zona para preparar los trabajos iniciados esta mañana. Una antigua explotación agrícola El pozo está en el interior de una casona abandonada del siglo pasado que primero fue una finca de explotación agrícola y en los años ochenta fue utilizada por su pozo de agua para trabajos relacionados con la construcción, según han indicado vecinos de Jinámar. La zona donde se han hallado estos restos es uno de los \"puntos\" marcados por la investigación que lleva a cabo la Policía Nacional para tratar de localizar a Sara Morales, que tenía 14 años cuando desapareció. Las fuentes han insistido en que nunca se ha dejado de trabajar en el caso y que, tras buscar durante varios días y sin éxito en un solar situado en las inmediaciones de un centro comercial de las afueras de Las Palmas de Gran Canaria a petición de la madre de la niña, Nieves Hernández, la Policía continuó su trabajo en Jinámar. Dentro de un saco Los restos óseos están envueltos en una especie de saco o plástico. Así lo explicó a los periodistas la jefa superior del Cuerpo Nacional de Policía en Canarias, Concepción de Vega . Acceder a la bolsa con los restos es una tarea complicada Los huesos se encuentran a unos 30 metros de profundidad en el fondo del pozo. Concepción de Vega ha destacado la dificultad para llegar hasta los restos, que fueron localizados con una mini cámara de rayos x . En el pozo sólo pueden trabajar dos agentes a la vez Aunque en un primer momento se barajó la posibilidad de extraer el agua del pozo, un informe sobre los niveles freáticos en la zona lo han descartado porque las filtraciones de agua harían que se volviera a llenar. De momento las tareas se limitan a sacar del pozo los restos de basura, desperdicios y troncos que se han acumulado en su interior. Piden \"prudencia\" La delegada del Gobierno en Canarias, Carolina Darias, destacó este lunes la necesidad de actuar \"con prudencia y con tranquilidad\" ante el hallazgo. \"Hay que descender a ese pozo y hay que tener mucho cuidado\", pues \"es mucha la dificultad , por eso requerimos de especialistas como son los Grupos de Operaciones Especiales de Seguridad (GOES)\", explicó Darias. Hay que \" extraer la bolsa y una vez que se compruebe lo que hay en su interior, se actuará como corresponda\", ha dicho la delegada a los periodistas. \"Hay que esperar\", porque ahora mismo lo que se sabe es que se ha encontrado una bolsa y \"hay que ver lo que hay dentro \", insisti",
+        "lemmatized_text": "efectivos_del_grupo_de_operaciones_especiales_de_la_policía_nacional haber iniciar sobre el TM_h:8.3 de este [L:??/??/??:??.??:??] el tarea para tratar de extraer el resto óseo hallar en uno pozo de gran_canaria donde buscar el cuerpo de el joven sara_morales desaparecer en [??:??/7/2006:??.??:??] vecino de el zona de jinámar cuyo territorio se repartir entre las_palmas_de_gran_canaria y el municipio de telde que limitar con el capital de el isla se haber acercar a observar el trabajo en el que participar entre otro efectivo submarinista de el unidad subacuático de el cuerpo_nacional_de_policía este ser el encargar último de extraer el resto que se encontrar a gran profundidad en el fondo de uno pozo situar en_el_interior_de uno casa abandonar en el inmediación de el carretera GC-100 que unir el valle_de_jinámar con las_palmas_de_gran_canaria anticipar fuente policial el policía_nacional mantener alrededor_de el casona abandonar uno cordón de seguridad que establecer desde el [V:??/??/??:??.??:??] y cuyo perímetro se ampliar el [G:??/??/??:??.??:??] en ese jornada el comisario provincial de las_palmas fidel_gonzález se desplazar a el zona para preparar el trabajo iniciar este mañana uno antiguo explotación agrícola el pozo estar en_el_interior_de uno casona abandonar de el siglo pasar que primero ser uno finca de explotación agrícola y en el año 80 ser utilizar por su pozo de agua para trabajo relacionar con el construcción según haber indicar vecino de jinámar el zona donde se haber hallar este resto ser uno de el punto marcar por el investigación que llevar_a_cabo el policía_nacional para tratar de localizar a sara_morales que tener 14 año cuando desaparecer el fuente haber insistir en que nunca se haber dejar de trabajar en el caso y que tras buscar durante varios día y sin éxito en uno solar situar en el inmediación de uno centro comercial de el afueras de las_palmas_de_gran_canaria a_petición_de el madre de el niño nieves_hernández el policía continuar su trabajo en jinámar dentro_de uno saco los resto óseo estar envolver en uno especie de saco o plástico así lo explicar a el periodista el jefe superior de el cuerpo_nacional_de_policía en canarias concepción_de_vega acceder a el bolsa con el resto ser uno tarea complicar los hueso se encontrar a uno LN_m:30 de profundidad en el fondo de el pozo concepción_de_vega haber destacar el dificultad para llegar hasta el resto que ser localizar con uno mini cámara de rayo x en el pozo sólo poder trabajar 2 agente a_la_vez aunque en uno 1 momento se barajar el posibilidad de extraer el agua de el pozo uno informe sobre el nivel freático en el zona lo haber descartar porque el filtración de agua hacer que se volver a llenar de momento el tarea se limitar a sacar de el pozo el resto de basura desperdicio y tronco que se haber acumular en su interior pedir prudencia el delegado de el gobierno en canarias carolina_darias destacar este [L:??/??/??:??.??:??] el necesidad de actuar con prudencia y con tranquilidad ante el hallazgo haber que descender a ese pozo y haber que tener mucho cuidado pues ser mucho el dificultad por ese requerir de especialista como ser el grupos_de_operaciones_especiales_de_seguridad goes explicar darias haber que extraer el bolsa y una_vez_que se comprobar el que haber en su interior se actuar como corresponder haber decir el delegado a el periodista haber que esperar porque ahora mismo el que se saber ser que se haber encontrar uno bolsa y haber que ver el que haber dentro insisti",
+        "lemmatized_text_reduced": "efectivos_del_grupo_de_operaciones_especiales_de_la_policía_nacional haber iniciar tarea tratar extraer resto óseo hallar pozo gran_canaria buscar cuerpo joven sara_morales desaparecer vecino zona jinámar territorio repartir las_palmas_de_gran_canaria municipio telde limitar capital isla haber acercar observar trabajo participar efectivo submarinista unidad subacuático cuerpo_nacional_de_policía ser encargar último extraer resto encontrar gran profundidad fondo pozo situar casa abandonar inmediación carretera unir valle_de_jinámar las_palmas_de_gran_canaria anticipar fuente policial policía_nacional mantener casona abandonar cordón seguridad establecer perímetro ampliar jornada comisario provincial las_palmas fidel_gonzález desplazar zona preparar trabajo iniciar mañana antiguo explotación agrícola el pozo estar casona abandonar siglo pasar ser finca explotación agrícola año ser utilizar pozo agua trabajo relacionar construcción haber indicar vecino jinámar zona haber hallar resto ser punto marcar investigación llevar_a_cabo policía_nacional tratar localizar sara_morales tener año desaparecer fuente haber insistir haber dejar trabajar caso buscar día éxito solar situar inmediación centro comercial afueras las_palmas_de_gran_canaria madre niño nieves_hernández policía continuar trabajo jinámar saco los resto óseo estar envolver especie saco plástico explicar periodista jefe superior cuerpo_nacional_de_policía canarias concepción_de_vega acceder bolsa resto ser tarea complicar los hueso encontrar profundidad fondo pozo concepción_de_vega haber destacar dificultad llegar resto ser localizar mini cámara rayo x pozo poder trabajar agente aunque 1 momento barajar posibilidad extraer agua pozo informe nivel freático zona haber descartar filtración agua hacer volver llenar momento tarea limitar sacar pozo resto basura desperdicio tronco haber acumular interior pedir prudencia delegado gobierno canarias carolina_darias destacar necesidad actuar prudencia tranquilidad hallazgo haber descender pozo haber tener cuidado ser dificultad requerir especialista ser grupos_de_operaciones_especiales_de_seguridad goes explicar darias haber extraer bolsa comprobar haber interior actuar corresponder haber decir delegado periodista haber esperar saber ser haber encontrar bolsa haber ver haber insisti",
+        "persons": [
+            "Sara_Morales",
+            "Fidel_González",
+            "El",
+            "Sara_Morales",
+            "Nieves_Hernández",
+            "Concepción_de_Vega",
+            "Concepción_de_Vega",
+            "Aunque",
+            "Carolina_Darias",
+            "Darias"
+        ],
+        "locations": [
+            "Jinámar",
+            "Las_Palmas_de_Gran_Canaria",
+            "Telde",
+            "Valle_de_Jinámar",
+            "Las_Palmas_de_Gran_Canaria",
+            "Jinámar",
+            "Las_Palmas_de_Gran_Canaria",
+            "Jinámar",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Efectivos_del_Grupo_de_Operaciones_Especiales_de_la_Policía_Nacional",
+            "Cuerpo_Nacional_de_Policía",
+            "Policía_Nacional",
+            "Las_Palmas",
+            "Policía_Nacional",
+            "Policía",
+            "Cuerpo_Nacional_de_Policía",
+            "Gobierno",
+            "Grupos_de_Operaciones_Especiales_de_Seguridad",
+            "GOES"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Los",
+            "Los"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/7/2006:??.??:??]",
+            "[V:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:8.3",
+            "GC-100",
+            "80",
+            "14",
+            "LN_m:30",
+            "2"
+        ]
+    }
+}

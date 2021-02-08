@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621295/0/",
+    "title": {
+        "raw_text": "La empresa Guaguas Municipales de la capital grancanaria cambiará los últimos bonos falsificados hasta mitad de mes",
+        "lemmatized_text": "el empresa guaguas_municipales de el capital grancanaria cambiar el último bono falsificar hasta mitad de mes",
+        "lemmatized_text_reduced": "empresa guaguas_municipales capital grancanaria cambiar último bono falsificar mitad mes",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guaguas_Municipales"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La empresa de transporte público de Las Palmas de Gran Canaria, Guaguas Municipales, informó hoy a sus usuarios de que los últimos bonos de diez viajes falsificados podrán ser canjeados por otros válidos hasta el 17 del presente mes de febrero.",
+        "lemmatized_text": "el empresa de transporte público de las_palmas_de_gran_canaria guaguas_municipales informar hoy a su usuario de que el último bono de 10 viaje falsificar poder ser canjear por otro válido hasta el [??:17/2/??:??.??:??]",
+        "lemmatized_text_reduced": "empresa transporte público las_palmas_de_gran_canaria guaguas_municipales informar usuario último bono viaje falsificar poder ser canjear válido",
+        "persons": [
+            "Guaguas_Municipales"
+        ],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:17/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta estafa investigada por la Policía Nacional también afecta a la tarjeta insular de la empresa Global, según informó el Ayuntamiento capitalino en un comunicado. La mayoría de estas falsificaciones, tanto de Guaguas Municipales como de Global, ya ha sido retirada del mercado y cambiada por billetes auténticos. Para facilitar el cambio de las últimas falsificaciones que continúan en poder de los usuarios, las máquinas registradoras de los vehículos de Guaguas Municipales han sido programadas para rechazar los bonos ilegales. La institución local explica que el portador de dicho bono deberá pagar el billete en metálico o utilizar otro bono válido para realizar el trayecto. El bono falsificado será canjeado por otro legal de saldo equivalente, hasta el miércoles 17 de febrero, en las oficinas comerciales de Gexco (Estación de San Telmo e Intercambiador de Santa Catalina) y en las oficinas comerciales de Guaguas Municipales (Parque de Santa Catalina, Teatro Pérez Galdós y Obelisco).",
+        "lemmatized_text": "este estafa investigar por el policía_nacional también afectar a el tarjeta insular de el empresa global según informar el ayuntamiento capitalino en uno comunicado el mayoría de este falsificación tanto de guaguas_municipales como de global ya haber ser retirar de el mercado y cambiada por billete auténtico para facilitar el cambio de el último falsificación que continuar en poder de el usuario el máquina registrador de el vehículo de guaguas_municipales haber ser programar para rechazar el bono ilegal el institución local explicar que el portador de decir bono deber pagar el billete en metálico o utilizar otro bono válido para realizar el trayecto el bono falsificar ser canjear por otro legal de saldo equivalente hasta el [X:17/2/??:??.??:??] en el oficina comercial de gexco estación_de_san_telmo y intercambiador_de_santa_catalina y en el oficina comercial de guaguas_municipales parque_de_santa_catalina teatro_pérez_galdós y obelisco",
+        "lemmatized_text_reduced": "estafa investigar policía_nacional afectar tarjeta insular empresa global informar ayuntamiento capitalino comunicado mayoría falsificación guaguas_municipales global haber ser retirar mercado cambiada billete auténtico facilitar cambio último falsificación continuar poder usuario máquina registrador vehículo guaguas_municipales haber ser programar rechazar bono ilegal institución local explicar portador decir bono deber pagar billete metálico utilizar bono válido realizar trayecto bono falsificar ser canjear legal saldo equivalente oficina comercial gexco estación_de_san_telmo intercambiador_de_santa_catalina oficina comercial guaguas_municipales parque_de_santa_catalina teatro_pérez_galdós obelisco",
+        "persons": [
+            "Guaguas_Municipales",
+            "Guaguas_Municipales",
+            "Teatro_Pérez_Galdós"
+        ],
+        "locations": [
+            "Global",
+            "Gexco",
+            "Guaguas_Municipales"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Global",
+            "Ayuntamiento",
+            "Estación_de_San_Telmo",
+            "Intercambiador_de_Santa_Catalina",
+            "Parque_de_Santa_Catalina"
+        ],
+        "others": [
+            "Obelisco"
+        ],
+        "dates": [
+            "[X:17/2/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

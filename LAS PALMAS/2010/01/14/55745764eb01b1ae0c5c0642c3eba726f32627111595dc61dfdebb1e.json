@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/606739/0/",
+    "title": {
+        "raw_text": "El Gobierno canario puntualiza que el Pacto Social por la Economía recoge los incentivos para nuevas contrataciones",
+        "lemmatized_text": "el gobierno canario puntualizar que el pacto_social_por_la_economía recoger el incentivo para nuevo contratación",
+        "lemmatized_text_reduced": "gobierno canario puntualizar pacto_social_por_la_economía recoger incentivo nuevo contratación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Pacto_Social_por_la_Economía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha puntualizado que el Pacto Social por la Economía y el Empleo recoge el hecho de incentivar las nuevas contrataciones a desempleados en la empresa privada mediante subvenciones a las cuotas de la Seguridad Social.",
+        "lemmatized_text": "el gobierno_de_canarias haber puntualizar que el pacto_social_por_la_economía y el empleo recoger el hecho de incentivar el nuevo contratación a desempleado en el empresa privar mediante subvención a el cuota de el seguridad_social",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber puntualizar pacto_social_por_la_economía empleo recoger hecho incentivar nuevo contratación desempleado empresa privar subvención cuota seguridad_social",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Pacto_Social_por_la_Economía",
+            "Empleo"
+        ],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta forma, el Ejecutivo autonómico salía al paso de las críticas recibidas, tras el anuncio del presidente canario, Paulino Rivero, en relación con las acciones que emprenderá el Servicio Canario de Empleo (SCE) para promover la contratación de 80.000 desempleados en el próximo año y medio, con una inversión de 420 millones de euros. Asimismo, el Gobierno regional apuntó, en nota de prensa, que tanto la actuación propuesta para subvencionar las cuotas de la Seguridad Social por nuevas contrataciones, que podría hacer factible la contratación de 20.000 desempleados en 18 meses, como el refuerzo a los programas tradicionales de las políticas activas de empleo —escuelas taller, convenios con corporaciones locales o impulso a la economía social—, que \"propiciará la contratación de otros 60.000 desempleados, tienen su origen\" en el citado Pacto. En este sentido, el Ejecutivo canario indicó que \"se limita a cumplir\" con lo acordado en un documento formal, de tal forma que está trabajando en la aplicación del Pacto Social. Agregó que la última propuesta viene a cumplir con las medidas relativas a empleo, que aparecen \"muy explícitamente detallada\" en el Pacto Social por la Economía y el Empleo. Por otro lado, el Gobierno autonómico también prevé abordar en la próxima reunión de seguimiento del Pacto Social con los agentes económicos y sociales \"el detalle de cómo se formularán las actuaciones anunciadas\" con el objetivo de conseguir la \"mayor acogida posible de las mismas y aumentar así la eficiencia de las propuestas\".",
+        "lemmatized_text": "de este forma el ejecutivo autonómico salir a el paso de el crítica recibir tras el anuncio de el presidente canario paulino_rivero en relación con el acción que emprender el servicio_canario_de_empleo sce para promover el contratación de 80 desempleado en el próximo año y medio con uno inversión de $_ECU:420000000 asimismo el gobierno regional apuntar en nota de prensa que tanto el actuación propuesta para subvencionar el cuota de el seguridad_social por nuevo contratación que poder hacer factible el contratación de 20 desempleado en 18 mes como el refuerzo a el programa tradicional de el política activo de empleo escuela taller convenio con corporación local o impulso a el economía social que propiciar el contratación de otro 60 desempleado tener su origen en el citar pacto en este sentido el ejecutivo canario indicar que se limitar a cumplir con el acordar en uno documento formal de tal forma que estar trabajar en el aplicación de el pacto_social agregar que el último propuesta venir a cumplir con el medida relativo a empleo que aparecer muy explícitamente detallar en el pacto_social_por_la_economía y el empleo por_otro_lado el gobierno autonómico también prever abordar en el próximo reunión de seguimiento de el pacto_social con el agente económico y social el detalle de cómo se formular el actuación anunciar con el objetivo de conseguir el mayor acogida posible de el mismo y aumentar así el eficiencia de el propuesta",
+        "lemmatized_text_reduced": "forma ejecutivo autonómico salir paso crítica recibir anuncio presidente canario paulino_rivero relación acción emprender servicio_canario_de_empleo sce promover contratación desempleado próximo año medio inversión gobierno regional apuntar nota prensa actuación propuesta subvencionar cuota seguridad_social nuevo contratación poder hacer factible contratación desempleado mes refuerzo programa tradicional política activo empleo escuela taller convenio corporación local impulso economía social propiciar contratación desempleado tener origen citar pacto sentido ejecutivo canario indicar limitar cumplir acordar documento formal forma estar trabajar aplicación pacto_social agregar último propuesta venir cumplir medida relativo empleo aparecer explícitamente detallar pacto_social_por_la_economía empleo gobierno autonómico prever abordar próximo reunión seguimiento pacto_social agente económico social detalle formular actuación anunciar objetivo conseguir mayor acogida posible mismo aumentar eficiencia propuesta",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ejecutivo",
+            "Servicio_Canario_de_Empleo",
+            "SCE",
+            "Gobierno",
+            "Ejecutivo",
+            "Pacto_Social",
+            "Empleo",
+            "Gobierno",
+            "Pacto_Social"
+        ],
+        "others": [
+            "Seguridad_Social",
+            "Pacto",
+            "Pacto_Social_por_la_Economía"
+        ],
+        "dates": [],
+        "numbers": [
+            "80",
+            "$_ECU:420000000",
+            "20",
+            "18",
+            "60"
+        ]
+    }
+}

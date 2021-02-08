@@ -1,0 +1,120 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/675681/0/",
+    "title": {
+        "raw_text": "Alerta en Canarias por rachas de viento de hasta 90 kilómetros por hora",
+        "lemmatized_text": "alerta en canarias por racha de viento de hasta SP_km/h:90",
+        "lemmatized_text_reduced": "canarias racha viento",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:90"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha decretado la alerta naranja por rachas máximas de viento de hasta 90 kilómetros por hora en los municipios de La Orotava y Vilaflor (Tenerife), así como avisa también por fuertes vientos en La Gomera, El Hierro y en las cumbres de Gran Canaria y La Palma.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber decretar el alerta naranja por racha máximo de viento de hasta SP_km/h:90 en el municipio de la_orotava y vilaflor tenerife así_como avisar también por fuerte viento en la_gomera el_hierro y en el cumbre de gran_canaria y la_palma",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber decretar alerta naranja racha máximo viento municipio la_orotava vilaflor tenerife avisar fuerte viento la_gomera el_hierro cumbre gran_canaria la_palma",
+        "persons": [],
+        "locations": [
+            "La_Orotava",
+            "Vilaflor",
+            "La_Gomera",
+            "El_Hierro",
+            "Gran_Canaria",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:90"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, en Tenerife, el fenómeno meteorológico adverso comenzará a las 13.00 horas de este martes y persistirá hasta la 14.00 horas del miércoles con vientos del suroeste en cumbres centrales. Hasta la medianoche del jueves Asimismo, en la costa norte y medianías de esta isla el nivel de alerta es amarillo, con rachas que pueden alcanzar los 80 kilómetros por hora hasta este jueves, según la información de la Aemet recogida por Europa Press. Se prevé nivel amarillo por rachas de hasta 75 kilómetros por hora en las cumbres de La Palma y de Gran Canaria hasta la medianoche del jueves, mientras que en las medianías del norte Gran Canaria se producirá esta situación hasta las 13.00 horas de este miércoles. Dicha situación de alerta por fuertes vientos se extiende también a las islas de La Gomera y El Hierro desde este martes, a las doce del mediodía, hasta las 13.00 horas del miércoles. Intervalos nubosos y temperaturas sin cambios Además, en Gran Canaria, Tenerife, La Palma, El Hierro y La Gomera se prevén intervalos nubosos aumentando a nuboso con lluvias débiles que podrán ser localmente moderadas, y que afectarán principalmente a las vertientes sur y oeste por la tarde. En Fuerteventura y Lanzarote se registrarán cielos nubosos tendiendo a intervalos a partir del mediodía, con lluvias débiles y ocasionales principalmente durante la tarde. Por su parte, las temperaturas permanecerán sin cambios. Oscilarán entre los 22 y 18 grados centígrados en Las Palmas de Gran Canaria, y los 23 y 17 grados en Santa Cruz de Tenerife. Previsión nacional Para hoy se esperan precipitaciones débiles o localmente moderadas en la mitad sur peninsular, Aragón, sur de Cataluña y de Navarra, y en los sistemas Ibérico y Central, que pueden ir ocasionalmente acompañadas de tormenta en la mitad sur. En el resto de la Península, Ceuta y Melilla se producirán intervalos nubosos con precipitaciones débiles dispersas, excepto en Galicia, Cantábrico oriental y meseta norte, donde sólo se esperan de forma aislada, según la predicción de la Aemet. En Baleares los cielos estarán nubosos, con posibilidad de alguna lluvia débil ocasional. En Canarias, lluvias débiles, probablemente moderadas en las islas occidentales. La cota de nieve se situarán en torno a los 1.000/1.500 metros en el noreste y zona centro peninsulares. Las temperaturas diurnas experimentarán un ligero a moderado ascenso en Cataluña, se mantendrán sin cambios en Andalucía y Canarias y serán ligera a moderadamente más bajas en el resto. Los vientos soplarán moderados a fuertes del Suroeste en Canarias, con intervalos muy fuertes en medianías y zonas altas. En la Península y Baleares predominarán los flojos a moderados del Este.",
+        "lemmatized_text": "en concreto en tenerife el fenómeno meteorológico adverso comenzar a el TM_h:13 de este [M:??/??/??:??.??:??] y persistir hasta el [X:??/??/??:2.00:pm] con viento de el suroeste en cumbre central hasta el [J:??/??/??:00.00:am] asimismo en el costa norte y medianía de este isla el nivel de alerta ser amarillo con racha que poder alcanzar el SP_km/h:80 hasta este [J:??/??/??:??.??:??] según el información de el aemet recoger por europa_press se prever nivel amarillo por racha de hasta SP_km/h:75 en el cumbre de la_palma y de gran_canaria hasta el [J:??/??/??:00.00:am] mientras_que en el medianía de el norte gran_canaria se producir este situación hasta el TM_h:13 de este [X:??/??/??:??.??:??] decir situación de alerta por fuerte viento se extender también a el isla de la_gomera y el_hierro desde este [M:??/??/??:??.??:??] a el [??:??/??/??:12.00:pm] hasta el [X:??/??/??:1.00:pm] intervalo nuboso y temperatura sin cambio además en gran_canaria tenerife la_palma el_hierro y la_gomera se prever intervalo nuboso aumentar a nuboso con lluvia débil que poder ser localmente moderar y que afectar principalmente a el vertiente sur y oeste por el tarde en fuerteventura y lanzarote se registrar cielo nuboso tender a intervalo a partir de el [??:??/??/??:12.00:pm] con lluvia débil y ocasional principalmente durante el tarde por su parte el temperatura permanecer sin cambio oscilar entre el 22 y TP_C:18 en las_palmas_de_gran_canaria y el 23 y 17 grado en santa_cruz_de_tenerife previsión nacional para hoy se esperar precipitación débil o localmente moderar en el mitad sur peninsular aragón sur de cataluña y de navarra y en el sistema ibérico y central que poder ir ocasionalmente acompañar de tormenta en el mitad sur en el resto de el península ceuta y melilla se producir intervalo nuboso con precipitación débil disperso excepto en galicia cantábrico oriental y meseta norte donde sólo se esperar de forma aislar según el predicción de el aemet en baleares el cielo estar nuboso con posibilidad de alguno lluvia débil ocasional en canarias lluvia débil probablemente moderar en el isla occidental el cota de nieve se situar en_torno_a el LN_m:1.000/1.500 en el noreste y zona centro peninsular el temperatura diurno experimentar uno ligero a moderar ascenso en cataluña se mantener sin cambio en andalucía y canarias y ser ligero a moderadamente más bajo en el resto el viento soplar moderar a fuerte de el suroeste en canarias con intervalo muy fuerte en medianía y zona alto en el península y baleares predominar el flojo a moderado de el este",
+        "lemmatized_text_reduced": "concreto tenerife fenómeno meteorológico adverso comenzar persistir viento suroeste cumbre central asimismo costa norte medianía isla nivel alerta ser amarillo racha poder alcanzar información aemet recoger europa_press prever nivel amarillo racha cumbre la_palma gran_canaria medianía norte gran_canaria producir situación decir situación alerta fuerte viento extender isla la_gomera el_hierro intervalo nuboso temperatura cambio además gran_canaria tenerife la_palma el_hierro la_gomera prever intervalo nuboso aumentar nuboso lluvia débil poder ser localmente moderar afectar principalmente vertiente sur oeste tarde fuerteventura lanzarote registrar cielo nuboso tender intervalo partir lluvia débil ocasional principalmente tarde parte temperatura permanecer cambio oscilar las_palmas_de_gran_canaria grado santa_cruz_de_tenerife previsión nacional para esperar precipitación débil localmente moderar mitad sur peninsular aragón sur cataluña navarra sistema ibérico central poder ir ocasionalmente acompañar tormenta mitad sur resto península ceuta melilla producir intervalo nuboso precipitación débil disperso galicia cantábrico oriental meseta norte esperar forma aislar predicción aemet baleares cielo estar nuboso posibilidad lluvia débil ocasional canarias lluvia débil probablemente moderar isla occidental cota nieve situar noreste zona centro peninsular temperatura diurno experimentar ligero moderar ascenso cataluña mantener cambio andalucía canarias ser ligero moderadamente bajo resto viento soplar moderar fuerte suroeste canarias intervalo fuerte medianía zona alto península baleares predominar flojo moderado este",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "Asimismo",
+            "La_Palma",
+            "Gran_Canaria",
+            "La_Gomera",
+            "El_Hierro",
+            "Gran_Canaria",
+            "El_Hierro",
+            "La_Gomera",
+            "Fuerteventura",
+            "Lanzarote",
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Cruz_de_Tenerife",
+            "Aragón",
+            "Cataluña",
+            "Navarra",
+            "Ceuta",
+            "Melilla",
+            "Galicia",
+            "Cantábrico",
+            "Baleares",
+            "Canarias",
+            "Cataluña",
+            "Andalucía",
+            "Canarias",
+            "Suroeste",
+            "Canarias",
+            "Península",
+            "Baleares",
+            "Este"
+        ],
+        "organizations": [
+            "Aemet",
+            "Europa_Press",
+            "Además",
+            "Tenerife",
+            "La_Palma",
+            "Para",
+            "Península",
+            "Aemet"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Ibérico",
+            "Central"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[X:??/??/??:2.00:pm]",
+            "[J:??/??/??:00.00:am]",
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:00.00:am]",
+            "[X:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]",
+            "[X:??/??/??:1.00:pm]",
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "TM_h:13",
+            "SP_km/h:80",
+            "SP_km/h:75",
+            "TM_h:13",
+            "22",
+            "TP_C:18",
+            "23",
+            "17",
+            "LN_m:1.000/1.500"
+        ]
+    }
+}

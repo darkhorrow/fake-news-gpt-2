@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-11-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/567369/0/muere/accidente/gomera/",
+    "title": {
+        "raw_text": "Un joven de 26 años muere en un accidente de tráfico en La Gomera",
+        "lemmatized_text": "uno joven de 26 año morir en uno accidente de tráfico en la_gomera",
+        "lemmatized_text_reduced": "joven año morir accidente tráfico la_gomera",
+        "persons": [],
+        "locations": [
+            "La_Gomera"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "26"
+        ]
+    },
+    "lead": {
+        "raw_text": "Otros dos jóvenes resultan heridos leves. El suceso se produjo en el municipio gomero de Vallehermoso.",
+        "lemmatized_text": "otro 2 joven resultar herido leve el suceso se producir en el municipio gomero de vallehermoso",
+        "lemmatized_text_reduced": "joven resultar herido leve suceso producir municipio gomero vallehermoso",
+        "persons": [],
+        "locations": [
+            "Vallehermoso"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Un joven de 26 años ha muerto este lunes en un accidente de tráfico ocurrido en la isla de La Gomera, en el que otros dos jóvenes resultaron heridos leves, informó el 112. El accidente tuvo lugar a las 16.48 h en la carretera general de la Dama a su paso por La Dehesa, en el municipio gomero de Vallehermoso. El Centro Coordinador de Emergencias y Seguridad (CECOES) 112 recibió el aviso de que un vehículo había sufrido un accidente y sus ocupantes precisaban asistencia sanitaria en ese lugar. A su llegada al lugar del accidente, el personal del Servicio de Urgencias Canario (SUC), junto con el médico del centro de salud de la zona, comprobó que uno de los afectados ya había fallecido y asistió a los otros dos accidentados. El fallecido era un joven de 26 años, mientras que uno de los heridos era un hombre de 31 años que sufrió polierosiones de carácter leve, y el otro, de 29 años, resultó con traumatismo en miembro inferior de carácter leve. Los dos heridos fueron trasladados al Hospital Nuestra Señora de Guadalupe.",
+        "lemmatized_text": "uno joven de 26 año haber morir este [L:??/??/??:??.??:??] en uno accidente de tráfico ocurrir en el isla de la_gomera en el que otro 2 joven resultar herido leve informar el 112 el accidente tener_lugar a el TM_h:16.48 en el carretera general de el dama a su paso por la_dehesa en el municipio gomero de vallehermoso el centro_coordinador_de_emergencias y seguridad cecoes 112 recibir el aviso de que uno vehículo haber sufrir uno accidente y su ocupante precisar asistencia sanitario en ese lugar a su llegada a el lugar de el accidente el personal de el servicio_de_urgencias_canario suc junto_con el médico de el centro de salud de el zona comprobar que uno de el afectado ya haber fallecer y asistir a el otro 2 accidentado el fallecer ser uno joven de 26 año mientras_que uno de el herido ser uno hombre de 31 año que sufrir polierosión de carácter leve y el otro de 29 año resultar con traumatismo en miembro inferior de carácter leve el 2 herido ser trasladar a el hospital_nuestra_señora_de_guadalupe",
+        "lemmatized_text_reduced": "joven año haber morir accidente tráfico ocurrir isla la_gomera joven resultar herido leve informar accidente tener_lugar carretera general dama paso la_dehesa municipio gomero vallehermoso centro_coordinador_de_emergencias seguridad cecoes recibir aviso vehículo haber sufrir accidente ocupante precisar asistencia sanitario lugar llegada lugar accidente personal servicio_de_urgencias_canario suc médico centro salud zona comprobar afectado haber fallecer asistir accidentado fallecer ser joven año herido ser hombre año sufrir polierosión carácter leve año resultar traumatismo miembro inferior carácter leve herido ser trasladar hospital_nuestra_señora_de_guadalupe",
+        "persons": [],
+        "locations": [
+            "La_Gomera",
+            "Dama",
+            "La_Dehesa",
+            "Vallehermoso"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "CECOES",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Nuestra_Señora_de_Guadalupe"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "26",
+            "2",
+            "112",
+            "TM_h:16.48",
+            "112",
+            "2",
+            "26",
+            "31",
+            "29",
+            "2"
+        ]
+    }
+}

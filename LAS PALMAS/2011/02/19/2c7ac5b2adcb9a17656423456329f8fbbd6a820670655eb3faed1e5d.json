@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/965088/0/",
+    "title": {
+        "raw_text": "Gran Canaria registra un incremento del 11,4% de las pernoctaciones en enero",
+        "lemmatized_text": "gran_canaria registrar uno incremento de el 11,4/100 de el pernoctación en [??:??/1/??:??.??:??]",
+        "lemmatized_text_reduced": "gran_canaria registrar incremento pernoctación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "11,4/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los alojamientos hoteleros en la isla de Gran Canaria registraron el pasado mes de enero más de 1,4 millones de pernoctaciones, lo que significó un incremento del 11,4 por ciento en relación al mismo mes de 2010.",
+        "lemmatized_text": "el alojamiento hotelero en el isla de gran_canaria registrar el [??:??/1/??:??.??:??] más de 1,4 millón de pernoctación el que significar uno incremento de el 11,4 por 100 en relación a el mismo mes de 2010",
+        "lemmatized_text_reduced": "alojamiento hotelero isla gran_canaria registrar millón pernoctación significar incremento relación mismo mes",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,4",
+            "11,4",
+            "100",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "Los alojamientos hoteleros en la isla de Gran Canaria registraron el pasado mes de enero más de 1,4 millones de pernoctaciones, lo que significó un incremento del 11,4 por ciento en relación al mismo mes de 2010. En una nota de prensa, el Patronato de Turismo de Gran Canaria ha informado de que, en lo que respecta a las cifras de ocupación, se produjo igualmente un aumento del 7,7 puntos en el primer mes del presente año, situándose el porcentaje en el 83,7 por ciento frente al 76 por ciento del año anterior. Según el Patronato, estos datos vienen a confirmar la tendencia de crecimiento turístico de Gran Canaria que se viene produciendo desde finales del pasado año y que en 2011 vuelven a situarla como uno de los destinos españoles con mayor crecimiento de sus tasas de ocupación.",
+        "lemmatized_text": "el alojamiento hotelero en el isla de gran_canaria registrar el [??:??/1/??:??.??:??] más de 1,4 millón de pernoctación el que significar uno incremento de el 11,4 por 100 en relación a el mismo mes de 2010 en uno nota de prensa el patronato_de_turismo_de_gran_canaria haber informar de que en el que respectar a el cifra de ocupación se producir igualmente uno aumento de el 7,7 punto en el 1 mes de el presente año situar se el porcentaje en el 83,7 por 100 frente a el 76 por 100 de el año anterior según el patronato este dato venir a confirmar el tendencia de crecimiento turístico de gran_canaria que se venir producir desde final de el pasar año y que en 2011 volver a situar lo como uno de el destino español con mayor crecimiento de su tasa de ocupación",
+        "lemmatized_text_reduced": "alojamiento hotelero isla gran_canaria registrar millón pernoctación significar incremento relación mismo mes nota prensa patronato_de_turismo_de_gran_canaria haber informar respectar cifra ocupación producir igualmente aumento punto 1 mes presente año situar porcentaje frente año anterior patronato dato venir confirmar tendencia crecimiento turístico gran_canaria venir producir final pasar año volver situar destino español mayor crecimiento tasa ocupación",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Patronato_de_Turismo_de_Gran_Canaria",
+            "Patronato"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,4",
+            "11,4",
+            "100",
+            "2010",
+            "7,7",
+            "83,7",
+            "100",
+            "76",
+            "100",
+            "2011"
+        ]
+    }
+}

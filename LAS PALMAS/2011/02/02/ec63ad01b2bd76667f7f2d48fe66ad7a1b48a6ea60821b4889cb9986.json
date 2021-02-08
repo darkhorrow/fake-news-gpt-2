@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/947019/0/",
+    "title": {
+        "raw_text": "La Seguridad Social perdió 7.953 personas en Canarias durante enero, hasta los 682.118 afiliados",
+        "lemmatized_text": "el seguridad_social perder 7.953 persona en canarias durante [??:??/1/??:??.??:??] hasta el 682.118 afiliado",
+        "lemmatized_text_reduced": "seguridad_social perder persona canarias afiliado",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "7.953",
+            "682.118"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Seguridad Social cerró enero con un descenso de 7.953 personas en la Comunidad Autónoma de Canarias, lo que supone un descenso del número total de afiliados del 1,15 por ciento respecto al pasado mes de diciembre, situándose en 682.118, informó el Ministerio de Trabajo e Inmigración.",
+        "lemmatized_text": "el seguridad_social cerrar [??:??/1/??:??.??:??] con uno descenso de 7.953 persona en el comunidad_autónoma_de_canarias el que suponer uno descenso de el número total de afiliado de el 1,15 por 100 respecto a el [??:??/12/??:??.??:??] situar se en 682.118 informar el ministerio_de_trabajo y inmigración",
+        "lemmatized_text_reduced": "seguridad_social cerrar descenso persona comunidad_autónoma_de_canarias suponer descenso número total afiliado respecto situar informar ministerio_de_trabajo inmigración",
+        "persons": [],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Ministerio_de_Trabajo",
+            "Inmigración"
+        ],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "7.953",
+            "1,15",
+            "100",
+            "682.118"
+        ]
+    },
+    "body": {
+        "raw_text": "La Seguridad Social cerró enero con un descenso de 7.953 personas en la Comunidad Autónoma de Canarias, lo que supone un descenso del número total de afiliados del 1,15 por ciento respecto al pasado mes de diciembre, situándose en 682.118, informó el Ministerio de Trabajo e Inmigración. A nivel nacional, el descenso medio fue de 223.143 afiliados (-1,27%), con lo que el total de ocupados, en términos promedios, se situó en 17.361.839 cotizantes. El retroceso de enero es inferior a los descensos que se registraron en los mismos meses de 2010 y 2009, cuando la afiliación cayó en 257.828 y 349.569 ocupados, respectivamente. El Régimen General, el más numeroso del sistema, fue el que registró la mayor caída mensual, al perder 218.750 ocupados, un 1,65% respecto a diciembre, seguido del Régimen de Autónomos (RETA), con 12.431 afiliados menos (-0,4%). (Habrá ampliación)",
+        "lemmatized_text": "el seguridad_social cerrar [??:??/1/??:??.??:??] con uno descenso de 7.953 persona en el comunidad_autónoma_de_canarias el que suponer uno descenso de el número total de afiliado de el 1,15 por 100 respecto a el [??:??/12/??:??.??:??] situar se en 682.118 informar el ministerio_de_trabajo y inmigración a nivel nacional el descenso medio ser de 223.143 afiliado -1,27/100 con el que el total de ocupar en término promedio se situar en 17.361.839 cotizante el retroceso de [??:??/1/??:??.??:??] ser inferior a el descenso que se registrar en el mismo mes de 2010 y 2009 cuando el afiliación caer en 257.828 y 349.569 ocupar respectivamente el régimen_general el más numeroso de el sistema ser el que registrar el mayor caída mensual a el perder 218.75 ocupar uno 1,65/100 respecto_a [??:??/12/??:??.??:??] seguir de el régimen_de_autónomos reta con 12.431 afiliado menos -0,4/100 haber ampliación",
+        "lemmatized_text_reduced": "seguridad_social cerrar descenso persona comunidad_autónoma_de_canarias suponer descenso número total afiliado respecto situar informar ministerio_de_trabajo inmigración nivel nacional descenso medio ser afiliado total ocupar término promedio situar cotizante retroceso ser inferior descenso registrar mismo mes afiliación caer ocupar respectivamente régimen_general numeroso sistema ser registrar mayor caída mensual perder ocupar seguir régimen_de_autónomos reta afiliado haber ampliación",
+        "persons": [],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Ministerio_de_Trabajo",
+            "Inmigración",
+            "Régimen_General",
+            "Régimen_de_Autónomos",
+            "RETA"
+        ],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "7.953",
+            "1,15",
+            "100",
+            "682.118",
+            "223.143",
+            "-1,27/100",
+            "17.361.839",
+            "2010",
+            "2009",
+            "257.828",
+            "349.569",
+            "218.75",
+            "1,65/100",
+            "12.431",
+            "-0,4/100"
+        ]
+    }
+}

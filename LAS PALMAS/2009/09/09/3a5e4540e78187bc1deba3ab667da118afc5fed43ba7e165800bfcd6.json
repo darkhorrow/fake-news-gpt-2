@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/513333/0/muertos/octogenaria/hijo/",
+    "title": {
+        "raw_text": "",
+        "lemmatized_text": "",
+        "lemmatized_text_reduced": "",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Han hallado los cadáveres en el municipio de Santa Brígida, en Gran Canaria. Un familiar se encontró con el cuerpo de la mujer y el de su hijo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "haber hallar el cadáver en el municipio de santa_brígida en gran_canaria uno familiar se encontrar con el cuerpo de el mujer y el de su hijo consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber hallar cadáver municipio santa_brígida gran_canaria familiar encontrar cuerpo mujer hijo consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Santa_Brígida",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una octogenaria y un hombre de unos cincuenta años , madre e hijo, han sido hallados muertos en su domicilio del municipio de Santa Brígida , en Gran Canaria, por causas aún desconocidas y que se tratarán de aclarar con la autopsia , confirmó a Efe la Guardia Civil. Madre e hijo vivián juntos en el domicilio donde fueron hallados los cadáveres La zona de Portada Verde de dicho municipio fue el escenario del hallazgo, que se produjo en la tarde del martes, al parecer cuando acudió a la vivienda un familiar que se encontró con el cuerpo de la mujer y el de su hijo, que convivía con ella y la cuidaba, según fuentes de la Comandancia de Las Palmas del instituto armado. Sobre si los cadáveres presentaban heridas que pudieran hacer pensar en un asalto o si aparentaban haber tenido una muerte de otro tipo, dijeron no poder precisar de momento dato alguno, remitiendo al informe que se haga tras la autopsia que se les practicará previsiblemente en las próximas horas, si bien en varios diarios locales se apunta que no presentaban signos de violencia. Tampoco dijeron poder ofrecer, de momento, datos sobre la identidad de las víctimas más allá de sus edades y su parentesco: una madre de unos 80 años y su hijo, de más de 50.",
+        "lemmatized_text": "uno octogenario y uno hombre de uno 50 año madre y hijo haber ser hallar muerto en su domicilio de el municipio de santa_brígida en gran_canaria por causa aun desconocer y que se tratar de aclarar con el autopsia confirmar a efe_la_guardia_civil madre y hijo vivián junto en el domicilio donde ser hallar el cadáver la zona de portada_verde de decir municipio ser el escenario de el hallazgo que se producir en el tarde de el [M:??/??/??:??.??:??] a el parecer cuando acudir a el vivienda uno familiar que se encontrar con el cuerpo de el mujer y el de su hijo que convivir con él y lo cuidar según fuente de el comandancia_de_las_palmas de el instituto armar sobre si el cadáver presentar herida que poder hacer pensar en uno asalto o si aparentar haber tener uno muerte de otro tipo decir no poder precisar de momento dato alguno remitir a el informe que se hacer tras el autopsia que se le practicar previsiblemente en el próximo hora si bien en varios diario local se apuntar que no presentar signo de violencia tampoco decir poder ofrecer de momento dato sobre el identidad de el víctima más_allá_de su edad y su parentesco uno madre de uno 80 año y su hijo de más de 50",
+        "lemmatized_text_reduced": "octogenario hombre año madre hijo haber ser hallar muerto domicilio municipio santa_brígida gran_canaria causa desconocer tratar aclarar autopsia confirmar efe_la_guardia_civil madre hijo vivián junto domicilio ser hallar cadáver la zona portada_verde decir municipio ser escenario hallazgo producir tarde parecer acudir vivienda familiar encontrar cuerpo mujer hijo convivir cuidar fuente comandancia_de_las_palmas instituto armar cadáver presentar herida poder hacer pensar asalto aparentar haber tener muerte tipo decir poder precisar momento dato remitir informe hacer autopsia practicar previsiblemente próximo hora diario local apuntar presentar signo violencia decir poder ofrecer momento dato identidad víctima edad parentesco madre año hijo",
+        "persons": [
+            "Madre",
+            "Portada_Verde"
+        ],
+        "locations": [
+            "Santa_Brígida",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Efe_la_Guardia_Civil",
+            "Comandancia_de_Las_Palmas"
+        ],
+        "others": [
+            "La"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "80",
+            "50"
+        ]
+    }
+}

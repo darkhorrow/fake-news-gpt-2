@@ -1,0 +1,94 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/937282/0/",
+    "title": {
+        "raw_text": "La Aemet extiende la alerta amarilla por lluvias este lunes a todo el archipiélago canario",
+        "lemmatized_text": "el aemet extender el alerta amarillo por lluvia este [L:??/??/??:??.??:??] a todo el archipiélago canario",
+        "lemmatized_text_reduced": "aemet extender alerta amarillo lluvia archipiélago canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha extendido finalmente la alerta amarilla (riesgo) por lluvias este lunes a todo el archipiélago canario.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber extender finalmente el alerta amarillo riesgo por lluvia este [L:??/??/??:??.??:??] a todo el archipiélago canario",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber extender finalmente alerta amarillo riesgo lluvia archipiélago canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha extendido finalmente la alerta amarilla (riesgo) por lluvias este lunes a todo el archipiélago canario. De esta forma, a Gran Canaria, Fuerteventura, Lanzarote, Tenerife y El Hierro que ya se encontraban en alerta para este lunes, se ha unido La Palma y La Gomera, ya que podrían caer hasta 15 litros por hora, pudiéndose acumular 90 litros en doce horas, según informó la Aemet y recogió Europa Press. Fuerteventura y Lanzarote mantienen así el riesgo por lluvias, ya que la alerta en ambos territorios insulares se activó a las 15.00 horas de este domingo y finalizará en a las 18.00 horas del martes, 25 de enero. En cuanto a Gran Canaria y Tenerife la alerta comenzará a partir de las 15.00 horas de este lunes, finalizando en ambas a las 18.00 horas del día siguiente. En concreto, en la isla de Gran Canaria el riesgo de precipitaciones que podrían dejar 15 litros en una hora estará activado, principalmente, en cumbres, Este, Sur y Oeste. Así, en la isla de Tenerife la alerta por lluvias, que también podrían dejar 15 litros en un hora y 90 litros en doce horas, estará activada en todo el territorio insular. El Hierro, La Palma y La Gomera serán las otras islas que se verán afectadas por las precipitaciones y se activará la alerta amarilla a partir de las 18.00 horas de este lunes, para poner fin al riesgo a las 18.00 horas del martes, pudiendo dejar en este intervalo de tiempo 15 litros por hora.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber extender finalmente el alerta amarillo riesgo por lluvia este [L:??/??/??:??.??:??] a todo el archipiélago canario de este forma a gran_canaria fuerteventura lanzarote tenerife y el_hierro que ya se encontrar en alerta para este [L:??/??/??:??.??:??] se haber unir la_palma y la_gomera ya_que poder caer hasta VL_l:15 por hora poder se acumular VL_l:90 en TM_h:12 según informar el aemet y recoger europa_press fuerteventura y lanzarote mantener así el riesgo por lluvia ya_que el alerta en ambos territorio insular se activar a el TM_h:15 de este [G:??/??/??:??.??:??] y finalizar en a el [M:25/1/??:6.00:pm] en_cuanto_a gran_canaria y tenerife el alerta comenzar a_partir_de el TM_h:15 de este [L:??/??/??:??.??:??] finalizar en ambos a el TM_h:18 de el día siguiente en concreto en el isla de gran_canaria el riesgo de precipitación que poder dejar VL_l:15 en uno hora estar activar principalmente en cumbre este sur y oeste así en el isla de tenerife el alerta por lluvia que también poder dejar VL_l:15 en uno hora y VL_l:90 en TM_h:12 estar activar en todo el territorio insular el hierro la_palma y la_gomera ser el otro isla que se ver afectar por el precipitación y se activar el alerta amarillo a_partir_de el TM_h:18 de este [L:??/??/??:??.??:??] para poner fin a el riesgo a el [M:??/??/??:6.00:pm] poder dejar en este intervalo de tiempo VL_l:15 por hora",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber extender finalmente alerta amarillo riesgo lluvia archipiélago canario forma gran_canaria fuerteventura lanzarote tenerife el_hierro encontrar alerta haber unir la_palma la_gomera poder caer hora poder acumular informar aemet recoger europa_press fuerteventura lanzarote mantener riesgo lluvia alerta territorio insular activar finalizar gran_canaria tenerife alerta comenzar finalizar día siguiente concreto isla gran_canaria riesgo precipitación poder dejar hora estar activar principalmente cumbre este sur oeste isla tenerife alerta lluvia poder dejar hora estar activar territorio insular hierro la_palma la_gomera ser isla ver afectar precipitación activar alerta amarillo poner fin riesgo poder dejar intervalo tiempo hora",
+        "persons": [
+            "Hierro"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Lanzarote",
+            "La_Palma",
+            "La_Gomera",
+            "Lanzarote",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Este",
+            "Sur",
+            "Oeste",
+            "Tenerife",
+            "La_Palma",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Fuerteventura",
+            "Tenerife",
+            "El_Hierro",
+            "Aemet",
+            "Europa_Press",
+            "Fuerteventura",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[M:25/1/??:6.00:pm]",
+            "[L:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[M:??/??/??:6.00:pm]"
+        ],
+        "numbers": [
+            "VL_l:15",
+            "VL_l:90",
+            "TM_h:12",
+            "TM_h:15",
+            "TM_h:15",
+            "TM_h:18",
+            "VL_l:15",
+            "VL_l:15",
+            "VL_l:90",
+            "TM_h:12",
+            "TM_h:18",
+            "VL_l:15"
+        ]
+    }
+}

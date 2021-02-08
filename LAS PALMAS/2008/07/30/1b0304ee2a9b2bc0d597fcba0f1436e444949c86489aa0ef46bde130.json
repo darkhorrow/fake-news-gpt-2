@@ -1,0 +1,94 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/403133/0/Hamlet/festival/teatro/",
+    "title": {
+        "raw_text": "Hamlet , esta noche en el Parque de Santa Catalina",
+        "lemmatized_text": "hamlet este noche en el parque_de_santa_catalina",
+        "lemmatized_text_reduced": "hamlet noche parque_de_santa_catalina",
+        "persons": [],
+        "locations": [
+            "Parque_de_Santa_Catalina"
+        ],
+        "organizations": [],
+        "others": [
+            "Hamlet"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Juan Diego Botto dirige y protagoniza esta versión de este clásico La obra se representa hoy y mañana dentro del Festival de Teatro y Danza. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "juan_diego_botto dirigir y protagonizar este versión de este clásico la obra se representar hoy y mañana dentro de el festival_de_teatro y danza consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "juan_diego_botto dirigir protagonizar versión clásico la obra representar festival_de_teatro danza consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Juan_Diego_Botto"
+        ],
+        "locations": [],
+        "organizations": [
+            "Danza",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "La",
+            "Festival_de_Teatro"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El 13 er Festival de Teatro y Danza de Las Palmas de Gran Canaria presenta el miércoles 30 y el jueves 31 de julio, a las 22:00, en el Parque de Santa Catalina, la tragedia clásica de Shakespeare Hamlet , un montaje del Centro de Nuevos Creadores dirigido por Juan Diego Botto y protagonizado por él mismo además de Jose Coronado, Marta Etura, Alejandro Botto, Nieve de Medina y Luis Hostalot. Hamlet cuenta las luchas por el gobierno de Elsinor , donde Claudio, el rey, es un asesino que ha matado a su hermano para subir al trono y donde el Estado se encuentra envenenado por la ambición de poder. En medio de este clima hostil, Hamlet, hijo del rey asesinado, desconfía de todo . Además de reflejar el poder como una maquinaria que despedaza a quien se acerca a ella, la obra muestra a un Hamlet joven e incapaz de estar a la altura de su difunto padre, exigencia que le paraliza y constituye uno de los temas centrales de esta versión del Centro de Nuevos Creadores. Juan Diego Botto (Buenos Aires, 1975) es uno de los fundadores e impulsores del Centro de Nuevos Creadores , compañía con la que debutó como director de escena con la obra El privilegio de ser perro y, posteriormente, La última noche de la peste . Conocido por el gran público a raíz de la película Historias del Kronen , por la que fue nominado en 1995 a los Premios Goya como Mejor Actor Revelación y Mejor Actor de Reparto por la Unión de Actores, Botto pone en marcha su tercera producción teatral enfrentándose a uno de los más célebres textos de William Shakespeare, Hamlet . El Centro de Nuevos Creadores nació hace seis años con el propósito de mostrar, difundir y dar oportunidad tanto al público como a los artistas noveles de dar a conocer sus ideas y montajes, y disfrutar y vivir un teatro de la máxima calidad conjugado con un firme compromiso con la realidad y la reflexión social y política.",
+        "lemmatized_text": "el 13 er festival_de_teatro y danza_de_las_palmas_de_gran_canaria presentar el [X:30/??/??:??.??:??] y el [J:31/7/??:??.??:??] a el 22:00 en el parque_de_santa_catalina el tragedia clásico de shakespeare_hamlet uno montaje de el centro_de_nuevos_creadores dirigir por juan_diego_botto y protagonizar por él mismo además_de jose_coronado marta_etura alejandro_botto nieve_de_medina y luis_hostalot hamlet contar el lucha por el gobierno de elsinor donde claudio el rey ser uno asesino que haber matar a su hermano para subir a el trono y donde el estado se encontrar envenenar por el ambición de poder en_medio_de este clima hostil hamlet hijo de el rey asesinar desconfiar de todo además_de reflejar el poder como uno maquinaria que despedazar a quien se acercar a él el obra mostrar a uno hamlet joven y incapaz de estar a el altura de su difunto padre exigencia que le paralizar y constituir uno de el tema central de este versión de el centro_de_nuevos_creadores juan_diego_botto buenos_aires 1975 ser uno de el fundador y impulsor de el centro_de_nuevos_creadores compañía con el que debutar como director de escena con el obra el privilegio de ser perro y posteriormente la último noche de el peste conocer por el gran público a_raíz_de el película historias_del_kronen por el que ser nominar en 1995 a el premios_goya como mejor_actor_revelación y mejor_actor_de_reparto_por_la_unión_de_actores botto poner en marcha su 3 producción teatral enfrentar se a uno de el más célebre texto de william_shakespeare hamlet el centro_de_nuevos_creadores nacer hacer 6 año con el propósito de mostrar difundir y dar oportunidad tanto a el público como a el artista novel de dar_a_conocer su idea y montaje y disfrutar y vivir uno teatro de el máximo calidad conjugar con uno firme compromiso con el realidad y el reflexión social y político",
+        "lemmatized_text_reduced": "er festival_de_teatro danza_de_las_palmas_de_gran_canaria presentar parque_de_santa_catalina tragedia clásico shakespeare_hamlet montaje centro_de_nuevos_creadores dirigir juan_diego_botto protagonizar mismo jose_coronado marta_etura alejandro_botto nieve_de_medina luis_hostalot hamlet contar lucha gobierno elsinor claudio rey ser asesino haber matar hermano subir trono estado encontrar envenenar ambición poder clima hostil hamlet hijo rey asesinar desconfiar reflejar poder maquinaria despedazar acercar obra mostrar hamlet joven incapaz estar altura difunto padre exigencia paralizar constituir tema central versión centro_de_nuevos_creadores juan_diego_botto buenos_aires ser fundador impulsor centro_de_nuevos_creadores compañía debutar director escena obra el privilegio ser perro posteriormente la último noche peste conocer gran público película historias_del_kronen ser nominar premios_goya mejor_actor_revelación mejor_actor_de_reparto_por_la_unión_de_actores botto poner marcha 3 producción teatral enfrentar célebre texto william_shakespeare hamlet centro_de_nuevos_creadores nacer hacer año propósito mostrar difundir dar oportunidad público artista novel dar_a_conocer idea montaje disfrutar vivir teatro máximo calidad conjugar firme compromiso realidad reflexión social político",
+        "persons": [
+            "Shakespeare_Hamlet",
+            "Juan_Diego_Botto",
+            "Jose_Coronado",
+            "Marta_Etura",
+            "Alejandro_Botto",
+            "Nieve_de_Medina",
+            "Luis_Hostalot",
+            "Claudio",
+            "Hamlet",
+            "Juan_Diego_Botto",
+            "La",
+            "Mejor_Actor_Revelación",
+            "Botto"
+        ],
+        "locations": [
+            "Parque_de_Santa_Catalina",
+            "Elsinor",
+            "Buenos_Aires",
+            "William_Shakespeare"
+        ],
+        "organizations": [
+            "Danza_de_Las_Palmas_de_Gran_Canaria",
+            "Centro_de_Nuevos_Creadores",
+            "Estado",
+            "Centro_de_Nuevos_Creadores",
+            "Centro_de_Nuevos_Creadores",
+            "Historias_del_Kronen",
+            "Mejor_Actor_de_Reparto_por_la_Unión_de_Actores",
+            "Centro_de_Nuevos_Creadores"
+        ],
+        "others": [
+            "Festival_de_Teatro",
+            "Hamlet",
+            "Hamlet",
+            "El",
+            "Premios_Goya",
+            "Hamlet"
+        ],
+        "dates": [
+            "[X:30/??/??:??.??:??]",
+            "[J:31/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "13",
+            "22:00",
+            "1975",
+            "1995",
+            "6"
+        ]
+    }
+}

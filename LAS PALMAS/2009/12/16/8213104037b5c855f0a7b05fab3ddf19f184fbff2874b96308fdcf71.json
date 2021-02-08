@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/589492/0/",
+    "title": {
+        "raw_text": "PSC-PSOE exige que se apliquen al plátano \"de inmediato\" las subvenciones del transporte de mercancías",
+        "lemmatized_text": "psc-psoe exigir que se aplicar a el plátano de inmediato el subvención de el transporte de mercancía",
+        "lemmatized_text_reduced": "psc-psoe exigir aplicar plátano inmediato subvención transporte mercancía",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "PSC-PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El diputado del Partido Socialista Canario (PSC-PSOE) Blas Trujillo afirma que una vez producida la rebaja del arancel de entrada del plátano extracomunitario en los mercados europeos, \"se dan las condiciones para que se activen, de la forma más inmediata posible, las subvenciones previstas para el transporte de mercancías\".",
+        "lemmatized_text": "el diputado de el partido_socialista_canario psc-psoe blas_trujillo afirmar que uno vez producir el rebaja de el arancel de entrada de el plátano extracomunitario en el mercado europeo se dar el condición para que se activar de el forma más inmediato posible el subvención prever para el transporte de mercancía",
+        "lemmatized_text_reduced": "diputado partido_socialista_canario psc-psoe blas_trujillo afirmar vez producir rebaja arancel entrada plátano extracomunitario mercado europeo dar condición activar forma inmediato posible subvención prever transporte mercancía",
+        "persons": [
+            "Blas_Trujillo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Partido_Socialista_Canario",
+            "PSC-PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Trujillo realiza estas manifestaciones en un comunicado después de que ayer la Unión Europea haya cerrado un acuerdo con los países latinoamericanos, de tal forma que de los 176 euros actuales se pasará, a principios del próximo año, a 148 euros, cantidad que irá descendiendo anualmente hasta que se alcancen los 117 euros por tonelada en el año 2017. El diputado socialista asegura que el descenso del arancel a la entrada del plátano procedente de fuera de la Unión Europea a 148 dólares \"era una bajada esperada\" e insiste en que se ha adoptado una medida preventiva \"que ahora hay que activar: que le plátano se incorpore de inmediato a las subvenciones al transporte que existen para los productos agrícolas\". A su juicio, \"ésa es la salida y la solución ante el impacto de esta bajada del arancel al plátano extracomunitario\". Trujillo recuerda, por último, que en el Decreto de subvenciones así se prevé.",
+        "lemmatized_text": "trujillo realizar este manifestación en uno comunicado después_de que ayer el unión_europea haber cerrar uno acuerdo con el país latinoamericano de tal forma que de el $_ECU:176 actual se pasar a principio de el próximo año a $_ECU:148 cantidad que ir descender anualmente hasta que se alcanzar el $_ECU:117 por tonelada en el [??:??/??/2017:??.??:??] el diputado socialista asegurar que el descenso de el arancel a el entrada de el plátano procedente de fuera_de el unión_europea a $_USD:148 ser uno bajada esperar y insistir en que se haber adoptar uno medida preventivo que ahora haber que activar que le plátano se incorporar de inmediato a el subvención a el transporte que existir para el producto agrícola a su juicio ese ser el salida y el solución ante el impacto de este bajada de el arancel a el plátano extracomunitario trujillo recordar por último que en el decreto de subvención así se prever",
+        "lemmatized_text_reduced": "trujillo realizar manifestación comunicado unión_europea haber cerrar acuerdo país latinoamericano forma actual pasar principio próximo año cantidad ir descender anualmente alcanzar tonelada diputado socialista asegurar descenso arancel entrada plátano procedente unión_europea ser bajada esperar insistir haber adoptar medida preventivo haber activar plátano incorporar inmediato subvención transporte existir producto agrícola juicio ser salida solución impacto bajada arancel plátano extracomunitario trujillo recordar último decreto subvención prever",
+        "persons": [
+            "Trujillo",
+            "Trujillo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Unión_Europea",
+            "Unión_Europea"
+        ],
+        "others": [
+            "Decreto"
+        ],
+        "dates": [
+            "[??:??/??/2017:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:176",
+            "$_ECU:148",
+            "$_ECU:117",
+            "$_USD:148"
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/963651/0/",
+    "title": {
+        "raw_text": "La AEMET declara el riesgo amarillo en Lanzarote por vientos costeros",
+        "lemmatized_text": "el aemet declarar el riesgo amarillo en lanzarote por viento costero",
+        "lemmatized_text_reduced": "aemet declarar riesgo amarillo lanzarote viento costero",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Coruña, Pontevedra, Menorca y Lanzarote están en alerta por vientos costeros y por lluvias que podrán acumular 40 litros por metro cuadrado en doce horas, según la predicción de la Agencia Estatal de Meteorología (AEMET).",
+        "lemmatized_text": "el coruña pontevedra menorca y lanzarote estar en alerta por viento costero y por lluvia que poder acumular CB_l/m2:40 en TM_h:12 según el predicción de el agencia_estatal_de_meteorología aemet",
+        "lemmatized_text_reduced": "coruña pontevedra menorca lanzarote estar alerta viento costero lluvia poder acumular predicción agencia_estatal_de_meteorología aemet",
+        "persons": [],
+        "locations": [
+            "Pontevedra",
+            "Menorca",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Coruña",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "CB_l/m2:40",
+            "TM_h:12"
+        ]
+    },
+    "body": {
+        "raw_text": "La Coruña, Pontevedra, Menorca y Lanzarote están en alerta por vientos costeros y por lluvias que podrán acumular 40 litros por metro cuadrado en doce horas, según la predicción de la Agencia Estatal de Meteorología (AEMET). Concretamente, La Coruña, Menorca y Lanzarote tienen activada la alerta amarilla (riesgo) por vientos, mientras que Pontevedra están en el mismo nivel de alerta por lluvias. Así, los vientos soplarán de flojos a moderados, predominando la componente oeste, en la Península y Baleares, con intervalos fuertes en el litoral de Galicia, Ampurdán y Baleares. En Canarias, las ráfagas variarán de flojas a moderadas, predominando las del noreste. Además, los cielos estarán muy nubosos o cubiertos en Galicia y oeste de Asturias y de León, con precipitaciones que oscilarán de débiles a moderadas, que serán persistentes en el suroeste de Galicia. Asimismo, es posible que las lluvias, más débiles y dispersas, se extiendan a lo largo de la jornada al resto del Cantábrico, meseta norte y Extremadura. También se espera algún chubasco débil en las primeras horas en el área pirenaica y en Baleares, tendiendo a poco nuboso a lo largo del día en ambas zonas. En el resto de la Península, se prevé poca nubosidad al inicio de la jornada, con tendencia a aumentar a nuboso de nubes medias y altas en la zona centro. En Canarias, habrá intervalos nubosos. Finalmente, la cota de nieve se situará sobre los 1.000 metros en la Península y subirá hasta los 1.500 metros. Las temperaturas diurnas experimentarán un ascenso que variará de ligero a moderado en la Península y Baleares, manteniéndose sin cambios significativos en Canarias.",
+        "lemmatized_text": "el coruña pontevedra menorca y lanzarote estar en alerta por viento costero y por lluvia que poder acumular CB_l/m2:40 en TM_h:12 según el predicción de el agencia_estatal_de_meteorología aemet concretamente la_coruña menorca y lanzarote tener activar el alerta amarillo riesgo por viento mientras_que pontevedra estar en el mismo nivel de alerta por lluvia así el viento soplar de flojo a moderado predominar el componente oeste en el península y baleares con intervalo fuerte en el litoral de galicia ampurdán y baleares en canarias el ráfaga variar de flojo a moderado predominar el de el noreste además el cielo estar muy nuboso o cubrir en galicia y oeste de asturias y de león con precipitación que oscilar de débil a moderado que ser persistente en el suroeste de galicia asimismo ser posible que el lluvia más débil y disperso se extender a el largo de el jornada a el resto de el cantábrico meseta norte y extremadura también se esperar alguno chubasco débil en el 1 hora en el área pirenaico y en baleares tender a poco nuboso a el largo de el día en ambos zona en el resto de el península se prever poco nubosidad a el inicio de el jornada con tendencia a aumentar a nuboso de nube medio y alto en el zona centro en canarias haber intervalo nuboso finalmente el cota de nieve se situar sobre el LN_m:1 en el península y subir hasta el LN_m:1.5 el temperatura diurno experimentar uno ascenso que variar de ligero a moderar en el península y baleares mantener se sin cambio significativo en canarias",
+        "lemmatized_text_reduced": "coruña pontevedra menorca lanzarote estar alerta viento costero lluvia poder acumular predicción agencia_estatal_de_meteorología aemet concretamente la_coruña menorca lanzarote tener activar alerta amarillo riesgo viento pontevedra estar mismo nivel alerta lluvia viento soplar flojo moderado predominar componente oeste península baleares intervalo fuerte litoral galicia ampurdán baleares canarias ráfaga variar flojo moderado predominar noreste cielo estar nuboso cubrir galicia oeste asturias león precipitación oscilar débil moderado ser persistente suroeste galicia ser posible lluvia débil disperso extender largo jornada resto cantábrico meseta norte extremadura esperar chubasco débil 1 hora área pirenaico baleares tender nuboso largo día zona resto península prever nubosidad inicio jornada tendencia aumentar nuboso nube medio alto zona centro canarias haber intervalo nuboso finalmente cota nieve situar península subir temperatura diurno experimentar ascenso variar ligero moderar península baleares mantener cambio significativo canarias",
+        "persons": [],
+        "locations": [
+            "Pontevedra",
+            "Menorca",
+            "Lanzarote",
+            "La_Coruña",
+            "Menorca",
+            "Lanzarote",
+            "Península",
+            "Baleares",
+            "Galicia",
+            "Ampurdán",
+            "Baleares",
+            "Canarias",
+            "Galicia",
+            "Asturias",
+            "León",
+            "Galicia",
+            "Cantábrico",
+            "Extremadura",
+            "Baleares",
+            "Península",
+            "Canarias",
+            "Península",
+            "Península",
+            "Baleares",
+            "Canarias"
+        ],
+        "organizations": [
+            "Coruña",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "Pontevedra"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "CB_l/m2:40",
+            "TM_h:12",
+            "LN_m:1",
+            "LN_m:1.5"
+        ]
+    }
+}

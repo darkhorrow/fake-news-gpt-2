@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/932895/0/",
+    "title": {
+        "raw_text": "Una mujer resulta herida al caerse desde el primer piso de un edificio en Arucas (Gran Canaria)",
+        "lemmatized_text": "uno mujer resultar herir a el caer se desde el 1 piso de uno edificio en arucas gran_canaria",
+        "lemmatized_text_reduced": "mujer resultar herir caer 1 piso edificio arucas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer de unos 50 años ha resultado herida con traumatismo craneal de carácter menos grave al caerse desde el primer miso de un edificio ubicado en la calle Sarazá Ortiz, en Arucas (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2.",
+        "lemmatized_text": "uno mujer de uno 50 año haber resultar herida con traumatismo craneal de carácter menos grave a el caer se desde el 1 miso de uno edificio ubicar en el calle sarazá_ortiz en arucas gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "mujer año haber resultar herida traumatismo craneal carácter grave caer 1 miso edificio ubicar calle sarazá_ortiz arucas gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Sarazá_Ortiz",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer de unos 50 años ha resultado herida con traumatismo craneal de carácter menos grave al caerse desde el primer miso de un edificio ubicado en la calle Sarazá Ortiz, en Arucas (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2. Los hechos ocurrieron este martes, a las 19.30 horas, cuando se registró una alerta en el Cecoes 1-1-2 informando de que una mujer había sufrido una precipitación a la vía pública, al parecer accidental, mientras se encontraba limpiando las ventanas de una vivienda ubicada en el primer piso de un edificio, por lo que se encontraba herida. De este modo, el 1-1-2 activó de inmediato los recursos de emergencias oportunos. Una vez en el lugar el personal sanitario del Servicio de Urgencias Canario (SUC), acompañado del médico del centro de salud, atendió y estabilizó a la afectada, que fue evacuada en una ambulancia sanitarizada del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. Los cuerpos de seguridad de la Guardia Civil y la Policía Local llevaron a cabo las diligencias pertinentes, aseguraron la zona y colaboraron con los recursos sanitarios.",
+        "lemmatized_text": "uno mujer de uno 50 año haber resultar herida con traumatismo craneal de carácter menos grave a el caer se desde el 1 miso de uno edificio ubicar en el calle sarazá_ortiz en arucas gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 el hecho ocurrir este [M:??/??/??:??.??:??] a el TM_h:19.3 cuando se registrar uno alerta en el cecoes 1-1-2 informar de que uno mujer haber sufrir uno precipitación a el vía público a el parecer accidental mientras se encontrar limpiar el ventana de uno vivienda ubicar en el 1 piso de uno edificio por el que se encontrar herida de este modo el 1-1-2 activar de inmediato el recurso de emergencia oportuno uno vez en el lugar el personal sanitario de el servicio_de_urgencias_canario suc acompañar de el médico de el centro de salud atender y estabilizar a el afectado que ser evacuar en uno ambulancia sanitarizada de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín el cuerpo de seguridad de el guardia_civil y el policía_local llevar_a_cabo el diligencia pertinente asegurar el zona y colaborar con el recurso sanitario",
+        "lemmatized_text_reduced": "mujer año haber resultar herida traumatismo craneal carácter grave caer 1 miso edificio ubicar calle sarazá_ortiz arucas gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir registrar alerta cecoes informar mujer haber sufrir precipitación vía público parecer accidental encontrar limpiar ventana vivienda ubicar 1 piso edificio encontrar herida modo activar inmediato recurso emergencia oportuno vez lugar personal sanitario servicio_de_urgencias_canario suc acompañar médico centro salud atender estabilizar afectado ser evacuar ambulancia sanitarizada suc hospital_universitario_de_gran_canaria_doctor_negrín cuerpo seguridad guardia_civil policía_local llevar_a_cabo diligencia pertinente asegurar zona colaborar recurso sanitario",
+        "persons": [],
+        "locations": [
+            "Sarazá_Ortiz",
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad",
+            "Cecoes"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "50",
+            "1-1-2",
+            "TM_h:19.3",
+            "1-1-2",
+            "1-1-2"
+        ]
+    }
+}

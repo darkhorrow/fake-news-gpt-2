@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/592023/0/",
+    "title": {
+        "raw_text": "Aemet declara desde mañana alerta amarilla por vientos de hasta 85 kilómetros hora en Tenerife y La Palma",
+        "lemmatized_text": "aemet declarar desde mañana alerta amarillo por viento de hasta LN_km:85 hora en tenerife y la_palma",
+        "lemmatized_text_reduced": "aemet declarar alerta amarillo viento hora tenerife la_palma",
+        "persons": [
+            "Aemet"
+        ],
+        "locations": [
+            "Tenerife",
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_km:85"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) declarará mañana la alerta amarilla por vientos de hasta 85 kilómetros/hora en las islas de Tenerife y La Palma y extenderá el aviso a Gran Canaria durante la jornada del lunes.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet declarar mañana el alerta amarillo por viento de hasta SP_km/h:85 en el isla de tenerife y la_palma y extender el aviso a gran_canaria durante el jornada de el [L:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet declarar alerta amarillo viento isla tenerife la_palma extender aviso gran_canaria jornada",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:85"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, las fuertes rachas de viento comenzarán mañana, sobre las 15.00 horas, en la zona de La Orotava y Vilaflor, en la isla tinerfeña, donde se alcanzarán los 75 kilómetros/hora y que serán más fuertes (85 km/h) en las zonas de cumbre de La Palma. Ya el lunes, el aviso por vientos se extenderá a Gran Canaria donde se esperan rachas de hasta 75 kilómetros/hora en las cumbres de la isla redonda. La Aemet dará por finalizada esta alerta durante la media noche de este martes.",
+        "lemmatized_text": "en concreto el fuerte racha de viento comenzar mañana sobre el TM_h:15 en_la_zona_de la_orotava y vilaflor en el isla tinerfeño donde se alcanzar el SP_km/h:75 y que ser más fuerte SP_km/h:85 en el zona de cumbre de la_palma ya el [L:??/??/??:??.??:??] el aviso por viento se extender a gran_canaria donde se esperar racha de hasta SP_km/h:75 en el cumbre de el isla redondo el aemet dar por finalizar este alerta durante el medio noche de este [M:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "concreto fuerte racha viento comenzar la_orotava vilaflor isla tinerfeño alcanzar ser fuerte zona cumbre la_palma aviso viento extender gran_canaria esperar racha cumbre isla redondo aemet dar finalizar alerta medio noche",
+        "persons": [],
+        "locations": [
+            "La_Orotava",
+            "Vilaflor",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:15",
+            "SP_km/h:75",
+            "SP_km/h:85",
+            "SP_km/h:75"
+        ]
+    }
+}

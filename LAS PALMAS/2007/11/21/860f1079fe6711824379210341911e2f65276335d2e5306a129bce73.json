@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/309772/0/secuestro/menores/canarias/",
+    "title": {
+        "raw_text": "Intentaron raptar a dos menores de edad en Guía, al norte de Gran Canaria",
+        "lemmatized_text": "intentar raptar a 2 menor de edad en guía a el norte de gran_canaria",
+        "lemmatized_text_reduced": "intentar raptar menor edad guía norte gran_canaria",
+        "persons": [],
+        "locations": [
+            "Guía",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Las niñas lograron zafarse del captor. Los sospechosos huyeron en una furgoneta Toyota Hilux blanca. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el niño lograr zafar se de el captor el sospechoso huir en uno furgoneta toyota_hilux blanco consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "niño lograr zafar captor sospechoso huir furgoneta toyota_hilux blanco consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Toyota_Hilux"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En Guía, específicamente en el barrio La Atalaya, intentaron secuestrar a dos niñas de diez años de edad , pero las menores lograron librarse de su captor, y éste se vio obligado a darse a la fuga con su cómplice. El agresor fue descrito por las niñas como un hombre de 50 años de edad , de barbilla muy pronunciada, que llevaba una gorra puesta y lucia un reloj en la mano derecha. Se buscan El hombre sujeto a las niñas y se las intentó llevar en una furgoneta Toyota Hilux blanca, en la que le esperaba un cómplice al volante presumiblemente varón. Luego de escaparse y contar lo sucedido, según las fuentes, personas ligadas al entorno de las niñas dieron parte a la Guardia Civil, que abrió las averiguaciones para esclarecer los hechos. Las autoridades movilizaron a su persona l en busca de los individuos. En La Aldea de San Nicolás, a principios del año escolar se vivió una situación similar de la que no se dio cuenta a las autoridades. Se esperan los detalles En esa oportunidad intentaron llevarse a una niña y un niño . La descripción, de la que hablaban en aquel momento los vecinos, coincide en el color y tipo de vehículo y en la edad del hombre. Se espera que en el transcurso del día la Guardia Civil de más detalles respecto a este caso. Por suerte para éstas menores el episodio solo quedo en una anécdota sin nada que lamentar por la rápida y decidida acción de ellas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "en guía específicamente en el barrio la_atalaya intentar secuestrar a 2 niño de 10 año de edad pero el menor lograr librar se de su captor y este se ver obligar a dar se a el fuga con su cómplice el agresor ser describir por el niño como uno hombre de 50 año de edad de barbilla muy pronunciar que llevar uno gorra poner y lucio uno reloj en el mano derecho se buscar el hombre sujeto a el niño y se lo intentar llevar en uno furgoneta toyota_hilux blanco en el que le esperar uno cómplice a el volante presumiblemente varón luego_de escapar se y contar el suceder según el fuente persona ligar a el entorno de el niño dar parte a el guardia_civil que abrir el averiguación para esclarecer el hecho el autoridad movilizar a su persona l en_busca_de el individuo en la_aldea_de_san_nicolás a principio de el año escolar se vivir uno situación similar de el que no se dar_cuenta a el autoridad se esperar el detalle en ese oportunidad intentar llevar se a uno niño y uno niño el descripción de el que hablar en aquel momento el vecino coincidir en el color y tipo de vehículo y en el edad de el hombre se esperar que en el transcurso de el día el guardia_civil de más detalle respecto_a este caso por suerte para este menor el episodio solo quedar en uno anécdota sin nada que lamentar por el rápido y decidir acción de ellos consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "guía específicamente barrio la_atalaya intentar secuestrar niño año edad menor lograr librar captor ver obligar dar fuga cómplice agresor ser describir niño hombre año edad barbilla pronunciar llevar gorra poner lucio reloj mano derecho buscar el hombre sujeto niño intentar llevar furgoneta toyota_hilux blanco esperar cómplice volante presumiblemente varón escapar contar suceder fuente persona ligar entorno niño dar parte guardia_civil abrir averiguación esclarecer hecho autoridad movilizar persona l individuo la_aldea_de_san_nicolás principio año escolar vivir situación similar dar_cuenta autoridad esperar detalle en oportunidad intentar llevar niño niño descripción hablar momento vecino coincidir color tipo vehículo edad hombre esperar transcurso día guardia_civil detalle caso suerte menor episodio solo quedar anécdota lamentar rápido decidir acción consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "El",
+            "Toyota_Hilux",
+            "En"
+        ],
+        "locations": [
+            "Guía",
+            "La_Atalaya",
+            "La_Aldea_de_San_Nicolás"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "10",
+            "50"
+        ]
+    }
+}

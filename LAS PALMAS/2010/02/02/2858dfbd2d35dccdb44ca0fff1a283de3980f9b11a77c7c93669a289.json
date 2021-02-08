@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620080/0/",
+    "title": {
+        "raw_text": "La jueza imputa al ex alcalde de San Mateo (Gran Canaria) por presunta malversación de caudales públicos",
+        "lemmatized_text": "el juez imputar a el ex alcalde de san_mateo gran_canaria por presunto malversación de caudal público",
+        "lemmatized_text_reduced": "juez imputar ex alcalde san_mateo gran_canaria presunto malversación caudal público",
+        "persons": [],
+        "locations": [
+            "San_Mateo"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La jueza del Juzgado de Instrucción número 5 de Las Palmas de Gran Canaria, Ana Isabel de Vega, ha imputado al ex alcalde de San Mateo, Miguel Antonio Hidalgo Sánchez, por un presunto delito de malversación de caudales públicos.",
+        "lemmatized_text": "el juez de el juzgado_de_instrucción número 5 de las_palmas_de_gran_canaria ana_isabel_de_vega haber imputar a el ex alcalde de san_mateo miguel_antonio_hidalgo_sánchez por uno presunto delito de malversación de caudal público",
+        "lemmatized_text_reduced": "juez juzgado_de_instrucción número las_palmas_de_gran_canaria ana_isabel_de_vega haber imputar ex alcalde san_mateo miguel_antonio_hidalgo_sánchez presunto delito malversación caudal público",
+        "persons": [
+            "Ana_Isabel_de_Vega",
+            "Miguel_Antonio_Hidalgo_Sánchez"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "San_Mateo"
+        ],
+        "organizations": [
+            "Juzgado_de_Instrucción"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "El ex regidor, del grupo político Agrupación Alternativa por San Mateo, que gobernó el municipio grancanario durante el período comprendido entre 1995 y 2006, prestó declaración hoy ante la magistrada en los juzgados de Granadera Canaria en la capital, según informó el Tribunal Superior de Justicia de Canarias en un comunicado. La jueza también ha imputado por el mismo supuesto delito de la malversación de fondos públicos al titular de la entidad Radio Tinamar SL, Jorge Rivero Barrios, y al concejal de Urbanismo y Fomento desde 2004 a 2007, Pedro Javier Quintana Ojeda, tras tomarles declaración durante la jornada de hoy. Todos los imputados han comparecido en relación a la denuncia interpuesta en febrero de 2009 por el presunto uso gratuito que por la entidad privada Radio Tinamar se estaba realizando de un local de propiedad municipal ubicado en la calle del Agua número 12.",
+        "lemmatized_text": "el ex regidor de el grupo político agrupación_alternativa_por_san_mateo que gobernar el municipio grancanario durante el período comprender entre 1995 y 2006 prestar declaración hoy ante el magistrado en el juzgado de granadera_canaria en el capital según informar el tribunal_superior_de_justicia_de_canarias en uno comunicado el juez también haber imputar por el mismo suponer delito de el malversación de fondo público a el titular de el entidad radio_tinamar_sl jorge_rivero_barrios y a el concejal de urbanismo y fomento desde 2004 a 2007 pedro_javier_quintana_ojeda tras tomar le declaración durante el jornada de hoy todo el imputar haber comparecer en relación a el denuncia interponer en [??:??/2/2009:??.??:??] por el presunto uso gratuito que por el entidad privar radio_tinamar se estar realizar de uno local de propiedad municipal ubicar en el calle de el agua número 12",
+        "lemmatized_text_reduced": "ex regidor grupo político agrupación_alternativa_por_san_mateo gobernar municipio grancanario período comprender prestar declaración magistrado juzgado granadera_canaria capital informar tribunal_superior_de_justicia_de_canarias comunicado juez haber imputar mismo suponer delito malversación fondo público titular entidad radio_tinamar_sl jorge_rivero_barrios concejal urbanismo fomento pedro_javier_quintana_ojeda tomar declaración jornada imputar haber comparecer relación denuncia interponer presunto uso gratuito entidad privar radio_tinamar estar realizar local propiedad municipal ubicar calle agua número",
+        "persons": [
+            "Jorge_Rivero_Barrios",
+            "Pedro_Javier_Quintana_Ojeda"
+        ],
+        "locations": [
+            "Granadera_Canaria",
+            "Agua"
+        ],
+        "organizations": [
+            "Agrupación_Alternativa_por_San_Mateo",
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "Radio_Tinamar_SL",
+            "Radio_Tinamar"
+        ],
+        "others": [
+            "Urbanismo",
+            "Fomento"
+        ],
+        "dates": [
+            "[??:??/2/2009:??.??:??]"
+        ],
+        "numbers": [
+            "1995",
+            "2006",
+            "2004",
+            "2007",
+            "12"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/923396/0/",
+    "title": {
+        "raw_text": "Un hombre menos grave después de recibir un golpe en la cabeza en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre menos grave después_de recibir uno golpe en el cabeza en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre grave recibir golpe cabeza las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre, de 40 años de edad, resultó herido de carácter menos grave tras recibir un golpe en la cabeza en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y de Seguridad 112.",
+        "lemmatized_text": "uno hombre de 40 año de edad resultar herir de carácter menos grave tras recibir uno golpe en el cabeza en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y de seguridad 112",
+        "lemmatized_text_reduced": "hombre año edad resultar herir carácter grave recibir golpe cabeza las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "40",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre, de 40 años de edad, resultó herido de carácter menos grave tras recibir un golpe en la cabeza en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y de Seguridad 112. El incidente se produjo en la noche del domingo, en la calle Cirilo Moreno de la capital grancanaria, donde el herido sufrió traumatismo craneal y herida abierta en cabeza menos grave, por lo que tuvo que ser evacuado por el personal del Servicio de Urgencias Canario (SUC) al Hospital Universitario de Gran Canaria Doctor Negrín. Asimismo, en el lugar del suceso también se personaron agentes de la Policía Local, así como el Cuerpo Nacional de Policía, que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre de 40 año de edad resultar herir de carácter menos grave tras recibir uno golpe en el cabeza en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y de seguridad 112 el incidente se producir en el noche de el [G:??/??/??:??.??:??] en el calle cirilo_moreno de el capital grancanaria donde el herir sufrir traumatismo craneal y herida abrir en cabeza menos grave por el que tener que ser evacuar por el personal de el servicio_de_urgencias_canario suc a el hospital_universitario_de_gran_canaria_doctor_negrín asimismo en el lugar de el suceso también se personar agente de el policía_local así_como el cuerpo_nacional_de_policía que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre año edad resultar herir carácter grave recibir golpe cabeza las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad incidente producir noche calle cirilo_moreno capital grancanaria herir sufrir traumatismo craneal herida abrir cabeza grave tener ser evacuar personal servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín lugar suceso personar agente policía_local cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Cirilo_Moreno"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "40",
+            "112"
+        ]
+    }
+}

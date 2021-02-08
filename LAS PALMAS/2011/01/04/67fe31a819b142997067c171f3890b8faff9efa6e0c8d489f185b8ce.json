@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/920137/0/",
+    "title": {
+        "raw_text": "Una avioneta rompe el tren de aterrizaje al tomar tierra en la Punta de Jandía (Fuerteventura)",
+        "lemmatized_text": "uno avioneta romper el tren de aterrizaje a el tomar tierra en el punta_de_jandía fuerteventura",
+        "lemmatized_text_reduced": "avioneta romper tren aterrizaje tomar tierra punta_de_jandía fuerteventura",
+        "persons": [],
+        "locations": [
+            "Punta_de_Jandía"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes de Medio Ambiente del Cabildo de Fuerteventura intervinieron este martes en la Punta de Jandía, donde tuvo lugar el aterrizaje accidentado de una avioneta procedente de Gran Canaria cuyo tren de aterrizaje se había roto al tomar tierra, informó la Corporación en un comunicado.",
+        "lemmatized_text": "agentes_de_medio_ambiente_del_cabildo_de_fuerteventura intervenir este [M:??/??/??:??.??:??] en el punta_de_jandía donde tener_lugar el aterrizaje accidentar de uno avioneta procedente de gran_canaria cuyo tren de aterrizaje se haber romper a el tomar tierra informar el corporación en uno comunicado",
+        "lemmatized_text_reduced": "agentes_de_medio_ambiente_del_cabildo_de_fuerteventura intervenir punta_de_jandía tener_lugar aterrizaje accidentar avioneta procedente gran_canaria tren aterrizaje haber romper tomar tierra informar corporación comunicado",
+        "persons": [],
+        "locations": [
+            "Punta_de_Jandía"
+        ],
+        "organizations": [
+            "Corporación"
+        ],
+        "others": [
+            "Agentes_de_Medio_Ambiente_del_Cabildo_de_Fuerteventura",
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Agentes de Medio Ambiente del Cabildo de Fuerteventura intervinieron este martes en la Punta de Jandía, donde tuvo lugar el aterrizaje accidentado de una avioneta procedente de Gran Canaria cuyo tren de aterrizaje se había roto al tomar tierra, informó la Corporación en un comunicado. De esta manera, el aparato sufrió una avería al romper el tren de aterrizaje durante la maniobra de tomar tierra en suelo majorero, sin que ello supusiera daños personales para ninguno de sus dos ocupantes. El piloto y su acompañante se identificaron como vecinos de Gran Canaria, y explicaron a los agentes haber despegado desde el aeródromo grancanario de El Berriel. La Consejería de Medio Ambiente del Cabildo estudiará las diligencias que será necesario seguir con respecto a esta situación, pues el aterrizaje se produjo dentro de un espacio natural protegido como es el Parque Natural de Jandía. Finalmente, la Guardia Civil se desplazó a la zona del suceso para aclarar las circunstancias que llevaron al piloto de la avioneta tomar tierra en esta zona perteneciente al municipio de Pájara.",
+        "lemmatized_text": "agentes_de_medio_ambiente_del_cabildo_de_fuerteventura intervenir este [M:??/??/??:??.??:??] en el punta_de_jandía donde tener_lugar el aterrizaje accidentar de uno avioneta procedente de gran_canaria cuyo tren de aterrizaje se haber romper a el tomar tierra informar el corporación en uno comunicado de este manera el aparato sufrir uno avería a el romper el tren de aterrizaje durante el maniobra de tomar tierra en suelo majorero sin que ello suponer daño personal para ninguno de su 2 ocupante el piloto y su acompañante se identificar como vecino de gran_canaria y explicar a el agente haber despegar desde el aeródromo grancanario de el_berriel el consejería_de_medio_ambiente_del_cabildo estudiar el diligencia que ser necesario seguir con_respecto_a este situación pues el aterrizaje se producir dentro_de uno espacio natural protegido como ser el parque_natural_de_jandía finalmente el guardia_civil se desplazar a el zona de el suceso para aclarar el circunstancia que llevar a el piloto de el avioneta tomar tierra en este zona perteneciente a el municipio de pájara",
+        "lemmatized_text_reduced": "agentes_de_medio_ambiente_del_cabildo_de_fuerteventura intervenir punta_de_jandía tener_lugar aterrizaje accidentar avioneta procedente gran_canaria tren aterrizaje haber romper tomar tierra informar corporación comunicado manera aparato sufrir avería romper tren aterrizaje maniobra tomar tierra suelo majorero suponer daño personal ocupante piloto acompañante identificar vecino gran_canaria explicar agente haber despegar aeródromo grancanario el_berriel consejería_de_medio_ambiente_del_cabildo estudiar diligencia ser necesario seguir situación aterrizaje producir espacio natural protegido ser parque_natural_de_jandía finalmente guardia_civil desplazar zona suceso aclarar circunstancia llevar piloto avioneta tomar tierra zona perteneciente municipio pájara",
+        "persons": [],
+        "locations": [
+            "Punta_de_Jandía",
+            "Gran_Canaria",
+            "El_Berriel",
+            "Parque_Natural_de_Jandía",
+            "Pájara"
+        ],
+        "organizations": [
+            "Corporación",
+            "Consejería_de_Medio_Ambiente_del_Cabildo",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Agentes_de_Medio_Ambiente_del_Cabildo_de_Fuerteventura",
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    }
+}

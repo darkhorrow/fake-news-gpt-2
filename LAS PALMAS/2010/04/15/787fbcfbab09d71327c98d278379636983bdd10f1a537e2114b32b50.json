@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678087/0/",
+    "title": {
+        "raw_text": "Continúa la alerta en Canarias por fuertes vientos",
+        "lemmatized_text": "continuar el alerta en canarias por fuerte viento",
+        "lemmatized_text_reduced": "continuar alerta canarias fuerte viento",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) mantiene la alerta naranja por rachas máximas de viento de hasta 90 kilómetros por hora en los municipios de La Orotava y Vilaflor (Tenerife), así como avisa también por riesgo de fuertes vientos en las cumbres de Gran Canaria y La Palma.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet mantener el alerta naranja por racha máximo de viento de hasta SP_km/h:90 en el municipio de la_orotava y vilaflor tenerife así_como avisar también por riesgo de fuerte viento en el cumbre de gran_canaria y la_palma",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet mantener alerta naranja racha máximo viento municipio la_orotava vilaflor tenerife avisar riesgo fuerte viento cumbre gran_canaria la_palma",
+        "persons": [],
+        "locations": [
+            "La_Orotava",
+            "Vilaflor",
+            "Gran_Canaria",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:90"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, persistirán fuertes vientos de hasta 90 kilómetros por hora en las citadas localidades tinerfeñas hasta las 21.00 horas de este jueves, al registrarse vientos de componente oeste en cumbres centrales. En medianías de esta isla el nivel de alerta es amarillo, con rachas que pueden alcanzar los 80 kilómetros por hora. Por su parte, en la cumbre de La Palma se prevén rachas de hasta 75 kilómetros por hora, que en el este de la isla alcanzarán los 80 kilómetros por hora hasta la medianoche del viernes. Igualmente, en las cumbre de Gran Canaria habrá rachas de hasta 75 kilómetros por hora hasta esta medianoche. De este modo, el resto de islas se salvarán del temporal. La alerta por fuertes vientos concluirá este viernes. Lluvias débiles Asimismo, en Canarias se registrarán intervalos nubosos con algunas lluvias en general débiles, con vientos moderados a fuertes del Oeste, con intervalos muy fuertes en zonas altas. Los cielos estarán hoy muy nubosos en la vertiente atlántica peninsular, con precipitaciones débiles o moderadas, más intensas en Andalucía occidental y Extremadura, donde podrán ser localmente fuertes y acompañadas de tormentas, según la predicción de la Aemet. Intervalos nubosos en el resto de la Península, con posibilidad de alguna precipitación débil, menos probable cuanto más al noreste y al este. En Baleares, poco nuboso con intervalos de nubes medias y altas. La cota de nieve se situará sobre los 1.500 metros en los Pirineos y en torno a los 2.000 en el resto de la Península. Las temperaturas diurnas experimentarán un ligero ascenso en la mitad norte peninsular y Baleares, descenderán ligeramente en el suroeste y se mantendrán sin cambios en el resto del país. Los vientos soplarán flojos a moderados de componentes Este y Sur en la Península y Baleares, con intervalos fuertes en el litoral norte de Galicia.",
+        "lemmatized_text": "en concreto persistir fuerte viento de hasta SP_km/h:90 en el citar localidad tinerfeño hasta el TM_h:21 de este [J:??/??/??:??.??:??] a el registrar se viento de componente oeste en cumbre central en medianía de este isla el nivel de alerta ser amarillo con racha que poder alcanzar el SP_km/h:80 por su parte en el cumbre de la_palma se prever racha de hasta SP_km/h:75 que en el este de el isla alcanzar el SP_km/h:80 hasta el [V:??/??/??:00.00:am] igualmente en el cumbre de gran_canaria haber racha de hasta SP_km/h:75 hasta este [??:??/??/??:00.00:am] de este modo el resto de isla se salvar de el temporal el alerta por fuerte viento concluir este [V:??/??/??:??.??:??] lluvia débil asimismo en canarias se registrar intervalo nuboso con alguno lluvia en general débil con viento moderar a fuerte de el oeste con intervalo muy fuerte en zona alto el cielo estar hoy muy nuboso en el vertiente atlántico peninsular con precipitación débil o moderar más intenso en andalucía occidental y extremadura donde poder ser localmente fuerte y acompañar de tormenta según el predicción de el aemet intervalo nuboso en el resto de el península con posibilidad de alguno precipitación débil menos probable cuanto más a el noreste y a el este en baleares poco nuboso con intervalo de nube medio y alto el cota de nieve se situar sobre el LN_m:1.5 en el pirineos y en_torno_a el 2 en el resto de el península el temperatura diurno experimentar uno ligero ascenso en el mitad norte peninsular y baleares descender ligeramente en el suroeste y se mantener sin cambio en el resto de el país el viento soplar flojo a moderado de componente este y sur en el península y baleares con intervalo fuerte en el litoral norte de galicia",
+        "lemmatized_text_reduced": "concreto persistir fuerte viento citar localidad tinerfeño registrar viento componente oeste cumbre central medianía isla nivel alerta ser amarillo racha poder alcanzar parte cumbre la_palma prever racha este isla alcanzar igualmente cumbre gran_canaria haber racha modo resto isla salvar temporal alerta fuerte viento concluir lluvia débil asimismo canarias registrar intervalo nuboso lluvia general débil viento moderar fuerte oeste intervalo fuerte zona alto cielo estar nuboso vertiente atlántico peninsular precipitación débil moderar intenso andalucía occidental extremadura poder ser localmente fuerte acompañar tormenta predicción aemet intervalo nuboso resto península posibilidad precipitación débil probable noreste baleares nuboso intervalo nube medio alto cota nieve situar pirineos resto península temperatura diurno experimentar ligero ascenso mitad norte peninsular baleares descender ligeramente suroeste mantener cambio resto país viento soplar flojo moderado componente este sur península baleares intervalo fuerte litoral norte galicia",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Gran_Canaria",
+            "Canarias",
+            "Oeste",
+            "Andalucía",
+            "Extremadura",
+            "Península",
+            "Baleares",
+            "Pirineos",
+            "Península",
+            "Baleares",
+            "Este",
+            "Península",
+            "Baleares",
+            "Galicia"
+        ],
+        "organizations": [
+            "Aemet",
+            "Sur"
+        ],
+        "others": [
+            "Asimismo"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[V:??/??/??:00.00:am]",
+            "[??:??/??/??:00.00:am]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "SP_km/h:90",
+            "TM_h:21",
+            "SP_km/h:80",
+            "SP_km/h:75",
+            "SP_km/h:80",
+            "SP_km/h:75",
+            "LN_m:1.5",
+            "2"
+        ]
+    }
+}

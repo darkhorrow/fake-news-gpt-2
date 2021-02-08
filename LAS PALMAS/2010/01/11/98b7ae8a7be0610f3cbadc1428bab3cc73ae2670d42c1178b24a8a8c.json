@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/603565/0/",
+    "title": {
+        "raw_text": "Canarias presentará en la VI Feria de Artes Escénicas de Madrid su promoción cultural para el ejercicio de 2010",
+        "lemmatized_text": "canario presentar en el vi_feria_de_artes_escénicas_de_madrid su promoción cultural para el ejercicio de 2010",
+        "lemmatized_text_reduced": "canario presentar vi_feria_de_artes_escénicas_de_madrid promoción cultural ejercicio",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "VI_Feria_de_Artes_Escénicas_de_Madrid"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias viajará hasta Madrid para presentar su promoción cultural de cara al presente año en el marco de la VI Feria de Artes Escénicas que se celebrará hasta el jueves contando con la participación de compañías, empresarios y espectadores, según informó el Ayuntamiento de la capital.",
+        "lemmatized_text": "el gobierno_de_canarias viajar hasta madrid para presentar su promoción cultural de cara a el presente año en el marco de el vi_feria_de_artes_escénicas que se celebrar hasta el [J:??/??/??:??.??:??] contar con el participación de compañía empresario y espectador según informar el ayuntamiento de el capital",
+        "lemmatized_text_reduced": "gobierno_de_canarias viajar madrid presentar promoción cultural cara presente año marco vi_feria_de_artes_escénicas celebrar contar participación compañía empresario espectador informar ayuntamiento capital",
+        "persons": [],
+        "locations": [
+            "Madrid"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ayuntamiento"
+        ],
+        "others": [
+            "VI_Feria_de_Artes_Escénicas"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Gobierno de Canarias viajará hasta Madrid para presentar su promoción cultural de cara al presente año en el marco de la VI Feria de Artes Escénicas que se celebrará hasta el jueves contando con la participación de compañías, empresarios y espectadores, según informó el Ayuntamiento de la capital. El festival tendrá sedes en el Matadero de Madrid, en los teatros Lara, Cuarta Pared y Pradillo; en el Hotel 7 islas, en el Reina Sofía, en el Auditorio de El Escorial y en el Centro Cultural Eduardo Úrculo de Tetuán. Entre otras actuaciones, los madrileños podrán disfrutar del montaje de teatro-danza 'Allegro andante assestamento perpetuo' de la compañía Qué tal estás de Tenerife; de 'Hámster', de la compañía La escapista; o 'Diktat', de los también madrileños 611 teatro, entre otros. Asimismo, en la feria el Gobierno balear aprovechará para presentar su campaña de promoción cultural para este nuevo ejercicio, y también se fallarán los premios 'El Espectáculo Teatral'. El director general de Actividades Culturales de la ciudad, Manuel Lagos, será el encargado de presentar la programación de esta feria, hoy lunes a las 12.00 horas en el Teatro Lara. Junto a él estarán el presidente de ARTEMAD, Salvador Sanz; el director de MadFeria, Mariano de Paco; y la subdirectora general del INAEM, Cristina Santolaria.",
+        "lemmatized_text": "el gobierno_de_canarias viajar hasta madrid para presentar su promoción cultural de cara a el presente año en el marco de el vi_feria_de_artes_escénicas que se celebrar hasta el [J:??/??/??:??.??:??] contar con el participación de compañía empresario y espectador según informar el ayuntamiento de el capital el festival tener sede en el matadero_de_madrid en el teatro lara cuarta_pared y pradillo en el hotel 7 isla en el reina_sofía en el auditorio_de_el_escorial y en el centro_cultural_eduardo_úrculo_de_tetuán entre otro actuación el madrileño poder disfrutar de el montaje de teatro-danza allegro andante assestamento perpetuo de el compañía qué tal estar de tenerife de hámster de el compañía la escapista o diktat de el también madrileño 611 teatro entre otro asimismo en el feria el gobierno balear aprovechar para presentar su campaña de promoción cultural para este nuevo ejercicio y también se fallar el premio el espectáculo_teatral el director general de actividades_culturales de el ciudad manuel_lagos ser el encargado de presentar el programación de este feria hoy [L:??/??/??:12.00:??] en el teatro_lara junto_a él estar el presidente de artemad salvador_sanz el director de madferia mariano_de_paco y el subdirector general de el inaem cristina_santolaria",
+        "lemmatized_text_reduced": "gobierno_de_canarias viajar madrid presentar promoción cultural cara presente año marco vi_feria_de_artes_escénicas celebrar contar participación compañía empresario espectador informar ayuntamiento capital festival tener sede matadero_de_madrid teatro lara cuarta_pared pradillo hotel isla reina_sofía auditorio_de_el_escorial centro_cultural_eduardo_úrculo_de_tetuán actuación madrileño poder disfrutar montaje teatro-danza allegro andante assestamento perpetuo compañía qué estar tenerife hámster compañía la escapista diktat madrileño teatro feria gobierno balear aprovechar presentar campaña promoción cultural nuevo ejercicio fallar premio espectáculo_teatral director general actividades_culturales ciudad manuel_lagos ser encargado presentar programación feria teatro_lara estar presidente artemad salvador_sanz director madferia mariano_de_paco subdirector general inaem cristina_santolaria",
+        "persons": [
+            "Cuarta_Pared",
+            "Pradillo",
+            "Diktat",
+            "Manuel_Lagos",
+            "Salvador_Sanz",
+            "Mariano_de_Paco",
+            "Cristina_Santolaria"
+        ],
+        "locations": [
+            "Madrid",
+            "Matadero_de_Madrid",
+            "Auditorio_de_El_Escorial",
+            "Teatro_Lara"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ayuntamiento",
+            "Hotel",
+            "Reina_Sofía",
+            "Centro_Cultural_Eduardo_Úrculo_de_Tetuán",
+            "Qué",
+            "Tenerife",
+            "Hámster",
+            "La",
+            "Gobierno",
+            "Espectáculo_Teatral",
+            "ARTEMAD",
+            "INAEM"
+        ],
+        "others": [
+            "VI_Feria_de_Artes_Escénicas",
+            "Lara",
+            "Actividades_Culturales",
+            "MadFeria"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]",
+            "[L:??/??/??:12.00:??]"
+        ],
+        "numbers": [
+            "7",
+            "611"
+        ]
+    }
+}

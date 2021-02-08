@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/672038/0/",
+    "title": {
+        "raw_text": "El patrullero 'Centinela' parte el sábado de Las Palmas de Gran Canaria para participar en 'Africa Partnetship Statiom'",
+        "lemmatized_text": "el patrullero centinela parte el [S:??/??/??:??.??:??] de las_palmas_de_gran_canaria para participar en africa_partnetship_statiom",
+        "lemmatized_text_reduced": "patrullero centinela parte las_palmas_de_gran_canaria participar africa_partnetship_statiom",
+        "persons": [
+            "Africa_Partnetship_Statiom"
+        ],
+        "locations": [
+            "Centinela",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "De esta manera, el patrullero, con un equipo de protección de Infantería de Marina a bordo procedente de la Unidad de Seguridad de Canarias, se integrará en la 'Africa Partnership Station' hasta el día 26 de abril durante la estancia del buque 'USS Gunston Hall' en Senegal. El 'Centinela' cooperará en el adiestramiento del personal de las Fuerzas Armadas de ese país.",
+        "lemmatized_text": "de este manera el patrullero con uno equipo de protección de infantería_de_marina a_bordo procedente de el unidad_de_seguridad_de_canarias se integrar en el africa_partnership_station hasta el [??:26/4/??:??.??:??] durante el estancia de el buque uss_gunston_hall en senegal el centinela cooperar en el adiestramiento de el personal de el fuerzas_armadas de ese país",
+        "lemmatized_text_reduced": "manera patrullero equipo protección infantería_de_marina procedente unidad_de_seguridad_de_canarias integrar africa_partnership_station estancia buque uss_gunston_hall senegal centinela cooperar adiestramiento personal fuerzas_armadas país",
+        "persons": [
+            "Africa_Partnership_Station",
+            "Centinela"
+        ],
+        "locations": [
+            "Senegal"
+        ],
+        "organizations": [
+            "Infantería_de_Marina",
+            "Unidad_de_Seguridad_de_Canarias",
+            "Fuerzas_Armadas"
+        ],
+        "others": [
+            "USS_Gunston_Hall"
+        ],
+        "dates": [
+            "[??:26/4/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El patrullero de la Armada española 'Centinela' partirá de su base en Las Palmas de Gran Canaria el próximo sábado 10 de abril para participar en el ejercicio `Africa Partnership Station' (APS), que se realizará en aguas de Senegal, según informó hoy el Mando Naval de Canarias en un comunicado. De esta manera, el patrullero, con un equipo de protección de Infantería de Marina a bordo procedente de la Unidad de Seguridad de Canarias, se integrará en la 'Africa Partnership Station' hasta el día 26 de abril durante la estancia del buque 'USS Gunston Hall' en Senegal. El 'Centinela' cooperará en el adiestramiento del personal de las Fuerzas Armadas de ese país. La APS es una iniciativa promovida por EEUU que pretende mejorar las capacidades de diversos países de África occidental en la ejecución de operaciones de estabilidad y seguridad marítima, mediante la realización de ejercicios de adiestramiento y programas de ayuda humanitaria. En estas maniobras participan numerosos países africanos y europeos. La Armada española participa desde el año 2007 mediante el envío de un representante en el Estado Mayor y un grupo de Infantería de Marina, en esta ocasión a bordo del buque 'Gunston Hall' de los EEUU. Su misión específica consiste en proporcionar adiestramiento relacionado con cometidos de 'fuerza de protección', de defensa personal y manejo de embarcaciones menores.",
+        "lemmatized_text": "el patrullero de el armada español centinela partir de su base en las_palmas_de_gran_canaria el [S:10/4/??:??.??:??] para participar en el ejercicio africa_partnership_station aps que se realizar en agua de senegal según informar hoy el mando_naval_de_canarias en uno comunicado de este manera el patrullero con uno equipo de protección de infantería_de_marina a_bordo procedente de el unidad_de_seguridad_de_canarias se integrar en el africa_partnership_station hasta el [??:26/4/??:??.??:??] durante el estancia de el buque uss_gunston_hall en senegal el centinela cooperar en el adiestramiento de el personal de el fuerzas_armadas de ese país el aps ser uno iniciativa promover por eeuu que pretender mejorar el capacidad de diverso país de áfrica occidental en el ejecución de operación de estabilidad y seguridad marítimo mediante el realización de ejercicio de adiestramiento y programa de ayuda humanitario en este maniobra participar numeroso país africano y europeo el armada español participar desde el [??:??/??/2007:??.??:??] mediante el envío de uno representante en el estado_mayor y uno grupo de infantería_de_marina en este ocasión a_bordo de el buque gunston_hall de el eeuu su misión específico consistir en proporcionar adiestramiento relacionar con cometido de fuerza de protección de defensa personal y manejo de embarcación menor",
+        "lemmatized_text_reduced": "patrullero armada español centinela partir base las_palmas_de_gran_canaria participar ejercicio africa_partnership_station aps realizar agua senegal informar mando_naval_de_canarias comunicado manera patrullero equipo protección infantería_de_marina procedente unidad_de_seguridad_de_canarias integrar africa_partnership_station estancia buque uss_gunston_hall senegal centinela cooperar adiestramiento personal fuerzas_armadas país aps ser iniciativa promover eeuu pretender mejorar capacidad país áfrica occidental ejecución operación estabilidad seguridad marítimo realización ejercicio adiestramiento programa ayuda humanitario maniobra participar numeroso país africano europeo armada español participar envío representante estado_mayor grupo infantería_de_marina ocasión buque gunston_hall eeuu misión específico consistir proporcionar adiestramiento relacionar cometido fuerza protección defensa personal manejo embarcación menor",
+        "persons": [
+            "Africa_Partnership_Station",
+            "Africa_Partnership_Station",
+            "Centinela",
+            "Gunston_Hall"
+        ],
+        "locations": [
+            "Centinela",
+            "Las_Palmas_de_Gran_Canaria",
+            "Senegal",
+            "Senegal",
+            "África",
+            "EEUU"
+        ],
+        "organizations": [
+            "Armada",
+            "APS",
+            "Mando_Naval_de_Canarias",
+            "Infantería_de_Marina",
+            "Unidad_de_Seguridad_de_Canarias",
+            "Fuerzas_Armadas",
+            "APS",
+            "EEUU",
+            "Armada",
+            "Estado_Mayor",
+            "Infantería_de_Marina"
+        ],
+        "others": [
+            "USS_Gunston_Hall"
+        ],
+        "dates": [
+            "[S:10/4/??:??.??:??]",
+            "[??:26/4/??:??.??:??]",
+            "[??:??/??/2007:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

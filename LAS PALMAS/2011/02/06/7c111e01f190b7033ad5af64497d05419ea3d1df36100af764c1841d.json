@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950825/0/",
+    "title": {
+        "raw_text": "Sólo queda el 20% de las entradas para ver a Les Luthiers en Las Palmas de Gran Canaria",
+        "lemmatized_text": "sólo quedar el 20/100 de el entrada para ver a les_luthiers en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "quedar entrada ver les_luthiers las_palmas_de_gran_canaria",
+        "persons": [
+            "Les_Luthiers"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "Sólo queda el 20 por ciento de las entradas para ver en directo a Les Luthiers en el Auditorio Alfredo Kraus de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "sólo quedar el 20 por 100 de el entrada para ver en directo a les_luthiers en el auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "quedar entrada ver directo les_luthiers auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Les_Luthiers"
+        ],
+        "locations": [],
+        "organizations": [
+            "Auditorio_Alfredo_Kraus_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "Sólo queda el 20 por ciento de las entradas para ver en directo a Les Luthiers en el Auditorio Alfredo Kraus de Las Palmas de Gran Canaria. El espectáculo 'Los premios Mastropiero', del que está previsto se realicen diez funciones en la capital grancanaria, entre el 20 y 30 de marzo, ha conseguido vender ya cerca del 80 por ciento de las entradas, según informó el Auditorio en nota de prensa. 'Los Premios Mastropiero' es el espectáculo número 32 del grupo y en él además de introducir algunos cambios a la tradicional estructura de los artistas, Les Luthiers presenta un nuevo instrumento, el alambique encantador. Las entradas para el espectáculo de Les Luthiers se pueden adquirir, en la taquilla de Auditorio Alfredo Kraus, de lunes a viernes, y en horario de tarde, 15.00 a 21.00 horas; además están disponibles en internet (a través de la web www.cajatique.com), cajeros expendedores de La Caja de Canarias y llamando al teléfono 902 405 504.",
+        "lemmatized_text": "sólo quedar el 20 por 100 de el entrada para ver en directo a les_luthiers en el auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria el espectáculo el premio mastropiero de el que estar prever se realizar 10 función en el capital grancanaria entre el 20 y [??:30/3/??:??.??:??] haber conseguir vender ya cerca de el 80 por 100 de el entrada según informar el auditorio en nota de prensa el premios_mastropiero ser el espectáculo número 32 de el grupo y en él además_de introducir alguno cambio a el tradicional estructura de el artista les_luthiers presentar uno nuevo instrumento el alambique encantador el entrada para el espectáculo de les_luthiers se poder adquirir en el taquilla de auditorio_alfredo_kraus de [L:??/??/??:??.??:??] a [V:??/??/??:??.??:??] y en horario de tarde 15 a TM_h:21 además estar disponible en internet a_través_de el web www.cajatique.com cajero expendedor de la_caja_de_canarias y llamar a el teléfono 902 405 504",
+        "lemmatized_text_reduced": "quedar entrada ver directo les_luthiers auditorio_alfredo_kraus_de_las_palmas_de_gran_canaria espectáculo premio mastropiero estar prever realizar función capital grancanaria haber conseguir vender entrada informar auditorio nota prensa premios_mastropiero ser espectáculo número grupo introducir cambio tradicional estructura artista les_luthiers presentar nuevo instrumento alambique encantador entrada espectáculo les_luthiers poder adquirir taquilla auditorio_alfredo_kraus horario tarde estar disponible internet web www.cajatique.com cajero expendedor la_caja_de_canarias llamar teléfono",
+        "persons": [
+            "Les_Luthiers",
+            "Mastropiero",
+            "Premios_Mastropiero",
+            "Les_Luthiers",
+            "Les_Luthiers",
+            "Auditorio_Alfredo_Kraus"
+        ],
+        "locations": [],
+        "organizations": [
+            "Auditorio_Alfredo_Kraus_de_Las_Palmas_de_Gran_Canaria",
+            "Auditorio",
+            "La_Caja_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[??:30/3/??:??.??:??]",
+            "[L:??/??/??:??.??:??]",
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "20",
+            "100",
+            "10",
+            "20",
+            "80",
+            "100",
+            "32",
+            "15",
+            "TM_h:21",
+            "902",
+            "405",
+            "504"
+        ]
+    }
+}

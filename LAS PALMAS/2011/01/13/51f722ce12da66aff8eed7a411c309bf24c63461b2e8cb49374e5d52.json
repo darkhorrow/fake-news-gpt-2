@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/926617/0/",
+    "title": {
+        "raw_text": "Un total de 7 heridos leves tras la colisión de dos vehículos en Gáldar (Gran Canaria)",
+        "lemmatized_text": "uno total de 7 herido leve tras el colisión de 2 vehículo en gáldar gran_canaria",
+        "lemmatized_text_reduced": "total herido leve colisión vehículo gáldar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La colisión de dos vehículos sobre las 22.31 horas en la bajada de las Guayarminas, dentro del término municipal de Gáldar (Gran Canaria), ha dejado un total de siete heridos de carácter leve, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el colisión de 2 vehículo sobre el TM_h:22.31 en el bajada de el guayarminas dentro de el término municipal de gáldar gran_canaria haber dejar uno total de 7 herido de carácter leve según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "colisión vehículo bajada guayarminas término municipal gáldar gran_canaria haber dejar total herido carácter leve informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guayarminas",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_h:22.31",
+            "7",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "La colisión de dos vehículos sobre las 22.31 horas en la bajada de las Guayarminas, dentro del término municipal de Gáldar (Gran Canaria), ha dejado un total de siete heridos de carácter leve, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. Una llamada alertó a la hora de indicada del choque de dos vehículos, señalando asimismo que había personas que precisaban atención médica. Así, hasta el lugar se trasladaron tres ambulancias de soporte vital básico del Servicio de Urgencias Canario (SUC) y miembros de la Policía Local, Al llegar, los médicos atendieron a cuatro hombres y tres mujeres de entre 20 y 30 años que presentaron cervicalgias de carácter leve, por lo que tuvieron que ser trasladados en las diferentes ambulancias básicas del SUC hasta el Centro de Salud de Gáldar. Finalmente, la Policía Local reguló el tráfico en la zona e instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el colisión de 2 vehículo sobre el TM_h:22.31 en el bajada de el guayarminas dentro de el término municipal de gáldar gran_canaria haber dejar uno total de 7 herido de carácter leve según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 uno llamada alertar a el hora de indicar de el choque de 2 vehículo señalar asimismo que haber persona que precisar atención médico así hasta el lugar se trasladar 3 ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc y miembro de el policía_local al llegar el médico atender a 4 hombre y 3 mujer de entre 20 y 30 año que presentar cervicalgias de carácter leve por el que tener que ser trasladar en el diferente ambulancia básico de el suc hasta el centro_de_salud_de_gáldar finalmente el policía_local regular el tráfico en el zona y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "colisión vehículo bajada guayarminas término municipal gáldar gran_canaria haber dejar total herido carácter leve informar centro_coordinador_de_emergencias seguridad cecoes llamada alertar hora indicar choque vehículo señalar haber persona precisar atención médico lugar trasladar ambulancia soporte vital básico servicio_de_urgencias_canario suc miembro policía_local al llegar médico atender hombre mujer año presentar cervicalgias carácter leve tener ser trasladar diferente ambulancia básico suc centro_de_salud_de_gáldar finalmente policía_local regular tráfico zona instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guayarminas",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Al",
+            "SUC",
+            "Centro_de_Salud_de_Gáldar",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_h:22.31",
+            "7",
+            "112",
+            "2",
+            "3",
+            "4",
+            "3",
+            "20",
+            "30"
+        ]
+    }
+}

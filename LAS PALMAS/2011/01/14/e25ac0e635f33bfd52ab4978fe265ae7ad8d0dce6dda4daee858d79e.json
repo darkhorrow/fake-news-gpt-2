@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/927978/0/",
+    "title": {
+        "raw_text": "Detenido un futbolista del Sportclub Feyenoord en Canarias por tráfico de cannabis",
+        "lemmatized_text": "detener uno futbolista de el sportclub_feyenoord en canarias por tráfico de cannabis",
+        "lemmatized_text_reduced": "detener futbolista sportclub_feyenoord canarias tráfico cannabis",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Sportclub_Feyenoord"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía española ha detenido en Canarias al futbolista de 24 años Terence Mateus Koetsier, del Sportclub Feyenoord holandés, por tráfico de cannabis, informaron a Europa Press en fuentes policiales.",
+        "lemmatized_text": "el policía español haber detener en canarias a el futbolista de 24 año terence_mateus_koetsier de el sportclub_feyenoord holandés por tráfico de cannabis informar a europa_press en fuente policial",
+        "lemmatized_text_reduced": "policía español haber detener canarias futbolista año terence_mateus_koetsier sportclub_feyenoord holandés tráfico cannabis informar europa_press fuente policial",
+        "persons": [
+            "Terence_Mateus_Koetsier"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Policía",
+            "Sportclub_Feyenoord",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "24"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía española ha detenido en Canarias al futbolista de 24 años Terence Mateus Koetsier, del Sportclub Feyenoord holandés, por tráfico de cannabis, informaron a Europa Press en fuentes policiales. La detención se produjo en la localidad canaria de San Bartolomé de Tirajana, donde el equipo holandés se encuentra concentrado. Tenía en vigor una orden europea de detención por importar cannabis en Reino Unido, procedente de Holanda, oculto en paquetes de flores. Las autoridades británicas buscaban a este futbolista por hechos que se remontan a 2008. Ese año, entre los meses de enero y octubre, y junto a otros cuatro individuos, importó la droga desde Holanda y la distribuyó por el Reino Unido. Se organizaron más de 55 envíos, de los cuales la policía holandesa interceptó tres, incautándose de un total de 495 kilogramos de estupefaciente, y la policía británica interceptó otro envío más en el que había una cantidad de 140 kilogramos. Terence Mateus Kotsier juega de centrocampista en el Sportclub Feyenoord, equipo amateur del Feyenoord de Rotterdam, y esta era su primera temporada en el conjunto holandés.",
+        "lemmatized_text": "el policía español haber detener en canarias a el futbolista de 24 año terence_mateus_koetsier de el sportclub_feyenoord holandés por tráfico de cannabis informar a europa_press en fuente policial el detención se producir en el localidad canario de san_bartolomé_de_tirajana donde el equipo holandés se encontrar concentrar tener en vigor uno orden europeo de detención por importar cannabis en reino_unido procedente de holanda oculto en paquete de flor el autoridad británico buscar a este futbolista por hecho que se remontar a 2008 ese año entre el mes de [??:??/1/??:??.??:??] y [??:??/10/??:??.??:??] y junto_a otro 4 individuo importar el droga desde holanda y el distribuir por el reino_unido se organizar más de 55 envío de el cual el policía holandés interceptar 3 incautar se de uno total de WG_kg:495 de estupefaciente y el policía británico interceptar otro envío más en el que haber 1 cantidad de WG_kg:140 terence_mateus_kotsier jugar de centrocampista en el sportclub_feyenoord equipo amateur de el feyenoord_de_rotterdam y este ser su 1 temporada en el conjunto holandés",
+        "lemmatized_text_reduced": "policía español haber detener canarias futbolista año terence_mateus_koetsier sportclub_feyenoord holandés tráfico cannabis informar europa_press fuente policial detención producir localidad canario san_bartolomé_de_tirajana equipo holandés encontrar concentrar tener vigor orden europeo detención importar cannabis reino_unido procedente holanda oculto paquete flor autoridad británico buscar futbolista hecho remontar año mes individuo importar droga holanda distribuir reino_unido organizar envío policía holandés interceptar incautar total estupefaciente policía británico interceptar envío haber cantidad terence_mateus_kotsier jugar centrocampista sportclub_feyenoord equipo amateur feyenoord_de_rotterdam ser 1 temporada conjunto holandés",
+        "persons": [
+            "Terence_Mateus_Koetsier",
+            "Terence_Mateus_Kotsier"
+        ],
+        "locations": [
+            "Canarias",
+            "San_Bartolomé_de_Tirajana",
+            "Reino_Unido",
+            "Holanda",
+            "Holanda",
+            "Reino_Unido"
+        ],
+        "organizations": [
+            "Policía",
+            "Sportclub_Feyenoord",
+            "Europa_Press",
+            "Sportclub_Feyenoord",
+            "Feyenoord_de_Rotterdam"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "24",
+            "2008",
+            "4",
+            "55",
+            "3",
+            "WG_kg:495",
+            "1",
+            "WG_kg:140"
+        ]
+    }
+}

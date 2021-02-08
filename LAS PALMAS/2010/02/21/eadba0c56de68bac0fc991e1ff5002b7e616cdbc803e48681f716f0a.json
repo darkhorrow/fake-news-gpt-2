@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634299/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias expresa su colaboración con el pueblo de Madeira por las inundaciones",
+        "lemmatized_text": "el gobierno_de_canarias expresar su colaboración con el pueblo de madeira por el inundación",
+        "lemmatized_text_reduced": "gobierno_de_canarias expresar colaboración pueblo madeira inundación",
+        "persons": [],
+        "locations": [
+            "Madeira"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha manifestado hoy su solidaridad con el pueblo de Madeira a raíz del temporal de lluvia y viento que ha costado la vida, al menos, a 32 personas y expresa su disposición a colaborar con las autoridades de aquella región en \"todo lo que puedan necesitar en estos duros momentos\".",
+        "lemmatized_text": "el gobierno_de_canarias haber manifestar hoy su solidaridad con el pueblo de madeira a raíz de el temporal de lluvia y viento que haber costar el vida a el menos a 32 persona y expresar su disposición a colaborar con el autoridad de aquel región en todo lo que poder necesitar en este duro momento",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber manifestar solidaridad pueblo madeira raíz temporal lluvia viento haber costar vida persona expresar disposición colaborar autoridad región poder necesitar duro momento",
+        "persons": [],
+        "locations": [
+            "Madeira"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "32"
+        ]
+    },
+    "body": {
+        "raw_text": "El jefe del Ejecutivo autónomo, Paulino Rivero, en calidad de presidente de las Regiones Ultraperiféricas (RUP) —condición que comparten Canarias y Madeira— ha realizado un seguimiento de la situación durante toda la tarde de ayer y ha expresado, en nombre de todos los canarios, su \"profundo pesar por la magnitud de la tragedia\", según informó el Gobierno canario en un comunicado. Ya son 32 el número de muertos y 68 el de heridos como consecuencia del temporal que sufre la isla portuguesa de Madeira desde la pasada madrugada, según el último balance oficial hecho público por el vicepresidente del Gobierno Regional de Madeira, Joao Cunha e Silva. El agua ha causado daños a decenas de vehículos, ha inundado viviendas, tiendas y edificios públicos en las zonas altas del concejo de Funchal y del de Ribeira Brava, según precisó el presidente de la Cámara de Funchal, Miguel Albuquerque. Portugal acelera el envío de ayuda de emergencia a Madeira después de las inundaciones. El primer ministro portugués, José Sócrates, ha viajado a Madeira para evaluar los daños sufridos en el turístico archipiélago del Atlántico.",
+        "lemmatized_text": "el jefe de el ejecutivo autónomo paulino_rivero en_calidad_de presidente de el regiones_ultraperiféricas rup condición que compartir canarias y madeira haber realizar uno seguimiento de el situación durante todo el tarde de ayer y haber expresar en nombre de todo el canario su profundo pesar por el magnitud de el tragedia según informar el gobierno canario en uno comunicado ya ser 32 el número de muerto y 68 el de herido como consecuencia de el temporal que sufrir el isla portugués de madeira desde el pasar madrugada según el último balance oficial hecho público por el vicepresidente de el gobierno_regional_de_madeira joao_cunha y silva el agua haber causar daño a decena de vehículo haber inundar vivienda tienda y edificio público en el zona alto de el concejo de funchal y de el de ribeira_brava según precisar el presidente de el cámara_de_funchal miguel_albuquerque portugal acelerar el envío de ayuda de emergencia a madeira después_de el inundación el 1 ministro portugués josé_sócrates haber viajar a madeira para evaluar el daño sufrir en el turístico archipiélago de el atlántico",
+        "lemmatized_text_reduced": "jefe ejecutivo autónomo paulino_rivero presidente regiones_ultraperiféricas rup condición compartir canarias madeira haber realizar seguimiento situación tarde haber expresar nombre canario profundo pesar magnitud tragedia informar gobierno canario comunicado ser número muerto herido consecuencia temporal sufrir isla portugués madeira pasar madrugada último balance oficial hecho público vicepresidente gobierno_regional_de_madeira joao_cunha silva agua haber causar daño decena vehículo haber inundar vivienda tienda edificio público zona alto concejo funchal ribeira_brava precisar presidente cámara_de_funchal miguel_albuquerque portugal acelerar envío ayuda emergencia madeira inundación 1 ministro portugués josé_sócrates haber viajar madeira evaluar daño sufrir turístico archipiélago atlántico",
+        "persons": [
+            "Paulino_Rivero",
+            "Madeira",
+            "Joao_Cunha",
+            "Silva",
+            "Ribeira_Brava",
+            "Miguel_Albuquerque",
+            "José_Sócrates"
+        ],
+        "locations": [
+            "Canarias",
+            "Madeira",
+            "Portugal",
+            "Madeira",
+            "Madeira"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Regiones_Ultraperiféricas",
+            "RUP",
+            "Gobierno",
+            "Gobierno_Regional_de_Madeira",
+            "Funchal",
+            "Cámara_de_Funchal"
+        ],
+        "others": [
+            "Atlántico"
+        ],
+        "dates": [],
+        "numbers": [
+            "32",
+            "68"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/927675/0/",
+    "title": {
+        "raw_text": "Una mujer sufre un atropello en Las Palmas de Gran Canaria y resulta herida de carácter menos grave",
+        "lemmatized_text": "uno mujer sufrir uno atropello en las_palmas_de_gran_canaria y resultar herida de carácter menos grave",
+        "lemmatized_text_reduced": "mujer sufrir atropello las_palmas_de_gran_canaria resultar herida carácter grave",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer ha resultado herida menos grave tras sufrir un atropello en la calle María Amador del barrio de Tres Palmas, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno mujer haber resultar herida menos grave tras sufrir uno atropello en el calle maría_amador de el barrio de 3 palmas en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "mujer haber resultar herida grave sufrir atropello calle maría_amador barrio palmas las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "María_Amador",
+            "Palmas",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer ha resultado herida menos grave tras sufrir un atropello en la calle María Amador del barrio de Tres Palmas, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. La herida, de 67 años de edad, sufrió traumatismo craneal de carácter menos grave, por lo que tuvo que ser trasladada por personal del Servicio de Urgencias Canario (SUC) al Hospital Universitario Insular de Gran Canaria. En el lugar del incidente se personaron agentes de la Policía Local que realizó las diligencias correspondientes.",
+        "lemmatized_text": "uno mujer haber resultar herida menos grave tras sufrir uno atropello en el calle maría_amador de el barrio de 3 palmas en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el herida de 67 año de edad sufrir traumatismo craneal de carácter menos grave por el que tener que ser trasladar por personal de el servicio_de_urgencias_canario suc a el hospital_universitario_insular_de_gran_canaria en el lugar de el incidente se personar agente de el policía_local que realizar el diligencia correspondiente",
+        "lemmatized_text_reduced": "mujer haber resultar herida grave sufrir atropello calle maría_amador barrio palmas las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad herida año edad sufrir traumatismo craneal carácter grave tener ser trasladar personal servicio_de_urgencias_canario suc hospital_universitario_insular_de_gran_canaria lugar incidente personar agente policía_local realizar diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "María_Amador",
+            "Palmas",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "112",
+            "67"
+        ]
+    }
+}

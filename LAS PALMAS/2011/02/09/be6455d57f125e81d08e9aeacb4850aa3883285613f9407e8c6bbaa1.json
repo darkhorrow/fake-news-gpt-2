@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/953782/0/",
+    "title": {
+        "raw_text": "El grupo canario 'El Supositorio' presenta en Lanzarote un espectáculo de humor \"absurdo y surrealista\"",
+        "lemmatized_text": "el grupo canario el supositorio presentar en lanzarote uno espectáculo de humor absurdo y surrealista",
+        "lemmatized_text_reduced": "grupo canario supositorio presentar lanzarote espectáculo humor absurdo surrealista",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Supositorio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El grupo canario 'El Supositorio' presentará el próximo 18 de febrero, a las 21.00 horas, en Lanzarote, el espectáculo de humor \"absurdo y surrealista\" titulado 'El Supositorio por el camino recto', un show en el que los creadores de los 'Power Guanches' agrupan una selección de sus últimos sketches, con los que no tienen otra intención que la de \"hacer reír al respetable\".",
+        "lemmatized_text": "el grupo canario el supositorio presentar el [??:18/2/??:??.??:??] a el TM_h:21 en lanzarote el espectáculo de humor absurdo y surrealista titular el supositorio por el camino recto uno show en el que el creador de el power_guanches agrupar uno selección de su último sketch con el que no tener otro intención que el de hacer reír a el respetable",
+        "lemmatized_text_reduced": "grupo canario supositorio presentar lanzarote espectáculo humor absurdo surrealista titular supositorio camino recto show creador power_guanches agrupar selección último sketch tener intención hacer reír respetable",
+        "persons": [
+            "Power_Guanches"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Supositorio"
+        ],
+        "others": [
+            "Supositorio"
+        ],
+        "dates": [
+            "[??:18/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "El grupo canario 'El Supositorio' presentará el próximo 18 de febrero, a las 21.00 horas, en Lanzarote, el espectáculo de humor \"absurdo y surrealista\" titulado 'El Supositorio por el camino recto', un show en el que los creadores de los 'Power Guanches' agrupan una selección de sus últimos sketches, con los que no tienen otra intención que la de \"hacer reír al respetable\". 'El Suporitorio' despliega sobre el escenario a los más variados y disparatados personajes, tales como famosos deportistas locales homenajeados por toda una carrera de violencia; grandes artistas internacionales dedicados a la restauración de platos autóctonos; androides futuristas elaborados íntegramente en Canarias; o alguna aparición sobrenatural que debería haberse quedado en el más allá, según informó el Cabildo de Lanzarote en nota de prensa. En cuanto al espectáculo durará una hora y media donde humor e ironía abundarán. Además, en las transiciones entre sketches, introducirán bosques alienígenas, monstruos gigantes y seres azules de cuatro metros. Las entradas para ver el espectáculo 'El Supositorio por el camino recto' en el Teatro de Tías ya están a la venta por un coste de 10 euros.",
+        "lemmatized_text": "el grupo canario el supositorio presentar el [??:18/2/??:??.??:??] a el TM_h:21 en lanzarote el espectáculo de humor absurdo y surrealista titular el supositorio por el camino recto uno show en el que el creador de el power_guanches agrupar uno selección de su último sketch con el que no tener otro intención que el de hacer reír a el respetable el suporitorio desplegar sobre el escenario a el más variar y disparatar personaje tal como famoso deportista local homenajear por todo uno carrera de violencia grande artista internacional dedicar a el restauración de plato autóctono androide futurista elaborar íntegramente en canarias o alguno aparición sobrenatural que deber haber se quedar en el más allá según informar el cabildo_de_lanzarote en nota de prensa en cuanto a el espectáculo durar uno hora y medio donde humor y ironía abundar además en el transición entre sketch introducir bosque alienígenas monstruo gigante y ser azul de LN_m:4 el entrada para ver el espectáculo el supositorio por el camino recto en el teatro_de_tías ya estar a el venta por uno coste de $_ECU:10",
+        "lemmatized_text_reduced": "grupo canario supositorio presentar lanzarote espectáculo humor absurdo surrealista titular supositorio camino recto show creador power_guanches agrupar selección último sketch tener intención hacer reír respetable suporitorio desplegar escenario variar disparatar personaje famoso deportista local homenajear carrera violencia grande artista internacional dedicar restauración plato autóctono androide futurista elaborar íntegramente canarias aparición sobrenatural deber haber quedar informar cabildo_de_lanzarote nota prensa espectáculo durar hora medio humor ironía abundar transición sketch introducir bosque alienígenas monstruo gigante ser azul entrada ver espectáculo supositorio camino recto teatro_de_tías estar venta coste",
+        "persons": [
+            "Power_Guanches"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Canarias",
+            "Teatro_de_Tías"
+        ],
+        "organizations": [
+            "Supositorio",
+            "Suporitorio",
+            "Cabildo_de_Lanzarote",
+            "Supositorio"
+        ],
+        "others": [
+            "Supositorio"
+        ],
+        "dates": [
+            "[??:18/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21",
+            "LN_m:4",
+            "$_ECU:10"
+        ]
+    }
+}

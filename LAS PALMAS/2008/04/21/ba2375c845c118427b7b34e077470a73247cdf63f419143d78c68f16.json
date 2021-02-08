@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/371371/0/incendio/automoviles/palmas/",
+    "title": {
+        "raw_text": "Se incendian cuatro automóviles en la zona de La Feria de Las Palmas",
+        "lemmatized_text": "se incendiar 4 automóvil en_la_zona_de la_feria_de_las_palmas",
+        "lemmatized_text_reduced": "incendiar automóvil la_feria_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "La_Feria_de_Las_Palmas"
+        ],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Primero se incendió un ciclomotor. El fuego se propagó a tres coches. No hubo heridos. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "primero se incendiar uno ciclomotor el fuego se propagar a 3 coche no haber herido consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "incendiar ciclomotor fuego propagar coche haber herido consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Los bomberos del Ayuntamiento de Las Palmas de Gran Canaria sofocaron esta madrugada un incendio producido en un ciclomotor en la zona de La Feria, en la capital, que se extendió a otros tres vehículos estacionados en la vía pública , según informó el Centro Coordinador de Emergencias y Seguridad 1-1-2. Los hechos ocurrieron en torno a la 01.30 de la madrugada y, como consecuencia del siniestro, no hubo heridos , aunque una ambulancia del Servicio de Urgencias Canario se desplazó al lugar de manera preventiva. El fuego provocó gran cantidad de humo y se activaron los recursos de emergencias de inmediato aunque no hubo que realizar asistencias , agregaron las mismas fuentes. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el bombero de el ayuntamiento_de_las_palmas_de_gran_canaria sofocar este madrugada uno incendio producir en uno ciclomotor en_la_zona_de la_feria en el capital que se extender a otro 3 vehículo estacionar en el vía público según informar el centro_coordinador_de_emergencias y seguridad 1-1-2 el hecho ocurrir en_torno_a el [??:??/??/??:1.00:am] y como consecuencia de el siniestro no haber herido aunque uno ambulancia de el servicio_de_urgencias_canario se desplazar a el lugar de manera preventivo el fuego provocar gran cantidad de humo y se activar el recurso de emergencia de inmediato aunque no haber que realizar asistencia agregar el mismo fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "bombero ayuntamiento_de_las_palmas_de_gran_canaria sofocar madrugada incendio producir ciclomotor la_feria capital extender vehículo estacionar vía público informar centro_coordinador_de_emergencias seguridad hecho ocurrir consecuencia siniestro haber herido ambulancia servicio_de_urgencias_canario desplazar lugar manera preventivo fuego provocar gran cantidad humo activar recurso emergencia inmediato haber realizar asistencia agregar mismo fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Feria"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:1.00:am]"
+        ],
+        "numbers": [
+            "3",
+            "1-1-2"
+        ]
+    }
+}

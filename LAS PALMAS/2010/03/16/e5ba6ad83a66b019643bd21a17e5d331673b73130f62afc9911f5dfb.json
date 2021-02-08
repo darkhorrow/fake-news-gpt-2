@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/653251/0/",
+    "title": {
+        "raw_text": "Aparece flotando el cuerpo de un hombre en la zona de Caleta de Fuste (Fuerteventura)",
+        "lemmatized_text": "aparecer flotar el cuerpo de uno hombre en_la_zona_de caleta_de_fuste fuerteventura",
+        "lemmatized_text_reduced": "aparecer flotar cuerpo hombre caleta_de_fuste fuerteventura",
+        "persons": [],
+        "locations": [
+            "Caleta_de_Fuste"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cuerpo de un hombre en avanzado estado de descomposición ha aparecido hoy flotando en aguas de la zona conocida como El Castillo, en Caleta de Fuste, dentro del término municipal de Antigua (Fuerteventura), según informaron a Europa Press fuentes de la Guardia Civil, que se está encargando del suceso.",
+        "lemmatized_text": "el cuerpo de uno hombre en avanzar estado de descomposición haber aparecer hoy flotar en agua de el zona conocer como el_castillo en caleta_de_fuste dentro de el término municipal de antigua fuerteventura según informar a europa_press fuente de el guardia_civil que se estar encargar de el suceso",
+        "lemmatized_text_reduced": "cuerpo hombre avanzar estado descomposición haber aparecer flotar agua zona conocer el_castillo caleta_de_fuste término municipal antigua fuerteventura informar europa_press fuente guardia_civil estar encargar suceso",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "El_Castillo",
+            "Caleta_de_Fuste",
+            "Antigua"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, el cuerpo fue hallado aproximadamente sobre las 11.40 horas de hoy, mientras que el Servicio de Urgencias Canario (SUC) no tuvo que actuar debido a la evidencia de que el cuerpo llevaba bastante tiempo fallecido. Por su parte, las primeras estimaciones apuntan a que el cuerpo no pertenece al buceador desaparecido a principios del mes de marzo en Costa Teguise (Lanzarote), puesto que las mismas fuentes indicaron que parece ser que la ropa del hombre hallado hoy no se corresponde con la del joven desaparecido, aunque no descartaron ninguna posibilidad.",
+        "lemmatized_text": "de este manera el cuerpo ser hallar aproximadamente sobre el TM_h:11.4 de hoy mientras_que el servicio_de_urgencias_canario suc no tener que actuar debido_a el evidencia de que el cuerpo llevar bastante tiempo fallecer por su parte el 1 estimación apuntar a que el cuerpo no pertenecer a el buceador desaparecer a principio de el [??:??/3/??:??.??:??] en costa_teguise lanzarote poner que el mismo fuente indicar que parecer ser que el ropa de el hombre hallar hoy no se corresponder con el de el joven desaparecer aunque no descartar ninguno posibilidad",
+        "lemmatized_text_reduced": "manera cuerpo ser hallar aproximadamente servicio_de_urgencias_canario suc tener actuar evidencia cuerpo llevar tiempo fallecer parte 1 estimación apuntar cuerpo pertenecer buceador desaparecer principio costa_teguise lanzarote poner mismo fuente indicar parecer ser ropa hombre hallar corresponder joven desaparecer descartar posibilidad",
+        "persons": [],
+        "locations": [
+            "Costa_Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11.4"
+        ]
+    }
+}

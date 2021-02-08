@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625257/0/",
+    "title": {
+        "raw_text": "Dos detenidos en Maspalomas (Gran Canaria) por estafar más de 60.000 euros a su empresa de alquiler de coches",
+        "lemmatized_text": "2 detenido en maspalomas gran_canaria por estafar más de $_ECU:60 a su empresa de alquiler de coche",
+        "lemmatized_text_reduced": "detenido maspalomas gran_canaria estafar empresa alquiler coche",
+        "persons": [],
+        "locations": [
+            "Maspalomas",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "$_ECU:60"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha detenido en Maspalomas, al sur de Gran Canaria, a dos hombres, identificados como J.M.M.O., de 45 años de edad, y P.W., de origen alemán, de 52 años y con una detención anterior, como presuntos autores de un delito de apropiación indebida, al apoderarse de más de 60.000 euros de una empresa de alquiler de automóviles sin conductor, con sede social en la citada localidad turística y para la que trabajaban desde hace varios años.",
+        "lemmatized_text": "el policía_nacional haber detener en maspalomas a el sur de gran_canaria a 2 hombre identificar como j.m.m.o. de 45 año de edad y p.w. de origen alemán de 52 año y con uno detención anterior como presunto autor de uno delito de apropiación indebido a el apoderar se de más de $_ECU:60 de uno empresa de alquiler de automóvil sin conductor con sede social en el citar localidad turístico y para el que trabajar desde hacer varios año",
+        "lemmatized_text_reduced": "policía_nacional haber detener maspalomas sur gran_canaria hombre identificar j.m.m.o. año edad p.w. origen alemán año detención anterior presunto autor delito apropiación indebido apoderar empresa alquiler automóvil conductor sede social citar localidad turístico trabajar hacer año",
+        "persons": [
+            "J.M.M.O."
+        ],
+        "locations": [
+            "Maspalomas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [
+            "P.W."
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "45",
+            "52",
+            "$_ECU:60"
+        ]
+    },
+    "body": {
+        "raw_text": "Los responsables de la empresa se percataron de una bajada importante en los ingresos de la compañía, si bien la actividad comercial no había sufrido disminución y rápidamente pudieron comprobar que los ahora detenidos \"distraían hacía sus intereses particulares dinero fruto de la actividad empresarial\", según informa la Jefatura Superior de Policía de Canarias en un comunicado, en el que destaca que ambos, por sus obligaciones profesionales, tenían acceso al dinero que recaudaba la empresa. Tras interponerse la denuncia por estos hechos, agentes adscritos al Grupo de Policía Judicial de la Comisaría de Maspalomas, practicaron varias diligencias de investigación que dieron como resultado la detención de los presuntos autores. La Policía no descarta que la cantidad de dinero sustraída sea mayor, dado que el dinero contabilizado como tal, lo es desde el mes de noviembre del año 2009, estando pendiente la empresa de realizar una auditoría que determine la totalidad del mismo que pudiera haber sido sustraído. Los detenidos, junto con las diligencias practicadas, fueron puestos a disposición de la autoridad judicial.",
+        "lemmatized_text": "el responsable de el empresa se percatar de uno bajada importante en el ingreso de el compañía si bien el actividad comercial no haber sufrir disminución y rápidamente poder comprobar que el ahora detener distraer hacer su interés particular dinero fruto de el actividad empresarial según informar el jefatura_superior_de_policía_de_canarias en uno comunicado en el que destacar que ambos por su obligación profesional tener acceso a el dinero que recaudar el empresa tras interponer se el denuncia por este hecho agente adscribir a el grupo_de_policía_judicial_de_la_comisaría_de_maspalomas practicar varios diligencia de investigación que dar como resultado el detención de el presunto autor el policía no descartar que el cantidad de dinero sustraer ser mayor dado_que el dinero contabilizar como tal lo ser desde el [??:??/11/2009:??.??:??] estar pendiente el empresa de realizar uno auditoría que determinar el totalidad de el mismo que poder haber ser sustraer el detenido junto_con el diligencia practicar ser poner a disposición de el autoridad judicial",
+        "lemmatized_text_reduced": "responsable empresa percatar bajada importante ingreso compañía actividad comercial haber sufrir disminución rápidamente poder comprobar detener distraer hacer interés particular dinero fruto actividad empresarial informar jefatura_superior_de_policía_de_canarias comunicado destacar obligación profesional tener acceso dinero recaudar empresa interponer denuncia hecho agente adscribir grupo_de_policía_judicial_de_la_comisaría_de_maspalomas practicar diligencia investigación dar resultado detención presunto autor policía descartar cantidad dinero sustraer ser mayor dinero contabilizar ser estar pendiente empresa realizar auditoría determinar totalidad mismo poder haber ser sustraer detenido diligencia practicar ser poner disposición autoridad judicial",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Grupo_de_Policía_Judicial_de_la_Comisaría_de_Maspalomas",
+            "Policía"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/11/2009:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

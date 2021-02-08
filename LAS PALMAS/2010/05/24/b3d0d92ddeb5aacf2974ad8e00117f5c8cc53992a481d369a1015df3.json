@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/716465/0/",
+    "title": {
+        "raw_text": "A dos de cada tres canarios le cuesta llegar a fin de mes, según Mapfre",
+        "lemmatized_text": "a 2 de cada 3 canario le costar llegar a_fin_de mes según mapfre",
+        "lemmatized_text_reduced": "canario costar llegar mes mapfre",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Mapfre"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos de cada tres canarios tienen dificultades para llegar a fin de mes con sus salarios, una cifra superior en 13 puntos porcentuales a la media española, que se fija en el 53,4 por ciento, según una encuesta de Mapfre en todo el territorio realizada en abril de este mismo año.",
+        "lemmatized_text": "2/3 canario tener dificultad para llegar a_fin_de mes con su salario uno cifra superior en 13 punto porcentual a el media español que se fijar en el 53,4 por 100 según uno encuesta de mapfre en todo el territorio realizar en [??:??/4/??:??.??:??] de este mismo año",
+        "lemmatized_text_reduced": "canario tener dificultad llegar mes salario cifra superior punto porcentual media español fijar encuesta mapfre territorio realizar mismo año",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Mapfre"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "2/3",
+            "13",
+            "53,4",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "El presidente de Mapfre Vida, Ignacio Baeza, presentó hoy en una conferencia en la sede del periódico Canarias7 en Las Palmas de Gran Canaria las cifras que corresponden a las islas en una encuesta, que refleja que el 78,4 por ciento de los canarios considera que la crisis pone en riesgo el actual sistema público de pensiones. Además, el 81,7 por ciento de los canarios cree necesario la articulación de medidas complementarias a la pensión pública de jubilación, la mayoría jóvenes, un porcentaje superior a la media nacional, del 79,4 por ciento. Puntuándolo del 1 al 5, los canarios cifran en un 4,4 su grado de preocupación por el futuro de las pensiones públicas afectadas por la actual situación económica y las mujeres son más desconfiadas aún que los hombres.4 De cada 10 Hacen algo para complementar su jubilación En cambio, Canarias está por detrás de la media nacional entre aquellos encuestados que están haciendo algo para complementar su pensión pública, el 37 por ciento en las islas frente al 39 por ciento nacional. Además, el 81,7 por ciento de los canarios considera la reforma del sistema de pensiones como una \"prioridad\" frente al 75,3 por ciento que lo considera de vital relevancia en el conjunto de España.",
+        "lemmatized_text": "el presidente de mapfre_vida ignacio_baeza presentar hoy en uno conferencia en el sede de el periódico Canarias7 en las_palmas_de_gran_canaria el cifra que corresponder a el isla en uno encuesta que reflejar que el 78,4 por 100 de el canario considerar que el crisis poner en riesgo el actual sistema público de pensión además el 81,7 por 100 de el canario creer necesario el articulación de medida complementario a el pensión público de jubilación el mayoría joven uno porcentaje superior a el media nacional de el 79,4 por 100 puntuar lo de el 1 a el 5 el canario cifrar en uno 4,4 su grado de preocupación por el futuro de el pensión público afectar por el actual situación económico y el mujer ser más desconfiar aun que el hombres.4/10 hacen algo para complementar su jubilación en cambio canarias estar por detrás_de el media nacional entre aquel encuestar que estar hacendar algo para complementar su pensión público el 37 por 100 en el isla frente a el 39 por 100 nacional además el 81,7 por 100 de el canario considerar el reforma de el sistema de pensión como uno prioridad frente a el 75,3 por 100 que lo considerar de vital relevancia en el conjunto de españa",
+        "lemmatized_text_reduced": "presidente mapfre_vida ignacio_baeza presentar conferencia sede periódico las_palmas_de_gran_canaria cifra corresponder isla encuesta reflejar canario considerar crisis poner riesgo actual sistema público pensión canario creer necesario articulación medida complementario pensión público jubilación mayoría joven porcentaje superior media nacional puntuar canario cifrar grado preocupación futuro pensión público afectar actual situación económico mujer ser desconfiar hacen complementar jubilación en cambio canarias estar media nacional encuestar estar hacendar complementar pensión público isla nacional canario considerar reforma sistema pensión prioridad considerar vital relevancia conjunto españa",
+        "persons": [
+            "Ignacio_Baeza",
+            "Hacen"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Canarias",
+            "España"
+        ],
+        "organizations": [
+            "Mapfre_Vida",
+            "En"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "Canarias7",
+            "78,4",
+            "100",
+            "81,7",
+            "100",
+            "79,4",
+            "100",
+            "1",
+            "5",
+            "4,4",
+            "hombres.4/10",
+            "37",
+            "100",
+            "39",
+            "100",
+            "81,7",
+            "100",
+            "75,3",
+            "100"
+        ]
+    }
+}

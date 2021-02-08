@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-08-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/266947/0/patera/gran/canaria/",
+    "title": {
+        "raw_text": "Rescatan en alta mar una patera con 48 inmigrantes en Gran Canaria",
+        "lemmatized_text": "rescatar en alto mar uno patera con 48 inmigrante en gran_canaria",
+        "lemmatized_text_reduced": "rescatar alto mar patera inmigrante gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "48"
+        ]
+    },
+    "lead": {
+        "raw_text": "La patera fue avistada anoche a unas 110 millas de la costa de Gran Canaria. Llegaron a puerto veinte horas después de su localización. El rescate se realizó en alta mar.",
+        "lemmatized_text": "el patera ser avistar anoche a uno LN_mi:110 de el costa de gran_canaria llegar a puerto TM_h:20 después_de su localización el rescate se realizar en alto marzo",
+        "lemmatized_text_reduced": "patera ser avistar costa gran_canaria llegar puerto localización rescate realizar alto marzo",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "LN_mi:110",
+            "TM_h:20"
+        ]
+    },
+    "body": {
+        "raw_text": "Los 48 inmigrantes que viajaban en una patera localizada anoche a 110 millas de Gran Canaria , arribaron esta tarde al muelle de Arguineguín de dicha isla, donde fueron desembarcados en torno a las siete de la tarde. Una embarcación de Salvamento Marítimo trasladó hasta la isla a los ocupantes de la patera, que fue inicialmente avistada sobre las 22.00 horas de anoche a unas 110 millas al sur de Maspalomas, la costa más turística de Gran Canaria. El rescate de los ocupantes de la barquilla se efectuó de noche y en alta mar. Todos ellos eran varones y, al parecer, adultos. Posteriormente, fueron conducidos a bordo de su embarcación al muelle de Arguineguín, en el municipio de Mogán. Allí fueron desembarcados finalmente sobre las siete de esta tarde, casi veinte horas después de que fueran detectados anoche en alta mar. Todos han llegado en buenas condiciones de salud.",
+        "lemmatized_text": "el 48 inmigrante que viajar en uno patera localizar anoche a LN_mi:110 de gran_canaria arribar este tarde a el muelle de arguineguín de decir isla donde ser desembarcar en_torno_a el [??:??/??/??:7.00:pm] uno embarcación de salvamento_marítimo trasladar hasta el isla a el ocupante de el patera que ser inicialmente avistar sobre el TM_h:22 de anoche a uno LN_mi:110 a el sur de maspalomas el costa más turístico de gran_canaria el rescate de el ocupante de el barquilla se efectuar de noche y en alto marzo todos ellos ser varón y a el parecer adulto posteriormente ser conducir a_bordo de su embarcación a el muelle de arguineguín en el municipio de mogán allí ser desembarcar finalmente sobre el 7 de este tarde casi TM_h:20 después_de que ser detectar anoche en alto marzo todos haber llegar en bueno condición de salud",
+        "lemmatized_text_reduced": "inmigrante viajar patera localizar gran_canaria arribar tarde muelle arguineguín decir isla ser desembarcar embarcación salvamento_marítimo trasladar isla ocupante patera ser inicialmente avistar sur maspalomas costa turístico gran_canaria rescate ocupante barquilla efectuar noche alto marzo todos ser varón parecer adulto posteriormente ser conducir embarcación muelle arguineguín municipio mogán ser desembarcar finalmente tarde ser detectar alto marzo todos haber llegar bueno condición salud",
+        "persons": [
+            "Arguineguín",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Maspalomas",
+            "Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "Todos",
+            "Todos"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/??/??:7.00:pm]"
+        ],
+        "numbers": [
+            "48",
+            "LN_mi:110",
+            "TM_h:22",
+            "LN_mi:110",
+            "7",
+            "TM_h:20"
+        ]
+    }
+}

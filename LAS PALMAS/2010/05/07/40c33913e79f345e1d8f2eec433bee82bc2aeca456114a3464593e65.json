@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/699998/0/",
+    "title": {
+        "raw_text": "La ZEC experimenta una \"ligera mejora\" en el primer cuatrimestre con 37 proyectos y 47 millones de euros",
+        "lemmatized_text": "el zec experimentar uno ligero mejora en el 1 cuatrimestre con 37 proyecto y $_ECU:47000000",
+        "lemmatized_text_reduced": "zec experimentar ligero mejora 1 cuatrimestre proyecto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "ZEC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "37",
+            "$_ECU:47000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Zona Especial Canaria (ZEC) ha experimentado una \"ligera mejora\" durante el primer cuatrimestre de 2010 al autorizar un total de 37 proyectos empresariales que han creado 498 empleos y que han supuesto una inversión de 47 millones de euros, según pusieron hoy de manifiesto su presidente, Juan Alberto Martín, y su vicepresidente, Juan Pérez, durante la presentación de los datos.",
+        "lemmatized_text": "el zona_especial_canaria zec haber experimentar uno ligero mejora durante el 1 cuatrimestre de 2010 a el autorizar uno total de 37 proyecto empresarial que haber crear 498 empleo y que haber suponer uno inversión de $_ECU:47000000 según poner hoy de manifiesto su presidente juan_alberto_martín y su vicepresidente juan_pérez durante el presentación de el dato",
+        "lemmatized_text_reduced": "zona_especial_canaria zec haber experimentar ligero mejora 1 cuatrimestre autorizar total proyecto empresarial haber crear empleo haber suponer inversión poner manifiesto presidente juan_alberto_martín vicepresidente juan_pérez presentación dato",
+        "persons": [
+            "Juan_Alberto_Martín",
+            "Juan_Pérez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Zona_Especial_Canaria",
+            "ZEC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010",
+            "37",
+            "498",
+            "$_ECU:47000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Martín explicó que estas cifras \"son ligeramente mejores\" que el año pasado, donde a estas alturas fueron 34 los proyectos aprobados, que crearon 613 puestos de trabajo y conllevaron una inversión de 247 millones de euros, datos que son superiores (en empleo e inversión), ya que en 2009 una empresa acaparó ella sóla grandes cifras en estos aspectos. \"Son mejores —los datos de 2010— porque el año pasado había una empresa de aviación que ella sola supuso la creación de más de 200 empleos y una inversión de 200 millones. Si se le quita esta empresa para hacer los datos más regulares, se verá que los datos de este año son ligeramente mejores que los del año anterior\", manifestó. De los 37 proyectos de este año, 17 de ellos se desarrollarán en Gran Canaria, 13 en Tenerife, cuatro en Fuerteventura, dos en Lanzarote y uno en La Palma. \"Los datos —añadió— no son espectaculares, pero son bastante buenos, teniendo en cuenta las grandes dificultades económicas por las que se atraviesa\". (Habrá ampliación)",
+        "lemmatized_text": "martín explicar que este cifra ser ligeramente mejor que el año pasar donde a este altura ser 34 el proyecto aprobar que crear 613 puesto de trabajo y conllevar uno inversión de $_ECU:247000000 dato que ser superior en empleo y inversión ya_que en 2009 uno empresa acaparar él sóla grande cifra en este aspecto ser mejor el dato de 2010 porque el año pasar haber 1 empresa de aviación que él solo suponer el creación de más de 200 empleo y uno inversión de 200000000 si se le quitar este empresa para hacer el dato más regular se ver que el dato de este año ser ligeramente mejor que el de el año anterior manifestar de el 37 proyecto de este año 17 de ellos se desarrollar en gran_canaria 13 en tenerife 4 en fuerteventura 2 en lanzarote y uno en la_palma el dato añadir no ser espectacular pero ser bastante bueno tener_en_cuenta el grande dificultad económico por el que se atravesar haber ampliación",
+        "lemmatized_text_reduced": "martín explicar cifra ser ligeramente mejor año pasar altura ser proyecto aprobar crear puesto trabajo conllevar inversión dato ser superior empleo inversión empresa acaparar sóla grande cifra aspecto ser mejor dato año pasar haber empresa aviación solo suponer creación empleo inversión quitar empresa hacer dato regular ver dato año ser ligeramente mejor año anterior manifestar proyecto año desarrollar gran_canaria tenerife fuerteventura lanzarote la_palma dato añadir ser espectacular ser bueno tener_en_cuenta grande dificultad económico atravesar haber ampliación",
+        "persons": [
+            "Martín"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Tenerife",
+            "Lanzarote",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "34",
+            "613",
+            "$_ECU:247000000",
+            "2009",
+            "2010",
+            "1",
+            "200",
+            "200000000",
+            "37",
+            "17",
+            "13",
+            "4",
+            "2"
+        ]
+    }
+}

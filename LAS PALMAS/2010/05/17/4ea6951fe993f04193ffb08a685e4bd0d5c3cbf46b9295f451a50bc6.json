@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/708894/0/",
+    "title": {
+        "raw_text": "Un varón de 45 años resulta herido grave al ser atropellado en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno varón de 45 año resultar herir grave a el ser atropellar en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "varón año resultar herir grave ser atropellar las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "45"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de 45 años ha resultado herido con politraumatismos de carácter grave al ser atropellado en la calle Bravo Murillo en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 45 año haber resultar herir con politraumatismo de carácter grave a el ser atropellar en el calle bravo_murillo en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año haber resultar herir politraumatismo carácter grave ser atropellar calle bravo_murillo las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Bravo_Murillo",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "45",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 03.22 horas, cuando se registró una alerta en el Cecoes comunicando que un turismo había atropellado a una persona y ésta precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Como consecuencia del impacto el hombre tuvo que ser asistido por personal médico del Servicio de Urgencias Canario (SUC), que le estabilizó y le trasladó en una ambulancia de soporte vital avanzado del SUC al Hospital Universitario Insular de Gran Canaria. En dicha actuación intervino también la Policía Local, que se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el accidente se producir a el TM_h:3.22 cuando se registrar uno alerta en el cecoes comunicar que uno turismo haber atropellar a uno persona y este precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario como consecuencia de el impacto el hombre tener que ser asistir por personal médico de el servicio_de_urgencias_canario suc que le estabilizar y le trasladar en uno ambulancia de soporte vital avanzar de el suc a el hospital_universitario_insular_de_gran_canaria en decir actuación intervenir también el policía_local que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "accidente producir registrar alerta cecoes comunicar turismo haber atropellar persona precisar asistencia sanitario modo activar inmediato recurso emergencia necesario consecuencia impacto hombre tener ser asistir personal médico servicio_de_urgencias_canario suc estabilizar trasladar ambulancia soporte vital avanzar suc hospital_universitario_insular_de_gran_canaria decir actuación intervenir policía_local encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:3.22",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/718281/0/",
+    "title": {
+        "raw_text": "Accidente en una subestación de Endesa deja 2 heridos y detiene el suministro por 1 hora en el Sur de Gran Canaria",
+        "lemmatized_text": "accidente en uno subestación de endesa dejar 2 herido y detener el suministro por TM_h:1 en el sur_de_gran_canaria",
+        "lemmatized_text_reduced": "accidente subestación endesa dejar herido detener suministro sur_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Endesa"
+        ],
+        "others": [
+            "Sur_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_h:1"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un accidente en la subestación de la compañía Endesa, que se encuentra en las proximidades de la central eléctrica del Barranco de Tirajana (conocida también como Juan Grande), dentro del término municipal de San Bartolomé de Tirajana (Gran Canaria), ha dejado un total de dos heridos --los operarios que trabajaban en el interior, y ha interrumpido el suministro eléctrico desde las 09.38 horas hasta las 10.30 horas en el sur de la isla.",
+        "lemmatized_text": "uno accidente en el subestación de el compañía endesa que se encontrar en_las_proximidades_de el central eléctrico de el barranco_de_tirajana conocer también como juan_grande dentro de el término municipal de san_bartolomé_de_tirajana gran_canaria haber dejar uno total de 2 herido el operario que trabajar en el interior y haber interrumpir el suministro eléctrico desde el TM_h:9.38 hasta el TM_h:10.3 en el sur de el isla",
+        "lemmatized_text_reduced": "accidente subestación compañía endesa encontrar central eléctrico barranco_de_tirajana conocer juan_grande término municipal san_bartolomé_de_tirajana gran_canaria haber dejar total herido operario trabajar interior haber interrumpir suministro eléctrico sur isla",
+        "persons": [
+            "Juan_Grande"
+        ],
+        "locations": [
+            "Barranco_de_Tirajana"
+        ],
+        "organizations": [
+            "Endesa",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "TM_h:9.38",
+            "TM_h:10.3"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informaron a Europa Press fuentes de la empresa, los dos operarios se encontraban en la subestación trabajando cuando se produjo el incidente, aunque se desconocen los motivos que los provocaron, hechos que Endesa espera conocer cuando se pueda hablar con los operarios. En este sentido, los trabajadores se encuentran fuera de peligro, aunque uno de ellos presentó quemaduras, siendo ambos trasladados hasta un centro de salud. El incidente provocó que los dos transformadores de la subestación, que es de donde parten las líneas de 60.000 voltios que suministran al sur de la isla, se desconectaran y ocasionaran un corte de suministro que afectó desde la zona de Vecindario, en Santa Lucía de Tirajana; hasta Arguineguín. Así, el corte hizo que las subestaciones de San Agustín, Lomo de Maspalomas, El Tablero y Arguineguín quedaran sin suministro, afectando al fluido eléctrico en el sur de Gran Canaria durante casi una hora. Finalmente, la recuperación del servicio se realizó atendiendo a las instrucciones de Red Eléctrica de España, mientras que las mismas fuentes señalaron que las instalaciones están en perfecto estado y funcionando con total normalidad, incluso la subestación donde se produjo el accidente, haciendo especial hincapié en que los dos afectados están fuera de peligro.",
+        "lemmatized_text": "según informar a europa_press fuente de el empresa el 2 operario se encontrar en el subestación trabajar cuando se producir el incidente aunque se desconocer el motivo que lo provocar hecho que endesa esperar conocer cuando se poder hablar con el operario en este sentido el trabajador se encontrar fuera_de peligro aunque uno de ellos presentar quemadura ser ambos trasladar hasta uno centro de salud el incidente provocar que el 2 transformador de el subestación que ser de donde partir el línea de 60 voltio que suministrar a el sur de el isla se desconectar y ocasionar uno corte de suministro que afectar desde el zona de vecindario en santa_lucía_de_tirajana hasta arguineguín así el corte hacer que el subestación de san_agustín lomo_de_maspalomas el_tablero y arguineguín quedar sin suministro afectar a el fluido eléctrico en el sur de gran_canaria durante casi uno hora finalmente el recuperación de el servicio se realizar atender a el instrucción de red_eléctrica_de_españa mientras_que el mismo fuente señalar que el instalación estar en perfecto estado y funcionar con total normalidad incluso el subestación donde se producir el accidente hacer especial hincapié en que el 2 afectado estar fuera_de peligro",
+        "lemmatized_text_reduced": "informar europa_press fuente empresa operario encontrar subestación trabajar producir incidente desconocer motivo provocar hecho endesa esperar conocer poder hablar operario sentido trabajador encontrar peligro presentar quemadura ser trasladar centro salud incidente provocar transformador subestación ser partir línea voltio suministrar sur isla desconectar ocasionar corte suministro afectar zona vecindario santa_lucía_de_tirajana arguineguín corte hacer subestación san_agustín lomo_de_maspalomas el_tablero arguineguín quedar suministro afectar fluido eléctrico sur gran_canaria hora finalmente recuperación servicio realizar atender instrucción red_eléctrica_de_españa mismo fuente señalar instalación estar perfecto estado funcionar total normalidad subestación producir accidente hacer especial hincapié afectado estar peligro",
+        "persons": [
+            "Arguineguín",
+            "Lomo_de_Maspalomas",
+            "El_Tablero"
+        ],
+        "locations": [
+            "Vecindario",
+            "Santa_Lucía_de_Tirajana",
+            "San_Agustín",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Endesa",
+            "Arguineguín",
+            "Red_Eléctrica_de_España"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2",
+            "60",
+            "2"
+        ]
+    }
+}

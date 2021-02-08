@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/918767/0/",
+    "title": {
+        "raw_text": "Un hombre muere en Gran Canaria después de sufrir una parada cardiorrespiratoria en su turismo",
+        "lemmatized_text": "uno hombre morir en gran_canaria después_de sufrir uno parada cardiorrespiratoria en su turismo",
+        "lemmatized_text_reduced": "hombre morir gran_canaria sufrir parada cardiorrespiratoria turismo",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha muerto este domingo en San Bartolomé de Tirajana (Gran Canaria) después de sufrir una parada cardiorrespiratoria en el interior de su turismo, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber morir este [G:??/??/??:??.??:??] en san_bartolomé_de_tirajana gran_canaria después_de sufrir uno parada cardiorrespiratoria en_el_interior_de su turismo según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber morir san_bartolomé_de_tirajana gran_canaria sufrir parada cardiorrespiratoria turismo informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre ha muerto este domingo en San Bartolomé de Tirajana (Gran Canaria) después de sufrir una parada cardiorrespiratoria en el interior de su turismo, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo en el Cruce del Tablero, en San Bartolomé de Tirajana, y el fallecido tenía 60 años de edad. Hasta el lugar del suceso se trasladó personal del Servicio de Urgencias Canario (SUC), tras ser alertado de que una persona se había salido de la vía por la que circulaba y precisaba asistencia sanitaria. Posteriormente, el personal médico una vez en la zona comprobó que el hombre se encontraba en parada cardiorrespiratoria, por lo que procedió a practicarle maniobras de reanimación cardiopulmonar básicas y avanzadas sin obtener resultado, y sólo pudiendo confirmar su fallecimiento. Asimismo, en el lugar se personaron agentes de la Guardia Civil que regularon el tráfico en la zona e instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre haber morir este [G:??/??/??:??.??:??] en san_bartolomé_de_tirajana gran_canaria después_de sufrir uno parada cardiorrespiratoria en_el_interior_de su turismo según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir en el cruce_del_tablero en san_bartolomé_de_tirajana y el fallecer tener 60 año de edad hasta el lugar de el suceso se trasladar personal de el servicio_de_urgencias_canario suc tras ser alertar de que uno persona se haber salir de el vía por el que circular y precisar asistencia sanitario posteriormente el personal médico uno vez en el zona comprobar que el hombre se encontrar en parada cardiorrespiratoria por el que proceder a practicar le maniobra de reanimación cardiopulmonar básico y avanzar sin obtener resultado y sólo poder confirmar su fallecimiento asimismo en el lugar se personar agente de el guardia_civil que regular el tráfico en el zona y instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre haber morir san_bartolomé_de_tirajana gran_canaria sufrir parada cardiorrespiratoria turismo informar centro_coordinador_de_emergencias seguridad incidente producir cruce_del_tablero san_bartolomé_de_tirajana fallecer tener año edad lugar suceso trasladar personal servicio_de_urgencias_canario suc ser alertar persona haber salir vía circular precisar asistencia sanitario posteriormente personal médico vez zona comprobar hombre encontrar parada cardiorrespiratoria proceder practicar maniobra reanimación cardiopulmonar básico avanzar obtener resultado poder confirmar fallecimiento lugar personar agente guardia_civil regular tráfico zona instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Cruce_del_Tablero",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "60"
+        ]
+    }
+}

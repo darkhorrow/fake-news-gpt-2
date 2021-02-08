@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/442523/0/mujer/apunalada/arrecife/",
+    "title": {
+        "raw_text": "Un hombre detenido por apuñalar a su pareja en Arrecife de Lanzarote",
+        "lemmatized_text": "uno hombre detener por apuñalar a su pareja en arrecife_de_lanzarote",
+        "lemmatized_text_reduced": "hombre detener apuñalar pareja arrecife_de_lanzarote",
+        "persons": [],
+        "locations": [
+            "Arrecife_de_Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Sucedió en el domicilio de ambos en el barrio de Argana Alta. La mujer presenta heridas leves en un hombro. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "suceder en el domicilio de ambos en el barrio de argana_alta el mujer presentar herida leve en uno hombro consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "suceder domicilio barrio argana_alta mujer presentar herida leve hombro consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Argana_Alta"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una mujer española de unos 53 años de edad ha ingresado este lunes en el Hospital José Molina Orosa de Arrecife de Lanzarote, tras ser presuntamente agredida con un arma blanca por su compañero sentimental, que ha sido detenido , informaron fuentes policiales. La mujer, de unos 50 años, ya ha sido dada de alta por las autoridades sanitarias que la atendieron de los cortes que sufría en un hombro . Después cursó la denuncia correspondiente. La presunta agresión ocurrió en la vivienda que la pareja compartía en la calle Escardillo, del barrio arrecifeño de Argana Alta. Vecinos de la zona señalaron que nada más tenerse conocimiento de los hechos se desplazó al lugar una ambulancia medicalizada que evacuó a la víctima hasta el centro hospitalario, donde quedó ingresada. Mientras tanto, agentes del Cuerpo Nacional de Policía procedieron a la detención del presunto agresor , que permanece en los calabozos de la comisaría de Arrecife.",
+        "lemmatized_text": "uno mujer español de uno 53 año de edad haber ingresar este [L:??/??/??:??.??:??] en el hospital_josé_molina_orosa_de_arrecife_de_lanzarote tras ser presuntamente agredir con uno arma blanco por su compañero sentimental que haber ser detener informar fuente policial el mujer de uno 50 año ya haber ser dar_de_alta por el autoridad sanitario que lo atender de el corte que sufrir en uno hombro después cursar el denuncia correspondiente el presunto agresión ocurrir en el vivienda que el pareja compartir en el calle escardillo de el barrio arrecifeño de argana_alta vecino de el zona señalar que nada más tener se conocimiento de el hecho se desplazar a el lugar uno ambulancia medicalizada que evacuar a el víctima hasta el centro hospitalario donde quedar ingresar mientras tanto agente de el cuerpo_nacional_de_policía proceder a el detención de el presunto agresor que permanecer en el calabozo de el comisaría de arrecife",
+        "lemmatized_text_reduced": "mujer español año edad haber ingresar hospital_josé_molina_orosa_de_arrecife_de_lanzarote ser presuntamente agredir arma blanco compañero sentimental haber ser detener informar fuente policial mujer año haber ser autoridad sanitario atender corte sufrir hombro cursar denuncia correspondiente presunto agresión ocurrir vivienda pareja compartir calle escardillo barrio arrecifeño argana_alta vecino zona señalar tener conocimiento hecho desplazar lugar ambulancia medicalizada evacuar víctima centro hospitalario quedar ingresar agente cuerpo_nacional_de_policía proceder detención presunto agresor permanecer calabozo comisaría arrecife",
+        "persons": [],
+        "locations": [
+            "Hospital_José_Molina_Orosa_de_Arrecife_de_Lanzarote",
+            "Argana_Alta",
+            "Arrecife"
+        ],
+        "organizations": [
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Escardillo"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "53",
+            "50"
+        ]
+    }
+}

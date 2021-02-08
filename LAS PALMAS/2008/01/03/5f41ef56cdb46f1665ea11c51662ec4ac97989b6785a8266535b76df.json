@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/329227/0/polizones/marroquies/laspalmas/",
+    "title": {
+        "raw_text": "La Policía busca en Fuerteventura a dos polizones marroquíes",
+        "lemmatized_text": "el policía buscar en fuerteventura a 2 polizón marroquí",
+        "lemmatized_text_reduced": "policía buscar fuerteventura polizón marroquí",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Saltaron de la embarcación y comenzaron a correr. Se escondieron en el barco de Naviera Armas que parte desde Tarfaya. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA . Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "saltar de el embarcación y comenzar a correr se esconder en el barco de naviera_armas que parte desde tarfaya consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "saltar embarcación comenzar correr esconder barco naviera_armas parte tarfaya consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria poder ampliar reducir mapa desplazar",
+        "persons": [
+            "Naviera_Armas"
+        ],
+        "locations": [
+            "Tarfaya"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Policía Nacional busca en Fuerteventura a dos polizones marroquíes llegados el domingo en el barco Assalama de la Naviera Armas que une la isla con Tarfaya (Marruecos), en el que llegó un tercero al que se detuvo en las inmediaciones del muelle de Puerto del Rosario. Según un portavoz de la Jefatura Superior de Policía de Canarias, los tres polizones saltaron del barco y comenzaron a correr en dirección al barrio cercano de El Charco, zona en la que se organizó un dispositivo de búsqueda. En esa zona aledaña al muelle de la capital de Fuerteventura, la Policía logró detener a uno de los tres polizones, un varón mayor de edad de origen magrebí, cuyo expediente de expulsión ya se ha tramitado. Sin embargo, los otros dos polizones llegados a Fuerteventura desde Tarfaya, en la nueva ruta inaugurada por Armas el pasado 10 de diciembre con el buque Assalama , nombre que en español significa Buen Viaje , continúan huidos , por lo que se les sigue buscando por la isla. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el policía_nacional buscar en fuerteventura a 2 polizón marroquí llegar el [G:??/??/??:??.??:??] en el barco assalama_de_la_naviera_armas que unir el isla con tarfaya marrueco en el que llegar uno 3 a el que se detener en el inmediación de el muelle de puerto_del_rosario según uno portavoz de el jefatura_superior_de_policía_de_canarias el 3 polizón saltar de el barco y comenzar a correr en dirección a el barrio cercano de el_charco zona en el que se organizar uno dispositivo de búsqueda en ese zona aledaño a el muelle de el capital de fuerteventura el policía lograr detener a uno de el 3 polizón uno varón mayor de edad de origen magrebí cuyo expediente de expulsión ya se haber tramitar sin embargo el otro 2 polizón llegar a fuerteventura desde tarfaya en el nuevo ruta inaugurar por armas el [??:10/12/??:??.??:??] con el buque assalama nombre que en español significar buen_viaje continuar huir por el que se le seguir buscar por el isla consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional buscar fuerteventura polizón marroquí llegar barco assalama_de_la_naviera_armas unir isla tarfaya marrueco llegar 3 detener inmediación muelle puerto_del_rosario portavoz jefatura_superior_de_policía_de_canarias polizón saltar barco comenzar correr dirección barrio cercano el_charco zona organizar dispositivo búsqueda zona aledaño muelle capital fuerteventura policía lograr detener polizón varón mayor edad origen magrebí expediente expulsión haber tramitar embargo polizón llegar fuerteventura tarfaya nuevo ruta inaugurar armas buque assalama nombre español significar buen_viaje continuar huir seguir buscar isla consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Assalama",
+            "Buen_Viaje"
+        ],
+        "locations": [
+            "Fuerteventura",
+            "Tarfaya",
+            "Puerto_del_Rosario",
+            "El_Charco",
+            "Tarfaya"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Fuerteventura",
+            "Policía",
+            "Fuerteventura",
+            "Armas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Assalama_de_la_Naviera_Armas"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[??:10/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "3",
+            "3",
+            "2"
+        ]
+    }
+}

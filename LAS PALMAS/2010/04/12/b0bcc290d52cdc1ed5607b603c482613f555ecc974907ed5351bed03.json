@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/674524/0/cadaver/bungalow/lanzarote/",
+    "title": {
+        "raw_text": "Encuentran un cadáver tras apagar un incendio en un 'bungalow' en Lanzarote",
+        "lemmatized_text": "encontrar uno cadáver tras apagar uno incendio en uno bungalow en lanzarote",
+        "lemmatized_text_reduced": "encontrar cadáver apagar incendio bungalow lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ocurrió en el el municipio de Tías, en la zona de Puerto del Carmen. El cuerpo no ha sido aún identificado.",
+        "lemmatized_text": "ocurrir en el el municipio de tías en_la_zona_de puerto_del_carmen el cuerpo no haber ser aun identificar",
+        "lemmatized_text_reduced": "ocurrir municipio tías puerto_del_carmen cuerpo haber ser identificar",
+        "persons": [],
+        "locations": [
+            "Tías",
+            "Puerto_del_Carmen"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los bomberos encontraron este lunes el cadáver de una persona tras apagar el incendio que se había producido en un \"bungalow\" en el municipio lanzaroteño de Tías , informó el Centro Coordinador de Emergencias y Seguridad 112. El incendio se produjo hacia las 23.30 horas en la zona turística de Puerto del Carmen del citado municipio lanzaroteño y varias llamadas alertaron del hecho al 112. Los bomberos extinguieron el fuego y al terminar sus labores localizaron el cadáver de una persona que no ha sido identificado, indicaron las fuentes del Centro Coordinador de Emergencias y Seguridad.",
+        "lemmatized_text": "el bombero encontrar este [L:??/??/??:??.??:??] el cadáver de uno persona tras apagar el incendio que se haber producir en uno bungalow en el municipio lanzaroteño de tías informar el centro_coordinador_de_emergencias y seguridad 112 el incendio se producir hacia el TM_h:23.3 en el zona turístico de puerto_del_carmen de el citar municipio lanzaroteño y varios llamada alertar de el hecho a el 112 el bombero extinguir el fuego y a el terminar su labor localizar el cadáver de uno persona que no haber ser identificar indicar el fuente de el centro_coordinador_de_emergencias y seguridad",
+        "lemmatized_text_reduced": "bombero encontrar cadáver persona apagar incendio haber producir bungalow municipio lanzaroteño tías informar centro_coordinador_de_emergencias seguridad incendio producir zona turístico puerto_del_carmen citar municipio lanzaroteño llamada alertar hecho bombero extinguir fuego terminar labor localizar cadáver persona haber ser identificar indicar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Tías",
+            "Puerto_del_Carmen"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad",
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:23.3",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-11-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/577996/0/multa/haidar/saharahui/",
+    "title": {
+        "raw_text": "Haidar deberá pagar una multa de 180 euros por una falta contra el orden público",
+        "lemmatized_text": "haidar deber pagar uno multa de $_ECU:180 por uno falta contra el orden público",
+        "lemmatized_text_reduced": "haidar deber pagar multa falta orden público",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:180"
+        ]
+    },
+    "lead": {
+        "raw_text": "Tras la denuncia del director del Aeropuerto de Lanzarote. Los incidentes se produjeron en el desalojo nocturno del aeropuerto.",
+        "lemmatized_text": "tras el denuncia de el director de el aeropuerto_de_lanzarote el incidente se producir en el desalojo nocturno de el aeropuerto",
+        "lemmatized_text_reduced": "denuncia director aeropuerto_de_lanzarote incidente producir desalojo nocturno aeropuerto",
+        "persons": [],
+        "locations": [
+            "Aeropuerto_de_Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una multa de 180 euros por un delito de falta contra el orden público . Ha sido la sentencia que un juzgado de Lanzarote ha impuesto a la activista saharaui Aminetu Haidar , según ha difundido este lunes el Tribunal Superior de Justicia. El juzgado impone así una multa de seis euros diarios durante un mes, que deberá ser satisfecha de una sola vez . La decisión tiene lugar tras la denuncia presentada por el director del Aeropuerto de Lanzarote, Dionisio Canomanuel , días después de que Haidar llegara a la isla y a raíz de unos incidentes que tuvieron lugar durante su desalojo de las instalaciones aeroportuarias en horas de la noche, cuando se cierra la terminal.",
+        "lemmatized_text": "uno multa de $_ECU:180 por uno delito de falta contra el orden público haber ser el sentencia que uno juzgado de lanzarote haber imponer a el activista saharaui aminetu_haidar según haber difundir este [L:??/??/??:??.??:??] el tribunal_superior_de_justicia el juzgado imponer así uno multa de $_ECU:6 diario durante uno mes que deber ser satisfacer de uno solo vez el decisión tener_lugar tras el denuncia presentar por el director de el aeropuerto_de_lanzarote dionisio_canomanuel día después_de que haidar llegar a el isla y a_raíz_de uno incidente que tener_lugar durante su desalojo de el instalación aeroportuario en hora de el noche cuando se cerrar el terminal",
+        "lemmatized_text_reduced": "multa delito falta orden público haber ser sentencia juzgado lanzarote haber imponer activista saharaui aminetu_haidar haber difundir tribunal_superior_de_justicia juzgado imponer multa diario mes deber ser satisfacer solo vez decisión tener_lugar denuncia presentar director aeropuerto_de_lanzarote dionisio_canomanuel día haidar llegar isla incidente tener_lugar desalojo instalación aeroportuario hora noche cerrar terminal",
+        "persons": [
+            "Aminetu_Haidar",
+            "Dionisio_Canomanuel",
+            "Haidar"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia",
+            "Aeropuerto_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:180",
+            "$_ECU:6"
+        ]
+    }
+}

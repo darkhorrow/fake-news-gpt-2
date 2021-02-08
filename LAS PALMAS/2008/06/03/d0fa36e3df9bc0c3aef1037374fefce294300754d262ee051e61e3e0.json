@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-06-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/385353/0/intento/venta/bebe/",
+    "title": {
+        "raw_text": "Un hombre ebrio intenta vender a su bebé por 50 euros en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre ebrio intentar vender a su bebé por $_ECU:50 en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre ebrio intentar vender bebé las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:50"
+        ]
+    },
+    "lead": {
+        "raw_text": "Ocurrió el pasado sábado en la Plaza de Farray de la capital grancanaria. La niña se encuentra con la abuela paterna. El hombre, quedó en libertad tras prestar declaración ante el juez. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "ocurrir el [S:??/??/??:??.??:??] en el plaza_de_farray de el capital grancanaria el niño se encontrar con el abuelo paterno el hombre quedar en libertad tras prestar declaración ante el juez consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ocurrir plaza_de_farray capital grancanaria niño encontrar abuelo paterno hombre quedar libertad prestar declaración juez consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Plaza_de_Farray"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre de 26 años de edad en estado de embriaguez ha intentado vender a su bebé de cinco meses en Las Palmas de Gran Canaria por 50 euros, según informaron fuentes de la Policía Nacional. Los hechos ocurrieron sobre las 17.00 horas del pasado sábado cuando el joven intentó vender a su niña a varias personas que paseaban por la Plaza de Farray de la capital grancanaria, según avanzó el periódico Canarias7. El hombre, natural de Barcelona y que se encontraba bajo los efectos del alcohol , ofrecía a su hija a cambio de 50 euros o 60 si la querían con carrito. Tras alertas de los transeúntes, el varón fue detenido por agentes de la Policía Local, que lo presentaron ante la comisaría del Cuerpo Nacional de Policía que se encargó de instruir las diligencias por un presunto delito de abandono de familia. Quedó en libertad Horas después pasó a disposición judicial y, tras prestar declaración, el juez de guardia decretó la libertad del acusado, según informaron fuentes jurídicas. La niña se encuentra con la abuela paterna, ya que en un primer momento no se pudo localizar a la madre de la menor, agregaron fuentes policiales. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno hombre de 26 año de edad en estado de embriaguez haber intentar vender a su bebé de 5 mes en las_palmas_de_gran_canaria por $_ECU:50 según informar fuente de el policía_nacional el hecho ocurrir sobre el [S:??/??/??:5.00:pm] cuando el joven intentar vender a su niño a varios persona que pasear por el plaza_de_farray de el capital grancanaria según avanzar el periódico Canarias7 el hombre natural de barcelona y que se encontrar bajo el efecto de el alcohol ofrecer a su hijo a_cambio_de $_ECU:50 o 60 si el querer con carrito tras alerta de el transeúnte el varón ser detener por agente de el policía_local que lo presentar ante el comisaría de el cuerpo_nacional_de_policía que se encargar de instruir el diligencia por uno presunto delito de abandono de familia quedar en libertad horas después pasar a disposición judicial y tras prestar declaración el juez de guardia decretar el libertad de el acusado según informar fuente jurídico el niño se encontrar con el abuelo paterno ya_que en uno 1 momento no se poder localizar a el madre de el menor agregar fuente policial consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "hombre año edad estado embriaguez haber intentar vender bebé mes las_palmas_de_gran_canaria informar fuente policía_nacional hecho ocurrir joven intentar vender niño persona pasear plaza_de_farray capital grancanaria avanzar periódico hombre natural barcelona encontrar efecto alcohol ofrecer hijo querer carrito alerta transeúnte varón ser detener agente policía_local presentar comisaría cuerpo_nacional_de_policía encargar instruir diligencia presunto delito abandono familia quedar libertad horas pasar disposición judicial prestar declaración juez guardia decretar libertad acusado informar fuente jurídico niño encontrar abuelo paterno 1 momento poder localizar madre menor agregar fuente policial consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Plaza_de_Farray",
+            "Barcelona"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Horas"
+        ],
+        "dates": [
+            "[S:??/??/??:5.00:pm]"
+        ],
+        "numbers": [
+            "26",
+            "5",
+            "$_ECU:50",
+            "Canarias7",
+            "$_ECU:50",
+            "60"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/687064/0/",
+    "title": {
+        "raw_text": "Un hombre herido grave tras precipitarse a la vía pública en Gran Canaria",
+        "lemmatized_text": "uno hombre herir grave tras precipitar se a el vía público en gran_canaria",
+        "lemmatized_text_reduced": "hombre herir grave precipitar vía público gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de 52 años de edad ha resultado herido con traumatismo cráneoencefálico y polifracturas de carácter grave, tras precipitarse en su casa en Moya (Gran Canaria), desde una altura de unos 4 metros, a la vía pública, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 52 año de edad haber resultar herir con traumatismo cráneoencefálico y polifractura de carácter grave tras precipitar se en su casa en moya gran_canaria desde uno altura de uno LN_m:4 a el vía público según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber resultar herir traumatismo cráneoencefálico polifractura carácter grave precipitar casa moya gran_canaria altura vía público informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Moya"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "52",
+            "LN_m:4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 17.13 horas, cuando se recibió una llamada en el Cecoes en la que se informaba de que una persona se había caído mientras se encontraba en un andamio y precisaba atención sanitaria, según indicaron a Europa Press fuentes municipales. De este modo, el 112 activó de inmediato los servicios de emergencias oportunos. Al llegar al lugar el personal médico del Servicio de Urgencias Canario (SUC) y el médico y enfermero de Atención Primaria, atendieron y estabilizaron al afectado al que se le apreciaron heridas de carácter grave que recomendaban su traslado a un centro hospitalario, por lo que tras atenderlo y estabilizarlo lo trasladaron en ambulancia de soporte vital avanzado del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. En dicha actuación intervino la Policía Local, que instruyó las diligencias correspondientes, mientras que la Guardia Civil colaboró en las tareas propias del suceso.",
+        "lemmatized_text": "el incidente se producir a el TM_h:17.13 cuando se recibir uno llamada en el cecoes en el que se informar de que uno persona se haber caer mientras se encontrar en uno andamio y precisar atención sanitario según indicar a europa_press fuente municipal de este modo el 112 activar de inmediato el servicio de emergencia oportuno a el llegar a el lugar el personal médico de el servicio_de_urgencias_canario suc y el médico y enfermero de atención_primaria atender y estabilizar a el afectar a el que se le apreciar herida de carácter grave que recomendar su traslado a uno centro hospitalario por el que tras atender lo y estabilizar lo lo trasladar en ambulancia de soporte vital avanzar de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín en decir actuación intervenir el policía_local que instruir el diligencia correspondiente mientras_que el guardia_civil colaborar en el tarea propio de el suceso",
+        "lemmatized_text_reduced": "incidente producir recibir llamada cecoes informar persona haber caer encontrar andamio precisar atención sanitario indicar europa_press fuente municipal modo activar inmediato servicio emergencia oportuno llegar lugar personal médico servicio_de_urgencias_canario suc médico enfermero atención_primaria atender estabilizar afectar apreciar herida carácter grave recomendar traslado centro hospitalario atender estabilizar trasladar ambulancia soporte vital avanzar suc hospital_universitario_de_gran_canaria_doctor_negrín decir actuación intervenir policía_local instruir diligencia correspondiente guardia_civil colaborar tarea propio suceso",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Atención_Primaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.13",
+            "112"
+        ]
+    }
+}

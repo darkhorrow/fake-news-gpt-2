@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/959978/0/",
+    "title": {
+        "raw_text": "CC ve \"obsceno\" que Caja Madrid hubiera pagado bonus tras reducir plantilla y recibir ayudas",
+        "lemmatized_text": "cc ver obsceno que caja_madrid haber pagar bonus tras reducir plantilla y recibir ayuda",
+        "lemmatized_text_reduced": "cc ver obsceno caja_madrid haber pagar bonus reducir plantilla recibir ayuda",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "Caja_Madrid"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La diputada de Coalición Canaria en el Congreso Ana Oramas ha señalado que habría sido \"obsceno e improcedente\" que Caja Madrid hubiese pagado el bonus de 25 millones a sus ex directivos cuando ha recibido ayudas públicas y, además, ha despedido a parte de sus trabajadores.",
+        "lemmatized_text": "el diputado de coalición_canaria en el congreso_ana_oramas haber señalar que haber ser obsceno y improcedente que caja_madrid haber pagar el bonus de 25000000 a su ex directivo cuando haber recibir ayuda público y además haber despedir a parte de su trabajador",
+        "lemmatized_text_reduced": "diputado coalición_canaria congreso_ana_oramas haber señalar haber ser obsceno improcedente caja_madrid haber pagar bonus ex directivo haber recibir ayuda público haber despedir parte trabajador",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Coalición_Canaria",
+            "Congreso_Ana_Oramas",
+            "Caja_Madrid"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25000000"
+        ]
+    },
+    "body": {
+        "raw_text": "La diputada de Coalición Canaria en el Congreso Ana Oramas ha señalado que habría sido \"obsceno e improcedente\" que Caja Madrid hubiese pagado el bonus de 25 millones a sus ex directivos cuando ha recibido ayudas públicas y, además, ha despedido a parte de sus trabajadores. En declaraciones a Radio Nacional recogidas por Europa Press, Oramas resaltó que las cajas de ahorro no son privadas, a diferencia de los bancos, donde los accionistas pueden votar las decisiones del consejo de administración. Asimismo, señaló que las cajas de ahorros \"son de todos\", por lo que aunque Caja Madrid no hubiera recibido fondos públicos no habría sido ético abonar esas cantidades. Además, recordó que cualquier detracción de beneficio o de ingresos de una caja debe ir a la obra social. No obstante, subrayó que los actuales responsables de Caja Madrid están aprovechando la situación para culpar a la anterior dirección de la situación de la caja y, a su juicio, se debe separar el tema del bonus de la gestión de la entidad, \"que fue obligada a fusionarse porque tenía problemas\", añadió.",
+        "lemmatized_text": "el diputado de coalición_canaria en el congreso_ana_oramas haber señalar que haber ser obsceno y improcedente que caja_madrid haber pagar el bonus de 25000000 a su ex directivo cuando haber recibir ayuda público y además haber despedir a parte de su trabajador en declaración a radio_nacional recoger por europa_press oramas resaltar que el caja de ahorro no ser privar a_diferencia_de el banco donde el accionista poder votar el decisión de el consejo de administración asimismo señalar que el caja de ahorro ser de todo por el que aunque caja_madrid no haber recibir fondo público no haber ser ético abonar ese cantidad además recordar que cualquiera detracción de beneficio o de ingreso de uno caja deber ir a el obra social no_obstante subrayar que el actual responsable de caja_madrid estar aprovechar el situación para culpar a el anterior dirección de el situación de el caja y a su juicio se deber separar el tema de el bonus de el gestión de el entidad que ser obligar a fusionar se porque tener problema añadir",
+        "lemmatized_text_reduced": "diputado coalición_canaria congreso_ana_oramas haber señalar haber ser obsceno improcedente caja_madrid haber pagar bonus ex directivo haber recibir ayuda público haber despedir parte trabajador declaración radio_nacional recoger europa_press oramas resaltar caja ahorro ser privar banco accionista poder votar decisión consejo administración señalar caja ahorro ser caja_madrid haber recibir fondo público haber ser ético abonar cantidad recordar detracción beneficio ingreso caja deber ir obra social subrayar actual responsable caja_madrid estar aprovechar situación culpar anterior dirección situación caja juicio deber separar tema bonus gestión entidad ser obligar fusionar tener problema añadir",
+        "persons": [
+            "Oramas"
+        ],
+        "locations": [],
+        "organizations": [
+            "Coalición_Canaria",
+            "Congreso_Ana_Oramas",
+            "Caja_Madrid",
+            "Radio_Nacional",
+            "Europa_Press",
+            "Caja_Madrid",
+            "Caja_Madrid"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25000000"
+        ]
+    }
+}

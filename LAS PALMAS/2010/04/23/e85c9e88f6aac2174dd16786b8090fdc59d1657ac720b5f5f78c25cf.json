@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/686743/0/",
+    "title": {
+        "raw_text": "Las Palmas de Gran Canaria se promociona en la City Break que se celebra en Suecia",
+        "lemmatized_text": "el palmas_de_gran_canaria se promocionar en el city_break que se celebrar en suecia",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria promocionar city_break celebrar suecia",
+        "persons": [],
+        "locations": [
+            "City_Break",
+            "Suecia"
+        ],
+        "organizations": [
+            "Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las Palmas de Gran Canaria, a través de su eslogan 'Ciudad de Mar y Culturas', se promocionará desde hoy y hasta el próximo miércoles, 28 de abril en la City Break que Turespaña organiza en Estocolmo (Suecia).",
+        "lemmatized_text": "el palmas_de_gran_canaria a_través_de su eslogan ciudad_de_mar y culturas se promocionar desde hoy y hasta el [X:28/4/??:??.??:??] en el city_break que turespaña organizar en estocolmo suecia",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria eslogan ciudad_de_mar culturas promocionar city_break turespaña organizar estocolmo suecia",
+        "persons": [],
+        "locations": [
+            "Ciudad_de_Mar",
+            "Culturas",
+            "Estocolmo",
+            "Suecia"
+        ],
+        "organizations": [
+            "Palmas_de_Gran_Canaria",
+            "Turespaña"
+        ],
+        "others": [
+            "City_Break"
+        ],
+        "dates": [
+            "[X:28/4/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, con su presencia en este evento, la capital grancanaria se pretende posicionar como un destino \"de calidad en sus principales mercados\", según informó el Ayuntamiento de Las Palmas de Gran Canaria en nota de prensa. Para ello, Las Palmas de Gran Canaria dará a conocer en Suecia los \"pilares\" de su oferta en los que \"combina además de los recursos tradicionales del clima y el mar, su amplia programación cultural y su patrimonio histórico\". La City Break, que coordina la Oficina Española de Turismo en la capital sueca, está destinada a un mercado potencial de turistas que prefieren salir menos días pero hacerlo en más de una ocasión al año. Por ello, desde hoy y hasta el próximo miércoles se instalarán dos puntos de información sobre vuelos y ciudades españolas en dos de los centros comerciales de referencia en Estocolmo. Turespaña estima una afluencia de visitantes de 40.000 personas en el centro Nacka y 150.000 en el centro comercial Kista. El segmento del turismo urbano, el que se centra en la visita a ciudades, sigue teniendo un \"enorme atractivo, a pesar de la coyuntura económica actual\", según datos de la European Cities Marketing, que agrupa a las principales ciudades de turismo corta duración del continente europeo, entre ellas la capital grancanaria.",
+        "lemmatized_text": "así con su presencia en este evento el capital grancanaria se pretender posicionar como uno destino de calidad en su principal mercado según informar el ayuntamiento_de_las_palmas_de_gran_canaria en nota de prensa para ello las_palmas_de_gran_canaria dar_a_conocer en suecia el pilar de su oferta en el que combinar además_de el recurso tradicional de el clima y el mar su amplio programación cultural y su patrimonio histórico el city_break que coordinar el oficina_española_de_turismo en el capital sueco estar destinar a uno mercado potencial de turista que preferir salir menos día pero hacer lo en más de uno ocasión a el año por ello desde hoy y hasta el [X:??/??/??:??.??:??] se instalar 2 punto de información sobre vuelo y ciudad español en 2 de el centro comercial de referencia en estocolmo turespaña estimar uno afluencia de visitante de 40 persona en el centro nacka y 150 en el centro comercial kista el segmento de el turismo urbano el que se centrar en el visita a ciudad seguir tener uno enorme atractivo a_pesar_de el coyuntura económico actual según dato de el european_cities_marketing que agrupar a el principal ciudad de turismo corto duración de el continente europeo entre ellos el capital grancanaria",
+        "lemmatized_text_reduced": "presencia evento capital grancanaria pretender posicionar destino calidad principal mercado informar ayuntamiento_de_las_palmas_de_gran_canaria nota prensa las_palmas_de_gran_canaria dar_a_conocer suecia pilar oferta combinar recurso tradicional clima mar amplio programación cultural patrimonio histórico city_break coordinar oficina_española_de_turismo capital sueco estar destinar mercado potencial turista preferir salir día hacer ocasión año instalar punto información vuelo ciudad español centro comercial referencia estocolmo turespaña estimar afluencia visitante persona centro nacka centro comercial kista segmento turismo urbano centrar visita ciudad seguir tener enorme atractivo coyuntura económico actual dato european_cities_marketing agrupar principal ciudad turismo corto duración continente europeo capital grancanaria",
+        "persons": [
+            "Turespaña"
+        ],
+        "locations": [
+            "Suecia",
+            "Estocolmo",
+            "Nacka"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Oficina_Española_de_Turismo",
+            "Kista"
+        ],
+        "others": [
+            "City_Break",
+            "European_Cities_Marketing"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "2",
+            "40",
+            "150"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-03-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/455768/0/detenido/maltratar/pareja/",
+    "title": {
+        "raw_text": "Detenido un turista por maltratar a su pareja en plena calle en Gran Canaria",
+        "lemmatized_text": "detener uno turista por maltratar a su pareja en pleno calle en gran_canaria",
+        "lemmatized_text_reduced": "detener turista maltratar pareja pleno calle gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Unos policías locales que realizaban labores de vigilancia le detuvieron. Estaba dando manotazos a la joven. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "uno policía local que realizar labor de vigilancia le detener estar dar manotazo a el joven consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "policía local realizar labor vigilancia detener estar dar manotazo joven consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un joven turista europeo de 21 años, identificado como S.J.B., ha sido detenido por maltratar a su pareja en plena calle en el municipio grancanario de San Bartolomé de Tirajana. Los hechos ocurrieron el domingo en el sur de la isla de Gran Canaria, donde la pareja se encontraba de vacaciones, según informaron fuentes del Gobierno de Canarias. El presunto agresor fue detenido por unos policías locales que realizaban labores de vigilancia y fueron informados por varios ciudadanos de que un joven estaba pegando a una chica en la vía pública, en concreto en plena Avenida de Tenerife. Cuando la dotación policial llegó al lugar, observó cómo el detenido daba manotazos a la joven llegando a tirarla al suelo en varias ocasiones. Alcanzado en su huida Cuando los agentes le dieron el alto, el joven salió corriendo, pero fue alcanzado y detenido pese a que su pareja indicó, cuando fue socorrida , que no tenía intención de denunciar los hechos. No obstante, la propia policía local procedió a la detención y puesta a disposición judicial del joven como presunto autor de un delito de violencia de género. La joven fue trasladada a un centro asistencial y ya ha vuelto a su país de origen. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno joven turista europeo de 21 año identificar como s.j.b. haber ser detener por maltratar a su pareja en pleno calle en el municipio grancanario de san_bartolomé_de_tirajana el hecho ocurrir el [G:??/??/??:??.??:??] en el sur de el isla de gran_canaria donde el pareja se encontrar de vacaciones según informar fuente de el gobierno_de_canarias el presunto agresor ser detener por uno policía local que realizar labor de vigilancia y ser informar por varios ciudadano de que uno joven estar pegar a uno chico en el vía público en concreto en pleno avenida_de_tenerife cuando el dotación policial llegar a el lugar observar cómo el detenido dar manotazo a el joven llegar a tirar lo a el suelo en varios ocasión alcanzar en su huida cuando el agente le dar el alto el joven salir correr pero ser alcanzar y detener pese_a que su pareja indicar cuando ser socorrer que no tener intención de denunciar el hecho no_obstante el propio policía local proceder a el detención y puesta a disposición judicial de el joven como presunto autor de uno delito de violencia de género el joven ser trasladar a uno centro asistencial y ya haber volver a su país de origen consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "joven turista europeo año identificar s.j.b. haber ser detener maltratar pareja pleno calle municipio grancanario san_bartolomé_de_tirajana hecho ocurrir sur isla gran_canaria pareja encontrar vacaciones informar fuente gobierno_de_canarias presunto agresor ser detener policía local realizar labor vigilancia ser informar ciudadano joven estar pegar chico vía público concreto pleno avenida_de_tenerife dotación policial llegar lugar observar detenido dar manotazo joven llegar tirar suelo ocasión alcanzar huida cuando agente dar alto joven salir correr ser alcanzar detener pareja indicar ser socorrer tener intención denunciar hecho propio policía local proceder detención puesta disposición judicial joven presunto autor delito violencia género joven ser trasladar centro asistencial haber volver país origen consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Cuando"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Avenida_de_Tenerife"
+        ],
+        "organizations": [
+            "S.J.B.",
+            "Gobierno_de_Canarias",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "21"
+        ]
+    }
+}

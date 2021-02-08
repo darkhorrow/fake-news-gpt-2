@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/600044/0/",
+    "title": {
+        "raw_text": "La Guardia Civil detiene a una mujer por tráfico de drogas en el aeropuerto de Gran Canaria",
+        "lemmatized_text": "el guardia_civil detener a uno mujer por tráfico de droga en el aeropuerto de gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil detener mujer tráfico droga aeropuerto gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha detenido a una mujer, que responde a las iniciales de M.A.L.O., como autora de un presunto delito contra la salud pública. El arresto tuvo lugar en el aeropuerto de Gran Canaria a donde llegó la mujer procedente de un vuelo de la península.",
+        "lemmatized_text": "el guardia_civil haber detener a uno mujer que responder a el inicial de m.a.l.o. como autor de uno presunto delito contra el salud público el arresto tener_lugar en el aeropuerto de gran_canaria a_donde llegar el mujer procedente de uno vuelo de el península",
+        "lemmatized_text_reduced": "guardia_civil haber detener mujer responder inicial m.a.l.o. autor presunto delito salud público arresto tener_lugar aeropuerto gran_canaria llegar mujer procedente vuelo península",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "M.A.L.O."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los agentes de la Benemérita detuvieron a la mujer el pasado 1 de enero de 2010 cuando la Guardia Civil con funciones de Resguardo Fiscal del Estado observó a una pasajera, acompañada de un bebé, que infundió sospechas al mostrar \"claros síntomas evidentes de nerviosismo y su actitud era esquiva y tendente a ocultarse de la presencia policial\", según informó la Guardia Civil en nota de prensa. Por ello, se procedió a su identificación y se le hicieron preguntas sobre el viaje, aportando respuestas \"confusas y de poca credibilidad\". Posteriormente, los agentes registraron el equipaje de la mujer, momento en el que ella decidió cambiar de pañales a su hija de tres meses. En ese momento, la Guardia Civil observó que en el pañal que llevaba, había un envoltorio con cocaína y en otro pañal guardado en su bolso portaba otro envoltorio con la misma sustancia. Así, los agentes se incautaron de un total de 594,5 gramos y también le intervinieron a la mujer dos teléfonos móviles. La detenida junto con las diligencias, objetos intervenidos y la droga pasaron a disposición del Juzgado de Instrucción de Telde, decretando éste, su ingreso en prisión.",
+        "lemmatized_text": "el agente de el benemérita detener a el mujer el [??:1/1/2010:??.??:??] cuando el guardia_civil con función de resguardo_fiscal_del_estado observar a uno pasajero acompañar de uno bebé que infundir sospecha a el mostrar claro síntoma evidente de nerviosismo y su actitud ser esquivo y tendente a ocultar se de el presencia policial según informar el guardia_civil en nota de prensa por ello se proceder a su identificación y se le hacer pregunta sobre el viaje aportar respuesta confuso y de poco credibilidad posteriormente el agente registrar el equipaje de el mujer momento en el que él decidir cambiar de pañal a su hijo de 3 mes en ese momento el guardia_civil observar que en el pañal que llevar haber 1 envoltorio con cocaína y en otro pañal guardar en su bolso portar otro envoltorio con el mismo sustancia así el agente se incautar de uno total de WG_g:594,5 y también le intervenir a el mujer 2 teléfono móvil el detener junto_con el diligencia objeto intervenir y el droga pasar a disposición de el juzgado_de_instrucción_de_telde decretar este su ingreso en prisión",
+        "lemmatized_text_reduced": "agente benemérita detener mujer guardia_civil función resguardo_fiscal_del_estado observar pasajero acompañar bebé infundir sospecha mostrar claro síntoma evidente nerviosismo actitud ser esquivo tendente ocultar presencia policial informar guardia_civil nota prensa proceder identificación hacer pregunta viaje aportar respuesta confuso credibilidad posteriormente agente registrar equipaje mujer momento decidir cambiar pañal hijo mes momento guardia_civil observar pañal llevar haber envoltorio cocaína pañal guardar bolso portar envoltorio mismo sustancia agente incautar total intervenir mujer teléfono móvil detener diligencia objeto intervenir droga pasar disposición juzgado_de_instrucción_de_telde decretar ingreso prisión",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Benemérita",
+            "Guardia_Civil",
+            "Resguardo_Fiscal_del_Estado",
+            "Guardia_Civil",
+            "Guardia_Civil",
+            "Juzgado_de_Instrucción_de_Telde"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/1/2010:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "1",
+            "WG_g:594,5",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/600098/0/",
+    "title": {
+        "raw_text": "La colisión entre un turismo y una motocicleta se salda con dos heridos menos grave en Gran Canaria",
+        "lemmatized_text": "el colisión entre uno turismo y uno motocicleta se saldar con 2 herido menos grave en gran_canaria",
+        "lemmatized_text_reduced": "colisión turismo motocicleta saldar herido grave gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La colisión entre un turismo y una motocicleta este mediodía en Gran Canaria se ha saldado con dos heridos de carácter menos grave, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el colisión entre uno turismo y uno motocicleta este [??:??/??/??:12.00:pm] en gran_canaria se haber saldar con 2 herido de carácter menos grave según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "colisión turismo motocicleta gran_canaria haber saldar herido carácter grave informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 12.35 horas en la Avenida de Ansite, en el barrio de Escaleritas, en Las Palmas de Gran Canaria, y en el incidente se vieron implicados un hombre, de 50 años de edad, que sufrió traumatismo en miembro inferior de carácter menos grave y una mujer, de 38 años de edad, que tuvo traumatismo en la cadera también de carácter menos grave. Ambos fueron trasladados al Hospital Universitario de Gran Canaria Dr. Negrín, el hombre en ambulancia sanitarizada del Servicio de Urgencias Canario (SUC) y la mujer en una ambulancia de soporte vital básico del SUC. Asimismo, hasta el lugar del suceso se trasladó además de personal del SUC, agentes de la Policía Local que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:12.35 en el avenida_de_ansite en el barrio de escaleritas en las_palmas_de_gran_canaria y en el incidente se ver implicar uno hombre de 50 año de edad que sufrir traumatismo en miembro inferior de carácter menos grave y uno mujer de 38 año de edad que tener traumatismo en el cadera también de carácter menos grave ambos ser trasladar a el hospital_universitario_de_gran_canaria_dr._negrín el hombre en ambulancia sanitarizada de el servicio_de_urgencias_canario suc y el mujer en uno ambulancia de soporte vital básico de el suc asimismo hasta el lugar de el suceso se trasladar además_de personal de el suc agente de el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho ocurrir avenida_de_ansite barrio escaleritas las_palmas_de_gran_canaria incidente ver implicar hombre año edad sufrir traumatismo miembro inferior carácter grave mujer año edad tener traumatismo cadera carácter grave ser trasladar hospital_universitario_de_gran_canaria_dr._negrín hombre ambulancia sanitarizada servicio_de_urgencias_canario suc mujer ambulancia soporte vital básico suc lugar suceso trasladar personal suc agente policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Avenida_de_Ansite",
+            "Escaleritas",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Hospital_Universitario_de_Gran_Canaria_Dr._Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:12.35",
+            "50",
+            "38"
+        ]
+    }
+}

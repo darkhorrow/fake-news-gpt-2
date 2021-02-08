@@ -1,0 +1,100 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/643692/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias destina 36,5 millones para construir seis nuevos centros educativos",
+        "lemmatized_text": "el gobierno_de_canarias destinar 36,5 millón para construir 6 nuevo centro educativo",
+        "lemmatized_text_reduced": "gobierno_de_canarias destinar millón construir nuevo centro educativo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "36,5",
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno de Canarias autorizó hoy, en su reunión en Las Palmas de Gran Canaria, el gasto correspondiente a la contratación de los proyectos de construcción de seis nuevos centros educativos, cinco de Infantil y Primaria y uno de Secundaria, y una ampliación, por importe global de 36.471.831,1 euros.",
+        "lemmatized_text": "el consejo_de_gobierno_de_canarias autorizar hoy en su reunión en las_palmas_de_gran_canaria el gasto correspondiente a el contratación de el proyecto de construcción de 6 nuevo centro educativo 5 de infantil y primaria y uno de secundaria y uno ampliación por importe global de $_ECU:36.471.831,1",
+        "lemmatized_text_reduced": "consejo_de_gobierno_de_canarias autorizar reunión las_palmas_de_gran_canaria gasto correspondiente contratación proyecto construcción nuevo centro educativo infantil primaria secundaria ampliación importe global",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Infantil"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno_de_Canarias"
+        ],
+        "others": [
+            "Primaria",
+            "Secundaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "6",
+            "5",
+            "$_ECU:36.471.831,1"
+        ]
+    },
+    "body": {
+        "raw_text": "Los colegios de Infantil y Primaria que se autorizan su contratación son los de Argual-El Jable, en los Llanos de Aridane (La Palma), de 18 unidades y presupuesto de 5.063.399,56 euros; La Jurada-San Isidro en Granadilla de Abona (Tenerife), de 18 unidades e importe de 5.382.764 euros y La Paredilla en Santa Lucía de Tirajana (Gran Canaria), de 18 unidades y presupuesto de 4.692.274, 71 euros. A ello se suman los centros de Siete Palmas II en Las Palmas de Gran Canaria, de 27 unidades e importe de 8.458.172, 95 euros; y Las Chafiras en San Miguel de Abona (Tenerife), de 18 unidades y presupuesto de 4.894.393,71 euros. A estos centros se le unen los proyectos de construcción de un Instituto de Educación Secundaria en Costa Teguise (Lanzarote), de 16 unidades y 5.251.491,27 euros de presupuesto; y la ampliación del Colegio de Infantil y Primaria de Araya de Candelaria (Tenerife), consistente en seis unidades, cachas deportivas y zona comunes, por importe de 2.729.356, 26 euros.",
+        "lemmatized_text": "el colegio de infantil y primaria que se autorizar su contratación ser el de argual-el_jable en el llanos_de_aridane el palma de 18 unidad y presupuesto de $_ECU:5.063.399,56 la_jurada-san_isidro en granadilla_de_abona tenerife de 18 unidad y importe de $_ECU:5.382.764 y la_paredilla en santa_lucía_de_tirajana gran_canaria de 18 unidad y presupuesto de 4.692.274 $_ECU:71 a ello se sumar el centro de 7 palmas_ii en las_palmas_de_gran_canaria de 27 unidad y importe de 8.458.172 $_ECU:95 y las_chafiras en san_miguel_de_abona tenerife de 18 unidad y presupuesto de $_ECU:4.894.393,71 a este centro se le unir el proyecto de construcción de uno instituto_de_educación_secundaria en costa_teguise lanzarote de 16 unidad y $_ECU:5.251.491,27 de presupuesto y el ampliación de el colegio_de_infantil y primaria_de_araya_de_candelaria tenerife consistente en 6 unidad cacha deportivo y zona común por importe de 2.729.356 $_ECU:26",
+        "lemmatized_text_reduced": "colegio infantil primaria autorizar contratación ser argual-el_jable llanos_de_aridane palma unidad presupuesto la_jurada-san_isidro granadilla_de_abona tenerife unidad importe la_paredilla santa_lucía_de_tirajana gran_canaria unidad presupuesto sumar centro palmas_ii las_palmas_de_gran_canaria unidad importe las_chafiras san_miguel_de_abona tenerife unidad presupuesto centro unir proyecto construcción instituto_de_educación_secundaria costa_teguise lanzarote unidad presupuesto ampliación colegio_de_infantil primaria_de_araya_de_candelaria tenerife consistente unidad cacha deportivo zona común importe",
+        "persons": [
+            "Palma",
+            "Las_Chafiras"
+        ],
+        "locations": [
+            "Infantil",
+            "Llanos_de_Aridane",
+            "Granadilla_de_Abona",
+            "Tenerife",
+            "Santa_Lucía_de_Tirajana",
+            "Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "San_Miguel_de_Abona",
+            "Tenerife",
+            "Costa_Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Argual-El_Jable",
+            "La_Jurada-San_Isidro",
+            "La_Paredilla",
+            "Palmas_II",
+            "Instituto_de_Educación_Secundaria",
+            "Colegio_de_Infantil",
+            "Tenerife"
+        ],
+        "others": [
+            "Primaria",
+            "Primaria_de_Araya_de_Candelaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "18",
+            "$_ECU:5.063.399,56",
+            "18",
+            "$_ECU:5.382.764",
+            "18",
+            "4.692.274",
+            "$_ECU:71",
+            "7",
+            "27",
+            "8.458.172",
+            "$_ECU:95",
+            "18",
+            "$_ECU:4.894.393,71",
+            "16",
+            "$_ECU:5.251.491,27",
+            "6",
+            "2.729.356",
+            "$_ECU:26"
+        ]
+    }
+}

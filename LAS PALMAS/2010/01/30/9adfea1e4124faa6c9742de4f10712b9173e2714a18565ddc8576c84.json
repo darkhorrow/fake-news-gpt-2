@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618340/0/",
+    "title": {
+        "raw_text": "Una borrasca situada en el Atlántico podría empezar a dejar lluvias intensas en Canarias a últimas horas de hoy sábado",
+        "lemmatized_text": "uno borrasca situar en el atlántico poder empezar a dejar lluvia intenso en canarias a último hora de hoy [S:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "borrasca situar atlántico poder empezar dejar lluvia intenso canarias último hora",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [
+            "Atlántico"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La entrada hoy de una borrasca situada sobre el Atlántico se está aproximando a las islas y podría comenzar a dejar lluvias intensas y persistentes en el archipiélago que se prevén que comiencen a sentirse a últimas horas de hoy sábado.",
+        "lemmatized_text": "el entrada hoy de uno borrasca situar sobre el atlántico se estar aproximar a el isla y poder comenzar a dejar lluvia intenso y persistente en el archipiélago que se prever que comenzar a sentir se a último hora de hoy [S:??/??/??:??.??:??]",
+        "lemmatized_text_reduced": "entrada borrasca situar atlántico estar aproximar isla poder comenzar dejar lluvia intenso persistente archipiélago prever comenzar sentir último hora",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Atlántico"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, las precipitaciones comenzarán en las islas más occidentales que se intensificarán durante los días siguientes, ya que mañana comenzará la alerta amarilla (riesgo) en Canarias que se prolongará probablemente hasta el miércoles, 3 de febrero, según informó la Agencia Estatal de Meteorología (Aemet). Asimismo, se prevé que la lluvia se extienda de oeste a este. Además, la Aemet avisa de que habrá intervalos de viento con rachas fuerte y temporal en la mar. Para el domingo, 31 de enero, se prevén chubascos moderados a fuertes, ocasionalmente muy fuertes, persistentes y con tormenta, en la mitad occidental de Canarias, sobre todo, en las vertiente sur de las islas de mayor relieve. También es probable que las precipitaciones sean ocasionalmente moderadas y afecten durante este día a las islas orientales. Además, las precipitaciones vendrán acompañadas de vientos de componente sur moderados a fuertes y temporal en la mar. Para el lunes, 1 de febrero, se esperan chubascos localmente muy fuertes y con tormenta en las islas occidentales como Gran Canaria, y con mayor probabilidad en las vertientes sur y oeste, manteniéndose los vientos fuertes y el mal estado de la mar.",
+        "lemmatized_text": "en concreto el precipitación comenzar en el isla más occidental que se intensificar durante el día siguiente ya_que mañana comenzar el alerta amarillo riesgo en canarias que se prolongar probablemente hasta el [X:3/2/??:??.??:??] según informar el agencia_estatal_de_meteorología aemet asimismo se prever que el lluvia se extender de oeste a este además el aemet avisar de que haber intervalo de viento con racha fuerte y temporal en el marzo para el [G:31/1/??:??.??:??] se prever chubasco moderar a fuerte ocasionalmente muy fuerte persistente y con tormenta en el mitad occidental de canarias sobre todo en el vertiente sur de el isla de mayor relieve también ser probable que el precipitación ser ocasionalmente moderar y afectar durante este día a el isla oriental además el precipitación venir acompañar de viento de componente sur moderar a fuerte y temporal en el marzo para el [L:1/2/??:??.??:??] se esperar chubasco localmente muy fuerte y con tormenta en el isla occidental como gran_canaria y con mayor probabilidad en el vertiente sur y oeste mantener se el viento fuerte y el mal estado de el marzo",
+        "lemmatized_text_reduced": "concreto precipitación comenzar isla occidental intensificar día siguiente comenzar alerta amarillo riesgo canarias prolongar probablemente informar agencia_estatal_de_meteorología aemet prever lluvia extender oeste aemet avisar haber intervalo viento racha fuerte temporal marzo para prever chubasco moderar fuerte ocasionalmente fuerte persistente tormenta mitad occidental canarias vertiente sur isla mayor relieve ser probable precipitación ser ocasionalmente moderar afectar día isla oriental precipitación venir acompañar viento componente sur moderar fuerte temporal marzo para esperar chubasco localmente fuerte tormenta isla occidental gran_canaria mayor probabilidad vertiente sur oeste mantener viento fuerte mal estado marzo",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Para",
+            "Canarias",
+            "Para"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Aemet",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[X:3/2/??:??.??:??]",
+            "[G:31/1/??:??.??:??]",
+            "[L:1/2/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

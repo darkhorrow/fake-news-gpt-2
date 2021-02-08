@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/921833/0/",
+    "title": {
+        "raw_text": "El presidente de la Cámara de Comercio de Gran Canaria continúa en estado grave",
+        "lemmatized_text": "el presidente de el cámara_de_comercio_de_gran_canaria continuar en estado grave",
+        "lemmatized_text_reduced": "presidente cámara_de_comercio_de_gran_canaria continuar estado grave",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Comercio_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de la Cámara de Comercio de Gran Canaria y propietario del Grupo Duna, Ángel Luis Tadeo, continúa ingresado y con pronóstico grave, después de en que la noche de Reyes sufriera un infarto.",
+        "lemmatized_text": "el presidente de el cámara_de_comercio_de_gran_canaria y propietario de el grupo_duna ángel_luis_tadeo continuar ingresar y con pronóstico grave después_de en que el noche de reyes sufrir uno infarto",
+        "lemmatized_text_reduced": "presidente cámara_de_comercio_de_gran_canaria propietario grupo_duna ángel_luis_tadeo continuar ingresar pronóstico grave noche reyes sufrir infarto",
+        "persons": [
+            "Ángel_Luis_Tadeo",
+            "Reyes"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cámara_de_Comercio_de_Gran_Canaria",
+            "Grupo_Duna"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente de la Cámara de Comercio de Gran Canaria y propietario del Grupo Duna, Ángel Luis Tadeo, continúa ingresado y con pronóstico grave, después de en que la noche de Reyes sufriera un infarto. Tadeo se encuentra ingresado en el Hospital Doctor Negrín, en Las Palmas de Gran Canaria, hasta donde fue evacuado en la madrugada del pasado jueves, después de que sufriera una parada cardiorrespiratoria, informaron a Europa Press fuentes cercanas al empresario.",
+        "lemmatized_text": "el presidente de el cámara_de_comercio_de_gran_canaria y propietario de el grupo_duna ángel_luis_tadeo continuar ingresar y con pronóstico grave después_de en que el noche de reyes sufrir uno infarto tadeo se encontrar ingresar en el hospital_doctor_negrín en las_palmas_de_gran_canaria hasta donde ser evacuar en el madrugada de el [J:??/??/??:??.??:??] después_de que sufrir uno parada cardiorrespiratoria informar a europa_press fuente cercano a el empresario",
+        "lemmatized_text_reduced": "presidente cámara_de_comercio_de_gran_canaria propietario grupo_duna ángel_luis_tadeo continuar ingresar pronóstico grave noche reyes sufrir infarto tadeo encontrar ingresar hospital_doctor_negrín las_palmas_de_gran_canaria ser evacuar madrugada sufrir parada cardiorrespiratoria informar europa_press fuente cercano empresario",
+        "persons": [
+            "Ángel_Luis_Tadeo",
+            "Reyes",
+            "Tadeo",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Hospital_Doctor_Negrín",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Cámara_de_Comercio_de_Gran_Canaria",
+            "Grupo_Duna"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

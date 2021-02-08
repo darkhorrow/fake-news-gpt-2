@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/720036/0/",
+    "title": {
+        "raw_text": "El chef Antonio Aguiar se convierte en el 'encantador de calderos' en los Hoteles Escuela de Canarias",
+        "lemmatized_text": "el chef antonio_aguiar se convertir en el encantador de caldero en el hoteles_escuela_de_canarias",
+        "lemmatized_text_reduced": "chef antonio_aguiar convertir encantador caldero hoteles_escuela_de_canarias",
+        "persons": [
+            "Antonio_Aguiar"
+        ],
+        "locations": [],
+        "organizations": [
+            "Hoteles_Escuela_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El chef Antonio Aguiar, uno de los máximos exponentes de la cocina tradicional canaria, se convierte en el 'encantador de calderos' en los Hoteles Escuela de Canarias con un menú donde lava la cara a los platos más representativos de la cocina del las islas, como el cremoso de queso herreño, la ropa vieja con carne de cabra, pasas y almendras, el potaje de berros o el condumio de conejo.",
+        "lemmatized_text": "el chef antonio_aguiar uno de el máximo exponente de el cocina tradicional canario se convertir en el encantador de caldero en el hoteles_escuela_de_canarias con uno menú donde lavar el cara a el plato más representativo de el cocina de el el isla como el cremoso de queso herreño el ropa viejo con carne de cabra pasa y almendra el potaje de berro o el condumio de conejo",
+        "lemmatized_text_reduced": "chef antonio_aguiar máximo exponente cocina tradicional canario convertir encantador caldero hoteles_escuela_de_canarias menú lavar cara plato representativo cocina isla cremoso queso herreño ropa viejo carne cabra pasa almendra potaje berro condumio conejo",
+        "persons": [
+            "Antonio_Aguiar"
+        ],
+        "locations": [],
+        "organizations": [
+            "Hoteles_Escuela_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El menú se completa con papas arrugadas con degustación de mojos, salpicón de jareas y burgados, pulpo en mojo hervido con papas troqueladas y, de postre, el clásico Príncipe Alberto, todo ello regado con un Las Tirajanas blanco, un tinerfeño y tinto Marba barrica de 2009 y para los dulces un Malvasía La Gería, de Lanzarote. De la mano de Galaco, Bodegas Las Tirajanas, Dorada, Firgas, Bodegas Lageria, Casa Lala y Marba, hoy en Santa Brígida un grupo de comensales pudieron disfrutar de la cocina de Aguiar, afincado en Puerto de la Cruz con su Casa Lala, con un conjunto de platos que cualquiera puede deleitar por 31,5 euros. Aguiar nació en el Norte de Tenerife y desde muy joven, con tan sólo 14 años, se inició en algunos de los principales hoteles de Puerto de la Cruz para, después, residir en Suiza. Tras su vuelta a Tenerife fundó su primer negocio y tras pasar por varias experiencias ahora regenta en Casa Lala.",
+        "lemmatized_text": "el menú se completar con papa arrugar con degustación de mojo salpicón de jareas y burgado pulpo en mojo hervir con papa troquelar y de postre el clásico príncipe_alberto todo ello regar con uno las_tirajanas blanco uno tinerfeño y tinto marba barrica de 2009 y para el dulce uno malvasía_la_gería de lanzarote de_la_mano_de galaco bodegas_las_tirajanas dorada firgas bodegas_lageria casa_lala y marba hoy en santa_brígida uno grupo de comensal poder disfrutar de el cocina de aguiar afincar en puerto_de_la_cruz con su casa_lala con uno conjunto de plato que cualquiera poder deleitar por $_ECU:31,5 aguiar nacer en el norte_de_tenerife y desde muy joven con tan sólo 14 año se iniciar en alguno de el principal hotel de puerto_de_la_cruz para después residir en suiza tras su vuelta a tenerife fundar su 1 negocio y tras pasar por varios experiencia ahora regentar en casa_lala",
+        "lemmatized_text_reduced": "menú completar papa arrugar degustación mojo salpicón jareas burgado pulpo mojo hervir papa troquelar postre clásico príncipe_alberto regar las_tirajanas blanco tinerfeño tinto marba barrica dulce malvasía_la_gería lanzarote galaco bodegas_las_tirajanas dorada firgas bodegas_lageria casa_lala marba santa_brígida grupo comensal poder disfrutar cocina aguiar afincar puerto_de_la_cruz casa_lala conjunto plato poder deleitar aguiar nacer norte_de_tenerife joven año iniciar principal hotel puerto_de_la_cruz residir suiza vuelta tenerife fundar 1 negocio pasar experiencia regentar casa_lala",
+        "persons": [
+            "Príncipe_Alberto",
+            "Marba",
+            "Galaco",
+            "Firgas"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Santa_Brígida",
+            "Aguiar",
+            "Puerto_de_la_Cruz",
+            "Norte_de_Tenerife",
+            "Puerto_de_la_Cruz",
+            "Suiza",
+            "Casa_Lala"
+        ],
+        "organizations": [
+            "Bodegas_Las_Tirajanas",
+            "Dorada",
+            "Bodegas_Lageria",
+            "Casa_Lala",
+            "Marba",
+            "Casa_Lala",
+            "Tenerife"
+        ],
+        "others": [
+            "Las_Tirajanas",
+            "Malvasía_La_Gería"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "$_ECU:31,5",
+            "14"
+        ]
+    }
+}

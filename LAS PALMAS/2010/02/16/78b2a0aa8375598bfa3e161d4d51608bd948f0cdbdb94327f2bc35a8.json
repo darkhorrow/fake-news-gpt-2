@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/630451/0/",
+    "title": {
+        "raw_text": "Un incendio en una vivienda de Gran Canaria durante esta madrugada se salda con 4 heridos de carácter leve",
+        "lemmatized_text": "uno incendio en uno vivienda de gran_canaria durante este madrugada se saldar con 4 herido de carácter leve",
+        "lemmatized_text_reduced": "incendio vivienda gran_canaria madrugada saldar herido carácter leve",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un incendio en una vivienda de Santa María de Guía (Gran Canaria) durante esta madrugada se ha saldado con cuatro personas heridas de carácter leve, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno incendio en uno vivienda de santa_maría_de_guía gran_canaria durante este madrugada se haber saldar con 4 persona herir de carácter leve según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "incendio vivienda santa_maría_de_guía gran_canaria madrugada haber saldar persona herir carácter leve informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Santa_María_de_Guía",
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 5.05 horas en una vivienda de la calle Médico Estévez, en Santa María de Guía. En ese momento, se activaron los servicios de emergencia que al llegar al domicilio se encontraron con dos menores, de 8 y 14 años de edad, que habían sufrido intoxicación por inhalación de humo. Asimismo, tuvieron que ser atendidos un hombre, de 44 años de edad, y una mujer, de 36 años de edad, ambos también por intoxicación por inhalación de humo. Todos fueron trasladado por ambulancias de soporte vital básico del Servicio de Urgencias Canario (SUC) al Centro de Salud de Santa María de Guía. Hasta el lugar del incidente se trasladaron, además del personal del SUC, personal del Consorcio de Emergencias de Gran Canaria que extinguieron las llamas y evacuaron a varios vecinos del inmueble, así como agentes de la Policía Local y la Guardia Civil, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir a el TM_h:5.05 en uno vivienda de el calle médico_estévez en santa_maría_de_guía en ese momento se activar el servicio de emergencia que a el llegar a el domicilio se encontrar con 2 menor de 8 y 14 año de edad que haber sufrir intoxicación por inhalación de humo asimismo tener que ser atender uno hombre de 44 año de edad y uno mujer de 36 año de edad ambos también por intoxicación por inhalación de humo todo ser trasladar por ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc a el centro_de_salud_de_santa_maría_de_guía hasta el lugar de el incidente se trasladar además de el personal de el suc personal de el consorcio_de_emergencias_de_gran_canaria que extinguir el llama y evacuar a varios vecino de el inmueble así_como agente de el policía_local y el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir vivienda calle médico_estévez santa_maría_de_guía momento activar servicio emergencia llegar domicilio encontrar menor año edad haber sufrir intoxicación inhalación humo tener ser atender hombre año edad mujer año edad intoxicación inhalación humo ser trasladar ambulancia soporte vital básico servicio_de_urgencias_canario suc centro_de_salud_de_santa_maría_de_guía lugar incidente trasladar personal suc personal consorcio_de_emergencias_de_gran_canaria extinguir llama evacuar vecino inmueble agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Médico_Estévez",
+            "Santa_María_de_Guía"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Centro_de_Salud_de_Santa_María_de_Guía",
+            "SUC",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:5.05",
+            "2",
+            "8",
+            "14",
+            "44",
+            "36"
+        ]
+    }
+}

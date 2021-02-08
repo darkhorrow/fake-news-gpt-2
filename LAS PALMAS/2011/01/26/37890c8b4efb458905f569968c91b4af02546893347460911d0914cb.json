@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/940784/0/",
+    "title": {
+        "raw_text": "Un varón resulta afectado en un incendio en una vivienda en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno varón resultar afectar en uno incendio en uno vivienda en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "varón resultar afectar incendio vivienda las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón ha sido atendido por inhalación de humo de pronóstico menos grave, tras registrarse un incendio en una vivienda en la Calle Severo Ochoa, en el barrio de San Roque, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2.",
+        "lemmatized_text": "uno varón haber ser atender por inhalación de humo de pronóstico menos grave tras registrar se uno incendio en uno vivienda en el calle_severo_ochoa en el barrio de san_roque en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "varón haber ser atender inhalación humo pronóstico grave registrar incendio vivienda calle_severo_ochoa barrio san_roque las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Calle_Severo_Ochoa",
+            "San_Roque",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "Un varón ha sido atendido por inhalación de humo de pronóstico menos grave, tras registrarse un incendio en una vivienda en la Calle Severo Ochoa, en el barrio de San Roque, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2. Los hechos ocurrieron a las 16.13 horas, cuando se recibió una alerta en el Cecoes informando del incendio en una vivienda ubicada en la cuarta planta de un edificio en la dirección mencionada. Así pues, el 1-1-2 activó de inmediato los recursos de emergencias necesarios. El incendio fue sofocado por vecinos del inmueble, por lo que los bomberos del Servicio de Extinción, Salvamento y Rescate de Las Palmas de Gran Canaria verificaron que había sido apagado correctamente y ventilaron la vivienda. El personal sanitario del Servicio de Urgencias Canario (SUC) se encargó de prestar la asistencia inicial del varón que resultó afectado como consecuencia del incendio y, posteriormente, de su traslado en una ambulancia del SUC al Hospital Universitario Insular de Gran Canaria. Por su parte, efectivos policiales instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno varón haber ser atender por inhalación de humo de pronóstico menos grave tras registrar se uno incendio en uno vivienda en el calle_severo_ochoa en el barrio de san_roque en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 el hecho ocurrir a el TM_h:16.13 cuando se recibir uno alerta en el cecoes informar de el incendio en uno vivienda ubicar en el 4 planta de uno edificio en el dirección mencionar así_pues el 1-1-2 activar de inmediato el recurso de emergencia necesario el incendio ser sofocar por vecino de el inmueble por el que el bombero de el servicio_de_extinción salvamento y rescate_de_las_palmas_de_gran_canaria verificar que haber ser apagar correctamente y ventilar el vivienda el personal sanitario de el servicio_de_urgencias_canario suc se encargar de prestar el asistencia inicial de el varón que resultar afectar como consecuencia de el incendio y posteriormente de su traslado en uno ambulancia de el suc a el hospital_universitario_insular_de_gran_canaria por su parte efectivo policial instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "varón haber ser atender inhalación humo pronóstico grave registrar incendio vivienda calle_severo_ochoa barrio san_roque las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir recibir alerta cecoes informar incendio vivienda ubicar 4 planta edificio dirección mencionar activar inmediato recurso emergencia necesario incendio ser sofocar vecino inmueble bombero servicio_de_extinción salvamento rescate_de_las_palmas_de_gran_canaria verificar haber ser apagar correctamente ventilar vivienda personal sanitario servicio_de_urgencias_canario suc encargar prestar asistencia inicial varón resultar afectar consecuencia incendio posteriormente traslado ambulancia suc hospital_universitario_insular_de_gran_canaria parte efectivo policial instruir diligencia correspondiente",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Calle_Severo_Ochoa",
+            "San_Roque",
+            "Las_Palmas_de_Gran_Canaria",
+            "Cecoes"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Extinción",
+            "Rescate_de_Las_Palmas_de_Gran_Canaria",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "1-1-2",
+            "TM_h:16.13",
+            "1-1-2"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/416558/0/fallece/camionero/tejeda/",
+    "title": {
+        "raw_text": "Muere un camionero tras salirse de la vía en el municipio grancanario de Tejeda",
+        "lemmatized_text": "morir uno camionero tras salir se de el vía en el municipio grancanario de tejeda",
+        "lemmatized_text_reduced": "morir camionero salir vía municipio grancanario tejeda",
+        "persons": [],
+        "locations": [
+            "Tejeda"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ocurrió en la zona de La Solana del municipio cumbrero. Los servicios sanitarios sólo pudieron certificar la muerte del conductor. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "ocurrir en_la_zona_de la_solana de el municipio cumbrero el servicio sanitario sólo poder certificar el muerte de el conductor consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ocurrir la_solana municipio cumbrero servicio sanitario poder certificar muerte conductor consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "La_Solana"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El conductor de un camión ha fallecido hoy al salirse de la vía por la que circulaba en el municipio de Tejeda (Gran Canaria) , según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. Los hechos ocurrieron a las 11.50 horas en la carretera de la zona de La Solana de la citada localidad y el Cecoes puso en marcha el dispositivo de emergencias sanitario. Hasta el lugar se desplazó personal del Servicio de Urgencias Canario y médicos del centro de salud de la zona que confirmaron el fallecimiento del afectado. Igualmente acudieron al siniestro bomberos del Consorcio de Emergencias y agentes de la Guardia Civil, que instruyeron las correspondientes diligencias.",
+        "lemmatized_text": "el conductor de uno camión haber fallecer hoy a el salir se de el vía por el que circular en el municipio de tejeda gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 el hecho ocurrir a el TM_h:11.5 en el carretera de el zona de la_solana de el citar localidad y el cecoes poner en marcha el dispositivo de emergencia sanitario hasta el lugar se desplazar personal de el servicio_de_urgencias_canario y médico de el centro de salud de el zona que confirmar el fallecimiento de el afectar igualmente acudir a el siniestro bombero de el consorcio_de_emergencias y agente de el guardia_civil que instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "conductor camión haber fallecer salir vía circular municipio tejeda gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes hecho ocurrir carretera zona la_solana citar localidad cecoes poner marcha dispositivo emergencia sanitario lugar desplazar personal servicio_de_urgencias_canario médico centro salud zona confirmar fallecimiento afectar igualmente acudir siniestro bombero consorcio_de_emergencias agente guardia_civil instruir correspondiente diligencia",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Tejeda",
+            "Gran_Canaria",
+            "La_Solana",
+            "Cecoes"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Consorcio_de_Emergencias",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112",
+            "TM_h:11.5"
+        ]
+    }
+}

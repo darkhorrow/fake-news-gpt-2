@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/959923/0/",
+    "title": {
+        "raw_text": "El precio de la vivienda en alquiler cae un 1,6% en enero, según fotocasa.es",
+        "lemmatized_text": "el precio de el vivienda en alquiler caer uno 1,6/100 en [??:??/1/??:??.??:??] según fotocasa ser",
+        "lemmatized_text_reduced": "precio vivienda alquiler caer fotocasa ser",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,6/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio medio de la vivienda en alquiler en Canarias ha experimentado un descenso del 1,6 por ciento respecto al registrado el último mes de 2010, lo que supone situar el precio medio del alquiler en 6,59 euros el metro cuadrado al mes, según los últimos datos del portal inmobiliario fotocasa.es.",
+        "lemmatized_text": "el precio medio de el vivienda en alquiler en canarias haber experimentar uno descenso de el 1,6 por 100 respecto a el registrar el último mes de 2010 el que suponer situar el precio medio de el alquiler en $_ECU:6,59 el metro cuadrado a el mes según el último dato de el portal inmobiliario fotocasa ser",
+        "lemmatized_text_reduced": "precio medio vivienda alquiler canarias haber experimentar descenso respecto registrar último mes suponer situar precio medio alquiler metro cuadrado mes último dato portal inmobiliario fotocasa ser",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,6",
+            "100",
+            "2010",
+            "$_ECU:6,59"
+        ]
+    },
+    "body": {
+        "raw_text": "El precio medio de la vivienda en alquiler en Canarias ha experimentado un descenso del 1,6 por ciento respecto al registrado el último mes de 2010, lo que supone situar el precio medio del alquiler en 6,59 euros el metro cuadrado al mes, según los últimos datos del portal inmobiliario fotocasa.es. La vivienda canaria en alquiler, de esta forma, está un 17,7 por ciento por debajo de la media española, que actualmente se encuentra en 8,01 euros el metro cuadrado al mes. Desde los precios máximos, alcanzados en diciembre de 2006, Canarias acumula una caída de precios del 13,7 por ciento en el alquiler. Por provincias, los alquileres en Santa Cruz de Tenerife experimentan una leve subida de precios en el último mes, concretamente del 0,1 por ciento, hasta alcanzar un valor actual de la vivienda en alquiler de 6,48 ?/m2 al mes. En cambio, Las Palmas registra una caída del 2,7 por ciento, hasta los 6,67 ?/m2 al mes.",
+        "lemmatized_text": "el precio medio de el vivienda en alquiler en canarias haber experimentar uno descenso de el 1,6 por 100 respecto a el registrar el último mes de 2010 el que suponer situar el precio medio de el alquiler en $_ECU:6,59 el metro cuadrado a el mes según el último dato de el portal inmobiliario fotocasa ser el vivienda canario en alquiler de este forma estar uno 17,7 por 100 por debajo_de el media español que actualmente se encontrar en $_ECU:8,01 el metro cuadrado a el mes desde el precio máximo alcanzar en [??:??/12/2006:??.??:??] canarias acumular uno caída de precio de el 13,7 por 100 en el alquiler por provincia el alquiler en santa_cruz_de_tenerife experimentar uno leve subida de precio en el último mes concretamente de el 0,1 por 100 hasta alcanzar uno valor actual de el vivienda en alquiler de 6,48 /m2 a el mes en cambio las_palmas registrar uno caída de el 2,7 por 100 hasta el 6,67 /m2 a el mes",
+        "lemmatized_text_reduced": "precio medio vivienda alquiler canarias haber experimentar descenso respecto registrar último mes suponer situar precio medio alquiler metro cuadrado mes último dato portal inmobiliario fotocasa ser vivienda canario alquiler forma estar media español actualmente encontrar metro cuadrado mes precio máximo alcanzar canarias acumular caída precio alquiler provincia alquiler santa_cruz_de_tenerife experimentar leve subida precio último mes concretamente alcanzar valor actual vivienda alquiler mes cambio las_palmas registrar caída mes",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/2006:??.??:??]"
+        ],
+        "numbers": [
+            "1,6",
+            "100",
+            "2010",
+            "$_ECU:6,59",
+            "17,7",
+            "100",
+            "$_ECU:8,01",
+            "13,7",
+            "100",
+            "0,1",
+            "100",
+            "6,48",
+            "/m2",
+            "2,7",
+            "100",
+            "6,67",
+            "/m2"
+        ]
+    }
+}

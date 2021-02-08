@@ -1,0 +1,121 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619458/0/",
+    "title": {
+        "raw_text": "La gasolina sube un 12,17% en Canarias en enero y el diesel experimenta un incremento superior al 14%",
+        "lemmatized_text": "el gasolina subir uno 12,17/100 en canarias en [??:??/1/??:??.??:??] y el diesel experimentar uno incremento superior a el 14/100",
+        "lemmatized_text_reduced": "gasolina subir canarias diesel experimentar incremento superior",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "12,17/100",
+            "14/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El precio de la gasolina de 95 octanos, la más consumida, se situó en Canarias en los 0,874 euros el litro de media a cierre de enero, lo que ha supuesto un incremento de un 12,17 por ciento respecto a los 0,779 euros que costaba el litro el mes anterior, según datos recogidos por Europa Press de la totalidad de gasolineras de las islas.",
+        "lemmatized_text": "el precio de el gasolina de 95 octano el más consumir se situar en canarias en el $_ECU:874 el litro de media a cierre de [??:??/1/??:??.??:??] el que haber suponer uno incremento de uno 12,17 por 100 respecto_a el $_ECU:779 que costar el litro el mes anterior según dato recoger por europa_press de el totalidad de gasolinera de el isla",
+        "lemmatized_text_reduced": "precio gasolina octano consumir situar canarias litro media cierre haber suponer incremento costar litro mes anterior dato recoger europa_press totalidad gasolinera isla",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "95",
+            "$_ECU:874",
+            "12,17",
+            "100",
+            "$_ECU:779"
+        ]
+    },
+    "body": {
+        "raw_text": "La provincia donde más subió el precio de la gasolina fue en la de Las Palmas donde aumentó en un 14,69 por ciento, tras alcanzar los 0,900 euros el litro con respecto al precio de cierre de diciembre que fue de 0,784 euros. En el caso de la provincia de Santa Cruz de Tenerife, la gasolina 95 aumentó un 9,61 por ciento alcanzando los 0,849 euros. Asimismo, el diesel tradicional también tuvo un mayor incremento en la provincia de Las Palmas donde creció en un 16,23 por ciento hasta los 0,750 euros el litro, a diferencia de la de Santa Cruz de Tenerife donde el aumento fue del 12,95 por ciento. Este carburante, en su conjunto en Canarias, tuvo un aumento del 14,60 por ciento al situarse a cierre de enero en 0,734 euros el litro a diferencia de los 0,640 del último mes de 2009. Por otro lado, el precio de la gasolina de 98 octanos también creció en un 11,04 por ciento en Canarias, situándose en los 0,944 euros en el mes de enero frente a los 0,850 de diciembre. Este carburante también tuvo un mayor aumentó en la provincia de Las Palmas donde la subida fue de un 12,26 por ciento llegando a los 0,950 euros el litro a diferencia de los 0,846 euros de diciembre; mientras que en la provincia de Santa Cruz de Tenerife creció en menor medida, ya que lo hizo en un 9,82 por ciento alcanzando los 0,939 euros el litro en enero. El diesel enriquecido cerró enero con un precio medio de 0,752 euros el litro en Canarias, lo que supuso una subida del 11,62 por ciento respecto al mes anterior. En cuanto a las provincias, en la de Las Palmas el litro de este carburante alcanzó los 0,715 euros el litro en enero a diferencia de los 0,676 euros de diciembre. En Santa Cruz de Tenerife, por su parte, el precio experimentó un avance del 11,60 por ciento, ya que pasó de los 0,671 euros el litro del cierre de diciembre a los 0,749 del mes que acaba de finalizar.",
+        "lemmatized_text": "el provincia donde más subir el precio de el gasolina ser en el de las_palmas donde aumentar en uno 14,69 por 100 tras alcanzar el $_ECU:900 el litro con respecto a el precio de cierre de [??:??/12/??:??.??:??] que ser de $_ECU:784 en el caso de el provincia de santa_cruz_de_tenerife el gasolina 95 aumentar uno 9,61 por 100 alcanzar el $_ECU:849 asimismo el diesel tradicional también tener uno mayor incremento en el provincia de las_palmas donde crecer en uno 16,23 por 100 hasta el $_ECU:750 el litro a_diferencia_de el de santa_cruz_de_tenerife donde el aumento ser de el 12,95 por 100 este carburante en su conjunto en canarias tener uno aumento de el 14,60 por 100 a el situar se a cierre de [??:??/1/??:??.??:??] en $_ECU:734 el litro a_diferencia_de el 640 de el último mes de 2009 por_otro_lado el precio de el gasolina de 98 octano también crecer en uno 11,04 por 100 en canarias situar se en el $_ECU:944 en el [??:??/1/??:??.??:??] frente_a el 850 de [??:??/12/??:??.??:??] este carburante también tener uno mayor aumentar en el provincia de las_palmas donde el subida ser de uno 12,26 por 100 llegar a el $_ECU:950 el litro a_diferencia_de el $_ECU:846 de [??:??/12/??:??.??:??] mientras_que en el provincia de santa_cruz_de_tenerife crecer en menor medida ya_que lo hacer en uno 9,82 por 100 alcanzar el $_ECU:939 el litro en [??:??/1/??:??.??:??] el diesel enriquecer cerrar [??:??/1/??:??.??:??] con uno precio medio de $_ECU:752 el litro en canarias el que suponer uno subida de el 11,62 por 100 respecto a el mes anterior en_cuanto_a el provincia en el de las_palmas el litro de este carburante alcanzar el $_ECU:715 el litro en [??:??/1/??:??.??:??] a_diferencia_de el $_ECU:676 de [??:??/12/??:??.??:??] en santa_cruz_de_tenerife por su parte el precio experimentar uno avance de el 11,60 por 100 ya_que pasar de el $_ECU:671 el litro de el cierre de [??:??/12/??:??.??:??] a el 749 de el mes que acabar de finalizar",
+        "lemmatized_text_reduced": "provincia subir precio gasolina ser las_palmas aumentar alcanzar litro respecto precio cierre ser caso provincia santa_cruz_de_tenerife gasolina aumentar alcanzar diesel tradicional tener mayor incremento provincia las_palmas crecer litro santa_cruz_de_tenerife aumento ser carburante conjunto canarias tener aumento situar cierre litro último mes precio gasolina octano crecer canarias situar carburante tener mayor aumentar provincia las_palmas subida ser llegar litro provincia santa_cruz_de_tenerife crecer menor medida hacer alcanzar litro diesel enriquecer cerrar precio medio litro canarias suponer subida respecto mes anterior provincia las_palmas litro carburante alcanzar litro santa_cruz_de_tenerife parte precio experimentar avance pasar litro cierre mes acabar finalizar",
+        "persons": [],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Canarias",
+            "Canarias",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Canarias",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/??:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "14,69",
+            "100",
+            "$_ECU:900",
+            "$_ECU:784",
+            "95",
+            "9,61",
+            "100",
+            "$_ECU:849",
+            "16,23",
+            "100",
+            "$_ECU:750",
+            "12,95",
+            "100",
+            "14,60",
+            "100",
+            "$_ECU:734",
+            "640",
+            "2009",
+            "98",
+            "11,04",
+            "100",
+            "$_ECU:944",
+            "850",
+            "12,26",
+            "100",
+            "$_ECU:950",
+            "$_ECU:846",
+            "9,82",
+            "100",
+            "$_ECU:939",
+            "$_ECU:752",
+            "11,62",
+            "100",
+            "$_ECU:715",
+            "$_ECU:676",
+            "11,60",
+            "100",
+            "$_ECU:671",
+            "749"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/673392/0/",
+    "title": {
+        "raw_text": "Fallece un varón en plena vía pública tras sufrir una parada cardiorrespiratoria en Gran Canaria",
+        "lemmatized_text": "fallecer uno varón en pleno vía público tras sufrir uno parada cardiorrespiratoria en gran_canaria",
+        "lemmatized_text_reduced": "fallecer varón pleno vía público sufrir parada cardiorrespiratoria gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de 65 años de edad ha fallecido hoy tras sufrir una parada cardiorrespiratoria en la Avenida del Oasis, en las inmediaciones del Faro de Maspalomas, en San Bartolomé de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de 65 año de edad haber fallecer hoy tras sufrir uno parada cardiorrespiratoria en el avenida_del_oasis en el inmediación de el faro_de_maspalomas en san_bartolomé_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año edad haber fallecer sufrir parada cardiorrespiratoria avenida_del_oasis inmediación faro_de_maspalomas san_bartolomé_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Avenida_del_Oasis",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Faro_de_Maspalomas",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "65",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 14.37 horas, cuando el Cecoes recibió varias llamadas que informaban de que una persona había sufrido un desvanecimiento y precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. A su llegada al lugar, el personal médico del Servicio de Urgencias Canario (SUC) comprobó que el afectado no respondía a estímulos y se encontraba en situación de parada cardiorrespiratoria, por lo que le fueron practicadas maniobras de reanimación cardiopulmonar, tanto básicas como avanzadas, que no lograron recuperarlo. La Policía Nacional colaboró con los recursos sanitarios y elaboró los informes oportunos.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:14.37 cuando el cecoes recibir varios llamada que informar de que uno persona haber sufrir uno desvanecimiento y precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario a su llegada a el lugar el personal médico de el servicio_de_urgencias_canario suc comprobar que el afectar no responder a estímulo y se encontrar en situación de parada cardiorrespiratoria por el que le ser practicar maniobra de reanimación cardiopulmonar tanto básico como avanzada que no lograr recuperar lo el policía_nacional colaborar con el recurso sanitario y elaborar el informe oportuno",
+        "lemmatized_text_reduced": "hecho ocurrir cecoes recibir llamada informar persona haber sufrir desvanecimiento precisar asistencia sanitario modo activar inmediato recurso emergencia necesario llegada lugar personal médico servicio_de_urgencias_canario suc comprobar afectar responder estímulo encontrar situación parada cardiorrespiratoria ser practicar maniobra reanimación cardiopulmonar básico avanzada lograr recuperar policía_nacional colaborar recurso sanitario elaborar informe oportuno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.37",
+            "112"
+        ]
+    }
+}

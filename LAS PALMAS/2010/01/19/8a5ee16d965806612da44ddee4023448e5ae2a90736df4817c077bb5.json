@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/610314/0/",
+    "title": {
+        "raw_text": "La activista saharaui Aminetu Haidar viaja a Gran Canaria para asistir a una revisión médica",
+        "lemmatized_text": "el activista saharaui aminetu_haidar viajar a gran_canaria para asistir a uno revisión médico",
+        "lemmatized_text_reduced": "activista saharaui aminetu_haidar viajar gran_canaria asistir revisión médico",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La activista Aminetu Haidar, que estuvo más de 30 días en huelga de hambre en el aeropuerto de Lanzarote para exigir su regreso al Sáhara Occidental, está en estos momentos viajando hasta la isla de Gran Canaria para asistir a una revisión médica.",
+        "lemmatized_text": "el activista aminetu_haidar que estar más de TM_d:30 en huelga de hambre en el aeropuerto de lanzarote para exigir su regreso a el sáhara_occidental estar en este momento viajar hasta el isla de gran_canaria para asistir a uno revisión médico",
+        "lemmatized_text_reduced": "activista aminetu_haidar estar huelga hambre aeropuerto lanzarote exigir regreso sáhara_occidental estar momento viajar isla gran_canaria asistir revisión médico",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Sáhara_Occidental"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:30"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó a Europa Press la portavoz de la plataforma de apoyo a Haidar, Edy Escobar, la conocida como la 'Ghandi saharaui' \"en principio no ha tenido problemas\" para salir de su país y coger un avión con destino a Gran Canaria. \"Ha salido para el tema de la revisión médica porque hace un mes aproximadamente que terminó la huelga de hambre y querían ver como va el proceso de recuperación y como la huelga de hambre había afectado a su úlcera\", explicó Escobar.",
+        "lemmatized_text": "según informar a europa_press el portavoz de el plataforma de apoyo a haidar edy_escobar el conocer como el ghandi saharaui en principio no haber tener problema para salir de su país y coger uno avión con destino a gran_canaria haber salir para el tema de el revisión médico porque hacer uno mes aproximadamente que terminar el huelga de hambre y querer ver como ir el proceso de recuperación y como el huelga de hambre haber afectar a su úlcera explicar escobar",
+        "lemmatized_text_reduced": "informar europa_press portavoz plataforma apoyo haidar edy_escobar conocer ghandi saharaui principio haber tener problema salir país coger avión destino gran_canaria haber salir tema revisión médico hacer mes aproximadamente terminar huelga hambre querer ver ir proceso recuperación huelga hambre haber afectar úlcera explicar escobar",
+        "persons": [
+            "Europa_Press",
+            "Haidar",
+            "Edy_Escobar",
+            "Ghandi",
+            "Escobar"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

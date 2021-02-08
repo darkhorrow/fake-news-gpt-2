@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594749/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria aprueba un presupuesto con más gasto en políticas sociales y disminución en el de personal",
+        "lemmatized_text": "el cabildo_de_gran_canaria aprobar uno presupuesto con más gasto en política social y disminución en el de personal",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria aprobar presupuesto gasto política social disminución personal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno Insular ha aprobado hoy el Proyecto de Presupuestos 2010 del Cabildo de Gran Canaria y con incremento del gasto en políticas sociales, en becas y estudios y disminución del gasto de personal.",
+        "lemmatized_text": "el consejo_de_gobierno_insular haber aprobar hoy el proyecto_de_presupuestos 2010 de el cabildo_de_gran_canaria y con incremento de el gasto en política social en beca y estudio y disminución de el gasto de personal",
+        "lemmatized_text_reduced": "consejo_de_gobierno_insular haber aprobar proyecto_de_presupuestos cabildo_de_gran_canaria incremento gasto política social beca estudio disminución gasto personal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejo_de_Gobierno_Insular"
+        ],
+        "others": [
+            "Proyecto_de_Presupuestos",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cabildo recuerda en un comunicado que ingreso real de la institución cae un 33 por ciento en los dos últimos años, lo que ha llevado al grupo de gobierno, formado por Partido Socialista Canario y Nueva Canarias, a adoptar \"prioridades\" al efectuar este presupuesto. Así, el equipo de gobierno argumenta que el presupuesto insular se caracteriza por \"el equilibrio, por ser un presupuesto social e inversor que incrementa el gasto en Políticas Sociales —más de nueve millones de euros—, mantiene la política de becas y estudios, aumenta la inversión en Turismo, en Medio Ambiente y la inversión directa en obras públicas, en un 38 por ciento\". De igual modo, se contiene el gasto corriente y las transferencias (a excepción de las transferencias al Instituto Sociosanitario) y experimenta una disminución el Capítulo de Gasto de Personal por encima de la media de la Comunidad Autónoma —que es del 1,5 por ciento— y en el Cabildo del 1,7 por ciento. Asimismo, al igual que en el ejercicio anterior, la corporación anuncia una \"revisión en los próximos meses de las partidas iniciales para posicionar mayores recursos a Políticas Sociales, Inversiones, a cooperación con los ayuntamientos y a solidaridad\".",
+        "lemmatized_text": "el cabildo recordar en uno comunicado que ingreso real de el institución caer uno 33 por 100 en el 2 último año el que haber llevar a el grupo de gobierno formar por partido_socialista_canario y nueva_canarias a adoptar prioridad a el efectuar este presupuesto así el equipo de gobierno argumentar que el presupuesto insular se caracterizar por el equilibrio por ser uno presupuesto social y inversor que incrementar el gasto en políticas_sociales más de $_ECU:9000000 mantener el política de beca y estudio aumentar el inversión en turismo en medio_ambiente y el inversión directo en obra público en uno 38 por 100 de igual modo se contener el gasto corriente y el transferencia a_excepción_de el transferencia a el instituto_sociosanitario y experimentar uno disminución el capítulo_de_gasto_de_personal por encima_de el media de el comunidad_autónoma que ser de el 1,5 por ciento y en el cabildo de el 1,7 por 100 asimismo al_igual_que en el ejercicio anterior el corporación anunciar uno revisión en el próximo mes de el partida inicial para posicionar mayor recurso a políticas_sociales inversiones a cooperación con el ayuntamiento y a solidaridad",
+        "lemmatized_text_reduced": "cabildo recordar comunicado ingreso real institución caer último año haber llevar grupo gobierno formar partido_socialista_canario nueva_canarias adoptar prioridad efectuar presupuesto equipo gobierno argumentar presupuesto insular caracterizar equilibrio ser presupuesto social inversor incrementar gasto políticas_sociales mantener política beca estudio aumentar inversión turismo medio_ambiente inversión directo obra público igual modo contener gasto corriente transferencia transferencia instituto_sociosanitario experimentar disminución capítulo_de_gasto_de_personal media comunidad_autónoma ser ciento cabildo ejercicio anterior corporación anunciar revisión próximo mes partida inicial posicionar mayor recurso políticas_sociales inversiones cooperación ayuntamiento solidaridad",
+        "persons": [
+            "Políticas_Sociales"
+        ],
+        "locations": [
+            "Políticas_Sociales"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Partido_Socialista_Canario",
+            "Nueva_Canarias",
+            "Turismo",
+            "Medio_Ambiente",
+            "Instituto_Sociosanitario",
+            "Capítulo_de_Gasto_de_Personal",
+            "Comunidad_Autónoma",
+            "Cabildo",
+            "Inversiones"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "33",
+            "100",
+            "2",
+            "$_ECU:9000000",
+            "38",
+            "100",
+            "1,5",
+            "1,7",
+            "100"
+        ]
+    }
+}

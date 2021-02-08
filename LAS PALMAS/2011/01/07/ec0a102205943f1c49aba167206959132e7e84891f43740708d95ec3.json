@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922361/0/",
+    "title": {
+        "raw_text": "Un hombre menos grave después de caer en un barranco de Lanzarote",
+        "lemmatized_text": "uno hombre menos grave después_de caer en uno barranco de lanzarote",
+        "lemmatized_text_reduced": "hombre grave caer barranco lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido de menor gravedad después de sufrir una caída en el Barranco del Quíquere, en el municipio de Tías (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber resultar herir de menor gravedad después_de sufrir uno caída en el barranco_del_quíquere en el municipio de tías lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir menor gravedad sufrir caída barranco_del_quíquere municipio tías lanzarote informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Barranco_del_Quíquere",
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre ha resultado herido de menor gravedad después de sufrir una caída en el Barranco del Quíquere, en el municipio de Tías (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo a las 13.06 horas de este viernes en dicho barranco, hasta donde se trasladaron efectivos de Protección Civil, así como personal del Servicio Canario de Urgencias (SUC) que rescataron y posteriormente evacuaron al herido hasta el Hospital Doctor José Molina Orosa. En cuanto al herido, un hombre de 38 años de edad, sufrió fractura en miembro inferior de carácter menos grave. Hasta el lugar del suceso se trasladó junto a personal de Protección Civil y del SUC, agentes de la Policía Local que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "uno hombre haber resultar herir de menor gravedad después_de sufrir uno caída en el barranco_del_quíquere en el municipio de tías lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir a el TM_h:13.06 de este [V:??/??/??:??.??:??] en decir barranco hasta donde se trasladar efectivo de protección_civil así_como personal de el servicio_canario_de_urgencias suc que rescatar y posteriormente evacuar a el herir hasta el hospital_doctor_josé_molina_orosa en cuanto a el herir uno hombre de 38 año de edad sufrir fractura en miembro inferior de carácter menos grave hasta el lugar de el suceso se trasladar junto_a personal de protección_civil y de el suc agente de el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hombre haber resultar herir menor gravedad sufrir caída barranco_del_quíquere municipio tías lanzarote informar centro_coordinador_de_emergencias seguridad incidente producir decir barranco trasladar efectivo protección_civil personal servicio_canario_de_urgencias suc rescatar posteriormente evacuar herir hospital_doctor_josé_molina_orosa herir hombre año edad sufrir fractura miembro inferior carácter grave lugar suceso trasladar personal protección_civil suc agente policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Barranco_del_Quíquere",
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Protección_Civil",
+            "Servicio_Canario_de_Urgencias",
+            "SUC",
+            "Hospital_Doctor_José_Molina_Orosa",
+            "Protección_Civil",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:13.06",
+            "38"
+        ]
+    }
+}

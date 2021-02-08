@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/651808/0/",
+    "title": {
+        "raw_text": "Una mujer de 72 años en estado grave al sufrir una caída mientras bajaba de un taxi en Lanzarote",
+        "lemmatized_text": "uno mujer de 72 año en estado grave a el sufrir uno caída mientras bajar de uno taxi en lanzarote",
+        "lemmatized_text_reduced": "mujer año estado grave sufrir caída bajar taxi lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "72"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un mujer de 72 años de edad ha resultado herida con traumatismo craneoncefálico de carácter grave al sufrir una caída mientras bajaba de un taxi en la calle Juan Carlos I, en Puerto del Carmen, en el municipio de Tías (Lanzarote), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno mujer de 72 año de edad haber resultar herida con traumatismo craneoncefálico de carácter grave a el sufrir uno caída mientras bajar de uno taxi en el calle juan_carlos_i en puerto_del_carmen en el municipio de tías lanzarote según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "mujer año edad haber resultar herida traumatismo craneoncefálico carácter grave sufrir caída bajar taxi calle juan_carlos_i puerto_del_carmen municipio tías lanzarote informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Juan_Carlos_I"
+        ],
+        "locations": [
+            "Puerto_del_Carmen",
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "72",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 20.11 horas, cuando se recibió una llamada en el Cecoes que informaba de que una anciana había sufrido una caída mientras se apeaba de un taxi en la dirección citada y precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Hasta el lugar se desplazó personal médico del Servicio de Urgencia Canario (SUC) que, tras estabilizar a la afectada, la trasladó en ambulancia de soporte vital avanzado del SUC al Hospital Doctor José Molina Orosa. En dicha actuación intervino la Policía Local que se encargó de elaborar los informes oportunos.",
+        "lemmatized_text": "el incidente se producir a el TM_h:20.11 cuando se recibir uno llamada en el cecoes que informar de que uno anciano haber sufrir uno caída mientras se apear de uno taxi en el dirección citar y precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencia_canario suc que tras estabilizar a el afectado el trasladar en ambulancia de soporte vital avanzar de el suc a el hospital_doctor_josé_molina_orosa en decir actuación intervenir el policía_local que se encargar de elaborar el informe oportuno",
+        "lemmatized_text_reduced": "incidente producir recibir llamada cecoes informar anciano haber sufrir caída apear taxi dirección citar precisar asistencia sanitario modo activar inmediato recurso emergencia necesario lugar desplazar personal médico servicio_de_urgencia_canario suc estabilizar afectado trasladar ambulancia soporte vital avanzar suc hospital_doctor_josé_molina_orosa decir actuación intervenir policía_local encargar elaborar informe oportuno",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencia_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Doctor_José_Molina_Orosa",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:20.11",
+            "112"
+        ]
+    }
+}

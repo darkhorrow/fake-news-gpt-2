@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/673793/0/",
+    "title": {
+        "raw_text": "Piden 14 años de cárcel para acusado de intentar degollar a su mujer mientras dormía en su casa en Gran Canaria",
+        "lemmatized_text": "pedir 14 año de cárcel para acusado de intentar degollar a su mujer mientras dormir en su casa en gran_canaria",
+        "lemmatized_text_reduced": "pedir año cárcel acusado intentar degollar mujer dormir casa gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "14"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Fiscalía ha solicitado imponer 14 años de prisión para un hombre acusado de intentar degollar a su esposa con un cuchillo de cocina mientras ella dormía en el domicilio familiar en el municipio de San Bartolomé de Tirajana, al sur de Gran Canaria.",
+        "lemmatized_text": "el fiscalía haber solicitar imponer 14 año de prisión para uno hombre acusar de intentar degollar a su esposo con uno cuchillo de cocina mientras él dormir en el domicilio familiar en el municipio de san_bartolomé_de_tirajana a el sur de gran_canaria",
+        "lemmatized_text_reduced": "fiscalía haber solicitar imponer año prisión hombre acusar intentar degollar esposo cuchillo cocina dormir domicilio familiar municipio san_bartolomé_de_tirajana sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "14"
+        ]
+    },
+    "body": {
+        "raw_text": "La Sección Segunda de la Audiencia Provincial de Las Palmas celebrará el próximo miércoles (10.00 horas) el juicio contra J.M.L.D., de 51 años de edad, acusado de un presunto delito de asesinato en grado de tentativa, según el escrito de conclusiones al que ha tenido acceso Europa Press. El escrito precisa que sobre las 06.30 horas del 13 de julio de 2009, la mujer del procesado se encontraba durmiendo en su casa, cuando él, supuestamente \"con la finalidad de acabar con su vida\", cogió un cuchillo de cocina y \"a la vez que le sujetó el cuello, comenzó a cortárselo intentando degollarla\". El cuchillo se le partió \"Como no lo conseguía porque el cuchillo se le partió, lo soltó y con las dos manos trató de estrangularla quedando ella aturdida, ante lo cual el procesado pensó que la había matado, dejándola en la cama, momento en que la mujer aprovechó para huir\", añade el Ministerio Público. Debido a la agresión la víctima sufrió dos heridas en el lado derecho del cuello y dos más en la oreja y la mano izquierda. La mujer renuncia a la indemnización por las lesiones, precisa el escrito. Por todo ello, la Fiscalía ha solicitado imponer 14 años de cárcel a J.M.L.D. —en prisión por esta causa desde el 16 de julio de 2009—, y la prohibición de acercarse a menos de 500 metros a la víctima, a su domicilio o lugar de trabajo, así como comunicarse con ella durante 15 años.",
+        "lemmatized_text": "el sección_segunda_de_la_audiencia_provincial_de_las_palmas celebrar el [X:??/??/??:??.??:??] TM_h:10 el juicio contra j.m.l.d. de 51 año de edad acusar de uno presunto delito de asesinato en grado de tentativa según el escrito de conclusión a el que haber tener acceso europa_press el escrito precisar que sobre el [??:13/7/2009:6.00:??] el mujer de el procesado se encontrar dormir en su casa cuando él supuestamente con el finalidad de acabar con su vida coger uno cuchillo de cocina y a_la_vez_que le sujetar el cuello comenzar a cortar se lo intentar degollar lo el cuchillo se le partir como no lo conseguir porque el cuchillo se le partir lo soltar y con el 2 mano tratar de estrangular lo quedar él aturdir ante el cual el procesado pensar que lo haber matar dejar lo en el cama momento en que el mujer aprovechar para huir añadir el ministerio_público debido_a el agresión el víctima sufrir 2 herida en el lado derecho de el cuello y 2 más en el oreja y el mano izquierdo el mujer renuncia a el indemnización por el lesión precisar el escrito por todo ello el fiscalía haber solicitar imponer 14 año de cárcel a j.m.l.d. en prisión por este causa desde el [??:16/7/2009:??.??:??] y el prohibición de acercar se a menos de LN_m:500 a el víctima a su domicilio o lugar de trabajo así_como comunicar se con él durante 15 año",
+        "lemmatized_text_reduced": "sección_segunda_de_la_audiencia_provincial_de_las_palmas celebrar juicio j.m.l.d. año edad acusar presunto delito asesinato grado tentativa escrito conclusión haber tener acceso europa_press escrito precisar mujer procesado encontrar dormir casa supuestamente finalidad acabar vida coger cuchillo cocina sujetar cuello comenzar cortar intentar degollar cuchillo partir conseguir cuchillo partir soltar mano tratar estrangular quedar aturdir procesado pensar haber matar dejar cama momento mujer aprovechar huir añadir ministerio_público agresión víctima sufrir herida lado derecho cuello oreja mano izquierdo mujer renuncia indemnización lesión precisar escrito fiscalía haber solicitar imponer año cárcel j.m.l.d. prisión causa prohibición acercar víctima domicilio lugar trabajo comunicar año",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Sección_Segunda_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "J.M.L.D.",
+            "Ministerio_Público",
+            "Fiscalía",
+            "J.M.L.D."
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:13/7/2009:6.00:??]",
+            "[??:16/7/2009:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:10",
+            "51",
+            "2",
+            "2",
+            "2",
+            "14",
+            "LN_m:500",
+            "15"
+        ]
+    }
+}

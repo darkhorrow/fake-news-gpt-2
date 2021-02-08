@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/661881/0/imputada/telde/muere/",
+    "title": {
+        "raw_text": "La principal imputada por corrupción en Telde muere al caer desde un sexto piso",
+        "lemmatized_text": "el principal imputar por corrupción en telde morir a el caer desde uno 6 piso",
+        "lemmatized_text_reduced": "principal imputar corrupción telde morir caer 6 piso",
+        "persons": [],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "María Antonia Torres fue imputada en el 'caso Faycán'. Estaba suspendida cautelarmente de militancia en el PP. Se investiga una trama de corrupción en el Ayuntamiento de Telde.",
+        "lemmatized_text": "maría_antonia_torres ser imputar en el caso faycán estar suspender cautelarmente de militancia en el pp._se investigar uno trama de corrupción en el ayuntamiento_de_telde",
+        "lemmatized_text_reduced": "maría_antonia_torres ser imputar caso faycán estar suspender cautelarmente militancia pp._se investigar trama corrupción ayuntamiento_de_telde",
+        "persons": [
+            "María_Antonia_Torres",
+            "Faycán"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP._Se",
+            "Ayuntamiento_de_Telde"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La ex concejal de Obras Públicas del Ayuntamiento de Telde (Gran Canaria) María Antonia Torres , que fue imputada por el 'caso Faycán' , ha fallecido al precipitarse desde una ventana de su vivienda en la capital grancanaria. No se ha precisado las circunstancias en las que se produjo la caída Fuentes del servicio de emergencias 112, que no precisaron las circunstancias en las que se produjo la caída, indicaron que el suceso tuvo lugar sobre las 18.30 horas del jueves en la esquina de la calle Galicia con Mesa y López. Señalaron igualmente que los servicios médicos desplazados hasta el lugar tan sólo pudieron certificar el fallecimiento de Torres. María Antonia Torres fue suspendida cautelarmente de militancia en el PP tras su imputación en el 'caso Faycán'. El Juzgado de Instrucción número 3 de Telde instruye el caso, que investiga una supuesta trama de corrupción en el Ayuntamiento de la localidad y en el que se encontraba imputada María Antonia Torres por un supuesto delito de blanqueo de capitales y contra la ordenación del territorio. En el 'caso Faycán' figuran como imputados más de 34 personas, entre ellos el que fuera alcalde de Telde, Francisco Valido (PP), que tuvo que dimitir por su implicación en el caso, varios concejales de su partido, empresarios y empleados municipales.",
+        "lemmatized_text": "el ex concejal de obras_públicas_del_ayuntamiento_de_telde gran_canaria maría_antonia_torres que ser imputar por el caso faycán haber fallecer a el precipitar se desde uno ventana de su vivienda en el capital grancanaria no se haber precisar el circunstancia en el que se producir el caída fuentes de el servicio de emergencia 112 que no precisar el circunstancia en el que se producir el caída indicar que el suceso tener_lugar sobre el [J:??/??/??:6.00:pm] en el esquina de el calle galicia con mesa y lópez señalar igualmente que el servicio médico desplazar hasta el lugar tan sólo poder certificar el fallecimiento de torres maría_antonia_torres ser suspender cautelarmente de militancia en el pp tras su imputación en el caso faycán el juzgado_de_instrucción número 3 de telde instruir el caso que investigar uno suponer trama de corrupción en el ayuntamiento de el localidad y en el que se encontrar imputar maría_antonia_torres por uno suponer delito de blanqueo de capital y contra el ordenación de el territorio en el caso faycán figurar como imputar más de 34 persona entre ellos el que ser alcalde de telde francisco_valido pp que tener que dimitir por su implicación en el caso varios concejal de su partido empresario y empleado municipal",
+        "lemmatized_text_reduced": "ex concejal obras_públicas_del_ayuntamiento_de_telde gran_canaria maría_antonia_torres ser imputar caso faycán haber fallecer precipitar ventana vivienda capital grancanaria haber precisar circunstancia producir caída fuentes servicio emergencia precisar circunstancia producir caída indicar suceso tener_lugar esquina calle galicia mesa lópez señalar igualmente servicio médico desplazar lugar poder certificar fallecimiento torres maría_antonia_torres ser suspender cautelarmente militancia pp imputación caso faycán juzgado_de_instrucción número telde instruir caso investigar suponer trama corrupción ayuntamiento localidad encontrar imputar maría_antonia_torres suponer delito blanqueo capital ordenación territorio caso faycán figurar imputar persona ser alcalde telde francisco_valido pp tener dimitir implicación caso concejal partido empresario empleado municipal",
+        "persons": [
+            "María_Antonia_Torres",
+            "Faycán",
+            "López",
+            "María_Antonia_Torres",
+            "Faycán",
+            "María_Antonia_Torres",
+            "Faycán",
+            "Francisco_Valido"
+        ],
+        "locations": [
+            "Galicia",
+            "Torres",
+            "Telde"
+        ],
+        "organizations": [
+            "Obras_Públicas_del_Ayuntamiento_de_Telde",
+            "Gran_Canaria",
+            "Mesa",
+            "PP",
+            "Juzgado_de_Instrucción",
+            "Telde",
+            "Ayuntamiento",
+            "PP"
+        ],
+        "others": [
+            "Fuentes"
+        ],
+        "dates": [
+            "[J:??/??/??:6.00:pm]"
+        ],
+        "numbers": [
+            "112",
+            "3",
+            "34"
+        ]
+    }
+}

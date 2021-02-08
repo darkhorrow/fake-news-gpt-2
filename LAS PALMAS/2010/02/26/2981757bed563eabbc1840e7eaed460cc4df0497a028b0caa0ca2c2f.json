@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639202/0/",
+    "title": {
+        "raw_text": "El beneficio de La Caja de Canarias cae un 37,6% en 2009, hasta los 25 millones",
+        "lemmatized_text": "el beneficio de la_caja_de_canarias caer uno 37,6/100 en 2009 hasta el 25000000",
+        "lemmatized_text_reduced": "beneficio la_caja_de_canarias caer",
+        "persons": [],
+        "locations": [
+            "La_Caja_de_Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "37,6/100",
+            "2009",
+            "25000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Caja de Canarias ha registrado un beneficio neto de 25 millones de euros en 2009, lo que supone una reducción del 37,6 por ciento respecto a los más de 40 millones de euros del ejercicio anterior, según informó hoy la entidad de ahorro en un comunicado.",
+        "lemmatized_text": "el caja_de_canarias haber registrar uno beneficio neto de $_ECU:25000000 en 2009 el que suponer uno reducción de el 37,6 por 100 respecto_a el más de $_ECU:40000000 de el ejercicio anterior según informar hoy el entidad de ahorro en uno comunicado",
+        "lemmatized_text_reduced": "caja_de_canarias haber registrar beneficio neto suponer reducción ejercicio anterior informar entidad ahorro comunicado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Caja_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:25000000",
+            "2009",
+            "37,6",
+            "100",
+            "$_ECU:40000000"
+        ]
+    },
+    "body": {
+        "raw_text": "La caja de ahorros con sede en Gran Canaria explicó que la política de reducción de gastos ha sido \"rigurosa\" a pesar de que sólo ha decrecido un 0,34 por ciento en el último año. La tasa de morosidad de La Caja de Canarias alcanzó en 2009 el 6,18%, motivada —según explicó la caja— \"en gran medida por el hecho de que la entidad desarrolla su actividad en una región donde los indicadores de desempleo y recesión son de los más negativos del territorio nacional\". Por ello, la entidad aumentó un 22 por ciento los fondos destinados a la cobertura de insolvencias, hasta alcanzar los 172,76 millones de euros, lo que supone una tasa de cobertura de insolvencia del 233,85 por ciento si se considera el valor de sus garantías hipotecarias. El índice de solvencia de la entidad se situó en el 12,12 por ciento, con una mejoría en relación a 2008. El ratio de Core Capital alcanzó el 6,07 por ciento, experimentando una mejora del 16 por ciento respecto del ejercicio anterior. La captación de recursos ajenos creció un 9,5 por ciento con respecto a la misma fecha del ejercicio precedente, \"debido especialmente en la buena labor desarrollada por la red comercial y la gran aceptación de los nuevos productos de ahorro, tanto a la vista como a plazo, y de previsión\". La caja de ahorros prestó más de 1.300 millones de euros tanto a economías domésticas como a empresas y comercios, a través de la aprobación de operaciones de crédito concedidas con garantía hipotecaria o personal. Por su parte, el índice de eficiencia quedó fijado a final de 2009 en el 51 por ciento.",
+        "lemmatized_text": "el caja de ahorro con sede en gran_canaria explicar que el política de reducción de gasto haber ser riguroso a_pesar_de que sólo haber decrecer uno 0,34 por 100 en el último año el tasa de morosidad de la_caja_de_canarias alcanzar en 2009 el 6,18/100 motivar según explicar el caja en_gran_medida por el hecho de que el entidad desarrollar su actividad en uno región donde el indicador de desempleo y recesión ser de el más negativo de el territorio nacional por ello el entidad aumentar uno 22 por 100 el fondo destinar a el cobertura de insolvencia hasta alcanzar el 172,76 millón de euro el que suponer uno tasa de cobertura de insolvencia de el 233,85 por 100 si se considerar el valor de su garantía hipotecario el índice de solvencia de el entidad se situar en el 12,12 por 100 con uno mejoría en relación a 2008 el ratio de core_capital alcanzar el 6,07 por 100 experimentar uno mejora de el 16 por 100 respecto de el ejercicio anterior el captación de recurso ajeno crecer uno 9,5 por 100 con_respecto_a el mismo fecha de el ejercicio precedente deber especialmente en el bueno labor desarrollar por el red comercial y el gran aceptación de el nuevo producto de ahorro tanto a el vista como a plazo y de previsión el caja de ahorro prestar más de $_ECU:1300000 tanto a economía doméstico como a empresa y comercio a_través_de el aprobación de operación de crédito conceder con garantía hipotecario o personal por su parte el índice de eficiencia quedar fijar a final de 2009 en el 51 por 100",
+        "lemmatized_text_reduced": "caja ahorro sede gran_canaria explicar política reducción gasto haber ser riguroso haber decrecer último año tasa morosidad la_caja_de_canarias alcanzar motivar explicar caja hecho entidad desarrollar actividad región indicador desempleo recesión ser negativo territorio nacional entidad aumentar fondo destinar cobertura insolvencia alcanzar millón euro suponer tasa cobertura insolvencia considerar valor garantía hipotecario índice solvencia entidad situar mejoría relación ratio core_capital alcanzar experimentar mejora respecto ejercicio anterior captación recurso ajeno crecer mismo fecha ejercicio precedente deber especialmente bueno labor desarrollar red comercial gran aceptación nuevo producto ahorro vista plazo previsión caja ahorro prestar economía doméstico empresa comercio aprobación operación crédito conceder garantía hipotecario personal parte índice eficiencia quedar fijar final",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "La_Caja_de_Canarias",
+            "Core_Capital"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "0,34",
+            "100",
+            "2009",
+            "6,18/100",
+            "22",
+            "100",
+            "172,76",
+            "233,85",
+            "100",
+            "12,12",
+            "100",
+            "2008",
+            "6,07",
+            "100",
+            "16",
+            "100",
+            "9,5",
+            "100",
+            "$_ECU:1300000",
+            "2009",
+            "51",
+            "100"
+        ]
+    }
+}

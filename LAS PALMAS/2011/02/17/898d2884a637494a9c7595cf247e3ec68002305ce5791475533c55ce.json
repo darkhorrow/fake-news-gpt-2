@@ -1,0 +1,99 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/962469/0/",
+    "title": {
+        "raw_text": "Los canarios pagarían hasta 30.000 euros menos por una vivienda que hace cuatro meses",
+        "lemmatized_text": "el canario pagar hasta $_ECU:30 menos por uno vivienda que hacer 4 mes",
+        "lemmatized_text_reduced": "canario pagar vivienda hacer mes",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:30",
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los canarios pagarían hasta 30.000 euros menos por una vivienda que hace cuatro meses. Se ha rebajado el intervalo de precio al rango que va de los 105.000 a los 120.000 euros, la misma franja de Asturias, Galicia y Cantabria. En el anterior análisis, en las islas se buscaban pisos que estuvieran entre 120.000 y los 135.000 euros.",
+        "lemmatized_text": "el canario pagar hasta $_ECU:30 menos por uno vivienda que hacer 4 mes se haber rebajar el intervalo de precio a el rango que ir de el 105 a el $_ECU:120 el mismo franja de asturias galicia y cantabria en el anterior análisis en el isla se buscar piso que estar entre 120 y el $_ECU:135",
+        "lemmatized_text_reduced": "canario pagar vivienda hacer mes haber rebajar intervalo precio rango ir mismo franja asturias galicia cantabria anterior análisis isla buscar piso estar",
+        "persons": [],
+        "locations": [
+            "Asturias",
+            "Galicia",
+            "Cantabria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:30",
+            "4",
+            "105",
+            "$_ECU:120",
+            "120",
+            "$_ECU:135"
+        ]
+    },
+    "body": {
+        "raw_text": "Los canarios pagarían hasta 30.000 euros menos por una vivienda que hace cuatro meses. Se ha rebajado el intervalo de precio al rango que va de los 105.000 a los 120.000 euros, la misma franja de Asturias, Galicia y Cantabria. En el anterior análisis, en las islas se buscaban pisos que estuvieran entre 120.000 y los 135.000 euros. De esta manera, los isleños han reducido el margen que están dispuestos a invertir en la compra de una vivienda, pero han modificado también sus necesidades de espacio al alza. Sus preferencias se inclinan hacia viviendas de 90 metros cuadrados y de 3 dormitorios en contraposición con el cuatrimestre anterior, cuando las más demandadas eran las de 70 metros cuadrados y 2 dormitorios. Las dos provincias del archipiélago han experimentado una evolución dispar. En Las Palmas los potenciales compradores suben su apuesta hasta el rango de los 135.000-150.000 euros, mientras que en Santa Cruz de Tenerife bajan al de los 105.000-120.000 euros. En cuanto al espacio y la distribución, en ambas provincias siguen la línea de la región con 3 habitaciones, pero en los metros cuadrados difieren: en Las Palmas son partidarios de los 100 metros cuadrados, 10 más que en el análisis anterior, mientras que en Santa Cruz de Tenerife han seguido idéntica evolución a la media regional, pasando de 70 a 90 metros cuadrados. Además, en lo que respecta al alquiler en Canarias, este cuatrimestre hay una novedad en relación al intervalo de precios anterior. Los apartamentos preferidos por los canarios suben el rango, que pasa de entre 300 y 400 euros al mes al de entre 400 y 500. Igualmente, el piso más buscado en arrendamiento sigue teniendo 2 habitaciones y 70 metros cuadrados. En el caso de Las Palmas, se buscan pisos con las mismas características que en el anterior periodo: 60 metros cuadrados y 2 dormitorios, y al mismo precio: 300 y 400 euros. Por su parte, en Santa Cruz de Tenerife los potenciales inquilinos se decantan ahora por viviendas más grandes (70 metros cuadrados y 2 habitaciones) que las que buscaban en septiembre (60 metros cuadrados y 1 habitación).",
+        "lemmatized_text": "el canario pagar hasta $_ECU:30 menos por uno vivienda que hacer 4 mes se haber rebajar el intervalo de precio a el rango que ir de el 105 a el $_ECU:120 el mismo franja de asturias galicia y cantabria en el anterior análisis en el isla se buscar piso que estar entre 120 y el $_ECU:135 de este manera el isleño haber reducir el margen que estar disponer a invertir en el compra de uno vivienda pero haber modificar también su necesidad de espacio a el alza su preferencia se inclinar hacia vivienda de AR_m2:90 y de 3 dormitorio en contraposición con el cuatrimestre anterior cuando el más demandar ser el de AR_m2:70 y 2 dormitorio el 2 provincia de el archipiélago haber experimentar uno evolución dispar en las_palmas el potencial comprador subir su apuesta hasta el rango de el $_ECU:135.000-150.000 mientras_que en santa_cruz_de_tenerife bajar a el de el $_ECU:105.000-120.000 en cuanto a el espacio y el distribución en ambos provincia seguir el línea de el región con 3 habitación pero en el metro cuadrado diferir en las_palmas ser partidario de el AR_m2:100 10 más que en el análisis anterior mientras_que en santa_cruz_de_tenerife haber seguir idéntico evolución a el media regional pasar de 70 a AR_m2:90 además en el que respectar a el alquiler en canarias este cuatrimestre haber uno novedad en relación a el intervalo de precio anterior el apartamento preferir por el canario subir el rango que pasar de entre 300 y $_ECU:400 a el mes a el de entre 400 y 500 igualmente el piso más buscar en arrendamiento seguir tener 2 habitación y AR_m2:70 en el caso de las_palmas se buscar piso con el mismo característica que en el anterior periodo AR_m2:60 y 2 dormitorio y a el mismo precio 300 y $_ECU:400 por su parte en santa_cruz_de_tenerife el potencial inquilino se decantar ahora por vivienda más grande AR_m2:70 y 2 habitación que el que buscar en [??:??/9/??:??.??:??] AR_m2:60 y 1 habitación",
+        "lemmatized_text_reduced": "canario pagar vivienda hacer mes haber rebajar intervalo precio rango ir mismo franja asturias galicia cantabria anterior análisis isla buscar piso estar manera isleño haber reducir margen estar disponer invertir compra vivienda haber modificar necesidad espacio alza preferencia inclinar vivienda dormitorio contraposición cuatrimestre anterior demandar ser dormitorio provincia archipiélago haber experimentar evolución dispar las_palmas potencial comprador subir apuesta rango santa_cruz_de_tenerife bajar espacio distribución provincia seguir línea región habitación metro cuadrado diferir las_palmas ser partidario análisis anterior santa_cruz_de_tenerife haber seguir idéntico evolución media regional pasar respectar alquiler canarias cuatrimestre haber novedad relación intervalo precio anterior apartamento preferir canario subir rango pasar mes igualmente piso buscar arrendamiento seguir tener habitación caso las_palmas buscar piso mismo característica anterior periodo dormitorio mismo precio parte santa_cruz_de_tenerife potencial inquilino decantar vivienda grande habitación buscar habitación",
+        "persons": [],
+        "locations": [
+            "Asturias",
+            "Galicia",
+            "Cantabria",
+            "Santa_Cruz_de_Tenerife",
+            "Santa_Cruz_de_Tenerife",
+            "Canarias",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Las_Palmas",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/9/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:30",
+            "4",
+            "105",
+            "$_ECU:120",
+            "120",
+            "$_ECU:135",
+            "AR_m2:90",
+            "3",
+            "AR_m2:70",
+            "2",
+            "2",
+            "$_ECU:135.000-150.000",
+            "$_ECU:105.000-120.000",
+            "3",
+            "AR_m2:100",
+            "10",
+            "70",
+            "AR_m2:90",
+            "300",
+            "$_ECU:400",
+            "400",
+            "500",
+            "2",
+            "AR_m2:70",
+            "AR_m2:60",
+            "2",
+            "300",
+            "$_ECU:400",
+            "AR_m2:70",
+            "2",
+            "AR_m2:60",
+            "1"
+        ]
+    }
+}

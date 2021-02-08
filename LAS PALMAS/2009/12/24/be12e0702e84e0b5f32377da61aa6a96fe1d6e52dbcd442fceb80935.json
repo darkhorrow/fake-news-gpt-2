@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595247/0/",
+    "title": {
+        "raw_text": "Presidente canario anuncia ayudas económicas para los afectados de Tasarte y reclama apoyo del Estado",
+        "lemmatized_text": "presidente canario anunciar ayuda económico para el afectado de tasarte y reclamar apoyo de el estado",
+        "lemmatized_text_reduced": "presidente canario anunciar ayuda económico afectado tasarte reclamar apoyo estado",
+        "persons": [
+            "Presidente"
+        ],
+        "locations": [
+            "Tasarte"
+        ],
+        "organizations": [
+            "Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, anunció hoy diversas medidas económicas extraordinarias para los afectados por las fuertes lluvias en Tasarte, en el municipio grancanario de La Aldea de San Nicolás, que serán aprobadas el próximo martes en Consejo de Gobierno, al tiempo que reclamó el apoyo del Estado algo que considera \"razonable y justo\".",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero anunciar hoy diverso medida económico extraordinario para el afectado por el fuerte lluvia en tasarte en el municipio grancanario de la_aldea_de_san_nicolás que ser aprobar el [M:??/??/??:??.??:??] en consejo_de_gobierno al_tiempo_que reclamar el apoyo de el estado algo que considerar razonable y justo",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero anunciar medida económico extraordinario afectado fuerte lluvia tasarte municipio grancanario la_aldea_de_san_nicolás ser aprobar consejo_de_gobierno reclamar apoyo estado considerar razonable justo",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Tasarte",
+            "La_Aldea_de_San_Nicolás"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Consejo_de_Gobierno",
+            "Estado"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En una visita realizada a las áreas dañadas por el temporal desde el pasado lunes, Rivero, acompañado por el alcalde, Tomás Pérez, indicó que a partir de la semana que viene se pondrán en marcha distintos tipos de ayuda para las familias que han perdido sus enseres que podrían llegar hasta los 8.500 euros por núcleo familiar. Asimismo, aseguró que aquellas viviendas que hayan sufrido daños se podrán beneficiar de una partida de emergencia que en algunos casos cubrirá hasta el 50 por ciento de los daños provocados por la riada. Según Rivero, las dos carpinterías de la zona de Tasarte que quedaron inutilizadas contarán con una \"medida excepcional\" y aquellas personas que hayan perdido su vehículo con los estragos del temporal podrán recibir hasta 6.000 euros. (Habrá ampliación)",
+        "lemmatized_text": "en uno visita realizar a el área dañar por el temporal desde el [L:??/??/??:??.??:??] rivero acompañar por el alcalde tomás_pérez indicar que a_partir_de el semana que venir se poner en marcha distinto tipo de ayuda para el familia que haber perder su enseres que poder llegar hasta el $_ECU:8.5 por núcleo familiar asimismo asegurar que aquel vivienda que haber sufrir daño se poder beneficiar de uno partida de emergencia que en alguno caso cubrir hasta el 50 por 100 de el daño provocar por el riada según rivero el 2 carpintería de el zona de tasarte que quedar inutilizar contar con uno medida excepcional y aquel persona que haber perder su vehículo con el estrago de el temporal poder recibir hasta $_ECU:6 haber ampliación",
+        "lemmatized_text_reduced": "visita realizar área dañar temporal rivero acompañar alcalde tomás_pérez indicar semana venir poner marcha tipo ayuda familia haber perder enseres poder llegar núcleo familiar asegurar vivienda haber sufrir daño poder beneficiar partida emergencia caso cubrir daño provocar riada rivero carpintería zona tasarte quedar inutilizar contar medida excepcional persona haber perder vehículo estrago temporal poder recibir haber ampliación",
+        "persons": [
+            "Rivero",
+            "Tomás_Pérez",
+            "Rivero",
+            "Tasarte"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:8.5",
+            "50",
+            "100",
+            "2",
+            "$_ECU:6"
+        ]
+    }
+}

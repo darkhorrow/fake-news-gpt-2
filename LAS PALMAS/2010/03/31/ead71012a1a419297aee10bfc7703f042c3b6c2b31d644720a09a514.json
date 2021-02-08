@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/666652/0/",
+    "title": {
+        "raw_text": "Hallado un nuevo cetáceo varado en Fuerteventura, el tercero en los últimos días",
+        "lemmatized_text": "hallar uno nuevo cetáceo varar en fuerteventura el 3 en el último día",
+        "lemmatized_text_reduced": "hallar nuevo cetáceo varar fuerteventura 3 último día",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se trata de un delfín adulto de 2 metros al que le falta la cola",
+        "lemmatized_text": "se tratar de uno delfín adulto de LN_m:2 a el que le faltar el cola",
+        "lemmatized_text_reduced": "tratar delfín adulto faltar cola",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:2"
+        ]
+    },
+    "body": {
+        "raw_text": "Personal de Medio Ambiente del Cabildo de Fuerteventura procedió esta tarde al traslado del cadáver de un delfín localizado durante las últimas horas en la costa de Puerto Lajas, en Puerto del Rosario, en un avanzado estado de descomposición. Se da la circunstancia de que es el tercer cetáceo que aparece muerto durante los últimos días en las costas de la isla, aunque en todos los casos presentando un importante estado de descomposición, lo que apunta a que todos fueron arrojados por el mar a la orilla después de haber muerto hace varios días, informó la corporación insular en un comunicado. El ejemplar localizado hoy está todavía por identificar correctamente, pero una primera inspección ocular determinó que se trata de un delfín adulto de en torno a dos metros de longitud, al que le faltaba la cola. Este martes también fue encontrado el cadáver de otro delfín en la costa de Barlovento y el pasado lunes también se recuperaron los restos de un calderón tropical ('Globicephala macrorhynchus'), juvenil o adulto, en Ajuy. \"Aunque puntualmente aparecen restos de cetáceos, no es muy normal que aparezcan tres y en un periodo de tiempo tan corto. Desconocemos las causas, pero se han tomado muestras de los animales para ser sometidas a estudio y ver si se puede extraer alguna conclusión\", apuntó la consejera de Medio Ambiente del Cabildo de Fuerteventura, Natalia Évora. Agregó que \"no será fácil, porque en todos los casos el grado de descomposición ya era avanzando y probablemente hayan muerto hace dos o tres semanas\".",
+        "lemmatized_text": "personal_de_medio_ambiente_del_cabildo_de_fuerteventura proceder este tarde a el traslado de el cadáver de uno delfín localizar durante el último hora en el costa de puerto_lajas en puerto_del_rosario en uno avanzar estado de descomposición se dar el circunstancia de que ser el 3 cetáceo que aparecer morir durante el último día en el costa de el isla aunque en todo el caso presentar uno importante estado de descomposición el que apuntar a que todo ser arrojar por el mar a el orilla después_de haber morir hacer varios día informar el corporación insular en uno comunicado el ejemplar localizar hoy estar todavía por identificar correctamente pero uno 1 inspección ocular determinar que se tratar de uno delfín adulto de en_torno_a LN_m:2 de longitud a el que le faltar el cola este [M:??/??/??:??.??:??] también ser encontrar el cadáver de otro delfín en el costa de barlovento y el [L:??/??/??:??.??:??] también se recuperar el resto de uno calderón tropical globicephala macrorhynchus juvenil o adulto en ajuy aunque puntualmente aparecer resto de cetáceo no ser muy normal que aparecer 3 y en uno periodo de tiempo tan corto desconocer el causa pero se haber tomar muestra de el animal para ser someter a estudio y ver si se poder extraer alguno conclusión apuntar el consejero de medio_ambiente_del_cabildo_de_fuerteventura natalia_évora agregar que no ser fácil porque en todo el caso el grado de descomposición ya ser avanzar y probablemente haber morir hacer 2 o 3 semana",
+        "lemmatized_text_reduced": "personal_de_medio_ambiente_del_cabildo_de_fuerteventura proceder tarde traslado cadáver delfín localizar último hora costa puerto_lajas puerto_del_rosario avanzar estado descomposición dar circunstancia ser 3 cetáceo aparecer morir último día costa isla caso presentar importante estado descomposición apuntar ser arrojar mar orilla haber morir hacer día informar corporación insular comunicado ejemplar localizar estar identificar correctamente 1 inspección ocular determinar tratar delfín adulto longitud faltar cola ser encontrar cadáver delfín costa barlovento recuperar resto calderón tropical globicephala macrorhynchus juvenil adulto ajuy puntualmente aparecer resto cetáceo ser normal aparecer periodo tiempo corto desconocer causa haber tomar muestra animal ser someter estudio ver poder extraer conclusión apuntar consejero medio_ambiente_del_cabildo_de_fuerteventura natalia_évora agregar ser fácil caso grado descomposición ser avanzar probablemente haber morir hacer semana",
+        "persons": [
+            "Personal_de_Medio_Ambiente_del_Cabildo_de_Fuerteventura",
+            "Globicephala",
+            "Natalia_Évora"
+        ],
+        "locations": [
+            "Puerto_Lajas",
+            "Puerto_del_Rosario",
+            "Barlovento",
+            "Ajuy"
+        ],
+        "organizations": [],
+        "others": [
+            "Medio_Ambiente_del_Cabildo_de_Fuerteventura"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_m:2",
+            "3",
+            "2",
+            "3"
+        ]
+    }
+}

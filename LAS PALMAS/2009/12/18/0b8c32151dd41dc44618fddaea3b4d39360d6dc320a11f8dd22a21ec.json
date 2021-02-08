@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/591752/0/",
+    "title": {
+        "raw_text": "Un ciudadano extranjero fallece ahogado en Tías (Lanzarote)",
+        "lemmatized_text": "uno ciudadano extranjero fallecer ahogar en tías lanzarote",
+        "lemmatized_text_reduced": "ciudadano extranjero fallecer ahogar tías lanzarote",
+        "persons": [],
+        "locations": [
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un anciano de nacionalidad extranjera ha fallecido hoy ahogado en la playa de Los Pocillos en el municipio de Tías (Lanzarote), según informaron a Europa Press fuentes policiales.",
+        "lemmatized_text": "uno anciano de nacionalidad extranjero haber fallecer hoy ahogar en el playa de los_pocillos en el municipio de tías lanzarote según informar a europa_press fuente policial",
+        "lemmatized_text_reduced": "anciano nacionalidad extranjero haber fallecer ahogar playa los_pocillos municipio tías lanzarote informar europa_press fuente policial",
+        "persons": [],
+        "locations": [
+            "Los_Pocillos",
+            "Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron en horas del mediodía, aproximadamente a las 14.30 horas, cuando el afectado entró en el agua para nadar, pero se ahogó. Un bañista que se encontraba en el lugar alertó a la Policía Local y al Centro Coordinador de Emergencias y Seguridad (Cecoes) 112 y se activó el dispositivo de emergencias para ir en su auxilio. El bañista fue rescatado a 200 metros de la orilla por una embarcación, según precisaron las mismas fuentes, que indicaron que se trataba de un ciudadano extranjero mayor de edad y \"posiblemente danés\". El personal sanitario atendió al afectado una vez en tierra y practicó maniobras de reanimación sin éxito, por lo que confirmaron su fallecimiento. En dicha actuación intervino la Guardia Civil, que se ha hecho cargo de instruir las correspondientes diligencias.",
+        "lemmatized_text": "el hecho ocurrir en hora de el [??:??/??/??:12.00:pm] aproximadamente a el TM_h:14.3 cuando el afectar entrar en el agua para nadar pero se ahogar uno bañista que se encontrar en el lugar alertar a el policía_local y a el centro_coordinador_de_emergencias y seguridad cecoes 112 y se activar el dispositivo de emergencia para ir en su auxilio el bañista ser rescatar a LN_m:200 de el orilla por uno embarcación según precisar el mismo fuente que indicar que se tratar de uno ciudadano extranjero mayor de edad y posiblemente danés el personal sanitario atender a el afectar uno vez en tierra y practicar maniobra de reanimación sin éxito por el que confirmar su fallecimiento en decir actuación intervenir el guardia_civil que se haber hacer_cargo de instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "hecho ocurrir hora aproximadamente afectar entrar agua nadar ahogar bañista encontrar lugar alertar policía_local centro_coordinador_de_emergencias seguridad cecoes activar dispositivo emergencia ir auxilio bañista ser rescatar orilla embarcación precisar mismo fuente indicar tratar ciudadano extranjero mayor edad posiblemente danés personal sanitario atender afectar vez tierra practicar maniobra reanimación éxito confirmar fallecimiento decir actuación intervenir guardia_civil haber hacer_cargo instruir correspondiente diligencia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "TM_h:14.3",
+            "112",
+            "LN_m:200"
+        ]
+    }
+}

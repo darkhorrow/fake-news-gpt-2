@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597116/0/",
+    "title": {
+        "raw_text": "COAG Canarias denuncia que el 2009 ha devuelto a agricultores y ganaderos a los niveles de renta de hace 20 años",
+        "lemmatized_text": "coag_canarias denunciar que el 2009 haber devolver a agricultor y ganadero a el nivel de renta de hacer 20 año",
+        "lemmatized_text_reduced": "coag_canarias denunciar haber devolver agricultor ganadero nivel renta hacer año",
+        "persons": [
+            "COAG_Canarias"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "20"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Coordinadora de Agricultores y Ganaderos de Canarias (COAG) ha denunciado hoy que el año 2009 ha devuelto a los agricultores y ganaderos a los niveles de renta de hace 20 años, ya que la renta agraria real se situó en 11.427 millones de euros, un 5,3 por ciento menos que en 2008, según informó el colectivo en nota de prensa.",
+        "lemmatized_text": "el coordinadora_de_agricultores y ganaderos_de_canarias coag haber denunciar hoy que el [??:??/??/2009:??.??:??] haber devolver a el agricultor y ganadero a el nivel de renta de hacer 20 año ya_que el renta agrario real se situar en $_ECU:11427000 uno 5,3 por 100 menos que en 2008 según informar el colectivo en nota de prensa",
+        "lemmatized_text_reduced": "coordinadora_de_agricultores ganaderos_de_canarias coag haber denunciar haber devolver agricultor ganadero nivel renta hacer año renta agrario real situar informar colectivo nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Coordinadora_de_Agricultores",
+            "Ganaderos_de_Canarias",
+            "COAG"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/2009:??.??:??]"
+        ],
+        "numbers": [
+            "20",
+            "$_ECU:11427000",
+            "5,3",
+            "100",
+            "2008"
+        ]
+    },
+    "body": {
+        "raw_text": "Para estos trabajadores, la crisis económica \"ha bloqueado el acceso a la financiación para inversiones y el día a día de la actividad, y que ha llevado a un número importante de agricultores y ganaderos ha obtener una rentabilidad negativa, con costes por encima de los ingresos, y enormes dificultades para continuar con su explotación\". Asimismo, criticaron \"la contrastada falta de transparencia en el comercio alimentario, que en el caso de Canarias hace que los diferenciales entre consumidores y agricultores se multipliquen por cuatro o cinco, e, incluso por mucho más\". De esta manera, COAG Canarias aseguró que la situación del campo ha empeorado, entre otros aspectos, por la modificación del POSEI, que constituye el principal marco de apoyo a los productores del archipiélago. \"La reforma planteada para 2009 y 2010 puede tener efectos muy positivos para el sector en las islas, dado que recoge nuevas líneas y partidas para sectores como el tomate, la viña o la ganadería. Una cuestión preocupante y que COAG-Canarias ha venido denunciando es que, a diferencia del gobierno central, el de Canarias no ha recogido en sus presupuestos la partida adicional de 23 millones de euros para el programa POSEI\", explicó el colectivo. En este sentido, consideró que \"si esa partida finalmente no se dota, podría poner en peligro, incluso, el propio desarrollo de un programa que es vital para los productores\". Por sectores, COAG Canarias recordó que a principios de año se evaluó que el endeudamiento del sector del tomate ascendía a 160 millones de euros. \"Si bien el inicio de esta zafra y el apoyo que se recibió a través del POSEI puede contribuir a bajar estar cantidad, no es menos cierto que el proceso de liberalización para la importación de producciones para el tomate marroquí, cuya ampliación se acaba de acordar, puede hacer que el sector continúe con su perdida continuada de superficie y productores\", dijo. Con respecto al plátano, el colectivo resaltó la lucha por evitar la reducción de los aranceles. \"El acuerdo cerrado por la UE con los países productores del área dólar puede dejar el sector canario muy tocado y en posición de clara debilidad. Pero, para hacer frente a esta situación, es más necesario que nunca que desde el sector se apueste por el desarrollo de actuaciones conjuntas, especialmente en la comercialización, y se avance en la planificación de los cultivos\", propuso.",
+        "lemmatized_text": "para este trabajador el crisis económico haber bloquear el acceso a el financiación para inversión y el día a día de el actividad y que haber llevar a uno número importante de agricultor y ganadero haber obtener uno rentabilidad negativo con coste por encima_de el ingreso y enorme dificultad para continuar con su explotación asimismo criticar el contrastar falta de transparencia en el comercio alimentario que en el caso de canarias hacer que el diferencial entre consumidor y agricultor se multiplicar por 4 o 5 y incluso por mucho más de este manera coag_canarias asegurar que el situación de el campo haber empeorar entre otro aspecto por el modificación de el posei que constituir el principal marco de apoyo a el productor de el archipiélago el reforma plantear para 2009 y 2010 poder tener efecto muy positivo para el sector en el isla dado_que recoger nuevo línea y partida para sector como el tomate el viña o el ganadería uno cuestión preocupante y que coag-canarias haber venir denunciar ser que a diferencia de el gobierno central el de canarias no haber recoger en su presupuesto el partida adicional de $_ECU:23000000 para el programa posei explicar el colectivo en este sentido considerar que si ese partida finalmente no se dotar poder poner en peligro incluso el propio desarrollo de uno programa que ser vital para el productor por sector coag_canarias recordar que a_principios_de año se evaluar que el endeudamiento de el sector de el tomate ascender a $_ECU:160000000 si bien el inicio de este zafra y el apoyo que se recibir a través de el posei poder contribuir a bajar estar cantidad no ser menos cierto que el proceso de liberalización para el importación de producción para el tomate marroquí cuyo ampliación se acabar de acordar poder hacer que el sector continuar con su perder continuar de superficie y productor decir con respecto a el plátano el colectivo resaltar el lucha por evitar el reducción de el arancel el acuerdo cerrar por el ue con el país productor de el área dólar poder dejar el sector canario muy tocar y en posición de claro debilidad pero para hacer_frente a este situación ser más necesario que nunca que desde el sector se apostar por el desarrollo de actuación conjunto especialmente en el comercialización y se avanzar en el planificación de el cultivo proponer",
+        "lemmatized_text_reduced": "trabajador crisis económico haber bloquear acceso financiación inversión día día actividad haber llevar número importante agricultor ganadero haber obtener rentabilidad negativo coste ingreso enorme dificultad continuar explotación criticar contrastar falta transparencia comercio alimentario caso canarias hacer diferencial consumidor agricultor multiplicar manera coag_canarias asegurar situación campo haber empeorar aspecto modificación posei constituir principal marco apoyo productor archipiélago reforma plantear poder tener efecto positivo sector isla recoger nuevo línea partida sector tomate viña ganadería cuestión preocupante coag-canarias haber venir denunciar ser diferencia gobierno central canarias haber recoger presupuesto partida adicional programa posei explicar colectivo sentido considerar partida finalmente dotar poder poner peligro propio desarrollo programa ser vital productor sector coag_canarias recordar año evaluar endeudamiento sector tomate ascender inicio zafra apoyo recibir través posei poder contribuir bajar estar cantidad ser cierto proceso liberalización importación producción tomate marroquí ampliación acabar acordar poder hacer sector continuar perder continuar superficie productor decir respecto plátano colectivo resaltar lucha evitar reducción arancel acuerdo cerrar ue país productor área dólar poder dejar sector canario tocar posición claro debilidad hacer_frente situación ser necesario sector apostar desarrollo actuación conjunto especialmente comercialización avanzar planificación cultivo proponer",
+        "persons": [
+            "COAG_Canarias",
+            "COAG_Canarias"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "POSEI",
+            "COAG-Canarias",
+            "POSEI",
+            "UE"
+        ],
+        "others": [
+            "POSEI"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "5",
+            "2009",
+            "2010",
+            "$_ECU:23000000",
+            "$_ECU:160000000"
+        ]
+    }
+}

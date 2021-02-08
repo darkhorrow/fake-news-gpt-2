@@ -1,0 +1,119 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/676847/0/",
+    "title": {
+        "raw_text": "Continúa la alerta en Canarias por fuertes vientos con rachas de hasta 122 kilómetros por hora en La Palma",
+        "lemmatized_text": "continuar el alerta en canarias por fuerte viento con racha de hasta SP_km/h:122 en la_palma",
+        "lemmatized_text_reduced": "continuar alerta canarias fuerte viento racha la_palma",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:122"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha activado la alerta naranja por rachas máximas de viento de hasta 122 kilómetros por hora en el este de La Palma y de 90 kilómetros por hora en los municipios de La Orotava y Vilaflor (Tenerife), así como avisa también por fuertes vientos en La Gomera, El Hierro y en las cumbres de Gran Canaria.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber activar el alerta naranja por racha máximo de viento de hasta SP_km/h:122 en el este de la_palma y de SP_km/h:90 en el municipio de la_orotava y vilaflor tenerife así_como avisar también por fuerte viento en la_gomera el_hierro y en el cumbre de gran_canaria",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber activar alerta naranja racha máximo viento este la_palma municipio la_orotava vilaflor tenerife avisar fuerte viento la_gomera el_hierro cumbre gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Gomera",
+            "El_Hierro",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "SP_km/h:122",
+            "SP_km/h:90"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, en La Palma el fenómeno meteorológico adverso en el este de la isla afectará principalmente a la franja central, incluyendo medianías y costas, desde las ocho de la mañana hasta las 13.00 horas de hoy. Además, se mantiene la alerta amarilla por fuertes vientos con rachas de hasta 75 kilómetros por hora en las cumbres hasta la medianoche del viernes, y de 85 kilómetros por hora en el este hasta el jueves, según la información de la Aemet recogida por Europa Press. Por su parte, persistirán fuertes vientos de hasta 90 kilómetros por hora en los municipios tinerfeños de La Orotava y Vilaflor hasta las 21.00 horas del jueves, al registrarse vientos de componente oeste en cumbres centrales. En medianías el nivel de alerta es amarillo en esta isla, con rachas que pueden alcanzar los 80 kilómetros por hora. Igualmente, en La Gomera y El Hierro se mantiene la alerta amarilla por rachas de viento de hasta 75 kilómetros por hora hasta las 13.00 horas de este miércoles. Lanzarote y fuerteventura se salvan del temporal En la provincia oriental, en Gran Canaria se registrarán rachas de hasta 75 kilómetros por hora en las medianías —hasta este mediodía— y en las cumbres —hasta la medianoche del viernes—. De este modo, las islas de Lanzarote y Fuerteventura se salvarán del temporal. De esta forma, la alerta naranja por vientos continuará mañana sólo en las localidades de La Orotava y Vilaflor, mientras que el riesgo amarillo seguirá en las cumbres y este de La Palma y en las áreas del este, sur y oeste de Gran Canaria. Por otro lado, en Canarias se registrarán cielos nubosos o con intervalos nubosos, con lluvias débiles o localmente moderadas. El viento soplará en las islas del suroeste moderado a fuerte, con intervalos de muy fuerte en medianías y zonas altas. Además, un total de siete provincias (Cáceres, Badajoz, Huelva, Sevilla, Córdoba, Ciudad Real y Toledo) estarán hoy en alerta amarilla por tormentas y lluvias fueres, de la que se librará el norte peninsular y la costa gallega, aunque la costa coruñesa está en riesgo por olas. Mientras, todas las islas de la provincia de Santa Cruz de Tenerife estarán en alerta por viento, según la predicción de la Aemet. Concretamente, en Extremadura, oeste de Castilla-La mancha y oeste de Andalucía, habrá precipitaciones débiles a moderadas, que podrían ser localmente fuertes y con tormenta. En forma débil a moderada, se darán también en el resto de Andalucía, Ceuta y zona centro, y, de forma mas débil y menos probable cuanto más hacia el norte y este. También son posibles las precipitaciones son posibles en el resto de la Península y en Melilla, excepto en el litoral del cantábrico donde no se esperan. La cota de nieve se situará por encima de 1.500-1.800 metros. En Baleares, habrá intervalos nubosos con posibilidad de alguna precipitación débil ocasional en Ibiza. Las temperaturas diurnas en la Península irán en ascenso ligero en el área cantábrica y tercio este peninsular y se mantendrán sin cambios en el resto. Las nocturnas irán en ascenso ligero a moderado en la mitad norte y centro. En Baleares, las diurnas irán en ascenso ligero a moderado y las nocturnas, en descenso ligero. En canarias, se mantendrán sin cambios. Finalmente, habrá predominio de vientos flojos o moderados de componente este en la Península y Baleares, con intervalos de fuerte en los litorales de Galicia y Andalucía.",
+        "lemmatized_text": "en concreto en la_palma el fenómeno meteorológico adverso en el este de el isla afectar principalmente a el franja central incluir medianía y costa desde el [??:??/??/??:8.00:am] hasta el TM_h:13 de hoy además se mantener el alerta amarillo por fuerte viento con racha de hasta SP_km/h:75 en el cumbre hasta el [V:??/??/??:00.00:am] y de SP_km/h:85 en el este hasta el [J:??/??/??:??.??:??] según el información de el aemet recoger por europa_press por su parte persistir fuerte viento de hasta SP_km/h:90 en el municipio tinerfeño de la_orotava y vilaflor hasta el [J:??/??/??:9.00:pm] a el registrar se viento de componente oeste en cumbre central en medianía el nivel de alerta ser amarillo en este isla con racha que poder alcanzar el SP_km/h:80 igualmente en la_gomera y el_hierro se mantener el alerta amarillo por racha de viento de hasta SP_km/h:75 hasta el TM_h:13 de este [X:??/??/??:??.??:??] lanzarote y fuerteventura se salvar de el temporal en el provincia oriental en gran_canaria se registrar racha de hasta SP_km/h:75 en el medianía hasta este [??:??/??/??:12.00:pm] y en el cumbre hasta el [V:??/??/??:00.00:am] de este modo el isla de lanzarote y fuerteventura se salvar de el temporal de este forma el alerta naranja por viento continuar mañana sólo en el localidad de la_orotava y vilaflor mientras_que el riesgo amarillo seguir en el cumbre y este de la_palma y en el área de el este sur y oeste de gran_canaria por_otro_lado en canarias se registrar cielo nuboso o con intervalo nuboso con lluvia débil o localmente moderar el viento soplar en el isla de el suroeste moderar a fuerte con intervalo de muy fuerte en medianía y zona alto además uno total de 7 provincia cáceres badajoz huelva sevilla córdoba ciudad_real y toledo estar hoy en alerta amarillo por tormenta y lluvia ser de el que se librar el norte peninsular y el costa gallego aunque el costa coruñés estar en riesgo por ola mientras todo el isla de el provincia de santa_cruz_de_tenerife estar en alerta por viento según el predicción de el aemet concretamente en extremadura oeste de castilla-la mancha y oeste de andalucía haber precipitación débil a moderado que poder ser localmente fuerte y con tormenta en forma débil a moderado se dar también en el resto de andalucía ceuta y zona centro y de forma mas débil y menos probable cuanto más hacia el norte y este también ser posible el precipitación ser posible en el resto de el península y en melilla excepto en el litoral de el cantábrico donde no se esperar el cota de nieve se situar por encima_de LN_m:1.500-1.800 en baleares haber intervalo nuboso con posibilidad de alguno precipitación débil ocasional en ibiza el temperatura diurno en el península ir en ascenso ligero en el área cantábrico y tercio este peninsular y se mantener sin cambio en el resto el nocturno ir en ascenso ligero a moderar en el mitad norte y centro en baleares el diurno ir en ascenso ligero a moderar y el nocturno en descenso ligero en canario se mantener sin cambio finalmente haber predominio de viento flojo o moderar de componente este en el península y baleares con intervalo de fuerte en el litoral de galicia y andalucía",
+        "lemmatized_text_reduced": "concreto la_palma fenómeno meteorológico adverso este isla afectar principalmente franja central incluir medianía costa mantener alerta amarillo fuerte viento racha cumbre este información aemet recoger europa_press parte persistir fuerte viento municipio tinerfeño la_orotava vilaflor registrar viento componente oeste cumbre central medianía nivel alerta ser amarillo isla racha poder alcanzar igualmente la_gomera el_hierro mantener alerta amarillo racha viento lanzarote fuerteventura salvar temporal en provincia oriental gran_canaria registrar racha medianía cumbre modo isla lanzarote fuerteventura salvar temporal forma alerta naranja viento continuar localidad la_orotava vilaflor riesgo amarillo seguir cumbre la_palma área sur oeste gran_canaria canarias registrar cielo nuboso intervalo nuboso lluvia débil localmente moderar viento soplar isla suroeste moderar fuerte intervalo fuerte medianía zona alto total provincia cáceres badajoz huelva sevilla córdoba ciudad_real toledo estar alerta amarillo tormenta lluvia ser librar norte peninsular costa gallego costa coruñés estar riesgo ola isla provincia santa_cruz_de_tenerife estar alerta viento predicción aemet concretamente extremadura oeste castilla-la mancha oeste andalucía haber precipitación débil moderado poder ser localmente fuerte tormenta forma débil moderado dar resto andalucía ceuta zona centro forma débil probable norte ser posible precipitación ser posible resto península melilla litoral cantábrico esperar cota nieve situar baleares haber intervalo nuboso posibilidad precipitación débil ocasional ibiza temperatura diurno península ir ascenso ligero área cantábrico tercio peninsular mantener cambio resto nocturno ir ascenso ligero moderar mitad norte centro baleares diurno ir ascenso ligero moderar nocturno descenso ligero canario mantener cambio finalmente haber predominio viento flojo moderar componente península baleares intervalo fuerte litoral galicia andalucía",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Gomera",
+            "El_Hierro",
+            "Lanzarote",
+            "En",
+            "Gran_Canaria",
+            "Lanzarote",
+            "La_Orotava",
+            "Vilaflor",
+            "La_Palma",
+            "Gran_Canaria",
+            "Canarias",
+            "Cáceres",
+            "Huelva",
+            "Sevilla",
+            "Córdoba",
+            "Ciudad_Real",
+            "Toledo",
+            "Santa_Cruz_de_Tenerife",
+            "Extremadura",
+            "Castilla-La",
+            "Andalucía",
+            "Andalucía",
+            "Ceuta",
+            "Península",
+            "Melilla",
+            "Baleares",
+            "Ibiza",
+            "Península",
+            "Baleares",
+            "Península",
+            "Baleares",
+            "Galicia",
+            "Andalucía"
+        ],
+        "organizations": [
+            "Aemet",
+            "Europa_Press",
+            "Fuerteventura",
+            "Badajoz",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:8.00:am]",
+            "[V:??/??/??:00.00:am]",
+            "[J:??/??/??:??.??:??]",
+            "[J:??/??/??:9.00:pm]",
+            "[X:??/??/??:??.??:??]",
+            "[??:??/??/??:12.00:pm]",
+            "[V:??/??/??:00.00:am]"
+        ],
+        "numbers": [
+            "TM_h:13",
+            "SP_km/h:75",
+            "SP_km/h:85",
+            "SP_km/h:90",
+            "SP_km/h:80",
+            "SP_km/h:75",
+            "TM_h:13",
+            "SP_km/h:75",
+            "7",
+            "LN_m:1.500-1.800"
+        ]
+    }
+}

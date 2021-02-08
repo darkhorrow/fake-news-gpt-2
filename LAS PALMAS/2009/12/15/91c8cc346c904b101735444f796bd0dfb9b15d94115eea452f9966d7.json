@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/588585/0/",
+    "title": {
+        "raw_text": "El Gobierno canario invierte 137.516 euros para gestionar recursos naturales en El Hierro",
+        "lemmatized_text": "el gobierno canario invertir $_ECU:137.516 para gestionar recurso natural en el_hierro",
+        "lemmatized_text_reduced": "gobierno canario invertir gestionar recurso natural el_hierro",
+        "persons": [],
+        "locations": [
+            "El_Hierro"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:137.516"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno de Canarias ha autorizado hoy, en su reunión en la capital grancanaria, la suscripción de una Adenda de 137.516 euros, correspondiente a la anualidad 2009 relativa a proyectos de gestión de recursos naturales y actuaciones forestales, al convenio marco de colaboración entre la Consejería regional de Medio Ambiente y Ordenación Territorial y el Cabildo de El Hierro para actuaciones de gestión de recursos naturales y del Plan Forestal de Canarias durante el periodo 2007-2013.",
+        "lemmatized_text": "el consejo_de_gobierno_de_canarias haber autorizar hoy en su reunión en el capital grancanaria el suscripción de uno adenda de $_ECU:137.516 correspondiente a el anualidad 2009 relativo a proyecto de gestión de recurso natural y actuación forestal a el convenio marco de colaboración entre el consejería regional de medio_ambiente y ordenación_territorial y el cabildo_de_el_hierro para actuación de gestión de recurso natural y de el plan_forestal_de_canarias durante el periodo 2007-2013",
+        "lemmatized_text_reduced": "consejo_de_gobierno_de_canarias haber autorizar reunión capital grancanaria suscripción adenda correspondiente anualidad relativo proyecto gestión recurso natural actuación forestal convenio marco colaboración consejería regional medio_ambiente ordenación_territorial cabildo_de_el_hierro actuación gestión recurso natural plan_forestal_de_canarias periodo",
+        "persons": [],
+        "locations": [
+            "Cabildo_de_El_Hierro"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno_de_Canarias",
+            "Adenda",
+            "Consejería",
+            "Medio_Ambiente",
+            "Ordenación_Territorial"
+        ],
+        "others": [
+            "Plan_Forestal_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:137.516",
+            "2009",
+            "2007-2013"
+        ]
+    },
+    "body": {
+        "raw_text": "La Adenda mencionada, en virtud de la cual se prorroga el plazo de justificación de programas del presente año hasta el 28 de diciembre de 2009, incluye actuaciones de proyectos cofinanciados por la Unión Europea, concretamente por el Fondo de Desarrollo Rural (Feader), relativos a prevención de incendios forestales, capítulo al que se destina 87.526,85 euros, y Red Natura 2000, para la que se dedica 16.039,09 euros. Sin financiación europea se establece, además, una partida de 33.950,26 euros para acciones de aprovechamiento de la biomasa forestal. La financiación contempla, de cara a lograr una mejora del medio ambiente y medio rural, actividades de restauración del potencial silvícola e introducción de acciones de prevención en materia de incendios forestales, así como ayudas a inversiones no productivas. De manera concreta, el importe se asignará a la adquisición de vehículos de vigilancia y primer ataque en materia forestal, tratamientos silvícolas de mejora en el Llano La Fuente de El Pinar y adquisición de biotrituradora de residuos forestales.",
+        "lemmatized_text": "el adenda mencionar en_virtud_de el cual se prorrogar el plazo de justificación de programa de el presente año hasta el [??:28/12/2009:??.??:??] incluir actuación de proyecto cofinanciar por el unión_europea concretamente por el fondo_de_desarrollo_rural feader relativo a prevención de incendio forestal capítulo a el que se destinar $_ECU:87.526,85 y red_natura 2000 para el que se dedicar $_ECU:16.039,09 sin financiación europeo se establecer además uno partida de $_ECU:33.950,26 para acción de aprovechamiento de el biomasa forestal el financiación contemplar de_cara_a lograr uno mejora de el medio ambiente y medio rural actividad de restauración de el potencial silvícola y introducción de acción de prevención en_materia_de incendio forestal así_como ayuda a inversión no productivo de manera concreto el importe se asignar a el adquisición de vehículo de vigilancia y 1 ataque en materia forestal tratamiento silvícola de mejora en el llano_la_fuente_de_el_pinar y adquisición de biotrituradora de residuo forestal",
+        "lemmatized_text_reduced": "adenda mencionar prorrogar plazo justificación programa presente año incluir actuación proyecto cofinanciar unión_europea concretamente fondo_de_desarrollo_rural feader relativo prevención incendio forestal capítulo destinar red_natura dedicar financiación europeo establecer partida acción aprovechamiento biomasa forestal financiación contemplar lograr mejora medio ambiente medio rural actividad restauración potencial silvícola introducción acción prevención incendio forestal ayuda inversión productivo manera concreto importe asignar adquisición vehículo vigilancia 1 ataque materia forestal tratamiento silvícola mejora llano_la_fuente_de_el_pinar adquisición biotrituradora residuo forestal",
+        "persons": [],
+        "locations": [
+            "Feader",
+            "Llano_La_Fuente_de_El_Pinar"
+        ],
+        "organizations": [
+            "Adenda",
+            "Unión_Europea",
+            "Fondo_de_Desarrollo_Rural"
+        ],
+        "others": [
+            "Red_Natura"
+        ],
+        "dates": [
+            "[??:28/12/2009:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:87.526,85",
+            "2000",
+            "$_ECU:16.039,09",
+            "$_ECU:33.950,26"
+        ]
+    }
+}

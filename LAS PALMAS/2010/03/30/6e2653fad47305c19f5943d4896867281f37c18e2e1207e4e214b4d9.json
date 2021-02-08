@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664925/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria destina 62.000 euros para equipar el gimnasio de San Mateo",
+        "lemmatized_text": "el cabildo_de_gran_canaria destinar $_ECU:62 para equipar el gimnasio de san_mateo",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria destinar equipar gimnasio san_mateo",
+        "persons": [],
+        "locations": [
+            "San_Mateo"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:62"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria ha destinado 62.000 euros para el nuevo equipamiento del gimnasio de San Mateo que fue inaugurado por el consejero de Deportes del gobierno insular, Óscar Hernández.",
+        "lemmatized_text": "el cabildo_de_gran_canaria haber destinar $_ECU:62 para el nuevo equipamiento de el gimnasio de san_mateo que ser inaugurar por el consejero de deportes de el gobierno insular óscar_hernández",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria haber destinar nuevo equipamiento gimnasio san_mateo ser inaugurar consejero deportes gobierno insular óscar_hernández",
+        "persons": [
+            "Óscar_Hernández"
+        ],
+        "locations": [
+            "San_Mateo"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "Deportes"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:62"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta forma, según informó el Cabildo de Gran Canaria en nota de prensa, se quieren complementar las instalaciones de dicho gimnasio. En cuanto al material adquirido han sido cuatro cintas de correr, cuatro elípticas, tres bicicletas horizontales y ocho verticales, así como una jaula de estiramientos. La media de usuarios mensuales a dicho gimnasio está fijada en unos 500 y con la inversión realizada se pretende mejorar \"considerablemente el servicio que presta actualmente\" el centro de deportes municipal a sus usuarios.",
+        "lemmatized_text": "de este forma según informar el cabildo_de_gran_canaria en nota de prensa se querer complementar el instalación de decir gimnasio en cuanto a el material adquirir haber ser 4 cinta de correr 4 elíptico 3 bicicleta horizontal y 8 vertical así_como uno jaula de estiramiento el media de usuario mensual a decir gimnasio estar fijar en uno 500 y con el inversión realizar se pretender mejorar considerablemente el servicio que prestar actualmente el centro de deporte municipal a su usuario",
+        "lemmatized_text_reduced": "forma informar cabildo_de_gran_canaria nota prensa querer complementar instalación decir gimnasio material adquirir haber ser cinta correr elíptico bicicleta horizontal vertical jaula estiramiento media usuario mensual decir gimnasio estar fijar inversión realizar pretender mejorar considerablemente servicio prestar actualmente centro deporte municipal usuario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "4",
+            "3",
+            "8",
+            "500"
+        ]
+    }
+}

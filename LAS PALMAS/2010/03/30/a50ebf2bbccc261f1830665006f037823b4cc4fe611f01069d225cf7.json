@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/665234/0/",
+    "title": {
+        "raw_text": "La Policía Nacional detiene a 3 personas por un presunto delito de tráfico de estupefacientes en Lanzarote",
+        "lemmatized_text": "el policía_nacional detener a 3 persona por uno presunto delito de tráfico de estupefaciente en lanzarote",
+        "lemmatized_text_reduced": "policía_nacional detener persona presunto delito tráfico estupefaciente lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha arrestado en Arrecife (Lanzarote) a tres personas como presuntos autores de un delito de tráfico de estupefacientes.",
+        "lemmatized_text": "el policía_nacional haber arrestar en arrecife lanzarote a 3 persona como presunto autor de uno delito de tráfico de estupefaciente",
+        "lemmatized_text_reduced": "policía_nacional haber arrestar arrecife lanzarote persona presunto autor delito tráfico estupefaciente",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, los detenidos responden a las iniciales de Z.J.F. de 27 años de edad y con diversos antecedentes, A.A.P. de 24, ambos de nacionalidad española, y F.P.L de 44 años de edad y nacionalidad colombiana. Respecto a las investigaciones, según informó la Policía Nacional, comenzaron cuando agentes de Arrecife tuvieron conocimiento de las actividades de dos personas oriundas de la isla que se dedicaban a la introducción y distribución en la misma de \"notorias\" cantidades de cocaína, procedente de Sudamérica. Así, en el marco de la investigación policial desarrollada por el Grupo de Estupefacientes de la Comisaría de Arrecife, se procedió a la interceptación de un envío de cocaína en un vuelo procedente de Sudamérica, vía Madrid, y con destino Lanzarote. Posteriormente, y tras la detención del \"correo\" que transportaba en el interior de su organismo un total de 1.100 gramos de cocaína en cápsulas, se procedió al arresto de los otros miembros de la organización encargados de la distribución en la isla. Una vez tramitadas las diligencias policiales, los detenidos fueron puestos a disposición de la Autoridad Judicial, quien decretó el ingreso en prisión de los dos españoles.",
+        "lemmatized_text": "en concreto el detenido responder a el inicial de z.j.f. de 27 año de edad y con diverso antecedente a.a.p. de 24 ambos de nacionalidad español y f.p._l de 44 año de edad y nacionalidad colombiano respecto_a el investigación según informar el policía_nacional comenzar cuando agente de arrecife tener conocimiento de el actividad de 2 persona oriundo de el isla que se dedicar a el introducción y distribución en el mismo de notorio cantidad de cocaína procedente de sudamérica así en el marco de el investigación policial desarrollar por el grupo_de_estupefacientes_de_la_comisaría_de_arrecife se proceder a el interceptación de uno envío de cocaína en uno vuelo procedente de sudamérica vía madrid y con destino lanzarote posteriormente y tras el detención de el correo que transportar en_el_interior_de su organismo uno total de WG_g:1.1 de cocaína en cápsula se proceder a el arresto de el otro miembro de el organización encargar de el distribución en el isla uno vez tramitar el diligencia policial el detenido ser poner a disposición de el autoridad_judicial quien decretar el ingreso en prisión de el 2 español",
+        "lemmatized_text_reduced": "concreto detenido responder inicial z.j.f. año edad antecedente a.a.p. nacionalidad español f.p._l año edad nacionalidad colombiano investigación informar policía_nacional comenzar agente arrecife tener conocimiento actividad persona oriundo isla dedicar introducción distribución mismo notorio cantidad cocaína procedente sudamérica marco investigación policial desarrollar grupo_de_estupefacientes_de_la_comisaría_de_arrecife proceder interceptación envío cocaína vuelo procedente sudamérica vía madrid destino lanzarote posteriormente detención correo transportar organismo total cocaína cápsula proceder arresto miembro organización encargar distribución isla vez tramitar diligencia policial detenido ser poner disposición autoridad_judicial decretar ingreso prisión español",
+        "persons": [
+            "F.P._L"
+        ],
+        "locations": [
+            "Arrecife",
+            "Sudamérica",
+            "Sudamérica",
+            "Madrid",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Z.J.F.",
+            "A.A.P.",
+            "Policía_Nacional",
+            "Grupo_de_Estupefacientes_de_la_Comisaría_de_Arrecife",
+            "Autoridad_Judicial"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "27",
+            "24",
+            "44",
+            "2",
+            "WG_g:1.1",
+            "2"
+        ]
+    }
+}

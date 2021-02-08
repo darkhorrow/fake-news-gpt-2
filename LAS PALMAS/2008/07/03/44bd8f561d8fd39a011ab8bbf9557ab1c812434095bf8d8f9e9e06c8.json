@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/395579/0/",
+    "title": {
+        "raw_text": "El público podría tomar parte en la elección de la próxima reina del carnaval",
+        "lemmatized_text": "el público poder tomar_parte en el elección de el próximo reina de el carnaval",
+        "lemmatized_text_reduced": "público poder tomar_parte elección próximo reina carnaval",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Así se lo ha propuesto el concejal de Carnaval a los diseñadores de las candidatas. El voto de los ciudadanos se haría vía teléfono móvil CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "así se lo haber proponer el concejal de carnaval a el diseñador de el candidato el voto de el ciudadano se hacer vía teléfono móvil consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "haber proponer concejal carnaval diseñador candidato voto ciudadano hacer teléfono móvil consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria ha propuesto que la Gala de la Reina del Carnaval 2009 cuente con el voto popular como un miembro más del jurado en el recuento final que se realice tras el desfile de las candidatas, según informó en un comunicado el consistorio. Los ciudadanos podrían participar en el popular concurso, que en su próxima edición tendrá como tema Los Piratas, a través de mensajes de móviles , según comentó ayer el concejal de Carnaval, Roque Díaz, a los diseñadores de las candidatas. La composición del jurado fue otro de los asuntos que analizaron ayer los diseñadores y el equipo de dirección de las fiestas en una reunión que fue la primera toma de contacto de trabajo de cara a la organización de los carnavales de 2009. El fallo del jurado fue puesto en duda por público y diseñadores en los pasados carnavales Los diseñadores, por su parte, solicitaron al concejal que se unifiquen en las bases el tamaño de los diseños de las candidatas a Reina del Carnaval y Gran Dama y que las medidas de los trajes de estas últimas pasen a ser las mismas que las de la Gala de la Reina: 4,50 metros de altura, 3,50 metros de ancho y 4,50 metros de largo. La elección de la actual reina del carnaval de la capital grancanaria estuvo rodeada de polémica al entender, tanto parte del público como algunos diseñadores, que el fallo del jurado estaba amañado. La reunión entre concejal y diseñadores se repetirá dentro de 3 semanas para consensuar las propuestas.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria haber proponer que el gala_de_la_reina_del_carnaval 2009 contar con el voto popular como uno miembro más de el jurado en el recuento final que se realizar tras el desfile de el candidato según informar en uno comunicado el consistorio el ciudadano poder participar en el popular concurso que en su próximo edición tener como tema los_piratas a_través_de mensaje de móvil según comentar ayer el concejal de carnaval roque_díaz a el diseñador de el candidato el composición de el jurado ser otro de el asunto que analizar ayer el diseñador y el equipo de dirección de el fiesta en uno reunión que ser el 1 toma de contacto de trabajo de_cara_a el organización de el carnaval de 2009 el fallo de el jurado ser poner en duda por público y diseñador en el pasar carnaval los diseñador por su parte solicitar a el concejal que se unificar en el base el tamaño de el diseño de el candidato a reina_del_carnaval y gran_dama y que el medida de el traje de este último pasar a ser el mismo que el de el gala_de_la_reina LN_m:4,50 de altura LN_m:3,50 de ancho y LN_m:4,50 de largo el elección de el actual reina de el carnaval de el capital grancanaria estar rodear de polémica a el entender tanto parte de el público como alguno diseñador que el fallo de el jurado estar amañar el reunión entre concejal y diseñador se repetir dentro_de 3 semana para consensuar el propuesta",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria haber proponer gala_de_la_reina_del_carnaval contar voto popular miembro jurado recuento final realizar desfile candidato informar comunicado consistorio ciudadano poder participar popular concurso próximo edición tener tema los_piratas mensaje móvil comentar concejal carnaval roque_díaz diseñador candidato composición jurado ser asunto analizar diseñador equipo dirección fiesta reunión ser 1 toma contacto trabajo organización carnaval fallo jurado ser poner duda público diseñador pasar carnaval los diseñador parte solicitar concejal unificar base tamaño diseño candidato reina_del_carnaval gran_dama medida traje último pasar ser mismo gala_de_la_reina altura ancho largo elección actual reina carnaval capital grancanaria estar rodear polémica entender parte público diseñador fallo jurado estar amañar reunión concejal diseñador repetir semana consensuar propuesta",
+        "persons": [
+            "Roque_Díaz",
+            "Reina_del_Carnaval"
+        ],
+        "locations": [
+            "Gala_de_la_Reina"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Gala_de_la_Reina_del_Carnaval",
+            "Gran_Dama"
+        ],
+        "others": [
+            "Los_Piratas",
+            "Carnaval",
+            "Los"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009",
+            "2009",
+            "LN_m:4,50",
+            "LN_m:3,50",
+            "LN_m:4,50",
+            "3"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594697/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria destina 57.000 euros en ayudas para Tasarte y 566.119 euros para carreteras",
+        "lemmatized_text": "el cabildo_de_gran_canaria destinar $_ECU:57 en ayuda para tasarte y $_ECU:566.119 para carretera",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria destinar ayuda tasarte carretera",
+        "persons": [],
+        "locations": [
+            "Tasarte"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:57",
+            "$_ECU:566.119"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno extraordinario del Cabildo de Gran Canaria celebrado hoy ha aprobado la concesión de una subvención al Ayuntamiento de la Aldea de San Nicolás por un importe de 57.000 euros, destinada a ayudas de emergencia social para colaborar a paliar las consecuencias del temporal que sufrió el municipio ayer, así como una partida de ayudas directas por 566.119 euros para obras de urgencia en las carreteras de la localidad.",
+        "lemmatized_text": "el consejo_de_gobierno extraordinario de el cabildo_de_gran_canaria celebrar hoy haber aprobar el concesión de uno subvención a el ayuntamiento_de_la_aldea_de_san_nicolás por uno importe de $_ECU:57 destinar a ayuda de emergencia social para colaborar a paliar el consecuencia de el temporal que sufrir el municipio ayer así_como uno partida de ayuda directo por $_ECU:566.119 para obra de urgencia en el carretera de el localidad",
+        "lemmatized_text_reduced": "consejo_de_gobierno extraordinario cabildo_de_gran_canaria celebrar haber aprobar concesión subvención ayuntamiento_de_la_aldea_de_san_nicolás importe destinar ayuda emergencia social colaborar paliar consecuencia temporal sufrir municipio partida ayuda directo obra urgencia carretera localidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejo_de_Gobierno",
+            "Cabildo_de_Gran_Canaria",
+            "Ayuntamiento_de_la_Aldea_de_San_Nicolás"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:57",
+            "$_ECU:566.119"
+        ]
+    },
+    "body": {
+        "raw_text": "Asimismo, cuadrillas del Cabildo trabajan en la zona desde ayer, habilitando los accesos y carreteras, retirando el barro, escombros y piedras y prestando atención a los vecinos afectados. Personal que hoy se incrementará con noventa operarios más, informa la corporación insular en un comunicado. Como consecuencia de las lluvias, varias carreteras se vieron afectadas debido a los arrastres producidos por los barrancos situados entre Tasarte y Veneguera, siendo la más afectada la GC-200 en dicho tramo, la GC-204 (acceso a Tasartico) y la GC-205 (Acceso a Tasarte). Por este motivo, El Consejo de Gobierno Extraordinario, también ha aprobado una partida de ayudas directas por valor de 566.119,80 euros que irán destinadas a obras de urgencia en dichas carreteras.",
+        "lemmatized_text": "asimismo cuadrilla de el cabildo trabajar en el zona desde ayer habilitar el acceso y carretera retirar el barro escombro y piedra y prestar atención a el vecino afectar personal que hoy se incrementar con 90 operario más informar el corporación insular en uno comunicado como consecuencia de el lluvia varios carretera se ver afectar debido_a el arrastre producir por el barranco situar entre tasarte y veneguera ser el más afectar el GC-200 en decir tramo el GC-204 acceso a tasartico y el GC-205 acceso a tasarte por este motivo el_consejo_de_gobierno_extraordinario también haber aprobar uno partida de ayuda directo por valor de $_ECU:566.119,80 que ir destinar a obra de urgencia en decir carretera",
+        "lemmatized_text_reduced": "cuadrilla cabildo trabajar zona habilitar acceso carretera retirar barro escombro piedra prestar atención vecino afectar personal incrementar operario informar corporación insular comunicado consecuencia lluvia carretera ver afectar arrastre producir barranco situar tasarte veneguera ser afectar decir tramo acceso tasartico acceso tasarte motivo el_consejo_de_gobierno_extraordinario haber aprobar partida ayuda directo valor ir destinar obra urgencia decir carretera",
+        "persons": [
+            "Tasarte",
+            "Veneguera"
+        ],
+        "locations": [
+            "Cabildo"
+        ],
+        "organizations": [
+            "Tasartico",
+            "Tasarte",
+            "El_Consejo_de_Gobierno_Extraordinario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "90",
+            "GC-200",
+            "GC-204",
+            "GC-205",
+            "$_ECU:566.119,80"
+        ]
+    }
+}

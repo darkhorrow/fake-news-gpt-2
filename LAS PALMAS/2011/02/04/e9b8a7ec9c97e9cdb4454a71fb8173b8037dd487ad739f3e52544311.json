@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/949258/0/",
+    "title": {
+        "raw_text": "Mogán (Gran Canaria) acoge el V Seminario sobre Parkinson de las islas donde conocerán los avances para enfermos",
+        "lemmatized_text": "mogán gran_canaria acoger el v_seminario sobre parkinson de el isla donde conocer el avance para enfermo",
+        "lemmatized_text_reduced": "mogán gran_canaria acoger v_seminario parkinson isla conocer avance enfermo",
+        "persons": [
+            "Mogán"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [
+            "V_Seminario",
+            "Parkinson"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El municipio grancanario de Mogán acogerá este viernes y mañana sábado el V Seminario sobre Parkinson de las islas donde se conocerán avances que aportan mayores expectativas de vida para los enfermos.",
+        "lemmatized_text": "el municipio grancanario de mogán acoger este [V:??/??/??:??.??:??] y mañana [S:??/??/??:??.??:??] el v_seminario sobre parkinson de el isla donde se conocer avance que aportar mayor expectativa de vida para el enfermo",
+        "lemmatized_text_reduced": "municipio grancanario mogán acoger v_seminario parkinson isla conocer avance aportar mayor expectativa vida enfermo",
+        "persons": [],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [],
+        "others": [
+            "V_Seminario",
+            "Parkinson"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El municipio grancanario de Mogán acogerá este viernes y mañana sábado el V Seminario sobre Parkinson de las islas donde se conocerán avances que aportan mayores expectativas de vida para los enfermos. El Parkinson es una enfermedad neurodegenerativa y progresiva que afecta a diversas estructuras del sistema nervioso, entre ellas, las encargadas de regular ciertas características de los movimientos como la velocidad y la amplitud, el equilibrio, la marcha y la postura, provocando discapacidad en grado variable y además evoluciona progresivamente hacia diversos grados de dependencia. Por ello, según informó el Colegio de Médicos de Las Palmas, \"es importante\" el desarrollo de líneas de investigación que permitan conocer la evolución de la enfermedad y la creación de tratamientos para que el paciente pueda aumentar tanto su calidad como su expectativa de vida. También se tratará el Parkinson juvenil. El Parkinson es una enfermedad que afecta a más de 65.000 españoles y cuya incidencia va en aumento. Normalmente afecta a los seres humanos en sus últimas etapas de la vida aunque cada vez afecta a personas más jóvenes, incluso a individuos menores de 40 años. Estas serán algunas de las cuestiones que se podrán ver en este seminario.",
+        "lemmatized_text": "el municipio grancanario de mogán acoger este [V:??/??/??:??.??:??] y mañana [S:??/??/??:??.??:??] el v_seminario sobre parkinson de el isla donde se conocer avance que aportar mayor expectativa de vida para el enfermo el parkinson ser uno enfermedad neurodegenerativo y progresivo que afectar a diverso estructura de el sistema nervioso entre ellos el encargado de regular cierto característica de el movimiento como el velocidad y el amplitud el equilibrio el marcha y el postura provocar discapacidad en grado variable y además evolucionar progresivamente hacia diverso grado de dependencia por ello según informar el colegio_de_médicos_de_las_palmas ser importante el desarrollo de línea de investigación que permitir conocer el evolución de el enfermedad y el creación de tratamiento para que el paciente poder aumentar tanto su calidad como su expectativa de vida también se tratar el parkinson juvenil el parkinson ser uno enfermedad que afectar a más de 65 español y cuyo incidencia ir en aumento normalmente afectar a el ser humano en su último etapa de el vida aunque cada vez afectar a persona más joven incluso a individuo menor de 40 año este ser alguno de el cuestión que se poder ver en este seminario",
+        "lemmatized_text_reduced": "municipio grancanario mogán acoger v_seminario parkinson isla conocer avance aportar mayor expectativa vida enfermo parkinson ser enfermedad neurodegenerativo progresivo afectar estructura sistema nervioso encargado regular característica movimiento velocidad amplitud equilibrio marcha postura provocar discapacidad grado variable evolucionar progresivamente grado dependencia informar colegio_de_médicos_de_las_palmas ser importante desarrollo línea investigación permitir conocer evolución enfermedad creación tratamiento paciente poder aumentar calidad expectativa vida tratar parkinson juvenil parkinson ser enfermedad afectar español incidencia ir aumento normalmente afectar ser humano último etapa vida vez afectar persona joven individuo menor año ser cuestión poder ver seminario",
+        "persons": [],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [
+            "Colegio_de_Médicos_de_Las_Palmas"
+        ],
+        "others": [
+            "V_Seminario",
+            "Parkinson",
+            "Parkinson",
+            "Parkinson",
+            "Parkinson"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "65",
+            "40"
+        ]
+    }
+}

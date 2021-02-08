@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703048/0/",
+    "title": {
+        "raw_text": "Las pymes canarias contarán con 1,5 millones en préstamos del Ejecutivo canario para mejorar su liquidez",
+        "lemmatized_text": "el pyme canario contar con 1,5 millón en préstamo de el ejecutivo canario para mejorar su liquidez",
+        "lemmatized_text_reduced": "pyme canario contar millón préstamo ejecutivo canario mejorar liquidez",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,5"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Consejería de Economía y Hacienda del Ejecutivo canario ha decidido destinar más de un millón y medio de euros a préstamos para \"aportar liquidez\" a las pequeñas y medianas empresas (pymes) canarias, según la orden que ha publicado el Boletín Oficial de Canarias con las subvenciones de 2010.",
+        "lemmatized_text": "el consejería_de_economía y hacienda_del_ejecutivo canario haber decidir destinar más de $_ECU:1500000 a préstamo para aportar liquidez a el pequeño y mediano empresa pyme canario según el orden que haber publicar el boletín_oficial_de_canarias con el subvención de 2010",
+        "lemmatized_text_reduced": "consejería_de_economía hacienda_del_ejecutivo canario haber decidir destinar préstamo aportar liquidez pequeño mediano empresa pyme canario orden haber publicar boletín_oficial_de_canarias subvención",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejería_de_Economía",
+            "Hacienda_del_Ejecutivo",
+            "Boletín_Oficial_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:1500000",
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "De estas ayudas podrán beneficiarse las pymes canarias cuya plantilla no supere los 25 trabajadores y que se hayan establecido con anterioridad al 1 de enero de 2008. Se bonificará el tipo de interés y la comisión de apertura de los préstamos solicitados por las empresas que estén avalados por las Sociedades de Garantía Recíproca (SGR) del archipiélago. La convocatoria de esta subvención se ha materializado tras una reunión mantenida el pasado mes de febrero entre el vicepresidente y consejero de Economía y Hacienda del Gobierno de Canarias, José Manuel Soria, y los representantes de los bancos y cajas de ahorros que operan en las islas. Este encuentro se mantuvo con el propósito de buscar soluciones a los problemas de financiación de las pequeñas y medianas empresas canarias, ya que, tal y como afirma el consejero, \"sin la colaboración de estas entidades se dificulta el objetivo del Gobierno de Canarias de facilitar el acceso de las pymes a los préstamos que les aporten liquidez\".",
+        "lemmatized_text": "de este ayuda poder beneficiar se el pyme canario cuyo plantilla no superar el 25 trabajador y que se haber establecer con anterioridad a el [??:1/1/2008:??.??:??] se bonificar el tipo de interés y el comisión de apertura de el préstamo solicitar por el empresa que estar avalar por el sociedades_de_garantía_recíproca sgr de el archipiélago el convocatoria de este subvención se haber materializar tras uno reunión mantener el [??:??/2/??:??.??:??] entre el vicepresidente y consejero de economía y hacienda_del_gobierno_de_canarias josé_manuel_soria y el representante de el banco y caja de ahorro que operar en el isla este encuentro se mantener con el propósito de buscar solución a el problema de financiación de el pequeño y mediano empresa canario ya_que tal_y_como afirmar el consejero sin el colaboración de este entidad se dificultar el objetivo de el gobierno_de_canarias de facilitar el acceso de el pyme a el préstamo que le aportar liquidez",
+        "lemmatized_text_reduced": "ayuda poder beneficiar pyme canario plantilla superar trabajador haber establecer anterioridad bonificar tipo interés comisión apertura préstamo solicitar empresa estar avalar sociedades_de_garantía_recíproca sgr archipiélago convocatoria subvención haber materializar reunión mantener vicepresidente consejero economía hacienda_del_gobierno_de_canarias josé_manuel_soria representante banco caja ahorro operar isla encuentro mantener propósito buscar solución problema financiación pequeño mediano empresa canario afirmar consejero colaboración entidad dificultar objetivo gobierno_de_canarias facilitar acceso pyme préstamo aportar liquidez",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "Sociedades_de_Garantía_Recíproca",
+            "Economía",
+            "Hacienda_del_Gobierno_de_Canarias",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "SGR"
+        ],
+        "dates": [
+            "[??:1/1/2008:??.??:??]",
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "25"
+        ]
+    }
+}

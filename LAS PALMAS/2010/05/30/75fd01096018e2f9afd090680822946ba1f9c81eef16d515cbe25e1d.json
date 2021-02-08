@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/722144/0/",
+    "title": {
+        "raw_text": "Un total de 6 personas, entre ellos 3 menores, resultan afectadas en incendio de una vivienda de Gran Canaria",
+        "lemmatized_text": "uno total de 6 persona entre ellos 3 menor resultar afectar en incendio de uno vivienda de gran_canaria",
+        "lemmatized_text_reduced": "total persona menor resultar afectar incendio vivienda gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "6",
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de seis personas, de las que tres son menores, han resultado afectadas tras producirse a primera hora de esta mañana un conato de incendio en un dúplex de Arucas (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno total de 6 persona de el que 3 ser menor haber resultar afectar tras producir se a 1 hora de este mañana uno conato de incendio en uno dúplex de arucas gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "total persona ser menor haber resultar afectar producir 1 hora mañana conato incendio dúplex arucas gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Arucas"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "6",
+            "3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El conato se produjo sobre las 7.45 horas en una vivienda de la calle San Roque de la barriada de La Goleta, en Arucas. Este incidente afectó a seis personas, de las que tres eran menores, y todos tuvieron que ser atendidos por el personal del Servicio de Urgencias Canario (SUC) al sufrir intoxicación por inhalación de humo. Además, el personal médico tuvo que trasladar en un principio a tres de los afectados a un centro de salud de Arucas pero, posteriormente, un niño de un año y medio tuvo que ser evacuado al Hospital Materno Infantil; mientras que una mujer, de 44 años de edad, también fue ingresada en el Dr. Negrín, ambos hospitales en la capital grancanaria. De todos modos, la consideración de ambos es leve \"salvo complicaciones\". En este suceso, también participaron bomberos del municipio de Arucas, así como agentes de la Policía Local y de la Guardia Civil, que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "el conato se producir sobre el TM_h:7.45 en uno vivienda de el calle san_roque de el barriada de la_goleta en arucas este incidente afectar a 6 persona de el que 3 ser menor y todo tener que ser atender por el personal de el servicio_de_urgencias_canario suc a el sufrir intoxicación por inhalación de humo además el personal médico tener que trasladar en uno principio a 3 de el afectado a uno centro de salud de arucas pero posteriormente uno niño de uno año y medio tener que ser evacuar a el hospital_materno_infantil mientras_que uno mujer de 44 año de edad también ser ingresar en el dr._negrín ambos hospital en el capital grancanaria de_todos_modos el consideración de ambos ser leve salvo complicación en este suceso también participar bombero de el municipio de arucas así_como agente de el policía_local y de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "conato producir vivienda calle san_roque barriada la_goleta arucas incidente afectar persona ser menor tener ser atender personal servicio_de_urgencias_canario suc sufrir intoxicación inhalación humo personal médico tener trasladar principio afectado centro salud arucas posteriormente niño año medio tener ser evacuar hospital_materno_infantil mujer año edad ser ingresar dr._negrín hospital capital grancanaria consideración ser leve complicación suceso participar bombero municipio arucas agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "San_Roque",
+            "La_Goleta",
+            "Arucas",
+            "Arucas",
+            "Arucas"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Materno_Infantil",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Dr._Negrín"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.45",
+            "6",
+            "3",
+            "3",
+            "44"
+        ]
+    }
+}

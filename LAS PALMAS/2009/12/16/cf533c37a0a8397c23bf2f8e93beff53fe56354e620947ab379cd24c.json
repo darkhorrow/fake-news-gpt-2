@@ -1,0 +1,84 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/589656/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria compra cuatro fincas rústicas de la isla por 30.399 euros",
+        "lemmatized_text": "el cabildo_de_gran_canaria comprar 4 finca rústico de el isla por $_ECU:30.399",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria comprar finca rústico isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "$_ECU:30.399"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria ha incorporado hoy a su patrimonio medioambiental cuatro fincas rústicas de la isla que le han costado a la Corporación insular un total de 30.399 euros, según informó el Gobierno en nota de prensa.",
+        "lemmatized_text": "el cabildo_de_gran_canaria haber incorporar hoy a su patrimonio medioambiental 4 finca rústico de el isla que le haber costar a el corporación insular uno total de $_ECU:30.399 según informar el gobierno en nota de prensa",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria haber incorporar patrimonio medioambiental finca rústico isla haber costar corporación insular total informar gobierno nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Corporación",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "$_ECU:30.399"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo hicieron efectivo hoy el presidente del Cabildo, José Miguel Pérez, y el consejero de Arquitectura y Vivienda, Agricultura, Ganadería, Pesca y Aguas, Demetrio Suárez, mediante la firma de esta compra. En concreto, la institución adquirió por un valor de 11.097 euros dos fincas rústicas situadas en Montaña del Capitán, en el municipio de Gáldar, contiguas a terrenos del Cabildo de Gran Canaria, con una superficie de 19.235 metros cuadrados. Asimismo, se adquirió una finca rústica en Lomo Pelado, en el municipio de Tejeda, de 29.984 metros cuadrados, por un precio de 15.417,80. Finalmente, el Cabildo hizo efectiva la compra de otra finca rústica en Lomo Tablero, en San Bartolomé de Tirajana, con una superficie de 5.218 metros cuadrados, por valor de 3.885,16 euros. Estos tres terrenos servirán a la Corporación grancanaria para continuar en su labor de repoblación forestal de la isla. Por otro lado, el presidente insular también dio un paso más en la regularización de las viviendas de la urbanización El Lasso y Zárate, en la capital, a través de la venta de cuatro viviendas a sus adjudicatarios.",
+        "lemmatized_text": "así lo hacer efectivo hoy el presidente de el cabildo josé_miguel_pérez y el consejero de arquitectura y vivienda agricultura ganadería pesca y aguas demetrio_suárez mediante el firma de este compra en concreto el institución adquirir por uno valor de $_ECU:11.097 2 finca rústico situar en montaña_del_capitán en el municipio de gáldar contiguo a terreno de el cabildo_de_gran_canaria con uno superficie de AR_m2:19.235 asimismo se adquirir uno finca rústico en lomo_pelado en el municipio de tejeda de AR_m2:29.984 por uno precio de 15.417,80 finalmente el cabildo hacer efectivo el compra de otro finca rústico en lomo_tablero en san_bartolomé_de_tirajana con uno superficie de AR_m2:5.218 por valor de $_ECU:3.885,16 este 3 terreno servir a el corporación grancanaria para continuar en su labor de repoblación forestal de el isla por_otro_lado el presidente insular también dar uno paso más en el regularización de el vivienda de el urbanización el_lasso y zárate en el capital a_través_de el venta de 4 vivienda a su adjudicatario",
+        "lemmatized_text_reduced": "hacer efectivo presidente cabildo josé_miguel_pérez consejero arquitectura vivienda agricultura ganadería pesca aguas demetrio_suárez firma compra concreto institución adquirir valor finca rústico situar montaña_del_capitán municipio gáldar contiguo terreno cabildo_de_gran_canaria superficie adquirir finca rústico lomo_pelado municipio tejeda precio finalmente cabildo hacer efectivo compra finca rústico lomo_tablero san_bartolomé_de_tirajana superficie valor terreno servir corporación grancanaria continuar labor repoblación forestal isla presidente insular dar paso regularización vivienda urbanización el_lasso zárate capital venta vivienda adjudicatario",
+        "persons": [
+            "José_Miguel_Pérez",
+            "Pesca",
+            "Aguas",
+            "Demetrio_Suárez",
+            "Zárate"
+        ],
+        "locations": [
+            "Montaña_del_Capitán",
+            "Gáldar",
+            "Lomo_Pelado",
+            "Tejeda",
+            "Lomo_Tablero",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Cabildo",
+            "Vivienda",
+            "Agricultura",
+            "Ganadería",
+            "Cabildo",
+            "Corporación",
+            "El_Lasso"
+        ],
+        "others": [
+            "Arquitectura",
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:11.097",
+            "2",
+            "AR_m2:19.235",
+            "AR_m2:29.984",
+            "15.417,80",
+            "AR_m2:5.218",
+            "$_ECU:3.885,16",
+            "3",
+            "4"
+        ]
+    }
+}

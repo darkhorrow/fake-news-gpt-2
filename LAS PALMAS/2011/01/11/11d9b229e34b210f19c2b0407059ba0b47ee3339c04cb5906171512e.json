@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/924428/0/",
+    "title": {
+        "raw_text": "Bomberos de Gran Canaria extinguen el fuego producido en una furgoneta y en un contenedor de basura",
+        "lemmatized_text": "bomberos_de_gran_canaria extinguir el fuego producir en uno furgoneta y en uno contenedor de basura",
+        "lemmatized_text_reduced": "bomberos_de_gran_canaria extinguir fuego producir furgoneta contenedor basura",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Bomberos_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos del Consorcio de Gran Canaria han extinguido en la noche de este martes, entre la 01.00 y 02.00 horas, dos incendios registrados en la calle Barcelona de El Carrizal, en Ingenio (Gran Canaria), de los que no hay que lamentar daños.",
+        "lemmatized_text": "el bombero de el consorcio_de_gran_canaria haber extinguir en el noche de este [M:??/??/??:??.??:??] entre el 1 y TM_h:2 2 incendio registrar en el calle barcelona_de_el_carrizal en ingenio gran_canaria de el que no haber que lamentar daño",
+        "lemmatized_text_reduced": "bombero consorcio_de_gran_canaria haber extinguir noche incendio registrar calle barcelona_de_el_carrizal ingenio gran_canaria haber lamentar daño",
+        "persons": [],
+        "locations": [
+            "Barcelona_de_El_Carrizal",
+            "Ingenio",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Consorcio_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "1",
+            "TM_h:2",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los bomberos del Consorcio de Gran Canaria han extinguido en la noche de este martes, entre la 01.00 y 02.00 horas, dos incendios registrados en la calle Barcelona de El Carrizal, en Ingenio (Gran Canaria), de los que no hay que lamentar daños. En concreto, un fuego se produjo en una furgoneta y otro en un contenedor de basura, según informó el Centro Coordinador de Emergencias y Seguridad 112. Por otro lado, a las 06.40 horas, se produjo un accidente de moto en la autopista GC-3, a su paso por la rotonda Lomo Blanco, en Las Palmas de Gran Canaria, donde una de las ocupantes de la moto sufrió heridas de carácter leve. En concreto, la herida es una mujer de 37 años de edad que sufrió traumatismo en miembro inferior y contusiones, por lo que fue evacuada por personal del Servicio de Urgencias Canario (SUC) al centro de salud de San Cristóbal.",
+        "lemmatized_text": "el bombero de el consorcio_de_gran_canaria haber extinguir en el noche de este [M:??/??/??:??.??:??] entre el 1 y TM_h:2 2 incendio registrar en el calle barcelona_de_el_carrizal en ingenio gran_canaria de el que no haber que lamentar daño en concreto uno fuego se producir en uno furgoneta y otro en uno contenedor de basura según informar el centro_coordinador_de_emergencias y seguridad 112 por_otro_lado a el TM_h:6.4 se producir uno accidente de moto en el autopista GC-3 a su paso por el rotonda lomo_blanco en las_palmas_de_gran_canaria donde uno de el ocupante de el moto sufrir herir de carácter leve en concreto el herida ser uno mujer de 37 año de edad que sufrir traumatismo en miembro inferior y contusión por el que ser evacuar por personal de el servicio_de_urgencias_canario suc a el centro de salud de san_cristóbal",
+        "lemmatized_text_reduced": "bombero consorcio_de_gran_canaria haber extinguir noche incendio registrar calle barcelona_de_el_carrizal ingenio gran_canaria haber lamentar daño concreto fuego producir furgoneta contenedor basura informar centro_coordinador_de_emergencias seguridad producir accidente moto autopista paso rotonda lomo_blanco las_palmas_de_gran_canaria ocupante moto sufrir herir carácter leve concreto herida ser mujer año edad sufrir traumatismo miembro inferior contusión ser evacuar personal servicio_de_urgencias_canario suc centro salud san_cristóbal",
+        "persons": [
+            "Lomo_Blanco"
+        ],
+        "locations": [
+            "Barcelona_de_El_Carrizal",
+            "Ingenio",
+            "Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "San_Cristóbal"
+        ],
+        "organizations": [
+            "Consorcio_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "1",
+            "TM_h:2",
+            "2",
+            "112",
+            "TM_h:6.4",
+            "GC-3",
+            "37"
+        ]
+    }
+}

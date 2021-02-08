@@ -1,0 +1,51 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-07-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/488549/0/muere/derrumbe/techo/",
+    "title": {
+        "raw_text": "Muere un hombre mientras dormía tras derrumbarse el techo de su casa",
+        "lemmatized_text": "morir uno hombre mientras dormir tras derrumbar se el techo de su casa",
+        "lemmatized_text_reduced": "morir hombre dormir derrumbar techo casa",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El derrumbe se produjo debido al mal estado de la vivienda. Otros familiares de la víctima han salido ilesos. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el derrumbe se producir deber a el mal estado de el vivienda otro familiar de el víctima haber salir ileso consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "derrumbe producir deber mal estado vivienda familiar víctima haber salir ileso consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre de 38 años murió este martes de madrugada mientras dormía tras derrumbarse el techo de su casa de Arrecife de Lanzarote , informaron fuentes del 112. El derrumbe se produjo, al parecer, a causa del mal estado en el que se encontraba la vivienda , en la que en esos momentos también dormían otros familiares que no se vieron afectados. Los bomberos encontraron el cadáver de la víctima después de excavar entre los escombros. A causa del desplome del techo, el hombre sufrió diversos traumatismos que le causaron la muerte. La Policía Nacional ha abierto una investigación sobre la causa del accidente, ocurrido en el barrio de Titerroy, de la capital de Lanzarote.",
+        "lemmatized_text": "uno hombre de 38 año morir este [M:??/??/??:??.??:??] de_madrugada mientras dormir tras derrumbar se el techo de su casa de arrecife_de_lanzarote informar fuente de el 112 el derrumbe se producir a el parecer a causa de el mal estar en el que se encontrar el vivienda en el que en ese momento también dormir otro familiar que no se ver afectar el bombero encontrar el cadáver de el víctima después_de excavar entre el escombro a causa de el desplome de el techo el hombre sufrir diverso traumatismo que le causar el muerte el policía_nacional haber abrir uno investigación sobre el causa de el accidente ocurrir en el barrio de titerroy de el capital de lanzarote",
+        "lemmatized_text_reduced": "hombre año morir dormir derrumbar techo casa arrecife_de_lanzarote informar fuente derrumbe producir parecer causa mal estar encontrar vivienda momento dormir familiar ver afectar bombero encontrar cadáver víctima excavar escombro causa desplome techo hombre sufrir traumatismo causar muerte policía_nacional haber abrir investigación causa accidente ocurrir barrio titerroy capital lanzarote",
+        "persons": [],
+        "locations": [
+            "Arrecife_de_Lanzarote",
+            "Titerroy",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "38",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/602924/0/",
+    "title": {
+        "raw_text": "La Guardia Civil detiene a tres personas por un presunto robo con violencia en playa de Arinaga (Gran Canaria)",
+        "lemmatized_text": "el guardia_civil detener a 3 persona por uno presunto robo con violencia en playa de arinaga gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil detener persona presunto robo violencia playa arinaga gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arinaga",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil de Agüimes (Gran Canaria) ha detenido a tres personas por un presunto robo con violencia e intimidación a una mujer en los exteriores de un hipermercado en playa de Arinaga.",
+        "lemmatized_text": "el guardia_civil_de_agüimes gran_canaria haber detener a 3 persona por uno presunto robo con violencia y intimidación a uno mujer en el exterior de uno hipermercado en playa de arinaga",
+        "lemmatized_text_reduced": "guardia_civil_de_agüimes gran_canaria haber detener persona presunto robo violencia intimidación mujer exterior hipermercado playa arinaga",
+        "persons": [],
+        "locations": [
+            "Arinaga"
+        ],
+        "organizations": [
+            "Guardia_Civil_de_Agüimes",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Los agentes comenzaron la investigación tras recibir denuncia por un robo con violencia ocurrido en los exteriores de un hipermercado en el citado lugar. La víctima, según informó la Benemérita en nota de presa, se disponía a retirar un carro de compra cuando fue abordada por un individuo que le pedía una limosna. Sin embargo, la víctima se la denegó y fue cuando el supuesto autor de los hechos aprovechó que la víctima estaba abriendo su monedero para retirar el carrito de la compra y forcejeó con ella para sustraerle del monedero unos 150 euros aproximados, así como documentación personal. Tras conseguirlo la empujó, cayó al suelo y se golpeó a la altura de la cadera donde le produjo un hematoma. En el momento de la caída de la víctima, el presunto autor y otras dos personas que le acompañaban huyeron del lugar. Así, el 7 de enero, la Guardia Civil y tras la colaboración ciudadana consiguió identificar al supuesto autor cuyas iniciales corresponden con P.C., así como a sus dos supuestos cómplices, una mujer que responde a las iniciales de I.C.Z. y un varón, A.S, todo ellos de nacionalidad rumana, los cuales fueron detenidos por un delito de robo con violencia e intimidación. Los agentes pasaron las diligencias y a los detenidos a disposición de los Juzgados de Telde decretando el ingreso en prisión del autor.",
+        "lemmatized_text": "el agente comenzar el investigación tras recibir denuncia por uno robo con violencia ocurrir en el exterior de uno hipermercado en el citar lugar el víctima según informar el benemérita en nota de presa se disponer a retirar uno carro de compra cuando ser abordar por uno individuo que le pedir uno limosna sin embargo el víctima se lo denegar y ser cuando el suponer autor de el hecho aprovechar que el víctima estar abrir su monedero para retirar el carrito de el compra y forcejear con él para sustraer le de el monedero uno $_ECU:150 aproximar así_como documentación personal tras conseguir lo el empujar caer a el suelo y se golpear a el altura de el cadera donde le producir uno hematoma en el momento de el caída de el víctima el presunto autor y otro 2 persona que le acompañar huir de el lugar así el [??:7/1/??:??.??:??] el guardia_civil y tras el colaboración ciudadano conseguir identificar a el suponer autor cuyo inicial corresponder con p.c. así_como a su 2 supuesto cómplice uno mujer que responder a el inicial de i.c.z. y uno varón a._s todo ellos de nacionalidad rumano el cual ser detener por uno delito de robo con violencia y intimidación el agente pasar el diligencia y a el detenido a disposición de el juzgados_de_telde decretar el ingreso en prisión de el autor",
+        "lemmatized_text_reduced": "agente comenzar investigación recibir denuncia robo violencia ocurrir exterior hipermercado citar lugar víctima informar benemérita nota presa disponer retirar carro compra ser abordar individuo pedir limosna embargo víctima denegar ser suponer autor hecho aprovechar víctima estar abrir monedero retirar carrito compra forcejear sustraer monedero aproximar documentación personal conseguir empujar caer suelo golpear altura cadera producir hematoma momento caída víctima presunto autor persona acompañar huir lugar guardia_civil colaboración ciudadano conseguir identificar suponer autor inicial corresponder p.c. supuesto cómplice mujer responder inicial i.c.z. varón a._s nacionalidad rumano ser detener delito robo violencia intimidación agente pasar diligencia detenido disposición juzgados_de_telde decretar ingreso prisión autor",
+        "persons": [
+            "A._S"
+        ],
+        "locations": [],
+        "organizations": [
+            "Benemérita",
+            "Guardia_Civil",
+            "P.C.",
+            "I.C.Z.",
+            "Juzgados_de_Telde"
+        ],
+        "others": [],
+        "dates": [
+            "[??:7/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:150",
+            "2",
+            "2"
+        ]
+    }
+}

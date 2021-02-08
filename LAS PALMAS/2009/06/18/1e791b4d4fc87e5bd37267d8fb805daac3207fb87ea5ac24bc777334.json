@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/474666/0/detenido/disparo/vecino/",
+    "title": {
+        "raw_text": "Detenido por disparar con una pistola de aire comprimido a un vecino en La Palma",
+        "lemmatized_text": "detener por disparar con uno pistola de aire comprimir a uno vecino en la_palma",
+        "lemmatized_text_reduced": "detener disparar pistola aire comprimir vecino la_palma",
+        "persons": [],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El agresor, de 82 años, fue detenido este miércoles. Al parecer existían desavenencias personales entre ambos. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el agresor de 82 año ser detener este [X:??/??/??:??.??:??] a el parecer existir desavenencia personal entre ambos consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "agresor año ser detener parecer existir desavenencia personal consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "82"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre de 82 años fue detenido este miércoles en Tijarafe (La Palma) por disparar a un vecino con una escopeta de aire comprimido. La Guardia Civil informó este jueves de que el anciano fue detenido acusado de un delito de lesiones . La víctima, de 67 años de edad, fue atendida en un centro de salud donde fue necesario aplicarle un punto de sutura en la cabeza. Al parecer existían desavenencias personales entre la víctima y el agresor, según la Guardia Civil.",
+        "lemmatized_text": "uno hombre de 82 año ser detener este [X:??/??/??:??.??:??] en tijarafe el palma por disparar a uno vecino con uno escopeta de aire comprimir el guardia_civil informar este [J:??/??/??:??.??:??] de que el anciano ser detener acusar de uno delito de lesión el víctima de 67 año de edad ser atender en uno centro de salud donde ser necesario aplicar le uno punto de sutura en el cabeza a el parecer existir desavenencia personal entre el víctima y el agresor según el guardia_civil",
+        "lemmatized_text_reduced": "hombre año ser detener tijarafe palma disparar vecino escopeta aire comprimir guardia_civil informar anciano ser detener acusar delito lesión víctima año edad ser atender centro salud ser necesario aplicar punto sutura cabeza parecer existir desavenencia personal víctima agresor guardia_civil",
+        "persons": [
+            "Palma"
+        ],
+        "locations": [
+            "Tijarafe"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "82",
+            "67"
+        ]
+    }
+}

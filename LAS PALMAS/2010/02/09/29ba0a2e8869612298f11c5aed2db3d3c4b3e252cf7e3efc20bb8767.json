@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625460/0/",
+    "title": {
+        "raw_text": "El equipo de fútbol checo Slavia de Praga se entrena esta semana en Gran Canaria",
+        "lemmatized_text": "el equipo de fútbol checo slavia_de_praga se entrenar este semana en gran_canaria",
+        "lemmatized_text_reduced": "equipo fútbol checo slavia_de_praga entrenar semana gran_canaria",
+        "persons": [
+            "Slavia_de_Praga"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El equipo de fútbol checo Slavia de Praga ha elegido la isla de Gran Canaria para realizar sus entrenamientos esta semana de cara al próximo partido que disputará en la Europe League.",
+        "lemmatized_text": "el equipo de fútbol checo slavia_de_praga haber elegir el isla de gran_canaria para realizar su entrenamiento este semana de cara a el próximo partido que disputar en el europe_league",
+        "lemmatized_text_reduced": "equipo fútbol checo slavia_de_praga haber elegir isla gran_canaria realizar entrenamiento semana cara próximo partido disputar europe_league",
+        "persons": [
+            "Slavia_de_Praga"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Europe_League"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Asimismo, otro equipo checo pero de baloncesto, el club Nymburk, también se encuentra en la isla grancanaria aunque en este caso es para disputar esta tarde la tercera jornada de la fase Last-16 de la Eurocopa contra el Club Baloncesto de Gran Canaria, según informó el Cabildo insular en nota de prensa. El hecho de que el equipo de fútbol de la República Checa se haya trasladado hasta Gran Canaria \"es una muestra más de la importancia creciente\" que ha adquirido para este mercado turístico, donde la isla \"se mantiene líder en el conjunto del archipiélago como destino preferente\" de los checos.",
+        "lemmatized_text": "asimismo otro equipo checo pero de baloncesto el club nymburk también se encontrar en el isla grancanaria aunque en este caso ser para disputar este tarde el 3 jornada de el fase Last-16 de el eurocopa contra el club_baloncesto_de_gran_canaria según informar el cabildo insular en nota de prensa el hecho de que el equipo de fútbol de el república_checa se haber trasladar hasta gran_canaria ser uno muestra más de el importancia creciente que haber adquirir para este mercado turístico donde el isla se mantener líder en el conjunto de el archipiélago como destino preferente de el checo",
+        "lemmatized_text_reduced": "equipo checo baloncesto club nymburk encontrar isla grancanaria caso ser disputar tarde 3 jornada fase eurocopa club_baloncesto_de_gran_canaria informar cabildo insular nota prensa hecho equipo fútbol república_checa haber trasladar gran_canaria ser muestra importancia creciente haber adquirir mercado turístico isla mantener líder conjunto archipiélago destino preferente checo",
+        "persons": [],
+        "locations": [
+            "República_Checa"
+        ],
+        "organizations": [
+            "Nymburk",
+            "Club_Baloncesto_de_Gran_Canaria",
+            "Cabildo",
+            "Gran_Canaria"
+        ],
+        "others": [
+            "Eurocopa"
+        ],
+        "dates": [],
+        "numbers": [
+            "Last-16"
+        ]
+    }
+}

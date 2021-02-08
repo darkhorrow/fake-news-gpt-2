@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/933737/0/",
+    "title": {
+        "raw_text": "Un hombre herido después de sufrir un atropello en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno hombre herir después_de sufrir uno atropello en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre herir sufrir atropello las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido leve, después de sufrir un atropello en el Paseo de San José, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber resultar herir leve después_de sufrir uno atropello en el paseo_de_san_josé en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir leve sufrir atropello paseo_de_san_josé las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Paseo_de_San_José",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre ha resultado herido leve, después de sufrir un atropello en el Paseo de San José, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo a las 08.28 horas de este jueves y el herido ha sido un hombre de 60 años de edad que sufrió policontusiones y cervicalgia. En el lugar se personó personal del Servicio de Urgencias Canario (SUC), que evacuó al herido hasta el Hospital Insular de Gran Canaria. Asimismo, en la zona estuvieron también agentes de la Policía Local.",
+        "lemmatized_text": "uno hombre haber resultar herir leve después_de sufrir uno atropello en el paseo_de_san_josé en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir a el TM_h:8.28 de este [J:??/??/??:??.??:??] y el herir haber ser uno hombre de 60 año de edad que sufrir policontusión y cervicalgia en el lugar se personar personal de el servicio_de_urgencias_canario suc que evacuar a el herir hasta el hospital_insular_de_gran_canaria asimismo en el zona estar también agente de el policía_local",
+        "lemmatized_text_reduced": "hombre haber resultar herir leve sufrir atropello paseo_de_san_josé las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad incidente producir herir haber ser hombre año edad sufrir policontusión cervicalgia lugar personar personal servicio_de_urgencias_canario suc evacuar herir hospital_insular_de_gran_canaria zona estar agente policía_local",
+        "persons": [],
+        "locations": [
+            "Paseo_de_San_José",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Insular_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:8.28",
+            "60"
+        ]
+    }
+}

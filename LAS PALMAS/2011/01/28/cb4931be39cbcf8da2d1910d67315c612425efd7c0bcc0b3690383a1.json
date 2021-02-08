@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/942508/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo evacua al tripulante de un velero a 100 millas de Arrecife (Lanzarote)",
+        "lemmatized_text": "salvamento_marítimo evacua a el tripulante de uno velero a LN_mi:100 de arrecife lanzarote",
+        "lemmatized_text_reduced": "salvamento_marítimo evacua tripulante velero arrecife lanzarote",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Centro de Coordinación de Salvamento Marítimo, en Las Palmas de Gran Canaria, realizó el jueves, 27 de enero, una evacuación médica de un tripulante del velero británico 'Black Adder', a unas 100 millas al este-noroeste de Arrecife (Lanzarote).",
+        "lemmatized_text": "el centro_de_coordinación_de_salvamento_marítimo en las_palmas_de_gran_canaria realizar el [J:27/1/??:??.??:??] uno evacuación médico de uno tripulante de el velero británico black_adder a uno LN_mi:100 a el este-noroeste de arrecife lanzarote",
+        "lemmatized_text_reduced": "centro_de_coordinación_de_salvamento_marítimo las_palmas_de_gran_canaria realizar evacuación médico tripulante velero británico black_adder este-noroeste arrecife lanzarote",
+        "persons": [
+            "Black_Adder"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación_de_Salvamento_Marítimo"
+        ],
+        "others": [],
+        "dates": [
+            "[J:27/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mi:100"
+        ]
+    },
+    "body": {
+        "raw_text": "El Centro de Coordinación de Salvamento Marítimo, en Las Palmas de Gran Canaria, realizó el jueves, 27 de enero, una evacuación médica de un tripulante del velero británico 'Black Adder', a unas 100 millas al este-noroeste de Arrecife (Lanzarote). El rescate se produjo ante unas condiciones meteorológicas adversas, ya que en la zona soplaba fuerte marejada a gruesa y mar de fondo con olas de 2 a 4 metros, según informó la Delegación del Gobierno en Canarias en un comunicado. Así, en la evacuación participó el helicóptero de Salvamento Marítimo 'Helimer 208', con base en Las Palmas de Gran Canaria, que trasladó al tripulante, que había sufrido un golpe en la zona lumbar, a Arrecife. Y una vez aterrizó en Arrecife, una ambulancia lo trasladó a la persona al Hospital José Molina Orosa. En el incidente también participó el avión de Salvamento Marítimo 'Sasemar 103', con base en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el centro_de_coordinación_de_salvamento_marítimo en las_palmas_de_gran_canaria realizar el [J:27/1/??:??.??:??] uno evacuación médico de uno tripulante de el velero británico black_adder a uno LN_mi:100 a el este-noroeste de arrecife lanzarote el rescate se producir ante uno condición meteorológico adverso ya_que en el zona soplar fuerte marejada a gruesa y mar de fondo con ola de 2 a LN_m:4 según informar el delegación_del_gobierno en canarias en uno comunicado así en el evacuación participar el helicóptero de salvamento_marítimo helimer 208 con base en las_palmas_de_gran_canaria que trasladar a el tripulante que haber sufrir uno golpe en el zona lumbar a arrecife y uno vez aterrizar en arrecife uno ambulancia lo trasladar a el persona a el hospital_josé_molina_orosa en el incidente también participar el avión de salvamento_marítimo sasemar 103 con base en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "centro_de_coordinación_de_salvamento_marítimo las_palmas_de_gran_canaria realizar evacuación médico tripulante velero británico black_adder este-noroeste arrecife lanzarote rescate producir condición meteorológico adverso zona soplar fuerte marejada gruesa mar fondo ola informar delegación_del_gobierno canarias comunicado evacuación participar helicóptero salvamento_marítimo helimer base las_palmas_de_gran_canaria trasladar tripulante haber sufrir golpe zona lumbar arrecife vez aterrizar arrecife ambulancia trasladar persona hospital_josé_molina_orosa incidente participar avión salvamento_marítimo sasemar base las_palmas_de_gran_canaria",
+        "persons": [
+            "Black_Adder",
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Arrecife",
+            "Lanzarote",
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria",
+            "Arrecife",
+            "Arrecife",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_de_Coordinación_de_Salvamento_Marítimo",
+            "Delegación_del_Gobierno",
+            "Hospital_José_Molina_Orosa"
+        ],
+        "others": [
+            "Helimer",
+            "Sasemar"
+        ],
+        "dates": [
+            "[J:27/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mi:100",
+            "2",
+            "LN_m:4",
+            "208",
+            "103"
+        ]
+    }
+}

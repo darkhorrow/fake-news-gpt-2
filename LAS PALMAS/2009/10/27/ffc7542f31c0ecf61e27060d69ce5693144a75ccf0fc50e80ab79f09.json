@@ -1,0 +1,121 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-10-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/551763/0/ryanair/empleo/lanzarote/",
+    "title": {
+        "raw_text": "Ryanair prevé crear 600 empleos en Lanzarote con 16 rutas",
+        "lemmatized_text": "ryanair prever crear 600 empleo en lanzarote con 16 ruta",
+        "lemmatized_text_reduced": "ryanair prever crear empleo lanzarote ruta",
+        "persons": [
+            "Ryanair"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "600",
+            "16"
+        ]
+    },
+    "lead": {
+        "raw_text": "Invertirá 116 millones de euros en la isla en cinco meses. Un total de 16 rutas unirán Lanzarote con distintas zonas de Reino Unido, Irlanda, Alemania y el resto de España. Con las nuevas conexiones se espera la llegada de 2 millones de pasajeros al archipiélago.",
+        "lemmatized_text": "invertir $_ECU:116000000 en el isla en 5 mes uno total de 16 ruta unir lanzarote con distinto zona de reino_unido irlanda alemania y el resto de españa con el nuevo conexión se esperar el llegada de 2000000 de pasajero a el archipiélago",
+        "lemmatized_text_reduced": "invertir isla mes total ruta unir lanzarote zona reino_unido irlanda alemania resto españa nuevo conexión esperar llegada pasajero archipiélago",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Reino_Unido",
+            "Irlanda",
+            "Alemania",
+            "España"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:116000000",
+            "5",
+            "16",
+            "2000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Ryanair calcula que en cinco meses creará directa e indirectamente 600 puestos de trabajo y dejará 116 millones de euros gracias a las 16 rutas que unirán Lanzarote con distintas zonas de Reino Unido, Irlanda, Alemania y el resto de España. De momento vamos a poner estas 16 rutas hasta el 31 de marzo El responsable de Marketing en España de la compañía aérea de bajo coste, Luis Fernández-Mellado, hizo el anuncio este martes en la presentación de los 37 vuelos semanales que van a operar en el aeropuerto de Guacimeta. Barcelona (Girona), Birmingham, Bournemouth, Bristol, Brussels (Charleroi), Dublin, Dusseldorf (Weeze), East Midlands, Frankfurt (Hahn), Glasgow (P'wick), Liverpool, London (Luton), London (Stansted), Madrid, Shannon y Edimburgo son las 16 rutas que operará Ryanair en la isla con 37 vuelos semanales. \"De momento vamos a poner estas 16 rutas hasta el 31 de marzo; si el Gobierno español sigue adelante con la rebaja de las tasas aeroportuarias , seguirán siendo rentables y podremos ampliarlas en un futuro\", explicó Fernández-Mellado. Ryanair tiene un descuento del cien por cien en estas tasas ya que, al no operar anteriormente en las islas, cumple con la premisa de superar el número de pasajeros del 2008. Con estas nuevas conexiones , 43 sumando las rutas desde Lanzarote, Gran Canaria y Tenerife, se espera la llegada de dos millones de pasajeros al archipiélago, la creación de 2.000 puestos de trabajo en los tres aeropuertos canarios en los que opera la aerolínea y unos gastos turísticos de 390 millones de euros en las islas.",
+        "lemmatized_text": "ryanair calcular que en 5 mes crear directo y indirectamente 600 puesto de trabajo y dejar $_ECU:116000000 gracias_a el 16 ruta que unir lanzarote con distinto zona de reino_unido irlanda alemania y el resto de españa de momento ir a poner este 16 ruta hasta el [??:31/3/??:??.??:??] el responsable de marketing en españa de el compañía aéreo de bajo coste luis_fernández-mellado hacer el anuncio este [M:??/??/??:??.??:??] en el presentación de el 37 vuelo semanal que ir a operar en el aeropuerto de guacimeta barcelona girona birmingham bournemouth bristol brussels charleroi dublin dusseldorf weeze east_midlands frankfurt hahn glasgow p'wick liverpool london luton london stansted madrid shannon y edimburgo ser el 16 ruta que operar ryanair en el isla con 37 vuelo semanal de momento ir a poner este 16 ruta hasta el [??:31/3/??:??.??:??] si el gobierno español seguir adelante con el rebaja de el tasa aeroportuario seguir ser rentable y poder ampliar lo en uno futuro explicar fernández-mellado ryanair tener uno descuento de el cien_por_cien en este tasa ya_que a el no operar anteriormente en el isla cumplir con el premisa de superar el número de pasajero de el 2008 con este nuevo conexión 43 sumando el ruta desde lanzarote gran_canaria y tenerife se esperar el llegada de 2000000 de pasajero a el archipiélago el creación de 2 puesto de trabajo en el 3 aeropuerto canario en el que operar el aerolínea y uno gasto turístico de $_ECU:390000000 en el isla",
+        "lemmatized_text_reduced": "ryanair calcular mes crear directo indirectamente puesto trabajo dejar ruta unir lanzarote zona reino_unido irlanda alemania resto españa momento ir poner ruta el responsable marketing españa compañía aéreo coste luis_fernández-mellado hacer anuncio presentación vuelo semanal ir operar aeropuerto guacimeta barcelona girona birmingham bournemouth bristol brussels charleroi dublin dusseldorf weeze east_midlands frankfurt hahn glasgow p'wick liverpool london luton london stansted madrid shannon edimburgo ser ruta operar ryanair isla vuelo semanal momento ir poner ruta gobierno español seguir rebaja tasa aeroportuario seguir ser rentable poder ampliar futuro explicar fernández-mellado ryanair tener descuento tasa operar anteriormente isla cumplir premisa superar número pasajero nuevo conexión sumando ruta lanzarote gran_canaria tenerife esperar llegada pasajero archipiélago creación puesto trabajo aeropuerto canario operar aerolínea gasto turístico isla",
+        "persons": [
+            "Ryanair",
+            "Luis_Fernández-Mellado",
+            "Bournemouth",
+            "Bristol",
+            "Dublin",
+            "Dusseldorf",
+            "East_Midlands",
+            "Glasgow",
+            "Liverpool",
+            "London",
+            "London",
+            "Ryanair",
+            "Fernández-Mellado",
+            "Ryanair"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Reino_Unido",
+            "Irlanda",
+            "Alemania",
+            "España",
+            "España",
+            "Guacimeta",
+            "Barcelona",
+            "Girona",
+            "Birmingham",
+            "Brussels",
+            "Charleroi",
+            "Frankfurt",
+            "Madrid",
+            "Edimburgo",
+            "Lanzarote",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Marketing",
+            "Weeze",
+            "Hahn",
+            "P'wick",
+            "Luton",
+            "Stansted",
+            "Shannon",
+            "Gobierno",
+            "Tenerife"
+        ],
+        "others": [
+            "El"
+        ],
+        "dates": [
+            "[??:31/3/??:??.??:??]",
+            "[M:??/??/??:??.??:??]",
+            "[??:31/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "600",
+            "$_ECU:116000000",
+            "16",
+            "16",
+            "37",
+            "16",
+            "37",
+            "16",
+            "2008",
+            "43",
+            "2000000",
+            "2",
+            "3",
+            "$_ECU:390000000"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/610121/0/",
+    "title": {
+        "raw_text": "La compañía de marketing D&B celebra mañana su convención anual de ventas en Lanzarote",
+        "lemmatized_text": "el compañía de marketing d_&_b celebrar mañana su convención anual de venta en lanzarote",
+        "lemmatized_text_reduced": "compañía marketing d_&_b celebrar convención anual venta lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "D_&_B"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La compañía D&B, perteneciente del Grupo CESCE, dedicada al suministro de Información Comercial, Financiera y de Marketing, celebrará desde mañana y hasta el sábado, 23 de enero, su convención anual de ventas en la isla de Lanzarote.",
+        "lemmatized_text": "el compañía d_&_b perteneciente de el grupo_cesce dedicar a el suministro de información_comercial financiera y de marketing celebrar desde mañana y hasta el [S:23/1/??:??.??:??] su convención anual de venta en el isla de lanzarote",
+        "lemmatized_text_reduced": "compañía d_&_b perteneciente grupo_cesce dedicar suministro información_comercial financiera marketing celebrar mañana convención anual venta isla lanzarote",
+        "persons": [],
+        "locations": [
+            "Financiera",
+            "Marketing",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "D_&_B",
+            "Grupo_CESCE",
+            "Información_Comercial"
+        ],
+        "others": [],
+        "dates": [
+            "[S:23/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Actualmente, la empresa cuenta en Canarias con dos delegaciones, una en la provincia de Las Palmas y otra en la de Santa Cruz de Tenerife, con una base de clientes, que supera los 3.500 personas, según informó D&B en nota de prensa. La celebración de la convención en Lanzarote pretende servir para informar de los resultados obtenidos en 2009 y analizar la marcha de la empresa, el análisis de los incentivos o la rentabilidad de las distintas áreas, entre otros. Estos datos los dará a conocer el consejero delegado y director general de Informa D&B, Juan María Sainz, quien además explicará los planes estratégicos y de ventas para este 2010. Sainz apuntó que también se pretende promover los valores de la compañía, tales como orientación a la calidad e innovación en productos y servicios; así como a la satisfacción de los clientes; transparencia y respeto escrupuloso de la legalidad; o eficiencia en los procesos.",
+        "lemmatized_text": "actualmente el empresa contar en canarias con 2 delegación uno en el provincia de las_palmas y otro en el de santa_cruz_de_tenerife con uno base de cliente que superar el 3.5 persona según informar d_&_b en nota de prensa el celebración de el convención en lanzarote pretender servir para informar de el resultado obtener en 2009 y analizar el marcha de el empresa el análisis de el incentivo o el rentabilidad de el distinto área entre otro este dato lo dar_a_conocer el consejero delegado y director general de informa_d_&_b juan_maría_sainz quien además explicar el plan estratégico y de venta para este 2010 sainz apuntar que también se pretender promover el valor de el compañía tal como orientación a el calidad y innovación en producto y servicio así_como a el satisfacción de el cliente transparencia y respeto escrupuloso de el legalidad o eficiencia en el proceso",
+        "lemmatized_text_reduced": "actualmente empresa contar canarias delegación provincia las_palmas santa_cruz_de_tenerife base cliente superar persona informar d_&_b nota prensa celebración convención lanzarote pretender servir informar resultado obtener analizar marcha empresa análisis incentivo rentabilidad distinto área dato dar_a_conocer consejero delegado director general informa_d_&_b juan_maría_sainz explicar plan estratégico venta sainz apuntar pretender promover valor compañía orientación calidad innovación producto servicio satisfacción cliente transparencia respeto escrupuloso legalidad eficiencia proceso",
+        "persons": [
+            "D_&_B",
+            "Juan_María_Sainz",
+            "Sainz"
+        ],
+        "locations": [
+            "Canarias",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Informa_D_&_B"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "3.5",
+            "2009",
+            "2010"
+        ]
+    }
+}

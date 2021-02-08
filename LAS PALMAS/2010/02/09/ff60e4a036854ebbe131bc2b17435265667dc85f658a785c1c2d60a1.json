@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625701/0/",
+    "title": {
+        "raw_text": "Gobierno de Canarias matiza que los 80 fallecidos por gripe A son a nivel nacional y no en el archipiélago",
+        "lemmatized_text": "gobierno_de_canarias matizar que el 80 fallecer por gripe a ser a nivel nacional y no en el archipiélago",
+        "lemmatized_text_reduced": "gobierno_de_canarias matizar fallecer gripe a ser nivel nacional archipiélago",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [
+            "A"
+        ],
+        "dates": [],
+        "numbers": [
+            "80"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Consejería de Sanidad del Gobierno de Canarias ha matizado que la cifra de los 80 fallecidos por gripe A que señaló la consejera del área, Mercedes Roldós, durante una entrevista concedida a Canarias Radio La Autonómica, son a nivel nacional en el momento en el que el Ministerio dejó de informar de muertes por esta enfermedad y no en el archipiélago.",
+        "lemmatized_text": "el consejería_de_sanidad_del_gobierno_de_canarias haber matizar que el cifra de el 80 fallecer por gripe a que señalar el consejero de el área mercedes_roldós durante uno entrevista conceder a canarias_radio_la_autonómica ser a nivel nacional en el momento en el que el ministerio dejar de informar de muerte por este enfermedad y no en el archipiélago",
+        "lemmatized_text_reduced": "consejería_de_sanidad_del_gobierno_de_canarias haber matizar cifra fallecer gripe a señalar consejero área mercedes_roldós entrevista conceder canarias_radio_la_autonómica ser nivel nacional momento ministerio dejar informar muerte enfermedad archipiélago",
+        "persons": [
+            "Mercedes_Roldós"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consejería_de_Sanidad_del_Gobierno_de_Canarias",
+            "Canarias_Radio_La_Autonómica",
+            "Ministerio"
+        ],
+        "others": [
+            "A"
+        ],
+        "dates": [],
+        "numbers": [
+            "80"
+        ]
+    },
+    "body": {
+        "raw_text": "Por su parte, durante la entrevista, Roldós remarcó que el nivel de alerta con la Gripe A no ha bajado, pues la OMS mantiene el nivel de pandemia decretado el pasado mes de abril. \"Desde entonces, tuvimos semanas con un pico de 300 casos por 100.000 habitantes, pero luego entramos en cifras bajísimas, incluso por debajo del umbral epidémico\", aunque señaló que no hay que bajar la guardia \"porque la OMS no ha disminuido el nivel de pandemia\". Como ejemplo, la consejera destacó que en las pasadas pandemias que tuvieron lugar durante el siglo XX, se registraron varias ondas epidémicas. Canarias sigue en alerta por la gripe A, mantiene abierta la campaña de vacunación para los grupos de riesgo y sigue con el sistema de vigilancia activado. Así, destacó también el esfuerzo de su consejería por bajar las listas de espera, desde la media actual de 100 días, hasta el objetivo de 60, y el trabajo por contar con una mayor cantidad de facultativos. Para ello, las universidades canarias han aumentado el número de plazas en Medicina y Enfermería, mientras que la Consejería cuenta con una mayor cantidad de plazas MIR para formar en Canarias a médicos especialistas a los que luego se les ofrece un contrato de trabajo en las islas.",
+        "lemmatized_text": "por su parte durante el entrevista roldós remarcar que el nivel de alerta con el gripe_a no haber bajar pues el oms mantener el nivel de pandemia decretar el [??:??/4/??:??.??:??] desde entonces tener semana con uno pico de 300 caso por 100 habitante pero luego entrar en cifra bajo incluso por debajo de el umbral epidémico aunque señalar que no haber que bajar el guardia porque el oms no haber disminuir el nivel de pandemia como ejemplo el consejero destacar que en el pasar pandemia que tener_lugar durante el [s:xx] se registrar varios onda epidémico canario seguir en alerta por el gripe a mantener abrir el campaña de vacunación para el grupo de riesgo y seguir con el sistema de vigilancia activar así destacar también el esfuerzo de su consejería por bajar el lista de espera desde el media actual de TM_d:100 hasta el objetivo de 60 y el trabajo por contar con uno mayor cantidad de facultativo para ello el universidad canario haber aumentar el número de plaza en medicina y enfermería mientras_que el consejería contar con uno mayor cantidad de plaza mir para formar en canarias a médico especialista a el que luego se le ofrecer uno contrato de trabajo en el isla",
+        "lemmatized_text_reduced": "parte entrevista roldós remarcar nivel alerta gripe_a haber bajar oms mantener nivel pandemia decretar tener semana pico caso habitante entrar cifra bajo umbral epidémico señalar haber bajar guardia oms haber disminuir nivel pandemia ejemplo consejero destacar pasar pandemia tener_lugar registrar onda epidémico canario seguir alerta gripe a mantener abrir campaña vacunación grupo riesgo seguir sistema vigilancia activar destacar esfuerzo consejería bajar lista espera media actual objetivo trabajo contar mayor cantidad facultativo universidad canario haber aumentar número plaza medicina enfermería consejería contar mayor cantidad plaza mir formar canarias médico especialista ofrecer contrato trabajo isla",
+        "persons": [
+            "Roldós"
+        ],
+        "locations": [
+            "Medicina",
+            "Enfermería",
+            "Canarias"
+        ],
+        "organizations": [
+            "Gripe_A",
+            "OMS",
+            "OMS",
+            "Consejería"
+        ],
+        "others": [
+            "A",
+            "MIR"
+        ],
+        "dates": [
+            "[??:??/4/??:??.??:??]",
+            "[s:xx]"
+        ],
+        "numbers": [
+            "300",
+            "100",
+            "TM_d:100",
+            "60"
+        ]
+    }
+}

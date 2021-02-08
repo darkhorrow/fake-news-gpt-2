@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/657306/0/",
+    "title": {
+        "raw_text": "Ben Magec asegura que el futuro tren de Gran Canaria generará una \"nueva cicatriz\" en la isla",
+        "lemmatized_text": "ben_magec asegurar que el futuro tren de gran_canaria generar uno nuevo cicatriz en el isla",
+        "lemmatized_text_reduced": "ben_magec asegurar futuro tren gran_canaria generar nuevo cicatriz isla",
+        "persons": [
+            "Ben_Magec"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Uno de los integrantes de la asociación ecologista Ben Magec, Alberto Martín, aseguró que el futuro tren de Gran Canaria generará una \"nueva cicatriz\" en el territorio insular y dudó además de la rentabilidad que dicha infraestructura tendrá sobre el medioambiente.",
+        "lemmatized_text": "uno de el integrante de el asociación ecologista ben_magec alberto_martín asegurar que el futuro tren de gran_canaria generar uno nuevo cicatriz en el territorio insular y dudar además_de el rentabilidad que decir infraestructura tener sobre el medioambiente",
+        "lemmatized_text_reduced": "integrante asociación ecologista ben_magec alberto_martín asegurar futuro tren gran_canaria generar nuevo cicatriz territorio insular dudar rentabilidad decir infraestructura tener medioambiente",
+        "persons": [
+            "Alberto_Martín"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ben_Magec"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Entendemos que mientras no haya reducción de espacio al coche es simplemente la instalación de una infraestructura nueva —el tren—, que va a ocupar nuevo territorio, que va a generar una nueva cicatriz en la isla de Gran Canaria y además con una dudosa rentabilidad desde el punto de vista ambiental\", subrayó en declaraciones a Europa Press. Martín recordó que Ben Magec no comparte la instalación del tren \"ni en Gran Canaria ni en Tenerife\" porque \"no responde al objetivo, que en teoría se plantea, que es el de fomentar la movilidad sostenible\". Para los ecologistas, el tren \"no es una solución\" a los problemas de movilidad.",
+        "lemmatized_text": "entender que mientras no haber reducción de espacio a el coche ser simplemente el instalación de uno infraestructura nuevo el tren que ir a ocupar nuevo territorio que ir a generar uno nuevo cicatriz en el isla de gran_canaria y además con uno dudoso rentabilidad desde el punto de vista ambiental subrayar en declaración a europa_press martín recordar que ben_magec no compartir el instalación de el tren ni en gran_canaria ni en tenerife porque no responder a el objetivo que en teoría se plantear que ser el de fomentar el movilidad sostenible para el ecologista el tren no ser uno solución a el problema de movilidad",
+        "lemmatized_text_reduced": "entender haber reducción espacio coche ser simplemente instalación infraestructura nuevo tren ir ocupar nuevo territorio ir generar nuevo cicatriz isla gran_canaria dudoso rentabilidad punto vista ambiental subrayar declaración europa_press martín recordar ben_magec compartir instalación tren gran_canaria tenerife responder objetivo teoría plantear ser fomentar movilidad sostenible ecologista tren ser solución problema movilidad",
+        "persons": [
+            "Martín",
+            "Ben_Magec"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

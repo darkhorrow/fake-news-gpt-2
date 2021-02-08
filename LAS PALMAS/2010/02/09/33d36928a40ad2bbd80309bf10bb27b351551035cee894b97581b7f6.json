@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625218/0/",
+    "title": {
+        "raw_text": "Admite que propinó una paliza a un hombre en Telde (Gran Canaria) y acepta un año y 10 meses de prisión",
+        "lemmatized_text": "admitir que propinar uno paliza a uno hombre en telde gran_canaria y aceptar uno año y 10 mes de prisión",
+        "lemmatized_text_reduced": "admitir propinar paliza hombre telde gran_canaria aceptar año mes prisión",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un hombre admitió hoy que propinó una paliza a otro durante una discusión en la gasolinera del Cubillo ubicada en la zona de San Juan en el municipio de Telde (Gran Canaria) y se conformó con la pena solicitada por la Fiscalía de un año y diez meses de prisión.",
+        "lemmatized_text": "uno hombre admitir hoy que propinar uno paliza a otro durante uno discusión en el gasolinera de el cubillo ubicar en_la_zona_de san_juan en el municipio de telde gran_canaria y se conformar con el pena solicitar por el fiscalía de uno año y 10 mes de prisión",
+        "lemmatized_text_reduced": "hombre admitir propinar paliza discusión gasolinera cubillo ubicar san_juan municipio telde gran_canaria conformar pena solicitar fiscalía año mes prisión",
+        "persons": [
+            "Cubillo"
+        ],
+        "locations": [
+            "San_Juan",
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10"
+        ]
+    },
+    "body": {
+        "raw_text": "El acusado, C.M.R., reconoció durante el juicio celebrado en la Sección Sexta de la Audiencia Provincial de Las Palmas y visto para sentencia que, sobre las 20.00 horas del 2 de noviembre de 2006, se personó en la citada estación de servicio y tuvo un enfrentamiento verbal con otro hombre que se disponía a repostar combustible en su ciclomotor, debido a un episodio anterior entre ellos. En el transcurso de la discusión el acusado, con intención de causar un menoscabo en la integridad física al otro hombre, le propinó a éste \"varios puñetazos en la cara y patadas\" causándole varias lesiones. Tras admitir los hechos, la representante del Ministerio Público modificó su escrito de conclusiones provisionales y rebajó de 5 años a un año y diez meses de cárcel la pena solicitada para C.M.R., además de que pidió que pague una indemnización de 2.500 euros a la víctima por las secuelas. Por otro lado, la Sala anunció que dictará sentencia absolutoria contra otros dos procesados en esta causa, a quienes la Fiscalía retiró la acusación ya que no intervinieron en la reyerta.",
+        "lemmatized_text": "el acusado c.m.r. reconocer durante el juicio celebrar en el sección_sexta_de_la_audiencia_provincial_de_las_palmas y ver para sentencia que sobre el [??:2/11/2006:8.00:pm] se personar en el citar estación de servicio y tener uno enfrentamiento verbal con otro hombre que se disponer a repostar combustible en su ciclomotor debido_a uno episodio anterior entre ellos en el transcurso de el discusión el acusado con intención de causar uno menoscabo en el integridad físico a el otro hombre le propinar a este varios puñetazo en el cara y patada causar le varios lesión tras admitir el hecho el representante de el ministerio_público modificar su escrito de conclusión provisional y rebajar de 5 año a uno año y 10 mes de cárcel el pena solicitar para c.m.r. además_de que pedir que pagar uno indemnización de $_ECU:2.5 a el víctima por el secuela por_otro_lado el sala anunciar que dictar sentencia absolutorio contra otro 2 procesado en este causa a quien el fiscalía retirar el acusación ya_que no intervenir en el reyerta",
+        "lemmatized_text_reduced": "acusado c.m.r. reconocer juicio celebrar sección_sexta_de_la_audiencia_provincial_de_las_palmas ver sentencia personar citar estación servicio tener enfrentamiento verbal hombre disponer repostar combustible ciclomotor episodio anterior transcurso discusión acusado intención causar menoscabo integridad físico hombre propinar puñetazo cara patada causar lesión admitir hecho representante ministerio_público modificar escrito conclusión provisional rebajar año año mes cárcel pena solicitar c.m.r. pedir pagar indemnización víctima secuela sala anunciar dictar sentencia absolutorio procesado causa fiscalía retirar acusación intervenir reyerta",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "C.M.R.",
+            "Ministerio_Público",
+            "C.M.R.",
+            "Sala",
+            "Fiscalía"
+        ],
+        "others": [
+            "Sección_Sexta_de_la_Audiencia_Provincial_de_Las_Palmas"
+        ],
+        "dates": [
+            "[??:2/11/2006:8.00:pm]"
+        ],
+        "numbers": [
+            "5",
+            "10",
+            "$_ECU:2.5",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/369013/0/anciano/ahogado/agustin/",
+    "title": {
+        "raw_text": "Un anciano de 70 años falleció ahogado en la Playa de San Agustín",
+        "lemmatized_text": "uno anciano de 70 año fallecer ahogar en el playa_de_san_agustín",
+        "lemmatized_text_reduced": "anciano año fallecer ahogar playa_de_san_agustín",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Playa_de_San_Agustín"
+        ],
+        "dates": [],
+        "numbers": [
+            "70"
+        ]
+    },
+    "lead": {
+        "raw_text": "Ocurrió en San Bartolomé de Tirajana. De nada sirvieron las labores de reanimación. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "ocurrir en san_bartolomé_de_tirajana de nada servir el labor de reanimación consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ocurrir san_bartolomé_de_tirajana servir labor reanimación consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre murió el sábado ahogado en la Playa de San Agustín, ubicada en el municipio grancanario de San Bartolomé de Tirajana, por problemas respiratorios. Al fallecido, de 70 años, le atendieron efectivos del Servicio de Urgencias Canario (SUC) con una ambulancia medicalizada y con otra de urgencias, aunque, a pesar de las maniobras de reanimación, sólo pudieron constatar su fallecimiento . Una llamada de la Cruz Roja al Centro Coordinador de Emergencias y Seguridad (CECOES 1-1-2) alertó del suceso. Desde el 1-1-2 no facilitaron la identificación del hombre ni su nacionalidad , aunque informaron de que la Policía Nacional se encargó de instruir las diligencias oportunas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno hombre morir el [S:??/??/??:??.??:??] ahogar en el playa_de_san_agustín ubicar en el municipio grancanario de san_bartolomé_de_tirajana por problema respiratorio a el fallecer de 70 año le atender efectivo de el servicio_de_urgencias_canario suc con uno ambulancia medicalizada y con otro de urgencia aunque a_pesar_de el maniobra de reanimación sólo poder constatar su fallecimiento uno llamada de el cruz_roja a el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 alertar de el suceso desde el 1-1-2 no facilitar el identificación de el hombre ni su nacionalidad aunque informar de que el policía_nacional se encargar de instruir el diligencia oportuno consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre morir ahogar playa_de_san_agustín ubicar municipio grancanario san_bartolomé_de_tirajana problema respiratorio fallecer año atender efectivo servicio_de_urgencias_canario suc ambulancia medicalizada urgencia maniobra reanimación poder constatar fallecimiento llamada cruz_roja centro_coordinador_de_emergencias seguridad cecoes alertar suceso facilitar identificación hombre nacionalidad informar policía_nacional encargar instruir diligencia oportuno consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Playa_de_San_Agustín",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Cruz_Roja",
+            "Centro_Coordinador_de_Emergencias",
+            "CECOES",
+            "Policía_Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "70",
+            "1-1-2",
+            "1-1-2"
+        ]
+    }
+}

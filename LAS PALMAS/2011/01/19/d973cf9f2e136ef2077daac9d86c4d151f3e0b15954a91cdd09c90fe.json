@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/932439/0/",
+    "title": {
+        "raw_text": "Hallado el cuerpo sin vida y sin signos de violencia de un varón en Mogán (Gran Canaria)",
+        "lemmatized_text": "hallar el cuerpo sin vida y sin signo de violencia de uno varón en mogán gran_canaria",
+        "lemmatized_text_reduced": "hallar cuerpo vida signo violencia varón mogán gran_canaria",
+        "persons": [],
+        "locations": [
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cuerpo sin vida y sin signos de violencia de un hombre de unos 50 años de edad aproximadamente ha sido hallado en el Barranco de Pino Seco, en la zona de Arguineguín, en el municipio de Mogán (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2.",
+        "lemmatized_text": "el cuerpo sin vida y sin signo de violencia de uno hombre de uno 50 año de edad aproximadamente haber ser hallar en el barranco_de_pino_seco en_la_zona_de arguineguín en el municipio de mogán gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2",
+        "lemmatized_text_reduced": "cuerpo vida signo violencia hombre año edad aproximadamente haber ser hallar barranco_de_pino_seco arguineguín municipio mogán gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Pino_Seco",
+            "Arguineguín",
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "1-1-2"
+        ]
+    },
+    "body": {
+        "raw_text": "El cuerpo sin vida y sin signos de violencia de un hombre de unos 50 años de edad aproximadamente ha sido hallado en el Barranco de Pino Seco, en la zona de Arguineguín, en el municipio de Mogán (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 1-1-2. En concreto, a las 05.42 horas se recibió una alerta en el Cecoes informando del hallazgo del cadáver de un varón en la zona mencionada. De este modo, el 1-1-2 activó de inmediato los recursos de emergencias necesarios. El médico del Centro de Salud al llegar al lugar de los hechos verificó que el afectado se encontraba fallecido y no presentaba signos de violencia. Además, según su estado, podía haber fallecido hacía algunas horas. La Guardia Civil instruyó las diligencias correspondientes, mientras que la Policía Local colaboró con el resto de los recursos de emergencias.",
+        "lemmatized_text": "el cuerpo sin vida y sin signo de violencia de uno hombre de uno 50 año de edad aproximadamente haber ser hallar en el barranco_de_pino_seco en_la_zona_de arguineguín en el municipio de mogán gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 1-1-2 en concreto a el TM_h:5.42 se recibir uno alerta en el cecoes informar de el hallazgo de el cadáver de uno varón en el zona mencionar de este modo el 1-1-2 activar de inmediato el recurso de emergencia necesario el médico de el centro_de_salud a el llegar a el lugar de el hecho verificar que el afectar se encontrar fallecer y no presentar signo de violencia además según su estado poder haber fallecer hacer alguno hora el guardia_civil instruir el diligencia correspondiente mientras_que el policía_local colaborar con el resto de el recurso de emergencia",
+        "lemmatized_text_reduced": "cuerpo vida signo violencia hombre año edad aproximadamente haber ser hallar barranco_de_pino_seco arguineguín municipio mogán gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes concreto recibir alerta cecoes informar hallazgo cadáver varón zona mencionar modo activar inmediato recurso emergencia necesario médico centro_de_salud llegar lugar hecho verificar afectar encontrar fallecer presentar signo violencia estado poder haber fallecer hacer hora guardia_civil instruir diligencia correspondiente policía_local colaborar resto recurso emergencia",
+        "persons": [],
+        "locations": [
+            "Barranco_de_Pino_Seco",
+            "Arguineguín",
+            "Mogán",
+            "Gran_Canaria",
+            "Cecoes"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Centro_de_Salud",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "1-1-2",
+            "TM_h:5.42",
+            "1-1-2"
+        ]
+    }
+}

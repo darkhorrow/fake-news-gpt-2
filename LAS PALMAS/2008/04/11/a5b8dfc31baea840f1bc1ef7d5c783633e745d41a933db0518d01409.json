@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/368739/0/incendio/petrolero/canarias/",
+    "title": {
+        "raw_text": "Muere un mecánico en el incendio de un petrolero en el muelle de Las Palmas",
+        "lemmatized_text": "morir uno mecánico en el incendio de uno petrolero en el muelle de las_palmas",
+        "lemmatized_text_reduced": "morir mecánico incendio petrolero muelle las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se trata de un hombre de 50 años y nacionalidad polaca. El incendio se declaró en la sala de máquinas . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "se tratar de uno hombre de 50 año y nacionalidad polaco el incendio se declarar en el sala de máquina consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "tratar hombre año nacionalidad polaco incendio declarar sala máquina consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50"
+        ]
+    },
+    "body": {
+        "raw_text": "Un mecánico de 50 años y nacionalidad polaca falleció hoy en el incendio declarado en la sala de máquinas de un petrolero que estaba atracado en el conocido como muelle de Los Cambuyoneros del Puerto de La Luz y de Las Palmas, según informó un portavoz de la Autoridad Portuaria. El fuego se declaró por causas que investigará Capitanía Marítima de Las Palmas sobre las 18.00 horas (hora canaria) en el petrolero \"Olivia\" , de 4.270 toneladas y 111 metros de eslora, lo que obligó a evacuar a sus tripulantes , cuyo número no se ha precisado hasta el momento. Una hora después, el incendio quedó controlado con cubas y espuma, aunque se prosigue enfriando su estructura para evitar conatos. El barco había recalado varias veces en el Puerto de La Luz con anterioridad aunque hasta el momento se desconoce de dónde procedía en esta ocasión así como su bandera. En la extinción del fuego y el dispositivo organizado con motivo de esta emergencia han participado varias unidades de tres parques de bomberos de Las Palmas, Salvamento Marítimo, los servicios de emergencia y personal de la Autoridad Portuaria de Las Palmas, precisaron las fuentes de esta última entidad. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno mecánico de 50 año y nacionalidad polaco fallecer hoy en el incendio declarar en el sala de máquina de uno petrolero que estar atracar en el conocer como muelle de los_cambuyoneros_del_puerto_de_la_luz y de las_palmas según informar uno portavoz de el autoridad_portuaria el fuego se declarar por causa que investigar capitanía_marítima_de_las_palmas sobre el TM_h:18 hora canario en el petrolero olivia de WG_tm:4.27 y LN_m:111 de eslora el que obligar a evacuar a su tripulante cuyo número no se haber precisar hasta el momento uno hora después el incendio quedar controlar con cuba y espuma aunque se proseguir enfriar su estructura para evitar conato el barco haber recalar varios vez en el puerto_de_la_luz con anterioridad aunque hasta el momento se desconocer de dónde proceder en este ocasión así_como su bandera en el extinción de el fuego y el dispositivo organizar con motivo de este emergencia haber participar varios unidad de 3 parque de bombero de las_palmas salvamento_marítimo el servicio de emergencia y personal de el autoridad_portuaria_de_las_palmas precisar el fuente de este último entidad consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "mecánico año nacionalidad polaco fallecer incendio declarar sala máquina petrolero estar atracar conocer muelle los_cambuyoneros_del_puerto_de_la_luz las_palmas informar portavoz autoridad_portuaria fuego declarar causa investigar capitanía_marítima_de_las_palmas hora canario petrolero olivia eslora obligar evacuar tripulante número haber precisar momento hora incendio quedar controlar cuba espuma proseguir enfriar estructura evitar conato barco haber recalar vez puerto_de_la_luz anterioridad momento desconocer proceder ocasión bandera extinción fuego dispositivo organizar motivo emergencia haber participar unidad parque bombero las_palmas salvamento_marítimo servicio emergencia personal autoridad_portuaria_de_las_palmas precisar fuente último entidad consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Autoridad_Portuaria",
+            "Capitanía_Marítima_de_Las_Palmas",
+            "Las_Palmas",
+            "Autoridad_Portuaria_de_Las_Palmas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Los_Cambuyoneros_del_Puerto_de_La_Luz",
+            "Olivia"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "TM_h:18",
+            "WG_tm:4.27",
+            "LN_m:111",
+            "3"
+        ]
+    }
+}

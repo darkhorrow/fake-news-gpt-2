@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/965896/0/",
+    "title": {
+        "raw_text": "Fallece un ciclista tras colisionar con un turismo en Gran Canaria",
+        "lemmatized_text": "fallecer uno ciclista tras colisionar con uno turismo en gran_canaria",
+        "lemmatized_text_reduced": "fallecer ciclista colisionar turismo gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un ciclista, de 30 años de edad, ha fallecido este lunes después de sufrir una colisión con un turismo al Sur de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno ciclista de 30 año de edad haber fallecer este [L:??/??/??:??.??:??] después_de sufrir uno colisión con uno turismo a el sur_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "ciclista año edad haber fallecer sufrir colisión turismo sur_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Sur_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un ciclista, de 30 años de edad, ha fallecido este lunes después de sufrir una colisión con un turismo al Sur de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. El suceso se produjo a las 08.42 horas en la Avenida de Moya de Maspalomas, en el municipio de San Bartolomé de Tirajana (Gran Canaria). La colisión le provocó al ciclista una parada cardiorrespiratoria y aunque le practicaron maniobras de reanimación cardiopulmonar básicas y avanzadas, finalmente sólo se pudo certificar su muerte. Hasta el lugar asistió además de personal del Servicio de Urgencias Canario (SUC), agentes de la Policía Local, así como del Cuerpo Nacional de Policía.",
+        "lemmatized_text": "uno ciclista de 30 año de edad haber fallecer este [L:??/??/??:??.??:??] después_de sufrir uno colisión con uno turismo a el sur_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el suceso se producir a el TM_h:8.42 en el avenida_de_moya_de_maspalomas en el municipio de san_bartolomé_de_tirajana gran_canaria el colisión le provocar a el ciclista uno parada cardiorrespiratoria y aunque le practicar maniobra de reanimación cardiopulmonar básico y avanzar finalmente sólo se poder certificar su muerte hasta el lugar asistir además_de personal de el servicio_de_urgencias_canario suc agente de el policía_local así_como de el cuerpo_nacional_de_policía",
+        "lemmatized_text_reduced": "ciclista año edad haber fallecer sufrir colisión turismo sur_de_gran_canaria informar centro_coordinador_de_emergencias seguridad suceso producir avenida_de_moya_de_maspalomas municipio san_bartolomé_de_tirajana gran_canaria colisión provocar ciclista parada cardiorrespiratoria practicar maniobra reanimación cardiopulmonar básico avanzar finalmente poder certificar muerte lugar asistir personal servicio_de_urgencias_canario suc agente policía_local cuerpo_nacional_de_policía",
+        "persons": [],
+        "locations": [
+            "Avenida_de_Moya_de_Maspalomas",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Sur_de_Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "112",
+            "TM_h:8.42"
+        ]
+    }
+}

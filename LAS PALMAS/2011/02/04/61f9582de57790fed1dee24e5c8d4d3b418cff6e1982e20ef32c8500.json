@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/949368/0/",
+    "title": {
+        "raw_text": "Cepsa adquiere Chevron España",
+        "lemmatized_text": "cepsa adquirir chevron_españa",
+        "lemmatized_text_reduced": "cepsa adquirir chevron_españa",
+        "persons": [
+            "Chevron_España"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cepsa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Cepsa ha suscrito un acuerdo con la multinacional norteamericana Chevron para la adquisición del 100% de las acciones de su filial en España, Chevron España, informó este viernes la petrolera a la Comisión Nacional del Mercado de Valores (CNMV).",
+        "lemmatized_text": "cepsa haber suscribir uno acuerdo con el multinacional norteamericano chevron para el adquisición de el 100/100 de el acción de su filial en españa chevron_españa informar este [V:??/??/??:??.??:??] el petrolero a el comisión_nacional_del_mercado_de_valores cnmv",
+        "lemmatized_text_reduced": "cepsa haber suscribir acuerdo multinacional norteamericano chevron adquisición acción filial españa chevron_españa informar petrolero comisión_nacional_del_mercado_de_valores cnmv",
+        "persons": [
+            "Chevron_España"
+        ],
+        "locations": [
+            "España"
+        ],
+        "organizations": [
+            "Cepsa",
+            "Chevron",
+            "Comisión_Nacional_del_Mercado_de_Valores",
+            "CNMV"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "100/100"
+        ]
+    },
+    "body": {
+        "raw_text": "Cepsa ha suscrito un acuerdo con la multinacional norteamericana Chevron para la adquisición del 100% de las acciones de su filial en España, Chevron España, informó este viernes la petrolera a la Comisión Nacional del Mercado de Valores (CNMV). La operación, que contempla la compra de los negocios de distribución y almacenamiento de combustibles en Canarias así como de aviación y lubricantes terrestres en la Península de Chevron España, queda en suspenso hasta que se obtenga las preceptivas autorizaciones por parte de los organismos competentes. El cierre de la operación está previsto que se realice dentro del ejercicio 2011.",
+        "lemmatized_text": "cepsa haber suscribir uno acuerdo con el multinacional norteamericano chevron para el adquisición de el 100/100 de el acción de su filial en españa chevron_españa informar este [V:??/??/??:??.??:??] el petrolero a el comisión_nacional_del_mercado_de_valores cnmv el operación que contemplar el compra de el negocio de distribución y almacenamiento de combustible en canarias así_como de aviación y lubricante terrestre en el península_de_chevron_españa quedar en suspenso hasta que se obtener el preceptivo autorización por parte de el organismo competente el cierre de el operación estar prever que se realizar dentro de el ejercicio 2011",
+        "lemmatized_text_reduced": "cepsa haber suscribir acuerdo multinacional norteamericano chevron adquisición acción filial españa chevron_españa informar petrolero comisión_nacional_del_mercado_de_valores cnmv operación contemplar compra negocio distribución almacenamiento combustible canarias aviación lubricante terrestre península_de_chevron_españa quedar suspenso obtener preceptivo autorización parte organismo competente cierre operación estar prever realizar ejercicio",
+        "persons": [
+            "Chevron_España"
+        ],
+        "locations": [
+            "España",
+            "Canarias"
+        ],
+        "organizations": [
+            "Cepsa",
+            "Chevron",
+            "Comisión_Nacional_del_Mercado_de_Valores",
+            "CNMV"
+        ],
+        "others": [
+            "Península_de_Chevron_España"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "100/100",
+            "2011"
+        ]
+    }
+}

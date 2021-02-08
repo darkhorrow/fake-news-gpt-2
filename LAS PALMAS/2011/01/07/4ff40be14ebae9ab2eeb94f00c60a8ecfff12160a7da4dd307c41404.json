@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922254/0/",
+    "title": {
+        "raw_text": "Rescatan a un hombre en la playa de Las Canteras, en Las Palmas de Gran Canaria",
+        "lemmatized_text": "rescatar a uno hombre en el playa de las_canteras en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "rescatar hombre playa las_canteras las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Canteras",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de emergencia han rescatado este viernes a un hombre, que se encuentra en estado menos grave, después de que estuviera a punto de sufrir un ahogamiento en la playa de Las Canteras en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el servicio de emergencia haber rescatar este [V:??/??/??:??.??:??] a uno hombre que se encontrar en estado menos grave después_de que estar a_punto_de sufrir uno ahogamiento en el playa de las_canteras en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "servicio emergencia haber rescatar hombre encontrar estado grave estar sufrir ahogamiento playa las_canteras las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Canteras",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los servicios de emergencia han rescatado este viernes a un hombre, que se encuentra en estado menos grave, después de que estuviera a punto de sufrir un ahogamiento en la playa de Las Canteras en Las Palmas de Gran Canaria. El afectado, según informó el Centro Coordinador de Emergencias y Seguridad del 112, es un hombre de 60 años de edad que tuvo que ser trasladado por personal del Servicio de Urgencias Canario (SUC) al Hospital Universitario de Gran Canaria Doctor Negrín. Hasta el lugar del incidente acudió, además de personal del SUC, también de Cruz Roja, así como agentes de la Policía Local, que practicaron las diligencias correspondientes.",
+        "lemmatized_text": "el servicio de emergencia haber rescatar este [V:??/??/??:??.??:??] a uno hombre que se encontrar en estado menos grave después_de que estar a_punto_de sufrir uno ahogamiento en el playa de las_canteras en las_palmas_de_gran_canaria el afectar según informar el centro_coordinador_de_emergencias y seguridad de el 112 ser uno hombre de 60 año de edad que tener que ser trasladar por personal de el servicio_de_urgencias_canario suc a el hospital_universitario_de_gran_canaria_doctor_negrín hasta el lugar de el incidente acudir además_de personal de el suc también de cruz_roja así_como agente de el policía_local que practicar el diligencia correspondiente",
+        "lemmatized_text_reduced": "servicio emergencia haber rescatar hombre encontrar estado grave estar sufrir ahogamiento playa las_canteras las_palmas_de_gran_canaria afectar informar centro_coordinador_de_emergencias seguridad ser hombre año edad tener ser trasladar personal servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín lugar incidente acudir personal suc cruz_roja agente policía_local practicar diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Las_Canteras",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Cruz_Roja",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "60"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/689533/0/",
+    "title": {
+        "raw_text": "Presidente canario dice que la actitud del Gobierno con el E-ELT ha sido \"lamentable\" y muestra de \"desidia y dejadez\"",
+        "lemmatized_text": "presidente canario decir que el actitud de el gobierno con el e-elt haber ser lamentable y mostrar de desidia y dejadez",
+        "lemmatized_text_reduced": "presidente canario decir actitud gobierno e-elt haber ser lamentable mostrar desidia dejadez",
+        "persons": [
+            "Presidente"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "E-ELT"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero (CC), aseguró hoy que la actitud del Gobierno de José Luis Rodríguez Zapatero con la candidatura de La Palma al Telescopio Extremadamente Grande (E-ELT) ha sido \"lamentable\" y muestra de \"desidia, dejadez y falta de compromiso\".",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero cc asegurar hoy que el actitud de el gobierno_de_josé_luis_rodríguez_zapatero con el candidatura de la_palma a el telescopio_extremadamente_grande e-elt haber ser lamentable y mostrar de desidia dejadez y falta de compromiso",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero cc asegurar actitud gobierno_de_josé_luis_rodríguez_zapatero candidatura la_palma telescopio_extremadamente_grande e-elt haber ser lamentable mostrar desidia dejadez falta compromiso",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "CC",
+            "Gobierno_de_José_Luis_Rodríguez_Zapatero",
+            "Telescopio_Extremadamente_Grande",
+            "E-ELT"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Para Rivero, el Gobierno central \"jugó a perder\" y \"al final perdió, como suele suceder\". \"El Gobierno de España estaba jugando a perder con el telescopio. Todas sus acciones eran de quien juega a perder y al final perdió, como suele suceder en estos casos\", aseguró Rivero antes de tomar parte en el I Foro Grancanario por el Empleo. El presidente canario dijo que la decisión final es \"muy triste\" sobre todo porque supone perder una inversión europea de \"más de 1.000 millones de euros en un momento en que quien preside la UE es España\". \"Que se vaya a Chile da muestras de la desidia, la dejadez y la falta de compromiso que ha tenido el Gobierno de España. Lamentable, sin duda. Y es que cuando uno no juega a ganar con coraje, decisión, compromiso y desplegando todas las acciones políticas necesarias desde el punto de vista diplomático al final pierde\", lamentó.",
+        "lemmatized_text": "para rivero el gobierno central jugar a perder y a el final perder como soler suceder el gobierno_de_españa estar jugar a perder con el telescopio todo su acción ser de quien jugar a perder y a el final perder como soler suceder en este caso asegurar rivero antes_de tomar_parte en el i_foro_grancanario_por_el_empleo el presidente canario decir que el decisión final ser muy triste sobre todo porque suponer perder uno inversión europeo de más de $_ECU:1000000 en uno momento en que quien presidir el ue ser españa que se ir a chile dar muestra de el desidia el dejadez y el falta de compromiso que haber tener el gobierno_de_españa lamentable sin duda y ser que cuando uno no jugar a ganar con coraje decisión compromiso y desplegar todo el acción político necesario desde el punto de vista diplomático a el final perder lamentar",
+        "lemmatized_text_reduced": "rivero gobierno central jugar perder final perder soler suceder gobierno_de_españa estar jugar perder telescopio acción ser jugar perder final perder soler suceder caso asegurar rivero tomar_parte i_foro_grancanario_por_el_empleo presidente canario decir decisión final ser triste suponer perder inversión europeo momento presidir ue ser españa ir chile dar muestra desidia dejadez falta compromiso haber tener gobierno_de_españa lamentable duda ser jugar ganar coraje decisión compromiso desplegar acción político necesario punto vista diplomático final perder lamentar",
+        "persons": [
+            "Rivero",
+            "Rivero"
+        ],
+        "locations": [
+            "España",
+            "Chile"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Gobierno_de_España",
+            "I_Foro_Grancanario_por_el_Empleo",
+            "UE",
+            "Gobierno_de_España"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:1000000"
+        ]
+    }
+}

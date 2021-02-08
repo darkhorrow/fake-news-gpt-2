@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/300528/0/turismo/puertos/canarias/",
+    "title": {
+        "raw_text": "Gran Canaria recibió 5600 visitantes el fin de semana por el muelle de Santa Catalina",
+        "lemmatized_text": "gran_canaria recibir 5600 visitante el fin de semana por el muelle de santa_catalina",
+        "lemmatized_text_reduced": "gran_canaria recibir visitante fin semana muelle santa_catalina",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Santa_Catalina"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5600"
+        ]
+    },
+    "lead": {
+        "raw_text": "Tres grandes navíos atracaron en la isla el mismo día. Se espera lleguen 160.000 en todo el año 2007. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "3 grande navío atracar en el isla el mismo día se esperar llegar 160 en todo el [??:??/??/2007:??.??:??] consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "grande navío atracar isla mismo día esperar llegar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/2007:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "160"
+        ]
+    },
+    "body": {
+        "raw_text": "El muelle Santa Catalina de Las Palmas de Gran Canaria recibió este sábado 3 de noviembre la llegada de tres grandes cruceros que trajeron a la ciudad a un total de 5.600 pasajeros . Uno de estos tres grandes navíos el Norwegian Gem que realiza su viaje inaugural procedente de Barcelona tras atracar en ciudades como Palma de Mallorca y Casablanca. Los otros dos cruceros son el Queen Elizabeth II que zarpó de Inglaterra y que se dirigirá a Lisboa y el Thomson Destiny , que realiza circuitos habituales entre Madeira, las Islas Canarias y Marruecos. Los tres navíos turísticos vieron amanecer en el Puerto de la Luz ya que atracaron a primera hora de la mañana. La llegada de estos tres barcos el mismo día con casi 6.000 pasajeros a bordo refuerza la posición de Las Palmas de Gran Canaria como ciudad de destino turístico para este sector que se caracteriza por su calidad y poder adquisitivo medio alto. Dentro de las previsiones de llegada de este tipo de turistas en 2007 se espera que la cifra llegue a los 160.000 turistas entrados por Puerto de La Luz y Las Palmas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el muelle santa_catalina_de_las_palmas_de_gran_canaria recibir este [S:3/11/??:??.??:??] el llegada de 3 grande crucero que traer a el ciudad a uno total de 5.6 pasajero uno de este 3 grande navío el norwegian_gem que realizar su viaje inaugural procedente de barcelona tras atracar en ciudad como palma_de_mallorca y casablanca el otro 2 crucero ser el queen_elizabeth_ii que zarpar de inglaterra y que se dirigir a lisboa y el thomson_destiny que realizar circuito habitual entre madeira el islas_canarias y marruecos el 3 navío turístico ver amanecer en el puerto_de_la_luz ya_que atracar a 1 hora de el mañana el llegada de este 3 barco el mismo día con casi 6 pasajero a_bordo reforzar el posición de las_palmas_de_gran_canaria como ciudad de destino turístico para este sector que se caracterizar por su calidad y poder adquisitivo medio alto dentro_de el previsión de llegada de este tipo de turista en 2007 se esperar que el cifra llegar a el 160 turista entrar por puerto_de_la_luz y las_palmas consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "muelle santa_catalina_de_las_palmas_de_gran_canaria recibir llegada grande crucero traer ciudad total pasajero grande navío norwegian_gem realizar viaje inaugural procedente barcelona atracar ciudad palma_de_mallorca casablanca crucero ser queen_elizabeth_ii zarpar inglaterra dirigir lisboa thomson_destiny realizar circuito habitual madeira islas_canarias marruecos navío turístico ver amanecer puerto_de_la_luz atracar 1 hora mañana llegada barco mismo día pasajero reforzar posición las_palmas_de_gran_canaria ciudad destino turístico sector caracterizar calidad poder adquisitivo medio alto previsión llegada tipo turista esperar cifra llegar turista entrar puerto_de_la_luz las_palmas consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Santa_Catalina_de_Las_Palmas_de_Gran_Canaria",
+            "Barcelona",
+            "Palma_de_Mallorca",
+            "Casablanca",
+            "Inglaterra",
+            "Lisboa",
+            "Islas_Canarias",
+            "Marruecos",
+            "Puerto_de_la_Luz",
+            "Las_Palmas_de_Gran_Canaria",
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Norwegian_Gem",
+            "Queen_Elizabeth_II",
+            "Thomson_Destiny",
+            "Madeira",
+            "Las_Palmas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[S:3/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "5.6",
+            "3",
+            "2",
+            "3",
+            "3",
+            "6",
+            "2007",
+            "160"
+        ]
+    }
+}

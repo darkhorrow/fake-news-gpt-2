@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/932470/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo evacua a un mercante herido a 150 millas al Sur de Gran Canaria",
+        "lemmatized_text": "salvamento_marítimo evacua a uno mercante herir a LN_mi:150 a el sur_de_gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo evacua mercante herir sur_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Sur_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:150"
+        ]
+    },
+    "lead": {
+        "raw_text": "Salvamento Marítimo ha evacuado durante la madrugada de este miércoles a un mercante a 150 millas al Sur de Gran Canaria, después de que sufriera un \"fuerte\" dolor abdominal.",
+        "lemmatized_text": "salvamento_marítimo haber evacuar durante el madrugada de este [X:??/??/??:??.??:??] a uno mercante a LN_mi:150 a el sur_de_gran_canaria después_de que sufrir uno fuerte dolor abdominal",
+        "lemmatized_text_reduced": "salvamento_marítimo haber evacuar madrugada mercante sur_de_gran_canaria sufrir fuerte dolor abdominal",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Sur_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mi:150"
+        ]
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo ha evacuado durante la madrugada de este miércoles a un mercante a 150 millas al Sur de Gran Canaria, después de que sufriera un \"fuerte\" dolor abdominal. La evacuación comenzó a las 02.00 horas y finalizó a las 06.00 horas, participando en el rescate el helicóptero Helimer 208 y la Salvamar 203, según informaron fuentes de Salvamento Marítimo a Europa Press. En cuanto al herido, es de nacionalidad chilena, mientras que el barco era de bandera de Grecia. El mercante, tras ser evacuado, fue trasladado hasta el Hospital Dr. Negrín, en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "salvamento_marítimo haber evacuar durante el madrugada de este [X:??/??/??:??.??:??] a uno mercante a LN_mi:150 a el sur_de_gran_canaria después_de que sufrir uno fuerte dolor abdominal el evacuación comenzar a el TM_h:2 y finalizar a el TM_h:6 participar en el rescate el helicóptero helimer 208 y el salvamar 203 según informar fuente de salvamento_marítimo a europa_press en cuanto a el herir ser de nacionalidad chileno mientras_que el barco ser de bandera de grecia el mercante tras ser evacuar ser trasladar hasta el hospital_dr._negrín en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo haber evacuar madrugada mercante sur_de_gran_canaria sufrir fuerte dolor abdominal evacuación comenzar finalizar participar rescate helicóptero helimer salvamar informar fuente salvamento_marítimo europa_press herir ser nacionalidad chileno barco ser bandera grecia mercante ser evacuar ser trasladar hospital_dr._negrín las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Grecia",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Sur_de_Gran_Canaria",
+            "Salvamar",
+            "Salvamento_Marítimo",
+            "Europa_Press",
+            "Hospital_Dr._Negrín"
+        ],
+        "others": [
+            "Helimer"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mi:150",
+            "TM_h:2",
+            "TM_h:6",
+            "208",
+            "203"
+        ]
+    }
+}

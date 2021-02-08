@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/644625/0/",
+    "title": {
+        "raw_text": "Turismo.- Iberia cobrará a los residentes canarios 15 euros por exceso de peso en la primera maleta hasta 32 kilos",
+        "lemmatized_text": "turismo iberia cobrar a el residente canario $_ECU:15 por exceso de peso en el 1 maleta hasta 32 kilo",
+        "lemmatized_text_reduced": "turismo iberia cobrar residente canario exceso peso 1 maleta kilo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Iberia"
+        ],
+        "others": [
+            "Turismo"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:15",
+            "32"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente de Iberia, Antonio Vázquez, ha asegurado hoy que la compañía aplicará la tarifa antigua de sobrepeso en el equipaje a los residentes en la Comunidad Autónoma de Canarias, por lo que los isleños pagarán 15 euros por el exceso hasta los 32 kilogramos en la primera maleta.",
+        "lemmatized_text": "el presidente de iberia antonio_vázquez haber asegurar hoy que el compañía aplicar el tarifa antiguo de sobrepeso en el equipaje a el residente en el comunidad_autónoma_de_canarias por el que el isleño pagar $_ECU:15 por el exceso hasta el WG_kg:32 en el 1 maleta",
+        "lemmatized_text_reduced": "presidente iberia antonio_vázquez haber asegurar compañía aplicar tarifa antiguo sobrepeso equipaje residente comunidad_autónoma_de_canarias isleño pagar exceso 1 maleta",
+        "persons": [
+            "Antonio_Vázquez"
+        ],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:15",
+            "WG_kg:32"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Hemos estado viendo un aspecto en el que, técnicamente, pudiera haber algo que perjudique ligeramente a los pasajeros desde Canarias, sobre todo a aquellas personas que en la primera maleta tengan algo de exceso en su equipaje (más de 23 kilogramos). El exceso que hay entre los 23 y los 32 kilogramos de la primera maleta, según el sistema nuevo pagarían un poco más y según el sistema antiguo pagarían un poco menos\", manifestó hoy tras una reunión con el presidente del Gobierno de Canarias, Paulino Rivero. De esta manera, Vázquez explicó que, reconociendo la especificidad del archipiélago canario y de los residentes en las islas, Iberia, en el tramo entre 23 y 32 kilogramos de exceso de equipaje en la primera maleta, aplicará la tarifa del modelo antiguo, y no del nuevo, por el que se tiene que pagar 60 euros por la facturación de una segunda maleta. Según el sistema nuevo estos pasajeros tendrían que pagar aproximadamente 60 euros por superar los 23 kilogramos en su equipaje y tener que usar una segunda maleta, mientras que aplicando la tarifa de exceso de peso anterior, los residentes en las islas tendrán que abonar 15 euros, siempre que el exceso sea en la primera maleta y no supere los 32 kilos. (Habrá ampliación)",
+        "lemmatized_text": "haber estado ver uno aspecto en el que técnicamente poder haber algo que perjudicar ligeramente a el pasajero desde canarias sobre todo a aquel persona que en el 1 maleta tener algo de exceso en su equipaje más de WG_kg:23 el exceso que haber entre el 23 y el WG_kg:32 de el 1 maleta según el sistema nuevo pagar uno poco más y según el sistema antiguo pagar uno poco menos manifestar hoy tras uno reunión con el presidente de el gobierno_de_canarias paulino_rivero de este manera vázquez explicar que reconocer el especificidad de el archipiélago canario y de el residente en el isla iberia en el tramo entre 23 y WG_kg:32 de exceso de equipaje en el 1 maleta aplicar el tarifa de el modelo antiguo y no de el nuevo por el que se tener que pagar $_ECU:60 por el facturación de uno 2 maleta según el sistema nuevo este pasajero tener que pagar aproximadamente $_ECU:60 por superar el WG_kg:23 en su equipaje y tener que usar uno 2 maleta mientras_que aplicar el tarifa de exceso de peso anterior el residente en el isla tener que abonar $_ECU:15 siempre que el exceso ser en el 1 maleta y no superar el 32 kilo haber ampliación",
+        "lemmatized_text_reduced": "haber estado ver aspecto técnicamente poder haber perjudicar ligeramente pasajero canarias persona 1 maleta tener exceso equipaje exceso haber 1 maleta sistema nuevo pagar sistema antiguo pagar manifestar reunión presidente gobierno_de_canarias paulino_rivero manera vázquez explicar reconocer especificidad archipiélago canario residente isla iberia tramo exceso equipaje 1 maleta aplicar tarifa modelo antiguo nuevo tener pagar facturación 2 maleta sistema nuevo pasajero tener pagar aproximadamente superar equipaje tener usar 2 maleta aplicar tarifa exceso peso anterior residente isla tener abonar exceso ser 1 maleta superar kilo haber ampliación",
+        "persons": [
+            "Paulino_Rivero",
+            "Vázquez"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Iberia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_kg:23",
+            "23",
+            "WG_kg:32",
+            "23",
+            "WG_kg:32",
+            "$_ECU:60",
+            "$_ECU:60",
+            "WG_kg:23",
+            "$_ECU:15",
+            "32"
+        ]
+    }
+}

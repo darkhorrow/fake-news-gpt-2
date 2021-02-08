@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590876/0/",
+    "title": {
+        "raw_text": "Haidar sale en ambulancia del hospital de Lanzarote camino del aeropuerto",
+        "lemmatized_text": "haidar salir en ambulancia de el hospital de lanzarote camino de el aeropuerto",
+        "lemmatized_text_reduced": "haidar salir ambulancia hospital lanzarote camino aeropuerto",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La activista saharaui Aminetu Haidar acaba de salir del Hospital General de Lanzarote por la puerta principal a saludar a los medios de comunicación y, posteriormente, ha regresado al recinto para salir por otra puerta para subir en una ambulancia, acompañada por una patrulla de la Guardia Civil, en dirección al Aeropuerto de Guacimeta.",
+        "lemmatized_text": "el activista saharaui aminetu_haidar acabar de salir de el hospital_general_de_lanzarote por el puerta principal a saludar a el medio de comunicación y posteriormente haber regresar a el recinto para salir por otro puerta para subir en uno ambulancia acompañar por uno patrulla de el guardia_civil en dirección a el aeropuerto_de_guacimeta",
+        "lemmatized_text_reduced": "activista saharaui aminetu_haidar acabar salir hospital_general_de_lanzarote puerta principal saludar medio comunicación posteriormente haber regresar recinto salir puerta subir ambulancia acompañar patrulla guardia_civil dirección aeropuerto_de_guacimeta",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Aeropuerto_de_Guacimeta"
+        ],
+        "organizations": [
+            "Hospital_General_de_Lanzarote",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En concreto, Haidar ha salido del centro hospitalario Doctor José Molina Orosa a las 21.30 horas de esta noche en silla de ruedas y sin tener en cuenta su fotofobia para atender a los medios de comunicación y agradecerles su labor durante todos estos días. Ahora va camino del aeródromo donde le espera un avión medicalizado que le trasladará a El Aaiún, donde se encuentra su hogar en el Sáhara Occidental. La ambulancia tardará aproximadamente cinco minutos en llegar a la zona aeroportuaria. Allí la esperan un gran número de periodistas, miembros de la comunidad saharaui del archipiélago y también representantes de la Plataforma de Solidaridad con la defensora de los derechos humanos que la han acompañado durante los 32 días que ha durado su huelga de hambre. La activista saharaui regresará a la capital del Sáhara Occidental acompañada por su hermana, Leila Haidar, que llegó anoche a Lanzarote, y por el doctor y director del Hospital de Lanzarote, Domingo de Guzmán, que ha seguido su caso desde el principio. Cerca de 200 personas se encuentran en el entorno del centro hospitalario para respaldar a Haidar, mientras que una patrulla de la Guardia Civil y otra de la Policía Nacional se encargan de garantizar la seguridad en el recinto.",
+        "lemmatized_text": "en concreto haidar haber salir de el centro hospitalario doctor_josé_molina_orosa a el TM_h:21.3 de este noche en silla de rueda y sin tener_en_cuenta su fotofobia para atender a el medio de comunicación y agradecer le su labor durante todo este día ahora ir camino de el aeródromo donde le esperar uno avión medicalizado que le trasladar a el_aaiún donde se encontrar su hogar en el sáhara_occidental el ambulancia tardar aproximadamente TM_min:5 en llegar a el zona aeroportuario allí lo esperar uno gran número de periodista miembro de el comunidad saharaui de el archipiélago y también representante de el plataforma_de_solidaridad con el defensor de el derecho humano que lo haber acompañar durante el TM_d:32 que haber durar su huelga de hambre el activista saharaui regresar a el capital de el sáhara_occidental acompañar por su hermano leila_haidar que llegar anoche a lanzarote y por el doctor y director de el hospital_de_lanzarote [G:??/??/??:??.??:??] de guzmán que haber seguir su caso desde el principio cerca de 200 persona se encontrar en el entorno de el centro hospitalario para respaldar a haidar mientras_que uno patrulla de el guardia_civil y otro de el policía_nacional se encargar de garantizar el seguridad en el recinto",
+        "lemmatized_text_reduced": "concreto haidar haber salir centro hospitalario doctor_josé_molina_orosa noche silla rueda tener_en_cuenta fotofobia atender medio comunicación agradecer labor día ir camino aeródromo esperar avión medicalizado trasladar el_aaiún encontrar hogar sáhara_occidental ambulancia tardar aproximadamente llegar zona aeroportuario esperar gran número periodista miembro comunidad saharaui archipiélago representante plataforma_de_solidaridad defensor derecho humano haber acompañar haber durar huelga hambre activista saharaui regresar capital sáhara_occidental acompañar hermano leila_haidar llegar lanzarote doctor director hospital_de_lanzarote guzmán haber seguir caso principio persona encontrar entorno centro hospitalario respaldar haidar patrulla guardia_civil policía_nacional encargar garantizar seguridad recinto",
+        "persons": [
+            "Leila_Haidar",
+            "Guzmán"
+        ],
+        "locations": [
+            "El_Aaiún",
+            "Sáhara_Occidental",
+            "Sáhara_Occidental",
+            "Lanzarote",
+            "Haidar"
+        ],
+        "organizations": [
+            "Haidar",
+            "Doctor_José_Molina_Orosa",
+            "Plataforma_de_Solidaridad",
+            "Hospital_de_Lanzarote",
+            "Guardia_Civil",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:21.3",
+            "TM_min:5",
+            "TM_d:32",
+            "200"
+        ]
+    }
+}

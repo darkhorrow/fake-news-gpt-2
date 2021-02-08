@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/631668/0/",
+    "title": {
+        "raw_text": "Un barco regresa a Tenerife al no poder atracar en el muelle de Agaete (Gran Canaria)",
+        "lemmatized_text": "uno barco regresar a tenerife a el no poder atracar en el muelle de agaete gran_canaria",
+        "lemmatized_text_reduced": "barco regresar tenerife poder atracar muelle agaete gran_canaria",
+        "persons": [],
+        "locations": [
+            "Agaete",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El barco Bencomo Express de la compañía Fred Olsen ha tenido que regresar al Puerto de Santa Cruz de Tenerife al no poder atracar en el Puerto de Agaete, al noroeste de Gran Canaria, debido a las malas condiciones de viento y mar en la costa, que desembocaron en un intento fallido de atraque que hizo que el buque rozara con el muelle sin que existiera peligro alguno para los pasajeros, según informaron a Europa Press fuentes de la empresa.",
+        "lemmatized_text": "el barco bencomo_express de el compañía fred_olsen haber tener que regresar a el puerto_de_santa_cruz_de_tenerife a el no poder atracar en el puerto_de_agaete a el noroeste de gran_canaria debido_a el malo condición de viento y mar en el costa que desembocar en uno intento fallir de atraque que hacer que el buque rozar con el muelle sin que existir peligro alguno para el pasajero según informar a europa_press fuente de el empresa",
+        "lemmatized_text_reduced": "barco bencomo_express compañía fred_olsen haber tener regresar puerto_de_santa_cruz_de_tenerife poder atracar puerto_de_agaete noroeste gran_canaria malo condición viento mar costa desembocar intento fallir atraque hacer buque rozar muelle existir peligro pasajero informar europa_press fuente empresa",
+        "persons": [
+            "Bencomo_Express"
+        ],
+        "locations": [
+            "Puerto_de_Agaete"
+        ],
+        "organizations": [
+            "Fred_Olsen",
+            "Europa_Press"
+        ],
+        "others": [
+            "Puerto_de_Santa_Cruz_de_Tenerife",
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, el ferry —que salió a las 13.00 horas desde la capital tinerfeña—, tras esperar una mejora del tiempo que no se produjo, ha tenido que dar la vuelta y regresar a la isla de origen, hacia donde se dirige en estos momentos. En total son 225 pasajeros los que viajaban en el Bencomo Express, mientras que las mismas fuentes apuntaron a que las condiciones meteorológicas en la zona son muy malas, lo que ha provocado el cierre del Puerto de Agaete. Por su parte, la línea de Fred Olsen entre Santa Cruz de Tenerife y Agaete (Gran Canaria) ha tenido que cerrarse, así como la de la capital tinerfeña con La Gomera. Por su parte, las rutas entre Lanzarote y Fuerteventura; Los Cristianos (Tenerife) y La Gomera; y Los Cristianos y La Palma, permanecen operativas.",
+        "lemmatized_text": "de este manera el ferry que salir a el TM_h:13 desde el capital tinerfeño tras esperar uno mejora de el tiempo que no se producir haber tener que dar el vuelta y regresar a el isla de origen hacia donde se dirigir en este momento en total ser 225 pasajero el que viajar en el bencomo_express mientras_que el mismo fuente apuntar a que el condición meteorológico en el zona ser muy malo el que haber provocar el cierre de el puerto_de_agaete por su parte el línea de fred_olsen entre santa_cruz_de_tenerife y agaete gran_canaria haber tener que cerrar se así_como el de el capital tinerfeño con la_gomera por su parte el ruta entre lanzarote y fuerteventura los_cristianos tenerife y la_gomera y los_cristianos y la_palma permanecer operativo",
+        "lemmatized_text_reduced": "manera ferry salir capital tinerfeño esperar mejora tiempo producir haber tener dar vuelta regresar isla origen dirigir momento total ser pasajero viajar bencomo_express mismo fuente apuntar condición meteorológico zona ser malo haber provocar cierre puerto_de_agaete parte línea fred_olsen santa_cruz_de_tenerife agaete gran_canaria haber tener cerrar capital tinerfeño la_gomera parte ruta lanzarote fuerteventura los_cristianos tenerife la_gomera los_cristianos la_palma permanecer operativo",
+        "persons": [
+            "Fred_Olsen",
+            "Agaete"
+        ],
+        "locations": [
+            "Bencomo_Express",
+            "Puerto_de_Agaete",
+            "La_Gomera",
+            "Lanzarote",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Santa_Cruz_de_Tenerife",
+            "Gran_Canaria",
+            "Fuerteventura",
+            "Los_Cristianos",
+            "Tenerife",
+            "La_Gomera",
+            "Los_Cristianos"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:13",
+            "225"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/949927/0/",
+    "title": {
+        "raw_text": "Detenida una persona en Gran Canaria que recibía por paquetería postal cocaína disuelta en botellas de vino",
+        "lemmatized_text": "detener uno persona en gran_canaria que recibir por paquetería postal cocaína disolver en botella de vino",
+        "lemmatized_text_reduced": "detener persona gran_canaria recibir paquetería postal cocaína disolver botella vino",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El personal de la Comandancia de la Guardia Civil de Las Palmas procedió a la detención de una persona de nacionalidad colombiana por un presunto delito de tráfico de drogas. La citada persona recepcionaba cocaína por paquetería postal en el interior de botellas de vino, donde luego trataba la droga en un laboratorio clandestino.",
+        "lemmatized_text": "el personal de el comandancia_de_la_guardia_civil_de_las_palmas proceder a el detención de uno persona de nacionalidad colombiano por uno presunto delito de tráfico de droga el citar persona recepcionar cocaína por paquetería postal en_el_interior_de botella de vino donde luego tratar el droga en uno laboratorio clandestino",
+        "lemmatized_text_reduced": "personal comandancia_de_la_guardia_civil_de_las_palmas proceder detención persona nacionalidad colombiano presunto delito tráfico droga citar persona recepcionar cocaína paquetería postal botella vino tratar droga laboratorio clandestino",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comandancia_de_la_Guardia_Civil_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El personal de la Comandancia de la Guardia Civil de Las Palmas procedió a la detención de una persona de nacionalidad colombiana por un presunto delito de tráfico de drogas. La citada persona recepcionaba cocaína por paquetería postal en el interior de botellas de vino, donde luego trataba la droga en un laboratorio clandestino. Según informó la Benemérita en un comunicado, en un principio fue detectado un paquete que llevaba botellas de vino en su interior, las cuales contenían cocaína disuelta que una vez elaborada podría haber dado un peso aproximado de un kilogramo. De las investigaciones realizadas, se pudo detener al responsable del envío, logrando detectarse un domicilio que era utilizado como laboratorio para la elaboración de la cocaína, utilizando para ello diversos productos químicos. Por su parte, en el registro domiciliario efectuado en la capital grancanaria, fueron intervenidos los siguientes efectos: 835 gramos de cocaína ya elaborada; 1 botella de acetona; 6 litros de amoniaco; 1 garrafa con 23 kilos de ácido clorhídrico; 1 garrafa con 38 kilos de ácido sulfúrico; 3 móviles; 165 euros; 3 pasaportes falsificados; y una pistola simulada y una eléctrica.",
+        "lemmatized_text": "el personal de el comandancia_de_la_guardia_civil_de_las_palmas proceder a el detención de uno persona de nacionalidad colombiano por uno presunto delito de tráfico de droga el citar persona recepcionar cocaína por paquetería postal en_el_interior_de botella de vino donde luego tratar el droga en uno laboratorio clandestino según informar el benemérita en uno comunicado en uno principio ser detectar uno paquete que llevar botella de vino en su interior el cual contener cocaína disolver que uno vez elaborar poder haber dar uno peso aproximar de uno kilogramo de el investigación realizar se poder detener a el responsable de el envío lograr detectar se uno domicilio que ser utilizar como laboratorio para el elaboración de el cocaína utilizar para ello diverso producto químico por su parte en el registro domiciliario efectuar en el capital grancanaria ser intervenir el siguiente efecto WG_g:835 de cocaína ya elaborar 1 botella de acetona VL_l:6 de amoniaco 1 garrafa con 23 kilo de ácido clorhídrico 1 garrafa con 38 kilo de ácido sulfúrico 3 móvil $_ECU:165 3 pasaporte falsificar y uno pistola simular y uno eléctrico",
+        "lemmatized_text_reduced": "personal comandancia_de_la_guardia_civil_de_las_palmas proceder detención persona nacionalidad colombiano presunto delito tráfico droga citar persona recepcionar cocaína paquetería postal botella vino tratar droga laboratorio clandestino informar benemérita comunicado principio ser detectar paquete llevar botella vino interior contener cocaína disolver vez elaborar poder haber dar peso aproximar kilogramo investigación realizar poder detener responsable envío lograr detectar domicilio ser utilizar laboratorio elaboración cocaína utilizar producto químico parte registro domiciliario efectuar capital grancanaria ser intervenir siguiente efecto cocaína elaborar botella acetona amoniaco garrafa kilo ácido clorhídrico garrafa kilo ácido sulfúrico móvil pasaporte falsificar pistola simular eléctrico",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comandancia_de_la_Guardia_Civil_de_Las_Palmas",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:835",
+            "1",
+            "VL_l:6",
+            "1",
+            "23",
+            "1",
+            "38",
+            "3",
+            "$_ECU:165",
+            "3"
+        ]
+    }
+}

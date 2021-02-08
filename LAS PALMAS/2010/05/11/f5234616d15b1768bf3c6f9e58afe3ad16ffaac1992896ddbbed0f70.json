@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703785/0/",
+    "title": {
+        "raw_text": "Vecinos rescatan a un varón tras un incendio en su casa en Santa Lucía de Tirajana (Gran Canaria)",
+        "lemmatized_text": "vecino rescatar a uno varón tras uno incendio en su casa en santa_lucía_de_tirajana gran_canaria",
+        "lemmatized_text_reduced": "vecino rescatar varón incendio casa santa_lucía_de_tirajana gran_canaria",
+        "persons": [],
+        "locations": [
+            "Santa_Lucía_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Varios vecinos rescataron hoy a un hombre tras el incendio registrado en su vivienda en la calle Ramón y Cajal en la zona La Blanca en el municipio de Santa Lucía de Tirajana (Gran Canaria), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "varios vecino rescatar hoy a uno hombre tras el incendio registrar en su vivienda en el calle ramón y cajal en el zona la_blanca en el municipio de santa_lucía_de_tirajana gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "vecino rescatar hombre incendio registrar vivienda calle ramón cajal zona la_blanca municipio santa_lucía_de_tirajana gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Ramón",
+            "Europa_Press"
+        ],
+        "locations": [
+            "La_Blanca",
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Cajal",
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El fuego se produjo sobre las 14.55 horas en el segundo piso de un edificio localizado en la citada zona, por lo que un vecino alertó al Cecoes. De este modo, el 112 activó el dispositivo de emergencias necesario. Vecinos sacaron del interior de la vivienda a un varón, que, posteriormente, fue trasladado en ambulancia del Servicio de Urgencias Canario a un centro de salud cercano, al sufrir una crisis de ansiedad de carácter leve. Por su parte, bomberos del Consorcio de Emergencias de la isla se encargaron de extinguir las llamas. Asimismo, Policía Local colaboró con los recursos y la Guardia Civil se encargó de instruir las correspondientes diligencias. Fuego en el sótano de un inmueble abandonado Por otro lado, bomberos de San Bartolomé de Tirajana extinguieron en horas del mediodía un incendio en el sótano de un edificio abandonado en la Avenida de Moya, situada en la citada localidad al sur de Gran Canaria. El suceso, que aconteció sobre las 13.30 horas, se saldó sin afectados, según indicaron fuentes del Cecoes. En dicha actuación intervino también Protección Civil, Policía Nacional y Policía Local, que colaboraron con los recursos de emergencias e instruyeron las oportunas diligencias.",
+        "lemmatized_text": "el fuego se producir sobre el TM_h:14.55 en el 2 piso de uno edificio localizar en el citar zona por el que uno vecino alertar a el cecoes de este modo el 112 activar el dispositivo de emergencia necesario vecino sacar de el interior de el vivienda a uno varón que posteriormente ser trasladar en ambulancia de el servicio_de_urgencias_canario a uno centro de salud cercano a el sufrir uno crisis de ansiedad de carácter leve por su parte bombero de el consorcio_de_emergencias de el isla se encargar de extinguir el llama asimismo policía_local colaborar con el recurso y el guardia_civil se encargar de instruir el correspondiente diligencia fuego en el sótano de uno inmueble abandonar por_otro_lado bombero de san_bartolomé_de_tirajana extinguir en hora de el [??:??/??/??:12.00:pm] uno incendio en el sótano de uno edificio abandonar en el avenida_de_moya situar en el citar localidad a el sur de gran_canaria el suceso que acontecer sobre el TM_h:13.3 se saldar sin afectado según indicar fuente de el cecoes en decir actuación intervenir también protección_civil policía_nacional y policía_local que colaborar con el recurso de emergencia y instruir el oportuno diligencia",
+        "lemmatized_text_reduced": "fuego producir 2 piso edificio localizar citar zona vecino alertar cecoes modo activar dispositivo emergencia necesario vecino sacar interior vivienda varón posteriormente ser trasladar ambulancia servicio_de_urgencias_canario centro salud cercano sufrir crisis ansiedad carácter leve parte bombero consorcio_de_emergencias isla encargar extinguir llama policía_local colaborar recurso guardia_civil encargar instruir correspondiente diligencia fuego sótano inmueble abandonar por_otro_lado bombero san_bartolomé_de_tirajana extinguir hora incendio sótano edificio abandonar avenida_de_moya situar citar localidad sur gran_canaria suceso acontecer saldar afectado indicar fuente cecoes decir actuación intervenir protección_civil policía_nacional policía_local colaborar recurso emergencia instruir oportuno diligencia",
+        "persons": [
+            "Fuego",
+            "Por_otro_lado"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Avenida_de_Moya",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "Consorcio_de_Emergencias",
+            "Policía_Local",
+            "Guardia_Civil",
+            "Cecoes",
+            "Protección_Civil",
+            "Policía_Nacional",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "TM_h:14.55",
+            "112",
+            "TM_h:13.3"
+        ]
+    }
+}

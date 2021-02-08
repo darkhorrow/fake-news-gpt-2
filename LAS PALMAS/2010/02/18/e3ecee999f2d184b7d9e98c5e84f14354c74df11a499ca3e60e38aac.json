@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632198/0/",
+    "title": {
+        "raw_text": "Un fallecido y dos heridos en la colisión de un vehículo y una guagua en el sureste de Gran Canaria",
+        "lemmatized_text": "uno fallecer y 2 herido en el colisión de uno vehículo y uno guagua en el sureste de gran_canaria",
+        "lemmatized_text_reduced": "fallecer herido colisión vehículo guagua sureste gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una persona ha fallecido hoy y otras dos han resultado heridas en la colisión de un vehículo contra una guagua en el Polígono Industrial de Arinaga, en el municipio de Agüimes, al sureste de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que no pudieron precisar la identidad de los afectados.",
+        "lemmatized_text": "uno persona haber fallecer hoy y otro 2 haber resultar herida en el colisión de uno vehículo contra uno guagua en el polígono_industrial_de_arinaga en el municipio de agüimes a el sureste de gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que no poder precisar el identidad de el afectado",
+        "lemmatized_text_reduced": "persona haber fallecer haber resultar herida colisión vehículo guagua polígono_industrial_de_arinaga municipio agüimes sureste gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes poder precisar identidad afectado",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Polígono_Industrial_de_Arinaga",
+            "Agüimes",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron sobre las 09.20 horas, cuando varias llamadas alertaron al Cecoes del accidente de tráfico y de varias personas que precisaban asistencia sanitaria. De este modo, el 112 activó el dispositivo de emergencias necesario. Hasta el lugar se desplazó personal médico del Servicio de Urgencias Canario (SUC), que atendió a una persona que se encontraba en parada cardiorrespiratoria y a quien practicaron maniobras de reanimación sin éxito, por lo que confirmaron el fallecimiento de la víctima. Por otro lado, otra persona resultó herida de carácter grave y tuvo que ser trasladada en una ambulancia medicalizada al Hospital Universitario Insular de Gran Canaria. A este mismo centro fue también evacuado otro herido menos grave en una ambulancia sanitarizada del SUC.",
+        "lemmatized_text": "el hecho ocurrir sobre el TM_h:9.2 cuando varios llamada alertar a el cecoes de el accidente de tráfico y de varios persona que precisar asistencia sanitario de este modo el 112 activar el dispositivo de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencias_canario suc que atender a uno persona que se encontrar en parada cardiorrespiratoria y a quien practicar maniobra de reanimación sin éxito por el que confirmar el fallecimiento de el víctima por_otro_lado otro persona resultar herida de carácter grave y tener que ser trasladar en uno ambulancia medicalizada a el hospital_universitario_insular_de_gran_canaria a este mismo centro ser también evacuar otro herir menos grave en uno ambulancia sanitarizada de el suc",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes accidente tráfico persona precisar asistencia sanitario modo activar dispositivo emergencia necesario lugar desplazar personal médico servicio_de_urgencias_canario suc atender persona encontrar parada cardiorrespiratoria practicar maniobra reanimación éxito confirmar fallecimiento víctima persona resultar herida carácter grave tener ser trasladar ambulancia medicalizada hospital_universitario_insular_de_gran_canaria mismo centro ser evacuar herir grave ambulancia sanitarizada suc",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "SUC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.2",
+            "112"
+        ]
+    }
+}

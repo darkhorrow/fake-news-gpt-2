@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/935699/0/",
+    "title": {
+        "raw_text": "Agentes de la Policía Canaria detienen a un joven por tráfico de drogas en San Bartolomé de Tirajana",
+        "lemmatized_text": "agentes_de_la_policía_canaria detener a uno joven por tráfico de droga en san_bartolomé_de_tirajana",
+        "lemmatized_text_reduced": "agentes_de_la_policía_canaria detener joven tráfico droga san_bartolomé_de_tirajana",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Agentes_de_la_Policía_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes del Cuerpo General de la Policía Canaria han detenido a un joven que responde a las iniciales de A.H.P., de 22 años de edad, por un presunto delito de tráfico de estupefacientes en San Bartolomé de Tirajana (Gran Canaria).",
+        "lemmatized_text": "agentes_del_cuerpo_general_de_la_policía_canaria haber detener a uno joven que responder a el inicial de a.h.p. de 22 año de edad por uno presunto delito de tráfico de estupefaciente en san_bartolomé_de_tirajana gran_canaria",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_general_de_la_policía_canaria haber detener joven responder inicial a.h.p. año edad presunto delito tráfico estupefaciente san_bartolomé_de_tirajana gran_canaria",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Agentes_del_Cuerpo_General_de_la_Policía_Canaria",
+            "A.H.P."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "22"
+        ]
+    },
+    "body": {
+        "raw_text": "Agentes del Cuerpo General de la Policía Canaria han detenido a un joven que responde a las iniciales de A.H.P., de 22 años de edad, por un presunto delito de tráfico de estupefacientes en San Bartolomé de Tirajana (Gran Canaria). El arresto se produjo el jueves, 20 de enero, en el transcurso de un dispositivo policial de control de personas y vehículos montado en la zona del Castillo del Romeral, en el municipio citado, según informó el Gobierno canario en nota de prensa. Los agentes interceptaron el vehículo en el que viajaba el detenido como ocupante y lo sorprendieron con unos 200 gramos de hachís que llevaba consigo en una bolsa junto a medicamentos variados de uso autorizado. Finalmente, tras ser informado de sus derechos, los agentes trasladaron al detenido a las dependencias del Cuerpo Nacional de Policía en Maspalomas, donde se tramitaron las diligencias correspondientes.",
+        "lemmatized_text": "agentes_del_cuerpo_general_de_la_policía_canaria haber detener a uno joven que responder a el inicial de a.h.p. de 22 año de edad por uno presunto delito de tráfico de estupefaciente en san_bartolomé_de_tirajana gran_canaria el arresto se producir el [J:20/1/??:??.??:??] en el transcurso de uno dispositivo policial de control de persona y vehículo montar en el zona de el castillo_del_romeral en el municipio citar según informar el gobierno canario en nota de prensa el agente interceptar el vehículo en el que viajar el detener como ocupante y lo sorprender con uno WG_g:200 de hachís que llevar conseguir en uno bolsa junto_a medicamento variar de uso autorizar finalmente tras ser informar de su derecho el agente trasladar a el detener a el dependencia de el cuerpo_nacional_de_policía en maspalomas donde se tramitar el diligencia correspondiente",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_general_de_la_policía_canaria haber detener joven responder inicial a.h.p. año edad presunto delito tráfico estupefaciente san_bartolomé_de_tirajana gran_canaria arresto producir transcurso dispositivo policial control persona vehículo montar zona castillo_del_romeral municipio citar informar gobierno canario nota prensa agente interceptar vehículo viajar detener ocupante sorprender hachís llevar conseguir bolsa medicamento variar uso autorizar finalmente ser informar derecho agente trasladar detener dependencia cuerpo_nacional_de_policía maspalomas tramitar diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Castillo_del_Romeral",
+            "Maspalomas"
+        ],
+        "organizations": [
+            "Agentes_del_Cuerpo_General_de_la_Policía_Canaria",
+            "A.H.P.",
+            "Gobierno",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [
+            "[J:20/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "22",
+            "WG_g:200"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/918770/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo busca a dos personas desaparecidas en la playa de Famara, en Lanzarote",
+        "lemmatized_text": "salvamento_marítimo buscar a 2 persona desaparecer en el playa de famara en lanzarote",
+        "lemmatized_text_reduced": "salvamento_marítimo buscar persona desaparecer playa famara lanzarote",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Famara",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Salvamento Marítimo ha activado en la tarde de este domingo sus recursos, después de recibir una alerta de dos personas que habían desaparecidas en la playa de Famara, en Teguise (Lanzarote).",
+        "lemmatized_text": "salvamento_marítimo haber activar en el tarde de este [G:??/??/??:??.??:??] su recurso después_de recibir uno alerta de 2 persona que haber desaparecer en el playa de famara en teguise lanzarote",
+        "lemmatized_text_reduced": "salvamento_marítimo haber activar tarde recurso recibir alerta persona haber desaparecer playa famara teguise lanzarote",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Famara",
+            "Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo ha activado en la tarde de este domingo sus recursos, después de recibir una alerta de dos personas que habían desaparecidas en la playa de Famara, en Teguise (Lanzarote). Para la búsqueda de las dos personas desaparecidas, según informaron fuentes de Salvamento Marítimo, se ha activado una salvamar y un helicóptero. Los hechos ocurrieron pasadas las 16.30 horas de este domingo en la playa de Famara.",
+        "lemmatized_text": "salvamento_marítimo haber activar en el tarde de este [G:??/??/??:??.??:??] su recurso después_de recibir uno alerta de 2 persona que haber desaparecer en el playa de famara en teguise lanzarote para el búsqueda de el 2 persona desaparecer según informar fuente de salvamento_marítimo se haber activar uno salvamar y uno helicóptero el hecho ocurrir pasar el TM_h:16.3 de este [G:??/??/??:??.??:??] en el playa de famara",
+        "lemmatized_text_reduced": "salvamento_marítimo haber activar tarde recurso recibir alerta persona haber desaparecer playa famara teguise lanzarote búsqueda persona desaparecer informar fuente salvamento_marítimo haber activar salvamar helicóptero hecho ocurrir pasar playa famara",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Famara",
+            "Teguise",
+            "Lanzarote",
+            "Famara"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "2",
+            "TM_h:16.3"
+        ]
+    }
+}

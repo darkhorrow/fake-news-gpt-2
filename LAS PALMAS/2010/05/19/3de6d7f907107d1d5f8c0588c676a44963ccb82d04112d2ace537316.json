@@ -1,0 +1,89 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/711910/0/",
+    "title": {
+        "raw_text": "Aena destina 2,9 millones de euros a la insonorización de las viviendas del entorno del Aeropuerto de Gran Canaria",
+        "lemmatized_text": "aena destinar 2,9 millón de euro a el insonorización de el vivienda de el entorno de el aeropuerto_de_gran_canaria",
+        "lemmatized_text_reduced": "aena destinar millón euro insonorización vivienda entorno aeropuerto_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Aena"
+        ],
+        "others": [
+            "Aeropuerto_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "2,9"
+        ]
+    },
+    "lead": {
+        "raw_text": "Aeropuertos Españoles y Navegación Aérea (Aena) ha destinado un total de 2.9 millones de euros a la insonorización de las viviendas del entorno del Aeropuerto de Gran Canaria, después de aprobar hoy una partida de más de 600.000 euros que se suman a los 2,3 millones ya invertidos, según informó hoy el Organismo en un comunicado.",
+        "lemmatized_text": "aeropuertos_españoles y navegación_aérea aena haber destinar uno total de $_ECU:2900000 a el insonorización de el vivienda de el entorno de el aeropuerto_de_gran_canaria después_de aprobar hoy uno partida de más de $_ECU:600 que se sumar a el 2,3 millón ya invertir según informar hoy el organismo en uno comunicado",
+        "lemmatized_text_reduced": "aeropuertos_españoles navegación_aérea aena haber destinar total insonorización vivienda entorno aeropuerto_de_gran_canaria aprobar partida sumar millón invertir informar organismo comunicado",
+        "persons": [
+            "Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Aeropuerto_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Aena",
+            "Organismo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2900000",
+            "$_ECU:600",
+            "2,3"
+        ]
+    },
+    "body": {
+        "raw_text": "En este sentido, hoy se ha celebrado una nueva reunión de la Comisión de Seguimiento del Plan de Aislamiento Acústico (PAA) del Aeropuerto de Gran Canaria en la que han participado representantes del Ministerio de Medio Ambiente y Medio Rural y Marino, la Consejería de Medio Ambiente del Gobierno Canario, el Cabildo de Gran Canaria, los ayuntamientos de Agüimes, Ingenio y Telde y Aena. Así, los representantes de la citadas instituciones han dado su visto bueno a una nueva partida de 611.256 euros para llevar a cabo la insonorización de viviendas, que se encuentran incluidas en la huella que define el Plan de Aislamiento Acústico del Aeropuerto de la isla, las cuales cumplen los requisitos establecidos en la Declaración de Impacto Ambiental. La cantidad total aprobada hasta el momento para este concepto, asciende a 2.958.733 euros. También, se ha dado la conformidad al pago de actuaciones de aislamiento acústico por un importe de 432.052 euros, que corresponde a viviendas en las que ya han concluido sus obras de insonorización y han presentado la documentación preceptiva, habiéndose destinado ya un total de 788.193 euros al pago de estas actuaciones. De esta manera, se ha finalizado la realización del aislamiento acústico en 60 viviendas, estando en ejecución la insonorización de otras 111. El Plan de Aislamiento Acústico del aeropuerto contempla actualmente un censo de 468 viviendas con derecho a solicitar la insonorización: 82 de ellas están situadas en Agüimes; 105, en Ingenio y 281, en Telde.",
+        "lemmatized_text": "en este sentido hoy se haber celebrar uno nuevo reunión de el comisión_de_seguimiento_del_plan_de_aislamiento_acústico paa de el aeropuerto_de_gran_canaria en el que haber participar representante de el ministerio_de_medio_ambiente y medio_rural y marino el consejería_de_medio_ambiente_del_gobierno_canario el cabildo_de_gran_canaria el ayuntamiento de agüimes ingenio y telde y aena así el representante de el citar institución haber dar su ver bueno a uno nuevo partida de $_ECU:611.256 para llevar_a_cabo el insonorización de vivienda que se encontrar incluir en el huella que definir el plan_de_aislamiento_acústico_del_aeropuerto de el isla el cual cumplir el requisito establecer en el declaración_de_impacto_ambiental el cantidad total aprobar hasta el momento para este concepto ascender a $_ECU:2.958.733 también se haber dar el conformidad a el pago de actuación de aislamiento acústico por uno importe de $_ECU:432.052 que corresponder a vivienda en el que ya haber concluir su obra de insonorización y haber presentar el documentación preceptivo haber se destinar ya uno total de $_ECU:788.193 a el pago de este actuación de este manera se haber finalizar el realización de el aislamiento acústico en 60 vivienda estar en ejecución el insonorización de otro 111 el plan_de_aislamiento_acústico de el aeropuerto contemplar actualmente uno censo de 468 vivienda con derecho a solicitar el insonorización 82 de ellos estar situar en agüimes 105 en ingenio y 281 en telde",
+        "lemmatized_text_reduced": "sentido haber celebrar nuevo reunión comisión_de_seguimiento_del_plan_de_aislamiento_acústico paa aeropuerto_de_gran_canaria haber participar representante ministerio_de_medio_ambiente medio_rural marino consejería_de_medio_ambiente_del_gobierno_canario cabildo_de_gran_canaria ayuntamiento agüimes ingenio telde aena representante citar institución haber dar ver bueno nuevo partida llevar_a_cabo insonorización vivienda encontrar incluir huella definir plan_de_aislamiento_acústico_del_aeropuerto isla cumplir requisito establecer declaración_de_impacto_ambiental cantidad total aprobar momento concepto ascender haber dar conformidad pago actuación aislamiento acústico importe corresponder vivienda haber concluir obra insonorización haber presentar documentación preceptivo haber destinar total pago actuación manera haber finalizar realización aislamiento acústico vivienda estar ejecución insonorización plan_de_aislamiento_acústico aeropuerto contemplar actualmente censo vivienda derecho solicitar insonorización estar situar agüimes ingenio telde",
+        "persons": [
+            "Marino"
+        ],
+        "locations": [
+            "Aeropuerto_de_Gran_Canaria",
+            "Agüimes",
+            "Ingenio",
+            "Agüimes",
+            "Ingenio",
+            "Telde"
+        ],
+        "organizations": [
+            "Comisión_de_Seguimiento_del_Plan_de_Aislamiento_Acústico",
+            "PAA",
+            "Ministerio_de_Medio_Ambiente",
+            "Medio_Rural",
+            "Consejería_de_Medio_Ambiente_del_Gobierno_Canario",
+            "Cabildo_de_Gran_Canaria",
+            "Telde",
+            "Aena"
+        ],
+        "others": [
+            "Plan_de_Aislamiento_Acústico_del_Aeropuerto",
+            "Declaración_de_Impacto_Ambiental",
+            "Plan_de_Aislamiento_Acústico"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:611.256",
+            "$_ECU:2.958.733",
+            "$_ECU:432.052",
+            "$_ECU:788.193",
+            "60",
+            "111",
+            "468",
+            "82",
+            "105",
+            "281"
+        ]
+    }
+}

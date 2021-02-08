@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/640549/0/",
+    "title": {
+        "raw_text": "UGT y CCOO convocan a 700.000 trabajadores canarios a manifestarse el 4 de marzo contra retraso en la edad de jubilación",
+        "lemmatized_text": "ugt y ccoo convocar a 700 trabajador canario a manifestar se el [??:4/3/??:??.??:??] contra retraso en el edad de jubilación",
+        "lemmatized_text_reduced": "ugt ccoo convocar trabajador canario manifestar retraso edad jubilación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UGT",
+            "CCOO"
+        ],
+        "others": [],
+        "dates": [
+            "[??:4/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "700"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los sindicatos UGT y CCOO han convocado hoy a cerca de 700.000 trabajadores canarios, futuros pensionistas, a la manifestación del próximo jueves 4 de marzo en defensa de las pensiones y contra el retraso de la edad de jubilación hasta los 67 años, así como no descartan una huelga general en contra de la política del Gobierno central para combatir la crisis.",
+        "lemmatized_text": "el sindicato ugt y ccoo haber convocar hoy a_cerca_de 700 trabajador canario futuro pensionista a el manifestación de el [J:4/3/??:??.??:??] en defensa de el pensión y contra el retraso de el edad de jubilación hasta el 67 año así_como no descartar uno huelga general en_contra_de el política de el gobierno central para combatir el crisis",
+        "lemmatized_text_reduced": "sindicato ugt ccoo haber convocar trabajador canario futuro pensionista manifestación defensa pensión retraso edad jubilación año descartar huelga general política gobierno central combatir crisis",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UGT",
+            "CCOO",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[J:4/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "700",
+            "67"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo anunciaron hoy en rueda de prensa en Las Palmas de Gran Canaria el secretario general de CCOO en las islas, Juan Jesús Arteaga, y el secretario general de UGT en el archipiélago, Juan Francisco Fonte, que esperan que al menos 10.000 personas se movilicen en esta primera gran protesta en las islas contra las medidas del Ejecutivo ante la situación económica. Los dirigentes sindicales admitieron que no confían en un pacto de Estado para superar la crisis debido a la proximidad de las elecciones en 2011, ya que creen que los partidos \"priorizan eso antes que soluciones para los ciudadanos\". \"No confiamos en un acuerdo a nivel de Estado a no ser que se tranquilicen los dos grandes partidos, PP y PSOE, que siguen a la gresca\", reconoció Fonte. (Habrá ampliación)",
+        "lemmatized_text": "así lo anunciar hoy en rueda de prensa en las_palmas_de_gran_canaria el secretario general de ccoo en el isla juan_jesús_arteaga y el secretario general de ugt en el archipiélago juan_francisco_fonte que esperar que a el menos 10 persona se movilizar en este 1 gran protesta en el isla contra el medida de el ejecutivo ante el situación económico el dirigente sindical admitir que no confiar en uno pacto de estado para superar el crisis debido_a el proximidad de el elección en 2011 ya_que creer que el partido priorizar ese antes que solución para el ciudadano no confiar en uno acuerdo a nivel de estado a_no_ser_que se tranquilizar el 2 grande partido pp y psoe que seguir a el gresca reconocer fonte haber ampliación",
+        "lemmatized_text_reduced": "anunciar rueda prensa las_palmas_de_gran_canaria secretario general ccoo isla juan_jesús_arteaga secretario general ugt archipiélago juan_francisco_fonte esperar persona movilizar 1 gran protesta isla medida ejecutivo situación económico dirigente sindical admitir confiar pacto estado superar crisis proximidad elección creer partido priorizar solución ciudadano confiar acuerdo nivel estado tranquilizar grande partido pp psoe seguir gresca reconocer fonte haber ampliación",
+        "persons": [
+            "Juan_Jesús_Arteaga",
+            "Juan_Francisco_Fonte",
+            "Fonte"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "CCOO",
+            "UGT",
+            "Ejecutivo",
+            "Estado",
+            "Estado",
+            "PP",
+            "PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10",
+            "2011",
+            "2"
+        ]
+    }
+}

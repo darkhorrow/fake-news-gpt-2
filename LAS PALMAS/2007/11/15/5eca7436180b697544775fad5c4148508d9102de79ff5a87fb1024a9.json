@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/306999/0/intenta/matar/hermano/",
+    "title": {
+        "raw_text": "Condenan a 5 años de cárcel a un hombre que intentó matar a su hermano",
+        "lemmatized_text": "condenar a 5 año de cárcel a uno hombre que intentar matar a su hermano",
+        "lemmatized_text_reduced": "condenar año cárcel hombre intentar matar hermano",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Le asestó dos puñaladas en el costado izquierdo. Se encontraba bajo los efectos de la droga. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "le asestar 2 puñalada en el costado izquierdo se encontrar bajo el efecto de el droga consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "asestar puñalada costado izquierdo encontrar efecto droga consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "La Audiencia de Las Palmas ha condenado a 5 años de prisión a un hombre de 33 años que intentó matar a su hermano con un cuchillo en la capital lanzaroteña el 1 de diciembre de 2006, según una sentencia hecha pública hoy. El tribunal consideró como atenuante el que el acusado Gerardo Javier J.R. actuara bajo los efectos de la droga y como agravante la circunstancia de parentesco, señala la sentencia, en la que se indica que el agresor deberá pagar a su hermano Tenesía 1.350 euros por las lesiones que le originó y 700 euros por las secuelas. Una muerte planeada El acusado, que admitió los hechos en el juicio oral, planeó la muerte de su hermano y buscó el momento para encontrarse solos para que Tenesía careciera de auxilio, según los hechos probados. Así, sobre las 19.30 horas del día del suceso, el acusado pinchó los neumáticos del vehículo de Tenesía y de un vecino, y tras conseguir que su hermano se ausentara de la casa para comprobar el estado de su coche, Gerardo Javier J.R. cerró la puerta de la vivienda con llave y se fue a por un cuchillo que escondió en su bolsillo . Al regresar Tenesía de la calle y recriminar al acusado que cerrara la puerta, el acusado cogió el cuchillo y le propinó dos puñaladas en el costado izquierdo , mientras que con la otra mano le agarraba su brazo derecho, si bien la víctima logró tirar al suelo a su agresor y que soltara el cuchillo. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el audiencia_de_las_palmas haber condenar a 5 año de prisión a uno hombre de 33 año que intentar matar a su hermano con uno cuchillo en el capital lanzaroteña el [??:1/12/2006:??.??:??] según uno sentencia hacer público hoy el tribunal considerar como atenuante el que el acusado gerardo_javier_j.r. actuar bajo el efecto de el droga y como agravante el circunstancia de parentesco señalar el sentencia en el que se indicar que el agresor deber pagar a su hermano tenesía $_ECU:1.35 por el lesión que le originar y $_ECU:700 por el secuela uno muerte planear el acusar que admitir el hecho en el juicio oral planear el muerte de su hermano y buscar el momento para encontrar se solo para que tenesía carecer de auxilio según el hecho probar así sobre el TM_h:19.3 de el día de el suceso el acusado pinchar el neumático de el vehículo de tenesía y de uno vecino y tras conseguir que su hermano se ausentar de el casa para comprobar el estado de su coche gerardo_javier_j.r. cerrar el puerta de el vivienda con llave y se ir a por uno cuchillo que esconder en su bolsillo a el regresar tenesía de el calle y recriminar a el acusado que cerrar el puerta el acusado coger el cuchillo y le propinar 2 puñalada en el costado izquierdo mientras_que con el otro mano le agarrar su brazo derecho si bien el víctima lograr tirar a el suelo a su agresor y que soltar el cuchillo consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "audiencia_de_las_palmas haber condenar año prisión hombre año intentar matar hermano cuchillo capital lanzaroteña sentencia hacer público tribunal considerar atenuante acusado gerardo_javier_j.r. actuar efecto droga agravante circunstancia parentesco señalar sentencia indicar agresor deber pagar hermano tenesía lesión originar secuela muerte planear el acusar admitir hecho juicio oral planear muerte hermano buscar momento encontrar solo tenesía carecer auxilio hecho probar día suceso acusado pinchar neumático vehículo tenesía vecino conseguir hermano ausentar casa comprobar estado coche gerardo_javier_j.r. cerrar puerta vivienda llave ir cuchillo esconder bolsillo regresar tenesía calle recriminar acusado cerrar puerta acusado coger cuchillo propinar puñalada costado izquierdo mano agarrar brazo derecho víctima lograr tirar suelo agresor soltar cuchillo consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Gerardo_Javier_J.R.",
+            "Tenesía",
+            "Tenesía",
+            "Gerardo_Javier_J.R."
+        ],
+        "locations": [
+            "Tenesía"
+        ],
+        "organizations": [
+            "Audiencia_de_Las_Palmas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "El",
+            "Tenesía"
+        ],
+        "dates": [
+            "[??:1/12/2006:??.??:??]"
+        ],
+        "numbers": [
+            "5",
+            "33",
+            "$_ECU:1.35",
+            "$_ECU:700",
+            "TM_h:19.3",
+            "2"
+        ]
+    }
+}

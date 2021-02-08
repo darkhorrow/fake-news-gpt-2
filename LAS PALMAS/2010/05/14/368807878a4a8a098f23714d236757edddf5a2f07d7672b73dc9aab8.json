@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/707256/0/",
+    "title": {
+        "raw_text": "Rivero afirma que no está dispuesto a recortar \"ni un euro más\" en Educación en Canarias",
+        "lemmatized_text": "rivero afirmar que no estar disponer a recortar ni uno euro más en educación en canarias",
+        "lemmatized_text_reduced": "rivero afirmar estar disponer recortar euro educación canarias",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [
+            "Educación"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del Gobierno de Canarias, Paulino Rivero, ha afirmado que no está dispuesto a recortar \"ni un euros más\" en Educación, ya que opinó que sino se mejora el sistema educativo \"no hay futuro\", según puso hoy de manifiesto durante su intervención en el Foro Cinco Días, que tuvo lugar hoy en Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el presidente de el gobierno_de_canarias paulino_rivero haber afirmar que no estar disponer a recortar ni uno euro más en educación ya_que opinar que sino se mejorar el sistema educativo no haber futuro según poner hoy de manifiesto durante su intervención en el foro 5 días que tener_lugar hoy en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "presidente gobierno_de_canarias paulino_rivero haber afirmar estar disponer recortar euro educación opinar mejorar sistema educativo haber futuro poner manifiesto intervención foro días tener_lugar las_palmas_de_gran_canaria",
+        "persons": [
+            "Paulino_Rivero",
+            "Días"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Foro"
+        ],
+        "others": [
+            "Educación"
+        ],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Lo que no vamos a recortar es en de educación. Hemos recortado 7 millones de euros en Educación de un presupuesto 1.700 millones, algo que es soportable porque no afectará a la calidad educativa\", dijo mientras entendió que la inversión en esta materia es \"muy importante\". Aquí, el presidente canario hizo especial hincapié en que no está dispuesto a recortar \"ni un euro más en Educación. \"Si hay que hacer ajustes —añadió— tendrá que ser en aquellas cuestiones que no tengan que ver con la calidad educativa y que se puedan tocar, porque el reto que tenemos es cómo mejoramos nuestro sistema educativo\". Rivero entendió que si no se mejora el sistema educativo \"no hay futuro\", indicando que durante el período de expansión económica en Canarias el 42 por ciento de los jóvenes de entre 18 y 24 años abandonó los estudios, quedándose con estudios primarios y trabajando en la construcción, hostelería y derivados.",
+        "lemmatized_text": "el que no ir a recortar ser en de educación haber recortar $_ECU:7000000 en educación de uno presupuesto 1700000 algo que ser soportable porque no afectar a el calidad educativo decir mientras entender que el inversión en este materia ser muy importante aquí el presidente canario hacer especial hincapié en que no estar disponer a recortar ni uno euro más en educación si haber que hacer ajuste añadir tener que ser en aquel cuestión que no tener que ver con el calidad educativo y que se poder tocar porque el reto que tener ser cómo mejorar nuestro sistema educativo rivero entender que si no se mejorar el sistema educativo no haber futuro indicar que durante el período de expansión económico en canarias el 42 por 100 de el joven de entre 18 y 24 año abandonar el estudio quedar se con estudio primario y trabajar en el construcción hostelería y derivado",
+        "lemmatized_text_reduced": "ir recortar ser educación haber recortar educación presupuesto ser soportable afectar calidad educativo decir entender inversión materia ser importante presidente canario hacer especial hincapié estar disponer recortar euro educación haber hacer ajuste añadir tener ser cuestión tener ver calidad educativo poder tocar reto tener ser mejorar sistema educativo rivero entender mejorar sistema educativo haber futuro indicar período expansión económico canarias joven año abandonar estudio quedar estudio primario trabajar construcción hostelería derivado",
+        "persons": [
+            "Rivero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [
+            "Educación",
+            "Educación"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:7000000",
+            "1700000",
+            "42",
+            "100",
+            "18",
+            "24"
+        ]
+    }
+}

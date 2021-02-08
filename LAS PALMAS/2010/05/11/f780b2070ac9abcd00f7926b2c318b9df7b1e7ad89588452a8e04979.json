@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703640/0/",
+    "title": {
+        "raw_text": "Hallado el cadáver de un anciano en una vivienda abandonada en Puerto del Rosario (Fuerteventura)",
+        "lemmatized_text": "hallar el cadáver de uno anciano en uno vivienda abandonar en puerto_del_rosario fuerteventura",
+        "lemmatized_text_reduced": "hallar cadáver anciano vivienda abandonar puerto_del_rosario fuerteventura",
+        "persons": [],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cadáver de un anciano ha sido hallado hoy en avanzado estado de descomposición en una vivienda abandonada en Puerto del Rosario (Fuerteventura), según informaron a Europa Press fuentes de la Policía Local y del Cuerpo Nacional de Policía.",
+        "lemmatized_text": "el cadáver de uno anciano haber ser hallar hoy en avanzar estado de descomposición en uno vivienda abandonar en puerto_del_rosario fuerteventura según informar a europa_press fuente de el policía_local y de el cuerpo_nacional_de_policía",
+        "lemmatized_text_reduced": "cadáver anciano haber ser hallar avanzar estado descomposición vivienda abandonar puerto_del_rosario fuerteventura informar europa_press fuente policía_local cuerpo_nacional_de_policía",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Puerto_del_Rosario"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El cuerpo del hombre, de unos 70 años y posiblemente indigente, fue encontrado sin signos de violencia externos, añadieron las mismas fuentes, que apuntan que el varón, llevaba \"varios días fallecido\". El cadáver del hombre, de nacionalidad española, fue encontrado en un inmueble localizado cerca del Ayuntamiento de Puerto del Rosario y del mercado municipal.",
+        "lemmatized_text": "el cuerpo de el hombre de uno 70 año y posiblemente indigente ser encontrar sin signo de violencia externo añadir el mismo fuente que apuntar que el varón llevar varios día fallecer el cadáver de el hombre de nacionalidad español ser encontrar en uno inmueble localizar cerca de el ayuntamiento_de_puerto_del_rosario y de el mercado municipal",
+        "lemmatized_text_reduced": "cuerpo hombre año posiblemente indigente ser encontrar signo violencia externo añadir mismo fuente apuntar varón llevar día fallecer cadáver hombre nacionalidad español ser encontrar inmueble localizar ayuntamiento_de_puerto_del_rosario mercado municipal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Puerto_del_Rosario"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70"
+        ]
+    }
+}

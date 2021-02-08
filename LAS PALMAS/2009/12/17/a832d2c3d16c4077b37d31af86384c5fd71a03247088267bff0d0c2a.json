@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/590054/0/",
+    "title": {
+        "raw_text": "Un vehículo se sale de la vía y cae en una finca de Arucas (Gran Canaria)",
+        "lemmatized_text": "uno vehículo se salir de el vía y caer en uno finca de arucas gran_canaria",
+        "lemmatized_text_reduced": "vehículo salir vía caer finca arucas gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arucas",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un vehículo se ha salido esta mañana de la vía GC-300 entre Arucas y Cambaluc cayendo en una finca de los alrededores de la zona resultando su ocupante herida de carácter leve, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno vehículo se haber salir este mañana de el vía GC-300 entre arucas y cambaluc caer en uno finca de el alrededor de el zona resultar su ocupante herida de carácter leve según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "vehículo haber salir mañana vía arucas cambaluc caer finca alrededor zona resultar ocupante herida carácter leve informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Arucas"
+        ],
+        "locations": [
+            "Cambaluc"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-300",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta 07.30 horas indicando que un coche se había salido de la carretera y que su conductora había salido por sus propios medios, pero que precisaba asistencia sanitaria. Por el ello, el recurso de emergencia activó al Servicio de Urgencias Canario (SUC), que se trasladó al lugar de los hechos para atender a la afectada, comprobando que presentaba traumatismo leve en la cara. Tras comprobar sus daños, el SUC la trasladó en una ambulancia de soporte vital básico hasta el Hospital Universitario Doctor Negrín de Las Palmas de Gran Canaria. En el suceso también participaron los bomberos, que se encargaron de recoger el vehículo, y la Guardia Civil, que instruyó las diligencias correspondientes. Asimismo, en la madrugada de ayer tuvo lugar un incendio en la calle León y Castillo de Arrecife (Lanzarote) en el que se vieron afectados dos vehículos y la cristalera de un local contiguo a la zona. Los bomberos consiguieron sofocar las llamas sin problemas y no fue necesaria la intervención de ningún recurso de emergencia ya que el fuego no afectó a ninguna persona.",
+        "lemmatized_text": "el cecoes recibir el alerta TM_h:7.3 indicar que uno coche se haber salir de el carretera y que su conductor haber salir por su propio medio pero que precisar asistencia sanitario por el ello el recurso de emergencia activar a el servicio_de_urgencias_canario suc que se trasladar a el lugar de el hecho para atender a el afectado comprobar que presentar traumatismo leve en el cara tras comprobar su daño el suc lo trasladar en uno ambulancia de soporte vital básico hasta el hospital_universitario_doctor_negrín_de_las_palmas_de_gran_canaria en el suceso también participar el bombero que se encargar de recoger el vehículo y el guardia_civil que instruir el diligencia correspondiente asimismo en el madrugada de ayer tener_lugar uno incendio en el calle león y castillo_de_arrecife lanzarote en el que se ver afectar 2 vehículo y el cristalera de uno local contiguo a el zona el bombero conseguir sofocar el llama sin problema y no ser necesario el intervención de ninguno recurso de emergencia ya_que el fuego no afectar a ninguno persona",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar coche haber salir carretera conductor haber salir propio medio precisar asistencia sanitario recurso emergencia activar servicio_de_urgencias_canario suc trasladar lugar hecho atender afectado comprobar presentar traumatismo leve cara comprobar daño suc trasladar ambulancia soporte vital básico hospital_universitario_doctor_negrín_de_las_palmas_de_gran_canaria suceso participar bombero encargar recoger vehículo guardia_civil instruir diligencia correspondiente madrugada tener_lugar incendio calle león castillo_de_arrecife lanzarote ver afectar vehículo cristalera local contiguo zona bombero conseguir sofocar llama problema ser necesario intervención recurso emergencia fuego afectar persona",
+        "persons": [],
+        "locations": [
+            "León",
+            "Castillo_de_Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_Doctor_Negrín_de_Las_Palmas_de_Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.3",
+            "2"
+        ]
+    }
+}

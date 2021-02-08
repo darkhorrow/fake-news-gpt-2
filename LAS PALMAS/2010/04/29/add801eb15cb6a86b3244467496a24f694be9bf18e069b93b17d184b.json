@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/691521/0/",
+    "title": {
+        "raw_text": "Libertad sin fianza para María José Docal y con fianza de 6.000 euros para Luisa María Blanco, ambas del PIL",
+        "lemmatized_text": "libertad sin fianza para maría_josé_docal y con fianza de $_ECU:6 para luisa_maría_blanco ambos de el pil",
+        "lemmatized_text_reduced": "libertad fianza maría_josé_docal fianza luisa_maría_blanco pil",
+        "persons": [
+            "María_José_Docal",
+            "Luisa_María_Blanco"
+        ],
+        "locations": [],
+        "organizations": [
+            "PIL"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El juez del juzgado de instrucción Número 5 de Arrecife (Lanzarote), César Romero Pamparacuatro, dejó en libertad sin fianza a la consejera de Presidencia del Cabildo lanzaroteño, María José Docal, y en libertad con una fianza de 6.000 euros a la concejal de Festejos del Ayuntamiento de Arrecife, Luisa María Blanco, ambas del Partido Independiente de Lanzarote (PIL).",
+        "lemmatized_text": "el juez de el juzgado de instrucción número 5 de arrecife lanzarote césar_romero_pamparacuatro dejar en libertad sin fianza a el consejero de presidencia_del_cabildo lanzaroteño maría_josé_docal y en libertad con uno fianza de $_ECU:6 a el concejal de festejos_del_ayuntamiento_de_arrecife luisa_maría_blanco ambos de el partido_independiente_de_lanzarote pil",
+        "lemmatized_text_reduced": "juez juzgado instrucción número arrecife lanzarote césar_romero_pamparacuatro dejar libertad fianza consejero presidencia_del_cabildo lanzaroteño maría_josé_docal libertad fianza concejal festejos_del_ayuntamiento_de_arrecife luisa_maría_blanco partido_independiente_de_lanzarote pil",
+        "persons": [
+            "César_Romero_Pamparacuatro",
+            "María_José_Docal",
+            "Luisa_María_Blanco"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Presidencia_del_Cabildo",
+            "Partido_Independiente_de_Lanzarote",
+            "PIL"
+        ],
+        "others": [
+            "Número",
+            "Festejos_del_Ayuntamiento_de_Arrecife"
+        ],
+        "dates": [],
+        "numbers": [
+            "5",
+            "$_ECU:6"
+        ]
+    },
+    "body": {
+        "raw_text": "El Tribunal Superior de Justicia de Canarias informó de que, en el marco de las diligencias del 'caso Unión', y dentro de la 'operación Jable', imputó a María José Docal el delito de cohecho, aunque quedaba en libertad sin fianza con la obligación de comparecer ante el juzgado cuando sea llamada. Asimismo, Luisa María Blanco tendrá que hacer frente antes del 10 de mayo a una fianza de 6.000 euros para quedar en libertad —de otra forma, ingresaría en prisión provisional y comunicada— tras imputársele los delitos de cohecho y malversación de caudales públicos.",
+        "lemmatized_text": "el tribunal_superior_de_justicia_de_canarias informar de que en el marco de el diligencia de el caso unión y dentro_de el operación jable imputar a maría_josé_docal el delito de cohecho aunque quedar en libertad sin fianza con el obligación de comparecer ante el juzgado cuando ser llamar asimismo luisa_maría_blanco tener que hacer_frente antes de el [??:10/5/??:??.??:??] a uno fianza de $_ECU:6 para quedar en libertad de otro forma ingresar en prisión provisional y comunicar tras imputar se le el delito de cohecho y malversación de caudal público",
+        "lemmatized_text_reduced": "tribunal_superior_de_justicia_de_canarias informar marco diligencia caso unión operación jable imputar maría_josé_docal delito cohecho quedar libertad fianza obligación comparecer juzgado ser llamar luisa_maría_blanco tener hacer_frente fianza quedar libertad forma ingresar prisión provisional comunicar imputar delito cohecho malversación caudal público",
+        "persons": [
+            "María_José_Docal",
+            "Luisa_María_Blanco"
+        ],
+        "locations": [],
+        "organizations": [
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "Unión",
+            "Jable"
+        ],
+        "others": [],
+        "dates": [
+            "[??:10/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:6"
+        ]
+    }
+}

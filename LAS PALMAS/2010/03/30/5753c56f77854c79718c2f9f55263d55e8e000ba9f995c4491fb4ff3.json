@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/665024/0/",
+    "title": {
+        "raw_text": "La Guardia Civil interviene 1.300 kilogramos de pescado longorón en Gran Canaria por no reunir la talla mínima",
+        "lemmatized_text": "el guardia_civil intervenir WG_kg:1.3 de pescado longorón en gran_canaria por no reunir el talla mínimo",
+        "lemmatized_text_reduced": "guardia_civil intervenir pescado longorón gran_canaria reunir talla mínimo",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_kg:1.3"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil del Servicio de Protección de la Naturaleza (Seprona) de Las Palmas y la patrulla del Seprona de Vecindario (Gran Canaria) han intervenido esta madrugada 1.300 kilogramos de pescado longorón (engraulis encrasicholus) por no reunir la talla mínima.",
+        "lemmatized_text": "el guardia_civil_del_servicio_de_protección_de_la_naturaleza seprona de las_palmas y el patrulla de el seprona_de_vecindario gran_canaria haber intervenir este madrugada WG_kg:1.3 de pescado longorón engraulis encrasicholus por no reunir el talla mínimo",
+        "lemmatized_text_reduced": "guardia_civil_del_servicio_de_protección_de_la_naturaleza seprona las_palmas patrulla seprona_de_vecindario gran_canaria haber intervenir madrugada pescado longorón engraulis encrasicholus reunir talla mínimo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil_del_Servicio_de_Protección_de_la_Naturaleza",
+            "Seprona",
+            "Las_Palmas",
+            "Seprona_de_Vecindario",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_kg:1.3"
+        ]
+    },
+    "body": {
+        "raw_text": "El pescado aprehendido, según informó la Benemérita en nota de prensa, no alcanzaba la talla mínima establecida para su pesca, estando comprendidas las capturas entre los 6 y 7 centímetros, mientras que la reglamentada para esta especie está fijada en 9 centímetros. Así, el pescado intervenido se divide en 130 cajas de 10 kilogramos cada una. Éste ha sido el resultado de varias inspecciones realizadas por el Seprona en el Merca Las Palmas, Cofradía de Pescadores de San Cristóbal (Las Palmas de G.C.), Cofradía de Pescadores de Arguineguín (Mogán) y Centro de Distribución de una cadena de alimentación. La citada patrulla de Seprona de la capital grancanaria procedió a formular la correspondiente denuncia ante la Viceconsejería de Pesca del Gobierno de Canarias, como autores de la supuesta infracción contemplada en la Ley 17/ 03 de pesca de Canarias. Las especies pesqueras decomisadas fueron entregadas en los centros benéficos de 'Ciudad de San Juan de Dios' y 'Cáritas' de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el pescado aprehender según informar el benemérita en nota de prensa no alcanzar el talla mínimo establecer para su pesca estar comprender el captura entre el 6 y LN_cm:7 mientras_que el reglamentar para este especie estar fijar en LN_cm:9 así el pescado intervenir se dividir en 130 caja de WG_kg:10 cada uno este haber ser el resultado de varios inspección realizar por el seprona en el merca_las_palmas cofradía_de_pescadores_de_san_cristóbal el palmas_de_g.c. cofradía_de_pescadores_de_arguineguín mogán y centro_de_distribución de uno cadena de alimentación el citar patrulla de seprona de el capital grancanaria proceder a formular el correspondiente denuncia ante el viceconsejería_de_pesca_del_gobierno_de_canarias como autor de el suponer infracción contemplar en el ley 17 3 de pesca de canarias el especie pesquero decomisar ser entregar en el centro benéfico de ciudad_de_san_juan_de_dios y cáritas de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "pescado aprehender informar benemérita nota prensa alcanzar talla mínimo establecer pesca estar comprender captura reglamentar especie estar fijar pescado intervenir dividir caja haber ser resultado inspección realizar seprona merca_las_palmas cofradía_de_pescadores_de_san_cristóbal palmas_de_g.c. cofradía_de_pescadores_de_arguineguín mogán centro_de_distribución cadena alimentación citar patrulla seprona capital grancanaria proceder formular correspondiente denuncia viceconsejería_de_pesca_del_gobierno_de_canarias autor suponer infracción contemplar ley pesca canarias especie pesquero decomisar ser entregar centro benéfico ciudad_de_san_juan_de_dios cáritas las_palmas_de_gran_canaria",
+        "persons": [
+            "Cofradía_de_Pescadores_de_San_Cristóbal",
+            "Cofradía_de_Pescadores_de_Arguineguín"
+        ],
+        "locations": [
+            "Canarias",
+            "Ciudad_de_San_Juan_de_Dios",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Benemérita",
+            "Seprona",
+            "Merca_Las_Palmas",
+            "Palmas_de_G.C.",
+            "Mogán",
+            "Centro_de_Distribución",
+            "Seprona",
+            "Viceconsejería_de_Pesca_del_Gobierno_de_Canarias",
+            "Cáritas"
+        ],
+        "others": [
+            "Ley"
+        ],
+        "dates": [],
+        "numbers": [
+            "6",
+            "LN_cm:7",
+            "LN_cm:9",
+            "130",
+            "WG_kg:10",
+            "17",
+            "3"
+        ]
+    }
+}

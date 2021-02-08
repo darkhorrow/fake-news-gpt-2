@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596812/0/",
+    "title": {
+        "raw_text": "Cáritas apela a la solidaridad ciudadana para mantener los proyectos de mujer ante el recorte del Gobierno de Canarias",
+        "lemmatized_text": "cáritas apelar a el solidaridad ciudadano para mantener el proyecto de mujer ante el recorte de el gobierno_de_canarias",
+        "lemmatized_text_reduced": "cáritas apelar solidaridad ciudadano mantener proyecto mujer recorte gobierno_de_canarias",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cáritas",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Cáritas Diocesana de Canarias ha apelado a la solidaridad ciudadana para mantener los proyectos de inserción para unas 600 mujeres en situación de riesgo de exclusión social ante la retirada de subvenciones del Instituto Canario de la Mujer (ICM), dependiente del Gobierno autonómico, según informó la institución en nota de prensa.",
+        "lemmatized_text": "cáritas_diocesana_de_canarias haber apelar a el solidaridad ciudadano para mantener el proyecto de inserción para uno 600 mujer en situación de riesgo de exclusión social ante el retirada de subvención de el instituto_canario_de_la_mujer icm dependiente de el gobierno autonómico según informar el institución en nota de prensa",
+        "lemmatized_text_reduced": "cáritas_diocesana_de_canarias haber apelar solidaridad ciudadano mantener proyecto inserción mujer situación riesgo exclusión social retirada subvención instituto_canario_de_la_mujer icm dependiente gobierno autonómico informar institución nota prensa",
+        "persons": [
+            "Cáritas_Diocesana_de_Canarias"
+        ],
+        "locations": [],
+        "organizations": [
+            "Instituto_Canario_de_la_Mujer",
+            "ICM",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "600"
+        ]
+    },
+    "body": {
+        "raw_text": "En este sentido recordó que \"en julio pasado el ICM decidió denegar a Cáritas la subvención anual, lo que generó un déficit de 120.350 euros en la financiación del Programa de Mujer\". No obstante, tras haber denunciado públicamente este hecho, Cáritas logró que el Cabildo de Gran Canaria asumiese el cien por cien del presupuesto del citado Programa para 2009. Por tanto, la situación que se plantea de cara al 2010 es \"totalmente precaria a nivel económico, ya que, en concreto, sólo cuenta con 17.870 euros del IRPF para el Programa y los dos centros de atención a la mujer. Esto supone que, de entrada, se cuentan con 120.000 euros menos de los necesarios para afrontar la actividad del año entrante\", aseguró Cáritas. De esta manera, la institución lanzó esta campaña de solidaridad ciudadana, dirigida principalmente a mantener el desarrollo de sus proyectos para mujeres en situación de exclusión social. Al mismo tiempo, Cáritas Diocesana instó \"a las instituciones que ostentan la máxima responsabilidad pública y autonómica a cumplir con sus funciones y objetivos, poniendo sus recursos económicos y humanos a favor de la ciudadanía, especialmente de las personas en situación o riesgo de exclusión\".",
+        "lemmatized_text": "en este sentido recordar que en [??:??/7/??:??.??:??] pasar el icm decidir denegar a cáritas el subvención anual el que generar uno déficit de $_ECU:120.35 en el financiación de el programa_de_mujer no_obstante tras haber denunciar públicamente este hecho cáritas lograr que el cabildo_de_gran_canaria asumir el cien_por_cien de el presupuesto de el citar programa para 2009 por tanto el situación que se plantear de cara a el 2010 ser totalmente precario a nivel económico ya_que en concreto sólo contar con $_ECU:17.87 de el irpf_para_el_programa y el 2 centro de atención a el mujer este suponer que de entrada se contar con $_ECU:120 menos de el necesario para afrontar el actividad de el año entrante asegurar cáritas de este manera el institución lanzar este campaña de solidaridad ciudadano dirigir principalmente a mantener el desarrollo de su proyecto para mujer en situación de exclusión social a el mismo tiempo cáritas_diocesana instar a el institución que ostentar el máximo responsabilidad público y autonómico a cumplir con su función y objetivo poner su recurso económico y humano a_favor_de el ciudadanía especialmente de el persona en situación o riesgo de exclusión",
+        "lemmatized_text_reduced": "sentido recordar pasar icm decidir denegar cáritas subvención anual generar déficit financiación programa_de_mujer haber denunciar públicamente hecho cáritas lograr cabildo_de_gran_canaria asumir presupuesto citar programa situación plantear cara ser totalmente precario nivel económico concreto contar irpf_para_el_programa centro atención mujer suponer entrada contar necesario afrontar actividad año entrante asegurar cáritas manera institución lanzar campaña solidaridad ciudadano dirigir principalmente mantener desarrollo proyecto mujer situación exclusión social mismo tiempo cáritas_diocesana instar institución ostentar máximo responsabilidad público autonómico cumplir función objetivo poner recurso económico humano ciudadanía especialmente persona situación riesgo exclusión",
+        "persons": [],
+        "locations": [
+            "Programa"
+        ],
+        "organizations": [
+            "ICM",
+            "Cáritas",
+            "Cáritas",
+            "Cabildo_de_Gran_Canaria",
+            "Cáritas",
+            "Cáritas_Diocesana"
+        ],
+        "others": [
+            "Programa_de_Mujer",
+            "IRPF_para_el_Programa"
+        ],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:120.35",
+            "2009",
+            "2010",
+            "$_ECU:17.87",
+            "2",
+            "$_ECU:120"
+        ]
+    }
+}

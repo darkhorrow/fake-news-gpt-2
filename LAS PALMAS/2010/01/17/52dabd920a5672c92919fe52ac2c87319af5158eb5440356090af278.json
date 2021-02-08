@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/608432/0/",
+    "title": {
+        "raw_text": "Cruz Roja rescata a un pescador que cayó al mar en El Confital (Gran Canaria)",
+        "lemmatized_text": "cruz_roja rescatar a uno pescador que caer a el mar en el_confital gran_canaria",
+        "lemmatized_text_reduced": "cruz_roja rescatar pescador caer mar el_confital gran_canaria",
+        "persons": [],
+        "locations": [
+            "El_Confital",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cruz_Roja"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los efectivos de Cruz Roja han conseguido rescatar a un pescador que se cayó al mar desde su embarcación en la zona de El Confital, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el efectivo de cruz_roja haber conseguir rescatar a uno pescador que se caer a el mar desde su embarcación en_la_zona_de el_confital en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "efectivo cruz_roja haber conseguir rescatar pescador caer mar embarcación el_confital las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "El_Confital",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Cruz_Roja",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 11.49 horas indicando que un varón se había precipitado por la borda de un barco pesquero en la bahía de la capital grancanaria, por ello, se activó al helicóptero del Grupo de Emergencias y Salvamento (GES) aunque no fue necesaria su intervención ya que una embarcación de la Cruz Roja localizó al afectado y pudo rescatarlo. No obstante, el pescador afectado tuvo que ser trasladado en ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC) hasta el centro especializado (PAC) de Guanarteme donde recibió asistencia sanitaria.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:11.49 indicar que uno varón se haber precipitar por el borda de uno barco pesquero en el bahía de el capital grancanaria por ello se activar a el helicóptero de el grupo_de_emergencias y salvamento ges aunque no ser necesario su intervención ya_que uno embarcación de el cruz_roja localizar a el afectar y poder rescatar lo no_obstante el pescador afectar tener que ser trasladar en ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc hasta el centro especializar pac de guanarteme donde recibir asistencia sanitario",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar varón haber precipitar borda barco pesquero bahía capital grancanaria activar helicóptero grupo_de_emergencias salvamento ges ser necesario intervención embarcación cruz_roja localizar afectar poder rescatar pescador afectar tener ser trasladar ambulancia soporte vital básico servicio_de_urgencias_canario suc centro especializar pac guanarteme recibir asistencia sanitario",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Guanarteme"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Cruz_Roja",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "PAC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:11.49"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/647952/0/",
+    "title": {
+        "raw_text": "Una colisión de varios vehículos en Fuerteventura se salda con dos heridos leves",
+        "lemmatized_text": "uno colisión de varios vehículo en fuerteventura se saldar con 2 herido leve",
+        "lemmatized_text_reduced": "colisión vehículo fuerteventura saldar herido leve",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una colisión entre varios vehículos en la isla de Fuerteventura se ha saldado hoy con dos heridos de carácter leve, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno colisión entre varios vehículo en el isla de fuerteventura se haber saldar hoy con 2 herido de carácter leve según informar fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "colisión vehículo isla fuerteventura haber saldar herido carácter leve informar fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fuerteventura",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 07.00 horas, en la carretera Fuerteventura 4 (FV-4), a la altura del municipio de Tuineje. En cuanto a los heridos sufrieron lesiones de diversas consideración. Así, una vez llegó el personal del Servicio de Urgencias Canario (SUC) hasta el lugar de los hechos, trasladó a los heridos hasta el Centro de Salud de Gran Tarajal.",
+        "lemmatized_text": "el incidente se producir a el TM_h:7 en el carretera fuerteventura 4 FV-4 a el altura de el municipio de tuineje en_cuanto_a el herido sufrir lesión de diverso consideración así uno vez llegar el personal de el servicio_de_urgencias_canario suc hasta el lugar de el hecho trasladar a el herido hasta el centro_de_salud_de_gran_tarajal",
+        "lemmatized_text_reduced": "incidente producir carretera fuerteventura altura municipio tuineje herido sufrir lesión consideración vez llegar personal servicio_de_urgencias_canario suc lugar hecho trasladar herido centro_de_salud_de_gran_tarajal",
+        "persons": [],
+        "locations": [
+            "Tuineje"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Centro_de_Salud_de_Gran_Tarajal"
+        ],
+        "others": [
+            "Fuerteventura"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:7",
+            "4",
+            "FV-4"
+        ]
+    }
+}

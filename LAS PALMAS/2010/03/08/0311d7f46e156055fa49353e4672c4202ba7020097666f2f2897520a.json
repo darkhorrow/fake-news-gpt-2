@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/646257/0/",
+    "title": {
+        "raw_text": "CC acusa al alcalde de Telde (Gran Canaria) de \"pasar olímpicamente\" de Jinámar tras el reportaje de 'Callejeros'",
+        "lemmatized_text": "cc acusar a el alcalde de telde gran_canaria de pasar olímpicamente de jinámar tras el reportaje de callejero",
+        "lemmatized_text_reduced": "cc acusar alcalde telde gran_canaria pasar olímpicamente jinámar reportaje callejero",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Jinámar"
+        ],
+        "organizations": [
+            "CC"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El candidato a la alcaldía de Coalición Canarias de Telde (Gran Canaria), Pablo Rodríguez, ha acusado al alcalde, Francisco Santiago, \"de pasar olímpicamente del Valle de Jinámar y de hacer teatro por el qué dirán\", mientras explicó que al primer edil \"se le han saltado los colores tras ver en televisión --en el programa 'Callejeros'-- el viernes la degradación a la que ha sometido durante treinta años a Jinámar\".",
+        "lemmatized_text": "el candidato a el alcaldía de coalición_canarias_de_telde gran_canaria pablo_rodríguez haber acusar a el alcalde francisco_santiago de pasar olímpicamente de el valle_de_jinámar y de hacer teatro por el qué decir mientras explicar que a el 1 edil se le haber saltar el color tras ver en televisión en el programa callejero el [V:??/??/??:??.??:??] el degradación a el que haber someter durante 30 año a jinámar",
+        "lemmatized_text_reduced": "candidato alcaldía coalición_canarias_de_telde gran_canaria pablo_rodríguez haber acusar alcalde francisco_santiago pasar olímpicamente valle_de_jinámar hacer teatro decir explicar 1 edil haber saltar color ver televisión programa callejero degradación haber someter año jinámar",
+        "persons": [
+            "Pablo_Rodríguez",
+            "Francisco_Santiago"
+        ],
+        "locations": [
+            "Valle_de_Jinámar",
+            "Jinámar"
+        ],
+        "organizations": [
+            "Coalición_Canarias_de_Telde",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, recordó que existe una \"deuda histórica\" con el Valle de Jinámar que debe ser saldada. Por este motivo, indicó que está trabajando junto a la diputada Maria del Mar Julios en una iniciativa que presentarán en el Parlamento canario para que el conjunto de las administraciones inyecten un importante capital en la regeneración del barrio. \"El alcalde no beneficia a Telde culpando a las televisiones de sus fracasos de gestión. No va por Jinámar desde hace años por miedo a la reacción de la gente, que no olvida. Los vecinos de Jinámar han sido perjudicados por el Ayuntamiento, lisa y llanamente, por ideología y por no estar en la hoja de ruta electoral de Paco Santiago\". \"Ahora el alcalde les teme porque en 2011 serán decisivos\", dijo. Finalmente, apuntó que este tipo de programas que reflejan las \"miserias\" de distintas zonas del Estado, \"vuelve a manifestar una realidad sesgada del Valle de Jinámar, siendo conscientes de que afortunadamente existen otras realidades bien distintas y mucho más positivas\". \"Hay que trabajar mucho —concluyó— por conseguir que las imágenes negativas se conviertan en imágenes de esperanza\".",
+        "lemmatized_text": "en uno comunicado recordar que existir uno deuda histórico con el valle_de_jinámar que deber ser saldar por este motivo indicar que estar trabajar junto_a el diputado maria_del_mar_julios en uno iniciativa que presentar en el parlamento canario para que el conjunto de el administración inyectar uno importante capital en el regeneración de el barrio el alcalde no beneficiar a telde culpar a el televisión de su fracaso de gestión no ir por jinámar desde hacer año por miedo a el reacción de el gente que no olvidar el vecino de jinámar haber ser perjudicar por el ayuntamiento lisa y llanamente por ideología y por no estar en el hoja de ruta electoral de paco_santiago ahora el alcalde le temer porque en 2011 ser decisivo decir finalmente apuntar que este tipo de programa que reflejar el miseria de distinto zona de el estado volver a manifestar uno realidad sesgar de el valle_de_jinámar ser consciente de que afortunadamente existir otro realidad bien distinto y mucho más positivo haber que trabajar mucho concluir por conseguir que el imagen negativo se convertir en imagen de esperanza",
+        "lemmatized_text_reduced": "comunicado recordar existir deuda histórico valle_de_jinámar deber ser saldar motivo indicar estar trabajar diputado maria_del_mar_julios iniciativa presentar parlamento canario conjunto administración inyectar importante capital regeneración barrio alcalde beneficiar telde culpar televisión fracaso gestión ir jinámar hacer año miedo reacción gente olvidar vecino jinámar haber ser perjudicar ayuntamiento lisa llanamente ideología estar hoja ruta electoral paco_santiago alcalde temer ser decisivo decir finalmente apuntar tipo programa reflejar miseria zona estado volver manifestar realidad sesgar valle_de_jinámar ser consciente afortunadamente existir realidad distinto positivo haber trabajar concluir conseguir imagen negativo convertir imagen esperanza",
+        "persons": [
+            "Maria_del_Mar_Julios",
+            "Jinámar"
+        ],
+        "locations": [
+            "Valle_de_Jinámar",
+            "Jinámar",
+            "Paco_Santiago",
+            "Valle_de_Jinámar"
+        ],
+        "organizations": [
+            "Parlamento",
+            "Telde",
+            "Ayuntamiento",
+            "Estado"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2011"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/703948/0/",
+    "title": {
+        "raw_text": "Un ciclista de 29 años resulta herido tras colisionar contra un vehículo en Arrecife (Lanzarote)",
+        "lemmatized_text": "uno ciclista de 29 año resultar herir tras colisionar contra uno vehículo en arrecife lanzarote",
+        "lemmatized_text_reduced": "ciclista año resultar herir colisionar vehículo arrecife lanzarote",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "29"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un ciclista de 29 años de edad ha resultado herido con traumatismo costal de carácter menos grave tras colisionar contra un vehículo en la calle Carlos III en Arrecife, en Lanzarote, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno ciclista de 29 año de edad haber resultar herir con traumatismo costal de carácter menos grave tras colisionar contra uno vehículo en el calle carlos_iii en arrecife en lanzarote según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "ciclista año edad haber resultar herir traumatismo costal carácter grave colisionar vehículo calle carlos_iii arrecife lanzarote informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Carlos_III",
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "29",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 18.15 horas, cuando varias llamadas alertaron al Cecoes del incidente, por lo que el 112 activó de inmediato el dispositivo de emergencias necesario. Personal médico atendió al afectado, que fue trasladado en una ambulancia de soporte vital avanzado del Servicio de Urgencias Canario (SUC) al Hospital Doctor José Molina Oroza. Hasta el lugar se desplazó también una ambulancia de soporte vital básico del SUC, mientras que la Policía Local se encargó de instruir las correspondientes diligencias.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:18.15 cuando varios llamada alertar a el cecoes de el incidente por el que el 112 activar de inmediato el dispositivo de emergencia necesario personal médico atender a el afectar que ser trasladar en uno ambulancia de soporte vital avanzar de el servicio_de_urgencias_canario suc a el hospital_doctor_josé_molina_oroza hasta el lugar se desplazar también uno ambulancia de soporte vital básico de el suc mientras_que el policía_local se encargar de instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes incidente activar inmediato dispositivo emergencia necesario personal médico atender afectar ser trasladar ambulancia soporte vital avanzar servicio_de_urgencias_canario suc hospital_doctor_josé_molina_oroza lugar desplazar ambulancia soporte vital básico suc policía_local encargar instruir correspondiente diligencia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Doctor_José_Molina_Oroza",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:18.15",
+            "112"
+        ]
+    }
+}

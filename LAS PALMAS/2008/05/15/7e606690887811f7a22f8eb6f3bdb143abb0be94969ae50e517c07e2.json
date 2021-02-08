@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/379069/0/apagon/laspalmas/luz/",
+    "title": {
+        "raw_text": "Un apagón deja sin luz a 24.000 usuarios en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno apagón dejar sin luz a 24 usuario en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "apagón dejar luz usuario las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "24"
+        ]
+    },
+    "lead": {
+        "raw_text": "El suministro eléctrico ya ha sido restablecido. Ha sido provocado por problemas con dos subestaciones. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el suministro eléctrico ya haber ser restablecer haber ser provocar por problema con 2 subestación consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "suministro eléctrico haber ser restablecer haber ser provocar problema subestación consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Un apagón en Las Palmas de Gran Canaria ha dejado hoy sin luz a casi 24.000 usuarios , al parecer por problemas con dos subestaciones de la empresa eléctrica Unelco. El apagón ha tenido lugar sobre las 14.15 horas, y ya ha sido restablecido el suministro eléctrico . Ha afectado a casi 24.000 usuarios, lo que supone algo menos de la mitad de la ciudad , informaron fuentes de la operadora eléctrica. En concreto, las dos subestaciones afectadas han sido la de Cruz de Piedra y la de Lomo Apolinario, que han dejado sin luz a 13.968 y 10.118 clientes de Unelco . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno apagón en las_palmas_de_gran_canaria haber dejar hoy sin luz a casi 24 usuario a el parecer por problema con 2 subestación de el empresa eléctrico unelco el apagón haber tener_lugar sobre el TM_h:14.15 y ya haber ser restablecer el suministro eléctrico haber afectar a casi 24 usuario el que suponer algo menos de el mitad de el ciudad informar fuente de el operador eléctrico en concreto el 2 subestación afectar haber ser el de cruz_de_piedra y el de lomo_apolinario que haber dejar sin luz a 13.968 y 10.118 cliente de unelco consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "apagón las_palmas_de_gran_canaria haber dejar luz usuario parecer problema subestación empresa eléctrico unelco apagón haber tener_lugar haber ser restablecer suministro eléctrico haber afectar usuario suponer mitad ciudad informar fuente operador eléctrico concreto subestación afectar haber ser cruz_de_piedra lomo_apolinario haber dejar luz cliente unelco consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Lomo_Apolinario"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Unelco"
+        ],
+        "organizations": [
+            "Unelco",
+            "Cruz_de_Piedra",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "24",
+            "2",
+            "TM_h:14.15",
+            "24",
+            "2",
+            "13.968",
+            "10.118"
+        ]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/699012/0/",
+    "title": {
+        "raw_text": "Gobierno canario financia la campaña para el control de la tuberculósis en la cabaña caprina con 201.600 euros",
+        "lemmatized_text": "gobierno canario financiar el campaña para el control de el tuberculósis en el cabaña caprino con $_ECU:201.6",
+        "lemmatized_text_reduced": "gobierno canario financiar campaña control tuberculósis cabaña caprino",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:201.6"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Consejería de Agricultura, Ganadería, Pesca y Alimentación del Gobierno de Canarias destinará 201.600 euros a la contratación de un servicio para realizar las pruebas de control de la tuberculosis (intradermotuberculización comparada) en la cabaña caprina, así como la identificación del ganado caprino y ovino del archipiélago.",
+        "lemmatized_text": "el consejería_de_agricultura ganadería pesca y alimentación_del_gobierno_de_canarias destinar $_ECU:201.6 a el contratación de uno servicio para realizar el prueba de control de el tuberculosis intradermotuberculización comparar en el cabaña caprino así_como el identificación de el ganado caprino y ovino de el archipiélago",
+        "lemmatized_text_reduced": "consejería_de_agricultura ganadería pesca alimentación_del_gobierno_de_canarias destinar contratación servicio realizar prueba control tuberculosis intradermotuberculización comparar cabaña caprino identificación ganado caprino ovino archipiélago",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejería_de_Agricultura",
+            "Ganadería",
+            "Pesca",
+            "Alimentación_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:201.6"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, lo informó hoy al Consejo de Gobierno la consejera del área, Pilar Merino. La Dirección general de Ganadería realiza de forma regular muestreos aleatorios cercanas al 10 por ciento de las explotaciones de caprino en el marco de las campañas de saneamiento ganadero para dar cumplimiento a la legislación de la Unión Europea (UE) que establece normas específicas de higiene de los alimentos de origen animal. Por ello, la Consejería consideró \"imprescindible\", según informó el Ejecutivo regional en nota de prensa, realizar con \"carácter de emergencia\" la prueba de intradermotuberculización comparada (IDTC) en toda la cabaña caprina al objeto de valorar su incidencia. Sin embargo, la \"carencia de medios suficientes\" para acometer estas pruebas de forma \"masiva y en corto espacio de tiempo\", ha motivado que, mediante Orden de la Consejera de Agricultura, Ganadería, Pesca y Alimentación de 5 de marzo 2010, se haya procedido a la contratación de emergencia del servicio de realización de las pruebas en la cabaña caprina, así como la identificación del ganado caprino y ovino.",
+        "lemmatized_text": "así lo informar hoy a el consejo_de_gobierno el consejero de el área pilar_merino el dirección general de ganadería realizar de forma regular muestreo aleatorio cercano a el 10 por 100 de el explotación de caprino en el marco de el campaña de saneamiento ganadero para dar cumplimiento a el legislación de el unión_europea ue que establecer norma específico de higiene de el alimento de origen animal por ello el consejería considerar imprescindible según informar el ejecutivo regional en nota de prensa realizar con carácter de emergencia el prueba de intradermotuberculización comparar idtc en todo el cabaña caprino al_objeto_de valorar su incidencia sin embargo el carencia de medio suficiente para acometer este prueba de forma masivo y en corto espacio de tiempo haber motivar que mediante orden_de_la_consejera_de_agricultura ganadería pesca y alimentación de [??:5/3/??:??.??:??] 2010 se haber proceder a el contratación de emergencia de el servicio de realización de el prueba en el cabaña caprino así_como el identificación de el ganado caprino y ovino",
+        "lemmatized_text_reduced": "informar consejo_de_gobierno consejero área pilar_merino dirección general ganadería realizar forma regular muestreo aleatorio cercano explotación caprino marco campaña saneamiento ganadero dar cumplimiento legislación unión_europea ue establecer norma específico higiene alimento origen animal consejería considerar imprescindible informar ejecutivo regional nota prensa realizar carácter emergencia prueba intradermotuberculización comparar idtc cabaña caprino valorar incidencia embargo carencia medio suficiente acometer prueba forma masivo corto espacio tiempo haber motivar orden_de_la_consejera_de_agricultura ganadería pesca alimentación haber proceder contratación emergencia servicio realización prueba cabaña caprino identificación ganado caprino ovino",
+        "persons": [
+            "Pilar_Merino"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consejo_de_Gobierno",
+            "Dirección",
+            "Ganadería",
+            "Unión_Europea",
+            "UE",
+            "Consejería",
+            "Ejecutivo",
+            "Orden_de_la_Consejera_de_Agricultura",
+            "Ganadería",
+            "Pesca"
+        ],
+        "others": [
+            "IDTC",
+            "Alimentación"
+        ],
+        "dates": [
+            "[??:5/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "10",
+            "100",
+            "2010"
+        ]
+    }
+}

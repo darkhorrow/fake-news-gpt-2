@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/591692/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias invertirá 751.091 euros en las obras de mejora de la calle Anzuelo de Tías (Lanzarote)",
+        "lemmatized_text": "el gobierno_de_canarias invertir $_ECU:751.091 en el obra de mejora de el calle anzuelo_de_tías lanzarote",
+        "lemmatized_text_reduced": "gobierno_de_canarias invertir obra mejora calle anzuelo_de_tías lanzarote",
+        "persons": [],
+        "locations": [
+            "Anzuelo_de_Tías",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:751.091"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Consejería de Turismo del Gobierno de Canarias ha sacado hoy a concurso, mediante procedimiento abierto y trámite urgente, por una cantidad de 751.091 euros la ejecución de las obras de mejora de los espacios turísticos de la calle Anzuelo, situada en Puerto del Carmen en el municipio lanzaroteño de Tías.",
+        "lemmatized_text": "el consejería_de_turismo_del_gobierno_de_canarias haber sacar hoy a concurso mediante procedimiento abrir y trámite urgente por uno cantidad de $_ECU:751.091 el ejecución de el obra de mejora de el espacio turístico de el calle anzuelo situar en puerto_del_carmen en el municipio lanzaroteño de tías",
+        "lemmatized_text_reduced": "consejería_de_turismo_del_gobierno_de_canarias haber sacar concurso procedimiento abrir trámite urgente cantidad ejecución obra mejora espacio turístico calle anzuelo situar puerto_del_carmen municipio lanzaroteño tías",
+        "persons": [],
+        "locations": [
+            "Anzuelo",
+            "Puerto_del_Carmen",
+            "Tías"
+        ],
+        "organizations": [
+            "Consejería_de_Turismo_del_Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:751.091"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el Ejecutivo autonómico en nota de prensa, el presupuesto base de licitación de las obras se distribuirá en dos anualidades de 51.095 y de 700.000 euros, correspondientes a 2009 y 2010 respectivamente, y con un plazo de ejecución de seis meses, a partir del inicio de los trabajos. Por su parte, el pliego de cláusulas administrativas particulares, de prescripciones técnicas y toda la documentación complementaria está a disposición de los interesados en las sedes del Servicio de Infraestructura Turística de la Dirección General de Infraestructura Turística, tanto de Las Palmas de Gran Canaria como de Santa Cruz de Tenerife, así como en la página www.gobiernodecanarias.org/perfildelcontratante. La Mesa de Contratación examinará y calificará la documentación presentada por los licitadores de acuerdo al mencionado pliego. El plazo para la presentación de las propuestas es de 13 días naturales, a partir del jueves, 17 de diciembre, según apunta el Boletín Oficial de Canarias (BOC). La Consejería de Turismo que dirige Rita Martín continúa trabajando para mejorar la calidad de los servicios y el ocio de los enclaves turísticos de Canarias para su aprovechamiento turístico.",
+        "lemmatized_text": "según informar el ejecutivo autonómico en nota de prensa el presupuesto base de licitación de el obra se distribuir en 2 anualidad de 51.095 y de $_ECU:700 correspondiente a 2009 y 2010 respectivamente y con uno plazo de ejecución de 6 mes a partir de el inicio de el trabajo por su parte el pliego de cláusula administrativo particular de prescripción técnico y todo el documentación complementario estar a disposición de el interesar en el sede de el servicio_de_infraestructura_turística_de_la_dirección_general_de_infraestructura_turística tanto de las_palmas_de_gran_canaria como de santa_cruz_de_tenerife así_como en el página www.gobiernodecanarias.org/perfildelcontratante el mesa_de_contratación examinar y calificar el documentación presentar por el licitador de acuerdo a el mencionar pliego el plazo para el presentación de el propuesta ser de TM_d:13 natural a partir de el [J:17/12/??:??.??:??] según apuntar el boletín_oficial_de_canarias boc el consejería_de_turismo que dirigir rita_martín continuar trabajar para mejorar el calidad de el servicio y el ocio de el enclave turístico de canarias para su aprovechamiento turístico",
+        "lemmatized_text_reduced": "informar ejecutivo autonómico nota prensa presupuesto base licitación obra distribuir anualidad correspondiente respectivamente plazo ejecución mes partir inicio trabajo parte pliego cláusula administrativo particular prescripción técnico documentación complementario estar disposición interesar sede servicio_de_infraestructura_turística_de_la_dirección_general_de_infraestructura_turística las_palmas_de_gran_canaria santa_cruz_de_tenerife página www.gobiernodecanarias.org/perfildelcontratante mesa_de_contratación examinar calificar documentación presentar licitador acuerdo mencionar pliego plazo presentación propuesta ser natural partir apuntar boletín_oficial_de_canarias boc consejería_de_turismo dirigir rita_martín continuar trabajar mejorar calidad servicio ocio enclave turístico canarias aprovechamiento turístico",
+        "persons": [
+            "Rita_Martín"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Santa_Cruz_de_Tenerife",
+            "Canarias"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Servicio_de_Infraestructura_Turística_de_la_Dirección_General_de_Infraestructura_Turística",
+            "Mesa_de_Contratación",
+            "Boletín_Oficial_de_Canarias",
+            "Consejería_de_Turismo"
+        ],
+        "others": [
+            "BOC"
+        ],
+        "dates": [
+            "[J:17/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "51.095",
+            "$_ECU:700",
+            "2009",
+            "2010",
+            "6",
+            "TM_d:13"
+        ]
+    }
+}

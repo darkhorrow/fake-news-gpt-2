@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/619369/0/",
+    "title": {
+        "raw_text": "Suspendidas las actividades extraescolares en todos los centros educativos de Tenerife y Gran Canaria",
+        "lemmatized_text": "suspender el actividad extraescolar en todo el centro educativo de tenerife y gran_canaria",
+        "lemmatized_text_reduced": "suspender actividad extraescolar centro educativo tenerife gran_canaria",
+        "persons": [],
+        "locations": [
+            "Tenerife",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Educación, Cultura y Deportes del Gobierno de Canaria ha suspendido las actividades lectivas, extraescolares previstas para la tarde de hoy en la totalidad de los centros educativos de las islas de Tenerife y Gran Canaria aunque se mantendrán los servicios de comedor escolar y transporte.",
+        "lemmatized_text": "el consejería_de_educación cultura y deportes_del_gobierno_de_canaria haber suspender el actividad lectivo extraescolar prever para el tarde de hoy en el totalidad de el centro educativo de el isla de tenerife y gran_canaria aunque se mantener el servicio de comedor escolar y transporte",
+        "lemmatized_text_reduced": "consejería_de_educación cultura deportes_del_gobierno_de_canaria haber suspender actividad lectivo extraescolar prever tarde totalidad centro educativo isla tenerife gran_canaria mantener servicio comedor escolar transporte",
+        "persons": [],
+        "locations": [
+            "Tenerife"
+        ],
+        "organizations": [
+            "Consejería_de_Educación",
+            "Cultura",
+            "Deportes_del_Gobierno_de_Canaria",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Según informó el Ejecutivo autonómico en nota de prensa, esta decisión se ha tomado ante las informaciones facilitadas por el Instituto Nacional de Meteorología y siguiendo las recomendaciones de la Dirección General de Seguridad y Emergencias del Gobierno de Canarias. Asimismo, el Cabildo de La Palma, que tiene activado su Plan de Emergencias, ha suspendido también las actividades lectivas, extraescolares de tarde para el día de hoy. Por su parte, el Cabildo de El Hierro, que activó también ayer su Plan Insular de Emergencias, acordó suspender hoy las clases en los centros educativos de la isla como medida de precaución ante la borrasca que afecta a la Comunidad Autónoma.",
+        "lemmatized_text": "según informar el ejecutivo autonómico en nota de prensa este decisión se haber tomar ante el información facilitar por el instituto_nacional_de_meteorología y seguir el recomendación de el dirección_general_de_seguridad y emergencias_del_gobierno_de_canarias asimismo el cabildo_de_la_palma que tener activar su plan_de_emergencias haber suspender también el actividad lectivo extraescolar de tarde para el día de hoy por su parte el cabildo_de_el_hierro que activar también ayer su plan_insular_de_emergencias acordar suspender hoy el clase en el centro educativo de el isla como medida de precaución ante el borrasca que afectar a el comunidad_autónoma",
+        "lemmatized_text_reduced": "informar ejecutivo autonómico nota prensa decisión haber tomar información facilitar instituto_nacional_de_meteorología seguir recomendación dirección_general_de_seguridad emergencias_del_gobierno_de_canarias cabildo_de_la_palma tener activar plan_de_emergencias haber suspender actividad lectivo extraescolar tarde día parte cabildo_de_el_hierro activar plan_insular_de_emergencias acordar suspender clase centro educativo isla medida precaución borrasca afectar comunidad_autónoma",
+        "persons": [],
+        "locations": [
+            "Cabildo_de_El_Hierro"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Instituto_Nacional_de_Meteorología",
+            "Dirección_General_de_Seguridad",
+            "Emergencias_del_Gobierno_de_Canarias",
+            "Cabildo_de_La_Palma",
+            "Comunidad_Autónoma"
+        ],
+        "others": [
+            "Plan_de_Emergencias",
+            "Plan_Insular_de_Emergencias"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

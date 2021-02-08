@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/944124/0/",
+    "title": {
+        "raw_text": "Varios coches quedan atrapados en el barranco de Zurbarán (Gran Canaria) por las fuertes lluvias",
+        "lemmatized_text": "varios coche quedar atrapar en el barranco de zurbarán gran_canaria por el fuerte lluvia",
+        "lemmatized_text_reduced": "coche quedar atrapar barranco zurbarán gran_canaria fuerte lluvia",
+        "persons": [],
+        "locations": [
+            "Zurbarán"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Varios coches han quedado atrapados y literalmente \"flotando\" en el barranco de Zurbarán, en la zona de Tafira de Las Palmas de Gran Canaria, debido a las fuertes lluvias que caen sobre la capital desde primera hora de la mañana de este domingo, según informó a Europa Press un portavoz del cuerpo de Bomberos de la ciudad.",
+        "lemmatized_text": "varios coche haber quedar atrapar y literalmente flotar en el barranco de zurbarán en_la_zona_de tafira_de_las_palmas_de_gran_canaria debido_a el fuerte lluvia que caer sobre el capital desde 1 hora de el mañana de este [G:??/??/??:??.??:??] según informar a europa_press uno portavoz de el cuerpo de bomberos de el ciudad",
+        "lemmatized_text_reduced": "coche haber quedar atrapar literalmente flotar barranco zurbarán tafira_de_las_palmas_de_gran_canaria fuerte lluvia caer capital 1 hora mañana informar europa_press portavoz cuerpo bomberos ciudad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Zurbarán",
+            "Bomberos"
+        ],
+        "organizations": [
+            "Tafira_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Varios coches han quedado atrapados y literalmente \"flotando\" en el barranco de Zurbarán, en la zona de Tafira de Las Palmas de Gran Canaria, debido a las fuertes lluvias que caen sobre la capital desde primera hora de la mañana de este domingo, según informó a Europa Press un portavoz del cuerpo de Bomberos de la ciudad. De esta manera, efectivos de bomberos trabajan en estos momentos para poder sacar los vehículos del barranco, mientras también se han producido diferentes inundaciones tanto en garajes como en viviendas. Finalmente, las mismas fuentes explicaron que desde las 07.00 horas han sido más de 60 las llamadas requiriendo la intervención de los bomberos en diferentes servicios.",
+        "lemmatized_text": "varios coche haber quedar atrapar y literalmente flotar en el barranco de zurbarán en_la_zona_de tafira_de_las_palmas_de_gran_canaria debido_a el fuerte lluvia que caer sobre el capital desde 1 hora de el mañana de este [G:??/??/??:??.??:??] según informar a europa_press uno portavoz de el cuerpo de bomberos de el ciudad de este manera efectivo de bombero trabajar en este momento para poder sacar el vehículo de el barranco mientras también se haber producir diferente inundación tanto en garaje como en vivienda finalmente el mismo fuente explicar que desde el TM_h:7 haber ser más de 60 el llamada requerir el intervención de el bombero en diferente servicio",
+        "lemmatized_text_reduced": "coche haber quedar atrapar literalmente flotar barranco zurbarán tafira_de_las_palmas_de_gran_canaria fuerte lluvia caer capital 1 hora mañana informar europa_press portavoz cuerpo bomberos ciudad manera efectivo bombero trabajar momento poder sacar vehículo barranco haber producir inundación garaje vivienda finalmente mismo fuente explicar haber ser llamada requerir intervención bombero servicio",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Zurbarán",
+            "Bomberos"
+        ],
+        "organizations": [
+            "Tafira_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:7",
+            "60"
+        ]
+    }
+}

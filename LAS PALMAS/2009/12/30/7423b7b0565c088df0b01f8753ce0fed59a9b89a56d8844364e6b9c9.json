@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598106/0/",
+    "title": {
+        "raw_text": "El incendio de una vivienda unifamiliar de la capital grancanaria se salda con un afectado por intoxicación de humo",
+        "lemmatized_text": "el incendio de uno vivienda unifamiliar de el capital grancanaria se saldar con uno afectar por intoxicación de humo",
+        "lemmatized_text_reduced": "incendio vivienda unifamiliar capital grancanaria saldar afectar intoxicación humo",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El incendio de una vivienda unifamiliar de Las Palmas de Gran Canaria se ha saldado con un varón de 23 años de edad afectado por intoxicación leve de humo, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el incendio de uno vivienda unifamiliar de las_palmas_de_gran_canaria se haber saldar con uno varón de 23 año de edad afectar por intoxicación leve de humo según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "incendio vivienda unifamiliar las_palmas_de_gran_canaria haber saldar varón año edad afectar intoxicación leve humo informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "23",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 09.09 horas indicando que se había producido un incendio en una vivienda de la calle San Antonio, por lo que el recurso de emergencias activó a los efectivos de bomberos, para sofocar el fuego, y al Servicio de Urgencias Canario (SUC) que atendió en el lugar al afectado y posteriormente lo trasladó en ambulancia de soporte vital avanzado hasta el centro de salud de Triana. Asimismo, en el suceso participaron agentes de la Policía Local, que colaboraron con el resto de dispositivos de emergencia, y del Cuerpo Nacional de Policía, que se encargaron de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:9.09 indicar que se haber producir uno incendio en uno vivienda de el calle san_antonio por el que el recurso de emergencia activar a el efectivo de bombero para sofocar el fuego y a el servicio_de_urgencias_canario suc que atender en el lugar a el afectar y posteriormente lo trasladar en ambulancia de soporte vital avanzar hasta el centro de salud de triana asimismo en el suceso participar agente de el policía_local que colaborar con el resto de dispositivo de emergencia y de el cuerpo_nacional_de_policía que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar haber producir incendio vivienda calle san_antonio recurso emergencia activar efectivo bombero sofocar fuego servicio_de_urgencias_canario suc atender lugar afectar posteriormente trasladar ambulancia soporte vital avanzar centro salud triana suceso participar agente policía_local colaborar resto dispositivo emergencia cuerpo_nacional_de_policía encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "San_Antonio",
+            "Triana"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.09"
+        ]
+    }
+}

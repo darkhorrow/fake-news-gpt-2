@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/633267/0/",
+    "title": {
+        "raw_text": "La Policía Nacional desmantela un punto de venta de droga en la capital grancanaria y detiene a un matrimonio",
+        "lemmatized_text": "el policía_nacional desmantelar uno punto de venta de droga en el capital grancanaria y detener a uno matrimonio",
+        "lemmatized_text_reduced": "policía_nacional desmantelar punto venta droga capital grancanaria detener matrimonio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Policía Nacional ha desmantelado un punto negro en Las Palmas de Gran Canaria dedicado a la venta de sustancias estupefacientes, en concreto hachís, al que acudían asiduamente compradores del barrio de Las Majadillas y de otros puntos de la isla. En el marco de dicha actuación ha sido detenido un matrimonio.",
+        "lemmatized_text": "el policía_nacional haber desmantelar uno punto negro en las_palmas_de_gran_canaria dedicar a el venta de sustancia estupefaciente en concreto hachís a el que acudir asiduamente comprador de el barrio de las_majadillas y de otro punto de el isla en el marco de decir actuación haber ser detener uno matrimonio",
+        "lemmatized_text_reduced": "policía_nacional haber desmantelar punto negro las_palmas_de_gran_canaria dedicar venta sustancia estupefaciente concreto hachís acudir asiduamente comprador barrio las_majadillas punto isla marco decir actuación haber ser detener matrimonio",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Majadillas"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Agentes del Cuerpo Nacional de Policía han desarrollado desde hace varios meses esta investigación dentro de la 'Operación Cirera' y tuvieron conocimiento de la existencia de un hombre que se dedicaba a la venta de sustancias estupefacientes en las inmediaciones de su domicilio del citado barrio, así como por la congregación de numerosos grupos de personas consumidoras de dichas sustancias y que acudían a su compra, según informó hoy la Policía en un comunicado. Las primeras investigaciones practicadas por el Grupo de Mediano Tráfico de la Brigada Provincial de Policía Judicial de Las Palmas determinaron la existencia del citado individuo responsable, junto a una mujer, de la adquisición de sustancia estupefaciente, fundamentalmente hachís, en el mercado local de la isla. El mismo preparaba la droga en pequeñas dosis, que finalmente distribuía en su domicilio o en sus inmediaciones. Con el preceptivo mandamiento, se llevó a cabo un registro domiciliario donde fueron incautados 900 gramos de hachís, y utensilios de corte y pesaje de la droga que hubiese generado en el mercado ilícito un beneficio cercano a los 4.500 euros. Los detenidos han sido identificados como O.G.C., de 21 años y F.G.C. de 47, ambos naturales de Las Palmas de Gran Canaria y sin antecedentes, quienes, junto con las diligencias practicadas y los efectos intervenidos, fueron puestos a disposición de la autoridad judicial, que decretó el ingreso en prisión del primero de ellos.",
+        "lemmatized_text": "agentes_del_cuerpo_nacional_de_policía haber desarrollar desde hacer varios mes este investigación dentro_de el operación_cirera y tener conocimiento de el existencia de uno hombre que se dedicar a el venta de sustancia estupefaciente en el inmediación de su domicilio de el citar barrio así_como por el congregación de numeroso grupo de persona consumidor de decir sustancia y que acudir a su compra según informar hoy el policía en uno comunicado el 1 investigación practicar por el grupo_de_mediano_tráfico_de_la_brigada_provincial_de_policía_judicial_de_las_palmas determinar el existencia de el citar individuo responsable junto_a uno mujer de el adquisición de sustancia estupefaciente fundamentalmente hachís en el mercado local de el isla el mismo preparar el droga en pequeño dosis que finalmente distribuir en su domicilio o en su inmediación con el preceptivo mandamiento se llevar_a_cabo uno registro domiciliario donde ser incautar WG_g:900 de hachís y utensilio de corte y pesaje de el droga que haber generar en el mercado ilícito uno beneficio cercano a el $_ECU:4.5 el detenido haber ser identificar como o.g.c. de 21 año y f.g.c. de 47 ambos natural de las_palmas_de_gran_canaria y sin antecedente quien junto_con el diligencia practicar y el efecto intervenir ser poner a disposición de el autoridad judicial que decretar el ingreso en prisión de el 1 de ellos",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_nacional_de_policía haber desarrollar hacer mes investigación operación_cirera tener conocimiento existencia hombre dedicar venta sustancia estupefaciente inmediación domicilio citar barrio congregación numeroso grupo persona consumidor decir sustancia acudir compra informar policía comunicado 1 investigación practicar grupo_de_mediano_tráfico_de_la_brigada_provincial_de_policía_judicial_de_las_palmas determinar existencia citar individuo responsable mujer adquisición sustancia estupefaciente fundamentalmente hachís mercado local isla mismo preparar droga pequeño dosis finalmente distribuir domicilio inmediación preceptivo mandamiento llevar_a_cabo registro domiciliario ser incautar hachís utensilio corte pesaje droga haber generar mercado ilícito beneficio cercano detenido haber ser identificar o.g.c. año f.g.c. natural las_palmas_de_gran_canaria antecedente diligencia practicar efecto intervenir ser poner disposición autoridad judicial decretar ingreso prisión 1",
+        "persons": [
+            "Operación_Cirera"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Agentes_del_Cuerpo_Nacional_de_Policía",
+            "Policía",
+            "Grupo_de_Mediano_Tráfico_de_la_Brigada_Provincial_de_Policía_Judicial_de_Las_Palmas",
+            "O.G.C.",
+            "F.G.C."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_g:900",
+            "$_ECU:4.5",
+            "21",
+            "47"
+        ]
+    }
+}

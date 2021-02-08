@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/602768/0/",
+    "title": {
+        "raw_text": "Un joven herido menos grave tras un choque entre su motocicleta y un turismo en Gran Canaria",
+        "lemmatized_text": "uno joven herir menos grave tras uno choque entre su motocicleta y uno turismo en gran_canaria",
+        "lemmatized_text_reduced": "joven herir grave choque motocicleta turismo gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven, de 18 años de edad, ha resultado herido de carácter menos grave tras sufrir un choque entre su motocicleta y un turismo en Santa Lucía de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno joven de 18 año de edad haber resultar herir de carácter menos grave tras sufrir uno choque entre su motocicleta y uno turismo en santa_lucía_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven año edad haber resultar herir carácter grave sufrir choque motocicleta turismo santa_lucía_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Santa_Lucía_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "18",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo en la Avenida de Canarias de Vecindario, en Santa Lucía de Tirajana, a las 19.26 horas de ayer. El joven sufrió traumatismo en miembro inferior de carácter menos grave y tras ser atendido por el personal del Servicio de Urgencias Canario (SUC) en el lugar del suceso, fue evacuado en una ambulancia de soporte vital avanzado al Hospital Universitario Insular de Gran Canaria. Asimismo, hasta el lugar de los hechos se trasladaron agentes de la Policía Local que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el incidente se producir en el avenida_de_canarias_de_vecindario en santa_lucía_de_tirajana a el TM_h:19.26 de ayer el joven sufrir traumatismo en miembro inferior de carácter menos grave y tras ser atender por el personal de el servicio_de_urgencias_canario suc en el lugar de el suceso ser evacuar en uno ambulancia de soporte vital avanzar a el hospital_universitario_insular_de_gran_canaria asimismo hasta el lugar de el hecho se trasladar agente de el policía_local que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "incidente producir avenida_de_canarias_de_vecindario santa_lucía_de_tirajana joven sufrir traumatismo miembro inferior carácter grave ser atender personal servicio_de_urgencias_canario suc lugar suceso ser evacuar ambulancia soporte vital avanzar hospital_universitario_insular_de_gran_canaria lugar hecho trasladar agente policía_local instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Avenida_de_Canarias_de_Vecindario",
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:19.26"
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/717599/0/",
+    "title": {
+        "raw_text": "El 'megacrucero' de lujo 'Celebrity Eclipse' arribará mañana al Puerto de la Luz y de Las Palmas",
+        "lemmatized_text": "el megacrucero de lujo celebrity_eclipse arribar mañana a el puerto_de_la_luz y de las_palmas",
+        "lemmatized_text_reduced": "megacrucero lujo celebrity_eclipse arribar puerto_de_la_luz las_palmas",
+        "persons": [
+            "Celebrity_Eclipse"
+        ],
+        "locations": [
+            "Puerto_de_la_Luz"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El 'megacrucero' de lujo Celebrity Eclipse arribará mañana miércoles día 26 de mayo en viaje inaugural al Puerto de La Luz y de Las Palmas con 2.852 pasajeros y 1.271 tripulantes; un buque que pertenece a la naviera norteamericana Celebrity Cruises, la gama alta del grupo Royal Caribbean Internacional, y es la primera vez que uno de sus buques hace escala en el puerto de Las Palmas.",
+        "lemmatized_text": "el megacrucero de lujo celebrity_eclipse arribar mañana [X:26/5/??:??.??:??] en viaje inaugural a el puerto_de_la_luz y de las_palmas con 2.852 pasajero y 1.271 tripulante uno buque que pertenecer a el naviero norteamericano celebrity_cruises el gama alto de el grupo royal_caribbean_internacional y ser el 1 vez que uno de su buque hacer escala en el puerto de las_palmas",
+        "lemmatized_text_reduced": "megacrucero lujo celebrity_eclipse arribar viaje inaugural puerto_de_la_luz las_palmas pasajero tripulante buque pertenecer naviero norteamericano celebrity_cruises gama alto grupo royal_caribbean_internacional ser 1 vez buque hacer escala puerto las_palmas",
+        "persons": [
+            "Celebrity_Cruises"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "Celebrity_Eclipse",
+            "Las_Palmas",
+            "Royal_Caribbean_Internacional"
+        ],
+        "others": [],
+        "dates": [
+            "[X:26/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "2.852",
+            "1.271"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, la Autoridad Portuaria de Las Palmas explicó que el crucero de lujo destaca en su construcción por el bajo consumo de combustible, que tiene gracias a sus delgados contornos. El Celebrity Eclipse tiene 314,80 metros de eslora y cuenta con 17 cubiertas y supone una inversión de 750 millones de dólares. Cuando se produjo el cierre del espacio aéreo del Reino Unido debido a la erupción del volcán de Islandia, el recién terminado Eclipse fue utilizado para rescatar a los turistas británicos varados en España como \"un acto de buena voluntad\" por parte de la naviera. Por su parte, la Autoridad Portuaria de Las Palmas le hará entrega de una metopa al capitán del Celebrity Eclipse a las 11.15 horas, como es tradicional en los viajes inaugurales. Celebrity eclipse El Celebrity Eclipse es el tercero y gemelo de una serie en construcción denominada Solstice class, formada por cuatro 'megacruceros' que se han ido entregando: Celebrity Solstice en el 2008, Celebrity Equinox, en el 2009 y el Celebrity Eclipse en 2010. El último que se espera será para el otoño del 2011, el Celebrity Silhouette. Como el Celebrity Eclipse se ha sido construido en Alemania, su primera temporada será de base en Europa, para incorporarse en invierno al mercado norteamericano. Ha iniciado su actividad con cortos cruceros de cuatro noches desde Inglaterra al sur de Irlanda, para empezar a mediados de mayo sus primeros grandes viajes con el producto 'Once noches en Canarias' (Southampton, Funchal, Tenerife, Gran Canaria, Lanzarote, Lisboa, Vigo, Southampton), que se prolongará hasta junio próximo. El producto de Canarias lo combinará en mayo, junio y julio con cruceros Escandinavos+Rusia de 14 días. Posteriormente en julio, agosto, septiembre y octubre, operará principalmente en el Mediterráneo oriental. Volverá a Canarias en octubre, antes de cruzar el Atlántico para dirigirse a su base de invierno en Florida y el Caribe.",
+        "lemmatized_text": "en uno comunicado el autoridad_portuaria_de_las_palmas explicar que el crucero de lujo destacar en su construcción por el bajo consumo de combustible que tener gracias_a su delgado contorno el celebrity_eclipse tener LN_m:314,80 de eslora y contar con 17 cubierta y suponer uno inversión de $_USD:750000000 cuando se producir el cierre de el espacio aéreo de el reino_unido debido_a el erupción de el volcán de islandia el recién terminar eclipse ser utilizar para rescatar a el turista británico varar en españa como uno acto de_buena_voluntad por parte de el naviero por su parte el autoridad_portuaria_de_las_palmas le hacer entrega de uno metopa a el capitán de el celebrity_eclipse a el TM_h:11.15 como ser tradicional en el viaje inaugural celebrity eclipse el_celebrity_eclipse ser el 3 y gemelo de uno serie en construcción denominar solstice class formar por 4 megacrucero que se haber ir entregar celebrity_solstice en el 2008 celebrity_equinox en el 2009 y el celebrity_eclipse en 2010 el último que se esperar ser para el otoño de el 2011 el celebrity_silhouette como el celebrity_eclipse se haber ser construir en alemania su 1 temporada ser de base en europa para incorporar se en invierno a el mercado norteamericano haber iniciar su actividad con corto crucero de 4 noche desde inglaterra a el sur de irlanda para empezar a_mediados_de [??:??/5/??:??.??:??] su 1 grande viaje con el producto 11 noche en canarias southampton funchal tenerife gran_canaria lanzarote lisboa vigo southampton que se prolongar hasta [??:??/6/??:??.??:??] próximo el producto de canarias lo combinar en [??:??/5/??:??.??:??] [??:??/6/??:??.??:??] y [??:??/7/??:??.??:??] con crucero escandinavos+rusia de TM_d:14 posteriormente en [??:??/7/??:??.??:??] [??:??/8/??:??.??:??] [??:??/9/??:??.??:??] y [??:??/10/??:??.??:??] operar principalmente en el mediterráneo oriental volver a canarias en [??:??/10/??:??.??:??] antes_de cruzar el atlántico para dirigir se a su base de invierno en florida y el caribe",
+        "lemmatized_text_reduced": "comunicado autoridad_portuaria_de_las_palmas explicar crucero lujo destacar construcción bajo consumo combustible tener delgado contorno celebrity_eclipse tener eslora contar cubierta suponer inversión producir cierre espacio aéreo reino_unido erupción volcán islandia terminar eclipse ser utilizar rescatar turista británico varar españa acto parte naviero parte autoridad_portuaria_de_las_palmas hacer entrega metopa capitán celebrity_eclipse ser tradicional viaje inaugural celebrity eclipse el_celebrity_eclipse ser 3 gemelo serie construcción denominar solstice class formar megacrucero haber ir entregar celebrity_solstice celebrity_equinox celebrity_eclipse último esperar ser otoño celebrity_silhouette celebrity_eclipse haber ser construir alemania 1 temporada ser base europa incorporar invierno mercado norteamericano haber iniciar actividad corto crucero noche inglaterra sur irlanda empezar 1 grande viaje producto noche canarias southampton funchal tenerife gran_canaria lanzarote lisboa vigo southampton prolongar próximo producto canarias combinar crucero escandinavos+rusia posteriormente operar principalmente mediterráneo oriental volver canarias cruzar atlántico dirigir base invierno florida caribe",
+        "persons": [
+            "Eclipse",
+            "Celebrity",
+            "El_Celebrity_Eclipse",
+            "Solstice",
+            "Celebrity_Solstice",
+            "Celebrity_Equinox",
+            "Southampton"
+        ],
+        "locations": [
+            "Celebrity_Eclipse",
+            "Reino_Unido",
+            "Islandia",
+            "España",
+            "Celebrity_Silhouette",
+            "Alemania",
+            "Europa",
+            "Inglaterra",
+            "Irlanda",
+            "Canarias",
+            "Lanzarote",
+            "Lisboa",
+            "Vigo",
+            "Southampton",
+            "Canarias",
+            "Escandinavos+Rusia",
+            "Mediterráneo",
+            "Canarias",
+            "Florida"
+        ],
+        "organizations": [
+            "Autoridad_Portuaria_de_Las_Palmas",
+            "Autoridad_Portuaria_de_Las_Palmas",
+            "Celebrity_Eclipse",
+            "Celebrity_Eclipse",
+            "Celebrity_Eclipse",
+            "Funchal",
+            "Tenerife",
+            "Gran_Canaria",
+            "Caribe"
+        ],
+        "others": [
+            "Atlántico"
+        ],
+        "dates": [
+            "[??:??/5/??:??.??:??]",
+            "[??:??/6/??:??.??:??]",
+            "[??:??/5/??:??.??:??]",
+            "[??:??/6/??:??.??:??]",
+            "[??:??/7/??:??.??:??]",
+            "[??:??/7/??:??.??:??]",
+            "[??:??/8/??:??.??:??]",
+            "[??:??/9/??:??.??:??]",
+            "[??:??/10/??:??.??:??]",
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_m:314,80",
+            "17",
+            "$_USD:750000000",
+            "TM_h:11.15",
+            "4",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "4",
+            "11",
+            "TM_d:14"
+        ]
+    }
+}

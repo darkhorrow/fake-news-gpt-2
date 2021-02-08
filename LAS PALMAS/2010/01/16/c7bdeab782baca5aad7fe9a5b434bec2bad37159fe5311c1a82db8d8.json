@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/607915/0/",
+    "title": {
+        "raw_text": "Los bomberos consiguen sofocar un incendio originado en un vehículo en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el bombero conseguir sofocar uno incendio originar en uno vehículo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "bombero conseguir sofocar incendio originar vehículo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos de Las Palmas de Gran Canaria han conseguido sofocar el incendio que se originó esta mañana en un vehículo estacionado en las proximidades de la circunvalación de la capital, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el bombero de las_palmas_de_gran_canaria haber conseguir sofocar el incendio que se originar este mañana en uno vehículo estacionar en_las_proximidades_de el circunvalación de el capital según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "bombero las_palmas_de_gran_canaria haber conseguir sofocar incendio originar mañana vehículo estacionar circunvalación capital informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 09.42 horas indicando que un turismo estaba en llamas en la circunvalación GC-3 a la altura de Ciudad del Campo. Por ello, el recurso de emergencia activó a los bomberos de la ciudad que se trasladaron al lugar de los hechos para apagar las llamas, evitando así que se produjeran mayores consecuencias. Asimismo, en el suceso intervinieron varios agentes de la Guardia Civil, que se encargaron de instruir las diligencias oportunas.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:9.42 indicar que uno turismo estar en llama en el circunvalación GC-3 a el altura de ciudad_del_campo por ello el recurso de emergencia activar a el bombero de el ciudad que se trasladar a el lugar de el hecho para apagar el llama evitar así que se producir mayor consecuencia asimismo en el suceso intervenir varios agente de el guardia_civil que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar turismo estar llama circunvalación altura ciudad_del_campo recurso emergencia activar bombero ciudad trasladar lugar hecho apagar llama evitar producir mayor consecuencia suceso intervenir agente guardia_civil encargar instruir diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Ciudad_del_Campo"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.42",
+            "GC-3"
+        ]
+    }
+}

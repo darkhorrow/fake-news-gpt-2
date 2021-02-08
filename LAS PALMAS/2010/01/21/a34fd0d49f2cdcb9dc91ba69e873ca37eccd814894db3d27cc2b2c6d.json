@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/611390/0/",
+    "title": {
+        "raw_text": "El esposo de Pilar Juárez: \"Anoche ya no la sentíamos. Me fui a la cama con el sentimiento de que estaba muerta\"",
+        "lemmatized_text": "el esposo de pilar_juárez anoche ya no lo sentir me ir a el cama con el sentimiento de que estar morir",
+        "lemmatized_text_reduced": "esposo pilar_juárez sentir ir cama sentimiento estar morir",
+        "persons": [
+            "Pilar_Juárez"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El marido de Pilar Juárez, José Valverde, ha asegurado que anoche tanto su familia como él ya habían \"perdido la esperanza\" de encontrar con vida su mujer, funcionaria de la embajada de la Unión Europea (UE) y dada por desaparecida en el seísmo de Haití.",
+        "lemmatized_text": "el marido de pilar_juárez josé_valverde haber asegurar que anoche tanto su familia como él ya haber perder el esperanza de encontrar con vida su mujer funcionario de el embajada de el unión_europea ue y dar por desaparecido en el seísmo de haití",
+        "lemmatized_text_reduced": "marido pilar_juárez josé_valverde haber asegurar familia haber perder esperanza encontrar vida mujer funcionario embajada unión_europea ue dar desaparecido seísmo haití",
+        "persons": [
+            "Pilar_Juárez",
+            "José_Valverde"
+        ],
+        "locations": [
+            "Haití"
+        ],
+        "organizations": [
+            "Unión_Europea",
+            "UE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Anoche mi hermanos, mis hijos y yo no la sentíamos, ya habíamos perdido esa esperanza. Me fui a la cama con el sentimiento de que ya estaba muerta\", aseguró Valverde en declaraciones a Canarias Radio La Autonómica recogidas por Europa Press. Valverde explicó que el protocolo de retorno de los restos de Juárez \"está preparado\" desde hace días puesto que lo había \"preparado la primera vez\". \"Vamos a llevar sus cenizas a su pueblo. A La Granja, al Real Sitio de San Ildefonso\", indicó. El marido de la funcionaria española explicó que fue su hermano Paco, que era el contacto con la embajada, el que le comunicó la noticia y que su familia en Haití han traído sus efectos personales. Además, confirmó que ahora se están haciendo las pruebas forenses, mientras que ya se ha realizado la de huella dactilar. \"Está comprobada y es ella\", insistió. Valverde destacó la labor del cónsul de España en República Dominicana, Manuel Hernández, \"un hombre que ha hecho una labor excepcional, de apoyo y solidaridad\" y al que consideró \"un amigo\". Preguntado por si el ministro de Exteriores, Miguel Ángel Moratinos, le había trasladado ya sus condolencias, comentó que espera \"que el señor Moratinos me dé el pésame en su momento\", pero que ahora \"lo que más\" le \"preocupa es el estado emocional\" de su hijo y \"asumir personalmente esta situación\".",
+        "lemmatized_text": "anoche mi hermano mi hijo y yo no lo sentir ya haber perder ese esperanza me ir a el cama con el sentimiento de que ya estar morir asegurar valverde en declaración a canarias_radio_la_autonómica recoger por europa_press valverde explicar que el protocolo de retorno de el resto de juárez estar preparar desde hacer día poner que lo haber preparar el 1 vez ir a llevar su ceniza a su pueblo a la_granja a el real_sitio_de_san_ildefonso indicar el marido de el funcionario español explicar que ser su hermano paco que ser el contacto con el embajada el que le comunicar el noticia y que su familia en haití haber traer su efecto personal además confirmar que ahora se estar hacendar el prueba forense mientras_que ya se haber realizar el de huella dactilar estar comprobar y ser él insistir valverde destacar el labor de el cónsul de españa en república_dominicana manuel_hernández uno hombre que haber hacer uno labor excepcional de apoyo y solidaridad y a el que considerar uno amigo preguntar por si el ministro de exteriores miguel_ángel_moratinos le haber trasladar ya su condolencia comentar que esperar que el señor moratinos me dar el pésame en su momento pero que ahora el que más le preocupar ser el estado emocional de su hijo y asumir personalmente este situación",
+        "lemmatized_text_reduced": "hermano hijo sentir haber perder esperanza ir cama sentimiento estar morir asegurar valverde declaración canarias_radio_la_autonómica recoger europa_press valverde explicar protocolo retorno resto juárez estar preparar hacer día poner haber preparar 1 vez ir llevar ceniza pueblo la_granja real_sitio_de_san_ildefonso indicar marido funcionario español explicar ser hermano paco ser contacto embajada comunicar noticia familia haití haber traer efecto personal confirmar estar hacendar prueba forense haber realizar huella dactilar estar comprobar ser insistir valverde destacar labor cónsul españa república_dominicana manuel_hernández hombre haber hacer labor excepcional apoyo solidaridad considerar amigo preguntar ministro exteriores miguel_ángel_moratinos haber trasladar condolencia comentar esperar señor moratinos dar pésame momento preocupar ser estado emocional hijo asumir personalmente situación",
+        "persons": [
+            "Valverde",
+            "Europa_Press",
+            "Valverde",
+            "Juárez",
+            "Paco",
+            "Valverde",
+            "Manuel_Hernández",
+            "Miguel_Ángel_Moratinos",
+            "Moratinos"
+        ],
+        "locations": [
+            "La_Granja",
+            "Haití",
+            "República_Dominicana"
+        ],
+        "organizations": [
+            "Canarias_Radio_La_Autonómica",
+            "Real_Sitio_de_San_Ildefonso",
+            "España",
+            "Exteriores"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/449383/0/viviendas/protegidas/laspalmas/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias construirá 50 viviendas sociales en Las Palmas",
+        "lemmatized_text": "el gobierno_de_canarias construir 50 vivienda social en las_palmas",
+        "lemmatized_text_reduced": "gobierno_de_canarias construir vivienda social las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50"
+        ]
+    },
+    "lead": {
+        "raw_text": "Las casas se concederán en régimen de alquiler. Las beneficiarias serán familias con ingresos inferiores a 10.000 euros anuales y que estén viviendo en malas condiciones de habitabilidad. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el casa se conceder en régimen de alquiler el beneficiario ser familia con ingreso inferior a $_ECU:10 anual y que estar vivir en malo condición de habitabilidad consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "casa conceder régimen alquiler beneficiario ser familia ingreso inferior anual estar vivir malo condición habitabilidad consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:10"
+        ]
+    },
+    "body": {
+        "raw_text": "El Gobierno de Canarias construirá 50 viviendas protegidas de promoción pública en Las Palmas de Gran Canaria que van destinadas, en régimen de alquiler , a las familias cuyos ingresos no superan los 10.000 euros anuales, según informó el Ejecutivo regional. El Gobierno publicó hoy el concurso para la adjudicación de la redacción del proyecto de obra. Esta nueva promoción de viviendas sociales se ubicará en las parcelas 50 y 51 del Plan Parcial de Las Mesas que tienen una superficie total de 3.441,94 metros cuadrados , las parcelas se encuentran situadas dentro de un núcleo urbano consolidado, en una zona residencial y están completamente urbanizadas y con toda clase de infraestructuras . Esta obra supondrá una inversión directa del Gobierno de cerca de 4 millones de euros destinados a facilitar el acceso a la vivienda, en régimen de alquiler, a un total de 50 familias con ingresos inferiores a los 10.000 euros y que en la actualidad viven en malas condiciones de habitabilidad, pagan un alquiler excesivo para sus ingresos o están alojados con familiares. Según especifica la normativa, ninguna familia destinará más del 12 por ciento de sus ingresos netos al pago del alquiler. Más de 20.000 familias se beneficiaron del Plan de Vivienda de Canarias en el municipio capitalino. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el gobierno_de_canarias construir 50 vivienda proteger de promoción público en las_palmas_de_gran_canaria que ir destinar en régimen de alquiler a el familia cuyo ingreso no superar el $_ECU:10 anual según informar el ejecutivo regional el gobierno publicar hoy el concurso para el adjudicación de el redacción de el proyecto de obra este nuevo promoción de vivienda social se ubicar en el parcela 50 y 51 de el plan_parcial_de_las_mesas que tener uno superficie total de AR_m2:3.441,94 el parcela se encontrar situar dentro_de uno núcleo urbano consolidar en uno zona residencial y estar completamente urbanizar y con todo clase de infraestructura este obra suponer uno inversión directo de el gobierno de cerca de $_ECU:4000000 destinar a facilitar el acceso a el vivienda en régimen de alquiler a uno total de 50 familia con ingreso inferior a el $_ECU:10 y que en el actualidad vivir en malo condición de habitabilidad pagar uno alquiler excesivo para su ingreso o estar alojar con familiar según especificar el normativa ninguno familia destinar más de el 12 por 100 de su ingreso neto a el pago de el alquiler más de 20 familia se beneficiar de el plan_de_vivienda_de_canarias en el municipio capitalino consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "gobierno_de_canarias construir vivienda proteger promoción público las_palmas_de_gran_canaria ir destinar régimen alquiler familia ingreso superar anual informar ejecutivo regional gobierno publicar concurso adjudicación redacción proyecto obra nuevo promoción vivienda social ubicar parcela plan_parcial_de_las_mesas tener superficie total parcela encontrar situar núcleo urbano consolidar zona residencial estar completamente urbanizar clase infraestructura obra suponer inversión directo gobierno destinar facilitar acceso vivienda régimen alquiler total familia ingreso inferior actualidad vivir malo condición habitabilidad pagar alquiler excesivo ingreso estar alojar familiar especificar normativa familia destinar ingreso neto pago alquiler familia beneficiar plan_de_vivienda_de_canarias municipio capitalino consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Gobierno",
+            "Gobierno",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Plan_Parcial_de_Las_Mesas",
+            "Plan_de_Vivienda_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "50",
+            "$_ECU:10",
+            "50",
+            "51",
+            "AR_m2:3.441,94",
+            "$_ECU:4000000",
+            "50",
+            "$_ECU:10",
+            "12",
+            "100",
+            "20"
+        ]
+    }
+}

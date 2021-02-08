@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660932/0/",
+    "title": {
+        "raw_text": "La Policía confía terminar hoy la búsqueda de los restos humanos en el pozo de Jinamar (Gran Canaria)",
+        "lemmatized_text": "el policía confiar terminar hoy el búsqueda de el resto humano en el pozo de jinamar gran_canaria",
+        "lemmatized_text_reduced": "policía confiar terminar búsqueda resto humano pozo jinamar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinamar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las labores de búsqueda en el pozo de Jinámar (Gran Canaria) donde una cámara subacuática detectó lo que podrían ser restos humanos van \"bastante bien\" en la mañana de hoy y la Policía Nacional confía en terminar a lo largo del día, según indicaron fuentes policiales de la investigación.",
+        "lemmatized_text": "el labor de búsqueda en el pozo de jinámar gran_canaria donde uno cámara subacuático detectar el que poder ser resto humano ir bastante bien en el mañana de hoy y el policía_nacional confiar en terminar a el largo de el día según indicar fuente policial de el investigación",
+        "lemmatized_text_reduced": "labor búsqueda pozo jinámar gran_canaria cámara subacuático detectar poder ser resto humano ir mañana policía_nacional confiar terminar largo día indicar fuente policial investigación",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La búsqueda de restos, encuadrada en la investigación de la desaparición de Sara Morales, continuó ayer toda la noche y ya se ha conseguido mantener el nivel de agua entre los 50 y los 80 centímetros, lo que permite a los agentes trabajar y extraer el lodo y el resto de materiales que hay en el pozo. (Habrá ampliación)",
+        "lemmatized_text": "el búsqueda de resto encuadrar en el investigación de el desaparición de sara_morales continuar ayer todo el noche y ya se haber conseguir mantener el nivel de agua entre el 50 y el LN_cm:80 el que permitir a el agente trabajar y extraer el lodo y el resto de material que haber en el pozo haber ampliación",
+        "lemmatized_text_reduced": "búsqueda resto encuadrar investigación desaparición sara_morales continuar noche haber conseguir mantener nivel agua permitir agente trabajar extraer lodo resto material haber pozo haber ampliación",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50",
+            "LN_cm:80"
+        ]
+    }
+}

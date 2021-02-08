@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/624144/0/",
+    "title": {
+        "raw_text": "Un total de seis alumnos de la Universidad de Las Palmas de Gran Canaria consiguen las becas Philip Morris Spain",
+        "lemmatized_text": "uno total de 6 alumno de el universidad_de_las_palmas_de_gran_canaria conseguir el beca philip_morris_spain",
+        "lemmatized_text_reduced": "total alumno universidad_de_las_palmas_de_gran_canaria conseguir beca philip_morris_spain",
+        "persons": [
+            "Philip_Morris_Spain"
+        ],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de seis estudiantes de la Universidad de Las Palmas de Gran Canaria (ULPGC) han obtenido las becas Philip Morris Spain para realizar prácticas laborales en las instalaciones de dicha empresa.",
+        "lemmatized_text": "uno total de 6 estudiante de el universidad_de_las_palmas_de_gran_canaria ulpgc haber obtener el beca philip_morris_spain para realizar práctica laboral en el instalación de decir empresa",
+        "lemmatized_text_reduced": "total estudiante universidad_de_las_palmas_de_gran_canaria ulpgc haber obtener beca philip_morris_spain realizar práctica laboral instalación decir empresa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC",
+            "Philip_Morris_Spain"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, se han otorgado dos becas internacionales que serán para trabajar en Inglaterra (Óscar Hernández), así como en Portugal (Albano Castillo), y cuatro regionales para realizar en PM-Las Palmas y que han obtenido los estudiantes Juan Manuel Cañizales Díaz, Mónica Gil Vega, Yuribia Rivero Santana y Ana Isabel Betancor Martín. El objetivo de las becas de tres meses de duración, según informó la ULPGC en nota de prensa, está en que pretenden servir de ayuda para complementar la formación de estudiantes universitarios y facilitar su inserción al mercado laboral. Además de las prácticas profesionales, la beca incluye los gastos de manutención de los seleccionados. Los alumnos becados contarán con un tutor académico y otro empresarial que se encargaran de solventar sus dudas y de evaluar individualmente el proyecto asignado. El período de prácticas no podrá exceder en duración al 50 por ciento de su carga lectiva semanal con el objeto de compaginar las prácticas con los estudios universitarios, excepto las que se desarrollen fuera del archipiélago.",
+        "lemmatized_text": "en concreto se haber otorgar 2 beca internacional que ser para trabajar en inglaterra óscar_hernández así_como en portugal albano_castillo y 4 regional para realizar en pm-las_palmas y que haber obtener el estudiante juan_manuel_cañizales_díaz mónica_gil_vega yuribia_rivero_santana y ana_isabel_betancor_martín el objetivo de el beca de 3 mes de duración según informar el ulpgc en nota de prensa estar en que pretender servir de ayuda para complementar el formación de estudiante universitario y facilitar su inserción a el mercado laboral además_de el práctica profesional el beca incluir el gasto de manutención de el seleccionar el alumno becar contar con uno tutor académico y otro empresarial que se encargar de solventar su duda y de evaluar individualmente el proyecto asignar el período de práctica no poder exceder en duración a el 50 por 100 de su carga lectivo semanal con el objeto de compaginar el práctica con el estudio universitario excepto el que se desarrollar fuera de el archipiélago",
+        "lemmatized_text_reduced": "concreto haber otorgar beca internacional ser trabajar inglaterra óscar_hernández portugal albano_castillo regional realizar pm-las_palmas haber obtener estudiante juan_manuel_cañizales_díaz mónica_gil_vega yuribia_rivero_santana ana_isabel_betancor_martín objetivo beca mes duración informar ulpgc nota prensa estar pretender servir ayuda complementar formación estudiante universitario facilitar inserción mercado laboral práctica profesional beca incluir gasto manutención seleccionar alumno becar contar tutor académico empresarial encargar solventar duda evaluar individualmente proyecto asignar período práctica poder exceder duración carga lectivo semanal objeto compaginar práctica estudio universitario desarrollar archipiélago",
+        "persons": [
+            "Óscar_Hernández",
+            "Juan_Manuel_Cañizales_Díaz",
+            "Mónica_Gil_Vega",
+            "Yuribia_Rivero_Santana",
+            "Ana_Isabel_Betancor_Martín"
+        ],
+        "locations": [
+            "Inglaterra",
+            "Portugal",
+            "Albano_Castillo",
+            "PM-Las_Palmas"
+        ],
+        "organizations": [
+            "ULPGC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "4",
+            "3",
+            "50",
+            "100"
+        ]
+    }
+}

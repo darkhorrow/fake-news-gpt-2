@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/670020/0/",
+    "title": {
+        "raw_text": "UGT considera el dato de marzo como un \"varapalo a las falsas expectativas\" del Gobierno canario",
+        "lemmatized_text": "ugt considerar el dato de [??:??/3/??:??.??:??] como uno varapalo a el falso expectativa de el gobierno canario",
+        "lemmatized_text_reduced": "ugt considerar dato varapalo falso expectativa gobierno canario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UGT",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El sindicato UGT en Canarias considera que el dato de aumento de paro registrado en marzo supone un auténtico \"varapalo a las falsas expectativas\" del Gobierno canario de que el desempleo cierre 2010 por debajo de las 250.000 personas.",
+        "lemmatized_text": "el sindicato ugt en canarias considerar que el dato de aumento de paro registrar en [??:??/3/??:??.??:??] suponer uno auténtico varapalo a el falso expectativa de el gobierno canario de que el desempleo cierre 2010 por debajo_de el 250 persona",
+        "lemmatized_text_reduced": "sindicato ugt canarias considerar dato aumento paro registrar suponer auténtico varapalo falso expectativa gobierno canario desempleo cierre persona",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "UGT",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "2010",
+            "250"
+        ]
+    },
+    "body": {
+        "raw_text": "UGT siente \"preocupación\" por la situación del paro en Canarias que valoró \"negativamente\" al contar con una tasa de desempleo superior \"en más de 6 puntos porcentuales al total nacional\". El sindicato pidió al Ejecutivo encabezado por Paulino Rivero su \"urgente implicación en desarrollar un cambio de rumbo para la dinamizar de la economía, generando confianza en la inversión, el consumo, así como la materialización de las políticas activas de empleo\". \"No hay que olvidar que uno de cada cinco euros que se ingresa en las familias, están yendo al ahorro, como consecuencia del miedo y la incertidumbre\", explicó UGT, quien reiteró su apuesta por la recuperación del empleo y la calidad del mismo ya que casi el 90% de los contratos que se realizan son eventuales, lo \"que demuestra el bajo compromiso empresarial y político a la hora de asumir responsabilidades a la hora de apostar por la estabilidad laboral\".",
+        "lemmatized_text": "ugt sentir preocupación por el situación de el paro en canarias que valorar negativamente a el contar con uno tasa de desempleo superior en más de 6 punto porcentual a el total nacional el sindicato pedir a el ejecutivo encabezar por paulino_rivero su urgente implicación en desarrollar uno cambio de rumbo para el dinamizar de el economía generar confianza en el inversión el consumo así_como el materialización de el política activo de empleo no haber que olvidar que uno de cada $_ECU:5 que se ingresar en el familia estar ir a el ahorro como consecuencia de el miedo y el incertidumbre explicar ugt quien reiterar su apuesta por el recuperación de el empleo y el calidad de el mismo ya_que casi el 90/100 de el contrato que se realizar ser eventual el que demostrar el bajo compromiso empresarial y político a el hora de asumir responsabilidad a el hora de apostar por el estabilidad laboral",
+        "lemmatized_text_reduced": "ugt sentir preocupación situación paro canarias valorar negativamente contar tasa desempleo superior punto porcentual total nacional sindicato pedir ejecutivo encabezar paulino_rivero urgente implicación desarrollar cambio rumbo dinamizar economía generar confianza inversión consumo materialización política activo empleo haber olvidar ingresar familia estar ir ahorro consecuencia miedo incertidumbre explicar ugt reiterar apuesta recuperación empleo calidad mismo contrato realizar ser eventual demostrar bajo compromiso empresarial político hora asumir responsabilidad hora apostar estabilidad laboral",
+        "persons": [
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "UGT",
+            "Ejecutivo",
+            "UGT"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6",
+            "$_ECU:5",
+            "90/100"
+        ]
+    }
+}

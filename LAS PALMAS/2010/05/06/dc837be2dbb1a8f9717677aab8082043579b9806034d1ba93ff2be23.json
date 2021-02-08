@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/698945/0/",
+    "title": {
+        "raw_text": "Marrero tacha de \"lapsu\" las palabras de Trinidad Jiménez asegurando desconocer déficit sanitario de Canarias",
+        "lemmatized_text": "marrero tachar de lapsu el palabra de trinidad_jiménez asegurar desconocer déficit sanitario de canarias",
+        "lemmatized_text_reduced": "marrero tachar lapsu palabra trinidad_jiménez asegurar desconocer déficit sanitario canarias",
+        "persons": [
+            "Marrero",
+            "Trinidad_Jiménez"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El portavoz del Gobierno de Canarias, Martín Marrero, ha calificado como un \"lapsu\" las palabras de la ministra de Sanidad, Trinidad Jiménez, en el día de ayer en Tenerife asegurando desconocer el déficit que en materia sanitaria tiene el Ejecutivo central con el archipiélago y que se acerca a los 1.400 millones de euros.",
+        "lemmatized_text": "el portavoz de el gobierno_de_canarias martín_marrero haber calificar como uno lapsu el palabra de el ministro de sanidad trinidad_jiménez en el día de ayer en tenerife asegurar desconocer el déficit que en materia sanitario tener el ejecutivo central con el archipiélago y que se acercar a el $_ECU:1400000",
+        "lemmatized_text_reduced": "portavoz gobierno_de_canarias martín_marrero haber calificar lapsu palabra ministro sanidad trinidad_jiménez día tenerife asegurar desconocer déficit materia sanitario tener ejecutivo central archipiélago acercar",
+        "persons": [
+            "Martín_Marrero",
+            "Trinidad_Jiménez"
+        ],
+        "locations": [
+            "Tenerife"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Sanidad"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:1400000"
+        ]
+    },
+    "body": {
+        "raw_text": "\"El hecho de que la ministra declarase que desconoce ese planteamiento por parte de Canarias, sólo cabe interpretarse como un lapsu\", subrayó Marrero en la rueda de prensa posterior al Consejo de Gobierno. Asimismo, insistió en que entre 2002 y 2009 la población creció en Canarias un 22,59 por ciento, aumento que por el anterior sistema de financiación —previo al de 2002— \"no estaba contemplado a la hora de corregirlo\", lo que supuso que el Gobierno central continuara financiando al archipiélago \"conforme a la población que había en 2001, y a consecuencia de ello, se ha producido una deuda\" de casi de 1.400 millones de euros. Sin embargo, Marrero hizo hincapié en que la consejera de Sanidad del Ejecutivo regional, Mercedes Roldós, ha estado comunicando verbalmente en los consejos interterritoriales a los ministros de Sanidad sobre la citada situación, así como en \"tres comunicaciones escritas\", la última de ellas el pasado día 3 de mayo.",
+        "lemmatized_text": "el hecho de que el ministro declarar que desconocer ese planteamiento por parte de canarias sólo caber interpretar se como uno lapsu subrayar marrero en el rueda de prensa posterior a el consejo_de_gobierno asimismo insistir en que entre 2002 y 2009 el población crecer en canarias uno 22,59 por 100 aumento que por el anterior sistema de financiación previo a el de 2002 no estar contemplar a el hora de corregir lo el que suponer que el gobierno central continuar financiar a el archipiélago conforme_a el población que haber en 2001 y a_consecuencia_de ello se haber producir uno deuda de casi de $_ECU:1400000 sin embargo marrero hacer hincapié en que el consejero de sanidad_del_ejecutivo regional mercedes_roldós haber estar comunicar verbalmente en el consejo interterritorial a el ministro de sanidad sobre el citar situación así_como en 3 comunicación escribir el último de ellos el [??:3/5/??:??.??:??]",
+        "lemmatized_text_reduced": "hecho ministro declarar desconocer planteamiento parte canarias caber interpretar lapsu subrayar marrero rueda prensa posterior consejo_de_gobierno insistir población crecer canarias aumento anterior sistema financiación previo estar contemplar hora corregir suponer gobierno central continuar financiar archipiélago población haber haber producir deuda embargo marrero hacer hincapié consejero sanidad_del_ejecutivo regional mercedes_roldós haber estar comunicar verbalmente consejo interterritorial ministro sanidad citar situación comunicación escribir último",
+        "persons": [
+            "Marrero",
+            "Marrero",
+            "Mercedes_Roldós"
+        ],
+        "locations": [
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno",
+            "Gobierno",
+            "Sanidad_del_Ejecutivo"
+        ],
+        "others": [
+            "Sanidad"
+        ],
+        "dates": [
+            "[??:3/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "2002",
+            "2009",
+            "22,59",
+            "100",
+            "2002",
+            "2001",
+            "$_ECU:1400000",
+            "3"
+        ]
+    }
+}

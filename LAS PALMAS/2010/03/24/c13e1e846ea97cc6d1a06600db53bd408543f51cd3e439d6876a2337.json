@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/660270/0/",
+    "title": {
+        "raw_text": "Un hombre fallece en una calle de Las Palmas de Gran Canaria tras sufrir una parada cardiorrespiratoria",
+        "lemmatized_text": "uno hombre fallecer en uno calle de las_palmas_de_gran_canaria tras sufrir uno parada cardiorrespiratoria",
+        "lemmatized_text_reduced": "hombre fallecer calle las_palmas_de_gran_canaria sufrir parada cardiorrespiratoria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha fallecido hoy tras sufrir una parada cardiorrespiratoria en una calle de Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber fallecer hoy tras sufrir uno parada cardiorrespiratoria en uno calle de las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber fallecer sufrir parada cardiorrespiratoria calle las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El fallecido era un hombre de 50 años de edad que tuvo que ser atendido por personal del Servicio de Urgencias Canario (SUC) en la calle Gran Canaria, esquina con Eduardo Benot, en la capital grancanaria, donde lo encontraron tumbado y sin responder a estímulos sobre las 13.19 horas. Al no responder a estímulos, el personal del SUC sólo pudo confirmar la muerte del hombre y agentes de la Policía Local, que también se acercaron al lugar del suceso, realizaron las diligencias correspondientes.",
+        "lemmatized_text": "el fallecer ser uno hombre de 50 año de edad que tener que ser atender por personal de el servicio_de_urgencias_canario suc en el calle gran_canaria esquina con eduardo_benot en el capital grancanaria donde lo encontrar tumbar y sin responder a estímulo sobre el TM_h:13.19 a el no responder a estímulo el personal de el suc sólo poder confirmar el muerte de el hombre y agente de el policía_local que también se acercar a el lugar de el suceso realizar el diligencia correspondiente",
+        "lemmatized_text_reduced": "fallecer ser hombre año edad tener ser atender personal servicio_de_urgencias_canario suc calle gran_canaria esquina eduardo_benot capital grancanaria encontrar tumbar responder estímulo responder estímulo personal suc poder confirmar muerte hombre agente policía_local acercar lugar suceso realizar diligencia correspondiente",
+        "persons": [
+            "Eduardo_Benot"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "50",
+            "TM_h:13.19"
+        ]
+    }
+}

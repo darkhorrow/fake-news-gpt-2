@@ -1,0 +1,81 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/970230/0/",
+    "title": {
+        "raw_text": "El programa de Cope 'El partido de las 12' emite desde Gran Canaria con el equipo al completo",
+        "lemmatized_text": "el programa de cope el partido de el 12 emitir desde gran_canaria con el equipo a el completo",
+        "lemmatized_text_reduced": "programa cope partido emitir gran_canaria equipo completo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cope",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "12"
+        ]
+    },
+    "lead": {
+        "raw_text": "El programa de la Cadena Cope 'El partido de las 12' emite este jueves desde Gran Canaria con el equipo al completo encabezado por Juan Antonio Alcalá y Joseba Larrañaga, según indicaron a Europa Press desde la emisora.",
+        "lemmatized_text": "el programa de el cadena_cope el partido de el 12 emitir este [J:??/??/??:??.??:??] desde gran_canaria con el equipo a el completo encabezar por juan_antonio_alcalá y joseba_larrañaga según indicar a europa_press desde el emisora",
+        "lemmatized_text_reduced": "programa cadena_cope partido emitir gran_canaria equipo completo encabezar juan_antonio_alcalá joseba_larrañaga indicar europa_press emisora",
+        "persons": [
+            "Juan_Antonio_Alcalá",
+            "Joseba_Larrañaga",
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cadena_Cope",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "12"
+        ]
+    },
+    "body": {
+        "raw_text": "El programa de la Cadena Cope 'El partido de las 12' emite este jueves desde Gran Canaria con el equipo al completo encabezado por Juan Antonio Alcalá y Joseba Larrañaga, según indicaron a Europa Press desde la emisora. A las 23.00 horas (hora canaria) comenzará la emisión en directo desde desde las salas Cinesa del centro comercial 'El Muelle', en Las Palmas de Gran Canaria. Entre los invitados previstos están los futbolistas David Silva (Manchester City) y Juan Carlos Valerón (Deportivo de la Coruña) y el entrenador de la Unión Deportiva Las Palmas, Paco Jémez. Además, tendrán presencia el Carnaval de la ciudad, que acaba de comenzar, entre \"otras sorpresas\" que desde el programa de deportes tienen preparadas. Aquellos que no tengan sus invitaciones aún pueden recogerlas en la sede de Cope de Las Palmas, en la avenida de Escaleritas, número 60, primera planta.",
+        "lemmatized_text": "el programa de el cadena_cope el partido de el 12 emitir este [J:??/??/??:??.??:??] desde gran_canaria con el equipo a el completo encabezar por juan_antonio_alcalá y joseba_larrañaga según indicar a europa_press desde el emisora a el TM_h:23 hora canario comenzar el emisión en directo desde desde el sala cinesa de el centro comercial el muelle en las_palmas_de_gran_canaria entre el invitado prever estar el futbolista david_silva manchester_city y juan_carlos_valerón deportivo_de_la_coruña y el entrenador de el unión_deportiva_las_palmas paco_jémez además tener presencia el carnaval de el ciudad que acabar de comenzar entre otro sorpresa que desde el programa de deporte tener preparar aquel que no tener su invitación aun poder recoger lo en el sede de cope_de_las_palmas en el avenida de escaleritas número 60 1 planta",
+        "lemmatized_text_reduced": "programa cadena_cope partido emitir gran_canaria equipo completo encabezar juan_antonio_alcalá joseba_larrañaga indicar europa_press emisora hora canario comenzar emisión directo sala cinesa centro comercial muelle las_palmas_de_gran_canaria invitado prever estar futbolista david_silva manchester_city juan_carlos_valerón deportivo_de_la_coruña entrenador unión_deportiva_las_palmas paco_jémez tener presencia carnaval ciudad acabar comenzar sorpresa programa deporte tener preparar tener invitación poder recoger sede cope_de_las_palmas avenida escaleritas número 1 planta",
+        "persons": [
+            "Juan_Antonio_Alcalá",
+            "Joseba_Larrañaga",
+            "Europa_Press",
+            "David_Silva",
+            "Juan_Carlos_Valerón",
+            "Paco_Jémez"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Cope_de_Las_Palmas",
+            "Escaleritas"
+        ],
+        "organizations": [
+            "Cadena_Cope",
+            "Gran_Canaria",
+            "Cinesa",
+            "Muelle",
+            "Manchester_City",
+            "Deportivo_de_la_Coruña",
+            "Unión_Deportiva_Las_Palmas"
+        ],
+        "others": [
+            "Carnaval"
+        ],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "12",
+            "TM_h:23",
+            "60"
+        ]
+    }
+}

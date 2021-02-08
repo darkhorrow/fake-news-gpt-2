@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-04-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/464287/0/sara/morales/busqueda/",
+    "title": {
+        "raw_text": "La Policía concluye sin resultados los rastreos en busca de Sara Morales",
+        "lemmatized_text": "el policía concluir sin resultado el rastreo en_busca_de sara_morales",
+        "lemmatized_text_reduced": "policía concluir resultado rastreo sara_morales",
+        "persons": [
+            "Sara_Morales"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se han investigado algunas posibles pistas sin resultados. Aunque la Policía ha buscado de nuevo su cadáver, no hay ninguna certeza de que la joven fuera asesinada. Estas últimas excavaciones se iniciaron el pasado jueves. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "se haber investigar alguno posible pista sin resultado aunque el policía haber buscar de nuevo su cadáver no haber ninguno certeza de que el joven ser asesinar este último excavación se iniciar el [J:??/??/??:??.??:??] consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber investigar posible pista resultado policía haber buscar nuevo cadáver haber certeza joven ser asesinar último excavación iniciar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Policía concluyó este martes sin resultados los nuevos rastreos y excavaciones en Gran Canaria en busca del cuerpo de la joven Sara Morales , desaparecida hace casi tres años tras salir de su casa en la capital grancanaria, informaron fuentes de la investigación. Las últimas excavacaciones se llevaron a cabo por la mañana en una finca de una casa abandonada de Jinámar , situada entre los municipios de Telde y Las Palmas de Gran Canaria, precisamente donde el pasado jueves se iniciaron esta serie de excavaciones para buscar a la menor desaparecida. Con estos rastreos, la Brigada de Policía Judicial de Las Palmas ha investigado algunas posibles pistas que había sobre el caso, sin que se hayan obtenido los resultados esperados. Sara, de 14 años, desapareció el 30 de julio de 2006 tras salir de su casa en el barrio de Escaleritas, en Las Palmas de Gran Canaria, para dirigirse a pie a una cita con un amigo de su edad, que le gustaba, en el centro comercial \"La Ballena\". Aunque la policía ha buscado de nuevo su cadáver, no hay ninguna certeza de que la joven fuera asesinada. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el policía concluir este [M:??/??/??:??.??:??] sin resultado el nuevo rastreo y excavación en gran_canaria en busca de el cuerpo de el joven sara_morales desaparecer hacer casi 3 año tras salir de su casa en el capital grancanaria informar fuente de el investigación el último excavacaciones se llevar_a_cabo por el mañana en uno finca de uno casa abandonar de jinámar situar entre el municipio de telde y las_palmas_de_gran_canaria precisamente donde el [J:??/??/??:??.??:??] se iniciar este serie de excavación para buscar a el menor desaparecido con este rastreo el brigada_de_policía_judicial_de_las_palmas haber investigar alguno posible pista que haber sobre el caso sin que se haber obtener el resultado esperar sara de 14 año desaparecer el [??:30/7/2006:??.??:??] tras salir de su casa en el barrio de escaleritas en las_palmas_de_gran_canaria para dirigir se a pie a uno cita con uno amigo de su edad que le gustar en el centro comercial el ballena aunque el policía haber buscar de nuevo su cadáver no haber ninguno certeza de que el joven ser asesinar consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "policía concluir resultado nuevo rastreo excavación gran_canaria busca cuerpo joven sara_morales desaparecer hacer año salir casa capital grancanaria informar fuente investigación último excavacaciones llevar_a_cabo mañana finca casa abandonar jinámar situar municipio telde las_palmas_de_gran_canaria precisamente iniciar serie excavación buscar menor desaparecido rastreo brigada_de_policía_judicial_de_las_palmas haber investigar posible pista haber caso haber obtener resultado esperar sara año desaparecer salir casa barrio escaleritas las_palmas_de_gran_canaria dirigir pie cita amigo edad gustar centro comercial ballena policía haber buscar nuevo cadáver haber certeza joven ser asesinar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Sara_Morales",
+            "Sara"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Jinámar",
+            "Telde",
+            "Las_Palmas_de_Gran_Canaria",
+            "Escaleritas",
+            "Las_Palmas_de_Gran_Canaria",
+            "Ballena"
+        ],
+        "organizations": [
+            "Policía",
+            "Brigada_de_Policía_Judicial_de_Las_Palmas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]",
+            "[??:30/7/2006:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "14"
+        ]
+    }
+}

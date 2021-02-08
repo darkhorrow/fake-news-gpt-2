@@ -1,0 +1,93 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625880/0/",
+    "title": {
+        "raw_text": "Concluye la alerta amarilla en Canarias por fuerte oleaje",
+        "lemmatized_text": "concluir el alerta amarillo en canarias por fuerte oleaje",
+        "lemmatized_text_reduced": "concluir alerta amarillo canarias fuerte oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha desactivado la alerta amarilla en Canarias por riesgo de fuerte oleaje con mar de fondo del noroeste de tres a cuatro metros en la costa norte de Tenerife, costas de La Palma, El Hierro y de La Gomera, así como litoral norte y oeste de Lanzarote y Fuerteventura y norte de Gran Canaria.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber desactivar el alerta amarillo en canarias por riesgo de fuerte oleaje con mar de fondo de el noroeste de 3 a LN_m:4 en el costa norte de tenerife costa de la_palma el_hierro y de la_gomera así_como litoral norte y oeste de lanzarote y fuerteventura y norte de gran_canaria",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber desactivar alerta amarillo canarias riesgo fuerte oleaje mar fondo noroeste costa norte tenerife costa la_palma el_hierro la_gomera litoral norte oeste lanzarote fuerteventura norte gran_canaria",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Tenerife",
+            "La_Palma",
+            "El_Hierro",
+            "La_Gomera",
+            "Lanzarote",
+            "Fuerteventura",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "LN_m:4"
+        ]
+    },
+    "body": {
+        "raw_text": "Según la predicción recogida por Europa Press, se prevé que en el archipiélago se registren hoy intervalos nubosos en el norte de las islas de mayor relieve e islas más orientales y predominio de los cielos poco nubosos en el resto. Hoy bajarán las temperaturas y se prevén precipitaciones localmente fuertes en puntos del sur de la Península, nevadas en cotas bajas del extremo norte y áreas de montaña del sur peninsular, así como intervalos de viento fuerte o muy fuerte en Baleares, litoral de Andalucía, Melilla y áreas del nordeste peninsular. Los cielos estarán en las primeras horas nubosos o muy nubosos en el Cantábrico oriental, Pirineos, litoral central de Cataluña, Mallorca y Menorca, con precipitaciones débiles, tendiendo a disminuir la nubosidad a lo largo del día. En la mitad suroeste peninsular se producirá un aumento de la nubosidad a lo largo de la jornada, con precipitaciones débiles o moderadas especialmente en la segunda mitad del día, que podrían ser localmente fuertes en puntos del sur de la Península. En el resto de la Península predominarán los cielos poco nubosos, aumentando la nubosidad media y alta a lo largo del día. La cota de nieve se situará entre los 200 y 400 metros en el extremo norte, de los 700 en Mallorca y de los 800-1.400 en el resto, bajando a los 600-700 en la zona centro al final de la jornada. Brumas y bancos de niebla matinales en Galicia. Las temperaturas experimentarán un ligero a moderado descenso en la Península y Baleares, salvo las máximas en Galicia y Andalucía, donde se mantendrán sin cambios significativos. En Canarias, sin cambios. Heladas débiles o localmente moderadas en el interior norte peninsular, que podrían ser localmente fuertes en el Pirineo. Los vientos soplarán flojos a moderados de componente Oeste en Andalucía, siendo moderados a fuerte en su litoral y con rachas muy fuertes en Melilla, Estrecho y litoral mediterráneo. En el resto del tercio occidental, flojos a moderados del Este y Sur. En la mitad oriental peninsular, Baleares y Canarias del Norte: moderados con intervalos fuertes o muy fuertes en Baleares y áreas del nordeste peninsular, y flojos a moderados en el resto.",
+        "lemmatized_text": "según el predicción recoger por europa_press se prever que en el archipiélago se registrar hoy intervalo nuboso en el norte de el isla de mayor relieve y isla más oriental y predominio de el cielo poco nuboso en el resto hoy bajar el temperatura y se prever precipitación localmente fuerte en punto de el sur de el península nevada en cota bajo de el extremo norte y área de montaña de el sur peninsular así_como intervalo de viento fuerte o muy fuerte en baleares litoral de andalucía melilla y área de el nordeste peninsular el cielo estar en el 1 hora nuboso o muy nuboso en el cantábrico oriental pirineos litoral central de cataluña mallorca y menorca con precipitación débil tender a disminuir el nubosidad a el largo de el día en el mitad suroeste peninsular se producir uno aumento de el nubosidad a el largo de el jornada con precipitación débil o moderar especialmente en el 2 mitad de el día que poder ser localmente fuerte en punto de el sur de el península en el resto de el península predominar el cielo poco nuboso aumentar el nubosidad medio y alto a el largo de el día el cota de nieve se situar entre el 200 y LN_m:400 en el extremo norte de el 700 en mallorca y de el 800-1.400 en el resto bajar a el 600-700 en el zona centro a el final de el jornada bruma y banco de niebla matinal en galicia el temperatura experimentar uno ligero a moderar descenso en el península y baleares salvo el máxima en galicia y andalucía donde se mantener sin cambio significativo en canarias sin cambio helada débil o localmente moderar en el interior norte peninsular que poder ser localmente fuerte en el pirineo el viento soplar flojo a moderado de componente oeste en andalucía ser moderar a fuerte en su litoral y con racha muy fuerte en melilla estrecho y litoral mediterráneo en el resto de el tercio occidental flojo a moderado de el este y sur en el mitad oriental peninsular baleares y canarias_del_norte moderado con intervalo fuerte o muy fuerte en baleares y área de el nordeste peninsular y flojo a moderado en el resto",
+        "lemmatized_text_reduced": "predicción recoger europa_press prever archipiélago registrar intervalo nuboso norte isla mayor relieve isla oriental predominio cielo nuboso resto bajar temperatura prever precipitación localmente fuerte punto sur península nevada cota bajo extremo norte área montaña sur peninsular intervalo viento fuerte fuerte baleares litoral andalucía melilla área nordeste peninsular cielo estar 1 hora nuboso nuboso cantábrico oriental pirineos litoral central cataluña mallorca menorca precipitación débil tender disminuir nubosidad largo día mitad suroeste peninsular producir aumento nubosidad largo jornada precipitación débil moderar especialmente 2 mitad día poder ser localmente fuerte punto sur península resto península predominar cielo nuboso aumentar nubosidad medio alto largo día cota nieve situar extremo norte mallorca resto bajar zona centro final jornada bruma banco niebla matinal galicia temperatura experimentar ligero moderar descenso península baleares máxima galicia andalucía mantener cambio significativo canarias cambio helada débil localmente moderar interior norte peninsular poder ser localmente fuerte pirineo viento soplar flojo moderado componente oeste andalucía ser moderar fuerte litoral racha fuerte melilla estrecho litoral mediterráneo resto tercio occidental flojo moderado este sur mitad oriental peninsular baleares canarias_del_norte moderado intervalo fuerte fuerte baleares área nordeste peninsular flojo moderado resto",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Península",
+            "Baleares",
+            "Andalucía",
+            "Melilla",
+            "Cantábrico",
+            "Pirineos",
+            "Cataluña",
+            "Mallorca",
+            "Menorca",
+            "Península",
+            "Península",
+            "Mallorca",
+            "Galicia",
+            "Península",
+            "Baleares",
+            "Galicia",
+            "Andalucía",
+            "Canarias",
+            "Pirineo",
+            "Oeste",
+            "Andalucía",
+            "Melilla",
+            "Estrecho",
+            "Este",
+            "Baleares",
+            "Baleares"
+        ],
+        "organizations": [
+            "Sur",
+            "Canarias_del_Norte"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "200",
+            "LN_m:400",
+            "700",
+            "800-1.400",
+            "600-700"
+        ]
+    }
+}

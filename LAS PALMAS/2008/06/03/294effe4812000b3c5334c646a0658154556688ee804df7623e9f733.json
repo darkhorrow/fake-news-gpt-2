@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-06-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/385519/0/limpieza/playas/canarias/",
+    "title": {
+        "raw_text": "Recogen cazuelas, colchones, baterías de coche o tubos de escape del fondo marino",
+        "lemmatized_text": "recoger cazuela colchón batería de coche o tubo de escape de el fondo marino",
+        "lemmatized_text_reduced": "recoger cazuela colchón batería coche tubo escape fondo marino",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se han recogido más de 10.000 kilos de basura en sólo tres playas. Han limpiado playas de Tenerife, Lanzarote y Gran Canaria. CONSULTA AQUÍ MÁS NOTICIAS DE TU CIUDAD >",
+        "lemmatized_text": "se haber recoger más de 10 kilo de basura en sólo 3 playa haber limpiar playa de tenerife lanzarote y gran_canaria consulta_aquí_más_noticias_de_tu_ciudad",
+        "lemmatized_text_reduced": "haber recoger kilo basura playa haber limpiar playa tenerife lanzarote gran_canaria consulta_aquí_más_noticias_de_tu_ciudad",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Tenerife"
+        ],
+        "others": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_TU_CIUDAD"
+        ],
+        "dates": [],
+        "numbers": [
+            "10",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Un total de 2.000 voluntarios se han unido para limpiar tres playas , cada una de ellas situada en un punto distinto del archipiélago canario: Tenerife, Lanzarote y Gran Canaria. También centenares de buzos han trabajado para peinar el fondo marino y han encontrado lo inimaginable: cazuelas, colchones, baterías de coche o tubos de escape. Los datos son alarmantes, ya que en un sólo día se han recogido mas de 10.000 kilos de basura en sólo tres playas. CONSULTA AQUÍ MÁS NOTICIAS DE TU CIUDAD",
+        "lemmatized_text": "uno total de 2 voluntario se haber unir para limpiar 3 playa cada uno de ellos situar en uno punto distinto de el archipiélago canario tenerife lanzarote y gran_canaria también centenar de buzo haber trabajar para peinar el fondo marino y haber encontrar el inimaginable cazuela colchón batería de coche o tubo de escape el dato ser alarmante ya_que en uno sólo día se haber recoger mas de 10 kilo de basura en sólo 3 playa consulta_aquí_más_noticias_de_tu_ciudad",
+        "lemmatized_text_reduced": "total voluntario haber unir limpiar playa situar punto distinto archipiélago canario tenerife lanzarote gran_canaria centenar buzo haber trabajar peinar fondo marino haber encontrar inimaginable cazuela colchón batería coche tubo escape dato ser alarmante día haber recoger kilo basura playa consulta_aquí_más_noticias_de_tu_ciudad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Tenerife",
+            "Lanzarote"
+        ],
+        "others": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_TU_CIUDAD"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "3",
+            "10",
+            "3"
+        ]
+    }
+}

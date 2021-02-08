@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/601646/0/",
+    "title": {
+        "raw_text": "CC de Gran Canaria acusa al Cabildo de \"ahogar\" a los municipios de la isla \"con el drástico recorte de transferencias\"",
+        "lemmatized_text": "cc_de_gran_canaria acusar a el cabildo de ahogar a el municipio de el isla con el drástico recorte de transferencia",
+        "lemmatized_text_reduced": "cc_de_gran_canaria acusar cabildo ahogar municipio isla drástico recorte transferencia",
+        "persons": [
+            "Cabildo"
+        ],
+        "locations": [],
+        "organizations": [
+            "CC_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Consejero de Coalición Canaria (CC) en el Cabildo de Gran Canaria y presidente insular de la formación nacionalista, Manuel Lobo, acusó hoy al grupo de Gobierno de la Corporación, formado por PSOE-NC, de \"ahogar a los 21 municipios de Gran Canaria con el drástico recorte en las transferencias a los ayuntamientos, así como, la supresión del plan de cooperación con las administraciones municipales\".",
+        "lemmatized_text": "el consejero_de_coalición_canaria cc en el cabildo_de_gran_canaria y presidente insular de el formación nacionalista manuel_lobo acusar hoy a el grupo de gobierno_de_la_corporación formar por psoe-nc de ahogar a el 21 municipio de gran_canaria con el drástico recorte en el transferencia a el ayuntamiento así_como el supresión de el plan de cooperación con el administración municipal",
+        "lemmatized_text_reduced": "consejero_de_coalición_canaria cc cabildo_de_gran_canaria presidente insular formación nacionalista manuel_lobo acusar grupo gobierno_de_la_corporación formar psoe-nc ahogar municipio gran_canaria drástico recorte transferencia ayuntamiento supresión plan cooperación administración municipal",
+        "persons": [
+            "Manuel_Lobo"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Consejero_de_Coalición_Canaria",
+            "CC",
+            "Gobierno_de_la_Corporación",
+            "PSOE-NC"
+        ],
+        "others": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "21"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, Lobo calificó de \"inadmisible que el cabildo grancanario retire el apoyo a los ayuntamientos cuando más lo necesitan y se permitan el lujo de recortar o suprimir convenios con las corporaciones locales mientras incrementan en 14 millones de euros los gastos destinados a equipamientos de procesamiento informático, energía eléctrica o al propio edificio cabildicio y su reconstrucción, respecto al año anterior\". De esta manera, el nacionalista señaló que PSOE-NC \"están dejando tirados a los ayuntamientos y han demostrado que no tienen voluntad ni ganas de llegar a un acuerdo con el fin de seguir garantizando la línea de apoyo y trabajo que debe mantener el Cabildo con los 21 municipios\", mientras instó al grupo de Gobierno insular a hacer una profunda reflexión sobre su política económica. \"Aún reconociendo que Gran Canaria padece las consecuencias de una coyuntura económica internacional muy grave, es cuanto menos preocupante que el presupuesto consolidado de Gran Canaria para el próximo año retroceda hasta el de 2002 como consecuencia, sobre todo, de la caída de la actividad económica\", dijo. Finalmente, el dirigente nacionalista criticó la falta de apoyo y compromiso de PSOE-NC a entidades como el Museo Canario, ya que, \"no sólo no aparece ni un solo euro para las obras de ampliación, sino que, además, ve reducido su presupuesto para gastos corrientes en un 10 por ciento este año\".",
+        "lemmatized_text": "en uno comunicado lobo calificar de inadmisible que el cabildo grancanario retirar el apoyo a el ayuntamiento cuando más lo necesitar y se permitir el lujo de recortar o suprimir convenio con el corporación local mientras incrementar en $_ECU:14000000 el gasto destinar a equipamiento de procesamiento informático energía eléctrico o a el propio edificio cabildicio y su reconstrucción respecto a el año anterior de este manera el nacionalista señalar que psoe-nc estar dejar tirado a el ayuntamiento y haber demostrar que no tener voluntad ni gana de llegar a uno acuerdo con el fin de seguir garantizar el línea de apoyo y trabajo que deber mantener el cabildo con el 21 municipio mientras instar a el grupo de gobierno insular a hacer uno profundo reflexión sobre su política económico aun reconocer que gran_canaria padecer el consecuencia de uno coyuntura económico internacional muy grave ser cuanto menos preocupante que el presupuesto consolidar de gran_canaria para el próximo año retroceder hasta el de 2002 como consecuencia sobre todo de el caída de el actividad económico decir finalmente el dirigente nacionalista criticar el falta de apoyo y compromiso de psoe-nc a entidad como el museo_canario ya_que no_sólo no aparecer ni uno solo euro para el obra de ampliación sino_que además ver reducir su presupuesto para gasto corriente en uno 10 por 100 este año",
+        "lemmatized_text_reduced": "comunicado lobo calificar inadmisible cabildo grancanario retirar apoyo ayuntamiento necesitar permitir lujo recortar suprimir convenio corporación local incrementar gasto destinar equipamiento procesamiento informático energía eléctrico propio edificio cabildicio reconstrucción respecto año anterior manera nacionalista señalar psoe-nc estar dejar tirado ayuntamiento haber demostrar tener voluntad gana llegar acuerdo fin seguir garantizar línea apoyo trabajo deber mantener cabildo municipio instar grupo gobierno insular hacer profundo reflexión política económico reconocer gran_canaria padecer consecuencia coyuntura económico internacional grave ser preocupante presupuesto consolidar gran_canaria próximo año retroceder consecuencia caída actividad económico decir finalmente dirigente nacionalista criticar falta apoyo compromiso psoe-nc entidad museo_canario aparecer solo euro obra ampliación ver reducir presupuesto gasto corriente año",
+        "persons": [
+            "Lobo"
+        ],
+        "locations": [],
+        "organizations": [
+            "PSOE-NC",
+            "Cabildo",
+            "Gobierno",
+            "Gran_Canaria",
+            "PSOE-NC",
+            "Museo_Canario"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:14000000",
+            "21",
+            "2002",
+            "10",
+            "100"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678672/0/",
+    "title": {
+        "raw_text": "El Gobierno canario dice que tiene hasta junio para repartir entre las consejerías el ajuste de 126 millones",
+        "lemmatized_text": "el gobierno canario decir que tener hasta [??:??/6/??:??.??:??] para repartir entre el consejería el ajuste de 126000000",
+        "lemmatized_text_reduced": "gobierno canario decir tener repartir consejería ajuste",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "126000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha señalado hoy que tiene hasta el próximo mes de junio para decidir la distribución entre sus consejerías del ajuste de 126 millones de euros que debe realizar en los presupuestos autonómicos de este año, después de que le haya obligado a hacerlo el Ministerio de Economía y Hacienda.",
+        "lemmatized_text": "el gobierno_de_canarias haber señalar hoy que tener hasta el [??:??/6/??:??.??:??] para decidir el distribución entre su consejería de el ajuste de $_ECU:126000000 que deber realizar en el presupuesto autonómico de este año después_de que le haber obligar a hacer lo el ministerio_de_economía y hacienda",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber señalar tener decidir distribución consejería ajuste deber realizar presupuesto autonómico año haber obligar hacer ministerio_de_economía hacienda",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ministerio_de_Economía",
+            "Hacienda"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:126000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, lo indicó el portavoz del Ejecutivo regional, Martín Marrero, en la rueda de prensa posterior al Consejo de Gobierno donde, reconoció, que el consejero de Economía y Hacienda no ha planteado hoy este cuestión del ajuste presupuestario. \"El consejero de Economía y Hacienda no ha planteado hoy este plan de ajuste. Finalmente 126 millones de euros que obliga el Ministerio de Economía y Hacienda para respaldar el plan de reequilibrio financiero del Gobierno de Canarias que abarca desde 2010 hasta 2012. No se ha tratado este asunto en el Consejo de Gobierno de hoy y además cuando debe concretarse la distribución de estos 126 millones de euros es en la próxima reunión del Consejo de Economía Fiscal y Financiera que, en principio, está previsto para el próximo mes de junio\", subrayó. Asimismo, cuestionado por qué aún no se ha elaborado el plan de recorte, reiteró que existe \"plazo hasta junio\" y \"de aquí a entonces se concretará el reparto de ese ajuste de 126 millones de euros entre todas las consejerías\". En este sentido, puntualizó que lo que tendrá que decidir el Gobierno regional \"colegiadamente en su momento\" serán los criterios para aplicar dicho ajuste a cada consejería.",
+        "lemmatized_text": "así lo indicar el portavoz de el ejecutivo regional martín_marrero en el rueda de prensa posterior a el consejo_de_gobierno donde reconocer que el consejero de economía y hacienda no haber plantear hoy este cuestión de el ajuste presupuestario el consejero de economía y hacienda no haber plantear hoy este plan de ajuste finalmente $_ECU:126000000 que obligar el ministerio_de_economía y hacienda para respaldar el plan de reequilibrio financiero de el gobierno_de_canarias que abarcar desde 2010 hasta 2012 no se haber tratar este asunto en el consejo_de_gobierno de hoy y además cuando deber concretar se el distribución de este $_ECU:126000000 ser en el próximo reunión de el consejo_de_economía_fiscal y financiera que en principio estar prever para el [??:??/6/??:??.??:??] subrayar asimismo cuestionar por qué aun no se haber elaborar el plan de recorte reiterar que existir plazo hasta [??:??/6/??:??.??:??] y de aquí a entonces se concretar el reparto de ese ajuste de $_ECU:126000000 entre todo el consejería en este sentido puntualizar que el que tener que decidir el gobierno regional colegiadamente en su momento ser el criterio para aplicar decir ajuste a cada consejería",
+        "lemmatized_text_reduced": "indicar portavoz ejecutivo regional martín_marrero rueda prensa posterior consejo_de_gobierno reconocer consejero economía hacienda haber plantear cuestión ajuste presupuestario consejero economía hacienda haber plantear plan ajuste finalmente obligar ministerio_de_economía hacienda respaldar plan reequilibrio financiero gobierno_de_canarias abarcar haber tratar asunto consejo_de_gobierno deber concretar distribución ser próximo reunión consejo_de_economía_fiscal financiera principio estar prever subrayar cuestionar haber elaborar plan recorte reiterar existir plazo concretar reparto ajuste consejería sentido puntualizar tener decidir gobierno regional colegiadamente momento ser criterio aplicar decir ajuste consejería",
+        "persons": [
+            "Martín_Marrero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ejecutivo",
+            "Consejo_de_Gobierno",
+            "Economía",
+            "Hacienda",
+            "Economía",
+            "Hacienda",
+            "Ministerio_de_Economía",
+            "Hacienda",
+            "Gobierno_de_Canarias",
+            "Consejo_de_Gobierno",
+            "Consejo_de_Economía_Fiscal",
+            "Financiera",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/6/??:??.??:??]",
+            "[??:??/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:126000000",
+            "2010",
+            "2012",
+            "$_ECU:126000000",
+            "$_ECU:126000000"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/921206/0/",
+    "title": {
+        "raw_text": "Unas 200.000 personas acompañan a los Reyes Magos a su paso por Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno 200 persona acompañar a el reyes_magos a su paso por las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persona acompañar reyes_magos paso las_palmas_de_gran_canaria",
+        "persons": [
+            "Reyes_Magos"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "200"
+        ]
+    },
+    "lead": {
+        "raw_text": "Entre 150.000 y 200.000 personas acompañan durante la tarde de este miércoles a los Reyes Magos a su paso por la ciudad de Las Palmas de Gran Canaria, cifra similar a la del pasado año.",
+        "lemmatized_text": "entre 150 y 200 persona acompañar durante el tarde de este [X:??/??/??:??.??:??] a el reyes_magos a su paso por el ciudad de las_palmas_de_gran_canaria cifra similar a el de el pasar año",
+        "lemmatized_text_reduced": "persona acompañar tarde reyes_magos paso ciudad las_palmas_de_gran_canaria cifra similar pasar año",
+        "persons": [
+            "Reyes_Magos"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "150",
+            "200"
+        ]
+    },
+    "body": {
+        "raw_text": "Entre 150.000 y 200.000 personas acompañan durante la tarde de este miércoles a los Reyes Magos a su paso por la ciudad de Las Palmas de Gran Canaria, cifra similar a la del pasado año. Melchor, Gaspar y Baltasar recorren las calles de la capital grancanaria acompañados de niños y padres que desde las 17.00 horas estaban esperando la salida de la cabalgata en la ciudad, según informó el Ayuntamiento en nota de prensa. Asimismo, serán unos 70 agentes de la Policía Local junto con efectivos de Protección Civil, bomberos y Cruz Roja, los que han conformado el dispositivo de seguridad para la Cabalgata de Reyes, que tuvo su salida en el Castillo de la Luz, para finalizar en el Parque de San Telmo, así como para la fiesta de la noche de Reyes en la zona comercial de Triana, en la capital de grancanaria. Respecto a la noche de Reyes en Triana, se espera que entre 40.000 y 60.000 personas se den cita en dicha zona durante la tarde y noche del 5 de enero.",
+        "lemmatized_text": "entre 150 y 200 persona acompañar durante el tarde de este [X:??/??/??:??.??:??] a el reyes_magos a su paso por el ciudad de las_palmas_de_gran_canaria cifra similar a el de el pasar año melchor gaspar y baltasar recorrer el calle de el capital grancanaria acompañar de niño y padre que desde el TM_h:17 estar esperar el salida de el cabalgata en el ciudad según informar el ayuntamiento en nota de prensa asimismo ser uno 70 agente de el policía_local junto_con efectivo de protección_civil bombero y cruz_roja el que haber conformar el dispositivo de seguridad para el cabalgata_de_reyes que tener su salida en el castillo_de_la_luz para finalizar en el parque_de_san_telmo así_como para el fiesta de el noche de reyes en el zona comercial de triana en el capital de grancanaria respecto_a el noche de reyes en triana se esperar que entre 40 y 60 persona se dar cita en decir zona durante el tarde y noche de el [??:5/1/??:??.??:??]",
+        "lemmatized_text_reduced": "persona acompañar tarde reyes_magos paso ciudad las_palmas_de_gran_canaria cifra similar pasar año melchor gaspar baltasar recorrer calle capital grancanaria acompañar niño padre estar esperar salida cabalgata ciudad informar ayuntamiento nota prensa ser agente policía_local efectivo protección_civil bombero cruz_roja haber conformar dispositivo seguridad cabalgata_de_reyes tener salida castillo_de_la_luz finalizar parque_de_san_telmo fiesta noche reyes zona comercial triana capital grancanaria noche reyes triana esperar persona dar cita decir zona tarde noche",
+        "persons": [
+            "Reyes_Magos",
+            "Melchor",
+            "Gaspar",
+            "Baltasar",
+            "Reyes",
+            "Reyes"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Castillo_de_la_Luz",
+            "Parque_de_San_Telmo",
+            "Triana",
+            "Triana"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Policía_Local",
+            "Protección_Civil",
+            "Cruz_Roja",
+            "Cabalgata_de_Reyes"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:5/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "150",
+            "200",
+            "TM_h:17",
+            "70",
+            "40",
+            "60"
+        ]
+    }
+}

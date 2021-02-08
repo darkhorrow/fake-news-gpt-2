@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599735/0/",
+    "title": {
+        "raw_text": "Asprocan desvincula al plátano de Canarias con el alijo de droga encontrado en una caja de bananas",
+        "lemmatized_text": "asprocan desvincular a el plátano de canarias con el alijo de droga encontrar en uno caja de banana",
+        "lemmatized_text_reduced": "asprocan desvincular plátano canarias alijo droga encontrar caja banana",
+        "persons": [
+            "Asprocan"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Asociación de Organizaciones de Productos del Plátano de Canarias (Asprocan) ha asegurado hoy que el alijo de droga encontrado en una caja de bananas \"nada tiene que ver\" con los plátanos de Canarias, según informó el colectivo en nota de prensa.",
+        "lemmatized_text": "el asociación_de_organizaciones_de_productos_del_plátano_de_canarias asprocan haber asegurar hoy que el alijo de droga encontrar en uno caja de banana nada tener que ver con el plátano de canarias según informar el colectivo en nota de prensa",
+        "lemmatized_text_reduced": "asociación_de_organizaciones_de_productos_del_plátano_de_canarias asprocan haber asegurar alijo droga encontrar caja banana tener ver plátano canarias informar colectivo nota prensa",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Asociación_de_Organizaciones_de_Productos_del_Plátano_de_Canarias",
+            "Asprocan"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así, recordaron la importancia de desvincular la marca Islas Canarias con el contenido de estupefacientes que se incautó en la cadena de supermercados Lidl de Madrid ya que \"más del 90 por ciento de los consumidores asocia el término plátano con el Plátano de Canarias. Por tanto, Asprocan recordó que la banana es un producto que procede principalmente de Ecuador, que es el primer exportador de esta fruta.",
+        "lemmatized_text": "así recordar el importancia de desvincular el marca islas_canarias con el contenido de estupefaciente que se incautar en el cadena de supermercado lidl_de_madrid ya_que más de el 90 por 100 de el consumidor asociar el término plátano con el plátano_de_canarias por tanto asprocan recordar que el banana ser uno producto que proceder principalmente de ecuador que ser el 1 exportador de este fruto",
+        "lemmatized_text_reduced": "recordar importancia desvincular marca islas_canarias contenido estupefaciente incautar cadena supermercado lidl_de_madrid consumidor asociar término plátano plátano_de_canarias asprocan recordar banana ser producto proceder principalmente ecuador ser 1 exportador fruto",
+        "persons": [
+            "Asprocan"
+        ],
+        "locations": [
+            "Islas_Canarias",
+            "Ecuador"
+        ],
+        "organizations": [
+            "Lidl_de_Madrid",
+            "Plátano_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "90",
+            "100"
+        ]
+    }
+}

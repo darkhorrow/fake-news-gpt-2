@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/673433/0/",
+    "title": {
+        "raw_text": "El 'abuelo' de Teror (Gran Canaria) José Falcón cumplirá mañana 100 años",
+        "lemmatized_text": "el abuelo de teror gran_canaria josé_falcón cumplir mañana 100 año",
+        "lemmatized_text_reduced": "abuelo teror gran_canaria josé_falcón cumplir año",
+        "persons": [
+            "José_Falcón"
+        ],
+        "locations": [
+            "Teror",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El 'abuelo' de Teror, en Gran Canaria, José Falcón Domínguez, cumplirá mañana 100 años y celebrará su aniversario con una misa en la Basílica del Pino (12.00 horas), y un brindis en el Club de Mayores, donde el alcalde del municipio, Juan de Dios Ramos, le entregará una placa de felicitación por su centenario.",
+        "lemmatized_text": "el abuelo de teror en gran_canaria josé_falcón_domínguez cumplir mañana 100 año y celebrar su aniversario con uno misa en el basílica_del_pino TM_h:12 y uno brindis en el club_de_mayores donde el alcalde de el municipio juan_de_dios_ramos le entregar uno placa de felicitación por su centenario",
+        "lemmatized_text_reduced": "abuelo teror gran_canaria josé_falcón_domínguez cumplir año celebrar aniversario misa basílica_del_pino brindis club_de_mayores alcalde municipio juan_de_dios_ramos entregar placa felicitación centenario",
+        "persons": [
+            "José_Falcón_Domínguez",
+            "Juan_de_Dios_Ramos"
+        ],
+        "locations": [
+            "Teror",
+            "Gran_Canaria",
+            "Basílica_del_Pino",
+            "Club_de_Mayores"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "100",
+            "TM_h:12"
+        ]
+    },
+    "body": {
+        "raw_text": "Falcón Domínguez pasará a formar parte de los centenarios de la localidad, según informó el Ayuntamiento en un comunicado. Nacido en el barrio terorense de El Rincón, José Falcón ha tenido una larga descendencia junto a su esposa Dolores Dávila: 6 hijos, 17 nietos, 27 bisnietos y 2 tataranietos. A lo largo de su vida laboral, ejerció de albañil, panadero, pitero y, durante 30 años, trabajó en la Cámara Agraria de Teror, encargándose de pagar el subsidio a los agricultores de todo el municipio. Desde esta función, recorrió los barrios y rincones más apartados de Teror para hacer llegar a los labradores su paga mensual. Quizás por los kilómetros que recorrió en estos años, José reconoce que \"lo que más\" le gusta es \"ir de paseo por la isla, ver el paisaje y a la gente\". Los tiempos más difíciles de su vida los vivió en la Guerra Civil Española, como soldado en el frente de batalla, en la Península. Y hace 10 años, tras el fallecimiento de su esposa le sobrevino una trombosis que le afectó al habla. Sin embargo, a pesar de los años, José se muestra como \"una persona feliz que no aparenta para nada la edad que tiene\", concluye la institución local.",
+        "lemmatized_text": "falcón_domínguez pasar a formar_parte de el centenario de el localidad según informar el ayuntamiento en uno comunicado nacer en el barrio terorense de el_rincón josé_falcón haber tener uno largo descendencia junto_a su esposo dolores_dávila 6 hijo 17 nieto 27 bisnieto y 2 tataranieto a el largo de su vida laboral ejercer de albañil panadero pitero y durante 30 año trabajar en el cámara_agraria_de_teror encargar se de pagar el subsidio a el agricultor de todo el municipio desde este función recorrer el barrio y rincón más apartar de teror para hacer llegar a el labrador su paga mensual quizás por el kilómetro que recorrer en este año josé reconocer que el que más le gustar ser ir de paseo por el isla ver el paisaje y a el gente el tiempo más difícil de su vida lo vivir en el guerra_civil_española como soldado en el frente de batalla en el península y hacer 10 año tras el fallecimiento de su esposo le sobrevenir uno trombosis que le afectar a el habla sin embargo a_pesar_de el año josé se mostrar como uno persona feliz que no aparentar para nada el edad que tener concluir el institución local",
+        "lemmatized_text_reduced": "falcón_domínguez pasar formar_parte centenario localidad informar ayuntamiento comunicado nacer barrio terorense el_rincón josé_falcón haber tener largo descendencia esposo dolores_dávila hijo nieto bisnieto tataranieto largo vida laboral ejercer albañil panadero pitero año trabajar cámara_agraria_de_teror encargar pagar subsidio agricultor municipio función recorrer barrio rincón apartar teror hacer llegar labrador paga mensual kilómetro recorrer año josé reconocer gustar ser ir paseo isla ver paisaje gente tiempo difícil vida vivir guerra_civil_española soldado frente batalla península hacer año fallecimiento esposo sobrevenir trombosis afectar habla embargo año josé mostrar persona feliz aparentar edad tener concluir institución local",
+        "persons": [
+            "Falcón_Domínguez",
+            "José_Falcón",
+            "Dolores_Dávila",
+            "José",
+            "José"
+        ],
+        "locations": [
+            "El_Rincón",
+            "Teror",
+            "Península"
+        ],
+        "organizations": [
+            "Ayuntamiento",
+            "Cámara_Agraria_de_Teror",
+            "Guerra_Civil_Española"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6",
+            "17",
+            "27",
+            "2",
+            "30",
+            "10"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-11-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/429936/0/muerto/derrumbe/muro/",
+    "title": {
+        "raw_text": "Fallece un hombre aplastado por un muro en Telde",
+        "lemmatized_text": "fallecer uno hombre aplastar por uno muro en telde",
+        "lemmatized_text_reduced": "fallecer hombre aplastar muro telde",
+        "persons": [],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Ocurrió esta tarde en el polígono industrial El Goro. El fallecido era un hombre de 55 años. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "ocurrir este tarde en el polígono industrial el_goro el fallecer ser uno hombre de 55 año consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ocurrir tarde polígono industrial el_goro fallecer ser hombre año consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "El_Goro"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "55"
+        ]
+    },
+    "body": {
+        "raw_text": "Un hombre falleció este martes después de que se derrumbara un muro en el polígono industrial El Goro , en el municipio grancanario de Telde, según confirmaron fuentes de la Policía Local y del 112. El suceso tuvo lugar a las 16.33 horas, según indicaron las fuentes, que precisaron que el fallecido es un varón de unos 55 años y que su muerte se produjo en el acto como consecuencia de la caída de un muro. Ni el 112 ni la Policía Local de Telde ofrecieron más datos de lo ocurrido y se remitieron a las diligencias que sobre este siniestro se ha encargado de elaborar la Policía Nacional. Hasta el lugar del suceso se trasladaron efectivos de bomberos del Consorcio de Emergencias de Gran Canaria, dos ambulancias del SUC, miembros de Protección Civil y un vehículo del Grupo de Emergencias y Salvamento del Gobierno regional, agregaron las fuentes del 112.",
+        "lemmatized_text": "uno hombre fallecer este [M:??/??/??:??.??:??] después_de que se derrumbar uno muro en el polígono industrial el_goro en el municipio grancanario de telde según confirmar fuente de el policía_local y de el 112 el suceso tener_lugar a el TM_h:16.33 según indicar el fuente que precisar que el fallecer ser uno varón de uno 55 año y que su muerte se producir en el acto como consecuencia de el caída de uno muro ni el 112 ni el policía_local_de_telde ofrecer más dato de el ocurrir y se remitir a el diligencia que sobre este siniestro se haber encargar de elaborar el policía_nacional hasta el lugar de el suceso se trasladar efectivo de bombero de el consorcio_de_emergencias_de_gran_canaria 2 ambulancia de el suc miembro de protección_civil y uno vehículo de el grupo_de_emergencias y salvamento_del_gobierno regional agregar el fuente de el 112",
+        "lemmatized_text_reduced": "hombre fallecer derrumbar muro polígono industrial el_goro municipio grancanario telde confirmar fuente policía_local suceso tener_lugar indicar fuente precisar fallecer ser varón año muerte producir acto consecuencia caída muro policía_local_de_telde ofrecer dato ocurrir remitir diligencia siniestro haber encargar elaborar policía_nacional lugar suceso trasladar efectivo bombero consorcio_de_emergencias_de_gran_canaria ambulancia suc miembro protección_civil vehículo grupo_de_emergencias salvamento_del_gobierno regional agregar fuente",
+        "persons": [],
+        "locations": [
+            "El_Goro"
+        ],
+        "organizations": [
+            "Telde",
+            "Policía_Local",
+            "Policía_Local_de_Telde",
+            "Policía_Nacional",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "SUC",
+            "Protección_Civil",
+            "Grupo_de_Emergencias",
+            "Salvamento_del_Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:16.33",
+            "55",
+            "112",
+            "2",
+            "112"
+        ]
+    }
+}

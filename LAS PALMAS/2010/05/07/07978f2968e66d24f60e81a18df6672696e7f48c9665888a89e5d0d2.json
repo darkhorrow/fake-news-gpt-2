@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/700315/0/",
+    "title": {
+        "raw_text": "La Feria de Vehículos de Ocasión de Las Palmas de Gran Canaria ofrece descuentos de hasta 14.000 euros",
+        "lemmatized_text": "el feria_de_vehículos_de_ocasión_de_las_palmas_de_gran_canaria ofrecer descuento de hasta $_ECU:14",
+        "lemmatized_text_reduced": "feria_de_vehículos_de_ocasión_de_las_palmas_de_gran_canaria ofrecer descuento",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Feria_de_Vehículos_de_Ocasión_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:14"
+        ]
+    },
+    "lead": {
+        "raw_text": "La III Feria de Vehículos de Ocasión de Las Palmas de Gran Canaria --que se celebrará en Infecar desde hoy hasta el domingo-- ofrecerá más de 100 coches con una rebaja que oscilará entre los 4.000 y los 14.000 euros con respecto a su precio oficial, una oferta que sólo se aplicará durante esta Feria, con la que Avis Canarias pretende dar salida a sus vehículos a fin de renovar su flota.",
+        "lemmatized_text": "el iii_feria_de_vehículos_de_ocasión_de_las_palmas_de_gran_canaria que se celebrar en infecar desde hoy hasta el [G:??/??/??:??.??:??] ofrecer más de 100 coche con uno rebaja que oscilar entre el 4 y el $_ECU:14 con_respecto_a su precio oficial uno oferta que sólo se aplicar durante este feria con el que avis_canarias pretender dar salida a su vehículo a_fin_de renovar su flota",
+        "lemmatized_text_reduced": "iii_feria_de_vehículos_de_ocasión_de_las_palmas_de_gran_canaria celebrar infecar ofrecer coche rebaja oscilar precio oficial oferta aplicar feria avis_canarias pretender dar salida vehículo renovar flota",
+        "persons": [],
+        "locations": [
+            "Infecar"
+        ],
+        "organizations": [
+            "Avis_Canarias"
+        ],
+        "others": [
+            "III_Feria_de_Vehículos_de_Ocasión_de_Las_Palmas_de_Gran_Canaria",
+            "Feria"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "100",
+            "4",
+            "$_ECU:14"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, la organización explicó que los vehículos, que han estado un año en alquiler, han sido revisados por la 'Red Oficial Volkswagen Canarias' y poseen un año de garantía del fabricante alemán en los vehículos con antigüedad menor a 12 meses. En el caso de vehículos de menos de un año de rodaje, éstos cuentan con la garantía de fábrica. La ventaja de adquirir cualquiera de estos vehículos está en el precio porque la compra de un coche en esta Feria supone un ahorro de cinco mil euros con respecto a la adquisición de uno nuevo. Además, el cliente que adquiera un vehículo durante esta feria tendrá un año de garantía del fabricante alemán en los vehículos con una antigüedad menor a 12 meses. Los visitantes recibirán información detallada de los modelos expuestos y serán asesorados por el equipo de Volkswagen Canarias. Finalmente, todos los vehículos que Avis pone a la venta este fin de semana en Infecar son de las marcas, Volkswagen, Audi y Skoda.",
+        "lemmatized_text": "en uno comunicado el organización explicar que el vehículo que haber estar uno año en alquiler haber ser revisar por el red_oficial_volkswagen_canarias y poseer uno año de garantía de el fabricante alemán en el vehículo con antigüedad menor a 12 mes en el caso de vehículo de menos de uno año de rodaje este contar con el garantía de fábrica el ventaja de adquirir cualquiera de este vehículo estar en el precio porque el compra de uno coche en este feria suponer uno ahorro de $_ECU:5000 con_respecto_a el adquisición de uno nuevo además el cliente que adquirir uno vehículo durante este feria tener uno año de garantía de el fabricante alemán en el vehículo con uno antigüedad menor a 12 mes el visitante recibir información detallar de el modelo exponer y ser asesorar por el equipo de volkswagen_canarias finalmente todo el vehículo que avis poner a el venta este fin de semana en infecar ser de el marca volkswagen audi y skoda",
+        "lemmatized_text_reduced": "comunicado organización explicar vehículo haber estar año alquiler haber ser revisar red_oficial_volkswagen_canarias poseer año garantía fabricante alemán vehículo antigüedad menor mes caso vehículo año rodaje contar garantía fábrica ventaja adquirir vehículo estar precio compra coche feria suponer ahorro adquisición nuevo cliente adquirir vehículo feria tener año garantía fabricante alemán vehículo antigüedad menor mes visitante recibir información detallar modelo exponer ser asesorar equipo volkswagen_canarias finalmente vehículo avis poner venta fin semana infecar ser marca volkswagen audi skoda",
+        "persons": [
+            "Volkswagen_Canarias",
+            "Avis",
+            "Skoda"
+        ],
+        "locations": [
+            "Infecar"
+        ],
+        "organizations": [
+            "Red_Oficial_Volkswagen_Canarias",
+            "Volkswagen",
+            "Audi"
+        ],
+        "others": [
+            "Feria"
+        ],
+        "dates": [],
+        "numbers": [
+            "12",
+            "$_ECU:5000",
+            "12"
+        ]
+    }
+}

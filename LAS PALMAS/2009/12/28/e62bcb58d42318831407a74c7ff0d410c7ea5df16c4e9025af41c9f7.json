@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596409/0/",
+    "title": {
+        "raw_text": "El vuelco de un vehículo se salda con un herido en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el vuelco de uno vehículo se saldar con uno herir en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "vuelco vehículo saldar herir las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El vuelco de un vehículo en la carretera de Almatriche Alta, en Las Palmas de Gran Canaria, se ha saldado con un varón herido con trauma dorsal, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el vuelco de uno vehículo en el carretera de almatriche_alta en las_palmas_de_gran_canaria se haber saldar con uno varón herir con trauma dorsal según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "vuelco vehículo carretera almatriche_alta las_palmas_de_gran_canaria haber saldar varón herir trauma dorsal informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Almatriche_Alta",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 05.10 horas indicando que un turismo se había salido de la vía anteriormente mencionada y que su ocupante precisaba asistencia sanitaria. Por ello, se activó al Servicio de Urgencias Canario (SUC), que se trasladó al lugar de los hechos para asistir al herido y posteriormente evacuarlo al Hospital Universitario Doctor Negrín de la capital grancanaria.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:5.1 indicar que uno turismo se haber salir de el vía anteriormente mencionar y que su ocupante precisar asistencia sanitario por ello se activar a el servicio_de_urgencias_canario suc que se trasladar a el lugar de el hecho para asistir a el herir y posteriormente evacuar lo a el hospital_universitario_doctor_negrín de el capital grancanaria",
+        "lemmatized_text_reduced": "cecoes recibir alerta indicar turismo haber salir vía anteriormente mencionar ocupante precisar asistencia sanitario activar servicio_de_urgencias_canario suc trasladar lugar hecho asistir herir posteriormente evacuar hospital_universitario_doctor_negrín capital grancanaria",
+        "persons": [
+            "Hospital_Universitario_Doctor_Negrín"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:5.1"
+        ]
+    }
+}

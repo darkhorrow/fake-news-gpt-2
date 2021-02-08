@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625851/0/",
+    "title": {
+        "raw_text": "Un accidente entre un turismo y un camión causa retenciones a la entrada en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno accidente entre uno turismo y uno camión causa retención a el entrada en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "accidente turismo camión causa retención entrada las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un accidente entre un turismo y un camión esta mañana ha causa retenciones para entrar en la ciudad de Las Palmas de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno accidente entre uno turismo y uno camión este mañana haber causa retención para entrar en el ciudad de las_palmas_de_gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "accidente turismo camión mañana haber causa retención entrar ciudad las_palmas_de_gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 07.30 horas en la vía Gran Canaria 1 (GC-1), en dirección Las Palmas de Gran Canaria, a la altura de la zona conocida como Hoya de la Plata. Así, hasta el lugar del incidente se trasladó, además de los agentes de la policía, personal del Servicio de Urgencias Canario (SUC), que trasladó a una mujer con ansiedad a la Clínica San Roque.",
+        "lemmatized_text": "el hecho se producir a el TM_h:7.3 en el vía gran_canaria 1 GC-1 en dirección las_palmas_de_gran_canaria a el altura de el zona conocer como hoya_de_la_plata así hasta el lugar de el incidente se trasladar además_de el agente de el policía personal de el servicio_de_urgencias_canario suc que trasladar a uno mujer con ansiedad a el clínica_san_roque",
+        "lemmatized_text_reduced": "hecho producir vía gran_canaria dirección las_palmas_de_gran_canaria altura zona conocer hoya_de_la_plata lugar incidente trasladar agente policía personal servicio_de_urgencias_canario suc trasladar mujer ansiedad clínica_san_roque",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Clínica_San_Roque"
+        ],
+        "others": [
+            "Gran_Canaria",
+            "Hoya_de_la_Plata"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:7.3",
+            "1",
+            "GC-1"
+        ]
+    }
+}

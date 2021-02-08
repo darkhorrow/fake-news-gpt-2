@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/647764/0/",
+    "title": {
+        "raw_text": "Un hombre resulta herido grave tras ser apuñalado en Agüimes (Gran Canaria)",
+        "lemmatized_text": "uno hombre resultar herir grave tras ser apuñalar en agüimes gran_canaria",
+        "lemmatized_text_reduced": "hombre resultar herir grave ser apuñalar agüimes gran_canaria",
+        "persons": [],
+        "locations": [
+            "Agüimes",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre de unos 55 años de edad ha resultado herido tras sufrir una agresión por arma blanca en el tórax de carácter grave en la calle Amapola, en Montaña de los Vélez, en el municipio de Agüimes (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre de uno 55 año de edad haber resultar herir tras sufrir uno agresión por arma blanco en el tórax de carácter grave en el calle amapola en montaña_de_los_vélez en el municipio de agüimes gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre año edad haber resultar herir sufrir agresión arma blanco tórax carácter grave calle amapola montaña_de_los_vélez municipio agüimes gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Amapola",
+            "Montaña_de_los_Vélez",
+            "Agüimes",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "55",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 17.14 horas, cuando se recibió una llamada en el Cecoes que informaba de que un hombre había sufrido una agresión por arma blanca en vía pública y precisaba asistencia sanitaria. Así pues, el 112 activó de inmediato los recursos de emergencia necesarios. Hasta el lugar se desplazó personal médico del Servicio de Urgencias Canario que, tras estabilizar al afectado, lo trasladó en ambulancia de soporte vital avanzado al Hospital Universitario Insular de Gran Canaria. En esta actuación también intervino la Guardia Civil, que instruyó las diligencias oportunas, mientras que la Policía Local colaboró con el resto de recursos intervinientes.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:17.14 cuando se recibir uno llamada en el cecoes que informar de que uno hombre haber sufrir uno agresión por arma blanco en vía público y precisar asistencia sanitario así_pues el 112 activar de inmediato el recurso de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencias_canario que tras estabilizar a el afectar lo trasladar en ambulancia de soporte vital avanzar a el hospital_universitario_insular_de_gran_canaria en este actuación también intervenir el guardia_civil que instruir el diligencia oportuno mientras_que el policía_local colaborar con el resto de recurso interviniente",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes informar hombre haber sufrir agresión arma blanco vía público precisar asistencia sanitario activar inmediato recurso emergencia necesario lugar desplazar personal médico servicio_de_urgencias_canario estabilizar afectar trasladar ambulancia soporte vital avanzar hospital_universitario_insular_de_gran_canaria actuación intervenir guardia_civil instruir diligencia oportuno policía_local colaborar resto recurso interviniente",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Hospital_Universitario_Insular_de_Gran_Canaria",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.14",
+            "112"
+        ]
+    }
+}

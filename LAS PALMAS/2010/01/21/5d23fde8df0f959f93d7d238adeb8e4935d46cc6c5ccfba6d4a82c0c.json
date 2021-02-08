@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/611395/0/",
+    "title": {
+        "raw_text": "Las Palmas de Gran Canaria pone en marcha el 'Carnaval Móvil 2010' con la colaboración de Lleida.net y Overcom",
+        "lemmatized_text": "el palmas_de_gran_canaria poner en marcha el carnaval_móvil 2010 con el colaboración de lleida.net y overcom",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria poner marcha carnaval_móvil colaboración lleida.net overcom",
+        "persons": [
+            "Carnaval_Móvil"
+        ],
+        "locations": [],
+        "organizations": [
+            "Palmas_de_Gran_Canaria",
+            "Overcom"
+        ],
+        "others": [
+            "Lleida.net"
+        ],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria ha puesto en marcha el 'Carnaval Móvil 2010' con la colaboración de Lleida.net y Overcom, iniciativa con la que, un año más, se ofrecen al ciudadano las nuevas tecnologías para fomentar la participación y garantizar el éxito de la fiesta.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria haber poner en marcha el carnaval_móvil 2010 con el colaboración de lleida.net y overcom iniciativa con el que uno año más se ofrecer a el ciudadano el nuevo tecnología para fomentar el participación y garantizar el éxito de el fiesta",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria haber poner marcha carnaval_móvil colaboración lleida.net overcom iniciativa año ofrecer ciudadano nuevo tecnología fomentar participación garantizar éxito fiesta",
+        "persons": [
+            "Carnaval_Móvil"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Lleida.net",
+            "Overcom"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, Lleida.net explicó que este servicio permitirá a los ciudadanos consultar el calendario de actos desde cualquier lugar, así como votar a sus favoritos en la Gala de la Reina y la Gala Drag. \"Gracias a la tecnología de Lleida.net y Overcom, los usuarios podrán descargarse una aplicación gratuita que les mantendrá informados en todo momento de las actividades que se están desarrollando\", indicaron. Para ello sólo tendrán que enviar un mensaje al 928101010 con la palabra 'carnaval' y automáticamente recibirán un sms wap push con la url que les llevará directamente a la descarga de la aplicación. Esta aplicación es compatible con más de 900 terminales de distintas marcas, modelos y sistemas operativos —incluido Blackberry y Windows Mobile— con independencia del operador y quedará instalada en los terminales para que los ciudadanos puedan consultar el programa de actos en cualquier momento y lugar. Además, esta misma numeración será la receptora de los votos durante a Gala de la Reina y la Gala Drag, para lo cuál los votantes deberán enviar un SMS con la palabra 'reina' o 'drag' y el nombre de su candidato. El coste del mensaje es de 0,15 euros, ya que al usar numeración larga desaparece la sobretarificación.",
+        "lemmatized_text": "en uno comunicado lleida.net explicar que este servicio permitir a el ciudadano consultar el calendario de acto desde cualquiera lugar así_como votar a su favorito en el gala_de_la_reina y el gala_drag gracias_a el tecnología de lleida.net y overcom el usuario poder descargar se uno aplicación gratuito que le mantener informar en todo momento de el actividad que se estar desarrollar indicar para ello sólo tener que enviar uno mensaje a el 928101010 con el palabra carnaval y automáticamente recibir uno sms wap push con el url que le llevar directamente a el descarga de el aplicación este aplicación ser compatible con más de 900 terminal de distinto marca modelo y sistema operativo incluir blackberry y windows_mobile con independencia de el operador y quedar instalar en el terminal para que el ciudadano poder consultar el programa de acto en cualquiera momento y lugar además este mismo numeración ser el receptor de el voto durante a gala_de_la_reina y el gala_drag para el cuál el votante deber enviar uno sms con el palabra reina o drag y el nombre de su candidato el coste de el mensaje ser de $_ECU:0,15 ya_que a el usar numeración largo desaparecer el sobretarificación",
+        "lemmatized_text_reduced": "comunicado lleida.net explicar servicio permitir ciudadano consultar calendario acto lugar votar favorito gala_de_la_reina gala_drag tecnología lleida.net overcom usuario poder descargar aplicación gratuito mantener informar momento actividad estar desarrollar indicar tener enviar mensaje palabra carnaval automáticamente recibir sms wap push url llevar directamente descarga aplicación aplicación ser compatible terminal marca modelo sistema operativo incluir blackberry windows_mobile independencia operador quedar instalar terminal ciudadano poder consultar programa acto momento lugar mismo numeración ser receptor voto gala_de_la_reina gala_drag votante deber enviar sms palabra reina drag nombre candidato coste mensaje ser usar numeración largo desaparecer sobretarificación",
+        "persons": [
+            "Lleida.net",
+            "Blackberry",
+            "Windows_Mobile"
+        ],
+        "locations": [
+            "Gala_de_la_Reina"
+        ],
+        "organizations": [
+            "Gala_Drag",
+            "Overcom",
+            "Gala_de_la_Reina",
+            "Gala_Drag",
+            "SMS"
+        ],
+        "others": [
+            "Lleida.net"
+        ],
+        "dates": [],
+        "numbers": [
+            "928101010",
+            "900",
+            "$_ECU:0,15"
+        ]
+    }
+}

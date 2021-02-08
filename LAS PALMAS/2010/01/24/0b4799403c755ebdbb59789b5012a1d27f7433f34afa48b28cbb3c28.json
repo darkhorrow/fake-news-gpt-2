@@ -1,0 +1,94 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/613675/0/",
+    "title": {
+        "raw_text": "Improvisadores y repentistas canarios y de México participarán en el IV Encuentro 'Verseando con Ingenio'",
+        "lemmatized_text": "improvisador y repentista canario y de méxico participar en el iv_encuentro verseando con ingenio",
+        "lemmatized_text_reduced": "improvisador repentista canario méxico participar iv_encuentro verseando ingenio",
+        "persons": [
+            "Verseando",
+            "Ingenio"
+        ],
+        "locations": [
+            "México"
+        ],
+        "organizations": [
+            "IV_Encuentro"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Improvisadores y repentistas de México, Lanzarote, Fuerteventura, El Hierro y Gran Canaria participarán en el IV Encuentro 'Verseando con Ingenio' a celebrar los días 30 y 31 de enero en el municipio del sureste de la isla.",
+        "lemmatized_text": "improvisador y repentista de méxico lanzarote fuerteventura el_hierro y gran_canaria participar en el iv_encuentro verseando con ingenio a celebrar el día 30 y [??:31/1/??:??.??:??] en el municipio de el sureste de el isla",
+        "lemmatized_text_reduced": "improvisador repentista méxico lanzarote fuerteventura el_hierro gran_canaria participar iv_encuentro verseando ingenio celebrar día municipio sureste isla",
+        "persons": [
+            "El_Hierro"
+        ],
+        "locations": [
+            "México",
+            "Lanzarote",
+            "Verseando",
+            "Ingenio"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Gran_Canaria",
+            "IV_Encuentro"
+        ],
+        "others": [],
+        "dates": [
+            "[??:31/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "El alcalde de la citada localidad, Juan Díaz, y el director de Coros y Danzas de Ingenio, David Castellano, presentarán el próximo martes dicha cita cultural. Durante la comparecencia estarán presentes el rector de la Universidad de Las Palmas de Gran Canaria (ULPGC), José Regidor, el catedrático de la ULPGC, Maximiano Trapero, y el viceconsejero de Cultura y Deportes del Ejecutivo regional, Alberto Delegado, según informa el Ayuntamiento en un comunicado. El acto será a las 11.00 horas en el Cicca y, al finalizar el mismo, actuarán Yeray Rodríguez y Guillermo Velázquez junto a Los Leones de la Sierra de Xichú, llegados desde México. 'Verseando con Ingenio' está organizado por la Asociación Coros y Danzas de Ingenio y cuenta con la colaboración del Gobierno autonómico, el Ayuntamiento de Ingenio, el Cicca, la ULPGC y Unahoramenos Producciones.",
+        "lemmatized_text": "el alcalde de el citar localidad juan_díaz y el director de coros y danzas_de_ingenio david_castellano presentar el [M:??/??/??:??.??:??] decir cita cultural durante el comparecencia estar presente el rector de el universidad_de_las_palmas_de_gran_canaria ulpgc josé_regidor el catedrático de el ulpgc maximiano_trapero y el viceconsejero de cultura y deportes_del_ejecutivo regional alberto_delegado según informar el ayuntamiento en uno comunicado el acto ser a el TM_h:11 en el cicca y a el finalizar el mismo actuar yeray_rodríguez y guillermo_velázquez junto_a los_leones_de_la_sierra_de_xichú llegar desde méxico verseando con ingenio estar organizar por el asociación_coros y danzas_de_ingenio y contar con el colaboración de el gobierno autonómico el ayuntamiento_de_ingenio el cicca el ulpgc y unahoramenos_producciones",
+        "lemmatized_text_reduced": "alcalde citar localidad juan_díaz director coros danzas_de_ingenio david_castellano presentar decir cita cultural comparecencia estar presente rector universidad_de_las_palmas_de_gran_canaria ulpgc josé_regidor catedrático ulpgc maximiano_trapero viceconsejero cultura deportes_del_ejecutivo regional alberto_delegado informar ayuntamiento comunicado acto ser cicca finalizar mismo actuar yeray_rodríguez guillermo_velázquez los_leones_de_la_sierra_de_xichú llegar méxico verseando ingenio estar organizar asociación_coros danzas_de_ingenio contar colaboración gobierno autonómico ayuntamiento_de_ingenio cicca ulpgc unahoramenos_producciones",
+        "persons": [
+            "Juan_Díaz",
+            "David_Castellano",
+            "José_Regidor",
+            "Maximiano_Trapero",
+            "Alberto_Delegado",
+            "Yeray_Rodríguez",
+            "Guillermo_Velázquez",
+            "Unahoramenos_Producciones"
+        ],
+        "locations": [
+            "Cicca",
+            "Los_Leones_de_la_Sierra_de_Xichú",
+            "México",
+            "Ingenio"
+        ],
+        "organizations": [
+            "Coros",
+            "Danzas_de_Ingenio",
+            "Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC",
+            "ULPGC",
+            "Cultura",
+            "Deportes_del_Ejecutivo",
+            "Ayuntamiento",
+            "Verseando",
+            "Asociación_Coros",
+            "Danzas_de_Ingenio",
+            "Gobierno",
+            "Ayuntamiento_de_Ingenio",
+            "Cicca",
+            "ULPGC"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11"
+        ]
+    }
+}

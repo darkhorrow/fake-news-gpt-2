@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/918386/0/",
+    "title": {
+        "raw_text": "Policía Local de Ingenio (Gran Canaria) detiene a un joven como presunto autor de delito de violencia de género",
+        "lemmatized_text": "policía_local_de_ingenio gran_canaria detener a uno joven como presunto autor de delito de violencia de género",
+        "lemmatized_text_reduced": "policía_local_de_ingenio gran_canaria detener joven presunto autor delito violencia género",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local_de_Ingenio",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los hechos se sucedieron a primera hora de este 1 de enero, tras finalizar las fiestas del municipio con motivo del día de Año Nuevo, cuando el arrestado, vecino de Ingenio, comenzó a insultar, amenazar y agredir a su pareja sentimental en el domicilio de ésta, hecho que alertó la presencia de la citada unidad de la Policía Local, según informó en un comunicado este Cuerpo.",
+        "lemmatized_text": "el hecho se suceder a 1 hora de este [??:1/1/??:??.??:??] tras finalizar el fiesta de el municipio con motivo de el día de año_nuevo cuando el arrestar vecino de ingenio comenzar a insultar amenazar y agredir a su pareja sentimental en el domicilio de este hecho que alertar el presencia de el citar unidad de el policía_local según informar en uno comunicado este cuerpo",
+        "lemmatized_text_reduced": "hecho suceder 1 hora finalizar fiesta municipio motivo día año_nuevo arrestar vecino ingenio comenzar insultar amenazar agredir pareja sentimental domicilio hecho alertar presencia citar unidad policía_local informar comunicado cuerpo",
+        "persons": [
+            "Año_Nuevo"
+        ],
+        "locations": [
+            "Ingenio"
+        ],
+        "organizations": [
+            "Policía_Local",
+            "Cuerpo"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/1/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Agentes del Equipo de Protección a las Víctimas (EPROVIC) del Cuerpo de Policía Local de Ingenio, en la isla de Gran Canaria, han detenido este sábado a un joven, de 24 años de edad, como presunto autor de un delito de violencia de género. Posteriormente, los agentes procedieron a constatar en el lugar de los hechos las amenazas que el detenido profería a su pareja, así como las lesiones que sufrió la mujer. Todo ello, llevó a los agentes a detener al joven, siendo ésta la primera del año en curso. EPROVIC nació hace un año y medio con el objetivo de dar una mayor calidad de servicio público a las víctimas de violencia de género y del ámbito familiar. Su intervención \"especializada\", garantiza la atención legal y asistencial requerida por los afectados de violencia de género. Actualmente además de cumplimentar los requerimientos de los juzgados específicos de esta materia y de coordinarse con la Concejalía de Mujer e Igualdad, realizan el seguimiento de 41 víctimas con orden de protección, así como de otras 13 sin orden.",
+        "lemmatized_text": "agentes_del_equipo_de_protección a el víctimas eprovic de el cuerpo_de_policía_local_de_ingenio en el isla de gran_canaria haber detener este [S:??/??/??:??.??:??] a uno joven de 24 año de edad como presunto autor de uno delito de violencia de género posteriormente el agente proceder a constatar en el lugar de el hecho el amenaza que el detener proferir a su pareja así_como el lesión que sufrir el mujer todo ello llevar a el agente a detener a el joven ser este el 1 de el año en curso eprovic nacer hacer uno año y medio con el objetivo de dar uno mayor calidad de servicio público a el víctima de violencia de género y de el ámbito familiar su intervención especializar garantizar el atención legal y asistencial requerir por el afectado de violencia de género actualmente además_de cumplimentar el requerimiento de el juzgado específico de este materia y de coordinar se con el concejalía_de_mujer y igualdad realizar el seguimiento de 41 víctima con orden de protección así_como de otro 13 sin orden",
+        "lemmatized_text_reduced": "agentes_del_equipo_de_protección víctimas eprovic cuerpo_de_policía_local_de_ingenio isla gran_canaria haber detener joven año edad presunto autor delito violencia género posteriormente agente proceder constatar lugar hecho amenaza detener proferir pareja lesión sufrir mujer llevar agente detener joven ser 1 año curso eprovic nacer hacer año medio objetivo dar mayor calidad servicio público víctima violencia género ámbito familiar intervención especializar garantizar atención legal asistencial requerir afectado violencia género actualmente cumplimentar requerimiento juzgado específico materia coordinar concejalía_de_mujer igualdad realizar seguimiento víctima orden protección orden",
+        "persons": [
+            "Igualdad"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Agentes_del_Equipo_de_Protección",
+            "Víctimas",
+            "EPROVIC",
+            "Cuerpo_de_Policía_Local_de_Ingenio",
+            "EPROVIC",
+            "Concejalía_de_Mujer"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "24",
+            "41",
+            "13"
+        ]
+    }
+}

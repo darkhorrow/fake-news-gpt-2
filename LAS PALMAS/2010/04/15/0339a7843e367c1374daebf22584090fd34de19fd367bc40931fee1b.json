@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678847/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias afirma que un 5,07% de los docentes secundó la huelga contra el 'decretazo'",
+        "lemmatized_text": "el gobierno_de_canarias afirmar que uno 5,07/100 de el docente secundar el huelga contra el decreto",
+        "lemmatized_text_reduced": "gobierno_de_canarias afirmar docente secundar huelga decreto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5,07/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha cifrado en un 5,07 por ciento el seguimiento del paro de los docentes que imparte enseñanzas no universitarias en los centros educativos de las islas, protesta convocada hoy por las organizaciones sindicales contra el proyecto de decreto de personal promovido por el Ejecutivo para regular las listas de sustitutos e interinos en educación.",
+        "lemmatized_text": "el gobierno_de_canarias haber cifrar en uno 5,07 por 100 el seguimiento de el paro de el docente que impartir enseñanza no universitario en el centro educativo de el isla protesta convocar hoy por el organización sindical contra el proyecto de decreto de personal promover por el ejecutivo para regular el lista de sustituto y interino en educación",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber cifrar seguimiento paro docente impartir enseñanza universitario centro educativo isla protesta convocar organización sindical proyecto decreto personal promover ejecutivo regular lista sustituto interino educación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5,07",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "Así se desprende de los datos recopilados por el Servicio de Inspección Educativa con las cifras facilitadas directamente por los equipos directivos de los centros de la Comunidad Autónoma, indicó el Ejecutivo regional en un comunicado. De los docentes en huelga, el 1,30 por ciento son funcionarios, el 19,50 interinos y sustitutos y el 2,42 por ciento profesores de religión. Según el Gobierno autonómico, los porcentajes de la huelga por islas son los siguientes: Gran Canaria (2,59%), Lanzarote (9,14%), Fuerteventura (11,75%), Tenerife (5,70%), La Palma (4,04%), La Gomera (0,0%) y El Hierro (5,66%).",
+        "lemmatized_text": "así se desprender de el dato recopilar por el servicio_de_inspección_educativa con el cifra facilitar directamente por el equipo directivo de el centro de el comunidad_autónoma indicar el ejecutivo regional en uno comunicado de el docente en huelga el 1,30 por 100 ser funcionario el 19,50 interino y sustituto y el 2,42 por 100 profesor de religión según el gobierno autonómico el porcentaje de el huelga por isla ser el siguiente gran_canaria 2,59/100 lanzarote 9,14/100 fuerteventura 11,75/100 tenerife 5,70/100 la_palma 4,04/100 la_gomera 0,0/100 y el_hierro 5,66/100",
+        "lemmatized_text_reduced": "desprender dato recopilar servicio_de_inspección_educativa cifra facilitar directamente equipo directivo centro comunidad_autónoma indicar ejecutivo regional comunicado docente huelga ser funcionario interino sustituto profesor religión gobierno autonómico porcentaje huelga isla ser siguiente gran_canaria lanzarote fuerteventura tenerife la_palma la_gomera el_hierro",
+        "persons": [],
+        "locations": [
+            "Lanzarote",
+            "La_Palma",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Servicio_de_Inspección_Educativa",
+            "Comunidad_Autónoma",
+            "Ejecutivo",
+            "Gobierno",
+            "Fuerteventura",
+            "Tenerife",
+            "El_Hierro"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "1,30",
+            "100",
+            "19,50",
+            "2,42",
+            "100",
+            "2,59/100",
+            "9,14/100",
+            "11,75/100",
+            "5,70/100",
+            "4,04/100",
+            "0,0/100",
+            "5,66/100"
+        ]
+    }
+}

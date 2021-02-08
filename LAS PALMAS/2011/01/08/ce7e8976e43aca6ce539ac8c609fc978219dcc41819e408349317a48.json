@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/922582/0/",
+    "title": {
+        "raw_text": "Un incendio en una vivienda de Las Palmas de Gran Canaria se salda con una mujer menos grave",
+        "lemmatized_text": "uno incendio en uno vivienda de las_palmas_de_gran_canaria se saldar con uno mujer menos grave",
+        "lemmatized_text_reduced": "incendio vivienda las_palmas_de_gran_canaria saldar mujer grave",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer ha resultado herida de carácter menos grave después de sufrir un incendio en su inmueble, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno mujer haber resultar herida de carácter menos grave después_de sufrir uno incendio en su inmueble en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "mujer haber resultar herida carácter grave sufrir incendio inmueble las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer ha resultado herida de carácter menos grave después de sufrir un incendio en su inmueble, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos ocurrieron en la madrugada de este sábado, a las 06.05 horas, en la calle Pintor Pepe Dámaso de la capital grancanaria. La herida es una joven, de 27 años de edad, que sufrió intoxicación por humo, por lo que tuvo que ser trasladada por personal del Servicio de Urgencias Canario (SUC) al Hospital Universitario de Gran Canaria Doctor Negrín. Hasta el lugar del incidente, acudió además de personal del SUC, bomberos del Servicio de Extinción de Incendios, Salvamento y Rescate de Las Palmas de Gran Canaria que extinguieron el fuego. Asimismo, se personaron en la vivienda afectada agentes de la Policía Local, así como del Cuerpo Nacional de Policía, que se encargaron de instruir las diligencias correspondientes.",
+        "lemmatized_text": "uno mujer haber resultar herida de carácter menos grave después_de sufrir uno incendio en su inmueble en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho ocurrir en el madrugada de este [S:??/??/??:??.??:??] a el TM_h:6.05 en el calle pintor_pepe_dámaso de el capital grancanaria el herida ser uno joven de 27 año de edad que sufrir intoxicación por humo por el que tener que ser trasladar por personal de el servicio_de_urgencias_canario suc a el hospital_universitario_de_gran_canaria_doctor_negrín hasta el lugar de el incidente acudir además_de personal de el suc bombero de el servicio_de_extinción_de_incendios salvamento y rescate_de_las_palmas_de_gran_canaria que extinguir el fuego asimismo se personar en el vivienda afectar agente de el policía_local así_como de el cuerpo_nacional_de_policía que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "mujer haber resultar herida carácter grave sufrir incendio inmueble las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad hecho ocurrir madrugada calle pintor_pepe_dámaso capital grancanaria herida ser joven año edad sufrir intoxicación humo tener ser trasladar personal servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín lugar incidente acudir personal suc bombero servicio_de_extinción_de_incendios salvamento rescate_de_las_palmas_de_gran_canaria extinguir fuego personar vivienda afectar agente policía_local cuerpo_nacional_de_policía encargar instruir diligencia correspondiente",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Pintor_Pepe_Dámaso"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Servicio_de_Extinción_de_Incendios",
+            "Rescate_de_Las_Palmas_de_Gran_Canaria",
+            "Policía_Local",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "TM_h:6.05",
+            "27"
+        ]
+    }
+}

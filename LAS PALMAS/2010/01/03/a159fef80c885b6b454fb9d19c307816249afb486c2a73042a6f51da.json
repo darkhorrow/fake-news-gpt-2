@@ -1,0 +1,51 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599421/0/",
+    "title": {
+        "raw_text": "Un vehículo se empotra durante la noche en una rotonda de Ingenio (Gran Canaria) sin que se produzcan heridos",
+        "lemmatized_text": "uno vehículo se empotrar durante el noche en uno rotonda de ingenio gran_canaria sin que se producir herido",
+        "lemmatized_text_reduced": "vehículo empotrar noche rotonda ingenio gran_canaria producir herido",
+        "persons": [],
+        "locations": [
+            "Ingenio"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un vehículo se ha empotrado durante las primeras horas de hoy en una céntrica rotonda del casco urbano del municipio de Ingenio, en Gran Canaria, presuntamente por despiste del conductor, sin que se tengan que lamentar heridos, informó hoy la Policía Local en un comunicado.",
+        "lemmatized_text": "uno vehículo se haber empotrar durante el 1 hora de hoy en uno céntrico rotonda de el casco urbano de el municipio de ingenio en gran_canaria presuntamente por despiste de el conductor sin que se tener que lamentar herido informar hoy el policía_local en uno comunicado",
+        "lemmatized_text_reduced": "vehículo haber empotrar 1 hora céntrico rotonda casco urbano municipio ingenio gran_canaria presuntamente despiste conductor tener lamentar herido informar policía_local comunicado",
+        "persons": [],
+        "locations": [
+            "Ingenio",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, agentes de la Unidad de Atestados de la Policía Local de Ingenio se acercaron hasta el lugar del accidente tras recibir varias llamadas de los vecinos de la zona, \"pensando en un principio en lo peor\", según aseguraron en el lugar. El suceso tuvo lugar cuando el conductor, y presuntamente por un despiste, colisionó frontalmente contra la rotonda, quedando el vehículo apoyado sobre sus dos ruedas laterales por la fuerza del impacto. Así, no hubo que lamentar daños personales, produciéndose daños materiales tanto en el vehículo como en la rotonda y su señalización.",
+        "lemmatized_text": "de este manera agente de el unidad_de_atestados_de_la_policía_local_de_ingenio se acercar hasta el lugar de el accidente tras recibir varios llamada de el vecino de el zona pensar en uno principio en el peor según asegurar en el lugar el suceso tener_lugar cuando el conductor y presuntamente por uno despiste colisionar frontalmente contra el rotonda quedar el vehículo apoyar sobre su 2 rueda lateral por el fuerza de el impacto así no haber que lamentar daño personal producir se daño material tanto en el vehículo como en el rotonda y su señalización",
+        "lemmatized_text_reduced": "manera agente unidad_de_atestados_de_la_policía_local_de_ingenio acercar lugar accidente recibir llamada vecino zona pensar principio peor asegurar lugar suceso tener_lugar conductor presuntamente despiste colisionar frontalmente rotonda quedar vehículo apoyar rueda lateral fuerza impacto haber lamentar daño personal producir daño material vehículo rotonda señalización",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Unidad_de_Atestados_de_la_Policía_Local_de_Ingenio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    }
+}

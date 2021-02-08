@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/650420/0/",
+    "title": {
+        "raw_text": "La deuda de Canarias asciende a 2.352 millones en 2009, un 25% más",
+        "lemmatized_text": "el deuda de canarias ascender a 2352000 en 2009 uno 25/100 más",
+        "lemmatized_text_reduced": "deuda canarias ascender",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2352000",
+            "2009",
+            "25/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "La deuda de la Comunidad Autónoma de Canarias ha alcanzado los 2.352 millones de euros en 2009, lo que supone un aumento del 24,9 por ciento respecto al cierre del ejercicio anterior, según datos del Banco de España recogidos por Europa Press.",
+        "lemmatized_text": "el deuda de el comunidad_autónoma_de_canarias haber alcanzar el $_ECU:2352000 en 2009 el que suponer uno aumento de el 24,9 por 100 respecto al_cierre_del_ejercicio anterior según dato de el banco_de_españa recoger por europa_press",
+        "lemmatized_text_reduced": "deuda comunidad_autónoma_de_canarias haber alcanzar suponer aumento respecto anterior dato banco_de_españa recoger europa_press",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Banco_de_España",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2352000",
+            "2009",
+            "24,9",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta cifra representa para el archipiélago un ratio de endeudamiento del 5,6 por ciento sobre el Producto Interior Bruto (PIB) canario. La deuda del conjunto de las comunidades autónomas aumentó un 25,8% en 2009 en comparación con el dato de 2008, hasta registrar 86.280 millones de euros (el 8,2% del PIB), la cifra más alta de toda la serie histórica. (Habrá ampliación)",
+        "lemmatized_text": "este cifra representar para el archipiélago uno ratio de endeudamiento de el 5,6 por 100 sobre el producto_interior_bruto pib canario el deuda de el conjunto de el comunidad autónomo aumentar uno 25,8/100 en 2009 en comparación con el dato de 2008 hasta registrar $_ECU:86280000 el 8,2/100 de el pib el cifra más alto de todo el serie histórico haber ampliación",
+        "lemmatized_text_reduced": "cifra representar archipiélago ratio endeudamiento producto_interior_bruto pib canario deuda conjunto comunidad autónomo aumentar comparación dato registrar pib cifra alto serie histórico haber ampliación",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Producto_Interior_Bruto",
+            "PIB",
+            "PIB"
+        ],
+        "dates": [],
+        "numbers": [
+            "5,6",
+            "100",
+            "25,8/100",
+            "2009",
+            "2008",
+            "$_ECU:86280000",
+            "8,2/100"
+        ]
+    }
+}

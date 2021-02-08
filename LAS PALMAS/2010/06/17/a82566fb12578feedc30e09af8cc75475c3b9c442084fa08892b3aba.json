@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/740011/0/",
+    "title": {
+        "raw_text": "Las Palmas de Gran Canaria se ahorrará un millón de euros al año en la factura de la luz",
+        "lemmatized_text": "el palmas_de_gran_canaria se ahorrar $_ECU:1000000 a el año en el factura de el luz",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria ahorrar año factura luz",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:1000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consistorio y Endesa acuerdan las nuevas tarifas de las dependencias municipales y el alumbrado público",
+        "lemmatized_text": "el consistorio y endesa acordar el nuevo tarifa de el dependencia municipal y el alumbrado público",
+        "lemmatized_text_reduced": "consistorio endesa acordar nuevo tarifa dependencia municipal alumbrado público",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consistorio",
+            "Endesa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria ha llegado a un acuerdo con la empresa eléctrica Endesa Canarias para renegociar las tarifas, de tal forma que la ciudad se ahorrará un millón de euros anuales en la factura de la luz, tanto de las dependencias municipales como del alumbrado público y los semáforos. La última reunión de este proceso —iniciado por el área de Hacienda y Economía hace varios meses— se produjo hoy entre los directores de gobierno de Presidencia y de Hacienda y Economía, Sebastián Franquis y Benito Cabrera, y el director comercial de Endesa Canarias, José Antonio Lucendo. \"Este acuerdo es muy importante y va en la línea de otras iniciativas ya adoptadas por este gobierno para contener el gasto corriente y garantizar el máximo ahorro del dinero público\", afirmó Franquis en rueda de prensa. Esta medida, que es parte del plan de ajuste económico del Ayuntamiento que se presentará el próximo mes de julio, supone un ahorro de entre el 20 y el 25 por ciento de la factura actual, que se eleva a 4'3 millones de euros. Por tanto, las arcas municipales se beneficiarán de una reducción anual de alrededor de un millón de euros. La favorita La reunión con Endesa Canarias también ha servido para cerrar los trabajos que desde el pasado día 21 de mayo venían desarrollando los técnicos de Patrimonio con los responsables de la compañía eléctrica en relación con el suministro eléctrico de La Favorita, informa el Ayuntamiento en un comunicado. Este edificio municipal está, desde el año 2003, recibiendo luz de obra en lugar de disponer de una contratación definitiva. Las partes concretaron ayer la continuación de este tipo de suministro provisional hasta diciembre, cuando se producirá la normalización del contrato. \"Nunca ha sido voluntad de Endesa Canarias cortar la luz ni en La Favorita ni en ninguna otra dependencia municipal. La carta que ha salido estos días en los medios de comunicación es una comunicación administrativa que se ha repetido cada seis meses desde 2003 de forma rutinaria\", explicó el director de gobierno de Presidencia.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria haber llegar a uno acuerdo con el empresa eléctrico endesa_canarias para renegociar el tarifa de tal forma que el ciudad se ahorrar $_ECU:1000000 anual en el factura de el luz tanto de el dependencia municipal como de el alumbrado público y el semáforo el último reunión de este proceso iniciar por el área de hacienda y economía hacer varios mes se producir hoy entre el director de gobierno de presidencia y de hacienda y economía sebastián_franquis y benito_cabrera y el director comercial de endesa_canarias josé_antonio_lucendo este acuerdo ser muy importante y ir en el línea de otro iniciativa ya adoptar por este gobierno para contener el gasto corriente y garantizar el máximo ahorro de el dinero público afirmar franquis en rueda de prensa este medida que ser parte de el plan de ajuste económico de el ayuntamiento que se presentar el [??:??/7/??:??.??:??] suponer uno ahorro de entre el 20 y el 25 por 100 de el factura actual que se elevar a 4 $_ECU:3000000 por tanto el arca municipal se beneficiar de uno reducción anual de alrededor_de $_ECU:1000000 el favorito la reunión con endesa_canarias también haber servir para cerrar el trabajo que desde el [??:21/5/??:??.??:??] venir desarrollar el técnico de patrimonio con el responsable de el compañía eléctrico en relación con el suministro eléctrico de la_favorita informar el ayuntamiento en uno comunicado este edificio municipal estar desde el [??:??/??/2003:??.??:??] recibir luz de obra en_lugar_de disponer de uno contratación definitivo el parte concretar ayer el continuación de este tipo de suministro provisional hasta [??:??/12/??:??.??:??] cuando se producir el normalización de el contrato nunca haber ser voluntad de endesa_canarias cortar el luz ni en la_favorita ni en ninguno otro dependencia municipal el carta que haber salir este día en el medio de comunicación ser uno comunicación administrativo que se haber repetir cada 6 mes desde 2003 de forma rutinario explicar el director de gobierno de presidencia",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria haber llegar acuerdo empresa eléctrico endesa_canarias renegociar tarifa forma ciudad ahorrar anual factura luz dependencia municipal alumbrado público semáforo último reunión proceso iniciar área hacienda economía hacer mes producir director gobierno presidencia hacienda economía sebastián_franquis benito_cabrera director comercial endesa_canarias josé_antonio_lucendo acuerdo ser importante ir línea iniciativa adoptar gobierno contener gasto corriente garantizar máximo ahorro dinero público afirmar franquis rueda prensa medida ser parte plan ajuste económico ayuntamiento presentar suponer ahorro factura actual elevar arca municipal beneficiar reducción anual favorito la reunión endesa_canarias haber servir cerrar trabajo venir desarrollar técnico patrimonio responsable compañía eléctrico relación suministro eléctrico la_favorita informar ayuntamiento comunicado edificio municipal estar recibir luz obra disponer contratación definitivo parte concretar continuación tipo suministro provisional producir normalización contrato haber ser voluntad endesa_canarias cortar luz la_favorita dependencia municipal carta haber salir día medio comunicación ser comunicación administrativo haber repetir mes forma rutinario explicar director gobierno presidencia",
+        "persons": [
+            "Benito_Cabrera",
+            "José_Antonio_Lucendo",
+            "Franquis",
+            "La",
+            "Endesa_Canarias"
+        ],
+        "locations": [
+            "La_Favorita",
+            "La_Favorita"
+        ],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Endesa_Canarias",
+            "Hacienda",
+            "Economía",
+            "Presidencia",
+            "Hacienda",
+            "Sebastián_Franquis",
+            "Endesa_Canarias",
+            "Ayuntamiento",
+            "Ayuntamiento",
+            "Endesa_Canarias",
+            "Presidencia"
+        ],
+        "others": [
+            "Economía",
+            "Patrimonio"
+        ],
+        "dates": [
+            "[??:??/7/??:??.??:??]",
+            "[??:21/5/??:??.??:??]",
+            "[??:??/??/2003:??.??:??]",
+            "[??:??/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:1000000",
+            "20",
+            "25",
+            "100",
+            "4",
+            "$_ECU:3000000",
+            "$_ECU:1000000",
+            "6",
+            "2003"
+        ]
+    }
+}

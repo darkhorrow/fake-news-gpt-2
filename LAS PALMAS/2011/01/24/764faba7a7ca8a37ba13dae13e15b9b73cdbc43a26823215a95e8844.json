@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/937662/0/",
+    "title": {
+        "raw_text": "Soria(PP) reitera \"total respeto\" por la investigación a Consejería canaria de Sanidad por el concurso de hemodiálisis",
+        "lemmatized_text": "soria pp reiterar total respeto por el investigación a consejería canario de sanidad por el concurso de hemodiálisis",
+        "lemmatized_text_reduced": "soria pp reiterar total respeto investigación consejería canario sanidad concurso hemodiálisis",
+        "persons": [],
+        "locations": [
+            "Soria"
+        ],
+        "organizations": [
+            "PP",
+            "Consejería"
+        ],
+        "others": [
+            "Sanidad"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del PP en Canarias, José Manuel Soria, ha mostrado este lunes su \"total respeto\" por la investigación a la Consejería de Sanidad por la adjudicación del contrato de 121 millones de euros a la empresa Lifeblood S.L. para los servicios externos de hemodiálisis de los hospitales del Dr. Negrín, en Gran Canaria, y José Molina Orosa, en Lanzarote, estando al frente entonces la 'popular' Mercedes Roldós.",
+        "lemmatized_text": "el presidente de el pp en canarias josé_manuel_soria haber mostrar este [L:??/??/??:??.??:??] su total respeto por el investigación a el consejería_de_sanidad por el adjudicación de el contrato de $_ECU:121000000 a el empresa lifeblood_s.l. para el servicio externo de hemodiálisis de el hospital de el dr._negrín en gran_canaria y josé_molina_orosa en lanzarote estar a el frente entonces el popular mercedes_roldós",
+        "lemmatized_text_reduced": "presidente pp canarias josé_manuel_soria haber mostrar total respeto investigación consejería_de_sanidad adjudicación contrato empresa lifeblood_s.l. servicio externo hemodiálisis hospital dr._negrín gran_canaria josé_molina_orosa lanzarote estar popular mercedes_roldós",
+        "persons": [
+            "José_Manuel_Soria",
+            "José_Molina_Orosa",
+            "Mercedes_Roldós"
+        ],
+        "locations": [
+            "Canarias",
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "PP",
+            "Consejería_de_Sanidad",
+            "Lifeblood_S.L."
+        ],
+        "others": [
+            "Dr._Negrín"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:121000000"
+        ]
+    },
+    "body": {
+        "raw_text": "El presidente del PP en Canarias, José Manuel Soria, ha mostrado este lunes su \"total respeto\" por la investigación a la Consejería de Sanidad por la adjudicación del contrato de 121 millones de euros a la empresa Lifeblood S.L. para los servicios externos de hemodiálisis de los hospitales del Dr. Negrín, en Gran Canaria, y José Molina Orosa, en Lanzarote, estando al frente entonces la 'popular' Mercedes Roldós. La investigación correrá a cargo ahora de la Fiscalía Anticorrupción de Madrid, que ha decidido asumirlo. \"Sobre las cuestiones que están subyúdices la opinión es la de siempre, total respeto a la instrucciones que se están llevando a cabo por los órganos jurisdiccionales\", apuntilló en declaraciones a los medios tras un acto. Asimismo, cuestionado si mantiene la confianza en el equipo que realizó los informes para adjudicar el concurso, admitió que sí. \"Sigo manteniendo mi plena confianza en los equipos de funcionarios y técnicos que en su día tuvieron que elaborar los distintos informes y desde luego mi total confianza en los dirigentes políticos\", sentenció.",
+        "lemmatized_text": "el presidente de el pp en canarias josé_manuel_soria haber mostrar este [L:??/??/??:??.??:??] su total respeto por el investigación a el consejería_de_sanidad por el adjudicación de el contrato de $_ECU:121000000 a el empresa lifeblood_s.l. para el servicio externo de hemodiálisis de el hospital de el dr._negrín en gran_canaria y josé_molina_orosa en lanzarote estar a el frente entonces el popular mercedes_roldós el investigación correr a cargo ahora de el fiscalía_anticorrupción_de_madrid que haber decidir asumir lo sobre el cuestión que estar subyúdices el opinión ser el de siempre total respeto a el instrucción que se estar llevar_a_cabo por el órgano jurisdiccional apuntillar en declaración a el medio tras uno acto asimismo cuestionar si mantener el confianza en el equipo que realizar el informe para adjudicar el concurso admitir que sí seguir mantener mi pleno confianza en el equipo de funcionario y técnico que en su día tener que elaborar el distinto informe y desde_luego mi total confianza en el dirigente político sentenciar",
+        "lemmatized_text_reduced": "presidente pp canarias josé_manuel_soria haber mostrar total respeto investigación consejería_de_sanidad adjudicación contrato empresa lifeblood_s.l. servicio externo hemodiálisis hospital dr._negrín gran_canaria josé_molina_orosa lanzarote estar popular mercedes_roldós investigación correr cargo fiscalía_anticorrupción_de_madrid haber decidir asumir cuestión estar subyúdices opinión ser total respeto instrucción estar llevar_a_cabo órgano jurisdiccional apuntillar declaración medio acto cuestionar mantener confianza equipo realizar informe adjudicar concurso admitir seguir mantener pleno confianza equipo funcionario técnico día tener elaborar distinto informe total confianza dirigente político sentenciar",
+        "persons": [
+            "José_Manuel_Soria",
+            "José_Molina_Orosa",
+            "Mercedes_Roldós"
+        ],
+        "locations": [
+            "Canarias",
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "PP",
+            "Consejería_de_Sanidad",
+            "Lifeblood_S.L.",
+            "Fiscalía_Anticorrupción_de_Madrid"
+        ],
+        "others": [
+            "Dr._Negrín"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:121000000"
+        ]
+    }
+}

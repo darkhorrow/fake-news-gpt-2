@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/512047/0/avion/regresa/grieta/",
+    "title": {
+        "raw_text": "Un avión con destino a Gran Canaria regresa a Barcelona por una grieta en un cristal",
+        "lemmatized_text": "uno avión con destino a gran_canaria regresar a barcelona por uno grieta en uno cristal",
+        "lemmatized_text_reduced": "avión destino gran_canaria regresar barcelona grieta cristal",
+        "persons": [],
+        "locations": [
+            "Barcelona"
+        ],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El avión, de Spanair, había volado durante unos 25 minutos. Volvió al aeropuerto barcelonés del Prat, tras detectarse una grieta en uno de los cristales de la cabina del piloto.",
+        "lemmatized_text": "el avión de spanair haber volar durante uno TM_min:25 volver a el aeropuerto barcelonés de el prat tras detectar se uno grieta en uno de el cristal de el cabina de el piloto",
+        "lemmatized_text_reduced": "avión spanair haber volar volver aeropuerto barcelonés prat detectar grieta cristal cabina piloto",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Spanair",
+            "Prat"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_min:25"
+        ]
+    },
+    "body": {
+        "raw_text": "Un avión de Spanair que despegó este lunes, a las 11.00 h, con destino a Gran Canaria tuvo que regresar al aeropuerto del Prat, en Barcelona, después de volar durante aproximadamente 25 minutos , al detectarse una grieta en uno de los cristales de la cabina del piloto, según informaron fuentes de la aerolínea. El aparato del vuelo diario 5205 que conecta Barcelona con Gran Canaria y con 140 pasajeros a bordo despegó \"en hora\". No obstante, en cuanto el comandante se percató de un \"pequeño resquebrajamiento en uno de los cristales de la cabina\" se procedió a regresar al recinto del Prat por \"motivos de seguridad\". Las mismas fuentes de la compañía precisaron que \"los cristales de la cabina tienen ocho capas de vidrio de alta seguridad y se rasgó uno de ellos, lo que suele suceder por diversas causas, entre ellas las diferencias de temperatura \", que es una de las hipótesis que se barajan en este caso. De este modo, al aterrizar en el recinto catalán los operarios de Spanair solventaron el problema técnico y el avión pudo volver a despegar rumbo a Gran Canaria tras \"una hora y 50 minutos\" .",
+        "lemmatized_text": "uno avión de spanair que despegar este [L:??/??/??:??.??:??] a el TM_h:11 con destino a gran_canaria tener que regresar a el aeropuerto de el prat en barcelona después_de volar durante aproximadamente TM_min:25 a el detectar se uno grieta en uno de el cristal de el cabina de el piloto según informar fuente de el aerolínea el aparato de el vuelo diario 5205 que conectar barcelona con gran_canaria y con 140 pasajero a_bordo despegar en hora no_obstante en cuanto el comandante se percatar de uno pequeño resquebrajamiento en uno de el cristal de el cabina se proceder a regresar a el recinto de el prat por motivo de seguridad el mismo fuente de el compañía precisar que el cristal de el cabina tener 8 capa de vidrio de alto seguridad y se rasgar uno de ellos el que soler suceder por diverso causa entre ellos el diferencia de temperatura que ser uno de el hipótesis que se barajar en este caso de este modo a el aterrizar en el recinto catalán el operario de spanair solventar el problema técnico y el avión poder volver a despegar rumbo a gran_canaria tras uno hora y TM_min:50",
+        "lemmatized_text_reduced": "avión spanair despegar destino gran_canaria tener regresar aeropuerto prat barcelona volar aproximadamente detectar grieta cristal cabina piloto informar fuente aerolínea aparato vuelo diario conectar barcelona gran_canaria pasajero despegar hora comandante percatar pequeño resquebrajamiento cristal cabina proceder regresar recinto prat motivo seguridad mismo fuente compañía precisar cristal cabina tener capa vidrio alto seguridad rasgar soler suceder causa diferencia temperatura ser hipótesis barajar caso modo aterrizar recinto catalán operario spanair solventar problema técnico avión poder volver despegar rumbo gran_canaria hora",
+        "persons": [],
+        "locations": [
+            "Prat",
+            "Barcelona"
+        ],
+        "organizations": [
+            "Spanair",
+            "Gran_Canaria",
+            "Barcelona",
+            "Gran_Canaria",
+            "Prat",
+            "Spanair",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11",
+            "TM_min:25",
+            "5205",
+            "140",
+            "8",
+            "TM_min:50"
+        ]
+    }
+}

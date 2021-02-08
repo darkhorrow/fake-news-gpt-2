@@ -1,0 +1,88 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/723230/0/",
+    "title": {
+        "raw_text": "Harley-Davidson estrenará mañana sus nuevas instalaciones en Las Palmas de Gran Canaria",
+        "lemmatized_text": "harley-davidson estrenar mañana su nuevo instalación en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "harley-davidson estrenar nuevo instalación las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Harley-Davidson"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Harley-Davidson Las Palmas estrenará este martes sus nuevas instalaciones en Las Palmas de Gran Canaria con el objetivo de ofrecer más servicios a sus clientes y mejores prestaciones.",
+        "lemmatized_text": "harley-davidson_las_palmas estrenar este [M:??/??/??:??.??:??] su nuevo instalación en las_palmas_de_gran_canaria con el objetivo de ofrecer más servicio a su cliente y mejor prestación",
+        "lemmatized_text_reduced": "harley-davidson_las_palmas estrenar nuevo instalación las_palmas_de_gran_canaria objetivo ofrecer servicio cliente mejor prestación",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Harley-Davidson_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La empresa ha renovado la imagen de su concesionario oficial en la ciudad, ampliando sus instalaciones en un nuevo local ubicado en la calle Doctor Juan Domínguez Pérez, en la Urbanización Industrial El Sebadal. El acto inaugural se celebró el pasado viernes de la mano del director general de Harley-Davidson en España y Portugal, Josep Grañó, quien entregó la placa acreditativa Approved Retail Environment a Manuel Ortiz Bravo de Laguna y Francisco Sánchez Díaz, propietario y gerente del nuevo concesionario, respectivamente, informa la compañía en un comunicado. Mil metros cuadrados de superficie Abierto al público desde hace 18 años, y dirigido desde siempre por Francisco Sánchez Díaz, el renovado concesionario Harley-Davidson Las Palmas, cuenta con un total de 1.000 metros cuadrados de superficie, de los que 400 metros cuadrados están destinados a exposición de motos Harley-Davidson y boutique, y 600 metros cuadrados dedicados al taller propio de reparación y mantenimiento. El nuevo establecimiento oficial alberga los nuevos modelos de motocicletas Harley-Davidson, así como los de ocasión. También dispone de una zona con una amplia selección de artículos Harley-Davidson como ropa de moda y equipamiento para conducir, cascos, partes y accesorios, entre otros. \"mucho más que una moto\" Harley-Davidson, con sede en Milwaukee (Wisconsin, EE.UU), es uno de los fabricantes de motocicletas más reconocidos a nivel mundial. Sus creaciones forman parte de la historia y tradición norteamericana y algunos de sus modelos se han convertido en auténticos mitos de las dos ruedas. La marca es mundialmente conocida y para sus seguidores una Harley Davidson es \"mucho más que una moto, es un estilo de vida\". Harley Davidson, Inc. es la compañía matriz del grupo de empresas cuyos nombres comerciales son Harley-Davidson Motor Company, único gran fabricante de motocicletas de EEUU; y Harley-Davidson Financial Services, Inc, que ofrece financiación.",
+        "lemmatized_text": "el empresa haber renovar el imagen de su concesionario oficial en el ciudad ampliar su instalación en uno nuevo local ubicar en el calle doctor_juan_domínguez_pérez en el urbanización_industrial_el_sebadal el acto inaugural se celebrar el [V:??/??/??:??.??:??] de el mano de el director general de harley-davidson en españa y portugal josep_grañó quien entregar el placa acreditativo approved_retail_environment a manuel_ortiz_bravo_de_laguna y francisco_sánchez_díaz propietario y gerente de el nuevo concesionario respectivamente informar el compañía en uno comunicado AR_m2:1000 de superficie abierto a el público desde hacer 18 año y dirigir desde siempre por francisco_sánchez_díaz el renovar concesionario harley-davidson_las_palmas contar con uno total de AR_m2:1 de superficie de el que AR_m2:400 estar destinar a exposición de moto harley-davidson y boutique y AR_m2:600 dedicar a el taller propio de reparación y mantenimiento el nuevo establecimiento oficial albergar el nuevo modelo de motocicleta harley-davidson así_como el de ocasión también disponer de uno zona con uno amplio selección de artículo harley-davidson como ropa de moda y equipamiento para conducir casco parte y accesorio entre otro mucho más que uno moto harley-davidson con sede en milwaukee wisconsin ee uu ser uno de el fabricante de motocicleta más reconocer a nivel mundial su creación formar_parte de el historia y tradición norteamericano y alguno de su modelo se haber convertir en auténtico mito de el 2 rueda el marca ser mundialmente conocer y para su seguidor uno harley_davidson ser mucho más que uno moto ser uno estilo de vida harley_davidson inc. ser el compañía matriz de el grupo de empresa cuyo nombre comercial ser harley-davidson_motor_company único gran fabricante de motocicleta de eeuu y harley-davidson_financial_services inc que ofrecer financiación",
+        "lemmatized_text_reduced": "empresa haber renovar imagen concesionario oficial ciudad ampliar instalación nuevo local ubicar calle doctor_juan_domínguez_pérez urbanización_industrial_el_sebadal acto inaugural celebrar mano director general harley-davidson españa portugal josep_grañó entregar placa acreditativo approved_retail_environment manuel_ortiz_bravo_de_laguna francisco_sánchez_díaz propietario gerente nuevo concesionario respectivamente informar compañía comunicado superficie abierto público hacer año dirigir francisco_sánchez_díaz renovar concesionario harley-davidson_las_palmas contar total superficie estar destinar exposición moto harley-davidson boutique dedicar taller propio reparación mantenimiento nuevo establecimiento oficial albergar nuevo modelo motocicleta harley-davidson ocasión disponer zona amplio selección artículo harley-davidson ropa moda equipamiento conducir casco parte accesorio moto harley-davidson sede milwaukee wisconsin ee uu ser fabricante motocicleta reconocer nivel mundial creación formar_parte historia tradición norteamericano modelo haber convertir auténtico mito rueda marca ser mundialmente conocer seguidor harley_davidson ser moto ser estilo vida harley_davidson inc. ser compañía matriz grupo empresa nombre comercial ser harley-davidson_motor_company único gran fabricante motocicleta eeuu harley-davidson_financial_services inc ofrecer financiación",
+        "persons": [
+            "Josep_Grañó",
+            "Approved_Retail_Environment",
+            "Manuel_Ortiz_Bravo_de_Laguna",
+            "Francisco_Sánchez_Díaz",
+            "Francisco_Sánchez_Díaz",
+            "Harley_Davidson",
+            "Harley_Davidson",
+            "Inc"
+        ],
+        "locations": [
+            "Urbanización_Industrial_El_Sebadal",
+            "España",
+            "Portugal",
+            "Milwaukee",
+            "Wisconsin",
+            "EEUU"
+        ],
+        "organizations": [
+            "Harley-Davidson",
+            "Harley-Davidson_Las_Palmas",
+            "EE",
+            "UU",
+            "Inc.",
+            "Harley-Davidson_Motor_Company",
+            "Harley-Davidson_Financial_Services"
+        ],
+        "others": [
+            "Doctor_Juan_Domínguez_Pérez",
+            "Abierto",
+            "Harley-Davidson",
+            "Harley-Davidson",
+            "Harley-Davidson",
+            "Harley-Davidson"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "AR_m2:1000",
+            "18",
+            "AR_m2:1",
+            "AR_m2:400",
+            "AR_m2:600",
+            "2"
+        ]
+    }
+}

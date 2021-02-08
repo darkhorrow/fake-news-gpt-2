@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/598949/0/",
+    "title": {
+        "raw_text": "Las Palmas de Gran Canaria ha destinado 202.000 euros para cuatro parques adaptados para niños con discapacidad",
+        "lemmatized_text": "el palmas_de_gran_canaria haber destinar $_ECU:202 para 4 parque adaptar para niño con discapacidad",
+        "lemmatized_text_reduced": "palmas_de_gran_canaria haber destinar parque adaptar niño discapacidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:202",
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "La concejalía de Fomento y Servicios Públicos del Ayuntamiento de Las Palmas de Gran Canaria ha destinado 343.000 euros a la creación de 10 parques infantiles el pasado año; de los que cuatro de ellos han sido adaptados para niños con discapacidad y a los que se han destinado 202.000 euros, según un comunicado enviado desde el área que lidera la edil Nardy Barrios.",
+        "lemmatized_text": "el concejalía de fomento y servicios_públicos_del_ayuntamiento_de_las_palmas_de_gran_canaria haber destinar $_ECU:343 a el creación de 10 parque infantil el pasar año de el que 4 de ellos haber ser adaptar para niño con discapacidad y a el que se haber destinar $_ECU:202 según uno comunicado enviar desde el área que liderar el edil nardy_barrios",
+        "lemmatized_text_reduced": "concejalía fomento servicios_públicos_del_ayuntamiento_de_las_palmas_de_gran_canaria haber destinar creación parque infantil pasar año haber ser adaptar niño discapacidad haber destinar comunicado enviar área liderar edil nardy_barrios",
+        "persons": [
+            "Nardy_Barrios"
+        ],
+        "locations": [],
+        "organizations": [
+            "Fomento",
+            "Servicios_Públicos_del_Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:343",
+            "10",
+            "4",
+            "$_ECU:202"
+        ]
+    },
+    "body": {
+        "raw_text": "En este se ha explicado que los parque adaptados para niños discapacitados han sido en Siete Palmas el ubicado en la avenida de Felo Monzón para el que se han empleado 74.000 euros; mientras que para el ubicado en la zona de Altavista, concretamente, en la calle de Valle Inclán la suma ha alcanzado los 61.000 euros. Otro de los parques que se han adaptado ha sido el de Escaleritas, en el que se han invertido 32.000 euros, con tres nuevos juegos adaptados; en el caso de La Paterna la partida presupuestaria destinada ha sido de 35.000 euros con otros tres juegos adaptados. En otra de las instalaciones, concretamente, el Alonso Quesada, situado junto al Parque Romano detrás del Consistorio, ha contado además con novedades técnicas con la instalación de juegos \"únicos en Canarias\", como un columpio de seis asientos en hexágono o dos 'bloqx' de escalada. En esta instalación invirtieron 25.000 euros. Los otros proyectos en los que se ha invertido han estado emplazados en los barrios de Piletas, Lomo de Los Frailes, Lomo Apolinario, La Vega de San José y Cueva Torres.",
+        "lemmatized_text": "en este se haber explicar que el parque adaptar para niño discapacitado haber ser en 7 palmas el ubicar en el avenida de felo_monzón para el que se haber emplear $_ECU:74 mientras_que para el ubicar en_la_zona_de altavista concretamente en el calle de valle_inclán el suma haber alcanzar el $_ECU:61 otro de el parque que se haber adaptar haber ser el de escaleritas en el que se haber invertir $_ECU:32 con 3 nuevo juego adaptar en el caso de la_paterna el partida presupuestario destinar haber ser de $_ECU:35 con otro 3 juego adaptar en otro de el instalación concretamente el alonso_quesada situar junto a el parque_romano detrás de el consistorio haber contar además con novedad técnico con el instalación de juego único en canarias como uno columpio de 6 asiento en hexágono o 2 bloqx de escalada en este instalación invertir $_ECU:25 el otro proyecto en el que se haber invertir haber estar emplazar en el barrio de piletas lomo_de_los_frailes lomo_apolinario la_vega_de_san_josé y cueva_torres",
+        "lemmatized_text_reduced": "haber explicar parque adaptar niño discapacitado haber ser palmas ubicar avenida felo_monzón haber emplear ubicar altavista concretamente calle valle_inclán suma haber alcanzar parque haber adaptar haber ser escaleritas haber invertir nuevo juego adaptar caso la_paterna partida presupuestario destinar haber ser juego adaptar instalación concretamente alonso_quesada situar parque_romano consistorio haber contar novedad técnico instalación juego único canarias columpio asiento hexágono bloqx escalada instalación invertir proyecto haber invertir haber estar emplazar barrio piletas lomo_de_los_frailes lomo_apolinario la_vega_de_san_josé cueva_torres",
+        "persons": [
+            "Valle_Inclán",
+            "Lomo_de_Los_Frailes",
+            "Lomo_Apolinario",
+            "Cueva_Torres"
+        ],
+        "locations": [
+            "Palmas",
+            "Felo_Monzón",
+            "Escaleritas",
+            "La_Paterna",
+            "Alonso_Quesada",
+            "Parque_Romano",
+            "Canarias",
+            "Piletas"
+        ],
+        "organizations": [
+            "Altavista",
+            "Consistorio",
+            "La_Vega_de_San_José"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "$_ECU:74",
+            "$_ECU:61",
+            "$_ECU:32",
+            "3",
+            "$_ECU:35",
+            "3",
+            "6",
+            "2",
+            "$_ECU:25"
+        ]
+    }
+}

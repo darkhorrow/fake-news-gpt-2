@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641726/0/",
+    "title": {
+        "raw_text": "Gobierno canario destina casi 12 millones en préstamos para crear empresas de base tecnológica o proyectos innovadores",
+        "lemmatized_text": "gobierno canario destinar casi 12000000 en préstamo para crear empresa de base tecnológico o proyecto innovador",
+        "lemmatized_text_reduced": "gobierno canario destinar préstamo crear empresa base tecnológico proyecto innovador",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "12000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias destinará casi 12 millones de euros en préstamos para la creación de empresas de base tecnológica, así como para aquellas con proyectos innovadores, además de para que mejoren su capitalización y liquidez.",
+        "lemmatized_text": "el gobierno_de_canarias destinar casi $_ECU:12000000 en préstamo para el creación de empresa de base tecnológico así_como para aquel con proyecto innovador además_de para que mejorar su capitalización y liquidez",
+        "lemmatized_text_reduced": "gobierno_de_canarias destinar préstamo creación empresa base tecnológico proyecto innovador mejorar capitalización liquidez",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:12000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Las condiciones para acceder a los préstamos son \"muy favorables\" para las Pymes de las islas, ya que contarán con tres años de carencia para la devolución del préstamo y 15 años a interés cero para amortizarlo, según informó la Cámara de Lanzarote en nota de prensa. Además, como entidades colaboradoras para la gestión de estas ayudas, cofinanciadas con fondos Feder están el Instituto Tecnológico de Canarias (ITC) y la Sociedad para el Desarrollo Económico de Canarias S.A. (SODECAN). El objeto de estas ayudas radicará en fomentar la creación de empresas de base tecnológica (EBT), consolidar las actividades de las citadas empresas en la investigación, desarrollo e innovación tecnológica, la industrialización, la comercialización y la internacionalización de sus actividades, entre otros, además de impulsar proyectos innovadores destinados a la incorporación y adaptación activa de tecnologías en las empresas. Estas ayudas del Gobierno de Canarias, a través de la Agencia Canaria de Investigación, Innovación y Sociedad de la Información (ACIISI), están destinadas a superar la crisis, fomentar la economía basada en el conocimiento y generar empleo. La Cámara de Comercio de Lanzarote informará de esta línea de financiación a través de una jornada formativa y gratuita que tendrá lugar en su sede el próximo viernes, 5 de marzo, a las 10.00 horas.",
+        "lemmatized_text": "el condición para acceder a el préstamo ser muy favorable para el pymes de el isla ya_que contar con 3 año de carencia para el devolución de el préstamo y 15 año a interés 0 para amortizar lo según informar el cámara_de_lanzarote en nota de prensa además como entidad colaborador para el gestión de este ayuda cofinanciar con fondo feder estar el instituto_tecnológico_de_canarias itc y el sociedad_para_el_desarrollo_económico_de_canarias_s.a. sodecan el objeto de este ayuda radicar en fomentar el creación de empresa de base tecnológico ebt consolidar el actividad de el citar empresa en el investigación desarrollo y innovación tecnológico el industrialización el comercialización y el internacionalización de su actividad entre otro además_de impulsar proyecto innovador destinar a el incorporación y adaptación activo de tecnología en el empresa este ayuda de el gobierno_de_canarias a_través_de el agencia_canaria_de_investigación innovación y sociedad_de_la_información aciisi estar destinar a superar el crisis fomentar el economía basar en el conocimiento y generar empleo el cámara_de_comercio_de_lanzarote informar de este línea de financiación a_través_de uno jornada formativo y gratuito que tener_lugar en su sede el [V:5/3/??:??.??:??] a el TM_h:10",
+        "lemmatized_text_reduced": "condición acceder préstamo ser favorable pymes isla contar año carencia devolución préstamo año interés amortizar informar cámara_de_lanzarote nota prensa entidad colaborador gestión ayuda cofinanciar fondo feder estar instituto_tecnológico_de_canarias itc sociedad_para_el_desarrollo_económico_de_canarias_s.a. sodecan objeto ayuda radicar fomentar creación empresa base tecnológico ebt consolidar actividad citar empresa investigación desarrollo innovación tecnológico industrialización comercialización internacionalización actividad impulsar proyecto innovador destinar incorporación adaptación activo tecnología empresa ayuda gobierno_de_canarias agencia_canaria_de_investigación innovación sociedad_de_la_información aciisi estar destinar superar crisis fomentar economía basar conocimiento generar empleo cámara_de_comercio_de_lanzarote informar línea financiación jornada formativo gratuito tener_lugar sede",
+        "persons": [
+            "Innovación"
+        ],
+        "locations": [],
+        "organizations": [
+            "Pymes",
+            "Cámara_de_Lanzarote",
+            "Instituto_Tecnológico_de_Canarias",
+            "ITC",
+            "Sociedad_para_el_Desarrollo_Económico_de_Canarias_S.A.",
+            "SODECAN",
+            "EBT",
+            "Gobierno_de_Canarias",
+            "Agencia_Canaria_de_Investigación",
+            "Sociedad_de_la_Información",
+            "ACIISI",
+            "Cámara_de_Comercio_de_Lanzarote"
+        ],
+        "others": [
+            "Feder"
+        ],
+        "dates": [
+            "[V:5/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "15",
+            "0",
+            "TM_h:10"
+        ]
+    }
+}

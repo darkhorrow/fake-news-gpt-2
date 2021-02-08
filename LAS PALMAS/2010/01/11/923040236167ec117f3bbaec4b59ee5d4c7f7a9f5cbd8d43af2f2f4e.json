@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/603636/0/",
+    "title": {
+        "raw_text": "Agricultores canarios afirman que comienza a regularizarse la situación en la entrega de productos a Europa",
+        "lemmatized_text": "agricultores canario afirmar que comenzar a regularizar se el situación en el entrega de producto a europa",
+        "lemmatized_text_reduced": "agricultores canario afirmar comenzar regularizar situación entrega producto europa",
+        "persons": [
+            "Agricultores"
+        ],
+        "locations": [
+            "Europa"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Federación Provincial de Asociaciones de Exportadores de Productos Hortofrutícolas de Las Palmas (Fedex) ha asegurado hoy que ya comienza a regularizarse la situación en la entrega de los productos canarios, después del temporal de frío y nieve que está azotando estos días a Europa.",
+        "lemmatized_text": "el federación_provincial_de_asociaciones_de_exportadores_de_productos_hortofrutícolas_de_las_palmas fedex haber asegurar hoy que ya comenzar a regularizar se el situación en el entrega de el producto canario después de el temporal de frío y nieve que estar azotar este día a europa",
+        "lemmatized_text_reduced": "federación_provincial_de_asociaciones_de_exportadores_de_productos_hortofrutícolas_de_las_palmas fedex haber asegurar comenzar regularizar situación entrega producto canario temporal frío nieve estar azotar día europa",
+        "persons": [],
+        "locations": [
+            "Europa"
+        ],
+        "organizations": [
+            "Federación_Provincial_de_Asociaciones_de_Exportadores_de_Productos_Hortofrutícolas_de_Las_Palmas",
+            "Fedex"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Fedex apuntó, en nota de prensa, que tras días de \"auténtico caos\" en Europa, en general, y en el Reino Unido, en particular, se empieza \"lentamente\" a regularizar la situación para la entrega de los productos hortofrutícolas canarios por la \"mejoría que se empieza a vislumbrar en las autopistas inglesas\", lo que está facilitando la distribución. De todos modos, indicó que donde \"sigue habiendo muchos problemas\" para acceder es Escocia y País de Gales, \"sobre todo, en las vías secundarias\", por lo que los mercados tradicionales ingleses \"han permanecido cerrados este fin de semana\". Sin embargo, ayer ya pudo descargar un barco unas 1.000 toneladas en el puerto de Southampton, donde llegó con 24 horas de retraso, por el \"mal estado de la mar\" en la travesía. Además, hoy se está descargando en Rótterdam unas 1.200 toneladas aunque se están produciendo dificultades para la distribución en Alemania y Francia. El sector espera que la situación \"mejore\" en los próximos días para llevar a cabo la distribución por carretera con normalidad. De todos modos, Fedex afirma que \"hasta el momento la fruta está en condiciones óptimas\".",
+        "lemmatized_text": "fedex apuntar en nota de prensa que tras día de auténtico caos en europa en general y en el reino_unido en particular se empezar lentamente a regularizar el situación para el entrega de el producto hortofrutícola canario por el mejoría que se empezar a vislumbrar en el autopista inglés el que estar facilitar el distribución de_todos_modos indicar que donde seguir haber mucho problema para acceder ser escocia y país_de_gales sobre todo en el vía secundario por el que el mercado tradicional inglés haber permanecer cerrar este fin de semana sin embargo ayer ya poder descargar uno barco uno WG_tm:1 en el puerto de southampton donde llegar con TM_h:24 de retraso por el mal estado de el mar en el travesía además hoy se estar descargar en rótterdam uno WG_tm:1.2 aunque se estar producir dificultad para el distribución en alemania y francia el sector esperar que el situación mejorar en el próximo día para llevar_a_cabo el distribución por carretera con normalidad de_todos_modos fedex afirmar que hasta el momento el fruto estar en condición bueno",
+        "lemmatized_text_reduced": "fedex apuntar nota prensa día auténtico caos europa general reino_unido particular empezar lentamente regularizar situación entrega producto hortofrutícola canario mejoría empezar vislumbrar autopista inglés estar facilitar distribución indicar seguir haber problema acceder ser escocia país_de_gales vía secundario mercado tradicional inglés haber permanecer cerrar fin semana embargo poder descargar barco puerto southampton llegar retraso mal estado mar travesía estar descargar rótterdam estar producir dificultad distribución alemania francia sector esperar situación mejorar próximo día llevar_a_cabo distribución carretera normalidad fedex afirmar momento fruto estar condición bueno",
+        "persons": [
+            "Fedex",
+            "Fedex"
+        ],
+        "locations": [
+            "Europa",
+            "Reino_Unido",
+            "Escocia",
+            "Southampton",
+            "Rótterdam",
+            "Alemania",
+            "Francia"
+        ],
+        "organizations": [
+            "País_de_Gales"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "WG_tm:1",
+            "TM_h:24",
+            "WG_tm:1.2"
+        ]
+    }
+}

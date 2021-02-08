@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/654477/0/",
+    "title": {
+        "raw_text": "CC condena el atentado y aboga por intensificar la cooperación entre países para luchar contra ETA",
+        "lemmatized_text": "cc condenar el atentado y abogar por intensificar el cooperación entre país para luchar contra eta",
+        "lemmatized_text_reduced": "cc condenar atentado abogar intensificar cooperación país luchar eta",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "ETA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Coalición Canaria (CC) ha condenado hoy el atentado de la organización terrorista ETA, en las cercanías de París, que ha causado la muerte del brigada francés Jean-Serge Nérin. Asimismo, la formación nacionalista aboga por intensificar la cooperación entre países para luchar contra ETA.",
+        "lemmatized_text": "coalición_canaria cc haber condenar hoy el atentado de el organización terrorista eta en_las_cercanías_de parís que haber causar el muerte de el brigada francés jean-serge_nérin asimismo el formación nacionalista abogar por intensificar el cooperación entre país para luchar contra eta",
+        "lemmatized_text_reduced": "coalición_canaria cc haber condenar atentado organización terrorista eta parís haber causar muerte brigada francés jean-serge_nérin formación nacionalista abogar intensificar cooperación país luchar eta",
+        "persons": [
+            "Jean-Serge_Nérin"
+        ],
+        "locations": [],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "ETA",
+            "París",
+            "ETA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En un comunicado, el partido se suma a las muestras de condolencia por el asesinato del brigada francés en la primera operación perpetrada por ETA en Francia que causa la muerte de un policía de este país. CC reconoce la labor que realizan los Cuerpos de Seguridad de Francia en la lucha contra el terrorismo y considera que la colaboración internacional entre países es \"clave para la desarticulación de ETA\". Coalición Canaria considera que \"este asesinato debe servir para fortalecer los lazos de cooperación entre ambos países para avanzar en las operaciones conjuntas contra la banda terrorista\". Por último, traslada sus condolencias a la familia y compañeros del brigada francés asesinado y a los gendarmes que resultaron heridos en los enfrentamientos.",
+        "lemmatized_text": "en uno comunicado el partido se sumar a el muestra de condolencia por el asesinato de el brigada francés en el 1 operación perpetrar por eta en francia que causar el muerte de uno policía de este país cc reconocer el labor que realizar el cuerpos_de_seguridad_de_francia en el lucha contra el terrorismo y considerar que el colaboración internacional entre país ser clave para el desarticulación de eta coalición_canaria considerar que este asesinato deber servir para fortalecer el lazo de cooperación entre ambos país para avanzar en el operación conjunto contra el banda terrorista por último trasladar su condolencia a el familia y compañero de el brigada francés asesinar y a el gendarme que resultar herir en el enfrentamiento",
+        "lemmatized_text_reduced": "comunicado partido sumar muestra condolencia asesinato brigada francés 1 operación perpetrar eta francia causar muerte policía país cc reconocer labor realizar cuerpos_de_seguridad_de_francia lucha terrorismo considerar colaboración internacional país ser clave desarticulación eta coalición_canaria considerar asesinato deber servir fortalecer lazo cooperación país avanzar operación conjunto banda terrorista último trasladar condolencia familia compañero brigada francés asesinar gendarme resultar herir enfrentamiento",
+        "persons": [],
+        "locations": [
+            "Francia"
+        ],
+        "organizations": [
+            "ETA",
+            "CC",
+            "Cuerpos_de_Seguridad_de_Francia",
+            "ETA",
+            "Coalición_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

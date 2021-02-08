@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/665665/0/",
+    "title": {
+        "raw_text": "Arde una vivienda abandonada en Telde (Gran Canaria) sin causar heridos",
+        "lemmatized_text": "arder uno vivienda abandonar en telde gran_canaria sin causar herido",
+        "lemmatized_text_reduced": "arder vivienda abandonar telde gran_canaria causar herido",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una vivienda abandonada ha resultado incendiada en la zona de los centros comerciales en el municipio de Telde, al sureste de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112, que precisaron que no se han producido heridos.",
+        "lemmatized_text": "uno vivienda abandonar haber resultar incendiar en_la_zona_de el centro comercial en el municipio de telde a el sureste de gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112 que precisar que no se haber producir herido",
+        "lemmatized_text_reduced": "vivienda abandonar haber resultar incendiar centro comercial municipio telde sureste gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes precisar haber producir herido",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 18.30 horas, cuando se alertó al Cecoes de la gran humareda que se divisaba en el citado lugar cerca del Barranco de La Pardilla. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Así pues, hasta el suceso acudieron bomberos del Consorcio de Emergencias de la isla que lograron extinguir el fuego \"sin mayores problemas y sin heridos\". En dicha actuación también colaboró Protección Civil, así como Policía Local y Policía Nacional, que instruyeron las correspondientes diligencias.",
+        "lemmatized_text": "el incidente se producir a el TM_h:18.3 cuando se alertar a el cecoes de el gran humareda que se divisar en el citar lugar cerca de el barranco_de_la_pardilla de este modo el 112 activar de inmediato el dispositivo de emergencia necesario así_pues hasta el suceso acudir bombero de el consorcio_de_emergencias de el isla que lograr extinguir el fuego sin mayor problema y sin herido en decir actuación también colaborar protección_civil así_como policía_local y policía_nacional que instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "incidente producir alertar cecoes gran humareda divisar citar lugar barranco_de_la_pardilla modo activar inmediato dispositivo emergencia necesario suceso acudir bombero consorcio_de_emergencias isla lograr extinguir fuego mayor problema herido decir actuación colaborar protección_civil policía_local policía_nacional instruir correspondiente diligencia",
+        "persons": [],
+        "locations": [
+            "Barranco_de_La_Pardilla"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Consorcio_de_Emergencias",
+            "Protección_Civil",
+            "Policía_Local",
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:18.3",
+            "112"
+        ]
+    }
+}

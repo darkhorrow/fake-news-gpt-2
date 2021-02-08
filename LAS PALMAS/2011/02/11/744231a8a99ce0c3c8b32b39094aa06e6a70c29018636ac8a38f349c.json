@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/956457/0/",
+    "title": {
+        "raw_text": "El Gobierno de Canarias muestra su oferta turística en la feria Reisen de Hamburgo",
+        "lemmatized_text": "el gobierno_de_canarias mostrar su oferta turístico en el feria reisen_de_hamburgo",
+        "lemmatized_text_reduced": "gobierno_de_canarias mostrar oferta turístico feria reisen_de_hamburgo",
+        "persons": [],
+        "locations": [
+            "Reisen_de_Hamburgo"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Viceconsejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, presentará una muestra de la oferta turística canaria en la feria Reisen que se celebra en la ciudad alemana de Hamburgo desde el día 9 al 13 de febrero, informó el Ejecutivo regional en un comunicado.",
+        "lemmatized_text": "el viceconsejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur presentar uno muestra de el oferta turístico canario en el feria reisen que se celebrar en el ciudad alemán de hamburgo desde el [??:9/??/??:??.??:??] a el [??:13/2/??:??.??:??] informar el ejecutivo regional en uno comunicado",
+        "lemmatized_text_reduced": "viceconsejería_de_turismo_del_gobierno_de_canarias empresa público promotur presentar muestra oferta turístico canario feria reisen celebrar ciudad alemán hamburgo informar ejecutivo regional comunicado",
+        "persons": [],
+        "locations": [
+            "Hamburgo"
+        ],
+        "organizations": [
+            "Viceconsejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Reisen"
+        ],
+        "dates": [
+            "[??:9/??/??:??.??:??]",
+            "[??:13/2/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Viceconsejería de Turismo del Gobierno de Canarias, a través de la empresa pública Promotur, presentará una muestra de la oferta turística canaria en la feria Reisen que se celebra en la ciudad alemana de Hamburgo desde el día 9 al 13 de febrero, informó el Ejecutivo regional en un comunicado. De esta manera, el archipiélago expone su oferta turística en la feria junto con Turespaña, dentro del espacio expositor asignado a este organismo estatal de promoción. Esta zona del país germano tiene una gran cantidad de conexiones aéreas con diferentes islas del archipiélago. En la feria, junto con las compañías aéreas, también se dan cita todos los TT.OO. que operan en dicha zona, lo que permite concretar acuerdos in situ para la venta, traslado y alojamiento de turistas, lo que contribuye a la comercialización de paquetes turísticos a Canarias al momento. Por su parte, la feria Reisen es un certamen generalista con una gran afluencia de público. Los habitantes de esta zona poseen uno de los mayores poderes adquisitivos de Europa. El evento ofrece áreas temáticas específicas como la zona expositora dedicada al turismo de caravanas, o a la oferta de actividades al aire libre como mountain bike u otras formas de turismo activo. La pasada edición de la feria recibió 63.000 personas que visitaron una superficie expositora de 53.000 metros cuadrados, y tuvo una participación de 900 expositores procedentes de 80 países.",
+        "lemmatized_text": "el viceconsejería_de_turismo_del_gobierno_de_canarias a_través_de el empresa público promotur presentar uno muestra de el oferta turístico canario en el feria reisen que se celebrar en el ciudad alemán de hamburgo desde el [??:9/??/??:??.??:??] a el [??:13/2/??:??.??:??] informar el ejecutivo regional en uno comunicado de este manera el archipiélago exponer su oferta turístico en el feria junto_con turespaña dentro de el espacio expositor asignar a este organismo estatal de promoción este zona de el país germano tener uno gran cantidad de conexión aéreo con diferente isla de el archipiélago en el feria junto_con el compañía aéreo también se dar citar todo el tt oo que operar en decir zona el que permitir concretar acuerdo in_situ para el venta traslado y alojamiento de turista el que contribuir a el comercialización de paquete turístico a canarias a el momento por su parte el feria reisen ser uno certamen generalista con uno gran afluencia de público el habitante de este zona poseer uno de el mayor poder adquisitivo de europa el evento ofrecer área temático específico como el zona expositor dedicar a el turismo de caravana o a el oferta de actividad a el aire libre como mountain bike o otro forma de turismo activo el pasar edición de el feria recibir 63 persona que visitar uno superficie expositor de AR_m2:53 y tener uno participación de 900 expositor procedente de 80 país",
+        "lemmatized_text_reduced": "viceconsejería_de_turismo_del_gobierno_de_canarias empresa público promotur presentar muestra oferta turístico canario feria reisen celebrar ciudad alemán hamburgo informar ejecutivo regional comunicado manera archipiélago exponer oferta turístico feria turespaña espacio expositor asignar organismo estatal promoción zona país germano tener gran cantidad conexión aéreo isla archipiélago feria compañía aéreo dar citar tt oo operar decir zona permitir concretar acuerdo venta traslado alojamiento turista contribuir comercialización paquete turístico canarias momento parte feria reisen ser certamen generalista gran afluencia público habitante zona poseer mayor poder adquisitivo europa evento ofrecer área temático específico zona expositor dedicar turismo caravana oferta actividad aire libre mountain bike forma turismo activo pasar edición feria recibir persona visitar superficie expositor tener participación expositor procedente país",
+        "persons": [
+            "Turespaña",
+            "Reisen"
+        ],
+        "locations": [
+            "Hamburgo",
+            "Canarias",
+            "Europa"
+        ],
+        "organizations": [
+            "Viceconsejería_de_Turismo_del_Gobierno_de_Canarias",
+            "Promotur",
+            "Ejecutivo",
+            "TT",
+            "OO"
+        ],
+        "others": [
+            "Reisen"
+        ],
+        "dates": [
+            "[??:9/??/??:??.??:??]",
+            "[??:13/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "63",
+            "AR_m2:53",
+            "900",
+            "80"
+        ]
+    }
+}

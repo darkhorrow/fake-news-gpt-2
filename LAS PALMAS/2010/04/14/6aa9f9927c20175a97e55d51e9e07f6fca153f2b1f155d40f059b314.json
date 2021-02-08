@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/677185/0/",
+    "title": {
+        "raw_text": "Los bomberos rescatan a una mujer herida de gravedad tras caer al mar en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el bombero rescatar a uno mujer herir de gravedad tras caer a el mar en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "bombero rescatar mujer herir gravedad caer mar las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos han rescatado hoy a una mujer, que se encuentra herida de gravedad, tras caer al mar en Las Palmas de Gran Canaria, según informaron fuentes del Centro Coordinador de Emergencias y Seguridad 112 a Europa Press.",
+        "lemmatized_text": "el bombero haber rescatar hoy a uno mujer que se encontrar herida de gravedad tras caer a el mar en las_palmas_de_gran_canaria según informar fuente de el centro_coordinador_de_emergencias y seguridad 112 a europa_press",
+        "lemmatized_text_reduced": "bombero haber rescatar mujer encontrar herida gravedad caer mar las_palmas_de_gran_canaria informar fuente centro_coordinador_de_emergencias seguridad europa_press",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Europa_Press"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 11.00 horas en la Avenida Marítima y el 112 tras recibir la alerta, se trasladó hasta el lugar donde encontró a una mujer que se encontraba boca bajo en la rompiente de la ola, tras haber caído. Posteriormente, los bomberos rescataron a la herida que se encontraba en parada cardiorrespiratoria y acto seguido el personal del Servicio de Urgencias Canario (SUC) le realizó maniobras cardiopulmonares recuperando a la mujer para, seguidamente, trasladarla al Hospital Dr. Negrín, en la capital grancanaria. Asimismo, hasta el lugar del suceso se trasladaron agentes de la Policía Nacional, así como de la Guardia Civil.",
+        "lemmatized_text": "el incidente se producir a el TM_h:11 en el avenida_marítima y el 112 tras recibir el alerta se trasladar hasta el lugar donde encontrar a uno mujer que se encontrar boca bajo en el rompiente de el ola tras haber caer posteriormente el bombero rescatar a el herida que se encontrar en parada cardiorrespiratoria y acto seguir el personal de el servicio_de_urgencias_canario suc le realizar maniobra cardiopulmonares recuperar a el mujer para seguidamente trasladar lo a el hospital_dr._negrín en el capital grancanaria asimismo hasta el lugar de el suceso se trasladar agente de el policía_nacional así_como de el guardia_civil",
+        "lemmatized_text_reduced": "incidente producir avenida_marítima recibir alerta trasladar lugar encontrar mujer encontrar boca bajo rompiente ola haber caer posteriormente bombero rescatar herida encontrar parada cardiorrespiratoria acto seguir personal servicio_de_urgencias_canario suc realizar maniobra cardiopulmonares recuperar mujer seguidamente trasladar hospital_dr._negrín capital grancanaria lugar suceso trasladar agente policía_nacional guardia_civil",
+        "persons": [],
+        "locations": [
+            "Avenida_Marítima"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Dr._Negrín",
+            "Policía_Nacional",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:11",
+            "112"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593914/0/",
+    "title": {
+        "raw_text": "Guardia Civil detiene a 5 personas que se hicieron pasar por comerciales y estafaron a ciudadanos en Gran Canaria",
+        "lemmatized_text": "guardia_civil detener a 5 persona que se hacer pasar por comercial y estafar a ciudadano en gran_canaria",
+        "lemmatized_text_reduced": "guardia_civil detener persona hacer pasar comercial estafar ciudadano gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha detenido a cinco personas, un varón y cuatro mujeres, por hacerse pasar por comerciales de una empresa dedicada a la venta de purificadores de agua y así estafar a los vecinos de la localidad grancanaria de Agüimes, según informó la Benemérita en nota de prensa.",
+        "lemmatized_text": "el guardia_civil haber detener a 5 persona uno varón y 4 mujer por hacer se pasar por comercial de uno empresa dedicar a el venta de purificador de agua y así estafar a el vecino de el localidad grancanaria de agüimes según informar el benemérita en nota de prensa",
+        "lemmatized_text_reduced": "guardia_civil haber detener persona varón mujer hacer pasar comercial empresa dedicar venta purificador agua estafar vecino localidad grancanaria agüimes informar benemérita nota prensa",
+        "persons": [],
+        "locations": [
+            "Agüimes"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Varios vecinos del municipio, se acercaron hasta el Ayuntamiento para poner en conocimiento que alguien llamando en representación del mismo y aludiendo estar realizando estudios del agua del municipio, en algunos casos y en otros por recibos de suministro de agua impagados, concertaban citas con los mismos. En concreto, los individuos se ofrecían para realizar un análisis del agua en las viviendas, a través de un instrumento metálico conectado al suministro eléctrico e introducido posteriormente en un recipiente con el agua de los manifestantes, produciendo algún tipo de reacción que volvía el líquido de color oscuro, causando gran alarma social entre la vecindad. La Guardia Civil desconoce el alcance de afectados pero estimó que este delito de estafa y usurpación afectó a una amplia pluralidad de personas que compró el aparato, tras el peculiar análisis purificador que ofertaban. Aunque el purificador era de lícito comercio, el coste de cada uno de ellos ascendía a 1.181 euros.",
+        "lemmatized_text": "varios vecino de el municipio se acercar hasta el ayuntamiento para poner en conocimiento que alguien llamar en representación de el mismo y aludir estar realizar estudio de el agua de el municipio en alguno caso y en otro por recibo de suministro de agua impagado concertar cita con el mismo en concreto el individuo se ofrecer para realizar uno análisis de el agua en el vivienda a_través_de uno instrumento metálico conectar a el suministro eléctrico y introducir posteriormente en uno recipiente con el agua de el manifestante producir alguno tipo de reacción que volver el líquido de color oscuro causar gran alarma social entre el vecindad el guardia_civil desconocer el alcance de afectado pero estimar que este delito de estafa y usurpación afectar a uno amplio pluralidad de persona que comprar el aparato tras el peculiar análisis purificador que ofertar aunque el purificador ser de lícito comercio el coste de cada uno de ellos ascender a $_ECU:1.181",
+        "lemmatized_text_reduced": "vecino municipio acercar ayuntamiento poner conocimiento llamar representación mismo aludir estar realizar estudio agua municipio caso recibo suministro agua impagado concertar cita concreto individuo ofrecer realizar análisis agua vivienda instrumento metálico conectar suministro eléctrico introducir posteriormente recipiente agua manifestante producir tipo reacción volver líquido color oscuro causar gran alarma social vecindad guardia_civil desconocer alcance afectado estimar delito estafa usurpación afectar amplio pluralidad persona comprar aparato peculiar análisis purificador ofertar purificador ser lícito comercio coste ascender",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:1.181"
+        ]
+    }
+}

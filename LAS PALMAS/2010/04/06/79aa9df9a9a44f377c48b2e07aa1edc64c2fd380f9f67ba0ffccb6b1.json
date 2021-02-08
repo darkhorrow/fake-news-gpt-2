@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/669447/0/",
+    "title": {
+        "raw_text": "La Seguridad Social pierde 288 afiliados en Canarias durante el mes de marzo y se sitúa en 686.285 personas",
+        "lemmatized_text": "el seguridad_social perder 288 afiliado en canarias durante el [??:??/3/??:??.??:??] y se situar en 686.285 persona",
+        "lemmatized_text_reduced": "seguridad_social perder afiliado canarias situar persona",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "288",
+            "686.285"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Seguridad Social ha perdido 288 afiliados en la Comunidad Autónoma de Canarias en el mes de marzo, un 0,04 por ciento respecto a febrero, con lo que el número total de cotizantes es de 686.285, según los datos hechos públicos hoy por el Ministerio de Trabajo e Inmigración.",
+        "lemmatized_text": "el seguridad_social haber perder 288 afiliado en el comunidad_autónoma_de_canarias en el [??:??/3/??:??.??:??] uno 0,04 por 100 respecto_a [??:??/2/??:??.??:??] con el que el número total de cotizante ser de 686.285 según el dato hecho público hoy por el ministerio_de_trabajo y inmigración",
+        "lemmatized_text_reduced": "seguridad_social haber perder afiliado comunidad_autónoma_de_canarias número total cotizante ser dato hecho público ministerio_de_trabajo inmigración",
+        "persons": [],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Ministerio_de_Trabajo",
+            "Inmigración"
+        ],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:??/3/??:??.??:??]",
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "288",
+            "0,04",
+            "100",
+            "686.285"
+        ]
+    },
+    "body": {
+        "raw_text": "Si se comparan estos datos con los registrados hace un año, se puede ver que el sistema ha perdido en el archipiélago 28.548 cotizantes, lo que supone una disminución del 3,99 por ciento respecto al mismo mes de 2009. A nivel nacional, el sistema sumó 22.457 afiliados (+0,13 por ciento) en el mes de marzo, con lo que el total de ocupados se situó al finalizar el mes pasado en 17.594.808 cotizantes. Este aumento es el segundo que encadena la afiliación a la Seguridad Social tras los 26.000 nuevos cotizantes que ganó en febrero. (Habrá ampliación)",
+        "lemmatized_text": "si se comparar este dato con el registrar hacer uno año se poder ver que el sistema haber perder en el archipiélago 28.548 cotizante el que suponer uno disminución de el 3,99 por 100 respecto a el mismo mes de 2009 a nivel nacional el sistema sumar 22.457 afiliado +0,13 por 100 en el [??:??/3/??:??.??:??] con el que el total de ocupar se situar a el finalizar el mes pasar en 17.594.808 cotizante este aumento ser el 2 que encadenar el afiliación a el seguridad_social tras el 26 nuevo cotizante que ganar en [??:??/2/??:??.??:??] haber ampliación",
+        "lemmatized_text_reduced": "comparar dato registrar hacer año poder ver sistema haber perder archipiélago cotizante suponer disminución respecto mismo mes nivel nacional sistema sumar afiliado total ocupar situar finalizar mes pasar cotizante aumento ser 2 encadenar afiliación seguridad_social nuevo cotizante ganar haber ampliación",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Seguridad_Social"
+        ],
+        "dates": [
+            "[??:??/3/??:??.??:??]",
+            "[??:??/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "28.548",
+            "3,99",
+            "100",
+            "2009",
+            "22.457",
+            "+0,13",
+            "100",
+            "17.594.808",
+            "26"
+        ]
+    }
+}

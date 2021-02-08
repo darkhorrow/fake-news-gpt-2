@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/341511/0/rescate/pescador/deriva/",
+    "title": {
+        "raw_text": "Rescatan a un pescador que estuvo varias horas a la deriva por una avería",
+        "lemmatized_text": "rescatar a uno pescador que estar varios hora a el deriva por uno avería",
+        "lemmatized_text_reduced": "rescatar pescador estar hora deriva avería",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El hombre zarpó de El Cotillo (Fuerteventura). Se organizó una búsqueda por mar, aire y tierra. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el hombre zarpar de el_cotillo fuerteventura se organizar uno búsqueda por mar aire y tierra consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre zarpar el_cotillo fuerteventura organizar búsqueda mar aire tierra consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "El_Cotillo"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un pescador fue rescatado esta madrugada en la costa norte de Fuerteventura, tras permanecer a la deriva en el mar durante varias horas después de que su barca sufriese una avería, informó hoy un portavoz de Salvamento Marítimo. El hombre salió ayer a pescar por la zona de El Cotillo, en el municipio de La Oliva, pero a última hora no había vuelto, por lo que los servicios de emergencia salieron en su busca tras recibir la alerta de su desaparición. Miembros de Salvamento Marítimo y de la Guardia Civil iniciaron un rastreo por mar y aire hacia las 23:00 horas, al tiempo que varias patrullas terrestres lo buscaban desde la orilla. Tras varias horas de búsqueda, el hombre fue hallado ileso próximo a la costa de El Cotillo, hacia las 2:00 horas, a bordo de su barca, que había sufrido una avería en el motor , y fue conducido a tierra. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno pescador ser rescatar este madrugada en el costa norte de fuerteventura tras permanecer a el deriva en el mar durante varios hora después_de que su barca sufrir uno avería informar hoy uno portavoz de salvamento_marítimo el hombre salir ayer a pescar por el zona de el_cotillo en el municipio de la_oliva pero a último hora no haber volver por el que el servicio de emergencia salir en su busca tras recibir el alerta de su desaparición miembros_de_salvamento_marítimo y de el guardia_civil iniciar uno rastreo por mar y aire hacia el TM_h:23:00 al_tiempo_que varios patrulla terrestre lo buscar desde el orilla tras varios hora de búsqueda el hombre ser hallar ileso próximo a el costa de el_cotillo hacia el TM_h:2:00 a_bordo de su barca que haber sufrir uno avería en el motor y ser conducir a tierra consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "pescador ser rescatar madrugada costa norte fuerteventura permanecer deriva mar hora barca sufrir avería informar portavoz salvamento_marítimo hombre salir pescar zona el_cotillo municipio la_oliva último hora haber volver servicio emergencia salir busca recibir alerta desaparición miembros_de_salvamento_marítimo guardia_civil iniciar rastreo mar aire patrulla terrestre buscar orilla hora búsqueda hombre ser hallar ileso próximo costa el_cotillo barca haber sufrir avería motor ser conducir tierra consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "El_Cotillo",
+            "La_Oliva",
+            "El_Cotillo"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Salvamento_Marítimo",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Miembros_de_Salvamento_Marítimo"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:23:00",
+            "TM_h:2:00"
+        ]
+    }
+}

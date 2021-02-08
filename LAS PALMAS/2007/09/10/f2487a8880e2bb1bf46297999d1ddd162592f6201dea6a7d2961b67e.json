@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-09-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/273669/0/colilla/tabaco/Timanfaya/",
+    "title": {
+        "raw_text": "6.000 euros por tirar colillas en Timanfaya",
+        "lemmatized_text": "$_ECU:6 por tirar colilla en timanfaya",
+        "lemmatized_text_reduced": "tirar colilla timanfaya",
+        "persons": [],
+        "locations": [
+            "Timanfaya"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:6"
+        ]
+    },
+    "lead": {
+        "raw_text": "El multado es un turista madrileño de vacaciones en Lanzarote. Arrojó las colillas en la conocida como Ruta de los Volcanes. El denunciado puede presentar alegaciones en un plazo de 15 días.",
+        "lemmatized_text": "el multar ser uno turista madrileño de vacaciones en lanzarote arrojar el colilla en el conocer como ruta_de_los_volcanes el denunciar poder presentar alegación en uno plazo de TM_d:15",
+        "lemmatized_text_reduced": "multar ser turista madrileño vacaciones lanzarote arrojar colilla conocer ruta_de_los_volcanes denunciar poder presentar alegación plazo",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [
+            "Ruta_de_los_Volcanes"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_d:15"
+        ]
+    },
+    "body": {
+        "raw_text": "A Guido Galindo no le importó estar en el Parque Nacional de Timanfaya (Lanzarote) para arrojar una colilla encendida por la ventanilla de su coche. Fue pillado y se le ha abierto un expediente sancionador que puede terminar en una multa de hasta 6.000 euros . Según publica el Diario de Lanzarote , los hechos ocurrieron el pasado 26 de junio cuando Galindo, un turista madrileño, se encontraba en la Ruta de los Volcanes y tiró varias colillas de cigarro encendidas. En el expediente sancionador recién iniciado, se califica la presunta infracción como menos grave, pudiéndole corresponder una multa de entre 601,01 euros y 6.010,12 euros al \"considerarse basura\" vertida al medio . El denunciado puede presentar alegaciones en el plazo de 15 días, aportando todas las pruebas, documentos o informaciones que estime convenientes . En cualquier caso, la competencia para poner el punto y final a esta historia la tiene el director del Parque Nacional de Timanfaya, Aurelio Centellas.",
+        "lemmatized_text": "a guido_galindo no le importar estar en el parque_nacional_de_timanfaya lanzarote para arrojar uno colilla encender por el ventanilla de su coche ser pillar y se le haber abrir uno expediente sancionador que poder terminar en uno multa de hasta $_ECU:6 según publicar el diario_de_lanzarote el hecho ocurrir el [??:26/6/??:??.??:??] cuando galindo uno turista madrileño se encontrar en el ruta_de_los_volcanes y tirar varios colilla de cigarro encender en el expediente sancionador recién iniciar se calificar el presunto infracción como menos grave poder le corresponder uno multa de entre $_ECU:601,01 y $_ECU:6.010,12 a el considerar se basura verter a el medio el denunciar poder presentar alegación en_el_plazo_de TM_d:15 aportar todo el prueba documento o información que estimar conveniente en cualquiera caso el competencia para poner el punto y final a este historia lo tener el director de el parque_nacional_de_timanfaya aurelio_centellas",
+        "lemmatized_text_reduced": "guido_galindo importar estar parque_nacional_de_timanfaya lanzarote arrojar colilla encender ventanilla coche ser pillar haber abrir expediente sancionador poder terminar multa publicar diario_de_lanzarote hecho ocurrir galindo turista madrileño encontrar ruta_de_los_volcanes tirar colilla cigarro encender expediente sancionador iniciar calificar presunto infracción grave poder corresponder multa considerar basura verter medio denunciar poder presentar alegación aportar prueba documento información estimar conveniente caso competencia poner punto final historia tener director parque_nacional_de_timanfaya aurelio_centellas",
+        "persons": [
+            "Guido_Galindo",
+            "Galindo",
+            "Aurelio_Centellas"
+        ],
+        "locations": [
+            "Parque_Nacional_de_Timanfaya",
+            "Lanzarote",
+            "Ruta_de_los_Volcanes"
+        ],
+        "organizations": [
+            "Diario_de_Lanzarote",
+            "Parque_Nacional_de_Timanfaya"
+        ],
+        "others": [],
+        "dates": [
+            "[??:26/6/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:6",
+            "$_ECU:601,01",
+            "$_ECU:6.010,12",
+            "TM_d:15"
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/730265/0/",
+    "title": {
+        "raw_text": "Los sindicatos cifran en un 30 por ciento el seguimiento de la huelga en Canarias a las 08.45 horas",
+        "lemmatized_text": "el sindicato cifrar en uno 30 por 100 el seguimiento de el huelga en canarias a el TM_h:8.45",
+        "lemmatized_text_reduced": "sindicato cifrar seguimiento huelga canarias",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30",
+            "100",
+            "TM_h:8.45"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los sindicatos han cifrado en un 30 por ciento el seguimiento de la huelga en la Comunidad Autónoma de Canarias a las 08.45 horas, mientras que aún se están recopilando los datos por sectores, según informó a Europa Press la secretaria de comunicación de la Federación de Servicios a la Ciudadanía (FSC) de CCOO, Natalia Fernaud.",
+        "lemmatized_text": "el sindicato haber cifrar en uno 30 por 100 el seguimiento de el huelga en el comunidad_autónoma_de_canarias a el TM_h:8.45 mientras_que aun se estar recopilar el dato por sector según informar a europa_press el secretario de comunicación de el federación_de_servicios a el ciudadanía fsc de ccoo natalia_fernaud",
+        "lemmatized_text_reduced": "sindicato haber cifrar seguimiento huelga comunidad_autónoma_de_canarias estar recopilar dato sector informar europa_press secretario comunicación federación_de_servicios ciudadanía fsc ccoo natalia_fernaud",
+        "persons": [
+            "Natalia_Fernaud"
+        ],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Federación_de_Servicios",
+            "Ciudadanía",
+            "FSC",
+            "CCOO"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "30",
+            "100",
+            "TM_h:8.45"
+        ]
+    },
+    "body": {
+        "raw_text": "\"Estamos recabando los datos. A las 08.45 horas había un 30 por ciento se seguimiento a nivel regional y, en general, de todos los ámbitos o sectores. A nivel estatal estaba en un 35 por ciento, en ayuntamientos es muy diverso, ya que en el de Arico (Tenerife) está en un 70 por ciento, mientras que en resto de consistorios está en un 20/30 por ciento\", dijo. Así, en el archipiélago, más de 140.000 funcionarios canarios están llamados hoy a la huelga del sector público convocada por los sindicatos UGT, CCOO, CSIF, ANPE Canarias, IC, entre otros que han invitado además a los trabajadores a las manifestaciones y concentraciones previstas en todas las islas. Por su parte, esta tarde habrá manifestaciones en Gran Canaria y Tenerife, a las 18.30 horas, que recorrerán San Telmo, Muelle de Las Palmas, León y Castillo y Plaza de la Feria, en el caso grancanario; y la Plaza de los Patos, Av. 25 de Julio, Méndez Núñez, en Santa Cruz de Tenerife. Mientras, en el resto de islas habrá concentraciones ante las Delegaciones Insulares de Gobierno en El Hierro, La Gomera, La Palma, Fuerteventura y Lanzarote, también a las 18.30 horas.",
+        "lemmatized_text": "estar recabar el dato a el TM_h:8.45 haber uno 30 por 100 se seguimiento a nivel regional y en general de todo el ámbito o sector a nivel estatal estar en uno 35 por 100 en ayuntamiento ser muy diverso ya_que en el de arico tenerife estar en uno 70 por 100 mientras_que en resto de consistorio estar en uno 20/30 por 100 decir así en el archipiélago más de 140 funcionario canario estar llamar hoy a el huelga de el sector público convocar por el sindicato ugt ccoo csif anpe_canarias ic entre otro que haber invitar además a el trabajador a el manifestación y concentración prever en todo el isla por su parte este tarde haber manifestación en gran_canaria y tenerife a el TM_h:18.3 que recorrer san_telmo muelle_de_las_palmas león y castillo y plaza_de_la_feria en el caso grancanario y el plaza_de_los_patos av. [??:25/7/??:??.??:??] méndez_núñez en santa_cruz_de_tenerife mientras en el resto de isla haber concentración ante el delegaciones_insulares_de_gobierno en el_hierro la_gomera la_palma fuerteventura y lanzarote también a el TM_h:18.3",
+        "lemmatized_text_reduced": "estar recabar dato haber seguimiento nivel regional general ámbito sector nivel estatal estar ayuntamiento ser diverso arico tenerife estar resto consistorio estar decir archipiélago funcionario canario estar llamar huelga sector público convocar sindicato ugt ccoo csif anpe_canarias ic haber invitar trabajador manifestación concentración prever isla parte tarde haber manifestación gran_canaria tenerife recorrer san_telmo muelle_de_las_palmas león castillo plaza_de_la_feria caso grancanario plaza_de_los_patos av. méndez_núñez santa_cruz_de_tenerife resto isla haber concentración delegaciones_insulares_de_gobierno el_hierro la_gomera la_palma fuerteventura lanzarote",
+        "persons": [
+            "San_Telmo",
+            "León",
+            "Castillo",
+            "Méndez_Núñez"
+        ],
+        "locations": [
+            "Arico",
+            "Tenerife",
+            "Gran_Canaria",
+            "Plaza_de_la_Feria",
+            "Plaza_de_los_Patos",
+            "Av.",
+            "Santa_Cruz_de_Tenerife",
+            "El_Hierro",
+            "La_Gomera",
+            "La_Palma",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "UGT",
+            "CCOO",
+            "CSIF",
+            "ANPE_Canarias",
+            "IC",
+            "Tenerife",
+            "Muelle_de_Las_Palmas",
+            "Delegaciones_Insulares_de_Gobierno",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [
+            "[??:25/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:8.45",
+            "30",
+            "100",
+            "35",
+            "100",
+            "70",
+            "100",
+            "20/30",
+            "100",
+            "140",
+            "TM_h:18.3",
+            "TM_h:18.3"
+        ]
+    }
+}

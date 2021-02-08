@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-04-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/368030/0/detenidos/atracadores/canaria/",
+    "title": {
+        "raw_text": "Detienen a tres asaltantes en Gran Canaria y recuperan los 24.000 euros que robaron",
+        "lemmatized_text": "detener a 3 asaltante en gran_canaria y recuperar el $_ECU:24 que robar",
+        "lemmatized_text_reduced": "detener asaltante gran_canaria recuperar robar",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3",
+            "$_ECU:24"
+        ]
+    },
+    "lead": {
+        "raw_text": "El miércoles por la tarde asaltaron en una sede bancaria de Telde. Ésta pertenece al Banco Santander. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el [X:??/??/??:??.??:pm] asaltar en uno sede bancario de telde este pertenecer a el banco_santander consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "asaltar sede bancario telde pertenecer banco_santander consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde"
+        ],
+        "organizations": [
+            "Banco_Santander",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:pm]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Policía Nacional ha recuperado los 24.000 euros robados hoy en una oficina bancaria de Telde , en Gran Canaria, tras detener a los supuestos autores del atraco en un piso en donde se refugiaron, confirmó el concejal de Seguridad del Municipio, Juan Martel. El dinero lo tenían dos de los atracadore s que se refugiaron en un piso para tratar de eludir la persecución de la policía en el propio municipio de Telde, que los agentes encargados del caso localizaron en la zona residencial de Marpequeña, tras detener previamente al tercer presunto autor del atraco, que se presume condujo el vehículo en el que huyeron del lugar del suceso. El robo fue a una sucursal del Banco Santander, ubicada en la calle Guayasent, del barrio de El Calero, en la que irrumpieron los atracadores sobre las 14.00 hora local, cerca de la hora del cierre, encapuchados y armados . Iniciadas las pesquisas para localizar a los ladrones, se produjo la detención del supuesto conductor y, sólo unas horas después, pasadas las 18.00 hora local, la de sus dos presuntos cómplices, según informaron fuentes próximas a la investigación del caso. Detallaron que las detenciones se llevaron a cabo cuando agentes de la Policía Nacional, tras haber solicitado la autorización judicial preceptiva, entraron al piso en que se refugiaban, en cuyo interior lograron encontrar más tarde, merced a un registro, el dinero sustraído en la oficina bancaria . Ninguna de las fuentes consultadas ha podido ofrecer, de momento, datos precisos sobre la identidad o las características de los autores del atraco, que el concejal Martel apuntó sólo que, según vecinos de la zona de Marpequeña donde residían, son hombres relativamente jóvenes, alguno de los cuales podría ser de origen peninsular . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el policía_nacional haber recuperar el $_ECU:24 robar hoy en uno oficina bancario de telde en gran_canaria tras detener a el suponer autor de el atraco en uno piso en donde se refugiar confirmar el concejal de seguridad_del_municipio juan_martel el dinero lo tener 2 de el atracadore segundo que se refugiar en uno piso para tratar de eludir el persecución de el policía en el propio municipio de telde que el agente encargar de el caso localizar en el zona residencial de marpequeña tras detener previamente a el 3 presunto autor de el atraco que se presumir conducir el vehículo en el que huir de el lugar de el suceso el robo ser a uno sucursal de el banco_santander ubicar en el calle guayasent de el barrio de el_calero en el que irrumpir el atracador sobre el TM_h:14 local cerca de el hora de el cierre encapuchar y armar iniciar el pesquisa para localizar a el ladrón se producir el detención de el suponer conductor y sólo uno hora después pasar el TM_h:18 local el de su 2 presunto cómplice según informar fuente próximo a el investigación de el caso detallar que el detención se llevar_a_cabo cuando agente de el policía_nacional tras haber solicitar el autorización judicial preceptivo entrar a el piso en que se refugiar en cuyo interior lograr encontrar más tarde merced a uno registro el dinero sustraer en el oficina bancario ninguno de el fuente consultar haber poder ofrecer de momento dato preciso sobre el identidad o el característica de el autor de el atraco que el concejal martel apuntar sólo que según vecino de el zona de marpequeña donde residir ser hombre relativamente joven alguno de el cual poder ser de origen peninsular consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "policía_nacional haber recuperar robar oficina bancario telde gran_canaria detener suponer autor atraco piso refugiar confirmar concejal seguridad_del_municipio juan_martel dinero tener atracadore segundo refugiar piso tratar eludir persecución policía propio municipio telde agente encargar caso localizar zona residencial marpequeña detener previamente 3 presunto autor atraco presumir conducir vehículo huir lugar suceso robo ser sucursal banco_santander ubicar calle guayasent barrio el_calero irrumpir atracador local hora cierre encapuchar armar iniciar pesquisa localizar ladrón producir detención suponer conductor hora pasar local presunto cómplice informar fuente próximo investigación caso detallar detención llevar_a_cabo agente policía_nacional haber solicitar autorización judicial preceptivo entrar piso refugiar interior lograr encontrar merced registro dinero sustraer oficina bancario fuente consultar haber poder ofrecer momento dato preciso identidad característica autor atraco concejal martel apuntar vecino zona marpequeña residir ser hombre relativamente joven poder ser origen peninsular consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Juan_Martel",
+            "Martel",
+            "Marpequeña"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria",
+            "Telde",
+            "Marpequeña",
+            "Guayasent",
+            "El_Calero"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Banco_Santander",
+            "Policía_Nacional",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Seguridad_del_Municipio"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:24",
+            "2",
+            "TM_h:14",
+            "TM_h:18",
+            "2"
+        ]
+    }
+}

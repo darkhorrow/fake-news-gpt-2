@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/652788/0/",
+    "title": {
+        "raw_text": "Incautados 1.110 kilos de hachís con destino a Gran Canaria con un valor en el mercado de 1,5 millones",
+        "lemmatized_text": "incautar 1.11 kilo de hachís con destino a gran_canaria con uno valor en el mercado de 1,5 millón",
+        "lemmatized_text_reduced": "incautar kilo hachís destino gran_canaria valor mercado millón",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1.11",
+            "1,5"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil ha incautado un total de 1.110 kilos de hachís con destino a la isla de Gran Canaria, cuyo valor económico podría haber alcanzado en el mercado aproximadamente 1.534.020 euros.",
+        "lemmatized_text": "el guardia_civil haber incautar uno total de 1.11 kilo de hachís con destino a el isla de gran_canaria cuyo valor económico poder haber alcanzar en el mercado aproximadamente $_ECU:1.534.020",
+        "lemmatized_text_reduced": "guardia_civil haber incautar total kilo hachís destino isla gran_canaria valor económico poder haber alcanzar mercado aproximadamente",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1.11",
+            "$_ECU:1.534.020"
+        ]
+    },
+    "body": {
+        "raw_text": "La actuación se llevó a cabo en la madrugada del día de hoy, cuando componentes de la Patrullera del Servicio Marítimo de la Guardia Civil, en un dispositivo de vigilancia conjunto con la Dirección Adjunta de Vigilancia Aduanera (DAVA), detectaron, por medio de cámara térmica y a una milla aproximadamente de la playa de Jinámar, al sureste de la isla, una embarcación tipo zodiac. En la misma viajaban dos personas, identificadas como A.N. y A.E.H., quienes transportaban 37 fardos de hachís, que rondaban un peso total de unos 1.110 kilogramos aproximadamente, según informa la Benemérita en un comunicado. Los dos varones, súbditos de origen marroquí, fueron detenidos por un presunto delito contra la salud pública (tráfico de drogas). La droga podría haber alcanzado un valor económico en el mercado de unos 1.534.020 euros. Diligencias, detenidos y géneros aprehendidos pasarán a disposición del juzgado de guardia de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el actuación se llevar_a_cabo en el madrugada de el día de hoy cuando componente de el patrullera_del_servicio_marítimo_de_la_guardia_civil en uno dispositivo de vigilancia conjunto con el dirección_adjunta_de_vigilancia_aduanera dava detectar por_medio_de cámara térmico y a uno milla aproximadamente de el playa de jinámar a el sureste de el isla uno embarcación tipo zodiac en el mismo viajar 2 persona identificar como a.n. y a.e.h. quien transportar 37 fardo de hachís que rondar uno peso total de uno WG_kg:1.11 aproximadamente según informar el benemérita en uno comunicado el 2 varón súbdito de origen marroquí ser detener por uno presunto delito contra el salud público tráfico de droga el droga poder haber alcanzar uno valor económico en el mercado de uno $_ECU:1.534.020 diligencia detenido y género aprehender pasar a disposición de el juzgado de guardia de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "actuación llevar_a_cabo madrugada día componente patrullera_del_servicio_marítimo_de_la_guardia_civil dispositivo vigilancia conjunto dirección_adjunta_de_vigilancia_aduanera dava detectar cámara térmico milla aproximadamente playa jinámar sureste isla embarcación tipo zodiac mismo viajar persona identificar a.n. a.e.h. transportar fardo hachís rondar peso total aproximadamente informar benemérita comunicado varón súbdito origen marroquí ser detener presunto delito salud público tráfico droga droga poder haber alcanzar valor económico mercado diligencia detenido género aprehender pasar disposición juzgado guardia las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Patrullera_del_Servicio_Marítimo_de_la_Guardia_Civil",
+            "Dirección_Adjunta_de_Vigilancia_Aduanera",
+            "DAVA",
+            "A.N.",
+            "A.E.H.",
+            "Benemérita"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "37",
+            "WG_kg:1.11",
+            "2",
+            "$_ECU:1.534.020"
+        ]
+    }
+}

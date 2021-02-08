@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-10-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/534258/0/cae/red/speed/",
+    "title": {
+        "raw_text": "La Policía desarticula un grupo dedicado al tráfico de 'speed' en Gran Canaria",
+        "lemmatized_text": "el policía desarticular uno grupo dedicar a el tráfico de speed en gran_canaria",
+        "lemmatized_text_reduced": "policía desarticular grupo dedicar tráfico speed gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Han sido detenidas cuatro personas. El grupo ha sido desarticulado en la localidad de Vecindario. Se intervinieron 244 gramos de hachís y 860 euros.",
+        "lemmatized_text": "haber ser detener 4 persona el grupo haber ser desarticular en el localidad de vecindario se intervenir WG_g:244 de hachís y $_ECU:860",
+        "lemmatized_text_reduced": "haber ser detener persona grupo haber ser desarticular localidad vecindario intervenir hachís",
+        "persons": [],
+        "locations": [
+            "Vecindario"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4",
+            "WG_g:244",
+            "$_ECU:860"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional ha detenido a cuatro personas y ha desarticulado un grupo dedicado al tráfico de speed en la localidad de Vecindario (Gran Canaria). En la operación, en la que se realizaron tres registros domiciliarios, se intervinieron más de dos kilos de sulfato de anfetamina, 244 gramos de hachís y 860 euros, informó la Policía Nacional este lunes en un comunicado. Se tuvo conocimiento de que los integrantes del grupo iban a recibir un envío La investigación comenzó a raíz de informaciones que apuntaban a la existencia de un grupo organizado que se dedicaba a la distribución de diversas sustancias estupefacientes y psicotrópicas en el sur de la isla de Gran Canaria. Fruto de las pesquisas policiales se tuvo conocimiento de que los integrantes del grupo iban a recibir un envío de la droga sintética. Los agentes establecieron un dispositivo policial para proceder a la detención de los implicados y a la intervención del speed . La operación fue realizada por agentes del GRECO pertenecientes a la UDYCO Central de la Comisaría general de Policía Judicial.",
+        "lemmatized_text": "el policía_nacional haber detener a 4 persona y haber desarticular uno grupo dedicar a el tráfico de speed en el localidad de vecindario gran_canaria en el operación en el que se realizar 3 registro domiciliario se intervenir más de 2 kilo de sulfato de anfetamina WG_g:244 de hachís y $_ECU:860 informar el policía_nacional este [L:??/??/??:??.??:??] en uno comunicado se tener conocimiento de que el integrante de el grupo ir a recibir uno envío la investigación comenzar a_raíz_de información que apuntar a el existencia de uno grupo organizar que se dedicar a el distribución de diverso sustancia estupefaciente y psicotrópico en el sur de el isla de gran_canaria fruto de el pesquisa policial se tener conocimiento de que el integrante de el grupo ir a recibir uno envío de el droga sintético el agente establecer uno dispositivo policial para proceder a el detención de el implicar y a el intervención de el speed el operación ser realizar por agente de el greco perteneciente a el udyco_central_de_la_comisaría general de policía_judicial",
+        "lemmatized_text_reduced": "policía_nacional haber detener persona haber desarticular grupo dedicar tráfico speed localidad vecindario gran_canaria operación realizar registro domiciliario intervenir kilo sulfato anfetamina hachís informar policía_nacional comunicado tener conocimiento integrante grupo ir recibir envío la investigación comenzar información apuntar existencia grupo organizar dedicar distribución sustancia estupefaciente psicotrópico sur isla gran_canaria fruto pesquisa policial tener conocimiento integrante grupo ir recibir envío droga sintético agente establecer dispositivo policial proceder detención implicar intervención speed operación ser realizar agente greco perteneciente udyco_central_de_la_comisaría general policía_judicial",
+        "persons": [
+            "Fruto"
+        ],
+        "locations": [
+            "Vecindario",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Policía_Nacional",
+            "GRECO",
+            "UDYCO_Central_de_la_Comisaría",
+            "Policía_Judicial"
+        ],
+        "others": [
+            "La"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "4",
+            "3",
+            "2",
+            "WG_g:244",
+            "$_ECU:860"
+        ]
+    }
+}

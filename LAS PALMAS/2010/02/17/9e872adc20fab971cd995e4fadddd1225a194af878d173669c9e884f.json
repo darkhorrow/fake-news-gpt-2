@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/631340/0/",
+    "title": {
+        "raw_text": "Un bombero grancanario desplazado a Haití avisa que la tragedia se podría repetir en época de lluvias y huracanes",
+        "lemmatized_text": "uno bombero grancanario desplazar a haití avisar que el tragedia se poder repetir en época de lluvia y huracán",
+        "lemmatized_text_reduced": "bombero grancanario desplazar haití avisar tragedia poder repetir época lluvia huracán",
+        "persons": [],
+        "locations": [
+            "Haití"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El bombero Levi Sem González, natural de Gran Canaria y de 28 años de edad, perteneciente al Consorcio de Emergencias de Gran Canaria y que regresó hoy de Haití tras el terremoto ocurrido el pasado mes de enero, donde ha estado cooperando con la ONGD española 'Bomberos en Acción', ha avisado de que la tragedia se podría repetir en la época de lluvias y huracanes, informó hoy la asociación 'Bomberos de Canarias' en un comunicado.",
+        "lemmatized_text": "el bombero levi_sem_gonzález natural de gran_canaria y de 28 año de edad perteneciente a el consorcio_de_emergencias_de_gran_canaria y que regresar hoy de haití tras el terremoto ocurrir el [??:??/1/??:??.??:??] donde haber estar cooperar con el ongd español bombero en acción haber avisar de que el tragedia se poder repetir en el época de lluvia y huracán informar hoy el asociación bomberos_de_canarias en uno comunicado",
+        "lemmatized_text_reduced": "bombero levi_sem_gonzález natural gran_canaria año edad perteneciente consorcio_de_emergencias_de_gran_canaria regresar haití terremoto ocurrir haber estar cooperar ongd español bombero acción haber avisar tragedia poder repetir época lluvia huracán informar asociación bomberos_de_canarias comunicado",
+        "persons": [
+            "Levi_Sem_González"
+        ],
+        "locations": [
+            "Haití",
+            "Acción"
+        ],
+        "organizations": [
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "ONGD",
+            "Bomberos_de_Canarias"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "28"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, el grupo desplazado, compuesto en total por diez personas —seis bomberos especializados en emergencias y rescate, dos enfermeros, y dos médicos—, ha colaborado ofreciendo ayuda sanitaria en un campo de refugiados de aproximadamente 600 personas en el pueblo de Leogane, donde hasta la fecha no había llegado ningún tipo de ayuda. \"Nuestro compañeros sanitarios ofrecen asistencia médica, mientras que nosotros nos encargamos de las tareas de potabilización de agua, y de hacer todo aquello que se nos solicita a través de las numerosas peticiones de ayuda que nos llegan\", declaró Levi Sem. Para este fin, cuentan con una planta potabilizadora \"que es capaz de depurar durante 12 horas seguidas hasta 40.000 litros por lo que los problemas de abastecimiento de momento quedan resueltos\". Según la OMS la cantidad necesaria en situación de catástrofe es de 15 litros por persona \"aunque se reduce ese consumo a 5 litros, que se consideran suficientes, ya que así se puede llegar hasta 8.000 personas al día\". Asimismo, se está estudiando la posibilidad de realizar un proyecto para construir refugios para las miles de familias que se encuentran en la calle sin cobijo, para lo cual se está buscando financiación, \"ya que se aproxima el tiempo de lluvias y más tarde el de los huracanes, con una alta probabilidad de que se esta tragedia se vuelva a repetir\", concluyó el bombero grancanario.",
+        "lemmatized_text": "de este manera el grupo desplazar componer en total por 10 persona 6 bombero especializar en emergencia y rescate 2 enfermero y 2 médico haber colaborar ofrecer ayuda sanitario en uno campo de refugiado de aproximadamente 600 persona en el pueblo de leogane donde hasta el fecha no haber llegar ninguno tipo de ayuda nuestro compañero sanitario ofrecer asistencia médico mientras_que nosotros nos encargar de el tarea de potabilización de agua y de hacer todo aquel que se nos solicitar a_través_de el numeroso petición de ayuda que nos llegar declarar levi_sem para este fin contar con uno planta potabilizadora que ser capaz de depurar durante TM_h:12 seguir hasta VL_l:40 por el que el problema de abastecimiento de momento quedar resolver según el oms el cantidad necesario en situación de catástrofe ser de VL_l:15 por persona aunque se reducir ese consumo a VL_l:5 que se considerar suficiente ya_que así se poder llegar hasta 8 persona a el día asimismo se estar estudiar el posibilidad de realizar uno proyecto para construir refugio para el mil de familia que se encontrar en el calle sin cobijo para el cual se estar buscar financiación ya_que se aproximar el tiempo de lluvia y más tarde el de el huracán con uno alto probabilidad de que se este tragedia se volver a repetir concluir el bombero grancanario",
+        "lemmatized_text_reduced": "manera grupo desplazar componer total persona bombero especializar emergencia rescate enfermero médico haber colaborar ofrecer ayuda sanitario campo refugiado aproximadamente persona pueblo leogane fecha haber llegar tipo ayuda compañero sanitario ofrecer asistencia médico encargar tarea potabilización agua hacer solicitar numeroso petición ayuda llegar declarar levi_sem fin contar planta potabilizadora ser capaz depurar seguir problema abastecimiento momento quedar resolver oms cantidad necesario situación catástrofe ser persona reducir consumo considerar suficiente poder llegar persona día estar estudiar posibilidad realizar proyecto construir refugio mil familia encontrar calle cobijo estar buscar financiación aproximar tiempo lluvia huracán alto probabilidad tragedia volver repetir concluir bombero grancanario",
+        "persons": [
+            "Levi_Sem"
+        ],
+        "locations": [
+            "Leogane"
+        ],
+        "organizations": [
+            "OMS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "10",
+            "6",
+            "2",
+            "2",
+            "600",
+            "TM_h:12",
+            "VL_l:40",
+            "VL_l:15",
+            "VL_l:5",
+            "8"
+        ]
+    }
+}

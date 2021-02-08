@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/627138/0/",
+    "title": {
+        "raw_text": "Detenida una empleada de un hotel de Maspalomas (Gran Canaria) por robar en las habitaciones",
+        "lemmatized_text": "detener uno empleado de uno hotel de maspalomas gran_canaria por robar en el habitación",
+        "lemmatized_text_reduced": "detener empleado hotel maspalomas gran_canaria robar habitación",
+        "persons": [
+            "Maspalomas"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes del Cuerpo Nacional de Policía han procedido a la detención de una mujer, que desempeñaba funciones de limpiadora de un conocido hotel de Maspalomas, en Gran Canaria, como presunta autora de diversos robos en las habitaciones del mismo, informó hoy la Jefatura Superior de Policía de Canarias en un comunicado.",
+        "lemmatized_text": "agentes_del_cuerpo_nacional_de_policía haber proceder a el detención de uno mujer que desempeñar función de limpiador de uno conocer hotel de maspalomas en gran_canaria como presunto autor de diverso robo en el habitación de el mismo informar hoy el jefatura_superior_de_policía_de_canarias en uno comunicado",
+        "lemmatized_text_reduced": "agentes_del_cuerpo_nacional_de_policía haber proceder detención mujer desempeñar función limpiador conocer hotel maspalomas gran_canaria presunto autor robo habitación informar jefatura_superior_de_policía_de_canarias comunicado",
+        "persons": [],
+        "locations": [
+            "Maspalomas",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Agentes_del_Cuerpo_Nacional_de_Policía",
+            "Jefatura_Superior_de_Policía_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, la detención se produjo tras una investigación llevada a cabo desde el pasado mes de diciembre, al tener conocimiento de una serie de robos ocurridos en el citado complejo, dándose la circunstancia que en varios de estos robos, las victimas se percataban días después de que les habían cambiado el dinero de sus carteras por fotocopias en color de billetes de 50 euros, no habiéndose percatado antes porque \"el grosor de la cartera era el mismo\". La investigación de los agentes adscritos al Grupo de Delincuencia Urbana de la Comisaría de Maspalomas, llevó al conocimiento de que la presunta autora se valía de su condición de trabajadora para acceder a las diferentes habitaciones sin levantar sospecha alguna, dificultando así su implicación en los hechos durante estos dos últimos meses. Así, tras realizar el trabajo asignado, sustraía los efectos que estaban a su alcance, no dudando en registrar las pertenencias de los inquilinos de las habitaciones en busca de las llaves de la caja fuerte, procediendo a abrir las mismas en caso de encontrarlas. Las mismas gestiones permitieron esclarecer hasta un total de diez robos ocurridos en el interior de las habitaciones, desde que empezó a trabajar en el hotel a finales del mes de noviembre del pasado año, los cuales seguían los mismos patrones de actuación, es decir, horario en el que se procedía a la limpieza de las habitaciones y sin forzamiento alguno para acceder a los mismos. Finalmente, la detenida, N. L. M., de 20 años, residente en la isla y con una detención anterior, junto con las diligencias instruidas, fue puesta a disposición de la Autoridad Judicial.",
+        "lemmatized_text": "de este manera el detención se producir tras uno investigación llevar_a_cabo desde el [??:??/12/??:??.??:??] a el tener conocimiento de uno serie de robo ocurrir en el citar complejo dar se el circunstancia que en varios de este robo lo victimar se percatar día después_de que le haber cambiar el dinero de su cartera por fotocopia en color de billete de $_ECU:50 no haber se percatar antes porque el grosor de el cartera ser el mismo el investigación de el agente adscribir a el grupo_de_delincuencia_urbana_de_la_comisaría_de_maspalomas llevar a el conocimiento de que el presunto autor se valer de su condición de trabajador para acceder a el diferente habitación sin levantar sospechar alguno dificultar así su implicación en el hecho durante este 2 último mes así tras realizar el trabajo asignar sustraer el efecto que estar a su alcance no dudar en registrar el pertenencia de el inquilino de el habitación en_busca_de el llave de el caja fuerte proceder a abrir el mismo en_caso_de encontrar lo el mismo gestión permitir esclarecer hasta uno total de 10 robo ocurrir en_el_interior_de el habitación desde que empezar a trabajar en el hotel a final de el [??:??/11/??:??.??:??] de el pasar año el cual seguir el mismo patrón de actuación ser decir horario en el que se proceder a el limpieza de el habitación y sin forzamiento alguno para acceder a el mismo finalmente el detener n._l._m. de 20 año residente en el isla y con uno detención anterior junto_con el diligencia instruir ser poner a disposición de el autoridad_judicial",
+        "lemmatized_text_reduced": "manera detención producir investigación llevar_a_cabo tener conocimiento serie robo ocurrir citar complejo dar circunstancia robo victimar percatar día haber cambiar dinero cartera fotocopia color billete haber percatar grosor cartera ser mismo investigación agente adscribir grupo_de_delincuencia_urbana_de_la_comisaría_de_maspalomas llevar conocimiento presunto autor valer condición trabajador acceder diferente habitación levantar sospechar dificultar implicación hecho último mes realizar trabajo asignar sustraer efecto estar alcance dudar registrar pertenencia inquilino habitación llave caja fuerte proceder abrir mismo encontrar mismo gestión permitir esclarecer total robo ocurrir habitación empezar trabajar hotel final pasar año seguir mismo patrón actuación ser decir horario proceder limpieza habitación forzamiento acceder finalmente detener n._l._m. año residente isla detención anterior diligencia instruir ser poner disposición autoridad_judicial",
+        "persons": [
+            "N._L._M."
+        ],
+        "locations": [],
+        "organizations": [
+            "Grupo_de_Delincuencia_Urbana_de_la_Comisaría_de_Maspalomas",
+            "Autoridad_Judicial"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/12/??:??.??:??]",
+            "[??:??/11/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:50",
+            "2",
+            "10",
+            "20"
+        ]
+    }
+}

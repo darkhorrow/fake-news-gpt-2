@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/609174/0/",
+    "title": {
+        "raw_text": "Un parapentista resulta herido tras sufrir una caída en Yaiza (Lanzarote)",
+        "lemmatized_text": "uno parapentista resultar herir tras sufrir uno caída en yaiza lanzarote",
+        "lemmatized_text_reduced": "parapentista resultar herir sufrir caída yaiza lanzarote",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un parapentista de 40 años ha resultado herido de carácter menos grave tras sufrir una caída sobre las 14.24 horas en la zona de La Montañeta, dentro del término municipal de Yaiza, en Lanzarote, informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno parapentista de 40 año haber resultar herir de carácter menos grave tras sufrir uno caída sobre el TM_h:14.24 en_la_zona_de la_montañeta dentro de el término municipal de yaiza en lanzarote informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "parapentista año haber resultar herir carácter grave sufrir caída la_montañeta término municipal yaiza lanzarote informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "La_Montañeta",
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "40",
+            "TM_h:14.24",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, se recibió una llamada a la hora indicada informando de que un parapentista había sufrido una caída y que precisaba de atención médica. En ese momento, el 112 activó su dispositivo de urgencias y trasladó al lugar una ambulancia de soporte vital básico y otra de soporte vital avanzado del Servicio de Urgencias Canario (SUC). Al llegar, los médicos atendieron a un varón de 40 años que presentaba traumatismo en espalda de carácter menos grave, por lo que tuvo que ser trasladado en ambulancia de soporte vital avanzado del SUC al Hospital Doctor José Molina Orosa. Por su parte, agentes de la Guardia Civil y de la Policía Local, que también acudieron al lugar, instruyeron las diligencias correspondientes y colaboraron con el resto de los recursos de emergencia.",
+        "lemmatized_text": "de este manera se recibir uno llamada a el hora indicar informar de que uno parapentista haber sufrir uno caída y que precisar de atención médico en ese momento el 112 activar su dispositivo de urgencia y trasladar a el lugar uno ambulancia de soporte vital básico y otro de soporte vital avanzar de el servicio_de_urgencias_canario suc a el llegar el médico atender a uno varón de 40 año que presentar traumatismo en espalda de carácter menos grave por el que tener que ser trasladar en ambulancia de soporte vital avanzar de el suc a el hospital_doctor_josé_molina_orosa por su parte agente de el guardia_civil y de el policía_local que también acudir a el lugar instruir el diligencia correspondiente y colaborar con el resto de el recurso de emergencia",
+        "lemmatized_text_reduced": "manera recibir llamada hora indicar informar parapentista haber sufrir caída precisar atención médico momento activar dispositivo urgencia trasladar lugar ambulancia soporte vital básico soporte vital avanzar servicio_de_urgencias_canario suc llegar médico atender varón año presentar traumatismo espalda carácter grave tener ser trasladar ambulancia soporte vital avanzar suc hospital_doctor_josé_molina_orosa parte agente guardia_civil policía_local acudir lugar instruir diligencia correspondiente colaborar resto recurso emergencia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Doctor_José_Molina_Orosa",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "40"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594375/0/",
+    "title": {
+        "raw_text": "Un avión de Spanair con dirección a Gran Canaria aterriza de emergencia en Sevilla sin incidencias",
+        "lemmatized_text": "uno avión de spanair con dirección_a gran_canaria aterrizar de emergencia en sevilla sin incidencia",
+        "lemmatized_text_reduced": "avión spanair gran_canaria aterrizar emergencia sevilla incidencia",
+        "persons": [],
+        "locations": [
+            "Sevilla"
+        ],
+        "organizations": [
+            "Spanair",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un avión de la compañía aérea Spanair que realizaba la ruta Madrid-Gran Canaria aterrizó de emergencia esta madrugada sobre las 02.00 horas en el aeropuerto de San Pablo sin incidencias.",
+        "lemmatized_text": "uno avión de el compañía aéreo spanair que realizar el ruta madrid-gran_canaria aterrizar de emergencia este madrugada sobre el TM_h:2 en el aeropuerto de san_pablo sin incidencia",
+        "lemmatized_text_reduced": "avión compañía aéreo spanair realizar ruta madrid-gran_canaria aterrizar emergencia madrugada aeropuerto san_pablo incidencia",
+        "persons": [],
+        "locations": [
+            "San_Pablo"
+        ],
+        "organizations": [
+            "Spanair"
+        ],
+        "others": [
+            "Madrid-Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:2"
+        ]
+    },
+    "body": {
+        "raw_text": "Fuentes de Aeropuertos Españoles y Navegación Aérea (AENA) explicaron a Europa Press que el aterrizaje se debió a problemas en el avión, en el que viajaban 185 viajeros. Según indicaron las mismas fuentes, el aeropuerto de Sevilla estableció una alerta local \"por si había que hacer algo\", sin embargo \"el aterrizaje se produjo con normalidad y el desembarque de los viajeros también\". Por último, apuntaron que los 185 viajeros pasaron la noche en la terminal hispalense, donde AENA les suministró bebidas como agua, zumo y batidos, hasta que alrededor de las 09.00 horas embarcaron en otro vuelo en dirección al aeropuerto de Gran Canaria.",
+        "lemmatized_text": "fuentes_de_aeropuertos_españoles y navegación_aérea aena explicar a europa_press que el aterrizaje se deber a problema en el avión en el que viajar 185 viajero según indicar el mismo fuente el aeropuerto de sevilla establecer uno alerta local por si haber que hacer algo sin embargo el aterrizaje se producir con normalidad y el desembarque de el viajero también por último apuntar que el 185 viajero pasar el noche en el terminal hispalense donde aena le suministrar bebida como agua zumo y batido hasta que alrededor_de el TM_h:9 embarcar en otro vuelo en dirección a el aeropuerto de gran_canaria",
+        "lemmatized_text_reduced": "fuentes_de_aeropuertos_españoles navegación_aérea aena explicar europa_press aterrizaje deber problema avión viajar viajero indicar mismo fuente aeropuerto sevilla establecer alerta local haber hacer embargo aterrizaje producir normalidad desembarque viajero último apuntar viajero pasar noche terminal hispalense aena suministrar bebida agua zumo batido embarcar vuelo dirección aeropuerto gran_canaria",
+        "persons": [
+            "Fuentes_de_Aeropuertos_Españoles",
+            "Navegación_Aérea",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Sevilla",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "AENA",
+            "AENA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "185",
+            "185",
+            "TM_h:9"
+        ]
+    }
+}

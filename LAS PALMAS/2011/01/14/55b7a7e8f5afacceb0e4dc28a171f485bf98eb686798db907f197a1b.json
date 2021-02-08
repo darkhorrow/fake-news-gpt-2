@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/928919/0/",
+    "title": {
+        "raw_text": "Un ciclista herido menos grave tras colisionar con un turismo en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno ciclista herir menos grave tras colisionar con uno turismo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "ciclista herir grave colisionar turismo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un ciclista ha resultado herido de carácter menos grave tras colisionar con un turismo en Las Palmas de Gran Canaria este viernes, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno ciclista haber resultar herir de carácter menos grave tras colisionar con uno turismo en las_palmas_de_gran_canaria este [V:??/??/??:??.??:??] según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "ciclista haber resultar herir carácter grave colisionar turismo las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Un ciclista ha resultado herido de carácter menos grave tras colisionar con un turismo en Las Palmas de Gran Canaria este viernes, según informó el Centro Coordinador de Emergencias y Seguridad 112. El herido, de 22 años de edad, sufrió traumatismo craneoncefálico y cortes de carácter menos grave, por lo que tuvo que ser evacuado por el Servicio de Urgencias Canario (SUC) al Hospital Dr. Negrín de Gran Canaria. Hasta el lugar del suceso, en la calle Arístedes Brian de la capital grancanaria, también se trasladaron agentes de la Policía Local.",
+        "lemmatized_text": "uno ciclista haber resultar herir de carácter menos grave tras colisionar con uno turismo en las_palmas_de_gran_canaria este [V:??/??/??:??.??:??] según informar el centro_coordinador_de_emergencias y seguridad 112 el herir de 22 año de edad sufrir traumatismo craneoncefálico y corte de carácter menos grave por el que tener que ser evacuar por el servicio_de_urgencias_canario suc a el hospital_dr._negrín_de_gran_canaria hasta el lugar de el suceso en el calle arístedes_brian de el capital grancanaria también se trasladar agente de el policía_local",
+        "lemmatized_text_reduced": "ciclista haber resultar herir carácter grave colisionar turismo las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad herir año edad sufrir traumatismo craneoncefálico corte carácter grave tener ser evacuar servicio_de_urgencias_canario suc hospital_dr._negrín_de_gran_canaria lugar suceso calle arístedes_brian capital grancanaria trasladar agente policía_local",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Arístedes_Brian"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Dr._Negrín_de_Gran_Canaria",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "22"
+        ]
+    }
+}

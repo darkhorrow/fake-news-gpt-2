@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/950278/0/",
+    "title": {
+        "raw_text": "López Aguilar asegura que no hay constancia de que el Gobierno de Venezuela haya declarado persona 'non grata' a Rivero",
+        "lemmatized_text": "lópez_aguilar asegurar que no haber constancia de que el gobierno_de_venezuela haber declarar persona non grato a rivero",
+        "lemmatized_text_reduced": "lópez_aguilar asegurar haber constancia gobierno_de_venezuela haber declarar persona non grato rivero",
+        "persons": [
+            "López_Aguilar",
+            "Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Venezuela"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente de la Delegación Socialista Española en el Parlamento Europeo, Juan Fernando López Aguilar, ha asegurado este viernes que no tienen constancia de que el Gobierno de Venezuela haya declarado persona 'non grata' al jefe del Ejecutivo canario, Paulino Rivero.",
+        "lemmatized_text": "el presidente de el delegación_socialista_española en el parlamento_europeo juan_fernando_lópez_aguilar haber asegurar este [V:??/??/??:??.??:??] que no tener constancia de que el gobierno_de_venezuela haber declarar persona non grato a el jefe de el ejecutivo canario paulino_rivero",
+        "lemmatized_text_reduced": "presidente delegación_socialista_española parlamento_europeo juan_fernando_lópez_aguilar haber asegurar tener constancia gobierno_de_venezuela haber declarar persona non grato jefe ejecutivo canario paulino_rivero",
+        "persons": [
+            "Juan_Fernando_López_Aguilar",
+            "Paulino_Rivero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Delegación_Socialista_Española",
+            "Parlamento_Europeo",
+            "Gobierno_de_Venezuela",
+            "Ejecutivo"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El presidente de la Delegación Socialista Española en el Parlamento Europeo, Juan Fernando López Aguilar, ha asegurado este viernes que no tienen constancia de que el Gobierno de Venezuela haya declarado persona 'non grata' al jefe del Ejecutivo canario, Paulino Rivero. \"No tenemos constancia de que el Gobierno de Venezuela haya adoptada esa decisión. Sólo me constan las declaraciones que le he escuchado a Paulino Rivero\", afirmó en rueda de prensa. De todos modos, en relación con las declaraciones de uno de los representantes del Gobierno de Hugo Chávez en Venezuela, López Aguilar consideró que Rivero \"no tiene ninguna credibilidad para afirmar que no consentirá atropellos a los canarios\", ya que el Gobierno que lidera, dijo, \"viene atropellando a los canarios mucho tiempo\".",
+        "lemmatized_text": "el presidente de el delegación_socialista_española en el parlamento_europeo juan_fernando_lópez_aguilar haber asegurar este [V:??/??/??:??.??:??] que no tener constancia de que el gobierno_de_venezuela haber declarar persona non grato a el jefe de el ejecutivo canario paulino_rivero no tener constancia de que el gobierno_de_venezuela haber adoptar ese decisión sólo me constar el declaración que le haber escuchar a paulino_rivero afirmar en rueda de prensa de_todos_modos en relación con el declaración de uno de el representante de el gobierno_de_hugo_chávez en venezuela lópez_aguilar considerar que rivero no tener ninguno credibilidad para afirmar que no consentir atropello a el canario ya_que el gobierno que liderar decir venir atropellar a el canario mucho tiempo",
+        "lemmatized_text_reduced": "presidente delegación_socialista_española parlamento_europeo juan_fernando_lópez_aguilar haber asegurar tener constancia gobierno_de_venezuela haber declarar persona non grato jefe ejecutivo canario paulino_rivero tener constancia gobierno_de_venezuela haber adoptar decisión constar declaración haber escuchar paulino_rivero afirmar rueda prensa relación declaración representante gobierno_de_hugo_chávez venezuela lópez_aguilar considerar rivero tener credibilidad afirmar consentir atropello canario gobierno liderar decir venir atropellar canario tiempo",
+        "persons": [
+            "Juan_Fernando_López_Aguilar",
+            "Paulino_Rivero",
+            "Paulino_Rivero",
+            "López_Aguilar",
+            "Rivero"
+        ],
+        "locations": [
+            "Venezuela"
+        ],
+        "organizations": [
+            "Delegación_Socialista_Española",
+            "Parlamento_Europeo",
+            "Gobierno_de_Venezuela",
+            "Ejecutivo",
+            "Gobierno_de_Venezuela",
+            "Gobierno_de_Hugo_Chávez",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

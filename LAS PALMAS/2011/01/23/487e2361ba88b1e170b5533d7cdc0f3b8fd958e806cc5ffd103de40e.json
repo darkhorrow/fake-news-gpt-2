@@ -1,0 +1,52 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/937034/0/",
+    "title": {
+        "raw_text": "Los ciudadanos canarios podrán tramitar peticiones de servicios sociales a través de una ventanilla única",
+        "lemmatized_text": "el ciudadano canario poder tramitar petición de servicio social a_través_de uno ventanilla único",
+        "lemmatized_text_reduced": "ciudadano canario poder tramitar petición servicio social ventanilla único",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los ciudadanos canarios podrán tramitar peticiones de servicios sociales y hacer un seguimiento de sus expedientes personales desde su casa a través de una ventanilla única virtual.",
+        "lemmatized_text": "el ciudadano canario poder tramitar petición de servicio social y hacer uno seguimiento de su expediente personal desde su casa a_través_de uno ventanilla único virtual",
+        "lemmatized_text_reduced": "ciudadano canario poder tramitar petición servicio social hacer seguimiento expediente personal casa ventanilla único virtual",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Los ciudadanos canarios podrán tramitar peticiones de servicios sociales y hacer un seguimiento de sus expedientes personales desde su casa a través de una ventanilla única virtual. Este sistema será presentado el próximo lunes por la consejera de Bienestar Social, Juventud y Vivienda del Gobierno de Canarias, Inés Rojas, y el secretario general técnico de dicho departamento, Francisco Hernández Padilla, según informó el Ejecutivo regional en nota de prensa. Respecto a la ventanilla única virtual constará de cuatro ejes principales, tales como son las oficinas de atención especializada, la sede electrónica, el 012 y la ficha social.",
+        "lemmatized_text": "el ciudadano canario poder tramitar petición de servicio social y hacer uno seguimiento de su expediente personal desde su casa a_través_de uno ventanilla único virtual este sistema ser presentar el [L:??/??/??:??.??:??] por el consejero de bienestar_social juventud y vivienda_del_gobierno_de_canarias inés_rojas y el secretario general técnico de decir departamento francisco_hernández_padilla según informar el ejecutivo regional en nota de prensa respecto_a el ventanilla único virtual constar de 4 eje principal tal como ser el oficina de atención especializar el sede electrónico el 12 y el ficha social",
+        "lemmatized_text_reduced": "ciudadano canario poder tramitar petición servicio social hacer seguimiento expediente personal casa ventanilla único virtual sistema ser presentar consejero bienestar_social juventud vivienda_del_gobierno_de_canarias inés_rojas secretario general técnico decir departamento francisco_hernández_padilla informar ejecutivo regional nota prensa ventanilla único virtual constar eje principal ser oficina atención especializar sede electrónico ficha social",
+        "persons": [
+            "Inés_Rojas",
+            "Francisco_Hernández_Padilla"
+        ],
+        "locations": [],
+        "organizations": [
+            "Vivienda_del_Gobierno_de_Canarias",
+            "Ejecutivo"
+        ],
+        "others": [
+            "Bienestar_Social",
+            "Juventud"
+        ],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "4",
+            "12"
+        ]
+    }
+}

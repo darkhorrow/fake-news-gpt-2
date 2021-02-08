@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614535/0/",
+    "title": {
+        "raw_text": "Un total de 27 candidatos asistirán a la preselección de gala de Drag Queen del Carnaval de Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno total de 27 candidato asistir a el preselección de gala de drag_queen_del_carnaval_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "total candidato asistir preselección gala drag_queen_del_carnaval_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Drag_Queen_del_Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "27"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de 27 candidatos asistirán, el próximo 10 de febrero al parque Santa Catalina, a la preselección para participar en la gala de Drag Queen del Carnaval de Las Palmas de Gran Canarias.",
+        "lemmatized_text": "uno total de 27 candidato asistir el [??:10/2/??:??.??:??] a el parque santa_catalina a el preselección para participar en el gala de drag_queen_del_carnaval_de_las_palmas_de_gran_canarias",
+        "lemmatized_text_reduced": "total candidato asistir parque santa_catalina preselección participar gala drag_queen_del_carnaval_de_las_palmas_de_gran_canarias",
+        "persons": [],
+        "locations": [
+            "Santa_Catalina",
+            "Drag_Queen_del_Carnaval_de_Las_Palmas_de_Gran_Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[??:10/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "27"
+        ]
+    },
+    "body": {
+        "raw_text": "La gala Drag Queen del Carnaval de la capital grancanaria se celebrará un día después, el 12 de febrero, día en el que subirán al escenario de las fiestas los drags seleccionados previamente, según informó el Ayuntamiento de Las Palmas de Gran Canaria en nota de prensa. Además, por segundo año consecutivo, esta preselección se celebrará con acceso al público. Las entradas estará al precio único de 5 euros y se pondrán a la venta el miércoles 3 de febrero, a partir de las 10.00 horas.",
+        "lemmatized_text": "el gala drag_queen_del_carnaval de el capital grancanaria se celebrar uno día después el [??:12/2/??:??.??:??] día en el que subir a el escenario de el fiesta el drags seleccionar previamente según informar el ayuntamiento_de_las_palmas_de_gran_canaria en nota de prensa además por_segundo_año_consecutivo este preselección se celebrar con acceso a el público el entrada estar a el precio único de $_ECU:5 y se poner a el venta el [X:3/2/??:??.??:??] a_partir_de el TM_h:10",
+        "lemmatized_text_reduced": "gala drag_queen_del_carnaval capital grancanaria celebrar día día subir escenario fiesta drags seleccionar previamente informar ayuntamiento_de_las_palmas_de_gran_canaria nota prensa preselección celebrar acceso público entrada estar precio único poner venta",
+        "persons": [
+            "Drag_Queen_del_Carnaval"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:12/2/??:??.??:??]",
+            "[X:3/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:5",
+            "TM_h:10"
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/618577/0/",
+    "title": {
+        "raw_text": "Un hombre herido grave al volcar su barca en Gran Canaria en la que se prevé iba otra persona que se busca",
+        "lemmatized_text": "uno hombre herir grave a el volcar su barca en gran_canaria en el que se prever ir otro persona que se buscar",
+        "lemmatized_text_reduced": "hombre herir grave volcar barca gran_canaria prever ir persona buscar",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha resultado herido de gravedad después de que volcará su embarcación en aguas de Arinaga (Gran Canaria) y se continúa buscando a otra persona, ya que previsiblemente alguien acompañaba al herido en la barca, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber resultar herir de gravedad después_de que volcar su embarcación en agua de arinaga gran_canaria y se continuar buscar a otro persona ya_que previsiblemente alguien acompañar a el herir en el barca según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber resultar herir gravedad volcar embarcación agua arinaga gran_canaria continuar buscar persona previsiblemente acompañar herir barca informar europa_press fuente centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Arinaga",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 14.18 horas, momento en el que se alertó de que una embarcación de recreo había volcado. Posteriormente, se activaron los servicios de emergencias, entre ellos, el helicóptero del Grupo de Emergencias y Salvamento (GES) que al llegar al lugar del suceso encontró al herido fuera del agua y le practicaron maniobras de reanimación cardiopulmonar, ya que se encontraba en parada cardiorrespiratoria. Seguidamente, el helicóptero del GES evacuó al herido y lo trasladó con carácter de gravedad hasta el Hospital Insular de Gran Canaria. Sin embargo, la Guardia Civil, Salvamento Marítimo y el 112 continúan con un dispositivo de rastreo, ya que indicaron a los servicios de emergencias que en la embarcación viajaba una segunda persona. De todos modos, fuentes de Salvamento Marítimo indicaron a Europa Press que todavía \"no se ha confirmado\" si iba o no una segunda persona en la barca de recreo.",
+        "lemmatized_text": "el incidente se producir a el TM_h:14.18 momento en el que se alertar de que uno embarcación de recreo haber volcar posteriormente se activar el servicio de emergencia entre ellos el helicóptero de el grupo_de_emergencias y salvamento ges que a el llegar a el lugar de el suceso encontrar a el herir fuera de el agua y le practicar maniobra de reanimación cardiopulmonar ya_que se encontrar en parada cardiorrespiratoria seguidamente el helicóptero de el ges evacuar a el herir y lo trasladar con_carácter_de gravedad hasta el hospital_insular_de_gran_canaria sin embargo el guardia_civil salvamento_marítimo y el 112 continuar con uno dispositivo de rastreo ya_que indicar a el servicio de emergencia que en el embarcación viajar uno 2 persona de_todos_modos fuente de salvamento_marítimo indicar a europa_press que todavía no se haber confirmar si ir o no uno 2 persona en el barca de recreo",
+        "lemmatized_text_reduced": "incidente producir momento alertar embarcación recreo haber volcar posteriormente activar servicio emergencia helicóptero grupo_de_emergencias salvamento ges llegar lugar suceso encontrar herir agua practicar maniobra reanimación cardiopulmonar encontrar parada cardiorrespiratoria seguidamente helicóptero ges evacuar herir trasladar gravedad hospital_insular_de_gran_canaria embargo guardia_civil salvamento_marítimo continuar dispositivo rastreo indicar servicio emergencia embarcación viajar 2 persona fuente salvamento_marítimo indicar europa_press haber confirmar ir 2 persona barca recreo",
+        "persons": [
+            "Salvamento",
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo",
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Grupo_de_Emergencias",
+            "GES",
+            "GES",
+            "Hospital_Insular_de_Gran_Canaria",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:14.18",
+            "112"
+        ]
+    }
+}

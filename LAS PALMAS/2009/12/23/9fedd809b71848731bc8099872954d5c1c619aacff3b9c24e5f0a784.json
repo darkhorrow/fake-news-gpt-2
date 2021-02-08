@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595003/0/",
+    "title": {
+        "raw_text": "Las fuertes lluvias y el viento obligan al cierre de cuatro carreteras en la isla de Gran Canaria",
+        "lemmatized_text": "el fuerte lluvia y el viento obligar a el cierre de 4 carretera en el isla de gran_canaria",
+        "lemmatized_text_reduced": "fuerte lluvia viento obligar cierre carretera isla gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Las fuertes lluvias y el viento han obligado al cierre de cuatro carreteras principalmente en la zona sur y oeste de la isla de Gran Canaria que se van visto afectadas por desprendimientos de tierra y piedras, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el fuerte lluvia y el viento haber obligar a el cierre de 4 carretera principalmente en el zona sur y oeste de el isla de gran_canaria que se ir ver afectar por desprendimiento de tierra y piedra según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "fuerte lluvia viento haber obligar cierre carretera principalmente zona sur oeste isla gran_canaria ir ver afectar desprendimiento tierra piedra informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "4",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "En el municipio sureño de San Bartolomé de Tirajana la GC-600 a la altura de Ayacata y la GC-505 que une Soria con Cercados de Espino, han sufrido cortes con motivo de las lluvias caídas. Asimismo, la GC-200, que une Mogán con La Aldea de San Nicolás, a la altura de Veneguera también ha tenido que cerrar al tráfico a causa del agua ya que esta razón impide garantizar la seguridad en la zona. Ya en el norte, la GC-330 entre Bañaderos y Arucas, también se encuentra cerrada por desprendimientos. Además, el 112 informó que el fuerte viento ha provocado varias incidencias, sobre todo en la zona este de la isla, en los municipios de Santa Lucía de Tirajana y Telde donde han caído algunas vallas.",
+        "lemmatized_text": "en el municipio sureño de san_bartolomé_de_tirajana el GC-600 a el altura de ayacata y el GC-505 que unir soria con cercados_de_espino haber sufrir corte con motivo de el lluvia caer asimismo el GC-200 que unir mogán con la_aldea_de_san_nicolás a el altura de veneguera también haber tener que cerrar a el tráfico a causa de el agua ya_que este razón impedir garantizar el seguridad en el zona ya en el norte el GC-330 entre bañaderos y arucas también se encontrar cerrar por desprendimiento además el 112 informar que el fuerte viento haber provocar varios incidencia sobre todo en el zona este de el isla en el municipio de santa_lucía_de_tirajana y telde donde haber caer alguno valla",
+        "lemmatized_text_reduced": "municipio sureño san_bartolomé_de_tirajana altura ayacata unir soria cercados_de_espino haber sufrir corte motivo lluvia caer unir mogán la_aldea_de_san_nicolás altura veneguera haber tener cerrar tráfico causa agua razón impedir garantizar seguridad zona norte bañaderos arucas encontrar cerrar desprendimiento informar fuerte viento haber provocar incidencia zona isla municipio santa_lucía_de_tirajana telde haber caer valla",
+        "persons": [
+            "Veneguera"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Ayacata",
+            "Soria",
+            "Cercados_de_Espino",
+            "Mogán",
+            "La_Aldea_de_San_Nicolás",
+            "Bañaderos",
+            "Arucas",
+            "Santa_Lucía_de_Tirajana"
+        ],
+        "organizations": [
+            "Telde"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-600",
+            "GC-505",
+            "GC-200",
+            "GC-330",
+            "112"
+        ]
+    }
+}

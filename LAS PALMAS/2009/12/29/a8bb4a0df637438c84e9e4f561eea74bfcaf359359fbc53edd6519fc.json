@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/597422/0/",
+    "title": {
+        "raw_text": "Gobierno de Canarias respeta la sentencia del TSJ sobre las gemelas pero recuerda que la separación se produjo en 1973",
+        "lemmatized_text": "gobierno_de_canarias respetar el sentencia de el tsj sobre el gemelo pero recordar que el separación se producir en 1973",
+        "lemmatized_text_reduced": "gobierno_de_canarias respetar sentencia tsj gemelo recordar separación producir",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "TSJ"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1973"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gobierno de Canarias ha asegurado hoy que respeta la sentencia del Tribunal Superior de Justicia (TSJ) en la que se obliga al Ejecutivo canario a pagar 900.000 euros por separar al nacer a unas gemelas en el Hospital de El Pino (Gran Canaria) y recordó que este hecho se produjo en 1973, cuando España todavía se encontraba en la dictadura de Franco.",
+        "lemmatized_text": "el gobierno_de_canarias haber asegurar hoy que respetar el sentencia de el tribunal_superior_de_justicia tsj en el que se obligar a el ejecutivo canario a pagar $_ECU:900 por separar a el nacer a uno gemelo en el hospital_de_el_pino gran_canaria y recordar que este hecho se producir en 1973 cuando españa todavía se encontrar en el dictadura de franco",
+        "lemmatized_text_reduced": "gobierno_de_canarias haber asegurar respetar sentencia tribunal_superior_de_justicia tsj obligar ejecutivo canario pagar separar nacer gemelo hospital_de_el_pino gran_canaria recordar hecho producir españa encontrar dictadura franco",
+        "persons": [
+            "España",
+            "Franco"
+        ],
+        "locations": [
+            "Hospital_de_El_Pino"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Tribunal_Superior_de_Justicia",
+            "TSJ",
+            "Ejecutivo",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:900",
+            "1973"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo manifestó hoy el portavoz del Ejecutivo autonómico, Martín Marrero, en una rueda de prensa en la que trasladó a los medios de comunicación todos los asuntos aprobados durante la sesión del último Consejo de Gobierno de 2009. \"El Gobierno de Canarias respeta la decisión judicial, eso sí situando cronológicamente cuando se produjeron esos hechos\", indicó Marrero quien destacó que la separación de las gemelas se produjo \"en el año 1973, en una etapa enclavada económicamente en el anterior régimen donde éste hecho era competencia del Sistema Nacional de Salud\". No obstante, aseguró que el Ejecutivo regional está estudiando la sentencia con los servicios jurídicos de la Comunidad Autónoma.",
+        "lemmatized_text": "así lo manifestar hoy el portavoz de el ejecutivo autonómico martín_marrero en uno rueda de prensa en el que trasladar a el medio de comunicación todo el asunto aprobar durante el sesión de el último consejo_de_gobierno de 2009 el gobierno_de_canarias respetar el decisión judicial ese sí situar cronológicamente cuando se producir ese hecho indicar marrero quien destacar que el separación de el gemelo se producir en el [??:??/??/1973:??.??:??] en uno etapa enclavar económicamente en el anterior régimen donde este hacer ser competencia de el sistema_nacional_de_salud no_obstante asegurar que el ejecutivo regional estar estudiar el sentencia con el servicio jurídico de el comunidad_autónoma",
+        "lemmatized_text_reduced": "manifestar portavoz ejecutivo autonómico martín_marrero rueda prensa trasladar medio comunicación asunto aprobar sesión último consejo_de_gobierno gobierno_de_canarias respetar decisión judicial situar cronológicamente producir hecho indicar marrero destacar separación gemelo producir etapa enclavar económicamente anterior régimen hacer ser competencia sistema_nacional_de_salud asegurar ejecutivo regional estar estudiar sentencia servicio jurídico comunidad_autónoma",
+        "persons": [
+            "Martín_Marrero",
+            "Marrero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ejecutivo",
+            "Consejo_de_Gobierno",
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Comunidad_Autónoma"
+        ],
+        "others": [
+            "Sistema_Nacional_de_Salud"
+        ],
+        "dates": [
+            "[??:??/??/1973:??.??:??]"
+        ],
+        "numbers": [
+            "2009"
+        ]
+    }
+}

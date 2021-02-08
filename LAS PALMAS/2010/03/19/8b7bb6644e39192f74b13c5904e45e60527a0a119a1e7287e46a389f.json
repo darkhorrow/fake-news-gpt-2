@@ -1,0 +1,92 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/656308/0/",
+    "title": {
+        "raw_text": "El patrullero 'Arnomendi' hará escala el domingo en Fuerteventura dentro de campaña de vigilancia pesquera en Canarias",
+        "lemmatized_text": "el patrullero arnomendi hacer escala el [G:??/??/??:??.??:??] en fuerteventura dentro_de campaña de vigilancia pesquero en canarias",
+        "lemmatized_text_reduced": "patrullero arnomendi hacer escala fuerteventura campaña vigilancia pesquero canarias",
+        "persons": [
+            "Arnomendi"
+        ],
+        "locations": [
+            "Fuerteventura",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El patrullero de la Armada española 'Arnomendi' hará escala en la isla de Fuerteventura desde el domingo 21 de marzo hasta el martes 23, una parada que se incluye dentro de una campaña de vigilancia pesquera que está realizando en aguas de Canarias, según informó hoy el Mando Naval de Canarias en un comunicado.",
+        "lemmatized_text": "el patrullero de el armada español arnomendi hacer escala en el isla de fuerteventura desde el [G:21/3/??:??.??:??] hasta el [M:23/??/??:??.??:??] uno parada que se incluir dentro_de uno campaña de vigilancia pesquero que estar realizar en agua de canarias según informar hoy el mando_naval_de_canarias en uno comunicado",
+        "lemmatized_text_reduced": "patrullero armada español arnomendi hacer escala isla fuerteventura parada incluir campaña vigilancia pesquero estar realizar agua canarias informar mando_naval_de_canarias comunicado",
+        "persons": [
+            "Arnomendi"
+        ],
+        "locations": [
+            "Fuerteventura",
+            "Canarias"
+        ],
+        "organizations": [
+            "Armada",
+            "Mando_Naval_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[G:21/3/??:??.??:??]",
+            "[M:23/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La misión principal de la patrullera es la vigilancia pesquera, tanto en la Zona Económica Exclusiva española como en los caladeros comunitarios en aguas internacionales, y supone un esfuerzo medio anual de 150 días de mar. De esta manera, el 'Arnomendi' ha efectuado numerosas campañas en aguas de Canarias y Cádiz. También ha apoyado a la flota bonitera en el mar Cantábrico y a la del atún rojo en el Mediterráneo. Asimismo ha participado en campañas internacionales en aguas de NAFO (North-West Atlantic Fisheries Organization) en 2003 y 2005, así como en NEAFC (North-East Atlantic Fisheries Comisión) en 2001, 2002 y 2007. El buque fue construido en Vigo y entregado a la Armada el 13 diciembre de 2000. Desde su entrega ha tenido como puerto base Las Palmas de Gran Canaria, mientras que el comandante del patrullero 'Arnomendi' (P-63) es el capitán de corbeta Javier Núñez de Prado Aparicio, especialista en Armas Submarinas y diplomado de Estado Mayor de las Fuerzas Armadas y de Estado Mayor de Guerra de Minas en la Escuela de Eguermin (Ostende, OTAN).",
+        "lemmatized_text": "el misión principal de el patrullera ser el vigilancia pesquero tanto en el zona_económica_exclusiva español como en el caladero comunitario en agua internacional y suponer uno esfuerzo medio anual de TM_d:150 de marzo de este manera el arnomendi haber efectuar numeroso campaña en agua de canarias y cádiz también haber apoyar a el flota bonitera en el mar cantábrico y a el de el atún rojo en el mediterráneo asimismo haber participar en campaña internacional en agua de nafo north-west_atlantic_fisheries_organization en 2003 y 2005 así_como en neafc north-east_atlantic_fisheries_comisión en 2001 2002 y 2007 el buque ser construir en vigo y entregar a el armada el [??:13/12/2000:??.??:??] desde su entrega haber tener como puerto base las_palmas_de_gran_canaria mientras_que el comandante de el patrullero arnomendi P-63 ser el capitán de corbeta javier_núñez_de_prado_aparicio especialista en armas_submarinas y diplomado de estado_mayor_de_las_fuerzas_armadas y de estado_mayor_de_guerra_de_minas en el escuela_de_eguermin ostende otan",
+        "lemmatized_text_reduced": "misión principal patrullera ser vigilancia pesquero zona_económica_exclusiva español caladero comunitario agua internacional suponer esfuerzo medio anual marzo de manera arnomendi haber efectuar numeroso campaña agua canarias cádiz haber apoyar flota bonitera mar cantábrico atún rojo mediterráneo haber participar campaña internacional agua nafo north-west_atlantic_fisheries_organization neafc north-east_atlantic_fisheries_comisión buque ser construir vigo entregar armada entrega haber tener puerto base las_palmas_de_gran_canaria comandante patrullero arnomendi ser capitán corbeta javier_núñez_de_prado_aparicio especialista armas_submarinas diplomado estado_mayor_de_las_fuerzas_armadas estado_mayor_de_guerra_de_minas escuela_de_eguermin ostende otan",
+        "persons": [
+            "Arnomendi",
+            "Arnomendi"
+        ],
+        "locations": [
+            "Canarias",
+            "Cádiz",
+            "Cantábrico",
+            "Mediterráneo",
+            "Vigo",
+            "Las_Palmas_de_Gran_Canaria",
+            "Armas_Submarinas",
+            "Estado_Mayor_de_las_Fuerzas_Armadas"
+        ],
+        "organizations": [
+            "NAFO",
+            "NEAFC",
+            "North-East_Atlantic_Fisheries_Comisión",
+            "Armada",
+            "Estado_Mayor_de_Guerra_de_Minas",
+            "Escuela_de_Eguermin",
+            "Ostende",
+            "OTAN"
+        ],
+        "others": [
+            "Zona_Económica_Exclusiva",
+            "De",
+            "North-West_Atlantic_Fisheries_Organization",
+            "Javier_Núñez_de_Prado_Aparicio"
+        ],
+        "dates": [
+            "[??:13/12/2000:??.??:??]"
+        ],
+        "numbers": [
+            "TM_d:150",
+            "2003",
+            "2005",
+            "2001",
+            "2002",
+            "2007",
+            "P-63"
+        ]
+    }
+}

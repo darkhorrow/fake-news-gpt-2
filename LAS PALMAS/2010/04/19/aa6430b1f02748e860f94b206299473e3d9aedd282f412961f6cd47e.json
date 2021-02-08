@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/682546/0/",
+    "title": {
+        "raw_text": "El tráfico en sentido Norte a la capital grancanaria será desviado el miércoles y el jueves por El Hormiguero",
+        "lemmatized_text": "el tráfico en sentido norte a el capital grancanaria ser desviar el [X:??/??/??:??.??:??] y el [J:??/??/??:??.??:??] por el_hormiguero",
+        "lemmatized_text_reduced": "tráfico sentido norte capital grancanaria ser desviar el_hormiguero",
+        "persons": [
+            "El_Hormiguero"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Norte"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las obras de duplicación del tramo de la carretera GC-2 comprendido entre Santa María de Guía y El Pagador, al norte de Gran Canaria, obligan a desviar el miércoles y el jueves de esta semana el tráfico en sentido Norte a la capital por la antigua carretera del Hormiguero.",
+        "lemmatized_text": "el obra de duplicación de el tramo de el carretera GC-2 comprender entre santa_maría_de_guía y el_pagador a el norte de gran_canaria obligar a desviar el [X:??/??/??:??.??:??] y el [J:??/??/??:??.??:??] de este semana el tráfico en sentido norte a el capital por el antiguo carretera de el hormiguero",
+        "lemmatized_text_reduced": "obra duplicación tramo carretera comprender santa_maría_de_guía el_pagador norte gran_canaria obligar desviar semana tráfico sentido norte capital antiguo carretera hormiguero",
+        "persons": [],
+        "locations": [
+            "El_Pagador",
+            "Gran_Canaria",
+            "Hormiguero"
+        ],
+        "organizations": [
+            "Santa_María_de_Guía"
+        ],
+        "others": [
+            "Norte"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-2"
+        ]
+    },
+    "body": {
+        "raw_text": "El desvío se efectuará entre las 09.00 y las 16.00 horas, informó la Consejería de Obras Públicas y Transportes del Gobierno regional en un comunicado. En ese intervalo de tiempo, el tráfico con sentido Norte - Las Palmas de Gran Canaria será desviado a la altura de Llano Alegre por la antigua carretera del Hormiguero, pudiendo incorporarse de nuevo los vehículos a la GC-2 en la intersección del Hormiguero. El tráfico con sentido Las Palmas de Gran Canaria - Norte continuará por el tronco de la GC-2, aunque por un sólo carril, ya que será necesario ocupar el otro para ejecutar con seguridad el hormigonado de las dovelas del nuevo viaducto de Silva. La Consejería de Obras Públicas lamenta las molestias que estos desvíos de tráfico están ocasionando a los usuarios de la vía, pero entiende que son necesarios para poder realizar las obras con las debidas garantías de seguridad.",
+        "lemmatized_text": "el desvío se efectuar entre el 9 y el TM_h:16 informar el consejería_de_obras_públicas y transportes_del_gobierno regional en uno comunicado en ese intervalo de tiempo el tráfico con sentido norte el palmas_de_gran_canaria ser desviar a el altura de llano_alegre por el antiguo carretera de el hormiguero poder incorporar se de nuevo el vehículo a el GC-2 en el intersección de el hormiguero el tráfico con sentido las_palmas_de_gran_canaria norte continuar por el tronco de el GC-2 aunque por uno sólo carril ya_que ser necesario ocupar el otro para ejecutar con seguridad el hormigonado de el dovela de el nuevo viaducto de silva el consejería_de_obras_públicas lamentar el molestia que este desvío de tráfico estar ocasionar a el usuario de el vía pero entender que ser necesario para poder realizar el obra con el deber garantía de seguridad",
+        "lemmatized_text_reduced": "desvío efectuar informar consejería_de_obras_públicas transportes_del_gobierno regional comunicado intervalo tiempo tráfico sentido norte palmas_de_gran_canaria ser desviar altura llano_alegre antiguo carretera hormiguero poder incorporar nuevo vehículo intersección hormiguero tráfico sentido las_palmas_de_gran_canaria norte continuar tronco carril ser necesario ocupar ejecutar seguridad hormigonado dovela nuevo viaducto silva consejería_de_obras_públicas lamentar molestia desvío tráfico estar ocasionar usuario vía entender ser necesario poder realizar obra deber garantía seguridad",
+        "persons": [],
+        "locations": [
+            "Norte",
+            "Palmas_de_Gran_Canaria",
+            "Llano_Alegre",
+            "Hormiguero",
+            "Las_Palmas_de_Gran_Canaria",
+            "Silva"
+        ],
+        "organizations": [
+            "Consejería_de_Obras_Públicas",
+            "Transportes_del_Gobierno",
+            "Norte",
+            "Consejería_de_Obras_Públicas"
+        ],
+        "others": [
+            "Hormiguero"
+        ],
+        "dates": [],
+        "numbers": [
+            "9",
+            "TM_h:16",
+            "GC-2",
+            "GC-2"
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/473336/0/aterrizaje/forzoso/canarias/",
+    "title": {
+        "raw_text": "Aterriza en Las Palmas poco después de despegar por problemas en un motor",
+        "lemmatized_text": "aterrizar en las_palmas poco después_de despegar por problema en uno motor",
+        "lemmatized_text_reduced": "aterrizar las_palmas despegar problema motor",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El avión, de la compañía Iberworld, tenía como destino Oslo. Aena afirma que no hubo ningún problema y nadie resultó herido. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el avión de el compañía iberworld tener como destino oslo aena afirmar que no haber ninguno problema y nadie resultar herir consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "avión compañía iberworld tener destino oslo aena afirmar haber problema resultar herir consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Oslo"
+        ],
+        "locations": [],
+        "organizations": [
+            "Iberworld",
+            "Aena",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un Airbus A320 de la compañía Iberworld ha tenido que regresar este miércoles al aeropuerto de Las Palmas de Gran Canaria 15 minutos después de haber despegado tras detectar problemas en uno de los motores, informaron a 20minutos.es fuentes de Aena . Se activó el protocolo de emergencia habitual para estos casos Según estas fuentes, el avión despegó a las 08.05 hora canaria y tuvo que dar la vuelta y aterrizar a las 08.15 de la mañana, aunque \"no ha habido heridos\" . \"Se activó el protocolo de emergencia habitual para estos casos\", por lo que acudieron bomberos y médicos, aunque no tuvieron que actuar, añaden. Además, desde Aena señalaron que se desembarcó sin problema a los pasajeros , que se dirigían a Oslo (Noruega), y la compañía ha fletado otro avión con el mismo destino a las 12.30 de la mañana. Según declaró a este diario la compañía Iberworld, que afirmó que había 180 pasajeros a bordo, \"el pasaje está perfecto\" y el aterrizaje se ha realizado sin problemas. Retraso en el vuelo A las 12.50, hora canaria, la página web de Aena indicaba que el vuelo IWD6201 tenía su salida prevista a las 13.00 y finalmente salió con destino a Oslo a las 13.05, según Aena. Iberworld, que realiza vuelos fundamentalmente a Baleares y Canarias, está especializada en vuelos chárter y tiene su base y sede central en Palma de Mallorca. Este suceso ha hecho recordar la tragedia ocurrida en agosto de 2008 , cuando un avión de Spanair que tenía como destino Las Palmas de Gran Canaria sufrió un accidente en el aeropuerto madrileño de Barajas y murieron 153 personas.",
+        "lemmatized_text": "uno airbus A320 de el compañía iberworld haber tener que regresar este [X:??/??/??:??.??:??] a el aeropuerto de las_palmas_de_gran_canaria TM_min:15 después_de haber despegar tras detectar problema en uno de el motor informar a 20minutos.es fuente de aena se activar el protocolo de emergencia habitual para este caso según este fuente el avión despegar a el TM_h:8.05 canario y tener que dar el vuelta y aterrizar a el [??:??/??/??:8.00:am] aunque no haber haber herido se activar el protocolo de emergencia habitual para este caso por el que acudir bombero y médico aunque no tener que actuar añadir además desde aena señalar que se desembarcar sin problema a el pasajero que se dirigir a oslo noruega y el compañía haber fletar otro avión con el mismo destino a el [??:??/??/??:12.00:am] según declarar a este diario el compañía iberworld que afirmar que haber 180 pasajero a_bordo el pasaje estar perfecto y el aterrizaje se haber realizar sin problema retraso en el vuelo a el 12.5 hora canario el página web de aena indicar que el vuelo IWD6201 tener su salida prever a el 13 y finalmente salir con destino a oslo a el 13.05 según aena iberworld que realizar vuelo fundamentalmente a baleares y canarias estar especializar en vuelo chárter y tener su base y sede central en palma_de_mallorca este suceso haber hacer recordar el tragedia ocurrir en [??:??/8/2008:??.??:??] cuando uno avión de spanair que tener como destino las_palmas_de_gran_canaria sufrir uno accidente en el aeropuerto madrileño de barajas y morir 153 persona",
+        "lemmatized_text_reduced": "airbus compañía iberworld haber tener regresar aeropuerto las_palmas_de_gran_canaria haber despegar detectar problema motor informar fuente aena activar protocolo emergencia habitual caso según fuente avión despegar canario tener dar vuelta aterrizar haber haber herido activar protocolo emergencia habitual caso acudir bombero médico tener actuar añadir aena señalar desembarcar problema pasajero dirigir oslo noruega compañía haber fletar avión mismo destino declarar diario compañía iberworld afirmar haber pasajero pasaje estar perfecto aterrizaje haber realizar problema retraso vuelo a hora canario página web aena indicar vuelo tener salida prever finalmente salir destino oslo aena iberworld realizar vuelo fundamentalmente baleares canarias estar especializar vuelo chárter tener base sede central palma_de_mallorca suceso haber hacer recordar tragedia ocurrir avión spanair tener destino las_palmas_de_gran_canaria sufrir accidente aeropuerto madrileño barajas morir persona",
+        "persons": [
+            "Oslo"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Oslo",
+            "Baleares",
+            "Canarias",
+            "Palma_de_Mallorca",
+            "Barajas"
+        ],
+        "organizations": [
+            "Airbus",
+            "Iberworld",
+            "Aena",
+            "Aena",
+            "Noruega",
+            "Iberworld",
+            "Aena",
+            "Aena",
+            "Iberworld",
+            "Spanair",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [
+            "Según",
+            "A"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[??:??/??/??:8.00:am]",
+            "[??:??/??/??:12.00:am]",
+            "[??:??/8/2008:??.??:??]"
+        ],
+        "numbers": [
+            "A320",
+            "TM_min:15",
+            "20minutos.es",
+            "TM_h:8.05",
+            "180",
+            "12.5",
+            "IWD6201",
+            "13",
+            "13.05",
+            "153"
+        ]
+    }
+}

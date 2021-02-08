@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/374950/0/barco/accidentado/marruecos/",
+    "title": {
+        "raw_text": "Los pasajeros de un barco accidentado en Marruecos llegan a Gran Canaria",
+        "lemmatized_text": "el pasajero de uno barco accidentar en marruecos llegar a gran_canaria",
+        "lemmatized_text_reduced": "pasajero barco accidentar marruecos llegar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Marruecos",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se trata de un buque de la Naviera Armas. Las 25 personas llegaron por avión. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "se tratar de uno buque de el naviera_armas el 25 persona llegar por avión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "tratar buque naviera_armas persona llegar avión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Naviera_Armas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25"
+        ]
+    },
+    "body": {
+        "raw_text": "Los pasajeros del buque \"Panamá-asalama\", de la compañía Naviera Armas, accidentado en el puerto marroquí de Tarfaya, llegaron esta madrugada al aeropuerto de Gran Canaria en un avión de la compañía aérea Binter que acudió a El Aaiún a recogerlos, han informado fuentes de la empresa. El avión con veinticinco pasajeros que iban en el buque, aterrizó hacia la 01:30 horas en el aeropuerto de Gran Canaria, adonde llegó tras el accidente sufrido por el barco el pasado miércoles a la salida del puerto marroquí de Tarfaya. El buque tuvo que ser auxiliado por la Marina Real marroquí cuando transportaba a 113 pasajeros en su ruta entre Fuerteventura y Tarfaya y sufrió una avería mecánica frente a la costa sahariana, tras la cual todos los ocupantes del barco fueron evacuados y alojados en hoteles. El barco se encuentra casi hundido y técnicamente toca fondo, tras sufrir una vía de agua, aunque podría reflotar dependiendo de las condiciones del mar y de los daños sufridos , según un portavoz de Naviera Armas. El puerto de Tarfaya donde se produjo el accidente es de pequeñas dimensiones, lo que dificulta las maniobras, y tiene poco calado como consecuencia de la arena que se acumula en él, algo que obliga a dragados continuos, condiciones que pudieron motivar el suceso, señalaron las fuentes. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el pasajero de el buque panamá-asalama de el compañía naviera_armas accidentar en el puerto marroquí de tarfaya llegar este madrugada a el aeropuerto de gran_canaria en uno avión de el compañía aéreo binter que acudir a el_aaiún a recoger lo haber informar fuente de el empresa el avión con 25 pasajero que ir en el buque aterrizar hacia el TM_h:01:30 en el aeropuerto de gran_canaria adonde llegar tras el accidente sufrir por el barco el [X:??/??/??:??.??:??] a el salida de el puerto marroquí de tarfaya el buque tener que ser auxiliar por el marina_real marroquí cuando transportar a 113 pasajero en su ruta entre fuerteventura y tarfaya y sufrir uno avería mecánico frente_a el costa sahariano tras el cual todo el ocupante de el barco ser evacuar y alojar en hotel el barco se encontrar casi hundir y técnicamente tocar fondo tras sufrir uno vía de agua aunque poder reflotar depender de el condición de el mar y de el daño sufrir según uno portavoz de naviera_armas el puerto de tarfaya donde se producir el accidente ser de pequeño dimensión el que dificultar el maniobra y tener poco calado como consecuencia de el arena que se acumular en él algo que obligar a dragado continuo condición que poder motivar el suceso señalar el fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "pasajero buque panamá-asalama compañía naviera_armas accidentar puerto marroquí tarfaya llegar madrugada aeropuerto gran_canaria avión compañía aéreo binter acudir el_aaiún recoger haber informar fuente empresa avión pasajero ir buque aterrizar aeropuerto gran_canaria llegar accidente sufrir barco salida puerto marroquí tarfaya buque tener ser auxiliar marina_real marroquí transportar pasajero ruta fuerteventura tarfaya sufrir avería mecánico costa sahariano ocupante barco ser evacuar alojar hotel barco encontrar hundir técnicamente tocar fondo sufrir vía agua poder reflotar depender condición mar daño sufrir portavoz naviera_armas puerto tarfaya producir accidente ser pequeño dimensión dificultar maniobra tener calado consecuencia arena acumular obligar dragado continuo condición poder motivar suceso señalar fuente consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Tarfaya"
+        ],
+        "locations": [
+            "Tarfaya",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Tarfaya",
+            "Tarfaya"
+        ],
+        "organizations": [
+            "Naviera_Armas",
+            "Binter",
+            "El_Aaiún",
+            "Marina_Real",
+            "Fuerteventura",
+            "Naviera_Armas",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Panamá-asalama"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "25",
+            "TM_h:01:30",
+            "113"
+        ]
+    }
+}

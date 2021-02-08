@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593754/0/",
+    "title": {
+        "raw_text": "Trabajadores del Grupo Marsans en Canarias resultan agraciados con décimos del Gordo de Navidad",
+        "lemmatized_text": "trabajadores_del_grupo_marsans en canarias resultar agraciar con décimo de el gordo_de_navidad",
+        "lemmatized_text_reduced": "trabajadores_del_grupo_marsans canarias resultar agraciar décimo gordo_de_navidad",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Trabajadores_del_Grupo_Marsans"
+        ],
+        "others": [
+            "Gordo_de_Navidad"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Gordo del Sorteo de Navidad de este año ha repartido una parte entre los empleados de la agencia de viajes Marsans en Canarias, que compraron décimos del número 78.294, distribuido por dicha compañía, y premiado con 300.000 euros cada uno de ellos.",
+        "lemmatized_text": "el gordo_del_sorteo_de_navidad de este año haber repartir uno parte entre el empleado de el agencia de viaje marsans en canarias que comprar décimo de el número 78.294 distribuir por decir compañía y premiar con $_ECU:300 cada uno de ellos",
+        "lemmatized_text_reduced": "gordo_del_sorteo_de_navidad año haber repartir parte empleado agencia viaje marsans canarias comprar décimo número distribuir decir compañía premiar",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Marsans"
+        ],
+        "others": [
+            "Gordo_del_Sorteo_de_Navidad"
+        ],
+        "dates": [],
+        "numbers": [
+            "78.294",
+            "$_ECU:300"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo informaron a Europa Press fuentes de la empresa que precisaron que dos compañeros en una oficina en Los Cristianos (Tenerife), uno en Lanzarote y otra persona en Fuerteventura se encuentran entre los afortunados. A ellos se suma un trabajador de Viajes Crisol, agencia asociada al Grupo Marsans, ubicada en la calle Partera Leonorita en el barrio de Bellavista en San Bartolomé de Tirajana, municipio turístico del sur de Gran Canaria. Fuentes locales informan de que este agraciado se encuentra de vacaciones y ha viajado a Madrid. \"La alegría es muy alta para cualquiera que ha sido tocado por la suerte\", indicaron fuentes de Viajes Marsans en el archipiélago, que, no obstante, no pudieron detallar el número de ganadores ni los décimos adquiridos.",
+        "lemmatized_text": "así lo informar a europa_press fuente de el empresa que precisar que 2 compañero en uno oficina en los_cristianos tenerife uno en lanzarote y otro persona en fuerteventura se encontrar entre el afortunado a ellos se sumar uno trabajador de viajes_crisol agencia asociar a el grupo_marsans ubicar en el calle partera_leonorita en el barrio de bellavista en san_bartolomé_de_tirajana municipio turístico de el sur de gran_canaria fuentes local informar de que este agraciar se encontrar de vacaciones y haber viajar a madrid el alegría ser muy alto para cualquiera que haber ser tocar por el suerte indicar fuente de viajes_marsans en el archipiélago que no_obstante no poder detallar el número de ganador ni el décimo adquirir",
+        "lemmatized_text_reduced": "informar europa_press fuente empresa precisar compañero oficina los_cristianos tenerife lanzarote persona fuerteventura encontrar afortunado sumar trabajador viajes_crisol agencia asociar grupo_marsans ubicar calle partera_leonorita barrio bellavista san_bartolomé_de_tirajana municipio turístico sur gran_canaria fuentes local informar agraciar encontrar vacaciones haber viajar madrid alegría ser alto haber ser tocar suerte indicar fuente viajes_marsans archipiélago poder detallar número ganador décimo adquirir",
+        "persons": [
+            "Fuentes"
+        ],
+        "locations": [
+            "Los_Cristianos",
+            "Tenerife",
+            "Lanzarote",
+            "Fuerteventura",
+            "Partera_Leonorita",
+            "Bellavista",
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Madrid"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Viajes_Crisol",
+            "Grupo_Marsans",
+            "Viajes_Marsans"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    }
+}

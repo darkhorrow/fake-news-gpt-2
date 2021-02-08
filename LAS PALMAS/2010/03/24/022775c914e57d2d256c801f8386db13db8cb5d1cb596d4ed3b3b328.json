@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/659654/0/",
+    "title": {
+        "raw_text": "Una joven resulta herida tras chocar su coche con un muro en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno joven resultar herir tras chocar su coche con uno muro en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "joven resultar herir chocar coche muro las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una joven ha resultado herida de carácter leve tras colisionar esta madrugada su vehículo con un muro en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno joven haber resultar herida de carácter leve tras colisionar este madrugada su vehículo con uno muro en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven haber resultar herida carácter leve colisionar madrugada vehículo muro las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 01.15 horas de esta noche en la zona de Las Torres, en la capital grancanaria, y de la colisión resultó herida una mujer, de 22 años, que sufrió un traumatismo de carácter leve en el torax. Así, una vez en el lugar del suceso personal del Servicio de Urgencias Canario (SUC), decidió trasladar a la herida al Hospital Universitario de Gran Canaria Dr. Negrín.",
+        "lemmatized_text": "el incidente se producir a el TM_h:1.15 de este noche en_la_zona_de las_torres en el capital grancanaria y de el colisión resultar herir uno mujer de 22 año que sufrir uno traumatismo de carácter leve en el torax así uno vez en el lugar de el suceso personal de el servicio_de_urgencias_canario suc decidir trasladar a el herida a el hospital_universitario_de_gran_canaria_dr._negrín",
+        "lemmatized_text_reduced": "incidente producir noche las_torres capital grancanaria colisión resultar herir mujer año sufrir traumatismo carácter leve torax vez lugar suceso personal servicio_de_urgencias_canario suc decidir trasladar herida hospital_universitario_de_gran_canaria_dr._negrín",
+        "persons": [],
+        "locations": [
+            "Las_Torres"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Dr._Negrín"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:1.15",
+            "22"
+        ]
+    }
+}

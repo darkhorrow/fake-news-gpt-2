@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664737/0/",
+    "title": {
+        "raw_text": "Un motorista de 55 años resulta herido grave tras colisionar contra un turismo en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno motorista de 55 año resultar herir grave tras colisionar contra uno turismo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "motorista año resultar herir grave colisionar turismo las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "55"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un motorista de 55 años de edad ha resultado herido con traumatismo craneoencefálico de carácter grave tras colisionar contra una turismo en la Carretera General del Norte, a la altura del Parque de Las Rehoyas, en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno motorista de 55 año de edad haber resultar herir con traumatismo craneoencefálico de carácter grave tras colisionar contra uno turismo en el carretera_general_del_norte a el altura de el parque_de_las_rehoyas en las_palmas_de_gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "motorista año edad haber resultar herir traumatismo craneoencefálico carácter grave colisionar turismo carretera_general_del_norte altura parque_de_las_rehoyas las_palmas_de_gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Carretera_General_del_Norte",
+            "Parque_de_Las_Rehoyas",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "55",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 17.30 horas, cuando una llamada alertó al Cecoes del choque entre una moto y un vehículo en la citada zona. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazó personal médico del Servicio de Urgencias Canario (SUC), que atendió al varón afectado y le trasladó en ambulancia de soporte vital avanzado del SUC al Hospital Universitario de Gran Canaria Doctor Negrín. En dicha actuación también intervino una ambulancia de soporte vital básico del SUC y la Policía Local, que se encargó de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:17.3 cuando uno llamada alertar a el cecoes de el choque entre uno moto y uno vehículo en el citar zona de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencias_canario suc que atender a el varón afectar y le trasladar en ambulancia de soporte vital avanzar de el suc a el hospital_universitario_de_gran_canaria_doctor_negrín en decir actuación también intervenir uno ambulancia de soporte vital básico de el suc y el policía_local que se encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes choque moto vehículo citar zona modo activar inmediato dispositivo emergencia necesario lugar desplazar personal médico servicio_de_urgencias_canario suc atender varón afectar trasladar ambulancia soporte vital avanzar suc hospital_universitario_de_gran_canaria_doctor_negrín decir actuación intervenir ambulancia soporte vital básico suc policía_local encargar instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "SUC",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.3",
+            "112"
+        ]
+    }
+}

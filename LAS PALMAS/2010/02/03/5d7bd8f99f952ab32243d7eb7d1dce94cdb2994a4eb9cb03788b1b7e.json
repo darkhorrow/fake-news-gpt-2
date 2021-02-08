@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621115/0/",
+    "title": {
+        "raw_text": "Un pescador rescata al hombre que cayó al mar en Gáldar (Gran Canaria)",
+        "lemmatized_text": "uno pescador rescatar a el hombre que caer a el mar en gáldar gran_canaria",
+        "lemmatized_text_reduced": "pescador rescatar hombre caer mar gáldar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un pescador de la zona de Gáldar, en Gran Canaria, ha conseguido rescatar al hombre de 42 años que cayó esta mañana al agua en el litoral del municipio del norte de la isla, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno pescador de el zona de gáldar en gran_canaria haber conseguir rescatar a el hombre de 42 año que caer este mañana a el agua en el litoral de el municipio de el norte de el isla según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "pescador zona gáldar gran_canaria haber conseguir rescatar hombre año caer mañana agua litoral municipio norte isla informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gáldar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "42",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El rescate tuvo lugar sobre las 10.30 horas cuando el pescador se encontraba en aguas de la playa del Agujero donde localizó al varón desparecido, lo subió abordo de su embarcación y posteriormente lo trasladó hasta tierra donde fue atendido por los servicios de emergencias. Tal y como aseguró el Cecoes, el afectado presentaba hipotermia y tuvo que ser trasladado en ambulancia sanitarizada del Servicio de Urgencias Canario (SUC) hasta el Hospital Universitario de Gran Canaria Doctor Negrín.",
+        "lemmatized_text": "el rescate tener_lugar sobre el TM_h:10.3 cuando el pescador se encontrar en agua de el playa de el agujero donde localizar a el varón desparecer lo subir abordo de su embarcación y posteriormente lo trasladar hasta tierra donde ser atender por el servicio de emergencia tal_y_como asegurar el cecoes el afectar presentar hipotermia y tener que ser trasladar en ambulancia sanitarizada de el servicio_de_urgencias_canario suc hasta el hospital_universitario_de_gran_canaria_doctor_negrín",
+        "lemmatized_text_reduced": "rescate tener_lugar pescador encontrar agua playa agujero localizar varón desparecer subir abordo embarcación posteriormente trasladar tierra ser atender servicio emergencia asegurar cecoes afectar presentar hipotermia tener ser trasladar ambulancia sanitarizada servicio_de_urgencias_canario suc hospital_universitario_de_gran_canaria_doctor_negrín",
+        "persons": [
+            "Agujero"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:10.3"
+        ]
+    }
+}

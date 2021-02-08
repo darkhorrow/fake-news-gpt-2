@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596434/0/",
+    "title": {
+        "raw_text": "Telde (Gran Canaria) impone multas de hasta 15.205 euros por el incumpliento de la normativa de animales domésticos",
+        "lemmatized_text": "telde gran_canaria imponer multa de hasta $_ECU:15.205 por el incumpliento de el normativa de animal doméstico",
+        "lemmatized_text_reduced": "telde gran_canaria imponer multa incumpliento normativa animal doméstico",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:15.205"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Telde (Gran Canaria) ha recordado hoy que las sanciones por pasear perros sueltos en espacios públicos, no recoger los excrementos, o alguna de las normas que aparecen recogidas en la normativa de tenencia y protección de animales pueden conllevar multas que van entre 180 y 300 euros hasta los 15.205 euros, según informó el Consistorio en nota de prensa.",
+        "lemmatized_text": "el ayuntamiento_de_telde gran_canaria haber recordar hoy que el sanción por pasear perro suelto en espacio público no recoger el excremento o alguno de el norma que aparecer recoger en el normativa de tenencia y protección de animal poder conllevar multa que ir entre 180 y $_ECU:300 hasta el $_ECU:15.205 según informar el consistorio en nota de prensa",
+        "lemmatized_text_reduced": "ayuntamiento_de_telde gran_canaria haber recordar sanción pasear perro suelto espacio público recoger excremento norma aparecer recoger normativa tenencia protección animal poder conllevar multa ir informar consistorio nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Telde",
+            "Gran_Canaria",
+            "Consistorio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "180",
+            "$_ECU:300",
+            "$_ECU:15.205"
+        ]
+    },
+    "body": {
+        "raw_text": "Así lo manifestó la institución local ante las numerosas denuncias tanto de la Policía Local como de particulares relacionadas con molestias por ladridos, perros en las playas, sueltos en la vía pública o por abandono de sus excrementos. En concreto, en el último año se han recibido más de 120 denuncias en este sentido. Por ello, quiso hacer especial hincapié en la existencia de la Ordenanza Municipal Reguladora de la Tenencia y Protección de Animales y Animales Potencialmente Peligrosos se encuentra vigente desde el año 2002 y establece en su articulado la obligación de que todos los perros mayores de 3 meses, cuenten con la documentación preceptiva: cartilla sanitaria, identificación y tarjeta censal o licencia de animales potencialmente peligrosos, según razas, tipología racial o antecedentes. También alberga la prohibición de la circulación o permanencia en playas, piscinas artificiales o naturales de utilización pública y la obligación de conducir los perros por las vías públicas atados y el de evitar sus deyecciones o en su caso la obligación de su limpieza.",
+        "lemmatized_text": "así lo manifestar el institución local ante el numeroso denuncia tanto de el policía_local como de particular relacionar con molestia por ladrido perro en el playa suelto en el vía público o por abandono de su excremento en concreto en el último año se haber recibir más de 120 denuncia en este sentido por ello querer hacer especial hincapié en el existencia de el ordenanza_municipal_reguladora_de_la_tenencia y protección_de_animales y animales_potencialmente_peligrosos se encontrar vigente desde el [??:??/??/2002:??.??:??] y establecer en su articulado el obligación de que todo el perro mayor de 3 mes contar con el documentación preceptivo cartilla sanitario identificación y tarjeta censal o licencia de animal potencialmente peligroso según raza tipología racial o antecedente también albergar el prohibición de el circulación o permanencia en playa piscina artificial o natural de utilización público y el obligación de conducir el perro por el vía público atado y el de evitar su deyección o en su caso el obligación de su limpieza",
+        "lemmatized_text_reduced": "manifestar institución local numeroso denuncia policía_local particular relacionar molestia ladrido perro playa suelto vía público abandono excremento concreto último año haber recibir denuncia sentido querer hacer especial hincapié existencia ordenanza_municipal_reguladora_de_la_tenencia protección_de_animales animales_potencialmente_peligrosos encontrar vigente establecer articulado obligación perro mayor mes contar documentación preceptivo cartilla sanitario identificación tarjeta censal licencia animal potencialmente peligroso raza tipología racial antecedente albergar prohibición circulación permanencia playa piscina artificial natural utilización público obligación conducir perro vía público atado evitar deyección caso obligación limpieza",
+        "persons": [
+            "Animales_Potencialmente_Peligrosos"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía_Local",
+            "Ordenanza_Municipal_Reguladora_de_la_Tenencia"
+        ],
+        "others": [
+            "Protección_de_Animales"
+        ],
+        "dates": [
+            "[??:??/??/2002:??.??:??]"
+        ],
+        "numbers": [
+            "120",
+            "3"
+        ]
+    }
+}

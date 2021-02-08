@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/451340/0/patron/patera/detenido/",
+    "title": {
+        "raw_text": "Detenido uno de los supervivientes de la patera de Teguise por ser el patrón",
+        "lemmatized_text": "detener uno de el superviviente de el patera de teguise por ser el patrón",
+        "lemmatized_text_reduced": "detener superviviente patera teguise ser patrón",
+        "persons": [
+            "Teguise"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Todavía se busca el cuerpo del único naúfrago que está desaparecido. Al menos 25 inmigrantes murieron al hundirse la patera. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "todavía se buscar el cuerpo de el único naúfrago que estar desaparecer a el menos 25 inmigrante morir a el hundir se el patera consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "buscar cuerpo único naúfrago estar desaparecer inmigrante morir hundir patera consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "25"
+        ]
+    },
+    "body": {
+        "raw_text": "Uno de los seis supervivientes de la patera naufragada frente a la costa de Teguise, en Lanzarote, ha sido detenido al ser identificado como el patrón de la embarcación en la que murieron, al menos, 25 inmigrantes. Así lo informó hoy el juez del caso, Ricardo Fiestras Gil, titular del juzgado de instrucción nº1 de Arrecife. Durante la jornada de hoy, un operativo marítimo busca el cuerpo del único inmigrante que se encuentra desaparecido. En la patera, que volcó al chocar contra una roca, viajaban 32 inmigrantes, seis de los cuales fueron rescatados por vecinos de Los Cocoteros. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "uno de el 6 superviviente de el patera naufragar frente_a el costa de teguise en lanzarote haber ser detener a el ser identificar como el patrón de el embarcación en el que morir a el menos 25 inmigrante así lo informar hoy el juez de el caso ricardo_fiestras_gil titular de el juzgado de instrucción nº1 de arrecife durante el jornada de hoy uno operativo marítimo buscar el cuerpo de el único inmigrante que se encontrar desaparecer en el patera que volcar a el chocar contra uno roca viajar 32 inmigrante 6 de el cual ser rescatar por vecino de los_cocoteros consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "superviviente patera naufragar costa teguise lanzarote haber ser detener ser identificar patrón embarcación morir inmigrante informar juez caso ricardo_fiestras_gil titular juzgado instrucción arrecife jornada operativo marítimo buscar cuerpo único inmigrante encontrar desaparecer patera volcar chocar roca viajar inmigrante ser rescatar vecino los_cocoteros consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Ricardo_Fiestras_Gil"
+        ],
+        "locations": [
+            "Teguise",
+            "Lanzarote",
+            "Los_Cocoteros"
+        ],
+        "organizations": [
+            "Arrecife",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "6",
+            "25",
+            "nº1",
+            "32",
+            "6"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/642266/0/",
+    "title": {
+        "raw_text": "El plazo para optar a una vacante en el claustro de la Universidad de Las Palmas de Gran Canaria ya está abierto",
+        "lemmatized_text": "el plazo para optar a uno vacante en el claustro de el universidad_de_las_palmas_de_gran_canaria ya estar abrir",
+        "lemmatized_text_reduced": "plazo optar vacante claustro universidad_de_las_palmas_de_gran_canaria estar abrir",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La junta electoral de la Universidad de Las Palmas de Gran Canaria (ULPGC) ha abierto el plazo para presentar las candidaturas a fin de optar a una vacante en el claustro de la ULPGC.",
+        "lemmatized_text": "el junta electoral de el universidad_de_las_palmas_de_gran_canaria ulpgc haber abrir el plazo para presentar el candidatura a_fin_de optar a uno vacante en el claustro de el ulpgc",
+        "lemmatized_text_reduced": "junta electoral universidad_de_las_palmas_de_gran_canaria ulpgc haber abrir plazo presentar candidatura optar vacante claustro ulpgc",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC",
+            "ULPGC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El plazo permanecerá abierto del 3 al 6 de marzo, después de que la junta electoral central ya ha hecho público el censo definitivo para las votaciones y el calendario electoral donde se indica que la publicación de la proclamación provisional de los candidatos será el próximo 9 de marzo y, tras la conclusión del plazo de reclamaciones del 9 al 11 de marzo, se hará público el listado definitivo de los mismos el 13 de marzo. Posteriormente, el 19 de marzo, se desarrollará la votación y el escrutinio para cubrir las 25 plazas vacantes del claustro universitario, correspondientes a los colectivos de profesores funcionarios doctores (2 plazas), personal docente e investigador (3 plazas), estudiantes y becarios de investigación (16 plazas), así como personal de administración y servicios (4 plazas), según informó la ULPGC en nota de prensa. La proclamación provisional de los electos será el 22 de marzo, con plazo de reclamaciones hasta el 24 de marzo. Así, la proclamación definitiva de los electos será el viernes 26 de marzo. El Claustro Universitario de la ULPGC está compuesto por 200 miembros y en esta ocasión se eligen las 25 plazas vacantes citadas.",
+        "lemmatized_text": "el plazo permanecer abrir de el 3 a el [??:6/3/??:??.??:??] después_de que el junta electoral central ya haber hacer público el censo definitivo para el votación y el calendario electoral donde se indicar que el publicación de el proclamación provisional de el candidato ser el [??:9/3/??:??.??:??] y tras el conclusión de el plazo de reclamación de el 9 a el [??:11/3/??:??.??:??] se hacer público el listado definitivo de el mismo el [??:13/3/??:??.??:??] posteriormente el [??:19/3/??:??.??:??] se desarrollar el votación y el escrutinio para cubrir el 25 plaza vacante de el claustro universitario correspondiente a el colectivo de profesor funcionario doctor 2 plaza personal docente y investigador 3 plaza estudiante y becario de investigación 16 plaza así_como personal de administración y servicio 4 plaza según informar el ulpgc en nota de prensa el proclamación provisional de el electo ser el [??:22/3/??:??.??:??] con plazo de reclamación hasta el [??:24/3/??:??.??:??] así el proclamación definitivo de el electo ser el [V:26/3/??:??.??:??] el claustro_universitario_de_la_ulpgc estar componer por 200 miembro y en este ocasión se elegir el 25 plaza vacante citar",
+        "lemmatized_text_reduced": "plazo permanecer abrir junta electoral central haber hacer público censo definitivo votación calendario electoral indicar publicación proclamación provisional candidato ser conclusión plazo reclamación hacer público listado definitivo mismo posteriormente desarrollar votación escrutinio cubrir plaza vacante claustro universitario correspondiente colectivo profesor funcionario doctor plaza personal docente investigador plaza estudiante becario investigación plaza personal administración servicio plaza informar ulpgc nota prensa proclamación provisional electo ser plazo reclamación proclamación definitivo electo ser claustro_universitario_de_la_ulpgc estar componer miembro ocasión elegir plaza vacante citar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "ULPGC",
+            "Claustro_Universitario_de_la_ULPGC"
+        ],
+        "others": [],
+        "dates": [
+            "[??:6/3/??:??.??:??]",
+            "[??:9/3/??:??.??:??]",
+            "[??:11/3/??:??.??:??]",
+            "[??:13/3/??:??.??:??]",
+            "[??:19/3/??:??.??:??]",
+            "[??:22/3/??:??.??:??]",
+            "[??:24/3/??:??.??:??]",
+            "[V:26/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "9",
+            "25",
+            "2",
+            "3",
+            "16",
+            "4",
+            "200",
+            "25"
+        ]
+    }
+}

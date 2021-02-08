@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594332/0/",
+    "title": {
+        "raw_text": "Las fuertes lluvias provocan el cierre de tres tramos de carreteras en Gran Canaria",
+        "lemmatized_text": "el fuerte lluvia provocar el cierre de 3 tramo de carretera en gran_canaria",
+        "lemmatized_text_reduced": "fuerte lluvia provocar cierre tramo carretera gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Las fuertes lluvias que se han registrado en las últimas horas han provocado el cierre de tres tramos de carreteras en Gran Canaria, isla que permanece en alerta naranja por abundantes precipitaciones y viento, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el fuerte lluvia que se haber registrar en el último hora haber provocar el cierre de 3 tramo de carretera en gran_canaria isla que permanecer en alerta naranja por abundante precipitación y viento según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "fuerte lluvia haber registrar último hora haber provocar cierre tramo carretera gran_canaria isla permanecer alerta naranja abundante precipitación viento informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, las precipitaciones han originado desprendimientos de tierra en varios puntos y han obligado a proceder al cierre de la vía GC-200 en la zona de Tasarte, en el municipio de La Aldea de San Nicolás, que ha sido una de las localidades donde el temporal ha arrasado viviendas y negocios de particulares. A ello se suma el corte al tráfico de la carretera GC-60 que va a la Presa de Chira, al igual que la GC-505 en la entrada del pago del Pajar en Arguineguín, en el municipio de Mogán, al sur de la isla. De este modo, dichos tramos permanecen cerrados al tránsito de vehículos a la espera de acondicionar la vía para garantizar la seguridad de los conductores.",
+        "lemmatized_text": "en concreto el precipitación haber originar desprendimiento de tierra en varios punto y haber obligar a proceder a el cierre de el vía GC-200 en_la_zona_de tasarte en el municipio de la_aldea_de_san_nicolás que haber ser uno de el localidad donde el temporal haber arrasar vivienda y negocio de particular a ello se sumar el corte a el tráfico de el carretera GC-60 que ir a el presa_de_chira al_igual_que el GC-505 en el entrada de el pago de el pajar en arguineguín en el municipio de mogán a el sur de el isla de este modo decir tramo permanecer cerrar a el tránsito de vehículo a_la_espera_de acondicionar el vía para garantizar el seguridad de el conductor",
+        "lemmatized_text_reduced": "concreto precipitación haber originar desprendimiento tierra punto haber obligar proceder cierre vía tasarte municipio la_aldea_de_san_nicolás haber ser localidad temporal haber arrasar vivienda negocio particular sumar corte tráfico carretera ir presa_de_chira entrada pago pajar arguineguín municipio mogán sur isla modo decir tramo permanecer cerrar tránsito vehículo acondicionar vía garantizar seguridad conductor",
+        "persons": [],
+        "locations": [
+            "Tasarte",
+            "La_Aldea_de_San_Nicolás",
+            "Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "Presa_de_Chira",
+            "Pajar"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-200",
+            "GC-60",
+            "GC-505"
+        ]
+    }
+}

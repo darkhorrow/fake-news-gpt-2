@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/694537/0/",
+    "title": {
+        "raw_text": "Un anciano se recupera de una parada cardiorrespiratoria que sufrió en un cementerio de Gran Canaria",
+        "lemmatized_text": "uno anciano se recuperar de uno parada cardiorrespiratoria que sufrir en uno cementerio de gran_canaria",
+        "lemmatized_text_reduced": "anciano recuperar parada cardiorrespiratoria sufrir cementerio gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre, de 83 años de edad, se recupera de una parada cardiorrespiratoria que sufrió a primera hora de esta mañana en un cementerio de Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre de 83 año de edad se recuperar de uno parada cardiorrespiratoria que sufrir a 1 hora de este mañana en uno cementerio de las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre año edad recuperar parada cardiorrespiratoria sufrir 1 hora mañana cementerio las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "83",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 09.45 horas en el cementerio de la zona de Siete Palmas, lugar en el que el anciano sufrió un desvanecimiento y personas que se encontraban en la zona avisaron al 112 que se trasladó hasta el lugar. Posteriormente, personal del Servicio de Urgencias Canario (SUC), tras comprobar que el hombre se encontraba en parada cardiorrespiratoria, le practicó maniobras de reanimación avanzadas que consiguieron recuperarlo, siendo al Hospital Universitario de Gran Canaria Dr. Negrín. Asimismo, hasta el lugar se trasladaron agentes de la Policía Local que colaboraron con los recursos sanitarios y elaboró los informes oportunos.",
+        "lemmatized_text": "el incidente se producir a el TM_h:9.45 en el cementerio de el zona de 7 palmas lugar en el que el anciano sufrir uno desvanecimiento y persona que se encontrar en el zona avisar a el 112 que se trasladar hasta el lugar posteriormente personal de el servicio_de_urgencias_canario suc tras comprobar que el hombre se encontrar en parada cardiorrespiratoria le practicar maniobra de reanimación avanzar que conseguir recuperar lo ser a el hospital_universitario_de_gran_canaria_dr._negrín asimismo hasta el lugar se trasladar agente de el policía_local que colaborar con el recurso sanitario y elaborar el informe oportuno",
+        "lemmatized_text_reduced": "incidente producir cementerio zona palmas lugar anciano sufrir desvanecimiento persona encontrar zona avisar trasladar lugar posteriormente personal servicio_de_urgencias_canario suc comprobar hombre encontrar parada cardiorrespiratoria practicar maniobra reanimación avanzar conseguir recuperar ser hospital_universitario_de_gran_canaria_dr._negrín lugar trasladar agente policía_local colaborar recurso sanitario elaborar informe oportuno",
+        "persons": [],
+        "locations": [
+            "Palmas"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_de_Gran_Canaria_Dr._Negrín",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.45",
+            "7",
+            "112"
+        ]
+    }
+}

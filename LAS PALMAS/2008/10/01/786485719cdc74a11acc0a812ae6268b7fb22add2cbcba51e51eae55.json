@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/416553/0/lluvias/accidentes/trafico/",
+    "title": {
+        "raw_text": "Las fuertes lluvias caídas en Las Palmas GC causan daños y accidentes tráfico",
+        "lemmatized_text": "el fuerte lluvia caer en las_palmas_gc causar daño y accidente tráfico",
+        "lemmatized_text_reduced": "fuerte lluvia caer las_palmas_gc causar daño accidente tráfico",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Las_Palmas_GC"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El accidente más importante, en la entrada norte, dejó varios heridos leves. La mayoría de las incidencias se produjeron por bolsas de agua en la calzada. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el accidente más importante en el entrada norte dejar varios herido leve el mayoría de el incidencia se producir por bolsa de agua en el calzada consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "accidente importante entrada norte dejar herido leve mayoría incidencia producir bolsa agua calzada consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Las fuertes lluvias caídas a primeras horas de la tarde en Las Palmas de Gran Canaria causaron varios accidentes de tráfico , uno de ellos con heridos leves, y diversos daños y problemas ocasionados por la caída de piedras o cortes de semáforos . Las precipitaciones caídas durante cerca de una hora en la capital grancanaria fue el origen del siniestro de circulación por vuelco ocurrido en la autovía GC-2 , a la altura del desvío al barrio de Guanarteme, en el que se produjo varios heridos , informó el Ayuntamiento. También las lluvias causaron varios accidentes de tráfico ocurridos en la calle de Galicia con la Avenida de Mesa y López, frente al tanatorio de San Miguel y en la calle Numancia con la de Covadonga. En la plaza del Pino un vehículo sufrió daños a causa de la presencia en la vía pública de una piedra. CHARCOS EN LA CALZADA Sin embargo, la mayoría de las incidencias producidas por la lluvia consistieron en la formación de charcos en la calzada a causa de que numerosas alcantarillas rebosaban de agua. En el túnel de Julio Luengo , una de las principales arterias de la capital, también se produjo un gran charco en dirección norte a sur , a la altura de la salida. También la GC-23 sufrió el cierre del carril derecho desde el Hospital Doctor Negrín al centro comercial La Ballena por la caída de piedras y barro.",
+        "lemmatized_text": "el fuerte lluvia caer a 1 hora de el tarde en las_palmas_de_gran_canaria causar varios accidente de tráfico uno de ellos con herido leve y diverso daño y problema ocasionar por el caída de piedra o corte de semáforo el precipitación caer durante cerca de uno hora en el capital grancanaria ser el origen de el siniestro de circulación por vuelco ocurrir en el autovía GC-2 a el altura de el desvío a el barrio de guanarteme en el que se producir varios herido informar el ayuntamiento también el lluvia causar varios accidente de tráfico ocurrir en el calle de galicia con el avenida_de_mesa y lópez frente a el tanatorio de san_miguel y en el calle numancia con el de covadonga en el plaza de el pino uno vehículo sufrir daño a_causa_de el presencia en el vía público de uno piedra charcos_en_la_calzada_sin embargo el mayoría de el incidencia producir por el lluvia consistir en el formación de charco en el calzada a_causa_de que numeroso alcantarilla rebosar de agua en el túnel de [??:??/7/??:??.??:??] luengo uno de el principal arteria de el capital también se producir uno gran charco en dirección norte a sur a el altura de el salida también el GC-23 sufrir el cierre de el carril derecho desde el hospital_doctor_negrín a el centro comercial la_ballena por el caída de piedra y barro",
+        "lemmatized_text_reduced": "fuerte lluvia caer 1 hora tarde las_palmas_de_gran_canaria causar accidente tráfico herido leve daño problema ocasionar caída piedra corte semáforo precipitación caer hora capital grancanaria ser origen siniestro circulación vuelco ocurrir autovía altura desvío barrio guanarteme producir herido informar ayuntamiento lluvia causar accidente tráfico ocurrir calle galicia avenida_de_mesa lópez tanatorio san_miguel calle numancia covadonga plaza pino vehículo sufrir daño presencia vía público piedra charcos_en_la_calzada_sin embargo mayoría incidencia producir lluvia consistir formación charco calzada numeroso alcantarilla rebosar agua túnel luengo principal arteria capital producir gran charco dirección norte sur altura salida sufrir cierre carril derecho hospital_doctor_negrín centro comercial la_ballena caída piedra barro",
+        "persons": [
+            "López"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Guanarteme",
+            "Galicia",
+            "Avenida_de_Mesa",
+            "San_Miguel",
+            "Numancia",
+            "Covadonga",
+            "Pino",
+            "Luengo",
+            "Hospital_Doctor_Negrín",
+            "La_Ballena"
+        ],
+        "organizations": [
+            "Ayuntamiento"
+        ],
+        "others": [
+            "CHARCOS_EN_LA_CALZADA_Sin"
+        ],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "GC-2",
+            "GC-23"
+        ]
+    }
+}

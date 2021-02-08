@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599204/0/",
+    "title": {
+        "raw_text": "La Aemet establecerá el lunes el riesgo amarillo en Canarias por fuerte oleaje",
+        "lemmatized_text": "el aemet establecer el [L:??/??/??:??.??:??] el riesgo amarillo en canarias por fuerte oleaje",
+        "lemmatized_text_reduced": "aemet establecer riesgo amarillo canarias fuerte oleaje",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) establecerá el próximo lunes, 4 de enero, el riesgo amarillo en la Comunidad Autónoma de Canarias --menos en las islas de La Gomera y Gran Canaria-- por fenómenos costeros con fuerte oleaje, una alerta que estará vigente hasta el martes, día 5, según informa el Organismo en su página web.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet establecer el [L:4/1/??:??.??:??] el riesgo amarillo en el comunidad_autónoma_de_canarias menos en el isla de la_gomera y gran_canaria por fenómeno costero con fuerte oleaje uno alerta que estar vigente hasta el [M:5/??/??:??.??:??] según informar el organismo en su página web",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet establecer riesgo amarillo comunidad_autónoma_de_canarias isla la_gomera gran_canaria fenómeno costero fuerte oleaje alerta estar vigente informar organismo página web",
+        "persons": [],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Gran_Canaria",
+            "Organismo"
+        ],
+        "others": [],
+        "dates": [
+            "[L:4/1/??:??.??:??]",
+            "[M:5/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, La Palma y el Hierro serán las primeras islas donde tendrán fuerte oleaje, comenzando el riesgo a las 09.00 horas del lunes, mientras que en Tenerife, Lanzarote y Fuerteventura, los fenómenos costeros empezarán a partir de las 15.00 horas. Por su parte, la Aemet ha indicado además que dicho riesgo amarillo concluirá a las 00.00 horas del día siguiente, martes, 5 de enero.",
+        "lemmatized_text": "de este manera la_palma y el hierro ser el 1 isla donde tener fuerte oleaje comenzar el riesgo a el [L:??/??/??:9.00:??] mientras_que en tenerife lanzarote y fuerteventura el fenómeno costero empezar a_partir_de el TM_h:15 por su parte el aemet haber indicar además que decir riesgo amarillo concluir a el TM_h:0 de el día siguiente [M:5/1/??:??.??:??]",
+        "lemmatized_text_reduced": "manera la_palma hierro ser 1 isla tener fuerte oleaje comenzar riesgo tenerife lanzarote fuerteventura fenómeno costero empezar parte aemet haber indicar decir riesgo amarillo concluir día siguiente",
+        "persons": [
+            "Hierro"
+        ],
+        "locations": [
+            "La_Palma",
+            "Tenerife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Aemet"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:9.00:??]",
+            "[M:5/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:15",
+            "TM_h:0"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/723399/0/",
+    "title": {
+        "raw_text": "Una escaladora herida de carácter menos grave tras sufrir una caída en la presa de La Sorrueda (Gran Canaria)",
+        "lemmatized_text": "uno escalador herida de carácter menos grave tras sufrir uno caída en el presa de la_sorrueda gran_canaria",
+        "lemmatized_text_reduced": "escalador herida carácter grave sufrir caída presa la_sorrueda gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Sorrueda",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un helicóptero del GES evacuó a la afectada",
+        "lemmatized_text": "uno helicóptero de el ges evacuar a el afectar",
+        "lemmatized_text_reduced": "helicóptero ges evacuar afectar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "GES"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Una joven escaladora de 22 años ha resultado herida con traumatismo en miembro inferior de carácter menos grave tras sufrir una caída en la pared de escalada localizada en la zona de la presa de La Sorrueda, en Santa Lucía de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. El incidente se produjo a las 15.25 horas, cuando el Cecoes recibió una alerta que comunicaba que una escaladora había sufrido una caída mientras practicaba ese deporte y que precisaba asistencia sanitaria. De este modo, el 112 activó de inmediato los recursos de emergencia necesarios. Hacia el lugar se dirigió un helicóptero de rescate del Grupo de Emergencias y Salvamento (GES) que evacuó a la afectada a la helisuperficie del Hospital Universitario de Gran Canaria Doctor Negrín. Desde ahí se hizo cargo el personal del Servicio de Urgencias Canario que, tras estabilizarla, la trasladó en una ambulancia de soporte vital básico al servicio de Urgencias. La Guardia Civil y el Consorcio de Emergencias de Gran Canaria colaboraron con el Centro Coordinador y elaboraron los informes pertinentes, aunque finalmente no actuaron en el lugar del incidente dada la rápida intervención del helicóptero, según las mismas fuentes.",
+        "lemmatized_text": "uno joven escalador de 22 año haber resultar herida con traumatismo en miembro inferior de carácter menos grave tras sufrir uno caída en el pared de escalada localizar en_la_zona_de el presa de la_sorrueda en santa_lucía_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112 el incidente se producir a el TM_h:15.25 cuando el cecoes recibir uno alerta que comunicar que uno escalador haber sufrir uno caída mientras practicar ese deporte y que precisar asistencia sanitario de este modo el 112 activar de inmediato el recurso de emergencia necesario hacia el lugar se dirigir uno helicóptero de rescate de el grupo_de_emergencias y salvamento ges que evacuar a el afectado a el helisuperficie de el hospital_universitario_de_gran_canaria_doctor_negrín desde ahí se hacer_cargo el personal de el servicio_de_urgencias_canario que tras estabilizar lo el trasladar en uno ambulancia de soporte vital básico a el servicio de urgencias el guardia_civil y el consorcio_de_emergencias_de_gran_canaria colaborar con el centro_coordinador y elaborar el informe pertinente aunque finalmente no actuar en el lugar de el incidente dar el rápido intervención de el helicóptero según el mismo fuente",
+        "lemmatized_text_reduced": "joven escalador año haber resultar herida traumatismo miembro inferior carácter grave sufrir caída pared escalada localizar presa la_sorrueda santa_lucía_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes incidente producir cecoes recibir alerta comunicar escalador haber sufrir caída practicar deporte precisar asistencia sanitario modo activar inmediato recurso emergencia necesario lugar dirigir helicóptero rescate grupo_de_emergencias salvamento ges evacuar afectado helisuperficie hospital_universitario_de_gran_canaria_doctor_negrín hacer_cargo personal servicio_de_urgencias_canario estabilizar trasladar ambulancia soporte vital básico servicio urgencias guardia_civil consorcio_de_emergencias_de_gran_canaria colaborar centro_coordinador elaborar informe pertinente finalmente actuar lugar incidente dar rápido intervención helicóptero mismo fuente",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "La_Sorrueda",
+            "Santa_Lucía_de_Tirajana",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cecoes",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "Guardia_Civil",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Centro_Coordinador"
+        ],
+        "others": [
+            "Seguridad",
+            "Urgencias"
+        ],
+        "dates": [],
+        "numbers": [
+            "22",
+            "112",
+            "TM_h:15.25",
+            "112"
+        ]
+    }
+}

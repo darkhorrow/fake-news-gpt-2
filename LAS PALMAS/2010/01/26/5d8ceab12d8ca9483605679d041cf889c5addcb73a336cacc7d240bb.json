@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/614774/0/",
+    "title": {
+        "raw_text": "Los bomberos sofocan el incendio en una casa abandonada en La Aldea (Gran Canaria)",
+        "lemmatized_text": "el bombero sofocar el incendio en uno casa abandonar en la_aldea gran_canaria",
+        "lemmatized_text_reduced": "bombero sofocar incendio casa abandonar la_aldea gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Aldea",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cuerpo de bomberos del Consorcio de Gran Canaria procedió a la extinción del incendio en una vivienda abandonada ubicada en la calle El Clavel, dentro del término municipal de La Aldea de San Nicolás, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "el cuerpo de bombero de el consorcio_de_gran_canaria proceder a el extinción de el incendio en uno vivienda abandonar ubicar en el calle el_clavel dentro de el término municipal de la_aldea_de_san_nicolás según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "cuerpo bombero consorcio_de_gran_canaria proceder extinción incendio vivienda abandonar ubicar calle el_clavel término municipal la_aldea_de_san_nicolás informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "El_Clavel",
+            "La_Aldea_de_San_Nicolás"
+        ],
+        "organizations": [
+            "Consorcio_de_Gran_Canaria",
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los servicios de emergencia recibieron una llamada sobre las 23.30 horas de ayer indicando que se había producido fuego en una casa abandonada. En ese momento, el Cecoes activó su dispositivo habitual y trasladó al lugar una ambulancia de soporte vital básico del Servicio de Urgencias Canario (SUC) de manera preventiva y movilizó a los bomberos del Consorcio. Por su parte, los bomberos apagaron el incendio sin mayores complicaciones, aunque permanecieron refrescando la zona afectada por el fuego. Además, la Guardia Civil, que también acudió al lugar, colaboró en el dispositivo.",
+        "lemmatized_text": "el servicio de emergencia recibir uno llamada sobre el TM_h:23.3 de ayer indicar que se haber producir fuego en uno casa abandonar en ese momento el cecoes activar su dispositivo habitual y trasladar a el lugar uno ambulancia de soporte vital básico de el servicio_de_urgencias_canario suc de manera preventivo y movilizar a el bombero de el consorcio por su parte el bombero apagar el incendio sin mayor complicación aunque permanecer refrescar el zona afectar por el fuego además el guardia_civil que también acudir a el lugar colaborar en el dispositivo",
+        "lemmatized_text_reduced": "servicio emergencia recibir llamada indicar haber producir fuego casa abandonar momento cecoes activar dispositivo habitual trasladar lugar ambulancia soporte vital básico servicio_de_urgencias_canario suc manera preventivo movilizar bombero consorcio parte bombero apagar incendio mayor complicación permanecer refrescar zona afectar fuego guardia_civil acudir lugar colaborar dispositivo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Consorcio",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:23.3"
+        ]
+    }
+}

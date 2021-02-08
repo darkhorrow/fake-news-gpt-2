@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/593908/0/",
+    "title": {
+        "raw_text": "Detenido 'in fraganti' en Gran Canaria un hombre que robó en varias ocasiones cables de cobre en Ingenio",
+        "lemmatized_text": "detener in_fraganti en gran_canaria uno hombre que robar en varios ocasión cable de cobre en ingenio",
+        "lemmatized_text_reduced": "detener gran_canaria hombre robar ocasión cable cobre ingenio",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Ingenio"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Guardia Civil de Agüimes (Gran Canaria) ha detenido in fraganti a un varón, J.P.L., por robar en varias ocasiones el cableado de cobre situado en el tramo de carretera que une Carrizal e Ingenio, cuya titularidad es del Cabildo insular.",
+        "lemmatized_text": "el guardia_civil_de_agüimes gran_canaria haber detener in_fraganti a uno varón j.p.l. por robar en varios ocasión el cableado de cobre situar en el tramo de carretera que unir carrizal y ingenio cuyo titularidad ser de el cabildo insular",
+        "lemmatized_text_reduced": "guardia_civil_de_agüimes gran_canaria haber detener varón j.p.l. robar ocasión cableado cobre situar tramo carretera unir carrizal ingenio titularidad ser cabildo insular",
+        "persons": [],
+        "locations": [
+            "Carrizal",
+            "Ingenio"
+        ],
+        "organizations": [
+            "Guardia_Civil_de_Agüimes",
+            "Gran_Canaria",
+            "J.P.L.",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Según informó la Benemérita en nota de prensa, esta detención fue posible con la colaboración establecida entre los agentes del Área de Investigación de Agüimes, con el Grupo de Seguridad Ciudadana de Vecindario quienes dispusieron un operativo de apostaderos nocturnos de vigilancia de la vía anteriormente mencionada. En concreto, los agentes pudieron observar con claridad, desde un punto de vista estratégico previamente estudiado, como un individuo realizaba labores de corte del preciado cable con herramientas varias, así como se pertrechaba en el momento de paso de algún vehículo. Así pues, detuvieron, in situ e in fraganti al autor de los hechos al que le fueron intervenida una sierra, un martillo, una cizaña y unos guantes. El valor de los diferentes episodios de los robos, teniendo en cuenta lo sustraído y los daños producidos asciende a casi los 8.000 euros y según la Guardia Civil, debido a los mentados robos, dicha iluminación no se había podido llegar a inaugurar. Una vez detenido e instruidas las diligencias oportunas, tanto el varón como los objetos intervenidos pasaron a disposición de los Juzgados de Telde.",
+        "lemmatized_text": "según informar el benemérita en nota de prensa este detención ser posible con el colaboración establecer entre el agente de el área_de_investigación_de_agüimes con el grupo_de_seguridad_ciudadana_de_vecindario quien disponer uno operativo de apostadero nocturno de vigilancia de el vía anteriormente mencionar en concreto el agente poder observar con claridad desde uno punto de vista estratégico previamente estudiar como uno individuo realizar labor de corte de el preciar cable con herramienta varios así_como se pertrechar en el momento de paso de alguno vehículo así_pues detener in_situ y in_fraganti a el autor de el hecho a el que le ser intervenir uno sierra uno martillo uno cizaña y uno guante el valor de el diferente episodio de el robo tener_en_cuenta el sustraer y el daño producir ascender a casi el $_ECU:8 y según el guardia_civil debido_a el mentar robo decir iluminación no se haber poder llegar a inaugurar uno vez detener y instruir el diligencia oportuno tanto el varón como el objeto intervenir pasar a disposición de el juzgados_de_telde",
+        "lemmatized_text_reduced": "informar benemérita nota prensa detención ser posible colaboración establecer agente área_de_investigación_de_agüimes grupo_de_seguridad_ciudadana_de_vecindario disponer operativo apostadero nocturno vigilancia vía anteriormente mencionar concreto agente poder observar claridad punto vista estratégico previamente estudiar individuo realizar labor corte preciar cable herramienta pertrechar momento paso vehículo detener autor hecho ser intervenir sierra martillo cizaña guante valor diferente episodio robo tener_en_cuenta sustraer daño producir ascender guardia_civil mentar robo decir iluminación haber poder llegar inaugurar vez detener instruir diligencia oportuno varón objeto intervenir pasar disposición juzgados_de_telde",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Benemérita",
+            "Área_de_Investigación_de_Agüimes",
+            "Grupo_de_Seguridad_Ciudadana_de_Vecindario",
+            "Guardia_Civil",
+            "Juzgados_de_Telde"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:8"
+        ]
+    }
+}

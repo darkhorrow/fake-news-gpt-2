@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/589732/0/",
+    "title": {
+        "raw_text": "El vuelco de un vehículo en la carretera del norte provoca importantes retenciones en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el vuelco de uno vehículo en el carretera de el norte provocar importante retención en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "vuelco vehículo carretera norte provocar importante retención las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El vuelco de un vehículo en la carretera del norte de Gran Canaria (GC-2) ha provocado importantes retenciones de tráfico a la salida de la ciudad de Las Palmas de Gran Canaria, según informaron a Europa Press miembros de la Policía Local.",
+        "lemmatized_text": "el vuelco de uno vehículo en el carretera de el norte de gran_canaria GC-2 haber provocar importante retención de tráfico a el salida de el ciudad de las_palmas_de_gran_canaria según informar a europa_press miembro de el policía_local",
+        "lemmatized_text_reduced": "vuelco vehículo carretera norte gran_canaria haber provocar importante retención tráfico salida ciudad las_palmas_de_gran_canaria informar europa_press miembro policía_local",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "GC-2"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente, que no se saldó con ningún herido, se produjo sobre las 15.00 horas en la carretera anteriormente mencionada a la altura del monumento del Atlante. Dados los atascos generados, la policía ha tenido que cortar el tráfico en el túnel de Julio Luengo, desviando la circulación por la avenida Mesa y López y por el Barranquillo de Don Zoilo. Hasta el lugar de los hechos se trasladó el Servicio de Urgencias Canario (SUC), que no tuvo que intervenir ya que ninguna persona se vio afectada, los bomberos y la Guardia Civil, que se encargó de instruir las diligencias oportunas.",
+        "lemmatized_text": "el incidente que no se saldar con ninguno herir se producir sobre el TM_h:15 en el carretera anteriormente mencionar a el altura de el monumento de el atlante dar el atasco generar el policía haber tener que cortar el tráfico en el túnel de [??:??/7/??:??.??:??] luengo desviar el circulación por el avenida mesa y lópez y por el barranquillo_de_don_zoilo hasta el lugar de el hecho se trasladar el servicio_de_urgencias_canario suc que no tener que intervenir ya_que ninguno persona se ver afectar el bombero y el guardia_civil que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "incidente saldar herir producir carretera anteriormente mencionar altura monumento atlante dar atasco generar policía haber tener cortar tráfico túnel luengo desviar circulación avenida mesa lópez barranquillo_de_don_zoilo lugar hecho trasladar servicio_de_urgencias_canario suc tener intervenir persona ver afectar bombero guardia_civil encargar instruir diligencia oportuno",
+        "persons": [
+            "Luengo",
+            "López"
+        ],
+        "locations": [
+            "Atlante"
+        ],
+        "organizations": [
+            "Mesa",
+            "Barranquillo_de_Don_Zoilo",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:15"
+        ]
+    }
+}

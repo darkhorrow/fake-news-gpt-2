@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/625007/0/",
+    "title": {
+        "raw_text": "Unas 300 personas ya están inscritas en un curso de chino que impartirá la Universidad de Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno 300 persona ya estar inscribir en uno curso de chino que impartir el universidad_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "persona estar inscribir curso chino impartir universidad_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "300"
+        ]
+    },
+    "lead": {
+        "raw_text": "Unas 300 personas ya se han inscrito en un curso de chino que ha organizado la Universidad de Las Palmas de Gran Canaria (ULPGC) y que impartirán dos profesoras nativas de la Universidad de Changchung (República Popular de China) y que actualmente se encuentran en la ULPGC.",
+        "lemmatized_text": "uno 300 persona ya se haber inscribir en uno curso de chino que haber organizar el universidad_de_las_palmas_de_gran_canaria ulpgc y que impartir 2 profesor nativo de el universidad_de_changchung república_popular_de_china y que actualmente se encontrar en el ulpgc",
+        "lemmatized_text_reduced": "persona haber inscribir curso chino haber organizar universidad_de_las_palmas_de_gran_canaria ulpgc impartir profesor nativo universidad_de_changchung república_popular_de_china actualmente encontrar ulpgc",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Universidad_de_Las_Palmas_de_Gran_Canaria",
+            "ULPGC",
+            "Universidad_de_Changchung",
+            "República_Popular_de_China",
+            "ULPGC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "300",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El curso dirigido a la comunidad universitaria, se llevará a cabo gracias a un convenio de colaboración suscrito en 2009 entre la ULPGC y la Universidad Normal de Changchung para el fomento del estudio de la lengua y cultura china, según informó la ULPGC en nota de prensa. Así, el taller consta de 40 horas y 4 créditos ECTS, y comenzará a impartirse a partir del 18 de febrero. Las plazas son limitadas y el plazo de matriculación permanecerá abierto hasta el próximo 12 de febrero. Además, entre los acuerdos alcanzados por ambas universidades destaca, fomentar la colaboración y la cooperación para la creación del Instituto Confucio, institución dedicada a dar a conocer la cultura china y su lengua; el intercambio de conocimientos científicos; y fomentar la movilidad e intercambio de alumnos, profesorado y personal de administración, así como de servicios.",
+        "lemmatized_text": "el curso dirigir a el comunidad universitario se llevar_a_cabo gracias_a uno convenio de colaboración suscribir en 2009 entre el ulpgc y el universidad_normal_de_changchung para el fomento de el estudio de el lengua y cultura chino según informar el ulpgc en nota de prensa así el taller constar de TM_h:40 y 4 crédito ects y comenzar a impartir se a partir de el [??:18/2/??:??.??:??] el plaza ser limitar y el plazo de matriculación permanecer abrir hasta el [??:12/2/??:??.??:??] además entre el acuerdo alcanzar por ambos universidad destacar fomentar el colaboración y el cooperación para el creación de el instituto_confucio institución dedicar a dar_a_conocer el cultura chino y su lengua el intercambio de conocimiento científico y fomentar el movilidad y intercambio de alumno profesorado y personal de administración así_como de servicio",
+        "lemmatized_text_reduced": "curso dirigir comunidad universitario llevar_a_cabo convenio colaboración suscribir ulpgc universidad_normal_de_changchung fomento estudio lengua cultura chino informar ulpgc nota prensa taller constar crédito ects comenzar impartir partir plaza ser limitar plazo matriculación permanecer abrir acuerdo alcanzar universidad destacar fomentar colaboración cooperación creación instituto_confucio institución dedicar dar_a_conocer cultura chino lengua intercambio conocimiento científico fomentar movilidad intercambio alumno profesorado personal administración servicio",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "ULPGC",
+            "Universidad_Normal_de_Changchung",
+            "ULPGC",
+            "ECTS",
+            "Instituto_Confucio"
+        ],
+        "others": [],
+        "dates": [
+            "[??:18/2/??:??.??:??]",
+            "[??:12/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "2009",
+            "TM_h:40",
+            "4"
+        ]
+    }
+}

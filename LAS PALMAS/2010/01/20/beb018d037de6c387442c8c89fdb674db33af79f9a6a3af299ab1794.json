@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/610810/0/",
+    "title": {
+        "raw_text": "CCOO pide al Gobierno canario que acate la sentencia sobre complementos de orientadores y afronte 1 millón en retrasos",
+        "lemmatized_text": "ccoo pedir a el gobierno canario que acatar el sentencia sobre complemento de orientador y afrontar 1000000 en retraso",
+        "lemmatized_text_reduced": "ccoo pedir gobierno canario acatar sentencia complemento orientador afrontar retraso",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CCOO",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "CCOO ha pedido hoy al Gobierno canario que acate la sentencia favorable a los orientadores de educación del Cuerpo de Maestros, que considera que la administración debe mantener los complementos que les quitó en 2006, y que supondría el pago de 1 millón de euros en atrasos.",
+        "lemmatized_text": "ccoo haber pedir hoy a el gobierno canario que acatar el sentencia favorable a el orientador de educación de el cuerpo_de_maestros que considerar que el administración deber mantener el complemento que le quitar en 2006 y que suponer el pago de $_ECU:1000000 en atraso",
+        "lemmatized_text_reduced": "ccoo haber pedir gobierno canario acatar sentencia favorable orientador educación cuerpo_de_maestros considerar administración deber mantener complemento quitar suponer pago atraso",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CCOO",
+            "Gobierno",
+            "Cuerpo_de_Maestros"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2006",
+            "$_ECU:1000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Tanto el secretario de Organización, de Finanzas, de Política Social y de Medio Ambiente de la Federación de Enseñanza de CCOO en Canarias, Juan Viera Pérez, como el abogado y secretario insular de Enseñanza de CCOO en Gran Canaria, Desiderio Padilla Belza, pidieron al Gobierno regional que no recurra la sentencia y que la extienda a todos los trabajadores. Padilla pidió además que no se recurra porque, en caso contrario, el recurso de casación al Tribunal Supremo supondría alargar el conflicto otros entre 6 y 7 años, perjudicando aún más a los trabajadores y la labor que realizan. Para ello, CCOO se basa en una sentencia del 18 de diciembre de 2009 en la que la sección primera de la Sala de lo Contencioso administrativo del Tribunal Superior de Justicia de Canarias (TSJC) da la razón a una trabajadora sobre que se le reconozca y abone el complemento específico de orientadora. Si el Ejecutivo canario no recurre, CCOO pedirá a la Consejería de Educación que, \"para evitar injusticias\", extienda el reconocimiento a los 200 orientadores, lo que supondría un desembolso de 1 millón de euros en los atrasos correspondiente a este complemento, de en torno a los 180 euros por trabajador.",
+        "lemmatized_text": "tanto el secretario de organización de finanzas de política_social y de medio_ambiente_de_la_federación_de_enseñanza_de_ccoo en canarias juan_viera_pérez como el abogado y secretario insular de enseñanza_de_ccoo en gran_canaria desiderio_padilla_belza pedir a el gobierno regional que no recurrir el sentencia y que lo extender a todo el trabajador padilla pedir además que no se recurrir porque en caso contrario el recurso de casación a el tribunal_supremo suponer alargar el conflicto otro entre 6 y 7 año perjudicar aun más a el trabajador y el labor que realizar para ello ccoo se basar en uno sentencia de el [??:18/12/2009:??.??:??] en el que el sección 1 de el sala de el contencioso administrativo de el tribunal_superior_de_justicia_de_canarias tsjc dar el razón a uno trabajador sobre que se le reconocer y abonar el complemento específico de orientador si el ejecutivo canario no recurrir ccoo pedir a el consejería_de_educación que para evitar injusticia extender el reconocimiento a el 200 orientador el que suponer uno desembolso de $_ECU:1000000 en el atraso correspondiente a este complemento de en_torno_a el $_ECU:180 por trabajador",
+        "lemmatized_text_reduced": "secretario organización finanzas política_social medio_ambiente_de_la_federación_de_enseñanza_de_ccoo canarias juan_viera_pérez abogado secretario insular enseñanza_de_ccoo gran_canaria desiderio_padilla_belza pedir gobierno regional recurrir sentencia extender trabajador padilla pedir recurrir caso contrario recurso casación tribunal_supremo suponer alargar conflicto año perjudicar trabajador labor realizar ccoo basar sentencia sección 1 sala contencioso administrativo tribunal_superior_de_justicia_de_canarias tsjc dar razón trabajador reconocer abonar complemento específico orientador ejecutivo canario recurrir ccoo pedir consejería_de_educación evitar injusticia extender reconocimiento orientador suponer desembolso atraso correspondiente complemento trabajador",
+        "persons": [
+            "Juan_Viera_Pérez",
+            "Desiderio_Padilla_Belza",
+            "Padilla",
+            "Sala"
+        ],
+        "locations": [
+            "Canarias",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Organización",
+            "Finanzas",
+            "Medio_Ambiente_de_la_Federación_de_Enseñanza_de_CCOO",
+            "Enseñanza_de_CCOO",
+            "Gobierno",
+            "Tribunal_Supremo",
+            "CCOO",
+            "Contencioso",
+            "Tribunal_Superior_de_Justicia_de_Canarias",
+            "TSJC",
+            "Ejecutivo",
+            "CCOO",
+            "Consejería_de_Educación"
+        ],
+        "others": [
+            "Política_Social"
+        ],
+        "dates": [
+            "[??:18/12/2009:??.??:??]"
+        ],
+        "numbers": [
+            "6",
+            "7",
+            "200",
+            "$_ECU:1000000",
+            "$_ECU:180"
+        ]
+    }
+}

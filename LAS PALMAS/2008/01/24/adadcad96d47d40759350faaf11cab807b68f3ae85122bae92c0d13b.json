@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-01-24T00:00:00",
+    "url": "https://www.20minutos.es/noticia/338732/0/cayuco/inmigrantes/canaria/",
+    "title": {
+        "raw_text": "Interceptan un cayuco con 70 inmigrantes en alta mar, al sur de Gran Canaria",
+        "lemmatized_text": "interceptar uno cayuco con 70 inmigrante en alto mar a el sur de gran_canaria",
+        "lemmatized_text_reduced": "interceptar cayuco inmigrante alto mar sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "70"
+        ]
+    },
+    "lead": {
+        "raw_text": "Salvamento Marítimo los conduce a tierra firme. Un pesquero avisó de su presencia. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "salvamento_marítimo lo conducir a tierra firme uno pesquero avisar de su presencia consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "salvamento_marítimo conducir tierra firme pesquero avisar presencia consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un cayuco con unos 70 inmigrantes irregulare s a bordo fue interceptado anoche en alta mar, al sur de Gran Canaria, por una embarcación de Salvamento Marítimo que conduce a sus ocupantes hacia esa isla, ha informado hoy un portavoz de ese servicio de emergencias. El cayuco fue avistado a última hora de ayer por un pesquero que navegaba por la zona y avisó de su presencia cuando la embarcación se encontraba a unas cien millas del faro de Maspalomas, en el sur de Gran Canaria. Tras recibir la alerta, el remolcador \"Conde de Gondomar\" de Salvamento Marítimo se dirigió a su encuentro y rescató a los inmigrantes hacia las 23:00 horas. Al parecer, los inmigrantes se encuentran en buen estado de salud y son conducidos por el \"Conde de Gondomar\" hacia al puerto de Arguineguín, en el municipio grancanario de Mogán, adonde está previsto que lleguen hacia las 14:00 horas de hoy. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno cayuco con uno 70 inmigrante irregulare segundo a_bordo ser interceptar anoche en alto mar a el sur de gran_canaria por uno embarcación de salvamento_marítimo que conducir a su ocupante hacia ese isla haber informar hoy uno portavoz de ese servicio de emergencia el cayuco ser avistar a último hora de ayer por uno pesquero que navegar por el zona y avisar de su presencia cuando el embarcación se encontrar a uno LN_mi:100 de el faro de maspalomas en el sur de gran_canaria tras recibir el alerta el remolcador conde_de_gondomar de salvamento_marítimo se dirigir a su encuentro y rescatar a el inmigrante hacia el TM_h:23:00 a el parecer el inmigrante se encontrar en bueno estado de salud y ser conducir por el conde_de_gondomar hacia a el puerto de arguineguín en el municipio grancanario de mogán adonde estar prever que llegar hacia el TM_h:14:00 de hoy consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "cayuco inmigrante irregulare segundo ser interceptar alto mar sur gran_canaria embarcación salvamento_marítimo conducir ocupante isla haber informar portavoz servicio emergencia cayuco ser avistar último hora pesquero navegar zona avisar presencia embarcación encontrar faro maspalomas sur gran_canaria recibir alerta remolcador conde_de_gondomar salvamento_marítimo dirigir encuentro rescatar inmigrante parecer inmigrante encontrar bueno estado salud ser conducir conde_de_gondomar puerto arguineguín municipio grancanario mogán estar prever llegar consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Maspalomas",
+            "Gran_Canaria",
+            "Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Conde_de_Gondomar",
+            "Conde_de_Gondomar"
+        ],
+        "dates": [],
+        "numbers": [
+            "70",
+            "LN_mi:100",
+            "TM_h:23:00",
+            "TM_h:14:00"
+        ]
+    }
+}

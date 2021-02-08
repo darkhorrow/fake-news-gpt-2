@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/698920/0/",
+    "title": {
+        "raw_text": "Remolcan fuera del Puerto de La Luz y de Las Palmas un buque abandonado que comenzó a arder",
+        "lemmatized_text": "remolcar fuera de el puerto_de_la_luz y de las_palmas uno buque abandonar que comenzar a arder",
+        "lemmatized_text_reduced": "remolcar puerto_de_la_luz las_palmas buque abandonar comenzar arder",
+        "persons": [],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El buque Himapeche 2 --que se encontraba abandonado en Puerto de La Luz y de Las Palmas desde 2008--, ha tenido que ser remolcado hasta alta mar después de que comenzara a arder sobe las 11.15 horas de hoy por causas que se desconocen, según informaron a Europa Press fuentes de la Autoridad Portuaria de Las Palmas, quien precisó que el suceso no ha provocado ningún tipo de víctima.",
+        "lemmatized_text": "el buque himapeche 2 que se encontrar abandonar en puerto_de_la_luz y de las_palmas desde 2008 haber tener que ser remolcar hasta alto mar después_de que comenzar a arder sobar el TM_h:11.15 de hoy por causa que se desconocer según informar a europa_press fuente de el autoridad_portuaria_de_las_palmas quien precisar que el suceso no haber provocar ninguno tipo de víctima",
+        "lemmatized_text_reduced": "buque himapeche encontrar abandonar puerto_de_la_luz las_palmas haber tener ser remolcar alto mar comenzar arder sobar causa desconocer informar europa_press fuente autoridad_portuaria_de_las_palmas precisar suceso haber provocar tipo víctima",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Himapeche",
+            "Las_Palmas",
+            "Autoridad_Portuaria_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "2008",
+            "TM_h:11.15"
+        ]
+    },
+    "body": {
+        "raw_text": "El barco se encontraba en el muelle junto a sus buques 'hermano', el Himapeche 1 e Himapeche 3, desde hacía dos años y solía tener una persona que encargaba de la vigilancia de los mismo, aunque durante la jornada de hoy dicho vigilante no estaba, indicaron las mismas fuentes. Una vez detectado el incendio, se llamó al servicio de bomberos del puerto, quienes concluyeron que el fuego era incontrolable, por lo que recomendaron que el barco fuera remolcado fuera del muelle por seguridad. Así, la Autoridad Portuaria se puso en contacto con Capitanía Marítima para que diera autorización al traslado. La operación se llevó a cabo en primer lugar con los remolcadores del Puerto de La Luz, mientras que un remolcador de Salvamento Marítimo tomó el testigo para llevar el buque fuera de la bahía de Las Palmas de Gran Canaria y evitar que el barco fuera un peligro para la navegación. En este momento se ha estimado que el Himapeche 2 está ya fuera de la bahía, mientras que lo que queda es esperar a que se apague el fuego por sí mismo y ver si se hunde o no. En el caso de que se hundiera, lo habitual en estos casos es dejar que el barco —que se encuentra una zona de profundidad— caiga a una cima marítima de más de 1.000 metros, donde no afectara al tráfico marítimo.",
+        "lemmatized_text": "el barco se encontrar en el muelle junto_a su buque hermano el himapeche 1 y himapeche 3 desde hacer 2 año y soler tener uno persona que encargar de el vigilancia de el mismo aunque durante el jornada de hoy decir vigilante no estar indicar el mismo fuente uno vez detectar el incendio se llamar a el servicio de bombero de el puerto quien concluir que el fuego ser incontrolable por el que recomendar que el barco ser remolcar fuera de el muelle por seguridad así el autoridad_portuaria se poner_en_contacto con capitanía_marítima para que dar autorización a el traslado el operación se llevar_a_cabo en 1 lugar con el remolcador de el puerto_de_la_luz mientras_que uno remolcador de salvamento_marítimo tomar el testigo para llevar el buque fuera_de el bahía de las_palmas_de_gran_canaria y evitar que el barco ser uno peligro para el navegación en este momento se haber estimar que el himapeche 2 estar ya fuera_de el bahía mientras_que el que quedar ser esperar a que se apagar el fuego por sí mismo y ver si se hundir o no en el caso de que se hundir lo habitual en este caso ser dejar que el barco que se encontrar uno zona de profundidad caer a uno cima marítimo de más de LN_m:1 donde no afectar a el tráfico marítimo",
+        "lemmatized_text_reduced": "barco encontrar muelle buque hermano himapeche himapeche hacer año soler tener persona encargar vigilancia mismo jornada decir vigilante estar indicar mismo fuente vez detectar incendio llamar servicio bombero puerto concluir fuego ser incontrolable recomendar barco ser remolcar muelle seguridad autoridad_portuaria poner_en_contacto capitanía_marítima dar autorización traslado operación llevar_a_cabo 1 lugar remolcador puerto_de_la_luz remolcador salvamento_marítimo tomar testigo llevar buque bahía las_palmas_de_gran_canaria evitar barco ser peligro navegación momento haber estimar himapeche estar bahía quedar ser esperar apagar fuego mismo ver hundir caso hundir habitual caso ser dejar barco encontrar zona profundidad caer cima marítimo afectar tráfico marítimo",
+        "persons": [
+            "Capitanía_Marítima",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Himapeche",
+            "Himapeche",
+            "Autoridad_Portuaria",
+            "Himapeche"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1",
+            "3",
+            "2",
+            "2",
+            "LN_m:1"
+        ]
+    }
+}

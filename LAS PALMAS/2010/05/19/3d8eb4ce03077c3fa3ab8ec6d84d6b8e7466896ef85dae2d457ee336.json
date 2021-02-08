@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/712068/0/",
+    "title": {
+        "raw_text": "El crucero de lujo de bajo consumo 'Celebrity Eclipse' realizará su viaje inaugural en Las Palmas de Gran Canaria",
+        "lemmatized_text": "el crucero de lujo de bajo consumo celebrity_eclipse realizar su viaje inaugural en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "crucero lujo consumo celebrity_eclipse realizar viaje inaugural las_palmas_de_gran_canaria",
+        "persons": [
+            "Celebrity_Eclipse"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El crucero de lujo de bajo consumo de combustible 'Celebrity Eclipse' arribará el próximo miércoles día 26 de mayo en viaje inaugural al Puerto de La Luz de Las Palmas de Gran Canaria con 2.852 pasajeros y 1.271 tripulantes.",
+        "lemmatized_text": "el crucero de lujo de bajo consumo de combustible celebrity_eclipse arribar el [X:26/5/??:??.??:??] en viaje inaugural a el puerto_de_la_luz_de_las_palmas_de_gran_canaria con 2.852 pasajero y 1.271 tripulante",
+        "lemmatized_text_reduced": "crucero lujo consumo combustible celebrity_eclipse arribar viaje inaugural puerto_de_la_luz_de_las_palmas_de_gran_canaria pasajero tripulante",
+        "persons": [
+            "Celebrity_Eclipse"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[X:26/5/??:??.??:??]"
+        ],
+        "numbers": [
+            "2.852",
+            "1.271"
+        ]
+    },
+    "body": {
+        "raw_text": "El crucero de lujo de la compañía Celebrity Cruises destaca en su construcción por el bajo consumo de combustible, que tiene gracias a sus delgados contornos. El 'Celebrity Eclipse' tiene 314,80 metros de eslora y cuenta con 17 cubiertas y supone una inversión de 750 millones de dólares, según informa en un comunicado la Autoridad Portuaria de Las Palmas. Rescate de turistas británicos Cuando se produjo el cierre del espacio aéreo del Reino Unido debido a la erupción del volcán de Islandia, el recién terminado Eclipse fue utilizado para rescatar a los turistas británicos varados en España como \"un acto de buena voluntad\" por parte de la naviera. La Autoridad Portuaria de Las Palmas le hará entrega de una metopa al capitán del 'Celebrity Eclipse' a las 11.15 horas, como es tradicional en los viajes inaugurales.",
+        "lemmatized_text": "el crucero de lujo de el compañía celebrity_cruises destacar en su construcción por el bajo consumo de combustible que tener gracias_a su delgado contorno el celebrity_eclipse tener LN_m:314,80 de eslora y contar con 17 cubierta y suponer uno inversión de $_USD:750000000 según informar en uno comunicado el autoridad_portuaria_de_las_palmas rescate de turista británico cuando se producir el cierre de el espacio aéreo de el reino_unido debido_a el erupción de el volcán de islandia el recién terminar eclipse ser utilizar para rescatar a el turista británico varar en españa como uno acto de_buena_voluntad por parte de el naviero el autoridad_portuaria_de_las_palmas le hacer entrega de uno metopa a el capitán de el celebrity_eclipse a el TM_h:11.15 como ser tradicional en el viaje inaugural",
+        "lemmatized_text_reduced": "crucero lujo compañía celebrity_cruises destacar construcción bajo consumo combustible tener delgado contorno celebrity_eclipse tener eslora contar cubierta suponer inversión informar comunicado autoridad_portuaria_de_las_palmas rescate turista británico cuando producir cierre espacio aéreo reino_unido erupción volcán islandia terminar eclipse ser utilizar rescatar turista británico varar españa acto parte naviero autoridad_portuaria_de_las_palmas hacer entrega metopa capitán celebrity_eclipse ser tradicional viaje inaugural",
+        "persons": [
+            "Celebrity_Eclipse",
+            "Eclipse",
+            "Celebrity_Eclipse"
+        ],
+        "locations": [
+            "Reino_Unido",
+            "Islandia",
+            "España"
+        ],
+        "organizations": [
+            "Celebrity_Cruises",
+            "Autoridad_Portuaria_de_Las_Palmas",
+            "Cuando",
+            "Autoridad_Portuaria_de_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_m:314,80",
+            "17",
+            "$_USD:750000000",
+            "TM_h:11.15"
+        ]
+    }
+}

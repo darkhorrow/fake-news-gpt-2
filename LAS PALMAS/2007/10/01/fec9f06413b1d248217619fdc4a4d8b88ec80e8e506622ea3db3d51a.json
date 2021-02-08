@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-10-01T00:00:00",
+    "url": "https://www.20minutos.es/noticia/283853/0/pesquero/apresado/cocaina/",
+    "title": {
+        "raw_text": "Un pesquero apresado con 3.200 kilos de cocaína será traido a Gran Canaria",
+        "lemmatized_text": "uno pesquero apresar con 3.2 kilo de cocaína ser traido a gran_canaria",
+        "lemmatized_text_reduced": "pesquero apresar kilo cocaína ser traido gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3.2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los siete tripulantes del pesquero fueron detenidos. Los efectivos de la Agencia Tributaria hallaron 92 fardos de la droga. CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el 7 tripulante de el pesquero ser detener el efectivo de el agencia_tributaria hallar 92 fardo de el droga consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "tripulante pesquero ser detener efectivo agencia_tributaria hallar fardo droga consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Agencia_Tributaria",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "7",
+            "92"
+        ]
+    },
+    "body": {
+        "raw_text": "El pesquero venezolano \"Zeus X\", apresado el pasado martes con 3.200 kilos de cocaína a unas 1.050 millas de Canarias , está previsto que llegue mañana a la base naval de la capital grancanaria, informaron hoy fuentes de la Delegación del Gobierno. Los siete tripulantes del pesquero fueron detenidos como consecuencia de la operación llevada a cabo por el buque de operaciones especiales de la Agencia Tributaria, el \"Petrel I\", y supone la cuarta incautación de más de tres toneladas de droga en lo que va de año. Los efectivos de la Agencia Tributaria hallaron 92 fardos de cocaína de aproximadamente 35 kilos cada uno y que podrían haber alcanzado un precio de venta superior a los 190 millones de euros. El Juzgado Central número 4 de la Audiencia Nacional ha decretado la prisión de los detenidos, seis de nacionalidad venezolana y uno ecuatoriano. La operación respondió a la solicitud de colaboración del Centro de Operaciones y Análisis Marítimos sobre Narcóticos de Lisboa, una vez que este organismo tuvo conocimiento de un posible transbordo de cocaína en aguas del Atlántico . CONSULTA AQUÍ TODAS LAS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "el pesquero venezolano zeus_x apresar el [M:??/??/??:??.??:??] con 3.2 kilo de cocaína a uno LN_mi:1.05 de canarias estar prever que llegar mañana a el base naval de el capital grancanaria informar hoy fuente de el delegación_del_gobierno el 7 tripulante de el pesquero ser detener como consecuencia de el operación llevar_a_cabo por el buque de operación especial de el agencia_tributaria el petrel_i y suponer el 4 incautación de más de WG_tm:3 de droga en el que ir de año el efectivo de el agencia_tributaria hallar 92 fardo de cocaína de aproximadamente 35 kilo cada uno y que poder haber alcanzar uno precio de venta superior a el $_ECU:190000000 el juzgado_central número 4 de el audiencia_nacional haber decretar el prisión de el detenido 6 de nacionalidad venezolano y uno ecuatoriano el operación responder a el solicitud de colaboración de el centro_de_operaciones y análisis_marítimos sobre narcóticos_de_lisboa una_vez_que este organismo tener conocimiento de uno posible transbordo de cocaína en agua de el atlántico consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "pesquero venezolano zeus_x apresar kilo cocaína canarias estar prever llegar base naval capital grancanaria informar fuente delegación_del_gobierno tripulante pesquero ser detener consecuencia operación llevar_a_cabo buque operación especial agencia_tributaria petrel_i suponer 4 incautación droga ir año efectivo agencia_tributaria hallar fardo cocaína aproximadamente kilo poder haber alcanzar precio venta superior juzgado_central número audiencia_nacional haber decretar prisión detenido nacionalidad venezolano ecuatoriano operación responder solicitud colaboración centro_de_operaciones análisis_marítimos narcóticos_de_lisboa organismo tener conocimiento posible transbordo cocaína agua atlántico consulta_aquí_todas_las_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Delegación_del_Gobierno",
+            "Agencia_Tributaria",
+            "Agencia_Tributaria",
+            "Juzgado_Central",
+            "Audiencia_Nacional",
+            "Centro_de_Operaciones",
+            "Análisis_Marítimos",
+            "Narcóticos_de_Lisboa",
+            "CONSULTA_AQUÍ_TODAS_LAS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Zeus_X",
+            "Petrel_I",
+            "Atlántico"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "3.2",
+            "LN_mi:1.05",
+            "7",
+            "WG_tm:3",
+            "92",
+            "35",
+            "$_ECU:190000000",
+            "4",
+            "6"
+        ]
+    }
+}

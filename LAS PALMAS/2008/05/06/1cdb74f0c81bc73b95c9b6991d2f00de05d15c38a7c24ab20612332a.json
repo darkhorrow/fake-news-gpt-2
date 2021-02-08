@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/375764/0/cayuco/inmigrante/canaria/",
+    "title": {
+        "raw_text": "Llegan 49 inmigrantes, 5 en mal estado, en un cayuco avistado en Gran Canaria",
+        "lemmatized_text": "llegar 49 inmigrante 5 en mal estado en uno cayuco avistar en gran_canaria",
+        "lemmatized_text_reduced": "llegar inmigrante mal estado cayuco avistar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "49",
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos de los inmigrantes fueron trasladados a centros sanitarios. Tres recibieron la atención médica en el propio puerto. Entre los \"sin papeles\" viajaban, al parecer, cinco menores.",
+        "lemmatized_text": "2 de el inmigrante ser trasladar a centro sanitario 3 recibir el atención médico en el propio puerto entre el sin papel viajar a el parecer 5 menor",
+        "lemmatized_text_reduced": "inmigrante ser trasladar centro sanitario recibir atención médico propio puerto papel viajar parecer menor",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "3",
+            "5"
+        ]
+    },
+    "body": {
+        "raw_text": "Cuarenta y nueve inmigrantes subsaharianos, cinco de ellos en mal estado de salud, arribaron la noche del lunes al puerto de Arguineguin, en Gran Canaria, tras ser rescatados por Salvamento Marítimo del cayuco en el que viajaban hacia la isla. Dos de los inmigrantes fueron trasladados en ambulancias a centros sanitarios de la isla debido a sus malas condiciones físicas, mientras que otros tres recibieron la atención médica en el propio puerto en el que desembarcaron poco antes de las 21:00 horas (local), según fuentes sanitarias. Entre los \"sin papeles\" viajaban, al parecer, cinco menores , cuya edad se determinará posteriormente cuando se les practique un examen óseo. El cayuco fue detectado hacia las 19:15 horas (local) por una patrullera de la Armada cuando navegaba a unas seis millas en dirección a la costa sur de Canarias. 30 inmigrantes Tras dar la alerta, un avión del Servicio Aéreo de Rescate se dirigió hacia la embarcación e informó de que a bordo viajaban cerca de una treintena de inmigrantes. Una embarcación de Salvamento Marítimo acudió al encuentro del cayuco para auxiliar a los inmigrantes , a los que subió a bordo y desembarcó en el puerto de Arguineguin, donde habitualmente son dirigidos los cayucos que son interceptados de camino a Gran Canaria. Los servicios sanitarios y de emergencias atendieron a los \"sin papeles\" a su llegada al puerto antes de ser trasladados a comisaría para proceder a su identificación",
+        "lemmatized_text": "49 inmigrante subsahariano 5 de ellos en mal estado de salud arribar el noche de el [L:??/??/??:??.??:??] a el puerto de arguineguin en gran_canaria tras ser rescatar por salvamento_marítimo de el cayuco en el que viajar hacia el isla 2 de el inmigrante ser trasladar en ambulancia a centro sanitario de el isla debido_a su malo condición físico mientras_que otro 3 recibir el atención médico en el propio puerto en el que desembarcar poco antes_de el TM_h:21:00 local según fuente sanitario entre el sin papel viajar a el parecer 5 menor cuyo edad se determinar posteriormente cuando se le practicar uno examen óseo el cayuco ser detectar hacia el TM_h:19:15 local por uno patrullera de el armada cuando navegar a uno LN_mi:6 en_dirección_a el costa sur de canarias 30 inmigrante tras dar el alerta uno avión de el servicio_aéreo_de_rescate se dirigir hacia el embarcación y informar de que a_bordo viajar cerca de uno treintena de inmigrante uno embarcación de salvamento_marítimo acudir a el encuentro de el cayuco para auxiliar a el inmigrante a el que subir a_bordo y desembarcar en el puerto de arguineguin donde habitualmente ser dirigir el cayucos que ser interceptar de camino a gran_canaria el servicio sanitario y de emergencia atender a el sin papel a su llegada a el puerto antes_de ser trasladar a comisaría para proceder a su identificación",
+        "lemmatized_text_reduced": "inmigrante subsahariano mal estado salud arribar noche puerto arguineguin gran_canaria ser rescatar salvamento_marítimo cayuco viajar isla inmigrante ser trasladar ambulancia centro sanitario isla malo condición físico recibir atención médico propio puerto desembarcar local fuente sanitario papel viajar parecer menor edad determinar posteriormente practicar examen óseo cayuco ser detectar local patrullera armada navegar costa sur canarias inmigrante tras dar alerta avión servicio_aéreo_de_rescate dirigir embarcación informar viajar treintena inmigrante embarcación salvamento_marítimo acudir encuentro cayuco auxiliar inmigrante subir desembarcar puerto arguineguin habitualmente ser dirigir cayucos ser interceptar camino gran_canaria servicio sanitario emergencia atender papel llegada puerto ser trasladar comisaría proceder identificación",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Arguineguin",
+            "Gran_Canaria",
+            "Canarias",
+            "Arguineguin"
+        ],
+        "organizations": [
+            "Armada",
+            "Tras",
+            "Servicio_Aéreo_de_Rescate",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "49",
+            "5",
+            "2",
+            "3",
+            "TM_h:21:00",
+            "5",
+            "TM_h:19:15",
+            "LN_mi:6",
+            "30"
+        ]
+    }
+}

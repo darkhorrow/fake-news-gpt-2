@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664487/0/",
+    "title": {
+        "raw_text": "Dos detenidos por robar a unos turistas en el Faro de Jandía (Fuerteventura)",
+        "lemmatized_text": "2 detenido por robar a uno turista en el faro_de_jandía fuerteventura",
+        "lemmatized_text_reduced": "detenido robar turista faro_de_jandía fuerteventura",
+        "persons": [],
+        "locations": [
+            "Faro_de_Jandía"
+        ],
+        "organizations": [
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía Local de Pájara (Fuerteventura) ha detenido a dos hombres como presuntos autores de un robo con fuerza en el interior de un vehículo de unos turistas estacionado en las inmediaciones del Faro de Jandía.",
+        "lemmatized_text": "el policía_local_de_pájara fuerteventura haber detener a 2 hombre como presunto autor de uno robo con fuerza en_el_interior_de uno vehículo de uno turista estacionar en el inmediación de el faro_de_jandía",
+        "lemmatized_text_reduced": "policía_local_de_pájara fuerteventura haber detener hombre presunto autor robo fuerza vehículo turista estacionar inmediación faro_de_jandía",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía_Local_de_Pájara",
+            "Fuerteventura",
+            "Faro_de_Jandía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "Los detenidos, han sido identificados como R.B.A., nacido en Galicia en 1980 y residente en Puerto del Rosario, y H.E.M.G.C, de 31 años y natural de Portugal y residente en el mismo inmueble que el anterior, según informó el Ayuntamiento de Pájara en un comunicado, en el que detalla que ambos han sido puestos a disposición judicial. El suceso ocurrió el pasado viernes, cuando unos turistas —residentes por vacaciones en Las Playitas (Tuineje)— realizaban una excursión con un coche de alquiler por el Parque Natural de Jandía. Los presuntos ladrones, tras forzar el vehículo, extrajeron del interior del mismo una mochila con 450 euros en efectivo y diversa documentación. Al percatarse de lo ocurrido, las víctimas se pusieron en contacto con un vecino, que alertó a la Policía Local. Los agentes instalaron estratégicamente un control, tras una curva con poca visibilidad, cerca del Muelle de Morro Jable. Al llegar al lugar el vehículo de los sospechosos y ante la presencia policial, uno de los denunciados tiró cierta documentación por la ventanilla. A pesar de ello, los agentes encontraron en el interior del vehículo, también de alquiler, \"alguna documentación y otros objetos sustraídos a los turistas\", efectos que les fueron devueltos. Cuando los agentes de la Policía Local de Pájara se pusieron en contacto con el Puesto Principal de la Guardia Civil de Morro Jable para que desde allí se efectuaran las preceptivas diligencias y la puesta a disposición de la competente autoridad judicial, se les informó de que los sospechosos podrían estar implicados en otros delitos denunciados en diversos puntos de la isla. De este modo, sigue en curso la investigación policial.",
+        "lemmatized_text": "el detenido haber ser identificar como r.b.a. nacer en galicia en 1980 y residente en puerto_del_rosario y h.e.m.g._c de 31 año y natural de portugal y residente en el mismo inmueble que el anterior según informar el ayuntamiento_de_pájara en uno comunicado en el que detallar que ambos haber ser poner a disposición judicial el suceso ocurrir el [V:??/??/??:??.??:??] cuando uno turista residente por vacaciones en las_playitas tuineje realizar uno excursión con uno coche de alquiler por el parque_natural_de_jandía el presunto ladrón tras forzar el vehículo extraer de el interior de el mismo uno mochila con $_ECU:450 en efectivo y diverso documentación a el percatar se de el ocurrir el víctima se poner_en_contacto con uno vecino que alertar a el policía_local el agente instalar estratégicamente uno control tras uno curva con poco visibilidad cerca de el muelle_de_morro_jable a el llegar a el lugar el vehículo de el sospechoso y ante el presencia policial uno de el denunciado tirar cierto documentación por el ventanilla a_pesar_de ello el agente encontrar en el interior de el vehículo también de alquiler alguno documentación y otro objeto sustraer a el turista efecto que le ser devolver cuando el agente de el policía_local_de_pájara se poner_en_contacto con el puesto_principal_de_la_guardia_civil_de_morro_jable para que desde allí se efectuar el preceptivo diligencia y el puesta a disposición de el competente autoridad judicial se le informar de que el sospechoso poder estar implicar en otro delito denunciar en diverso punto de el isla de este modo seguir en curso el investigación policial",
+        "lemmatized_text_reduced": "detenido haber ser identificar r.b.a. nacer galicia residente puerto_del_rosario h.e.m.g._c año natural portugal residente mismo inmueble anterior informar ayuntamiento_de_pájara comunicado detallar haber ser poner disposición judicial suceso ocurrir turista residente vacaciones las_playitas tuineje realizar excursión coche alquiler parque_natural_de_jandía presunto ladrón forzar vehículo extraer interior mismo mochila efectivo diverso documentación percatar ocurrir víctima poner_en_contacto vecino alertar policía_local agente instalar estratégicamente control curva visibilidad muelle_de_morro_jable llegar lugar vehículo sospechoso presencia policial denunciado tirar documentación ventanilla agente encontrar interior vehículo alquiler documentación objeto sustraer turista efecto ser devolver agente policía_local_de_pájara poner_en_contacto puesto_principal_de_la_guardia_civil_de_morro_jable efectuar preceptivo diligencia puesta disposición competente autoridad judicial informar sospechoso poder estar implicar delito denunciar punto isla modo seguir curso investigación policial",
+        "persons": [
+            "H.E.M.G._C"
+        ],
+        "locations": [
+            "Galicia",
+            "Puerto_del_Rosario",
+            "Portugal",
+            "Las_Playitas",
+            "Tuineje"
+        ],
+        "organizations": [
+            "R.B.A.",
+            "Ayuntamiento_de_Pájara",
+            "Parque_Natural_de_Jandía",
+            "Policía_Local",
+            "Policía_Local_de_Pájara",
+            "Puesto_Principal_de_la_Guardia_Civil_de_Morro_Jable"
+        ],
+        "others": [
+            "Muelle_de_Morro_Jable"
+        ],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "1980",
+            "31",
+            "$_ECU:450"
+        ]
+    }
+}

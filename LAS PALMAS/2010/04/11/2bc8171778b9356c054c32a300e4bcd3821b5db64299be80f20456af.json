@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/674239/0/",
+    "title": {
+        "raw_text": "El índice de accidentes desciende un 80 por ciento en Jinámar (Gran Canaria) en 2009",
+        "lemmatized_text": "el índice de accidente descender uno 80 por 100 en jinámar gran_canaria en 2009",
+        "lemmatized_text_reduced": "índice accidente descender jinámar gran_canaria",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80",
+            "100",
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "El número de accidentes en las vías de Jinámar, en Gran Canaria, se redujo el pasado año en un 80 por ciento con respecto a 2008, según los datos estadísticos de la Policía Local de Telde, en los que se recoge que de enero a diciembre de 2009 se produjeron un total de 15 accidentes en las vías urbanas controladas por este cuerpo de seguridad.",
+        "lemmatized_text": "el número de accidente en el vía de jinámar en gran_canaria se reducir el pasar año en uno 80 por 100 con_respecto_a 2008 según el dato estadístico de el policía_local_de_telde en el que se recoger que de [??:??/1/??:??.??:??] a [??:??/12/2009:??.??:??] se producir uno total de 15 accidente en el vía urbano controlar por este cuerpo de seguridad",
+        "lemmatized_text_reduced": "número accidente vía jinámar gran_canaria reducir pasar año dato estadístico policía_local_de_telde recoger producir total accidente vía urbano controlar cuerpo seguridad",
+        "persons": [],
+        "locations": [
+            "Jinámar",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Policía_Local_de_Telde"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/12/2009:??.??:??]"
+        ],
+        "numbers": [
+            "80",
+            "100",
+            "2008",
+            "15"
+        ]
+    },
+    "body": {
+        "raw_text": "En una nota de prensa, el concejal de Seguridad Juan Francisco Martel apuntó que esta reducción en el número de siniestros es resultado de las distintas acciones desarrolladas por el Ayuntamiento de Telde a tal fin, como ha sido la mejora de las vías, los cambios de la señalización que contribuyen a reducir la velocidad, el estudio y diagnóstico de los puntos más conflictivos donde se registraban mayor número de accidentes con graves consecuencias para las personas. Martel añadió que \"es previsible que vuelva a bajar estas cifras con la puesta en funcionamiento de las nuevas rotondas que se están construyendo y los controles de velocidad que se están estableciendo\". Asimismo, el edil señaló que influyen en esta reducción las campañas de prevención llevadas a cabo por la Policía Local, informando sobre el uso del cinturón de seguridad o la velocidad adecuada; la concienciación y colaboración de los conductores; las acciones formativas del departamento de Seguridad Vial; y las diligencias que vienen llevando a cabo las unidades de atestados y señalización vial en cuanto a datos recabados e investigación de los accidentes, causas, orígenes y soluciones a los mismos.",
+        "lemmatized_text": "en uno nota de prensa el concejal de seguridad_juan_francisco_martel apuntar que este reducción en el número de siniestro ser resultar de el distinto acción desarrollar por el ayuntamiento_de_telde a tal fin como haber ser el mejora de el vía el cambio de el señalización que contribuir a reducir el velocidad el estudio y diagnóstico de el punto más conflictivo donde se registrar mayor número de accidente con grave consecuencia para el persona martel añadir que ser previsible que volver a bajar este cifra con el poner_en_funcionamiento de el nuevo rotonda que se estar construir y el control de velocidad que se estar establecer asimismo el edil señalar que influir en este reducción el campaña de prevención llevar_a_cabo por el policía_local informar sobre el uso de el cinturón de seguridad o el velocidad adecuar el concienciación y colaboración de el conductor el acción formativo de el departamento de seguridad_vial y el diligencia que venir llevar_a_cabo el unidad de atestado y señalización vial en_cuanto_a dato recabar y investigación de el accidente causa origen y solución a el mismo",
+        "lemmatized_text_reduced": "nota prensa concejal seguridad_juan_francisco_martel apuntar reducción número siniestro ser resultar distinto acción desarrollar ayuntamiento_de_telde fin haber ser mejora vía cambio señalización contribuir reducir velocidad estudio diagnóstico punto conflictivo registrar mayor número accidente grave consecuencia persona martel añadir ser previsible volver bajar cifra poner_en_funcionamiento nuevo rotonda estar construir control velocidad estar establecer edil señalar influir reducción campaña prevención llevar_a_cabo policía_local informar uso cinturón seguridad velocidad adecuar concienciación colaboración conductor acción formativo departamento seguridad_vial diligencia venir llevar_a_cabo unidad atestado señalización vial dato recabar investigación accidente causa origen solución",
+        "persons": [
+            "Martel"
+        ],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Telde",
+            "Policía_Local"
+        ],
+        "others": [
+            "Seguridad_Juan_Francisco_Martel",
+            "Seguridad_Vial"
+        ],
+        "dates": [],
+        "numbers": []
+    }
+}

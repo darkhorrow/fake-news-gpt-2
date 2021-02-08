@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/617586/0/",
+    "title": {
+        "raw_text": "Retenciones en la autopista Sur de Gran Canaria debido a dos accidentes de tráfico",
+        "lemmatized_text": "retenciones en el autopista sur_de_gran_canaria debido_a 2 accidente de tráfico",
+        "lemmatized_text_reduced": "retenciones autopista sur_de_gran_canaria accidente tráfico",
+        "persons": [
+            "Retenciones"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Sur_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de dos accidentes de tráfico en la autopista Sur de la isla de Gran Canaria ha provocado a primera hora de esta mañana fuertes retenciones, según informaron a Europa Press fuentes del Centro Coordinador de Emergencias del 112.",
+        "lemmatized_text": "uno total de 2 accidente de tráfico en el autopista sur de el isla de gran_canaria haber provocar a 1 hora de este mañana fuerte retención según informar a europa_press fuente de el centro_coordinador_de_emergencias de el 112",
+        "lemmatized_text_reduced": "total accidente tráfico autopista sur isla gran_canaria haber provocar 1 hora mañana fuerte retención informar europa_press fuente centro_coordinador_de_emergencias",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Sur",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Ambos accidentes se produjeron entre las 09.00 y 10.00 horas en la zona conocida como La Pardilla, a la altura del municipio de Telde, y en dirección Las Palmas de Gran Canaria. Así, con motivo de estos incidentes hubo varios heridos, todos ellos de carácter leve. En cuanto a los servicios de emergencia que se trasladaron a la zona fueron personal del Servicio de Urgencias Canario (SUC), así como agentes de la Guardia Civil.",
+        "lemmatized_text": "ambos accidente se producir entre el 9 y TM_h:10 en el zona conocer como la_pardilla a el altura de el municipio de telde y en dirección las_palmas_de_gran_canaria así con motivo de este incidente haber varios herido todo ellos de carácter leve en_cuanto_a el servicio de emergencia que se trasladar a el zona ser personal de el servicio_de_urgencias_canario suc así_como agente de el guardia_civil",
+        "lemmatized_text_reduced": "accidente producir zona conocer la_pardilla altura municipio telde dirección las_palmas_de_gran_canaria motivo incidente haber herido carácter leve servicio emergencia trasladar zona ser personal servicio_de_urgencias_canario suc agente guardia_civil",
+        "persons": [],
+        "locations": [
+            "La_Pardilla",
+            "Telde",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9",
+            "TM_h:10"
+        ]
+    }
+}

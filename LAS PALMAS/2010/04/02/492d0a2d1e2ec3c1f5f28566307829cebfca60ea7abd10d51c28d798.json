@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/667308/0/",
+    "title": {
+        "raw_text": "Fallece un varón de unos 40 años al salirse de la vía el turismo en el que circulaba en Lanzarote",
+        "lemmatized_text": "fallecer uno varón de uno 40 año a el salir se de el vía el turismo en el que circular en lanzarote",
+        "lemmatized_text_reduced": "fallecer varón año salir vía turismo circular lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "40"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un varón de unos 40 años falleció la pasada noche al sufrir una salida de vía el turismo en el que circulaba por la carretera LZ-2 a la altura del kilómetro 15, en el término municipal de Yaiza (Lanzarote) sobre las 23.55 horas, según informó hoy el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de uno 40 año fallecer el pasar noche a el sufrir uno salida de vía el turismo en el que circular por el carretera LZ-2 a el altura de el kilómetro 15 en el término municipal de yaiza lanzarote sobre el TM_h:23.55 según informar hoy el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año fallecer pasar noche sufrir salida vía turismo circular carretera altura kilómetro término municipal yaiza lanzarote informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Yaiza",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "40",
+            "LZ-2",
+            "15",
+            "TM_h:23.55",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "A la hora arriba indicada se registró una alerta en el Cecoes que informaba de que se había producido una salida de vía de un turismo y podía haber heridos. El 112 activó de inmediato los recursos de emergencia oportunos, entre ellos, una ambulancia de soporte vital básico y una ambulancia de soporte vital avanzado del Servicio de Urgencias Canario (SUC), los Bomberos de Arrecife, la Guardia Civil, Protección Civil y la Policía Local. Al llegar al lugar el personal médico del SUC sólo pudo confirmar el fallecimiento de uno de los ocupantes del vehículo. Los efectivos de Protección Civil, Bomberos y Policía Local colaboraron con los recursos intervinientes. La Guardia Civil instruyó las diligencias correspondientes.",
+        "lemmatized_text": "a el hora arriba indicar se registrar uno alerta en el cecoes que informar de que se haber producir uno salida de vía de uno turismo y poder haber herir el 112 activar de inmediato el recurso de emergencia oportuno entre ellos uno ambulancia de soporte vital básico y uno ambulancia de soporte vital avanzar de el servicio_de_urgencias_canario suc el bomberos_de_arrecife el guardia_civil protección_civil y el policía_local a el llegar a el lugar el personal médico de el suc sólo poder confirmar el fallecimiento de uno de el ocupante de el vehículo el efectivo de protección_civil bomberos y policía_local colaborar con el recurso interviniente el guardia_civil instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hora indicar registrar alerta cecoes informar haber producir salida vía turismo poder haber herir activar inmediato recurso emergencia oportuno ambulancia soporte vital básico ambulancia soporte vital avanzar servicio_de_urgencias_canario suc bomberos_de_arrecife guardia_civil protección_civil policía_local llegar lugar personal médico suc poder confirmar fallecimiento ocupante vehículo efectivo protección_civil bomberos policía_local colaborar recurso interviniente guardia_civil instruir diligencia correspondiente",
+        "persons": [
+            "Bomberos"
+        ],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Bomberos_de_Arrecife",
+            "Guardia_Civil",
+            "Protección_Civil",
+            "Policía_Local",
+            "SUC",
+            "Protección_Civil",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    }
+}

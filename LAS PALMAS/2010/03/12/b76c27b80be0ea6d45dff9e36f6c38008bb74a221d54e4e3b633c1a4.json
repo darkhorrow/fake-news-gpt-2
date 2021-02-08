@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/650318/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria asegura que no tiene los 13 millones necesarios para recomprar SIALSA",
+        "lemmatized_text": "el cabildo_de_gran_canaria asegurar que no tener el 13000000 necesario para recomprar sialsa",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria asegurar tener necesario recomprar sialsa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [
+            "SIALSA"
+        ],
+        "dates": [],
+        "numbers": [
+            "13000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El presidente del Cabildo de Gran Canaria, José Miguel Pérez, ha asegurado hoy que no dispone de los 13 millones de euros que serían necesarios para recomprar la Sociedad Insular de Abastecimiento de Leche (SIALSA).",
+        "lemmatized_text": "el presidente de el cabildo_de_gran_canaria josé_miguel_pérez haber asegurar hoy que no disponer de el $_ECU:13000000 que ser necesario para recomprar el sociedad_insular_de_abastecimiento_de_leche sialsa",
+        "lemmatized_text_reduced": "presidente cabildo_de_gran_canaria josé_miguel_pérez haber asegurar disponer ser necesario recomprar sociedad_insular_de_abastecimiento_de_leche sialsa",
+        "persons": [
+            "José_Miguel_Pérez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Sociedad_Insular_de_Abastecimiento_de_Leche",
+            "SIALSA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:13000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Pérez, en declaraciones a los medios, insistió en que el Gobierno insular no contempla en la actualidad la decisión de recomprar SIALSA. \"En su día hubo una responsabilidad que fue asumida —fue la privatización del PP—. Malas decisiones, con malas consecuencias, ahora no nos hagan pagar a otros lo que fue decisión de unos y no nos hagan buscar dinero donde no tenemos, no tenemos 13 millones de euros para iniciar un proceso de recompra\", apuntilló. Agregó que SIALSA se convirtió en una empresa privada, tras la decisión que tomó el \"anterior equipo de gobierno del Cabildo, que presidía el PP\", quedándose el gobierno \"exclusivamente un 5 por ciento de participación pero no en las decisiones de la empresa, salvo en lo que entendía que era una acción de oro de no despedir a nadie\", lo que afirmó se ha \"ejercido hasta el último minuto\". En este sentido, recordó que la empresa decidió, además, ampliar su capital, a lo que el Cabildo iba \"siempre dentro de ese 5 por ciento, no más allá, entre otras cosas porque no\" podía. Al respecto, Pérez indicó que se propuso \"lo que el Cabildo entiende que es ese 5 por ciento, no lo entiende así la empresa, que entendía que debía ser una cantidad mucho más alta y esta es la diferencia que hay\". Pérez apuntó que el gobierno insular \"ha cumplido con su cometido hasta el último minuto\". Además, puntualizó que \"no es cierto que constituya esto un daño al conjunto\" de la ganadería en Gran Canaria.",
+        "lemmatized_text": "pérez en declaración a el medio insistir en que el gobierno insular no contemplar en el actualidad el decisión de recomprar sialsa en su día haber uno responsabilidad que ser asumir ser el privatización de el pp malo decisión con malo consecuencia ahora no nos hacer pagar a otro el que ser decisión de uno y no nos hacer buscar dinero donde no tener no tener $_ECU:13000000 para iniciar uno proceso de recompra apuntillar agregar que sialsa se convertir en uno empresa privar tras el decisión que tomar el anterior equipo de gobierno de el cabildo que presidir el pp quedar se el gobierno exclusivamente uno 5 por 100 de participación pero no en el decisión de el empresa salvo en el que entender que ser uno acción de oro de no despedir a nadie el que afirmar se haber ejercer hasta el último minuto en este sentido recordar que el empresa decidir además ampliar su capital a el que el cabildo ir siempre dentro_de ese 5 por 100 no más allá entre otro cosa porque no poder a el respecto pérez indicar que se proponer el que el cabildo entender que ser ese 5 por 100 no lo entender así el empresa que entender que deber ser uno cantidad mucho más alto y este ser el diferencia que haber pérez apuntar que el gobierno insular haber cumplir con su cometido hasta el último minuto además puntualizar que no ser cierto que constituir este uno daño a el conjunto de el ganadería en gran_canaria",
+        "lemmatized_text_reduced": "pérez declaración medio insistir gobierno insular contemplar actualidad decisión recomprar sialsa día haber responsabilidad ser asumir ser privatización pp malo decisión malo consecuencia hacer pagar ser decisión hacer buscar dinero tener tener iniciar proceso recompra apuntillar agregar sialsa convertir empresa privar decisión tomar anterior equipo gobierno cabildo presidir pp quedar gobierno exclusivamente participación decisión empresa entender ser acción oro despedir afirmar haber ejercer último minuto sentido recordar empresa decidir ampliar capital cabildo ir cosa poder respecto pérez indicar proponer cabildo entender ser entender empresa entender deber ser cantidad alto ser diferencia haber pérez apuntar gobierno insular haber cumplir cometido último minuto puntualizar ser cierto constituir daño conjunto ganadería gran_canaria",
+        "persons": [
+            "Pérez",
+            "Pérez",
+            "Pérez"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno",
+            "SIALSA",
+            "PP",
+            "SIALSA",
+            "Cabildo",
+            "PP",
+            "Cabildo",
+            "Cabildo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:13000000",
+            "5",
+            "100",
+            "5",
+            "100",
+            "5",
+            "100"
+        ]
+    }
+}

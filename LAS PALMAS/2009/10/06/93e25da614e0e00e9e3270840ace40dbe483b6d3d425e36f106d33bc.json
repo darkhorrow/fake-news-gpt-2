@@ -1,0 +1,47 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-10-06T00:00:00",
+    "url": "https://www.20minutos.es/noticia/535420/0/cadaver/empresario/violencia/",
+    "title": {
+        "raw_text": "Hallan en Lanzarote el cadáver de un empresario hostelero con signos de violencia",
+        "lemmatized_text": "hallar en lanzarote el cadáver de uno empresario hostelero con signo de violencia",
+        "lemmatized_text_reduced": "hallar lanzarote cadáver empresario hostelero signo violencia",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Podría haber recibido numerosas puñaladas. Era propietario de un conocido restaurante de la zona. El cadáver fue hallado en su domicilio, en Playa Blanca.",
+        "lemmatized_text": "poder haber recibir numeroso puñalada ser propietario de uno conocer restaurante de el zona el cadáver ser hallar en su domicilio en playa_blanca",
+        "lemmatized_text_reduced": "poder haber recibir numeroso puñalada ser propietario conocer restaurante zona cadáver ser hallar domicilio playa_blanca",
+        "persons": [],
+        "locations": [
+            "Playa_Blanca"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El cadáver de un conocido empresario del sector de la hostelería fue hallado este martes con signos de violencia en su domicilio de Playa Blanca, al sur de la isla de Lanzarote. Fuentes próximas al caso señalaron que el fallecido, propietario de un conocido restaurante de la zona, podría haber recibido numerosas puñaladas que le habrían causado la muerte.",
+        "lemmatized_text": "el cadáver de uno conocer empresario de el sector de el hostelería ser hallar este [M:??/??/??:??.??:??] con signo de violencia en su domicilio de playa_blanca a el sur de el isla de lanzarote fuente próximo a el caso señalar que el fallecer propietario de uno conocer restaurante de el zona poder haber recibir numeroso puñalada que le haber causar el muerte",
+        "lemmatized_text_reduced": "cadáver conocer empresario sector hostelería ser hallar signo violencia domicilio playa_blanca sur isla lanzarote fuente próximo caso señalar fallecer propietario conocer restaurante zona poder haber recibir numeroso puñalada haber causar muerte",
+        "persons": [],
+        "locations": [
+            "Playa_Blanca",
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    }
+}

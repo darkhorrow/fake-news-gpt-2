@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/730966/0/",
+    "title": {
+        "raw_text": "El 1,06% del personal del Ayuntamiento de Las Palmas de Gran Canaria secunda la huelga",
+        "lemmatized_text": "el 1,06/100 de el personal de el ayuntamiento_de_las_palmas_de_gran_canaria secundar el huelga",
+        "lemmatized_text_reduced": "personal ayuntamiento_de_las_palmas_de_gran_canaria secundar huelga",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,06/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "El 1,06 por ciento del personal del Ayuntamiento de Las Palmas de Gran Canaria ha secundado la huelga, según datos del área de Recursos Humanos del Consistorio capitalino a las 13.00 horas.",
+        "lemmatized_text": "el 1,06 por 100 de el personal de el ayuntamiento_de_las_palmas_de_gran_canaria haber secundar el huelga según dato de el área de recursos_humanos_del_consistorio capitalino a el TM_h:13",
+        "lemmatized_text_reduced": "personal ayuntamiento_de_las_palmas_de_gran_canaria haber secundar huelga dato área recursos_humanos_del_consistorio capitalino",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Recursos_Humanos_del_Consistorio"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "1,06",
+            "100",
+            "TM_h:13"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, la Administración local explicó que la jornada de huelga ha transcurrido con total normalidad en todas las sedes del Ayuntamiento. La plantilla municipal de funcionarios y laborales se compone de 2.349 trabajadores. \"Esta cifra incluye a los trabajadores adscritos a la plantilla municipal y al órgano desconcentrado de Limpieza. Teniendo en cuenta este conjunto laboral, a última hora de esta mañana sólo 25 trabajadores y trabajadoras habían ejercido su derecho a la huelga. Como ya se ha reseñado, la normalidad ha sido la tónica general de esta jornada laboral\", explicó el Consistorio. Finalmente, la única acción que se alejó de la normalidad fue que a las 07.00 horas se dio parte de la colocación de una cadena con candado en la puerta de la Casa del Marino. Media hora después, efectivos de la Policía Local y de Bomberos ya habían cortado la cadena, lo que permitió el libre acceso a los puestos de trabajo.",
+        "lemmatized_text": "en uno comunicado el administración local explicar que el jornada de huelga haber transcurrir con total normalidad en todo el sede de el ayuntamiento el plantilla municipal de funcionario y laboral se componer de 2.349 trabajador este cifra incluir a el trabajador adscribir a el plantilla municipal y a el órgano desconcentrado de limpieza tener_en_cuenta este conjunto laboral a último hora de este mañana sólo 25 trabajador y trabajador haber ejercer su derecho a el huelga como ya se haber reseñar el normalidad haber ser el tónica general de este jornada laboral explicar el consistorio finalmente el único acción que se alejar de el normalidad ser que a el TM_h:7 se dar parte de el colocación de uno cadena con candado en el puerta de el casa_del_marino medio hora después efectivo de el policía_local y de bomberos ya haber cortar el cadena el que permitir el libre acceso a el puesto de trabajo",
+        "lemmatized_text_reduced": "comunicado administración local explicar jornada huelga haber transcurrir total normalidad sede ayuntamiento plantilla municipal funcionario laboral componer trabajador cifra incluir trabajador adscribir plantilla municipal órgano desconcentrado limpieza tener_en_cuenta conjunto laboral último hora mañana trabajador trabajador haber ejercer derecho huelga haber reseñar normalidad haber ser tónica general jornada laboral explicar consistorio finalmente único acción alejar normalidad ser dar parte colocación cadena candado puerta casa_del_marino medio hora efectivo policía_local bomberos haber cortar cadena permitir libre acceso puesto trabajo",
+        "persons": [],
+        "locations": [
+            "Limpieza"
+        ],
+        "organizations": [
+            "Administración",
+            "Ayuntamiento",
+            "Consistorio",
+            "Casa_del_Marino",
+            "Policía_Local",
+            "Bomberos"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2.349",
+            "25",
+            "TM_h:7"
+        ]
+    }
+}

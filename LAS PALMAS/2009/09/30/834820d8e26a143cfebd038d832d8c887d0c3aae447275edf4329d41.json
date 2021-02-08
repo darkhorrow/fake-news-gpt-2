@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-09-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/530332/0/detenido/exalcalde/yaiza/",
+    "title": {
+        "raw_text": "Detenidos el ex alcalde de Yaiza y dos de sus hijos por corrupción urbanística",
+        "lemmatized_text": "detener el ex alcalde de yaiza y 2 de su hijo por corrupción urbanístico",
+        "lemmatized_text_reduced": "detener ex alcalde yaiza hijo corrupción urbanístico",
+        "persons": [],
+        "locations": [
+            "Yaiza"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Policía se ha presentado por sorpresa esta mañana en su casa. José Francisco Reyes ya fue detenido en la Operación Unión. La detención está relacionada con la denuncia presentada por el secretario general del PSOE, Carlos Espino.",
+        "lemmatized_text": "el policía se haber presentar por sorpresa este mañana en su casa josé_francisco_reyes ya ser detener en el operación_unión el detención estar relacionar con el denuncia presentar por el secretario general de el psoe carlos_espino",
+        "lemmatized_text_reduced": "policía haber presentar sorpresa mañana casa josé_francisco_reyes ser detener operación_unión detención estar relacionar denuncia presentar secretario general psoe carlos_espino",
+        "persons": [
+            "José_Francisco_Reyes",
+            "Carlos_Espino"
+        ],
+        "locations": [],
+        "organizations": [
+            "Policía",
+            "Operación_Unión",
+            "PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El ex alcalde de del municipio lanzaroteño de Yaiza José Francisco Reyes, del Partido Nacionalista de Lanzarote (PNL), y dos de sus hijos han sido detenidos este miércoles acusados de presunta corrupción urbanística por agentes de la Policía Nacional que registraron su domicilio de Femés. Fuentes próximas al caso han señalado que los agentes irrumpieron por sorpresa en el domicilio del político sobre las 10 horas de esta mañana para proceder a un registro ordenado por la autoridad judicial. Testigos presenciales indicaron que Reyes, que ya fue detenido también en el marco de la Operación Unión, que investiga una trama de corrupción urbanística en Lanzarote, salió de la vivienda esposado, mientras que al menos uno de sus hijos permaneció retenido por los agentes en el interior de un vehículo policial durante el registro domiciliario. Tramitación de la denuncia La detención del ex alcalde y sus dos hijos está relacionada con una denuncia que en su día presentó el ex consejero de Política Territorial del Cabildo de Lanzarote y actual secretario general que está siendo tramitada en el Juzgado de Instrucción Número 2 de Arrecife. Espino denunció entonces al ex alcalde de Yaiza y al actual alcalde de Teguise, Juan Pedro Hernández, de CC, a partir de un informe elaborado por los servicios jurídicos externos del Cabildo en el que se le advertía de la posible comisión de varios delitos urbanísticos por parte de los citados regidores municipales. En vista de ese informe, el entonces consejero de Política Territorial del Cabildo se presentó a finales de 2006 ante la Brigada Provincial de la Policía Judicial y la Unidad de Drogas y Crimen Organizado, Grupo de Blanqueo de Capitales, para denunciar los hechos supuestamente delictivos.",
+        "lemmatized_text": "el ex alcalde de de el municipio lanzaroteño de yaiza_josé_francisco_reyes de el partido_nacionalista_de_lanzarote pnl y 2 de su hijo haber ser detener este [X:??/??/??:??.??:??] acusar de presunto corrupción urbanístico por agente de el policía_nacional que registrar su domicilio de femés fuente próximo a el caso haber señalar que el agente irrumpir por sorpresa en el domicilio de el político sobre el TM_h:10 de este mañana para proceder a uno registro ordenar por el autoridad judicial testigos presencial indicar que reyes que ya ser detener también en el marco de el operación_unión que investigar uno trama de corrupción urbanístico en lanzarote salir de el vivienda esposar mientras_que a el menos uno de su hijo permanecer retener por el agente en_el_interior_de uno vehículo policial durante el registro domiciliario tramitación de el denuncia la detención de el ex alcalde y su 2 hijo estar relacionar con uno denuncia que en su día presentar el ex consejero de política_territorial_del_cabildo_de_lanzarote y actual secretario general que estar ser tramitar en el juzgado_de_instrucción_número 2 de arrecife espino denunciar entonces a el ex alcalde de yaiza y a el actual alcalde de teguise juan_pedro_hernández de cc a_partir_de uno informe elaborar por el servicio jurídico externo de el cabildo en el que se le advertir de el posible comisión de varios delito urbanístico por parte de el citar regidor municipal en_vista_de ese informe el entonces consejero de política_territorial_del_cabildo se presentar a final de 2006 ante el brigada_provincial_de_la_policía_judicial y el unidad_de_drogas y crimen_organizado grupo_de_blanqueo_de_capitales para denunciar el hecho supuestamente delictivo",
+        "lemmatized_text_reduced": "ex alcalde municipio lanzaroteño yaiza_josé_francisco_reyes partido_nacionalista_de_lanzarote pnl hijo haber ser detener acusar presunto corrupción urbanístico agente policía_nacional registrar domicilio femés fuente próximo caso haber señalar agente irrumpir sorpresa domicilio político mañana proceder registro ordenar autoridad judicial testigos presencial indicar reyes ser detener marco operación_unión investigar trama corrupción urbanístico lanzarote salir vivienda esposar hijo permanecer retener agente vehículo policial registro domiciliario tramitación denuncia la detención ex alcalde hijo estar relacionar denuncia día presentar ex consejero política_territorial_del_cabildo_de_lanzarote actual secretario general estar ser tramitar juzgado_de_instrucción_número arrecife espino denunciar ex alcalde yaiza actual alcalde teguise juan_pedro_hernández cc informe elaborar servicio jurídico externo cabildo advertir posible comisión delito urbanístico parte citar regidor municipal informe consejero política_territorial_del_cabildo presentar final brigada_provincial_de_la_policía_judicial unidad_de_drogas crimen_organizado grupo_de_blanqueo_de_capitales denunciar hecho supuestamente delictivo",
+        "persons": [
+            "Testigos",
+            "Reyes",
+            "La",
+            "Política_Territorial_del_Cabildo_de_Lanzarote",
+            "Juan_Pedro_Hernández"
+        ],
+        "locations": [
+            "Yaiza_José_Francisco_Reyes",
+            "Femés",
+            "Lanzarote",
+            "Arrecife",
+            "Yaiza",
+            "Teguise"
+        ],
+        "organizations": [
+            "Partido_Nacionalista_de_Lanzarote",
+            "PNL",
+            "Policía_Nacional",
+            "Operación_Unión",
+            "Juzgado_de_Instrucción_Número",
+            "CC",
+            "Brigada_Provincial_de_la_Policía_Judicial",
+            "Unidad_de_Drogas",
+            "Crimen_Organizado",
+            "Grupo_de_Blanqueo_de_Capitales"
+        ],
+        "others": [
+            "Tramitación",
+            "Cabildo",
+            "Política_Territorial_del_Cabildo"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "TM_h:10",
+            "2",
+            "2",
+            "2006"
+        ]
+    }
+}

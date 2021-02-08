@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-29T00:00:00",
+    "url": "https://www.20minutos.es/noticia/664009/0/",
+    "title": {
+        "raw_text": "Rajoy dice que quiere a Soria al frente del \"reto\" de gobernar Canarias pero que tiene \"entidad\" para ser ministro",
+        "lemmatized_text": "rajoy decir que querer a soria a el frente de el reto de gobernar canarias pero que tener entidad para ser ministro",
+        "lemmatized_text_reduced": "rajoy decir querer soria reto gobernar canarias tener entidad ser ministro",
+        "persons": [
+            "Rajoy"
+        ],
+        "locations": [
+            "Soria",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El presidente del PP, Mariano Rajoy, aseguró hoy que quiere al presidente de los populares canarios, José Manuel Soria, al frente del \"reto\" que supone ganar \"la confianza de los canarios y gobernar\" el archipiélago, aunque recalcó que tiene la \"entidad y los conocimientos\" necesarios como para ser ministro de un eventual Ejecutivo del PP.",
+        "lemmatized_text": "el presidente de el pp mariano_rajoy asegurar hoy que querer a el presidente de el popular canario josé_manuel_soria a el frente de el reto que suponer ganar el confianza de el canario y gobernar el archipiélago aunque recalcar que tener el entidad y el conocimiento necesario como para ser ministro de uno eventual ejecutivo_del_pp.",
+        "lemmatized_text_reduced": "presidente pp mariano_rajoy asegurar querer presidente popular canario josé_manuel_soria reto suponer ganar confianza canario gobernar archipiélago recalcar tener entidad conocimiento necesario ser ministro eventual ejecutivo_del_pp.",
+        "persons": [
+            "Mariano_Rajoy",
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP"
+        ],
+        "others": [
+            "Ejecutivo_del_PP."
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Hoy lo quiero como presidente del Gobierno de Canarias, pero desde luego tiene la entidad, la categoría y los conocimientos para ser miembro del Gobierno de España\", aseguró Rajoy en una entrevista recogida por Europa Press a la Televisión Canaria. En todo caso, Rajoy recalcó que \"ahora el reto\" para los populares es ganar \"la confianza de los canarios y gobernar\" Canarias. Además, destacó que el Gobierno de España debería tener \"más sensibilidad\" con las islas en temas como el del supertelescopio para La Palma o el plátano. \"Yo lo se como gallego, aunque está a menos kilómetros del centro, pero hay paralelismos. Uno es la distancia, parece que como estás en una esquina se te hace menos caso\", dijo. Rajoy dijo también que no confía en el Gobierno de José Luis Rodríguez Zapatero y por tanto tampoco en el compromiso de 25.000 millones de euros para Canarias hasta 2019. Por su parte, Soria explicó en una intervención grabada que Rajoy, que pasará unos días de vacaciones en Gran Canaria donde comenzó a venir desde 1985, lo está \"haciendo muy bien para ser el presidente no de todos los afiliados del PP sino de todos los españoles\".",
+        "lemmatized_text": "hoy lo querer como presidente de el gobierno_de_canarias pero desde_luego tener el entidad el categoría y el conocimiento para ser miembro de el gobierno_de_españa asegurar rajoy en uno entrevista recoger por europa_press a el televisión_canaria en_todo_caso rajoy recalcar que ahora el reto para el popular ser ganar el confianza de el canario y gobernar canario además destacar que el gobierno_de_españa deber tener más sensibilidad con el isla en tema como el de el supertelescopio para la_palma o el plátano yo lo se como gallego aunque estar a menos kilómetro de el centro pero haber paralelismo uno ser el distancia parecer que como estar en uno esquina se te hacer menos caso decir rajoy decir también que no confiar en el gobierno_de_josé_luis_rodríguez_zapatero y por tanto tampoco en el compromiso de $_ECU:25000000 para canarias hasta 2019 por su parte soria explicar en uno intervención grabar que rajoy que pasar uno día de vacaciones en gran_canaria donde comenzar a venir desde 1985 lo estar hacer muy bien para ser el presidente no de todo el afiliado de el pp sino de todo el español",
+        "lemmatized_text_reduced": "querer presidente gobierno_de_canarias tener entidad categoría conocimiento ser miembro gobierno_de_españa asegurar rajoy entrevista recoger europa_press televisión_canaria rajoy recalcar reto popular ser ganar confianza canario gobernar canario destacar gobierno_de_españa deber tener sensibilidad isla tema supertelescopio la_palma plátano gallego estar kilómetro centro haber paralelismo ser distancia parecer estar esquina hacer caso decir rajoy decir confiar gobierno_de_josé_luis_rodríguez_zapatero compromiso canarias parte soria explicar intervención grabar rajoy pasar día vacaciones gran_canaria comenzar venir estar hacer ser presidente afiliado pp español",
+        "persons": [
+            "Rajoy",
+            "Rajoy",
+            "Rajoy",
+            "Rajoy"
+        ],
+        "locations": [
+            "La_Palma",
+            "Canarias",
+            "Soria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Gobierno_de_España",
+            "Europa_Press",
+            "Televisión_Canaria",
+            "Gobierno_de_España",
+            "Gobierno_de_José_Luis_Rodríguez_Zapatero",
+            "PP"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:25000000",
+            "2019",
+            "1985"
+        ]
+    }
+}

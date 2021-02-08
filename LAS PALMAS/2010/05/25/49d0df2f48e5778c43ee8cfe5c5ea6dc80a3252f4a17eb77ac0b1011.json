@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/717527/0/",
+    "title": {
+        "raw_text": "El presidente de la UD Las Palmas anuncia que recurrirá la sentencia que le condena a 3 años de cárcel",
+        "lemmatized_text": "el presidente de el ud_las_palmas anunciar que recurrir el sentencia que le condenar a 3 año de cárcel",
+        "lemmatized_text_reduced": "presidente ud_las_palmas anunciar recurrir sentencia condenar año cárcel",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "UD_Las_Palmas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "El empresario y presidente de la Unión Deportiva Las Palmas, Miguel Ángel Ramírez, presentará un recurso de apelación contra la sentencia dictada hoy por el Juzgado de lo Penal número 5 de Las Palmas de Gran Canaria que le condena a un total de tres años y un día de prisión como responsable de un delito contra la ordenación del territorio por las obras que realizó en su finca en el paraje de La Milagrosa.",
+        "lemmatized_text": "el empresario y presidente de el unión_deportiva_las_palmas miguel_ángel_ramírez presentar uno recurso de apelación contra el sentencia dictar hoy por el juzgado de el penal número 5 de las_palmas_de_gran_canaria que le condenar a uno total de 3 año y uno día de prisión como responsable de uno delito contra el ordenación de el territorio por el obra que realizar en su finca en el paraje de la_milagrosa",
+        "lemmatized_text_reduced": "empresario presidente unión_deportiva_las_palmas miguel_ángel_ramírez presentar recurso apelación sentencia dictar juzgado penal número las_palmas_de_gran_canaria condenar total año día prisión responsable delito ordenación territorio obra realizar finca paraje la_milagrosa",
+        "persons": [
+            "Miguel_Ángel_Ramírez"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "La_Milagrosa"
+        ],
+        "organizations": [
+            "Unión_Deportiva_Las_Palmas",
+            "Juzgado",
+            "Penal"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, Ramírez manifestó que respeta profundamente el contenido de la sentencia, aunque no comparte y discreta \"de forma abierta\" con los hechos probados, razonamientos jurídicos y conclusiones que se recogen en la misma. \"La sentencia no es firme, y contra ella se presentará oportunamente recurso de apelación, confiando plenamente que al final del proceso sean aclarados todos los extremos que han llevado, en primera instancia, a la decisión de condena que, reitera esta parte, se respeta pero no comparte en modo alguno\", concluyó. Por su parte, el juez indicó la empresa Ralons S.A., de la que Ramírez es administrador único y representante legal, adquirió una finca de 31.243.50 metros cuadrados dentro del término municipal de Las Palmas de Gran Canaria, suelo clasificado y categorizado como rústico de protección medioambiental por el Plan General de Ordenación del municipio. \"sin licencia\" Según los hechos probados, \"sin haber recabado previa licencia de obras del Ayuntamiento de Las Palmas de Gran Canaria, actuando como administrador único y representante legal de RALONS S.A, promovió, con total desprecio a la ordenación legal del terreno, la realización de diversas obras no autorizadas y en ningún caso autorizables, por su manifiesta contradicción con el planeamiento vigente, en dicha finca\". De esta manera, el juez consideró como probado que se construyeron un estanque de 400 metros cuadrados; dos aparcamientos, de 250 y 225 metros cuadrados, respectivamente; y una nueva vía, de 224 metros de longitud y 2 metros de anchura en todo su recorrido, ocupando parcialmente otra de 203 metros de longitud y anchura de un metro en 101 metros cuadrados de su recorrido, pero con al menos 45 metros de longitud siguiendo un nuevo trazado, estando proyectado que toda ella y los mencionados aparcamientos acabaran teniendo placa de hormigón en su superficie. También se llevaron a cabo obras de reforzamiento de muros preexistentes y de construcción de nuevos muros, de cerramiento de la finca con nuevas vallas, consistentes en alambradas de tipo 'Hércules', y la nueva construcción de dos edificaciones en el lugar donde anteriormente había dos dedicadas a pajarera y a pérgola o refugio, llevando consigo tales obras la tala de múltiples árboles y arbustos.",
+        "lemmatized_text": "en uno comunicado ramírez manifestar que respetar profundamente el contenido de el sentencia aunque no compartir y discreto de forma abrir con el hecho probar razonamiento jurídico y conclusión que se recoger en el mismo el sentencia no ser firme y contra él se presentar oportunamente recurso de apelación confiar plenamente que a el final de el proceso ser aclarar todo el extremo que haber llevar en 1 instancia a el decisión de condena que reiterar este parte se respetar pero no compartir en_modo_alguno concluir por su parte el juez indicar el empresa ralons_s.a. de el que ramírez ser administrador único y representante legal adquirir uno finca de AR_m2:31.243.50 dentro de el término municipal de las_palmas_de_gran_canaria suelo clasificar y categorizar como rústico de protección medioambiental por el plan_general_de_ordenación de el municipio sin licencia según el hecho probar sin haber recabar previo licencia de obra de el ayuntamiento_de_las_palmas_de_gran_canaria actuar como administrador único y representante legal de ralons_s._a promover con total desprecio a el ordenación legal de el terreno el realización de diverso obra no autorizar y en ninguno caso autorizables por su manifiesto contradicción con el planeamiento vigente en decir finca de este manera el juez considerar como probar que se construir uno estanque de AR_m2:400 2 aparcamiento de 250 y AR_m2:225 respectivamente y uno nuevo vía de LN_m:224 de longitud y LN_m:2 de anchura en todo su recorrido ocupar parcialmente otro de LN_m:203 de longitud y anchura de uno metro en AR_m2:101 de su recorrido pero con a el menos LN_m:45 de longitud seguir uno nuevo trazado estar proyectar que todo él y el mencionar aparcamiento acabar tener placa de hormigón en su superficie también se llevar_a_cabo obra de reforzamiento de muro preexistente y de construcción de nuevo muro de cerramiento de el finca con nuevo valla consistente en alambrada de tipo hércules y el nuevo construcción de 2 edificación en el lugar donde anteriormente haber 2 dedicar a pajarera y a pérgola o refugio llevar conseguir tal obra el tala de múltiple árbol y arbusto",
+        "lemmatized_text_reduced": "comunicado ramírez manifestar respetar profundamente contenido sentencia compartir discreto forma abrir hecho probar razonamiento jurídico conclusión recoger mismo sentencia ser firme presentar oportunamente recurso apelación confiar plenamente final proceso ser aclarar extremo haber llevar 1 instancia decisión condena reiterar parte respetar compartir concluir parte juez indicar empresa ralons_s.a. ramírez ser administrador único representante legal adquirir finca término municipal las_palmas_de_gran_canaria suelo clasificar categorizar rústico protección medioambiental plan_general_de_ordenación municipio licencia hecho probar haber recabar previo licencia obra ayuntamiento_de_las_palmas_de_gran_canaria actuar administrador único representante legal ralons_s._a promover total desprecio ordenación legal terreno realización obra autorizar caso autorizables manifiesto contradicción planeamiento vigente decir finca manera juez considerar probar construir estanque aparcamiento respectivamente nuevo vía longitud anchura recorrido ocupar parcialmente longitud anchura metro recorrido longitud seguir nuevo trazado estar proyectar mencionar aparcamiento acabar tener placa hormigón superficie llevar_a_cabo obra reforzamiento muro preexistente construcción nuevo muro cerramiento finca nuevo valla consistente alambrada tipo hércules nuevo construcción edificación lugar anteriormente haber dedicar pajarera pérgola refugio llevar conseguir obra tala múltiple árbol arbusto",
+        "persons": [
+            "Ramírez",
+            "Ramírez"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Ralons_S.A.",
+            "Plan_General_de_Ordenación",
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Hércules"
+        ],
+        "others": [
+            "RALONS_S._A"
+        ],
+        "dates": [],
+        "numbers": [
+            "AR_m2:31.243.50",
+            "AR_m2:400",
+            "2",
+            "250",
+            "AR_m2:225",
+            "LN_m:224",
+            "LN_m:2",
+            "LN_m:203",
+            "AR_m2:101",
+            "LN_m:45",
+            "2",
+            "2"
+        ]
+    }
+}

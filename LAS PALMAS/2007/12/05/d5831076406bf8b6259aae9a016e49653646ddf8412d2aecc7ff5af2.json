@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-12-05T00:00:00",
+    "url": "https://www.20minutos.es/noticia/317643/0/belen/arena/laspalmas/",
+    "title": {
+        "raw_text": "La playa de Las Canteras acoge el belén de arena más grande de España",
+        "lemmatized_text": "el playa de las_canteras acoger el belén de arena más grande de españa",
+        "lemmatized_text_reduced": "playa las_canteras acoger belén arena grande españa",
+        "persons": [],
+        "locations": [
+            "Las_Canteras",
+            "España"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "En la obra han participado escultores arenistas de diversos países. Se puede admirar la exquisita realización de los numerosos detalles. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "en el obra haber participar escultor arenistas de diverso país se poder admirar el exquisito realización de el numeroso detalle consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "obra haber participar escultor arenistas país poder admirar exquisito realización numeroso detalle consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La arena ha sustituido a la nieve en el belén de la playa de Las Canteras, el mayor de toda España realizado con arena, dando así forma a los camellos, ángeles y pastores. Se espera que más de 150.000 personas visiten estas navidades el belén de arena, según el concejal de Turismo, Aday Ruiz. La obra, en la que han participado escultores arenistas de diversos países, ha precisado 250.000 toneladas de arena y ocupa una superficie de 600 metros cuadrados. Los visitantes pueden observar una panorámica de las escenas navideñas desde el paseo de Las Canteras, que ofrece como marco el océano Atlántico y las barcas de los pescadores de La Puntilla. Recorrido del visitante También se puede descender al tablado que recorren las esculturas y observar de cerca los detalles mediante un paseo que arranca en la Anunciación a María, en la que un ángel le comunica que será la madre de Jesús. Los visitantes, que hoy exclamaban \"esto es una maravilla\", pueden admirar durante el recorrido los pormenores de rostros de arena, animales, sacos de fruta y las joyas de los Reyes Magos, así como la cara de angustia de María y José cuando, estando ella encinta, no encontraban posada para poder dar a luz. El escultor Óscar Rodríguez explicó que para esculpir la arena primero es necesario compactarla, y que para que las figuras se conserven hasta el próximo 7 de enero ha sido necesario recubrirlas de agua-cola . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "el arena haber sustituir a el nieve en el belén de el playa de las_canteras el mayor de todo españa realizar con arena dar así forma a el camello ángel y pastor se esperar que más de 150 persona visitar este navidad el belén de arena según el concejal de turismo aday_ruiz el obra en el que haber participar escultor arenistas de diverso país haber precisar WG_tm:250 de arena y ocupar uno superficie de AR_m2:600 el visitante poder observar uno panorámica de el escena navideño desde el paseo de las_canteras que ofrecer como marco el océano atlántico y el barca de el pescador de la_puntilla recorrido de el visitante también se poder descender a el tablado que recorrer el escultura y observar de cerca el detalle mediante uno paseo que arrancar en el anunciación a maría en el que uno ángel le comunicar que ser el madre de jesús el visitante que hoy exclamar este ser uno maravilla poder admirar durante el recorrido el pormenor de rostro de arena animal saco de fruto y el joya de el reyes_magos así_como el cara de angustia de maría y josé cuando estar él encinta no encontrar posar para poder dar a luz el escultor óscar_rodríguez explicar que para esculpir el arena primero ser necesario compactar lo y que para que el figura se conservar hasta el [??:7/1/??:??.??:??] haber ser necesario recubrir lo de agua-cola consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "arena haber sustituir nieve belén playa las_canteras mayor españa realizar arena dar forma camello ángel pastor esperar persona visitar navidad belén arena concejal turismo aday_ruiz obra haber participar escultor arenistas país haber precisar arena ocupar superficie visitante poder observar panorámica escena navideño paseo las_canteras ofrecer marco océano atlántico barca pescador la_puntilla recorrido visitante también poder descender tablado recorrer escultura observar detalle paseo arrancar anunciación maría ángel comunicar ser madre jesús visitante exclamar ser maravilla poder admirar recorrido pormenor rostro arena animal saco fruto joya reyes_magos cara angustia maría josé estar encinta encontrar posar poder dar luz escultor óscar_rodríguez explicar esculpir arena ser necesario compactar figura conservar haber ser necesario recubrir agua-cola consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Aday_Ruiz",
+            "También",
+            "Jesús",
+            "Reyes_Magos",
+            "José",
+            "Óscar_Rodríguez"
+        ],
+        "locations": [
+            "Las_Canteras",
+            "España",
+            "Las_Canteras",
+            "La_Puntilla",
+            "María",
+            "María"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [
+            "Turismo",
+            "Atlántico",
+            "Anunciación"
+        ],
+        "dates": [
+            "[??:7/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "150",
+            "WG_tm:250",
+            "AR_m2:600"
+        ]
+    }
+}

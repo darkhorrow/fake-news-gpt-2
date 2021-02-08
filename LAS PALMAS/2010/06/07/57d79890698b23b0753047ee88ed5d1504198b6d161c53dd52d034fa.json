@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/729405/0/",
+    "title": {
+        "raw_text": "Saavedra dice que el PSC demostró que no hay miedo a votar una alternativa \"que se decía que no tenía apoyo del aparato\"",
+        "lemmatized_text": "saavedra decir que el psc demostrar que no haber miedo a votar uno alternativa que se decir que no tener apoyo de el aparato",
+        "lemmatized_text_reduced": "saavedra decir psc demostrar haber miedo votar alternativa decir tener apoyo aparato",
+        "persons": [
+            "Saavedra"
+        ],
+        "locations": [],
+        "organizations": [
+            "PSC"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El alcalde de Las Palmas de Gran Canaria, Jerónimo Saavedra, ha asegurado que el Congreso insular del PSC-PSOE en Gran Canaria, --en el que se eligió a Ángel Víctor Torres como secretario general-- demostró que no hay miedo a votar una alternativa \"que se decía que no contaba con el apoyo del aparato\".",
+        "lemmatized_text": "el alcalde de las_palmas_de_gran_canaria jerónimo_saavedra haber asegurar que el congreso insular de el psc-psoe en gran_canaria en el que se elegir a ángel_víctor_torres como secretario general demostrar que no haber miedo a votar uno alternativa que se decir que no contar con el apoyo de el aparato",
+        "lemmatized_text_reduced": "alcalde las_palmas_de_gran_canaria jerónimo_saavedra haber asegurar congreso insular psc-psoe gran_canaria elegir ángel_víctor_torres secretario general demostrar haber miedo votar alternativa decir contar apoyo aparato",
+        "persons": [
+            "Jerónimo_Saavedra",
+            "Ángel_Víctor_Torres"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Congreso",
+            "PSC-PSOE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"El Congreso Insular de los socialistas grancanarios yo creo que ha sido todo un ejemplo de democracia, de respeto y donde no hay miedo a votar una alternativa que se decía que no contaba con el apoyo del aparato\", dijo hoy en declaraciones a los medios de comunicación. Así, opinó que en estos momentos \"no hay aparato\", sino que hay dirección. \"Me gustaría —añadió— que ocurriese igual en todas las organizaciones políticas, no sólo a nivel de Canarias, sino también del Estado\". Por su parte, Ángel Víctor Torres, primer teniente de alcalde del Ayuntamiento de Arucas y diputado nacional, fue proclamado el pasado sábado como nuevo secretario insular del Partido Socialista Canario (PSC-PSOE) en Gran Canaria tras recibir 105 votos —el 56,76 por ciento—. La otra candidata, la consejera de Empleo del Cabildo insular, Isabel Guerra, recibió 75 votos, lo que representa el 40,54 por ciento de los votos, ya que, además, hubo cinco votos en blanco. Torres sustituirá así en el cargo a José Miguel Pérez, quien desde el pasado mes de marzo pasó a ser secretario general del PSOE Canario, aunque durante los últimos meses ha compatibilizado ambos cargos.",
+        "lemmatized_text": "el congreso_insular de el socialista grancanarios yo creer que haber ser todo uno ejemplo de democracia de respeto y donde no haber miedo a votar uno alternativa que se decir que no contar con el apoyo de el aparato decir hoy en declaración a el medio de comunicación así opinar que en este momento no haber aparato sino_que haber dirección me gustar añadir que ocurrir igual en todo el organización político no_sólo a nivel de canarias sino también de el estado por su parte ángel_víctor_torres 1 teniente de alcalde de el ayuntamiento_de_arucas y diputado nacional ser proclamar el [S:??/??/??:??.??:??] como nuevo secretario insular de el partido_socialista_canario psc-psoe en gran_canaria tras recibir 105 voto el 56,76 por ciento el otro candidato el consejero de empleo_del_cabildo insular isabel_guerra recibir 75 voto el que representar el 40,54 por 100 de el voto ya_que además haber 5 voto en blanco torre sustituir así en el cargo a josé_miguel_pérez quien desde el [??:??/3/??:??.??:??] pasar a ser secretario general de el psoe_canario aunque durante el último mes haber compatibilizar ambos cargo",
+        "lemmatized_text_reduced": "congreso_insular socialista grancanarios creer haber ser ejemplo democracia respeto haber miedo votar alternativa decir contar apoyo aparato decir declaración medio comunicación opinar momento haber aparato haber dirección gustar añadir ocurrir organización político nivel canarias estado parte ángel_víctor_torres 1 teniente alcalde ayuntamiento_de_arucas diputado nacional ser proclamar nuevo secretario insular partido_socialista_canario psc-psoe gran_canaria recibir voto ciento candidato consejero empleo_del_cabildo insular isabel_guerra recibir voto representar voto haber voto blanco torre sustituir cargo josé_miguel_pérez pasar ser secretario general psoe_canario último mes haber compatibilizar cargo",
+        "persons": [
+            "Ángel_Víctor_Torres",
+            "Isabel_Guerra",
+            "José_Miguel_Pérez"
+        ],
+        "locations": [
+            "Canarias",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Congreso_Insular",
+            "Estado",
+            "Ayuntamiento_de_Arucas",
+            "Partido_Socialista_Canario",
+            "PSC-PSOE",
+            "Empleo_del_Cabildo",
+            "PSOE_Canario"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]",
+            "[??:??/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "105",
+            "56,76",
+            "75",
+            "40,54",
+            "100",
+            "5"
+        ]
+    }
+}

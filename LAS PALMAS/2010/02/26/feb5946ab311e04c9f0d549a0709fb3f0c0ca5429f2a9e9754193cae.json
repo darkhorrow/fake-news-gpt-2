@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/639378/0/",
+    "title": {
+        "raw_text": "Cabildo Lanzarote autoriza servicio extraordinario de guagua para que los ciudadanos puedan ir a Tinajo",
+        "lemmatized_text": "cabildo_lanzarote autorizar servicio extraordinario de_guagua para que el ciudadano poder ir a tinajo",
+        "lemmatized_text_reduced": "cabildo_lanzarote autorizar servicio extraordinario ciudadano poder ir tinajo",
+        "persons": [
+            "Cabildo_Lanzarote",
+            "Tinajo"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Transportes del Cabildo de Lanzarote ha autorizado un servicio extraordinario de guagua para que los ciudadanos puedan trasladarse hasta el Carnaval de Tinajo.",
+        "lemmatized_text": "el consejería_de_transportes_del_cabildo_de_lanzarote haber autorizar uno servicio extraordinario de_guagua para que el ciudadano poder trasladar se hasta el carnaval_de_tinajo",
+        "lemmatized_text_reduced": "consejería_de_transportes_del_cabildo_de_lanzarote haber autorizar servicio extraordinario ciudadano poder trasladar carnaval_de_tinajo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Consejería_de_Transportes_del_Cabildo_de_Lanzarote"
+        ],
+        "others": [
+            "Carnaval_de_Tinajo"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Este servicio especial pretende que los ciudadanos de Arrecife se acerquen hasta Tinajo sin hacer uso de su vehículo particular. Por ello, como medida preventiva, habrá un viaje a las 05.30 horas en la madrugada del sábado al domingo, según informó el Cabildo de Lanzarote en nota de prensa. Así, esta guagua partirá desde la rotonda de la iglesia de Tinajo hasta la Estación de Guaguas de Arrecife, realizando paradas en La Vegueta, la Tienda de Tiagua, La Caseta de Tao, Mozaga, el cruce de San Bartolomé, la Avenida De Las Palmeras y el Consejo Regulador (en San Bartolomé). En este sentido, y a petición de la empresa que gestiona el citado servicio público de transporte, se ha fijado un precio especial para el trayecto de 3,05 euros.",
+        "lemmatized_text": "este servicio especial pretender que el ciudadano de arrecife se acercar hasta tinajo sin hacer_uso de su vehículo particular por ello como medida preventivo haber uno viaje a el TM_h:5.3 en el madrugada de el [S:??/??/??:??.??:??] a el [G:??/??/??:??.??:??] según informar el cabildo_de_lanzarote en nota de prensa así este guagua partir desde el rotonda de el iglesia de tinajo hasta el estación_de_guaguas_de_arrecife realizar parada en la_vegueta el tienda_de_tiagua la_caseta_de_tao mozaga el cruce de san_bartolomé el avenida_de_las_palmeras y el consejo_regulador en san_bartolomé en este sentido y a_petición_de el empresa que gestionar el citar servicio público de transporte se haber fijar uno precio especial para el trayecto de $_ECU:3,05",
+        "lemmatized_text_reduced": "servicio especial pretender ciudadano arrecife acercar tinajo hacer_uso vehículo particular medida preventivo haber viaje madrugada informar cabildo_de_lanzarote nota prensa guagua partir rotonda iglesia tinajo estación_de_guaguas_de_arrecife realizar parada la_vegueta tienda_de_tiagua la_caseta_de_tao mozaga cruce san_bartolomé avenida_de_las_palmeras consejo_regulador san_bartolomé sentido empresa gestionar citar servicio público transporte haber fijar precio especial trayecto",
+        "persons": [
+            "Tinajo",
+            "La_Caseta_de_Tao",
+            "Mozaga"
+        ],
+        "locations": [
+            "Arrecife",
+            "Tinajo",
+            "Estación_de_Guaguas_de_Arrecife",
+            "La_Vegueta",
+            "San_Bartolomé",
+            "Avenida_De_Las_Palmeras",
+            "San_Bartolomé"
+        ],
+        "organizations": [
+            "Cabildo_de_Lanzarote",
+            "Tienda_de_Tiagua",
+            "Consejo_Regulador"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:5.3",
+            "$_ECU:3,05"
+        ]
+    }
+}

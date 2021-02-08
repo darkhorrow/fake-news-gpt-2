@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/303761/0/inmigrantes/patera/lanzarote/",
+    "title": {
+        "raw_text": "21 inmigrantes magrebíes rescatados cuando iban hacia Lanzarote en patera",
+        "lemmatized_text": "21 inmigrante magrebí rescatar cuando ir hacia lanzarote en patera",
+        "lemmatized_text_reduced": "inmigrante magrebí rescatar ir lanzarote patera",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "21"
+        ]
+    },
+    "lead": {
+        "raw_text": "Entre ellos hay cuatro mujeres y un menor de edad. Presentan un buen estado de salud. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "entre ellos haber 4 mujer y uno menor de edad presentar uno bueno estado de salud consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "haber mujer menor edad presentar bueno estado salud consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo rescató esta madrugada a los 21 inmigrantes de origen magrebí que viajaban en una patera en aguas cercanas a Lanzarote, donde la barquilla fue detectada por los radares del SIVE de la Guardia Civil. Entre los 21 inmigrantes de esta expedición hay cuatro mujeres y un menor de edad , informó un portavoz de Salvamento Marítimo. La patera fue detectada sobre las 23.00 horas de ayer por los radares del SIVE y hasta el lugar en el que navegaba se dirigió a su encuentro la embarcación Salvamar Atlántico de Salvamento Marítimo. Su tripulación se encargó de transbordar a los inmigrantes y conducirlos hasta el muelle de Arrecife , la capital lanzaroteña, donde desembarcaron en aparente buen estado de salud sobre las 02.00 horas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "salvamento_marítimo rescatar este madrugada a el 21 inmigrante de origen magrebí que viajar en uno patera en agua cercano a lanzarote donde el barquilla ser detectar por el radar de el sive_de_la_guardia_civil entre el 21 inmigrante de este expedición haber 4 mujer y uno menor de edad informar uno portavoz de salvamento_marítimo el patera ser detectar sobre el TM_h:23 de ayer por el radar de el sive y hasta el lugar en el que navegar se dirigir a su encuentro el embarcación salvamar_atlántico_de_salvamento_marítimo su tripulación se encargar de transbordar a el inmigrante y conducir lo hasta el muelle de arrecife el capital lanzaroteña donde desembarcar en aparente bueno estado de salud sobre el TM_h:2 consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "salvamento_marítimo rescatar madrugada inmigrante origen magrebí viajar patera agua cercano lanzarote barquilla ser detectar radar sive_de_la_guardia_civil inmigrante expedición haber mujer menor edad informar portavoz salvamento_marítimo patera ser detectar radar sive lugar navegar dirigir encuentro embarcación salvamar_atlántico_de_salvamento_marítimo tripulación encargar transbordar inmigrante conducir muelle arrecife capital lanzaroteña desembarcar aparente bueno estado salud consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Lanzarote",
+            "Arrecife"
+        ],
+        "organizations": [
+            "SIVE_de_la_Guardia_Civil",
+            "Salvamento_Marítimo",
+            "SIVE",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Salvamar_Atlántico_de_Salvamento_Marítimo"
+        ],
+        "dates": [],
+        "numbers": [
+            "21",
+            "21",
+            "4",
+            "TM_h:23",
+            "TM_h:2"
+        ]
+    }
+}

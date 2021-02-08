@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/707571/0/",
+    "title": {
+        "raw_text": "Gran Hotel Atlantis Bahía Real de Fuerteventura recibe el 'Premio a la Excelencia 2009'",
+        "lemmatized_text": "gran_hotel_atlantis_bahía_real_de_fuerteventura recibir el premio a el excelencia 2009",
+        "lemmatized_text_reduced": "gran_hotel_atlantis_bahía_real_de_fuerteventura recibir premio excelencia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Excelencia"
+        ],
+        "others": [
+            "Gran_Hotel_Atlantis_Bahía_Real_de_Fuerteventura"
+        ],
+        "dates": [],
+        "numbers": [
+            "2009"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Gran Hotel Atlantis Bahía Real, un 5 estrellas Gran Lujo ubicado en la isla de Fuerteventura, junto al Parque Natural de las Dunas de Corralejo, ha recibido el galardón 'Premio a la Excelencia 2009', concedido por el touroperador británico Thomas Cook, que opera en 21 países.",
+        "lemmatized_text": "el gran_hotel_atlantis_bahía_real uno 5 estrella gran_lujo ubicar en el isla de fuerteventura junto a el parque_natural_de_las_dunas_de_corralejo haber recibir el galardón premio a el excelencia 2009 conceder por el touroperador británico thomas_cook que operar en 21 país",
+        "lemmatized_text_reduced": "gran_hotel_atlantis_bahía_real estrella gran_lujo ubicar isla fuerteventura junto parque_natural_de_las_dunas_de_corralejo haber recibir galardón premio excelencia conceder touroperador británico thomas_cook operar país",
+        "persons": [
+            "Gran_Lujo",
+            "Thomas_Cook"
+        ],
+        "locations": [
+            "Gran_Hotel_Atlantis_Bahía_Real",
+            "Fuerteventura",
+            "Parque_Natural_de_las_Dunas_de_Corralejo"
+        ],
+        "organizations": [
+            "Excelencia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "2009",
+            "21"
+        ]
+    },
+    "body": {
+        "raw_text": "El premio es concedido por los clientes del touroperador, un total de 21,2 millones, que valoran los establecimientos que visitan. En el caso del Gran Hotel Atlantis Bahía Real, los turistas han premiado los altos estándares de calidad y servicio, informa el establecimiento hotelero en un comunicado. Así, recuerda que \"la constante labor desempeñada por el hotel en la implantación de calidad y excelencia le han llevado a recibir diversos reconocimientos y premios nacionales e internacionales por este concepto\". Entre ellos destacan su designación como 'Most Excellent European Hotel 2008' por Condé Nast Johansens o la elección como 'Mejor Hotel Resort de España 2009' por Condé Nast Traveler y la 'Medalla a la Excelencia Turística de Canarias 2009', galardón que otorga el Gobierno de Canarias a propuesta del consejo Canario de Turismo. Instalaciones de calidad Enclavado en un auténtico paraíso natural, el Gran Hotel Atlantis Bahía Real cuenta, entre sus instalaciones de lujo, con el Spa Bahía Vital, \"un templo del bienestar y la salud\" de 3.000 metros cuadrados con vistas panorámicas al Atlántico y la isla de Lobos. Por ello fue galardonado como 'Most Excellent European Spa Hotel 2006' por Condé Nast Johansens. Además, asegura que dispone de una \"magnífica\" restauración formada por sus cinco restaurantes, entre ellos La Cúpula de Carles Gaig, dirigida por el prestigioso chef catalán, poseedor de una estrella Michelín.",
+        "lemmatized_text": "el premio ser conceder por el cliente de el touroperador uno total de 21,2 millón que valorar el establecimiento que visitar en el caso de el gran_hotel_atlantis_bahía_real el turista haber premiar el alto estándar de calidad y servicio informar el establecimiento hotelero en uno comunicado así recordar que el constante labor desempeñar por el hotel en el implantación de calidad y excelencia le haber llevar a recibir diverso reconocimiento y premio nacional y internacional por este concepto entre ellos destacar su designación como most_excellent_european_hotel 2008 por condé_nast_johansens o el elección como mejor_hotel_resort_de_españa 2009 por condé_nast_traveler y el medalla a el excelencia_turística_de_canarias 2009 galardón que otorgar el gobierno_de_canarias a propuesta de el consejo canario_de_turismo instalación de calidad enclavado en uno auténtico paraíso natural el gran_hotel_atlantis_bahía_real contar entre su instalación de lujo con el spa_bahía_vital uno templo de el bienestar y el salud de AR_m2:3 con vista panorámico a el atlántico y el isla de lobos por ello ser galardonar como most_excellent_european_spa_hotel 2006 por condé_nast_johansens además asegurar que disponer de uno magnífico restauración formar por su 5 restaurante entre ellos la_cúpula_de_carles_gaig dirigir por el prestigioso chef catalán poseedor de uno estrella michelín",
+        "lemmatized_text_reduced": "premio ser conceder cliente touroperador total millón valorar establecimiento visitar caso gran_hotel_atlantis_bahía_real turista haber premiar alto estándar calidad servicio informar establecimiento hotelero comunicado recordar constante labor desempeñar hotel implantación calidad excelencia haber llevar recibir reconocimiento premio nacional internacional concepto destacar designación most_excellent_european_hotel condé_nast_johansens elección mejor_hotel_resort_de_españa condé_nast_traveler medalla excelencia_turística_de_canarias galardón otorgar gobierno_de_canarias propuesta consejo canario_de_turismo instalación calidad enclavado auténtico paraíso natural gran_hotel_atlantis_bahía_real contar instalación lujo spa_bahía_vital templo bienestar salud vista panorámico atlántico isla lobos ser galardonar most_excellent_european_spa_hotel condé_nast_johansens asegurar disponer magnífico restauración formar restaurante la_cúpula_de_carles_gaig dirigir prestigioso chef catalán poseedor estrella michelín",
+        "persons": [
+            "Condé_Nast_Johansens",
+            "Condé_Nast_Traveler",
+            "Condé_Nast_Johansens",
+            "Michelín"
+        ],
+        "locations": [
+            "Gran_Hotel_Atlantis_Bahía_Real",
+            "Lobos"
+        ],
+        "organizations": [
+            "Excelencia_Turística_de_Canarias",
+            "Gobierno_de_Canarias",
+            "Spa_Bahía_Vital",
+            "La_Cúpula_de_Carles_Gaig"
+        ],
+        "others": [
+            "Most_Excellent_European_Hotel",
+            "Mejor_Hotel_Resort_de_España",
+            "Canario_de_Turismo",
+            "Enclavado",
+            "Gran_Hotel_Atlantis_Bahía_Real",
+            "Atlántico",
+            "Most_Excellent_European_Spa_Hotel"
+        ],
+        "dates": [],
+        "numbers": [
+            "21,2",
+            "2008",
+            "2009",
+            "2009",
+            "AR_m2:3",
+            "2006",
+            "5"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599743/0/",
+    "title": {
+        "raw_text": "Los aeropuertos canarios operan hoy con normalidad tras el corte eléctrico de ayer en el Centro de Control Aéreo",
+        "lemmatized_text": "el aeropuerto canario operar hoy con normalidad tras el corte eléctrico de ayer en el centro_de_control_aéreo",
+        "lemmatized_text_reduced": "aeropuerto canario operar normalidad corte eléctrico centro_de_control_aéreo",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Centro_de_Control_Aéreo"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los ocho aeropuertos de Canarias están operando con normalidad durante la mañana tras la avería que sufrió ayer Centro de Control Aéreo de Canarias y que paralizó durante 22 minutos el espacio aéreo de las islas, según informó a Europa Press Aeropuertos Españoles y Navegación Aérea (Aena).",
+        "lemmatized_text": "el 8 aeropuerto de canarias estar operando con normalidad durante el mañana tras el avería que sufrir ayer centro_de_control_aéreo_de_canarias y que paralizar durante TM_min:22 el espacio aéreo de el isla según informar a europa_press_aeropuertos_españoles y navegación_aérea aena",
+        "lemmatized_text_reduced": "aeropuerto canarias estar operando normalidad mañana avería sufrir centro_de_control_aéreo_de_canarias paralizar espacio aéreo isla informar europa_press_aeropuertos_españoles navegación_aérea aena",
+        "persons": [
+            "Europa_Press_Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Centro_de_Control_Aéreo_de_Canarias",
+            "Aena"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8",
+            "TM_min:22"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, en la provincia de Santa Cruz de Tenerife la tranquilidad ha sido la tónica predominante durante las primeras horas del día sin que se registraran incidencias ni retrasos en ninguno de los vuelos internacionales, nacionales e interinsulares. Por su parte, la mañana en Las Palmas también está transcurriendo con normalidad, aunque aquí señalaron que se están produciendo pequeños retrasos en algunos vuelos procedentes del Aeropuerto de Madrid Barajas debido a que salen con demora de la capital de España. Las mismas fuentes explicaron que tras el corte de suministro eléctrico de ayer, ya durante la tarde los aeropuertos de las islas trabajaban a pleno rendimiento, mientras que poco a poco se fue recuperando la normalidad en los retrasos provocados por el corte.",
+        "lemmatized_text": "de este manera en el provincia de santa_cruz_de_tenerife el tranquilidad haber ser el tónica predominante durante el 1 hora de el día sin que se registrar incidencia ni retraso en ninguno de el vuelo internacional nacional y interinsular por su parte el mañana en las_palmas también estar transcurrir con normalidad aunque aquí señalar que se estar producir pequeño retraso en alguno vuelo procedente de el aeropuerto_de_madrid_barajas debido_a que salir con demora de el capital de españa el mismo fuente explicar que tras el corte de suministro eléctrico de ayer ya durante el tarde el aeropuerto de el isla trabajar a pleno rendimiento mientras_que poco_a_poco se ir recuperar el normalidad en el retraso provocar por el corte",
+        "lemmatized_text_reduced": "manera provincia santa_cruz_de_tenerife tranquilidad haber ser tónica predominante 1 hora día registrar incidencia retraso vuelo internacional nacional interinsular parte mañana las_palmas estar transcurrir normalidad señalar estar producir pequeño retraso vuelo procedente aeropuerto_de_madrid_barajas salir demora capital españa mismo fuente explicar corte suministro eléctrico tarde aeropuerto isla trabajar pleno rendimiento ir recuperar normalidad retraso provocar corte",
+        "persons": [],
+        "locations": [
+            "Santa_Cruz_de_Tenerife",
+            "España"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Aeropuerto_de_Madrid_Barajas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

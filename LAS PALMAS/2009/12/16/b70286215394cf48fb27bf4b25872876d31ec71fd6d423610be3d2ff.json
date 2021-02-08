@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/589529/0/",
+    "title": {
+        "raw_text": "Arrecife (Lanzarote) se convertirá el sábado en sede de una manifestación de apoyo a Haidar",
+        "lemmatized_text": "arrecife lanzarote se convertir el [S:??/??/??:??.??:??] en sede de uno manifestación de apoyo a haidar",
+        "lemmatized_text_reduced": "arrecife lanzarote convertir sede manifestación apoyo haidar",
+        "persons": [],
+        "locations": [
+            "Arrecife",
+            "Lanzarote",
+            "Haidar"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La ciudad de Arrecife, en Lanzarote, se convertirá el sábado en escenario de la celebración de una manifestación en apoyo a la activista saharaui Aminetu Haidar, que permanece desde hace 31 días en huelga de hambre para pedir que le permitan volver a su casa, según ha informado hoy la Plataforma de Apoyo.",
+        "lemmatized_text": "el ciudad de arrecife en lanzarote se convertir el [S:??/??/??:??.??:??] en escenario de el celebración de uno manifestación en apoyo a el activista saharaui aminetu_haidar que permanecer desde hacer TM_d:31 en huelga de hambre para pedir que le permitir volver a su casa según haber informar hoy el plataforma_de_apoyo",
+        "lemmatized_text_reduced": "ciudad arrecife lanzarote convertir escenario celebración manifestación apoyo activista saharaui aminetu_haidar permanecer hacer huelga hambre pedir permitir volver casa haber informar plataforma_de_apoyo",
+        "persons": [
+            "Aminetu_Haidar"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Plataforma_de_Apoyo"
+        ],
+        "others": [],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_d:31"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta iniciativa, que se sumará a la de Madrid, tendrá lugar a las 12.00 horas en la calle de Real coincidiendo con la de la capital del país. Según fuentes de la Plataforma, que ya ha comenzado a repartir camisetas con el rostro de la activista, esta iniciativa se celebra en la isla para que la gente que no se pueda acercar a Madrid pueda mostrar su apoyo. No obstante, y según dijeron recientemente, confían en que el encuentro en la capital del país sirva para aunar a todos los colectivos y \"sea masiva\" para pedir al Gobierno de España que actúe 'enérgicamente' para lograr que Haidar vuelva cuanto antes a su casa.",
+        "lemmatized_text": "este iniciativa que se sumar a el de madrid tener_lugar a el TM_h:12 en el calle de real coincidir con el de el capital de el país según fuente de el plataforma que ya haber comenzar a repartir camiseta con el rostro de el activista este iniciativa se celebrar en el isla para que el gente que no se poder acercar a madrid poder mostrar su apoyo no_obstante y según decir recientemente confiar en que el encuentro en el capital de el país servir para aunar a todo el colectivo y ser masivo para pedir a el gobierno_de_españa que actuar enérgicamente para lograr que haidar volver cuanto_antes a su casa",
+        "lemmatized_text_reduced": "iniciativa sumar madrid tener_lugar calle real coincidir capital país fuente plataforma haber comenzar repartir camiseta rostro activista iniciativa celebrar isla gente poder acercar madrid poder mostrar apoyo decir recientemente confiar encuentro capital país servir aunar colectivo ser masivo pedir gobierno_de_españa actuar enérgicamente lograr haidar volver casa",
+        "persons": [
+            "Haidar"
+        ],
+        "locations": [
+            "Madrid",
+            "Madrid"
+        ],
+        "organizations": [
+            "Real",
+            "Plataforma",
+            "Gobierno_de_España"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:12"
+        ]
+    }
+}

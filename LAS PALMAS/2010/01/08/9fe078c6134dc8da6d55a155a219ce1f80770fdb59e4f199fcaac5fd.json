@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/602173/0/",
+    "title": {
+        "raw_text": "Un hombre muere en Gran Canaria tras caer a la piscina de un complejo hotelero de la isla",
+        "lemmatized_text": "uno hombre morir en gran_canaria tras caer a el piscina de uno complejo hotelero de el isla",
+        "lemmatized_text_reduced": "hombre morir gran_canaria caer piscina complejo hotelero isla",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre ha fallecido hoy en el municipio de Mogán (Gran Canaria), tras sufrir una caída a la piscina de un complejo hotelero de la isla, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno hombre haber fallecer hoy en el municipio de mogán gran_canaria tras sufrir uno caída a el piscina de uno complejo hotelero de el isla según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "hombre haber fallecer municipio mogán gran_canaria sufrir caída piscina complejo hotelero isla informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Mogán",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 9.48 horas en un hotel ubicado en la Avenida de La Cornisa en Puerto Rico, en Mogán, momento en el que se activó la alerta en el 112, que activó sus recursos y trasladó hasta el lugar del incidente el personal del Servicio de Urgencias Canario (SUC). Al llegar al complejo hotelero, el personal del SUC se encontró con un varón, de 60 años de edad y de nacionalidad extranjera, que parecía no responder a estímulos. De todos modos, al comprobar que se encontraba en parada cardiorrespiratoria le practicaron maniobras de reanimación cardiopulmonar avanzadas que finalmente no dieron resultado, por lo que sólo pudieron confirmar el fallecimiento del hombre. Asimismo, hasta el lugar del incidente también se trasladaron agentes de la Policía Local, así como de la Guardia Civil, quien instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir a el TM_h:9.48 en uno hotel ubicar en el avenida_de_la_cornisa en puerto_rico en mogán momento en el que se activar el alerta en el 112 que activar su recurso y trasladar hasta el lugar de el incidente el personal de el servicio_de_urgencias_canario suc a el llegar a el complejo hotelero el personal de el suc se encontrar con uno varón de 60 año de edad y de nacionalidad extranjero que parecer no responder a estímulo de_todos_modos a el comprobar que se encontrar en parada cardiorrespiratoria le practicar maniobra de reanimación cardiopulmonar avanzada que finalmente no dar resultado por el que sólo poder confirmar el fallecimiento de el hombre asimismo hasta el lugar de el incidente también se trasladar agente de el policía_local así_como de el guardia_civil quien instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir hotel ubicar avenida_de_la_cornisa puerto_rico mogán momento activar alerta activar recurso trasladar lugar incidente personal servicio_de_urgencias_canario suc llegar complejo hotelero personal suc encontrar varón año edad nacionalidad extranjero parecer responder estímulo comprobar encontrar parada cardiorrespiratoria practicar maniobra reanimación cardiopulmonar avanzada finalmente dar resultado poder confirmar fallecimiento hombre lugar incidente trasladar agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Avenida_de_La_Cornisa",
+            "Puerto_Rico",
+            "Mogán"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.48",
+            "112",
+            "60"
+        ]
+    }
+}

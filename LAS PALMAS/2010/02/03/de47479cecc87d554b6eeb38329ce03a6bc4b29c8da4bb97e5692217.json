@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/620847/0/",
+    "title": {
+        "raw_text": "Finaliza la alerta y las Islas Canarias vuelven a la normalidad tras el temporal de lluvia y viento",
+        "lemmatized_text": "finalizar el alerta y el islas_canarias volver a el normalidad tras el temporal de lluvia y viento",
+        "lemmatized_text_reduced": "finalizar alerta islas_canarias volver normalidad temporal lluvia viento",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Islas_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La alerta de nivel II por Fenómeno Meteorológico Adverso (FMA) ha finalizado en Canarias y las islas están poco a poco volviendo a la normalidad tras el fuerte temporal de lluvias que llegó a superar los 200 litros de agua por metro cuadrado registrados en algunas zonas de mayor relieve como el municipio tinerfeño de La Laguna.",
+        "lemmatized_text": "el alerta de nivel ii_por_fenómeno_meteorológico_adverso fma haber finalizar en canarias y el isla estar poco_a_poco volver a el normalidad tras el fuerte temporal de lluvia que llegar a superar el VL_l:200 de agua por metro cuadrado registrar en alguno zona de mayor relieve como el municipio tinerfeño de la_laguna",
+        "lemmatized_text_reduced": "alerta nivel ii_por_fenómeno_meteorológico_adverso fma haber finalizar canarias isla estar volver normalidad fuerte temporal lluvia llegar superar agua metro cuadrado registrar zona mayor relieve municipio tinerfeño la_laguna",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "La_Laguna"
+        ],
+        "organizations": [
+            "FMA"
+        ],
+        "others": [
+            "II_por_Fenómeno_Meteorológico_Adverso"
+        ],
+        "dates": [],
+        "numbers": [
+            "VL_l:200"
+        ]
+    },
+    "body": {
+        "raw_text": "Por tanto, los cabildos insulares han procedido a suspender sus correspondientes planes de emergencia y durante el día de hoy se han reanudado las clases en todas las islas a excepción del Centro de Infantil y Primaria (CEIP) Ofra-Chimisay; el CEIP Los Menceyes (Añaza) y las tres escuelas unitarias de Anaga, situadas en Taganana, Almáciga y Roque Negro, todos ellos en Santa Cruz de Tenerife. Además, el CEIP Clorinda Salazar, en La Laguna (Tenerife) tampoco ha podido reanudar hoy las clases, al igual que el CEIP Froilán Hernández y el CEIP Granadilla de Abona, ambos en Granadilla de Abona. En cuanto a la predicción meteorológica para la jornada, en el norte de la isla de Tenerife se esperan cielos nubosos con probabilidad de alguna lluvia débil; mientras que en el resto del territorio insular habrá intervalos nubosos que disminuirán a medida que avance el día, según informó la Agencia Estatal de Meteorología (Aemet). Respecto a la isla de La Gomera y La Palma, los cielos estarán nubosos en general, con probabilidad de alguna lluvia débil en el norte; mientras que en El Hierro habrá intervalos nubosos con la posibilidad de que se produjera algún chubasco débil y disperso en el norte de esta isla. En cuanto al viento, en la provincia de Santa Cruz de Tenerife, soplará del componente oeste moderado, siendo más intenso en el extremo sur, así como girando y disminuyendo a noroeste flojo a moderado durante la mañana; en medianías y cumbres, el viento soplará de componente oeste fuerte, disminuyendo a noroeste moderado durante la mañana, salvo en el Teide donde continuará siendo fuerte. Por su parte, para la isla de Gran Canaria se prevé nubosidad en el norte y oeste, con probabilidad de alguna lluvia débil; mientras que habrá intervalos nubosos en el resto de zonas. Asimismo, en Lanzarote y Fuerteventura habrá intervalos nubosos, con probabilidad de lluvias en general débiles, principalmente en las primeras horas. En cuanto al viento, en la provincia oriental soplará de componente oeste moderado, con intervalos fuerte, girando a noroeste moderado al final de la mañana, siendo más intenso por la tarde en el extremo nordeste de la isla; en medianías y cumbres, el viento soplará de componente oeste fuerte, disminuyendo a noroeste moderado a fuerte al mediodía.",
+        "lemmatized_text": "por tanto el cabildo insular haber proceder a suspender su correspondiente plan de emergencia y durante el día de hoy se haber reanudar el clase en todo el isla a excepción de el centro_de_infantil y primaria ceip ofra-chimisay el ceip_los_menceyes añaza y el 3 escuela unitario de anaga situar en taganana almáciga y roque_negro todo ellos en santa_cruz_de_tenerife además el ceip_clorinda_salazar en la_laguna tenerife tampoco haber poder reanudar hoy el clase al_igual_que el ceip_froilán_hernández y el ceip_granadilla_de_abona ambos en granadilla_de_abona en_cuanto_a el predicción meteorológico para el jornada en el norte de el isla de tenerife se esperar cielo nuboso con probabilidad de alguno lluvia débil mientras_que en el resto de el territorio insular haber intervalo nuboso que disminuir a_medida_que avanzar el día según informar el agencia_estatal_de_meteorología aemet respecto_a el isla de la_gomera y la_palma el cielo estar nuboso en general con probabilidad de alguno lluvia débil en el norte mientras_que en el_hierro haber intervalo nuboso con el posibilidad de que se producir alguno chubasco débil y disperso en el norte de este isla en cuanto a el viento en el provincia de santa_cruz_de_tenerife soplar de el componente oeste moderar ser más intenso en el extremo sur así_como girar y disminuir a noroeste flojo a moderar durante el mañana en medianía y cumbre el viento soplar de componente oeste fuerte disminuir a noroeste moderar durante el mañana salvo en el teide donde continuar ser fuerte por su parte para el isla de gran_canaria se prever nubosidad en el norte y oeste con probabilidad de alguno lluvia débil mientras_que haber intervalo nuboso en el resto de zona asimismo en lanzarote y fuerteventura haber intervalo nuboso con probabilidad de lluvia en general débil principalmente en el 1 hora en cuanto a el viento en el provincia oriental soplar de componente oeste moderar con intervalo fuerte girar a noroeste moderar a el final de el mañana ser más intenso por el tarde en el extremo nordeste de el isla en medianía y cumbre el viento soplar de componente oeste fuerte disminuir a noroeste moderar a fuerte a el [??:??/??/??:12.00:pm]",
+        "lemmatized_text_reduced": "cabildo insular haber proceder suspender correspondiente plan emergencia día haber reanudar clase isla excepción centro_de_infantil primaria ceip ofra-chimisay ceip_los_menceyes añaza escuela unitario anaga situar taganana almáciga roque_negro santa_cruz_de_tenerife ceip_clorinda_salazar la_laguna tenerife haber poder reanudar clase ceip_froilán_hernández ceip_granadilla_de_abona granadilla_de_abona predicción meteorológico jornada norte isla tenerife esperar cielo nuboso probabilidad lluvia débil resto territorio insular haber intervalo nuboso disminuir avanzar día informar agencia_estatal_de_meteorología aemet isla la_gomera la_palma cielo estar nuboso general probabilidad lluvia débil norte el_hierro haber intervalo nuboso posibilidad producir chubasco débil disperso norte isla viento provincia santa_cruz_de_tenerife soplar componente oeste moderar ser intenso extremo sur girar disminuir noroeste flojo moderar mañana medianía cumbre viento soplar componente oeste fuerte disminuir noroeste moderar mañana teide continuar ser fuerte parte isla gran_canaria prever nubosidad norte oeste probabilidad lluvia débil haber intervalo nuboso resto zona lanzarote fuerteventura haber intervalo nuboso probabilidad lluvia general débil principalmente 1 hora viento provincia oriental soplar componente oeste moderar intervalo fuerte girar noroeste moderar final mañana ser intenso tarde extremo nordeste isla medianía cumbre viento soplar componente oeste fuerte disminuir noroeste moderar fuerte",
+        "persons": [
+            "Roque_Negro",
+            "CEIP_Froilán_Hernández"
+        ],
+        "locations": [
+            "Anaga",
+            "Taganana",
+            "Almáciga",
+            "Santa_Cruz_de_Tenerife",
+            "La_Laguna",
+            "Tenerife",
+            "Granadilla_de_Abona",
+            "Tenerife",
+            "La_Gomera",
+            "La_Palma",
+            "El_Hierro",
+            "Santa_Cruz_de_Tenerife",
+            "Teide",
+            "Gran_Canaria",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_de_Infantil",
+            "CEIP",
+            "Ofra-Chimisay",
+            "CEIP_Los_Menceyes",
+            "Añaza",
+            "CEIP_Granadilla_de_Abona",
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Fuerteventura"
+        ],
+        "others": [
+            "Primaria",
+            "CEIP_Clorinda_Salazar"
+        ],
+        "dates": [
+            "[??:??/??/??:12.00:pm]"
+        ],
+        "numbers": [
+            "3"
+        ]
+    }
+}

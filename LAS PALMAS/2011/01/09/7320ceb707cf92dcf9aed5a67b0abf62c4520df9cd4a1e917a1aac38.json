@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/923194/0/",
+    "title": {
+        "raw_text": "Una joven muere en un accidente de moto en el sur de Gran Canaria",
+        "lemmatized_text": "uno joven morir en uno accidente de moto en el sur de gran_canaria",
+        "lemmatized_text_reduced": "joven morir accidente moto sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una joven, de 20 años de edad, ha fallecido este domingo en un accidente de moto en la vía GC-50, en la zona del Sequero del municipio de San Bartolomé de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno joven de 20 año de edad haber fallecer este [G:??/??/??:??.??:??] en uno accidente de moto en el vía GC-50 en el zona de el sequero de el municipio de san_bartolomé_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven año edad haber fallecer accidente moto vía zona sequero municipio san_bartolomé_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Sequero",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "20",
+            "GC-50",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una joven, de 20 años de edad, ha fallecido este domingo en un accidente de moto en la vía GC-50, en la zona del Sequero del municipio de San Bartolomé de Tirajana (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112. Hasta el lugar del accidente, tras recibir el 112 la alerta, se trasladó personal del Servicio de Urgencias Canario (SUC), donde el médico y el enfermero le practicaron a la afectada maniobras de reanimación cardiopulmonar básica y avanzada, ya que se encontraba en parada cardiorrespiratoria, sin embargo no tuvo éxito y sólo pudieron confirmar la muerte de la joven. Asimismo, en el accidente también se vio implicado un hombre, de 20 años de edad, que resultó herido pero de carácter leve, por lo que firmó el alta voluntaria y no fue trasladado a ningún centro hospitalario. En el lugar del suceso se personaron, además del personal del SUC, bomberos del Servicio de Extinción de Incendios y Salvamento de San Bartolomé de Tirajana. También se trasladó al lugar personal de Protección Civil, así como agentes de la Policía Local y de la Guardia Civil, que instruyó las diligencias correspondientes.",
+        "lemmatized_text": "uno joven de 20 año de edad haber fallecer este [G:??/??/??:??.??:??] en uno accidente de moto en el vía GC-50 en el zona de el sequero de el municipio de san_bartolomé_de_tirajana gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 hasta el lugar de el accidente tras recibir el 112 el alerta se trasladar personal de el servicio_de_urgencias_canario suc donde el médico y el enfermero le practicar a el afectar maniobra de reanimación cardiopulmonar básico y avanzar ya_que se encontrar en parada cardiorrespiratoria sin embargo no tener éxito y sólo poder confirmar el muerte de el joven asimismo en el accidente también se ver implicar uno hombre de 20 año de edad que resultar herir pero de carácter leve por el que firmar el alto voluntario y no ser trasladar a ninguno centro hospitalario en el lugar de el suceso se personar además de el personal de el suc bombero de el servicio_de_extinción_de_incendios y salvamento_de_san_bartolomé_de_tirajana también se trasladar a el lugar personal de protección_civil así_como agente de el policía_local y de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "joven año edad haber fallecer accidente moto vía zona sequero municipio san_bartolomé_de_tirajana gran_canaria informar centro_coordinador_de_emergencias seguridad lugar accidente recibir alerta trasladar personal servicio_de_urgencias_canario suc médico enfermero practicar afectar maniobra reanimación cardiopulmonar básico avanzar encontrar parada cardiorrespiratoria embargo tener éxito poder confirmar muerte joven accidente ver implicar hombre año edad resultar herir carácter leve firmar alto voluntario ser trasladar centro hospitalario lugar suceso personar personal suc bombero servicio_de_extinción_de_incendios salvamento_de_san_bartolomé_de_tirajana trasladar lugar personal protección_civil agente policía_local guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Sequero",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Gran_Canaria",
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Servicio_de_Extinción_de_Incendios",
+            "Protección_Civil",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad",
+            "Salvamento_de_San_Bartolomé_de_Tirajana"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "20",
+            "GC-50",
+            "112",
+            "112",
+            "20"
+        ]
+    }
+}

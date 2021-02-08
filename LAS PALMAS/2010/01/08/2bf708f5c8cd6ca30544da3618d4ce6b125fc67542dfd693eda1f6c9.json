@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/602108/0/",
+    "title": {
+        "raw_text": "El Cabildo de Gran Canaria retira 81.313 kilogramos de residuos y 5.369 metros cúbicos de vegetal desde octubre",
+        "lemmatized_text": "el cabildo_de_gran_canaria retirar WG_kg:81.313 de residuo y LN_m:5.369 cúbico de vegetal desde [??:??/10/??:??.??:??]",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria retirar residuo cúbico vegetal",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "WG_kg:81.313",
+            "LN_m:5.369"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Cabildo de Gran Canaria, a través de su Consejería de Empleo, Desarrollo Local e Igualdad, que dirige Isabel Guerra, ha retirado un total de 81.313 kilogramos de residuos sólidos y 5.369 metros cúbicos de residuos vegetales en Gran Canaria, desde el pasado mes de octubre, informó hoy la Corporación en un comunicado.",
+        "lemmatized_text": "el cabildo_de_gran_canaria a_través_de su consejería_de_empleo desarrollo_local y igualdad que dirigir isabel_guerra haber retirar uno total de WG_kg:81.313 de residuo sólido y LN_m:5.369 cúbico de residuo vegetal en gran_canaria desde el [??:??/10/??:??.??:??] informar hoy el corporación en uno comunicado",
+        "lemmatized_text_reduced": "cabildo_de_gran_canaria consejería_de_empleo desarrollo_local igualdad dirigir isabel_guerra haber retirar total residuo sólido cúbico residuo vegetal gran_canaria informar corporación comunicado",
+        "persons": [
+            "Desarrollo_Local",
+            "Igualdad",
+            "Isabel_Guerra"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Consejería_de_Empleo",
+            "Corporación"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/10/??:??.??:??]"
+        ],
+        "numbers": [
+            "WG_kg:81.313",
+            "LN_m:5.369"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, la labor de limpieza, que se enmarca dentro del 'I Plan Estratégico de Empleo de Gran Canaria', financiado en su totalidad por el Cabildo, tiene como objetivo principal contribuir al desarrollo sostenible de la isla y a la recuperación del entorno. Además se ha conseguido emplear a 149 personas, la mayoría de ellas se encontraba en situación de dificultad extrema. El proyecto, que comenzó el pasado mes de octubre y finaliza en abril de 2010, recoge actuaciones de limpieza, retirada de residuos, y plantaciones, entre otras tareas, en los 21 municipios de la isla. Asimismo, la Corporación insular indicó que hasta el momento se ha actuado en una superficie total de 301.329 metros cuadrados, donde se ha retirado residuos, se ha pintado un área de 3.368 metros cuadrados y se ha plantado en 1.485 metros cuadrados, mientras que se han llevado a cabo tareas de construcción en una superficie de seis metros cuadrados, y se ha enfoscado un perímetro de 50 metros cuadrados.",
+        "lemmatized_text": "de este manera el labor de limpieza que se enmarcar dentro de el i_plan_estratégico_de_empleo_de_gran_canaria financiar en su totalidad por el cabildo tener como objetivo principal contribuir a el desarrollo sostenible de el isla y a el recuperación de el entorno además se haber conseguir emplear a 149 persona el mayoría de ellos se encontrar en situación de dificultad extremo el proyecto que comenzar el [??:??/10/??:??.??:??] y finalizar en [??:??/4/2010:??.??:??] recoger actuación de limpieza retirada de residuo y plantación entre otro tarea en el 21 municipio de el isla asimismo el corporación insular indicar que hasta el momento se haber actuar en uno superficie total de AR_m2:301.329 donde se haber retirar residuo se haber pintar uno área de AR_m2:3.368 y se haber plantar en AR_m2:1.485 mientras_que se haber llevar_a_cabo tarea de construcción en uno superficie de AR_m2:6 y se haber enfoscar uno perímetro de AR_m2:50",
+        "lemmatized_text_reduced": "manera labor limpieza enmarcar i_plan_estratégico_de_empleo_de_gran_canaria financiar totalidad cabildo tener objetivo principal contribuir desarrollo sostenible isla recuperación entorno haber conseguir emplear persona mayoría encontrar situación dificultad extremo proyecto comenzar finalizar recoger actuación limpieza retirada residuo plantación tarea municipio isla corporación insular indicar momento haber actuar superficie total haber retirar residuo haber pintar área haber plantar haber llevar_a_cabo tarea construcción superficie haber enfoscar perímetro",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cabildo",
+            "Corporación"
+        ],
+        "others": [
+            "I_Plan_Estratégico_de_Empleo_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[??:??/10/??:??.??:??]",
+            "[??:??/4/2010:??.??:??]"
+        ],
+        "numbers": [
+            "149",
+            "21",
+            "AR_m2:301.329",
+            "AR_m2:3.368",
+            "AR_m2:1.485",
+            "AR_m2:6",
+            "AR_m2:50"
+        ]
+    }
+}

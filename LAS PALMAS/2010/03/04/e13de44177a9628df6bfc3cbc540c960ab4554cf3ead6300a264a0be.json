@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/644069/0/",
+    "title": {
+        "raw_text": "Se da por finalizada la búsqueda de un buceador brasileño desaparecido en Lanzarote",
+        "lemmatized_text": "se dar por finalizar el búsqueda de uno buceador brasileño desaparecer en lanzarote",
+        "lemmatized_text_reduced": "dar finalizar búsqueda buceador brasileño desaparecer lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los servicios de emergencias han dado por finalizada la búsqueda del buceador de 27 años de edad y de nacionalidad brasileña, que desapareció el pasado martes en Costa Teguise, en la isla de Lanzarote, según informaron a Europa Press fuentes de Salvamento Marítimo.",
+        "lemmatized_text": "el servicio de emergencia haber dar por finalizar el búsqueda de el buceador de 27 año de edad y de nacionalidad brasileño que desaparecer el [M:??/??/??:??.??:??] en costa_teguise en el isla de lanzarote según informar a europa_press fuente de salvamento_marítimo",
+        "lemmatized_text_reduced": "servicio emergencia haber dar finalizar búsqueda buceador año edad nacionalidad brasileño desaparecer costa_teguise isla lanzarote informar europa_press fuente salvamento_marítimo",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Costa_Teguise",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo"
+        ],
+        "others": [],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "27"
+        ]
+    },
+    "body": {
+        "raw_text": "El joven extranjero desapareció este martes, sobre las 18.40 horas, cuando dos compañeros que se habían sumergido con él alertaron al Cecoes de que no había salido del mar. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. La búsqueda se reanudó ayer especialmente en la zona norte de Costa Teguise, pero los medios se retiraron a las 19.00 horas al caer la noche y ante la falta de visibilidad. En todo caso, hoy se retomó la investigación, sobre todo en el norte de la Isla de Lobos, y al sur de Costa Teguise. Sin embargo, los recursos se han retirado a las 19.40 horas y se ha decidido suspender definitivamente su busca. No obstante, las mismas fuentes advirtieron de que se retomará la investigación si existe algún indicio sobre el paradero del ciudadano extranjero. En las labores de rescate ha participado Salvamento Marítimo con un helicóptero y la embarcación Salvamar Atlántico, así como agentes del Grupo Especial de Actividades Subacuáticas (GEAS) de la Guardia Civil y personal del Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "el joven extranjero desaparecer este [M:??/??/??:??.??:??] sobre el TM_h:18.4 cuando 2 compañero que se haber sumergir con él alertar a el cecoes de que no haber salir de el marzo de este modo el 112 activar de inmediato el dispositivo de emergencia necesario el búsqueda se reanudar ayer especialmente en el zona norte de costa_teguise pero el medio se retirar a el TM_h:19 a el caer el noche y ante el falta de visibilidad en_todo_caso hoy se retomar el investigación sobre todo en el norte de el isla_de_lobos y a el sur de costa_teguise sin embargo el recurso se haber retirar a el TM_h:19.4 y se haber decidir suspender definitivamente su busca no_obstante el mismo fuente advertir de que se retomar el investigación si existir alguno indicio sobre el paradero de el ciudadano extranjero en el labor de rescate haber participar salvamento_marítimo con uno helicóptero y el embarcación salvamar_atlántico así_como agente de el grupo_especial_de_actividades_subacuáticas geas de el guardia_civil y personal de el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "joven extranjero desaparecer compañero haber sumergir alertar cecoes haber salir marzo de modo activar inmediato dispositivo emergencia necesario búsqueda reanudar especialmente zona norte costa_teguise medio retirar caer noche falta visibilidad retomar investigación norte isla_de_lobos sur costa_teguise embargo recurso haber retirar haber decidir suspender definitivamente busca mismo fuente advertir retomar investigación existir indicio paradero ciudadano extranjero labor rescate haber participar salvamento_marítimo helicóptero embarcación salvamar_atlántico agente grupo_especial_de_actividades_subacuáticas geas guardia_civil personal centro_coordinador_de_emergencias seguridad",
+        "persons": [
+            "Salvamento_Marítimo",
+            "Salvamar_Atlántico"
+        ],
+        "locations": [
+            "Costa_Teguise",
+            "Isla_de_Lobos",
+            "Costa_Teguise"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Grupo_Especial_de_Actividades_Subacuáticas",
+            "GEAS",
+            "Guardia_Civil",
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "De",
+            "Seguridad"
+        ],
+        "dates": [
+            "[M:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:18.4",
+            "2",
+            "112",
+            "TM_h:19",
+            "TM_h:19.4",
+            "112"
+        ]
+    }
+}

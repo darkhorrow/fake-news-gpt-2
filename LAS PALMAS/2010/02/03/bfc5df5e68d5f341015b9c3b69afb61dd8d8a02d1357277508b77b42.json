@@ -1,0 +1,71 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621211/0/",
+    "title": {
+        "raw_text": "Un total de cuatro carreteras del centro de la isla de Gran Canaria continúan cerradas al tráfico",
+        "lemmatized_text": "uno total de 4 carretera de el centro de el isla de gran_canaria continuar cerrar a el tráfico",
+        "lemmatized_text_reduced": "total carretera centro isla gran_canaria continuar cerrar tráfico",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un total de cuatro carreteras del centro de la isla de Gran Canaria continúan en estos momentos cerradas al tráfico debido a que los operarios se encuentran trabajando para despejar las vías de los desprendimientos de piedras y del barro provocado como consecuencia del temporal de lluvia que azotó el archipiélago los pasados días.",
+        "lemmatized_text": "uno total de 4 carretera de el centro de el isla de gran_canaria continuar en este momento cerrar a el tráfico debido_a que el operario se encontrar trabajar para despejar el vía de el desprendimiento de piedra y de el barro provocar como consecuencia de el temporal de lluvia que azotar el archipiélago el pasar día",
+        "lemmatized_text_reduced": "total carretera centro isla gran_canaria continuar momento cerrar tráfico operario encontrar trabajar despejar vía desprendimiento piedra barro provocar consecuencia temporal lluvia azotar archipiélago pasar día",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "4"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informaron a Europa Press fuentes de la Consejería de Obras Públicas, Infraestructuras y Transportes del Cabildo insular, estos cortes se han producido en la carretera que une Ayacata con la Cueva de las Niñas (GC-605), en la vía de acceso al Carrizal de Tejeda (GC-606) y en la que une el Cruce de Acusa con el Paralillo (GC-210). Asimismo, la Corporación grancanaria decretó ayer el corte de la carretera de Tejeda (GC-60) a la altura de Casas de la Huerta debido al derrumbe de un muro de 20 metros de altura por las lluvias y a los desprendimientos de piedras que se están produciendo en la zona. Por otro lado, también se están llevando a cabo cierres intermitentes de vías para garantizar la seguridad de los conductores ante el posible desplome de piedras sobre la carretera, como es el caso de la de Temisas en Agüimes (GC-550).",
+        "lemmatized_text": "según informar a europa_press fuente de el consejería_de_obras_públicas infraestructuras y transportes_del_cabildo insular este corte se haber producir en el carretera que unir ayacata con el cueva_de_las_niñas GC-605 en el vía de acceso a el carrizal_de_tejeda GC-606 y en el que unir el cruce_de_acusa con el paralillo GC-210 asimismo el corporación grancanaria decretar ayer el corte de el carretera de tejeda GC-60 a el altura de casas_de_la_huerta deber a el derrumbe de uno muro de LN_m:20 de altura por el lluvia y a el desprendimiento de piedra que se estar producir en el zona por_otro_lado también se estar llevar_a_cabo cierre intermitente de vía para garantizar el seguridad de el conductor ante el posible desplome de piedra sobre el carretera como ser el caso de el de temisas en agüimes GC-550",
+        "lemmatized_text_reduced": "informar europa_press fuente consejería_de_obras_públicas infraestructuras transportes_del_cabildo insular corte haber producir carretera unir ayacata cueva_de_las_niñas vía acceso carrizal_de_tejeda unir cruce_de_acusa paralillo corporación grancanaria decretar corte carretera tejeda altura casas_de_la_huerta deber derrumbe muro altura lluvia desprendimiento piedra estar producir zona estar llevar_a_cabo cierre intermitente vía garantizar seguridad conductor posible desplome piedra carretera ser caso temisas agüimes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Ayacata",
+            "Cueva_de_las_Niñas",
+            "Cruce_de_Acusa",
+            "Tejeda",
+            "Casas_de_la_Huerta",
+            "Temisas",
+            "Agüimes"
+        ],
+        "organizations": [
+            "Consejería_de_Obras_Públicas",
+            "Transportes_del_Cabildo",
+            "Carrizal_de_Tejeda",
+            "Paralillo",
+            "Corporación"
+        ],
+        "others": [
+            "Infraestructuras"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-605",
+            "GC-606",
+            "GC-210",
+            "GC-60",
+            "LN_m:20",
+            "GC-550"
+        ]
+    }
+}

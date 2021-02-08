@@ -1,0 +1,78 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-03-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/460437/0/condena/separar/gemelas/",
+    "title": {
+        "raw_text": "El Gobierno canario deberá pagar 900.000 euros por separar a dos gemelas por error",
+        "lemmatized_text": "el gobierno canario deber pagar $_ECU:900 por separar a 2 gemelo por error",
+        "lemmatized_text_reduced": "gobierno canario deber pagar separar gemelo error",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:900",
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Cambiaron hace 28 años a una de ellas por otra niña en la incubadora. Una dependienta se dio cuenta de la similitud entre dos clientas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "cambiar hacer 28 año a uno de ellos por otro niño en el incubadora uno dependiente se dar_cuenta de el similitud entre 2 cliente consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cambiar hacer año niño incubadora dependiente dar_cuenta similitud cliente consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "28",
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "El Servicio Canario de Salud (SCS) ha sido condenado a pagar indemnizaciones que suman 900.000 euros a las cuatro afectadas por el caso de las gemelas separadas por error en la incubadora del antiguo hospital Nuestra Señora del Pino de Las Palmas de Gran Canaria tras nacer en 1973. La magistrada del Juzgado de lo Contencioso-Administrativo número 3 de la capital grancanaria, Olimpia del Rosario Palenzuela, estima las indemnizaciones reclamadas por el daño moral sufrido por las dos gemelas separadas y su madre, y una cuarta mujer a la que se cambió por una de las niñas cuando era bebé. El caso salió a la luz pública el año pasado cuando las dos gemelas demandaron a la Sanidad canaria tras reencontrarse en el año 2001 gracias a una dependienta de un comercio de la capital grancanaria que descubrió el extremo parecido de dos de sus clientas y promovió un encuentro entre ellas. Cuatro indemnizadas La sentencia condena al SCS a pagar 360.000 euros a una de las gemelas separadas y 180.000 euros a cada una de las otras dos niñas y a la madre de las gemelas. Para fijar la mayor indemnización, la magistrada tiene en cuenta que a una de la gemelas separadas se le causó un mayor perjuicio al no haber tenido ninguna relación con sus familiares biológicos y \"haberse agravado su penosidad durante el tratamiento de la enfermedad grave que le fue diagnosticada, que seguramente se habría aliviado en parte de conocer la existencia de una hermana gemela\". Las dos gemelas nacieron el 18 de enero de 1973 y al hacerlo prematuramente fueron llevadas a la incubadora. Allí una de ellas fue confundida y cambiada por otra bebé sietemesina, nacida tres días antes. Como consecuencia del intercambio, una de las gemelas fue a parar a otros padres, cuya verdadera hija ocupó el lugar de la otra melliza. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el servicio_canario_de_salud scs haber ser condenar a pagar indemnización que sumar $_ECU:900 a el 4 afectar por el caso de el gemelo separar por error en el incubadora de el antiguo hospital nuestra_señora_del_pino_de_las_palmas_de_gran_canaria tras nacer en 1973 el magistrado de el juzgado de el contencioso-administrativo número 3 de el capital grancanaria olimpia_del_rosario_palenzuela estimar el indemnización reclamar por el daño moral sufrir por el 2 gemelo separar y su madre y uno 4 mujer a el que se cambiar por uno de el niño cuando ser bebé el caso salir a el luz público el año pasar cuando el 2 gemelo demandar a el sanidad canario tras reencontrar se en el [??:??/??/2001:??.??:??] gracias_a uno dependiente de uno comercio de el capital grancanaria que descubrir el extremo parecer de 2 de su cliente y promover uno encuentro entre ellos 4 indemnizar la sentencia condena a el scs a pagar $_ECU:360 a uno de el gemelo separar y $_ECU:180 a cada uno de el otro 2 niño y a el madre de el gemelo para fijar el mayor indemnización el magistrado tener_en_cuenta que a uno de el gemelo separar se le causar uno mayor perjuicio a el no haber tener ninguno relación con su familiar biológico y haber se agravar su penosidad durante el tratamiento de el enfermedad grave que le ser diagnosticar que seguramente se haber aliviar en parte de conocer el existencia de uno hermano gemelo el 2 gemelo nacer el [??:18/1/1973:??.??:??] y a el hacer lo prematuramente ser llevar a el incubadora allí uno de ellos ser confundir y cambiar por otro bebé sietemesino nacer TM_d:3 antes como consecuencia de el intercambio uno de el gemelo ser a parar a otro padre cuyo verdadero hijo ocupar el lugar de el otro mellizo consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "servicio_canario_de_salud scs haber ser condenar pagar indemnización sumar afectar caso gemelo separar error incubadora antiguo hospital nuestra_señora_del_pino_de_las_palmas_de_gran_canaria nacer magistrado juzgado contencioso-administrativo número capital grancanaria olimpia_del_rosario_palenzuela estimar indemnización reclamar daño moral sufrir gemelo separar madre 4 mujer cambiar niño ser bebé caso salir luz público año pasar gemelo demandar sanidad canario reencontrar dependiente comercio capital grancanaria descubrir extremo parecer cliente promover encuentro indemnizar la sentencia condena scs pagar gemelo separar niño madre gemelo fijar mayor indemnización magistrado tener_en_cuenta gemelo separar causar mayor perjuicio haber tener relación familiar biológico haber agravar penosidad tratamiento enfermedad grave ser diagnosticar seguramente haber aliviar parte conocer existencia hermano gemelo gemelo nacer hacer prematuramente ser llevar incubadora ser confundir cambiar bebé sietemesino nacer consecuencia intercambio gemelo ser parar padre verdadero hijo ocupar lugar mellizo consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Olimpia_del_Rosario_Palenzuela",
+            "La"
+        ],
+        "locations": [],
+        "organizations": [
+            "Servicio_Canario_de_Salud",
+            "SCS",
+            "Nuestra_Señora_del_Pino_de_Las_Palmas_de_Gran_Canaria",
+            "Juzgado",
+            "Contencioso-Administrativo",
+            "SCS",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Sanidad"
+        ],
+        "dates": [
+            "[??:??/??/2001:??.??:??]",
+            "[??:18/1/1973:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:900",
+            "4",
+            "1973",
+            "3",
+            "2",
+            "2",
+            "2",
+            "4",
+            "$_ECU:360",
+            "$_ECU:180",
+            "2",
+            "2",
+            "TM_d:3"
+        ]
+    }
+}

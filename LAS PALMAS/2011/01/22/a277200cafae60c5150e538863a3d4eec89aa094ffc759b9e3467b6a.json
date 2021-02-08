@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/936520/0/",
+    "title": {
+        "raw_text": "Una mujer menos grave tras caer en los alrededores del Roque Nublo, en Gran Canaria",
+        "lemmatized_text": "uno mujer menos grave tras caer en el alrededor de el roque_nublo en gran_canaria",
+        "lemmatized_text_reduced": "mujer grave caer alrededor roque_nublo gran_canaria",
+        "persons": [],
+        "locations": [
+            "Roque_Nublo",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una mujer, de 67 años de edad, herida de carácter menos grave después de sufrir una caída en las inmediaciones del Roque Nublo, en el municipio de Tejeda (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno mujer de 67 año de edad herida de carácter menos grave después_de sufrir uno caída en el inmediación de el roque_nublo en el municipio de tejeda gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "mujer año edad herida carácter grave sufrir caída inmediación roque_nublo municipio tejeda gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Roque_Nublo",
+            "Tejeda",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "67",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Una mujer, de 67 años de edad, herida de carácter menos grave después de sufrir una caída en las inmediaciones del Roque Nublo, en el municipio de Tejeda (Gran Canaria), según informó el Centro Coordinador de Emergencias y Seguridad 112. El incidente se produjo este sábado y la afectada sufrió herida en la cabeza y traumatismo craneal de carácter menos grave, por lo que tuvo que ser evacuada por el helicóptero del Grupo de Emergencias y Salvamento (GES) hasta la helisuperficie del Hospital Universitario de Gran Canaria Doctor Negrín. Posteriormente, fue trasladada por una ambulancia y personal del Servicio de Urgencias Canario (SUC) al interior del citado centro hospitalario. Hasta el lugar también se trasladó personal del Consorcio de Emergencias de Gran Canaria, así como agentes de la Policía Local y de la Guardia Civil.",
+        "lemmatized_text": "uno mujer de 67 año de edad herida de carácter menos grave después_de sufrir uno caída en el inmediación de el roque_nublo en el municipio de tejeda gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el incidente se producir este [S:??/??/??:??.??:??] y el afectado sufrir herir en el cabeza y traumatismo craneal de carácter menos grave por el que tener que ser evacuar por el helicóptero de el grupo_de_emergencias y salvamento ges hasta el helisuperficie de el hospital_universitario_de_gran_canaria_doctor_negrín posteriormente ser trasladar por uno ambulancia y personal de el servicio_de_urgencias_canario suc a el interior de el citar centro hospitalario hasta el lugar también se trasladar personal de el consorcio_de_emergencias_de_gran_canaria así_como agente de el policía_local y de el guardia_civil",
+        "lemmatized_text_reduced": "mujer año edad herida carácter grave sufrir caída inmediación roque_nublo municipio tejeda gran_canaria informar centro_coordinador_de_emergencias seguridad incidente producir afectado sufrir herir cabeza traumatismo craneal carácter grave tener ser evacuar helicóptero grupo_de_emergencias salvamento ges helisuperficie hospital_universitario_de_gran_canaria_doctor_negrín posteriormente ser trasladar ambulancia personal servicio_de_urgencias_canario suc interior citar centro hospitalario lugar trasladar personal consorcio_de_emergencias_de_gran_canaria agente policía_local guardia_civil",
+        "persons": [
+            "Salvamento"
+        ],
+        "locations": [
+            "Roque_Nublo",
+            "Tejeda",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Grupo_de_Emergencias",
+            "GES",
+            "Hospital_Universitario_de_Gran_Canaria_Doctor_Negrín",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Policía_Local",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[S:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "67",
+            "112"
+        ]
+    }
+}

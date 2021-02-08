@@ -1,0 +1,87 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-27T00:00:00",
+    "url": "https://www.20minutos.es/noticia/690305/0/",
+    "title": {
+        "raw_text": "Libertad con cargos para el empresario José María Rosell en la 'Operación Jable', tras 8 horas de declaración",
+        "lemmatized_text": "libertad con cargo para el empresario josé_maría_rosell en el operación_jable tras TM_h:8 de declaración",
+        "lemmatized_text_reduced": "libertad cargo empresario josé_maría_rosell operación_jable declaración",
+        "persons": [
+            "José_María_Rosell",
+            "Operación_Jable"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:8"
+        ]
+    },
+    "lead": {
+        "raw_text": "El juez del Juzgado de Instrucción Número 5 de Arrecife (Lanzarote), César Romero Pamparacuatro, ha decretado hoy libertad con cargos para el empresario andaluz José María Rosell implicado en la 'Operación Jable', después de declarar durante ocho horas.",
+        "lemmatized_text": "el juez de el juzgado_de_instrucción_número 5 de arrecife lanzarote césar_romero_pamparacuatro haber decretar hoy libertad con cargo para el empresario andaluz josé_maría_rosell implicar en el operación_jable después_de declarar durante TM_h:8",
+        "lemmatized_text_reduced": "juez juzgado_de_instrucción_número arrecife lanzarote césar_romero_pamparacuatro haber decretar libertad cargo empresario andaluz josé_maría_rosell implicar operación_jable declarar",
+        "persons": [
+            "César_Romero_Pamparacuatro",
+            "José_María_Rosell",
+            "Operación_Jable"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Juzgado_de_Instrucción_Número"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "TM_h:8"
+        ]
+    },
+    "body": {
+        "raw_text": "Rosell, según informaron a Europa Press fuentes judiciales, ha estado declarando durante ocho horas en los juzgados de Arrecife donde entró a las 11.00 horas y salió a las 19.00 horas, tras dejarle el juez en libertad con cargos, además de imputarle por alzamiento de bienes y/o blanqueo de capitales. La 'Operación Jable', sobre cobro de comisiones ilegales a empresarios de Lanzarote para conseguir la adjudicación de contratos para las obras y servicios que se realizaban en la isla, comenzó el lunes, 19 de abril, y la está desarrollando la Unidad Central Operativa de la Guardia Civil, permitiendo \"poner al descubierto un complejo e importante entramado\" de corrupción, asentado en \"varias\" instituciones de la isla de Lanzarote, según informó la Benemérita. En dicha Operación, hoy han continuado las detenciones y ya alcanzan hasta los 24 arrestados, entre los que se encuentran desde consejeros actuales del Cabildo de Lanzarote, como María José Docal, hasta empresarios. Las detenciones se han realizado tanto en Lanzarote, como en Gran Canaria, Madrid y Almería. Además, en el marco de la 'Operación Jable' también se encuentra implicado otro andaluz, el directivo del grupo Hoteles Playas, Gonzalo Gil Acosta. Tanto Rosell como Gil Acosta están siendo representados por el bufete de abogados Garrigues.",
+        "lemmatized_text": "rosell según informar a europa_press fuente judicial haber estar declarar durante TM_h:8 en el juzgado de arrecife donde entrar a el TM_h:11 y salir a el TM_h:19 tras dejar le el juez en libertad con cargo además_de imputar le por alzamiento de bien y o blanqueo de capital el operación_jable sobre cobro de comisión ilegal a empresario de lanzarote para conseguir el adjudicación de contrato para el obra y servicio que se realizar en el isla comenzar el [L:19/4/??:??.??:??] y lo estar desarrollar el unidad_central_operativa_de_la_guardia_civil permitir poner a el descubrir uno complejo y importante entramado de corrupción asentar en varios institución de el isla de lanzarote según informar el benemérita en decir operación hoy haber continuar el detención y ya alcanzar hasta el 24 arrestar entre el que se encontrar desde consejero actual de el cabildo_de_lanzarote como maría_josé_docal hasta empresario el detención se haber realizar tanto en lanzarote como en gran_canaria madrid y almería además en el marco de el operación_jable también se encontrar implicar otro andaluz el directivo de el grupo hoteles_playas gonzalo_gil_acosta tanto rosell como gil_acosta estar ser representar por el bufete de abogado garrigues",
+        "lemmatized_text_reduced": "rosell informar europa_press fuente judicial haber estar declarar juzgado arrecife entrar salir dejar juez libertad cargo imputar alzamiento bien blanqueo capital operación_jable cobro comisión ilegal empresario lanzarote conseguir adjudicación contrato obra servicio realizar isla comenzar estar desarrollar unidad_central_operativa_de_la_guardia_civil permitir poner descubrir complejo importante entramado corrupción asentar institución isla lanzarote informar benemérita decir operación haber continuar detención alcanzar arrestar encontrar consejero actual cabildo_de_lanzarote maría_josé_docal empresario detención haber realizar lanzarote gran_canaria madrid almería marco operación_jable encontrar implicar andaluz directivo grupo hoteles_playas gonzalo_gil_acosta rosell gil_acosta estar ser representar bufete abogado garrigues",
+        "persons": [
+            "Rosell",
+            "Operación_Jable",
+            "María_José_Docal",
+            "Operación_Jable",
+            "Gonzalo_Gil_Acosta",
+            "Rosell",
+            "Gil_Acosta"
+        ],
+        "locations": [
+            "Arrecife",
+            "Lanzarote",
+            "Lanzarote",
+            "Lanzarote",
+            "Gran_Canaria",
+            "Madrid",
+            "Almería"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Unidad_Central_Operativa_de_la_Guardia_Civil",
+            "Benemérita",
+            "Cabildo_de_Lanzarote",
+            "Hoteles_Playas"
+        ],
+        "others": [
+            "Operación",
+            "Garrigues"
+        ],
+        "dates": [
+            "[L:19/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:8",
+            "TM_h:11",
+            "TM_h:19",
+            "24"
+        ]
+    }
+}

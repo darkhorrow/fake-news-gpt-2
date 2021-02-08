@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/675783/0/",
+    "title": {
+        "raw_text": "La Guardia Civil interviene 750 kilos de hachís en una zódiac con destino a Gran Canaria y detiene a 3 personas",
+        "lemmatized_text": "el guardia_civil intervenir 750 kilo de hachís en uno zódiac con destino a gran_canaria y detener a 3 persona",
+        "lemmatized_text_reduced": "guardia_civil intervenir kilo hachís zódiac destino gran_canaria detener persona",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Guardia_Civil",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "750",
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Uno de los ocupantes se lanzó al agua y tuvo que ser rescatado para que no pereciera ahogado",
+        "lemmatized_text": "uno de el ocupante se lanzar a el agua y tener que ser rescatar para que no perecer ahogado",
+        "lemmatized_text_reduced": "ocupante lanzar agua tener ser rescatar perecer ahogado",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "La Guardia Civil ha intervenido 750 kilos de hachís en una zódiac localizada a la altura de Juan Grande, en la costa de San Bartolomé de Tirajana, al sur de Gran Canaria, así como ha detenido a los tres ocupantes de la embarcación. Los hechos tuvieron lugar durante esta madrugada, sobre las 02.30 horas, cuando el Sistema de Vigilancia Exterior (Sive) detectó un eco sospechoso a más de seis millas de la costa que posteriormente fue interceptado por una embarcación del Servicio Marítimo, resultando ser una embarcación neumática que transportaba droga, presumiblemente hachís. La actuación se llevó a cabo en el marco de un servicio de vigilancia conjunto con la Dirección Adjunta de Vigilancia Aduanera (Dava), según informó la Benemérita en un comunicado. Arrojaron algunos fardos al mar La embarcación interceptada, tipo zódiac, transportaba 25 fardos de hachís que arrojaron un peso de 750 kilos. Los agentes procedieron también a la detención de los tres ocupantes, cuyas iniciales corresponden a E.K.O., S.B. y J.M., así como la aprehensión del motor de la embarcación y dos teléfonos móviles. En el desarrollo de la operación, los ocupantes de la zódiac, al verse sorprendidos arrojaron algunos fardos al mar, que no han podido recuperarse. Además, uno de los ocupantes se lanzó al agua y tuvo que ser rescatado para que no pereciera ahogado. Las diligencias, detenidos y géneros aprehendidos están a disposición del juzgado de guardia de San Bartolomé de Tirajana.",
+        "lemmatized_text": "el guardia_civil haber intervenir 750 kilo de hachís en uno zódiac localizar a el altura de juan_grande en el costa de san_bartolomé_de_tirajana a el sur de gran_canaria así_como haber detener a el 3 ocupante de el embarcación el hecho tener_lugar durante este madrugada sobre el TM_h:2.3 cuando el sistema_de_vigilancia_exterior sive detectar uno eco sospechoso a más de LN_mi:6 de el costa que posteriormente ser interceptar por uno embarcación de el servicio_marítimo resultar ser uno embarcación neumático que transportar droga presumiblemente hachís el actuación se llevar_a_cabo en el marco de uno servicio de vigilancia conjunto con el dirección_adjunta_de_vigilancia_aduanera dava según informar el benemérita en uno comunicado arrojar alguno fardo a el mar la embarcación interceptar tipo zódiac transportar 25 fardo de hachís que arrojar uno peso de 750 kilo el agente proceder también a el detención de el 3 ocupante cuyo inicial corresponder a e.k.o. s.b. y j.m. así_como el aprehensión de el motor de el embarcación y 2 teléfono móvil en el desarrollo de el operación el ocupante de el zódiac a el ver se sorprender arrojar alguno fardo a el mar que no haber poder recuperar se además uno de el ocupante se lanzar a el agua y tener que ser rescatar para que no perecer ahogar el diligencia detenido y género aprehender estar a disposición de el juzgado de guardia de san_bartolomé_de_tirajana",
+        "lemmatized_text_reduced": "guardia_civil haber intervenir kilo hachís zódiac localizar altura juan_grande costa san_bartolomé_de_tirajana sur gran_canaria haber detener ocupante embarcación hecho tener_lugar madrugada sistema_de_vigilancia_exterior sive detectar eco sospechoso costa posteriormente ser interceptar embarcación servicio_marítimo resultar ser embarcación neumático transportar droga presumiblemente hachís actuación llevar_a_cabo marco servicio vigilancia conjunto dirección_adjunta_de_vigilancia_aduanera dava informar benemérita comunicado arrojar fardo mar la embarcación interceptar tipo zódiac transportar fardo hachís arrojar peso kilo agente proceder detención ocupante inicial corresponder e.k.o. s.b. j.m. aprehensión motor embarcación teléfono móvil desarrollo operación ocupante zódiac ver sorprender arrojar fardo mar haber poder recuperar ocupante lanzar agua tener ser rescatar perecer ahogar diligencia detenido género aprehender estar disposición juzgado guardia san_bartolomé_de_tirajana",
+        "persons": [
+            "Juan_Grande",
+            "E.K.O."
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "Sive",
+            "La",
+            "San_Bartolomé_de_Tirajana"
+        ],
+        "organizations": [
+            "Guardia_Civil",
+            "Servicio_Marítimo",
+            "Dirección_Adjunta_de_Vigilancia_Aduanera",
+            "Dava",
+            "Benemérita",
+            "S.B.",
+            "J.M."
+        ],
+        "others": [
+            "Sistema_de_Vigilancia_Exterior"
+        ],
+        "dates": [],
+        "numbers": [
+            "750",
+            "3",
+            "TM_h:2.3",
+            "LN_mi:6",
+            "25",
+            "750",
+            "3",
+            "2"
+        ]
+    }
+}

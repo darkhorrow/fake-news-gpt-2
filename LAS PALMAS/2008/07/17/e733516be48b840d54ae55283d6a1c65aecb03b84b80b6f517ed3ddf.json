@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/399766/0/",
+    "title": {
+        "raw_text": "Fallece un trabajador al ser succionado por una máquina en Puerto de La Luz",
+        "lemmatized_text": "fallecer uno trabajador a el ser succionado por uno máquina en puerto_de_la_luz",
+        "lemmatized_text_reduced": "fallecer trabajador ser succionado máquina puerto_de_la_luz",
+        "persons": [],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Sucedió esta mañana en la terminal de cementos del Puerto de la Luz. Al lugar se desplazaron efectivos de la guardia civil y una ambulancia medicalizada. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "suceder este mañana en el terminal de cemento de el puerto_de_la_luz a el lugar se desplazar efectivo de el guardia civil y uno ambulancia medicalizada consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "suceder mañana terminal cemento puerto_de_la_luz lugar desplazar efectivo guardia civil ambulancia medicalizada consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Puerto_de_la_Luz"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Esta mañana ha fallecido un operario en los muelles de el Puerto de Las Palmas de Gran Canaria en un accidente labora l al quedarse enganchado a una de las máquinas con las que trabajaba, según informaron a Europa Press fuentes del Cuerpo de Bomberos de la capital grancanaria. En concreto, el incidente ocurrió en el muelle León y Castillo mientras el operario trabajaba y fue cogido por una máquina similar a una cinta transportadora en la terminal de cementos del Puerto de La Luz de la capital grancanaria, lo que finalmente acabó con su vida. Al lugar de los hechos se han desplazaron miembros de la Policía portuaria, que a las 09.30 horas aún se encontraban en el lugar de los hechos para proceder al levantamiento del cuerpo, según confirmaron a Europa Press fuentes del Centro de control de la Autoridad Portuaria. Además, también acudieron al lugar una ambulancia medicalizada y, posteriormente, llegaron agentes de la Guardia Civil.",
+        "lemmatized_text": "este mañana haber fallecer uno operario en el muelle de el puerto_de_las_palmas_de_gran_canaria en uno accidente laborar l a el quedar se enganchar a uno de el máquina con el que trabajar según informar a europa_press fuente de el cuerpo_de_bomberos de el capital grancanaria en concreto el incidente ocurrir en el muelle león y castillo mientras el operario trabajar y ser coger por uno máquina similar a uno cinta transportador en el terminal de cemento de el puerto_de_la_luz de el capital grancanaria el que finalmente acabar con su vida a el lugar de el hecho se haber desplazar miembro de el policía portuario que a el TM_h:9.3 aun se encontrar en el lugar de el hecho para proceder a el levantamiento de el cuerpo según confirmar a europa_press fuente de el centro de control de el autoridad_portuaria además también acudir a el lugar uno ambulancia medicalizada y posteriormente llegar agente de el guardia_civil",
+        "lemmatized_text_reduced": "mañana haber fallecer operario muelle puerto_de_las_palmas_de_gran_canaria accidente laborar l quedar enganchar máquina trabajar informar europa_press fuente cuerpo_de_bomberos capital grancanaria concreto incidente ocurrir muelle león castillo operario trabajar ser coger máquina similar cinta transportador terminal cemento puerto_de_la_luz capital grancanaria finalmente acabar vida lugar hecho haber desplazar miembro policía portuario encontrar lugar hecho proceder levantamiento cuerpo confirmar europa_press fuente centro control autoridad_portuaria acudir lugar ambulancia medicalizada posteriormente llegar agente guardia_civil",
+        "persons": [
+            "Europa_Press",
+            "León",
+            "Castillo",
+            "Europa_Press"
+        ],
+        "locations": [
+            "Puerto_de_La_Luz"
+        ],
+        "organizations": [
+            "Cuerpo_de_Bomberos",
+            "Policía",
+            "Centro",
+            "Autoridad_Portuaria",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Puerto_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.3"
+        ]
+    }
+}

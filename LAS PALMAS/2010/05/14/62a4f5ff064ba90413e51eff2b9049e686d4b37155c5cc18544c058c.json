@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/707006/0/",
+    "title": {
+        "raw_text": "La Policía Nacional refuerza la vigilancia en Triana en la capital grancanaria tras agresiones y actos vandálicos",
+        "lemmatized_text": "el policía_nacional reforzar el vigilancia en triana en el capital grancanaria tras agresión y acto vandálico",
+        "lemmatized_text_reduced": "policía_nacional reforzar vigilancia triana capital grancanaria agresión acto vandálico",
+        "persons": [],
+        "locations": [
+            "Triana"
+        ],
+        "organizations": [
+            "Policía_Nacional"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Cuerpo Nacional de Policía reforzará esta noche la vigilancia en la zona comercial de Triana, en Las Palmas de Gran Canaria, tras diversas agresiones y actos vandálicos en este lugar.",
+        "lemmatized_text": "el cuerpo_nacional_de_policía reforzar este noche el vigilancia en el zona comercial de triana en las_palmas_de_gran_canaria tras diverso agresión y acto vandálico en este lugar",
+        "lemmatized_text_reduced": "cuerpo_nacional_de_policía reforzar noche vigilancia zona comercial triana las_palmas_de_gran_canaria agresión acto vandálico lugar",
+        "persons": [],
+        "locations": [
+            "Triana",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Así lo anunció hoy a los medios de comunicación el subdelegado del Gobierno en Las Palmas, Vicente Oliva, que recordó que la Policía Nacional \"siempre trabaja en colaboración con la Policía Local\". Si bien no pudo aportar datos del número de agentes que participarán en el operativo especial, incidió en que se llevará a cabo esta noche. Con esta acción se pretende garantizar la seguridad en Triana después de varias denuncias relacionadas con ataques y actos de vandalismo provocados presuntamente por jóvenes.",
+        "lemmatized_text": "así lo anunciar hoy a el medio de comunicación el subdelegado de el gobierno en las_palmas vicente_oliva que recordar que el policía_nacional siempre trabajar en colaboración con el policía_local si bien no poder aportar dato de el número de agente que participar en el operativo especial incidir en que se llevar_a_cabo este noche con este acción se pretender garantizar el seguridad en triana después_de varios denuncia relacionar con ataque y acto de vandalismo provocar presuntamente por joven",
+        "lemmatized_text_reduced": "anunciar medio comunicación subdelegado gobierno las_palmas vicente_oliva recordar policía_nacional trabajar colaboración policía_local poder aportar dato número agente participar operativo especial incidir llevar_a_cabo noche acción pretender garantizar seguridad triana denuncia relacionar ataque acto vandalismo provocar presuntamente joven",
+        "persons": [
+            "Vicente_Oliva"
+        ],
+        "locations": [
+            "Las_Palmas",
+            "Triana"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Policía_Nacional",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

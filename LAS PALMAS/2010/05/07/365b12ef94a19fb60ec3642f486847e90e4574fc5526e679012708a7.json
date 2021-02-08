@@ -1,0 +1,86 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/700356/0/",
+    "title": {
+        "raw_text": "PP grancanario acusa a Pérez (PSC) de reclamar más dinero a Gobierno canario \"cuando no es capaz de gastar el que tiene\"",
+        "lemmatized_text": "pp grancanario acusar a pérez psc de reclamar más dinero a gobierno canario cuando no ser capaz de gastar el que tener",
+        "lemmatized_text_reduced": "pp grancanario acusar pérez psc reclamar dinero gobierno canario ser capaz gastar tener",
+        "persons": [
+            "Pérez"
+        ],
+        "locations": [],
+        "organizations": [
+            "PP",
+            "PSC",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Partido Popular (PP) en el Cabildo de Gran Canaria, a través de su portavoz, Carlos Sánchez, ha denunciado que el presidente de la Corporación, José Miguel Pérez (PSC-PSOE), \"no cesa en su empeño de reclamar más dinero al Gobierno de Canarias mientras la Corporación Insular sólo ha sido capaz de ejecutar el 15,86 por ciento del presupuesto a fecha 30 de abril\".",
+        "lemmatized_text": "el partido_popular pp en el cabildo_de_gran_canaria a_través_de su portavoz carlos_sánchez haber denunciar que el presidente de el corporación josé_miguel_pérez psc-psoe no cesar en su empeño de reclamar más dinero a el gobierno_de_canarias mientras el corporación_insular sólo haber ser capaz de ejecutar el 15,86 por 100 de el presupuesto a fecha [??:30/4/??:??.??:??]",
+        "lemmatized_text_reduced": "partido_popular pp cabildo_de_gran_canaria portavoz carlos_sánchez haber denunciar presidente corporación josé_miguel_pérez psc-psoe cesar empeño reclamar dinero gobierno_de_canarias corporación_insular haber ser capaz ejecutar presupuesto fecha",
+        "persons": [
+            "Carlos_Sánchez",
+            "José_Miguel_Pérez"
+        ],
+        "locations": [],
+        "organizations": [
+            "Partido_Popular",
+            "PP",
+            "Cabildo_de_Gran_Canaria",
+            "Corporación",
+            "PSC-PSOE",
+            "Gobierno_de_Canarias",
+            "Corporación_Insular"
+        ],
+        "others": [],
+        "dates": [
+            "[??:30/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "15,86",
+            "100"
+        ]
+    },
+    "body": {
+        "raw_text": "En un comunicado, explicó que los datos oficiales revelan, además, que \"áreas tan relevantes como Obras Públicas, Vivienda, Cooperación Institucional y Políticas Sociales encabezan la lista de consejerías que peor ejecutan su presupuesto, con lo que queda claro que José Miguel Pérez y Román Rodríguez (NC) llevan ya mucho tiempo enfrascados más en sus tareas de partido que en su labor al frente del Cabildo\". \"PSOE y NC —añadió Sánchez— están instalados permanentemente en la contradicción: piden y piden más dinero al Gobierno de Canarias, acusan a José Manuel Soria de actuar contra los intereses de la isla, pero son incapaces de sacar adelante un Presupuesto de más de 400 millones y los remanentes de años anteriores, que superan los 170 millones de euros. No emplean el dinero de los grancanarios de manera eficaz y eficiente y lo acumulan en las entidades financieras\". el portavoz popular aseguró que \"los grancanarios deben saber que la isla no avanza ni avanzará mientras estos dirigentes se mantengan al frente del Cabildo\". \"No funciona el Consorcio de Vivienda ni el Turístico, peligra el Mundial de Baloncesto, no se abre la Residencia de El Pino, lideramos los datos del paro, se estanca la cooperación con los ayuntamientos y, en general, hay una sensación de parálisis muy preocupante\", concluyó.",
+        "lemmatized_text": "en uno comunicado explicar que el dato oficial revelar además que área tan relevante como obras_públicas vivienda cooperación_institucional y políticas_sociales encabezar el lista de consejería que peor ejecutar su presupuesto con el que quedar claro que josé_miguel_pérez y román_rodríguez nc llevar ya mucho tiempo enfrascar más en su tarea de partido que en su labor a el frente de el cabildo psoe y nc añadir sánchez estar instalar permanentemente en el contradicción pedir y pedir más dinero a el gobierno_de_canarias acusar a josé_manuel_soria de actuar contra el interés de el isla pero ser incapaz de sacar adelante uno presupuesto de más de 400000000 y el remanente de año anterior que superar el $_ECU:170000000 no emplear el dinero de el grancanarios de manera eficaz y eficiente y lo acumular en el entidad financiero el portavoz popular asegurar que el grancanarios deber saber que el isla no avanzar ni avanzar mientras este dirigente se mantener a el frente de el cabildo no funcionar el consorcio_de_vivienda ni el turístico peligrar el mundial_de_baloncesto no se abrir el residencia_de_el_pino liderar el dato de el paro se estancar el cooperación con el ayuntamiento y en general haber uno sensación de parálisis muy preocupante concluir",
+        "lemmatized_text_reduced": "comunicado explicar dato oficial revelar área relevante obras_públicas vivienda cooperación_institucional políticas_sociales encabezar lista consejería ejecutar presupuesto quedar josé_miguel_pérez román_rodríguez nc llevar tiempo enfrascar tarea partido labor cabildo psoe nc añadir sánchez estar instalar permanentemente contradicción pedir pedir dinero gobierno_de_canarias acusar josé_manuel_soria actuar interés isla ser incapaz sacar presupuesto remanente año anterior superar emplear dinero grancanarios manera eficaz eficiente acumular entidad financiero portavoz popular asegurar grancanarios deber saber isla avanzar avanzar dirigente mantener cabildo funcionar consorcio_de_vivienda turístico peligrar mundial_de_baloncesto abrir residencia_de_el_pino liderar dato paro estancar cooperación ayuntamiento general haber sensación parálisis preocupante concluir",
+        "persons": [
+            "Políticas_Sociales",
+            "José_Miguel_Pérez",
+            "Román_Rodríguez",
+            "Sánchez",
+            "José_Manuel_Soria"
+        ],
+        "locations": [
+            "Cabildo",
+            "Residencia_de_El_Pino"
+        ],
+        "organizations": [
+            "Obras_Públicas",
+            "Vivienda",
+            "Cooperación_Institucional",
+            "NC",
+            "Cabildo",
+            "PSOE",
+            "NC",
+            "Gobierno_de_Canarias",
+            "Consorcio_de_Vivienda",
+            "Turístico"
+        ],
+        "others": [
+            "Presupuesto",
+            "Mundial_de_Baloncesto"
+        ],
+        "dates": [],
+        "numbers": [
+            "400000000",
+            "$_ECU:170000000"
+        ]
+    }
+}

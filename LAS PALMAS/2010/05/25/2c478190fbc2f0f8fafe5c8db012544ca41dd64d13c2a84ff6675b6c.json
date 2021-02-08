@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/717276/0/",
+    "title": {
+        "raw_text": "Los sindicatos canarios exigen al Gobierno regional negociar los recortes presupuestarios",
+        "lemmatized_text": "el sindicato canario exigir a el gobierno regional negociar el recorte presupuestario",
+        "lemmatized_text_reduced": "sindicato canario exigir gobierno regional negociar recorte presupuestario",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las organizaciones sindicales Intersindical Canaria (IC), Cobas, Sepca y Convergencia Sindical Canaria (CSC) han exigido al Gobierno autonómico \"estar en la mesa\" donde se decidan los recortes de los presupuestos del archipiélago.",
+        "lemmatized_text": "el organización sindical intersindical_canaria ic cobas sepca y convergencia_sindical_canaria csc haber exigir a el gobierno autonómico estar en el mesa donde se decidir el recorte de el presupuesto de el archipiélago",
+        "lemmatized_text_reduced": "organización sindical intersindical_canaria ic cobas sepca convergencia_sindical_canaria csc haber exigir gobierno autonómico estar mesa decidir recorte presupuesto archipiélago",
+        "persons": [
+            "Cobas",
+            "Sepca"
+        ],
+        "locations": [],
+        "organizations": [
+            "Intersindical_Canaria",
+            "IC",
+            "Convergencia_Sindical_Canaria",
+            "CSC",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"Para oponernos a lo que consideremos\", resaltó el secretario de acción sindical de Sepca, Manuel González. Además, desde Cobas, Paco Gil dijo que los recortes y congelación de salarios van a tener una especial repercusión en las islas porque \"el Gobierno canario va a aprovechar para dar el hachazo\". Por ello, han convocado una manifestación del sector publico el próximo 27 de mayo a las 19.00 horas, que partirá de la plaza del Obelisco en Las Palmas de Gran Canaria. (Habrá ampliación)",
+        "lemmatized_text": "para oponer nos a el que considerar resaltar el secretario de acción sindical de sepca manuel_gonzález además desde cobas paco_gil decir que el recorte y congelación de salario ir a tener uno especial repercusión en el isla porque el gobierno canario ir a aprovechar para dar el hachazo por ello haber convocar uno manifestación de el sector publicar el [??:27/5/??:7.00:pm] que partir de el plaza de el obelisco en las_palmas_de_gran_canaria haber ampliación",
+        "lemmatized_text_reduced": "oponer considerar resaltar secretario acción sindical sepca manuel_gonzález cobas paco_gil decir recorte congelación salario ir tener especial repercusión isla gobierno canario ir aprovechar dar hachazo haber convocar manifestación sector publicar partir plaza obelisco las_palmas_de_gran_canaria haber ampliación",
+        "persons": [
+            "Manuel_González",
+            "Cobas",
+            "Paco_Gil"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Sepca",
+            "Gobierno"
+        ],
+        "others": [
+            "Obelisco"
+        ],
+        "dates": [
+            "[??:27/5/??:7.00:pm]"
+        ],
+        "numbers": []
+    }
+}

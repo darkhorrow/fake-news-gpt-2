@@ -1,0 +1,79 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-30T00:00:00",
+    "url": "https://www.20minutos.es/noticia/944366/0/",
+    "title": {
+        "raw_text": "Las lluvias y desprendimientos crean problemas en diferentes carreteras de Gran Canaria",
+        "lemmatized_text": "el lluvia y desprendimiento crear problema en diferente carretera de gran_canaria",
+        "lemmatized_text_reduced": "lluvia desprendimiento crear problema carretera gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Las fuertes lluvias y los desprendimientos que han tenido lugar durante la mañana de este domingo han creado problemas en diferentes carreteras de Gran Canaria, aunque ninguna ha tenido que ser cerrada, sino que se corta el paso de vehículos mientras se arreglan los desperfectos o se retiran las piedras y se sigue circulando, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "el fuerte lluvia y el desprendimiento que haber tener_lugar durante el mañana de este [G:??/??/??:??.??:??] haber crear problema en diferente carretera de gran_canaria aunque ninguno haber tener que ser cerrar sino_que se cortar el paso de vehículo mientras se arreglar el desperfecto o se retirar el piedra y se seguir circular informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "fuerte lluvia desprendimiento haber tener_lugar mañana haber crear problema carretera gran_canaria haber tener ser cerrar cortar paso vehículo arreglar desperfecto retirar piedra seguir circular informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Las fuertes lluvias y los desprendimientos que han tenido lugar durante la mañana de este domingo han creado problemas en diferentes carreteras de Gran Canaria, aunque ninguna ha tenido que ser cerrada, sino que se corta el paso de vehículos mientras se arreglan los desperfectos o se retiran las piedras y se sigue circulando, informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112. El número de llamadas al 112 ha disminuido durante las horas centrales del día, aunque se siguen produciendo, ahora principalmente en Arucas y zonas bajas de Telde —debido a que el agua ha bajado hasta estas zonas—, aunque también se reciben de Las Palmas de Gran Canaria. Así, se dan problemas puntuales en determinadas carreteras de la isla, que no se cierran al tráfico, pero sí que se impide el paso de vehículos mientras se arreglan los desperfectos en las vías. De esta manera, en la circunvalación de Las Palmas de Gran Canaria, a la altura de los túneles de Julio Luengo en dirección sur; y en la incorporación a Julio Luengo desde la circunvalación, desde el Centro Comercial Las Arenas estuvo cortado el tráfico temporalmente pero ya se abrió al tráfico. También se están registrando problemas puntuales en la carretera de Arucas, la de Agaete saliendo a Gáldar; la de Arucas a Cambalud, o la de Ingenio de Telde.",
+        "lemmatized_text": "el fuerte lluvia y el desprendimiento que haber tener_lugar durante el mañana de este [G:??/??/??:??.??:??] haber crear problema en diferente carretera de gran_canaria aunque ninguno haber tener que ser cerrar sino_que se cortar el paso de vehículo mientras se arreglar el desperfecto o se retirar el piedra y se seguir circular informar el centro_coordinador_de_emergencias y seguridad cecoes 112 el número de llamada a el 112 haber disminuir durante el hora central de el día aunque se seguir producir ahora principalmente en arucas y zona bajo de telde debido_a que el agua haber bajar hasta este zona aunque también se recibir de las_palmas_de_gran_canaria así se dar problema puntual en determinar carretera de el isla que no se cerrar a el tráfico pero sí que se impedir el paso de vehículo mientras se arreglar el desperfecto en el vía de este manera en el circunvalación de las_palmas_de_gran_canaria a el altura de el túnel de [??:??/7/??:??.??:??] luengo en dirección sur y en el incorporación a [??:??/7/??:??.??:??] luengo desde el circunvalación desde el centro_comercial_las_arenas estar cortar el tráfico temporalmente pero ya se abrir a el tráfico también se estar registrar problema puntual en el carretera de arucas el de agaete salir a gáldar el de arucas a cambalud o el de ingenio_de_telde",
+        "lemmatized_text_reduced": "fuerte lluvia desprendimiento haber tener_lugar mañana haber crear problema carretera gran_canaria haber tener ser cerrar cortar paso vehículo arreglar desperfecto retirar piedra seguir circular informar centro_coordinador_de_emergencias seguridad cecoes número llamada haber disminuir hora central día seguir producir principalmente arucas zona bajo telde agua haber bajar zona recibir las_palmas_de_gran_canaria dar problema puntual determinar carretera isla cerrar tráfico impedir paso vehículo arreglar desperfecto vía manera circunvalación las_palmas_de_gran_canaria altura túnel luengo dirección sur incorporación luengo circunvalación centro_comercial_las_arenas estar cortar tráfico temporalmente abrir tráfico estar registrar problema puntual carretera arucas agaete salir gáldar arucas cambalud ingenio_de_telde",
+        "persons": [
+            "Luengo",
+            "Gáldar",
+            "Arucas"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Arucas",
+            "Telde",
+            "Las_Palmas_de_Gran_Canaria",
+            "Las_Palmas_de_Gran_Canaria",
+            "Luengo",
+            "Arucas",
+            "Agaete",
+            "Cambalud",
+            "Ingenio_de_Telde"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Centro_Comercial_Las_Arenas"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[??:??/7/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "112",
+            "112"
+        ]
+    }
+}

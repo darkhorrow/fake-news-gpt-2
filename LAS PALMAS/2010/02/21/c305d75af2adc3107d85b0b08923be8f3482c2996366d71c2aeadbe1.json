@@ -1,0 +1,85 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/634494/0/",
+    "title": {
+        "raw_text": "Instituciones Penitenciarias y Mapfre anuncian en Gran Canaria el ganador del concurso de relatos entre presos de España",
+        "lemmatized_text": "instituciones_penitenciarias y mapfre anunciar en gran_canaria el ganador de el concurso de relato entre preso de españa",
+        "lemmatized_text_reduced": "instituciones_penitenciarias mapfre anunciar gran_canaria ganador concurso relato preso españa",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "España"
+        ],
+        "organizations": [
+            "Instituciones_Penitenciarias",
+            "Mapfre"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Instituciones Penitenciarias y la Fundación Mapfre Guanarteme, entidades organizadoras del Primer Concurso de Relatos Cortos Ángel Guerra para internos en centros penitenciarios del Estado español, harán público mañana en Gran Canaria el fallo del jurado e informarán del programa de actuaciones conjuntas que han comenzado a desarrollar ambas entidades.",
+        "lemmatized_text": "instituciones_penitenciarias y el fundación_mapfre_guanarteme entidad organizador de el primer_concurso_de_relatos_cortos_ángel_guerra para interno en centro penitenciario de el estado español hacer público mañana en gran_canaria el fallo de el jurado y informar de el programa de actuación conjunto que haber comenzar a desarrollar ambos entidad",
+        "lemmatized_text_reduced": "instituciones_penitenciarias fundación_mapfre_guanarteme entidad organizador primer_concurso_de_relatos_cortos_ángel_guerra interno centro penitenciario estado español hacer público mañana gran_canaria fallo jurado informar programa actuación conjunto haber comenzar desarrollar entidad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Instituciones_Penitenciarias",
+            "Fundación_Mapfre_Guanarteme",
+            "Estado"
+        ],
+        "others": [
+            "Primer_Concurso_de_Relatos_Cortos_Ángel_Guerra"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Al concurso se han presentado trabajos procedentes de distintos centros penitenciarios (Madrid, Barcelona, Alicante, Murcia, Córdoba, Salamanca, Mallorca, Álava, La Palma, Ceuta, Gran Canaria, Teruel, Zaragoza, Sevilla, Lugo, Alicante, Algeciras y Toledo) y han participado internos e internas de distintas procedencias, tales como colombianos, españoles, guineanos, rumanos, entre otras nacionalidades, según informó la organización en un comunicado. Los miembros del jurado han sido un representante de cada una de las instituciones organizadoras y el escritor Alberto Vázquez Figueroa. El fallo se dará a conocer en una comparecencia informativa a celebrar este lunes, a las 11.00 horas, en el Edificio Cultural Ponce de León en Las Palmas de Gran Canaria. En dicha rueda de prensa estarán presentes el director del Centro Penitenciario de Salto del Negro de la capital grancanaria, Miguel Ángel Gaspar Mene, el presidente de la Fundación Mapfre Guanarteme, Julio Caubín Hernández, y los representantes en el jurado de ambas entidades.",
+        "lemmatized_text": "a el concurso se haber presentar trabajo procedente de distinto centro penitenciario madrid barcelona alicante murcia córdoba salamanca mallorca álava la_palma ceuta gran_canaria teruel zaragoza sevilla lugo alicante algeciras y toledo y haber participar interno y interno de distinto procedencia tal como colombiano español guineano rumano entre otro nacionalidad según informar el organización en uno comunicado el miembro de el jurado haber ser uno representante de cada uno de el institución organizador y el escritor alberto_vázquez_figueroa el fallo se dar_a_conocer en uno comparecencia informativo a celebrar este [L:??/??/??:??.??:??] a el TM_h:11 en el edificio_cultural_ponce_de_león en las_palmas_de_gran_canaria en decir rueda de prensa estar presente el director de el centro_penitenciario_de_salto_del_negro de el capital grancanaria miguel_ángel_gaspar_mene el presidente de el fundación_mapfre_guanarteme [??:??/7/??:??.??:??] caubín_hernández y el representante en el jurado de ambos entidad",
+        "lemmatized_text_reduced": "concurso haber presentar trabajo procedente centro penitenciario madrid barcelona alicante murcia córdoba salamanca mallorca álava la_palma ceuta gran_canaria teruel zaragoza sevilla lugo alicante algeciras toledo haber participar interno interno procedencia colombiano español guineano rumano nacionalidad informar organización comunicado miembro jurado haber ser representante institución organizador escritor alberto_vázquez_figueroa fallo dar_a_conocer comparecencia informativo celebrar edificio_cultural_ponce_de_león las_palmas_de_gran_canaria decir rueda prensa estar presente director centro_penitenciario_de_salto_del_negro capital grancanaria miguel_ángel_gaspar_mene presidente fundación_mapfre_guanarteme caubín_hernández representante jurado entidad",
+        "persons": [
+            "Alberto_Vázquez_Figueroa",
+            "Miguel_Ángel_Gaspar_Mene",
+            "Caubín_Hernández"
+        ],
+        "locations": [
+            "Madrid",
+            "Alicante",
+            "Murcia",
+            "Córdoba",
+            "Mallorca",
+            "La_Palma",
+            "Ceuta",
+            "Teruel",
+            "Zaragoza",
+            "Sevilla",
+            "Lugo",
+            "Alicante",
+            "Algeciras",
+            "Toledo",
+            "Edificio_Cultural_Ponce_de_León",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Barcelona",
+            "Salamanca",
+            "Álava",
+            "Gran_Canaria",
+            "Centro_Penitenciario_de_Salto_del_Negro",
+            "Fundación_Mapfre_Guanarteme"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/7/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11"
+        ]
+    }
+}

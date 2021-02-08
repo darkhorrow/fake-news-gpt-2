@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/474601/0/muere/apunalado/gran-canaria/",
+    "title": {
+        "raw_text": "Muere apuñalado un joven en Gran Canaria",
+        "lemmatized_text": "morir apuñalar uno joven en gran_canaria",
+        "lemmatized_text_reduced": "morir apuñalar joven gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La víctima, de 26 años, sufrió varias heridas por arma blanca. Al parecer, fue atacado por otro joven. Ocurrió en el municipio de Santa Lucía. CONSULTA AQUÍ NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el víctima de 26 año sufrir varios herida por arma blanco a el parecer ser atacar por otro joven ocurrir en el municipio de santa_lucía consulta_aquí_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "víctima año sufrir herida arma blanco parecer ser atacar joven ocurrir municipio santa_lucía consulta_aquí_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Santa_Lucía"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "26"
+        ]
+    },
+    "body": {
+        "raw_text": "Un joven de 26 años murió en la tarde de este miércoles tras ser apuñalado en una calle de Vecindario, en Gran Canaria, informó el 112. La víctima falleció tras sufrir varias heridas por arma blanca que, al parecer, le propinó otro joven por causas que se desconocían aún en el momento de redactar esta información. El suceso tuvo lugar a las 19.13 horas en la avenida La Unión de Vecindario, en el municipio de Santa Lucía. Cuando llegó al lugar de los hechos una ambulancia del Servicio de Urgencias Canario (SUC), los sanitarios constataron que el agredido se encontraba en parada cardiorrespiratoria y no pudieron hacer nada por salvarle la vida.",
+        "lemmatized_text": "uno joven de 26 año morir en el tarde de este [X:??/??/??:??.??:??] tras ser apuñalar en uno calle de vecindario en gran_canaria informar el 112 el víctima fallecer tras sufrir varios herida por arma blanco que a el parecer le propinar otro joven por causa que se desconocer aun en el momento de redactar este información el suceso tener_lugar a el TM_h:19.13 en el avenida la_unión_de_vecindario en el municipio de santa_lucía cuando llegar a el lugar de el hecho uno ambulancia de el servicio_de_urgencias_canario suc el sanitario constatar que el agredir se encontrar en parada cardiorrespiratoria y no poder hacer nada por salvar le el vida",
+        "lemmatized_text_reduced": "joven año morir tarde ser apuñalar calle vecindario gran_canaria informar víctima fallecer sufrir herida arma blanco parecer propinar joven causa desconocer momento redactar información suceso tener_lugar avenida la_unión_de_vecindario municipio santa_lucía llegar lugar hecho ambulancia servicio_de_urgencias_canario suc sanitario constatar agredir encontrar parada cardiorrespiratoria poder hacer salvar vida",
+        "persons": [],
+        "locations": [
+            "Vecindario",
+            "Gran_Canaria",
+            "La_Unión_de_Vecindario",
+            "Santa_Lucía"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "26",
+            "112",
+            "TM_h:19.13"
+        ]
+    }
+}

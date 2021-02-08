@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-10-09T00:00:00",
+    "url": "https://www.20minutos.es/noticia/288258/0/muerto/ciclista/las/",
+    "title": {
+        "raw_text": "Un ciclista fallece al caerse de la bicicleta",
+        "lemmatized_text": "uno ciclista fallecer a el caer se de el bicicleta",
+        "lemmatized_text_reduced": "ciclista fallecer caer bicicleta",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El suceso ocurrió por La Laja. El afectado estaba tendido en la arena. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "el suceso ocurrir por la_laja el afectar estar tender en el arena consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "suceso ocurrir la_laja afectar estar tender arena consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "La_Laja"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un ciclista de 45 años ha fallecido hoy, a las 9:07 horas, cuando cayó a la playa mientras pedaleaba por la GC- 1 a la altura de la La Laja, en dirección Las Palmas. Los equipos sanitarios que se trasladaron al lugar constataron que el afectado estaba tendido en la arena y se encontraba en parada cardiorrespiratoria por lo que iniciaron maniobras de reanimación cardiopulmonar básica y avanzada que no dieron resultado. En el operativo activado por el Cecoes 1-1-2 intervino también un Vehículo de Intervención Rápida (VIR), una ambulancia de soporte vital básico y una ambulancia de soporte vital avanzado, así como agentes del Cuerpo Nacional de Policía. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "uno ciclista de 45 año haber fallecer hoy a el TM_h:9:07 cuando caer a el playa mientras pedalear por el gc 1 a el altura de el la_laja en dirección las_palmas el equipo sanitario que se trasladar a el lugar constatar que el afectar estar tender en el arena y se encontrar en parada cardiorrespiratoria por el que iniciar maniobra de reanimación cardiopulmonar básico y avanzar que no dar resultado en el operativo activar por el cecoes 1-1-2 intervenir también uno vehículo_de_intervención_rápida vir uno ambulancia de soporte vital básico y uno ambulancia de soporte vital avanzar así_como agente de el cuerpo_nacional_de_policía consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "ciclista año haber fallecer caer playa pedalear gc altura la_laja dirección las_palmas equipo sanitario trasladar lugar constatar afectar estar tender arena encontrar parada cardiorrespiratoria iniciar maniobra reanimación cardiopulmonar básico avanzar dar resultado operativo activar cecoes intervenir vehículo_de_intervención_rápida vir ambulancia soporte vital básico ambulancia soporte vital avanzar agente cuerpo_nacional_de_policía consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "La_Laja",
+            "Las_Palmas"
+        ],
+        "organizations": [
+            "GC",
+            "Cecoes",
+            "VIR",
+            "Cuerpo_Nacional_de_Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [
+            "Vehículo_de_Intervención_Rápida"
+        ],
+        "dates": [],
+        "numbers": [
+            "45",
+            "TM_h:9:07",
+            "1",
+            "1-1-2"
+        ]
+    }
+}

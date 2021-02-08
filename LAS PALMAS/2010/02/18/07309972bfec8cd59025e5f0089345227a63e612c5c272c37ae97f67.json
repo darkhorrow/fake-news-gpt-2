@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632861/0/",
+    "title": {
+        "raw_text": "Mañana se reanudarán las clases en toda Canarias salvo en Granadilla y en el centro de Agache",
+        "lemmatized_text": "mañana se reanudar el clase en todo canarias salvo en granadilla y en el centro de agache",
+        "lemmatized_text_reduced": "reanudar clase canarias granadilla centro agache",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Granadilla",
+            "Agache"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Consejería de Educación del Gobierno de Canarias informa de que mañana viernes se reanudarán las clases en todas las islas, a excepción de los centros educativos del municipio de Granadilla de Abona (Tenerife), ante la falta del restablecimiento del fluido eléctrico, así como el centro de infantil y primaria CEIP Agache, en El Escobonal-Güímar, también en la isla de Tenerife.",
+        "lemmatized_text": "el consejería_de_educación_del_gobierno_de_canarias informar de que mañana [V:??/??/??:??.??:??] se reanudar el clase en todo el isla a_excepción_de el centro educativo de el municipio de granadilla_de_abona tenerife ante el falta de el restablecimiento de el fluido eléctrico así_como el centro de infantil y primario ceip_agache en el_escobonal-güímar también en el isla de tenerife",
+        "lemmatized_text_reduced": "consejería_de_educación_del_gobierno_de_canarias informar reanudar clase isla centro educativo municipio granadilla_de_abona tenerife falta restablecimiento fluido eléctrico centro infantil primario ceip_agache el_escobonal-güímar isla tenerife",
+        "persons": [],
+        "locations": [
+            "Granadilla_de_Abona",
+            "Tenerife",
+            "El_Escobonal-Güímar",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Consejería_de_Educación_del_Gobierno_de_Canarias",
+            "CEIP_Agache"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "En este último centro se retrasará su apertura por daños en las infraestructuras como consecuencia del temporal de lluvia y viento de los últimos días, según informó el Ejecutivo regional en un comunicado. El resto de los centros educativos que no se encontraban de vacaciones escolares estarán operativos, aunque se recomienda precaución ante posibles problemas en la red viaria para el acceso a los mismos. La citada Consejería ha adoptado dicha decisión en base a la última información recibida por la Agencia Estatal de Meteorología (AEMET) y siguiendo las recomendaciones de la Dirección General de Seguridad y Emergencias del Gobierno de Canarias por Fenómeno Meteorológico Adverso (FMA).",
+        "lemmatized_text": "en este último centro se retrasar su apertura por daño en el infraestructura como consecuencia de el temporal de lluvia y viento de el último día según informar el ejecutivo regional en uno comunicado el resto de el centro educativo que no se encontrar de vacaciones escolar estar operativo aunque se recomendar precaución ante posible problema en el red viario para el acceso a el mismo el citar consejería haber adoptar decir decisión en base a el último información recibir por el agencia_estatal_de_meteorología aemet y seguir el recomendación de el dirección_general_de_seguridad y emergencias_del_gobierno_de_canarias_por_fenómeno_meteorológico_adverso fma",
+        "lemmatized_text_reduced": "último centro retrasar apertura daño infraestructura consecuencia temporal lluvia viento último día informar ejecutivo regional comunicado resto centro educativo encontrar vacaciones escolar estar operativo recomendar precaución posible problema red viario acceso citar consejería haber adoptar decir decisión base último información recibir agencia_estatal_de_meteorología aemet seguir recomendación dirección_general_de_seguridad emergencias_del_gobierno_de_canarias_por_fenómeno_meteorológico_adverso fma",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ejecutivo",
+            "Consejería",
+            "Agencia_Estatal_de_Meteorología",
+            "AEMET",
+            "Dirección_General_de_Seguridad",
+            "Emergencias_del_Gobierno_de_Canarias_por_Fenómeno_Meteorológico_Adverso",
+            "FMA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

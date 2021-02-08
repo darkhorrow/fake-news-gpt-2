@@ -1,0 +1,80 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/310521/0/tromba/agua/muro/",
+    "title": {
+        "raw_text": "Una tromba de agua causa inundaciones en las calles y el desplome de un muro",
+        "lemmatized_text": "uno tromba de agua causa inundación en el calle y el desplome de uno muro",
+        "lemmatized_text_reduced": "tromba agua causa inundación calle desplome muro",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Se registró entre las 2:00 y 3:30 de la madrugada del jueves. También dejó anegados los túneles de Bravo Murillo y Tenoya. Puedes valorar los comentarios de esta noticia. Vota a favor o en contra . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "se registrar entre el 2:00 y [J:??/??/??:3.30:am] también dejar anegar el túnel de bravo_murillo y tenoya poder valorar el comentario de este noticia votar a favor o en contra consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "registrar dejar anegar túnel bravo_murillo tenoya poder valorar comentario noticia votar favor contra consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Bravo_Murillo",
+            "Tenoya"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:3.30:am]"
+        ],
+        "numbers": [
+            "2:00"
+        ]
+    },
+    "body": {
+        "raw_text": "Una tromba de agua registrada esta madrugada en Gran Canaria ha causado inundaciones de calles, el hundimiento de una de ellas y el desprendimiento de un muro en Las Palmas , informó a Efe el 112. También se han producido fuertes precipitaciones en los municipios de Arucas y Gáldar entre las 02.00 y las 03.30 horas, que dejaron calles anegadas en Arucas, lo que obligó a intervenir a bomberos del municipio, así como en Gáldar, donde se achicó agua en vías como Juan de Dios Martín, Santa Clara o Fortaleza, todas situadas en el casco histórico y en el barrio de Cardones . En Las Palmas de Gran Canaria, la repentina lluvia caída durante la noche anegó la céntrica calle León y Castillo , en su confluencia con Pamochamoso, la carretera GC-23, que discurre por debajo de La Ballena y la calle Montejurra. Además, en el barrio de Divina Pastora se produjo el hundimiento de una calle , mientras que en la calle Severo Ochoa se registró el desprendimiento de un muro, agregaron las fuentes. Los túneles de Bravo Murillo y Tenoya también sufrieron inundaciones , una situación que también afectó a la carretera GC-300, que discurre entre San Francisco y Tenoya. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "uno tromba de agua registrar este madrugada en gran_canaria haber causar inundación de calle el hundimiento de uno de ellos y el desprendimiento de uno muro en las_palmas informar a efe el 112 también se haber producir fuerte precipitación en el municipio de arucas y gáldar entre el 2 y el TM_h:3.3 que dejar calle anegar en arucas el que obligar a intervenir a bombero de el municipio así_como en gáldar donde se achicar agua en vía como juan_de_dios_martín santa_clara o fortaleza todo situar en el casco histórico y en el barrio de cardones en las_palmas_de_gran_canaria el repentino lluvia caída durante el noche anegar el céntrico calle león y castillo en su confluencia con pamochamoso el carretera GC-23 que discurrir por debajo_de la_ballena y el calle montejurra además en el barrio de divina_pastora se producir el hundimiento de uno calle mientras_que en el calle severo_ochoa se registrar el desprendimiento de uno muro agregar el fuente el túnel de bravo_murillo y tenoya también sufrir inundación uno situación que también afectar a el carretera GC-300 que discurrir entre san_francisco y tenoya consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "tromba agua registrar madrugada gran_canaria haber causar inundación calle hundimiento desprendimiento muro las_palmas informar efe haber producir fuerte precipitación municipio arucas gáldar dejar calle anegar arucas obligar intervenir bombero municipio gáldar achicar agua vía juan_de_dios_martín santa_clara fortaleza situar casco histórico barrio cardones las_palmas_de_gran_canaria repentino lluvia caída noche anegar céntrico calle león castillo confluencia pamochamoso carretera discurrir la_ballena calle montejurra barrio divina_pastora producir hundimiento calle calle severo_ochoa registrar desprendimiento muro agregar fuente túnel bravo_murillo tenoya sufrir inundación situación afectar carretera discurrir san_francisco tenoya consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Juan_de_Dios_Martín",
+            "León",
+            "Castillo",
+            "Bravo_Murillo",
+            "Tenoya"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Arucas",
+            "Gáldar",
+            "Arucas",
+            "Gáldar",
+            "Santa_Clara",
+            "Fortaleza",
+            "Cardones",
+            "Las_Palmas_de_Gran_Canaria",
+            "Pamochamoso",
+            "La_Ballena",
+            "Montejurra",
+            "Divina_Pastora",
+            "Severo_Ochoa",
+            "San_Francisco",
+            "Tenoya"
+        ],
+        "organizations": [
+            "Las_Palmas",
+            "Efe",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "112",
+            "2",
+            "TM_h:3.3",
+            "GC-23",
+            "GC-300"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-28T00:00:00",
+    "url": "https://www.20minutos.es/noticia/596445/0/",
+    "title": {
+        "raw_text": "Pyrenair inicia su temporada con vuelos que unen Huesca con Tenerife y Gran Canaria",
+        "lemmatized_text": "pyrenair iniciar su temporada con vuelo que unir huesca con tenerife y gran_canaria",
+        "lemmatized_text_reduced": "pyrenair iniciar temporada vuelo unir huesca tenerife gran_canaria",
+        "persons": [
+            "Pyrenair"
+        ],
+        "locations": [
+            "Huesca",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Tenerife"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La compañía aérea Pyrenair inició ayer la temporada de invierno estrenando los vuelos que unen Huesca --conexión vía Madrid-- con Tenerife y Las Palmas de Gran Canaria, según informó la aerolínea en un comunicado.",
+        "lemmatized_text": "el compañía aéreo pyrenair iniciar ayer el temporada de invierno estrenar el vuelo que unir huesca conexión vía madrid con tenerife y las_palmas_de_gran_canaria según informar el aerolínea en uno comunicado",
+        "lemmatized_text_reduced": "compañía aéreo pyrenair iniciar temporada invierno estrenar vuelo unir huesca conexión madrid tenerife las_palmas_de_gran_canaria informar aerolínea comunicado",
+        "persons": [],
+        "locations": [
+            "Huesca",
+            "Madrid"
+        ],
+        "organizations": [
+            "Pyrenair",
+            "Tenerife",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Además de estas rutas, también operaron por primera vez los vuelos entre A Coruña y Huesca, que tuvieron una ocupación del 85 por ciento, y el trayecto Madrid-Huesca, con un 61 por ciento. Los vuelos de retorno para estos pasajeros se esperan para el próximo 1 de enero. Por su parte, las salidas desde Valencia y Palma de Mallorca se iniciarán el próximo 6 de enero. Esta operativa de concluirá el día 28 de febrero, a excepción de los vuelos desde Madrid y A Coruña, que se extenderán hasta el 4 de abril. Según la aerolínea, se espera alcanzar una ocupación del 100 por ciento para la ruta A Coruña-Huesca el próximo 6 de enero. El presidente de Pyrenair, Hugo Puigdefábregas, calificó estos datos de \"muy satisfactorios\", dada \"la complicación de la primera rotación, así como de las fechas, que coinciden con la Nochevieja\". Sin embargo \"las nevadas de estos días\" y \"el atractivo de las estaciones del Pirineo Aragonés\" contribuyeron a \"decidir a los usuarios a venir a Huesca\", añadió.",
+        "lemmatized_text": "además_de este ruta también operar por 1 vez el vuelo entre a_coruña y huesca que tener uno ocupación de el 85 por 100 y el trayecto madrid-huesca con uno 61 por 100 el vuelo de retorno para este pasajero se esperar para el [??:1/1/??:??.??:??] por su parte el salida desde valencia y palma_de_mallorca se iniciar el [??:6/1/??:??.??:??] este operativo de concluir el [??:28/2/??:??.??:??] a_excepción_de el vuelo desde madrid y a_coruña que se extender hasta el [??:4/4/??:??.??:??] según el aerolínea se esperar alcanzar uno ocupación de el 100 por 100 para el ruta a_coruña-huesca el [??:6/1/??:??.??:??] el presidente de pyrenair hugo_puigdefábregas calificar este dato de muy satisfactorio dar el complicación de el 1 rotación así_como de el fecha que coincidir con el nochevieja sin embargo el nevada de este día y el atractivo de el estación de el pirineo_aragonés contribuir a decidir a el usuario a venir a huesca añadir",
+        "lemmatized_text_reduced": "ruta operar 1 vez vuelo a_coruña huesca tener ocupación trayecto madrid-huesca vuelo retorno pasajero esperar parte salida valencia palma_de_mallorca iniciar operativo concluir vuelo madrid a_coruña extender aerolínea esperar alcanzar ocupación ruta a_coruña-huesca presidente pyrenair hugo_puigdefábregas calificar dato satisfactorio dar complicación 1 rotación fecha coincidir nochevieja embargo nevada día atractivo estación pirineo_aragonés contribuir decidir usuario venir huesca añadir",
+        "persons": [
+            "Hugo_Puigdefábregas"
+        ],
+        "locations": [
+            "A_Coruña",
+            "Huesca",
+            "Valencia",
+            "Palma_de_Mallorca",
+            "Madrid",
+            "A_Coruña",
+            "Huesca"
+        ],
+        "organizations": [
+            "Pyrenair",
+            "Nochevieja",
+            "Pirineo_Aragonés"
+        ],
+        "others": [
+            "Madrid-Huesca",
+            "A_Coruña-Huesca"
+        ],
+        "dates": [
+            "[??:1/1/??:??.??:??]",
+            "[??:6/1/??:??.??:??]",
+            "[??:28/2/??:??.??:??]",
+            "[??:4/4/??:??.??:??]",
+            "[??:6/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "85",
+            "100",
+            "61",
+            "100",
+            "100",
+            "100"
+        ]
+    }
+}

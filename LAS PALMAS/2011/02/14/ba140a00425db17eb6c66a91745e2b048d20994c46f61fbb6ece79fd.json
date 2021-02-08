@@ -1,0 +1,61 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/958540/0/",
+    "title": {
+        "raw_text": "Salvamento Marítimo remolca a una embarcación al suroeste de Gran Canaria por un fallo en el motor",
+        "lemmatized_text": "salvamento_marítimo remolcar a uno embarcación a el suroeste de gran_canaria por uno fallo en el motor",
+        "lemmatized_text_reduced": "salvamento_marítimo remolcar embarcación suroeste gran_canaria fallo motor",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Salvamento Marítimo ha remolcado a una embarcación que se encontraba al suroeste de la isla de Gran Canaria, después de que esta sufriera un fallo en el motor.",
+        "lemmatized_text": "salvamento_marítimo haber remolcar a uno embarcación que se encontrar a el suroeste de el isla de gran_canaria después_de que este sufrir uno fallo en el motor",
+        "lemmatized_text_reduced": "salvamento_marítimo haber remolcar embarcación encontrar suroeste isla gran_canaria sufrir fallo motor",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Salvamento Marítimo ha remolcado a una embarcación que se encontraba al suroeste de la isla de Gran Canaria, después de que esta sufriera un fallo en el motor. El remolque, según informaron fuentes de Salvamento Marítimo, lo realizó en la tarde de domingo, entre las 18.00 y 20.00 horas, la Salvamar Menkalinan en la zona del Perchel. En cuanto al barco era de recreo y tenía una longitud de unos seis metros. Además era de bandera española y con cuatro personas a bordo.",
+        "lemmatized_text": "salvamento_marítimo haber remolcar a uno embarcación que se encontrar a el suroeste de el isla de gran_canaria después_de que este sufrir uno fallo en el motor el remolque según informar fuente de salvamento_marítimo lo realizar en el tarde de [G:??/??/??:??.??:??] entre el 18 y TM_h:20 el salvamar_menkalinan en el zona de el perchel en cuanto a el barco ser de recreo y tener uno longitud de uno LN_m:6 además ser de bandera español y con 4 persona a_bordo",
+        "lemmatized_text_reduced": "salvamento_marítimo haber remolcar embarcación encontrar suroeste isla gran_canaria sufrir fallo motor remolque informar fuente salvamento_marítimo realizar tarde salvamar_menkalinan zona perchel barco ser recreo tener longitud ser bandera español persona",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Salvamar_Menkalinan",
+            "Perchel"
+        ],
+        "organizations": [
+            "Salvamento_Marítimo"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "18",
+            "TM_h:20",
+            "LN_m:6",
+            "4"
+        ]
+    }
+}

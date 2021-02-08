@@ -1,0 +1,68 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-14T00:00:00",
+    "url": "https://www.20minutos.es/noticia/606047/0/",
+    "title": {
+        "raw_text": "Un joven de 20 años resulta herido tras protagonizar un accidente de tráfico en Lanzarote",
+        "lemmatized_text": "uno joven de 20 año resultar herir tras protagonizar uno accidente de tráfico en lanzarote",
+        "lemmatized_text_reduced": "joven año resultar herir protagonizar accidente tráfico lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "20"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un joven de 20 años de edad ha resultado herido con traumatismo en la cabeza de carácter leve tras protagonizar un accidente de tráfico en la isla de Lanzarote, según informó a Europa Press el Centro Coordinador de Emergencias y Seguridad (Cecoes), 112.",
+        "lemmatized_text": "uno joven de 20 año de edad haber resultar herir con traumatismo en el cabeza de carácter leve tras protagonizar uno accidente de tráfico en el isla de lanzarote según informar a europa_press_el_centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "joven año edad haber resultar herir traumatismo cabeza carácter leve protagonizar accidente tráfico isla lanzarote informar europa_press_el_centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Europa_Press_el_Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "20",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El Cecoes recibió la alerta a las 06.45 horas de esta mañana indicando que se había producido un accidente en la carretera LZ-702 entre Femex y Playa Blanca y que su ocupante precisaba asistencia sanitaria. Por eso, el 112 activó al Servicio Canario de Urgencias (SUC) que acudió al lugar de los hechos para asistir al herido. Una vez allí, el SUC atendió al afectado y posteriormente lo trasladó en una ambulancia de soporte vital básico hasta el Hospital Doctor José Molina Orosa de Lanzarote. Asimismo, en el suceso participaron agentes de la Guardia Civil, que se encargaron de instruir las diligencias oportunas.",
+        "lemmatized_text": "el cecoes recibir el alerta a el TM_h:6.45 de este mañana indicar que se haber producir uno accidente en el carretera LZ-702 entre femex y playa_blanca y que su ocupante precisar asistencia sanitario por ese el 112 activar a el servicio_canario_de_urgencias suc que acudir a el lugar de el hecho para asistir a el herir uno vez allí el suc atender a el afectar y posteriormente lo trasladar en uno ambulancia de soporte vital básico hasta el hospital_doctor_josé_molina_orosa_de_lanzarote asimismo en el suceso participar agente de el guardia_civil que se encargar de instruir el diligencia oportuno",
+        "lemmatized_text_reduced": "cecoes recibir alerta mañana indicar haber producir accidente carretera femex playa_blanca ocupante precisar asistencia sanitario activar servicio_canario_de_urgencias suc acudir lugar hecho asistir herir vez suc atender afectar posteriormente trasladar ambulancia soporte vital básico hospital_doctor_josé_molina_orosa_de_lanzarote suceso participar agente guardia_civil encargar instruir diligencia oportuno",
+        "persons": [
+            "Playa_Blanca"
+        ],
+        "locations": [
+            "Femex"
+        ],
+        "organizations": [
+            "Cecoes",
+            "Servicio_Canario_de_Urgencias",
+            "SUC",
+            "SUC",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Hospital_Doctor_José_Molina_Orosa_de_Lanzarote"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:6.45",
+            "LZ-702",
+            "112"
+        ]
+    }
+}

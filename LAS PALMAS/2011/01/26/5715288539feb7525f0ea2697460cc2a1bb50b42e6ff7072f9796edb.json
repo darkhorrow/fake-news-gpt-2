@@ -1,0 +1,83 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/940628/0/",
+    "title": {
+        "raw_text": "Gran Canaria recoge más de 700 litros en los últimos dos días",
+        "lemmatized_text": "gran_canaria recoger más de VL_l:700 en el último TM_d:2",
+        "lemmatized_text_reduced": "gran_canaria recoger último",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "VL_l:700",
+            "TM_d:2"
+        ]
+    },
+    "lead": {
+        "raw_text": "La isla de Gran Canaria ha recogido más de 700 litros por metro cúbico durante los dos días en los que el temporal de agua y viento ha pasado por el archipiélago.",
+        "lemmatized_text": "el isla de gran_canaria haber recoger más de VL_l:700 por metro cúbico durante el TM_d:2 en el que el temporal de agua y viento haber pasar por el archipiélago",
+        "lemmatized_text_reduced": "isla gran_canaria haber recoger metro cúbico temporal agua viento haber pasar archipiélago",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "VL_l:700",
+            "TM_d:2"
+        ]
+    },
+    "body": {
+        "raw_text": "La isla de Gran Canaria ha recogido más de 700 litros por metro cúbico durante los dos días en los que el temporal de agua y viento ha pasado por el archipiélago. En concreto, las precipitaciones han dejado en la isla 739,3 litros por metro cúbico desde las 08.00 horas del lunes, 24 de enero, hasta las 08.00 horas de este miércoles, según recoge Europa Press de los datos facilitados por el Cabildo de Gran Canaria. Además, de los dos días que ha llovido en la isla, ha sido el que comprende entre las 08.00 del martes, 25 de enero, hasta las 08.00 horas de este miércoles, el que más agua ha dejado en Gran Canaria, alcanzando los 421,3 litros por metro cúbicos a diferencia de los 318 del día anterior. En cuanto a las presas de Gran Canaria, las últimas precipitaciones han hecho que estén al 100 por 100 de su capacidad la de Chira, así como Ayaguares, Gambuesa, El Mulato, Siberio y Caidero de las Niñas. Asimismo, están casi al completo de su capacidad, las presas de Fataga (98%), Parradillo (97%) y Cueva de las Niñas (91%).",
+        "lemmatized_text": "el isla de gran_canaria haber recoger más de VL_l:700 por metro cúbico durante el TM_d:2 en el que el temporal de agua y viento haber pasar por el archipiélago en concreto el precipitación haber dejar en el isla VL_l:739,3 por metro cúbico desde el [L:24/1/??:8.00:??] hasta el TM_h:8 de este [X:??/??/??:??.??:??] según recoger europa_press de el dato facilitar por el cabildo_de_gran_canaria además de el TM_d:2 que haber llover en el isla haber ser el que comprender entre el [M:25/1/??:8.00:??] hasta el TM_h:8 de este [X:??/??/??:??.??:??] el que más agua haber dejar en gran_canaria alcanzar el VL_l:421,3 por metro cúbico a_diferencia_de el 318 de el día anterior en_cuanto_a el presa de gran_canaria el último precipitación haber hacer que estar a el 100/100 de su capacidad el de chira así_como ayaguares gambuesa el_mulato siberio y caidero_de_las_niñas asimismo estar casi a el completo de su capacidad el presa de fataga 98/100 parradillo 97/100 y cueva_de_las_niñas 91/100",
+        "lemmatized_text_reduced": "isla gran_canaria haber recoger metro cúbico temporal agua viento haber pasar archipiélago concreto precipitación haber dejar isla metro cúbico recoger europa_press dato facilitar cabildo_de_gran_canaria haber llover isla haber ser comprender agua haber dejar gran_canaria alcanzar metro cúbico día anterior presa gran_canaria último precipitación haber hacer estar capacidad chira ayaguares gambuesa el_mulato siberio caidero_de_las_niñas estar completo capacidad presa fataga parradillo cueva_de_las_niñas",
+        "persons": [
+            "Europa_Press",
+            "Chira",
+            "Ayaguares",
+            "Parradillo"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Gran_Canaria",
+            "Fataga",
+            "Cueva_de_las_Niñas"
+        ],
+        "organizations": [
+            "Cabildo_de_Gran_Canaria",
+            "Gambuesa",
+            "El_Mulato",
+            "Siberio",
+            "Caidero_de_las_Niñas"
+        ],
+        "others": [],
+        "dates": [
+            "[L:24/1/??:8.00:??]",
+            "[X:??/??/??:??.??:??]",
+            "[M:25/1/??:8.00:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "VL_l:700",
+            "TM_d:2",
+            "VL_l:739,3",
+            "TM_h:8",
+            "TM_d:2",
+            "TM_h:8",
+            "VL_l:421,3",
+            "318",
+            "100/100",
+            "98/100",
+            "97/100",
+            "91/100"
+        ]
+    }
+}

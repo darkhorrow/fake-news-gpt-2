@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/678064/0/",
+    "title": {
+        "raw_text": "Un hombre y una mujer fallecidos y otro varón herido grave tras colisionar sus vehículos en Gran Canaria",
+        "lemmatized_text": "uno hombre y uno mujer fallecer y otro varón herir grave tras colisionar su vehículo en gran_canaria",
+        "lemmatized_text_reduced": "hombre mujer fallecer varón herir grave colisionar vehículo gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un hombre y una mujer han fallecido y otro varón ha resultado herido con polifracturas de carácter grave tras la colisión de sus vehículos en la carretera GC-3, a la altura del kilómetro uno en dirección sur, en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno hombre y uno mujer haber fallecer y otro varón haber resultar herir con polifractura de carácter grave tras el colisión de su vehículo en el carretera GC-3 a el altura de el kilómetro uno en dirección sur en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "hombre mujer haber fallecer varón haber resultar herir polifractura carácter grave colisión vehículo carretera altura kilómetro dirección sur las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "GC-3",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidentes se produjo a las 21.35 horas, cuando se registró una alerta en el Cecoes que informaba de que se había producido la colisión de dos vehículos y sus ocupantes precisaban asistencia sanitaria urgente. De este modo, el 112 activó de inmediato los servicios de emergencias oportunos. Efectivos de bomberos de la capital tuvieron que liberar a los ocupantes del vehículo, ya que habían quedado atrapados. Al llegar al lugar el personal médico del Servicio de Urgencias Canario (SUC) constató que dos de los afectados se encontraban en situación de parada cardiorrespiratoria, por lo que procedieron a realizarles maniobras de reanimación cardiopulmonar básicas y avanzadas, sin que se pudiera hacer nada por salvar a uno de ellos, que falleció en el acto. La segunda afectada politraumatizada de carácter crítico fue recuperada de la parada cardiorrespiratoria y trasladada en una ambulancia de soporte vital avanzado del SUC al Hospital Insular, donde falleció posteriormente a causa de las graves heridas sufridas en el accidente. Por su parte, el tercer afectado presentaba varias fracturas en sus extremidades y una vez atendido y estabilizado por el personal del SUC fue trasladado en una ambulancia de soporte vital básico del SUC al Hospital Insular. En dicha actuación también intervino la Guardia Civil, que llevó a cabo las diligencias oportunas.",
+        "lemmatized_text": "el accidente se producir a el TM_h:21.35 cuando se registrar uno alerta en el cecoes que informar de que se haber producir el colisión de 2 vehículo y su ocupante precisar asistencia sanitario urgente de este modo el 112 activar de inmediato el servicio de emergencia oportuno efectivo de bombero de el capital tener que liberar a el ocupante de el vehículo ya_que haber quedar atrapar a el llegar a el lugar el personal médico de el servicio_de_urgencias_canario suc constatar que 2 de el afectado se encontrar en situación de parada cardiorrespiratoria por el que proceder a realizar le maniobra de reanimación cardiopulmonar básico y avanzar sin que se poder hacer nada por salvar a uno de ellos que fallecer en el acto el 2 afectado politraumatizada de carácter crítico ser recuperar de el parada cardiorrespiratoria y trasladar en uno ambulancia de soporte vital avanzar de el suc a el hospital_insular donde fallecer posteriormente_a causa de el grave herida sufrir en el accidente por su parte el 3 afectar presentar varios fractura en su extremidad y uno vez atender y estabilizar por el personal de el suc ser trasladar en uno ambulancia de soporte vital básico de el suc a el hospital_insular en decir actuación también intervenir el guardia_civil que llevar_a_cabo el diligencia oportuno",
+        "lemmatized_text_reduced": "accidente producir registrar alerta cecoes informar haber producir colisión vehículo ocupante precisar asistencia sanitario urgente modo activar inmediato servicio emergencia oportuno efectivo bombero capital tener liberar ocupante vehículo haber quedar atrapar llegar lugar personal médico servicio_de_urgencias_canario suc constatar afectado encontrar situación parada cardiorrespiratoria proceder realizar maniobra reanimación cardiopulmonar básico avanzar poder hacer salvar fallecer acto 2 afectado politraumatizada carácter crítico ser recuperar parada cardiorrespiratoria trasladar ambulancia soporte vital avanzar suc hospital_insular fallecer causa grave herida sufrir accidente parte 3 afectar presentar fractura extremidad vez atender estabilizar personal suc ser trasladar ambulancia soporte vital básico suc hospital_insular decir actuación intervenir guardia_civil llevar_a_cabo diligencia oportuno",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "SUC",
+            "Hospital_Insular",
+            "SUC",
+            "SUC",
+            "Hospital_Insular",
+            "Guardia_Civil"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:21.35",
+            "2",
+            "112",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599444/0/",
+    "title": {
+        "raw_text": "Aemet establece hoy el riesgo amarillo en La Palma por lluvias y mañana lo decretará al resto de islas por fuerte oleaje",
+        "lemmatized_text": "aemet establecer hoy el riesgo amarillo en la_palma por lluvia y mañana lo decretar a el resto de isla por fuerte oleaje",
+        "lemmatized_text_reduced": "aemet establecer riesgo amarillo la_palma lluvia decretar resto isla fuerte oleaje",
+        "persons": [
+            "Aemet"
+        ],
+        "locations": [
+            "La_Palma"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La Agencia Estatal de Meteorología (Aemet) ha establecido para hoy el riesgo amarillo en la isla de La Palma por fuertes lluvias que llegarán a tener una precipitación acumulada de 15 mm a la hora, mientras que mañana lunes, 4 de enero, el riesgo amarillo será en la Comunidad Autónoma de Canarias --menos en las islas de La Gomera y Gran Canaria-- por fenómenos costeros con fuerte oleaje, una alerta que estará vigente hasta el martes, día 5, según informa el Organismo en su página web.",
+        "lemmatized_text": "el agencia_estatal_de_meteorología aemet haber establecer para hoy el riesgo amarillo en el isla de la_palma por fuerte lluvia que llegar a tener uno precipitación acumular de LN_mm:15 a el hora mientras_que mañana [L:4/1/??:??.??:??] el riesgo amarillo ser en el comunidad_autónoma_de_canarias menos en el isla de la_gomera y gran_canaria por fenómeno costero con fuerte oleaje uno alerta que estar vigente hasta el [M:5/??/??:??.??:??] según informar el organismo en su página web",
+        "lemmatized_text_reduced": "agencia_estatal_de_meteorología aemet haber establecer riesgo amarillo isla la_palma fuerte lluvia llegar tener precipitación acumular hora riesgo amarillo ser comunidad_autónoma_de_canarias isla la_gomera gran_canaria fenómeno costero fuerte oleaje alerta estar vigente informar organismo página web",
+        "persons": [],
+        "locations": [
+            "La_Palma",
+            "Comunidad_Autónoma_de_Canarias",
+            "La_Gomera"
+        ],
+        "organizations": [
+            "Agencia_Estatal_de_Meteorología",
+            "Aemet",
+            "Gran_Canaria",
+            "Organismo"
+        ],
+        "others": [],
+        "dates": [
+            "[L:4/1/??:??.??:??]",
+            "[M:5/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "LN_mm:15"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, La Palma y el Hierro serán las primeras islas donde tendrán fuerte oleaje, comenzando el riesgo a las 09.00 horas del lunes, mientras que en Tenerife, Lanzarote y Fuerteventura, los fenómenos costeros empezarán a partir de las 15.00 horas. Por su parte, la Aemet ha indicado además que dicho riesgo amarillo concluirá a las 00.00 horas del día siguiente, martes, 5 de enero. A nivel nacional, el temporal de viento y nieve remite este domingo en toda España y sólo tres provincias permanecerán durante la jornada en alerta por alguno de estos fenómenos meteorológicos, aunque se espera la llegada de lluvias. En concreto, el Pirineo oscense registrará alerta amarilla por riesgo de aludes, mientras que A Coruña y Pontevedra lo harán por fuerte oleaje viento, pudiendo llegar a registrar rachas de hasta 80 kilómetros por hora. Así, la situación meteorológica de la Península mejora notablemente en comparación con los días anteriores, pues todas las comunidades autónomas excepto Canarias comenzaron el año 2010 en alerta por nevadas y vientos. No obstante, el noroeste peninsular registrará una importante nubosidad que dejará precipitaciones débiles. A lo largo de día, las lluvias se desplazarán de noroeste a sureste por toda la Península, aunque serán menos probables cuanto más al sureste. Las precipitaciones podrían llegar a ser localmente persistentes en el suroeste de Galicia y en el sur del Sistema de Central. A partir de la tarde, irán remitiendo en Galicia y Asturias y, a última hora, en otras zonas del noroeste peninsular. En Baleares, los cielos permanecerán poco nubosos al principio del día, aunque la nubosidad aumentará a partir de la tarde, pudiendo provocar alguna lluvia débil. En el archipiélago canario, la nubosidad será mayor en las islas más occidentales, donde serán probables las lluvias de carácter débil que se desplazarán posteriormente a Tenerife. En las islas más orientales se esperan cielos poco nubosos con algunas nubes altas. La cota de nieve oscilarán en el noroeste de la Península de 1.000 a 1.400 metros, en el resto de la mitad norte de 1.300 a 1.600 y en el sur de 1.800 a 1.900. Se esperan heladas débiles en las zonas altas del este de Castilla-La Mancha y en las cumbres del resto se sistemas montañosos. Las brumas matinales se producirán en el interior de Cataluña y este de Aragón y los bancos de niebla en las sierras. En cuanto a las temperaturas, en la mitad noroeste del país, se espera un ascenso ligero a moderado en las máximas y moderado localmente notable en las mínimas. En el resto, las máximas sufrirán un ligero ascenso y las mínimas permanecerán sin cambios o en descenso ligero. En Baleares, se esperan mínimas sin cambios y máximas en ascenso ligero a moderado, mientras que en Canarias no se esperan cambios en el litoral, aunque sí un ligero ascenso en las zonas altas.",
+        "lemmatized_text": "de este manera la_palma y el hierro ser el 1 isla donde tener fuerte oleaje comenzar el riesgo a el [L:??/??/??:9.00:??] mientras_que en tenerife lanzarote y fuerteventura el fenómeno costero empezar a_partir_de el TM_h:15 por su parte el aemet haber indicar además que decir riesgo amarillo concluir a el TM_h:0 de el día siguiente [M:5/1/??:??.??:??] a nivel nacional el temporal de viento y nieve remitir este [G:??/??/??:??.??:??] en todo españa y sólo 3 provincia permanecer durante el jornada en alerta por alguno de este fenómeno meteorológico aunque se esperar el llegada de lluvia en concreto el pirineo oscense registrar alerta amarillo por riesgo de alud mientras_que a_coruña y pontevedra lo hacer por fuerte oleaje viento poder llegar a registrar racha de hasta SP_km/h:80 así el situación meteorológico de el península mejorar notablemente en comparación con el día anterior pues todo el comunidad autónomo excepto canarias comenzar el [??:??/??/2010:??.??:??] en alerta por nevada y viento no_obstante el noroeste peninsular registrar uno importante nubosidad que dejar precipitación débil a el largo de día el lluvia se desplazar de noroeste a sureste por todo el península aunque ser menos probable cuanto más a el sureste el precipitación poder llegar a ser localmente persistente en el suroeste de galicia y en el sur de el sistema_de_central a_partir_de el tarde ir remitir en galicia y asturias y a último hora en otro zona de el noroeste peninsular en baleares el cielo permanecer poco nuboso a el principio de el día aunque el nubosidad aumentar a_partir_de el tarde poder provocar alguno lluvia débil en el archipiélago canario el nubosidad ser mayor en el isla más occidental donde ser probable el lluvia de carácter débil que se desplazar posteriormente_a tenerife en el isla más oriental se esperar cielo poco nuboso con alguno nube alto el cota de nieve oscilar en el noroeste de el península de 1 a LN_m:1.4 en el resto de el mitad norte de 1.3 a 1.6 y en el sur de 1.8 a 1.9 se esperar helada débil en el zona alto de el este de castilla-la_mancha y en el cumbre de el resto se sistema montañoso el bruma matinal se producir en_el_interior_de cataluña y este de aragón y el banco de niebla en el sierra en_cuanto_a el temperatura en el mitad noroeste de el país se esperar uno ascenso ligero a moderar en el máximo y moderar localmente notable en el mínimo en el resto el máxima sufrir uno ligero ascenso y el mínimo permanecer sin cambio o en descenso ligero en baleares se esperar mínimo sin cambio y máxima en ascenso ligero a moderar mientras_que en canarias no se esperar cambio en el litoral aunque sí uno ligero ascenso en el zona alto",
+        "lemmatized_text_reduced": "manera la_palma hierro ser 1 isla tener fuerte oleaje comenzar riesgo tenerife lanzarote fuerteventura fenómeno costero empezar parte aemet haber indicar decir riesgo amarillo concluir día siguiente nivel nacional temporal viento nieve remitir españa provincia permanecer jornada alerta fenómeno meteorológico esperar llegada lluvia concreto pirineo oscense registrar alerta amarillo riesgo alud a_coruña pontevedra hacer fuerte oleaje viento poder llegar registrar racha situación meteorológico península mejorar notablemente comparación día anterior comunidad autónomo canarias comenzar alerta nevada viento noroeste peninsular registrar importante nubosidad dejar precipitación débil largo día lluvia desplazar noroeste sureste península ser probable sureste precipitación poder llegar ser localmente persistente suroeste galicia sur sistema_de_central tarde ir remitir galicia asturias último hora zona noroeste peninsular baleares cielo permanecer nuboso principio día nubosidad aumentar tarde poder provocar lluvia débil archipiélago canario nubosidad ser mayor isla occidental ser probable lluvia carácter débil desplazar tenerife isla oriental esperar cielo nuboso nube alto cota nieve oscilar noroeste península resto mitad norte sur esperar helada débil zona alto castilla-la_mancha cumbre resto sistema montañoso bruma matinal producir cataluña aragón banco niebla sierra temperatura mitad noroeste país esperar ascenso ligero moderar máximo moderar localmente notable mínimo resto máxima sufrir ligero ascenso mínimo permanecer cambio descenso ligero baleares esperar mínimo cambio máxima ascenso ligero moderar canarias esperar cambio litoral ligero ascenso zona alto",
+        "persons": [
+            "Hierro"
+        ],
+        "locations": [
+            "La_Palma",
+            "Tenerife",
+            "Lanzarote",
+            "España",
+            "A_Coruña",
+            "Península",
+            "Canarias",
+            "Galicia",
+            "Sistema_de_Central",
+            "Galicia",
+            "Asturias",
+            "Baleares",
+            "Tenerife",
+            "Península",
+            "Castilla-La_Mancha",
+            "Cataluña",
+            "Aragón",
+            "Baleares",
+            "Canarias"
+        ],
+        "organizations": [
+            "Fuerteventura",
+            "Aemet",
+            "Pontevedra",
+            "Península"
+        ],
+        "others": [
+            "Pirineo"
+        ],
+        "dates": [
+            "[L:??/??/??:9.00:??]",
+            "[M:5/1/??:??.??:??]",
+            "[G:??/??/??:??.??:??]",
+            "[??:??/??/2010:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:15",
+            "TM_h:0",
+            "3",
+            "SP_km/h:80",
+            "1",
+            "LN_m:1.4",
+            "1.3",
+            "1.6",
+            "1.8",
+            "1.9"
+        ]
+    }
+}

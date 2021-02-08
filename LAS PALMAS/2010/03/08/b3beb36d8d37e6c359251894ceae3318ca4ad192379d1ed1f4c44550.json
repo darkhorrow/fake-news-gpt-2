@@ -1,0 +1,91 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-08T00:00:00",
+    "url": "https://www.20minutos.es/noticia/646570/0/",
+    "title": {
+        "raw_text": "Agricultores repartirán gratis 110.000 plátanos de Canarias en Madrid como protesta contra políticas de la UE",
+        "lemmatized_text": "agricultores repartir gratis 110 plátano de canarias en madrid como protesta contra política de el ue",
+        "lemmatized_text_reduced": "agricultores repartir plátano canarias madrid protesta política ue",
+        "persons": [
+            "Agricultores"
+        ],
+        "locations": [
+            "Canarias",
+            "Madrid"
+        ],
+        "organizations": [
+            "UE"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "110"
+        ]
+    },
+    "lead": {
+        "raw_text": "Cerca de 200 productores de plátano, agricultores y ciudadanos afectados por la crisis protagonizarán el próximo viernes día 12 de marzo en Madrid un acto de protesta contra las políticas arancelarias de la UE, que consistirá en el reparto gratuito de 110.000 plátanos de Canarias en la Puerta del Sol.",
+        "lemmatized_text": "cerca de 200 productor de plátano agricultor y ciudadano afectar por el crisis protagonizar el [V:12/3/??:??.??:??] en madrid uno acto de protesta contra el política arancelario de el ue que consistir en el reparto gratuito de 110 plátano de canarias en el puerta_del_sol",
+        "lemmatized_text_reduced": "productor plátano agricultor ciudadano afectar crisis protagonizar madrid acto protesta política arancelario ue consistir reparto gratuito plátano canarias puerta_del_sol",
+        "persons": [],
+        "locations": [
+            "Madrid",
+            "Canarias",
+            "Puerta_del_Sol"
+        ],
+        "organizations": [
+            "UE"
+        ],
+        "others": [],
+        "dates": [
+            "[V:12/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "200",
+            "110"
+        ]
+    },
+    "body": {
+        "raw_text": "En diciembre de 2009 se acordó que, de pagar 176 euros por tonelada, el arancel para las bananas procedentes de terceros países pasara, progresivamente, a 114, una medida que la Asociación de Organizaciones de Productores de Plátanos de Canarias (Asprocan) ha denunciado como muy perjudicial para el sector canario, señala en un comunicado dicha asociación, que regalará 20.000 kilos de plátanos a quienes se acerquen a la madrileña plaza del Sol, entre las 09.00 y las 14.00 horas. Asprocan señala que, sin embargo, España, en su turno de presidencia de la UE, ha propuesto recientemente a Colombia un acuerdo bilateral por el que pasarían a ser 75 los euros por tonelada que tendría que pagar la banana procedente de este país para entrar en Europa. La asociación denuncia la falta de apoyo gubernamental en la búsqueda y aplicación de medidas que palien la crisis de este sector que da empleo directa o indirectamente a 65.000 familias canarias y que en los dos primeros meses 2010, sin contar los daños de los temporales, ya ha perdido más de 24 millones de euros. Los sindicatos agrarios COAG, ASAJA y UPA apoyan las reivindicaciones de la Asociación e intervendrán en la rueda de prensa prevista para las 11.00 horas en una de las carpas del reparto (la más cercana al Kilómetro cero) situadas en la madrileña Puerta del Sol.",
+        "lemmatized_text": "en [??:??/12/2009:??.??:??] se acordar que de pagar $_ECU:176 por tonelada el arancel para el banana procedente de 3 país pasar progresivamente a 114 uno medida que el asociación_de_organizaciones_de_productores_de_plátanos_de_canarias asprocan haber denunciar como muy perjudicial para el sector canario señalar en uno comunicado decir asociación que regalar 20 kilo de plátano a quien se acercar a el madrileño plaza de el sol entre el 9 y el TM_h:14 asprocan señalar que sin embargo españa en su turno de presidencia de el ue haber proponer recientemente a colombia uno acuerdo bilateral por el que pasar a ser 75 el euro por tonelada que tener que pagar el banana procedente de este país para entrar en europa el asociación denunciar el falta de apoyo gubernamental en el búsqueda y aplicación de medida que palien el crisis de este sector que dar empleo directo o indirectamente a 65 familia canario y que en el 2 1 mes 2010 sin contar el daño de el temporal ya haber perder más de $_ECU:24000000 el sindicato agrario coag asaja y upa apoyar el reivindicación de el asociación y intervenir en el rueda de prensa prever para el TM_h:11 en uno de el carpa de el reparto el más cercano a el kilómetro 0 situar en el madrileño puerta_del_sol",
+        "lemmatized_text_reduced": "acordar pagar tonelada arancel banana procedente 3 país pasar progresivamente medida asociación_de_organizaciones_de_productores_de_plátanos_de_canarias asprocan haber denunciar perjudicial sector canario señalar comunicado decir asociación regalar kilo plátano acercar madrileño plaza sol asprocan señalar embargo españa turno presidencia ue haber proponer recientemente colombia acuerdo bilateral pasar ser euro tonelada tener pagar banana procedente país entrar europa asociación denunciar falta apoyo gubernamental búsqueda aplicación medida crisis sector dar empleo directo indirectamente familia canario 1 mes contar daño temporal haber perder sindicato agrario coag asaja upa apoyar reivindicación asociación intervenir rueda prensa prever carpa reparto cercano kilómetro situar madrileño puerta_del_sol",
+        "persons": [
+            "Asprocan",
+            "España"
+        ],
+        "locations": [
+            "Europa"
+        ],
+        "organizations": [
+            "Asociación_de_Organizaciones_de_Productores_de_Plátanos_de_Canarias",
+            "Asprocan",
+            "UE",
+            "Colombia",
+            "COAG",
+            "ASAJA",
+            "UPA",
+            "Asociación",
+            "Kilómetro",
+            "Puerta_del_Sol"
+        ],
+        "others": [
+            "Sol"
+        ],
+        "dates": [
+            "[??:??/12/2009:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:176",
+            "114",
+            "20",
+            "9",
+            "TM_h:14",
+            "75",
+            "65",
+            "2",
+            "2010",
+            "$_ECU:24000000",
+            "TM_h:11",
+            "0"
+        ]
+    }
+}

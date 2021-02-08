@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/674556/0/",
+    "title": {
+        "raw_text": "Una persona fallece al incendiarse un bungalow en Lanzarote",
+        "lemmatized_text": "uno persona fallecer a el incendiar se uno bungalow en lanzarote",
+        "lemmatized_text_reduced": "persona fallecer incendiar bungalow lanzarote",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Una persona falleció esta noche tras incendiarse el bungalow en el que se encontraba en Lanzarote, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "uno persona fallecer este noche tras incendiar se el bungalow en el que se encontrar en lanzarote según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "persona fallecer noche incendiar bungalow encontrar lanzarote informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El incidente se produjo a las 23.35 horas en un complejo turístico que estaba situado en el camino de la Rinconada en Puerto del Carmen, municipio de Tias (Lanzarote). Hasta el lugar se trasladó personal del Servicio de Urgencias Canario (SUC) que se encontró en el interior del bungalow a una persona muerta, a la que no pudieron identificar. Asimismo, hasta el lugar del incidente se trasladó personal del Consorcio de Emergencias de Lanzarote, así como de Protección Civil y agentes de la Policía Local de Tías, además de la Guardia Civil. Los equipos de bomberos tras extinguir el incendio, localizaron el cadáver de una persona en el interior del inmueble, y posteriormente agentes de la Policía Local y Guardia Civil colaboraron en las labores de extinción y se hicieron cargo del control perimetral. La Benemérita se hizo cargo de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el incidente se producir a el TM_h:23.35 en uno complejo turístico que estar situar en el camino de el rinconada en puerto_del_carmen municipio de tias lanzarote hasta el lugar se trasladar personal de el servicio_de_urgencias_canario suc que se encontrar en el interior de el bungalow a uno persona morir a el que no poder identificar asimismo hasta el lugar de el incidente se trasladar personal de el consorcio_de_emergencias_de_lanzarote así_como de protección_civil y agente de el policía_local_de_tías además_de el guardia_civil el equipo de bombero tras extinguir el incendio localizar el cadáver de uno persona en el interior de el inmueble y posteriormente agente de el policía_local y guardia_civil colaborar en el labor de extinción y se hacer_cargo de el control perimetral el benemérita se hacer_cargo de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "incidente producir complejo turístico estar situar camino rinconada puerto_del_carmen municipio tias lanzarote lugar trasladar personal servicio_de_urgencias_canario suc encontrar interior bungalow persona morir poder identificar lugar incidente trasladar personal consorcio_de_emergencias_de_lanzarote protección_civil agente policía_local_de_tías guardia_civil equipo bombero extinguir incendio localizar cadáver persona interior inmueble posteriormente agente policía_local guardia_civil colaborar labor extinción hacer_cargo control perimetral benemérita hacer_cargo instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Rinconada",
+            "Puerto_del_Carmen",
+            "Tias",
+            "Lanzarote"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Consorcio_de_Emergencias_de_Lanzarote",
+            "Protección_Civil",
+            "Policía_Local_de_Tías",
+            "Guardia_Civil",
+            "Policía_Local",
+            "Guardia_Civil",
+            "Benemérita"
+        ],
+        "others": [
+            "SUC"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:23.35"
+        ]
+    }
+}

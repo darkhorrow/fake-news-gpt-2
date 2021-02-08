@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/595697/0/",
+    "title": {
+        "raw_text": "Antonia San Juan rinde hoy homenaje a su tierra con el espectáculo 'Antonia, Canarias te quiero'",
+        "lemmatized_text": "antonia_san_juan rendir hoy homenaje a su tierra con el espectáculo antonia canarias te querer",
+        "lemmatized_text_reduced": "antonia_san_juan rendir homenaje tierra espectáculo antonia canarias querer",
+        "persons": [
+            "Antonia_San_Juan",
+            "Antonia"
+        ],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La actriz y directora Antonia San Juan despedirá hoy, a partir de las 21.00 horas, el año en el Auditorio Alfredo Kraus, en Las Palmas de Gran Canaria, con el espectáculo 'Antonia, Canarias te quiero', rindiendo homenaje a si a su tierra.",
+        "lemmatized_text": "el actriz y director antonia_san_juan despedir hoy a_partir_de el TM_h:21 el año en el auditorio_alfredo_kraus en las_palmas_de_gran_canaria con el espectáculo antonia canarias te querer rendir homenaje a si a su tierra",
+        "lemmatized_text_reduced": "actriz director antonia_san_juan despedir año auditorio_alfredo_kraus las_palmas_de_gran_canaria espectáculo antonia canarias querer rendir homenaje tierra",
+        "persons": [
+            "Antonia_San_Juan",
+            "Antonia"
+        ],
+        "locations": [
+            "Auditorio_Alfredo_Kraus",
+            "Las_Palmas_de_Gran_Canaria",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:21"
+        ]
+    },
+    "body": {
+        "raw_text": "En este espectáculo el público podrá encontrar el humor sarcástico y la crítica social que caracteriza a la actriz grancanaria, a través de los singulares personajes femeninos creados durante su trayectoria, según informó el Auditorio en nota de prensa. Además con 'Antonia, Canarias te quiero' la actriz grancanaria pretende convertir el espectáculo en un reencuentro con sus paisanos y recordar los momentos \"inolvidables\" que han conformado los \"mayores éxitos en sus espectáculos unipersonales\". Antonia San Juan recibió, en 2007, la Medalla de Oro de Canarias y ese mismo año fue nombrada hija predilecta de Las Palmas de Gran Canaria. En 2007, también ejerció de maestra de ceremonias en la Gala del Carnaval de la capital grancanaria.",
+        "lemmatized_text": "en este espectáculo el público poder encontrar el humor sarcástico y el crítica social que caracterizar a el actriz grancanaria a_través_de el singular personaje femenino crear durante su trayectoria según informar el auditorio en nota de prensa además con antonia canarias te querer el actriz grancanaria pretender convertir el espectáculo en uno reencuentro con su paisano y recordar el momento inolvidable que haber conformar el mayor éxito en su espectáculo unipersonal antonia_san_juan recibir en 2007 el medalla_de_oro_de_canarias y ese mismo año ser nombrar hijo predilecto de las_palmas_de_gran_canaria en 2007 también ejercer de maestro de ceremonia en el gala_del_carnaval de el capital grancanaria",
+        "lemmatized_text_reduced": "espectáculo público poder encontrar humor sarcástico crítica social caracterizar actriz grancanaria singular personaje femenino crear trayectoria informar auditorio nota prensa antonia canarias querer actriz grancanaria pretender convertir espectáculo reencuentro paisano recordar momento inolvidable haber conformar mayor éxito espectáculo unipersonal antonia_san_juan recibir medalla_de_oro_de_canarias mismo año ser nombrar hijo predilecto las_palmas_de_gran_canaria ejercer maestro ceremonia gala_del_carnaval capital grancanaria",
+        "persons": [
+            "Antonia",
+            "Antonia_San_Juan"
+        ],
+        "locations": [
+            "Canarias",
+            "Las_Palmas_de_Gran_Canaria",
+            "Gala_del_Carnaval"
+        ],
+        "organizations": [
+            "Auditorio"
+        ],
+        "others": [
+            "Medalla_de_Oro_de_Canarias"
+        ],
+        "dates": [],
+        "numbers": [
+            "2007",
+            "2007"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/642030/0/",
+    "title": {
+        "raw_text": "CC denuncia que Spanair y Air Europa \"se suman\" a la iniciativa de cobrar por la segunda maleta",
+        "lemmatized_text": "cc denunciar que spanair y air_europa se sumar a el iniciativa de cobrar por el 2 maleta",
+        "lemmatized_text_reduced": "cc denunciar spanair air_europa sumar iniciativa cobrar 2 maleta",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CC",
+            "Spanair",
+            "Air_Europa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "La presidenta de Coalición Canaria (CC), Claudina Morales, ha denunciado que Spanair y Air Europa se han sumado a la iniciativa adoptada por la compañía Iberia de cobrar por la segunda maleta que facturen aquellos pasajeros de clase turista en los vuelos de España y Europa, según informó hoy la nacionalista en un comunicado.",
+        "lemmatized_text": "el presidente de coalición_canaria cc claudina_morales haber denunciar que spanair y air_europa se haber sumar a el iniciativa adoptar por el compañía iberia de cobrar por el 2 maleta que facturar aquel pasajero de clase turista en el vuelo de españa y europa según informar hoy el nacionalista en uno comunicado",
+        "lemmatized_text_reduced": "presidente coalición_canaria cc claudina_morales haber denunciar spanair air_europa haber sumar iniciativa adoptar compañía iberia cobrar 2 maleta facturar pasajero clase turista vuelo españa europa informar nacionalista comunicado",
+        "persons": [
+            "Claudina_Morales"
+        ],
+        "locations": [],
+        "organizations": [
+            "Coalición_Canaria",
+            "CC",
+            "Spanair",
+            "Air_Europa",
+            "Iberia",
+            "España",
+            "Europa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "De esta manera, Morales señaló que Spanair comenzó a cobrar por la segunda maleta facturada el pasado mes de febrero y que Air Europa empezará a aplicar esta medida el próximo día 1 de abril. \"Esta medida pactada por las tres compañías aéreas españolas supone una subida encubierta de las tarifas y un paso atrás en el esfuerzo colectivo que se realiza para tratar de reducir las tarifas de los billetes aéreos y favorecer el crecimiento del tráfico de pasajeros\", aseguró. Finalmente, la presidenta de CC anunció que estudiará si esta medida podría infringir el artículo 97 de la Ley de Navegación Aérea, en el que se especifica que \"el transportista estará obligado a transportar juntamente con los viajeros, y dentro del precio del billete, el equipaje, con los límites de peso y volumen que fijen los Reglamentos\", tal como han denunciado las asociaciones de consumidores.",
+        "lemmatized_text": "de este manera morales señalar que spanair comenzar a cobrar por el 2 maleta facturar el [??:??/2/??:??.??:??] y que air_europa empezar a aplicar este medida el [??:1/4/??:??.??:??] este medida pactar por el 3 compañía aéreo español suponer uno subida encubrir de el tarifa y uno paso atrás en el esfuerzo colectivo que se realizar para tratar de reducir el tarifa de el billete aéreo y favorecer el crecimiento de el tráfico de pasajero asegurar finalmente el presidente de cc anunciar que estudiar si este medida poder infringir el artículo 97 de el ley_de_navegación_aérea en el que se especificar que el transportista estar obligar a transportar juntamente con el viajero y dentro de el precio de el billete el equipaje con el límite de peso y volumen que fijar el reglamentos tal_y_como haber denunciar el asociación de consumidor",
+        "lemmatized_text_reduced": "manera morales señalar spanair comenzar cobrar 2 maleta facturar air_europa empezar aplicar medida medida pactar compañía aéreo español suponer subida encubrir tarifa paso esfuerzo colectivo realizar tratar reducir tarifa billete aéreo favorecer crecimiento tráfico pasajero asegurar finalmente presidente cc anunciar estudiar medida poder infringir artículo ley_de_navegación_aérea especificar transportista estar obligar transportar juntamente viajero precio billete equipaje límite peso volumen fijar reglamentos haber denunciar asociación consumidor",
+        "persons": [
+            "Morales"
+        ],
+        "locations": [],
+        "organizations": [
+            "Spanair",
+            "Air_Europa",
+            "CC",
+            "Reglamentos"
+        ],
+        "others": [
+            "Ley_de_Navegación_Aérea"
+        ],
+        "dates": [
+            "[??:??/2/??:??.??:??]",
+            "[??:1/4/??:??.??:??]"
+        ],
+        "numbers": [
+            "3",
+            "97"
+        ]
+    }
+}

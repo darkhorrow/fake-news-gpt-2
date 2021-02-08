@@ -1,0 +1,99 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/633269/0/",
+    "title": {
+        "raw_text": "La cumbre de Gran Canaria registra precipitaciones que han llegado a 42,4 litros por metro cuadrado",
+        "lemmatized_text": "el cumbre de gran_canaria registrar precipitación que haber llegar a CB_l/m2:42,4",
+        "lemmatized_text_reduced": "cumbre gran_canaria registrar precipitación haber llegar",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "CB_l/m2:42,4"
+        ]
+    },
+    "lead": {
+        "raw_text": "La cumbre de Gran Canaria ha registrado durante el temporal de lluvia y viento que ha afectado a la Comunidad Autónoma de Canarias precipitaciones que han llegado a ser de 42,4 litros por metro cuadrado en la estación de Cuevas Blancas, dentro del término municipal de Valsequillo, según datos del Consejo Insular de Aguas recogido por Europa Press.",
+        "lemmatized_text": "el cumbre de gran_canaria haber registrar durante el temporal de lluvia y viento que haber afectar a el comunidad_autónoma_de_canarias precipitación que haber llegar a ser de CB_l/m2:42,4 en el estación de cuevas_blancas dentro de el término municipal de valsequillo según dato de el consejo_insular_de_aguas recoger por europa_press",
+        "lemmatized_text_reduced": "cumbre gran_canaria haber registrar temporal lluvia viento haber afectar comunidad_autónoma_de_canarias precipitación haber llegar ser estación cuevas_blancas término municipal valsequillo dato consejo_insular_de_aguas recoger europa_press",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Cuevas_Blancas",
+            "Valsequillo"
+        ],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "Consejo_Insular_de_Aguas"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "CB_l/m2:42,4"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, en Cuevas del Pinar se recogieron 30 litros por metro cuadrado, por delante de Chira con 27,4 litros; Ingenio Pueblo (19,1); Arteara (9,9); Carboneras Ciel (9,9) Corralillos (9,5); y Buenavista con 8,8 litros por metro cuadrado. Por su parte, la estación de Las Madres, en Valleseco, contabilizó 8,6 litros; la Presa de Soria 8; Barranco Las Palmas 7; Jardín Canario 6,4; Mondragones (Guía) 5,7; El Palmar 5,6; Lomo Aljorradero (San Mateo) 5,4; y Barranco Mayorazgo 5,3. El resto de estaciones del Consejo Insular de Aguas contabilizaron menos de 5 litros por metro cuadrado. En cuanto a las presas de la isla, se han situado entorno al 54 por ciento de su capacidad tras las últimas lluvias caídas en la isla, registrando un volumen de 33,2 millones de metros cúbicos frente a los 61,8 millones de metros cúbicos que pueden llegar a almacenar, según datos del Cabildo a día de hoy 19 de febrero de 2010.",
+        "lemmatized_text": "de este manera en cuevas_del_pinar se recoger CB_l/m2:30 por delante_de chira con VL_l:27,4 ingenio_pueblo 19,1 arteara 9,9 carboneras_ciel 9,9 corralillos 9,5 y buenavista con CB_l/m2:8,8 por su parte el estación de las_madres en valleseco contabilizar VL_l:8,6 el presa_de_soria 8 barranco_las_palmas 7 jardín_canario 6,4 mondragones guía 5,7 el_palmar 5,6 lomo_aljorradero san_mateo 5,4 y barranco_mayorazgo 5,3 el resto de estación de el consejo_insular_de_aguas contabilizar menos de CB_l/m2:5 en_cuanto_a el presa de el isla se haber situar entorno a el 54 por 100 de su capacidad tras el último lluvia caer en el isla registrar uno volumen de 33,2 millón de metro cúbico frente_a el 61,8 millón de metro cúbico que poder llegar a almacenar según dato de el cabildo a día de hoy [??:19/2/2010:??.??:??]",
+        "lemmatized_text_reduced": "manera cuevas_del_pinar recoger chira ingenio_pueblo arteara carboneras_ciel corralillos buenavista parte estación las_madres valleseco contabilizar presa_de_soria barranco_las_palmas jardín_canario mondragones guía el_palmar lomo_aljorradero san_mateo barranco_mayorazgo resto estación consejo_insular_de_aguas contabilizar presa isla haber situar entorno capacidad último lluvia caer isla registrar volumen millón metro cúbico millón metro cúbico poder llegar almacenar dato cabildo día",
+        "persons": [
+            "Carboneras_Ciel",
+            "Lomo_Aljorradero"
+        ],
+        "locations": [
+            "Cuevas_del_Pinar",
+            "Ingenio_Pueblo",
+            "Buenavista",
+            "Las_Madres",
+            "Valleseco",
+            "Mondragones",
+            "San_Mateo",
+            "Barranco_Mayorazgo"
+        ],
+        "organizations": [
+            "Chira",
+            "Arteara",
+            "Corralillos",
+            "Barranco_Las_Palmas",
+            "Jardín_Canario",
+            "El_Palmar",
+            "Consejo_Insular_de_Aguas"
+        ],
+        "others": [
+            "Presa_de_Soria",
+            "Cabildo"
+        ],
+        "dates": [
+            "[??:19/2/2010:??.??:??]"
+        ],
+        "numbers": [
+            "CB_l/m2:30",
+            "VL_l:27,4",
+            "19,1",
+            "9,9",
+            "9,9",
+            "9,5",
+            "CB_l/m2:8,8",
+            "VL_l:8,6",
+            "8",
+            "7",
+            "6,4",
+            "5,7",
+            "5,6",
+            "5,4",
+            "5,3",
+            "CB_l/m2:5",
+            "54",
+            "100",
+            "33,2",
+            "61,8"
+        ]
+    }
+}

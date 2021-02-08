@@ -1,0 +1,75 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/673815/0/",
+    "title": {
+        "raw_text": "Canarias iguala la media nacional de 9,4 jueces en activo por cada cien mil habitantes",
+        "lemmatized_text": "canario iguala el media nacional de 9,4 juez en activo por cada 100000 habitante",
+        "lemmatized_text_reduced": "canario iguala media nacional juez activo habitante",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9,4",
+            "100000"
+        ]
+    },
+    "lead": {
+        "raw_text": "La media nacional se sitúa en 9,4 jueces en activo por cada cien mil habitantes, tasa que superan nueve comunidades autónomas, mientras una --Canarias-- la iguala y el resto está por debajo.",
+        "lemmatized_text": "el media nacional se situar en 9,4 juez en activo por cada 100000 habitante tasa que superar 9 comunidad autónomo mientras uno canario el iguala y el resto estar por debajo",
+        "lemmatized_text_reduced": "media nacional situar juez activo habitante tasa superar comunidad autónomo canario iguala resto estar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "9,4",
+            "100000",
+            "9"
+        ]
+    },
+    "body": {
+        "raw_text": "Así se desprende de un informe del Consejo General del Poder Judicial recogido por Europa Press sobre la estructura demográfica de la carrera judicial a 1 de enero de este año. Según dicho informe, consultado por Europa Press, la cifra más alta de jueces en activo por cada 100.000 habitantes corresponde a Asturias, con 13,5, a la que sigue Cantabria (12,2) situándose en tercer lugar Castilla y León (10,8) y en cuarto, y casi con la misma tasa Galicia (10,7). En el lado opuesto, con el menor número por cada 100.000 habitantes se encuentran Cataluña (7,9); Castilla-La Mancha (8); Murcia (8,4); País Vasco (8,5), y Extremadura (8,6).",
+        "lemmatized_text": "así se desprender de uno informe de el consejo_general_del_poder_judicial recoger por europa_press sobre el estructura demográfico de el carrera judicial a [??:1/1/??:??.??:??] de este año según decir informe consultar por europa_press el cifra más alto de juez en activo por cada 100 habitante corresponder a asturias con 13,5 a el que seguir cantabria 12,2 situar se en 3 lugar castilla y león 10,8 y en cuarto y casi con el mismo tasa galicia 10,7 en el lado oponer con el menor número por cada 100 habitante se encontrar cataluña 7,9 castilla-la_mancha 8 murcia 8,4 país_vasco 8,5 y extremadura 8,6",
+        "lemmatized_text_reduced": "desprender informe consejo_general_del_poder_judicial recoger europa_press estructura demográfico carrera judicial año decir informe consultar europa_press cifra alto juez activo habitante corresponder asturias seguir cantabria situar 3 lugar castilla león cuarto mismo tasa galicia lado oponer menor número habitante encontrar cataluña castilla-la_mancha murcia país_vasco extremadura",
+        "persons": [
+            "Europa_Press",
+            "Europa_Press",
+            "León"
+        ],
+        "locations": [
+            "Asturias",
+            "Cantabria",
+            "Castilla",
+            "Galicia",
+            "Cataluña",
+            "Castilla-La_Mancha",
+            "Murcia",
+            "País_Vasco",
+            "Extremadura"
+        ],
+        "organizations": [
+            "Consejo_General_del_Poder_Judicial"
+        ],
+        "others": [],
+        "dates": [
+            "[??:1/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "100",
+            "13,5",
+            "12,2",
+            "10,8",
+            "10,7",
+            "100",
+            "7,9",
+            "8",
+            "8,4",
+            "8,5",
+            "8,6"
+        ]
+    }
+}

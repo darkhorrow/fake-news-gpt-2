@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/712414/0/",
+    "title": {
+        "raw_text": "Ingresa en prisión una mujer de Telde (Gran Canaria) por dejar morir de hambre a su hermano enfermo mental",
+        "lemmatized_text": "ingresar en prisión uno mujer de telde gran_canaria por dejar morir de hambre a su hermano enfermo mental",
+        "lemmatized_text_reduced": "ingresar prisión mujer telde gran_canaria dejar morir hambre hermano enfermo mental",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Juzgado de Instrucción y Primera Instancia número 5 de Telde (Gran Canaria) ha decretado el ingreso en prisión de una mujer, identificada como F.R.C., acusada de un presunto delito de homicidio por omisión al dejar morir de hambre a su hermano de 59 años de edad, que sufría una enfermedad mental.",
+        "lemmatized_text": "el juzgado_de_instrucción y primera_instancia número 5 de telde gran_canaria haber decretar el ingreso en prisión de uno mujer identificar como f.r.c. acusar de uno presunto delito de homicidio por omisión a el dejar morir de hambre a su hermano de 59 año de edad que sufrir uno enfermedad mental",
+        "lemmatized_text_reduced": "juzgado_de_instrucción primera_instancia número telde gran_canaria haber decretar ingreso prisión mujer identificar f.r.c. acusar presunto delito homicidio omisión dejar morir hambre hermano año edad sufrir enfermedad mental",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Juzgado_de_Instrucción",
+            "Primera_Instancia",
+            "Telde",
+            "Gran_Canaria",
+            "F.R.C."
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "59"
+        ]
+    },
+    "body": {
+        "raw_text": "Según una información publicada hoy en el periódico La Provincia y recogida por Europa Press, la Policía Nacional detuvo el pasado 28 de marzo a un matrimonio y sus dos hijos por dejar morir de hambre a su familiar. Tras prestar declaración ante la juez, ésta decretó el ingreso en prisión de la hermana de la víctima y la puesta en libertad de su marido y sus dos hijos imputados por omisión del deber de socorro. La misma fuente precisa que el 28 de marzo la mujer se desplazó con su hermano al centro de salud del barrio teldense de El Calero, donde los médicos constataron \"la delgadez aparente que presentaba el bulto, envuelto en una manta, además de que desprendía un olor fétido y séptico muy intenso\". En dos meses pasó de pesar 85 Kilos a 25 Al asistir al varón, los profesionales descubrieron \"síntomas de delgadez extrema, deterioro muy generalizado, suciedad, heridas ulceradas por presión y estaba en posición fetal\". La víctima tenía un \"'rigor mortis' de varias horas de evolución\". Y es que en tan sólo dos meses pasó de pesar 85 kilos a apenas 25, un dato corroborado por un informe forense, que confirma el óbito por \"inanición y falta de atención\", según relata la citada información. La imputada llevaba unos 15 años a cargo de su hermano y recibía una paga del Gobierno central de aproximadamente 1.000 euros que cobraba por la incapacidad de su familiar.",
+        "lemmatized_text": "según uno información publicar hoy en el periódico la_provincia y recogida por europa_press el policía_nacional detener el [??:28/3/??:??.??:??] a uno matrimonio y su 2 hijo por dejar morir de hambre a su familiar tras prestar declaración ante el juez este decretar el ingreso en prisión de el hermano de el víctima y el puesta en libertad de su marido y su 2 hijo imputar por omisión de el deber de socorro el mismo fuente precisar que el [??:28/3/??:??.??:??] el mujer se desplazar con su hermano a el centro de salud de el barrio teldense de el_calero donde el médico constatar el delgadez aparente que presentar el bulto envolver en uno manta además_de que desprender uno olor fétido y séptico muy intenso en 2 mes pasar de pesar 85 kilos a 25 al asistir a el varón el profesional descubrir síntoma de delgadez extremo deterioro muy generalizar suciedad herida ulcerar por presión y estar en posición fetal el víctima tener uno rigor mortis de varios hora de evolución y ser que en tan sólo 2 mes pasar de pesar 85 kilo a apenas 25 uno dato corroborar por uno informe forense que confirmar el óbito por inanición y falta de atención según relatar el citar información el imputar llevar uno 15 año a_cargo_de su hermano y recibir uno paga de el gobierno central de aproximadamente $_ECU:1 que cobrar por el incapacidad de su familiar",
+        "lemmatized_text_reduced": "información publicar periódico la_provincia recogida europa_press policía_nacional detener matrimonio hijo dejar morir hambre familiar prestar declaración juez decretar ingreso prisión hermano víctima puesta libertad marido hijo imputar omisión deber socorro mismo fuente precisar mujer desplazar hermano centro salud barrio teldense el_calero médico constatar delgadez aparente presentar bulto envolver manta desprender olor fétido séptico intenso mes pasar pesar kilos al asistir varón profesional descubrir síntoma delgadez extremo deterioro generalizar suciedad herida ulcerar presión estar posición fetal víctima tener rigor mortis hora evolución ser mes pasar pesar kilo dato corroborar informe forense confirmar óbito inanición falta atención relatar citar información imputar llevar año hermano recibir paga gobierno central aproximadamente cobrar incapacidad familiar",
+        "persons": [
+            "Al"
+        ],
+        "locations": [
+            "El_Calero",
+            "Kilos"
+        ],
+        "organizations": [
+            "La_Provincia",
+            "Europa_Press",
+            "Policía_Nacional",
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:28/3/??:??.??:??]",
+            "[??:28/3/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "2",
+            "2",
+            "85",
+            "25",
+            "2",
+            "85",
+            "25",
+            "15",
+            "$_ECU:1"
+        ]
+    }
+}

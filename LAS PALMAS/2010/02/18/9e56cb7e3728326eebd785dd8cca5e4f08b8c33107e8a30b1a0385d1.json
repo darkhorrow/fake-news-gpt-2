@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/632112/0/",
+    "title": {
+        "raw_text": "Unos 2.000 clientes de Unelco se encuentran sin suministro eléctrico en Canarias",
+        "lemmatized_text": "uno 2 cliente de unelco se encontrar sin suministro eléctrico en canarias",
+        "lemmatized_text_reduced": "cliente unelco encontrar suministro eléctrico canarias",
+        "persons": [],
+        "locations": [
+            "Unelco",
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Unos 2.000 clientes de Unelco-Endesa se encuentran actualmente sin suministro eléctrico en Canarias, principalmente en la provincia de Santa Cruz de Tenerife, debido al temporal de viento, lluvia y mar que aún está azotando al archipiélago.",
+        "lemmatized_text": "uno 2 cliente de unelco-endesa se encontrar actualmente sin suministro eléctrico en canarias principalmente en el provincia de santa_cruz_de_tenerife deber a el temporal de viento lluvia y mar que aun estar azotar a el archipiélago",
+        "lemmatized_text_reduced": "cliente unelco-endesa encontrar actualmente suministro eléctrico canarias principalmente provincia santa_cruz_de_tenerife deber temporal viento lluvia mar estar azotar archipiélago",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [],
+        "others": [
+            "Unelco-Endesa"
+        ],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "body": {
+        "raw_text": "En concreto, y según especificaron fuentes de Unelco a Europa Press, los afectados están en la isla de Tenerife, fundamentalmente, así como en La Gomera y El Hierro; mientras que en la provincia de Las Palmas, se han producido desconexiones pero que apenas han durado \"cinco minutos\". En concreto, esta mañana las desconexiones han afectado en especial a la isla de Lanzarote, así como a la de La Graciosa. De todas formas, desde Unelco se indicó que a medida que vaya desapareciendo el viento se irá normalizando la situación.",
+        "lemmatized_text": "en concreto y según especificar fuente de unelco a europa_press el afectado estar en el isla de tenerife fundamentalmente así_como en la_gomera y el_hierro mientras_que en el provincia de las_palmas se haber producir desconexión pero que apenas haber durar TM_min:5 en concreto este mañana el desconexión haber afectar en especial a el isla de lanzarote así_como a el de la_graciosa de todo forma desde unelco se indicar que a_medida_que ir desaparecer el viento se ir normalizar el situación",
+        "lemmatized_text_reduced": "concreto especificar fuente unelco europa_press afectado estar isla tenerife fundamentalmente la_gomera el_hierro provincia las_palmas haber producir desconexión haber durar concreto mañana desconexión haber afectar especial isla lanzarote la_graciosa forma unelco indicar ir desaparecer viento ir normalizar situación",
+        "persons": [
+            "Unelco"
+        ],
+        "locations": [
+            "Tenerife",
+            "La_Gomera",
+            "El_Hierro",
+            "Las_Palmas",
+            "Lanzarote",
+            "La_Graciosa"
+        ],
+        "organizations": [
+            "Unelco",
+            "Europa_Press"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_min:5"
+        ]
+    }
+}

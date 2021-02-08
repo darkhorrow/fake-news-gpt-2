@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-18T00:00:00",
+    "url": "https://www.20minutos.es/noticia/654891/0/",
+    "title": {
+        "raw_text": "Un hombre resulta herido tras una salida de vía en Ingenio (Gran Canaria)",
+        "lemmatized_text": "uno hombre resultar herir tras uno salida de vía en ingenio gran_canaria",
+        "lemmatized_text_reduced": "hombre resultar herir salida vía ingenio gran_canaria",
+        "persons": [],
+        "locations": [
+            "Ingenio",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven de 27 años de edad ha resultado herido con cervicalgia de carácter leve como consecuencia de una salida de vía de su vehículo ocurrida en la carretera GC-1, a la altura de Carrizal, en el municipio de Ingenio (Gran Canaria), según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno joven de 27 año de edad haber resultar herir con cervicalgia de carácter leve como consecuencia de uno salida de vía de su vehículo ocurrir en el carretera GC-1 a el altura de carrizal en el municipio de ingenio gran_canaria según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "joven año edad haber resultar herir cervicalgia carácter leve consecuencia salida vía vehículo ocurrir carretera altura carrizal municipio ingenio gran_canaria informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Carrizal",
+            "Ingenio",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "27",
+            "GC-1",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente se produjo a las 03.45 horas, cuando una llamada alertó al Cecoes de que un coche colisionó contra la mediana. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se desplazó personal médico del Servicio de Urgencias Canario (SUC), que atendió y estabilizó al afectado, quien resultó herido con cervicalgia de carácter leve, a pesar de lo cual fue trasladado hasta la Clínica San Roque para su observación.",
+        "lemmatized_text": "el accidente se producir a el TM_h:3.45 cuando uno llamada alertar a el cecoes de que uno coche colisionar contra el mediana de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se desplazar personal médico de el servicio_de_urgencias_canario suc que atender y estabilizar a el afectar quien resultar herir con cervicalgia de carácter leve a_pesar_de el cual ser trasladar hasta el clínica_san_roque para su observación",
+        "lemmatized_text_reduced": "accidente producir llamada alertar cecoes coche colisionar mediana modo activar inmediato dispositivo emergencia necesario lugar desplazar personal médico servicio_de_urgencias_canario suc atender estabilizar afectar resultar herir cervicalgia carácter leve ser trasladar clínica_san_roque observación",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Clínica_San_Roque"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:3.45",
+            "112"
+        ]
+    }
+}

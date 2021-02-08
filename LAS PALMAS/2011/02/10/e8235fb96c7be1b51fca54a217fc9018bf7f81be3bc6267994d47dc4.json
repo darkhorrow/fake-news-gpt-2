@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/955472/0/",
+    "title": {
+        "raw_text": "El Gobierno canario suprime el papel de oficio en la Administración de Justicia de las islas",
+        "lemmatized_text": "el gobierno canario suprimir el papel de oficio en el administración_de_justicia de el isla",
+        "lemmatized_text_reduced": "gobierno canario suprimir papel oficio administración_de_justicia isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno",
+            "Administración_de_Justicia"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Consejo de Gobierno del Ejecutivo de Canarias ha aprobado en su sesión de este jueves la supresión del papel de oficio en la Administración de Justicia de la Comunidad Autónoma.",
+        "lemmatized_text": "el consejo_de_gobierno_del_ejecutivo_de_canarias haber aprobar en su sesión de este [J:??/??/??:??.??:??] el supresión de el papel de oficio en el administración_de_justicia_de_la_comunidad_autónoma",
+        "lemmatized_text_reduced": "consejo_de_gobierno_del_ejecutivo_de_canarias haber aprobar sesión supresión papel oficio administración_de_justicia_de_la_comunidad_autónoma",
+        "persons": [],
+        "locations": [
+            "Administración_de_Justicia_de_la_Comunidad_Autónoma"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno_del_Ejecutivo_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El Consejo de Gobierno del Ejecutivo de Canarias ha aprobado en su sesión de este jueves la supresión del papel de oficio en la Administración de Justicia de la Comunidad Autónoma. De esta manera, la medida se toma como consecuencia de la habilitación en el sistema de gestión procesal, Atlante II, de una herramienta informática que permite imprimir sobre papel común los símbolos identificativos de esta Administración, ajustados al Manual de Identidad Corporativa del Gobierno de Canarias. El uso de esta aplicación, que permite imprimir los encabezados del papel oficial sobre un folio en blanco, supone ahorrar un 30 por ciento del gasto anual de papel, mientras que las primeras pruebas piloto se realizaron en el Juzgado de lo Contencioso-Administrativo número 6, de Las Palmas de Gran Canaria.",
+        "lemmatized_text": "el consejo_de_gobierno_del_ejecutivo_de_canarias haber aprobar en su sesión de este [J:??/??/??:??.??:??] el supresión de el papel de oficio en el administración_de_justicia_de_la_comunidad_autónoma de este manera el medida se tomar como consecuencia de el habilitación en el sistema de gestión procesal atlante_ii de uno herramienta informático que permitir imprimir sobre papel común el símbolo identificativo de este administración ajustar a el manual_de_identidad_corporativa_del_gobierno_de_canarias el uso de este aplicación que permitir imprimir el encabezado de el papel oficial sobre uno folio en blanco suponer ahorrar uno 30 por 100 de el gasto anual de papel mientras_que el 1 prueba piloto se realizar en el juzgado de el contencioso-administrativo número 6 de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "consejo_de_gobierno_del_ejecutivo_de_canarias haber aprobar sesión supresión papel oficio administración_de_justicia_de_la_comunidad_autónoma manera medida tomar consecuencia habilitación sistema gestión procesal atlante_ii herramienta informático permitir imprimir papel común símbolo identificativo administración ajustar manual_de_identidad_corporativa_del_gobierno_de_canarias uso aplicación permitir imprimir encabezado papel oficial folio blanco suponer ahorrar gasto anual papel 1 prueba piloto realizar juzgado contencioso-administrativo número las_palmas_de_gran_canaria",
+        "persons": [
+            "Atlante_II"
+        ],
+        "locations": [
+            "Administración_de_Justicia_de_la_Comunidad_Autónoma",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Consejo_de_Gobierno_del_Ejecutivo_de_Canarias",
+            "Administración",
+            "Manual_de_Identidad_Corporativa_del_Gobierno_de_Canarias",
+            "Juzgado",
+            "Contencioso-Administrativo"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "30",
+            "100",
+            "6"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-05-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/378228/0/intento/homicidio/fuerteventura/",
+    "title": {
+        "raw_text": "Condenan a un hombre a 5 años de cárcel por intentar matar a otro en Fuerteventura",
+        "lemmatized_text": "condenar a uno hombre a 5 año de cárcel por intentar matar a otro en fuerteventura",
+        "lemmatized_text_reduced": "condenar hombre año cárcel intentar matar fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Wilson Enrique Gutiérrez Calvo, colombiano de 29 años, deberá también pagar una indemnización de 6.000 euros a su víctima. Los hechos juzgados se remontan a la mañana del 21 de abril de 2006. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "wilson_enrique_gutiérrez_calvo colombiano de 29 año deber también pagar uno indemnización de $_ECU:6 a su víctima el hecho juzgar se remontar a el mañana de el [??:21/4/2006:??.??:??] consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "wilson_enrique_gutiérrez_calvo colombiano año deber pagar indemnización víctima hecho juzgar remontar mañana consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Wilson_Enrique_Gutiérrez_Calvo"
+        ],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:21/4/2006:??.??:??]"
+        ],
+        "numbers": [
+            "29",
+            "$_ECU:6"
+        ]
+    },
+    "body": {
+        "raw_text": "La Audiencia Provincial de Las Palmas ha condenado a cinco años y tres meses de cárcel por intento de homicidio a un hombre que en 2006 intentó matar a otro con dos cuchillos a las puertas de su casa en Fuerteventura. El tribunal sentencia además a Wilson Enrique Gutiérrez Calvo, colombiano de 29 años, a pagar una indemnización de 6.000 euros a su víctima, a la que tiene prohibido acercarse a menos de 300 metros durante diez años. El agredido salvó la vida porque se encontraba cerca de los servicios médicos Los hechos ocurrieron a las cinco de la mañana del 21 de abril de 2006, cuando Wilson se dirigió al domicilio de su víctima con sendos cuchillos de 12,5 centímetros de hoja. Allí comenzó a llamar a gritos a A.M.V. y éste salió \"alarmado\" a ver qué pasaba, momento que aprovechó el colombiano para abalanzarse sobre él \"con la finalidad de acabar con su vida\" y le clavó un cuchillo a la altura de la clavícula. A consecuencia de este golpe, el agredido sufrió la fractura de la clavícula derecha y una lesión vascular \"que no le provocaron la muerte debido a la inmediata intervención de los servicios médicos\", según la sentencia, que no especifica el motivo de la agresión. El acusado admitió en el juicio que clavó el cuchillo a su víctima, por lo que su defensa aceptó la calificación jurídica de los hechos como un delito de homicidio en grado de tentativa . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el audiencia_provincial_de_las_palmas haber condenar a 5 año y 3 mes de cárcel por intento de homicidio a uno hombre que en 2006 intentar matar a otro con 2 cuchillo a el puerta de su casa en fuerteventura el tribunal sentencia además a wilson_enrique_gutiérrez_calvo colombiano de 29 año a pagar uno indemnización de $_ECU:6 a su víctima a el que tener prohibir acercar se a menos de LN_m:300 durante 10 año el agredir salvar el vida porque se encontrar cerca de el servicio médico los hecho ocurrir a el [??:21/4/2006:5.00:am] cuando wilson se dirigir a el domicilio de su víctima con sendos cuchillo de LN_cm:12,5 de hoja allí comenzar a llamar a grito a a.m.v. y este salir alarmar a ver qué pasar momento que aprovechar el colombiano para abalanzar se sobre él con el finalidad de acabar con su vida y le clavar uno cuchillo a el altura de el clavícula a_consecuencia_de este golpe el agredir sufrir el fractura de el clavícula derecho y uno lesión vascular que no le provocar el muerte debido_a el inmediato intervención de el servicio médico según el sentencia que no especificar el motivo de el agresión el acusado admitir en el juicio que clavar el cuchillo a su víctima por el que su defensa aceptar el calificación jurídico de el hecho como uno delito de homicidio en grado de tentativa consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "audiencia_provincial_de_las_palmas haber condenar año mes cárcel intento homicidio hombre intentar matar cuchillo puerta casa fuerteventura tribunal sentencia wilson_enrique_gutiérrez_calvo colombiano año pagar indemnización víctima tener prohibir acercar año agredir salvar vida encontrar servicio médico los hecho ocurrir wilson dirigir domicilio víctima cuchillo hoja comenzar llamar grito a.m.v. salir alarmar ver pasar momento aprovechar colombiano abalanzar finalidad acabar vida clavar cuchillo altura clavícula golpe agredir sufrir fractura clavícula derecho lesión vascular provocar muerte inmediato intervención servicio médico sentencia especificar motivo agresión acusado admitir juicio clavar cuchillo víctima defensa aceptar calificación jurídico hecho delito homicidio grado tentativa consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Wilson_Enrique_Gutiérrez_Calvo",
+            "Los",
+            "Wilson"
+        ],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Audiencia_Provincial_de_Las_Palmas",
+            "A.M.V.",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[??:21/4/2006:5.00:am]"
+        ],
+        "numbers": [
+            "5",
+            "3",
+            "2006",
+            "2",
+            "29",
+            "$_ECU:6",
+            "LN_m:300",
+            "10",
+            "LN_cm:12,5"
+        ]
+    }
+}

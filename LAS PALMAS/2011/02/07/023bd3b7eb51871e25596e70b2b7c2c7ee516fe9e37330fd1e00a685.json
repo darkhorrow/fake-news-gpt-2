@@ -1,0 +1,63 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-02-07T00:00:00",
+    "url": "https://www.20minutos.es/noticia/952337/0/",
+    "title": {
+        "raw_text": "Un soldado fallecido y tres más heridos por el volcado de un vehículo militar en Fuerteventura",
+        "lemmatized_text": "uno soldado fallecer y 3 más herir por el volcado de uno vehículo militar en fuerteventura",
+        "lemmatized_text_reduced": "soldado fallecer herir volcado vehículo militar fuerteventura",
+        "persons": [],
+        "locations": [
+            "Fuerteventura"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "lead": {
+        "raw_text": "Un soldado ha fallecido y tres más han resultado heridos después de que se haya producido el volcado de un vehículo militar en el campo de Tiro de Pájara, en la isla de Fuerteventura, según han indicado a Europa Press fuentes del Mando de Canarias.",
+        "lemmatized_text": "uno soldado haber fallecer y 3 más haber resultar herido después_de que se haber producir el volcado de uno vehículo militar en el campo de tiro_de_pájara en el isla de fuerteventura según haber indicar a europa_press fuente de el mando_de_canarias",
+        "lemmatized_text_reduced": "soldado haber fallecer haber resultar herido haber producir volcado vehículo militar campo tiro_de_pájara isla fuerteventura haber indicar europa_press fuente mando_de_canarias",
+        "persons": [],
+        "locations": [
+            "Tiro_de_Pájara",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Mando_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "Un soldado ha fallecido y tres más han resultado heridos después de que se haya producido el volcado de un vehículo militar en el campo de Tiro de Pájara, en la isla de Fuerteventura, según han indicado a Europa Press fuentes del Mando de Canarias. En concreto, el accidente se produjo por el volcado del vehículo LMV donde los soldados estaban realizando prácticas. Las autoridades militares están en estos momentos, pasadas las 19.30 horas, contactando con los familiares del soldado fallecido y de los otros tres heridos para informarles de lo ocurrido. El Mando de Canarias mandará esta misma tarde un comunicado completo ampliando la información del suceso.",
+        "lemmatized_text": "uno soldado haber fallecer y 3 más haber resultar herido después_de que se haber producir el volcado de uno vehículo militar en el campo de tiro_de_pájara en el isla de fuerteventura según haber indicar a europa_press fuente de el mando_de_canarias en concreto el accidente se producir por el volcado de el vehículo lmv donde el soldado estar realizar práctica el autoridad militar estar en este momento pasar el TM_h:19.3 contactar con el familiar de el soldado fallecer y de el otro 3 herido para informar le de el ocurrir el mando_de_canarias mandar este mismo tarde uno comunicado completo ampliar el información de el suceso",
+        "lemmatized_text_reduced": "soldado haber fallecer haber resultar herido haber producir volcado vehículo militar campo tiro_de_pájara isla fuerteventura haber indicar europa_press fuente mando_de_canarias concreto accidente producir volcado vehículo lmv soldado estar realizar práctica autoridad militar estar momento pasar contactar familiar soldado fallecer herido informar ocurrir mando_de_canarias mandar mismo tarde comunicado completo ampliar información suceso",
+        "persons": [],
+        "locations": [
+            "Tiro_de_Pájara",
+            "Fuerteventura"
+        ],
+        "organizations": [
+            "Europa_Press",
+            "Mando_de_Canarias",
+            "Mando_de_Canarias"
+        ],
+        "others": [
+            "LMV"
+        ],
+        "dates": [],
+        "numbers": [
+            "3",
+            "TM_h:19.3",
+            "3"
+        ]
+    }
+}

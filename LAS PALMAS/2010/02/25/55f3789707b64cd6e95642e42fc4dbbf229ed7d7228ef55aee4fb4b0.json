@@ -1,0 +1,100 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-25T00:00:00",
+    "url": "https://www.20minutos.es/noticia/638065/0/",
+    "title": {
+        "raw_text": "El Servicio Canario de Salud registra en enero un gasto medio por receta de 13,61 euros",
+        "lemmatized_text": "el servicio_canario_de_salud registrar en [??:??/1/??:??.??:??] uno gasto medio por receta de $_ECU:13,61",
+        "lemmatized_text_reduced": "servicio_canario_de_salud registrar gasto medio receta",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_Canario_de_Salud"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:13,61"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Servicio Canario de la Salud (SCS) registró en enero un gasto medio por receta de 13,61 euros, cantidad similar a la del mismo mes del año anterior, según el informe de evaluación del gasto en medicamentos emitido por la Dirección General de Farmacia correspondiente a la última mensualidad del año en curso y presentado hoy en Consejo de Gobierno.",
+        "lemmatized_text": "el servicio_canario_de_la_salud scs registrar en [??:??/1/??:??.??:??] uno gasto medio por receta de $_ECU:13,61 cantidad similar a el de el mismo mes de el año anterior según el informe de evaluación de el gasto en medicamento emitir por el dirección_general_de_farmacia correspondiente a el último mensualidad de el año en curso y presentar hoy en consejo_de_gobierno",
+        "lemmatized_text_reduced": "servicio_canario_de_la_salud scs registrar gasto medio receta cantidad similar mismo mes año anterior informe evaluación gasto medicamento emitir dirección_general_de_farmacia correspondiente último mensualidad año curso presentar consejo_de_gobierno",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_Canario_de_la_Salud",
+            "SCS",
+            "Dirección_General_de_Farmacia",
+            "Consejo_de_Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:13,61"
+        ]
+    },
+    "body": {
+        "raw_text": "La cantidad de recetas por usuario sanitario fue de 1,83, promedio que varía en función de la condición de activo o pensionista. Así, la media de recetas por usuario activo fue de 0,73 y por usuario pensionista de 6,29, sector este último que registró un incrementó en número de personas del 4,72 por ciento en el último año. En cuanto al gasto medio por usuario fue de 7,69 euros por persona activa y de 95,04 euros por persona pensionista. Respecto a la dispensación de medicamentos con receta electrónica, se incrementó en un 40,11 por ciento en enero, alcanzando 1,45 millones de recetas, de tal forma que el 66,38 por ciento correspondió al Área de Salud de El Hierro; 83,58 por ciento a La Gomera; 81,72 por ciento a La Palma; 71,18 por ciento a Fuerteventura; 62,79 por ciento a Lanzarote y 70,72 por ciento a Tenerife. Por otro lado, la Dirección general de Farmacia impartió en enero cursos sobre el uso racional del medicamento a profesionales de los centros de Atención Primaria de Cono Sur, Schamann, Firgas, Alcaravaneras, Teror, Taco y La Orotava-Dehesas, a los que asistieron un total de 90 alumnos. También impartió un curso sobre actualización terapéutica a 37 profesionales del Área de Salud de Lanzarote y en la actualidad está dando otro destinado a profesionales de Área de Tenerife.",
+        "lemmatized_text": "el cantidad de receta por usuario sanitario ser de 1,83 promedio que variar en función de el condición de activo o pensionista así el media de receta por usuario activo ser de 0,73 y por usuario pensionista de 6,29 sector este último que registrar uno incrementar en número de persona de el 4,72 por 100 en el último año en cuanto a el gasto medio por usuario ser de $_ECU:7,69 por persona activo y de $_ECU:95,04 por persona pensionista respecto_a el dispensación de medicamento con receta electrónico se incrementar en uno 40,11 por 100 en [??:??/1/??:??.??:??] alcanzar 1,45 millón de receta de tal forma que el 66,38 por 100 corresponder a el área_de_salud_de_el_hierro 83,58 por 100 a la_gomera 81,72 por 100 a la_palma 71,18 por 100 a fuerteventura 62,79 por 100 a lanzarote y 70,72 por 100 a tenerife por_otro_lado el dirección general de farmacia impartir en [??:??/1/??:??.??:??] curso sobre el uso racional de el medicamento a profesional de el centro de atención_primaria_de_cono_sur schamann firgas alcaravaneras teror taco y la_orotava-dehesas a el que asistir uno total de 90 alumno también impartir uno curso sobre actualización terapéutico a 37 profesional de el área_de_salud_de_lanzarote y en el actualidad estar dar otro destinar a profesional de área_de_tenerife",
+        "lemmatized_text_reduced": "cantidad receta usuario sanitario ser promedio variar función condición activo pensionista media receta usuario activo ser usuario pensionista sector último registrar incrementar número persona último año gasto medio usuario ser persona activo persona pensionista dispensación medicamento receta electrónico incrementar alcanzar millón receta forma corresponder área_de_salud_de_el_hierro la_gomera la_palma fuerteventura lanzarote tenerife dirección general farmacia impartir curso uso racional medicamento profesional centro atención_primaria_de_cono_sur schamann firgas alcaravaneras teror taco la_orotava-dehesas asistir total alumno impartir curso actualización terapéutico profesional área_de_salud_de_lanzarote actualidad estar dar destinar profesional área_de_tenerife",
+        "persons": [],
+        "locations": [
+            "Área_de_Salud_de_El_Hierro",
+            "Farmacia",
+            "Schamann",
+            "Área_de_Tenerife"
+        ],
+        "organizations": [
+            "La_Gomera",
+            "La_Palma",
+            "Fuerteventura",
+            "Lanzarote",
+            "Tenerife",
+            "Dirección",
+            "Atención_Primaria_de_Cono_Sur",
+            "Firgas",
+            "Alcaravaneras",
+            "Teror",
+            "Taco",
+            "La_Orotava-Dehesas",
+            "Área_de_Salud_de_Lanzarote"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/1/??:??.??:??]",
+            "[??:??/1/??:??.??:??]"
+        ],
+        "numbers": [
+            "1,83",
+            "0,73",
+            "6,29",
+            "4,72",
+            "100",
+            "$_ECU:7,69",
+            "$_ECU:95,04",
+            "40,11",
+            "100",
+            "1,45",
+            "66,38",
+            "100",
+            "83,58",
+            "100",
+            "81,72",
+            "100",
+            "71,18",
+            "100",
+            "62,79",
+            "100",
+            "70,72",
+            "100",
+            "90",
+            "37"
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/641768/0/",
+    "title": {
+        "raw_text": "Fallece un extranjero tras mostrar síntomas de ahogamiento en la playa de La Lajita en Gran Canaria",
+        "lemmatized_text": "fallecer uno extranjero tras mostrar síntoma de ahogamiento en el playa de la_lajita en gran_canaria",
+        "lemmatized_text_reduced": "fallecer extranjero mostrar síntoma ahogamiento playa la_lajita gran_canaria",
+        "persons": [],
+        "locations": [
+            "La_Lajita",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un varón de unos 60 años y nacionalidad extranjera falleció hoy tras mostrar síntomas de ahogamiento la Playa de La Lajita en Arguineguín, en el municipio grancanario de Mogán, según informó el Centro Coordinador de Emergencias y Seguridad (Cecoes) 112.",
+        "lemmatized_text": "uno varón de uno 60 año y nacionalidad extranjero fallecer hoy tras mostrar síntoma de ahogamiento el playa_de_la_lajita en arguineguín en el municipio grancanario de mogán según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "varón año nacionalidad extranjero fallecer mostrar síntoma ahogamiento playa_de_la_lajita arguineguín municipio grancanario mogán informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Arguineguín",
+            "Mogán"
+        ],
+        "organizations": [
+            "Playa_de_La_Lajita",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "60",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 13.04 horas, cuando se recibió una llamada en el Cecoes que informaba de que una persona presentaba síntomas de ahogamiento, había sido sacada del agua por unos bañistas y ya en la arena parecía no responder a estímulos. De este modo, el 112 activó de inmediato los recursos de emergencias oportunos. Al llegar al lugar el personal médico del Servicio de Urgencias Canario y del centro de salud constataron que el afectado se encontraba en situación de parada cardiorrespiratoria, por lo que le practicaron maniobras de reanimación cardiopulmonar avanzadas que no pudieron hacer nada por salvar su vida. En dicha actuación intervino la Guardia Civil, que instruyó las diligencias correspondientes, mientras que la Policía Local colaboró con el resto de los recursos de emergencia.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:13.04 cuando se recibir uno llamada en el cecoes que informar de que uno persona presentar síntoma de ahogamiento haber ser sacar de el agua por uno bañista y ya en el arena parecer no responder a estímulo de este modo el 112 activar de inmediato el recurso de emergencia oportuno a el llegar a el lugar el personal médico de el servicio_de_urgencias_canario y de el centro de salud constatar que el afectar se encontrar en situación de parada cardiorrespiratoria por el que le practicar maniobra de reanimación cardiopulmonar avanzada que no poder hacer nada por salvar su vida en decir actuación intervenir el guardia_civil que instruir el diligencia correspondiente mientras_que el policía_local colaborar con el resto de el recurso de emergencia",
+        "lemmatized_text_reduced": "hecho ocurrir recibir llamada cecoes informar persona presentar síntoma ahogamiento haber ser sacar agua bañista arena parecer responder estímulo modo activar inmediato recurso emergencia oportuno llegar lugar personal médico servicio_de_urgencias_canario centro salud constatar afectar encontrar situación parada cardiorrespiratoria practicar maniobra reanimación cardiopulmonar avanzada poder hacer salvar vida decir actuación intervenir guardia_civil instruir diligencia correspondiente policía_local colaborar resto recurso emergencia",
+        "persons": [],
+        "locations": [
+            "Cecoes"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "Guardia_Civil",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:13.04",
+            "112"
+        ]
+    }
+}

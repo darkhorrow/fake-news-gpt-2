@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/630089/0/",
+    "title": {
+        "raw_text": "Bomberos rescatan a una persona que quedó atrapada tras volcar su vehículo en Las Palmas de Gran Canaria",
+        "lemmatized_text": "bomberos rescatar a uno persona que quedar atrapar tras volcar su vehículo en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "bomberos rescatar persona quedar atrapar volcar vehículo las_palmas_de_gran_canaria",
+        "persons": [
+            "Bomberos"
+        ],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los bomberos han rescatado a una persona que resultó atrapada al volcar el vehículo en el que circulaba por la carretera de Chile, a la altura de la zona de Las Torres, en Las Palmas de Gran Canaria, según informaron a Europa Press fuentes de los bomberos y del Consorcio de Emergencias y Seguridad (Cecoes) 112, que no pudieron precisar la identidad ni el estado de salud de la víctima.",
+        "lemmatized_text": "el bombero haber rescatar a uno persona que resultar atrapar a el volcar el vehículo en el que circular por el carretera de chile a el altura de el zona de las_torres en las_palmas_de_gran_canaria según informar a europa_press fuente de el bombero y de el consorcio_de_emergencias y seguridad cecoes 112 que no poder precisar el identidad ni el estado de salud de el víctima",
+        "lemmatized_text_reduced": "bombero haber rescatar persona resultar atrapar volcar vehículo circular carretera chile altura zona las_torres las_palmas_de_gran_canaria informar europa_press fuente bombero consorcio_de_emergencias seguridad cecoes poder precisar identidad estado salud víctima",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Chile",
+            "Las_Torres",
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Consorcio_de_Emergencias",
+            "Cecoes"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos ocurrieron a las 19.20 horas, cuando varias llamadas alertaron al Cecoes del accidente de tráfico en el citado lugar en el que, según los bomberos, se vieron implicados varios vehículos. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario. Hasta el lugar se ha desplazado personal médico del Servicio de Urgencias Canario (SUC) para atender a las personas heridas, así como bomberos del Ayuntamiento capitalino que han logrado sacar del vehículo a una persona que quedó atrapada. En dicha actuación interviene la Policía Local, que se encarga de instruir las correspondientes diligencias.",
+        "lemmatized_text": "el hecho ocurrir a el TM_h:19.2 cuando varios llamada alertar a el cecoes de el accidente de tráfico en el citar lugar en el que según el bombero se ver implicar varios vehículo de este modo el 112 activar de inmediato el dispositivo de emergencia necesario hasta el lugar se haber desplazar personal médico de el servicio_de_urgencias_canario suc para atender a el persona herir así_como bombero de el ayuntamiento capitalino que haber lograr sacar de el vehículo a uno persona que quedar atrapar en decir actuación intervenir el policía_local que se encargar de instruir el correspondiente diligencia",
+        "lemmatized_text_reduced": "hecho ocurrir llamada alertar cecoes accidente tráfico citar lugar bombero ver implicar vehículo modo activar inmediato dispositivo emergencia necesario lugar haber desplazar personal médico servicio_de_urgencias_canario suc atender persona herir bombero ayuntamiento capitalino haber lograr sacar vehículo persona quedar atrapar decir actuación intervenir policía_local encargar instruir correspondiente diligencia",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Cecoes",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Ayuntamiento",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:19.2",
+            "112"
+        ]
+    }
+}

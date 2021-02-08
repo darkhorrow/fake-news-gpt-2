@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/705035/0/",
+    "title": {
+        "raw_text": "El Gobierno canario destina casi 800.000 euros a un inmueble para uso pesquero en el puerto de Mogán",
+        "lemmatized_text": "el gobierno canario destinar casi $_ECU:800 a uno inmueble para uso pesquero en el puerto de mogán",
+        "lemmatized_text_reduced": "gobierno canario destinar inmueble uso pesquero puerto mogán",
+        "persons": [],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:800"
+        ]
+    },
+    "lead": {
+        "raw_text": "El vicepresidente del Gobierno de Canarias, José Manuel Soria, ha entregado hoy un nuevo inmueble de uso pesquero en el puerto de Mogán (Gran Canaria) para lo que el Ejecutivo regional ha destinado, a cuartos de pertrechos y aseos, un total de 799.032,77 euros, procedentes del Instrumento Financiero de Ordenación de la Pesca (IFOP).",
+        "lemmatized_text": "el vicepresidente de el gobierno_de_canarias josé_manuel_soria haber entregar hoy uno nuevo inmueble de uso pesquero en el puerto de mogán gran_canaria para el que el ejecutivo regional haber destinar a cuarto de pertrechos y aseo uno total de $_ECU:799.032,77 procedente de el instrumento_financiero_de_ordenación_de_la_pesca ifop",
+        "lemmatized_text_reduced": "vicepresidente gobierno_de_canarias josé_manuel_soria haber entregar nuevo inmueble uso pesquero puerto mogán gran_canaria ejecutivo regional haber destinar cuarto pertrechos aseo total procedente instrumento_financiero_de_ordenación_de_la_pesca ifop",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Instrumento_Financiero_de_Ordenación_de_la_Pesca",
+            "IFOP"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": [
+            "$_ECU:799.032,77"
+        ]
+    },
+    "body": {
+        "raw_text": "Soria, en su visita a Mogán, estuvo acompañado por el viceconsejero de Pesca, Francisco López, y el alcalde del municipio, Francisco González, y realizaron un recorrido por las instalaciones del nuevo inmueble, emplazado en el mismo lugar donde se ubicaban los antiguos cuartos de pertrechos y el local social, destruidos en el incendio que sufrió el municipio en noviembre de 2007. Este nuevo edificio, según informó el Gobierno canario en nota de prensa, tiene 3 metros de altura y 606 metros cuadrados, distribuidos en 23 cuartos de pertrechos de entre 13, 12 y 8,68 metros cuadrados, almacén, aseos, cuarto de contadores, pasillos de acceso y sótano, en este último se sitúan el cuarto de máquinas y el aljibe. Además, el inmueble actual conserva la disposición de una de las fachadas de la infraestructura antigua, anexa a la escalera exterior que da acceso al risco y posee dos fachadas libres y otra situada a medio metro del risco. El proyecto ha incluido la limpieza y adecentamiento del área ocupada actualmente por una depuradora inoperativa para habilitar una zona de aparcamiento asociada al muelle de pesquero. De esta forma, se cubren las \"carencias dejadas por el siniestro\" que afectó a la cofradía a finales de 2007, \"mejorando incluso\" la situación anterior.",
+        "lemmatized_text": "soria en su visita a mogán estar acompañar por el viceconsejero de pesca francisco_lópez y el alcalde de el municipio francisco_gonzález y realizar uno recorrido por el instalación de el nuevo inmueble emplazar en el mismo lugar donde se ubicar el antiguo cuarto de pertrechos y el local social destruir en el incendio que sufrir el municipio en [??:??/11/2007:??.??:??] este nuevo edificio según informar el gobierno canario en nota de prensa tener LN_m:3 de altura y AR_m2:606 distribuir en 23/4 de pertrechos de entre 13 12 y AR_m2:8,68 almacén aseo cuarto de contador pasillo de acceso y sótano en este último se situar el cuarto de máquina y el aljibe además el inmueble actual conservar el disposición de uno de el fachada de el infraestructura antiguo anexo a el escalera exterior que dar acceso a el risco y poseer 2 fachada libre y otro situar a medio metro de el risco el proyecto haber incluir el limpieza y adecentamiento de el área ocupar actualmente por uno depuradora inoperativo para habilitar uno zona de aparcamiento asociar a el muelle de pesquero de este forma se cubrir el carencia dejar por el siniestro que afectar a el cofradía a final de 2007 mejorar incluso el situación anterior",
+        "lemmatized_text_reduced": "soria visita mogán estar acompañar viceconsejero pesca francisco_lópez alcalde municipio francisco_gonzález realizar recorrido instalación nuevo inmueble emplazar mismo lugar ubicar antiguo cuarto pertrechos local social destruir incendio sufrir municipio nuevo edificio informar gobierno canario nota prensa tener altura distribuir pertrechos almacén aseo cuarto contador pasillo acceso sótano último situar cuarto máquina aljibe inmueble actual conservar disposición fachada infraestructura antiguo anexo escalera exterior dar acceso risco poseer fachada libre situar medio metro risco proyecto haber incluir limpieza adecentamiento área ocupar actualmente depuradora inoperativo habilitar zona aparcamiento asociar muelle pesquero forma cubrir carencia dejar siniestro afectar cofradía final mejorar situación anterior",
+        "persons": [
+            "Francisco_López",
+            "Francisco_González"
+        ],
+        "locations": [
+            "Soria",
+            "Mogán",
+            "Pesca"
+        ],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/11/2007:??.??:??]"
+        ],
+        "numbers": [
+            "LN_m:3",
+            "AR_m2:606",
+            "23/4",
+            "13",
+            "12",
+            "AR_m2:8,68",
+            "2",
+            "2007"
+        ]
+    }
+}

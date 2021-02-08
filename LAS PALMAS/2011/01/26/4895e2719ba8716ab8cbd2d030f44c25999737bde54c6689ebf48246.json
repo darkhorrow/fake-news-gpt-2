@@ -1,0 +1,76 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2011-01-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/939768/0/",
+    "title": {
+        "raw_text": "Un turismo se sale de la carretera y se salda con dos heridos menos grave en Gran Canaria",
+        "lemmatized_text": "uno turismo se salir de el carretera y se saldar con 2 herido menos grave en gran_canaria",
+        "lemmatized_text_reduced": "turismo salir carretera saldar herido grave gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Dos personas han resultado heridas de carácter menos grave este miércoles, después de salirse de una carretera con el turismo en que viajaban en Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112.",
+        "lemmatized_text": "2 persona haber resultar herida de carácter menos grave este [X:??/??/??:??.??:??] después_de salir se de uno carretera con el turismo en que viajar en gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112",
+        "lemmatized_text_reduced": "persona haber resultar herida carácter grave salir carretera turismo viajar gran_canaria informar centro_coordinador_de_emergencias seguridad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Dos personas han resultado heridas de carácter menos grave este miércoles, después de salirse de una carretera con el turismo en que viajaban en Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad 112. Los hechos ocurrieron a las 06.53 horas de este miércoles, en la GC-43, a la altura de Santidad, en término municipal de Arucas. En cuanto a los heridos son dos hombres, de 55 y 33 años de edad, que sufrieron ambos cervicalgia de carácter menos grave, por lo que tuvieron que ser evacuado por personal del Servicio de Urgencias Canario (SUC) a la Clínica del Perpetuo Socorro. Asimismo, en el lugar del incidente se personaron agentes de la Guardia Civil, que instruirán las diligencias correspondientes.",
+        "lemmatized_text": "2 persona haber resultar herida de carácter menos grave este [X:??/??/??:??.??:??] después_de salir se de uno carretera con el turismo en que viajar en gran_canaria según informar el centro_coordinador_de_emergencias y seguridad 112 el hecho ocurrir a el TM_h:6.53 de este [X:??/??/??:??.??:??] en el GC-43 a el altura de santidad en término municipal de arucas en_cuanto_a el herido ser 2 hombre de 55 y 33 año de edad que sufrir ambos cervicalgia de carácter menos grave por el que tener que ser evacuar por personal de el servicio_de_urgencias_canario suc a el clínica_del_perpetuo_socorro asimismo en el lugar de el incidente se personar agente de el guardia_civil que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "persona haber resultar herida carácter grave salir carretera turismo viajar gran_canaria informar centro_coordinador_de_emergencias seguridad hecho ocurrir altura santidad término municipal arucas herido ser hombre año edad sufrir cervicalgia carácter grave tener ser evacuar personal servicio_de_urgencias_canario suc clínica_del_perpetuo_socorro lugar incidente personar agente guardia_civil instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria",
+            "Santidad",
+            "Arucas"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Clínica_del_Perpetuo_Socorro",
+            "Guardia_Civil"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[X:??/??/??:??.??:??]",
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "112",
+            "TM_h:6.53",
+            "GC-43",
+            "2",
+            "55",
+            "33"
+        ]
+    }
+}

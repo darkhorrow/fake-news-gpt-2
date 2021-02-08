@@ -1,0 +1,56 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-05-21T00:00:00",
+    "url": "https://www.20minutos.es/noticia/713578/0/",
+    "title": {
+        "raw_text": "Arde un cuadro eléctrico en la Fundación Canaria de Juventud en la capital grancanaria sin causar afectados",
+        "lemmatized_text": "arder uno cuadro eléctrico en el fundación_canaria_de_juventud en el capital grancanaria sin causar afectado",
+        "lemmatized_text_reduced": "arder cuadro eléctrico fundación_canaria_de_juventud capital grancanaria causar afectado",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Fundación_Canaria_de_Juventud"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Arde un cuadro eléctrico en la Fundación Canaria de Juventud, ubicada en la capital grancanaria, sin causar afectados, según informaron a Europa Press fuentes de los bomberos, que han logrado extinguir el fuego.",
+        "lemmatized_text": "arder uno cuadro eléctrico en el fundación_canaria_de_juventud ubicar en el capital grancanaria sin causar afectado según informar a europa_press fuente de el bombero que haber lograr extinguir el fuego",
+        "lemmatized_text_reduced": "arder cuadro eléctrico fundación_canaria_de_juventud ubicar capital grancanaria causar afectado informar europa_press fuente bombero haber lograr extinguir fuego",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Fundación_Canaria_de_Juventud"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "El suceso se originó sobre las 09.30 horas, cuando trabajadores del inmueble dependiente del Ejecutivo regional alertaron de las llamas, por lo que se activó de inmediato el dispositivo de emergencias necesario. Así pues, un tren de salida de los bomberos de la capital —tres camiones— se dirigieron hacia la sede de la Fundación, ubicada en la calle León y Castillo número 29. A pesar de lo aparatoso del incendio, que llenó de humo la caja de escalera del edificio, no se registraron heridos, confirmaron las mismas fuentes, mientras los empleados esperaban fuera de la sede. En dicha intervención actuó la Policía Local, encargada de instruir las diligencias correspondientes.",
+        "lemmatized_text": "el suceso se originar sobre el TM_h:9.3 cuando trabajador de el inmueble dependiente de el ejecutivo regional alertar de el llama por el que se activar de inmediato el dispositivo de emergencia necesario así_pues uno tren de salida de el bombero de el capital 3 camión se dirigir hacia el sede de el fundación ubicar en el calle león y castillo número 29 a_pesar_de el aparatoso de el incendio que llenar de humo el caja de escalera de el edificio no se registrar herido confirmar el mismo fuente mientras el empleado esperar fuera_de el sede en decir intervención actuar el policía_local encargar de instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "suceso originar trabajador inmueble dependiente ejecutivo regional alertar llama activar inmediato dispositivo emergencia necesario tren salida bombero capital camión dirigir sede fundación ubicar calle león castillo número aparatoso incendio llenar humo caja escalera edificio registrar herido confirmar mismo fuente empleado esperar sede decir intervención actuar policía_local encargar instruir diligencia correspondiente",
+        "persons": [
+            "Castillo"
+        ],
+        "locations": [
+            "León"
+        ],
+        "organizations": [
+            "Ejecutivo",
+            "Fundación",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:9.3",
+            "3",
+            "29"
+        ]
+    }
+}

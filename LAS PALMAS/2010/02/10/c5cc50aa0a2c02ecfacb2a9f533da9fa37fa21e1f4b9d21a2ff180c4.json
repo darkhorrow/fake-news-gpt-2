@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-10T00:00:00",
+    "url": "https://www.20minutos.es/noticia/626331/0/",
+    "title": {
+        "raw_text": "El viernes se cierra el plazo de inscripción para los perros 'mascaritas' de Las Palmas de Gran Canaria",
+        "lemmatized_text": "el [V:??/??/??:??.??:??] se cerrar el plazo de inscripción para el perro mascaritas de las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "cerrar plazo inscripción perro mascaritas las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El Ayuntamiento de Las Palmas de Gran Canaria informó hoy de que el viernes se cerrará el plazo de inscripción para los perros 'mascaritas' que participarán el próximo domingo en el carnaval canario en el escenario del Parque de Santa Catalina.",
+        "lemmatized_text": "el ayuntamiento_de_las_palmas_de_gran_canaria informar hoy de que el [V:??/??/??:??.??:??] se cerrar el plazo de inscripción para el perro mascaritas que participar el [G:??/??/??:??.??:??] en el carnaval canario en el escenario de el parque_de_santa_catalina",
+        "lemmatized_text_reduced": "ayuntamiento_de_las_palmas_de_gran_canaria informar cerrar plazo inscripción perro mascaritas participar carnaval canario escenario parque_de_santa_catalina",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Ayuntamiento_de_Las_Palmas_de_Gran_Canaria",
+            "Parque_de_Santa_Catalina"
+        ],
+        "others": [],
+        "dates": [
+            "[V:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Aquellos que deseen inscribir a su mascota canina en el carnaval y acicalarla para salir de fiesta aún están a tiempo. Hasta este viernes 12 de febrero, a las 12.00 horas, pueden hacerlo en las oficinas de la Concejalía de Carnaval ubicada en la calle León y Castillo, número 322, según informó hoy en un comunicado la Sociedad de Promoción de la capital. El domingo 14 de febrero, a las 12.00 horas, el escenario de Santa Catalina recibirá a cuantos quieran participar en esta iniciativa, una de las novedades del Carnaval de Las Palmas de Gran Canaria para la presente edición. Las bases especifican que tanto el perro como el acompañante deberán ir disfrazados y desfilar en el escenario un tiempo máximo de 2 minutos, así como que el animal podrá ser acompañado el día del evento en el desfile por otra persona que no sea el propietario pero que ésta deberá ser, en todo caso, mayor de edad. El desfile, que no es de carácter competitivo, contará no obstante con algunas distinciones que otorgará un jurado, como un trofeo a la actitud (que destacará, entre otros, el comportamiento de la mascota y su adiestramiento) o a la originalidad.",
+        "lemmatized_text": "aquel que desear inscribir a su mascota canino en el carnaval y acicalar lo para salir de fiesta aun estar a tiempo hasta este [V:12/2/??:??.??:??] a el TM_h:12 poder hacer lo en el oficina de el concejalía_de_carnaval ubicar en el calle león y castillo número 322 según informar hoy en uno comunicado el sociedad_de_promoción de el capital el [G:14/2/??:??.??:??] a el TM_h:12 el escenario de santa_catalina recibir a cuanto querer participar en este iniciativa uno de el novedad de el carnaval_de_las_palmas_de_gran_canaria para el presente edición el base especificar que tanto el perro como el acompañante deber ir disfrazar y desfilar en el escenario uno tiempo máximo de TM_min:2 así_como que el animal poder ser acompañar el día de el evento en el desfile por otro persona que no ser el propietario pero que este deber ser en_todo_caso mayor de edad el desfile que no ser de carácter competitivo contar no_obstante con alguno distinción que otorgar uno jurado como uno trofeo a el actitud que destacar entre otro el comportamiento de el mascota y su adiestramiento o a el originalidad",
+        "lemmatized_text_reduced": "desear inscribir mascota canino carnaval acicalar salir fiesta estar tiempo poder hacer oficina concejalía_de_carnaval ubicar calle león castillo número informar comunicado sociedad_de_promoción capital escenario santa_catalina recibir querer participar iniciativa novedad carnaval_de_las_palmas_de_gran_canaria presente edición base especificar perro acompañante deber ir disfrazar desfilar escenario tiempo máximo animal poder ser acompañar día evento desfile persona ser propietario deber ser mayor edad desfile ser carácter competitivo contar distinción otorgar jurado trofeo actitud destacar comportamiento mascota adiestramiento originalidad",
+        "persons": [
+            "Castillo"
+        ],
+        "locations": [
+            "León",
+            "Santa_Catalina"
+        ],
+        "organizations": [
+            "Concejalía_de_Carnaval",
+            "Sociedad_de_Promoción"
+        ],
+        "others": [
+            "Carnaval_de_Las_Palmas_de_Gran_Canaria"
+        ],
+        "dates": [
+            "[V:12/2/??:??.??:??]",
+            "[G:14/2/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:12",
+            "322",
+            "TM_h:12",
+            "TM_min:2"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-15T00:00:00",
+    "url": "https://www.20minutos.es/noticia/652609/0/",
+    "title": {
+        "raw_text": "Una disputa entre dos personas se salda con un joven grave en Las Palmas de Gran Canaria",
+        "lemmatized_text": "uno disputa entre 2 persona se saldar con uno joven grave en las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "disputa persona saldar joven grave las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2"
+        ]
+    },
+    "lead": {
+        "raw_text": "Una disputa entre dos personas se ha saldado hoy con un joven herido de gravedad en Las Palmas de Gran Canaria, según informó el Centro Coordinador de Emergencias y Seguridad (CECOES) 112.",
+        "lemmatized_text": "uno disputa entre 2 persona se haber saldar hoy con uno joven herir de gravedad en las_palmas_de_gran_canaria según informar el centro_coordinador_de_emergencias y seguridad cecoes 112",
+        "lemmatized_text_reduced": "disputa persona haber saldar joven herir gravedad las_palmas_de_gran_canaria informar centro_coordinador_de_emergencias seguridad cecoes",
+        "persons": [],
+        "locations": [
+            "Las_Palmas_de_Gran_Canaria"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "CECOES"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "2",
+            "112"
+        ]
+    },
+    "body": {
+        "raw_text": "Los hechos se produjeron a las 17.26 horas en la calle Músico Rafael Jaimez, en el barrio de Las Mesas de la capital grancanaria, momento en el que los servicios de seguridad y emergencias fueron alertados. Una vez en el lugar, el personal del Servicio de Urgencias Canario (SUC) atendió a un joven, de unos 25 años de edad, que sufría traumatismo craneal de carácter grave, por lo que tuvo que ser trasladado en estado crítico, en ambulancia de soporte vital avanzado, al Hospital Universitario Doctor Negrín de Gran Canaria. Asimismo, hasta el lugar del incidente se trasladaron agentes del Cuerpo Nacional de Policía que instruyeron las diligencias correspondientes.",
+        "lemmatized_text": "el hecho se producir a el TM_h:17.26 en el calle músico_rafael_jaimez en el barrio de las_mesas de el capital grancanaria momento en el que el servicio de seguridad y emergencia ser alertar uno vez en el lugar el personal de el servicio_de_urgencias_canario suc atender a uno joven de uno 25 año de edad que sufrir traumatismo craneal de carácter grave por el que tener que ser trasladar en estado crítico en ambulancia de soporte vital avanzar a el hospital_universitario_doctor_negrín_de_gran_canaria asimismo hasta el lugar de el incidente se trasladar agente de el cuerpo_nacional_de_policía que instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "hecho producir calle músico_rafael_jaimez barrio las_mesas capital grancanaria momento servicio seguridad emergencia ser alertar vez lugar personal servicio_de_urgencias_canario suc atender joven año edad sufrir traumatismo craneal carácter grave tener ser trasladar estado crítico ambulancia soporte vital avanzar hospital_universitario_doctor_negrín_de_gran_canaria lugar incidente trasladar agente cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [
+            "Músico_Rafael_Jaimez"
+        ],
+        "locations": [
+            "Las_Mesas"
+        ],
+        "organizations": [
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Hospital_Universitario_Doctor_Negrín_de_Gran_Canaria",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.26",
+            "25"
+        ]
+    }
+}

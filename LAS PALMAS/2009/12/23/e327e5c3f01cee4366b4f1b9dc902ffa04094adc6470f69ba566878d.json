@@ -1,0 +1,53 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-23T00:00:00",
+    "url": "https://www.20minutos.es/noticia/594989/0/",
+    "title": {
+        "raw_text": "Trabajadores de Puerto Rico S.A. continúan la huelga indefinida ante la negativa de la empresa a negociar",
+        "lemmatized_text": "trabajadores_de_puerto_rico_s.a. continuar el huelga indefinido ante el negativa de el empresa a negociar",
+        "lemmatized_text_reduced": "trabajadores_de_puerto_rico_s.a. continuar huelga indefinido negativa empresa negociar",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [
+            "Trabajadores_de_Puerto_Rico_S.A."
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los Trabajadores de la empresa de limpieza y mantenimiento Puerto Rico S.A. continúan la huelga indefinida, que comenzó el pasado lunes, ante la negativa de la sociedad a negociar las condiciones laborales, según informó el sindicato UGT en nota de prensa.",
+        "lemmatized_text": "el trabajadores de el empresa de limpieza y mantenimiento puerto_rico_s.a. continuar el huelga indefinido que comenzar el [L:??/??/??:??.??:??] ante el negativa de el sociedad a negociar el condición laboral según informar el sindicato ugt en nota de prensa",
+        "lemmatized_text_reduced": "trabajadores empresa limpieza mantenimiento puerto_rico_s.a. continuar huelga indefinido comenzar negativa sociedad negociar condición laboral informar sindicato ugt nota prensa",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Trabajadores",
+            "Puerto_Rico_S.A.",
+            "UGT"
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]"
+        ],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Estos empleados \"no van a permitir que la gerencia de la empresa y el Consejo de Administración de la misma les hurte sus derechos, tanto en el Convenio Colectivo de la Empresa como en derechos adquiridos durante toda su trayectoria laboral\", explicó el sindicato. Por ello, los trabajadores continuarán con las movilizaciones, barajando además la posibilidad de trasladar dicho conflicto a las zonas de actividad turística de la empresa (playas), ya que hasta ahora se han limitado a concentrarse en las oficinas sin obtener ningún resultado positivo. Las medidas de presión que ejercerán los trabajadores a partir de mañana intentarán incrementar la concienciación de la gerencia de poner fin a este conflicto y pasarán por tener presencia en todas las instalaciones de la empresa. Incluso valorando la posibilidad de encierros en las mismas. Asimismo, se ha solicitado la mediación del alcalde de Mogán, Francisco González, como máxima autoridad del municipio, no habiéndose manifestado el mismo hasta el momento de remitir este comunicado.",
+        "lemmatized_text": "este empleado no ir a permitir que el gerencia de el empresa y el consejo_de_administración de el mismo le hurtar su derecho tanto en el convenio_colectivo_de_la_empresa como en derecho adquirir durante todo su trayectoria laboral explicar el sindicato por ello el trabajador continuar con el movilización barajar además el posibilidad de trasladar decir conflicto a el zona de actividad turístico de el empresa playa ya_que hasta ahora se haber limitar a concentrar se en el oficina sin obtener ninguno resultado positivo el medida de presión que ejercer el trabajador a_partir_de mañana intentar incrementar el concienciación de el gerencia de poner fin a este conflicto y pasar por tener presencia en todo el instalación de el empresa incluso valorar el posibilidad de encierro en el mismo asimismo se haber solicitar el mediación de el alcalde de mogán francisco_gonzález como máximo autoridad de el municipio no haber se manifestar el mismo hasta el momento de remitir este comunicado",
+        "lemmatized_text_reduced": "empleado ir permitir gerencia empresa consejo_de_administración hurtar derecho convenio_colectivo_de_la_empresa derecho adquirir trayectoria laboral explicar sindicato trabajador continuar movilización barajar posibilidad trasladar decir conflicto zona actividad turístico empresa playa haber limitar concentrar oficina obtener resultado positivo medida presión ejercer trabajador mañana intentar incrementar concienciación gerencia poner fin conflicto pasar tener presencia instalación empresa valorar posibilidad encierro mismo haber solicitar mediación alcalde mogán francisco_gonzález máximo autoridad municipio haber manifestar mismo momento remitir comunicado",
+        "persons": [
+            "Francisco_González"
+        ],
+        "locations": [
+            "Mogán"
+        ],
+        "organizations": [
+            "Consejo_de_Administración",
+            "Convenio_Colectivo_de_la_Empresa"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

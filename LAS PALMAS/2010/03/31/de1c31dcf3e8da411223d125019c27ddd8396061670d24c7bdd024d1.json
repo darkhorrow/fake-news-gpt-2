@@ -1,0 +1,77 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-31T00:00:00",
+    "url": "https://www.20minutos.es/noticia/666647/0/",
+    "title": {
+        "raw_text": "Fallece un obrero y otro herido tras quedar sepultados por talud de tierra en Telde (Gran Canaria)",
+        "lemmatized_text": "fallecer uno obrero y otro herir tras quedar sepultar por talud de tierra en telde gran_canaria",
+        "lemmatized_text_reduced": "fallecer obrero herir quedar sepultar talud tierra telde gran_canaria",
+        "persons": [],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un obrero de 44 años de edad ha fallecido hoy y otro de la misma edad ha resultado herido de carácter leve mientras trabajaban en una obra de conducción de agua en Telde (Gran Canaria), según informaron a Europa Press fuentes municipales, que indicaron que los operarios estaban abriendo una zanja de unos cuatro metros de altura cuando se vino abajo una parte de la pared y les sepultó.",
+        "lemmatized_text": "uno obrero de 44 año de edad haber fallecer hoy y otro de el mismo edad haber resultar herir de carácter leve mientras trabajar en uno obra de conducción de agua en telde gran_canaria según informar a europa_press fuente municipal que indicar que el operario estar abrir uno zanja de uno LN_m:4 de altura cuando se venir abajo uno parte de el pared y le sepultar",
+        "lemmatized_text_reduced": "obrero año edad haber fallecer mismo edad haber resultar herir carácter leve trabajar obra conducción agua telde gran_canaria informar europa_press fuente municipal indicar operario estar abrir zanja altura venir parte pared sepultar",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [
+            "Telde",
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "44",
+            "LN_m:4"
+        ]
+    },
+    "body": {
+        "raw_text": "El accidente laboral se produjo a las 16.00 horas, cuando la Policía Nacional alertó al Centro Coordinador de Emergencias y Seguridad (Cecoes) del siniestro en la vía pública cercana al Puente de San Juan, donde a dos personas se les había caído un talud de tierra mientras se encontraban trabajando. De este modo, el 112 activó de inmediato el dispositivo de emergencias necesario, según indicaron fuentes del Cecoes. Los obreros, ambos de la empresa de construcción Humiaya, estaban colocando una tubería y abriendo una zanja de unos cuatro metros cuando, de repente, se derrumbó una parte de la pared de tierra que sepultó totalmente a uno de los trabajadores, que ha fallecido, y parcialmente a otro. Al llegar al lugar el personal médico del Servicio de Urgencias Canario (SUC) sólo pudo confirmar el fallecimiento de uno de los afectados, mientras que el otro fue asistido al presentar polierosiones de carácter leve, pero solicitó el alta voluntaria, ya que sus heridas no revestían gravedad. Los hechos ocurrieron entre la zona de Callejón del Castillo y la antigua estación de guaguas, por la carretera de El Calero. En dicha actuación intervinieron efectivos de bomberos del Consorcio de Emergencias de Gran Canaria, de los parques de Telde y Arinaga, que tuvieron que liberar a los dos varones. Asimismo, el SUC desplazó una ambulancia de soporte vital básico, una ambulancia sanitarizada y otra de soporte vital avanzado. Por su parte, la Policía Local y Protección Civil colaboraron con el resto de los recursos de emergencia. Mientras que el Cuerpo Nacional de Policía instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el accidente laboral se producir a el TM_h:16 cuando el policía_nacional alertar a el centro_coordinador_de_emergencias y seguridad cecoes de el siniestro en el vía público cercano a el puente_de_san_juan donde a 2 persona se le haber caer uno talud de tierra mientras se encontrar trabajar de este modo el 112 activar de inmediato el dispositivo de emergencia necesario según indicar fuente de el cecoes el obrero ambos de el empresa de construcción humiaya estar colocar uno tubería y abrir uno zanja de uno LN_m:4 cuando de_repente se derrumbar uno parte de el pared de tierra que sepultar totalmente a uno de el trabajador que haber fallecer y parcialmente a otro a el llegar a el lugar el personal médico de el servicio_de_urgencias_canario suc sólo poder confirmar el fallecimiento de uno de el afectado mientras_que el otro ser asistir a el presentar polierosión de carácter leve pero solicitar el alto voluntario ya_que su herida no revestir gravedad el hecho ocurrir entre el zona de callejón_del_castillo y el antiguo estación de guagua por el carretera de el_calero en decir actuación intervenir efectivo de bombero de el consorcio_de_emergencias_de_gran_canaria de el parque de telde y arinaga que tener que liberar a el 2 varón asimismo el suc desplazar uno ambulancia de soporte vital básico uno ambulancia sanitarizada y otro de soporte vital avanzar por su parte el policía_local y protección_civil colaborar con el resto de el recurso de emergencia mientras_que el cuerpo_nacional_de_policía instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "accidente laboral producir policía_nacional alertar centro_coordinador_de_emergencias seguridad cecoes siniestro vía público cercano puente_de_san_juan persona haber caer talud tierra encontrar trabajar modo activar inmediato dispositivo emergencia necesario indicar fuente cecoes obrero empresa construcción humiaya estar colocar tubería abrir zanja derrumbar parte pared tierra sepultar totalmente trabajador haber fallecer parcialmente llegar lugar personal médico servicio_de_urgencias_canario suc poder confirmar fallecimiento afectado ser asistir presentar polierosión carácter leve solicitar alto voluntario herida revestir gravedad hecho ocurrir zona callejón_del_castillo antiguo estación guagua carretera el_calero decir actuación intervenir efectivo bombero consorcio_de_emergencias_de_gran_canaria parque telde arinaga tener liberar varón suc desplazar ambulancia soporte vital básico ambulancia sanitarizada soporte vital avanzar parte policía_local protección_civil colaborar resto recurso emergencia cuerpo_nacional_de_policía instruir diligencia correspondiente",
+        "persons": [
+            "Arinaga"
+        ],
+        "locations": [
+            "Puente_de_San_Juan",
+            "Callejón_del_Castillo",
+            "El_Calero"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cecoes",
+            "Humiaya",
+            "Servicio_de_Urgencias_Canario",
+            "SUC",
+            "Consorcio_de_Emergencias_de_Gran_Canaria",
+            "Telde",
+            "SUC",
+            "Policía_Local",
+            "Protección_Civil",
+            "Cuerpo_Nacional_de_Policía"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [],
+        "numbers": [
+            "TM_h:16",
+            "2",
+            "112",
+            "LN_m:4",
+            "2"
+        ]
+    }
+}

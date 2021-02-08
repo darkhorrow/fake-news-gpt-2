@@ -1,0 +1,60 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-03-19T00:00:00",
+    "url": "https://www.20minutos.es/noticia/656182/0/",
+    "title": {
+        "raw_text": "Detenida una limpiadora de unos apartamentos de Lanzarote por sustraer dinero de las habitaciones",
+        "lemmatized_text": "detener uno limpiador de uno apartamento de lanzarote por sustraer dinero de el habitación",
+        "lemmatized_text_reduced": "detener limpiador apartamento lanzarote sustraer dinero habitación",
+        "persons": [],
+        "locations": [
+            "Lanzarote"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Agentes de la Guardia Civil del Puesto Principal de Tías, en Lanzarote, han procedido a la detención de M.S.A, natural La Coruña y de 36 años de edad, por tres delitos de robo con fuerza y una falta de hurto, por robar en el interior de las habitaciones de los Apartamentos Lomo Blanco, en la localidad turística de Puerto del Carmen, aprovechando su trabajo como limpiadora según informó hoy la Benemérita en un comunicado.",
+        "lemmatized_text": "agentes_de_la_guardia_civil_del_puesto_principal_de_tías en lanzarote haber proceder a el detención de m.s._a natural la_coruña y de 36 año de edad por 3 delito de robo con fuerza y uno falta de hurto por robar en_el_interior_de el habitación de el apartamentos_lomo_blanco en el localidad turístico de puerto_del_carmen aprovechar su trabajo como limpiador según informar hoy el benemérita en uno comunicado",
+        "lemmatized_text_reduced": "agentes_de_la_guardia_civil_del_puesto_principal_de_tías lanzarote haber proceder detención m.s._a natural la_coruña año edad delito robo fuerza falta hurto robar habitación apartamentos_lomo_blanco localidad turístico puerto_del_carmen aprovechar trabajo limpiador informar benemérita comunicado",
+        "persons": [],
+        "locations": [
+            "Agentes_de_la_Guardia_Civil_del_Puesto_Principal_de_Tías",
+            "Lanzarote",
+            "La_Coruña",
+            "Apartamentos_Lomo_Blanco",
+            "Puerto_del_Carmen"
+        ],
+        "organizations": [
+            "Benemérita"
+        ],
+        "others": [
+            "M.S._A"
+        ],
+        "dates": [],
+        "numbers": [
+            "36",
+            "3"
+        ]
+    },
+    "body": {
+        "raw_text": "De esta manera, la mujer, que se encontraba como trabajadora temporal de limpieza en los citados apartamentos, accedía al interior de los mismos y sustraía dinero en efectivo del interior de las cajas fuertes que había en las habitaciones, así como otras cantidades de diversos lugares como cajones, carteras y ropa de los clientes. Por su parte, los robos ascendieron a la cantidad en efectivo de 2.000 euros, mientras que, las diligencias junto con la detenida, fueron entregadas en el Juzgado de Guardia e Instrucción número Uno de Arrecife.",
+        "lemmatized_text": "de este manera el mujer que se encontrar como trabajador temporal de limpieza en el citar apartamento acceder al_interior_de el mismo y sustraer dinero en efectivo de el interior de el caja fuerte que haber en el habitación así_como otro cantidad de diverso lugar como cajón cartera y ropa de el cliente por su parte el robo ascender a el cantidad en efectivo de $_ECU:2 mientras_que el diligencia junto_con el detener ser entregar en el juzgado_de_guardia y instrucción número uno de arrecife",
+        "lemmatized_text_reduced": "manera mujer encontrar trabajador temporal limpieza citar apartamento acceder mismo sustraer dinero efectivo interior caja fuerte haber habitación cantidad lugar cajón cartera ropa cliente parte robo ascender cantidad efectivo diligencia detener ser entregar juzgado_de_guardia instrucción número arrecife",
+        "persons": [],
+        "locations": [
+            "Arrecife"
+        ],
+        "organizations": [
+            "Juzgado_de_Guardia",
+            "Instrucción"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:2"
+        ]
+    }
+}

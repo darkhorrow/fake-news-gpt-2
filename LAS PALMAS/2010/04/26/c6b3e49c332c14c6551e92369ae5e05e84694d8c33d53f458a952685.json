@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-04-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/688832/0/",
+    "title": {
+        "raw_text": "Endesa invertirá en Canarias 2,4 millones de euros dentro su Plan Estratégico 2010-2014",
+        "lemmatized_text": "endesa invertir en canarias 2,4 millón de euro dentro su plan_estratégico 2010-2014",
+        "lemmatized_text_reduced": "endesa invertir canarias millón euro plan_estratégico",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Endesa"
+        ],
+        "others": [
+            "Plan_Estratégico"
+        ],
+        "dates": [],
+        "numbers": [
+            "2,4",
+            "2010-2014"
+        ]
+    },
+    "lead": {
+        "raw_text": "La compañía Endesa invertirá un total de 2,4 millones de euros dentro del Plan Industrial Estratégico 2010-2014 en la Comunidad Autónoma de Canarias, cifra de la que 1,6 millones de euros será en inversiones más gastos y 800.000 euros en empresas participativas, según indicaron a Europa Press fuentes de la compañía.",
+        "lemmatized_text": "el compañía endesa invertir uno total de 2,4 millón de euro dentro de el plan_industrial_estratégico 2010-2014 en el comunidad_autónoma_de_canarias cifra de el que 1,6 millón de euro ser en inversión más gasto y $_ECU:800 en empresa participativo según indicar a europa_press fuente de el compañía",
+        "lemmatized_text_reduced": "compañía endesa invertir total millón euro plan_industrial_estratégico comunidad_autónoma_de_canarias cifra millón euro ser inversión gasto empresa participativo indicar europa_press fuente compañía",
+        "persons": [],
+        "locations": [
+            "Comunidad_Autónoma_de_Canarias"
+        ],
+        "organizations": [
+            "Endesa",
+            "Europa_Press"
+        ],
+        "others": [
+            "Plan_Industrial_Estratégico"
+        ],
+        "dates": [],
+        "numbers": [
+            "2,4",
+            "2010-2014",
+            "1,6",
+            "$_ECU:800"
+        ]
+    },
+    "body": {
+        "raw_text": "Así, el consejero delegado de Endesa, Andrea Brentan, explicó hoy durante unas declaraciones a los medios de comunicación después de mantener una reunión con el presidente del Gobierno de Canarias, Paulino Rivero, en el que se presentó el plan de inversiones en el archipiélago, que el nivel de desembolso de la compañía en las islas \"tiene un nivel muy alto, más alto de lo que han sido históricamente los planes de los últimos cinco años\". En este sentido, entendió que las centrales en Gran Canaria y Tenerife son un tema \"muy urgente\", ya que entre la tramitación, construcción y pruebas, se estaría hablando de un período de entre 8 y 10 años. \"Es urgente —añadió— tomar una dirección en lo que son los emplazamientos. Hemos presentado y discutido varios escenarios para estas centrales. También hemos presentado otras infraestructuras de distribución que también son muy urgentes en varias de las islas\". (Habrá ampliación)",
+        "lemmatized_text": "así el consejero delegar de endesa andrea_brentan explicar hoy durante uno declaración a el medio de comunicación después_de mantener uno reunión con el presidente de el gobierno_de_canarias paulino_rivero en el que se presentar el plan de inversión en el archipiélago que el nivel de desembolso de el compañía en el isla tener uno nivel muy alto más alto de el que haber ser históricamente el plan de el último 5 año en este sentido entender que el central en gran_canaria y tenerife ser uno tema muy urgente ya_que entre el tramitación construcción y prueba se estar hablar de uno período de entre 8 y 10 año ser urgente añadir tomar uno dirección en el que ser el emplazamiento haber presentar y discutir varios escenario para este central también haber presentar otro infraestructura de distribución que también ser muy urgente en varios de el isla haber ampliación",
+        "lemmatized_text_reduced": "consejero delegar endesa andrea_brentan explicar declaración medio comunicación mantener reunión presidente gobierno_de_canarias paulino_rivero presentar plan inversión archipiélago nivel desembolso compañía isla tener nivel alto alto haber ser históricamente plan último año sentido entender central gran_canaria tenerife ser tema urgente tramitación construcción prueba estar hablar período año ser urgente añadir tomar dirección ser emplazamiento haber presentar discutir escenario central haber presentar infraestructura distribución ser urgente isla haber ampliación",
+        "persons": [
+            "Andrea_Brentan",
+            "Paulino_Rivero"
+        ],
+        "locations": [
+            "Gran_Canaria",
+            "Tenerife"
+        ],
+        "organizations": [
+            "Endesa",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "5",
+            "8",
+            "10"
+        ]
+    }
+}

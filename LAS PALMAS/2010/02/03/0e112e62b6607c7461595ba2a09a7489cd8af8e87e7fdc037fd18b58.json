@@ -1,0 +1,58 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-03T00:00:00",
+    "url": "https://www.20minutos.es/noticia/621082/0/",
+    "title": {
+        "raw_text": "El Gobierno canario prevé aprobar mañana medidas para ayudar a los afectados por el temporal en las islas",
+        "lemmatized_text": "el gobierno canario prever aprobar mañana medida para ayudar a el afectado por el temporal en el isla",
+        "lemmatized_text_reduced": "gobierno canario prever aprobar medida ayudar afectado temporal isla",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El vicepresidente del Gobierno de Canarias, José Manuel Soria, anunció hoy que el Ejecutivo regional tratará mañana en el Consejo de Gobierno todo lo relacionado con las ayudas para los afectados que han sufrido el temporal de lluvia y viento que ha azotado a las islas en los últimos días.",
+        "lemmatized_text": "el vicepresidente de el gobierno_de_canarias josé_manuel_soria anunciar hoy que el ejecutivo regional tratar mañana en el consejo_de_gobierno todo lo relacionar con el ayuda para el afectado que haber sufrir el temporal de lluvia y viento que haber azotar a el isla en el último día",
+        "lemmatized_text_reduced": "vicepresidente gobierno_de_canarias josé_manuel_soria anunciar ejecutivo regional tratar consejo_de_gobierno relacionar ayuda afectado haber sufrir temporal lluvia viento haber azotar isla último día",
+        "persons": [
+            "José_Manuel_Soria"
+        ],
+        "locations": [],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Ejecutivo",
+            "Consejo_de_Gobierno"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "\"El Gobierno de Canarias puedo garantizar que, tal como ha ocurrido con anteriores temporales o con anteriores incendios, va a establecer medidas para que todas las personas y familias que hayan tenido daños en sus bienes materiales puedan resarcirse de los mismo a través del cumplimiento de determinados requisitos y, por tanto, el Gobierno en el día de mañana —en Consejo de Gobierno— también lo hará\", subrayó en declaraciones a los medios de comunicación. Soria se refirió a las islas que han sufrido más \"daño\" con motivo del temporal y apuntó la de La Palma, El Hierro, así como la de Tenerife, además de Gran Canaria y Fuerteventura.",
+        "lemmatized_text": "el gobierno_de_canarias poder garantizar que tal_y_como haber ocurrir con anterior temporal o con anterior incendio ir a establecer medida para que todo el persona y familia que haber tener daño en su bien material poder resarcir se de el mismo a través de el cumplimiento de determinar requisito y por tanto el gobierno en el día de mañana en consejo_de_gobierno también lo hacer subrayar en declaración a el medio de comunicación soria se referir a el isla que haber sufrir más daño con motivo de el temporal y apuntar el de la_palma el_hierro así_como el de tenerife además_de gran_canaria y fuerteventura",
+        "lemmatized_text_reduced": "gobierno_de_canarias poder garantizar haber ocurrir anterior temporal anterior incendio ir establecer medida persona familia haber tener daño bien material poder resarcir mismo través cumplimiento determinar requisito gobierno día mañana consejo_de_gobierno hacer subrayar declaración medio comunicación soria referir isla haber sufrir daño motivo temporal apuntar la_palma el_hierro tenerife gran_canaria fuerteventura",
+        "persons": [
+            "El_Hierro"
+        ],
+        "locations": [
+            "Soria",
+            "La_Palma"
+        ],
+        "organizations": [
+            "Gobierno_de_Canarias",
+            "Gobierno",
+            "Consejo_de_Gobierno",
+            "Tenerife",
+            "Gran_Canaria",
+            "Fuerteventura"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-07-11T00:00:00",
+    "url": "https://www.20minutos.es/noticia/398277/0/bolas/cocaina/estomago/",
+    "title": {
+        "raw_text": "Operan de urgencia a un traficante para sacarle 82 bolas de cocaína del estómago",
+        "lemmatized_text": "operar de urgencia a uno traficante para sacar le 82 bola de cocaína de el estómago",
+        "lemmatized_text_reduced": "operar urgencia traficante sacar bola cocaína estómago",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "82"
+        ]
+    },
+    "lead": {
+        "raw_text": "Su vida corría peligro, dado que no las expulsaba. Llevaba en su interior algo más de un kilo de droga. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "su vida correr peligro dado_que no lo expulsar llevar en su interior algo más de uno kilo de droga consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "vida correr peligro expulsar llevar interior kilo droga consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Un hombre con 82 bolas de cocaína en el estómago tuvo que ser operado de urgencia en el Hospital de Lanzarote porque su vida corría peligro, dado que no las expulsaba y se trataba de algo más de un kilo de droga , informó hoy la Jefatura Superior de Policía de Canarias. El portador de la droga, identificado como Muamado B, de 48 años y natural de Guinea Bissau, se presentó en el centro hospitalario de forma voluntaria e informó de la mercancía que portaba en su interior. Los sanitarios le realizaron una radiografía que desveló la presencia de cuerpos extraños y, ante los fuertes dolores que sufría, un escáner determinó que varias cápsulas se encontraban atascadas en su organismo . Ello ponía en riesgo grave su vida y hacía imprescindible una intervención quirúrgica que dio lugar a la extracción de 1.015 gramos de cocaína. Otros dos detenidos Por otra parte, agentes de la Policía tuvieron conocimiento de que llegarían a la isla dos personas con la intención de introducir cocaína en la isla. Así, se procedió a la detención de Jose Néstor F.A., de 56 años y natural de Venezuela con 1.100 gramos de cocaína en su organismo, lo que se confirmó a través de una prueba radiológica. En otro vuelo procedente de Madrid se detuvo a Ángela María O.A., de 28 años y nacionalidad colombiana, cuando transportaba 450 gramos de la misma droga ocultos y distribuidos entre sus pertenencias. Los tres detenidos fueron puestos a disposición de la Autoridad judicial, que decretó el ingreso en prisión de los tres. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA",
+        "lemmatized_text": "uno hombre con 82 bola de cocaína en el estómago tener que ser operar de urgencia en el hospital_de_lanzarote porque su vida correr peligro dado_que no lo expulsar y se tratar de algo más de uno kilo de droga informar hoy el jefatura_superior_de_policía_de_canarias el portador de el droga identificar como muamado_b de 48 año y natural de guinea_bissau se presentar en el centro hospitalario de forma voluntario y informar de el mercancía que portar en su interior el sanitario le realizar uno radiografía que desvelar el presencia de cuerpo extraño y ante el fuerte dolor que sufrir uno escáner determinar que varios cápsula se encontrar atascar en su organismo ello poner en riesgo grave su vida y hacer imprescindible uno intervención quirúrgico que dar lugar a el extracción de WG_g:1.015 de cocaína otro 2 detenido por otro parte agente de el policía tener conocimiento de que llegar a el isla 2 persona con el intención de introducir cocaína en el isla así se proceder a el detención de jose_néstor_f.a. de 56 año y natural de venezuela con WG_g:1.1 de cocaína en su organismo el que se confirmar a_través_de uno prueba radiológico en otro vuelo procedente de madrid se detener a ángela_maría_o.a. de 28 año y nacionalidad colombiano cuando transportar WG_g:450 de el mismo droga oculto y distribuir entre su pertenencia el 3 detenido ser poner a disposición de el autoridad judicial que decretar el ingreso en prisión de el 3 consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "hombre bola cocaína estómago tener ser operar urgencia hospital_de_lanzarote vida correr peligro expulsar tratar kilo droga informar jefatura_superior_de_policía_de_canarias portador droga identificar muamado_b año natural guinea_bissau presentar centro hospitalario forma voluntario informar mercancía portar interior sanitario realizar radiografía desvelar presencia cuerpo extraño fuerte dolor sufrir escáner determinar cápsula encontrar atascar organismo poner riesgo grave vida hacer imprescindible intervención quirúrgico dar lugar extracción cocaína detenido por parte agente policía tener conocimiento llegar isla persona intención introducir cocaína isla proceder detención jose_néstor_f.a. año natural venezuela cocaína organismo confirmar prueba radiológico vuelo procedente madrid detener ángela_maría_o.a. año nacionalidad colombiano transportar mismo droga oculto distribuir pertenencia detenido ser poner disposición autoridad judicial decretar ingreso prisión consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Muamado_B",
+            "Guinea_Bissau",
+            "Jose_Néstor_F.A.",
+            "Ángela_María_O.A."
+        ],
+        "locations": [
+            "Hospital_de_Lanzarote",
+            "Venezuela",
+            "Madrid"
+        ],
+        "organizations": [
+            "Jefatura_Superior_de_Policía_de_Canarias",
+            "Por",
+            "Policía",
+            "Autoridad",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "82",
+            "48",
+            "WG_g:1.015",
+            "2",
+            "2",
+            "56",
+            "WG_g:1.1",
+            "28",
+            "WG_g:450",
+            "3",
+            "3"
+        ]
+    }
+}

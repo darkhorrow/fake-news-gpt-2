@@ -1,0 +1,73 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/599231/0/",
+    "title": {
+        "raw_text": "Los aeropuertos canarios vuelven a operar hoy con normalidad y no registran retrasos durante la mañana",
+        "lemmatized_text": "el aeropuerto canario volver a operar hoy con normalidad y no registrar retraso durante el mañana",
+        "lemmatized_text_reduced": "aeropuerto canario volver operar normalidad registrar retraso mañana",
+        "persons": [],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Los ocho aeropuertos de la Comunidad Autónoma de Canarias han vuelto a operar durante la mañana de hoy con total normalidad sin registrar retrasos de consideración, según informó a Europa Press Aeropuertos Españoles y Navegación Aérea (AENA).",
+        "lemmatized_text": "el 8 aeropuerto de el comunidad_autónoma_de_canarias haber volver a operar durante el mañana de hoy con total normalidad sin registrar retraso de consideración según informar a europa_press_aeropuertos_españoles y navegación_aérea aena",
+        "lemmatized_text_reduced": "aeropuerto comunidad_autónoma_de_canarias haber volver operar mañana total normalidad registrar retraso consideración informar europa_press_aeropuertos_españoles navegación_aérea aena",
+        "persons": [
+            "Europa_Press_Aeropuertos_Españoles",
+            "Navegación_Aérea"
+        ],
+        "locations": [],
+        "organizations": [
+            "Comunidad_Autónoma_de_Canarias",
+            "AENA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "8"
+        ]
+    },
+    "body": {
+        "raw_text": "Esta tranquilidad se produce después de que durante la última semana de 2009 se registraran al menos 463 vuelos con demoras —entre los días 28 y 31 de diciembre— por la reordenación del tráfico aéreo y mal tiempo en los aeropuertos del norte de Europa. Así, el pasado lunes, 28 de diciembre, los recintos aeroportuarios isleños registraron hasta 162 operaciones con demoras, de las que 105 vuelos tuvieron lugar en la provincia de Las Palmas y 57 en Santa Cruz de Tenerife. Al día siguiente, los aeropuertos canarios tuvieron retrasos en 147 vuelos, tanto en salidas como en llegadas. Del total de operaciones con demoras, 44 fueron en la provincia de Las Palmas y 103 en Santa Cruz de Tenerife. Ya el miércoles 30, la cifra de vuelos retrasados por restricciones del tráfico aéreo y mal tiempo en los aeropuertos europeos ascendió a 251, de los que Santa Cruz de Tenerife contabilizó 173 demoras y Las Palmas 78 operaciones. Finalmente, los recintos aeroportuarios de la región finalizaron el año con normalidad al no producirse, el pasado 31 de diciembre, retrasos importantes.",
+        "lemmatized_text": "este tranquilidad se producir después_de que durante el último semana de 2009 se registrar a el menos 463 vuelo con demora entre el día 28 y [??:31/12/??:??.??:??] por el reordenación de el tráfico aéreo y mal tiempo en el aeropuerto de el norte de europa así el [L:28/12/??:??.??:??] el recinto aeroportuario isleño registrar hasta 162 operación con demora de el que 105 vuelo tener_lugar en el provincia de las_palmas y 57 en santa_cruz_de_tenerife a el día siguiente el aeropuerto canario tener retraso en 147 vuelo tanto en salida como en llegada de el total de operación con demora 44 ser en el provincia de las_palmas y 103 en santa_cruz_de_tenerife ya el [X:30/??/??:??.??:??] el cifra de vuelo retrasar por restricción de el tráfico aéreo y mal tiempo en el aeropuerto europeo ascender a 251 de el que santa_cruz_de_tenerife contabilizar 173 demora y las_palmas 78 operación finalmente el recinto aeroportuario de el región finalizar el año con normalidad a el no producir se el [??:31/12/??:??.??:??] retraso importante",
+        "lemmatized_text_reduced": "tranquilidad producir último semana registrar vuelo demora día reordenación tráfico aéreo mal tiempo aeropuerto norte europa recinto aeroportuario isleño registrar operación demora vuelo tener_lugar provincia las_palmas santa_cruz_de_tenerife día siguiente aeropuerto canario tener retraso vuelo salida llegada total operación demora ser provincia las_palmas santa_cruz_de_tenerife cifra vuelo retrasar restricción tráfico aéreo mal tiempo aeropuerto europeo ascender santa_cruz_de_tenerife contabilizar demora las_palmas operación finalmente recinto aeroportuario región finalizar año normalidad producir retraso importante",
+        "persons": [],
+        "locations": [
+            "Europa",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas",
+            "Santa_Cruz_de_Tenerife"
+        ],
+        "organizations": [
+            "Santa_Cruz_de_Tenerife",
+            "Las_Palmas"
+        ],
+        "others": [],
+        "dates": [
+            "[??:31/12/??:??.??:??]",
+            "[L:28/12/??:??.??:??]",
+            "[X:30/??/??:??.??:??]",
+            "[??:31/12/??:??.??:??]"
+        ],
+        "numbers": [
+            "2009",
+            "463",
+            "28",
+            "162",
+            "105",
+            "57",
+            "147",
+            "44",
+            "103",
+            "251",
+            "173",
+            "78"
+        ]
+    }
+}

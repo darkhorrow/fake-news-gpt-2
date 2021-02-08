@@ -1,0 +1,72 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-02-20T00:00:00",
+    "url": "https://www.20minutos.es/noticia/633985/0/",
+    "title": {
+        "raw_text": "La Fiscalía pide 14 años de prisión para un acusado de agredir sexualmente a una menor en Gran Canaria",
+        "lemmatized_text": "el fiscalía pedir 14 año de prisión para uno acusado de agredir sexualmente a uno menor en gran_canaria",
+        "lemmatized_text_reduced": "fiscalía pedir año prisión acusado agredir sexualmente menor gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "14"
+        ]
+    },
+    "lead": {
+        "raw_text": "La Fiscalía ha solicitado imponer 14 años de prisión para un hombre que presuntamente agredió sexualmente a una niña en el domicilio familiar de ella en Gran Canaria en junio de 2007, cuando la menor tenía 11 años de edad.",
+        "lemmatized_text": "el fiscalía haber solicitar imponer 14 año de prisión para uno hombre que presuntamente agredir sexualmente a uno niño en el domicilio familiar de él en gran_canaria en [??:??/6/2007:??.??:??] cuando el menor tener 11 año de edad",
+        "lemmatized_text_reduced": "fiscalía haber solicitar imponer año prisión hombre presuntamente agredir sexualmente niño domicilio familiar gran_canaria menor tener año edad",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Fiscalía"
+        ],
+        "others": [],
+        "dates": [
+            "[??:??/6/2007:??.??:??]"
+        ],
+        "numbers": [
+            "14",
+            "11"
+        ]
+    },
+    "body": {
+        "raw_text": "La Sección Sexta de la Audiencia Provincial de Las Palmas celebrará el próximo lunes (11.00 horas) el juicio contra D.R.A. por un presunto delito de agresión sexual, según el escrito de conclusiones provisionales del Ministerio Público al que ha tenido acceso Europa Press. Según dicho escrito, el acusado, mayor de edad y sin antecedentes penales, se encontraba a fines del mes de junio de 2007 en el domicilio de la niña, con cuya familia tenía amistad desde hace tiempo. \"Subió a la azotea de edificio para buscar unos tornillos para una cuna\", subiendo también la menor, de manera que en un momento dado se encontraron los dos solos en el cuarto de la azotea, lo que el acusado aprovechó para, supuestamente \"con ánimo de satisfacer sus instintos libidinosos\", intentar realizar prácticas sexuales con ella, a pesar de la negativa de la niña. Una vez que D.R.A. presuntamente consiguió su propósito, le dijo a la menor, que se encontraba llorando por lo que acababa de suceder, que no le contase lo ocurrido a su familia para que no perdieran la amistad que tenían, según el Ministerio Público. Por todo ello, la Fiscalía ha solicitado imponer a D.R.A. una pena de 14 años de prisión y la prohibición de aproximarse a la niña, acudir a su domicilio o comunicarse con ella de cualquier forma durante 10 años. Además de la pena privativa de libertad, reclama también que el procesado indemnice a la niña en la cantidad de 25.000 euros.",
+        "lemmatized_text": "el sección_sexta_de_la_audiencia_provincial_de_las_palmas celebrar el [L:??/??/??:??.??:??] TM_h:11 el juicio contra d.r.a. por uno presunto delito de agresión sexual según el escrito de conclusión provisional de el ministerio_público a el que haber tener acceso europa_press según decir escrito el acusado mayor de edad y sin antecedente penal se encontrar a fin de el [??:??/6/2007:??.??:??] en el domicilio de el niño con cuyo familia tener amistad desde hacer tiempo subir a el azotea de edificio para buscar uno tornillo para uno cuna subir también el menor de manera que en uno momento dar se encontrar el 2 solo en el cuarto de el azotea el que el acusado aprovechar para supuestamente con ánimo de satisfacer su instinto libidinoso intentar realizar práctica sexual con él a_pesar_de el negativa de el niño una_vez_que d.r.a. presuntamente conseguir su propósito le decir a el menor que se encontrar llorar por el que acabar de suceder que no le contar el ocurrir a su familia para que no perder el amistad que tener según el ministerio_público por todo ello el fiscalía haber solicitar imponer a d.r.a. uno pena de 14 año de prisión y el prohibición de aproximar se a el niño acudir a su domicilio o comunicar se con él de_cualquier_forma durante 10 año además_de el pena privativo de libertad reclamar también que el procesado indemnizar a el niño en el cantidad de $_ECU:25",
+        "lemmatized_text_reduced": "sección_sexta_de_la_audiencia_provincial_de_las_palmas celebrar juicio d.r.a. presunto delito agresión sexual escrito conclusión provisional ministerio_público haber tener acceso europa_press decir escrito acusado mayor edad antecedente penal encontrar fin domicilio niño familia tener amistad hacer tiempo subir azotea edificio buscar tornillo cuna subir menor manera momento dar encontrar solo cuarto azotea acusado aprovechar supuestamente ánimo satisfacer instinto libidinoso intentar realizar práctica sexual negativa niño d.r.a. presuntamente conseguir propósito decir menor encontrar llorar acabar suceder contar ocurrir familia perder amistad tener ministerio_público fiscalía haber solicitar imponer d.r.a. pena año prisión prohibición aproximar niño acudir domicilio comunicar año pena privativo libertad reclamar procesado indemnizar niño cantidad",
+        "persons": [
+            "Europa_Press"
+        ],
+        "locations": [],
+        "organizations": [
+            "Sección_Sexta_de_la_Audiencia_Provincial_de_Las_Palmas",
+            "D.R.A.",
+            "Ministerio_Público",
+            "D.R.A.",
+            "Ministerio_Público",
+            "Fiscalía",
+            "D.R.A."
+        ],
+        "others": [],
+        "dates": [
+            "[L:??/??/??:??.??:??]",
+            "[??:??/6/2007:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11",
+            "2",
+            "14",
+            "10",
+            "$_ECU:25"
+        ]
+    }
+}

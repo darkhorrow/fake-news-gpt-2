@@ -1,0 +1,54 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-01-12T00:00:00",
+    "url": "https://www.20minutos.es/noticia/605043/0/",
+    "title": {
+        "raw_text": "Un menor herido menos grave tras colisionar con su motocicleta contra un turismo en Gran Canaria",
+        "lemmatized_text": "uno menor herir menos grave tras colisionar con su motocicleta contra uno turismo en gran_canaria",
+        "lemmatized_text_reduced": "menor herir grave colisionar motocicleta turismo gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "Un joven de 17 años ha resultado herido de carácter menos grave al colisionar la moto con la que circulaba contra un vehículo en el municipio grancanario de Gáldar, según ha informado el Centro Coordinador de Emergencias 112 (Cecoes-112).",
+        "lemmatized_text": "uno joven de 17 año haber resultar herir de carácter menos grave a el colisionar el moto con el que circular contra uno vehículo en el municipio grancanario de gáldar según haber informar el centro_coordinador_de_emergencias 112 Cecoes-112",
+        "lemmatized_text_reduced": "joven año haber resultar herir carácter grave colisionar moto circular vehículo municipio grancanario gáldar haber informar centro_coordinador_de_emergencias",
+        "persons": [],
+        "locations": [
+            "Gáldar"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "17",
+            "112",
+            "Cecoes-112"
+        ]
+    },
+    "body": {
+        "raw_text": "La alerta fue recibida sobre las 17.22 horas y en ella se señalaba que el joven había resultado herido y precisaba de atención sanitaria. Así el personal sanitario del Servicio de Urgencias Canarios se trasladó hasta el lugar del suceso en donde comprobó que el joven sufría una traumatismo en una pierna de caracter menos grave. Tras estabilizar al herido lo trasladaron al Punto de Atención Continuada del Gáldar en una ambulancia de soporte vital básico en donde recibió la asistencia oportuna. La Policía Local, por su parte, instruyó las diligencias correspondientes.",
+        "lemmatized_text": "el alerta ser recibir sobre el TM_h:17.22 y en él se señalar que el joven haber resultar herir y precisar de atención sanitario así el personal sanitario de el servicio_de_urgencias_canarios se trasladar hasta el lugar de el suceso en donde comprobar que el joven sufrir uno traumatismo en uno pierna de caracter menos grave tras estabilizar a el herir lo trasladar a el punto_de_atención_continuada_del_gáldar en uno ambulancia de soporte vital básico en donde recibir el asistencia oportuno el policía_local por su parte instruir el diligencia correspondiente",
+        "lemmatized_text_reduced": "alerta ser recibir señalar joven haber resultar herir precisar atención sanitario personal sanitario servicio_de_urgencias_canarios trasladar lugar suceso comprobar joven sufrir traumatismo pierna caracter grave estabilizar herir trasladar punto_de_atención_continuada_del_gáldar ambulancia soporte vital básico recibir asistencia oportuno policía_local parte instruir diligencia correspondiente",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Servicio_de_Urgencias_Canarios",
+            "Punto_de_Atención_Continuada_del_Gáldar",
+            "Policía_Local"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_h:17.22"
+        ]
+    }
+}

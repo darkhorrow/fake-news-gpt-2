@@ -1,0 +1,65 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-02-17T00:00:00",
+    "url": "https://www.20minutos.es/noticia/451006/0/naufragio/patera/lanzarote/",
+    "title": {
+        "raw_text": "Rescatan el cadáver del último inmigrante desaparecido frente a Teguise, otro menor",
+        "lemmatized_text": "rescatar el cadáver de el último inmigrante desaparecer frente_a teguise otro menor",
+        "lemmatized_text_reduced": "rescatar cadáver último inmigrante desaparecer teguise menor",
+        "persons": [
+            "Teguise"
+        ],
+        "locations": [],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El cadáver del menor, que murió ahogado, ha sido hallado al norte de Los Cocoteros, muy cerca de donde naufragó la patera. De los 22 inmigrantes fallecidos, 16 son menores. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el cadáver de el menor que morir ahogar haber ser hallar a el norte de los_cocoteros muy cerca de donde naufragar el patera de el 22 inmigrante fallecer 16 ser menor consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "cadáver menor morir ahogar haber ser hallar norte los_cocoteros naufragar patera inmigrante fallecer ser menor consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Los_Cocoteros"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "22",
+            "16"
+        ]
+    },
+    "body": {
+        "raw_text": "Los servicios de salvamento y rescate han encontrado sobre las 11:30 horas (local) el cadáver del único inmigrante de la patera naufragada el domingo en la costa de Teguise, en Lanzarote, que seguía desaparecido. Se trata de un menor que se ahogó y ha sido encontrado al norte de Los Cocoteros, cerca de donde el pasado domingo se produjo la tragedia que ha costado ya la vida de 22 inmigrantes magrebíes , 16 son menores de edad. Desde esta mañana, en que se reanudó la búsqueda, los equipos de rescate ampliaron la zona de rastreo al sur de Teguise , en la zona de Los Ancones, en el mismo municipio y al sur de la costa de Los Cocoteros, donde sucedió la tragedia. El mismo día de la tragedia fueron recuperados del mar cinco cadáveres y ayer se encontraron otros dieciséis. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el servicio de salvamento y rescate haber encontrar sobre el TM_h:11:30 local el cadáver de el único inmigrante de el patera naufragar el [G:??/??/??:??.??:??] en el costa de teguise en lanzarote que seguir desaparecer se tratar de uno menor que se ahogar y haber ser encontrar a el norte de los_cocoteros cerca de donde el [G:??/??/??:??.??:??] se producir el tragedia que haber costar ya el vida de 22 inmigrante magrebí 16 ser menor de edad desde este mañana en que se reanudar el búsqueda el equipo de rescate ampliar el zona de rastreo a el sur de teguise en_la_zona_de los_ancones en el mismo municipio y a el sur de el costa de los_cocoteros donde suceder el tragedia el mismo día de el tragedia ser recuperar de el mar 5 cadáver y ayer se encontrar otro 16 consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "servicio salvamento rescate haber encontrar local cadáver único inmigrante patera naufragar costa teguise lanzarote seguir desaparecer tratar menor ahogar haber ser encontrar norte los_cocoteros producir tragedia haber costar vida inmigrante magrebí ser menor edad mañana reanudar búsqueda equipo rescate ampliar zona rastreo sur teguise los_ancones mismo municipio sur costa los_cocoteros suceder tragedia mismo día tragedia ser recuperar mar cadáver encontrar consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Teguise",
+            "Lanzarote",
+            "Los_Cocoteros",
+            "Teguise",
+            "Los_Ancones",
+            "Los_Cocoteros"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[G:??/??/??:??.??:??]",
+            "[G:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "TM_h:11:30",
+            "22",
+            "16",
+            "5",
+            "16"
+        ]
+    }
+}

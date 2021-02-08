@@ -1,0 +1,59 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-12-22T00:00:00",
+    "url": "https://www.20minutos.es/noticia/438626/0/loteria/empleados/almacenes/",
+    "title": {
+        "raw_text": "Ochenta empleados de El Corte Inglés se llevan 1,5 millones en la lotería de Navidad",
+        "lemmatized_text": "80 empleado de el_corte_inglés se llevar 1,5 millón en el lotería de navidad",
+        "lemmatized_text_reduced": "empleado el_corte_inglés llevar millón lotería navidad",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "El_Corte_Inglés"
+        ],
+        "others": [
+            "Navidad"
+        ],
+        "dates": [],
+        "numbers": [
+            "80",
+            "1,5"
+        ]
+    },
+    "lead": {
+        "raw_text": "Los empleados compartían el 81.792, agraciado con un quinto premio. Compraban el mismo número desde hace 30 años. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el empleado compartir el 81.792 agraciar con uno 5 premio comprar el mismo número desde hacer 30 año consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "empleado compartir agraciar 5 premio comprar mismo número hacer año consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "81.792",
+            "30"
+        ]
+    },
+    "body": {
+        "raw_text": "planta de caballeros de El Corte Inglés número 81.792 vendió 30 series de este quinto premio las ventas han sido similares número que compran hace casi treinta años Reyes \"geniales\" compartir la alegría con la familia, 50.000 euros a la serie",
+        "lemmatized_text": "planta de caballero de el_corte_inglés número 81.792 vender 30 serie de este 5 premio el venta haber ser similar número que comprar hacer casi 30 año reyes genial compartir el alegría con el familia $_ECU:50 a el serie",
+        "lemmatized_text_reduced": "planta caballero el_corte_inglés número vender serie 5 premio venta haber ser similar número comprar hacer año reyes genial compartir alegría familia serie",
+        "persons": [
+            "Reyes"
+        ],
+        "locations": [],
+        "organizations": [
+            "El_Corte_Inglés"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "81.792",
+            "30",
+            "30",
+            "$_ECU:50"
+        ]
+    }
+}

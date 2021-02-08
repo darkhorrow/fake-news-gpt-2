@@ -1,0 +1,74 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-10-13T00:00:00",
+    "url": "https://www.20minutos.es/noticia/419191/0/patera/inmigrantes/menor/",
+    "title": {
+        "raw_text": "Llega a Gran Canaria una patera con 24 inmigrantes, entre ellos 15 niños y un bebé",
+        "lemmatized_text": "llegar a gran_canaria uno patera con 24 inmigrante entre ellos 15 niño y uno bebé",
+        "lemmatized_text_reduced": "llegar gran_canaria patera inmigrante niño bebé",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "24",
+            "15"
+        ]
+    },
+    "lead": {
+        "raw_text": "La embarcación fue localizada 5 millas al sur de Gran Canaria. El bebé fue trasladado a un centro de salud con fiebre. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS.",
+        "lemmatized_text": "el embarcación ser localizar LN_mi:5 a el sur de gran_canaria el bebé ser trasladar a uno centro de salud con fiebre consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "embarcación ser localizar sur gran_canaria bebé ser trasladar centro salud fiebre consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "LN_mi:5"
+        ]
+    },
+    "body": {
+        "raw_text": "Una patera llegó hoy al muelle de Arguineguín , en el municipio de Mogán, al sur de Gran Canaria, con 24 inmigrantes a bordo, de los que 16 eran menores y entre ellos un bebé , según informaron a Europa Press fuentes del Centro Coordinador de Emergencias y Seguridad (Cecoes). La embarcación fue avistada por Salvamento Marítimo sobre las siete de la mañana a cinco millas al sur de Arguineguín y, tras acudir a su rescate, sobre las 08.00 horas, llegó al muelle, agregaron las mismas fuentes, que precisaron que entre los ocupantes había cuatro hombres adultos y cuatro mujeres adultas, además de 15 niños y un bebé. Los inmigrantes fueron atendidos en el lugar por personal del servicio de emergencias y de Cruz Roja y el bebé fue trasladado junto con su madre y una hermana del menor al centro de salud de Arguineguín ya que sufría fiebre .",
+        "lemmatized_text": "uno patera llegar hoy a el muelle de arguineguín en el municipio de mogán a el sur de gran_canaria con 24 inmigrante a_bordo de el que 16 ser menor y entre ellos uno bebé según informar a europa_press fuente de el centro_coordinador_de_emergencias y seguridad cecoes el embarcación ser avistar por salvamento_marítimo sobre el [??:??/??/??:7.00:am] a LN_mi:5 a el sur de arguineguín y tras acudir a su rescate sobre el TM_h:8 llegar a el muelle agregar el mismo fuente que precisar que entre el ocupante haber 4 hombre adulto y 4 mujer adulto además_de 15 niño y uno bebé el inmigrante ser atender en el lugar por personal de el servicio de emergencia y de cruz_roja y el bebé ser trasladar junto_con su madre y uno hermano de el menor a el centro de salud de arguineguín ya_que sufrir fiebre",
+        "lemmatized_text_reduced": "patera llegar muelle arguineguín municipio mogán sur gran_canaria inmigrante ser menor bebé informar europa_press fuente centro_coordinador_de_emergencias seguridad cecoes embarcación ser avistar salvamento_marítimo sur arguineguín acudir rescate llegar muelle agregar mismo fuente precisar ocupante haber hombre adulto mujer adulto niño bebé inmigrante ser atender lugar personal servicio emergencia cruz_roja bebé ser trasladar madre hermano menor centro salud arguineguín sufrir fiebre",
+        "persons": [
+            "Europa_Press",
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Arguineguín",
+            "Mogán",
+            "Gran_Canaria",
+            "Arguineguín",
+            "Arguineguín"
+        ],
+        "organizations": [
+            "Centro_Coordinador_de_Emergencias",
+            "Cecoes",
+            "Cruz_Roja"
+        ],
+        "others": [
+            "Seguridad"
+        ],
+        "dates": [
+            "[??:??/??/??:7.00:am]"
+        ],
+        "numbers": [
+            "24",
+            "16",
+            "LN_mi:5",
+            "TM_h:8",
+            "4",
+            "4",
+            "15"
+        ]
+    }
+}

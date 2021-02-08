@@ -1,0 +1,64 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2010-06-16T00:00:00",
+    "url": "https://www.20minutos.es/noticia/738902/0/",
+    "title": {
+        "raw_text": "El Gobierno concede a Canarias 15 millones de euros para trasladar a los menores inmigrantes a la Península",
+        "lemmatized_text": "el gobierno conceder a canarias $_ECU:15000000 para trasladar a el menor inmigrante a el península",
+        "lemmatized_text_reduced": "gobierno conceder canarias trasladar menor inmigrante península",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [
+            "Gobierno",
+            "Península"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "$_ECU:15000000"
+        ]
+    },
+    "lead": {
+        "raw_text": "El Consejo de Ministros ha aprobado este miércoles un Real Decreto por el que se regula la concesión directa de una subvención de 15 millones de euros al Gobierno de Canarias, para el traslado y acogida de menores extranjeros no acompañados.",
+        "lemmatized_text": "el consejo_de_ministros haber aprobar este [X:??/??/??:??.??:??] uno real_decreto por el que se regular el concesión directo de uno subvención de $_ECU:15000000 a el gobierno_de_canarias para el traslado y acogida de menor extranjero no acompañar",
+        "lemmatized_text_reduced": "consejo_de_ministros haber aprobar real_decreto regular concesión directo subvención gobierno_de_canarias traslado acogida menor extranjero acompañar",
+        "persons": [
+            "Real_Decreto"
+        ],
+        "locations": [],
+        "organizations": [
+            "Consejo_de_Ministros",
+            "Gobierno_de_Canarias"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "$_ECU:15000000"
+        ]
+    },
+    "body": {
+        "raw_text": "Según informó el Ministerio, este Real Decreto es necesario por cuanto es un instrumento previsto en la ley para poder tramitar una transferencia, con carácter urgente, de unos fondos que la comunidad autónoma de Canarias precisa para hacer frente a los gastos derivados de la llegada de inmigrantes irregulares a sus costas, dentro de los que se incluyen un número importante de menores extranjeros que llegan solos a España. La subvención se abonará con carácter anticipado y de una sola vez, con cargo al presupuesto 2010 del Ministerio de Trabajo e Inmigración.",
+        "lemmatized_text": "según informar el ministerio este real_decreto ser necesario por cuanto ser uno instrumento prever en el ley para poder tramitar uno transferencia con carácter urgente de uno fondo que el comunidad autónomo de canarias precisar para hacer_frente a el gasto derivar de el llegada de inmigrante irregular a su costa dentro_de el que se incluir uno número importante de menor extranjero que llegar solo a españa el subvención se abonar con carácter anticipar y de uno solo vez con cargo a el presupuesto 2010 de el ministerio_de_trabajo y inmigración",
+        "lemmatized_text_reduced": "informar ministerio real_decreto ser necesario ser instrumento prever ley poder tramitar transferencia carácter urgente fondo comunidad autónomo canarias precisar hacer_frente gasto derivar llegada inmigrante irregular costa incluir número importante menor extranjero llegar solo españa subvención abonar carácter anticipar solo vez cargo presupuesto ministerio_de_trabajo inmigración",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "España"
+        ],
+        "organizations": [
+            "Ministerio",
+            "Real_Decreto",
+            "Ministerio_de_Trabajo",
+            "Inmigración"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "2010"
+        ]
+    }
+}

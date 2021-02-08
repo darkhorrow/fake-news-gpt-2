@@ -1,0 +1,62 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2009-06-04T00:00:00",
+    "url": "https://www.20minutos.es/noticia/472338/0/peligro/desertizacion/canarias/",
+    "title": {
+        "raw_text": "Alertan de que el 90,5% del suelo de Canarias está en peligro de desertización",
+        "lemmatized_text": "alertar de que el 90,5/100 de el suelo de canarias estar en peligro de desertización",
+        "lemmatized_text_reduced": "alertar suelo canarias estar peligro desertización",
+        "persons": [],
+        "locations": [
+            "Canarias"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "90,5/100"
+        ]
+    },
+    "lead": {
+        "raw_text": "En la última década se ha hallado una especie nueva cada 6 días. El aumento de población o la deforestación son algunas amenazas. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS .",
+        "lemmatized_text": "en el último década se haber hallar uno especie nuevo cada TM_d:6 el aumento de población o el deforestación ser alguno amenaza consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "último década haber hallar especie nuevo aumento población deforestación ser amenaza consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "TM_d:6"
+        ]
+    },
+    "body": {
+        "raw_text": "La Fundación Canaria para la Reforestación (Foresta) alerta de que Canarias es una de las CC AA con mayor riesgo de desertización , con más del 90,5% del suelo considerado en grave riego de desertización. Foresta informa en un comunicado de que el archipiélago posee una especie endémica por cada 2 kilómetros cuadrados de superficie. En total hay más de 17.000 especies terrestres y marinas que sitúan a las islas entre las 15 regiones bioclimáticas más ricas en biodiversidad del planeta. Según la organización, 3.600 de estas especies son endemismos . Por ello, Canarias posee más de la mitad de los endemismos vegetales del país. Durante la última década se ha descubierto en las islas una especie o subespecie nueva cada seis días. A pesar de esta gran biodiversidad, Canarias también posee el récord de poseer un gran número de especies amenazadas . El aumento de la población, la ocupación del suelo, la roturación de tierras en zonas de medianías, la deforestación y destrucción de hábitats , el consumo descontrolado de los recursos naturales, son algunos de los factores que han propiciado la amenaza sobre el patrimonio natural de Canarias, apuntan.",
+        "lemmatized_text": "el fundación_canaria_para_la_reforestación forestar alertar de que canarias ser uno de el cc_aa con mayor riesgo de desertización con más de el 90,5/100 de el suelo considerar en grave riego de desertización forestar informar en uno comunicado de que el archipiélago poseer uno especie endémico por cada AR_km2:2 de superficie en total haber más de 17 especie terrestre y marino que situar a el isla entre el 15 región bioclimáticas más rico en biodiversidad de el planeta según el organización 3.6 de este especie ser endemismo por ello canarias poseer más de el mitad de el endemismo vegetal de el país durante el último década se haber descubrir en el isla uno especie o subespecie nuevo cada TM_d:6 a_pesar_de este gran biodiversidad canarias también poseer el récord de poseer uno gran número de especie amenazar el aumento de el población el ocupación de el suelo el roturación de tierra en zona de medianía el deforestación y destrucción de hábitat el consumo descontrolar de el recurso natural ser alguno de el factor que haber propiciar el amenaza sobre el patrimonio natural de canarias apuntar",
+        "lemmatized_text_reduced": "fundación_canaria_para_la_reforestación forestar alertar canarias ser cc_aa mayor riesgo desertización suelo considerar grave riego desertización forestar informar comunicado archipiélago poseer especie endémico superficie total haber especie terrestre marino situar isla región bioclimáticas rico biodiversidad planeta organización especie ser endemismo canarias poseer mitad endemismo vegetal país último década haber descubrir isla especie subespecie nuevo gran biodiversidad canarias poseer récord poseer gran número especie amenazar aumento población ocupación suelo roturación tierra zona medianía deforestación destrucción hábitat consumo descontrolar recurso natural ser factor haber propiciar amenaza patrimonio natural canarias apuntar",
+        "persons": [],
+        "locations": [
+            "Canarias",
+            "Canarias",
+            "Canarias",
+            "Canarias"
+        ],
+        "organizations": [
+            "Fundación_Canaria_para_la_Reforestación"
+        ],
+        "others": [
+            "CC_AA"
+        ],
+        "dates": [],
+        "numbers": [
+            "90,5/100",
+            "AR_km2:2",
+            "17",
+            "15",
+            "3.6",
+            "TM_d:6"
+        ]
+    }
+}

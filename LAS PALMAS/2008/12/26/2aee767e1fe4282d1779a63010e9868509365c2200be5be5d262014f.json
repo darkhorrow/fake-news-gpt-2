@@ -1,0 +1,70 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2008-12-26T00:00:00",
+    "url": "https://www.20minutos.es/noticia/439285/0/pareja/muerta/canarias/",
+    "title": {
+        "raw_text": "La Policía investiga la muerte violenta de una pareja en su casa de Gran Canaria",
+        "lemmatized_text": "el policía investigar el muerte violento de uno pareja en su casa de gran_canaria",
+        "lemmatized_text_reduced": "policía investigar muerte violento pareja casa gran_canaria",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "Policía"
+        ],
+        "others": [
+            "Gran_Canaria"
+        ],
+        "dates": [],
+        "numbers": []
+    },
+    "lead": {
+        "raw_text": "El hombre, de 37 años, fue hallado en la terraza de su vivienda, ahorcado, con un plástico en la cabeza. La mujer, de 29, había sido estrangulada. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS Puedes ampliar y reducir este mapa o desplazarte por él.",
+        "lemmatized_text": "el hombre de 37 año ser hallar en el terraza de su vivienda ahorcado con uno plástico en el cabeza el mujer de 29 haber ser estrangular consulta_aquí_más_noticias_de_las_palmas_puedes ampliar y reducir este mapa o desplazar te por él",
+        "lemmatized_text_reduced": "hombre año ser hallar terraza vivienda ahorcado plástico cabeza mujer haber ser estrangular consulta_aquí_más_noticias_de_las_palmas_puedes ampliar reducir mapa desplazar",
+        "persons": [],
+        "locations": [],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_Puedes"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "37",
+            "29"
+        ]
+    },
+    "body": {
+        "raw_text": "La Policía Nacional trata de esclarecer la muerte de un hombre y una mujer que fueron encontrados sin vida el miércoles en un bungaló de la urbanización Sonneland , en el municipio de San Bartolomé de Tirajana, al sur de Gran Canaria. La pareja trabajaba en el sector turístico , él era jefe de recepción en un prestigioso hotel de San Agustín, donde la noticia ha causado una gran consternación y sorpresa entre compañeros y amigos. Fuentes de la Jefatura Superior de Policía de Canarias confirmaron hoy la muerte de estas dos personas, aunque evitaron informar sobre la investigación que desarrolla la comisaría de Maspalomas para esclarecer sus causas. Los fallecidos son Sergio Romero , de 37 años, y Adela Mallchova, de 29 y origen extranjero, que convivían desde hace meses en el bungaló donde fueron hallados sus cadáveres. Él tenía un hijo de una relación anterior. Macabro descubrimiento Según publica hoy el periódico 'La Provincia' , un vecino fue quien alertó a la Policía de que él estaba ahorcado y con la cabeza cubierta con un plástico en la terraza de la vivienda. La vivienda presentaba indicios de haber sido forzada desde el exterior . Una vez en el inmueble, la Policía encontró en su interior a la mujer muerta y con signos de haber sido estrangulada. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS",
+        "lemmatized_text": "el policía_nacional tratar de esclarecer el muerte de uno hombre y uno mujer que ser encontrar sin vida el [X:??/??/??:??.??:??] en uno bungaló de el urbanización sonneland en el municipio de san_bartolomé_de_tirajana a el sur de gran_canaria el pareja trabajar en el sector turístico él ser jefe de recepción en uno prestigioso hotel de san_agustín donde el noticia haber causar uno gran consternación y sorpresa entre compañero y amigo fuentes_de_la_jefatura_superior_de_policía_de_canarias confirmar hoy el muerte de este 2 persona aunque evitar informar sobre el investigación que desarrollar el comisaría de maspalomas para esclarecer su causa el fallecido ser sergio_romero de 37 año y adela_mallchova de 29 y origen extranjero que convivir desde hacer mes en el bungaló donde ser hallar su cadáver él tener uno hijo de uno relación anterior macabro descubrimiento según publicar hoy el periódico el provincia uno vecino ser quien alertar a el policía de que él estar ahorcado y con el cabeza cubrir con uno plástico en el terraza de el vivienda el vivienda presentar indicio de haber ser forzar desde el exterior uno vez en el inmueble el policía encontrar en su interior a el mujer morir y con signo de haber ser estrangular consulta_aquí_más_noticias_de_las_palmas",
+        "lemmatized_text_reduced": "policía_nacional tratar esclarecer muerte hombre mujer ser encontrar vida bungaló urbanización sonneland municipio san_bartolomé_de_tirajana sur gran_canaria pareja trabajar sector turístico ser jefe recepción prestigioso hotel san_agustín noticia haber causar gran consternación sorpresa compañero amigo fuentes_de_la_jefatura_superior_de_policía_de_canarias confirmar muerte persona evitar informar investigación desarrollar comisaría maspalomas esclarecer causa fallecido ser sergio_romero año adela_mallchova origen extranjero convivir hacer mes bungaló ser hallar cadáver tener hijo relación anterior macabro descubrimiento según publicar periódico provincia vecino ser alertar policía estar ahorcado cabeza cubrir plástico terraza vivienda vivienda presentar indicio haber ser forzar exterior vez inmueble policía encontrar interior mujer morir signo haber ser estrangular consulta_aquí_más_noticias_de_las_palmas",
+        "persons": [
+            "Maspalomas",
+            "Sergio_Romero",
+            "Adela_Mallchova",
+            "Según"
+        ],
+        "locations": [
+            "San_Bartolomé_de_Tirajana",
+            "Gran_Canaria",
+            "San_Agustín"
+        ],
+        "organizations": [
+            "Policía_Nacional",
+            "Sonneland",
+            "Fuentes_de_la_Jefatura_Superior_de_Policía_de_Canarias",
+            "Provincia",
+            "Policía",
+            "Policía",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS"
+        ],
+        "others": [],
+        "dates": [
+            "[X:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "2",
+            "37",
+            "29"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "province": "LAS PALMAS",
+    "date": "2007-11-02T00:00:00",
+    "url": "https://www.20minutos.es/noticia/299978/0/inmigrantes/cayuco/canarias/",
+    "title": {
+        "raw_text": "Llegan a puerto los 80 inmigrantes del cayuco detectado al sur de Gran Canaria",
+        "lemmatized_text": "llegar a puerto el 80 inmigrante de el cayuco detectar a el sur de gran_canaria",
+        "lemmatized_text_reduced": "llegar puerto inmigrante cayuco detectar sur gran_canaria",
+        "persons": [],
+        "locations": [
+            "Gran_Canaria"
+        ],
+        "organizations": [],
+        "others": [],
+        "dates": [],
+        "numbers": [
+            "80"
+        ]
+    },
+    "lead": {
+        "raw_text": "Han llegado al puerto grancanario de Arguineguin . Se encuentran en aparente buen estado de salud. CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "haber llegar a el puerto grancanario de arguineguin se encontrar en aparente bueno estado de salud consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "haber llegar puerto grancanario arguineguin encontrar aparente bueno estado salud consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [],
+        "locations": [
+            "Arguineguin"
+        ],
+        "organizations": [
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [],
+        "numbers": []
+    },
+    "body": {
+        "raw_text": "Ochenta inmigrantes subsaharianos, todos ellos varones, han arribado la noche del jueves al puerto grancanario de Arguineguin a bordo del cayuco avistado horas antes cuando navegaba al sur de Gran Canaria . Los inmigrantes se encuentran en aparente buen estado de salud, aunque algunos de ellos sufren los habituales síntomas de deshidratación, contusiones e hipotermia , según han informado fuentes de la Cruz Roja. Tras la llegada del cayuco a puerto a las 20:05 horas, remolcado por una embarcación de Salvamento Marítimo, dos de los inmigrantes tuvieron que ser trasladados en camilla hasta el hospital de campaña instalado en la zona por Cruz Roja . Media hora después de arribar el cayuco, la coordinadora de Cruz Roja explicó que todavía seguían atendiendo a los inmigrantes y que de momento no había sido necesaria la hospitalización de ninguno de ellos , si bien no podía precisar si finalmente alguno lo requeriría. El cayuco fue avistado a primeras horas de la tarde a 25 millas al sur de Gran Canaria y f ue interceptado por embarcaciones de Salvamento Marítimo y la Guardia Civil . CONSULTA AQUÍ MÁS NOTICIAS DE LAS PALMAS DE GRAN CANARIA .",
+        "lemmatized_text": "80 inmigrante subsahariano todo ellos varón haber arribar el noche de el [J:??/??/??:??.??:??] a el puerto grancanario de arguineguin a_bordo de el cayuco avistar hora antes cuando navegar a el sur de gran_canaria el inmigrante se encontrar en aparente bueno estado de salud aunque alguno de ellos sufrir el habitual síntoma de deshidratación contusión y hipotermia según haber informar fuente de el cruz_roja tras el llegada de el cayuco a puerto a el TM_h:20:05 remolcar por uno embarcación de salvamento_marítimo 2 de el inmigrante tener que ser trasladar en camilla hasta el hospital de campaña instalar en el zona por cruz_roja medio hora después_de arribar el cayuco el coordinador de cruz_roja explicar que todavía seguir atender a el inmigrante y que de momento no haber ser necesario el hospitalización de ninguno de ellos si bien no poder precisar si finalmente alguno lo requerir el cayuco ser avistar a 1 hora de el tarde a LN_mi:25 a el sur de gran_canaria y f ue interceptar por embarcación de salvamento_marítimo y el guardia_civil consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "lemmatized_text_reduced": "inmigrante subsahariano varón haber arribar noche puerto grancanario arguineguin cayuco avistar hora navegar sur gran_canaria inmigrante encontrar aparente bueno estado salud sufrir habitual síntoma deshidratación contusión hipotermia haber informar fuente cruz_roja llegada cayuco puerto remolcar embarcación salvamento_marítimo inmigrante tener ser trasladar camilla hospital campaña instalar zona cruz_roja medio hora arribar cayuco coordinador cruz_roja explicar seguir atender inmigrante momento haber ser necesario hospitalización poder precisar finalmente requerir cayuco ser avistar 1 hora tarde sur gran_canaria f interceptar embarcación salvamento_marítimo guardia_civil consulta_aquí_más_noticias_de_las_palmas_de_gran_canaria",
+        "persons": [
+            "Salvamento_Marítimo"
+        ],
+        "locations": [
+            "Arguineguin",
+            "Gran_Canaria",
+            "Gran_Canaria"
+        ],
+        "organizations": [
+            "Cruz_Roja",
+            "Cruz_Roja",
+            "Cruz_Roja",
+            "Salvamento_Marítimo",
+            "Guardia_Civil",
+            "CONSULTA_AQUÍ_MÁS_NOTICIAS_DE_LAS_PALMAS_DE_GRAN_CANARIA"
+        ],
+        "others": [],
+        "dates": [
+            "[J:??/??/??:??.??:??]"
+        ],
+        "numbers": [
+            "80",
+            "TM_h:20:05",
+            "2",
+            "LN_mi:25"
+        ]
+    }
+}
